@@ -1,0 +1,7 @@
+Step1: extracted the fieldOfStudy ids and the heirarchy ids of all the child fields from fos and foshierarchy and stored in fos_ir txt
+Step 2: tried extracting all the relavent paper ids from the paperkeywords.txt using the extracted fos_ids
+	But step 2 did not give any output. There were no match at all.(probably some error)
+Step 3: tried fetching the paper ids using the keywords as whole. Did a match in the keywords for "information retrieval" using regex. Found 		some paper ids.
+Step 4: using the fetched paper ids. Paper title,year, venue, conference/journal, rank are being fetched
+	Time taken for step 4 uptill now 23 hours and not done. unfortunately the script written did not save the partial outputs.
+Step 5: modified the script to store while reading

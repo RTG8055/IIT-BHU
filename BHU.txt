@@ -1,0 +1,34 @@
+author name disambiguation
+
+dynamic expert identification - keyword title abstract
+
+collaboration identifcation - 
+
+conferences recommendation - same time better place to visit for audience
+
+Venue recommendation - after writing a research article
+
+ranking of institutes for helping in project allocation of govt.
+--------------------------
+21/10/2017
+pajek - windows and
+neo4j --preferred
+networkX --
+igraph
+gephi --
+citespace --
+
+scientific literature reference
+--------
+1) what is microsoft academic graph?
+2)
+
+-----
+first table paper keyword
+
+how many heirarchy, how many papers in IR field study
+paperID, Title, Year, Venue, Jouranal/conference
+authorName(multiple), Affiliation name(check with original affiliation name)
+paper reference ID has been used by paper ID (in degree citation) - count individual paper citation
+extract paper abstract from paper URL
+
