@@ -1,0 +1,26 @@
+2507157.2507171Klamma, R., Cuong, P. M., & Cao, Y. (2009). You never walk alone: Recommending academic events based on social network analysis. Proceedings of thefirst international conference on complex science, Vol. 4, 657–670. Retrieved from http://www.springerlink.com/index/v1u80316256567l7.pdfKochen
+
+Luong, H.P., Huynh, T., Gauch, S., & Hoang, K. (2012). Exploiting Social Networks for Publication Venue Recommendations. KDIR (pp. 239–245).Luong, H., Huynh, T., Gauch, S., Do, P., & Hoang, K. (2012). Publication venue recommendation using author network’s publication history. Proceedings onthe 4th Asian conference on intelligent information and database systems, 426–435. http://dx.doi.org/10.1007/978
+
+-3-642-28493-9
+
+Boukhris, I., & Ayachi, R. (2014). A novel personalized academic venue hybrid recommender. IEEE 15th international symposium on computationalintelligence and informatics, 465–470. http://dx.doi.org/10.1109/CINTI.2014.7028720Buchanan
+
+
+
+Pham, M. C., Cao, Y., Klamma, R., & Jarke, M. (2011). A clustering approach for collaborative filtering recommendation using social network analysis.Journal Of Universal Computer Science, 17(4), 583–604. Retrieved from http://www.jucs.org/
+
+
+972450.972454Errami, M., Wren, J. D., Hicks, J. M., & Garner, H. R. (2007). eTBLAST: A web server to identify expert reviewers, appropriate journals and similarpublications. Nucleic Acids Research, 35(Web Server), W12–W15. http://dx.doi.org/10.1093/nar/gkm221Farooq
+
+
+Silva, T., Ma, J., Yang, C., & Liang, H. (2015). A profile-boosted research analytics framework to recommend journals for manuscripts. Journal of theAssociation for Information Science and Technology, 66(1), 180–200. http://dx.doi.org/10.1002/asi.23150Singh
+
+
+Yang, Z., & Davison, B. D. (2012). Venue recommendation: Submitting your paper with style. Proceedings of the 11th international conference on machinelearning and applications (Vol. 1) (pp. 681–686). http://dx.doi.org/10.1109/ICMLA. 2012.127
+
+1125451.1125659Medvet, E., Bartoli, A., & Piccinin, G. (2014). Publication venue recommendation based on paper abstract. In Proceedings of the IEEE 26th internationalconference on tools with artificial intelligence. pp. 1004–1010. IEEE. http://dx.doi.org/10.1109/ICTAI
+
+1205.1143Kang, N., Doornenbal, M. A., & Schijvenaars, R. J. A. (2015). Elsevier journal finder: Recommending journals for your paper. In Proceedings of the 9th ACMconference on recommender systems – RecSys ’15. pp. 261–264. New York, USA: ACM Press. http://dx.doi.org/10.1145/2792838.2799663
+
+ICTAIMinkov, E., Charrow, B., Ledlie, J., Teller, S., & Jaakkola, T. (2010). Collaborative future event recommendation. In Proceedings of the 19th ACM internationalconference on Information and knowledge management. pp. 819–828. New York, USA: ACM Press. http://dx.doi.org/10.1145/1871437.1871542Murphy
