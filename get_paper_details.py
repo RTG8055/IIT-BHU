@@ -20,12 +20,12 @@ def bsearch(id,all,k,l):
 		return 0;
 
 
-file = open("IR_IDs_sorted",'r')
+file = open("IR_IDs2_sorted",'r')
 all_pid=[]
 for line in file:
 	all_pid.append(line[:-1])
 file.close()
-new = open("paper_details.txt",'w')
+new = open("paper_details2.txt",'w')
 p_det={}
 print all_pid
 with zipfile.ZipFile("zips/Papers.zip") as z:

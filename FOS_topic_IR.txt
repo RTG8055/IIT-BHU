@@ -1,0 +1,189 @@
+0)04DE2E88	Precision and recall
+
+
+1)0561B212	Human–computer information retrieval
+
+
+2)0B638887	Retrievability
+
+
+3)05E9FFC4	['Private information retrieval\r\n']
+
+4)0237A9B3	Phrase search
+
+
+5)0537DAED	Relevance
+
+
+6)0B28EDAC	Okapi BM25
+
+
+7)07C47F14	Semantic similarity
+
+
+8)05935114	Queries per second
+
+
+9)0280B060	Normalized Google distance
+
+
+10)0B4A7AC3	Ranking
+
+
+11)0A27D50D	Synonym ring
+
+
+12)01936795	Pythagorean means
+
+
+13)0B39D007	Stop words
+
+
+14)041A7093	Document-term matrix
+
+
+15)0160D514	['Information retrieval\r\n']
+
+16)0C156D07	Substring index
+
+
+17)0A27F38D	Proximity search
+
+
+18)0697DA70	Controlled vocabulary
+
+
+19)04DF876B	tf–idf
+
+
+20)022244C5	Quantum clock
+
+
+21)0140D402	['Cognitive models of information retrieval\r\n']
+
+22)08DA4F4B	F1 score
+
+
+23)02024AA0	CURE data clustering algorithm
+
+
+24)0976A3D1	Resource Description and Access
+
+
+25)0401C7BD	Go/no go
+
+
+26)08E47345	Divergence-from-randomness model
+
+
+27)09C846B9	Web search query
+
+
+28)05830D14	Overlap coefficient
+
+
+29)07130E14	Web query classification
+
+
+30)0134AB22	Full text search
+
+
+31)08079656	Multi-document summarization
+
+
+32)070AC601	Generalized suffix tree
+
+
+33)01597472	Term Discrimination
+
+
+34)017E302F	w-shingling
+
+
+35)0886455A	Probabilistic relevance model
+
+
+36)0AE63FBB	Concept search
+
+
+37)099B0DD0	Document retrieval
+
+
+38)0B49E236	Visual Word
+
+
+39)0AA65C69	Information filtering system
+
+
+40)0A5CEE7B	Explicit semantic analysis
+
+
+41)0A240858	Latent semantic analysis
+
+
+42)0A2F183E	Automatic summarization
+
+
+43)0414F27E	Standard Boolean model
+
+
+44)00D09F90	Bag-of-words model
+
+
+45)05396A61	Mooers' law
+
+
+46)04B56F66	Information needs
+
+
+47)096A685F	Audio mining
+
+
+48)06D8CFF9	Search aggregator
+
+
+49)05E6DE12	Query expansion
+
+
+50)06F0816C	Adversarial information retrieval
+
+
+51)02358189	Binary Independence Model
+
+
+52)08B66AD4	Latent semantic indexing
+
+
+53)00828D1D	Longest common substring problem
+
+
+54)01030BE8	Findability
+
+
+55)05AD179A	Data Defined Storage
+
+
+56)05D52366	Search engine
+
+
+57)0962F9E6	Diagnostic odds ratio
+
+
+58)02A0AA99	Mean reciprocal rank
+
+
+59)05886C49	Stemming
+
+
+60)05588093	Vector space model
+
+
+61)0389ABE6	Compound term processing
+
+
+62)0A9B1C9E	Document clustering
+
+
+63)05CC353E	GeneRIF
+
+

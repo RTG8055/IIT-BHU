@@ -3,7 +3,7 @@ import json
 import re
 
 
-new = open("FOS_topic.txt",'w')
+new = open("FOS_topic2.txt",'w')
 only_IR={}
 all_fields={}
 with zipfile.ZipFile("zips/FieldsOfStudy.zip") as z, zipfile.ZipFile("zips/FieldOfStudyHierarchy.zip") as z2:
@@ -34,12 +34,17 @@ with zipfile.ZipFile("zips/FieldsOfStudy.zip") as z, zipfile.ZipFile("zips/Field
 			i=i+1;
 			x={}
 			if(only_IR.get(parentFOSid)!=None):
+
+				# if the field is present in Only IR list
+
 				# x = [childFOSid,all_fields.get(childFOSid)]
 				# x[parentFOSid]= only_IR[parentFOSid]
 				x[childFOSid] = all_fields.get(childFOSid)
 				# y= only_IR[parentFOSid]
 				# y=dict(y.items()+x.items())
 				# only_IR[parentFOSid] = y
+
+				# update thhat IR field with another fieldID
 				only_IR.update(x)
 				print x
 			# if(d.get(parentFOSid) != None):
