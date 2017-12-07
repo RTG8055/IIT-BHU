@@ -5,3 +5,7 @@ Step 3: tried fetching the paper ids using the keywords as whole. Did a match in
 Step 4: using the fetched paper ids. Paper title,year, venue, conference/journal, rank are being fetched
 	Time taken for step 4 uptill now 23 hours and not done. unfortunately the script written did not save the partial outputs.
 Step 5: modified the script to store while reading
+Step 6: terminated the previous script. sorted the IDs and then applied binary search.
+Step 7: Results computed with in  30 mins stored in paper_details.txt
+
+

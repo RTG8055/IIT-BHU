@@ -11,12 +11,13 @@ Venue recommendation - after writing a research article
 ranking of institutes for helping in project allocation of govt.
 --------------------------
 21/10/2017
-pajek - windows and
+pajek - windows and -- to be downloaded
 neo4j --preferred
 networkX --
 igraph
 gephi --
 citespace --
+histcite -- to be downloaded
 
 scientific literature reference
 --------
