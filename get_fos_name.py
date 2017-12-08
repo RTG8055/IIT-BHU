@@ -5,7 +5,7 @@ import re
 
 all_fields={}
 
-with zipfile.ZipFile("../../../data_science/IIT-BHU/zips/FieldsOfStudy.zip") as z:
+with zipfile.ZipFile("zips/FieldsOfStudy.zip") as z:
 	with z.open("FieldsOfStudy.txt") as f:
 		i=0
 		for line in f:
