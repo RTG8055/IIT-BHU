@@ -37,7 +37,7 @@ for line in G:
 # print groupno_parentID
 # check whether a paper belonging to Beta ACP is there in chemistry or not where beta ACP is not a part
 
-with zipfile.ZipFile("zips/PaperKeywords.zip") as z:
+with zipfile.ZipFile("../../../MAGNEW/PaperKeywords.zip") as z:
 	with z.open("PaperKeywords.txt") as f:
 		i=0
 		for line in f:
