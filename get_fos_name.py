@@ -21,7 +21,9 @@ with zipfile.ZipFile("zips/FieldsOfStudy.zip") as z:
 			if(i==100000):
 				break
 
-
+inv_map = {v: k for k, v in all_fields.iteritems()}
 while(1):
+	name = raw_input("enter FOS name:")
+	print(inv_map.get(name))
 	fosid_input = raw_input("enter id:")
 	print(all_fields.get(fosid_input))
