@@ -5,6 +5,18 @@ from functions import bsearch
 groups=[]
 groups_with_paperIDs_keywords={}
 groupno_parentID={}
+required_groupnos =[]
+required_fosIDs=[]
+file = open("required_group_nos_789_groups.txt",'r')
+for line in file:
+	required_groupnos = line.split(" ")
+file.close()
+
+file = open("required_fos_ids_35981.txt",'r')
+for line in file:
+	required_fosIDs.append(line.strip())
+# print required_fosIDs
+
 
 G = open("FOS_groups_level_sorted2.txt",'r')
 i=0
@@ -14,7 +26,6 @@ for line in G:
 	l2= l2.strip('[|]').replace('\'','').replace(' ','')
 	l3= l3.strip('[|]|\n').replace('\'','').replace(' ','')
 	parent = parent.replace('\'','').replace(' ','')
-	# print parent,l1,l2,l3
 	groupno_parentID[i]=parent
 	i+=1
 	c = parent
@@ -27,13 +38,8 @@ for line in G:
 		# c+=l3
 	c= c.split(',')
 	c.sort()
-	# if(i==1):
-		# break
-	# print c
 	groups.append(c)
 
-# print groups[442]
-# print groupno_parentID
 # check whether a paper belonging to Beta ACP is there in chemistry or not where beta ACP is not a part
 
 # with open("../../../MAGNEW/PaperKeywords/PaperKeywords.txt") as f:
@@ -46,10 +52,8 @@ with zipfile.ZipFile("zips/PaperKeywords.zip") as z:
 			# print line
 			pid,keyword,fid = line.split('\t')
 			# print pid,keyword,fid
-			groupno=0
-			while(groupno<len(groups)):
-				# print fid,groupno
-				# print "\n"
+			for groupno in required_groupnos:
+				groupno=int(groupno)
 				if(bsearch(fid,groups[groupno],0,len(groups[groupno])-1)):
 					# print "found" + fid, groupno
 					parentID = groupno_parentID.get(groupno)
@@ -61,44 +65,11 @@ with zipfile.ZipFile("zips/PaperKeywords.zip") as z:
 					else:
 						groups_with_paperIDs_keywords.get(parentID)[0].add(pid)
 						groups_with_paperIDs_keywords.get(parentID)[1].add(keyword)
-						# x=groups_with_paperIDs_keywords[parentID]
-						# paperAlreadyThere=False
-						# keywordAlreadyThere=False
-						# for d in [0,1]:
-						# 	h=0
-						# 	for j in x[d]:
-						# 		h+=1
-						# 		#h==1 implies papers are checked
-						# 		#h==2 implies keywords are checked
-						# 		if(h==1):
-						# 			if(j.strip() == pid):
-						# 				paperAlreadyThere=True
-						# 				break
-						# 		if(h==2):
-						# 			if(j.strip() == keyword):
-						# 				keywordAlreadyThere = True
-						# if(not paperAlreadyThere):
-						# 	temp = groups_with_paperIDs_keywords[parentID][0] #get the list of papers in that group
-						# 	temp.append(pid)
-						# 	groups_with_paperIDs_keywords[parentID][0]=temp #update the paperIDs list
-						# 	# print "added paper-"+pid +" to " + parentID + " Group"
-
-
-						# if(not keywordAlreadyThere):
-						# 	temp = groups_with_paperIDs_keywords[parentID][1] # get the list if keywords in that group
-						# 	temp.append(keyword)
-						# 	groups_with_paperIDs_keywords[parentID][1]= temp # update the Keywords list
-							# print "added keyword-"+keyword +" to " + parentID + "Group"
-
-				# print "abcd",groupno
-				groupno+=1
-				# if(groupno==443):
-					# break
 			print "line " + str(i)
 			# if(i==100000):
 				# break
 
-new = open("Groups_paperIDs_keywords",'w')
+new = open("Groups_paperIDs_keywords_required",'w')
 i=0
 for k, v in groups_with_paperIDs_keywords.items():
 	# print v
