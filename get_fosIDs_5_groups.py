@@ -49,6 +49,7 @@ for line in g_file:
 required_group_ids.sort()
 # print required_group_ids
 
+# for j in [0,1,2]:
 for j in [0,1,2,3]:
 	new_group_ids=[]
 	for k in groups.keys():
@@ -65,6 +66,7 @@ for j in [0,1,2,3]:
 	# break
 # print required_group_ids
 new = open("required_group_ids.txt",'w')
+# new = open("required_group_ids_try2.txt",'w')
 i=0
 
 for g in required_group_ids:
