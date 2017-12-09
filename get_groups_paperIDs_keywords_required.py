@@ -42,32 +42,32 @@ for line in G:
 
 # check whether a paper belonging to Beta ACP is there in chemistry or not where beta ACP is not a part
 
-# with open("../../../MAGNEW/PaperKeywords/PaperKeywords.txt") as f:
-with zipfile.ZipFile("zips/PaperKeywords.zip") as z:
-	with z.open("PaperKeywords.txt") as f:
+with open("../../../MAGNEW/PaperKeywords/PaperKeywords.txt") as f:
+# with zipfile.ZipFile("zips/PaperKeywords.zip") as z:
+# 	with z.open("PaperKeywords.txt") as f:
 
-		i=0
-		for line in f:
-			i+=1
-			# print line
-			pid,keyword,fid = line.split('\t')
-			# print pid,keyword,fid
-			for groupno in required_groupnos:
-				groupno=int(groupno)
-				if(bsearch(fid,groups[groupno],0,len(groups[groupno])-1)):
-					# print "found" + fid, groupno
-					parentID = groupno_parentID.get(groupno)
-					if(groups_with_paperIDs_keywords.get(parentID) == None):
-						c=[set(),set()]
-						c[0].add(pid)
-						c[1].add(keyword)
-						groups_with_paperIDs_keywords[parentID] = c
-					else:
-						groups_with_paperIDs_keywords.get(parentID)[0].add(pid)
-						groups_with_paperIDs_keywords.get(parentID)[1].add(keyword)
-			print "line " + str(i)
-			# if(i==100000):
-				# break
+	i=0
+	for line in f:
+		i+=1
+		# print line
+		pid,keyword,fid = line.split('\t')
+		# print pid,keyword,fid
+		for groupno in required_groupnos:
+			groupno=int(groupno)
+			if(bsearch(fid,groups[groupno],0,len(groups[groupno])-1)):
+				# print "found" + fid, groupno
+				parentID = groupno_parentID.get(groupno)
+				if(groups_with_paperIDs_keywords.get(parentID) == None):
+					c=[set(),set()]
+					c[0].add(pid)
+					c[1].add(keyword)
+					groups_with_paperIDs_keywords[parentID] = c
+				else:
+					groups_with_paperIDs_keywords.get(parentID)[0].add(pid)
+					groups_with_paperIDs_keywords.get(parentID)[1].add(keyword)
+		print "line " + str(i)
+		# if(i==100000):
+			# break
 
 new = open("Groups_paperIDs_keywords_required",'w')
 i=0
