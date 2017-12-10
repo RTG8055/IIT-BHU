@@ -22,14 +22,17 @@ with zipfile.ZipFile("../zips/FieldOfStudyHierarchy.zip") as z2:
 					temp = groups[parentFOSid]
 					temp[0] +=1 # number of child fos ids
 					temp[1] +=float(conf) #total of the child confidences
-					groups[parentFOSid].append((childFOSid,float(conf)))
+					childFOSlevel = childFOSlevel[1:]
+					parentFOSlevel = parentFOSlevel[1:]
+					groups[parentFOSid].append((childFOSid,float(conf),childFOSlevel,parentFOSlevel))
 					if(groups.get(childFOSid)==None):
 						groups[childFOSid]=[0,0,0]
 				# if(i==1000000):
 					# break
 
 
-new = open("CS_all_groups.txt",'w')
+new = open("CS_all_groups_with_level.txt",'w')
+# new = open("CS_all_groups.txt",'w')
 i=0
 for k, v in groups.items():
 	# print v
