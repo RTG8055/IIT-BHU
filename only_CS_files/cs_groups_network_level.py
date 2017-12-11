@@ -42,6 +42,7 @@ for line in f:
 # print parentID_groupno["0007022E"]
 # print groups["0007022E"],parentID_groupno["0007022E"],groupno_parentID[parentID_groupno["0007022E"]]
 G = nx.DiGraph()
+G2 = nx.DiGraph()
 # px=0
 py=0
 # cx=0
@@ -60,7 +61,7 @@ for parent,children in groups.items():
 	# cx=px
 	j=0
 	for child in children:
-		print child.childLevel,child.parentLevel
+		# print child.childLevel,child.parentLevel
 		if(child.childLevel - child.parentLevel >1):
 			continue
 		childNo=parentID_groupno.get(child.fosID,999)
@@ -82,11 +83,14 @@ for parent,children in groups.items():
 			cy=300
 			py=100
 		if(j==0):
-			G.add_node(parent,x=cx*0.5,y=py)
+			# G.add_node(parent,x=cx*0.5,y=py)
+			G2.add_node(parentNo)
 		j+=1
 		# cx+=10
-		G.add_node(child.fosID,x =cx,y=cy)
-		G.add_edge(parent,child.fosID,weight = wt)
+		# G.add_node(child.fosID,x =cx,y=cy)
+		G2.add_node(childNo)
+		G2.add_edge(parentNo,childNo,weight=wt)
+		# G.add_edge(parent,child.fosID,weight = wt)
 		# print(,parentID_groupno.get(childNo),wt)
 		# print parentID_groupno.get(parent,99),parentID_groupno.get(child.fosID,99),child.conf_level
 		# G.add_edge(parentNo,childNo)
@@ -108,14 +112,16 @@ x = nx.get_node_attributes(G,'x')
 y=nx.get_node_attributes(G,'y')
 # x[999]=-20000
 # y[999]=200
-pos={}
-for k,v in x.items():
-	pos[k]=(v,y[k])
-print pos
+# pos={}
+# for k,v in x.items():
+# 	pos[k]=(v,y[k])
+# print pos
 
 # pos[k]=(v,v2)
-nx.draw(G,pos,with_labels=True,font_weight="bold")
-# nx.write_pajek(G,"CS_network_new2.net")
-nx.write_gml(G,"network.gml")
-nx.write_adjlist(G,"test.adjlist")
+# nx.draw(G,pos,with_labels=True,font_weight="bold")
+nx.draw(G2,with_labels=True,font_weight="bold")
+nx.write_pajek(G2,"CS_network_grouop_numbers.net")
+nx.write_gml(G2,"network_groupnos.gml")
+# nx.write_gml(G,"network.gml")
+# nx.write_adjlist(G,"test.adjlist")
 # plt.show()

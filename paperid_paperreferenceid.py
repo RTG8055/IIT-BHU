@@ -6,7 +6,7 @@ x={}
 enm=open("Paperid_paperrefid.txt",'w')
 # with zipfile.ZipFile("zips/PaperReferences.zip") as z:
 	# with z.open("PaperReferences.txt",'r') as f:
-with open("../../../MAGNEW/PaperKeywords/PaperKeywords.txt") as f:
+with open("../../../MAGNEW/PaperReferences/PaperKeywords.txt") as f:
 	i=0
 	c=[]
 	for line in f:
