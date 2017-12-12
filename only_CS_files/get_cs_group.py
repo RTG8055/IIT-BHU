@@ -31,7 +31,7 @@ with zipfile.ZipFile("../zips/FieldOfStudyHierarchy.zip") as z2:
 					# break
 
 
-new = open("CS_all_groups_with_level.txt",'w')
+new = open("CS_all_groups_with_level2.txt",'w')
 # new = open("CS_all_groups.txt",'w')
 i=0
 for k, v in groups.items():

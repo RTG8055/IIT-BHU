@@ -1,0 +1,404 @@
+Paper_ID,Paper Title,Year,Indegree,Betweenness
+76C1E847,data clustering a review,1999,5106,1236
+7B2E5EC6,the anatomy of a large scale hypertextual web search engine,1998,4436,1105
+75EBE974,term weighting approaches in automatic text retrieval,1997,2270,1367
+5B557007,introduction to information retrieval,2008,2170,1534
+7A061E69,optimizing search engines using clickthrough data,2002,1614,876
+7CC69AE9,a language modeling approach to information retrieval,1998,1347,1106
+8077B2DE,thumbs up or thumbs down semantic orientation applied to unsupervised classification of reviews,2002,1309,231
+80B12C04,amazon com recommendations item to item collaborative filtering,2003,1194,1104
+75EBE974,Term-weighting approaches in automatic text retrieval,1997,1162,3329
+7F3D6ABE,unsupervised learning by probabilistic latent semantic analysis,2001,956,347
+7F590CD7,a study of smoothing methods for language models applied to ad hoc information retrieval,2001,956,234
+808285A5,a taxonomy of web search,2002,886,467
+763AFFBA,"A solution to Plato’s problem: The latent semantic analysis theory of acquisition, induction, and representation of knowledge",1997,878,116
+8077A9A6,formal ontology and information systems,1998,854,345
+7D425221,relevance feedback a power tool for interactive content based image retrieval,1998,839,785
+7A061E69,Optimizing search engines using clickthrough data,2002,836,834
+7DAEA7E3,imagenet a large scale hierarchical image database,2009,829,356
+7FD32822,biclustering algorithms for biological data analysis a survey,2004,821,674
+814B92A1,relevance based language models,2001,726,543
+7CC69AE9,A language modeling approach to information retrieval,1998,701,788
+769CE26C,web mining research a survey,2000,699,342
+80C9116C,Mining and summarizing customer reviews,2004,698,400
+72B86E51,naive bayes at forty the independence assumption in information retrieval,1998,661,187
+7F79648F,inverted files for text search engines,2006,653,31
+799C8769,a simple rule for the evolution of cooperation on graphs and social networks,2006,581,247
+7DA19E2F,Probabilistic latent semantic indexing,1999,578,790
+7D39BA80,Semantic Similarity Based on Corpus Statistics and Lexical Taxonomy,1997,576,117
+6015374C,probabilistic latent semantic analysis,1999,541,247
+7CF0BE22,a probabilistic analysis of the rocchio algorithm with tfidf for text categorization,1997,531,145
+7F14CD01,on the resemblance and containment of documents,1997,529,178
+7DC20A64,simplicity semantics sensitive integrated matching for picture libraries,2001,516,187
+60925BB1,hierarchically classifying documents using very few words,1997,505,231
+81343169,cmar accurate and efficient classification based on multiple class association rules,2001,503,176
+7EEE2D15,web mining information and pattern discovery on the world wide web,1997,501,187
+6269AEFD,A Comparison of Document Clustering Techniques,2000,497,155
+75936925,a study of smoothing methods for language models applied to information retrieval,2004,492,167
+76E49E2F,on supporting containment queries in relational database management systems,2001,485,118
+808285A5,A taxonomy of web search,2002,483,1624
+7F3D6ABE,Unsupervised learning by probabilistic latent semantic analysis,2001,478,503
+6CFB3274,texttiling segmenting text into multi paragraph subtopic passages,1997,476,109
+80A853E8,methods and metrics for cold start recommendations,2002,476,116
+8006CBC9,practical techniques for searches on encrypted data,2000,472,117
+7D6BD0C6,understanding user goals in web search,2004,468,87
+80F4EB24,wavelet based texture retrieval using generalized gaussian density and kullback leibler distance,2002,466,119
+7B50FC31,document language models query models and risk minimization for information retrieval,2001,454,117
+7BE63DC7,efficient query evaluation on probabilistic databases,2004,450,118
+8151D8A9,keyword searching and browsing in databases using banks,2002,439,114
+7E9164CC,an approach for measuring semantic similarity between words using multiple information sources,2003,426,118
+7EDF91EA,recovering traceability links between code and documentation,2002,411,145
+5C54156A,information retrieval in folksonomies search and ranking,2006,406,113
+7EAC8F8C,supervised learning of semantic classes for image annotation and retrieval,2007,405,176
+7DE53F21,stuff i ve seen a system for personal information retrieval and re use,2003,405,115
+7F798A3C,the intelligent asimo system overview and integration,2002,403,191
+8027F659,RCV1: A New Benchmark Collection for Text Categorization Research,2004,401,152
+75F21509,swoogle a search and metadata engine for the semantic web,2004,393,119
+7F342E7D,determining semantic similarity among entity classes from different ontologies,2003,391,118
+7E688528,Computing semantic relatedness using Wikipedia-based explicit semantic analysis,2007,377,373
+7AE00AD1,implicit feedback for inferring user preference a bibliography,2003,370,176
+7624A9A9,matrices vector spaces and information retrieval,1999,367,119
+7E9C3DCF,topic sensitive pagerank a context sensitive ranking algorithm for web search,2003,364,165
+07ED8323,modern information retrieval a brief overview,2001,360,116
+778BBC01,a brief survey of web data extraction tools,2002,357,167
+774ED089,tweet tweet retweet conversational aspects of retweeting on twitter,2010,355,118
+7AEBC021,information retrieval as statistical translation,1999,350,118
+7515953B,model based feedback in the language modeling approach to information retrieval,2001,342,128
+80AFB06A,An introduction to latent semantic analysis,2009,340,376
+79100000000,cutting plane training of structural svms,2009,338,143
+80580560,a probabilistic model of information retrieval development and comparative experiments part 2,2000,334,154
+7B6CFED1,a markov random field model for term dependencies,2005,334,125
+794AEB38,deriving concept hierarchies from text,1999,332,117
+862FA2E5,automatic resource compilation by analyzing hyperlink structure and associated text,1999,332,123
+79E5E01C,visualizing knowledge domains,2003,330,125
+8002A5BF,coolstreaming donet a data driven overlay network for peer to peer live media streaming,2005,329,117
+7EC10DBE,sentiment analysis and subjectivity,2010,325,124
+79C56783,lda based document models for ad hoc retrieval,2006,325,83
+7F79648F,Inverted files for text search engines,2006,321,1501
+76DEB311,literature mining for the biologist from information retrieval to biological discovery,2006,318,127
+7AD4E50D,kea practical automatic keyphrase extraction,1999,314,132
+7F124623,one class svms for document classification,2002,312,181
+7E37CFEA,automatic text detection and tracking in digital video,2000,311,187
+80D5027D,a web based kernel function for measuring the similarity of short text snippets,2006,305,125
+7A6892FB,textpresso an ontology based information retrieval and extraction system for biological literature,2004,301,167
+7758C523,improving the effectiveness of information retrieval with local context analysis,2000,300,182
+7F2BCAD8,Co-clustering documents and words using bipartite spectral graph partitioning,2001,291,175
+814297F0,Measuring praise and criticism: Inference of semantic orientation from association,2003,284,80
+6015374C,Probabilistic latent semantic analysis,1999,268,169
+7B50FC31,"Document language models, query models, and risk minimization for information retrieval",2001,249,1233
+7D6BD0C6,Understanding user goals in web search,2004,243,149
+7E8A6B45,Information-theoretic co-clustering,2003,234,73
+5DC9ED7E,Using lexical chains for text summarization,1997,227,430
+77FC641C,Document clustering based on non-negative matrix factorization,2003,220,230
+7E9164CC,An approach for measuring semantic similarity between words using multiple information sources,2003,218,81
+7D30A99D,Learning to link with wikipedia,2008,214,328
+7F342E7D,Determining semantic similarity among entity classes from different ontologies,2003,202,104
+7DCEA0CA,LexRank: graph-based lexical centrality as salience in text summarization,2004,194,349
+7D634906,Discovering objects and their location in images,2005,188,118
+7732CCC0,Improving automatic query expansion,1998,187,1360
+8179049F,Learning object categories from Google's image search,2005,184,145
+7AE00AD1,Implicit feedback for inferring user preference: a bibliography,2003,181,322
+800D9974,Centroid-based summarization of multiple documents,2004,174,244
+7EA3EFF7,Focused Crawling Using Context Graphs,2000,173,55
+7B67FDF4,Fast and effective text mining using linear-time document clustering,1999,172,77
+782B14AC,ConceptNet — A Practical Commonsense Reasoning Tool-Kit,2004,171,107
+6848153C,Efficient Filtering of XML Documents for Selective Dissemination of Information,2000,168,100
+80580560,A probabilistic model of information retrieval: development and comparative experiments Part 2,2000,163,2216
+7758C523,Improving the effectiveness of information retrieval with local context analysis,2000,158,2166
+7CEE121E,Adaptive web search based on user profile constructed without any effort from users,2004,155,370
+814C71BB,Web Spam Taxonomy,2005,148,50
+7C85E674,The Measurement of Textual Coherence with Latent Semantic Analysis.,1998,148,143
+7B0F0125,Distributional clustering of words for text classification,1998,146,731
+753F4DA2,Generic text summarization using relevance measure and latent semantic analysis,2001,142,322
+806E7AE3,"Real life, real users, and real needs: a study and analysis of user queries on the web",2000,139,180
+5D578C66,Corpus-based and knowledge-based measures of text semantic similarity,2006,136,253
+7F108C9B,Ranking on Data Manifolds,2004,134,147
+816FE39A,The perfect search engine is not enough: a study of orienteering behavior in directed search,2004,133,78
+794827F5,Summarizing text documents: sentence selection and evaluation metrics,1999,133,1758
+7DEDED2C,Movie review mining and summarization,2006,133,74
+766C98BA,Query-based sampling of text databases,2001,132,515
+7D568AF1,Peer-to-peer information retrieval using self-organizing semantic overlay networks,2003,132,146
+5D3A31DC,Query recommendation using query logs in search engines,2004,130,343
+7FB4861E,AdaRank: a boosting algorithm for information retrieval,2007,128,296
+7D7A259C,Probabilistic models of information retrieval based on measuring the divergence from randomness,2002,125,570
+74D3A5A0,"An effective, low-cost measure of semantic relatedness obtained from Wikipedia links",2008,124,130
+7F4E6307,Probabilistic query expansion using query logs,2002,123,1409
+7F3441E6,Query chains: learning to rank from implicit feedback,2005,122,1607
+75A6D5C4,Clustering user queries of a search engine,2001,121,2355
+76C3E2CA,An experimental comparison of click position-bias models,2008,119,378
+78E0F768,Advantages of query biased summaries in information retrieval,1998,118,435
+79F8721E,Information retrieval on the web,2000,116,264
+809CA16B,What's new on the web?: the evolution of the web from a search engine perspective,2004,115,156
+81719B17,Discovering object categories in image collections,2005,115,249
+78F7B727,Searching the Web,2001,111,565
+7B2F0A06,Hierarchical Clustering Algorithms for Document Datasets,2005,109,66
+7C86A927,The stochastic approach for link-structure analysis (SALSA) and the TKC effect,2000,106,244
+803EB3CE,Eye-tracking analysis of user behavior in WWW search,2004,106,106
+7C73C958,Empirical and Theoretical Comparisons of Selected Criterion Functions for Document Clustering,2004,106,157
+7ECA8D7D,Ontology based personalized search,1999,105,54
+7A2111E3,The concept of relevance in IR,2003,104,279
+814BB8CD,Personalized Web search for improving retrieval effectiveness,2004,104,75
+7D309265,Overcoming the brittleness bottleneck using wikipedia: enhancing text categorization with encyclopedic knowledge,2006,104,301
+7FBCCA83,Building efficient and effective metasearch engines,2002,104,1690
+79A9EB7A,Query clustering using user logs,2002,103,174
+7A83B838,Automatic text structuring and summarization,1997,103,698
+7E176162,Web-scale information extraction in knowitall: (preliminary results),2004,102,83
+7EE9B453,LETOR: Benchmark Dataset for Research on Learning to Rank for Information Retrieval,2007,101,146
+80DC835F,Resolving ambiguity for cross-language retrieval,1998,100,256
+7E49058B,Exploiting latent semantic information in statistical language modeling,2000,100,452
+7E189BD2,Automated Text Summarization in SUMMARIST,1999,100,1547
+757FEE09,Evaluation of hierarchical clustering algorithms for document datasets,2002,99,52
+7E6EB523,Sentence similarity based on semantic nets and corpus statistics,2006,97,422
+7DA817E5,Implicit user modeling for personalized search,2005,96,186
+7A329D6A,Algorithmics and applications of tree and graph searching,2002,96,51
+75A51C3D,Exploiting hierarchical domain structure to compute similarity,2003,95,51
+7FE54DBB,How are we searching the world wide web?: a comparison of nine search engine transaction logs,2006,94,5087
+7E30124C,The query-flow graph: model and applications,2008,93,1422
+7694E331,The Importance of Prior Probabilities for Entry Page Search,2002,93,261
+80FA37F3,The anatomy of a large-scale social search engine,2010,92,282
+80FCD18B,Effective site finding using link anchor information,2001,92,1073
+7E3B8422,A survey on the use of relevance feedback for information access systems,2003,92,677
+7D2490F0,Query expansion by mining user logs,2003,91,2078
+75BE5D13,Beyond the session timeout: automatic hierarchical segmentation of search topics in query logs,2008,91,1852
+7EAF03D4,Adapting ranking SVM to document retrieval,2006,91,231
+808AC408,Finding advertising keywords on web pages,2006,90,51
+793E2B82,An information-theoretic approach to automatic query expansion,2001,89,4798
+780D41CC,Topical locality in the Web,2000,88,560
+5D6C196A,Mining the Web for Synonyms: PMI-IR versus LSA on TOEFL,2001,88,316
+77A4A476,Data mining for hypertext: a tutorial survey,2000,88,69
+7DD8D8BE,CubeSVD: a novel approach to personalized Web search,2005,88,228
+7DAAD559,An Adaptation of the Vector-Space Model for Ontology-Based Information Retrieval,2007,88,134
+07CAF9CA,Wordnet improves Text Document Clustering,2003,87,64
+80571286,Query suggestion using hitting time,2008,87,344
+7AC4BD08,How dynamic is the Web?,2000,87,73
+7510D861,Finding information on the World Wide Web: the retrieval effectiveness of search engines,1999,87,748
+7F25C8E2,Summarization beyond sentence extraction: a probabilistic approach to sentence compression,2002,86,209
+796BA8B2,Less is more: probabilistic models for retrieving fewer relevant documents,2006,85,126
+7ACDE861,Document clustering using word clusters via the information bottleneck method,2000,85,430
+598AE889,Ontology-based personalized search and browsing,2003,84,107
+79EE6651,Internet browsing and searching: user evaluations of category map and concept space techniques,1998,84,484
+8.1128E+11,Automatic identification of user interest for personalized search,2006,84,1176
+7EF34EC0,Using information scent to model user information needs and actions and the Web,2001,83,122
+7C485C2A,The automated acquisition of topic signatures for text summarization,2000,83,412
+7674C937,"Spam, damn spam, and statistics: using statistical analysis to locate spam web pages",2004,83,150
+8150D0EB,A large-scale study of the evolution of web pages,2003,81,694
+801D237F,Measuring Semantic Similarity between Words Using Web Search Engines,2007,79,652
+7DC17497,Similarity of Semantic Relations,2006,78,110
+78CE47C4,A user browsing model to predict search engine click data from past observations.,2008,78,269
+7BEFAC75,The information-seeking practices of engineers: searching for documents as well as for people,2000,76,128
+8.0052E+49,Personalized Search Based on User Search Histories,2005,76,353
+78CC1B6A,Seeing the whole in parts: text summarization for web browsing on handheld devices,2001,75,146
+8.125E+82,Impact of search engines on page popularity,2004,75,1832
+7DB6FE04,Semantic clustering: Identifying topics in source code,2007,74,170
+7DC76AC2,An information retrieval approach to concept location in source code,2004,74,101
+7EDBEB9E,Fully automatic wrapper generation for search engines,2005,73,128
+7F055959,Personalized web search by mapping user queries to categories,2002,72,415
+80132787,Google's Deep Web crawl,2008,72,66
+762D46A4,Disambiguating Web appearances of people in a social network,2005,72,363
+7CE6756C,A survey of Web clustering engines,2009,72,264
+76D55405,A Survey of Automatic Query Expansion in Information Retrieval,2012,72,1760
+7B145537,A review of ontology based query expansion,2007,72,418
+7A1ADD53,Unifying textual and visual cues for content-based image retrieval on the World Wide Web,1999,71,157
+7AFCE058,Latent semantic indexing: a probabilistic analysis,1998,71,179
+806F35BD,Narrowing the semantic gap - improved text-based web document retrieval using visual features,2002,70,70
+7E96334C,"Web mining in soft computing framework: relevance, state of the art and future directions",2002,69,127
+8035C6E8,Topical web crawlers: Evaluating adaptive algorithms,2004,69,278
+7C5CBF21,Predictive caching and prefetching of query results in search engines,2003,69,53
+7F2C2173,On image auto-annotation with latent space models,2003,69,126
+7610D00B,Multi-document summarization by sentence extraction,2000,69,201
+814A9BAE,Query-free news search,2003,66,59
+7CCB4F13,On caching search engine query results,2001,66,90
+77F32FF9,Effective retrieval with distributed collections,1998,66,864
+80F27E0A,Learning query intent from regularized click graphs,2008,65,103
+7E1379C6,Personalized query expansion for the web,2007,64,660
+7B1DD790,The TIPSTER SUMMAC Text Summarization Evaluation,1999,63,328
+7B6B2AAA,Experimentation as a way of life: Okapi at TREC,2000,63,106
+8.1044E+21,Design and implementation of a high-performance distributed Web crawler,2002,63,342
+778C3EF6,Applying summarization techniques for term selection in relevance feedback,2001,63,835
+7FFD55A6,Retrieval models for question and answer archives,2008,62,115
+78B87EAD,Discovering key concepts in verbose queries,2008,62,152
+81179614,Mining long-term search history to improve search accuracy,2006,61,127
+7ABCB147,"Image Retrieval from the World Wide Web: Issues, Techniques, and Systems",2004,61,246
+80CB2EEB,A hierarchical monothetic document clustering algorithm for summarization and browsing search results,2004,61,500
+7D613389,An effective approach to document retrieval via utilizing WordNet and recognizing phrases,2004,60,454
+814D01C3,Efficient query processing in geographic web search engines,2006,59,335
+79F268C7,Semantic text similarity using corpus-based word similarity and string similarity,2008,58,138
+75C0F40F,Exploring content models for multi-document summarization,2009,58,58
+7CAE6170,Spatial variation in search engine queries,2008,57,88
+6326433,Feature generation for text categorization using world knowledge,2005,57,178
+7D9DAAD8,How Well Can Passage Meaning be Derived without Using Word Order? A Comparison of Latent Semantic Analysis and Humans,1997,56,661
+7EF8ED8D,ODISSEA: A Peer-to-Peer Architecture for Scalable Web Search and Information Retrieval,2002,55,278
+751B6AF9,Google Scholar citations and Google Web-URL citations: A multi-discipline exploratory analysis,2007,55,79
+7D2A8455,Wikipedia-based semantic interpretation for natural language processing,2009,54,519
+801985B8,Studying the use of popular destinations to enhance web search interaction,2007,54,322
+76A4FE5E,Measuring the semantic similarity of texts,2005,54,50
+75741F88,Exploiting Wikipedia as external knowledge for document clustering,2009,54,128
+7ED2E9D8,Using WordNet and lexical operators to improve Internet searches,2000,53,129
+7EE3F39D,Information search and re-access strategies of experienced web users,2005,53,698
+79476328,Generic summarization and keyphrase extraction using mutual reinforcement principle and sentence clustering,2002,53,56
+7614E7EA,Generative model-based document clustering: a comparative study,2005,53,95
+7B2A012D,The challenges of automatic summarization,2000,52,65
+79064342,Optimal crawling strategies for web search engines,2002,52,110
+7CF9D6CA,Can social bookmarking enhance search in the web?,2007,52,305
+76A2E7D2,Relevant term suggestion in interactive web search based on contextual information in query session logs,2003,51,495
+7EE98F0E,Optimizing web search using web click-through data,2004,51,1557
+7C33EF3C,Multi-document summarization using cluster-based link analysis,2008,51,170
+7EFB9739,Locality in search engine queries and its implications for caching,2002,51,89
+75D25A64,Learn from web search logs to organize search results,2007,51,207
+80E41878,An exploration of proximity measures in information retrieval,2007,51,548
+7FA40D63,Using the wisdom of the crowds for keyword generation,2008,50,336
+5D830DA8,Text Classification Using WordNet Hypernyms,1998,50,137
+5FB22737,"Query Difficulty, Robustness, and Selective Application of Query Expansion",2004,50,879
+7A01A28D,Combining multiple evidence from different types of thesaurus for query expansion,1999,49,580
+5F4B20E5,Measuring Search Engine Quality,2001,48,401
+7A7F1AEC,Topic themes for multi-document summarization,2005,44,257
+7C8994A9,Multi-document summarization via sentence-level semantic analysis and symmetric matrix factorization,2008,43,497
+76700A01,Large-scale information retrieval with latent semantic indexing,1997,43,211
+7F7EA380,A task-oriented study on the influencing effects of query-biased summarisation in web searching,2003,43,238
+7B4155ED,OCELOT: a system for summarizing Web pages,2000,42,223
+7518DA52,A similarity-based probability model for latent semantic indexing,1999,42,201
+7D788ACD,Statistical Machine Translation for Query Expansion in Answer Retrieval,2007,41,348
+7BCD3876,Statistical inference in retrieval effectiveness evaluation,1997,41,911
+7F9906A5,Semantic similarity methods in wordNet and their application to information retrieval on the web,2005,40,289
+7E4F317F,Learning concept importance using a weighted dependence model,2010,40,321
+792C8D57,A knowledge-based search engine powered by wikipedia,2007,40,1110
+75E377F7,Three-level caching for efficient query processing in large Web search engines,2005,39,493
+7D1A4F7E,Robust classification of rare queries using web knowledge,2007,39,449
+7A231634,Improving browsing in digital libraries with keyphrase indexes,1999,39,286
+79C4F03F,Exploiting Query Repetition and Regularity in an Adaptive Community-Based Web Search Engine,2005,39,342
+7F36F5F0,Page quality: in search of an unbiased web ranking,2005,38,1790
+5BA011FB,Towards multidocument summarization by reformulation: progress and prospects,1999,37,727
+8035BDA2,Results and challenges in Web search evaluation,1999,37,485
+75830385,Fast generation of result snippets in web search,2007,37,444
+8060D148,Understanding the relationship between searchers' queries and information goals,2008,36,561
+68E8BBF8,Term proximity scoring for keyword-based retrieval systems,2003,36,709
+7672C7FE,Interest-based personalized search,2007,36,217
+7615AC2B,Examining the effectiveness of real-time query expansion,2007,36,323
+79904BF4,Query expansion using associated queries,2003,35,529
+77498402,Mining term association patterns from search logs for effective query reformulation,2008,35,226
+804F4714,"Computers and iphones and mobile phones, oh my!: a logs-based comparison of search users on different devices",2009,35,815
+7D3C8BA5,Training a selection function for extraction,1999,34,205
+7E198BEE,Performance standards and evaluations in IR test collections: cluster-based retrieval models,1997,34,353
+77EF6BD8,A new sentence similarity measure and sentence based extractive technique for automatic text summarization,2009,34,293
+7FB812EE,Positional relevance model for pseudo-relevance feedback,2010,33,309
+817004A2,From highly relevant to not relevant: examining different regions of relevance,1998,33,461
+7C614CF5,Concept-based interactive query expansion,2005,33,246
+81629BE2,Understanding the intent behind mobile information needs,2009,32,245
+7CA0C9ED,Semantic concept-based query expansion and re-ranking for multimedia retrieval,2007,32,206
+618AE54E,Ontology-based spatial query expansion in information retrieval,2005,32,259
+7F5499CB,The loquacious user: a document-independent source of terms for query expansion,2005,31,232
+7EE51354,Random sampling from a search engine's index,2006,31,274
+7E274CB2,Optimized query execution in large search engines with global page ordering,2003,30,508
+7F2563EC,Mining the search trails of surfing crowds: identifying relevant websites from user activity,2008,30,773
+76FDA1E2,The automatic construction of large-scale corpora for summarization research,1999,29,463
+7CE8BD2E,Predicting short-term interests using activity-based search context,2010,29,932
+772D26C1,Multi-candidate reduction: Sentence compression as a tool for document summarization tasks,2007,29,259
+78F32F19,Methods for comparing rankings of search engine results,2006,29,277
+77C14875,"Interactive Internet search: keyword, directory and query reformulation mechanisms compared",2000,29,431
+7DA6BF33,Efficient document retrieval in main memory,2007,29,313
+7FF44DB0,Using association rules to discover search engines related queries,2003,28,324
+7B2C4C8A,Query performance for tightly coupled distributed digital libraries,1998,28,328
+79815880,Generating hierarchical summaries for web searches,2003,28,579
+80A5BE29,Clustering query refinements by user intent,2010,28,361
+7774EFD0,Clustering hypertext with applications to web searching,2000,28,199
+7CFCDC4D,Beyond DCG: user behavior as a predictor of a successful search,2010,28,1118
+05549EA5,Summarization Evaluation: An Overview,2001,27,256
+75BEB42B,Phrasier: a system for interactive document retrieval using keyphrases,1999,27,627
+7E3BD51D,Measuring index quality using random walks on the Web,1999,27,293
+7F6257E8,Improved techniques for result caching in web search engines,2009,27,324
+761ED64B,Fast phrase querying with combined indexes,2004,27,215
+795DA831,Estimation and use of uncertainty in pseudo-relevance feedback,2007,27,226
+75460A13,"End user searching: A Web log analysis of NAVER, a Korean Web search engine",2005,27,369
+769981ED,An analysis of web searching by European AlltheWeb.com users,2005,27,1504
+7F45F0A0,A document-centric approach to static index pruning in text retrieval systems,2006,27,824
+7F145A42,MetaSpider: Meta‐searching and categorization on the Web,2001,26,377
+7.64E+296,Event detection from evolution of click-through data,2006,25,203
+80204C07,"Coverage, relevance, and ranking: The impact of query operators on Web search engine results",2003,25,227
+7F84885B,Web-page summarization using clickthrough data,2005,24,223
+7DC501D5,On scaling latent semantic indexing for large peer-to-peer systems,2004,24,284
+7B4C83DA,A user-centered approach to evaluating human interaction with web search engines: an exploratory study,2002,24,259
+7FAA8251,Context-aware query classification,2009,23,559
+78BAAD4F,Automatic query expansion via lexical-semantic relationships,2001,23,632
+7E06CC1A,University of Glasgow at TREC 2005: Experiments in Terabyte and Enterprise Tracks with Terrier,2007,22,405
+8068C97C,Transparent Queries: investigation users' mental models of search engines,2001,22,880
+812AF240,Improving category specific Web search by learning query modifications,2001,22,287
+7E04E041,Expert agreement and content based reranking in a meta search environment using Mearf,2002,22,1248
+0BDDD9D5,Defining a session on Web search engines: Research Articles,2007,22,2122
+80601F25,A model to estimate intrinsic document relevance from the clickthrough logs of a web search engine,2010,22,515
+75B4C886,Improving retrieval feedback with multiple term-ranking function combination,2002,21,981
+7F92112D,High-performance web crawling,2002,21,331
+75B54638,The Use of Web Search Engines in Information Science Research,2004,20,2553
+8.1596E+18,Modeling user search behavior,2005,20,396
+750B0B55,Learning to estimate query difficulty: including applications to missing content detection and distributed information retrieval,2005,20,360
+8073330E,Human Performance on Clustering Web Pages: A Preliminary Study,1998,20,480
+779A6B82,Efficient phrase querying with an auxiliary index,2002,20,315
+5994AFF4,"Design, Implementation and Evaluation of a New Semantic Similarity Metric Combining Features and Intrinsic Information Content",2008,20,213
+80580C10,The influence of caption features on clickthrough patterns in web search,2007,19,339
+80BA2FE2,Result merging strategies for a current news metasearcher,2003,19,875
+78690C37,Query expansion using gaze-based feedback on the subdocument level,2008,19,518
+79324BB7,Image retrieval using multiple evidence ranking,2004,19,234
+7CEC0259,Performance standards and evaluations in IR test collections: vector-space and other retrieval models,1997,18,722
+7DC6347C,Adaptive ranking of web pages,2003,18,598
+803F5B7E,What to be? : Electronic career guidance based on semantic relatedness,2007,17,206
+769EF7DF,Design trade-offs for search engine caching,2008,17,483
+7E0A2F08,Web Query Recommendation via Sequential Query Prediction,2009,16,382
+78C4C907,Ultra-summarization (poster abstract): a statistical approach to generating highly condensed non-extractive summaries,1999,16,214
+59F41337,Questioning query expansion: an examination of behaviour and parameters,2004,16,272
+8152E571,Machine Learned Sentence Selection Strategies for Query-Biased Summarization,2008,16,467
+78B98293,Learning to rank with (a lot of) word features,2010,16,205
+7B21DAAF,Interactive searching and interface issues in the Okapi best match probabilistic retrieval system,1998,16,602
+78C902A8,Intent-aware search result diversification,2011,16,200
+77C43139,Improving Web search efficiency via a locality based static pruning method,2005,16,297
+8064FA34,An efficient algorithm to rank Web resources,2000,16,543
+7F520349,A large scale study of European mobile search behaviour,2008,16,961
+7F5105EC,Refinement of TF-IDF schemes for web pages using their hyperlinked neighboring pages,2003,15,282
+7F5D33B8,Learning about the world through long-term query logs,2008,15,211
+7650C5AF,Just-in-time recovery of missing web pages,2006,14,207
+7F2D36F1,Comparative study of monolingual and multilingual search models for use with asian languages,2005,14,351
+800F1957,Using relevance feedback in expert search,2007,13,255
+7F927BFF,Selecting text spans for document summaries: heuristics and metrics,1999,13,950
+7F3039F4,Modeling and predicting user behavior in sponsored search,2009,13,319
+8167F7AD,Applications of Lexical Cohesion Analysis in the Topic Detection and Tracking Domain,2004,13,237
+7D7BB348,A statistical method for estimating the usefulness of text databases,2002,13,247
+76D31FFB,Using navigation data to improve IR functions in the context of web search,2001,12,430
+79DCF5D8,Towards a highly-scalable and effective metasearch engine,2001,12,639
+593898EC,Space-Limited Ranked Query Evaluation Using Adaptive Pruning,2005,12,485
+756961CF,ResIn: a combination of results caching and index pruning for high-performance web search engines,2008,12,204
+7F7C734D,Do you want to take notes?: identifying research missions in Yahoo! search pad,2010,12,422
+7B33D6C1,Are people biased in their use of search engines?,2008,12,349
+808792AB,Learning to find answers to questions on the Web,2004,11,241
+7E4E8326,Good abandonment in mobile and PC internet search,2009,11,693
+80AD77C5,Efficient and self-tuning incremental query expansion for top-k query processing,2005,11,213
+7F0B0193,Concept-Based F eature Generation and Selection for Information Retrieval,2008,11,347
+80983CC9,Query expansion behavior within a thesaurus-enhanced search environment: A user-centered evaluation,2006,10,368
+7BC0845F,Prefetching query results and its impact on search engines,2012,10,208
+7C27A5F8,On the feasibility of multi-site web search engines,2009,10,420
+75E9DD63,Matching task profiles and user needs in personalized web search,2008,10,329
+6BEB397C,Access-ordered indexes,2004,10,599
+768536B6,Value of search results as a whole as the best single measure of information retrieval performance,1998,8,519
+7F434470,User-click modeling for understanding and predicting search-behavior,2011,8,259
+7CF87701,Learning to Disambiguate Search Queries from Short Sessions,2009,8,418
+80D11548,Computing text semantic relatedness using the contents and links of a hypertext encyclopedia,2013,8,208
+7EC41F9C,Techniques for Efficient Query Expansion,2004,7,320
+5ED02352,"Predicting query performance using query, result, and user interaction features",2010,7,223
+7EF31353,IRIS at TREC-8,1999,7,408
+7934DBE7,Methods for evaluating the quality of hypertext links,1997,6,390
+79E0012D,Median measure: an approach to IR systems evaluation,2001,6,1442
+80894666,Evolutionary Algorithm for Extractive Text Summarization,2009,6,346
+7D4451F9,Context-aware search personalization with concept preference,2011,6,312
+59A87761,ANU/ACSys TREC-5 Experiments,1997,6,294
+59F6CC12,Italian Monolingual Information Retrieval with PROSIT,2002,5,360
+597C5CA3,Document Compaction for Efficient Query Biased Snippet Generation,2009,5,263
+8099A0B0,Automated gathering of Web information: An in-depth examination of agents interacting with search engines,2006,5,204
+7EBD9904,Adaptive Personalization of Web Search,2007,5,212
+7798D604,A unified environment for fusion of information retrieval approaches,1999,5,346
+6CC42872,Recommending better queries from click-through data,2005,4,254
+7.6626E+12,Query session detection as a cascade,2011,4,217
+7FA8B8FE,Measuring search-engine quality and query difficulty: ranking with Target and Freestyle,1999,4,414
+79F93579,Identifying User Goals from Web Search Results,2006,4,330
+5D4ED671,A statistical model of query log generation,2006,4,316
+7DCF9C8B,A Cost-Aware Strategy for Query Result Caching in Web Search Engines,2009,4,396
+7D7555AC,Improving Web search using image snippets,2008,3,253
+79988988,Adapting pivoted document-length normalization for query size: Experiments in Chinese and English,2006,3,204
+79506099,Interactive Internet search through automatic clustering (poster abstract): an empirical study,1999,1,278
+80F9C347,Beyond hyperlinks: organizing information footprints in search logs to support effective browsing,2009,1,296
