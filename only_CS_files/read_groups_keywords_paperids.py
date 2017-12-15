@@ -9,7 +9,7 @@ parentID_groupno_found = {}
 no_of_papers=[]
 no_of_keywords=[]
 # plt.figure()
-points=[]
+points={}
 for line in file:
 	if(line == "\n"):
 		continue
@@ -21,15 +21,19 @@ for line in file:
 	# print parentID,len(groupPapers.split(' ')),len(groupKeywords.split(' '))
 	no_of_papers.append(len(groupPapers.split(' ')))
 	no_of_keywords.append(len(groupKeywords.split(' ')))
-	points.append((len(groupPapers.split(' ')),len(groupKeywords.split(' '))))
+	points[parentID] = (len(groupPapers.split(' ')),len(groupKeywords.split(' ')))
+	# points[parentID] = (groupKeywords,len(groupKeywords.split(' ')))
 	# groupno_parentID.append(line[0:8])
 	if(i==500):
 		break
 # groupno_parentID.sort()
-points.sort()
+# points.sort()
 # sorted(points,key = lambda x: x[0])
-print points
-zip(*points)
+# print points
+while True:
+	d = raw_input("enter id:")
+	print points.get(d)
+# zip(*points)
 # plt.plot(*zip(*points[:-1]))
 # plt.xlabel("papers")
 # plt.ylabel("keywords")

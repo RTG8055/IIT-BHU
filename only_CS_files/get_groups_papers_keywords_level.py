@@ -1,6 +1,13 @@
 import zipfile
 from functions import bsearch
 
+
+
+
+class group_adjlevel:
+	def __init__(self,fid,adjfids):
+		self.parentID = fid
+		self.nextLevel = adjfids
 groups=[]
 groups_with_paperIDs_keywords=[]
 groupno_parentID={}
