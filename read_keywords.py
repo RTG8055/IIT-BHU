@@ -21,6 +21,7 @@ else:
 
 stop =set(stopwords.words('english'))
 lan=LancasterStemmer()
+given_keywords = given_keywords.replace('-',' ')
 given_keywords = given_keywords.split(',')
 i=0
 
@@ -30,11 +31,16 @@ for word in given_keywords:
 	word2=[]
 	tokens = word_tokenize(word.lower())
 	tokens = [w for w in tokens if not w in stop]
-	# print i,tokens,word
+	print i,tokens,word
 	for x in tokens:
 		word2.append(lan.stem(x))
 	normalized_given_keywords.add(' '.join(word2))
 normalized_given_keywords = ','.join(list(normalized_given_keywords))
 print normalized_given_keywords
 papers = get_relavent_papers(normalized_given_keywords,given_fos)
-print "accd"
+
+new = open('output/papers.txt','w')
+for p in papers:
+	new.write(str(p) + '\n')
+new.close()
+print "got papers"
