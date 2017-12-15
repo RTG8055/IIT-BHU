@@ -24,7 +24,7 @@ with open("../../../MAGNEW/PaperKeywords/PaperKeywords.txt") as f:
 			fos_details.get(fid)[1].add(keyword)
 		if(i%1000000==0):
 			print i
-		if(i==10000000):
+		if(i==10000000): # ran on server for all
 			break
 print i
 new = open('fos_papers_keywords_server.txt','w')
