@@ -1,5 +1,5 @@
 datasets
-zips
 nohup.out
-*.zip
+zips
+no_upload_*.zip
 *_server*
