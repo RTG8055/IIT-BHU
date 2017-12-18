@@ -1,0 +1,95 @@
+Paper ID,Title,Sim1,Sim2
+7F42F6A2,"A new class of upper bounds on the log partition function",0.157407407407,0.0905982905983
+7EB97528,"Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology",0.157407407407,0.0809451985923
+786633EB,"Hyper Markov Laws in the Statistical Analysis of Decomposable Graphical Models",0.157407407407,0.0854700854701
+763B9EFE,"STENO:an expert system for medical diagnosis based on graphical models and model search",0.143939393939,0.117549117549
+5ED229FC,"Probability Density Decomposition for Conditionally Dependent Random Variables Modeled by Vines",0.166666666667,0.100081699346
+7EFFDEE3,"Norm-Product Belief Propagation: Primal-Dual Message-Passing for Approximate Inference",0.15,0.0846153846154
+8114FC17,"Joint latent topic models for text and citations",0.483333333333,0.347008547009
+76CF0C13,"Learning Articulated Structure and Motion",0.178571428571,0.186507936508
+80379CA8,"Model Selection Through Sparse Maximum Likelihood Estimation for Multivariate Gaussian or Binary Data",0.157407407407,0.0957886557887
+7E7FFD4B,"On graphical modeling of preference and importance",0.143939393939,0.0883838383838
+5A0EE170,"Variational Bayes learning of multiscale graphical models",0.134615384615,0.162393162393
+5F7BB055,"Finding Deformable Shapes Using Loopy Belief Propagation",0.233333333333,0.222051282051
+7F1C3888,"Sparse inverse covariance estimation with the graphical lasso",0.157407407407,0.0873015873016
+7CEED575,"Identification of Causal Effect with the Non-Compliance and Its EM Algorithm",0.143939393939,0.0855186480186
+801A0D49,"Variational algorithms for marginal MAP",0.134615384615,0.0741758241758
+7ED9B1B6,"Normal Factor Graphs",0.178571428571,0.10989010989
+7F6C724D,"Factor graphs and the sum-product algorithm",0.136904761905,0.0989010989011
+7E0F0E4A,"Embedded trees: estimation of Gaussian Processes on graphs with cycles",0.178571428571,0.112340668591
+75D2B6E3,"Lifted Graphical Models: A Survey",0.134615384615,0.132783882784
+7EF53785,"An Introduction to Conditional Random Fields",0.130952380952,0.0714285714286
+8029BB7A,"Graphical models for machine learning and digital communication",0.15,0.0848151848152
+7E61D239,"Graphical Models, Exponential Families, and Variational Inference",0.143939393939,0.0815850815851
+5B1448C1,"Factorial Hidden Markov Models",0.134615384615,0.0769230769231
+804CC9CA,"Graph Laplace for Occluded Face Completion and Recognition",0.178571428571,0.0918081918082
+80D20076,"Lagrangian Relaxation for MAP Estimation in Graphical Models",0.15,0.0892773892774
+7CA63E85,"Undernutrition in Benin -- an analysis based on graphical models.",0.134615384615,0.137419871795
+77B80498,"Bayesian learning of graphical vector autoregressions with unequal lag-lengths",0.143939393939,0.0811688311688
+77E864FA,"Conditional independence models for seemingly unrelated regressions with incomplete data",0.157407407407,0.0928418803419
+07D6437E,"Towards the Acquisition and Representation of a Broad-Coverage Lexicon",0.115740740741,0.100673400673
+7CC20AA0,"A model-based design framework to achieve end-to-end QoS management",0.143939393939,0.123688811189
+797F1FB0,"Correction: Graphical Models for Associations Between Variables, Some of which are Qualitative and Some Quantitative",0.15,0.136336996337
+7ED9E3E7,"High-dimensional Ising model selection using ℓ1-regularized logistic regression",0.227272727273,0.187791375291
+7F4F71A0,"Log-determinant relaxation for approximate inference in discrete Markov random fields",0.143939393939,0.079045954046
+7FF9B70B,"Learning Factor Graphs in Polynomial Time and Sample Complexity",0.178571428571,0.141007141007
+78739CC6,"Modeling annotated data",0.121693121693,0.148148148148
+7FCDF86F,"Accelerating Newton Optimization for Log-Linear Models through Feature Redundancy",0.115740740741,0.0958485958486
+7CEF18CC,"Graphical Models and Automatic Speech Recognition",0.143939393939,0.0862470862471
+77697209,"Parallell interacting MCMC for learning of topologies of graphical models",0.143939393939,0.119163924311
+7EBA7FB7,"A guide to the literature on learning probabilistic networks from data",0.166666666667,0.149444444444
+80C84811,"Unequal error protection based LV segmented CMR image transmission through wireless communication channels",0.15,0.134090909091
+49793837,"GRAPHICAL MODELING AND SIMULATION OF A HYBRID HETEROGENEOUS AND DYNAMIC SINGLE-CHIP MULTIPROCESSOR ARCHITECTURE",0.138888888889,0.0726271277742
+7E807501,"A Tighter Bound for Graphical Models",0.15,0.0884615384615
+7F41E4C7,"Approximate inference in graphical models",0.134615384615,0.0769230769231
+816472CA,"An introduction to variational methods for graphical models",0.143939393939,0.0797535797536
+7678CA74,"Detection of Information Flow in Major International Financial Markets by Interactivity Network Analysis",0.197619047619,0.107601657602
+7A970FAF,"Bayesian inference for general Gaussian graphical models with application to multivariate lattice data",0.157407407407,0.0878399378399
+7DFD9A8D,"The TM Algorithm for Maximising a Conditional Likelihood Function",0.157407407407,0.124273504274
+80F78F03,"Joint estimation of multiple graphical models",0.15,0.0884615384615
+5B2E6F1B,"Bayesian updating in recursive graphical models by local computations",0.138888888889,0.0811965811966
+7E9E24B3,"Modeling and estimation in Gaussian graphical models : maximum-entropy methods and walk-sum analysis",0.15,0.0856177156177
+7EFB27D7,"Planning and Acting in Uncertain Environments using Probabilistic Inference",0.233333333333,0.218717948718
+7E619677,"Covariance Estimation in Decomposable Gaussian Graphical Models",0.15,0.0827838827839
+80CE10A5,"Tree-based reparameterization framework for analysis of sum-product and related algorithms",0.134615384615,0.0769230769231
+807F1B34,"Robust Matrix Decomposition With Sparse Corruptions",0.15,0.0807189542484
+7FE2281C,"Adaptive Bayesian network for traffic flow prediction",0.157407407407,0.0956196581197
+75E570D1,"Markov logic networks",0.115740740741,0.0864875864876
+76936D58,"Multiple Testing and Error Control in Gaussian Graphical Model Selection",0.15,0.0842482517483
+7EF55ED4,"Estimation in Gaussian Graphical Models Using Tractable Subgraphs: A Walk-Sum Analysis",0.233333333333,0.188461538462
+80060D7C,"Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",0.157407407407,0.133395308395
+5C53ED56,"Understanding and improving belief propagation",0.133333333333,0.127564102564
+7F0CB104,"MRF Energy Minimization and Beyond via Dual Decomposition",0.134615384615,0.0690583925878
+06DD7382,"Causal Discovery for Relational Domains: Representation, Reasoning, and Learning",0.15,0.141515151515
+7E068B83,"Markov Random Field modeling, inference & learning in computer vision & image understanding: A survey",0.143939393939,0.079094979095
+7F86EE0A,"Multiresolution Markov models for signal and image processing",0.186507936508,0.118951048951
+75C15747,"A New Look at Reweighted Message Passing",0.194444444444,0.108080808081
+7B61E64E,"Markov Fields and Log-Linear Interaction Models for Contingency Tables",0.103703703704,0.0860306360306
+7D12D92A,"On the optimality of solutions of the max-product belief-propagation algorithm in arbitrary graphs",0.178571428571,0.103563103563
+5E7F42E8,"Partial likelihood for unbiased extended object tracking",0.157407407407,0.153703703704
+8106B4F6,"Learning Deep Generative Models",0.134615384615,0.205128205128
+81383FBC,"Nonparametric belief propagation",0.15,0.0884615384615
+80F25241,"Loopy Belief Propagation: Convergence and Effects of Message Errors",0.194444444444,0.104234654235
+0E25E5EE,"AD3: Alternating Directions Dual Decomposition for MAP Inference in Graphical Models",0.134615384615,0.0723981900452
+7D5CB345,"Distributed fusion in sensor networks",0.12962962963,0.118362193362
+7DEEFE7C,"Sparse graphical models for exploring gene expression data",0.157407407407,0.112455322455
+7ECADF59,"On similarities between inference in game theory and machine learning",0.103703703704,0.0845154845155
+7DA86D58,"PAMPAS: real-valued graphical models for computer vision",0.134615384615,0.074358974359
+5EA414E7,"Variational Gaussian mixtures for blind source detection",0.157407407407,0.0944444444444
+681C3C89,"Learning in graphical models",0.134615384615,0.205128205128
+810E30B0,"The max-min hill-climbing Bayesian network structure learning algorithm",0.157407407407,0.151175213675
+77424DF6,"Energy distribution view for monotonic dual decomposition",0.143939393939,0.0793911970383
+7A730712,"Learning Markov networks: maximum bounded tree-width graphs",0.178571428571,0.18746031746
+80A25501,"Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology",0.157407407407,0.0809451985923
+038C9301,"Probability Propagation and Iterative Decoding",0.166666666667,0.0929487179487
+7FC39845,"Linear Programming Relaxations and Belief Propagation -- An Empirical Study",0.143939393939,0.079045954046
+7860A3D0,"Understanding belief propagation and its generalizations",0.15,0.0827838827839
+6049E046,"A tutorial on learning with Bayesian networks",0.157407407407,0.178451178451
+8000315F,"Probabilistic independence networks for hidden Markov probability models",0.166666666667,0.0979914529915
+7EAAE6BC,"Gradient Directed Regularization for Sparse Gaussian Concentration Graphs, with Applications to Inference of Genetic Networks",0.178571428571,0.107204700062
+7F3CF2AF,"Iterative decoding of compound codes by probability propagation in graphical models",0.178571428571,0.0959249084249
+8136678C,"Graphical Models in Applied Multivariate Statistics",0.134615384615,0.0717948717949
+8033839E,"An introduction to factor graphs",0.142857142857,0.126984126984
+80E7C2E7,"A Junction Tree Framework for Undirected Graphical Model Selection",0.143939393939,0.0768356643357
+7B599A6F,"Bayesian analysis in expert systems",0.134615384615,0.0769230769231
+08B330C2,"Scaling MCMC Inference and Belief Propagation to Large, Dense Graphical Models",0.15,0.106153846154

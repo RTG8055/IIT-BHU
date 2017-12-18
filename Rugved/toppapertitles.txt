@@ -1,0 +1,3384 @@
+5A1FB275	Visual hand tracking using nonparametric sequential belief propagation
+
+763B9EFE	STENO:an expert system for medical diagnosis based on graphical models and model search
+
+5ED229FC	Probability Density Decomposition for Conditionally Dependent Random Variables Modeled by Vines
+
+7EDA0239	Learning the Compositional Nature of Visual Object Categories for Recognition
+
+5A752E57	Graphical multiagent models
+
+77F57823	Learning Gaussian Tree Models: Analysis of Error Exponents and Extremal Structures
+
+76BC784C	Figure-Ground Segmentation Using Factor Graphs.
+
+7EBAF503	A Sparsification Approach for Temporal Graphical Model Decomposition
+
+80B698C6	Increasingly correct message passing averaging algorithms
+
+7F6C724D	Factor graphs and the sum-product algorithm
+
+76AEA42F	Graphical model representation of pedigree based mixed model
+
+80CFC0BC	Principal component analysis in decomposable Gaussian graphical models
+
+7F38C810	Models for Patch Based Image Restoration
+
+7671F8FB	A nonparametric belief propagation method for uncertainty quantification with applications to flow in random porous media
+
+7DC25052	Single-channel speech separation and recognition using loopy belief propagation
+
+7DA83B47	Selection of Statistical Thresholds in Graphical Models
+
+81776347	A Variational Baysian Framework for Graphical Models
+
+75C37236	Determinants of Individual Tourist Expenditure as a Network: Empirical Findings from Uruguay
+
+7F2714AC	ChemInk: a natural real-time recognition system for chemical drawings
+
+804CC9CA	Graph Laplace for Occluded Face Completion and Recognition
+
+7CA63E85	Undernutrition in Benin -- an analysis based on graphical models.
+
+8045E665	Prediction of contact maps by GIOHMMs and recurrent neural networks using lateral propagation from all four cardinal corners
+
+7D4998A5	Epistemic irrelevance in credal nets: the case of imprecise Markov trees
+
+77E864FA	Conditional independence models for seemingly unrelated regressions with incomplete data
+
+07D6437E	Towards the Acquisition and Representation of a Broad-Coverage Lexicon
+
+7CC20AA0	A model-based design framework to achieve end-to-end QoS management
+
+7BCF362F	A SINful Approach to Gaussian Graphical Model Selection
+
+7D03A556	Robust one-shot 3D scanning using loopy belief propagation
+
+7DC6DF15	Approximate inference using planar graph decomposition
+
+78739CC6	Modeling annotated data
+
+7F709D45	Accelerated Dual Decomposition for MAP Inference
+
+7FCDF86F	Accelerating Newton Optimization for Log-Linear Models through Feature Redundancy
+
+7F434525	Measuring Neural Synchrony by Message Passing
+
+799E76C5	Independent natural extension
+
+7B562E9D	Multiscale stochastic modeling for tractable inference and data assimilation
+
+80C84811	Unequal error protection based LV segmented CMR image transmission through wireless communication channels
+
+7EE5954C	Distributed Cognitive Radio Network Management via Algorithms in Probabilistic Graphical Models
+
+803D202E	Evaluating the impact of AND/OR search on 0-1 integer linear programming
+
+7FF4827C	Structure Learning on Large Scale Common Sense Statistical Mo dels of Human State
+
+805A9A2C	A Recursive Model-Reduction Method for Approximate Inference in Gaussian Markov Random Fields
+
+49793837	GRAPHICAL MODELING AND SIMULATION OF A HYBRID HETEROGENEOUS AND DYNAMIC SINGLE-CHIP MULTIPROCESSOR ARCHITECTURE
+
+80F0AEE0	A fuzzy logic approach to infer transcriptional regulatory network in saccharomyces cerevisiae using promoter site prediction and gene expression pattern recognition
+
+7F47D5AF	A Linear Programming Approach to Max-Sum Problem: A Review
+
+5FA80935	Running MAP Inference on Million Node Graphical Models: A High Performance Computing Perspective
+
+7E7FFD4B	On graphical modeling of preference and importance
+
+7F41E4C7	Approximate inference in graphical models
+
+7E77388F	Efficient Nonparametric Belief Propagation with Application to Articulated Body Tracking
+
+7D5D9CD3	Multi-agent causal models for dependability analysis
+
+7DFD9A8D	The TM Algorithm for Maximising a Conditional Likelihood Function
+
+7EFB27D7	Planning and Acting in Uncertain Environments using Probabilistic Inference
+
+7BA41BB1	Low-Order Conditional Independence Graphs for Inferring Genetic Networks
+
+807F1B34	Robust Matrix Decomposition With Sparse Corruptions
+
+7F9A8948	A Graphical Model for Context-Aware Visual Content Recommendation
+
+799F491A	The cost of using decomposable Gaussian graphical models for computational convenience
+
+7FE2281C	Adaptive Bayesian network for traffic flow prediction
+
+80AD06E8	Dynamic conditional random fields: factorized probabilistic models for labeling and segmenting sequence data
+
+08468AE2	2005 Special Issue: On the relationship between deterministic and probabilistic directed Graphical models: From Bayesian networks to recursive neural networks
+
+04ADFECC	A new class of upper bounds on the log partition function
+
+6C55CB6F	Bayesian Network Classifiers
+
+80108BDB	Multimodality of the likelihood in the bivariate seemingly unrelated regressions model
+
+5B07F2AD	A comparative study of cooperative localization techniques for sensor networks
+
+7ED8644F	Beyond independent components: trees and clusters
+
+802C40C2	Learning a Tracking and Estimation Integrated Graphical Model for Human Pose Tracking
+
+76CF0C13	Learning Articulated Structure and Motion
+
+7DB9BF00	Mixed deterministic and probabilistic networks
+
+7F2392E3	Density Propagation for Continuous Temporal Chains Generative and Discriminative Models
+
+0C24E53D	Comment: Graphical Models, Causality, and Intervention
+
+804270A7	Fast geometric point labeling using conditional random fields
+
+5EAC68FC	Graphical Models: Methods for Data Analysis and Mining
+
+7F40F4D7	A comparison of algorithms for inference and learning in probabilistic graphical models
+
+7D12D92A	On the optimality of solutions of the max-product belief-propagation algorithm in arbitrary graphs
+
+04CA20DE	Fertility intentions and outcomes: Implementing the Theory of Planned Behavior with graphical models
+
+5E7F42E8	Partial likelihood for unbiased extended object tracking
+
+8106B4F6	Learning Deep Generative Models
+
+60AF34F2	Bayesian models: the structure of the world, uncertainty, behavior, and the brain.
+
+7E089879	Probabilistic Models for Melodic Prediction
+
+5FE38DC1	Probabilistic Relational Models
+
+810E3869	Which graphical models are difficult to learn?
+
+7ECADF59	On similarities between inference in game theory and machine learning
+
+81687C30	Learning the Compositional Nature of Visual Objects
+
+7EEFA497	Network clustering: probing biological heterogeneity by sparse graphical models.
+
+5A874BBF	Learning Graphical Models
+
+5A71ECF9	A relational hierarchical model for decision-theoretic assistance
+
+0C2C26A0	A comparison study of inferences on graphical model for registering surface model to 3D image
+
+81430221	PC algorithm for nonparanormal graphical models
+
+5EA414E7	Variational Gaussian mixtures for blind source detection
+
+5F985E92	Bayesian adjustment for multiplicity
+
+7B1C5478	Granger causality and path diagrams for multivariate time series
+
+008B8FE9	Epistemological Databases for Probabilistic Knowledge Base Construction
+
+7E86E05C	Visual Hand Tracking Using Nonparametric Belief Propagation
+
+803F2CCD	An initial framework for implementing and evaluating probabilistic adaptivity in mobile learning
+
+750A59D3	A hybrid approach to dialogue management based on probabilistic rules
+
+6F75A518	Audio-Video Sensor Fusion with Probabilistic Graphical Models
+
+7BCFF474	Minimal sufficient causation and directed acyclic graphs
+
+8080BCCB	A New Lower Bound for Tree-Width Using Maximum Cardinality Search
+
+77EAC0FF	Modeling Protein Expression and Protein Signaling Pathways
+
+7E24127D	Importance sampling-based estimation over AND/OR search spaces for graphical models
+
+8170FB55	A graphical model for protein secondary structure prediction
+
+7E409A3D	Optimizing Costly Functions with Simple Constraints: A Limited-Memory Projected Quasi-Newton Algorithm
+
+7CC98D73	Marginalization and Collapsibility in Graphical Interaction Models
+
+7A2DA630	Interaction structures analysed from water-quality data
+
+75573250	Constraint-based inference algorithms for structural models with latent confounders— empirical application and simulations
+
+77B83940	Simulation of hyper-inverse Wishart distributions in graphical models
+
+7F29B5DE	Jointly Identifying Entities and Extracting Relations in Encyclopedia Text via A Graphical Model Approach
+
+0B8CFF40	Graphical Answers to Questions about Likelihood Inference for Gaussian Covariance Models
+
+79725013	Partial Optimality by Pruning for MAP-inference with General Graphical Models
+
+5B77DD72	The impact of AND/OR search spaces on constraint satisfaction and counting
+
+7F3E6AB8	Error-resilient coding of 3-D graphic models via adaptive mesh segmentation
+
+5936A073	Simulation Based Optimization of Vertex Packing Decoding Algorithms
+
+7E8F0581	Illumination estimation and cast shadow detection through a higher-order graphical model
+
+77F6201F	Audio-visual analysis for event understanding
+
+7E16D608	A philosophy and software tool for teaching and learning signal processing and communication systems
+
+782A66E7	Multitarget-multisensor data association using the tree-reweighted max-product algorithm
+
+7F15536D	Causal learning without DAGs
+
+77A6E821	Normalizing web product attributes and discovering domain ontology with minimal effort
+
+7E3299F4	Learning High-Dimensional Markov Forest Distributions: Analysis of Error Rates
+
+7E140BEE	Collaborative training in sensor networks: A graphical model approach
+
+6DD38A49	Standard imsets for undirected and chain graphical models
+
+7FFC0DAE	Loop Corrections for Approximate Inference on Factor Graphs
+
+7599F55D	Probabilistic Logic Methods and Some Applications to Biology and Medicine
+
+79126429	The impact of anomia as a factor in a demand resource model of health
+
+7DE1187F	Nonparametric belief propagation for sensor self-calibration
+
+7EECA124	GMs in On-Line Handwritten Whiteboard Note Recognition: The Influence of Implementation and Modeling
+
+80157FE2	TEMPORAL GRAPHICAL MODELS FOR CROSS-SPECIES GENE REGULATORY NETWORK DISCOVERY
+
+7C8ADCE3	Use of ranked cross document evidence trails for hypothesis generation
+
+7E5C7E38	Combinatorial constructions of low-density parity-check codes for iterative decoding
+
+7F54E9D3	Learning graphical models for stationary time series
+
+78C7AB14	Robust model-based scene interpretation by multilayered context information
+
+7D3796FE	On Utilizing Qualitative Preferences in Web Service Composition: A CP-net Based Approach
+
+81431585	Scalable robust hypothesis tests using graphical models
+
+8052A44D	Semantic Event Detection using Conditional Random Fields
+
+76A5909E	Parametric Inference for Biological Sequence Analysis
+
+77841166	Semantic Mining of Social Networks
+
+762C513D	Comparison of two graphical models approaches for the modelling of multi-components system's reliability
+
+58A64AFA	An Introduction to Graphical Models
+
+81323DEC	Learning the Dynamics and Time-Recursive Boundary Detection of Deformable Objects
+
+7DB6AFFD	A graphical model for audiovisual object tracking
+
+79529622	Parallel exact inference on the Cell Broadband Engine processor
+
+808223E6	A Graphical Model for Recognizing Sung Melodies
+
+08165A76	Learning and Recognizing The Hierarchical and Sequential Structure of Human Activities
+
+790AA726	Chain graph models: topological sorting of meta-arrows and efficient construction of $${\mathcal{B}}$$ -essential graphs
+
+78BB60D5	A graphical approach to relatedness inference.
+
+5ED3EA5D	Superpixel-Based Graphical Model for Remote Sensing Image Mapping
+
+75F6219A	Leveraging Early Aspects in End-to-End Model Driven Development for Non-Functional Properties in Service Oriented Architecture
+
+7EAE22EB	Tracking People and Their Objects
+
+7F618C0B	Learning the Structure of Linear Latent Variable Models
+
+77697209	Parallell interacting MCMC for learning of topologies of graphical models
+
+7595122A	People on drugs: credibility of user statements in health communities
+
+5AA548D4	New Mini-Bucket Partitioning Heuristics for Bounding the Probability of Evidence
+
+796072BF	From correlation to causation networks: a simple approximate learning algorithm and its application to high-dimensional plant gene expression data
+
+796E6702	Scalable Economic Dispatch for Smart Distribution Networks
+
+82FBCB28	Learning classifiers from remote RDF data stores augmented with RDFS subclass hierarchies
+
+7B640F4C	Enumerating the junction trees of a decomposable graph
+
+80243CA2	Statistical Inference in Graphical Models
+
+7E448213	Temporal causal modeling with graphical granger methods
+
+7DA0621C	Optimal control as a graphical model inference problem
+
+7F0BF26F	Causality: Objectives and Assessment
+
+751C861C	Discriminative Random Fields
+
+79BD9F06	Computational Aspects Related to Inference in Gaussian Graphical Models With the G-Wishart Prior
+
+7A50CF9A	Mathematical and Statistical Modeling in Cancer Systems Biology
+
+78DB638C	On the causal interpretation of acyclic mixed graphs under multivariate normality
+
+80EF80A4	Probabilistic Inference in General Graphical Models through Sampling in Stochastic Networks of Spiking Neurons
+
+7D68A994	Statistics in Epidemiology: The Case-Control Study
+
+7594A4C5	Learning from multiple annotators with varying expertise
+
+7E3C89FE	Door detection via signage context-based Hierarchical Compositional Model
+
+7823B06B	Modeling binding and cross-modal learning in Markov logic networks
+
+80F8BB3C	Modelling heterogeneous location habits in human populations for location prediction under data sparsity
+
+7C5AAA1F	Using Interaction Graphs for Analysing the Therapy Process
+
+7F626239	Structural coherence of problem and algorithm: An analysis for EDAs on all 2-bit and 3-bit problems
+
+7EC9628C	Automatic generation of availability models in RAScad
+
+80D760E8	Learning nonparametric policies by imitation
+
+7EA8C22E	A Large-Deviation Analysis of the Maximum-Likelihood Learning of Markov Tree Structures
+
+7E0D0F5B	Learning Bayesian network structures by searching for the best ordering with genetic algorithms
+
+0827B238	Chapter 15 - Application of Bayesian Graphical Models to Iris Recognition
+
+76569778	A statistical approach to simultaneous mapping and localization for mobile robots
+
+8136169A	Optimal Value of Information in Graphical Models
+
+76A0094C	Correlated equilibria in graphical games
+
+80EDF3CE	Hierarchical Graphical Bayesian Models in Psychology
+
+7A876D97	Acyclic belief propagation for stereo matching
+
+7EEDADD9	Non-stationary Dynamic Bayesian Networks
+
+5DC305F8	On the Testability of Causal Models with Latent and Instrumental Variables
+
+6EFCE74F	Estimating Sparse Precision Matrix: Optimal Rates of Convergence and Adaptive Estimation
+
+792D4E99	Describing Visual Scenes Using Transformed Objects and Parts
+
+7D77746B	1|Functions on probabilistic graphical models
+
+7E66B388	Decomposition and Model Selection for Large Contingency Tables
+
+063288B0	Exploiting Tree Decomposition and Soft Local Consistency In Weighted CSP
+
+795C95A1	Confirmatory path analysis in a generalized multilevel context.
+
+806A05D3	Semantic Hierarchies for Recognizing Objects and Parts
+
+5E2DADC4	Elicitation and Validation of Graphical Dependability Models
+
+7F334842	Complete Identification Methods for the Causal Hierarchy
+
+816472CA	An introduction to variational methods for graphical models
+
+812CD9F0	Structure estimation for discrete graphical models: Generalized covariance matrices and their inverses
+
+7FEB10F2	Predictive modeling-based data collection in wireless sensor networks
+
+810E30B0	The max-min hill-climbing Bayesian network structure learning algorithm
+
+7857440D	Mining topic-level influence in heterogeneous networks
+
+7E317CA3	Graphical model architectures for speech recognition
+
+80339C06	Modeling, Classifying and Annotating Weakly Annotated Images Using Bayesian Network
+
+7DAE5B93	Composite Models of Objects and Scenes for Category Recognition
+
+80600816	Multi-dynamic Bayesian Networks
+
+77E08C3C	Objective priors for generative star-shape models
+
+79ABC9E8	Bayesian Covariance Matrix Estimation Using a Mixture of Decomposable Graphical Models
+
+76221630	Markov Chain Monte Carlo Convergence Assessment via Two-Way Analysis of Variance
+
+80B25939	Constraint Complexity of Realizations of Linear Codes on Arbitrary Graphs
+
+69FF2EB3	Gaussian Process Structural Equation Models with Latent Variables
+
+81635C4A	An integrated discriminative probabilistic approach to information extraction
+
+7FCBE424	Exponential families for conditional random fields
+
+81696610	Dynamic Bayesian Networks for Brain-Computer Interfaces
+
+7E154E60	Probabilistic Melodic Harmonization
+
+7D3F41AB	Spatial Inference Machines
+
+811FEC65	The importance of dilution in the inference of biological networks
+
+7EB97528	Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology
+
+7BDA36B8	Visual suggestions for improvements in business process diagrams
+
+80C6FA3E	Visualizing Multivariate Dependencies with Association Chain Graphs
+
+75C47E6A	Latent Class Models for Diary Method Data: Parameter Estimation by Local Computations.
+
+7CC4587B	Estimating networks with jumps
+
+7AD29FB9	Graphical-model-based multivariate analysis of functional magnetic-resonance data
+
+7C848458	Efficiently adapting graphical models for selectivity estimation
+
+7F489851	The Complexity Limits of Graphical Models for Linear Codes
+
+7EDB7DB7	A stacked graphical model for associating sub-images with sub-captions.
+
+79AF77CD	Markov Properties for Acyclic Directed Mixed Graphs
+
+78D54798	MEADEP: a dependability evaluation tool for engineers
+
+7FF986B2	Window-based expectation propagation for adaptive signal detection in flat-fading channels
+
+74F82595	VirMaLab — atelier virtuel de maintenance: un outil d’aide à la décision pour l’optimisation des politiques de maintenance
+
+7A2F2834	Causal diagrams for empirical research
+
+81571646	Protein Design by Sampling an Undirected Graphical Model of Residue Constraints
+
+7DB6A23C	Generative Model for Maneuvering Target Tracking
+
+75254C12	Bayesian Multi‐net Classifier for classification of remote sensing data
+
+75D2B6E3	Lifted Graphical Models: A Survey
+
+7C3B4512	Gradient computation in linear-chain conditional random fields using the entropy message passing algorithm
+
+767DE289	Action-Graph Games
+
+7DAD286B	Latent Classification Models
+
+791D5934	Selecting and fitting graphical chain models to longitudinal data
+
+7F186EEE	Unified graph matching in Euclidean spaces
+
+7CF22724	Using Bayesian network for fault location on distribution feeder
+
+80F77A3D	Stability Approach to Regularization Selection (StARS) for High Dimensional Graphical Models
+
+797F1FB0	Correction: Graphical Models for Associations Between Variables, Some of which are Qualitative and Some Quantitative
+
+5999B5AC	Maximum Entropy Correlated Equilibria
+
+75D3F6DD	Entropy Message Passing
+
+76F5F22F	Formulas for counting acyclic digraph Markov equivalence classes
+
+59DD4AA3	Uninorm Based Fuzzy Network for Tree Data Structures
+
+796A67CF	Chain graphs for multilevel models
+
+7AB23632	Chordal Graph Models of Contingency Tables
+
+80B0986E	A new framework for identifying combinatorial regulation of transcription factors: A case study of the yeast cell cycle
+
+7F12D6E1	R.J.: Alignments and string similarity in information integration: A random field approach
+
+7DC2B485	Local structure and determinism in probabilistic databases
+
+78A5801E	Eliciting conditional and unconditional rank correlations from conditional probabilities
+
+7F5384F7	Supervised topic model for automatic image annotation
+
+7645885E	Variational Bayesian learning of directed graphical models with hidden variables
+
+80D237D8	Spectral Methods for Learning Multivariate Latent Tree Structure
+
+7947EC23	Graphical modeling of the joint distribution of alleles at associated loci.
+
+7F3F299A	Nearly optimal distributed configuration management using probabilistic graphical models
+
+7C8F5F98	Maximum weight matching via max-product belief propagation
+
+77C23EAD	A scale-free structure prior for Bayesian inference of Gaussian graphical models
+
+45AF6488	Graphical models and point set matching
+
+7DB7DB38	Some practical issues on implementing distributed multi-agent reasoning systems
+
+76592B06	Active learning from uncertain crowd annotations
+
+7DCE5FEC	Event detection over twitter social media streams
+
+7DE0DCAC	Sequential Monte Carlo for Bayesian matching of objects with occlusions
+
+7F710180	Graphical Model Approach to Iris Matching Under Deformation and Occlusion
+
+7F882636	A progressive view-dependent technique for interactive 3-D mesh transmission
+
+80438BF9	Segmentation conditional random fields (SCRFs): a new approach for protein fold recognition
+
+809D0B92	Multimodal multispeaker probabilistic tracking in meetings
+
+5DBAD248	Computationally Efficient Stochastic Realization for Internal Multiscale Autoregressive Models
+
+7E131A78	Voronoi random fields: extracting the topological structure of indoor environments via place labeling
+
+8104310C	Probabilistic model definition for physiological state monitoring
+
+7F6C5DA1	Graphical model inference in optimal control of stochastic multi-agent systems
+
+7EEB994E	Design of scalable decoders for sensor networks via Bayesian network learning
+
+6BAC4FD1	On Identifying Significant Edges in Graphical Models
+
+776DCD04	Graphical Models for Integrating Syllabic Information
+
+7FF7D9FA	A Language for Opponent Modeling in Repeated Games
+
+7DB541FD	A graphical model to determine the subcellular protein location in artificial tissues
+
+77282C69	Graphical models over multiple strings
+
+815185AA	Cutting plane algorithms for variational inference in graphical models
+
+7730E04E	Category Modeling from Just a Single Labeling: Use Depth Information to Guide the Learning of 2D Models
+
+80173A83	A dynamic generating graphical model for point-sets matching
+
+6B3CEDC7	Network-Scale Traffic Modeling and Forecasting with Graphical Lasso
+
+80A3C647	Sub-tree Based Upper and Lower Bounds on the Partition Function
+
+7E068B83	Markov Random Field modeling, inference & learning in computer vision & image understanding: A survey
+
+016A014C	Permutation Testing Improves Bayesian Network Learning
+
+8138D709	Belief Propagation and LP Relaxation for Weighted Matching in General Graphs
+
+7BF08CC9	Super-human multi-talker speech recognition: A graphical modeling approach
+
+7C7DF24B	Improving on the maximum likelihood estimators of the means in Poisson decomposable graphical models
+
+7D46B253	Graph-Valued Regression
+
+75C15747	A New Look at Reweighted Message Passing
+
+756433F1	Inferring interventions in product-based possibilistic causal networks
+
+6A4395FA	A Decision-Theoretic Graphical Model for Collaborative Design on Supply Chains
+
+7E28BFE3	Enforcing integrability for surface reconstruction algorithms using belief propagation in graphical models
+
+79F03B15	Stochastic ordering and robustness in classification from a Bayesian network
+
+7DEEFE7C	Sparse graphical models for exploring gene expression data
+
+2FF60008	Time-Varying Gaussian Graphical Models of Molecular Dynamics Data
+
+8350D077	Discovering time-evolving influence from dynamic heterogeneous graphs
+
+7C065B03	On the computational rationale for generative models
+
+7B446227	Efficient Road Scene Understanding for Intelligent Vehicles Using Compositional Hierarchical Models
+
+77424DF6	Energy distribution view for monotonic dual decomposition
+
+7595AFE1	Association chain graphs: modelling etiological pathways
+
+7A0B9BD1	A review of Bayesian belief networks in ecosystem service modelling
+
+78B3A1C0	The analysis of contingency tables by graphical models
+
+79E2B75F	Constructing structural VAR models with conditional independence graphs
+
+079C8E7C	Structure Learning of Markov Logic Networks through Iterated Local Search
+
+7DD25105	Learning Switching Linear Models of Human Motion
+
+8032A92A	AND/OR multi-valued decision diagrams (AOMDDs) for graphical models
+
+801A0D49	Variational algorithms for marginal MAP
+
+77BA6E7B	D-vine EDA: a new estimation of distribution algorithm based on regular vines
+
+7E9B866C	Segmentation of the evolving left ventricle by learning the dynamics
+
+0B81702B	Topics in High-Dimensional Unsupervised Learning.
+
+7EFEDCA2	Dynamic Processing Allocation in Video
+
+81685D9B	Dynamic quantization for belief propagation in sparse spaces
+
+7DA4333B	Reduction mappings between probabilistic Boolean networks
+
+786DF1BE	Marginal AMP Chain Graphs
+
+80D1B10B	Multi-instrument musical transcription using a dynamic graphical model
+
+7DF05074	Implicit inequality constraints in a binary tree model
+
+7A4D9F76	3D segmentation of SBFSEM images of neuropil by a graphical model over supervoxel boundaries
+
+7DB25752	Graphical models for statistical inference and data assimilation
+
+7EA146EA	Gaussian Covariance Faithful Markov Trees
+
+7E3BF479	Dynamic programming and the graphical representation of error-correcting codes
+
+7CEEB5F7	Dynamic matrix-variate graphical models
+
+815CE8D2	Quantifying statistical interdependence by message passing on graphs---part ii: Multidimensional point processes
+
+7F3D8653	Multi-domain Hierarchical Free-Sketch Recognition Using Graphical Models
+
+59EA189E	Interaction graphs for multivariate binary data
+
+799FBA40	Probabilistic inference in discrete spaces can be implemented into networks of LIF neurons
+
+11D16AAE	New Machine Learning Methods for the Prediction of Protein Topologies
+
+7BDE06A5	Graph-Based Sensor Fusion for Classification of Transient Acoustic Signals
+
+81642FAE	Learning Graphical Models for Hypothesis Testing
+
+7D223AEA	Active inference for retrieval in camera networks
+
+5CD8FBDB	Learning the structure of image collections with latent aspect models
+
+5A260464	Graphical Models: Foundations of Neural Computation
+
+115DBE0D	An introduction to graphical models
+
+6103D4A2	A domain independent framework for extracting linked semantic data from tables
+
+7FFC51D3	Controlling the false discovery rate in modeling brain functional connectivity
+
+7D5B9E48	Belief propagation for continuous state spaces: stochastic message-passing with quantitative guarantees
+
+78C91A04	Learning undirected graphical models from multiple datasets with the generalized non-rejection rate
+
+77CC9AA2	Graphical modeling based gene interaction analysis for microarray data
+
+7F0FE0FA	A risk analysis method for carbon price prediction with hybrid intelligent model in consideration of variable selection of graphical modeling
+
+5C6B946F	Speeding up exact solutions of interactive dynamic influence diagrams using action equivalence
+
+7A76639A	Bayesian model determination for multivariate ordinal and binary data
+
+77B72BF5	Conditional log-linear structures for log-linear modelling
+
+7C48AB23	Parallel finite element technique using Gaussian belief propagation
+
+7C46211B	Log-mean linear models for binary data
+
+7ACA01E5	A Bayesian stochastic search method for discovering Markov boundaries
+
+8178E1C7	Deterministic Initialization of Hidden Markov Models for Human Action Recognition
+
+7EFC1AD9	Corrective feedback and persistent learning for information extraction
+
+5CD5757B	The PDG-Mixture Model for Clustering
+
+7FBA2952	The dynamic chain event graph
+
+76255E3F	Graphical Model based Cue Integration Strategy for Head Tracking
+
+7D25CCCF	Focused state transition information in ASR
+
+767DDBEC	Causal graphical models in systems genetics: A unified framework for joint inference of causal network and genetic architecture for correlated phenotypes
+
+808A2CA5	Inference of global clusters from locally distributed data
+
+80CD6DE1	Discrete-Input Two-Dimensional Gaussian Channels With Memory: Estimation and Information Rates Via Graphical Models and Statistical Mechanics
+
+7718C42C	Covariance Estimation: The GLM and Regularization Perspectives
+
+7CEA27DF	Solve JIGSAW puzzle problems with Co-Normalization
+
+45B6587F	Forward Affine Point Set Matching Under Variational Bayesian Framework
+
+76A88B56	Learning dynamic temporal graphs for oil-production equipment monitoring system
+
+7D99A95E	Factor Graph Based Joint Detection/Decoding for LDPC Coded Large-MIMO Systems
+
+5EB31902	A Variational Principle for Graphical Models
+
+5C3C2022	On the complexity of information planning in Gaussian models
+
+790E9191	Hierarchical Graphical Models: An Application to Pulmonary Function and Cholesterol Levels in the Normative Aging Study
+
+5C5F8BEA	Graphical models and exponential families
+
+813C56EE	Gene Association Networks from Microarray Data Using a Regularized Estimation of Partial Correlation Based on PLS Regression
+
+7F3BEB40	Global modeling and control strategy simulation for a hybrid electric vehicle using electrical variable transmission
+
+1271DBC1	GAI-networks: optimization, ranking and collective choice in combinatorial domains
+
+80307F04	Bias-Corrected Bootstrap and Model Uncertainty
+
+7E7863A3	Scalable statistical learning: A modular bayesian/markov network approach
+
+7F4655B4	Learning max-weight discriminative forests
+
+760FA684	A constructive graphical model approach for knowledge-based systems: A vehicle monitoring case study
+
+7D23BB48	Integration of Graphical Modeling with Fuzzy Clustering for Casual Relationship of Electric Load Forecasting
+
+7D6F6F96	Improved Recognition of Figures containing Fluorescence Microscope Images in Online Journal Articles using Graphical Models
+
+77471B51	Joint Learning of Multiple Sparse Matrix Gaussian Graphical Models
+
+06D71796	Directed graphical models of classifier combination: application to phone recognition
+
+78B4ACF8	Variational approximations for categorical causal modeling with latent variables
+
+5CAB1DCB	Automated Vertebra Identification from X-Ray Images
+
+7F3655D3	PAC-learning bounded tree-width graphical models
+
+78C144D3	A conjugate prior for discrete hierarchical log-linear models
+
+625783CE	Integer undirected graphical models for resource-constrained systems
+
+808D4072	Justifying and generalizing contrastive divergence
+
+7CFF2E7B	Bayesian Networks for Discrete Observation Distributions in Speech Recognition
+
+7EEA87CD	Tracking Humans using Multi-modal Fusion
+
+77EDB8FC	Bayesian networks learning for strategies in artificial life
+
+7FDBC34E	Beyond trees: common-factor models for 2D human pose recovery
+
+77EE386A	A Transfer Learning Approach for Network Modeling.
+
+751E9341	Message-passing for graph-structured linear programs: proximal projections, convergence and rounding schemes
+
+7F90ED05	Influence Diagrams with Continuous Decision Variables and Non-Gaussian Uncertainties
+
+7FEBB751	rsLDA: A Bayesian hierarchical model for relational learning
+
+7DA3EF79	Graphical model for the cardiac multi-dipole sources
+
+7A677D60	Stochastic model of production and inventory control using dynamic bayesian network
+
+7E46454B	Uncertainty in training large vocabulary speech recognizers
+
+81457425	A two-step approach to multiple facial feature tracking: temporal particle filter and spatial belief propagation
+
+5E74E268	AND/OR Multi-valued Decision Diagrams for Constraint Networks
+
+7AC4D4F1	A probabilistic imputation framework for predictive analysis using variably aggregated, multi-source healthcare data
+
+7760660C	Kernel conditional random fields: representation and clique selection
+
+7F5765C8	Improved Anatomical Landmark Localization in Medical Images Using Dense Matching of Graphical Models
+
+7D989507	On Learning Discrete Graphical Models using Greedy Methods
+
+80F25241	Loopy Belief Propagation: Convergence and Effects of Message Errors
+
+806EA2EA	Modeling complex multi-issue negotiations using utility graphs
+
+7DEEAFC2	Bayesian methods in bioinformatics and computational systems biology
+
+7DB3C7D4	Constrained optimization for validation-guided conditional random field learning
+
+687451DB	Incremental Multi-view Face Tracking Based on General View Manifold
+
+79628E97	Conditional models for contextual human motion recognition
+
+78741161	Analysis of multivariate frequency data by graphical models and generalizations of the multidimensional row-column association model.
+
+008901FD	Score and information for recursive exponential models with incomplete data
+
+5F7C319B	A Note on the Unification of Information Extraction and Data Mining using Conditional-Probability, Relational Models
+
+63E7C4CF	Gaussian Models in Automatic Speech Recognition
+
+81638BA7	A Probabilistic Graphical Model of Quantum Systems
+
+76C8B648	Graphical models for imprecise probabilities
+
+81ABF08E	Gated Bayesian networks for algorithmic trading
+
+73546FB8	An information theoretic approach to pedigree reconstruction
+
+7F3AF49F	L 0 sparse graphical modeling
+
+7D96345C	Unsupervised Pattern Discovery for Multimedia Sequences
+
+80FC8DF3	Conservative Sparsification for efficient and consistent approximate estimation
+
+5997F202	Automatic Extraction of Proximal Femur Contours from Calibrated X-Ray Images Using 3D Statistical Models
+
+8136678C	Graphical Models in Applied Multivariate Statistics
+
+7F638555	Switching Flow-Graph Modeling Technique for Three-Phase Inverters
+
+7AF9CF89	GRN model of probabilistic databases: construction, transition and querying
+
+7C34142E	Variable construction for predictive and causal modeling of online education data
+
+7C90FAB7	A Probabilistic Expert System for Automatic Musical Accompaniment
+
+08B330C2	Scaling MCMC Inference and Belief Propagation to Large, Dense Graphical Models
+
+786633EB	Hyper Markov Laws in the Statistical Analysis of Decomposable Graphical Models
+
+5878D767	Tracking complex objects using graphical object models
+
+7E59CAD1	Protein localization on cellular images with Markov random fields
+
+6360DE20	On model misspecification and KL separation for Gaussian graphical models
+
+79488D4F	Table extraction using conditional random fields
+
+06512BE8	Graphical models in applied mathematical multivariate statistics
+
+80D84B97	Advanced Condition Monitoring Services in Product Lifecycle Management
+
+5A0EE170	Variational Bayes learning of multiscale graphical models
+
+7FE9216F	Accuracy Bounds for Belief Propagation
+
+7C392C71	Selecting high-dimensional mixed graphical models using minimal AIC or BIC forests
+
+75C47612	Functioning and disability in people living with spinal cord injury in high- and low-resourced countries: a comparative analysis of 14 countries
+
+811C1D22	Bayesian Networks for Data Mining
+
+782C98B8	Exploiting spatial context constraints for automatic image region annotation
+
+7E429478	A generative model for music transcription
+
+7FBE0023	Measure Locally, Reason Globally: Occlusion-sensitive Articulated Pose Estimation
+
+8148E9AC	Recognizing Human Activities from Silhouettes: Motion Subspace and Factorial Discriminative Graphical Model
+
+7AD67A29	Fitting very large sparse Gaussian graphical models
+
+7DF7F22C	Structural learning with time‐varying components: tracking the cross‐section of financial time series
+
+77757110	Adjusting for high-dimensional covariates in sparse precision matrix estimation by ℓ1-penalization
+
+7DCA44FF	Nonparametric belief propagation for self-localization of sensor networks
+
+75332ADF	An EDA based on local markov property and gibbs sampling
+
+7ED00217	A language for modeling agents' decision making processes in games
+
+8105168F	Integration of Design in Distributed Development Using D-Scenario Graph
+
+79AED70A	Indoor Tracking Using Undirected Graphical Models
+
+7F7B85BF	A Probabilistic Framework for Decentralized Management of Trust and Quality
+
+8004C23E	Compatible prior distributions for directed acyclic graph models
+
+02AEAA73	Causality and Graphical Models for time series
+
+7F5D0110	Max-Margin Weight Learning for Markov Logic Networks
+
+81550025	Graphical models of residue coupling in protein families
+
+7DFF795B	Graphical Models and Point Pattern Matching
+
+79FFDE14	Jointly recognizing multi-speaker conversations
+
+603B4AD8	A novel approach for global abnormal event detection in multi-camera surveillance system
+
+79054B92	Entity information management in complex networks
+
+80493291	Distributed Occlusion Reasoning for Tracking with Nonparametric Belief Propagation
+
+5F18E556	A New Approach to Influence Diagrams Evaluation
+
+798A4919	Agent-based and graphical modelling of building occupancy
+
+7E7423AA	Guest editors' introduction to the special section on graphical models in computer vision
+
+075C496B	12 - Probabilistic Modelling with Bayesian Networks
+
+7E72F11F	A novel approximate inference approach to automated classification of protein subcellular location patterns in multi-cell images
+
+5B63AB2D	Gibbs and Markov properties of graphs
+
+7E097835	On trajectory optimization for active sensing in Gaussian process models
+
+7E562B49	flashWeb: graphical modeling of web applications for data management
+
+78812650	Measurement and analysis of health related quality of life and environmental data
+
+8154CAB8	A bottom-up framework for robust facial feature detection
+
+5BBBAF58	Joint sulci detection using graphical models and boosted priors
+
+80655C8D	Compiling constraint networks into AND/OR multi-valued decision diagrams (AOMDDs)
+
+5D7D9EF4	Graphical Methods for Efficient Likelihood Inference in Gaussian Covariance Models
+
+7E70E8F2	Accelerating EM for Large Databases
+
+6EEC7B47	Dependency networks for inference, collaborative filtering, and data visualization
+
+7F37D0A4	Marginal parameterizations of discrete models defined by a set of conditional independencies
+
+7E619677	Covariance Estimation in Decomposable Gaussian Graphical Models
+
+76141E4C	Learning bayesian networks from Markov random fields: An efficient algorithm for linear models
+
+78A137E5	An implicitization challenge for binary factor analysis
+
+7DA55369	Efficient graphical models for processing images
+
+7F6DA698	The Nonparanormal: Semiparametric Estimation of High Dimensional Undirected Graphs
+
+80B7396A	Efficient Batch Top-k Search for Dictionary-based Entity Recognition
+
+7F1FED33	Building Blocks for Variational Bayesian Learning of Latent Variable Models
+
+7DF5F0D9	Randomized and Distributed Self-Configuration of Wireless Networks: Two-Layer Markov Random Fields and Near-Optimality
+
+81081502	Quantum Graphical Models and Belief Propagation
+
+80EF5138	HSN-PAM: Finding Hierarchical Probabilistic Groups from Large-Scale Networks
+
+815FD77A	Spatio-temporal graphical-model-based multiple facial feature tracking
+
+7EA6AC6C	Global identifiability of linear structural equation models
+
+8038EF0E	Conditional models for contextual human motion recognition
+
+7D38882D	Identification of vector AR models with recursive structural errors using conditional independence graphs.
+
+7C45FCBC	Estimation of Distribution Algorithms with Kikuchi Approximations
+
+81100A31	A tutorial on theoretical issues in probabilistic artificial intelligence
+
+80FC6820	Transmembrane Topology and Signal Peptide Prediction Using Dynamic Bayesian Networks
+
+7E3531EC	Decentralised data fusion: A graphical model approach
+
+7FF24D72	Graphical Models for Genetic Analyses
+
+816EB681	On Factor Graphs and Electrical Networks
+
+7AA6E52A	Scalability of the Bayesian optimization algorithm
+
+0E25E5EE	AD3: Alternating Directions Dual Decomposition for MAP Inference in Graphical Models
+
+7DEE62E4	A Bayesian inference for the extended skew-normal measurement error model
+
+7D5CB345	Distributed fusion in sensor networks
+
+7F9FE1C6	Graphical modeling of conditional random fields for human motion recognition
+
+086C59A4	Bayesian Graphical Models for Polyphonic Pitch Tracking
+
+5E96D355	Planning in Multiagent Expedition with Collaborative Design Networks
+
+80A9EC52	Coupling CRFs and Deformable Models for 3D Medical Image Segmentation
+
+788AD094	CoBayes: bayesian knowledge corroboration with assessors of unknown areas of expertise
+
+7FF5AFE6	A Comparative Study of Modern Inference Techniques for Discrete Energy Minimization Problems
+
+79505BEF	Characterizations of pseudo-codewords of (low-density) parity-check codes
+
+7EE37971	Graph Rigidity, Cyclic Belief Propagation, and Point Pattern Matching
+
+7D2A24DC	Graphical Models: Statistical inference vs. determination
+
+7D4A17C0	Recognizing Activities and Spatial Context Using Wearable Sensors
+
+7D9DF1E6	The gRbase package for graphical modelling in R
+
+069DE568	Function Optimization with Latent Variable Models
+
+75436151	Efficiency of influence diagram models with continuous decision variables
+
+85F7E8CB	On Causal Explanations in Bayesian Networks
+
+7E43FFA6	Uniformly reweighted belief propagation for distributed Bayesian hypothesis testing
+
+757F77C0	Protein Fold Recognition Using Segmentation Conditional Random Fields (SCRFs)
+
+71C49801	A generalized mean field algorithm for variational inference in exponential families
+
+75A726FD	MCMC model determination for discrete graphical models
+
+79C45CB6	Inferring the Interactions in Complex Manufacturing Processes Using Graphical Models
+
+7A077500	A state-space mixed membership blockmodel for dynamic network tomography
+
+7A2DCFC9	Discriminative graphical models for faculty homepage discovery
+
+7D75F896	Learning Bayesian Networks with qualitative constraints
+
+7F759EB6	Audiovisual Probabilistic Tracking of Multiple Speakers in Meetings
+
+75277D5F	Local computations in Dempster--Shafer theory of evidence
+
+59B894EC	Mixtures of deterministic-probabilistic networks and their AND/OR search space
+
+77163A28	Markov Logic: An Interface Layer for Artificial Intelligence
+
+7674D764	Estimation of a covariance matrix with zeros
+
+6897C4D5	Accelerated Quantification of Bayesian Networks with Incomplete Data
+
+80E7C2E7	A Junction Tree Framework for Undirected Graphical Model Selection
+
+01982927	An Embarrassingly Simple Speed-Up of Belief Propagation with Robust Potentials
+
+00D01773	Localization of the Lumbar discs using machine learning and exact probabilistic inference
+
+7E507BC1	Theory-Based Causal Inference
+
+7FF2F748	Real-time navigating crowds: Scalable simulation and rendering
+
+5E40259A	Toward Conditional Models of Identity Uncertainty with Application to Proper Noun Coreference
+
+63E5534E	Approximated Structured Prediction for Learning Large Scale Graphical Models
+
+7D9A6CA2	15 Lifted First-Order Probabilistic Inference
+
+7DCCF26B	Approximating Model Equivalence in Interactive Dynamic Influence Diagrams Using Top K Policy Paths
+
+7DAACEE4	Statistical Characterization of Protein Ensembles
+
+77F1B2B6	Experiments in Stochastic Computation for High-Dimensional Graphical Models
+
+7E3FC18A	Trek separation for Gaussian graphical models
+
+7EB74CF6	Bayesian analysis of matrix normal graphical models.
+
+7ECFB25E	Looking behind Granger causality
+
+8100F5BE	Analog Implementation of a Mean Field Detector for Multiple Antenna Systems
+
+7C439B6E	Learning Oncogenic Pathways from Binary Genomic Instability Data
+
+77F87401	Towards an Integrated Protein–Protein Interaction Network: A Relational Markov Network Approach
+
+801470FF	Decomposing permutations via cost-constrained transpositions
+
+7CA39FD4	Fast globally optimal 2D human detection with loopy graph models
+
+7F4F5E90	Code clone detection in practice
+
+6E1536E8	Graphical models for preference and utility
+
+7A585662	An efficient causal discovery algorithm for linear models
+
+7EB8E3A2	Triangulating of Dynamic Bayesian networks for isolated digit recognition
+
+7F91F88C	An Unsupervised Approach for Product Record Normalization across Different Web Sites
+
+76B2FE22	A probabilistic approach to the joint evaluation of firearm evidence and gunshot residues
+
+7F8E24D5	Randomized Approach to Differential Inference in Multi-subject Functional Connectivity
+
+81395C8C	Mining Genetic Epidemiology Data with Bayesian Networks Application to APOE Gene Variation and Plasma Lipid Levels
+
+7B9DECB4	Markov chain Monte Carlo model determination for hierarchical and graphical log-linear models
+
+7FF9B70B	Learning Factor Graphs in Polynomial Time and Sample Complexity
+
+765C219D	Nonparametric belief propagation for self-calibration in sensor networks
+
+7AAD6555	Multigraph representations of hierarchical loglinear models
+
+7921D0E6	A sparse ising model with covariates
+
+80F77418	Monte Carlo Optimization of Decentralized Estimation Networks Over Directed Acyclic Graphs Under Communication Constraints
+
+76DE6852	Aligning music audio with symbolic scores using a hybrid graphical model
+
+5870F6DE	Convergent Decomposition Solvers for Tree-reweighted Free Energies
+
+80828634	Using Graphical Models to Unobtrusively Assess Student Performance in Educational Image Processing Activities
+
+81547887	Exact Inference in Graphical Models: is There More to it?
+
+5E6A50AD	Kalman Filtering, Factor Graphs and Electrical Networks
+
+80D17453	Representing and Solving Influence Diagram in Multi-Criteria Decision Making: A Loopy Belief Propagation Method
+
+8067D0FB	Cortical circuitry implementing graphical models
+
+5CFD100E	Statistical Relational Learning with Formal Ontologies
+
+7552E012	Quantum Physical Symbol Systems
+
+80A5FC02	Labeled Directed Acyclic Graphs: a generalization of context-specific independence in directed graphical models
+
+5CDD70D3	Contour Matching Based on Belief Propagation
+
+805E5B4D	A Message-Passing Approach to Combating Desynchronization Attacks
+
+80E2A44F	Graphical models-based track association algorithm
+
+70475A0E	Asynchronous decoding of LDPC codes over BEC
+
+260A5B10	Towards Active Event Recognition
+
+6CD8BE0D	Automated Intervertebral Disc Detection from Low Resolution, Sparse MRI Images for the Planning of Scan Geometries
+
+7FE7EB35	A graphical model approach for inferring large-scale networks integrating gene expression and genetic polymorphism.
+
+7C9312D4	Accounting for conformational entropy in predicting binding free energies of protein‐protein interactions
+
+7F33516E	The Mediation Formula: A guide to the assessment of causal pathways in nonlinear models
+
+7D5A3079	Embodiment-specific representation of robot grasping using graphical models and latent-space discretization
+
+7D41281F	Automatic construction of anomaly detectors from graphical models
+
+812C1569	Sufficient Conditions for Convergence of the Sum–Product Algorithm
+
+8067FA57	An algorithm for counting short cycles in bipartite graphs
+
+76148332	The L-separation criterion for description of cs-independence models
+
+7DC356D2	Using physicochemical properties of amino acids to induce graphical models of residue couplings
+
+7FB254B2	A graphical simulation model of the entire DNA process associated with the analysis of short tandem repeat loci.
+
+7CFC799C	Estimating the Wrong Graphical Model: Benefits in the Computation-Limited Setting
+
+7F8FB6C0	Random Redundant Soft-In Soft-Out Decoding of Linear Block Codes
+
+7E822349	Towards Parallel Search for Optimization in Graphical Models
+
+807AFD54	Multiscale Gaussian Graphical Models and Algorithms for Large-Scale Inference
+
+79B16F84	The Probabilistic Program Dependence Graph and Its Application to Fault Diagnosis
+
+7EA5F65F	Weak attributes for large-scale image retrieval
+
+7A58676C	Mixed graphical models for simultaneous model identification and control applied to glucose–insulin metabolism
+
+7FDB17C1	Causal inference for statistical fault localization
+
+0FD8C4B7	Relational Logistic Regression: The Directed Analog of Markov Logic Networks
+
+7C0FF5D1	Technological modelling for graphical models: an approach based on genetic algorithms
+
+7EE885A1	Segmentation of Lumbar Vertebrae Using Part-Based Graphs and Active Appearance Models
+
+7D2F11FB	Universal Grapheme-to-Phoneme Prediction Over Latin Alphabets
+
+7D30D9F3	Soft-in soft-out decoding of Reed-Solomon codes based on Vardy and Be'ery's decomposition
+
+7F50E5CA	A latent discriminative model-based approach for classification of imaginary motor tasks from EEG data
+
+7D5398B2	Structure and strength in causal induction
+
+7F2DDE84	Equivalence Between Bayesian and Credal Nets on an Updating Problem
+
+7F2F44EA	A Method for Inter-organizational Business Process Management
+
+797D4CB6	Logical and Algorithmic Properties of Conditional Independence and Graphical Models
+
+5ABD6156	Tree-Dependent Components of Gene Expression Data for Clustering
+
+064FCB2E	Graphical model approach to pitch tracking
+
+681C3C89	Learning in graphical models
+
+7E62FD1B	Gaussian Multiresolution Models: Exploiting Sparse Markov and Covariance Structure
+
+7A730712	Learning Markov networks: maximum bounded tree-width graphs
+
+7E25BD71	Learning Graphical Models for Hypothesis Testing and Classification
+
+786ED4B0	Combining object and feature dynamics in probabilistic tracking
+
+76778072	Pre-Service Teachers' Empathy and Cognitions: Statistical Analysis of Text Data by Graphical Models.
+
+7E2E62FD	Improving multi-lattice alignment based spoken keyword spotting
+
+77ACBECC	Compressive Nonparametric Graphical Model Selection For Time Series
+
+80DF9F84	Resilience of all-optical network architectures under in-band crosstalk attacks: a probabilistic graphical model approach
+
+7AC5CFF9	Improved large-MIMO detection based on damped belief propagation
+
+7E22D043	Optimal sub-graphical models
+
+76CBDDB3	DDoS attack protection in the era of cloud computing and Software-Defined Networking
+
+76651213	Parametrizations and reference priors for multinomial decomposable graphical models
+
+76B7B17B	Using graphical models to infer multiple visual classification features
+
+7A7B6E32	Dependence trees with copula selection for continuous estimation of distribution algorithms
+
+7D44BA64	On the relationship between deterministic and probabilistic directed Graphical models: From Bayesian networks to recursive neural networks
+
+81F715B6	Learning the Structure of Probabilistic Graphical Models with an Extended Cascading Indian Buffet Process
+
+7E9AB5F8	Penalized likelihood methods for estimation of sparse high-dimensional directed acyclic graphs
+
+5E5A9FB6	Bayesian Learning with Mixtures of Trees
+
+587C8E86	Graph partition strategies for generalized mean field inference
+
+802EBB8B	Learning Latent Tree Graphical Models
+
+7FD79625	Weakly supervised learning of semantic colour terms
+
+812716CD	Fast Inference with Min-Sum Matrix Product
+
+6B6E4433	Bayesian learning in undirected graphical models: approximate MCMC algorithms
+
+80DCD5E4	Exploring Simulated Annealing and Graphical Models for Optimization in Cognitive Wireless Networks
+
+5CF74645	Super-Lift DC-DC Converters: Graphical Analysis and Modelling
+
+762D0754	Tractable learning of large Bayes net structures from sparse data
+
+7E693B69	Representing and Querying Correlated Tuples in Probabilistic Databases
+
+79008829	Fast nonparametric belief propagation for real-time stereo articulated body tracking
+
+803D11F1	Buried Markov models for speech recognition
+
+7EDA1403	Efficient belief propagation for higher-order cliques using linear constraint nodes
+
+7AF172F1	Properties of graphical regression models for multidimensional categorical data
+
+7EE298BF	Graphical Models for Groups: Belief Aggregation and Risk Sharing
+
+5E0A4E55	Binding and cross-modal learning in markov logic networks
+
+7DE20A7F	Tracking Articulated Hand Underlying Graphical Model with Depth Cue
+
+8020877C	Revisiting the Linear Programming Relaxation Approach to Gibbs Energy Minimization and Weighted Constraint Satisfaction
+
+58BE89B7	Probabilistic graphical models for the diagnosis of analog electrical circuits
+
+7ED9B1B6	Normal Factor Graphs
+
+5C699948	Conditional Random Fields for XML Applications
+
+7EF53785	An Introduction to Conditional Random Fields
+
+7F037546	Low-Complexity Detection in Large-Dimension MIMO-ISI Channels Using Graphical Models
+
+5979EFEB	A decomposition algorithm for learning Bayesian network structures from data
+
+7CF1D0CA	Boosted Bayesian network classifiers
+
+8258F065	Modeling and diagnosis of structural systems through sparse dynamic graphical models
+
+7D4873BD	Robust near-isometric matching via structured learning of graphical models
+
+77B80498	Bayesian learning of graphical vector autoregressions with unequal lag-lengths
+
+79E7D2E8	Discrete chain graph models
+
+7E4409FC	Data association based on optimization in graphical models with application to sensor networks
+
+8041E4C7	Who, where, when and what: discover spatio-temporal topics for twitter users
+
+7F99051C	Bayesian methods for multimedia signal processing
+
+801CD5CE	Tool support for the navigation in graphical models
+
+5A6206AE	Unsupervised Extraction of Popular Product Attributes from Web Sites
+
+7ED7FCDE	Graphical framework for action recognition using temporally dense STIPs
+
+775EC279	Graphical modelling for brain connectivity via partial coherence.
+
+7E14A0F0	Graphical modeling and decoding of human actions
+
+7FE5E94B	Modeling methodology of sensor human-simulated and its application in sensing area of irregular graphics
+
+7EA864E1	Dependency networks for relational data
+
+7F72C8F2	Group and topic discovery from relations and text
+
+76559787	Detecting non-gaussian geographical topics in tagged photo collections
+
+5E9BB9DA	Marginalizing and conditioning in graphical models
+
+7EAA7CF7	Scalable pattern mining with Bayesian networks as background knowledge
+
+804C9AC9	Generalized component analysis for text with heterogeneous attributes
+
+7E2327DC	Approximating the permanent with fractional belief propagation
+
+7D56F281	Evaluating Partition Strategies for Mini-Bucket Elimination
+
+5E86932D	Dynamic Programming, Tree-Width, and Computation on Graphical Models
+
+5F36B71C	A discriminative latent model of object classes and attributes
+
+7B9B8F2B	Connections between the lines: augmenting social networks with text
+
+779EA918	A Graphical Method for Assessing the Identification of Linear Structural Equation Models.
+
+68A2FE7B	Bayesian knowledge corroboration with logical rules and user feedback
+
+5BE9F8D7	Spine detection and labeling using a parts-based graphical model
+
+8126095A	Knowledge discovery through directed probabilistic topic models: a survey
+
+7687233E	Labelled Graphical Models
+
+8169165B	Power Watershed: A Unifying Graph-Based Optimization Framework
+
+82434E1D	Relational Logistic Regression
+
+7DFA1216	OOV detection by joint word/phone lattice alignment
+
+797BAB7F	Clothing Co-Parsing by Joint Image Segmentation and Labeling
+
+80F19D28	Conjugate and conditional conjugate Bayesian analysis of discrete graphical models of marginal independence
+
+7DD417FD	Model Selection and Accounting for Model Uncertainty in Graphical Models Using OCCAM's Window
+
+7EC80C0C	Causality with Gates
+
+7978691D	Bayes Admissible Estimation of the Means in Poisson Decomposable Graphical Models
+
+76936D58	Multiple Testing and Error Control in Gaussian Graphical Model Selection
+
+5974D6E2	Efficient Belief Propagation for Utility Maximization and Repeated Inference
+
+8012F935	A binary variable model for affinity propagation
+
+5E70D352	Grouping using factor graphs: an approach for finding text with a camera phone
+
+7CBD3130	A probabilistic model for component-based shape synthesis
+
+7FB50C17	Max Margin AND/OR Graph learning for parsing the human body
+
+804BA374	Building Detection From One Orthophoto and High-Resolution InSAR Data Using Conditional Random Fields
+
+7F888558	Partially Observed Maximum Entropy Discrimination Markov Networks
+
+755A79A7	Semantic extraction with wide-coverage lexical resources
+
+796DBCF6	Belief networks, hidden Markov models, and Markov random fields: a unifying view
+
+781ACC93	Robust Visual Tracking by Integrating Multiple Cues Based on Co-Inference Learning
+
+6F869887	Using Conditional Random Fields for Decision-Theoretic Planning
+
+7DD13DF4	Computing lower and upper expectations under epistemic independence
+
+025C803C	Distribution-Free Learning of Bayesian Network Structure in Continuous Domains
+
+05BC8416	Robust Multi-Person Tracking from Moving Platforms
+
+7ED181D4	EMG signal decomposition by loopy belief propagation
+
+7B368C93	Robust Bayesian Graphical Modeling Using Dirichlet $t$-Distributions
+
+7BF954FD	Distributed message passing for large scale graphical models
+
+809CBCBE	Segmentation-Based View-Dependent 3-D Graphics Model Transmission
+
+7ABF46D7	Multi-view clustering using mixture models in subspace projections
+
+5FDC48EB	Data Mining with Graphical Models
+
+810149DD	Message quantization in belief propagation: Structural results in the low-rate regime
+
+76F0FC07	Bayesian networks and information theory for audio-visual perception modeling
+
+58E2F822	Event Detection Models Using 2d-BN and CRFs
+
+0B07C21B	Graphical models for structural VARMA representations
+
+755D5E8E	Graphical regression models for polytomous variables
+
+7E9D27B5	Graph kernels between point clouds
+
+7DDFB718	Graphical Models for Distributed Inference in Wireless Sensor Networks
+
+8043E958	Resilient Architecture of All-Optical Networks: Probabilistic Graphical Models for Crosstalk Attack Propagation
+
+7F763AA3	How do the structure and the parameters of Gaussian tree models affect structure learning?
+
+80EB1B4A	Sequential particle filtering for conditional density propagation on graphs
+
+7E6FB345	Sketch recognition in interspersed drawings using time-based graphical models
+
+7E027EAC	Map approach to learning sparse Gaussian Markov networks
+
+6B6BDC45	Learning mixtures of DAG models
+
+7860A3D0	Understanding belief propagation and its generalizations
+
+689143AC	Joint Estimation of Multiple Graphical Models from High Dimensional Time Series
+
+78AC8492	Likelihood ratio model for classification of forensic evidence
+
+807589F1	Who will follow you back?: reciprocal relationship prediction
+
+790D68A2	Agent interface enhancement: making multiagent graphical models accessible
+
+7D02C56E	Figure-ground segmentation using a hierarchical conditional random field
+
+7F488721	Efficient construction of reversible jump Markov chain Monte Carlo proposal distributions
+
+80F5CBEE	Identifying Patterns in Texts
+
+8033839E	An introduction to factor graphs
+
+777BA0CF	Bayesian networks for phone duration prediction
+
+7E8023E0	Maximum entropy relaxation for multiscale graphical model selection
+
+803799AB	Self-Adaptive Evidence Propagation on Manycore Processors
+
+7B599A6F	Bayesian analysis in expert systems
+
+2657FAE4	A class of multivariate copulas based on products of bivariate copulas
+
+7B3F1CBC	On dual power assignment optimization for biconnectivity
+
+7D2ADB51	Sparse Forward-Backward Using Minimum Divergence Beams for Fast Training Of Conditional Random Fields
+
+80C3323A	Graphical Models for Inference Under Outcome-Dependent Sampling
+
+02B6B56F	Motion Context: A New Representation for Human Action Recognition
+
+8010DAF0	Elimination is Not Enough: Non-Minimal Triangulations for Graphical Models
+
+7C309282	Building blocks for graphical belief models
+
+7FFD99CA	Bayesian networks classifiers applied to documents
+
+80293175	Robust Multiperson Tracking from a Mobile Platform
+
+7957C884	Grammar factorization by tree decomposition
+
+096AEEA7	Learning Factor Graphs in Polynomial Time & Sample Complexity
+
+7C00D8FE	Reasoning with Probabilistic and Deterministic Graphical Models: Exact Algorithms
+
+722D1719	Switching Hidden Markov Models for Learning of Motion Patterns in Videos
+
+5EE0B4D3	Building Intelligent Sensor Networks with Multiagent Graphical Models
+
+7985E091	Copula Gaussian graphical models and their application to modeling functional disability data
+
+59D8E069	Collective Classification with Relational Dependency Networks
+
+0301A3F5	Square Root SAM
+
+7C193FDB	Message-passing algorithms for compressed sensing
+
+42D404CB	An algorithmic approach to identify irrelevant information in sequential teams
+
+78F52477	Towards combining web classification and web information extraction: a case study
+
+7E61D239	Graphical Models, Exponential Families, and Variational Inference
+
+7EA63066	Scalable Fault Diagnosis in IP Networks using Graphical Models: A Variational Inference Approach
+
+5F6DDD01	Tightening LP Relaxations for MAP using Message Passing
+
+0E909DDA	Scalable Dynamic Nonparametric Bayesian Models of Content and Users
+
+7C693E27	On the impact of contaminations in graphical Gaussian models
+
+80D0DD2E	Optimal covariance selection for estimation using graphical models
+
+80410DD5	Conditional State Space Models for Discriminative Motion Estimation
+
+589EEA28	Conditioning graphs: practical structures for inference in bayesian networks
+
+5F5B3895	On triangulating dynamic graphical models
+
+80C10E4E	Graphical models for game theory
+
+7884FC23	Graphical interaction models for multivariate time series 1
+
+8071133E	Control study of fuel cell and supercapacitors system using Hybrid Dynamic Nets
+
+7ED9E3E7	High-dimensional Ising model selection using ℓ1-regularized logistic regression
+
+80B2EBAC	Color to Gray: Visual Cue Preservation
+
+7750DA47	SEMIPARAMETRIC REGRESSION AND GRAPHICAL MODELS
+
+83794961	Graph inference enhancement with clustering: Application to Gene Regulatory Network reconstruction
+
+05351BAE	Graphical Models: Selecting causal and statistical models
+
+816573A6	Bayesian Analysis of Marginal Log-Linear Graphical Models for Three Way Contingency Tables
+
+7745FCE6	A novel reversible jump algorithm for generalized linear models
+
+7E3EF7BF	Lightweight map matching for indoor localisation using conditional random fields
+
+7ECC7E83	Probabilistic Graphical Model for Auto-Annotation, Content-Based Retrieval, and Classification of TV Clips Containing Audio, Video, and Text
+
+5EEE044E	A hybrid framework for image segmentation using probabilistic integration of heterogeneous constraints
+
+802DA681	Gradient-based boosting for statistical relational learning: The relational dependency network case
+
+7D2BFC66	Approximate inference and protein folding
+
+80951F84	Graphical models for localization of the seizure focus from interictal intracranial EEG
+
+76CAC348	Combining Conditional Log-Linear Structures
+
+80075029	Bayesian inference for categorical data analysis
+
+80652F23	A latent model for collaborative filtering
+
+7E858056	The graphical models toolkit: An open source software system for speech and time-series processing
+
+5F113539	Robots that learn language: developmental approach to human-machine conversations
+
+80DC1B7C	On the Validity of the Markov Interpretation of Path Diagrams of Gaussian Structural Equations Systems with Correlated Errors
+
+801D527C	An interactive approach for Bayesian network learning using domain/expert knowledge
+
+7C19C4DC	A few good predictions: selective node labeling in a social network
+
+7D482764	A Bayesian Algorithm for Reading 1D Barcodes
+
+7A8EB39B	User Interest and Topic Detection for Personalized Recommendation
+
+80C6D5CD	Iterative Proportional Scaling Based on a Robust Start Estimator
+
+7678CA74	Detection of Information Flow in Major International Financial Markets by Interactivity Network Analysis
+
+7B52BDB6	The uncertainty of a selected graphical model
+
+5AF5B15C	Blind Signal Separation and Extraction: Recent Trends, Future Perspectives, and Applications
+
+7AC71C99	Energy-Efficient and Robust In-Network Inference in Wireless Sensor Networks
+
+0B831FB1	Learning Classifiers for Assigning Protein Sequences to Gene Ontology Functional Families
+
+802ED99E	Causal probabilistic networks with both discrete and continuous variables
+
+82A7DAA9	Filtering Decomposable Global Cost Functions
+
+7DB77B74	Variational methods for the Dirichlet process
+
+7D98E761	Polynomial Linear Programming with Gaussian belief propagation
+
+7B3E6E6C	A graphical (Bayes net) molecular model of the entire DNA STR process to aid interpretation
+
+5A14EA51	Non-Minimal Triangulations for Mixed Stochastic/Deterministic Graphical Models
+
+7EF55ED4	Estimation in Gaussian Graphical Models Using Tractable Subgraphs: A Walk-Sum Analysis
+
+80961A94	Using context information and local feature points in face clustering for consumer photos
+
+5D65B33D	An empirical comparison of inference algorithms for graphical models with higher order factors using openGM
+
+7F56DF38	Learning 4D action feature models for arbitrary view action recognition
+
+7646A737	Object-oriented graphical modeling of FMSs
+
+7FD667D8	Assessing the strength of directed influences among neural signals using renormalized partial directed coherence
+
+7A9B2DC7	A Unified Approach to the Characterization of Equivalence Classes of DAGs, Chain Graphs with no Flags and Chain Graphs
+
+7FCB0364	USING PROBABILISTIC GRAPHICAL MODELS TO DRAW INFERENCES IN SENSOR NETWORKS WITH TRACKING APPLICATIONS
+
+7C54B5EC	Markov bases for decomposable graphical models
+
+76E59B48	Loop Calculus For Nonbinary Alphabets Using Concepts From Information Geometry
+
+7E180FF4	Scalability of network-failure resilience: analysis using multi-layer probabilistic graphical models
+
+773A6170	Bayesian networks for discrete multivariate data: an algebraic approach to inference
+
+7F2566BC	Graphical Model of Cardiac Electromagnetic Source
+
+812CD2E4	Dynamical structure functions for the reverse engineering of LTI networks
+
+800264B6	Learning Markov Structure by Maximum Entropy Relaxation
+
+5F4361E2	Implementing First-Order Variables in a Graphical Cognitive Architecture
+
+63E82B62	Dependence Structure Estimation via Copula
+
+7B1A914F	The Analysis of Contingency Tables: From Chi-Squared Tests and Log-Linear Models to Models of Mixed Membership
+
+7D231FF7	Scaling laws for learning high-dimensional Markov forest distributions
+
+6EC92A46	Finding Deformable Shapes by Point Set Matching Through Nonparametric Belief Propagation
+
+75B2E3D2	Virtual reality training system for minimally invasive surgery of inguinal hernia
+
+814D1F1C	Influence Diagrams for Causal Modelling and Inference
+
+81062D9B	Nonparametric Boxed Belief Propagation for Localization in Wireless Sensor Networks
+
+8052FE3E	Biomarker signature identification in "omics" data with multi-class outcome.
+
+7F021873	Human Action Recognition by Semilatent Topic Models
+
+7DC391AD	A New Graphical Game Model Based on MAIDs and AIDs
+
+7C97177D	Mining comparative opinions from customer reviews for Competitive Intelligence
+
+80F62678	People-LDA: Anchoring Topics to People using Face Recognition
+
+7574A72A	Efficient identification of independence networks using mutual information
+
+7D1310CD	Statistical entity-topic models
+
+81663ABD	DBN-based multi-stream models for Mandarin toneme recognition
+
+7F90BCEF	Visual tracking using high-order Monte Carlo Markov chain
+
+7B46345B	Correspondence analysis and association models constrained by a conditional independence graph
+
+8003BB71	Formalizing and integrating the dynamic model for object-oriented modeling
+
+7F635D05	A graphical model for formant tracking
+
+7A12A061	Creating non-minimal triangulations for use in inference in mixed stochastic/deterministic graphical models
+
+7ECD73E8	Loopy Substructural Local Search for the Bayesian Optimization Algorithm
+
+7BA7FBD3	Robust Bayesian clustering
+
+77AC6920	Hierarchical Graphical Models for Simultaneous Tracking and Recognition in Wide-Area Scenes
+
+768F7EB9	Dependency parsing by belief propagation
+
+7BB76B90	A graphical characterization of the largest chain graphs
+
+7DB19007	C^4: Exploring Multiple Solutions in Graphical Models by Cluster Sampling
+
+80393B69	Hybrid in-database inference for declarative information extraction
+
+7C1F0846	Sensitivity analysis of violations of the faithfulness assumption
+
+7728EE1D	Reference priors for linear models with general covariance structures
+
+04BD0309	A MCMC Approach for Learning the Structure of Gaussian Acyclic Directed Mixed Graphs
+
+7C783CD7	Variations on Undirected Graphical Models and their Relationships
+
+7FC419E2	Context awareness in graph-based image semantic segmentation via visual word distributions
+
+76369827	Tree consistency and bounds on the performance of the max-product algorithm and its generalizations
+
+7F07B6AE	A Model Integrated Framework for Designing Self-managing Computing Systems
+
+7EDA8A19	Damped Belief Propagation Based Near-Optimal Equalization of Severely Delay-Spread UWB MIMO-ISI Channels
+
+779B08D3	Brain connectivity in positive and negative syndrome schizophrenia.
+
+0FC8084C	Comparative network analysis of human cancer: sparse graphical models with modular constraints and sample size correction
+
+7CEED575	Identification of Causal Effect with the Non-Compliance and Its EM Algorithm
+
+7E65412F	Real-time object recognition using relational dependency based on graphical model
+
+8087A2F9	Probabilistic Image Modeling With an Extended Chain Graph for Human Activity Recognition and Image Segmentation
+
+7F88A417	Learning multi-linear representations of distributions for efficient inference
+
+77F4FEAB	New probabilistic graphical models for genetic regulatory networks studies
+
+7C361BDB	Recommender system in collaborative learning environment using an influence diagram
+
+7FDA9E5F	Automatic Person Annotation of Family Photo Album
+
+7EF9B6C5	A universal algebraic approach for conditional independence
+
+615FC26A	The Lazy Flipper: MAP Inference in Higher-Order Graphical Models by Depth-limited Exhaustive Search
+
+7774BDFD	Factorization of posteriors and partial imputation algorithm for graphical models with missing data
+
+7B4322CB	Information retrieval and applications of graphical models (IRGM 2007)
+
+77ADA1E0	Statistical analysis of complex health and social data
+
+0B90A9BB	Evaluation of a first-order primal-dual algorithm for MRF energy minimization
+
+5F212E49	Scene interpretation: unified modeling of visual context by particle-based belief propagation in hierarchical graphical model
+
+7F4642F0	Network exploration via the adaptive LASSO and SCAD penalties
+
+7B77FC3D	Credal networks under epistemic irrelevance: The sets of desirable gambles approach
+
+80601349	Simulation-based estimation of the partition function and the information rate of two-dimensional models
+
+7F3E0583	Exact and Approximate Sampling by Systematic Stochastic Search
+
+7A71B039	Parameter Priors for Directed Acyclic Graphical Models and the Characterization of Several Probability Distributions
+
+7AA79541	Convergence of Min-Sum Message Passing for Quadratic Optimization
+
+800B66EA	Semidefinite methods for approximate inference on graphs with cycles
+
+5CAA6BA6	Piecewise Training with Parameter Independence Diagrams: Comparing Globally- and Locally-trained Linear-chain CRFs
+
+58D0ADE3	Imitation Learning Using Graphical Models
+
+78FE576A	Object-oriented finite element programming—the importance of data modelling
+
+5E8D7A67	Methods for Integrating Knowledge with the Three-Weight Optimization Algorithm for Hybrid Cognitive Processing
+
+7EABCD1B	Cycle length distributions in graphical models for iterative decoding
+
+7EB16982	Joint Sulcal Detection on Cortical Surfaces With Graphical Models and Boosted Priors
+
+5F84E9CA	Novelty detection using graphical models for semantic room classification
+
+595DA3D3	Graphical Models as Languages for Computer Assisted Diagnosis and Decision Making
+
+796B0E15	Within-host co-evolution of Gag P453L and protease D30N/N88D demonstrates virological advantage in a highly protease inhibitor-exposed HIV-1 case
+
+802E1746	Link between Sum-Product and Gradient Projection Decoding of LDPC Codes: An Intermediate Algorithm
+
+7F09DF82	Semi-automatic segmentation for 3D motion analysis of the tongue with dynamic MRI
+
+7E756E2B	Probabilistic contour extraction using hierarchical shape representation
+
+7A5EF539	Causal analysis with Chain Event Graphs
+
+7D457A8B	Relational Dependency Networks
+
+7D0E393A	Propagation algorithms for variational Bayesian learning
+
+7E90964F	Context-based graphical modeling for wavelet domain signal processing
+
+75B5F394	A Comparison of Spillover Effects before, during and after the 2008 Financial Crisis
+
+7F579808	EFFICIENT MARKOV NETWORK DISCOVERY USING PARTICLE FILTERS
+
+7963E765	The evaluation of evidence in the forensic investigation of fire incidents (Part I): An approach using Bayesian networks
+
+5B2E6F1B	Bayesian updating in recursive graphical models by local computations
+
+7478D14E	Distributed Estimation of Variance in Gaussian Graphical Model via Belief Propagation: Accuracy Analysis and Improvement
+
+7CA11A71	Logical and algorithmic properties of stable conditional independence
+
+7E721AED	Discriminative Fields for Modeling Semantic Concepts in Video
+
+775D1E55	The Skew-normal Distribution and Related Multivariate Families.
+
+813BFF82	Identifying significant edges in graphical models of molecular networks
+
+781C61C3	A log-linear approach to mining significant graph-relational patterns
+
+7F8CD74E	Inference of gene-regulatory networks using message-passing algorithms
+
+7EE39034	Graphical Models for Structured Classification, with an Application to Interpreting Images of Protein Subcellular Location Patterns
+
+7FB287C6	Decision tree fields
+
+59BE9F78	A Probabilistic Graphical Model for Recognizing NP Chunks in Texts
+
+7F9DACE7	Demonstrating Patterns in the Views of Stakeholders Regarding Ethically Salient Issues in Clinical Research: A Novel Use of Graphical Models in Empirical Ethics Inquiry
+
+7604C4DE	Bayesian MCMC mapping of quantitative trait loci in a half-sib design: a graphical model perspective
+
+7F0CB104	MRF Energy Minimization and Beyond via Dual Decomposition
+
+642B685A	Bounds on the number of inference functions of a graphical model
+
+802C3907	Graphical Models in Local, Asymmetric Multi-Agent Markov Decision Processes
+
+7A7E8375	Data association by loopy belief propagation
+
+7CE8F0A4	Sparse Estimation of Conditional Graphical Models With Application to Gene Networks
+
+7CEC5799	Applications of belief propagation in CSMA wireless networks
+
+80BDD0FB	ECOC-DRF: Discriminative random fields based on error correcting output codes
+
+79F1DD1C	Learning and Inferring Motion Patterns using Parametric Segmental Switching Linear Dynamic Systems
+
+5CA57AB0	An Auxiliary Variational Method
+
+7E7BAFF0	Bayesian learning of measurement and structural models
+
+133025B2	Extracting and Querying Probabilistic Information in BayesStore
+
+75F71BD7	Extended Semantics and Optimization Algorithms for CP‐Networks
+
+04180E78	Variational inference in graphical models: The view from the marginal polytope
+
+7E8F41FE	Supervised classification using probabilistic decision graphs
+
+808AF48B	Program verification as probabilistic inference
+
+5FBBF048	The semi-explicit shape model for multi-object detection and classification
+
+801E610D	Fixing Max-Product: Convergent Message Passing Algorithms for MAP LP-Relaxations
+
+791E690C	Graphs, Causality, and Structural Equation Models
+
+8155C099	Modeling Differential Item Functioning Using a Generalization of the Multiple-Group Bifactor Model.
+
+5E1C7D19	Labeling Still Image Databases Using Graphical Models
+
+58A10F9B	Near-optimal nonmyopic value of information in graphical models
+
+7D1981EA	Linear response algorithms for approximate inference in graphical models
+
+5AC8387F	Three dimensional visualization to support command and control
+
+7F5CB973	Directed Information Graphs
+
+78BBEBFE	This Hand Is My Hand: A Probabilistic Approach to Hand Disambiguation in Egocentric Video
+
+811A02AE	BM³E : Discriminative Density Propagation for Visual Tracking
+
+79E22E4F	Temporal Hierarchical Adaptive Texture CRF for Automatic Detection of Gadolinium-Enhancing Multiple Sclerosis Lesions in Brain MRI
+
+7D0E0F4E	A language for construction of belief networks
+
+5CD804CD	Discussion of “Learning Equivalence Classes of Acyclic Models with Latent and Selection Variables from Multiple Datasets with Overlapping Variables”
+
+5FC4D8FF	Human Pose Estimation in Vision Networks Via Distributed Local Processing and Nonparametric Belief Propagation
+
+7F42F6A2	A new class of upper bounds on the log partition function
+
+770A3ED9	Low-level grounding in a multimodal mobile service robot conversational system using graphical models
+
+7E9636BC	An algebraic graphical model for decision with uncertainties, feasibilities, and utilities
+
+78CA93AB	PEMPIs: a new methodology of modeling and prediction of MPI programs performance
+
+75521E4F	iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree
+
+80379CA8	Model Selection Through Sparse Maximum Likelihood Estimation for Multivariate Gaussian or Binary Data
+
+810114F8	Probabilistic graphical models and their role in databases
+
+81792299	CRF-Based Segmentation of Human Tear Meniscus Obtained with Optical Coherence Tomography
+
+81189F83	Necessary conditions for consistent set-based graphical model selection
+
+7D1658A9	Multi-modal Sequential Monte Carlo for On-Line Hierarchical Graph Structure Estimation in Model-based Scene Interpretation
+
+6DB5922A	Estimating heterogeneous graphical models for discrete data with an application to roll call voting
+
+80958781	A conditional random field viewpoint of symbolic audio-to-score matching
+
+7B3BB93C	Efficient message computation in Sigma’s graphical architecture
+
+7940DD7F	A Two-Level Model for Evidence Evaluation in the Presence of Zeros
+
+7F7A6C80	A New Approach to Early Sketch Processing
+
+777562E9	Part-based localisation and segmentation of landmark-related auditory cortical regions
+
+798BF878	Learning from weakly labeled faces and video in the wild
+
+80D61CFF	Brain Graphs: Graphical Models of the Human Brain Connectome
+
+7A63EEE8	Case-control association testing by graphical modeling for the Genetic Analysis Workshop 17 mini-exome sequence data
+
+5849C5D7	Variational methods for inference and estimation in graphical models
+
+7FC39845	Linear Programming Relaxations and Belief Propagation -- An Empirical Study
+
+7CEF8A68	On capturing spatio-temporal factors in cognitive network channel selection
+
+7E0C7757	Data Fusion Algorithms for Collaborative Robotic Exploration
+
+7D5828CE	Convex surrogates and stable message-passing: joint parameter estimation and prediction in coupled gaussian mixture models
+
+7EB22E78	Towards Efficient and Exact MAP-Inference for Large Scale Discrete Computer Vision Problems via Combinatorial Optimization
+
+78EEB089	A review of representation issues and modeling challenges with influence diagrams
+
+769B3F2F	Efficient estimation of covariance selection models
+
+7E0F0E4A	Embedded trees: estimation of Gaussian Processes on graphs with cycles
+
+7C122049	Data driven mean-shift belief propagation for non-gaussian MRFs
+
+7B16A8C1	Comparative analysis of current and magnetic multipole graphical models
+
+78D9D0D7	Markov properties of nonrecursive causal models
+
+7D1C973B	Combining morphological analysis and Bayesian Networks for strategic decision support
+
+80E809E5	Two Optimal Strategies for Active Learning of Causal Models from Interventional Data
+
+7C1B2AFC	Structure of the high-order Boltzmann machine from independence maps
+
+5C9793AA	Geometric Representations of Hypergraphs for Prior Specification and Posterior Sampling
+
+7B13384D	Causal Reasoning from Longitudinal Data*
+
+80BE101F	Recovering articulated object models from 3D range data
+
+5881385E	Adaptive Inference on General Graphical Models
+
+7F4F71A0	Log-determinant relaxation for approximate inference in discrete Markov random fields
+
+7D6785E8	Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks
+
+7DBD8696	Segmentation, ordering and multi-object tracking using graphical models
+
+80D20076	Lagrangian Relaxation for MAP Estimation in Graphical Models
+
+77221E15	Analysing the allometry of multiple interacting traits
+
+7F269CE3	Conditional Models of Identity Uncertainty with Application to Noun Coreference
+
+7963AE86	A Unifying Learning Framework for Building Artificial Game-Playing Agents
+
+7EC122B8	( A review of a broad set of sparse models, analysis tools, and recovery algorithms within the graphical models formalism )
+
+76E6F502	The Author-Topic-Community model for author interest profiling and community discovery
+
+039A5E7C	Learning Random Attributed Relational Graph for Part-based Object Detection
+
+7E91B0FF	Marginal conditional independence models with application to graphical modeling
+
+756B4845	New skeleton-based approaches for Bayesian structure learning of Bayesian networks
+
+814D9781	A Novel Graphical Model Approach to Segmenting Cell Images
+
+7F7E817E	Jointly interventional and observational data: estimation of interventional Markov equivalence classes of directed acyclic graphs
+
+782C09BA	A new reachability tree for unbounded Petri nets
+
+77C55406	On Granger-causality and the effect of interventions in time series
+
+7D4F0A7F	Linear-Programming Receivers
+
+583DDECC	AND/OR cutset conditioning
+
+7F251B50	Learning for Collective Information Extraction
+
+7F160931	On the role of structure in part-based object detection
+
+795C2806	Variational Bayes learning of graphical models with hidden variables
+
+7A89250C	On the Markov Equivalence of Chain Graphs, Undirected Graphs, and Acyclic Digraphs
+
+80474F5B	A Graphical Model Formulation of the DNA Base-Calling Problem
+
+7EA41B76	Hybrid body representation for integrated pose recognition, localization and segmentation
+
+5A94FE0B	Probability Density Estimation by Perturbing and Combining Tree Structured Markov Networks
+
+7F404511	A Stochastic Context-Free Grammar Model for Time Series Analysis
+
+80F78F03	Joint estimation of multiple graphical models
+
+80D79678	Variable-Structure Systems from Graphs and Grammars
+
+8145F3A2	Bayesian graphical models for software testing
+
+756DFFAC	A data mining approach to predictive vegetation mapping using probabilistic graphical models
+
+7E9E24B3	Modeling and estimation in Gaussian graphical models : maximum-entropy methods and walk-sum analysis
+
+58B3BEE6	Distribution-free Learning of Bayesian Network Structure
+
+0B3DF1D2	A Survey of Link Prediction in Social Networks
+
+7B9F6DC3	Faster graphical models for point-pattern matching
+
+7D7548B6	Gaussian belief propagation solver for systems of linear equations
+
+7DE06A99	Extracting information from multimedia meeting collections
+
+7E4E9E40	A Robust Facial Feature Point Tracker using Graphical Models
+
+7E3B445F	Model determination for categorical data with factor level merging
+
+80022A1A	What, where and who? Classifying events by scene and object recognition
+
+7CF1A9CF	Efficient mean shift belief propagation for vision tracking
+
+75AAD41D	Causal conditioning and instantaneous coupling in causality graphs
+
+80D8380F	Piecewise pseudolikelihood for efficient training of conditional random fields
+
+798EB089	Case-factor diagrams for structured probabilistic modeling
+
+80CE7B81	A tutorial on Bayes factor estimation with the product space method
+
+7CBDC4F6	A study of Nesterov's scheme for Lagrangian decomposition and MAP labeling
+
+7715C76C	Learning structures from data and experts
+
+7D7BD812	How To Grade a Test Without Knowing the Answers --- A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing
+
+815175FA	Automatic extraction of femur contours from calibrated x-ray images: A Bayesian inference approach
+
+754C897D	Dynamic decision making for graphical models applied to oil exploration
+
+7838792B	Latent interest-topic model: finding the causal relationships behind dyadic data
+
+3588237C	Adaptive multi-level conditional random fields for detection and segmentation of small enhanced pathology in medical images.
+
+17BA5F88	Letters: Joint estimation of linear non-Gaussian acyclic models
+
+7EBC63F1	Joint estimation of linear non-Gaussian acyclic models
+
+7F1DDDB9	Grouped graphical Granger modeling for gene expression regulatory networks discovery
+
+816E0A50	Entity Resolution with Markov Logic
+
+7C3557E1	Tracking 3D human pose with large root node uncertainty
+
+81383FBC	Nonparametric belief propagation
+
+764E75A9	Conjunctive Bayesian networks
+
+7D2EB57B	Learning for Structured Prediction Using Approximate Subgradient Descent with Working Sets
+
+7EA79FED	Exponential Family Harmoniums with an Application to Information Retrieval
+
+7FB3C06C	On factor graphs and the Fourier transform
+
+775C81C7	Mining and visualising ordinal data with non-parametric continuous BBNs
+
+0A937DDD	Approximating the Sum Operation for Marginal-MAP Inference
+
+7A521808	A survey on independence-based Markov networks learning
+
+7D634A2F	Characterization and greedy learning of interventional Markov equivalence classes of directed acyclic graphs
+
+5AD71BAE	ARMA time-series modeling with graphical models
+
+7F4EA2A0	Bayesian Compressive Sensing Via Belief Propagation
+
+7D4D8874	SampleSearch: Importance sampling in presence of determinism
+
+778E031C	Scalable diagnosis in IP networks using path-based measurement and inference: A learning framework
+
+782FAF94	A Bayesian network model for surface roughness prediction in the machining process
+
+638196DE	Operations for Learning with Graphical Models
+
+797C0E20	Complex adaptive filtering user profile using graphical models
+
+809D03EB	Human Object Inpainting Using Manifold Learning-Based Posture Sequence Estimation
+
+30D08B0D	Graphically dependent and spatially varying Dirichlet process mixtures
+
+80C4D6D7	Ontology-Based Protein-Protein Interactions Extraction from Literature Using the Hidden Vector State Model
+
+7D80FAD2	Real-time state estimation on micro-grids
+
+75191F45	Quantification of margins and uncertainties: A probabilistic framework
+
+8129BE13	Variational maximum a posteriori by annealed mean field analysis
+
+7EAAE6BC	Gradient Directed Regularization for Sparse Gaussian Concentration Graphs, with Applications to Inference of Genetic Networks
+
+7FB04CC2	Knowledge Discovery from Citation Networks
+
+752491EA	What Can Causal Networks Tell Us about Metabolic Pathways?
+
+8110B4C0	Distributed High Accuracy Peer-to-Peer Localization in Mobile Multipath Environments
+
+80D007AF	Understanding human functioning using graphical models
+
+5C53ED56	Understanding and improving belief propagation
+
+806618C3	A study of statistical models for query translation: finding a good unit of translation
+
+81478D38	Efficient Lifting for Online Probabilistic Inference
+
+81577373	Discriminative structure and parameter learning for Markov logic networks
+
+5BA9230C	Using Recursive Decomposition to Construct Elimination Orders, Jointrees, and Dtrees
+
+0BDADE75	AND/OR Branch-and-Bound for Graphical Models
+
+5BCC432B	Bayesian Graphical Models and Networks
+
+793FDB44	Generalized graphical models for discrete data
+
+7CD12547	Efficient Bayesian Inference for Multivariate Probit Models With Sparse Inverse Correlation Matrices
+
+7CEF18CC	Graphical Models and Automatic Speech Recognition
+
+76E3283E	Bayesian structure learning in graphical models
+
+5F7BB055	Finding Deformable Shapes Using Loopy Belief Propagation
+
+76226AE3	Characterizing allelic associations from unphased diploid data by graphical modeling
+
+7DD19E5F	Objective Bayes Factors for Gaussian Directed Acyclic Graphical Models
+
+7E010EA2	Quasi‐Symmetric Graphical Log‐Linear Models
+
+84406FA4	Efficient inference algorithms for near-deterministic systems
+
+7B6DDE7A	Learning message-passing inference machines for structured prediction
+
+79B9CC7E	Learning AMP Chain Graphs and some Marginal Models Thereof under Faithfulness
+
+7E271971	Integration of multiple contextual information for image segmentation using a Bayesian Network
+
+80C8180F	High-Dimensional Graphical Model Search with the gRapHD R Package
+
+7B245201	Learning from imprecise data: possibilistic graphical models
+
+7BD7AF51	Active clustering of document fragments using information derived from both images and catalogs
+
+79C1CDF2	Decision-theoretic specification of credal networks: A unified language for uncertain modeling with sets of Bayesian networks
+
+76F0AFA2	Extended message passing algorithm for inference in loopy Gaussian graphical models
+
+7ECF785C	Dialog act tagging using graphical models
+
+7EE74A14	Identification of synaptic connections in neural ensembles by graphical models
+
+772B6BC6	Using Correlation Proximity Graphs to Study Phenotypic Integration
+
+8166A247	Max-Product for Maximum Weight Matching: Convergence, Correctness, and LP Duality
+
+80D10329	Phrase-based statistical language generation using graphical models and active learning
+
+7931DCFB	Wishart distributions for decomposable covariance graph models
+
+01A74ECD	A study on graphical model structure for representing statistical shape model of point distribution model
+
+7B08BBD3	Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing
+
+78DF3652	A hybrid random field model for scalable statistical learning
+
+78962863	Pseudo-junction tree method for cooperative localization in wireless sensor networks
+
+7CF2BE9D	Putting the pieces together: Connected Poselets for human pose estimation
+
+675EE8F1	A Discriminative Approach to Structured Biological Data
+
+5DA00E3F	The Variational Bayesian EM Algorithm for Incomplete Data: with Application to Scoring Graphical Model Structures
+
+8072BEF9	The mode oriented stochastic search (MOSS) algorithm for log-linear models with conjugate priors
+
+7C7FFC7E	Maximum likelihood bounded tree-width Markov networks
+
+7870F90E	Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users
+
+7EEFE5EC	Gene Expression Network Reconstruction by Convex Feature Selection when Incorporating Genetic Perturbations
+
+801EEBA2	Discovering geographical topics in the twitter stream
+
+82271059	Large-scale online sequential behavior analysis with latent graphical model
+
+6EAEA6CA	Probabilistic, and Empirical Grounded Modeling of Agents in Partial Cooperative (Traffic) Scenarios
+
+7D969F9A	3-D scene analysis via sequenced predictions over points and regions
+
+801F6C21	Label Propagation from ImageNet to 3D Point Clouds
+
+01C5E9FB	Large Margin Boltzmann Machines
+
+7E2BD0A4	Monte Carlo inference via greedy importance sampling
+
+7E1FB6E3	Knwoledge revision in Markov networks
+
+80964124	Bayes nets and babies: infants’ developing statistical reasoning abilities and their representation of causal knowledge
+
+814F228B	libDAI: A Free and Open Source C++ Library for Discrete Approximate Inference in Graphical Models
+
+7DEEACDD	Bayesian Map Learning in Dynamic Environments
+
+803A1704	2D articulated tracking with dynamic Bayesian networks
+
+809FD34A	Overlapping decomposition for causal graphical modeling
+
+7A4513FC	Buried Markov models: a graphical-modeling approach to automatic speech recognition
+
+77D0B298	A linear programming approach for estimating the structure of a sparse linear genetic network from transcript profiling data.
+
+60ACCE35	Best-first AND/OR search for 0/1 integer programming
+
+7D88050D	Object categorization by compositional graphical models
+
+80D4C990	Estimation of the hemodynamic response in event-related functional MRI: Bayesian networks as a framework for efficient Bayesian modeling and inference
+
+802E1580	TCP − Compose ⋆ – A TCP-Net Based Algorithm for Efficient Composition of Web Services Using Qualitative Preferences
+
+7A970FAF	Bayesian inference for general Gaussian graphical models with application to multivariate lattice data
+
+79D8AE4D	Recursive sum-product algorithm for generalized outer-planar graphs
+
+63D165AC	Learning of graphical models and efficient inference for object class recognition
+
+80644789	AND/OR search spaces for graphical models
+
+79CF82E7	Probabilistic Reasoning in Multi-Agent Systems: A Graphical Models Approach
+
+7E0E2009	Dynamic Financial Index Models: Modeling Conditional Dependencies via Graphs
+
+7617B295	Probabilistic image segmentation with closedness constraints
+
+07035DF2	A discrete chain graph model for 3d+t cell tracking with high misdetection robustness
+
+80F07C46	Reinforcement learning with markov logic networks
+
+7D919B1B	Shape Matching with Belief Propagation: Using Dynamic Quantization to Accomodate Occlusion and Clutter
+
+80CE10A5	Tree-based reparameterization framework for analysis of sum-product and related algorithms
+
+7C85A4A4	Bayesian network modeling for evolutionary genetic structures
+
+7F0BDE6B	Robust and Low Complexity Distributed Kernel Least Squares Learning in Sensor Networks
+
+75E570D1	Markov logic networks
+
+59667211	Activity recognition in smart homes using absolute temporal information in dynamic graphical models
+
+7EB276D4	On Combining Graph-based Variance Reduction schemes
+
+7D61020D	Graphical models for panel studies, illustrated on data from the framingham heart study
+
+7B1E7701	Bayesian method for learning graphical models with incompletely categorical data
+
+7FD65178	A new framework for machine learning
+
+7FDF1CC0	On hybrid factor graphs and adaptive equalization
+
+09C677A6	A Tractable First-Order Probabilistic Logic
+
+81300982	Graphical modelling of multivariate time series
+
+7E66E464	High-dimensional Covariance Estimation Based On Gaussian Graphical Models
+
+7760B68D	Learning statistical models from relational data
+
+7B1BA879	Enumerating the decomposable neighbors of a decomposable graph under a simple perturbation scheme
+
+7FC07E04	Reduction of Graphical Model and Genetic Algorithm for Computing Approximate Nash Equilibrium in Static Games
+
+7F4F5775	Tree of Latent Mixtures for Bayesian Modelling and Classification of High Dimensional Data
+
+7B0A3C44	Bayes net graphs to understand co-authorship networks?
+
+5C5CAF86	Automatic Construction of Bayesian Network Structures by Means of a Concurrent Search Mechanism
+
+5FE0F88D	A Decision theoretic view on choosing heuristics for discovery of graphical models
+
+6BE5B956	A computational framework for package planning
+
+770A1B79	The use of Bayesian inversion to resolve plasma equilibrium
+
+7F74C226	A new approach to rapid PN code acquisition using iterative message passing techniques
+
+774F3C4A	Updating credal networks is approximable in polynomial time
+
+02DA36FB	Dynamic Orderings for AND/OR Branch-and-Bound Search in Graphical Models
+
+7E0F0DEF	Efficient MAP approximation for dense energy functions
+
+7F41D1DE	Robust distributed estimation in sensor networks using the embedded polygons algorithm
+
+767C9B7D	Locally averaged Bayesian Dirichlet metrics for learning the structure and the parameters of Bayesian networks
+
+80A25501	Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology
+
+7F1D9C9E	Mappings between probabilistic Boolean networks
+
+7ED501EB	Scalable Node-Level Computation Kernels for Parallel Exact Inference
+
+76EE3969	Taming graphical modeling
+
+77F66EBD	Debiasing crowdsourced quantitative characteristics in local businesses and services
+
+7EDAC16C	Variational Probabilistic Speech Separation Using Microphone Arrays
+
+7D70CD44	Learning probabilistic networks
+
+7D179D7C	Depth and Appearance for Mobile Scene Analysis
+
+810B6B6A	The joint graphical lasso for inverse covariance estimation across multiple classes
+
+7FBF0AA6	Decision making with multiple objectives using GAI networks
+
+5DD1824A	Knowledge-Based Operations for Graphical Models in Planning
+
+7FA404E9	Effective data association scheme for tracking closely moving targets using factor graphs
+
+7F9B7158	Accurate and Robust Registration of Nonrigid Surface Using Hierarchical Statistical Shape Model
+
+7B45DFB5	Fast Structured Prediction Using Large Margin Sigmoid Belief Networks
+
+5F703252	Solving the Uncapacitated Facility Location Problem Using Message Passing Algorithms
+
+813F65C0	Graphical Models for Joint Segmentation and Recognition of License Plate Characters
+
+7EEF2E17	Learning partially-observed hidden conditional random fields for facial expression recognition
+
+5B1A04CA	Combining Bayesian Networks with Higher-Order Data Representations
+
+75A75DCF	On Convergence Conditions of Gaussian Belief Propagation
+
+7DD3E633	Continuous-time Infinite Dynamic Topic Models
+
+801899A1	Sensor localization using nonparametric generalized belief propagation in network with loops
+
+7A10F3C0	Effectiveness of combinations of Gaussian graphical models for model building
+
+60A12331	Generalized belief propagation for estimating the partition function of the 2D Ising model
+
+5A3F05E4	Proposed design for gR, a graphical models toolkit for R
+
+7E7122BC	Labeled graph notations for graphical models Extended Report
+
+75E401AD	A Scale-Free Structure Prior for Graphical Models with Applications in Functional Genomics
+
+6280BE62	Parallelizing a convergent approximate inference method
+
+8112E04B	Increasingly correct message passing algorithms for heat source detection in sensor networks
+
+7F25F527	Peer-to-Peer Rating
+
+813D4EB8	Graphical models for inferring single molecule dynamics
+
+5A0C9118	A graphical model approach to automated classification of protein subcellular location patterns in multi-cell images.
+
+7E61DC5A	A unified approach to ranking in probabilistic databases
+
+58C583FC	Estimation of the Hemodynamic Response Function in Event-Related Functional MRI: Directed Acyclic Graphs for a General Bayesian Inference Framework
+
+7EC8561A	Discrete Graphical Models for Alphabet-Based Multisensory Data Fusion and Classification
+
+8029BB7A	Graphical models for machine learning and digital communication
+
+7F600611	Detection of Unnatural Movement Using Epitomic Analysis
+
+7E3E08B8	An empirical Bayes approach to inferring large-scale gene association networks
+
+6A5D87FE	Relational Markov Networks for Collective Information Extraction
+
+7B432E24	Causal Network Inference Via Group Sparse Regularization
+
+799FD6B8	A characterization of the Dirichlet distribution through global and local parameter independence
+
+806C5E7B	Testing for directed influences among neural signals using partial directed coherence
+
+805B45F3	Construction and application of Bayesian networks in flood decision supporting system
+
+8175D8C2	Using Chain Graphical Model to Analyze the Efficacy of a Chinese Medicine
+
+7E504969	Modeling peptide fragmentation with dynamic Bayesian networks for peptide identification
+
+7ADCA6D3	Using graphical models and genomic expression data to statistically validate models of genetic regulatory networks.
+
+7923BB38	Finding the minimal set for collapsible graphical models
+
+7DEFA129	Topology Selection in Graphical Models of Autoregressive Processes
+
+804CB761	Taking on the curse of dimensionality in joint distributions using neural networks
+
+767D07FD	Modeling, analyzing, and synthesizing expressive piano performance with graphical models
+
+80D23383	The Logistic Random Field — A convenient graphical model for learning parameters for MRF-based labeling
+
+7CB13C5E	On Variational Message Passing on Factor Graphs
+
+6BA17283	Machine learning approaches to text representation using unlabeled data
+
+7943DA46	Identification of nonlinear VAR models using general conditional independence graphs
+
+01F2CA75	Software Packages for Graphical Models: Bayesian Networks
+
+7D9199FA	Graphical Models of Residue Coupling in Protein Families
+
+7A3830F5	Estimating high-dimensional intervention effects from observational data
+
+80FB26C5	Moving obstacle detection in highly dynamic scenes
+
+8060793E	Memory intensive AND/OR search for combinatorial optimization in graphical models
+
+7E85FF18	Fitting All Possible Decomposable and Graphical Models to Multiway Contingency Tables
+
+5F3EC8AA	Decomposition of Multi-operator Queries on Semiring-Based Graphical Models
+
+5F6A1E50	A computational model of the cerebral cortex
+
+7A71F6AA	Sparse covariance estimation in heterogeneous samples
+
+5E7501F0	Multiple Facial Feature Tracking Using Multi-cue Based Prediction Model
+
+7EA48DCD	Vertex Packing Decoding
+
+6381CF53	Crystal Identification in Positron Emission Tomography Using Probabilistic Graphical Models
+
+80C6D90D	Weighted Bayesian Network for Visual Tracking
+
+78617E43	Tree cumulants and the geometry of binary tree models
+
+814D030F	Convergence Analysis of Reweighted Sum-Product Algorithms
+
+76853CFD	Soft arc consistency revisited
+
+81279BFC	Markov Properties for Linear Causal Models with Correlated Errors
+
+8164F48C	Learning class-specific affinities for image labelling
+
+0C67395C	Audio-Visual Event Recognition with Graphical Models
+
+78C2C88B	Robust indoor localization based on hybrid Bayesian graphical models
+
+8144D00E	Bottom-Up a Top-down Object Detection using Primal Sketch Features and Graphical Models
+
+7F7B2A22	Variational Bayesian image modelling
+
+7F2983A2	Maximum-likelihood estimation of autoregressive models with conditional independence constraints
+
+7B023A6E	Dynamic staged trees for discrete multivariate time series : forecasting, model selection and causal analysis
+
+806A4A2D	The distribution of loop lengths in graphical models for turbo decoding
+
+80705F88	Spanning Tree Approximations for Conditional Random Fields
+
+67110B27	Engineering oriented dependability evaluation: MEADEP and its applications
+
+7E636A72	Divide & Concur and Difference-Map BP Decoders for LDPC Codes
+
+80938E8B	Learning Graphical Models with Mercer Kernels
+
+75718D5F	A characterization of Markov equivalence for directed cyclic graphs
+
+583DF9BB	A novel formal specification approach for real time multi-agent system functional requirements
+
+5E453122	Stacked hierarchical labeling
+
+6BDD468C	Residual Splash for Optimally Parallelizing Belief Propagation
+
+5B21D486	Computer and Robotic Model of External Fixation System for Fracture Treatment
+
+7FD70FDD	Inference with Multivariate Heavy-Tails in Linear Models
+
+7D125BFF	Using the Forest to See the Trees: A Graphical Model Relating Features, Objects, and Scenes
+
+811DC226	Modeling and Inference of Sequence-Structure Specificity
+
+78D6ACCF	Learning the structure of dynamic Bayesian networks from time series and steady state measurements
+
+5EC4B4A2	Dynamic Bayesian Networks for Real-Time Classification of Seismic Signals
+
+03317C35	REASONING WITH GRAPHICAL MODELS
+
+8104831D	P-brush: Continuous valued MRFs with normed pairwise distributions for image segmentation
+
+7CFAB3E0	Bayesian graphical models for genomewide association studies
+
+81197349	Stable graphical model estimation with Random Forests for discrete, continuous, and mixed variables
+
+7FF3BFC1	Learning structurally consistent undirected probabilistic graphical models
+
+75D8BCFD	Increasing representational power and scaling reasoning in probabilistic databases
+
+7C20D8BE	Computational protein design as an optimization problem
+
+7BF0668A	Binary models for marginal independence
+
+7BA358FC	Multicues 3D Monocular Upper Body Tracking Using Constrained Belief Propagation
+
+7EA0876F	Gaussian belief propagation based multiuser detection
+
+783A95C1	Conditional independence relations among biological markers may improve clinical decision as in the case of triple negative breast cancers
+
+750E074B	PrDB: managing and exploiting rich correlations in probabilistic databases
+
+14577C9C	Fast local search methods for solving limited memory influence diagrams
+
+5AD49F05	Bayesian Substructure Learning - Approximate Learning of Very Large Network Structures
+
+773AAE7B	Learning decomposable markov networks in pseudo-independent domains with local evaluation
+
+80DB8F34	Latent grouping models for user preference prediction
+
+7601A2AB	Eye movements as time-series random variables: A stochastic model of eye movement control in reading
+
+7827D36B	Modeling the Complex Dynamics and Changing Correlations of Epileptic Events
+
+7FA58FC0	Information-Theoretic Limits on Sparsity Recovery in the High-Dimensional and Noisy Setting
+
+7F3CF2AF	Iterative decoding of compound codes by probability propagation in graphical models
+
+79D4621D	Boosting learning and inference in Markov logic through metaheuristics
+
+5E9D537A	Loopy Belief Propagation: Bayesian Networks for Multi-Criteria Decision Making (MCDM)
+
+7846A725	An Iterative Algorithm and Low Complexity Hardware Architecture for Fast Acquisition of Long PN Codes in UWB Systems
+
+5E486F28	Multi-view object tracking using sequential belief propagation
+
+80192482	Integrating laboratory creep compaction data with numerical fault models: A Bayesian framework
+
+7EDB03B9	Integration of active learning in a collaborative CRF
+
+75417BCD	Bayesian graphical model determination using decision theory
+
+841A0C13	Fast detection of OFDM systems using graphical models
+
+7AF62A16	DAG representation of asymmetric independence models arising in coherent conditional possibility theory
+
+808B18AA	Automatic Extraction of Femur Contours from Calibrated Fluoroscopic Images
+
+7EFFDEE3	Norm-Product Belief Propagation: Primal-Dual Message-Passing for Approximate Inference
+
+7F9B81D7	Expandable Data-Driven Graphical Modeling of Human Actions Based on Salient Postures
+
+802C9FA4	Onboard contextual classification of 3-D point clouds with learned high-order Markov Random Fields
+
+7E9815DE	Screening and interpreting multi-item associations based on log-linear modeling
+
+80A976F4	Co-expressed gene assessment based on the path consistency algorithm: Operon detention in Escherichia coli
+
+7CFE8B0C	Learning and inferring image segmentations using the GBP typical cut algorithm
+
+80513669	A metamodel for the notation of graphical modeling languages
+
+751C10B2	A probabilistic graphical model approach to stochastic multiscale partial differential equations
+
+806D3ECC	Generating Linked Data by Inferring the Semantics of Tables ∗
+
+7767012C	Possibility theory: Conditional independence
+
+7F38F9A4	Deconstructing reinforcement learning in sigma
+
+7D6E186D	Extracting Decisions from Multi-Party Dialogue Using Directed Graphical Models and Semantic Similarity
+
+788F6560	Urban scene recognition by graphical model and 3D geometry
+
+7FF97154	Statistical Models for Causation
+
+80ACFB55	Sample complexity of determining structures of graphical models
+
+7FA065D8	Tracking loose-limbed people
+
+7DC48B6A	Tabu Search-Enhanced Graphical Models for Classification in High Dimensions
+
+7F0A7E70	Deformed Lattice Detection in Real-World Images Using Mean-Shift Belief Propagation
+
+767A3B64	Latent graphical models for quantifying and predicting patent quality
+
+7CEBABD6	A Generalization of Credal Networks
+
+7CF15BEE	On the quantitative analysis of deep belief networks
+
+58EE372D	Covariate selection for non-parametric estimation of treatment effects
+
+7BA46FE3	Semantics for UML model transformation and generation of regular grammar
+
+78CE1C27	A project of applied statistical methods in China: review and outlook
+
+7FEBBA90	SystemCSP: Visual notation
+
+81712420	Beyond pairwise energies: Efficient optimization for higher-order MRFs
+
+7D630F8D	Revisiting uncertainty in graph cut solutions
+
+7E756CDB	SwingStates: adding state machines to Java and the Swing toolkit
+
+7D2FB7E4	Effects of stocking density, periphyton substrate and supplemental feed on biological processes affecting water quality in earthen tilapia–prawn polyculture ponds
+
+5E0F3DBC	Factorial Markov Random Fields
+
+797461DE	Graphical models illustrated complex associations between variables describing human functioning
+
+7888D871	A new multi-view regression approach with an application to customer wallet estimation
+
+7D141C69	Structure Inference for Bayesian Multisensory Scene Understanding
+
+78F2C27D	Early piglet mortality in loose-housed sows related to sow and piglet behaviour and to the progress of parturition
+
+7667BD85	From Hopfield nets to recursive networks to graph machines: numerical machine learning for structured data
+
+7FE0126E	A Benchmark Diagnostic Model Generation System
+
+76DB6203	Use of hormone replacement therapy among danish nurses at increased risk of osteoporosis
+
+7BD32C46	A comparison of hybrid strategies for Gibbs sampling in mixed graphical models
+
+7BF92BFE	Operations and evaluation measures for learning possibilistic graphical models
+
+7E13EFCF	An Application of Graphical Modeling to the Analysis of Intranet Benefits and Applications
+
+7D48DD13	An Improved Scheme for Detection and Labelling in Johansson Displays
+
+7DF4A78D	New closed-form bounds on the partition function
+
+79E7EC37	Density of macropores as related to soil and earthworm community parameters in cultivated grasslands
+
+7EE0AE9F	Audio-visual graphical models for speech processing
+
+80F721EC	Statistical modeling of biomedical corpora: mining the Caenorhabditis Genetic Center Bibliography for genes related to life span
+
+0B80C05B	gRaphical models: a softwaRe peRspective
+
+7A07AD20	Regional category parsing in undirected graphical models
+
+6AED4EEE	Generalized measurement models
+
+5E1DDE8E	Nonparametric Belief Propagation and Facial Appearance Estimation
+
+76900AAA	Minimax Estimation of Functionals of Discrete Distributions
+
+7CFDFAD0	Diagnostic reasoning based on means-end models: experiences and future prospects
+
+81512F8F	Sparse graphical modeling of piecewise-stationary time series
+
+7F818222	Efficiently inducing features of conditional random fields
+
+7E06D3B3	Leveraging D-Separation for Relational Data Sets
+
+596178A8	Local Structure Learning in Graphical Models
+
+758A2C38	Bayesian model averaging and model selection for markov equivalence classes of acyclic digraphs
+
+5AF0A47F	Tractable Undirected Approximations for Graphical Models
+
+5A5BA7DE	AND/OR branch-and-bound search for pure 0/1 integer linear programming problems
+
+75B77F27	Interventions and belief change in possibilistic graphical models
+
+7ACB8647	A Two‐Level Model for Evidence Evaluation
+
+7BB5C886	Bird breed classification and annotation using saliency based graphical model
+
+7BEED1D8	Estimation of distribution algorithms based on copula functions
+
+7E4D578A	Faster algorithms for max-product message-passing
+
+7EBF0369	Non-parametric image super-resolution using multiple images
+
+773A4194	Optimal design in collaborative design network
+
+7CE9E1AF	Codes on Graphs: Duality and MacWilliams Identities
+
+06DD7382	Causal Discovery for Relational Domains: Representation, Reasoning, and Learning
+
+816C706E	Unsupervised Learning of Dense Hierarchical Appearance Representations
+
+6DCAD355	Maximum Margin Bayesian Networks
+
+064BAFBF	Data Mining Meets HCI: Making Sense of Large Graphs
+
+80F372D5	Simulation of Graphical Models for Multiagent Probabilistic Inference
+
+7F9FC5C6	Structural Learning of Chain Graphs via Decomposition.
+
+78F8B732	Incorporating non-motion cues into 3D motion segmentation
+
+5EB237CF	Information-theoretic limits of selecting binary graphical models in high dimensions
+
+7B025063	Rapid Acquisition of Gold Codes and Related Sequences Using Iterative Message Passing on Redundant Graphical Models
+
+806D9E08	Detecting Unsafe Driving Patterns using Discriminative Learning
+
+8072A1AB	Unapparent Information Revelation: Text Mining for Counterterrorism
+
+7D2B08A1	A stochastic grammar of images
+
+7A016082	Item Screening in Graphical Loglinear Rasch Models
+
+7FB4CC18	Theory Unification and Graphical Models in Human Categorization
+
+5FE2D5F8	Causal Graphical Models with Latent Variables: Learning and Inference
+
+7AC21093	Towards Linkage Analysis with Markers in Linkage Disequilibrium by Graphical Modelling
+
+6166C9B9	Model Selection Through Sparse Maximum Likelihood Estimation
+
+80BD2F35	A Hybrid Estimation of Distribution Algorithm for the Minimal Switching Graph Problem
+
+75BA083B	Distributed event-region detection in wireless sensor networks
+
+7FFF112A	A Geometric Approach for Inference on Graphical Models
+
+80B9604E	Comparison of linear signal processing techniques to infer directed interactions in multivariate neural systems
+
+5DD14A4D	A Common Platform for Graphical Models in R: The gRbase Package
+
+781DD362	Pair‐copula constructions for non‐Gaussian DAG models
+
+7F37ED65	Mesh segmentation schemes for error resilient coding of 3-D graphic models
+
+7EEB27ED	Message errors in belief propagation
+
+5DA7A754	Improving data association by joint modeling of pedestrian trajectories and groupings
+
+5903FEED	Structural Learning About Independence Graphs from Multiple Databases
+
+80556956	GRAPHICAL MODEL REPRESENTATIONS OF WORD LATTICES
+
+7ED41323	A general framework for adaptive processing of data structures
+
+7B9B961C	Probabilistic graphical models in artificial intelligence
+
+7A22AB70	Multi-View Face Tracking with Factorial and Switching HMM
+
+8114FC17	Joint latent topic models for text and citations
+
+775D9CB7	Bayesian tracking of intracranial pressure signal morphology.
+
+7ECD6C61	Bayesian network model for diagnosis of psychiatric diseases
+
+7E144371	A Recursive Method for Structural Learning of Directed Acyclic Graphs
+
+5CD947A2	On the Representation of Codes in Forney Graphs
+
+7F1C3888	Sparse inverse covariance estimation with the graphical lasso
+
+7F7CBE28	Maximum a posteriori image restoration based on a new directional continuous edge image prior
+
+8099482C	On the completeness of an identifiability algorithm for semi-Markovian models
+
+75BF84DE	Extracting Protein Regulatory Networks with Graphical Models
+
+7B8348C2	Markov Chain Monte Carlo inference on graphical models using event-based processing on the SpiNNaker neuromorphic architecture
+
+59C4505E	Comparative validation of graphical models for learning tumor segmentations from noisy manual annotations
+
+7EF84452	Sampling bounds for sparse support recovery in the presence of noise
+
+7EAFBD91	Efficient Coding of Labelled Graphs
+
+810DEA87	Learning Markov graphs up to edit distance
+
+78ABA58D	A hybrid graphical model for rhythmic parsing
+
+239D9D42	Log-Linear and Marginal Models
+
+7B86262A	Structured Probabilistic Inference
+
+81847B07	Accelerated training of max-margin Markov networks with kernels
+
+79730D3E	Conditions for swappability of records in a microdata set when some marginals are fixed
+
+80F7104C	WEIGHTED LASSO IN GRAPHICAL GAUSSIAN MODELING FOR LARGE GENE NETWORK ESTIMATION BASED ON MICROARRAY DATA
+
+6FEFAEDD	Surface Reconstruction from Multiple Views Using Apparent Contours and Surface Texture
+
+7927DE32	Integrating spreadsheet data via accurate and low-effort extraction
+
+7DC9656D	Structural-EM for learning PDG models from incomplete data
+
+76EF54E9	Log-Multiplicative Association Models as Item Response Models.
+
+7EBA7FB7	A guide to the literature on learning probabilistic networks from data
+
+6049E046	A tutorial on learning with Bayesian networks
+
+5E34CCD0	Learning and Parsing Stochastic Unification-Based Grammars
+
+7672EF04	Estimation of graphical models whose conditional independence graphs are interval graphs and its application to modelling linkage disequilibrium
+
+7A39C92D	A Bayesian network of eutrophication models for synthesis, prediction, and uncertainty analysis
+
+7F58D32B	Abstraction-based probabilistic models for sequence classification
+
+7661CADC	Graphical Models for Composable Finite Markov Processes
+
+7EEA3772	On Block Ordering of Variables in Graphical Modelling
+
+7F504916	Efficient Belief Propagation for Vision Using Linear Constraint Nodes
+
+7EB32208	Continuous Inference in Graphical Models with Polynomial Energies
+
+7CD6474A	Dynamic path analysis—a new approach to analyzing time-dependent covariates
+
+81262D6D	Simulation-based engineering of complex systems using EXTEND+MFG+OpEMCSS
+
+5D690D1B	Learning Graphical Models by Extending Optimal Spanning Trees
+
+7A9296B5	Using Bayesian graphical models to model biases in observational studies and to combine multiple sources of data: application to low birth weight and water disinfection by-products
+
+806A71F0	iSAM2: Incremental smoothing and mapping with fluid relinearization and incremental variable reordering
+
+7F468886	Channel estimation by inference on Gaussian Markov random fields
+
+7D44F138	Graph-based sequential particle filtering in lossy networks: Single and multiple collaborative cameras
+
+7698D6DC	A Constrained L1 Minimization Approach to Sparse Precision Matrix Estimation
+
+806FCC7F	Analyzing Product-Form Stochastic Networks Via Factor Graphs and the Sum-Product Algorithm
+
+058714FA	An Incremental Subgradient Algorithm for Approximate MAP Estimation in Graphical Models
+
+5D9677AF	Geometry, moments and conditional independence trees with hidden variables
+
+786BC735	Bioinformatics: Organisms from Venus, Technology from Jupiter, Algorithms from Mars
+
+7FA86514	Effective connectivity of fMRI data using ancestral graph theory: Dealing with missing regions
+
+7C571289	A Scoring Criterion For Learning Chain Graphs
+
+80ADA2EE	Tree block coordinate descent for MAP in graphical models
+
+7A25137D	High-dimensional structure estimation in Ising models: Local separation criterion
+
+80060D7C	Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data
+
+80E9B110	Tailoring density estimation via reproducing kernel moment matching
+
+7923913F	A graphical model for estimating stimulus-evoked brain responses from magnetoencephalography data with large background brain activity
+
+7D689947	CRF-OPT: an efficient high-quality conditional random field solver
+
+798B1ABD	Representation and contribution-integration challenges in collaborative situation assessment
+
+7EF099EC	Information-theoretic limits of graphical model selection in high dimensions
+
+8122A0CB	A method and program for estimating graphical models for linkage disequilibrium that scale linearly with the number of loci, and their application to gene drop simulation
+
+78353E68	Symbolic Modeling of Epistasis
+
+0202579C	Continuous Graphical Models for Static and Dynamic Distributions: Application to Structural Biology
+
+58519BEA	CRF Models for Tamil Part of Speech Tagging and Chunking
+
+7D934CBB	A hybrid graphical model for robust feature extraction from video
+
+7D2B698F	Fractional Belief Propagation
+
+7DB24AEE	FLoSS: Facility location for subspace segmentation
+
+7CEF26BE	Graphical Models in Time Series Analysis
+
+7D717049	DC proposal: graphical models and probabilistic reasoning for generating linked data from tables
+
+7C733D98	Automatic discovery of meaningful object parts with latent CRFs
+
+7C8540FF	Introduction to the special issue on Graphical Models and Information Retrieval
+
+7A16199F	On Riesz and Wishart distributions associated with decomposable undirected graphs
+
+7B61E64E	Markov Fields and Log-Linear Interaction Models for Contingency Tables
+
+7A3D323D	A reliable skin mole localization scheme
+
+7F481AC7	Scene Text Recognition Using Similarity and a Lexicon with Sparse Belief Propagation
+
+7F616818	Multiagent bayesian forecasting of structural time-invariant dynamic systems with graphical models
+
+5B2C0AF6	AND/OR multi-valued decision diagrams for constraint optimization
+
+7F24CF09	Extending mental imagery in sigma
+
+7596D13E	Graphical models for multivariate Markov chains
+
+7C583D36	Minimal primes of ideals arising from conditional independence statements
+
+761D5749	Learning invariant features using inertial priors
+
+5A9E6B0B	Computational Analysis of a Power Distribution System with Petri Nets
+
+81733827	Score-Based bayesian skill learning
+
+7FF7C5B7	Hybrid tractability of soft constraint problems
+
+7D76129C	A factor-graph approach to the context-tree weighting method
+
+7AAD2988	Tractable Bayesian learning of tree belief networks
+
+8000315F	Probabilistic independence networks for hidden Markov probability models
+
+7CA4E9E3	A conditional independence algorithm for learning undirected graphical models
+
+80FFD162	FunCat functional inference with belief propagation and feature integration
+
+7A8CC0C6	A probabilistic algorithm integrating source localization and noise suppression for MEG and EEG data
+
+792AB279	Conditional independence structures and graphical models
+
+59D548F3	Reverse Engineering Gene Networks Using Genomic Time-Course Data
+
+5C53FD11	Application of Graphical Models in the Automotive Industry
+
+83C7FFB0	Testable Implications of Linear Structural Equation Models
+
+7CFD8576	Maximum Entropy Discrimination Markov Networks
+
+7DB1438E	Iterative Message Passing Algorithm for Bipartite Maximum Weighted Matching
+
+7F5C7630	Probabilistic Framework for Brain Connectivity From Functional MR Images
+
+7DBC41A0	Sensor localization using generalized belief propagation in network with loops
+
+5F33C551	Evaluating Weighted DFS Branch and Bound over Graphical Models
+
+77C30D36	Grouped graphical Granger modeling methods for temporal causal modeling
+
+7D2036F0	Video Tracking Based on Sequential Particle Filtering on Graphs
+
+7DEFC326	Lecture 6: Graphical Models: Learning
+
+772CE3A1	Using the multi-layer model for building interactive graphical applications
+
+790D59A8	Man made structure detection and verification of object recognition in images for the visually impaired
+
+80A5A551	Decomposable Principal Component Analysis
+
+7F3164EC	A Multi-Pronged Approach to Improving Semantic Extraction of News Video
+
+80DFD741	Cooperative sensing using probabilistic graphical models in Cognitive Radio networks
+
+756C7BE4	Multiple Hidden Markov Models for Categorical Time Series
+
+772934DC	Probabilistic workflow mining
+
+7BE70B03	Incremental learning of cognitive concepts: a hidden variable networks approach
+
+7E9BF569	Rethinking cognitive architecture via graphical models
+
+7D5FC544	Simultaneous Learning of Nonlinear Manifold and Dynamical Models for High-dimensional Time Series
+
+7E797D48	Tree-Based Reparameterization with Distributional Approximations for Reduced-Complexity MIMO Symbol Detection
+
+7E5CEFD6	Partition function loop series for a general graphical model: free-energy corrections and message-passing equations
+
+5AA88AFA	Graphical Models for Structural Vector Autoregressions
+
+02238973	Leveraging Domain Knowledge in Multitask Bayesian Network Structure Learning
+
+7D4203A2	Loop Series and Bethe Variational Bounds in Attractive Graphical Models
+
+7E11F6B2	Visual odometry and map correlation
+
+803B565A	An efficient message passing algorithm for multi-target tracking
+
+7DD17B61	Statistical models of music-listening sessions in social media
+
+7B150FE0	Epistemic irrelevance in credal nets: The case of imprecise Markov trees
+
+06BC4975	Learning graphical model structure using L1-regularization paths
+
+5EAF2D0B	Augmenting physical state prediction through structured activity inference
+
+77D811A7	An introduction to SLX
+
+80B07EA0	Reading LCD/LED Displays with a Camera Cell Phone
+
+5B8F608B	Multistream recognition of dialogue acts in meetings
+
+0BD946B6	Exploiting Parameter Related Domain Knowledge for Learning in Graphical Models
+
+7FC6E957	A dynamic Bayesian framework to model context and memory in edit distance learning: an application to pronunciation classification
+
+7E67D4AA	Temporal Conditional Random Fields: A conditional state space predictor for visual tracking
+
+778AE5B9	Keeping count: Leveraging temporal context to count heavily overlapping objects
+
+7EB6D3C3	Generative Graphical Models for Maneuvering Object Tracking and Dynamics Analysis
+
+589DEFA2	Computer simulation of multi-dimensional bone deformity correction and lengthening by unilateral external fixator
+
+7E6415A2	Graphical models for multivariate time series from intensive care monitoring
+
+7A5DBB0F	The Factor Graph Approach to Model-Based Signal Processing
+
+5BC24255	Theory and Applied Computing: Observations and Anecdotes
+
+7FC7DEC5	AND/OR Search Spaces and the Semantic Width of Constraint Networks
+
+7FDFFEA5	Bayesian model comparison based on expected posterior priors for discrete decomposable graphical models
+
+799D96C8	Sum-product networks: A new deep architecture
+
+5952FF9B	MRF Inference by k-Fan Decomposition and Tight Lagrangian Relaxation
+
+7527D77F	A Multi-Modal Topic Model for Image Annotation Using Text Analysis
+
+805ED9C0	High-Dimensional Graphical Model Selection Using $\ell_1$-Regularized Logistic Regression
+
+805520A4	Structurally discriminative graphical models for automatic speech recognition - results from the 2001 Johns Hopkins Summer Workshop
+
+7B199F5F	Learning Causal Relations in Multivariate Time Series Data
+
+752D7754	An unsupervised method for joint information extraction and feature mining across different Web sites
+
+80542891	Consistent and efficient reconstruction of latent tree models
+
+7FDCB637	Composition and cloning in modeling and meta-modeling
+
+7DC48CD2	Decision Detection Using Hierarchical Graphical Models
+
+7E97778E	Robust vocabulary independent keyword spotting with graphical models
+
+7E4FFD89	Message passing expectation-maximization algorithms
+
+7EB575CD	CoCRF Deformable Model: A Geometric Model Driven by Collaborative Conditional Random Fields
+
+7A9FCC94	A Novel Probabilistic Model Based Fingerprint Recognition Algorithm
+
+7E21199A	Model assisted approaches to complex survey sampling from finite populations using Bayesian Networks
+
+7D368C19	Message-passing for Graph-structured Linear Programs: Proximal Methods and Rounding Schemes
+
+81398230	Kernel methods in machine learning
+
+78C15E9C	Data-driven parceling and entropic inference in MEG
+
+7DB7213B	Fast matching of large point sets under occlusions
+
+7C55587A	Testing coefficients of AR and bilinear time series models by a graphical approach
+
+7F4571F9	Hybrid Deformable Models for Medical Segmentation and Registration
+
+7C28C915	Discrete-Continuous Depth Estimation from a Single Image
+
+7FCBFAD2	Algorithms of causal inference for the analysis of effective connectivity among brain regions
+
+761D4908	A Gaussian mixed model for learning discrete Bayesian networks
+
+7F0803BC	Nonparametric belief propagation for distributed tracking of robot networks with noisy inter-distance measurements
+
+80A5D0CB	Reconstructability of Epistatic Functions
+
+7B7BC5E8	An efficient learning procedure for deep boltzmann machines
+
+7C5B9552	Reference priors for discrete graphical models
+
+7A8744A1	Learning Bayesian network classifiers by risk minimization
+
+7FC430E5	Restoration and recognition in a loop
+
+7ADAFA6D	Rapid conceptual design evaluation using a virtual product model
+
+5B845BB7	Compatible Prior Distributions for DAG models
+
+7BFCE3E4	Statistical Inference in Context Specific Interaction Models for Contingency Tables
+
+77E1CF88	An Approach for Reducing the Graphical Model and Genetic Algorithm for Computing Approximate Nash Equilibrium in Static Games
+
+5BD23A58	Modeling context as statistical dependence
+
+7F32709E	The BUGS project: Evolution, critique and future directions
+
+8076BADB	Equivalence between minimal generative model graphs and directed information graphs
+
+7F507066	Preconditioner Approximations for Probabilistic Graphical Models
+
+77D15CFD	Deducing corticotropin-releasing hormone receptor type 1 signaling networks from gene expression data by usage of genetic algorithms and graphical Gaussian models.
+
+5970D94F	Graphical Models for Probabilistic and Causal Reasoning
+
+7C72439C	Supervised N-gram topic model
+
+71F4616F	Remarks Concerning Graphical Models for Time Series and Point Processes
+
+7585F201	Optimising dynamic graphical models for video content analysis
+
+78EE7869	Modeling challenges with influence diagrams: Constructing probability and utility models
+
+5BBF5272	Preference Aggregation with Graphical Utility Models
+
+7D149AEC	Model Driven Segmentation of Articulating Humans in Laplacian Eigenspace
+
+7C5BF056	Model selection and estimation in the matrix normal graphical model
+
+089C7718	Package Planning with Graphical Models
+
+71A73458	Unifying guilt-by-association approaches: theorems and fast algorithms
+
+76903C78	Modelling Operational Risk Losses with Graphical Models and Copula Functions
+
+731E8D6F	Graphical lassos for meta‐elliptical distributions
+
+7FE6652A	Reinforcement Learning with Factored States and Actions
+
+6F3A6702	Russian Doll Search with Tree Decomposition
+
+77349888	Harmonium Models for Video Classification
+
+7639D773	Generic reversible jump MCMC using graphical models
+
+76E03002	Vines-a new graphical model for dependent random variables
+
+808064E9	Recent development and biomedical applications of probabilistic Boolean networks
+
+789DA9B3	Sequential Bayesian Model Selection of Regular Vine Copulas
+
+754A9D5C	Methods for constructing balanced elimination trees and other recursive decompositions
+
+0063708E	From neural networks to graphical models: a brief introduction
+
+804726BC	Graphical modeling can be used to illustrate associations between variables describing functioning in head and neck cancer patients.
+
+7FBCB0A7	On-line Simultaneous Learning and Tracking of Visual Feature Graphs
+
+5856E6C1	Multiscale Graphical Modeling in Space: Applications to Command and Control
+
+594207FB	Tree-reweighted belief propagation algorithms and approximate ML estimation by pseudo-moment matching
+
+76494098	The Extraction and Complexity Limits of Graphical Models for Linear Codes
+
+7EBA44BD	Finding Text in Natural Scenes by Figure-Ground Segmentation
+
+8014CD67	A message-passing approach for joint channel estimation, interference mitigation, and decoding
+
+047143CC	Premature arterial and venous events in three families: Effect of folate levels and MTHFR mutation mediated by family/generation and homocysteine levels
+
+7602AEBC	Learning to solve game trees
+
+7680C18C	Back-buy prediction based on TriFG
+
+7E7B35AB	AND/OR Branch-and-Bound search for combinatorial optimization in graphical models
+
+803EA8B7	Robust Distributed Estimation Using the Embedded Subgraphs Algorithm
+
+7F4ADCD4	Irregular Tree-Structured Bayesian Network for image segmentation
+
+7826D9FC	Log-linear modeling using conditional log-linear structures
+
+5839ADD8	Strategies for Graphical Model Selection
+
+61F922B1	Learning the Conditional Independence Structure of Stationary Time Series: A Multitask Learning Approach
+
+784072B9	Information fusion in navigation systems via factor graph based incremental smoothing
+
+7C439965	Social Link Prediction in Online Social Tagging Systems
+
+7FDD99F8	Improvements in reliability-growth modeling
+
+58C0887E	Learning from data: possibilistic graphical models
+
+816C11A2	Topics over time: a non-Markov continuous-time model of topical trends
+
+5875D8B2	Bayesian Analysis of Graphical Models of Marginal Independence for Three Way Contingency Tables
+
+7F5431BE	A graphical model framework for coupling MRFs and deformable models
+
+7E5E735B	Spatial compactness meets topical consistency: jointly modeling links and content for community detection
+
+79257332	Graphical Models for the Identification of Causal Structures in Multivariate Time Series Models
+
+7B558736	Spatio-temporal random fields: compressible representation and distributed estimation
+
+7BF6006B	Learning to extract and summarize hot item features from multiple auction web sites
+
+7D557709	Inference in multiply sectioned Bayesian networks: methods and performance comparison
+
+7B6BC907	Testing-based translation validation of generated code in the context of IEC 61508
+
+800DE994	Extension of Path Probability Method to Approximate Inference over Time
+
+7DA914F0	Learning an L1-Regularized Gaussian Bayesian Network in the Equivalence Class Space
+
+7DB035A3	Mining Relationship Between Video Concepts using Probabilistic Graphical Models
+
+7F8777BF	Codes on graphs: normal realizations
+
+7FDD1AAD	Distributed Online Self-Localization and Tracking in Sensor Networks
+
+7FA11255	Model testing for causal models
+
+80A025FA	Positive Semidefinite Rank-Based Correlation Matrix Estimation With Application to Semiparametric Graph Estimation
+
+7C443B6D	Bayesian Belief Networks for predicting drinking water distribution system pipe breaks
+
+7F3FBCD9	GAI Networks for Utility Elicitation
+
+7DFBD6E9	Spatial priors for part-based recognition using statistical models
+
+764D8D9F	Graphical models for online solutions to interactive POMDPs
+
+8171B245	On the toric algebra of graphical models
+
+7FB46E33	A unifying viewpoint of some clustering techniques using Bregman divergences and extensions to mixed data sets
+
+80431EBA	A Bayesian belief network for IT implementation decision support
+
+7422C7EC	Articulated Body Tracking Using Dynamic Belief Propagation
+
+779545E4	Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context
+
+76032BC4	A Spectral Graphical Model Approach for Learning Brain Connectivity Network of Children's Narrative Comprehension
+
+766DF9F3	A minimal ligand binding pocket within a network of correlated mutations identified by multiple sequence and structural analysis of G protein coupled receptors
+
+7A7B550D	Sequential auxiliary particle belief propagation
+
+5858990C	What, Where and Who? Telling the Story of an Image by Activity Classification, Scene Recognition and Object Categorization
+
+5A60E540	Polynomial Graphs With Applications To Graphical Games, Extensive-Form Games, and Games With Emergent Node Tree Structures
+
+803B98BB	Statistical Learning of Visual Feature Hierarchies
+
+5B1448C1	Factorial Hidden Markov Models
+
+7C9862B7	Blocking Gibbs sampling in very large probabilistic expert systems
+
+7F63D0E2	Learning the Structure of Deep Sparse Graphical Models
+
+75680B46	Likelihood-Based Selection and Sharp Parameter Estimation
+
+7D8A9350	Unified design of iterative receivers using factor graphs
+
+7DC5EA94	Study on a Novel Scheduling Algorithm of the Multiple-Plane and Multiple-Stage Switching Fabric
+
+7B53D204	Finding your friends and following them to where you are
+
+755A0CBE	Using graphical models to interpret pavement condition data
+
+78156D47	Comparison of tightly and loosely coupled decision paradigms in multiagent expedition
+
+7F5B9101	Layered Graphical Models for Tracking Partially Occluded Objects
+
+5D0958F2	Salient object detection via background contrast
+
+7D7B5490	Maximum Entropy Relaxation for Graphical Model Selection Given Inconsistent Statistics
+
+787AF837	Learning Multiple Belief Propagation Fixed Points for Real Time Inference
+
+7BC213F9	Graphical LASSO based Model Selection for Time Series
+
+7D45856C	Variable module graphs: a framework for inference and learning in modular vision systems
+
+80EEBDA3	Belief Propagation Driven Method for Facial Gestures Recognition in Presence of Occlusions
+
+7EFE3A02	A methodology for eliciting and modeling exceptions
+
+81249171	Extraction of coexpression relationship among genes from biomedical text using dynamic conditional random fields
+
+7DA86D58	PAMPAS: real-valued graphical models for computer vision
+
+80C2E2FD	Variational approximations in Bayesian model selection for finite mixture distributions
+
+78C3C9C2	Wishart distributions for decomposable graphs
+
+78F9C498	Unifying tree decompositions for reasoning in graphical models
+
+766DEF7A	Piecewise training for structured prediction
+
+5B171C1B	Sparse gaussian graphical models for speech recognition.
+
+81B0996B	On Sparse‚ Spectral and Other Parameterizations of Binary Probabilistic Models
+
+808B16FB	Split models for contingency tables
+
+5E81FF6A	Approximate Counting of Graphical Models Via MCMC
+
+7FA9DE80	Managing uncertainty in group recommending processes
+
+7F493BCF	fLDA: matrix factorization through latent dirichlet allocation
+
+7C1A282A	Sampling From Gaussian Markov Random Fields Using Stationary and Non-Stationary Subgraph Perturbations
+
+7E35D569	A Graphical Model Based Decoder for Recognition of Loss-concealed VoIP Speech
+
+78F4BD20	Multiple-concept feature generative models for multi-label image classification
+
+7F13FDAA	Sparse matrix inversion with scaled Lasso
+
+7E3C2CE9	Attractive People: Assembling Loose-Limbed Models using Non-parametric Belief Propagation
+
+79630344	Graphical chain models for the analysis of complex genetic diseases: an application to hypertension
+
+08D7D19A	DARWIN: a framework for machine learning and computer vision research and development
+
+5EA64120	Compensable WorkFlow Nets
+
+81135BBC	Independence in multi-way contingency tables : S.N. Roy's breakthroughs and later developments
+
+792F87FA	Predictive brains: forethought and the levels of explanation
+
+106EA9A0	Causal inference from graphical models
+
+5B81FA6B	Latent Structure and Causal Variables
+
+7EB978B0	Hybrid tractability of valued constraint problems
+
+17C357D6	Inverse inference in the asymmetric Ising model
+
+7E417173	Network-side mobile position location using factor graphs
+
+7F86EE0A	Multiresolution Markov models for signal and image processing
+
+06239E36	Memory intensive branch-and-bound search for graphical models
+
+7D6DC695	A Robust Procedure For Gaussian Graphical Model Search From Microarray Data With p Larger Than n
+
+0A0191B3	Axiomatizing binding bigraphs
+
+5B861735	Decomposed Utility Functions and Graphical Models for Reasoning about Preferences
+
+7E79414A	Image-based 3D Scanning System using Opacity Hulls
+
+6CFDB8AC	A latent Beta-Liouville allocation model
+
+814F9EFD	Learning generative models for protein fold families
+
+7BFAECD0	A new method using coherence to obtain the model order in the evaluation of partial directed coherence
+
+7D6A4ED2	Dynamic programming for parsing and estimation of stochastic unification-based grammars
+
+6CD47B26	Extending the Organizational Exchange Model (OEM)
+
+5B93807D	Location utility-based map reduction
+
+7CD00CA2	Multi-scale Conditional Random Fields for first-person activity recognition on elders and disabled patients
+
+7F58D014	Novel iteration schemes for the Cluster Variation Method
+
+0344F499	Best-First AND/OR Search for Graphical Models
+
+81374949	Labeling irregular graphs with belief propagation
+
+801DDB5F	Probabilistic Graphical Models
+
+7F402D60	The principled design of large-scale recursive neural network architectures--dag-rnns and the protein structure prediction problem
+
+7FEFFE3D	Multi-temporal damage assessment of linear infrastructural objects using Dynamic Bayesian Networks
+
+7B0609EF	DT-Planner: an environment for managing dynamic decision problems
+
+7FA5AA44	Scene space inference based on stereo vision
+
+0AA1CE6A	Maximum Likelihood Bounded Tree-Width Markov Networks
+
+7BC1F116	Conditions for Non‐confounding and Collapsibility without Knowledge of Completely Constructed Causal Diagrams
+
+7564AD8C	Computing all roots of the likelihood equations of seemingly unrelated regressions
+
+75785EF9	Characterizing Markov equivalence classes for AMP chain graph models
+
+7D343D2D	Multi-Floor Indoor Positioning System Using Bayesian Graphical Models
+
+585ED934	Graphical Models Concepts in Compressed Sensing
+
+7FBDE1DC	Which Codes Have 4-Cycle-Free Tanner Graphs?
+
+80EEE3FD	A comparison of time-space schemes for graphical models
+
+7EEFC792	Learning possibilistic graphical models from data
+
+7D9076CD	Distributed localization of networked cameras
+
+7FBECACC	Learning Maximum Lag for Grouped Graphical Granger Models
+
+7D60FEBA	Graphical-model-based morphometric analysis
+
+7AD4F8E1	Edge detection in sparse Gaussian graphical models
+
+7823847F	A graphical model based solution to the facial feature point tracking problem
+
+7F7B3017	Determinantal point processes for machine learning
+
+79AB807B	Maximum likelihood estimation in Gaussian chain graph models under the alternative Markov property
+
+7F4908D3	Pairwise Clustering and Graphical Models
+
+794F48AA	Isolated word recognition in the Sigma cognitive architecture
+
+800EF041	Using Bayesian networks for discovering temporal-state transition patterns in Hemodialysis
+

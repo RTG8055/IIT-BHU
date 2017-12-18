@@ -1,0 +1,824 @@
+5A1FB275,"Visual hand tracking using nonparametric sequential belief propagation",0.233333333333,0.19967032967
+5ED229FC,"Probability Density Decomposition for Conditionally Dependent Random Variables Modeled by Vines",0.166666666667,0.100081699346
+7EDA0239,"Learning the Compositional Nature of Visual Object Categories for Recognition",0.157407407407,0.161616161616
+77F57823,"Learning Gaussian Tree Models: Analysis of Error Exponents and Extremal Structures",0.143939393939,0.125388500389
+76BC784C,"Figure-Ground Segmentation Using Factor Graphs.",0.261904761905,0.200778388278
+80B698C6,"Increasingly correct message passing averaging algorithms",0.194444444444,0.173397435897
+76AEA42F,"Graphical model representation of pedigree based mixed model",0.15,0.135617715618
+7F38C810,"Models for Patch Based Image Restoration",0.143939393939,0.130233100233
+7DC25052,"Single-channel speech separation and recognition using loopy belief propagation",0.240740740741,0.161642061642
+7F2714AC,"ChemInk: a natural real-time recognition system for chemical drawings",0.166666666667,0.0959353146853
+804CC9CA,"Graph Laplace for Occluded Face Completion and Recognition",0.178571428571,0.0918081918082
+7CA63E85,"Undernutrition in Benin -- an analysis based on graphical models.",0.134615384615,0.137419871795
+8045E665,"Prediction of contact maps by GIOHMMs and recurrent neural networks using lateral propagation from all four cardinal corners",0.240740740741,0.142377463806
+7CC20AA0,"A model-based design framework to achieve end-to-end QoS management",0.143939393939,0.123688811189
+7D03A556,"Robust one-shot 3D scanning using loopy belief propagation",0.233333333333,0.231730769231
+7DC6DF15,"Approximate inference using planar graph decomposition",0.261904761905,0.194650937298
+78739CC6,"Modeling annotated data",0.121693121693,0.148148148148
+7F434525,"Measuring Neural Synchrony by Message Passing",0.194444444444,0.148611111111
+7C3B4512,"Gradient computation in linear-chain conditional random fields using the entropy message passing algorithm",0.277777777778,0.160836385836
+80C84811,"Unequal error protection based LV segmented CMR image transmission through wireless communication channels",0.15,0.134090909091
+803D202E,"Evaluating the impact of AND/OR search on 0-1 integer linear programming",0.122222222222,0.129696969697
+7FF4827C,"Structure Learning on Large Scale Common Sense Statistical Mo dels of Human State",0.143939393939,0.131185481185
+80F0AEE0,"A fuzzy logic approach to infer transcriptional regulatory network in saccharomyces cerevisiae using promoter site prediction and gene expression pattern recognition",0.240740740741,0.129233729234
+5FA80935,"Running MAP Inference on Million Node Graphical Models: A High Performance Computing Perspective",0.143939393939,0.122610722611
+7E77388F,"Efficient Nonparametric Belief Propagation with Application to Articulated Body Tracking",0.15,0.126709401709
+7DFD9A8D,"The TM Algorithm for Maximising a Conditional Likelihood Function",0.157407407407,0.124273504274
+7EFB27D7,"Planning and Acting in Uncertain Environments using Probabilistic Inference",0.233333333333,0.218717948718
+7BA41BB1,"Low-Order Conditional Independence Graphs for Inferring Genetic Networks",0.178571428571,0.138492063492
+7F9A8948,"A Graphical Model for Context-Aware Visual Content Recommendation",0.453703703704,0.396011396011
+799F491A,"The cost of using decomposable Gaussian graphical models for computational convenience",0.227272727273,0.189685314685
+80AD06E8,"Dynamic conditional random fields: factorized probabilistic models for labeling and segmenting sequence data",0.157407407407,0.134746999033
+08468AE2,"2005 Special Issue: On the relationship between deterministic and probabilistic directed Graphical models: From Bayesian networks to recursive neural networks",0.166666666667,0.102509065009
+802C40C2,"Learning a Tracking and Estimation Integrated Graphical Model for Human Pose Tracking",0.15,0.155608677037
+76CF0C13,"Learning Articulated Structure and Motion",0.178571428571,0.186507936508
+0C24E53D,"Comment: Graphical Models, Causality, and Intervention",0.180555555556,0.114874708625
+804270A7,"Fast geometric point labeling using conditional random fields",0.214285714286,0.223214285714
+7D12D92A,"On the optimality of solutions of the max-product belief-propagation algorithm in arbitrary graphs",0.178571428571,0.103563103563
+04CA20DE,"Fertility intentions and outcomes: Implementing the Theory of Planned Behavior with graphical models",0.177777777778,0.138738344988
+5E7F42E8,"Partial likelihood for unbiased extended object tracking",0.157407407407,0.153703703704
+8106B4F6,"Learning Deep Generative Models",0.134615384615,0.205128205128
+810E3869,"Which graphical models are difficult to learn?",0.134615384615,0.247863247863
+81687C30,"Learning the Compositional Nature of Visual Objects",0.157407407407,0.185185185185
+5A874BBF,"Learning Graphical Models",0.134615384615,0.205128205128
+008B8FE9,"Epistemological Databases for Probabilistic Knowledge Base Construction",0.180555555556,0.110004578755
+7E86E05C,"Visual Hand Tracking Using Nonparametric Belief Propagation",0.233333333333,0.19967032967
+803F2CCD,"An initial framework for implementing and evaluating probabilistic adaptivity in mobile learning",0.171717171717,0.175291375291
+750A59D3,"A hybrid approach to dialogue management based on probabilistic rules",0.143939393939,0.144751082251
+7BCFF474,"Minimal sufficient causation and directed acyclic graphs",0.178571428571,0.111255411255
+8080BCCB,"A New Lower Bound for Tree-Width Using Maximum Cardinality Search",0.233333333333,0.197727272727
+77EAC0FF,"Modeling Protein Expression and Protein Signaling Pathways",0.186507936508,0.1293997669
+7E24127D,"Importance sampling-based estimation over AND/OR search spaces for graphical models",0.166666666667,0.0967482517483
+7A2DA630,"Interaction structures analysed from water-quality data",0.157407407407,0.154671717172
+7F29B5DE,"Jointly Identifying Entities and Extracting Relations in Encyclopedia Text via A Graphical Model Approach",0.178571428571,0.144775859062
+0B8CFF40,"Graphical Answers to Questions about Likelihood Inference for Gaussian Covariance Models",0.180555555556,0.0948107448107
+5936A073,"Simulation Based Optimization of Vertex Packing Decoding Algorithms",0.134615384615,0.126995028781
+7E16D608,"A philosophy and software tool for teaching and learning signal processing and communication systems",0.15,0.126931401931
+782A66E7,"Multitarget-multisensor data association using the tree-reweighted max-product algorithm",0.240740740741,0.197008547009
+7F15536D,"Causal learning without DAGs",0.138888888889,0.208333333333
+77A6E821,"Normalizing web product attributes and discovering domain ontology with minimal effort",0.143939393939,0.126140526141
+7E3299F4,"Learning High-Dimensional Markov Forest Distributions: Analysis of Error Rates",0.143939393939,0.12432012432
+7FFC0DAE,"Loop Corrections for Approximate Inference on Factor Graphs",0.178571428571,0.0843406593407
+7599F55D,"Probabilistic Logic Methods and Some Applications to Biology and Medicine",0.143939393939,0.123917748918
+7C8ADCE3,"Use of ranked cross document evidence trails for hypothesis generation",0.208333333333,0.118695193695
+7E5C7E38,"Combinatorial constructions of low-density parity-check codes for iterative decoding",0.178571428571,0.0989010989011
+7F54E9D3,"Learning graphical models for stationary time series",0.15,0.150291375291
+78C7AB14,"Robust model-based scene interpretation by multilayered context information",0.197619047619,0.114685314685
+7D3796FE,"On Utilizing Qualitative Preferences in Web Service Composition: A CP-net Based Approach",0.233333333333,0.196500721501
+81431585,"Scalable robust hypothesis tests using graphical models",0.291666666667,0.223397435897
+8052A44D,"Semantic Event Detection using Conditional Random Fields",0.25,0.19494047619
+7DB6AFFD,"A graphical model for audiovisual object tracking",0.157407407407,0.146011396011
+808223E6,"A Graphical Model for Recognizing Sung Melodies",0.166666666667,0.110004578755
+790AA726,"Chain graph models: topological sorting of meta-arrows and efficient construction of $${\mathcal{B}}$$ -essential graphs",0.178571428571,0.0956989439132
+5ED3EA5D,"Superpixel-Based Graphical Model for Remote Sensing Image Mapping",0.157407407407,0.132235819736
+7774BDFD,"Factorization of posteriors and partial imputation algorithm for graphical models with missing data",0.157407407407,0.122176434676
+7F618C0B,"Learning the Structure of Linear Latent Variable Models",0.138888888889,0.16452991453
+77697209,"Parallell interacting MCMC for learning of topologies of graphical models",0.143939393939,0.119163924311
+5AA548D4,"New Mini-Bucket Partitioning Heuristics for Bounding the Probability of Evidence",0.166666666667,0.12467032967
+82FBCB28,"Learning classifiers from remote RDF data stores augmented with RDFS subclass hierarchies",0.157407407407,0.139253801754
+7B640F4C,"Enumerating the junction trees of a decomposable graph",0.178571428571,0.112236721612
+78DB638C,"On the causal interpretation of acyclic mixed graphs under multivariate normality",0.178571428571,0.111255411255
+80EF80A4,"Probabilistic Inference in General Graphical Models through Sampling in Stochastic Networks of Spiking Neurons",0.157407407407,0.125508750509
+7594A4C5,"Learning from multiple annotators with varying expertise",0.15,0.170085470085
+7C5AAA1F,"Using Interaction Graphs for Analysing the Therapy Process",0.261904761905,0.204112554113
+80D760E8,"Learning nonparametric policies by imitation",0.138888888889,0.16452991453
+79B16F84,"The Probabilistic Program Dependence Graph and Its Application to Fault Diagnosis",0.178571428571,0.125855625856
+7E0D0F5B,"Learning Bayesian network structures by searching for the best ordering with genetic algorithms",0.157407407407,0.174857549858
+8136169A,"Optimal Value of Information in Graphical Models",0.197619047619,0.116117216117
+76A0094C,"Correlated equilibria in graphical games",0.15,0.130303030303
+792D4E99,"Describing Visual Scenes Using Transformed Objects and Parts",0.240740740741,0.170074370074
+063288B0,"Exploiting Tree Decomposition and Soft Local Consistency In Weighted CSP",0.407407407407,0.389978213508
+7FEB10F2,"Predictive modeling-based data collection in wireless sensor networks",0.166666666667,0.0962301587302
+810E30B0,"The max-min hill-climbing Bayesian network structure learning algorithm",0.157407407407,0.151175213675
+7857440D,"Mining topic-level influence in heterogeneous networks",0.157407407407,0.153703703704
+80339C06,"Modeling, Classifying and Annotating Weakly Annotated Images Using Bayesian Network",0.240740740741,0.183621933622
+79ABC9E8,"Bayesian Covariance Matrix Estimation Using a Mixture of Decomposable Graphical Models",0.233333333333,0.158058608059
+80B25939,"Constraint Complexity of Realizations of Linear Codes on Arbitrary Graphs",0.178571428571,0.111416361416
+69FF2EB3,"Gaussian Process Structural Equation Models with Latent Variables",0.167989417989,0.102672327672
+81635C4A,"An integrated discriminative probabilistic approach to information extraction",0.197619047619,0.120779220779
+80C6FA3E,"Visualizing Multivariate Dependencies with Association Chain Graphs",0.142857142857,0.122308802309
+7CC4587B,"Estimating networks with jumps",0.121693121693,0.12037037037
+7C848458,"Efficiently adapting graphical models for selectivity estimation",0.157407407407,0.134508547009
+7F489851,"The Complexity Limits of Graphical Models for Linear Codes",0.178571428571,0.10545010545
+7EDB7DB7,"A stacked graphical model for associating sub-images with sub-captions.",0.134615384615,0.163461538462
+79AF77CD,"Markov Properties for Acyclic Directed Mixed Graphs",0.178571428571,0.10545010545
+7DB6A23C,"Generative Model for Maneuvering Target Tracking",0.167989417989,0.179945054945
+75254C12,"Bayesian Multi‐net Classifier for classification of remote sensing data",0.157407407407,0.130341880342
+75D2B6E3,"Lifted Graphical Models: A Survey",0.134615384615,0.132783882784
+7F186EEE,"Unified graph matching in Euclidean spaces",0.178571428571,0.172619047619
+7CF22724,"Using Bayesian network for fault location on distribution feeder",0.240740740741,0.159932659933
+797F1FB0,"Correction: Graphical Models for Associations Between Variables, Some of which are Qualitative and Some Quantitative",0.15,0.136336996337
+5999B5AC,"Maximum Entropy Correlated Equilibria",0.15,0.133333333333
+76F5F22F,"Formulas for counting acyclic digraph Markov equivalence classes",0.178571428571,0.137291412291
+59DD4AA3,"Uninorm Based Fuzzy Network for Tree Data Structures",0.157407407407,0.140277777778
+80B0986E,"A new framework for identifying combinatorial regulation of transcription factors: A case study of the yeast cell cycle",0.178571428571,0.113876678877
+7F12D6E1,"R.J.: Alignments and string similarity in information integration: A random field approach",0.197619047619,0.115646258503
+7DC2B485,"Local structure and determinism in probabilistic databases",0.180555555556,0.108974358974
+78A5801E,"Eliciting conditional and unconditional rank correlations from conditional probabilities",0.166666666667,0.144255050505
+7F5384F7,"Supervised topic model for automatic image annotation",0.197619047619,0.135471195471
+80D237D8,"Spectral Methods for Learning Multivariate Latent Tree Structure",0.143939393939,0.142518939394
+7F3F299A,"Nearly optimal distributed configuration management using probabilistic graphical models",0.227272727273,0.190233100233
+7C8F5F98,"Maximum weight matching via max-product belief propagation",0.15,0.131730769231
+7DB7DB38,"Some practical issues on implementing distributed multi-agent reasoning systems",0.177777777778,0.192051282051
+76592B06,"Active learning from uncertain crowd annotations",0.167989417989,0.116883116883
+7DCE5FEC,"Event detection over twitter social media streams",0.166666666667,0.0940413752914
+8104310C,"Probabilistic model definition for physiological state monitoring",0.167989417989,0.0894688644689
+7EEB994E,"Design of scalable decoders for sensor networks via Bayesian network learning",0.157407407407,0.131206756207
+6BAC4FD1,"On Identifying Significant Edges in Graphical Models",0.134615384615,0.132783882784
+776DCD04,"Graphical Models for Integrating Syllabic Information",0.197619047619,0.147863247863
+7DB541FD,"A graphical model to determine the subcellular protein location in artificial tissues",0.15,0.134102564103
+7730E04E,"Category Modeling from Just a Single Labeling: Use Depth Information to Guide the Learning of 2D Models",0.197619047619,0.134678515929
+80173A83,"A dynamic generating graphical model for point-sets matching",0.134615384615,0.192307692308
+6B3CEDC7,"Network-Scale Traffic Modeling and Forecasting with Graphical Lasso",0.180555555556,0.106944444444
+80A3C647,"Sub-tree Based Upper and Lower Bounds on the Partition Function",0.157407407407,0.149572649573
+016A014C,"Permutation Testing Improves Bayesian Network Learning",0.157407407407,0.181944444444
+8138D709,"Belief Propagation and LP Relaxation for Weighted Matching in General Graphs",0.178571428571,0.102672327672
+7C7DF24B,"Improving on the maximum likelihood estimators of the means in Poisson decomposable graphical models",0.15,0.120233100233
+75C15747,"A New Look at Reweighted Message Passing",0.194444444444,0.108080808081
+756433F1,"Inferring interventions in product-based possibilistic causal networks",0.12962962963,0.134006734007
+7E28BFE3,"Enforcing integrability for surface reconstruction algorithms using belief propagation in graphical models",0.222222222222,0.170085470085
+8350D077,"Discovering time-evolving influence from dynamic heterogeneous graphs",0.178571428571,0.147619047619
+7B446227,"Efficient Road Scene Understanding for Intelligent Vehicles Using Compositional Hierarchical Models",0.217948717949,0.189255189255
+7595AFE1,"Association chain graphs: modelling etiological pathways",0.178571428571,0.0990665584416
+79E2B75F,"Constructing structural VAR models with conditional independence graphs",0.178571428571,0.130622710623
+7DD25105,"Learning Switching Linear Models of Human Motion",0.178571428571,0.188278388278
+77BA6E7B,"D-vine EDA: a new estimation of distribution algorithm based on regular vines",0.15,0.133566433566
+7E9B866C,"Segmentation of the evolving left ventricle by learning the dynamics",0.138888888889,0.176785714286
+0B81702B,"Topics in High-Dimensional Unsupervised Learning.",0.197619047619,0.145454545455
+7EFEDCA2,"Dynamic Processing Allocation in Video",0.178571428571,0.111255411255
+81685D9B,"Dynamic quantization for belief propagation in sparse spaces",0.166666666667,0.0895299145299
+786DF1BE,"Marginal AMP Chain Graphs",0.178571428571,0.1056998557
+80D1B10B,"Multi-instrument musical transcription using a dynamic graphical model",0.261904761905,0.239926739927
+7E3BF479,"Dynamic programming and the graphical representation of error-correcting codes",0.178571428571,0.106593406593
+815CE8D2,"Quantifying statistical interdependence by message passing on graphs---part ii: Multidimensional point processes",0.194444444444,0.135371572872
+7F3D8653,"Multi-domain Hierarchical Free-Sketch Recognition Using Graphical Models",0.227272727273,0.222610722611
+799FBA40,"Probabilistic inference in discrete spaces can be implemented into networks of LIF neurons",0.194444444444,0.175188237688
+7BDE06A5,"Graph-Based Sensor Fusion for Classification of Transient Acoustic Signals",0.222222222222,0.123917748918
+81642FAE,"Learning Graphical Models for Hypothesis Testing",0.208333333333,0.180689102564
+5CD8FBDB,"Learning the structure of image collections with latent aspect models",0.166666666667,0.130154567655
+5A260464,"Graphical Models: Foundations of Neural Computation",0.166666666667,0.0950854700855
+6103D4A2,"A domain independent framework for extracting linked semantic data from tables",0.157407407407,0.146490546491
+7FFC51D3,"Controlling the false discovery rate in modeling brain functional connectivity",0.157407407407,0.148941798942
+7D5B9E48,"Belief propagation for continuous state spaces: stochastic message-passing with quantitative guarantees",0.172619047619,0.103241758242
+78C91A04,"Learning undirected graphical models from multiple datasets with the generalized non-rejection rate",0.157407407407,0.173789173789
+77CC9AA2,"Graphical modeling based gene interaction analysis for microarray data",0.157407407407,0.129823879824
+5C6B946F,"Speeding up exact solutions of interactive dynamic influence diagrams using action equivalence",0.233333333333,0.172510822511
+7C48AB23,"Parallel finite element technique using Gaussian belief propagation",0.233333333333,0.167435897436
+8178E1C7,"Deterministic Initialization of Hidden Markov Models for Human Action Recognition",0.167989417989,0.0975224775225
+7EFC1AD9,"Corrective feedback and persistent learning for information extraction",0.197619047619,0.118181818182
+5CD5757B,"The PDG-Mixture Model for Clustering",0.0989010989011,0.121794871795
+7FBA2952,"The dynamic chain event graph",0.178571428571,0.119588744589
+7D25CCCF,"Focused state transition information in ASR",0.197619047619,0.116117216117
+808A2CA5,"Inference of global clusters from locally distributed data",0.157407407407,0.122008547009
+80CD6DE1,"Discrete-Input Two-Dimensional Gaussian Channels With Memory: Estimation and Information Rates Via Graphical Models and Statistical Mechanics",0.197619047619,0.0992507492507
+45B6587F,"Forward Affine Point Set Matching Under Variational Bayesian Framework",0.134615384615,0.162087912088
+76A88B56,"Learning dynamic temporal graphs for oil-production equipment monitoring system",0.178571428571,0.139340659341
+7D99A95E,"Factor Graph Based Joint Detection/Decoding for LDPC Coded Large-MIMO Systems",0.178571428571,0.159340659341
+5C3C2022,"On the complexity of information planning in Gaussian models",0.197619047619,0.117841880342
+813C56EE,"Gene Association Networks from Microarray Data Using a Regularized Estimation of Partial Correlation Based on PLS Regression",0.240740740741,0.17037037037
+7F3BEB40,"Global modeling and control strategy simulation for a hybrid electric vehicle using electrical variable transmission",0.233333333333,0.141705913134
+1271DBC1,"GAI-networks: optimization, ranking and collective choice in combinatorial domains",0.143939393939,0.123917748918
+7F4655B4,"Learning max-weight discriminative forests",0.15,0.216666666667
+7D23BB48,"Integration of Graphical Modeling with Fuzzy Clustering for Casual Relationship of Electric Load Forecasting",0.180555555556,0.133653846154
+7D6F6F96,"Improved Recognition of Figures containing Fluorescence Microscope Images in Online Journal Articles using Graphical Models",0.25,0.155384677711
+5CAB1DCB,"Automated Vertebra Identification from X-Ray Images",0.127272727273,0.141414141414
+7F3655D3,"PAC-learning bounded tree-width graphical models",0.134615384615,0.163461538462
+808D4072,"Justifying and generalizing contrastive divergence",0.130952380952,0.135714285714
+7EEA87CD,"Tracking Humans using Multi-modal Fusion",0.25,0.241477272727
+77EDB8FC,"Bayesian networks learning for strategies in artificial life",0.157407407407,0.155341880342
+77EE386A,"A Transfer Learning Approach for Network Modeling.",0.157407407407,0.135225885226
+7A677D60,"Stochastic model of production and inventory control using dynamic bayesian network",0.24537037037,0.168839031339
+7AC4D4F1,"A probabilistic imputation framework for predictive analysis using variably aggregated, multi-source healthcare data",0.240740740741,0.156549799407
+7F5765C8,"Improved Anatomical Landmark Localization in Medical Images Using Dense Matching of Graphical Models",0.227272727273,0.165617715618
+7D989507,"On Learning Discrete Graphical Models using Greedy Methods",0.227272727273,0.250291375291
+80F25241,"Loopy Belief Propagation: Convergence and Effects of Message Errors",0.194444444444,0.104234654235
+806EA2EA,"Modeling complex multi-issue negotiations using utility graphs",0.261904761905,0.199511599512
+7DB3C7D4,"Constrained optimization for validation-guided conditional random field learning",0.130952380952,0.146825396825
+687451DB,"Incremental Multi-view Face Tracking Based on General View Manifold",0.143939393939,0.161997806115
+79628E97,"Conditional models for contextual human motion recognition",0.178571428571,0.103563103563
+008901FD,"Score and information for recursive exponential models with incomplete data",0.197619047619,0.114865689866
+5F7C319B,"A Note on the Unification of Information Extraction and Data Mining using Conditional-Probability, Relational Models",0.280952380952,0.154564879565
+76C8B648,"Graphical models for imprecise probabilities",0.166666666667,0.100961538462
+81ABF08E,"Gated Bayesian networks for algorithmic trading",0.157407407407,0.12037037037
+73546FB8,"An information theoretic approach to pedigree reconstruction",0.197619047619,0.118253968254
+5997F202,"Automatic Extraction of Proximal Femur Contours from Calibrated X-Ray Images Using 3D Statistical Models",0.233333333333,0.159185259185
+7AF9CF89,"GRN model of probabilistic databases: construction, transition and querying",0.180555555556,0.099358974359
+5878D767,"Tracking complex objects using graphical object models",0.240740740741,0.209829059829
+79488D4F,"Table extraction using conditional random fields",0.227272727273,0.220779220779
+5A0EE170,"Variational Bayes learning of multiscale graphical models",0.134615384615,0.162393162393
+7C392C71,"Selecting high-dimensional mixed graphical models using minimal AIC or BIC forests",0.233333333333,0.231730769231
+75C47612,"Functioning and disability in people living with spinal cord injury in high- and low-resourced countries: a comparative analysis of 14 countries",0.166666666667,0.104873829874
+782C98B8,"Exploiting spatial context constraints for automatic image region annotation",0.417989417989,0.24981962482
+7E429478,"A generative model for music transcription",0.178571428571,0.120879120879
+8148E9AC,"Recognizing Human Activities from Silhouettes: Motion Subspace and Factorial Discriminative Graphical Model",0.178571428571,0.110704110704
+7AD67A29,"Fitting very large sparse Gaussian graphical models",0.134615384615,0.121794871795
+7DF7F22C,"Structural learning with time‐varying components: tracking the cross‐section of financial time series",0.15,0.170233100233
+77757110,"Adjusting for high-dimensional covariates in sparse precision matrix estimation by ℓ1-penalization",0.15,0.135227272727
+75332ADF,"An EDA based on local markov property and gibbs sampling",0.157407407407,0.136324786325
+8105168F,"Integration of Design in Distributed Development Using D-Scenario Graph",0.261904761905,0.178241758242
+79AED70A,"Indoor Tracking Using Undirected Graphical Models",0.217948717949,0.275641025641
+7F7B85BF,"A Probabilistic Framework for Decentralized Management of Trust and Quality",0.166666666667,0.098208041958
+8004C23E,"Compatible prior distributions for directed acyclic graph models",0.178571428571,0.1003996004
+02AEAA73,"Causality and Graphical Models for time series",0.166666666667,0.098208041958
+7F5D0110,"Max-Margin Weight Learning for Markov Logic Networks",0.157407407407,0.138559218559
+7DFF795B,"Graphical Models and Point Pattern Matching",0.15,0.124587912088
+79FFDE14,"Jointly recognizing multi-speaker conversations",0.166666666667,0.145833333333
+603B4AD8,"A novel approach for global abnormal event detection in multi-camera surveillance system",0.166666666667,0.0856227106227
+79054B92,"Entity information management in complex networks",0.197619047619,0.136219336219
+80493291,"Distributed Occlusion Reasoning for Tracking with Nonparametric Belief Propagation",0.15,0.158974358974
+7E7423AA,"Guest editors' introduction to the special section on graphical models in computer vision",0.166666666667,0.0823107448107
+78812650,"Measurement and analysis of health related quality of life and environmental data",0.166666666667,0.117910264339
+5BBBAF58,"Joint sulci detection using graphical models and boosted priors",0.222222222222,0.167185592186
+7E70E8F2,"Accelerating EM for Large Databases",0.180555555556,0.133477633478
+7F37D0A4,"Marginal parameterizations of discrete models defined by a set of conditional independencies",0.157407407407,0.134508547009
+76141E4C,"Learning bayesian networks from Markov random fields: An efficient algorithm for linear models",0.157407407407,0.133943833944
+7F6DA698,"The Nonparanormal: Semiparametric Estimation of High Dimensional Undirected Graphs",0.178571428571,0.121428571429
+80B7396A,"Efficient Batch Top-k Search for Dictionary-based Entity Recognition",0.178571428571,0.108946608947
+7DF5F0D9,"Randomized and Distributed Self-Configuration of Wireless Networks: Two-Layer Markov Random Fields and Near-Optimality",0.157407407407,0.125225885226
+80EF5138,"HSN-PAM: Finding Hierarchical Probabilistic Groups from Large-Scale Networks",0.178571428571,0.126984126984
+815FD77A,"Spatio-temporal graphical-model-based multiple facial feature tracking",0.134615384615,0.163461538462
+7EA6AC6C,"Global identifiability of linear structural equation models",0.167989417989,0.10989010989
+8038EF0E,"Conditional models for contextual human motion recognition",0.178571428571,0.103563103563
+7D38882D,"Identification of vector AR models with recursive structural errors using conditional independence graphs.",0.261904761905,0.144545038295
+80FC6820,"Transmembrane Topology and Signal Peptide Prediction Using Dynamic Bayesian Networks",0.240740740741,0.162704876823
+7E3531EC,"Decentralised data fusion: A graphical model approach",0.157407407407,0.120074370074
+816EB681,"On Factor Graphs and Electrical Networks",0.178571428571,0.110297110297
+7D5CB345,"Distributed fusion in sensor networks",0.12962962963,0.118362193362
+7F9FE1C6,"Graphical modeling of conditional random fields for human motion recognition",0.178571428571,0.097132034632
+788AD094,"CoBayes: bayesian knowledge corroboration with assessors of unknown areas of expertise",0.172619047619,0.103571428571
+79505BEF,"Characterizations of pseudo-codewords of (low-density) parity-check codes",0.136904761905,0.142857142857
+7EE37971,"Graph Rigidity, Cyclic Belief Propagation, and Point Pattern Matching",0.178571428571,0.11887398316
+7D4A17C0,"Recognizing Activities and Spatial Context Using Wearable Sensors",0.233333333333,0.185800865801
+85F7E8CB,"On Causal Explanations in Bayesian Networks",0.180555555556,0.138888888889
+7E43FFA6,"Uniformly reweighted belief propagation for distributed Bayesian hypothesis testing",0.208333333333,0.156730769231
+757F77C0,"Protein Fold Recognition Using Segmentation Conditional Random Fields (SCRFs)",0.227272727273,0.187852147852
+79C45CB6,"Inferring the Interactions in Complex Manufacturing Processes Using Graphical Models",0.227272727273,0.190792540793
+7D75F896,"Learning Bayesian Networks with qualitative constraints",0.157407407407,0.175925925926
+00D01773,"Localization of the Lumbar discs using machine learning and exact probabilistic inference",0.227272727273,0.146902933668
+63E5534E,"Approximated Structured Prediction for Learning Large Scale Graphical Models",0.134615384615,0.163461538462
+7D9A6CA2,"15 Lifted First-Order Probabilistic Inference",0.134615384615,0.163461538462
+7DCCF26B,"Approximating Model Equivalence in Interactive Dynamic Influence Diagrams Using Top K Policy Paths",0.233333333333,0.140157990158
+7DAACEE4,"Statistical Characterization of Protein Ensembles",0.167989417989,0.103563103563
+7ECFB25E,"Looking behind Granger causality",0.166666666667,0.180555555556
+7C439B6E,"Learning Oncogenic Pathways from Binary Genomic Instability Data",0.157407407407,0.151736111111
+7CA39FD4,"Fast globally optimal 2D human detection with loopy graph models",0.178571428571,0.101037851038
+7F91F88C,"An Unsupervised Approach for Product Record Normalization across Different Web Sites",0.166666666667,0.0892815517816
+7FF9B70B,"Learning Factor Graphs in Polynomial Time and Sample Complexity",0.178571428571,0.141007141007
+80F77418,"Monte Carlo Optimization of Decentralized Estimation Networks Over Directed Acyclic Graphs Under Communication Constraints",0.178571428571,0.0979504622362
+76DE6852,"Aligning music audio with symbolic scores using a hybrid graphical model",0.261904761905,0.193772893773
+80828634,"Using Graphical Models to Unobtrusively Assess Student Performance in Educational Image Processing Activities",0.233333333333,0.148867798868
+81547887,"Exact Inference in Graphical Models: is There More to it?",0.134615384615,0.162393162393
+5E6A50AD,"Kalman Filtering, Factor Graphs and Electrical Networks",0.178571428571,0.110297110297
+80D17453,"Representing and Solving Influence Diagram in Multi-Criteria Decision Making: A Loopy Belief Propagation Method",0.15,0.123193473193
+8067D0FB,"Cortical circuitry implementing graphical models",0.162393162393,0.158974358974
+7552E012,"Quantum Physical Symbol Systems",0.242063492063,0.205128205128
+80A5FC02,"Labeled Directed Acyclic Graphs: a generalization of context-specific independence in directed graphical models",0.178571428571,0.12201964702
+5CDD70D3,"Contour Matching Based on Belief Propagation",0.15,0.172051282051
+805E5B4D,"A Message-Passing Approach to Combating Desynchronization Attacks",0.140740740741,0.128968253968
+70475A0E,"Asynchronous decoding of LDPC codes over BEC",0.178571428571,0.10989010989
+260A5B10,"Towards Active Event Recognition",0.166666666667,0.107954545455
+7C9312D4,"Accounting for conformational entropy in predicting binding free energies of protein‐protein interactions",0.167989417989,0.120035520036
+7F33516E,"The Mediation Formula: A guide to the assessment of causal pathways in nonlinear models",0.167989417989,0.0887133699634
+7D5A3079,"Embodiment-specific representation of robot grasping using graphical models and latent-space discretization",0.233333333333,0.198717948718
+8067FA57,"An algorithm for counting short cycles in bipartite graphs",0.178571428571,0.145222832723
+76148332,"The L-separation criterion for description of cs-independence models",0.138888888889,0.118233618234
+7DC356D2,"Using physicochemical properties of amino acids to induce graphical models of residue couplings",0.240740740741,0.159959881388
+7F8FB6C0,"Random Redundant Soft-In Soft-Out Decoding of Linear Block Codes",0.178571428571,0.101037851038
+7A58676C,"Mixed graphical models for simultaneous model identification and control applied to glucose–insulin metabolism",0.233333333333,0.154681429681
+7C0FF5D1,"Technological modelling for graphical models: an approach based on genetic algorithms",0.134615384615,0.126007326007
+7EE885A1,"Segmentation of Lumbar Vertebrae Using Part-Based Graphs and Active Appearance Models",0.261904761905,0.162787444037
+7D30D9F3,"Soft-in soft-out decoding of Reed-Solomon codes based on Vardy and Be'ery's decomposition",0.178571428571,0.152984270631
+7F50E5CA,"A latent discriminative model-based approach for classification of imaginary motor tasks from EEG data",0.166666666667,0.0901455026455
+064FCB2E,"Graphical model approach to pitch tracking",0.134615384615,0.135302197802
+681C3C89,"Learning in graphical models",0.134615384615,0.205128205128
+7E62FD1B,"Gaussian Multiresolution Models: Exploiting Sparse Markov and Covariance Structure",0.388888888889,0.261721611722
+7A730712,"Learning Markov networks: maximum bounded tree-width graphs",0.178571428571,0.18746031746
+7E25BD71,"Learning Graphical Models for Hypothesis Testing and Classification",0.208333333333,0.161217948718
+76778072,"Pre-Service Teachers' Empathy and Cognitions: Statistical Analysis of Text Data by Graphical Models.",0.166666666667,0.0947722912009
+7E2E62FD,"Improving multi-lattice alignment based spoken keyword spotting",0.15,0.18869047619
+7AC5CFF9,"Improved large-MIMO detection based on damped belief propagation",0.15,0.168717948718
+76651213,"Parametrizations and reference priors for multinomial decomposable graphical models",0.167989417989,0.0970695970696
+76B7B17B,"Using graphical models to infer multiple visual classification features",0.222222222222,0.187435897436
+7D44BA64,"On the relationship between deterministic and probabilistic directed Graphical models: From Bayesian networks to recursive neural networks",0.166666666667,0.103010878011
+81F715B6,"Learning the Structure of Probabilistic Graphical Models with an Extended Cascading Indian Buffet Process",0.143939393939,0.130233100233
+7E9AB5F8,"Penalized likelihood methods for estimation of sparse high-dimensional directed acyclic graphs",0.178571428571,0.143001443001
+5E5A9FB6,"Bayesian Learning with Mixtures of Trees",0.15,0.165277777778
+802EBB8B,"Learning Latent Tree Graphical Models",0.134615384615,0.205128205128
+7E693B69,"Representing and Querying Correlated Tuples in Probabilistic Databases",0.180555555556,0.180555555556
+79008829,"Fast nonparametric belief propagation for real-time stereo articulated body tracking",0.15,0.123237179487
+7EDA1403,"Efficient belief propagation for higher-order cliques using linear constraint nodes",0.233333333333,0.160042735043
+7EE298BF,"Graphical Models for Groups: Belief Aggregation and Risk Sharing",0.178571428571,0.105948218448
+7DE20A7F,"Tracking Articulated Hand Underlying Graphical Model with Depth Cue",0.143939393939,0.141322962752
+7ED9B1B6,"Normal Factor Graphs",0.178571428571,0.10989010989
+7F037546,"Low-Complexity Detection in Large-Dimension MIMO-ISI Channels Using Graphical Models",0.222222222222,0.185897435897
+5979EFEB,"A decomposition algorithm for learning Bayesian network structures from data",0.157407407407,0.129105915871
+7CF1D0CA,"Boosted Bayesian network classifiers",0.157407407407,0.129344729345
+7E4409FC,"Data association based on optimization in graphical models with application to sensor networks",0.157407407407,0.126748648177
+8041E4C7,"Who, where, when and what: discover spatio-temporal topics for twitter users",0.155952380952,0.127272727273
+7F99051C,"Bayesian methods for multimedia signal processing",0.222222222222,0.14696969697
+7ED7FCDE,"Graphical framework for action recognition using temporally dense STIPs",0.233333333333,0.191958041958
+7FE5E94B,"Modeling methodology of sensor human-simulated and its application in sensing area of irregular graphics",0.178571428571,0.132142857143
+7F72C8F2,"Group and topic discovery from relations and text",0.169841269841,0.133015873016
+76559787,"Detecting non-gaussian geographical topics in tagged photo collections",0.197619047619,0.149107142857
+7EAA7CF7,"Scalable pattern mining with Bayesian networks as background knowledge",0.166666666667,0.102777777778
+7B9B8F2B,"Connections between the lines: augmenting social networks with text",0.166666666667,0.129444444444
+779EA918,"A Graphical Method for Assessing the Identification of Linear Structural Equation Models.",0.167989417989,0.118804528805
+68A2FE7B,"Bayesian knowledge corroboration with logical rules and user feedback",0.172619047619,0.106601731602
+5BE9F8D7,"Spine detection and labeling using a parts-based graphical model",0.222222222222,0.227564102564
+8126095A,"Knowledge discovery through directed probabilistic topic models: a survey",0.197619047619,0.11071012321
+797BAB7F,"Clothing Co-Parsing by Joint Image Segmentation and Labeling",0.143939393939,0.124747474747
+7DD417FD,"Model Selection and Accounting for Model Uncertainty in Graphical Models Using OCCAM's Window",0.251322751323,0.134860201527
+5E70D352,"Grouping using factor graphs: an approach for finding text with a camera phone",0.261904761905,0.167982634649
+7FB50C17,"Max Margin AND/OR Graph learning for parsing the human body",0.178571428571,0.161183261183
+804BA374,"Building Detection From One Orthophoto and High-Resolution InSAR Data Using Conditional Random Fields",0.240740740741,0.203174603175
+7F888558,"Partially Observed Maximum Entropy Discrimination Markov Networks",0.157407407407,0.119735819736
+781ACC93,"Robust Visual Tracking by Integrating Multiple Cues Based on Co-Inference Learning",0.143939393939,0.149134199134
+6F869887,"Using Conditional Random Fields for Decision-Theoretic Planning",0.222222222222,0.218253968254
+7DD13DF4,"Computing lower and upper expectations under epistemic independence",0.15,0.130303030303
+05BC8416,"Robust Multi-Person Tracking from Moving Platforms",0.130952380952,0.218253968254
+7B368C93,"Robust Bayesian Graphical Modeling Using Dirichlet $t$-Distributions",0.222222222222,0.291666666667
+7BF954FD,"Distributed message passing for large scale graphical models",0.194444444444,0.173397435897
+7ABF46D7,"Multi-view clustering using mixture models in subspace projections",0.240740740741,0.171021571022
+810149DD,"Message quantization in belief propagation: Structural results in the low-rate regime",0.194444444444,0.0984149184149
+76F0FC07,"Bayesian networks and information theory for audio-visual perception modeling",0.197619047619,0.112455322455
+58E2F822,"Event Detection Models Using 2d-BN and CRFs",0.25,0.196314102564
+7F763AA3,"How do the structure and the parameters of Gaussian tree models affect structure learning?",0.143939393939,0.141322962752
+80EB1B4A,"Sequential particle filtering for conditional density propagation on graphs",0.178571428571,0.112137862138
+7E6FB345,"Sketch recognition in interspersed drawings using time-based graphical models",0.25,0.1718997669
+7E027EAC,"Map approach to learning sparse Gaussian Markov networks",0.157407407407,0.132844932845
+6B6BDC45,"Learning mixtures of DAG models",0.15,0.148397435897
+807589F1,"Who will follow you back?: reciprocal relationship prediction",0.166666666667,0.150641025641
+7D02C56E,"Figure-ground segmentation using a hierarchical conditional random field",0.222222222222,0.218253968254
+7F488721,"Efficient construction of reversible jump Markov chain Monte Carlo proposal distributions",0.242063492063,0.125388500389
+80F5CBEE,"Identifying Patterns in Texts",0.140740740741,0.153703703704
+8033839E,"An introduction to factor graphs",0.142857142857,0.126984126984
+2657FAE4,"A class of multivariate copulas based on products of bivariate copulas",0.157407407407,0.135042735043
+7D2ADB51,"Sparse Forward-Backward Using Minimum Divergence Beams for Fast Training Of Conditional Random Fields",0.280952380952,0.186753246753
+02B6B56F,"Motion Context: A New Representation for Human Action Recognition",0.178571428571,0.104935064935
+8010DAF0,"Elimination is Not Enough: Non-Minimal Triangulations for Graphical Models",0.134615384615,0.134855769231
+7FFD99CA,"Bayesian networks classifiers applied to documents",0.25,0.203258547009
+80293175,"Robust Multiperson Tracking from a Mobile Platform",0.130952380952,0.160714285714
+096AEEA7,"Learning Factor Graphs in Polynomial Time & Sample Complexity",0.178571428571,0.141007141007
+7C00D8FE,"Reasoning with Probabilistic and Deterministic Graphical Models: Exact Algorithms",0.134615384615,0.134615384615
+722D1719,"Switching Hidden Markov Models for Learning of Motion Patterns in Videos",0.178571428571,0.118638504353
+42D404CB,"An algorithmic approach to identify irrelevant information in sequential teams",0.197619047619,0.153084415584
+78F52477,"Towards combining web classification and web information extraction: a case study",0.180952380952,0.132611832612
+7EA63066,"Scalable Fault Diagnosis in IP Networks using Graphical Models: A Variational Inference Approach",0.240740740741,0.135142635143
+5F6DDD01,"Tightening LP Relaxations for MAP using Message Passing",0.277777777778,0.190945165945
+80D0DD2E,"Optimal covariance selection for estimation using graphical models",0.233333333333,0.167852147852
+80410DD5,"Conditional State Space Models for Discriminative Motion Estimation",0.178571428571,0.103241758242
+589EEA28,"Conditioning graphs: practical structures for inference in bayesian networks",0.178571428571,0.107844932845
+5F5B3895,"On triangulating dynamic graphical models",0.134615384615,0.121794871795
+8071133E,"Control study of fuel cell and supercapacitors system using Hybrid Dynamic Nets",0.233333333333,0.140727724656
+7ED9E3E7,"High-dimensional Ising model selection using ℓ1-regularized logistic regression",0.227272727273,0.187791375291
+83794961,"Graph inference enhancement with clustering: Application to Gene Regulatory Network reconstruction",0.178571428571,0.09403998779
+05351BAE,"Graphical Models: Selecting causal and statistical models",0.134615384615,0.134615384615
+7E3EF7BF,"Lightweight map matching for indoor localisation using conditional random fields",0.214285714286,0.192857142857
+7ECC7E83,"Probabilistic Graphical Model for Auto-Annotation, Content-Based Retrieval, and Classification of TV Clips Containing Audio, Video, and Text",0.178571428571,0.111092656436
+5EEE044E,"A hybrid framework for image segmentation using probabilistic integration of heterogeneous constraints",0.233333333333,0.15574980575
+80951F84,"Graphical models for localization of the seizure focus from interictal intracranial EEG",0.166666666667,0.0878205128205
+76CAC348,"Combining Conditional Log-Linear Structures",0.138888888889,0.166666666667
+5F113539,"Robots that learn language: developmental approach to human-machine conversations",0.194444444444,0.152619047619
+80DC1B7C,"On the Validity of the Markov Interpretation of Path Diagrams of Gaussian Structural Equations Systems with Correlated Errors",0.167989417989,0.0947108447108
+801D527C,"An interactive approach for Bayesian network learning using domain/expert knowledge",0.25,0.228174603175
+7D482764,"A Bayesian Algorithm for Reading 1D Barcodes",0.134615384615,0.138461538462
+7A8EB39B,"User Interest and Topic Detection for Personalized Recommendation",0.598214285714,0.472051282051
+80C6D5CD,"Iterative Proportional Scaling Based on a Robust Start Estimator",0.143939393939,0.132284382284
+7678CA74,"Detection of Information Flow in Major International Financial Markets by Interactivity Network Analysis",0.197619047619,0.107601657602
+7B52BDB6,"The uncertainty of a selected graphical model",0.157407407407,0.146011396011
+0B831FB1,"Learning Classifiers for Assigning Protein Sequences to Gene Ontology Functional Families",0.143939393939,0.14319014319
+82A7DAA9,"Filtering Decomposable Global Cost Functions",0.157407407407,0.122895622896
+7EF55ED4,"Estimation in Gaussian Graphical Models Using Tractable Subgraphs: A Walk-Sum Analysis",0.233333333333,0.188461538462
+80961A94,"Using context information and local feature points in face clustering for consumer photos",0.280952380952,0.147504578755
+5D65B33D,"An empirical comparison of inference algorithms for graphical models with higher order factors using openGM",0.222222222222,0.137493458922
+7F56DF38,"Learning 4D action feature models for arbitrary view action recognition",0.15,0.124142524143
+7FD667D8,"Assessing the strength of directed influences among neural signals using renormalized partial directed coherence",0.305555555556,0.199116161616
+7A9B2DC7,"A Unified Approach to the Characterization of Equivalence Classes of DAGs, Chain Graphs with no Flags and Chain Graphs",0.178571428571,0.104292929293
+7FCB0364,"USING PROBABILISTIC GRAPHICAL MODELS TO DRAW INFERENCES IN SENSOR NETWORKS WITH TRACKING APPLICATIONS",0.240740740741,0.177464896215
+76E59B48,"Loop Calculus For Nonbinary Alphabets Using Concepts From Information Geometry",0.280952380952,0.158301420801
+7E180FF4,"Scalability of network-failure resilience: analysis using multi-layer probabilistic graphical models",0.233333333333,0.168951048951
+800264B6,"Learning Markov Structure by Maximum Entropy Relaxation",0.143939393939,0.146124708625
+5F4361E2,"Implementing First-Order Variables in a Graphical Cognitive Architecture",0.177777777778,0.168253968254
+7D231FF7,"Scaling laws for learning high-dimensional Markov forest distributions",0.157407407407,0.162455322455
+6EC92A46,"Finding Deformable Shapes by Point Set Matching Through Nonparametric Belief Propagation",0.15,0.168812140241
+7F021873,"Human Action Recognition by Semilatent Topic Models",0.197619047619,0.116958041958
+7DC391AD,"A New Graphical Game Model Based on MAIDs and AIDs",0.143939393939,0.128804528805
+7C97177D,"Mining comparative opinions from customer reviews for Competitive Intelligence",0.15,0.118951048951
+80F62678,"People-LDA: Anchoring Topics to People using Face Recognition",0.280952380952,0.198566433566
+7574A72A,"Efficient identification of independence networks using mutual information",0.280952380952,0.198888888889
+7F90BCEF,"Visual tracking using high-order Monte Carlo Markov chain",0.227272727273,0.198951048951
+7B46345B,"Correspondence analysis and association models constrained by a conditional independence graph",0.178571428571,0.107238792953
+7A12A061,"Creating non-minimal triangulations for use in inference in mixed stochastic/deterministic graphical models",0.143939393939,0.128117715618
+7BB76B90,"A graphical characterization of the largest chain graphs",0.178571428571,0.125541125541
+7DB19007,"C^4: Exploring Multiple Solutions in Graphical Models by Cluster Sampling",0.15,0.143566433566
+80393B69,"Hybrid in-database inference for declarative information extraction",0.197619047619,0.122610722611
+7728EE1D,"Reference priors for linear models with general covariance structures",0.167989417989,0.0891941391941
+04BD0309,"A MCMC Approach for Learning the Structure of Gaussian Acyclic Directed Mixed Graphs",0.178571428571,0.144372294372
+7C783CD7,"Variations on Undirected Graphical Models and their Relationships",0.166666666667,0.0976107226107
+7F07B6AE,"A Model Integrated Framework for Designing Self-managing Computing Systems",0.106837606838,0.132905982906
+7EDA8A19,"Damped Belief Propagation Based Near-Optimal Equalization of Severely Delay-Spread UWB MIMO-ISI Channels",0.15,0.138717948718
+7E65412F,"Real-time object recognition using relational dependency based on graphical model",0.240740740741,0.203897953898
+8087A2F9,"Probabilistic Image Modeling With an Extended Chain Graph for Human Activity Recognition and Image Segmentation",0.178571428571,0.107061688312
+7F88A417,"Learning multi-linear representations of distributions for efficient inference",0.15,0.150291375291
+7C361BDB,"Recommender system in collaborative learning environment using an influence diagram",0.233333333333,0.15574980575
+7FDA9E5F,"Automatic Person Annotation of Family Photo Album",0.167989417989,0.0953246753247
+7EAE22EB,"Tracking People and Their Objects",0.15,0.162037037037
+7B4322CB,"Information retrieval and applications of graphical models (IRGM 2007)",0.197619047619,0.107921245421
+7B77FC3D,"Credal networks under epistemic irrelevance: The sets of desirable gambles approach",0.157407407407,0.123333333333
+80601349,"Simulation-based estimation of the partition function and the information rate of two-dimensional models",0.197619047619,0.112678062678
+7A71B039,"Parameter Priors for Directed Acyclic Graphical Models and the Characterization of Several Probability Distributions",0.172619047619,0.0956365063508
+7AA79541,"Convergence of Min-Sum Message Passing for Quadratic Optimization",0.194444444444,0.10119047619
+800B66EA,"Semidefinite methods for approximate inference on graphs with cycles",0.178571428571,0.10545010545
+58D0ADE3,"Imitation Learning Using Graphical Models",0.222222222222,0.248397435897
+5E8D7A67,"Methods for Integrating Knowledge with the Three-Weight Optimization Algorithm for Hybrid Cognitive Processing",0.166666666667,0.105154567655
+5F84E9CA,"Novelty detection using graphical models for semantic room classification",0.233333333333,0.152503052503
+595DA3D3,"Graphical Models as Languages for Computer Assisted Diagnosis and Decision Making",0.194444444444,0.115917415917
+796B0E15,"Within-host co-evolution of Gag P453L and protease D30N/N88D demonstrates virological advantage in a highly protease inhibitor-exposed HIV-1 case",0.180555555556,0.138717948718
+802E1746,"Link between Sum-Product and Gradient Projection Decoding of LDPC Codes: An Intermediate Algorithm",0.178571428571,0.0936263736264
+7F09DF82,"Semi-automatic segmentation for 3D motion analysis of the tongue with dynamic MRI",0.178571428571,0.090293040293
+7E756E2B,"Probabilistic contour extraction using hierarchical shape representation",0.233333333333,0.178181818182
+7F579808,"EFFICIENT MARKOV NETWORK DISCOVERY USING PARTICLE FILTERS",0.240740740741,0.158395308395
+7963E765,"The evaluation of evidence in the forensic investigation of fire incidents (Part I): An approach using Bayesian networks",0.25,0.138098845599
+7E721AED,"Discriminative Fields for Modeling Semantic Concepts in Video",0.178571428571,0.117965367965
+813BFF82,"Identifying significant edges in graphical models of molecular networks",0.157407407407,0.127365689866
+781C61C3,"A log-linear approach to mining significant graph-relational patterns",0.15,0.140476190476
+7F8CD74E,"Inference of gene-regulatory networks using message-passing algorithms",0.240740740741,0.191239316239
+7604C4DE,"Bayesian MCMC mapping of quantitative trait loci in a half-sib design: a graphical model perspective",0.166666666667,0.0920491545492
+80BDD0FB,"ECOC-DRF: Discriminative random fields based on error correcting output codes",0.178571428571,0.151659451659
+79F1DD1C,"Learning and Inferring Motion Patterns using Parametric Segmental Switching Linear Dynamic Systems",0.261904761905,0.187241330098
+133025B2,"Extracting and Querying Probabilistic Information in BayesStore",0.197619047619,0.191666666667
+7E8F41FE,"Supervised classification using probabilistic decision graphs",0.261904761905,0.195238095238
+801E610D,"Fixing Max-Product: Convergent Message Passing Algorithms for MAP LP-Relaxations",0.194444444444,0.173397435897
+791E690C,"Graphs, Causality, and Structural Equation Models",0.178571428571,0.121909340659
+8155C099,"Modeling Differential Item Functioning Using a Generalization of the Multiple-Group Bifactor Model.",0.240740740741,0.20991045991
+5E1C7D19,"Labeling Still Image Databases Using Graphical Models",0.263888888889,0.2168997669
+58A10F9B,"Near-optimal nonmyopic value of information in graphical models",0.197619047619,0.116117216117
+5AC8387F,"Three dimensional visualization to support command and control",0.15,0.151893939394
+7F5CB973,"Directed Information Graphs",0.155952380952,0.144588744589
+78BBEBFE,"This Hand Is My Hand: A Probabilistic Approach to Hand Disambiguation in Egocentric Video",0.178571428571,0.124716553288
+770A3ED9,"Low-level grounding in a multimodal mobile service robot conversational system using graphical models",0.227272727273,0.165617715618
+75521E4F,"iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree",0.240740740741,0.222008547009
+810114F8,"Probabilistic graphical models and their role in databases",0.180555555556,0.106837606838
+7D1658A9,"Multi-modal Sequential Monte Carlo for On-Line Hierarchical Graph Structure Estimation in Model-based Scene Interpretation",0.178571428571,0.0951576201576
+7B3BB93C,"Efficient message computation in Sigma’s graphical architecture",0.194444444444,0.107142857143
+798BF878,"Learning from weakly labeled faces and video in the wild",0.178571428571,0.20746031746
+80D61CFF,"Brain Graphs: Graphical Models of the Human Brain Connectome",0.178571428571,0.0906593406593
+7E0F0E4A,"Embedded trees: estimation of Gaussian Processes on graphs with cycles",0.178571428571,0.112340668591
+7D1C973B,"Combining morphological analysis and Bayesian Networks for strategic decision support",0.157407407407,0.122455322455
+5C9793AA,"Geometric Representations of Hypergraphs for Prior Specification and Posterior Sampling",0.167989417989,0.10873015873
+7B13384D,"Causal Reasoning from Longitudinal Data*",0.25,0.25
+80BE101F,"Recovering articulated object models from 3D range data",0.140740740741,0.139121989122
+7D6785E8,"Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks",0.157407407407,0.12962962963
+7DBD8696,"Segmentation, ordering and multi-object tracking using graphical models",0.222222222222,0.166336996337
+77221E15,"Analysing the allometry of multiple interacting traits",0.166666666667,0.197916666667
+7963AE86,"A Unifying Learning Framework for Building Artificial Game-Playing Agents",0.15,0.129458041958
+039A5E7C,"Learning Random Attributed Relational Graph for Part-based Object Detection",0.178571428571,0.189880952381
+7F7E817E,"Jointly interventional and observational data: estimation of interventional Markov equivalence classes of directed acyclic graphs",0.178571428571,0.104701647559
+7F251B50,"Learning for Collective Information Extraction",0.197619047619,0.208080808081
+795C2806,"Variational Bayes learning of graphical models with hidden variables",0.15,0.146794871795
+7A89250C,"On the Markov Equivalence of Chain Graphs, Undirected Graphs, and Acyclic Digraphs",0.178571428571,0.123896103896
+5A94FE0B,"Probability Density Estimation by Perturbing and Combining Tree Structured Markov Networks",0.15,0.136153083028
+8145F3A2,"Bayesian graphical models for software testing",0.15,0.125641025641
+756DFFAC,"A data mining approach to predictive vegetation mapping using probabilistic graphical models",0.240740740741,0.15770102913
+7D7548B6,"Gaussian belief propagation solver for systems of linear equations",0.167989417989,0.0947252747253
+7DE06A99,"Extracting information from multimedia meeting collections",0.180952380952,0.151666666667
+7E4E9E40,"A Robust Facial Feature Point Tracker using Graphical Models",0.217948717949,0.159340659341
+75AAD41D,"Causal conditioning and instantaneous coupling in causality graphs",0.178571428571,0.105654761905
+7715C76C,"Learning structures from data and experts",0.157407407407,0.154671717172
+7D7BD812,"How To Grade a Test Without Knowing the Answers --- A Bayesian Graphical Model for Adaptive Crowdsourcing and Aptitude Testing",0.180555555556,0.143727106227
+754C897D,"Dynamic decision making for graphical models applied to oil exploration",0.227272727273,0.147515678766
+7838792B,"Latent interest-topic model: finding the causal relationships behind dyadic data",0.157407407407,0.173789173789
+816E0A50,"Entity Resolution with Markov Logic",0.178571428571,0.10057997558
+7C3557E1,"Tracking 3D human pose with large root node uncertainty",0.157407407407,0.12468975469
+7D2EB57B,"Learning for Structured Prediction Using Approximate Subgradient Descent with Working Sets",0.240740740741,0.225841618699
+7EA79FED,"Exponential Family Harmoniums with an Application to Information Retrieval",0.197619047619,0.100898905017
+775C81C7,"Mining and visualising ordinal data with non-parametric continuous BBNs",0.157407407407,0.125925925926
+7A521808,"A survey on independence-based Markov networks learning",0.157407407407,0.148199023199
+7D634A2F,"Characterization and greedy learning of interventional Markov equivalence classes of directed acyclic graphs",0.178571428571,0.107938093652
+5AD71BAE,"ARMA time-series modeling with graphical models",0.134615384615,0.121794871795
+778E031C,"Scalable diagnosis in IP networks using path-based measurement and inference: A learning framework",0.240740740741,0.137577700078
+638196DE,"Operations for Learning with Graphical Models",0.143939393939,0.167055167055
+797C0E20,"Complex adaptive filtering user profile using graphical models",0.25,0.1918997669
+7CB13C5E,"On Variational Message Passing on Factor Graphs",0.177777777778,0.159111721612
+30D08B0D,"Graphically dependent and spatially varying Dirichlet process mixtures",0.15,0.174747474747
+80C4D6D7,"Ontology-Based Protein-Protein Interactions Extraction from Literature Using the Hidden Vector State Model",0.25,0.146656914514
+7FB04CC2,"Knowledge Discovery from Citation Networks",0.422619047619,0.334027777778
+752491EA,"What Can Causal Networks Tell Us about Metabolic Pathways?",0.140740740741,0.141203703704
+8110B4C0,"Distributed High Accuracy Peer-to-Peer Localization in Mobile Multipath Environments",0.157407407407,0.123611111111
+80D007AF,"Understanding human functioning using graphical models",0.217948717949,0.310897435897
+5C53ED56,"Understanding and improving belief propagation",0.133333333333,0.127564102564
+806618C3,"A study of statistical models for query translation: finding a good unit of translation",0.157407407407,0.132132682133
+81478D38,"Efficient Lifting for Online Probabilistic Inference",0.134615384615,0.163461538462
+5BA9230C,"Using Recursive Decomposition to Construct Elimination Orders, Jointrees, and Dtrees",0.222222222222,0.191764705882
+76E3283E,"Bayesian structure learning in graphical models",0.138888888889,0.16452991453
+5F7BB055,"Finding Deformable Shapes Using Loopy Belief Propagation",0.233333333333,0.222051282051
+76226AE3,"Characterizing allelic associations from unphased diploid data by graphical modeling",0.157407407407,0.124273504274
+7B6DDE7A,"Learning message-passing inference machines for structured prediction",0.134615384615,0.140293040293
+79B9CC7E,"Learning AMP Chain Graphs and some Marginal Models Thereof under Faithfulness",0.178571428571,0.139744514745
+7E271971,"Integration of multiple contextual information for image segmentation using a Bayesian Network",0.280952380952,0.180892255892
+7B245201,"Learning from imprecise data: possibilistic graphical models",0.157407407407,0.173789173789
+7BD7AF51,"Active clustering of document fragments using information derived from both images and catalogs",0.280952380952,0.170705213904
+79C1CDF2,"Decision-theoretic specification of credal networks: A unified language for uncertain modeling with sets of Bayesian networks",0.194444444444,0.121031746032
+76F0AFA2,"Extended message passing algorithm for inference in loopy Gaussian graphical models",0.194444444444,0.141239316239
+7ECF785C,"Dialog act tagging using graphical models",0.233333333333,0.195384615385
+7EE74A14,"Identification of synaptic connections in neural ensembles by graphical models",0.166666666667,0.0940413752914
+772B6BC6,"Using Correlation Proximity Graphs to Study Phenotypic Integration",0.261904761905,0.210704110704
+80D10329,"Phrase-based statistical language generation using graphical models and active learning",0.277777777778,0.189121989122
+7931DCFB,"Wishart distributions for decomposable covariance graph models",0.178571428571,0.0955294705295
+7B08BBD3,"Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing",0.197619047619,0.113265306122
+7CF2BE9D,"Putting the pieces together: Connected Poselets for human pose estimation",0.15,0.193560606061
+7C7FFC7E,"Maximum likelihood bounded tree-width Markov networks",0.157407407407,0.134508547009
+7870F90E,"Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users",0.453703703704,0.268831168831
+801EEBA2,"Discovering geographical topics in the twitter stream",0.197619047619,0.145454545455
+7E2BD0A4,"Monte Carlo inference via greedy importance sampling",0.127272727273,0.123688811189
+80964124,"Bayes nets and babies: infants’ developing statistical reasoning abilities and their representation of causal knowledge",0.166666666667,0.1100370116
+7DEEACDD,"Bayesian Map Learning in Dynamic Environments",0.15,0.168253968254
+803A1704,"2D articulated tracking with dynamic Bayesian networks",0.157407407407,0.175925925926
+81323DEC,"Learning the Dynamics and Time-Recursive Boundary Detection of Deformable Objects",0.157407407407,0.147569444444
+77D0B298,"A linear programming approach for estimating the structure of a sparse linear genetic network from transcript profiling data.",0.166666666667,0.114030067155
+802E1580,"TCP − Compose ⋆ – A TCP-Net Based Algorithm for Efficient Composition of Web Services Using Qualitative Preferences",0.241666666667,0.175386072261
+79D8AE4D,"Recursive sum-product algorithm for generalized outer-planar graphs",0.178571428571,0.10989010989
+80644789,"AND/OR search spaces for graphical models",0.166666666667,0.0976107226107
+7E0E2009,"Dynamic Financial Index Models: Modeling Conditional Dependencies via Graphs",0.178571428571,0.117693417693
+07035DF2,"A discrete chain graph model for 3d+t cell tracking with high misdetection robustness",0.178571428571,0.124003774004
+80F07C46,"Reinforcement learning with markov logic networks",0.157407407407,0.149801587302
+7D919B1B,"Shape Matching with Belief Propagation: Using Dynamic Quantization to Accomodate Occlusion and Clutter",0.233333333333,0.165917415917
+7C85A4A4,"Bayesian network modeling for evolutionary genetic structures",0.157407407407,0.12037037037
+7F0BDE6B,"Robust and Low Complexity Distributed Kernel Least Squares Learning in Sensor Networks",0.157407407407,0.139333682191
+59667211,"Activity recognition in smart homes using absolute temporal information in dynamic graphical models",0.280952380952,0.172416472416
+7EB276D4,"On Combining Graph-based Variance Reduction schemes",0.117948717949,0.120192307692
+7B1E7701,"Bayesian method for learning graphical models with incompletely categorical data",0.157407407407,0.153069153069
+7FDF1CC0,"On hybrid factor graphs and adaptive equalization",0.178571428571,0.106593406593
+7E66E464,"High-dimensional Covariance Estimation Based On Gaussian Graphical Models",0.15,0.145421245421
+7760B68D,"Learning statistical models from relational data",0.157407407407,0.173789173789
+7B1BA879,"Enumerating the decomposable neighbors of a decomposable graph under a simple perturbation scheme",0.178571428571,0.112137862138
+7B0A3C44,"Bayes net graphs to understand co-authorship networks?",0.178571428571,0.166056166056
+7F74C226,"A new approach to rapid PN code acquisition using iterative message passing techniques",0.277777777778,0.186456400742
+774F3C4A,"Updating credal networks is approximable in polynomial time",0.157407407407,0.183838383838
+7F41D1DE,"Robust distributed estimation in sensor networks using the embedded polygons algorithm",0.240740740741,0.178908128908
+767C9B7D,"Locally averaged Bayesian Dirichlet metrics for learning the structure and the parameters of Bayesian networks",0.157407407407,0.144312169312
+76EE3969,"Taming graphical modeling",0.138888888889,0.166666666667
+7EDAC16C,"Variational Probabilistic Speech Separation Using Microphone Arrays",0.240740740741,0.174390968509
+7D70CD44,"Learning probabilistic networks",0.157407407407,0.222222222222
+7FBF0AA6,"Decision making with multiple objectives using GAI networks",0.240740740741,0.223737373737
+5DD1824A,"Knowledge-Based Operations for Graphical Models in Planning",0.143939393939,0.139277389277
+7FA404E9,"Effective data association scheme for tracking closely moving targets using factor graphs",0.261904761905,0.192667209334
+7F9B7158,"Accurate and Robust Registration of Nonrigid Surface Using Hierarchical Statistical Shape Model",0.233333333333,0.167435897436
+7B45DFB5,"Fast Structured Prediction Using Large Margin Sigmoid Belief Networks",0.240740740741,0.1703000703
+5F703252,"Solving the Uncapacitated Facility Location Problem Using Message Passing Algorithms",0.277777777778,0.166812354312
+7EEF2E17,"Learning partially-observed hidden conditional random fields for facial expression recognition",0.143939393939,0.146645021645
+5B1A04CA,"Combining Bayesian Networks with Higher-Order Data Representations",0.157407407407,0.143055555556
+7DD3E633,"Continuous-time Infinite Dynamic Topic Models",0.197619047619,0.138461538462
+801899A1,"Sensor localization using nonparametric generalized belief propagation in network with loops",0.240740740741,0.1506620116
+60A12331,"Generalized belief propagation for estimating the partition function of the 2D Ising model",0.12962962963,0.118091168091
+7E7122BC,"Labeled graph notations for graphical models Extended Report",0.178571428571,0.150981888482
+6280BE62,"Parallelizing a convergent approximate inference method",0.116161616162,0.122610722611
+8112E04B,"Increasingly correct message passing algorithms for heat source detection in sensor networks",0.194444444444,0.114278083028
+7E61DC5A,"A unified approach to ranking in probabilistic databases",0.180555555556,0.162698412698
+58C583FC,"Estimation of the Hemodynamic Response Function in Event-Related Functional MRI: Directed Acyclic Graphs for a General Bayesian Inference Framework",0.178571428571,0.0941856754357
+7F600611,"Detection of Unnatural Movement Using Epitomic Analysis",0.222222222222,0.185897435897
+758A2C38,"Bayesian model averaging and model selection for markov equivalence classes of acyclic digraphs",0.167989417989,0.11410335696
+6A5D87FE,"Relational Markov Networks for Collective Information Extraction",0.197619047619,0.119735819736
+799FD6B8,"A characterization of the Dirichlet distribution through global and local parameter independence",0.167989417989,0.101298701299
+806C5E7B,"Testing for directed influences among neural signals using partial directed coherence",0.305555555556,0.205303030303
+805B45F3,"Construction and application of Bayesian networks in flood decision supporting system",0.157407407407,0.120268620269
+8175D8C2,"Using Chain Graphical Model to Analyze the Efficacy of a Chinese Medicine",0.227272727273,0.192429098679
+7ADCA6D3,"Using graphical models and genomic expression data to statistically validate models of genetic regulatory networks.",0.240740740741,0.161162911163
+7923BB38,"Finding the minimal set for collapsible graphical models",0.157407407407,0.173789173789
+804CB761,"Taking on the curse of dimensionality in joint distributions using neural networks",0.240740740741,0.193855218855
+767D07FD,"Modeling, analyzing, and synthesizing expressive piano performance with graphical models",0.143939393939,0.128666472416
+80D23383,"The Logistic Random Field — A convenient graphical model for learning parameters for MRF-based labeling",0.134615384615,0.138278388278
+809D03EB,"Human Object Inpainting Using Manifold Learning-Based Posture Sequence Estimation",0.240740740741,0.180404040404
+6BA17283,"Machine learning approaches to text representation using unlabeled data",0.240740740741,0.197883597884
+7943DA46,"Identification of nonlinear VAR models using general conditional independence graphs",0.261904761905,0.164407814408
+80FB26C5,"Moving obstacle detection in highly dynamic scenes",0.138888888889,0.144230769231
+5E7501F0,"Multiple Facial Feature Tracking Using Multi-cue Based Prediction Model",0.217948717949,0.219017094017
+6381CF53,"Crystal Identification in Positron Emission Tomography Using Probabilistic Graphical Models",0.227272727273,0.148431429681
+7EAAE6BC,"Gradient Directed Regularization for Sparse Gaussian Concentration Graphs, with Applications to Inference of Genetic Networks",0.178571428571,0.107204700062
+76853CFD,"Soft arc consistency revisited",0.157407407407,0.125925925926
+8164F48C,"Learning class-specific affinities for image labelling",0.143939393939,0.163636363636
+0C67395C,"Audio-Visual Event Recognition with Graphical Models",0.166666666667,0.0976107226107
+78C2C88B,"Robust indoor localization based on hybrid Bayesian graphical models",0.138888888889,0.16452991453
+8144D00E,"Bottom-Up a Top-down Object Detection using Primal Sketch Features and Graphical Models",0.240740740741,0.152492877493
+7B023A6E,"Dynamic staged trees for discrete multivariate time series : forecasting, model selection and causal analysis",0.180555555556,0.106193343693
+80938E8B,"Learning Graphical Models with Mercer Kernels",0.134615384615,0.138461538462
+75718D5F,"A characterization of Markov equivalence for directed cyclic graphs",0.178571428571,0.119155844156
+583DF9BB,"A novel formal specification approach for real time multi-agent system functional requirements",0.167989417989,0.0930902430902
+5E453122,"Stacked hierarchical labeling",0.25,0.0
+7D125BFF,"Using the Forest to See the Trees: A Graphical Model Relating Features, Objects, and Scenes",0.240740740741,0.175547542735
+78D6ACCF,"Learning the structure of dynamic Bayesian networks from time series and steady state measurements",0.157407407407,0.125860647289
+5EC4B4A2,"Dynamic Bayesian Networks for Real-Time Classification of Seismic Signals",0.222222222222,0.148148148148
+03317C35,"REASONING WITH GRAPHICAL MODELS",0.134615384615,0.163461538462
+8104831D,"P-brush: Continuous valued MRFs with normed pairwise distributions for image segmentation",0.143939393939,0.128787878788
+7FF3BFC1,"Learning structurally consistent undirected probabilistic graphical models",0.134615384615,0.205128205128
+75D8BCFD,"Increasing representational power and scaling reasoning in probabilistic databases",0.180555555556,0.185555555556
+7BA358FC,"Multicues 3D Monocular Upper Body Tracking Using Constrained Belief Propagation",0.233333333333,0.202051282051
+7EA0876F,"Gaussian belief propagation based multiuser detection",0.15,0.148397435897
+750E074B,"PrDB: managing and exploiting rich correlations in probabilistic databases",0.430555555556,0.425925925926
+5AD49F05,"Bayesian Substructure Learning - Approximate Learning of Very Large Network Structures",0.157407407407,0.141919191919
+773AAE7B,"Learning decomposable markov networks in pseudo-independent domains with local evaluation",0.157407407407,0.140637140637
+7827D36B,"Modeling the Complex Dynamics and Changing Correlations of Epileptic Events",0.166666666667,0.159722222222
+7F3CF2AF,"Iterative decoding of compound codes by probability propagation in graphical models",0.178571428571,0.0959249084249
+7846A725,"An Iterative Algorithm and Low Complexity Hardware Architecture for Fast Acquisition of Long PN Codes in UWB Systems",0.178571428571,0.0916543773687
+5E486F28,"Multi-view object tracking using sequential belief propagation",0.240740740741,0.207606837607
+75417BCD,"Bayesian graphical model determination using decision theory",0.227272727273,0.165617715618
+841A0C13,"Fast detection of OFDM systems using graphical models",0.222222222222,0.184294871795
+808B18AA,"Automatic Extraction of Femur Contours from Calibrated Fluoroscopic Images",0.15,0.120454545455
+7F9B81D7,"Expandable Data-Driven Graphical Modeling of Human Actions Based on Salient Postures",0.15,0.14
+7E9815DE,"Screening and interpreting multi-item associations based on log-linear modeling",0.178571428571,0.181904761905
+7CFE8B0C,"Learning and inferring image segmentations using the GBP typical cut algorithm",0.227272727273,0.155497280497
+80513669,"A metamodel for the notation of graphical modeling languages",0.194444444444,0.125
+751C10B2,"A probabilistic graphical model approach to stochastic multiscale partial differential equations",0.167989417989,0.0970695970696
+806D3ECC,"Generating Linked Data by Inferring the Semantics of Tables ∗",0.140740740741,0.163756613757
+7D6E186D,"Extracting Decisions from Multi-Party Dialogue Using Directed Graphical Models and Semantic Similarity",0.233333333333,0.185042735043
+80ACFB55,"Sample complexity of determining structures of graphical models",0.157407407407,0.151175213675
+7FA065D8,"Tracking loose-limbed people",0.15,0.1875
+7F0A7E70,"Deformed Lattice Detection in Real-World Images Using Mean-Shift Belief Propagation",0.233333333333,0.183527583528
+767A3B64,"Latent graphical models for quantifying and predicting patent quality",0.166666666667,0.124511599512
+7FEBBA90,"SystemCSP: Visual notation",0.166666666667,0.125
+7D630F8D,"Revisiting uncertainty in graph cut solutions",0.12962962963,0.123232323232
+7D2FB7E4,"Effects of stocking density, periphyton substrate and supplemental feed on biological processes affecting water quality in earthen tilapia–prawn polyculture ponds",0.166666666667,0.124015151515
+7667BD85,"From Hopfield nets to recursive networks to graph machines: numerical machine learning for structured data",0.157407407407,0.133804563492
+7BF92BFE,"Operations and evaluation measures for learning possibilistic graphical models",0.143939393939,0.131748251748
+7D48DD13,"An Improved Scheme for Detection and Labelling in Johansson Displays",0.166666666667,0.0950854700855
+80F721EC,"Statistical modeling of biomedical corpora: mining the Caenorhabditis Genetic Center Bibliography for genes related to life span",0.158333333333,0.127823102823
+6AED4EEE,"Generalized measurement models",0.116161616162,0.122610722611
+7CFDFAD0,"Diagnostic reasoning based on means-end models: experiences and future prospects",0.143939393939,0.133566433566
+596178A8,"Local Structure Learning in Graphical Models",0.138888888889,0.16452991453
+7BB5C886,"Bird breed classification and annotation using saliency based graphical model",0.251322751323,0.172785027473
+7BEED1D8,"Estimation of distribution algorithms based on copula functions",0.157407407407,0.131533281533
+7EBF0369,"Non-parametric image super-resolution using multiple images",0.227272727273,0.227272727273
+7CE9E1AF,"Codes on Graphs: Duality and MacWilliams Identities",0.136904761905,0.124206349206
+06DD7382,"Causal Discovery for Relational Domains: Representation, Reasoning, and Learning",0.15,0.141515151515
+064BAFBF,"Data Mining Meets HCI: Making Sense of Large Graphs",0.178571428571,0.135704110704
+7F9FC5C6,"Structural Learning of Chain Graphs via Decomposition.",0.178571428571,0.0958747135218
+78F8B732,"Incorporating non-motion cues into 3D motion segmentation",0.142857142857,0.119047619048
+5EB237CF,"Information-theoretic limits of selecting binary graphical models in high dimensions",0.15,0.129458041958
+7B025063,"Rapid Acquisition of Gold Codes and Related Sequences Using Iterative Message Passing on Redundant Graphical Models",0.277777777778,0.173116466866
+806D9E08,"Detecting Unsafe Driving Patterns using Discriminative Learning",0.233333333333,0.190681818182
+8072A1AB,"Unapparent Information Revelation: Text Mining for Counterterrorism",0.197619047619,0.108023088023
+7A016082,"Item Screening in Graphical Loglinear Rasch Models",0.157407407407,0.129344729345
+80BD2F35,"A Hybrid Estimation of Distribution Algorithm for the Minimal Switching Graph Problem",0.178571428571,0.0974886224886
+5DA7A754,"Improving data association by joint modeling of pedestrian trajectories and groupings",0.178571428571,0.126455026455
+5903FEED,"Structural Learning About Independence Graphs from Multiple Databases",0.186507936508,0.185714285714
+7A22AB70,"Multi-View Face Tracking with Factorial and Switching HMM",0.134615384615,0.175641025641
+8114FC17,"Joint latent topic models for text and citations",0.483333333333,0.347008547009
+7E144371,"A Recursive Method for Structural Learning of Directed Acyclic Graphs",0.178571428571,0.103896103896
+5CD947A2,"On the Representation of Codes in Forney Graphs",0.136904761905,0.128571428571
+7F7CBE28,"Maximum a posteriori image restoration based on a new directional continuous edge image prior",0.15,0.128318903319
+75BF84DE,"Extracting Protein Regulatory Networks with Graphical Models",0.157407407407,0.128739316239
+7B8348C2,"Markov Chain Monte Carlo inference on graphical models using event-based processing on the SpiNNaker neuromorphic architecture",0.233333333333,0.1262996263
+59C4505E,"Comparative validation of graphical models for learning tumor segmentations from noisy manual annotations",0.167989417989,0.131074481074
+7EAFBD91,"Efficient Coding of Labelled Graphs",0.178571428571,0.113095238095
+810DEA87,"Learning Markov graphs up to edit distance",0.143939393939,0.183566433566
+79730D3E,"Conditions for swappability of records in a microdata set when some marginals are fixed",0.166666666667,0.170555555556
+80F7104C,"WEIGHTED LASSO IN GRAPHICAL GAUSSIAN MODELING FOR LARGE GENE NETWORK ESTIMATION BASED ON MICROARRAY DATA",0.157407407407,0.126984126984
+6FEFAEDD,"Surface Reconstruction from Multiple Views Using Apparent Contours and Surface Texture",0.233333333333,0.148701298701
+7DC9656D,"Structural-EM for learning PDG models from incomplete data",0.157407407407,0.173789173789
+7EBA7FB7,"A guide to the literature on learning probabilistic networks from data",0.166666666667,0.149444444444
+6049E046,"A tutorial on learning with Bayesian networks",0.157407407407,0.178451178451
+5E34CCD0,"Learning and Parsing Stochastic Unification-Based Grammars",0.143939393939,0.135858585859
+7672EF04,"Estimation of graphical models whose conditional independence graphs are interval graphs and its application to modelling linkage disequilibrium",0.178571428571,0.135708180708
+7F504916,"Efficient Belief Propagation for Vision Using Linear Constraint Nodes",0.233333333333,0.156196581197
+7CD6474A,"Dynamic path analysis—a new approach to analyzing time-dependent covariates",0.138888888889,0.162698412698
+81262D6D,"Simulation-based engineering of complex systems using EXTEND+MFG+OpEMCSS",0.217948717949,0.217948717949
+5D690D1B,"Learning Graphical Models by Extending Optimal Spanning Trees",0.134615384615,0.168189102564
+7A9296B5,"Using Bayesian graphical models to model biases in observational studies and to combine multiple sources of data: application to low birth weight and water disinfection by-products",0.240740740741,0.132818768533
+806FCC7F,"Analyzing Product-Form Stochastic Networks Via Factor Graphs and the Sum-Product Algorithm",0.178571428571,0.14822954823
+7FA86514,"Effective connectivity of fMRI data using ancestral graph theory: Dealing with missing regions",0.261904761905,0.170323503657
+7C571289,"A Scoring Criterion For Learning Chain Graphs",0.178571428571,0.169552669553
+80060D7C,"Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data",0.157407407407,0.133395308395
+80E9B110,"Tailoring density estimation via reproducing kernel moment matching",0.140740740741,0.165740740741
+58519BEA,"CRF Models for Tamil Part of Speech Tagging and Chunking",0.166666666667,0.0924388111888
+7D934CBB,"A hybrid graphical model for robust feature extraction from video",0.178571428571,0.0969030969031
+7D717049,"DC proposal: graphical models and probabilistic reasoning for generating linked data from tables",0.242063492063,0.158920940171
+7C8540FF,"Introduction to the special issue on Graphical Models and Information Retrieval",0.197619047619,0.103956043956
+7A16199F,"On Riesz and Wishart distributions associated with decomposable undirected graphs",0.178571428571,0.161255411255
+7F481AC7,"Scene Text Recognition Using Similarity and a Lexicon with Sparse Belief Propagation",0.240740740741,0.145872183372
+7F616818,"Multiagent bayesian forecasting of structural time-invariant dynamic systems with graphical models",0.180555555556,0.106837606838
+7F24CF09,"Extending mental imagery in sigma",0.161255411255,0.142063492063
+7C583D36,"Minimal primes of ideals arising from conditional independence statements",0.197619047619,0.148181818182
+761D5749,"Learning invariant features using inertial priors",0.217948717949,0.245421245421
+81733827,"Score-Based bayesian skill learning",0.15,0.216666666667
+8000315F,"Probabilistic independence networks for hidden Markov probability models",0.166666666667,0.0979914529915
+7CA4E9E3,"A conditional independence algorithm for learning undirected graphical models",0.15,0.146794871795
+7A8CC0C6,"A probabilistic algorithm integrating source localization and noise suppression for MEG and EEG data",0.166666666667,0.100438142105
+59D548F3,"Reverse Engineering Gene Networks Using Genomic Time-Course Data",0.240740740741,0.165598290598
+83C7FFB0,"Testable Implications of Linear Structural Equation Models",0.167989417989,0.0970695970696
+7DB1438E,"Iterative Message Passing Algorithm for Bipartite Maximum Weighted Matching",0.194444444444,0.173931623932
+7DBC41A0,"Sensor localization using generalized belief propagation in network with loops",0.240740740741,0.143613727542
+5F33C551,"Evaluating Weighted DFS Branch and Bound over Graphical Models",0.15,0.130769230769
+77C30D36,"Grouped graphical Granger modeling methods for temporal causal modeling",0.143939393939,0.126893939394
+7D2036F0,"Video Tracking Based on Sequential Particle Filtering on Graphs",0.178571428571,0.187770562771
+772CE3A1,"Using the multi-layer model for building interactive graphical applications",0.222222222222,0.227564102564
+790D59A8,"Man made structure detection and verification of object recognition in images for the visually impaired",0.143939393939,0.121212121212
+7F3164EC,"A Multi-Pronged Approach to Improving Semantic Extraction of News Video",0.186507936508,0.144372294372
+80DFD741,"Cooperative sensing using probabilistic graphical models in Cognitive Radio networks",0.240740740741,0.200106837607
+7BE70B03,"Incremental learning of cognitive concepts: a hidden variable networks approach",0.157407407407,0.118585858586
+7E797D48,"Tree-Based Reparameterization with Distributional Approximations for Reduced-Complexity MIMO Symbol Detection",0.242063492063,0.162698412698
+7E5CEFD6,"Partition function loop series for a general graphical model: free-energy corrections and message-passing equations",0.167989417989,0.0904020582592
+02238973,"Leveraging Domain Knowledge in Multitask Bayesian Network Structure Learning",0.166666666667,0.104377104377
+803B565A,"An efficient message passing algorithm for multi-target tracking",0.194444444444,0.141254578755
+06BC4975,"Learning graphical model structure using L1-regularization paths",0.222222222222,0.215384615385
+0BD946B6,"Exploiting Parameter Related Domain Knowledge for Learning in Graphical Models",0.416666666667,0.278227724656
+7FC6E957,"A dynamic Bayesian framework to model context and memory in edit distance learning: an application to pronunciation classification",0.166666666667,0.099876974877
+7E67D4AA,"Temporal Conditional Random Fields: A conditional state space predictor for visual tracking",0.166666666667,0.0832417582418
+778AE5B9,"Keeping count: Leveraging temporal context to count heavily overlapping objects",0.157407407407,0.175336700337
+7A5DBB0F,"The Factor Graph Approach to Model-Based Signal Processing",0.186507936508,0.128241758242
+5BC24255,"Theory and Applied Computing: Observations and Anecdotes",0.222222222222,0.162820512821
+7FC7DEC5,"AND/OR Search Spaces and the Semantic Width of Constraint Networks",0.166666666667,0.100252525253
+7FDFFEA5,"Bayesian model comparison based on expected posterior priors for discrete decomposable graphical models",0.134615384615,0.138339438339
+7527D77F,"A Multi-Modal Topic Model for Image Annotation Using Text Analysis",0.280952380952,0.181268731269
+805ED9C0,"High-Dimensional Graphical Model Selection Using $\ell_1$-Regularized Logistic Regression",0.227272727273,0.187791375291
+7B199F5F,"Learning Causal Relations in Multivariate Time Series Data",0.157407407407,0.149292929293
+752D7754,"An unsupervised method for joint information extraction and feature mining across different Web sites",0.197619047619,0.0995480709766
+7DC48CD2,"Decision Detection Using Hierarchical Graphical Models",0.222222222222,0.185897435897
+7E97778E,"Robust vocabulary independent keyword spotting with graphical models",0.134615384615,0.138461538462
+7E4FFD89,"Message passing expectation-maximization algorithms",0.177777777778,0.16452991453
+7A9FCC94,"A Novel Probabilistic Model Based Fingerprint Recognition Algorithm",0.143939393939,0.144522144522
+7E21199A,"Model assisted approaches to complex survey sampling from finite populations using Bayesian Networks",0.240740740741,0.18025030525
+7D368C19,"Message-passing for Graph-structured Linear Programs: Proximal Methods and Rounding Schemes",0.143939393939,0.127185314685
+761D4908,"A Gaussian mixed model for learning discrete Bayesian networks",0.157407407407,0.173789173789
+7C5B9552,"Reference priors for discrete graphical models",0.167989417989,0.0970695970696
+7A8744A1,"Learning Bayesian network classifiers by risk minimization",0.157407407407,0.136741036741
+7ADAFA6D,"Rapid conceptual design evaluation using a virtual product model",0.227272727273,0.164335664336
+5858990C,"What, Where and Who? Telling the Story of an Image by Activity Classification, Scene Recognition and Object Categorization",0.180952380952,0.125398212898
+5BD23A58,"Modeling context as statistical dependence",0.157407407407,0.122895622896
+8076BADB,"Equivalence between minimal generative model graphs and directed information graphs",0.197619047619,0.125591075591
+7C72439C,"Supervised N-gram topic model",0.161904761905,0.147863247863
+71F4616F,"Remarks Concerning Graphical Models for Time Series and Point Processes",0.180555555556,0.13288140431
+7585F201,"Optimising dynamic graphical models for video content analysis",0.178571428571,0.114896214896
+5BBF5272,"Preference Aggregation with Graphical Utility Models",0.166666666667,0.0924388111888
+7D149AEC,"Model Driven Segmentation of Articulating Humans in Laplacian Eigenspace",0.166666666667,0.112980769231
+71A73458,"Unifying guilt-by-association approaches: theorems and fast algorithms",0.167989417989,0.114468864469
+7FE6652A,"Reinforcement Learning with Factored States and Actions",0.15,0.147023809524
+7639D773,"Generic reversible jump MCMC using graphical models",0.222222222222,0.220085470085
+804726BC,"Graphical modeling can be used to illustrate associations between variables describing functioning in head and neck cancer patients.",0.233333333333,0.141964897847
+7FBCB0A7,"On-line Simultaneous Learning and Tracking of Visual Feature Graphs",0.178571428571,0.0955294705295
+5856E6C1,"Multiscale Graphical Modeling in Space: Applications to Command and Control",0.166666666667,0.165
+76494098,"The Extraction and Complexity Limits of Graphical Models for Linear Codes",0.178571428571,0.102541902542
+7EBA44BD,"Finding Text in Natural Scenes by Figure-Ground Segmentation",0.157407407407,0.151175213675
+047143CC,"Premature arterial and venous events in three families: Effect of folate levels and MTHFR mutation mediated by family/generation and homocysteine levels",0.166666666667,0.0960579351204
+7602AEBC,"Learning to solve game trees",0.143939393939,0.184185606061
+7680C18C,"Back-buy prediction based on TriFG",0.134615384615,0.205128205128
+803EA8B7,"Robust Distributed Estimation Using the Embedded Subgraphs Algorithm",0.233333333333,0.219230769231
+7826D9FC,"Log-linear modeling using conditional log-linear structures",0.222222222222,0.222222222222
+61F922B1,"Learning the Conditional Independence Structure of Stationary Time Series: A Multitask Learning Approach",0.15,0.124273345702
+784072B9,"Information fusion in navigation systems via factor graph based incremental smoothing",0.197619047619,0.14255268541
+58C0887E,"Learning from data: possibilistic graphical models",0.157407407407,0.173789173789
+816C11A2,"Topics over time: a non-Markov continuous-time model of topical trends",0.197619047619,0.109815184815
+7BF6006B,"Learning to extract and summarize hot item features from multiple auction web sites",0.157407407407,0.140666971917
+7DA914F0,"Learning an L1-Regularized Gaussian Bayesian Network in the Equivalence Class Space",0.166666666667,0.156111111111
+7DB035A3,"Mining Relationship Between Video Concepts using Probabilistic Graphical Models",0.261904761905,0.197614885115
+7F8777BF,"Codes on graphs: normal realizations",0.178571428571,0.120879120879
+7FA11255,"Model testing for causal models",0.106837606838,0.117948717949
+80A025FA,"Positive Semidefinite Rank-Based Correlation Matrix Estimation With Application to Semiparametric Graph Estimation",0.178571428571,0.106216931217
+7DFBD6E9,"Spatial priors for part-based recognition using statistical models",0.227272727273,0.184815184815
+7FB46E33,"A unifying viewpoint of some clustering techniques using Bregman divergences and extensions to mixed data sets",0.240740740741,0.158385441719
+7422C7EC,"Articulated Body Tracking Using Dynamic Belief Propagation",0.222222222222,0.215384615385
+779545E4,"Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context",0.197619047619,0.108864283864
+7D343D2D,"Multi-Floor Indoor Positioning System Using Bayesian Graphical Models",0.217948717949,0.213461538462
+5A60E540,"Polynomial Graphs With Applications To Graphical Games, Extensive-Form Games, and Games With Emergent Node Tree Structures",0.178571428571,0.0974644403216
+7C9862B7,"Blocking Gibbs sampling in very large probabilistic expert systems",0.143939393939,0.132284382284
+7F63D0E2,"Learning the Structure of Deep Sparse Graphical Models",0.138888888889,0.16452991453
+7D8A9350,"Unified design of iterative receivers using factor graphs",0.261904761905,0.171840659341
+7B53D204,"Finding your friends and following them to where you are",0.143939393939,0.251893939394
+755A0CBE,"Using graphical models to interpret pavement condition data",0.240740740741,0.209829059829
+7F5B9101,"Layered Graphical Models for Tracking Partially Occluded Objects",0.157407407407,0.159508547009
+7D7B5490,"Maximum Entropy Relaxation for Graphical Model Selection Given Inconsistent Statistics",0.143939393939,0.131748251748
+787AF837,"Learning Multiple Belief Propagation Fixed Points for Real Time Inference",0.143939393939,0.141586191586
+7BC213F9,"Graphical LASSO based Model Selection for Time Series",0.15,0.126456876457
+7D45856C,"Variable module graphs: a framework for inference and learning in modular vision systems",0.178571428571,0.0916369344941
+7EFE3A02,"A methodology for eliciting and modeling exceptions",0.114285714286,0.13869047619
+81249171,"Extraction of coexpression relationship among genes from biomedical text using dynamic conditional random fields",0.25,0.16363035113
+78C3C9C2,"Wishart distributions for decomposable graphs",0.178571428571,0.116883116883
+78F9C498,"Unifying tree decompositions for reasoning in graphical models",0.134615384615,0.13810331825
+7FA9DE80,"Managing uncertainty in group recommending processes",0.161904761905,0.148719336219
+7C1A282A,"Sampling From Gaussian Markov Random Fields Using Stationary and Non-Stationary Subgraph Perturbations",0.222222222222,0.196336996337
+7E35D569,"A Graphical Model Based Decoder for Recognition of Loss-concealed VoIP Speech",0.143939393939,0.135081585082
+7E3C2CE9,"Attractive People: Assembling Loose-Limbed Models using Non-parametric Belief Propagation",0.25,0.179807692308
+792F87FA,"Predictive brains: forethought and the levels of explanation",0.180555555556,0.106532356532
+7EB978B0,"Hybrid tractability of valued constraint problems",0.157407407407,0.133838383838
+7E417173,"Network-side mobile position location using factor graphs",0.261904761905,0.180622710623
+7F86EE0A,"Multiresolution Markov models for signal and image processing",0.186507936508,0.118951048951
+0A0191B3,"Axiomatizing binding bigraphs",0.142857142857,0.166666666667
+5B861735,"Decomposed Utility Functions and Graphical Models for Reasoning about Preferences",0.157407407407,0.128755503756
+7E79414A,"Image-based 3D Scanning System using Opacity Hulls",0.217948717949,0.194102564103
+814F9EFD,"Learning generative models for protein fold families",0.143939393939,0.144522144522
+7BFAECD0,"A new method using coherence to obtain the model order in the evaluation of partial directed coherence",0.227272727273,0.151644651645
+7D6A4ED2,"Dynamic programming for parsing and estimation of stochastic unification-based grammars",0.15,0.123397435897
+6CD47B26,"Extending the Organizational Exchange Model (OEM)",0.134615384615,0.117948717949
+81374949,"Labeling irregular graphs with belief propagation",0.178571428571,0.156593406593
+7FEFFE3D,"Multi-temporal damage assessment of linear infrastructural objects using Dynamic Bayesian Networks",0.240740740741,0.179292929293
+7B0609EF,"DT-Planner: an environment for managing dynamic decision problems",0.15,0.131060606061
+7FA5AA44,"Scene space inference based on stereo vision",0.166666666667,0.125267094017
+0AA1CE6A,"Maximum Likelihood Bounded Tree-Width Markov Networks",0.157407407407,0.134508547009
+7BC1F116,"Conditions for Non‐confounding and Collapsibility without Knowledge of Completely Constructed Causal Diagrams",0.166666666667,0.13125
+7564AD8C,"Computing all roots of the likelihood equations of seemingly unrelated regressions",0.167989417989,0.125238095238
+75785EF9,"Characterizing Markov equivalence classes for AMP chain graph models",0.161904761905,0.122161965019
+7FBDE1DC,"Which Codes Have 4-Cycle-Free Tanner Graphs?",0.178571428571,0.172619047619
+7EEFC792,"Learning possibilistic graphical models from data",0.157407407407,0.173789173789
+7FBECACC,"Learning Maximum Lag for Grouped Graphical Granger Models",0.138888888889,0.144230769231
+79AB807B,"Maximum likelihood estimation in Gaussian chain graph models under the alternative Markov property",0.178571428571,0.0998176426748
+794F48AA,"Isolated word recognition in the Sigma cognitive architecture",0.164285714286,0.101298701299
+800EF041,"Using Bayesian networks for discovering temporal-state transition patterns in Hemodialysis",0.240740740741,0.175089031339
