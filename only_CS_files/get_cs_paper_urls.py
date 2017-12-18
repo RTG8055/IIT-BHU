@@ -1,17 +1,18 @@
 import zipfile
 
-file = open("cs_paperids2.txt",'r')
+# file = open("cs_paperids2.txt",'r')
 papers = set()
-i=0
-for line in file:
-	i+=1
-	line = line.strip("\n|\r")
-	papers.add(line)
-	# if(i==10):
-		# break
-	if(i%1000000==0):
-		print i
-file.close()
+with zipfile.ZipFile("upload_cs_paperids2.zip") as z:
+	with z.open("cs_paperids2.txt",'r') as file:
+		i=0
+		for line in file:
+			i+=1
+			line = line.strip("\n|\r")
+			papers.add(line)
+			# if(i==10):
+				# break
+			if(i%1000000==0):
+				print i
 # print papers
 # papers.add("750851DD")
 
