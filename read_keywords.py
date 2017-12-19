@@ -39,7 +39,7 @@ normalized_given_keywords = ','.join(list(normalized_given_keywords))
 print normalized_given_keywords
 papers = get_relavent_papers(normalized_given_keywords,given_fos)
 
-new = open('output/papers.txt','w')
+new = open('output/papers2.txt','w')
 for p in papers:
 	new.write(str(p) + '\n')
 new.close()

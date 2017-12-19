@@ -8,11 +8,12 @@ sys.setdefaultencoding('utf8')
 
 
 papers=set()
-with open("output/papers.txt",'r') as f:
+# with open("output/papers1.txt",'r') as f:
+with open("output/paper_without_references1.txt",'r') as f:
 	for p in f:
 		papers.add(p.strip('\n'))
 # papers.sort()
-
+print len(papers)
 paper_titles={}
 with zipfile.ZipFile("only_CS_files/no_upload_id_tit_ye_doi_ven_jou_conf_ra.zip") as z:
 	with z.open("id_tit_ye_doi_ven_jou_conf_ra.txt") as f:
@@ -34,7 +35,7 @@ with zipfile.ZipFile("only_CS_files/no_upload_id_tit_ye_doi_ven_jou_conf_ra.zip"
 				# break
 print i
 # print paper_titles
-new = open('output/papers_with_titles.txt','w')
+new = open('output/papers_without_refernces_titles1.txt','w')
 i=0
 for k,v in paper_titles.items():
 	i+=1
