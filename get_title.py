@@ -7,13 +7,19 @@ sys.setdefaultencoding('utf8')
 
 
 
-papers=set()
-with open("output/papers.txt",'r') as f:
+papers_without_ref=set()
+with open("output/sample2/paper_without_references2.txt",'r') as f:
 	for p in f:
-		papers.add(p.strip('\n'))
-# papers.sort()
+		papers_without_ref.add(p.strip('\n'))
 
-paper_titles={}
+filtered_papers=set()
+with open("output/sample2/filtered_papers_5measures.txt",'r') as f:
+	for p in f:
+		filtered_papers.add(p.strip('\n'))
+
+
+paper_titles_without_ref={}
+filtered_papers_title={}
 with zipfile.ZipFile("only_CS_files/no_upload_id_tit_ye_doi_ven_jou_conf_ra.zip") as z:
 	with z.open("id_tit_ye_doi_ven_jou_conf_ra.txt") as f:
 		i=0
@@ -22,21 +28,31 @@ with zipfile.ZipFile("only_CS_files/no_upload_id_tit_ye_doi_ven_jou_conf_ra.zip"
 			line = line.split('\t')
 			# print repr(line[0])
 
-			# if(bsearch(line[0],papers,0,len(papers)) == 1):
-				# papers
-			if line[0] in papers:
-				papers.remove(line[0])
-				paper_titles[line[0]] = line[1]
+			if line[0] in papers_without_ref:
+				papers_without_ref.remove(line[0])
+				paper_titles_without_ref[line[0]] = line[1]
+
+			if line[0] in filtered_papers:
+				filtered_papers.remove(line[0])
+				filtered_papers_title[line[0]] = line[1]
 
 			if(i%1000000 == 0):
 				print i
 			# if(i==100):
 				# break
 print i
-# print paper_titles
-new = open('output/papers_with_titles.txt','w')
+# print paper_titles_without_ref
+new = open('output/sample2/papers_without_ref2_with_titles2.txt','w')
 i=0
-for k,v in paper_titles.items():
+for k,v in paper_titles_without_ref.items():
+	i+=1
+	new.write(k + "\t" + v + "\n")
+print i
+new.close()
+
+new = open('output/sample2/filtered_papers2_with_titles2.txt','w')
+i=0
+for k,v in filtered_papers_title.items():
 	i+=1
 	new.write(k + "\t" + v + "\n")
 print i
