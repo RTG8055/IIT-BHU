@@ -11,6 +11,13 @@ from nltk import word_tokenize
 from search_graph import get_relavent_papers
 
 given_keywords = raw_input("enter comma separated keywords:")
+'''
+
+sample2:
+Cyclic redundancy check,parity calculations, discrete cosine transform , fault-tolerant source coding, Huffman coding, JPEG data compression, quantization protection, soft errors
+'''
+
+
 given_fos = raw_input("choose 1\n{\n1:cs,\n2:physics,\n3:chemistry...}:")
 if(given_fos == '1'):
 	given_fos = "0271BC14"
