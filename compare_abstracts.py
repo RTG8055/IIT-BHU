@@ -3,6 +3,7 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from gensim import corpora, models
 from nltk.tokenize import RegexpTokenizer
+import re
 import gensim
 
 import sys  
@@ -10,20 +11,25 @@ import sys
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
+def remove_non_ascii_2(text):
+
+    return re.sub(r'[^\x00-\x7F]',' ', text)
+
 doc_set=[]
 docid_paperid={}
-file = open('output/sample3/paperid_abstract3.txt','r')
+#sample 4 is peding
+file = open('output/sample1/paperids1_abstract.txt','r')
 i=0
 for line in file:
 	i+=1
 	line = line.strip('\n|\r').split('\t')
+	line[1] = remove_non_ascii_2(line[1])
 	doc_set.append(line[1])
 	docid_paperid[i]=line[0]
 # print doc_set
 
 given_abs = raw_input("enter abstract:")
-doc_set.append(given_abs)
-
+doc_set.append(remove_non_ascii_2(given_abs))
 
 '''
 In the era of big scholarly data, citation recommendation is playing an increasingly significant role as it solves information overload issues by automatically suggesting relevant references that align with researchers interests. Many state-of-the-art models have been utilized for citation recommendation, among which graph-based models have garnered significant attention, due to their flexibility in integrating rich information that influences users preferences. Co-authorship is one of the key relations in citation recommendation, but it is usually regarded as a binary relation in current graph-based models. This binary modeling of co-authorship is likely to result in information loss, such as the loss of strong or weak relationships between specific research topics. To address this issue, we present a fine-grained method for co-authorship modeling that incorporates the co author network structure and the topics of their published articles. Then, we design a three layered graph based recommendation model that integrates fine grained co authorship as well as author paper, paper citation, and paper keyword relations. Our model effectively generates query oriented recommendations using a simple random walk algorithm. Extensive experiments conducted on a subset of the anthology network data set for performance evaluation demonstrate that our method outperforms other models in terms of both Recall and NDCG.
@@ -31,6 +37,13 @@ In the era of big scholarly data, citation recommendation is playing an increasi
 The JPEG image compression standard is very sensitive to errors. Even though it contains error resilience features, it cannot easily cope with induced errors from computer soft faults prevalent in remote-sensing applications. Hence, new fault tolerance detection methods are developed to sense the soft errors in major parts of the system while also protecting data across the boundaries where data flow from one subsystem to the other. The design goal is to guarantee no compressed or decompressed data contain computer-induced errors without detection. Detection methods are expressed at the algorithm level so that a wide range of hardware and software implementation techniques can be covered by the fault tolerance procedures while still maintaining the JPEG output format. The major subsystems to be addressed are the discrete cosine transform, quantizer, entropy coding, and packet assembly. Each error detection method is determined by the data representations within the subsystem or across the boundaries. They vary from real number parities in the DCT to bit-level residue codes in the quantizer, cyclic redundancy check parities for entropy coding, and packet assembly. The simulation results verify detection performances even across boundaries while also examining roundoff noise effects in detecting computer-induced errors in processing steps.
 
 The performance of web search engines may often deteriorate due to the diversity and noisy information contained within web pages. User click-through data can be used to introduce more accurate description (metadata) for web pages, and to improve the search performance. However, noise and incompleteness, sparseness, and the volatility of web pages and queries are three major challenges for research work on user click-through log mining. In this paper, we propose a novel iterative reinforced algorithm to utilize the user click-through data to improve search performance. The algorithm fully explores the interrelations between queries and web pages, and effectively finds "virtual queries" for web pages and overcomes the challenges discussed above. Experiment results on a large set of MSN click-through log data show a significant improvement on search performance over the naive query log mining algorithm as well as the baseline search engine.
+
+
+
+Current Web search engines are built to serve all users, independent of the special needs of any individual user. Personalization of Web search is to carry out retrieval for each user incorporating his/her interests. We propose a novel technique to learn user profiles from users' search histories. The user profiles are then used to improve retrieval effectiveness in Web search. A user profile and a general profile are learned from the user's search history and a category hierarchy, respectively. These two profiles are combined to map a user query into a set of categories which represent the user's search intention and serve as a context to disambiguate the words in the user's query. Web search is conducted based on both the user query and the set of categories. Several profile learning and category mapping algorithms and a fusion algorithm are provided and evaluated. Experimental results indicate that our technique to personalize Web search is both effective and efficient.
+
+#NOTDONE
+Fast and high-quality document clustering algorithms play an important role in providing intuitive navigation and browsing mechanisms by organizing large amounts of information into a small number of meaningful clusters. In particular, clustering algorithms that build meaningful hierarchies out of large document collections are ideal tools for their interactive visualization and exploration as they provide data-views that are consistent, predictable, and at different levels of granularity. This paper focuses on document clustering algorithms that build such hierarchical solutions and (i) presents a comprehensive study of partitional and agglomerative algorithms that use different criterion functions and merging schemes, and (ii) presents a new class of clustering algorithms called constrained agglomerative algorithms, which combine features from both partitional and agglomerative approaches that allows them to reduce the early-stage errors made by agglomerative methods and hence improve the quality of clustering solutions. The experimental evaluation shows that, contrary to the common belief, partitional algorithms always lead to better solutions than agglomerative algorithms; making them ideal for clustering large document collections due to not only their relatively low computational requirements, but also higher clustering quality. Furthermore, the constrained agglomerative methods consistently lead to better solutions than agglomerative methods alone and for many cases they outperform partitional methods, as well.
 
 '''
 
@@ -97,7 +110,7 @@ for doc in lda_corpus:
 	print doc,i
 
 final_list = sorted(final_list,key=final_list.__getitem__,reverse=True)
-new = open("output/sample3/gensim_lda3.txt",'w')
+new = open("output/sample1/gensim_lda1.txt",'w')
 for d in final_list:
 	pid = docid_paperid.get(d)
 	print d,pid
@@ -108,7 +121,7 @@ new.close()
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 
-no_features = 250
+no_features = 500
 
 # NMF is able to use tf-idf
 tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2, max_features=no_features, stop_words='english')
@@ -150,7 +163,7 @@ for d_id,doc in enumerate(nmf):
 	print doc,i
 
 final_list = sorted(final_list,key=final_list.__getitem__,reverse=True)
-new = open("output/sample3/scikit_nmf3.txt",'w')
+new = open("output/sample1/scikit_nmf1.txt",'w')
 for d in final_list:
 	pid = docid_paperid.get(d)
 	print d,pid
@@ -189,7 +202,7 @@ for d_id,doc in enumerate(lda):
 	print doc,i
 
 final_list = sorted(final_list,key=final_list.__getitem__,reverse=True)
-new = open("output/sample3/scikit_nmf3.txt",'w')
+new = open("output/sample1/scikit_lda1.txt",'w')
 for d in final_list:
 	pid = docid_paperid.get(d)
 	print d,pid

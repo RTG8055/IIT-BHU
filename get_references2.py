@@ -6,7 +6,7 @@ papers=set()
 # 	for p in f:
 # 		papers.add(p.strip('\n'))
 
-with open("output/sample6/filtered_papers_titSim_or_avg.csv",'r') as f:
+with open("output/sample2/filtered_papers_titSim_or_avg.csv",'r') as f:
 	i=0
 	for line in f:
 		i+=1
@@ -16,7 +16,7 @@ print i
 
 paper_refernces={}
 # with zipfile.ZipFile("only_CS_files/no_upload_cs_paper_refernces.zip") as z:
-with open("output/sample6/papers_with_references6.txt",'r') as f:
+with open("output/sample2/papers_with_references2.txt",'r') as f:
 	# with z.open("cs_paper_refernces.txt") as f:
 	i=0
 	for line in f:
@@ -34,7 +34,7 @@ with open("output/sample6/papers_with_references6.txt",'r') as f:
 			# break
 print papers,i
 
-new = open('output/sample6/filtered_papers_with_references6.txt','w')
+new = open('output/sample2/filtered_papers_with_references2.txt','w')
 i=0
 for k,v in paper_refernces.items():
 	i+=1

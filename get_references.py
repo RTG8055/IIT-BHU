@@ -2,7 +2,7 @@ import zipfile
 
 
 papers=set()
-with open("output/sample6/papers6.txt",'r') as f:
+with open("output/sample2/papers2.txt",'r') as f:
 	for p in f:
 		papers.add(p.strip('\n'))
 
@@ -22,7 +22,7 @@ with zipfile.ZipFile("only_CS_files/no_upload_cs_paper_refernces.zip") as z:
 			if(i%1000000 == 0):
 				print i
 print len(paper_refernces)
-new = open('output/sample6/papers_with_references6.txt','w')
+new = open('output/sample2/papers_with_references2.txt','w')
 i=0
 for k,v in paper_refernces.items():
 	i+=1

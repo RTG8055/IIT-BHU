@@ -30,6 +30,8 @@ hierarchical clustering, criterion function, constrained agglomerative clusterin
 
 sample7:
 Automatic fingerprint recognition, combination model, global approximation, orientation field, singular point
+
+Fingerprint recognition, Image matching, Approximation algorithms, Robustness, Polynomials, Biometrics, Databases, Large-scale systems, Bifurcation, Automation 
 '''
 
 
@@ -61,7 +63,7 @@ normalized_given_keywords = ','.join(list(normalized_given_keywords))
 print normalized_given_keywords
 papers = get_relavent_papers(normalized_given_keywords,given_fos)
 
-new = open('output/sample7/papers7.txt','w')
+new = open('output/sample2/papers2.txt','w')
 for p in papers:
 	new.write(str(p) + '\n')
 new.close()

@@ -5,8 +5,8 @@
 78363BC0	IEEE Transactions on Signal Processing
 7FD3F0EB	IEEE Transactions on Signal Processing
 7C5BD5F9	IEEE Transactions on Acoustics, Speech, and Signal Processing
-7B8ECF46	Informatio not present
-5CFE86E1	Informatio not present
+7B8ECF46	2010 2nd International Conference on Information Engineering and Computer Science 
+5CFE86E1	Signal Processing, 1996., 3rd International Conference
 7FA005E7	IEEE Signal Processing Letters
 813D8ACA	International Symposium on Circuits and Systems
 7F3438A9	IEEE Transactions on Acoustics, Speech, and Signal Processing
@@ -18,9 +18,9 @@
 7F77E0BA	IEEE Transactions on Signal Processing
 7FE3364C	IEEE Signal Processing Letters
 77C93D55	Signal Processing
-218C8616	Informatio not present
-7D7F7051	Informatio not present
-7576CA59	Informatio not present
+218C8616	The Third NASA Goddard Conference on Mass Storage Systems and Technologies
+7D7F7051	38th Midwest Symposium on Circuits and Systems. Proceedings
+7576CA59	Central European Journal of Computer Science
 7D843341	IEEE Transactions on Communications
 781849EC	Applied and Computational Harmonic Analysis
 801D5F6A	IEEE Transactions on Signal Processing
@@ -31,15 +31,15 @@
 76D04F48	IEEE Transactions on Acoustics, Speech, and Signal Processing
 7B64D19B	Signal Processing
 7D26715E	Global Communications Conference
-80D06662	Informatio not present
+80D06662	The 2nd International Conference on Information Science and Engineering
 7E83E2D3	IEEE Transactions on Circuits and Systems Ii: Analog and Digital Signal Processing
-7BCFEA89	Informatio not present
+7BCFEA89	2011 IEEE 3rd International Conference on Communication Software and Networks
 7D10C675	IEEE Transactions on Signal Processing
 75538016	Numerical Algorithms
 7D05A275	Informatio not present
 7ED83CC3	Systems, Man and Cybernetics
 7A1904AD	Iet Image Processing
-7591F8D7	Informatio not present
+7591F8D7	2010 Third International Conference on Intelligent Networks and Intelligent Systems
 7E68A6E2	IEEE Transactions on Signal Processing
 7B8FFF7E	Proceedings of SPIE
 5937B17A	Multidimensional Systems and Signal Processing
@@ -48,4 +48,4 @@
 79046CE5	International Journal of Speech Technology
 81736770	IEEE Transactions on Signal Processing
 7B2F9E2B	Journal of Advances in Information Technology
-674BBF3E	Informatio not present
+674BBF3E	Signal Processing, 1996., 3rd International Conference

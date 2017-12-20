@@ -3,7 +3,7 @@ import zipfile
 
 paperids={}
 papers=set()
-with open("output/sample6/paperids6_38.txt",'r') as f:
+with open("output/sample1/paperids1_67.txt",'r') as f:
 	i=0
 	for line in f:
 		i+=1
@@ -73,7 +73,7 @@ with zipfile.ZipFile("zips/Conferences.zip") as z:
 				# break
 
 print c_names,i
-new = open("output/sample6/paperids6_38_journals_conf.txt",'w')
+new = open("output/sample1/paperids1_67_journals_conf.txt",'w')
 # new2=open("output/sample2/paperids2_50_conf.txt",'w')
 i=0
 for k,v in paperids.items():

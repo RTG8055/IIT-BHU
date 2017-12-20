@@ -7,7 +7,7 @@ sys.setdefaultencoding('utf8')
 
 given_title = raw_input("enter title:")
 '''
-Exploiting Fine-Grained Co-Authorship for Personalized Citation Recommendation
+Exploiting Fine Grained Co Authorship for Personalized Citation Recommendation
 
 Detecting Computer-Induced Errors in Remote-Sensing JPEG Compression Algorithms
 
@@ -18,10 +18,12 @@ Web Query Recommendation via Sequential Query Prediction
 Personalized Web search for improving retrieval effectiveness
 
 Hierarchical Clustering Algorithms for Document Datasets
+
+A Model Based Method for the Computation of Fingerprints Orientation Field
 '''
 
 filtered_titles = {}
-f = open("output/sample6/filtered_papers6_with_titles6.txt",'r')
+f = open("output/sample2/filtered_papers2_with_titles2.txt",'r')
 for line in f:
     paperID,ptitle = line.split('\t')
     ptitle = ptitle.strip('\n')
@@ -29,7 +31,7 @@ for line in f:
 f.close()
 
 non_ref_titles = {}
-f = open("output/sample6/papers_without_ref6_with_titles6.txt",'r')
+f = open("output/sample2/papers_without_ref2_with_titles2.txt",'r')
 for line in f:
     paperID,ptitle = line.split('\t')
     ptitle = ptitle.strip('\n')
@@ -75,7 +77,7 @@ for paperID,title in non_ref_titles.items():
 print maxS,maxP,maxT
 
 i=0
-new=open("output/sample6/papers_without_refernces_titSim.csv",'w')
+new=open("output/sample2/papers_without_refernces_titSim.csv",'w')
 new.write("Paper ID,Title,Sim1,Sim2\n")
 for k,v in non_ref_titles.items():
     # print v
@@ -87,7 +89,7 @@ print i
 
 
 i=0
-new=open("output/sample6/filtered_papers_titSim.csv",'w')
+new=open("output/sample2/filtered_papers_titSim.csv",'w')
 new.write("Paper ID,Title,Sim1,Sim2\n")
 for k,v in filtered_titles.items():
     # print v

@@ -1,0 +1,901 @@
+7C881494,"Performance comparison between UWB and NB propagation models for an indoor localization",0.293121693122,0.307142857143
+7D5AC305,"Multimodal biometrics based bit extraction method for template security",0.399857549858,0.460404040404
+7EE315E4,"Assessing Fingerprint Individuality in Presence of Noisy Minutiae",0.290277777778,0.312222222222
+5A866383,"Forensic analysis: on the capability of optical sensors to visualize latent fingerprints on rubber gloves",0.295707070707,0.241314241314
+80E7CCD9,"Embedded Fingerprint Verification System",0.263762626263,0.347916666667
+7E112C26,"Fuzzy Vault Crypto Biometric Key Based on Fingerprint Vector Features",0.417003367003,0.426262626263
+7E77C9A4,"Fingerprint Classification Based on Singularities",0.410042735043,0.577777777778
+7FF15522,"A hidden Markov model fingerprint matching approach",0.445105820106,0.495238095238
+7FB6872A,"Multi-Factor Fingerprints for Personal Computer Hardware",0.283080808081,0.391414141414
+7F01B239,"Impact of artificial gummy fingers on fingerprint systems",0.293392255892,0.325480769231
+7E17FE5A,"Fingerprint image synthesis based on statistical feature models",0.555627705628,0.572294372294
+59515FFB,"Fingerprint ridge line extraction based on tracing and directional feedback",0.406216931217,0.366439909297
+7B5EE65E,"The legal, social and ethical controversy of the collection and storage of fingerprint profiles and DNA samples in forensic science",0.305826118326,0.237293956044
+7F4377DF,"Adaptive Fingerprint Image Enhancement with Contourlet Transform",0.30118030118,0.417989417989
+7EB947BD,"A novel matching technique for fingerprint recognition by graphical structures",0.355892255892,0.427777777778
+7D610842,"Processing of Distorted Fingerprints with use of Three-Rate Hybrid Kohonen Neural Networks",0.316077441077,0.371527777778
+7D1BADA6,"Separating Overlapped Fingerprints",0.28074980575,0.5
+80A04F9E,"A Novel Localization Algorithm Based on RSSI for Wireless Sensor Networks",0.277988215488,0.280948218448
+5EF6C854,"Fingerprint recognition using standardized fingerprint model",0.435379435379,0.686666666667
+7EA5C558,"Random password generation of OTP system using changed location and angle of fingerprint features",0.324074074074,0.292724867725
+76197CBB,"High-resolution orientation field estimation based on multi-scale Gaussian filter",0.415740740741,0.480404040404
+591D0EDC,"On improving interoperability of fingerprint recognition using resolution compensation based on sensor evaluation",0.409932659933,0.325394327894
+5E4FF945,"Fusion of Statistical and Structural Fingerprint Classifiers",0.290614478114,0.402777777778
+80F2D5E3,"The algorithm of fingerprint enhancement base on dynamic direction field",0.461111111111,0.493181818182
+7812615D,"On-line fingerprint verification",0.287694250194,0.5625
+807E61E3,"Location Fingerprint Analyses Toward Efficient Indoor Positioning",0.330892255892,0.445833333333
+7DF8ED0E,"Fingerprint Matching Algorithm Based on Tree Comparison using Ratios of Relational Distances",0.422558922559,0.400148809524
+7D386E49,"A Novel Embedding Method For An Anti-Collusion Fingerprinting By Embedding Both A Code And An Orthogonal Fingerprint",0.476851851852,0.533333333333
+80DABC7E,"A New Metric for Latent Fingerprint Image Preprocessing",0.299328449328,0.571428571429
+8098EAF0,"Modified PCNN Filtering for Fingerprint Enhancement",0.270227920228,0.381944444444
+8154CD11,"Trusted user authentication scheme combining password with fingerprint for mobile devices",0.299328449328,0.286224489796
+802A38A8,"A fingerprint based bio-cryptographic security protocol designed for client/server authentication in mobile computing environment",0.391860916861,0.357638888889
+781BC823,"Fingerprint recognition using mel-frequency cepstral coefficients",0.28074980575,0.383333333333
+813495CE,"A single-chip fingerprint sensor and identifier",0.248358585859,0.411255411255
+76A7D81C,"DCT fingerprint classifier based group fingerprint",0.413161375661,0.65
+813BFD7E,"A fingerprint recognition algorithm using phase-based image matching for low-quality fingerprints",0.299328449328,0.471031746032
+7E7B912E,"On the individuality of fingerprints",0.254701779702,0.5625
+7E4A76E3,"Fingerprint & Palmprint Segmentation by Automatic Thresholding of Gabor Magnitude",0.28771043771,0.324810606061
+802FD1C9,"A Linear Hybrid Classifier for Fingerprint Segmentation",0.283080808081,0.391414141414
+7D419692,"A topological model for fingerprint image analysis",0.302380952381,0.436507936508
+7A6A65B0,"Real time evaluation of RF fingerprints in wireless LAN localization systems",0.300336700337,0.222409881785
+7F5938DE,"A Conditional Selection of Orthogonal Legendre/Chebyshev Polynomials as a Novel Fingerprint Orientation Estimation Smoothing Method",0.453561253561,0.398412698413
+7BC5FF57,"Objective Fingerprint Image Quality Assessment using Gabor Spectrum Approach",0.308802308802,0.260168650794
+8175EDC1,"Detection of Core Points in Fingerprint Images Based on Edge Map",0.420105820106,0.343456890332
+7F5B3165,"Improving efficiency of fingerprint matching by minutiae indexing",0.286431623932,0.330555555556
+7877EAAA,"Content security protection for remote sensing images integrating selective content encryption and digital fingerprint",0.325396825397,0.259523809524
+7CF5BA4B,"Fingerprint recognition for varied degrees of image distortion using three-rate hybrid Kohonen neural network",0.302248677249,0.276757369615
+80272DCF,"Ridge Enhancement in Fingerprint Images Using Oriented Diffusion",0.306878306878,0.285487528345
+7A8AB444,"Automated fingerprint recognition using structural matching",0.28074980575,0.420833333333
+80EF0BB5,"Encrypted Fuzzy Vault Based on Fingerprint",0.395707070707,0.566666666667
+7DB86BDB,"Composite versus multichannel binary phase-only filtering",0.333333333333,0.166666666667
+81124E86,"Minutiae Extraction in Fingerprint Using Gabor Filter Enhancement",0.287962962963,0.286447811448
+7D25F000,"Improved fingerprint image segmentation using new modified gradient based technique",0.326461038961,0.336512445887
+7A590898,"A survey of fingerprint classification Part II: experimental analysis and ensemble proposal",0.308207070707,0.272850958565
+8051F2AE,"Blind Clustering of Music Recordings Based on Audio Fingerprinting",0.297558922559,0.355555555556
+709D23EB,"Fingerprint identification using Delaunay triangulation",0.289407814408,0.389880952381
+80ACC02D,"A Multilevel CMOS–MEMS Design Methodology Based on Response Surface Models",0.4132996633,0.409932659933
+8105A213,"Collusion-resistant fingerprints from WBE sequence sets",0.254701779702,0.408333333333
+7560848C,"Wavelet domain features for fingerprint recognition",0.270690883191,0.302222222222
+7D8494C4,"Ridge orientation estimation and verification algorithm for fingerprint enhancement",0.285185185185,0.272619047619
+80C8829B,"Fingerprint Feature Compression Using Statistical Coding Techniques",0.385042735043,0.388888888889
+7E4E5126,"Core-point detection based on edge maps in fingerprint images",0.416137566138,0.411646224146
+5C43007C,"A Layered Fingerprint Recognition Method",0.436894586895,0.7
+812390E2,"A novel model for orientation field of fingerprints",0.589225589226,1.0
+80DB5AB2,"Fingerprint indexing based on composite set of reduced SIFT features",0.415740740741,0.487222222222
+7878C851,"On latent fingerprint enhancement",0.284116809117,0.555555555556
+7D5776B9,"Making better biometric decisions with quality and cohort information: A case study in fingerprint verification",0.298683261183,0.254148629149
+65F9BEFA,"A Minutiae Count Based Method for Fake Fingerprint Detection",0.548005698006,0.560185185185
+5AFB7E4D,"Hybrid approach to enhancing fingerprint images using filters in the frequency domain",0.308802308802,0.257990620491
+7D862D34,"Fingerprint image enhancement by super resolution with early stopping",0.30118030118,0.291178266178
+7D0F13DC,"Recognizable-Image Selection for Fingerprint Recognition With a Mobile-Device Camera",0.262836700337,0.3375
+80DCEB0B,"A minutiae matching algorithm in fingerprint verification",0.300320512821,0.35
+7DF9BB03,"Contactless fingerprint identification using level zero features",0.311772486772,0.360238095238
+59A9A1A7,"Improving Fingerprint Recognition Based on Crease Detection",0.398805361305,0.431018518519
+809BB592,"Fingerprint Classification Based on Support Vector Machine",0.436447811448,0.451262626263
+8105913A,"Singular points detection in fingerprint images using Gabor transform",0.304365079365,0.308531746032
+7DC87D04,"A Robust Warping Method for Fingerprint Matching",0.436894586895,0.7
+7D667E8F,"LivDet 2011 — Fingerprint liveness detection competition 2011",0.258531746032,0.3375
+7961CD51,"Integrated fingerprint verification method using a composite signature-based watermarking technique",0.285978835979,0.425
+7D8F1657,"An Algorithm for Fingerprint Identification Based on Wavelet Transform and Gabor Feature",0.440740740741,0.398185941043
+75708811,"Extracting Valley-Ridge Lines from Point-Cloud-Based 3D Fingerprint Models",0.421490546491,0.590277777778
+7FAE9C94,"Modeling and Analysis of Local Comprehensive Minutia Relation for Fingerprint Matching",0.308994708995,0.309848484848
+7BE75C2F,"Robust Video Fingerprinting Based on Symmetric Pairwise Boosting",0.25867003367,0.455555555556
+80BE02B7,"Fingerprint Identification with Exclusive and Continuous Classification",0.298931623932,0.447619047619
+79A23B52,"Score-Level Fusion of Phase-Based and Feature-Based Fingerprint Matching Algorithms",0.275657213157,0.458333333333
+76630430,"Adjacent orientation vector based fingerprint minutiae matching system",0.431944444444,0.405952380952
+801E6A66,"Compression of touchless multiview fingerprints",0.247542735043,0.55
+7E7860B9,"Fingerprint classification using the stochastic approach of ridge direction information",0.310058922559,0.327976190476
+7B04B340,"A comparison of fingerprint enhancement algorithms for poor quality fingerprint images",0.326659451659,0.398526077098
+7BD63948,"Ridge directional singular points for fingerprint recognition and matching",0.300336700337,0.344444444444
+5BDFFA8C,"Analysis of Fingerprint Image for Gender Classification or Identification: Using Wavelet Transform and Singular Value Decomposition",0.319963369963,0.244041514042
+80865D33,"Fingerprints Recognition Using Minutiae Extraction: a Fuzzy Approach.",0.293253968254,0.335238095238
+7E499195,"Collusion-resistant video fingerprinting based on temporal oscillation",0.261447811448,0.366666666667
+811C9CEF,"A systematic topological method for fingerprint singular point detection",0.446153846154,0.572916666667
+5BEEBB77,"Fingerprint matching using minutiae coordinate systems",0.284595959596,0.358888888889
+5CA742C0,"Compensatory Algorithm for Fingerprint Recognition",0.272542735043,0.45
+5FA8A7A4,"Fingerprint recognition using neural network",0.286447811448,0.389583333333
+80AAD859,"Capacity-achieving fingerprint decoding",0.258653846154,0.583333333333
+7787F887,"Fingerprint Reconstruction: From Minutiae to Phase",0.255948218448,0.339691558442
+7EFAD054,"A capacitive fingerprint sensor chip using low-temperature poly-Si TFTs on a glass substrate and a novel and unique sensing method",0.440740740741,0.329152637486
+7AC597B2,"Secure fuzzy fingerprint vault against correlation attack",0.305892255892,0.35625
+7E5523A0,"Fingerprint classification using an AM-FM model",0.453561253561,0.633333333333
+75EBB0B3,"A survey of fingerprint classification Part I: Taxonomies on feature extraction methods and learning models",0.605555555556,0.394086973632
+810F0D73,"Decision fusion based cartridge identification using Support Vector Machine",0.286447811448,0.25943963444
+7E835CD7,"An algorithm for distorted fingerprint matching based on local triangle feature set",0.439672364672,0.434415584416
+5AD818DA,"A Multiple Substructure Matching Algorithm for Fingerprint Verification",0.314209401709,0.345
+5D8683D3,"FVC2004: Third Fingerprint Verification Competition",0.290277777778,0.416666666667
+7FFA958A,"A new approach to reference point location in fingerprint recognition",0.32380952381,0.296031746032
+7DCBCC66,"Optimal Focused Fingerprints from Orthogonality",0.28074980575,0.45
+59528AA8,"Fingerprint image segmentation based on quadric surface model",0.558994708995,0.55747955748
+75665AC2,"Distance-Based Interpolation and Extrapolation Methods for RSS-Based Localization With Indoor Wireless Signals",0.313035113035,0.281074481074
+5FBAA5CF,"Improving fingerprint recognition performance based on feature fusion and adaptive registration pattern",0.428098290598,0.343518518519
+8177F2D7,"An automated matching technique for fingerprint identification",0.358852258852,0.547619047619
+5DEC2699,"Ridge-based fingerprint recognition",0.246027583528,0.55
+81460AF3,"A new sensing and digital-conversion scheme with adaptive image-quality adjustment for a fingerprint sensor chip",0.298683261183,0.258279220779
+7F0B8455,"Fingerprint Indexing Based on Minutia Cylinder-Code",0.398805361305,0.559027777778
+7F39BF70,"Modeling and Analysis of Correlated Binary Fingerprints for Content Identification",0.293376068376,0.350108225108
+5D91C1F3,"An enhanced estimation algorithm for reconstructing fingerprint strip image",0.328174603175,0.291137566138
+7F885D9D,"Fingerprint recognition using model-based density map",0.283080808081,0.32303030303
+7EAF2B2D,"A New Robust Method of Singular Point Detection from Fingerprint",0.446153846154,0.572916666667
+7ECAFE25,"Integrating minutiae based fingerprint matching with local mutual information",0.401388888889,0.451388888889
+7D7E5CAB,"The research and improvement of fingerprint matching algorithm",0.272542735043,0.381944444444
+7F1BC88B,"Ridgeline Based 2-Layer Classifier in Fingerprint Classification",0.418055555556,0.481666666667
+7D14AAD7,"Fingerprint Recognition Using Inter Ridge Variation",0.295244107744,0.333888888889
+5DC4DAAF,"Towards generating protected fingerprint templates based on bloom filters",0.406818181818,0.39512987013
+83719585,"FinCCM: Fingerprint Crowdsourcing, Clustering and Matching for Indoor Subarea Localization",0.289407814408,0.389880952381
+7C4D6623,"Managing a large database of camera fingerprints",0.281818181818,0.369047619048
+7DD5C387,"Fast Algorithm of Hough Transform-Based Approaches for Fingerprint Matching",0.307264957265,0.464285714286
+7D56572A,"CCD fingerprint method-identification of a video camera from videotaped images",0.268650793651,0.348214285714
+796322E7,"Texture Modeling for Synthetic Fingerprint Generation",0.286447811448,0.350694444444
+7F66C647,"Fingerprint enhancement using STFT analysis",0.293376068376,0.402777777778
+772B337B,"Raster image representation of fingerprint minutiae",0.274394586895,0.306904761905
+76195D1D,"A comparative survey of WLAN location fingerprinting methods",0.316402116402,0.322857142857
+7D94CF32,"Shock coupled coherence enhancing diffusion for robust core-point detection in fingerprints",0.29154040404,0.251252319109
+8031023C,"A novel semiconductor capacitive sensor for a single-chip fingerprint sensor/identifier LSI",0.283080808081,0.393939393939
+59884F98,"Fingerprint enhancement using oriented diffusion filter",0.287962962963,0.305892255892
+803F604E,"Fingerprint Singular Point Detection Based on Multiple-Scale Orientation Entropy",0.428098290598,0.433796296296
+7E49C78A,"Fingerprint Verification Using the Texture of Fingerprint Image",0.299328449328,0.45205026455
+8161992E,"Fingerprint recognition with improved wavelet domain features",0.305413105413,0.302222222222
+760EEA54,"Fingerprint verification with scratch feature for personal portable devices",0.308852258852,0.366964285714
+5D93A721,"Fingerprint recognition system for low quality images",0.305026455026,0.297142857143
+8051C268,"Pyramid-based Image Enhancement of Fingerprints",0.266458078958,0.417989417989
+80B3C828,"Fingerprint recognition by combining global structure and local cues",0.286447811448,0.310404040404
+8114C61B,"Fingerprint Identification Based on the Model of the Outer Layers of Polygon Subtraction",0.578703703704,0.51485260771
+7B54088C,"TEXTURE-BASED FINGERPRINT RECOGNITION COMBINING DIRECTIONAL FILTER BANKS AND WAVELET",0.286447811448,0.271490546491
+7E5DFC73,"A CMOS capacitive pressure sensor chip for fingerprint detection",0.290025252525,0.27803030303
+5AF34198,"An Experimental Study on Measuring Image Quality of Infant Fingerprints",0.308802308802,0.292582417582
+7A6A586D,"Fingerprint Recognition Using Minutia Score Matching",0.287694250194,0.331666666667
+7F13F29C,"Design and implementation of e-commerce communication system based on fingerprint authentication",0.420833333333,0.388095238095
+7F314D80,"Video-based fingerprint verification",0.252972027972,0.5625
+7EBAAA48,"Preprocessing of Fingerprint Images Captured with a Digital Camera",0.300396825397,0.348214285714
+8039C925,"LivDet 2013 Fingerprint Liveness Detection Competition 2013",0.258531746032,0.416666666667
+7F77DE82,"Fingerprint verification system with improved image enhancement and reliable matching",0.305026455026,0.295793650794
+7F9E176F,"A Performance Evaluation of Shape and Texture Based Methods for Vein Recognition",0.410968660969,0.335069444444
+5EF8F51A,"Discovering Correspondences between Fingerprints Based on the Temporal Dynamics of Eye Movements from Experts",0.40747955748,0.346222527473
+7B1AEC40,"Combining digital watermarks and collusion-secure fingerprints for digital images",0.310317460317,0.383928571429
+80E466A4,"Core-Point Location Method Using Image Sampling Techniques",0.31455026455,0.404365079365
+7D683A15,"Spectral Eigenfeatures for Effective DP Matching in Fingerprint Recognition",0.28074980575,0.355357142857
+7DB44824,"Fingerprint Feature-Point Matching Based on Motion Coherence",0.397558922559,0.503333333333
+7E3B75D6,"Improved Adaptive Fingerprint Binarization",0.28074980575,0.625
+7F20C72C,"A generic fingerprint image compression technique based on wave atoms decomposition",0.477976190476,0.381986416361
+762F072E,"Type Classification of Fingerprints: A Syntactic Approach",0.298931623932,0.447619047619
+7F7C8E31,"A Fast Minutiae-Based Fingerprint Recognition System",0.284595959596,0.4
+70A24CBC,"Performance comparison of indoor positioning techniques based on location fingerprinting in wireless networks",0.376388888889,0.300345950346
+7F408582,"Elastic minutiae matching by means of thin-plate spline models",0.301388888889,0.34375
+7EE9ADC0,"Robust Fingerprint Image Enhancement: An Improvement to Directional Analysis of Fingerprint Image Using Directional Gaussian Filtering and Non-subsampled Contourlet Transform",0.31043956044,0.375992063492
+7FBE98C0,"A Data Backup Method Based on File System Filter Driver",0.412962962963,0.334185606061
+7F2F949F,"A Robust Entropy-Based Audio-Fingerprint",0.333333333333,0.0
+7D20E271,"An Analysis of Lightweight Encryption Schemes for Fingerprint Images",0.31043956044,0.32380952381
+76FB8444,"A feedback paradigm for latent fingerprint matching",0.284595959596,0.4
+80AB6EEF,"Synthesis of fingerprint images",0.266937229437,0.411255411255
+811DE6EE,"Revocable fingerprint biotokens: accuracy and security analysis",0.297558922559,0.347916666667
+808EDD1B,"Fingerprint enhancement by shape adaptation of scale-space operators with automatic scale selection",0.296490546491,0.250566893424
+8172DC0A,"Using Genetic Algorithms for Fingerprint Core Point Detection",0.325320512821,0.331018518519
+7700A307,"Method of detection of real fingerprints on the basis of the Radon transform",0.439225589226,0.47
+32C5FCE9,"A CMOS integrated circuit design of charge-sharing scheme for a capacitive fingerprint sensor",0.30747955748,0.275072150072
+7DD000FF,"The Implementation of Image Enhancement Algorithm Method for SoC",0.258399470899,0.344742063492
+7AAC2F70,"Fingerprint recognition using Polynomial Discrete Radon Transform",0.283080808081,0.383333333333
+81443E61,"A Fast Fingerprint Classification Algorithm by Tracing Ridge-Flow Patterns",0.325320512821,0.373333333333
+5DC45829,"Fingerprint Matching Based on Linking Information Structure of Minutiae",0.406018518519,0.414682539683
+584DF04F,"FM Model Based Fingerprint Reconstruction from Minutiae Template",0.401262626263,0.410984848485
+7D59F50D,"Liveness Detection for Fingerprint Scanners Based on the Statistics of Wavelet Signal Processing",0.40787037037,0.370526695527
+783D2B8C,"A novel hierarchical fingerprint matching approach",0.289407814408,0.464285714286
+7BCE3CF3,"A robust audio fingerprinting method using spectrograms saliency maps",0.339225589226,0.335858585859
+8055257B,"Fingerprint matching based on global comprehensive similarity",0.391860916861,0.590277777778
+77D2BEC1,"A fast fingerprint image enhancement algorithm using a parabolic mask",0.328174603175,0.322883597884
+5A6DA614,"A Computation of Fingerprint Similarity Measures Based on Bayesian Probability Modeling",0.552651515152,0.492125334982
+8011DE77,"On the Operational Quality of Fingerprint Scanners",0.293392255892,0.403174603175
+807E29F1,"Structural fingerprint based hierarchical filtering in song identification",0.400518925519,0.566964285714
+809C555A,"A CMOS Fingerprint System-on-a-Chip With Adaptable Pixel Networks and Column-Parallel Processors for Image Enhancement and Recognition",0.306878306878,0.240141207998
+5C10E633,"A Fingerprint Indexing Approach Using Multiple Similarity Measures and Spectral Clustering",0.289407814408,0.272789115646
+816C3258,"Extraction of Singular Points from Directional Fields of Fingerprints.",0.298484848485,0.335897435897
+7BFB492A,"Coarse-to-fine image registration for sweep fingerprint sensors",0.271103896104,0.339691558442
+7AAE86CC,"An Efficient Fingerprint Matching Approach Based on Minutiae to Minutiae Distance Using Indexing with Effectively Lower Time Complexity",0.408531746032,0.33123015873
+800033E0,"Fingerprint classification by directional fields",0.298931623932,0.425641025641
+80E1F044,"Microelectronics implementation of directional image-based fuzzy templates for fingerprints",0.297542735043,0.333333333333
+7D43818A,"A real-time matching system for large fingerprint databases",0.284595959596,0.414285714286
+7AE3AFF9,"Augmenting ridge curves with minutiae triplets for fingerprint indexing",0.276851851852,0.279966329966
+5F95629C,"Secure Minutiae-Based Fingerprint Templates Using Random Triangle Hashing",0.291860916861,0.387310606061
+7EE795CA,"A novel mapping for fingerprint image enhancement",0.302248677249,0.344742063492
+7E9C0F63,"Identification of peer-to-peer traffic based on process fingerprint",0.464225589226,0.553571428571
+63FD193C,"Accurate and reliable real-time indoor positioning on commercial smartphones",0.333333333333,0.2
+8094AEED,"Encryption and multiplexing of fingerprints for enhanced security",0.293376068376,0.422222222222
+7EA30DAF,"A fully CNN based fingerprint recognition system",0.395707070707,0.55
+7DBA5210,"A Fingerprint Verification Algorithm Using the Smallest Minimum Sum of Closest Euclidean Distance",0.287694250194,0.333888888889
+80D1E3E7,"Securing fingerprint template: Fuzzy vault with minutiae descriptors",0.295707070707,0.275
+7D9ED17E,"User identification based on finger-vein patterns for consumer electronics devices",0.274272486772,0.247742733457
+7C22F707,"Joint fingerprinting and decryption content security protection method for remote sensing images based on neighborhood similarity",0.455026455026,0.349682539683
+7CEF9312,"A Minutiae-Based Fingerprint Matching Algorithm Using Phase Correlation",0.286447811448,0.363888888889
+5E723F28,"First International Fingerprint Liveness Detection Competition--LivDet 2009",0.290277777778,0.3375
+80DA3BEC,"Improvement of fingerprint orientation estimation by a Modification of fingerprint orientation model based on 2D Fourier expansion (M-FOMFE)",0.564672364672,0.487619047619
+7EA31C54,"Improved Partial Fingerprint Matching Based on Score Level Fusion Using Pore and SIFT Features",0.426851851852,0.378703703704
+80DE40F1,"Intelligent Fingerprint Recognition System by using geometry approach",0.294516594517,0.294516594517
+7D5ABDA4,"Secure Fingerprint Embedding for Multicast",0.252972027972,0.583333333333
+7D26C8EB,"Fingerprint Recognition System Based on Mapping Approach",0.40747955748,0.41130952381
+7F50FFE1,"The effect of environmental conditions and novel spoofing methods on fingerprint anti-spoofing algorithms",0.465740740741,0.430627705628
+7B726760,"New approach for liveness detection in fingerprint scanners based on valley noise analysis",0.41712962963,0.342162698413
+8135623A,"An Adaptive Framework for Biometric Systems",0.285185185185,0.55
+7ED514FA,"Fingerprint recognition using the fuzzy Sugeno integral for response integration in modular neural networks",0.302651515152,0.302651515152
+7D59A0B7,"Fingerprint Matching Using Dual Hilbert Scans",0.290476190476,0.361904761905
+7765F887,"Latent Fingerprint Core Point Prediction Based on Gaussian Processes",0.475783475783,0.481481481481
+80E819F7,"Robust video fingerprinting based on 2D-OPCA of affine covariant regions",0.272558922559,0.323333333333
+7EC779DF,"Biometric Based Cryptographic Key Generation from Faces",0.251725589226,0.441666666667
+7D56C8FD,"Rotation invariant thinning algorithm to detect ridge bifurcations for fingerprint identification",0.30462962963,0.254060445727
+806E9F08,"An advanced fingerprint sensor LSI and its application to a fingerprint identification system",0.302777777778,0.422294372294
+757C37A4,"A study of liveness detection in fingerprint and iris recognition systems using image quality assessment",0.310317460317,0.245767195767
+806C38BC,"Direct gray-scale minutiae detection in fingerprints",0.287694250194,0.416666666667
+7D70046C,"Comparative study of features for fingerprint indexing",0.314672364672,0.377380952381
+7DB6FA6D,"Fingerprint verification using fingerprint texture",0.287694250194,0.392361111111
+7BF6CDE3,"Evaluating software-based fingerprint liveness detection using Convolutional Networks and Local Binary Patterns",0.304503367003,0.267613636364
+7E582319,"Efficient fingerprint feature extraction: Algorithm and performance evaluation",0.332407407407,0.306944444444
+80FD2D6C,"Fingerprint matching based on distance metric learning",0.405148555149,0.498571428571
+7DC6D5A5,"Automatic Digital Camera Based Fingerprint Image Preprocessing",0.261507936508,0.40873015873
+7F786111,"Is there a fingerprint pattern in the image?",0.305148555149,0.410714285714
+7E9D1D46,"Robust Wireless Transmission of Compressed Latent Fingerprint Images",0.306471306471,0.340659340659
+7FEA7DF8,"Novel surface structure and its fabrication process for MEMS fingerprint sensor",0.357744107744,0.291161616162
+7D37337A,"Segmentation of Fingerprint Images Using Support Vector Machines",0.330627705628,0.296382189239
+7F85C194,"A Novel Segmentation Algorithm for Fingerprint Image Based on Region Merging",0.450396825397,0.392918985776
+7FB00278,"Impact of Image Quality on Performance: Comparison of Young and Elderly Fingerprints",0.308802308802,0.279761904762
+77B971A0,"Parameter optimization for biometric fingerprint recognition using genetic algorithms",0.321153846154,0.326851851852
+7BA5EAED,"Practical Orientation Field Estimation for Embedded Fingerprint Recognition Systems",0.452777777778,0.418518518519
+815829F0,"Fingerprint segmentation based on PCNN and morphology",0.394191919192,0.543560606061
+7E385865,"Adaptive pore model for fingerprint pore extraction",0.443392255892,0.47
+78D6908A,"Configurable fuzzy fingerprint vault for Match-on-Card system",0.284595959596,0.4
+810211B8,"Intrinsic coordinates for fingerprints based on their longitudinal axis",0.40284992785,0.563492063492
+801C65A2,"The generalized perceived input point model and how to double touch accuracy by extracting fingerprints",0.437962962963,0.434523809524
+7E789518,"A Fast Thinning Algorithm for Fingerprint Image",0.324328449328,0.370941558442
+7FF44C75,"Fast and Accurate Fingerprint Indexing Based on Ridge Orientation and Frequency",0.415740740741,0.422222222222
+80F8D51C,"Fingerprint ridge orientation estimation based on neural network",0.418855218855,0.424537037037
+76B08928,"Cancelable fingerprint templates using minutiae-based bit-strings",0.291860916861,0.486111111111
+7CF646B0,"A score-level fusion fingerprint indexing approach based on minutiae vicinity and minutia cylinder-code",0.418452380952,0.378117913832
+810A38AF,"A pseudo-random sequence fingerprint key algorithm based on fuzzy vault",0.422222222222,0.423484848485
+7D63F054,"An optimized fingerprint matcher",0.246027583528,0.538461538462
+7E49F265,"A secure fingerprint template generation algorithm for smart card",0.319444444444,0.318181818182
+7F3F3E96,"Compressing of Fingerprint Images by Means of Fractals Feature",0.31043956044,0.318452380952
+03249FF5,"A Novel Topology-Based Matching Algorithm for Fingerprint Recognition in the Presence of Elastic Distortions",0.307264957265,0.314444444444
+79D63D23,"A Tree System Approach for Fingerprint Pattern Recognition",0.276587301587,0.264407814408
+7DF75ECB,"Fingerprint verification applying invariant moments",0.290277777778,0.395833333333
+598317D1,"Neural Network Based Recognition by Using Genetic Algorithm for Feature Selection of Enhanced Fingerprints",0.422558922559,0.425
+7E3F8B61,"Singular Point Detection in Fingerprint Images by a Bank of Discrete Fourier Filters",0.308994708995,0.245696763554
+814A5094,"A Novel Approach for Fingerprint Singular Points Detection Using 2D-Wavelet",0.307463369963,0.353571428571
+7EE73B1E,"Fingerprint classification with neural networks",0.303114478114,0.441666666667
+7D5EDCF5,"Resistance of orthogonal Gaussian fingerprints to collusion attacks",0.302046102046,0.366666666667
+800221EF,"Dynamic-KNN: A novel locating method in WLAN based on Angle of Arrival",0.433994708995,0.434523809524
+7EB5A782,"Fingerprint Verification Using Gabor Co-occurrence Features",0.313018925519,0.360238095238
+7D5554D4,"Selecting a Reference High Resolution for Fingerprint Recognition Using Minutiae and Pores",0.295707070707,0.272916666667
+7EDC555D,"A Review on Fingerprint Classification Techniques",0.333653846154,0.452777777778
+7E655DA1,"Automatic fingerprint matching",0.28074980575,1.0
+81629BFB,"An Efficient Approach for Non-Invertible Cryptographic Key Generation from Cancelable Fingerprint Biometrics",0.293590668591,0.339691558442
+59BF908C,"An Efficient Cascaded Filtering Retrieval Method for Big Audio Data",0.299074074074,0.289209401709
+7DE37770,"A Statistical Study on the Fingerprint Minutiae Distribution",0.30118030118,0.352678571429
+808ED403,"Locating Reference Points between Fingerprint Images",0.281074481074,0.326904761905
+7F6C6CE7,"Fingerprint and high-wavenumber Raman spectroscopy in a human-swine coronary xenograft in vivo",0.251709401709,0.31994047619
+7D30E0D9,"Matching with Secure Fingerprint Templates Using Non-invertible Transform",0.291860916861,0.427083333333
+7ECA4363,"A 600-dpi capacitive fingerprint sensor chip and image-synthesis technique",0.352525252525,0.420454545455
+7EE0F759,"A fingerprint pattern classification approach based on the coordinate geometry of singularities",0.428098290598,0.387363430221
+80FFE1B8,"A Novel Fingerprint Enhancement Method Based on Gabor Filtering",0.550925925926,0.638888888889
+7DBF4AA0,"Candidate List Reduction Based on the Analysis of Fingerprint Indexing Scores",0.405555555556,0.347222222222
+03489D8C,"Graphical representation of fingerprint images",0.309116809117,0.436507936508
+7B2849B3,"Spectral minutiae representations of fingerprints enhanced by quality data",0.311447811448,0.28373015873
+81610077,"Fingerprint verification in multimodal biometrics",0.252972027972,0.405303030303
+0183155B,"User Interface Design of the Interactive Fingerprint Recognition (INFIR) System",0.297222222222,0.293333333333
+7FCA8660,"Multifractal wavelet compression of fingerprints",0.249394586895,0.403703703704
+769D242E,"Attacks on biometric systems: a case study in fingerprints",0.275,0.317142857143
+5DB25E91,"Detection of Singularities in Fingerprint Images Using Linear Phase Portraits",0.299328449328,0.276360544218
+78FA59EE,"A New Biocryptosystem-Oriented Security Analysis Framework and Implementation of Multibiometric Cryptosystems Based on Decision Level Fusion",0.414351851852,0.34806547619
+7EB3FE26,"Resolution and Distortion Compensation based on Sensor Evaluation for Interoperable Fingerprint Recognition",0.409932659933,0.333826243201
+782EC349,"Using support vector machines to eliminate false minutiae matches during fingerprint verification",0.327651515152,0.263804713805
+7EC0789D,"Feature-based technique for partial fingerprint matching",0.350194250194,0.75
+7F2DF9D3,"Latent Fingerprint Matching",0.28074980575,1.0
+3E32959B,"Gradient based fingerprint orientation field estimation",0.42117003367,0.487222222222
+7E32701B,"A high density capacitive pressure sensor array for fingerprint sensor application",0.304377104377,0.240151515152
+7FAAE96F,"A corner strength based Fingerprint segmentation algorithm with dynamic thresholding",0.436447811448,0.438762626263
+8021D4DD,"Enhanced gradient-based algorithm for the estimation of fingerprint orientation fields",0.275518925519,0.296815221815
+432462D5,"Unmatched minutiae: Useful information to boost fingerprint recognition",0.290277777778,0.318333333333
+80E54A84,"Learned templates for feature extraction in fingerprint images",0.312698412698,0.316865079365
+8044C215,"Palmprint recognition based on local Haralick features",0.260978835979,0.433333333333
+7D0E0F98,"Hierarchically linked extended features in fingerprints",0.302046102046,0.483333333333
+7F364648,"A hierarchical model for the evaluation of biometric sample quality",0.312770562771,0.363095238095
+771E05A0,"Indoor positioning system based on received signal strength (RSS) fingerprinting: Case in Politeknik Caltex Riau",0.297222222222,0.284585652443
+7EFD06AE,"Automatic Fingerprint Matching using Improved Vector Matching Algorithm",0.321153846154,0.375
+820BF993,"Novel algorithm for fingerprint mosaicing using phase correlation method",0.462962962963,0.541666666667
+822B8CC9,"A deception based approach for defeating OS and service fingerprinting",0.285515873016,0.315136054422
+7F59F904,"Robust Designs for Fingerprint Feature Extraction CNN with Von Neumann Neighborhood",0.325661375661,0.282142857143
+81666F86,"Improving Fingerprint Orientation Extraction",0.288888888889,0.3875
+7E4F069C,"Slap fingerprint segmentation",0.248358585859,0.545454545455
+753585B7,"A VLSI Implementation of Minutiae Extraction for Secure Fingerprint Authentication",0.258531746032,0.3375
+80439F0B,"Securing Fingerprint Template: Fuzzy Vault with Helper Data",0.297222222222,0.31
+7409C451,"Fingerprint based authentication system using threshold visual cryptographic technique",0.465151515152,0.509722222222
+7F74E62F,"Learning Radial Basis Function Model with Matching Score Quality for Person Authentication in Multimodal Biometrics",0.303902116402,0.240321067821
+7AF2C092,"Efficient 1:N Fingerprint Matching Algorithm using Matching Score Distribution",0.294037444037,0.346031746032
+80047FA6,"A Thin-Plate Spline Calibration Model For Fingerprint Sensor Interoperability",0.429503367003,0.422558922559
+75FD8C28,"Techniques to improve binary joint transform correlator performance for fingerprint recognition",0.358207070707,0.344318181818
+811B6DF5,"Artificial neural network based automatic face parts prediction system from only fingerprints",0.417003367003,0.374206349206
+7EA33D4F,"A Real Time Fingerprint Recognition System Based On Novel Fingerprint Matching Strategy",0.413161375661,0.495408163265
+7DB20E6E,"A new scheme for touchless fingerprint recognition system",0.296368446368,0.335714285714
+6CA85B4B,"Fingerprint Liveness Detection Based on Multiple Image Quality Features",0.424146224146,0.387244897959
+811DE1F1,"Rule-Based Fingerprint Quality Estimation System Using the Optimal Orientation Certainty Level Approach",0.309722222222,0.24956309123
+7D9F073E,"Feature transformation of biometric templates for secure biometric systems based on error correcting codes",0.293055555556,0.260416666667
+8023068D,"ANN indoor position determination based on area correlation in WLAN environment",0.282281144781,0.259580498866
+7EC60A6E,"Fingerprint image compression standard based on wave atoms decomposition and self organizing feature map",0.427976190476,0.275427812928
+812CDAC5,"Novel Fingerprint Image Enhancement Algorithm",0.324328449328,0.375992063492
+004FEAD7,"Fingerprint Image Enhancement Using STFT Analysis",0.31043956044,0.350793650794
+7E7065E0,"Security of registration data of fingerprint image with a server by use of the fractional Fourier transform",0.325396825397,0.237889194139
+7F97FB05,"Palmprint recognition based on modified DCT features and RBF neural network",0.269907407407,0.35625
+780C2297,"A key binding system based on n -nearest minutiae structure of fingerprint",0.404503367003,0.40787037037
+7C4E5028,"Fingerprint authentication using Gabor filter based matching algorithm",0.420707070707,0.391571969697
+7A2AF29D,"Advances in the biometric recognition methods: a survey on iris and fingerprint recognition",0.409315221815,0.360770975057
+7D7A8BF4,"A Novel Algorithm for Detecting Singular Points from Fingerprint Images",0.328296703297,0.351904761905
+7D1EED81,"The Optimal ROS-Based Symmetric Phase-Only Filter for Fingerprint Verification",0.290025252525,0.405303030303
+7F2F0AE1,"Research and Application of Fingerprint Image Quality Estimation",0.290548340548,0.293915343915
+80F84EC1,"Fingerprint compression using a piecewise-uniform pyramid lattice vector quantization",0.303296703297,0.277551020408
+7E8FF1C1,"Multimodality gender estimation using Bayesian hierarchical model",0.285052910053,0.386111111111
+7771D8E1,"Errata: Robust video copy detection approach based on local tangent space alignment",0.270905483405,0.226940035273
+7C49B234,"Q-Learning Approach for Minutiae Extraction from Fingerprint Image",0.278571428571,0.346428571429
+7BEAC4CF,"Multimodal biometric method that combines veins, prints, and shape of a finger",0.285185185185,0.278561253561
+79BCBEB3,"A novel matching algorithm for distorted fingerprints based on penalized quadratic model",0.573005698006,0.8125
+808A60E5,"Fingerprint feature extraction based discrete cosine transformation (DCT)",0.422685185185,0.420833333333
+80EFF0CD,"Alignment-Free Cancelable Fingerprint Templates Based on Local Minutiae Information",0.405555555556,0.483333333333
+80BB4AA9,"FingerCode: a filterbank for fingerprint representation and matching",0.274394586895,0.583333333333
+7FA299AA,"Integrating a wavelet based perspiration liveness check with fingerprint recognition",0.395227920228,0.331502525253
+75127E7B,"Pixel-level singular point detection from multi-scale Gaussian filtered orientation field",0.319318181818,0.331666666667
+7795BBB8,"Novel approach to automated fingerprint recognition",0.289407814408,0.373214285714
+7F7AA798,"An Active-Passive Security Protection Method for Remote Sensing Image",0.31626984127,0.323571428571
+7DF1B6D2,"Reconstructing Orientation Field From Fingerprint Minutiae to Improve Minutiae-Matching Accuracy",0.445833333333,0.40612244898
+6D8E259D,"Rotation-invariant operators applied to enhancement of fingerprints",0.28074980575,0.481481481481
+77610135,"Fingerprint recognition in low quality images",0.303511303511,0.346428571429
+7FC57236,"Weight Thin-Plate Spline Fingerprint Matching Using Minutiae Locations and Orientations",0.319444444444,0.344444444444
+7DFE69B7,"Comparison of combination methods utilizing T-normalization and second best score model",0.447420634921,0.450198412698
+7D056CD9,"Core-based structure matching algorithm of fingerprint verification",0.306018518519,0.347222222222
+7B740E95,"Minutiae filtering to improve both efficacy and efficiency of fingerprint matching algorithms",0.300320512821,0.286111111111
+80CF76DE,"Liveness Detection for Biometric Systems Based on Papillary Lines",0.254503367003,0.334027777778
+80359A30,"Fingerprint Matching Based on Minutiae Covering Zones",0.406818181818,0.472222222222
+7F7E082F,"A genetic algorithm for the estimation of ridges in fingerprints",0.312962962963,0.368055555556
+75A2C9F9,"A hybrid fusion method of fingerprint identification for high security applications",0.453561253561,0.427976190476
+7ED00275,"Fingerprint verification using characteristic vector based on planar graphics",0.4125,0.465277777778
+81FB2BA0,"A low-power and high-performance CMOS fingerprint sensing and encoding architecture",0.267929292929,0.345643939394
+7E45BA76,"FVC2002: Second Fingerprint Verification Competition",0.290277777778,0.416666666667
+7CFBE5E9,"Protecting Fingerprint Data Using Watermarking",0.286447811448,0.414583333333
+80EFF888,"Analyzing the Secure and Energy Efficient Transmissions of Compressed Fingerprint Images using Encryption and Watermarking",0.311507936508,0.31462585034
+7F0EF32E,"A multi-stage fingerprint image segmentation method",0.409794372294,0.558441558442
+7D170836,"A novel sensor cell architecture and sensing circuit scheme for capacitive fingerprint sensors",0.300535113035,0.220558762225
+586BE025,"Fingerprint Based Gender Classification Using DWT Transform",0.410042735043,0.526666666667
+7E00B70B,"Spectral representation of fingerprints",0.309116809117,0.583333333333
+80DCF433,"Finger-Knuckle-Print Region of Interest Segmentation Using Gradient Field Orientation & Coherence",0.302777777778,0.282034632035
+7582BB91,"Exploiting quality and texture features to estimate age and gender from fingerprints",0.29617003367,0.261954365079
+61BD4AF1,"Handbook of Fingerprint Recognition",0.246027583528,0.388888888889
+8164C920,"MCC: A baseline algorithm for fingerprint verification in FVC-onGoing",0.279487179487,0.371527777778
+806D457F,"Estimation of the directional field anisotropy based on Mohr's Circle in fingerprint images",0.564285714286,0.494614512472
+808177F6,"Template Adaptation based Fingerprint Verification",0.402972027972,0.478571428571
+80C082E3,"Hiding a face in a fingerprint image",0.300396825397,0.389880952381
+7F624B57,"An Optimal Orientation Certainty Level Approach for Fingerprint Quality Estimation",0.308207070707,0.258962069676
+7EF1F5E7,"Fingerprint Analysis of the Noisy Prisoner's Dilemma Using a Finite-State Representation",0.320707070707,0.30574980575
+80A5F326,"Pores and Ridges: High-Resolution Fingerprint Matching Using Level 3 Features",0.310058922559,0.336574074074
+75720102,"Towards Contactless, Low-Cost and Accurate 3D Fingerprint Identification",0.254685592186,0.571428571429
+785052E1,"Fingerprint orientation field reconstruction by weighted discrete cosine transform",0.302777777778,0.347727272727
+7A292491,"Evaluation of multiple enrollment for fingerprint recognition",0.296490546491,0.347916666667
+7A3F7AC9,"A face and fingerprint identity authentication system based on multi-route detection",0.404166666667,0.365476190476
+803C974E,"A hybrid Fuzzy rule based Neuro-Genetic approach for fingerprint recognition system",0.43630952381,0.432142857143
+80012487,"Location-aware patient record access: Patient identification using fingerprinting technique",0.270707070707,0.2524427953
+782D4321,"An integrated framework combining Bio-Hashed minutiae template and PKCS15 compliant card for a better secure management of fingerprint cancelable templates",0.447420634921,0.357345779221
+80F2EC7C,"Feature selection for sensor interoperability: A case study in fingerprint segmentation",0.284595959596,0.264914450629
+80EB1579,"Fingerprint feature enhancement using block-direction on reconstructed images",0.310704110704,0.35746031746
+5EBB6B4C,"Fingerprint image segmentation based on gaussian-hermite moments",0.412770562771,0.471753246753
+7E0D9EF7,"Filtering Algorithm of the False Features for Fingerprint Images Based on Wavelet Transform",0.444963369963,0.410090702948
+7CECCE65,"Practical considerations for secure minutiae based templates",0.249747474747,0.34375
+7B3ADB00,"Minutiae based fingerprint matching techniques",0.461305361305,0.575
+7F5EE811,"FPGA implementation of a minutiae extraction fingerprint algorithm",0.279365079365,0.36875
+7E212000,"The statistical modelling of fingerprint minutiae distribution with implications for fingerprint individuality studies",0.302248677249,0.347321428571
+77F78BE8,"Fingerprint sample quality assessment via ridge line count using Laplacian of Gaussian edge finding",0.301587301587,0.252182539683
+756D6D85,"DS theory based fingerprint classifier fusion with update rule to minimize training time",0.452651515152,0.351234567901
+76DE8D57,"ID-based authentication scheme combined with identity-based encryption with fingerprint hashing",0.29125966626,0.336904761905
+5C9F3D96,"Development of Genetic Algorithm Embedded KNN for Fingerprint Recognition",0.307264957265,0.325555555556
+7F35AD83,"A cost-effective fingerprint recognition system for use with low-quality prints and damaged fingertips",0.314225589226,0.280952380952
+5D2D7DAC,"A Fingerprint Authentication System Based on Mobile Phone",0.395707070707,0.461666666667
+7A79F966,"Parallel versus Hierarchical Fusion of Extended Fingerprint Features",0.307727920228,0.38125
+5A4ED18E,"A novel fingerprint matching method by excluding elastic distortion",0.438746438746,0.505555555556
+7E8A3CD6,"Fingerprint verification based on core point neighbourhoods minutiae",0.420905483405,0.381519274376
+7ECCE52A,"Modeling content fingerprints using markov random fields",0.286447811448,0.340384615385
+804268AA,"A Memetic Fingerprint Matching Algorithm",0.293376068376,0.5
+7F28FED1,"Direct Pore Matching for Fingerprint Recognition",0.288762626263,0.408333333333
+7E03ABF2,"Fingerprint classification approaches: an overview",0.264209401709,0.366964285714
+790C68D3,"Design and implementation of a capacitive fingerprint sensor circuit in CMOS technology",0.295707070707,0.272095959596
+7E507B1F,"An algorithm for fingerprint core point detection",0.290598290598,0.330555555556
+810E772B,"An effective algorithm for low quality fingerprint segmentation",0.31654040404,0.370941558442
+78348603,"ART and Modular Neural Network Architecture for Multilevel Categorization and Recognition of Fingerprints",0.289225589226,0.256818181818
+7F94887A,"A novel fingerprint matching method using a curvature-based minutia specifier",0.439225589226,0.46654040404
+7F370008,"Low-quality fingerprint recognition using three- rate hybrid Kohonen neural network",0.286447811448,0.336666666667
+7F31B09E,"Reference point estimation in fingerprint image",0.268574481074,0.309126984127
+7EAD7D6C,"Knowledge based fingerprint image enhancement",0.298881673882,0.375992063492
+8069A8EB,"Based on SVM Automatic Measures of Fingerprint Image Quality",0.414622414622,0.477142857143
+7E266D9C,"Evolution of Better Wavelet Coefficients for Fingerprint Image Compression Using Cropped Images",0.306878306878,0.24532627866
+8102B723,"Password Generation of OTP System using Fingerprint Features",0.307407407407,0.326388888889
+7DFAF4A6,"A Gradient Based Weighted Averaging Method for Estimation of Fingerprint Orientation Fields",0.565740740741,0.434781576448
+7F7F6459,"A New Method for Generating an Invariant Iris Private Key Based on the Fuzzy Vault System",0.401851851852,0.37319109462
+5A90F699,"An Improved Image Enhancement Scheme for Fingerprint Minutiae Extraction in Biometric Identification",0.310317460317,0.275595238095
+7A187E3A,"Adaptive fingerprint pore modeling and extraction",0.288762626263,0.328977272727
+5EA267EC,"Improved Fingerprint Matching by Distortion Removal",0.270227920228,0.368055555556
+7FD7EAAF,"Fingerprint recognition distributed system",0.262373737374,0.35
+78EF1C8A,"Fingerprint recognition with identical twin fingerprints.",0.281818181818,0.545833333333
+812B1AA8,"Automatic Fingerprint Identification Using Gray Hopfield Neural Network Improved by Run-Length Encoding",0.297558922559,0.33630952381
+7CFF9372,"New algorithm of automation fingerprint recognition",0.307264957265,0.36875
+7E857507,"Adaptive Spam Filtering Based on Fingerprint Vectors",0.40574980575,0.480952380952
+7D9F0AB7,"On-line fingerprint verification",0.287694250194,0.5625
+7DC915D0,"Fingerprint - Iris Fusion Based Identification System Using a Single Hamming Distance Matcher",0.417003367003,0.314954212454
+8124E0A8,"The Human–Biometric-Sensor Interaction Evaluation Method: Biometric Performance and Usability Measurements",0.279024216524,0.303240740741
+808CEF06,"Fingerprint Authentication Device Based on Optical Characteristics Inside a Finger",0.417003367003,0.416987179487
+7ED2683A,"Fusion of Fingerprint Recognition Methods for Robust Human Identification",0.444037444037,0.473571428571
+7F77C7D3,"Distorted Fingerprint Indexing Using Minutia Detail and Delaunay Triangle",0.294037444037,0.30747955748
+6EBA6BDD,"A robust fingerprint matching algorithm using local alignment",0.28074980575,0.423611111111
+012E411D,"Fingerprint Recognition Using a Hierarchical Approach",0.289407814408,0.394047619048
+76D8D49C,"High resolution partial fingerprint alignment using pore-valley descriptors",0.28074980575,0.333888888889
+80388814,"Delta compression effect on smart card fingerprint verification system",0.293055555556,0.252651515152
+8022CEA0,"Fingerprint Segmentation Based on Improved Active Contour",0.394191919192,0.572727272727
+7F939C85,"FPGA Based Parallel Thinning for Binary Fingerprint Image",0.41043956044,0.585714285714
+815B5AB7,"Topology optimization of fuzzy systems for response integration in ensemble neural networks: The case of fingerprint recognition",0.304166666667,0.212607454274
+8116E6FB,"Proof of Two Kinds of Fingerprint Feature Extraction CNN",0.280952380952,0.328571428571
+80621D34,"Audio fingerprinting based on normalized spectral subband moments",0.297558922559,0.40625
+7D51C16D,"Indoor localization with channel impulse response based fingerprint and nonparametric regression",0.40284992785,0.411255411255
+7E662D32,"Performance Based Revocable Biometrics",0.249741462241,0.405303030303
+7884C2D3,"A calibration model for fingerprint sensor interoperability",0.429503367003,0.490404040404
+7ED347CC,"Asymmetric fingerprinting based on 1-out-of-n oblivious transfer",0.239777583528,0.441666666667
+7D2F29B6,"Evaluating location fingerprinting methods for underground GSM networks deployed over Leaky Feeder",0.311574074074,0.282142857143
+8137C34A,"Directional Gaussian Derivative Filter Based Palmprint Authentication",0.247095959596,0.328977272727
+784D4205,"Fingerprint recognition using a partially rotation invariant composite filter in a FLC joint transform correlator",0.288762626263,0.290025252525
+62A6D329,"A comparative study on the swarm intelligence based feature selection approaches for fake and real fingerprint classification",0.454487179487,0.32793040293
+7CF57643,"A template selection method based on quality for fingerprint matching",0.561447811448,0.661904761905
+816B189F,"Using Duality and Hopfield Neural Network for Delaunay Triangulation Based Fingerprint Matching",0.397558922559,0.414682539683
+5C9CBB74,"MERGING OF FINGERPRINT SCANS OBTAINED FROM MULTIPLE CAMERAS IN 3D FINGERPRINT SCANNER SYSTEM",0.293253968254,0.342857142857
+59F17FD9,"Integrating Faces, Fingerprints and Soft Biometric Traits for User Recognition",0.294907407407,0.284920634921
+58330F00,"A fingerprint recognition algorithm combining phase-based image matching and feature-based matching",0.28543956044,0.373214285714
+772BFED3,"Development of an optical joint transform correlation system for fingerprint recognition",0.291077441077,0.254503367003
+73FBD124,"Fingerprints: enabling visualization and automatic analysis of strategies for two player games",0.323683261183,0.289347557205
+809DEFF6,"A Scheme for Enhancing Security Using Multiple Fingerprints and the Fuzzy Vault",0.296368446368,0.303174603175
+7F308402,"Cancelable Biometrics: A Case Study in Fingerprints",0.26163003663,0.344155844156
+7DDD9360,"Mobile fingerprint template protection: Progress and open issues",0.332264957265,0.328333333333
+78C1700F,"Combining Biometric Fractal Pattern and Particle Swarm Optimization-Based Classifier for Fingerprint Recognition",0.290614478114,0.257142857143
+7FAC73A2,"On the Spatial Distribution of Fingerprint Singularities",0.294037444037,0.417989417989
+7FB10E08,"Directional Filter Bank: An Enhancement for Fingerprint Feature Detection",0.313425925926,0.273021885522
+7E8E2000,"Fingerprint image segmentation based on Fingerprint Ridge Intensity",0.416137566138,0.49371263657
+7A024FBF,"Combining global features and local minutiae descriptors in genetic algorithms for fingerprint matching",0.330876068376,0.320833333333
+75E93DB3,"Performance of Fingerprint Quality Measures Depending on Sensor Technology",0.288762626263,0.267918985776
+7E13ADA6,"Segmentation of low quality fingerprint images",0.303511303511,0.344155844156
+7E33035F,"Secure Scheme of Digital Fingerprint Based Piracy Tracking",0.403633403633,0.496753246753
+7DC5AB9B,"Efficient Fingerprint Matching Technique Using Wavelet Based Features",0.481339031339,0.524074074074
+81185221,"Fingerprint identification: classification vs. indexing",0.264209401709,0.363492063492
+680390EB,"Logical templates for feature extraction in fingerprint images",0.312698412698,0.313571428571
+80872CF5,"Pipelined minutiae extraction from fingerprint images",0.271428571429,0.414285714286
+7DA6A65E,"Effect of human-biometric sensor interaction on fingerprint matching performance, image quality and minutiae count",0.314285714286,0.222711239378
+775B0E8C,"Optimizing FCCSP design with Cu-pillar bump in high sensitivity fingerprint sensor",0.309595959596,0.277972027972
+80F18F6D,"On-demand fingerprint selection for 802.11-based positioning systems",0.279503367003,0.379166666667
+7EB1E5D2,"Generating Cancelable Fingerprint Templates",0.277972027972,0.458333333333
+7D3D811B,"In Vivo Two- and Three-Dimensional Imaging of Artificial and Real Fingerprints With Optical Coherence Tomography",0.300320512821,0.347916666667
+7E3E0BA5,"An identity-authentication system using fingerprints",0.284595959596,0.477777777778
+309C20F9,"The pixel alignment based algorithm for continuous orientation field estimation",0.424074074074,0.397619047619
+769E9999,"Structural hidden Markov models for biometrics: Fusion of face and fingerprint",0.44212962963,0.397095959596
+8028A05D,"On the utility of extended fingerprint features: A study on pores",0.296494708995,0.291865079365
+7D4ECDDB,"Extraction of Smooth and Thin Ridgelines from Fingerprint Images Using Geometric Prediction",0.314484126984,0.279308390023
+7F93042E,"Quality-augmented fusion of level-2 and level-3 fingerprint information using DSm theory",0.290614478114,0.347222222222
+7DB3DA17,"Fingerprint center point location using directional field",0.448484848485,0.477777777778
+7971D332,"Partial fingerprint registration for forensics using minutiae-generated orientation fields",0.298931623932,0.313018925519
+754F9253,"A pixel-level automatic calibration circuit scheme for capacitive fingerprint sensor LSIs",0.321368446368,0.31341991342
+809DE0FE,"Construction of Anti-Collusion Codes Based on Cover-Free Families",0.269781144781,0.358333333333
+80092351,"Latent Palmprint Matching",0.333333333333,0.0
+7D361D27,"An enhanced Gabor filter-based segmentation algorithm for fingerprint recognition systems",0.311111111111,0.270707070707
+80A9767E,"An Efficient Algorithm for Fingerprint Matching Based on Convex Hulls",0.419444444444,0.583333333333
+718513E2,"Effect of controlled image acquisition on fingerprint matching",0.314285714286,0.352380952381
+7D3352FD,"Using the Newton Trust-Region Method to Localize in WLAN Environment",0.288746438746,0.343174603175
+762A3CCB,"A novel and robust fingerprinting technique for digital data based on Genetic Algorithm",0.356944444444,0.386574074074
+8161D81A,"Personal identification technique based on human iris recognition with wavelet transform",0.319047619048,0.370793650794
+80570D18,"A New Approach for Locating Mobile Stations under the Statistical Directional Propagation Model",0.293121693122,0.322142857143
+5ED99955,"The surround Imager™: a multi-camera touchless device to acquire 3d rolled-equivalent fingerprints",0.309595959596,0.420833333333
+7D64353A,"Anti-collusion of group-oriented fingerprinting",0.12904040404,0.333333333333
+5F743477,"Fingerprint matching using minutiae and texture features",0.304360916861,0.336574074074
+7FF3C578,"A Novel Method for the Fingerprint Image Quality Evaluation",0.455627705628,0.490476190476
+7D159A6F,"Fingerprint Classification Based on Improved Singular Points Detection and Central Symmetrical Axis",0.439087301587,0.439087301587
+7E2C4679,"A new algorithm for distorted fingerprints matching based on normalized fuzzy similarity measure",0.418376068376,0.451851851852
+7DB97D54,"Music retrieval method based on filter-bank feature and earth mover's distance",0.425,0.337980769231
+7CEDFC32,"RC5 encryption using key derived from fingerprint image",0.31043956044,0.368571428571
+7F086564,"A Frequency-based Approach for Features Fusion in Fingerprint and Iris Multimodal Biometric Identification Systems",0.279828042328,0.285119047619
+5FFC6186,"Optimized singular point detection algorithm for fingerprint images",0.328296703297,0.308531746032
+7EC3FFCB,"Spoofing protection for fingerprint scanner by fusing ridge signal and valley noise",0.297685185185,0.261954365079
+80D3A459,"A rough-set based binarization technique for fingerprint images",0.469963369963,0.660714285714
+7DDFEA9B,"Fingerprint verification based on wavelet and edge detection",0.40787037037,0.412037037037
+811B7037,"A Novel Embedded Fingerprints Authentication System Based on Singularity Points",0.409595959596,0.347569444444
+7F21DCE8,"A Service-Oriented Spam Filtering System Using Shared Fingerprints",0.284595959596,0.302380952381
+7DF623EC,"Biometric-PKI Authentication System Using Fingerprint Minutiae",0.29154040404,0.336666666667
+763DC1F2,"Enhancement of feature extraction for low-quality fingerprint images using stochastic resonance",0.31455026455,0.281519274376
+7D1D8A1B,"Fingerprint biometric authentication based on local global graphs",0.397558922559,0.572916666667
+7DB78730,"Simultaneous latent fingerprint recognition: A preliminary study",0.289407814408,0.414285714286
+77909F2D,"Simultaneous latent fingerprint recognition",0.28074980575,0.55
+7CEAF6EF,"A Fingerprint Orientation Model Based on 2D Fourier Expansion (FOMFE) and Its Application to Singular-Point Detection and Fingerprint Indexing",0.566987179487,0.533641975309
+813D9041,"A new fingerprint matching algorithm based on minutiae",0.425320512821,0.525
+7EC8B8E4,"A hybrid fingerprint matcher",0.28074980575,0.538461538462
+6D3A4F75,"A fingerprint biometric cryptosystem in FPGA",0.246027583528,1.0
+7D0B4C7D,"A Full Fingerprint Verification System for a Single-Line Sweep Sensor",0.29154040404,0.281363636364
+76C408D6,"A modified Gabor filter design method for fingerprint image enhancement",0.455627705628,0.370696763554
+802E1008,"Fingerprint recognition using principal Gabor basis function",0.286447811448,0.336666666667
+7E40CB76,"On the security of non-invertible fingerprint template transforms",0.291860916861,0.408333333333
+792DB76A,"Hierarchical fusion for matching simultaneous latent fingerprint",0.289546102046,0.458333333333
+7DC3014E,"Fingerprint orientation field estimation using ridge projection",0.30462962963,0.309259259259
+80F2832A,"A Comprehensive Approach for Fingerprint Alignment",0.289407814408,0.417989417989
+8065AD1E,"A Fingerprint Matching Algorithm of Minutia Based on Local Characteristic",0.441987179487,0.470833333333
+81255706,"A sub-threshold SRAM based PUF",1.0,1.0
+772A8C59,"A New Method for Improving Robustness of Registered Fingerprint Data Using the Fractional Fourier Transform",0.437962962963,0.414682539683
+5DFB8651,"Fingerprint Reference Point Detection Using Neighbourhood Influence Method",0.446153846154,0.40873015873
+7D0399B1,"Robust orientation field estimation in fingerprint images with broken ridge lines",0.469841269841,0.38231292517
+76229A1F,"Investigating the relationship between fingerprint image quality and skin characteristics",0.299146224146,0.281354359926
+7E056ADF,"Perception-based fingerprint image enhancement",0.266458078958,0.417989417989
+7E9CF25E,"Methods for image processing and pattern formation in Cellular Neural Networks: a tutorial",0.30205026455,0.267328042328
+7FAF219B,"Memory-Efficient Fuzzy Fingerprint Vault based on the Geometric Hashing",0.395707070707,0.7
+07F1C00D,"On the influence of fingerprint area in partial fingerprint recognition",0.301262626263,0.482222222222
+80EC24E2,"A model-based method for the computation of fingerprints' orientation field",0.706018518519,0.84
+7E1F8D7A,"Fingerprint verification based on fixed length square finger code",0.401388888889,0.367216117216
+61CC828A,"Fingerprint Segmentation Using Scale Vector Algorithm",0.323484848485,0.368181818182
+7CFE910C,"A Framework for Efficient Fingerprint Identification Using a Minutiae Tree",0.446352258852,0.446352258852
+7CF5ADC3,"StirTraceV2.0: Enhanced Benchmarking and Tuning of Printed Fingerprint Detection",0.27413003663,0.366964285714
+7F71883A,"Robust Orientation Field Estimation and Extrapolation Using Semilocal Line Sensors",0.30462962963,0.278066378066
+7F44BC7B,"A minutia-based partial fingerprint recognition system",0.284595959596,0.4
+7967AA7B,"Applying fingerprint multilateration to population dynamics in Prisoner's Dilemma simulations",0.298821548822,0.268023643024
+7FC8EB09,"Fingerprint enhancement with dyadic scale-space",0.284116809117,0.555555555556
+7DEE5131,"Fingerprint Verification Using Spectral Minutiae Representations",0.309116809117,0.35
+5E0671C2,"An Empirical Study of Multi-mode Biometric Systems Using Face and Fingerprint",0.293253968254,0.331904761905
+7637358E,"Securing Fingerprint Images Using PSO-Based Wavelet Domain Watermarking",0.30118030118,0.31455026455
+7FE38069,"A method of fingerprint image enhancement based on second directional derivatives",0.555148555149,0.558994708995
+59DBABDC,"Adaptive Fingerprint Enhancement by Combination of Quality Factor and Quantitative Filters",0.293392255892,0.261646224146
+7FD41AEA,"Comparative analysis of registration based and registration free methods for cancelable fingerprint biometrics",0.559116809117,0.563762626263
+5DCE35F1,"A study of touchless fingerprint recognition system",0.258531746032,0.335714285714
+8000DD59,"Fingerprint Image Preprocessing Based on Whole-Hand Image Captured by Digital Camera",0.411507936508,0.422619047619
+7D5D7936,"Reliable detection of core and delta in fingerprints by using singular candidate method",0.444907407407,0.396825396825
+59281F92,"Latent Fingerprint Aging from a Hyperspectral Perspective: First Qualitative Degradation Studies Using UV/VIS Spectroscopy",0.30118030118,0.284863945578
+7930F939,"Improved Authentication Accuracy by Individually Set Orders of the Fractional Fourier Transform and Effects of Damage of Fingerprint Image on Authentication Accuracy",0.30753968254,0.216170634921
+60F6EC96,"A Review on Gender Classification Using Association Rule Mining and Classification Based on Fingerprints",0.441987179487,0.339646464646
+7F97E237,"Fingerprint orientation analysis with topological modeling",0.298931623932,0.364393939394
+5949FA2D,"ProSy: A similarity based inline deduplication system for primary storage",0.256216931217,0.338492063492
+7F387D62,"Biometric personal identification based on iris patterns",0.270426332926,0.345238095238
+791937C5,"A new scars removal technique of fingerprint images",0.358852258852,0.441964285714
+8121A6D3,"Reference Point Determination in Enhanced Fingerprint Image",0.314407814408,0.320238095238
+5CFD00FE,"Touchless multiview fingerprint quality assessment: rotational bad-positioning detection using Artificial Neural Networks",0.293392255892,0.308531746032
+794052DA,"A robust fingerprint matching algorithm based on compatibility of star structures",0.424074074074,0.401587301587
+75F34AD3,"Fingerprint Pore Matching Based on Sparse Representation",0.428240740741,0.508333333333
+80218B9A,"Indexing fingerprints using minutiae quadruplets",0.28074980575,0.383838383838
+7D36F203,"Design of New Mobile-OTP System Using Fingerprint Features",0.318518518519,0.36
+7EC7C989,"Gabor Based Fingerprints Verification of Property Document",0.401388888889,0.412698412698
+7E4C87CC,"Fingerprint Image Reconstruction from Standard Templates",0.299328449328,0.339691558442
+5C001CAD,"Crowd powered latent Fingerprint Identification: Fusing AFIS with examiner markups",0.289407814408,0.260582010582
+7ED2629A,"Fingerprint image enhancement: algorithm and performance evaluation",0.289606227106,0.299272486772
+813BF12D,"A fingerprint verification system using minutiae and wavelet based features",0.422685185185,0.374305555556
+7E852314,"Rolled Fingerprint Construction Using MRF-Based Nonrigid Image Registration",0.31043956044,0.327976190476
+79991BF0,"A compensation scheme of fingerprint distortion using combined radial basis function model for ubiquitous services",0.449074074074,0.333089133089
+7E86285A,"Fingerprint identification software for forensic applications",0.298931623932,0.363492063492
+78F683F9,"Structure-adaptive anisotropic filter applied to fingerprints",0.283080808081,0.474747474747
+79281617,"An improved ridge features extraction algorithm for distorted fingerprints matching",0.334259259259,0.362222222222
+7A1F8977,"Fingerprint reference-point detection",0.252972027972,0.5625
+76DAC649,"Statistical Models for Assessing the Individuality of Fingerprints",0.437962962963,0.58125
+7B384429,"A comparative study on quality assessment of high resolution fingerprint images",0.308802308802,0.279761904762
+80980CB0,"A small scale fingerprint matching scheme using Digital Curvelet Transform",0.292522292522,0.36746031746
+7ED46556,"A new human identification based on fusion fingerprints and faces biometrics using LBP and GWN descriptors",0.403633403633,0.374012445887
+80D5E58C,"Fingerprint classification through self-organizing feature maps modified to treat uncertainties",0.30867003367,0.29512987013
+5F35D04D,"Vectorized fingerprint representation using Minutiae Relation Code",0.315277777778,0.366666666667
+836658B8,"Hardware-software co-design of an automatic fingerprint acquisition system",0.300336700337,0.422222222222
+7D221CDA,"Online fingerprint template improvement",0.295227920228,0.412037037037
+7DCB7F30,"A new approach to random walk matching of fingerprint recognition",0.289407814408,0.338492063492
+7F89724A,"Ear and fingerprint biometrics for personal identification",0.29067044067,0.327672327672
+81241069,"A two-stage algorithm for core point detection in fingerprint images",0.293574481074,0.299272486772
+7F60FF68,"A wavelet-transfonn-based binarization algorithm on dynamic threshold of vertical orientation of fingerprint",0.307264957265,0.390277777778
+5EE78C30,"Received signal strength models for WLAN and BLE-based indoor positioning in multi-floor buildings",0.319907407407,0.299404761905
+7D0409E4,"Triangle matching combined with singular features in fingerprints",0.302046102046,0.358181818182
+5FB7B467,"MinuCode: A Fixed-Value Representation of Fingerprint Minutiae for Biometric Cryptosystem",0.274394586895,0.430555555556
+75FD13FF,"A method for fingerprint alignment and matching",0.402172364672,0.703703703704
+8136D2DA,"Design and Efficiency Analysis of New OTP System Using Homomorphic Graph of Fingerprint Features",0.318518518519,0.280555555556
+7FD04499,"An Effective and Robust Fingerprint Enhancement Method",0.438746438746,0.703703703704
+7D4FA747,"Fingerprint Recognition by Multi-objective Optimization PSO Hybrid with SVM",0.249394586895,0.327777777778
+7DF46EAB,"A Novel Approach Based on PCNNs Template for Fingerprint Image Thinning",0.417582417582,0.435119047619
+7E8A9ADD,"Block based texture analysis for iris classification and matching",0.267592592593,0.317777777778
+5AEFF73C,"Comparison of biosignal Electrocardiography (ECG), Fingerprint and Iris as Biometrics authentication tool",0.276136363636,0.23924512987
+7D33D5E9,"A pitfall in fingerprint features extraction",0.27413003663,0.447619047619
+7EDA6716,"Combining match scores with liveness values in a fingerprint verification system",0.289285714286,0.239037698413
+7CEE5D62,"Searching methods for biometric identification systems: Fundamental limits",0.297883597884,0.335238095238
+7ECC7855,"Examination of fingerprint image quality and performance on force acquisition vis-à-vis auto-capture",0.284992784993,0.26343537415
+0AD42716,"A HIERARCHICAL FINGERPRINT MATCHING SYSTEM",0.284595959596,0.55
+7FCC0187,"Fingerprint alignment using ring model",0.435379435379,0.528888888889
+76BC71CF,"A hybrid scheme for securing fingerprint templates",0.294837107337,0.366964285714
+7FFE831F,"Digital image source coder forensics via intrinsic fingerprints",0.31746031746,0.303896103896
+7AB77CE7,"A method using long digital straight segments for fingerprint recognition",0.444907407407,0.443055555556
+7E04D134,"Capacitive-Sensing Circuit Technique for Image Quality Improvement on Fingerprint Sensor LSIs",0.335257335257,0.295866831581
+6AADD4C5,"Fingerprint recognition using wavelet features",0.305413105413,0.348888888889
+7FE3A195,"Local Features for Enhancement and Minutiae Extraction in Fingerprints",0.309259259259,0.352777777778
+7DB6CB3D,"Filterbank-based fingerprint matching",0.246027583528,1.0
+7E419837,"A Novel Approach to Indoor RSSI Localization by Automatic Calibration of the Wireless Propagation Model",0.310978835979,0.332142857143
+7E8F2C6D,"Fingerprint Matching Algorithm Based on Voronoi Diagram",0.419444444444,0.516666666667
+7EE0D6BF,"High speed fingerprint recognition method",0.436894586895,0.552777777778
+80F080DE,"A novel algorithm for fingerprint singular points detection based on vecrot orthogonal theory",0.436431623932,0.44212962963
+7EC0988C,"Classifying fingerprint images using neural network: deriving the classification state",0.326984126984,0.288839285714
+7CEE28A4,"The Virtual Antenna of Measurement Report Based Methods for Wireless Location",0.422685185185,0.414209401709
+7D10BD77,"An Improved Fingerprint Recognition Algorithm Using EBFNN",0.28074980575,0.477777777778
+7DF1A802,"A theoretical analysis of wireless localization using RF-based fingerprint matching",0.293376068376,0.410714285714
+7E9F83F1,"A FUSION METHOD FOR PARTIAL FINGERPRINT RECOGNITION",0.441061253561,0.55625
+5A4B2198,"Latent fingerprint match using Minutia Spherical Coordinate Code",0.286447811448,0.338888888889
+8162B29E,"Fingerprint quality and validity analysis",0.274873737374,0.355158730159
+7E9644B5,"An Identification System Combined with Fingerprint and Cryptography",0.285846560847,0.320793650794
+7FEB9685,"Analysis of Tradeoffs among Verification Accuracy, Memory Consumption, and Execution Time in the GH-Based Fuzzy Fingerprint Vault",0.28253968254,0.21294011544
+7FCCCBB3,"Systematic methods for the computation of the directional fields and singular points of fingerprints",0.596153846154,0.648717948718
+64FB90BF,"Definition of Fingerprint Scanner Image Quality Specifications by Operational Quality",0.303511303511,0.249319727891
+7E22B7C9,"A combination fingerprint classifier",0.254701779702,0.402777777778
+7DA1CE25,"A novel method of score level fusion using multiple impressions for fingerprint verification",0.456944444444,0.376041666667
+7FDE1A1F,"Fingerprint minutiae matching based on the local and global structures",0.404503367003,0.497222222222
+78FB250D,"Automation of Fingerprint Recognition Using OCT Fingerprint Images",0.303495115995,0.450198412698
+7FE858F6,"Invariant representation of orientation fields for fingerprint indexing",0.323931623932,0.322051282051
+7DC31B9B,"Segmentation of fingerprint images using the gradient vector field",0.457142857143,0.455627705628
+7999CFB4,"Orientation Field Estimation for Embedded Fingerprint Authentication System",0.452777777778,0.422685185185
+7F9379BE,"Fingerprint indexing based on novel features of minutiae triplets",0.413157213157,0.480404040404
+7DEC9196,"Understanding representational sensitivity in the iterated prisoner's dilemma with fingerprints",0.29696969697,0.333566433566
+84307059,"A Three-Terminal n+-p-n+ Silicon CMOS Light-Emitting Device for the New Fully Integrated Optical-Type Fingerprint Recognition System",0.284595959596,0.261111111111
+7F8256A0,"Singular Points Detection Based on Zero-Pole Model in Fingerprint Images",0.553296703297,0.572420634921
+053447D4,"Study of the Distinctiveness of Level 2 and Level 3 Features in Fragmentary Fingerprint Comparison",0.311772486772,0.286970899471
+81065BE7,"An evaluation of fingerprint image quality across an elderly population vis-a-vis an 18-25 year old population",0.316738816739,0.24751984127
+7D384508,"A Framework for Optimizing Nonlinear Collusion Attacks on Fingerprinting Systems",0.305892255892,0.294444444444
+8006644D,"A Novel Fingerprint Recognition System with Direction Angles Difference",0.296368446368,0.265476190476
+7F95BB07,"A novel online fingerprint segmentation method based on frame-difference",0.550336700337,0.772727272727
+805799F6,"Investigating performance and impacts on fingerprint recognition systems",0.279503367003,0.283333333333
+764E618B,"Fingerprint image enhancement and postprocessing based on the directional fields",0.412291412291,0.466178266178
+7C21D7C3,"Recognition of live-scan fingerprints with elastic distortions using correlation filters",0.289562289562,0.293392255892
+7D607B54,"A New Oriented-Diffusion Image Inpainting Framework for Striped Texture Images",0.294037444037,0.349206349206
+5A70675C,"Fusion Method of Fingerprint Quality Evaluation: From the Local Gabor Feature to the Global Spatial-Frequency Structures",0.468518518519,0.353621031746
+7BACC3BE,"Multisensor Optical and Latent Fingerprint Database",0.28074980575,0.571428571429
+7E3FB5E8,"A Novel and Efficient Algorithm for Segmentation of Fingerprint Image Based on LBP Operator",0.437770562771,0.386569779427
+5E3DC2CF,"An intelligent sensor for fingerprint recognition",0.248358585859,0.39696969697
+7D9D95F4,"Global Models for the Orientation Field of Fingerprints: An Approach Based on Quadratic Differentials",0.718518518519,0.634693877551
+7EDECCD8,"A new reference point for fingerprint recognition",0.294638694639,0.347916666667
+8094F13B,"Improvement of Fingerprint Retrieval by a Statistical Classifier",0.285185185185,0.317841880342
+5B8D2983,"Performance evaluation of fingerprint orientation field reconstruction methods",0.42037037037,0.430429292929
+7D9FCD41,"A Minutiae-based Fingerprint Individuality Model",0.406216931217,0.708333333333
+7ECC5C87,"Artificial fingerprint recognition by using optical coherence tomography with autocorrelation analysis",0.293376068376,0.311111111111
+82F57ADE,"A Security-Enhanced Alignment-Free Fuzzy Vault-Based Fingerprint Cryptosystem Using Pair-Polar Minutiae Structures",0.293392255892,0.392361111111
+5A6D41C4,"Fast and robust fingerprint identification algorithm and its application to residential access controller",0.322222222222,0.307142857143
+5D474823,"Advanced Technologies for Touchless Fingerprint Recognition",0.293376068376,0.422222222222
+7BBB06EB,"DCT based multiple hashing technique for robust audio fingerprinting",0.363888888889,0.5
+7DB1039D,"A fingerprint verification system based on triangular matching and dynamic time warping",0.408333333333,0.419444444444
+80C6FCFC,"Fingerprint Biometrics Authentication on Smart Card",0.283080808081,0.326704545455
+7E461D7B,"Fingerprint Orientation Field Estimation Algorithm Based on Optimized Neighborhood Averaging",0.415740740741,0.442328042328
+58F5235B,"Fingerprint Recognition and feature extraction using transform domain techniques",0.370707070707,0.333333333333
+7F904BFB,"Design of an Embedded Fingerprint Matcher System",0.297222222222,0.335897435897
+80DD8911,"Fingerprint Matching Using Global Minutiae and Invariant Moments",0.290277777778,0.366666666667
+8050528F,"Sensor-oriented feature usability evaluation in fingerprint segmentation",0.282281144781,0.313737373737
+7D6BEF85,"Wavelet based fingerprint image enhancement",0.261375661376,0.34126984127
+7F35A543,"Image versus feature mosaicing: a case study in fingerprints",0.281272893773,0.325714285714
+7E98A0F0,"Fingerprint matching based on multi-stage validation",0.400518925519,0.598214285714
+7EFC757E,"Increasing Performance of Fingerprint Recognition Systems Using Reconstruction of Ridge Lines Methods",0.446759259259,0.317146464646
+80D8F4D2,"A New Mobile Multimodal Biometric Device Integrating Finger Vein and Fingerprint Recognition",0.284595959596,0.251709401709
+7FC71DAD,"The effect of orientation map accuracy on fingerprint classification using PCA-MSOM",0.305892255892,0.326388888889
+58CE7283,"An Enhanced Secure Anonymous Authentication Scheme Based on Smart Cards and Biometrics for Multi-server Environments",0.275981888482,0.278312890813
+769445E6,"Random Bands: A novel ensemble for fingerprint matching",0.286447811448,0.334027777778
+5A561DA2,"A Secured Mobile Phone Based on Embedded Fingerprint Recognition Systems",0.395707070707,0.413888888889
+7EF74016,"An Independent Component Analysis (ICA) Based Approach for EEG Person Authentication",0.285648148148,0.290939153439
+7F0A970A,"Digital camera based fingerprint recognition",0.392929292929,0.545833333333
+7FAF24F5,"Image enhancement in simple fingerprint minutiae extraction algorithm using crossing number on valley structure",0.306878306878,0.233452380952
+81109ACE,"Authentication of fingerprint scanners",0.246027583528,0.397222222222
+77671838,"Accuracy Analysis in Fingerprint Authentication Using the Fractional Fourier Transform without Misalignment Correction of Scanned Images",0.311507936508,0.260912698413
+8066534F,"Video Fingerprinting Based on Centroids of Gradient Orientations",0.279966329966,0.300462962963
+6F8ABC40,"Fingerprint Templates Combination",0.262698412698,0.416666666667
+7DE66AA2,"An Intelligent Automatic Fingerprint Recognition System Design",0.297222222222,0.341666666667
+7985B229,"Fingerprint recognition using DCT features",0.302046102046,0.408333333333
+7E074256,"Internal Fingerprint Identification With Optical Coherence Tomography",0.293376068376,0.352380952381
+7B6E8358,"Crease detection from fingerprint images and its applications in elderly people",0.318326118326,0.286970899471
+7E441B27,"ROI-Based Fingerprint Quality Estimation",0.265614478114,0.417989417989
+5927A624,"DWT Based Fingerprint Recognition using Non Minutiae Features",0.415472027972,0.459722222222
+7E585C82,"Mixing fingerprints for template security and privacy",0.258527583528,0.345833333333
+79204604,"Enhanced Ridge Structure for Improving Fingerprint Image Quality Based on a Wavelet Domain",0.417989417989,0.31119047619
+7DCFB99A,"An alignment free fingerprint fuzzy extractor using near-equivalent Dual Layer Structure Check (NeDLSC) algorithm",0.312962962963,0.282828282828
+624DDA5F,"Review on latent fingerprint matching techniques",0.350194250194,0.465277777778
+803F4A8A,"Image filter design for fingerprint enhancement",0.278048340548,0.302308802309
+787368E0,"A new fingerprint ridges frequency determination method",0.453703703704,0.569444444444
+7FEB147C,"From Template to Image: Reconstructing Fingerprints from Minutiae Points",0.271550671551,0.28373015873
+7628F770,"Singular point detection in fingerprint images: An investigation on quantization approach",0.31043956044,0.253911564626
+7E301840,"Nonparametric Model Comparison and Uncertainty Evaluation for Signal Strength Indoor Location",0.322685185185,0.293253968254
+7873CB5B,"An improved Hough Transform-based Fingerprint Alignment Approach",0.289407814408,0.417989417989
+7F78EA7E,"Delaunay Triangulation Algorithm for Fingerprint Matching",0.272542735043,0.444444444444
+7F900E1C,"Comparative Assessment of Fingerprint Sample Quality Measures Based on Minutiae-Based Matching Performance",0.411646224146,0.376530612245
+8009F985,"Fuzzy Vault Fingerprint Smartcard Implementation Using an Orientation-Based Feature Vector",0.311574074074,0.320833333333
+80B19065,"Research on GA-ANN Based WLAN Indoor Location Method",0.431481481481,0.591666666667
+5DB6F04D,"Fingerprint skin moisture impact on biometric performance",0.254823879824,0.3375
+7B6F6C87,"Random local region descriptor (RLRD): A new method for fixed-length feature representation of fingerprint image and its application to template protection",0.491666666667,0.358465608466
+7C14980C,"Fingerprint Recognition Using Open Algorithms in Frequency and Spatial Domain",0.307264957265,0.315740740741
+80CD36B9,"An utility of pores in partial fingerprint matching",0.288762626263,0.402777777778
+8071B2FD,"Research on Personal Identity Verification Based on Hand Vein Iris and Fingerprint",0.4125,0.328960622711
+7DA91F53,"Integrating Palmprint and Fingerprint for Identity Verification",0.2625,0.354166666667
+5E6BBA12,"Radio Specific Emitter Identification based on nonlinear characteristics of signal",0.293127705628,0.282783882784
+59DD7D37,"Fingerprint segmentation based on hidden Markov models",0.548821548822,0.634848484848
+80E2C688,"Design of New OTP System Using Homomorphic Graph by Changed Location and Angle of Fingerprint Features",0.335185185185,0.293650793651
+808E9B2B,"Pseudo Identities Based on Fingerprint Characteristics",0.415740740741,0.480384615385
+71EF263E,"A Tutorial on Fingerprint Recognition",0.246027583528,0.4
+80DA9D2E,"Multimodal biometric system using fingerprint",0.284595959596,0.477777777778
+7C53BA03,"Automatic Detection of Altered Fingerprints",0.287694250194,0.5625
+7627B1FC,"A multilevel structural technique for fingerprint representation and matching",0.364672364672,0.555555555556
+812E8A86,"Topological structure-based alignment for fingerprint Fuzzy Vault",0.284595959596,0.403703703704
+8094547E,"Chapter 19: Hybrid Fingerprint Verification System Based on Fusion of Feature Extraction and Minutiae Detection Strategy",0.425,0.304285714286
+7989EED1,"Fingerprint reference verification method using a phase-encoding-based watermarking technique",0.436894586895,0.513888888889
+0C5402AB,"A Hybrid Fingerprint Enhancement Algorithm",0.307264957265,0.453703703704
+7D3BC42A,"Can Fingerprints be Reconstructed from ISO Templates?",0.291860916861,0.400297619048
+7F143F90,"An ultra-low memory fingerprint matching algorithm and its implementation on a 32-bit smart card",0.325396825397,0.309794372294
+86211707,"RESEARCH ON DUAL-INTERFACE SIM AND FINGERPRINT RECOGNITION FOR MOBILE PHONE",0.294444444444,0.3375
+7F406C87,"A generative model for fingerprint minutiae",0.437694250194,0.708333333333
+7C93ED02,"Use of ridge points in partial fingerprint matching",0.328703703704,0.381944444444
+6219AE84,"The optimization of fingerprint segmentation based on sparse representation",0.422558922559,0.473737373737
+5CFDF44B,"Quality estimation of fingerprint image based on neural network",0.414622414622,0.420304232804
+7A9AA346,"Evaluation of ESD hardness of fingerprint sensor LSIs",0.264099326599,0.342171717172
+821A0DA3,"Confidentiality storage of fingerprints by orientation and minutiae",0.271153846154,0.311753246753
+7E1D6FC7,"Quality and matching performance analysis of three-dimensional unraveled fingerprints",0.302651515152,0.358630952381
+7EEF99F4,"A Comparative Study of Fingerprint Image-Quality Estimation Methods",0.444037444037,0.563492063492
+7DA643E4,"Fingerprint Matching Incorporating Ridge Features With Minutiae",0.29617003367,0.308796296296
+597F9DED,"Hierarchical kernel fitting for fingerprint classification and alignment",0.302777777778,0.315555555556
+8098D0E7,"Multiresolution Fourier-Wavelet Descriptor for Fingerprint Recognition",0.246027583528,0.4
+7CE73CF7,"Fingerprint skeleton matching based on local descriptor",0.391860916861,0.49
+7E2ED30B,"Neural network based Geo-Regioning",0.251725589226,0.5625
+7DB2F77C,"Psychovisually tuned wavelet fingerprint compression",0.261894586895,0.352777777778
+5CFFC045,"An Embedded Fingerprint Authentication System",0.284595959596,0.408333333333
+7AEF0D9E,"A feature scaling based k-nearest neighbor algorithm for indoor positioning system",0.293518518519,0.3
+774736B5,"Fingerprint reference point detection for image retrieval based on symmetry and variation",0.418574481074,0.31917311084
+7EFAECAF,"Fingerprint acquisition for the criminal investigation by digital holography",0.296490546491,0.3375
+7D19C08C,"A hybrid algorithm for fingerprint enhancement",0.307264957265,0.453703703704
+7FDB16B7,"Generation of Reliable PINs from Fingerprints",0.286447811448,0.402777777778
+80D8A7FD,"A Method Combined on Multi-level Factors for Fingerprint Image Quality Estimation",0.43247955748,0.392403628118
+7E4E008A,"Fingerprint matching combining the adjacent feature with curvature of ridges",0.307744107744,0.32037037037
+78F0C26B,"Removing the remaining ridges in fingerprint segmentation",0.286447811448,0.357070707071
+781DA5AD,"Fingerprint characterization using SVD features",0.302046102046,0.414583333333
+7E2F5497,"A Tree System Approach for Fingerprint Pattern Recognition",0.276587301587,0.264407814408
+7EDDCD80,"Experiments with Optical Liveness Testing Method",0.290145502646,0.35625
+7CFE2074,"Fingerprint registration by maximization of mutual information",0.325336700337,0.40625
+7D642719,"Fingerprint recognition using fuzzy artmap neural network architecture",0.28771043771,0.329848484848
+75D0EC3A,"Touchless sensor capturing five fingerprint images by one rotating camera",0.273881673882,0.296753246753
+7D042E26,"Fingerprint image enhancement based on a half gabor filter",0.414622414622,0.404701779702
+7DE9E213,"Texture and Wavelet-Based Spoof Fingerprint Detection for Fingerprint Biometric Systems",0.256818181818,0.410185185185
+7DC6C005,"Traceable multimedia fingerprinting based on the multilevel user grouping",0.277248677249,0.321904761905
+816F5BB7,"A new approach for fingerprint recognition based on mel frequency cepstral coefficients",0.400518925519,0.408994708995
+80492988,"1-D Gabor Directional Filtering for Low-Quality Fingerprint Image Enhancement",0.302248677249,0.334325396825
+7533CA25,"Distortion-Tolerant Filter for Elastic-Distorted Fingerprint Matching",0.248358585859,0.545454545455
+77C93A05,"Fingerprint Image Mosaicking by Recursive Ridge Mapping",0.305026455026,0.344742063492
+80F8832E,"Personalized Fingerprint Segmentation",0.269191919192,0.44696969697
+7F75E23C,"Cancelable Voiceprint Template Based on Chaff-Points-Mixture Method",0.438293650794,0.614583333333
+7D2D575E,"Generative models for fingerprint individuality using ridge models",0.442592592593,0.594907407407
+7ED6BB72,"A robust and fast video fingerprinting based on 3D-DCT and LSH",0.25867003367,0.455555555556
+7DD9CD9A,"New enhancement algorithm for fingerprint images",0.324328449328,0.375992063492
+7EDBD992,"Frequency-Based Fingerprint Recognition",0.246027583528,0.55
+5ECB9F1B,"A Study on Performance Evaluation of the Liveness Detection for Various Fingerprint Sensor Modules",0.327651515152,0.271490414348
+80F7C949,"The impact of fingerprint force on image quality and the detection of minutiae",0.278048340548,0.251530612245
+8171F729,"Minutia verification and classification for fingerprint matching",0.271153846154,0.3625
+5D9994E7,"Combining Fingerprint and Voiceprint Biometrics for Identity Verification: an Experimental Comparison",0.297420634921,0.295299938157
+8112BFCC,"Enhancing Performance of Cancellable Fingerprint Biometrics Using Classifier Ensembles",0.290614478114,0.267918985776
+7F5F311B,"Vulnerability evaluation tools of matching algorithm and integrity verification in fingerprint recognition",0.302651515152,0.245286195286
+80B36DF3,"Automatic secure fingerprint verification system based on fuzzy vault scheme",0.409794372294,0.41130952381
+72C0D8C5,"Speeded-Up Robust Feature extraction and matching for fingerprint recognition",0.305892255892,0.33
+5FAF6FC9,"Liveness Detection of Fingerprint Based on Band-Selective Fourier Spectrum",0.399873737374,0.463888888889
+8072A740,"On matching latent fingerprints",0.28074980575,0.625
+7E8B1D63,"Implementation of the Hybrid Fingerprint Verification",0.293376068376,0.416666666667
+7D7B24A9,"Pairwise Boosted Audio Fingerprint",0.258527583528,0.6
+7EEE52F6,"Fingerprint Image-Quality Estimation and its Application to Multialgorithm Verification",0.271153846154,0.359027777778
+5DD3753E,"A Combined Radial Basis Function Model for Fingerprint Distortion",0.439814814815,0.472222222222
+7BD68698,"Advances in fingerprint modeling",0.249394586895,0.400673400673
+7D5908F2,"A Fingerprint Recognition Scheme Based on Assembling Invariant Moments for Cloud Computing Communications",0.408531746032,0.320811287478
+7DA00FAA,"Filtering large fingerprint database for latent matching",0.28074980575,0.436507936508
+7F58D2D9,"A Digital Fingerprint Coding Based on Turbo Codes",0.397558922559,0.583333333333
+7DC474C0,"Modeling the growth of fingerprints improves matching for adolescents",0.270707070707,0.321515151515
+5882B342,"Container based virtual honeynet for increased network security",0.254503367003,0.33125
+811AB508,"Biometric Mobile Template Protection: A Composite Feature Based Fingerprint Fuzzy Vault",0.445833333333,0.445833333333
+75561D03,"Ultrafast fingerprint indexing for embedded systems",0.256818181818,0.344444444444
+76B0F636,"Optical sensor measurement and biometric-based fractal pattern classifier for fingerprint recognition",0.327651515152,0.281818181818
+7DFEBD6E,"On the fundamental performance for fingerprint matching",0.289546102046,0.5625
+7D279F42,"Hardware-Software Codesign of a Fingerprint Alignment Processor",0.246027583528,0.400673400673
+6EC3770C,"Robust point-based feature fingerprint segmentation algorithm",0.330892255892,0.385227272727
+7EA13DF2,"An Algorithm for Determining Mobile Station Location Based on Space Segmentation",0.302976190476,0.3024427953
+78D2A528,"Fingerprint Orientation Modeling Using Symmetric Filters",0.301262626263,0.358181818182
+7E008997,"Fingerprint classification system with feedback mechanism based on genetic algorithm",0.422222222222,0.391558441558
+7E52E32A,"Nonminutiae Based Fingerprint Matching",0.391860916861,0.75
+80124281,"Integrating faces and fingerprints for personal identification",0.289407814408,0.377380952381
+7D00AEB0,"A fingerprint sensor based on the feedback capacitive sensing scheme",0.409794372294,0.409794372294
+8016F018,"Fingerprint matching based on error propagation",0.407601657602,0.508333333333
+73D999CB,"Genetic algorithm attack on minutiae-based fingerprint authentication and protected template fingerprint systems",0.322222222222,0.4
+7CE409F8,"A gradient-based combined method for the computation of fingerprints’ orientation field",0.590740740741,0.8
+76473FC4,"An analysis of the effects of bit plane extraction in fingerprint recognition",0.297222222222,0.262962962963
+7EF2FDB1,"Performance Analysis of Hybrid Fingerprint Matching Methods",0.448005698006,0.508333333333
+7D498578,"Fingerprint Image Processing Acceleration Through Run-Time Reconfigurable Hardware",0.281415343915,0.293975468975
+7F96FEB7,"Semi-automatic enhancement of very low quality fingerprints",0.293392255892,0.417989417989
+80493E99,"The Automatic Fuzzy Fingerprint Vault Based on Geometric Hashing: Vulnerability Analysis and Security Enhancement",0.408333333333,0.368253968254
+80F82220,"A User-Friendly Interface for Fingerprint Recognition Systems Based on Natural Language Processing",0.40787037037,0.373015873016
+806F7040,"Implementation of an automatic fingerprint identification system",0.293253968254,0.341964285714
+7FE00FA5,"Fuzzy fingerprint vault using multiple polynomials",0.284595959596,0.386111111111
+5C0A07D4,"VLSI architecture of the fuzzy fingerprint vault system",0.284595959596,0.322727272727
+7DC084A3,"On the scalability of a novel WLAN positioning system based on time of arrival measurements",0.277188552189,0.250049603175
+8160C667,"Detecting dynamic behavior in compressed fingerprint videos: distortion",0.311447811448,0.345555555556
+5FE6FB0A,"Automatic fingerprints image generation using evolutionary algorithm",0.325396825397,0.370238095238
+7D983EF6,"Feature Extraction Using Gabor-Filter and Recursive Fisher Linear Discriminant with Application in Fingerprint Identification",0.324074074074,0.294217687075
+7F42A688,"Cracking Cancelable Fingerprint Template of Ratha",0.277972027972,0.458333333333
+5FA5A4AF,"Detecting contrast enhancement based image forgeries by parallel approach",0.272817460317,0.256964067678
+6A1808D7,"How synthetic fingerprints can improve pre-selection of mcc pairs using local quality measures",0.293392255892,0.322883597884
+808B15A5,"Probabilistic orientation field estimation for fingerprint enhancement and verification",0.459722222222,0.424537037037
+7FE84A18,"Fingerprint Recognition System Using Hybrid Matching Techniques",0.35404040404,0.380555555556
+80A66681,"Fingerprint Matching Algorithm Based on Similar Vector Triangle",0.432264957265,0.459595959596
+6D274931,"Fingerprint recognition based on combined features",0.413157213157,0.575
+7E1CE788,"Score based biometric template selection",0.264682539683,0.347916666667
+8170D044,"A robust technique for latent fingerprint image segmentation and enhancement",0.363035113035,0.368975468975
+7D56CD9D,"Fingerprint Matching Based on Ternary Vector",0.40574980575,0.604166666667
+80F5A0BE,"Optical fingerprint identification by binary joint transform correlation",0.294853294853,0.339691558442
+817A3D88,"Performance Evaluation of Fingerprint Enhancement Algorithms",0.275657213157,0.330555555556
+7D5FD6E8,"Fingerprint verification system: A non-minutiae based approach",0.41130952381,0.473571428571
+7CEA8C2F,"Fingerprint image enhancement using filtering techniques",0.360704110704,0.375661375661
+0C627381,"Fake Fingers in Fingerprint Recognition: Glycerin Supersedes Gelatin",0.28074980575,0.315064102564
+7E3981FF,"Anonymous and Revocable Fingerprint Recognition",0.28074980575,0.55
+7E3E32E2,"An FPGA-Based Embedded System for Fingerprint Matching Using Phase-Only Correlation Algorithm",0.314225589226,0.343055555556
+814E6DBD,"Smartcard-Based Secret Sharing for Secure Fingerprint Verification",0.287694250194,0.412037037037
+77A1C7DD,"Minutiae-based template synthesis and matching for fingerprint authentication",0.25946969697,0.335227272727
+785A10AE,"On the effects of image quality degradation on minutiae- and ridge-based automatic fingerprint recognition",0.305826118326,0.268452380952
+842B3368,"A survey of fingerprint classification Part II",0.280429292929,0.315324675325
+5F397317,"Genetic algorithm optimized grid-based RF fingerprint positioning in heterogeneous small cell networks",0.318392255892,0.286796536797
+7D445E80,"Restoration of Fingerprint Images Using Discrete Version of the Topological Derivative",0.299328449328,0.296368446368
+77010EE5,"Fingerprint indexing based on local arrangements of minutiae neighborhoods",0.409794372294,0.415013227513
+5A317002,"Algorithm for Detection and Elimination of False Minutiae in Fingerprint Images",0.324328449328,0.290476190476
+759E5BA1,"Implementation of a Fingerprint Recognition System Using LBP Descriptor",0.290277777778,0.293055555556
+8085C712,"Multimodal access control systems which combines classical access control methods with biometric methods",0.301851851852,0.363194444444
+7576667A,"Modelling fingerprint ridge orientation using Legendre polynomials",0.30462962963,0.32037037037
+7CF6AF47,"A Novel Hidden Transmission of Biometric Images Based on Chaos and Image Content",0.272817460317,0.275595238095
+812BC835,"Mosaicing Touchless and Mirror-Reflected Fingerprint Images",0.264606227106,0.571428571429
+80C67D48,"Palmprint Verification Based on Specific-user",0.245580808081,0.5625
+8103D7BE,"Regular Simplex Fingerprints and Their Optimality Properties",0.286447811448,0.5625
+80AD41D9,"Empirical Mode Decomposition Liveness Check in Fingerprint Time Series Captures",0.297558922559,0.224451243201
+7DF8C00F,"Fingerprint Ridge Distance Estimation Based on Ridge Search",0.427188552189,0.383333333333
+7F7499B9,"Using Distributed Source Coding to Secure Fingerprint Biometrics",0.293001443001,0.304823747681
+78FC4A6B,"Design and Implementation of an Efficient Fingerprint Features Extractor",0.314672364672,0.372916666667
+80801A42,"Fingerprint alignment using special ridges",0.286447811448,0.388888888889
+809C47A9,"Fingerprint's Core Point Detection Using Orientation Field",0.470833333333,0.419444444444
+74CD56A1,"Fingerprints used for security enhancement of online banking authentication process",0.352046102046,0.325793650794
+7E0FF893,"Collusion-Traceable Secure Multimedia Distribution Based on Controllable Modulation",0.263227513228,0.349206349206
+7F5BC9C6,"Ridge-Based Fingerprint Matching Using Hough Transform",0.28074980575,0.527777777778
+7C4AF037,"Fast fingerprint orientation field estimation based on straight-line model of ridges",0.57037037037,0.57037037037
+809A4F6F,"A robust algorithm for fingerprint singular point detection and image reference direction determination based on the analysis of curvature map",0.447420634921,0.289156445406
+7E47CEBD,"A Study on Fingerprint Repair Algorithm",0.272542735043,0.375992063492
+7844A60B,"Detecting fingerprint alterations by orientation field and minutiae orientation analysis",0.4375,0.415646258503
+80982642,"A secure fingerprint matching technique",0.315472027972,0.75
+7EFE64D3,"A robust algorithm for fingerprint core-point detection",0.314209401709,0.458333333333
+7CB20190,"An efficient fingerprint verification system using integrated gabor filters and Parzen Window Classifier",0.29154040404,0.229545454545
+5F59300B,"A New Approach for Fingerprint Matching Using Logic Synthesis",0.291738816739,0.36341991342
+7FB3ABDE,"FVC2000: fingerprint verification competition",0.258531746032,0.416666666667
+7D9D4E4D,"Digital image forensics via intrinsic fingerprints",0.306471306471,0.428571428571
+76A1F093,"A Cuckoo search algorithm for fingerprint image contrast enhancement",0.293650793651,0.280328798186
+7EA81812,"Modeling of indoor positioning systems based on location fingerprinting",0.30462962963,0.320707070707
+75B44174,"Fingerprint image enhancement method using directional median filter",0.446368446368,0.446368446368
+80194F08,"Curvature preserving fingerprint ridge orientation smoothing using Legendre polynomials",0.30462962963,0.289583333333
+5AE7B1F6,"A hybrid system for automatic fingerprint identification",0.293253968254,0.414285714286
+786AD364,"Residual orientation modeling for fingerprint enhancement and singular point detection",0.316987179487,0.294907407407
+7F15561A,"Generating secure cancelable fingerprint templates using local and global features",0.304360916861,0.381666666667
+7A25DE2B,"A framework for theoretical analysis of content fingerprinting",0.331018518519,0.40625
+7FCA7CCA,"Fingerprint Verification Based on Ridgeline Representations",0.428240740741,0.483333333333
+7DE03BB8,"Fingerprint segmentation and quality map using a combined frequency model",0.443392255892,0.406411049268
+7D28263C,"Multi-biometric templates using fingerprint and voice",0.291860916861,0.389583333333
+7B029A4D,"Indoor localization of objects based on RSSI and MEMS sensors",0.272757335257,0.350108225108
+58879EFD,"Fingerprint Recognition, Overview",0.246027583528,0.408333333333
+815767FF,"Face and Fingerprint biometrics Integration Model for Person Identification Using Gabor Filter",0.456018518519,0.310245310245
+7D88619B,"Design and acceleration of phase-only filter-based optical pattern recognition for fingerprint identification",0.311431623932,0.283531746032
+7FEBA23B,"Binary Fingerprint Image Thinning Using Template-Based PCNNs",0.299328449328,0.419047619048
+80C497D6,"Minutia Cylinder-Code: A New Representation and Matching Technique for Fingerprint Recognition",0.364672364672,0.441666666667
+7BF9C49A,"Sensor Fingerprint Identification Through Composite Fingerprints and Group Testing",0.305026455026,0.433405483405
+8034D228,"Fingerprint classification by directional image partitioning",0.315995115995,0.360714285714
+7EF57561,"Fingerprint Texture Feature for Discrimination and Personal Verification",0.313018925519,0.315793650794
+75A1C1A8,"Singular points detection based on multi-resolution in fingerprint images",0.414407814408,0.486904761905
+8017072C,"Fingerprint identification using graph matching",0.293590668591,0.410714285714
+8057A35B,"Robust fingerprint authentication using local structural similarity",0.28074980575,0.392361111111
+7F238B95,"Fingerprint image ridge frequency estimation by higher order spectrum",0.312169312169,0.24716553288
+7CFB37BF,"Statistical Performance Evaluation of Biometric Authentication Systems Using Random Effects Models",0.306018518519,0.278571428571
+80EAC7F2,"Application of Fingerprint Recognition in Process Control",0.317323879824,0.382222222222
+7F4A5171,"Fingerprint’s Core Point Detection using Gradient Field Mask",0.304503367003,0.306018518519
+7D22BAAF,"A topology-based matching algorithm for fingerprint authentication",0.272542735043,0.458333333333
+7D5A022F,"Effectiveness of assigning confidence levels to classifiers and a novel feature in fingerprint matching",0.30462962963,0.264682539683
+7EBA2B2E,"Hermite/Laguerre Neural Networks for Classification of Artificial Fingerprints from Optical Coherence Tomography",0.303114478114,0.318333333333
+7E8C7956,"Fingerprint Image Enhancement Using Type-2 Fuzzy Sets",0.300396825397,0.400297619048
+783E9272,"Fingerprints based gender classification using Adaptive Neuro Fuzzy Inference System",0.417003367003,0.406349206349
+7BF60D53,"r-Theta and orientation invariant transform and signal combining for fingerprint recognition",0.314672364672,0.318333333333
+60CA1262,"A fingerprint verification algorithm using the differential matching rate",0.290277777778,0.395833333333
+7F71C806,"Fingerprint matching using ANFIS",0.28074980575,0.527777777778
+7F7E2EC5,"Data Acquisition and Processing of 3-D Fingerprints",0.274410774411,0.350694444444
+816688B7,"An incremental method for accurate iris segmentation",0.289225589226,0.387445887446
+742031EE,"A novel scheme for fingerprint identification",0.30118030118,0.428571428571
