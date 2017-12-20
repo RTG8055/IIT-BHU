@@ -10,7 +10,7 @@ avg2=0
 avg3=0
 avg4=0
 avg5=0
-with open("output/sample2/gephi_deg_clo_bw_auth_hub_eigen.csv",'r') as file:
+with open("output/sample6/gephi_deg_clo_bw_auth_hub_eigen.csv",'r') as file:
 # Id	Label	indegree	outdegree	Degree
 				# closnesscentrality	betweenesscentrality	Authority	Hub	
 				# eigencentrality
@@ -54,18 +54,6 @@ print(avg2)
 print(avg3)
 print(avg4)
 print(avg5)
-# closeset=set()
-# betweenset=set()
-# eigenset=set()
-# outset=set()
-# print(sorted(indeg,key=indeg.__getitem__,reverse=True))
-# print(sorted(betweeness,key=betweeness.__getitem__,reverse=True))
-# print(sorted(closeness,key=closeness.__getitem__,reverse=True))
-# print(sorted(eigen,key=eigen.__getitem__,reverse=True))
-# print(sorted(outdeg,key=outdeg.__getitem__,reverse=True))
-# print indeg
-# sorted(indeg.items(), key=lambda x: x[1][1],reverse=True)
-# print indeg
 
 for j in (sorted(indeg,key=indeg.__getitem__,reverse=True)):
 	# k+=1
@@ -89,19 +77,10 @@ for j in (sorted(eigen,key=eigen.__getitem__,reverse=True)):
 for j in (sorted(outdeg,key=outdeg.__getitem__,reverse=True)):
 	if(outdeg.get(j)>avg5):
 		topset.add(j)
-	# print(j)
-	# print(k)
-# inset=set(sorted(outdeg,key=outdeg.__getitem__,reverse=True))
-# outset=set(sorted(closeness,key=closeness.__getitem__,reverse=True))
-# eigenset=set(sorted(eigen,key=eigen.__getitem__,reverse=True))
-# betweenset=set(sorted(betweeness,key=betweeness.__getitem__,reverse=True))
 
 
-toppaper=open("output/sample2/filtered_papers_5measures.txt",'w')
+toppaper=open("output/sample6/filtered_papers_5measures.txt",'w')
 for j in topset:
 	toppaper.write(j)
 	toppaper.write('\n')
 print(len(topset))
-
-# print(indeg)
-# print(y)

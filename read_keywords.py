@@ -15,6 +15,18 @@ given_keywords = raw_input("enter comma separated keywords:")
 
 sample2:
 Cyclic redundancy check,parity calculations, discrete cosine transform , fault-tolerant source coding, Huffman coding, JPEG data compression, quantization protection, soft errors
+
+sample3:
+Click through, Data, Iterative Algorithm,  Log  Mining,  Search  Engine
+
+sample4:
+mixture variable memory, Markov model, Query recommendation, sequential query prediction
+
+sample5:
+Category Hierarchy, Information Filtering, Personalization, Retrieval Effectiveness, Search Engine
+
+sample6:
+hierarchical clustering, criterion function, constrained agglomerative clustering, data mining
 '''
 
 
@@ -46,7 +58,7 @@ normalized_given_keywords = ','.join(list(normalized_given_keywords))
 print normalized_given_keywords
 papers = get_relavent_papers(normalized_given_keywords,given_fos)
 
-new = open('output/sample3/papers3.txt','w')
+new = open('output/sample6/papers6.txt','w')
 for p in papers:
 	new.write(str(p) + '\n')
 new.close()

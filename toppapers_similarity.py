@@ -4,7 +4,7 @@ pdetails={}
 sum1=0
 sum2=0
 i=0
-with open("output/sample2/filtered_papers_titSim.csv",'r') as file:
+with open("output/sample6/filtered_papers_titSim.csv",'r') as file:
 	for line in file:
 		i+=1
 		if(i==1):
@@ -31,7 +31,7 @@ for k,v in pdetails.items():
 		# new.write(k+','+','.join(v)+'\n')
 
 
-new=open("output/sample2/filtered_papers_titSim_or_avg.csv",'w')
+new=open("output/sample6/filtered_papers_titSim_or_avg.csv",'w')
 i=0
 for k,v in pdetails.items():
 	# i+=1
@@ -45,7 +45,7 @@ new.close()
 sim1_pdetails={}
 sim2_pdetails={}
 i=0
-with open("output/sample2/papers_without_refernces_titSim.csv",'r') as file:
+with open("output/sample6/papers_without_refernces_titSim.csv",'r') as file:
 	for line in file:
 		i+=1
 		if(i==1):
@@ -81,7 +81,7 @@ for j in (sorted(sim2_pdetails,key=sim2_pdetails.__getitem__,reverse=True)):
 print len(topset)
 
 
-new=open("output/sample2/paperids_without_ref_or_20.csv",'w')
+new=open("output/sample6/paperids_without_ref_or_20.txt",'w')
 i=0
 for k in topset:
 	i+=1
