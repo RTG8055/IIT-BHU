@@ -27,6 +27,9 @@ Category Hierarchy, Information Filtering, Personalization, Retrieval Effectiven
 
 sample6:
 hierarchical clustering, criterion function, constrained agglomerative clustering, data mining
+
+sample7:
+Automatic fingerprint recognition, combination model, global approximation, orientation field, singular point
 '''
 
 
@@ -58,7 +61,7 @@ normalized_given_keywords = ','.join(list(normalized_given_keywords))
 print normalized_given_keywords
 papers = get_relavent_papers(normalized_given_keywords,given_fos)
 
-new = open('output/sample6/papers6.txt','w')
+new = open('output/sample7/papers7.txt','w')
 for p in papers:
 	new.write(str(p) + '\n')
 new.close()

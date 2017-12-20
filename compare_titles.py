@@ -30,8 +30,12 @@ def tagged_to_synset(word, tag):
 def sentence_similarity(sentence1, sentence2):
     """ compute the sentence similarity using Wordnet """
     # Tokenize and tag
-    sentence1 = pos_tag(word_tokenize(sentence1.lower()))
-    sentence2 = pos_tag(word_tokenize(sentence2.lower()))
+    try:
+        sentence1 = pos_tag(word_tokenize(sentence1.lower()))
+        sentence2 = pos_tag(word_tokenize(sentence2.lower()))
+    except Exception as e:
+        print e
+        return 0
  
     # Get the synsets for the tagged words
     synsets1 = [tagged_to_synset(*tagged_word) for tagged_word in sentence1]
