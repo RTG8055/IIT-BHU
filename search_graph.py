@@ -248,8 +248,10 @@ def get_relavent_papers(given_keywords,given_fos):
 	#############
 	# outside for loop
 	#############
-	for c in range(0,len(precise_ids)):
-		precise_ids = precise_ids[c].split(' ')
+	new_precise_ids=[]
+	for p in precise_ids:
+		new_precise_ids +=p.split(' ')
+	precise_ids = new_precise_ids
 	print precise_ids
 
 	with zipfile.ZipFile("zips/fos_papers_keywords_server.zip") as z:
