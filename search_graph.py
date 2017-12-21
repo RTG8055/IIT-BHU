@@ -136,7 +136,7 @@ def search_in_all_fos(list_fosids,given_words,level): #return lchildren or rchil
 			# it is a general category paper
 			maxpid = maxpid.split(' ')
 			# print maxpscore,maxlscore,maxrscore,level
-			fos_list_required.append(maxpid)
+			fos_list_required.append(' '.join(maxpid))
 			continue
 			# return maxpid
 		if(maxlscore>maxrscore):
@@ -167,7 +167,7 @@ def search_in_all_fos(list_fosids,given_words,level): #return lchildren or rchil
 			print "all scores are Zero"
 			# return []
 		# print fos_list_required
-	# print fos_list_required
+	# print fos_list_required,level
 	return fos_list_required
 
 
@@ -240,7 +240,7 @@ def get_relavent_papers(given_keywords,given_fos):
 			precise_ids = search_in_all_fos(list_L1,given_keywords,0)
 			# print precise_ids
 			if(general_category):
-				precise_ids += k.split(' ')
+				precise_ids += k
 			break
 		# if(i==1):
 			# break
@@ -248,6 +248,7 @@ def get_relavent_papers(given_keywords,given_fos):
 	#############
 	# outside for loop
 	#############
+	print precise_ids
 	new_precise_ids=[]
 	for p in precise_ids:
 		new_precise_ids +=p.split(' ')
