@@ -4,12 +4,12 @@ sim1_pdetails={}
 sim2_pdetails={}
 i=0
 filtered_papers2=set()
-with open("output/sample2/filtered_paper_without_references2.txt",'r') as file:
+with open("output/sample4/filtered_paper_without_references4.txt",'r') as file:
 	for line in file:
 		line = line.strip('\r|\n')
 		filtered_papers2.add(line)
 
-with open("output/sample2/filtered_papers_titSim.csv",'r') as file:
+with open("output/sample4/filtered_papers_titSim.csv",'r') as file:
 	for line in file:
 		i+=1
 		if(i==1):
@@ -45,7 +45,7 @@ for j in (sorted(sim2_pdetails,key=sim2_pdetails.__getitem__,reverse=True)):
 print len(topset)
 
 
-new=open("output/sample2/filtered_paperids_with_ref_20.txt",'w')
+new=open("output/sample4/filtered_paperids_with_ref_20.txt",'w')
 i=0
 for k in topset:
 	i+=1

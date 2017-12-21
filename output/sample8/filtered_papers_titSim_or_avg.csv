@@ -1,0 +1,386 @@
+5F58F167,"Global Synchronization in Sensornets",0.329365079365,1.0
+7D97E2A4,"Symmetric clock synchronization in sensor networks",0.56001984127,0.791666666667
+6302AC73,"Mechanical Verification of Clock Synchronization Algorithms",0.348561507937,0.347916666667
+5DDE6ADB,"Optimal clock synchronization under energy constraints in wireless ad-hoc networks",0.450496031746,0.471515151515
+7A962541,"Implementation of IEEE1588 for Clock Synchronization",0.347172619048,0.430555555556
+7A5FAA68,"Wait-free clock synchronization",0.343353174603,0.583333333333
+813CBD6E,"Modeling and simulation comparison of two time synchronization protocols",0.451591810967,0.415013227513
+7530D118,"Continuous clock amortization need not affect the precision of a clock synchronization algorithm",0.348561507937,0.274206349206
+061A259D,"TREE STRUCTURED TIME SYNCHRONIZATION PROTOCOL IN WIRELESS SENSOR NETWORK",0.780357142857,0.857142857143
+06FECFBF,"FPGAs for High Accuracy Clock Synchronization over Ethernet Networks",0.450496031746,0.486904761905
+58A6B9C4,"NTI: A Network Time Interface M-Module for High-Accuracy Clock Synchronization",0.56369047619,0.65
+7D269E98,"Clock Synchronization for Wireless Positioning of COTS Mobile Nodes",0.357738095238,0.316666666667
+78F80572,"Poster: An Insomnia Therapy for Clock Synchronization in Wireless Sensor Networks",0.676388888889,0.569696969697
+806188BA,"Synchronization by Two-Way Message Exchanges: Cramér-Rao Bounds, Approximate Maximum Likelihood, and Offshore Submarine Positioning",0.39494047619,0.301082251082
+7D6B7F02,"Clock synchronization protocol for wireless sensor networks with bounded communication delays",0.681547619048,0.575148809524
+7D6F4104,"Distributed Clock Synchronization over Wireless Networks: Algorithms and Analysis",0.455704365079,0.436111111111
+5FC7A69D,"Optimal and Global Time Synchronization in Sensornets",0.44255952381,1.0
+596AE1C4,"Clockscalpel: Understanding Root Causes of Internet Clock Synchronization Inaccuracy",0.352633477633,0.28835978836
+7E459469,"Interleaved all-to-all reliable broadcast on meshes and hypercubes",0.222222222222,0.425925925926
+7FEB03BE,"Networked clock synchronization based on second order linear consensus algorithms",0.350297619048,0.308333333333
+80D6524F,"IEEE 1588 clock synchronization using dual slave clocks in a slave",0.343353174603,0.299857549858
+770A5A5D,"A Fault-Tolerant Schema for Clock Synchronization and data aggregation in WSN",0.36240530303,0.345555555556
+7F8535D1,"Self Organizing Maps for Synchronization in Wireless Sensor Networks",0.667162698413,0.640538033395
+7FE5EF14,"Clock synchronization in MAFT",0.343353174603,0.583333333333
+816D7F63,"Gradient clock synchronization in wireless sensor networks",0.667162698413,0.727777777778
+7F041770,"Clock synchronization on the factory floor (FMS)",0.346825396825,0.309126984127
+75F4010D,"A robust estimation scheme for clock phase offsets in wireless sensor networks in the presence of non-Gaussian random delays",0.452876984127,0.390043290043
+80C888C7,"Robust Time-Based Localization for Asynchronous Networks",0.227430555556,0.5625
+79DA8799,"A design approach for self-diagnosis of fault-tolerant clock synchronization",0.457936507937,0.604166666667
+81481D38,"Coupling-Based Internal Clock Synchronization for Large-Scale Dynamic Distributed Systems",0.362103174603,0.404166666667
+7E2EB541,"Distant clock synchronization using entangled photon pairs",0.346329365079,0.351515151515
+7ACD9D7F,"Enhanced FIR filter based module for clock synchronization in MPEG2 transport stream",0.375202922078,0.285934744268
+80713BC5,"Distributed Kalman filter for precise and robust clock synchronization in wireless networks",0.583829365079,0.616666666667
+7FDA03D9,"Time synchronization using the Internet",0.45496031746,0.619047619048
+7E73A4C6,"Low Complexity Clock Synchronization Algorithm for Wireless Sensor Networks with Unknown Delay",0.672371031746,0.56994047619
+7D1D1A0E,"Establishing wireless time-triggered communication using a firefly clock synchronization approach",0.464880952381,0.426870748299
+7F2A70BE,"On the synchronization techniques for wireless OFDM systems",0.362103174603,0.45
+7ACF6B61,"Deterministic and Energy-Optimal Wireless Synchronization",0.452876984127,1.0
+7F9FC7D7,"One-way delay measurement in wired and wireless mobile full-mesh networks",0.236607142857,0.430555555556
+7943CC11,"Lower bounds for convergence function based clock synchronization",0.364186507937,0.341666666667
+80D90D38,"Robust Clock Synchronization in Wireless Sensor Networks Through Noise Density Estimation",0.680357142857,0.573958333333
+7E148E22,"Clock synchronization algorithms for network measurements",0.464880952381,0.491666666667
+77A2EA60,"Low-cost clock synchronization",0.343353174603,0.583333333333
+0C267322,"Formalization of a generalized protocol for clock synchronization in Isabelle/HOL",0.348561507937,0.358630952381
+7D8079CB,"An Enhanced IEEE 1588 Time Synchronization Algorithm for Asymmetric Communication Link using Block Burst Transmission",0.471428571429,0.358641975309
+5EF8880A,"Booting Clock Synchronization in Partially Synchronous Systems",0.362103174603,0.395833333333
+810EE3C0,"On pulse-coupled discrete-time phase locked loops forwireless networks",0.222222222222,0.430555555556
+78DA4353,"On the possibility and impossibility of achieving clock synchronization",0.343353174603,0.325555555556
+7F980C5B,"Joint Time, Frequency and Sampling Clock Synchronization for OFDM-Based Systems",0.475297619048,0.472222222222
+81B91587,"Near-optimal radio use for wireless network synchronization",0.574404761905,0.833333333333
+7EA9175C,"Security aspects for IEEE 1588 based clock synchronization protocols",0.343353174603,0.306216931217
+789B188C,"The accuracy of the clock synchronization achieved by TEMPO in Berkeley UNIX 4.3BSD",0.343353174603,0.295905483405
+7EBD9E0F,"Investigations on fault tolerant clock synchronization within a powerline communication structure",0.367261904762,0.293253968254
+7C0EB63B,"A Fast Averaging Synchronization Algorithm for Clock Oscillators in Nonlinear Dynamical Network with Arbitrary Time-delays",0.461259920635,0.498333333333
+7F1F639A,"Optimal Gradient Clock Synchronization in Dynamic Networks",0.450496031746,0.591666666667
+76472979,"A better wake-up in radio networks",0.345734126984,1.0
+7EE51EBA,"MU-Sync: a time synchronization protocol for underwater mobile networks",0.549702380952,0.646753246753
+7D6B3EF3,"A runtime stability analysis of clock synchronization precision on a time-triggered bus prototype",0.351686507937,0.252777777778
+7EEAE6B6,"Precision Time Protocol Prototype on Wireless LAN",0.339880952381,0.416137566138
+80027607,"Energy-efficient and rapid time synchronization for wireless sensor networks",0.780357142857,1.0
+0861F35F,"Scheduling and Clock Synchronization in CAN-based Distributed Systems",0.367311507937,0.385416666667
+80D42660,"Self-stabilizing Byzantine digital clock synchronization",0.343353174603,0.419191919192
+759BD9C8,"Clock synchronization using a linear process model",0.357738095238,0.351515151515
+7F200392,"PariSync: Clock synchronization in P2P networks",0.450496031746,0.722222222222
+76ED45D0,"Clock Synchronization with Bounded Global and Local Skew",0.343353174603,0.472222222222
+80464B18,"Secure and self-stabilizing clock synchronization in sensor networks",0.56001984127,0.791666666667
+7FD5D71D,"Inference of One-Way Queuing Delay Distribution Using Packet-Pair Probes without Clock Synchronization",0.343353174603,0.272907647908
+7EDFF13F,"A new clock synchronization algorithm for multi-hop wireless ad hoc networks",0.618827160494,0.636904761905
+66D7B971,"Clock Synchronization: Open Problems in Theory and Practice",0.357738095238,0.307070707071
+816664C7,"On Clock Synchronization Algorithms for Wireless Sensor Networks Under Unknown Delay",0.672371031746,0.630952380952
+5D73A135,"C.: Best paper: Stabilizing clock synchronization for wireless sensor networks",0.667162698413,0.718253968254
+816A6720,"Clock Synchronization Algorithms and Scheduling Issues",0.350297619048,0.308333333333
+7FD230DD,"A Stable Clock Synchronization Based on Clock Drift Rate",0.343353174603,0.325
+7F0DBD83,"Localization and clock synchronization need similar hardware support in wireless LANs",0.474404761905,0.39181547619
+80BEB94C,"FLASH: Fine-Grained Localization in Wireless Sensor Networks Using Acoustic Sound Transmissions and High Precision Clock Synchronization",0.687996031746,0.47601010101
+80DF8C2C,"Modelling Clock Synchronization in the Chess gMAC WSN Protocol",0.343353174603,0.309523809524
+78969FAD,"Range-Based Clock Synchronization Protocol for Wireless Sensor Networks",0.667162698413,0.718253968254
+80417A7C,"Recursive time-synchronization in sensor networks",0.345734126984,1.0
+7E743DB0,"A Clock Synchronization Algorithm for Multihop Wireless Ad Hoc Networks",0.571180555556,0.576388888889
+7EBBBCAB,"Some improved and generalized estimation schemes for clock synchronization of listening nodes in wireless sensor networks",0.667162698413,0.52861952862
+7E6028BD,"Robust synchronization of absolute and difference clocks over networks",0.436507936508,0.462137862138
+80A27F46,"Integration of internal and external clock synchronization by the combination of clock-state and clock-rate correction in fault-tolerant distributed systems",0.381398809524,0.313888888889
+7B50C386,"Brief announcement: gradient clock synchronization in sensor networks",0.562996031746,0.588888888889
+073A7D61,"Clock Synchronization in the Presence of Omission and Performance Failures, and Processor Joins",0.352529761905,0.244047619048
+5E1963AE,"Linear Time Byzantine Self-Stabilizing Clock Synchronization",0.456547619048,0.722222222222
+7F87B596,"Implementing a Probabilistic Clock Synchronization Algorithm",0.348561507937,0.385416666667
+770FC222,"Fast self-stabilizing byzantine tolerant digital clock synchronization",0.343353174603,0.419191919192
+5D6F6AFF,"On setting-up asynchronous ad hoc wireless networks",0.34871031746,0.722222222222
+7EAB3E5B,"Fundamental Limits on Secure Clock Synchronization and Man-In-The-Middle Detection in Fixed Wireless Networks",0.562996031746,0.562962962963
+7FFDBC8A,"A model-based approach to clock synchronization",0.443948412698,0.708333333333
+7F793842,"Signal processing techniques for synchronization of wireless sensor networks",0.667162698413,0.704166666667
+73856B33,"Clock Synchronization in the Byzantine-Recovery Failure Model",0.352529761905,0.350108225108
+5AC68651,"Synchronization in wireless sensor networks using Bluetooth",0.667162698413,0.866666666667
+814D046C,"Clock synchronization based on distributed hidden state estimation",0.343353174603,0.343181818182
+7E658C9B,"Scalable Byzantine-Fault-Quantifying Clock Synchronization",0.343353174603,0.583333333333
+7EA1A2AB,"Time synchronization for Wireless Sensor Networks operating in extreme temperature conditions",0.780357142857,0.67619047619
+8072748C,"Control Channel Establishment in Cognitive Radio Networks using Channel Hopping",0.350942460317,0.40119047619
+80021BC8,"Analytical Assessment of the Precision Degradation Caused by Faults in a Fault-Tolerant Master/Slave Clock Synchronization Service for CAN",0.354761904762,0.253075396825
+80E72FFA,"MMAC-HR: Multi-Channel Medium Access Control with Hopping Reservation for Multi-Hop Wireless Networks",0.359126984127,0.392748917749
+5A8D9731,"Clock synchronization for wireless networks",0.562996031746,0.791666666667
+805031C6,"Experimental Characterization of Synchronization Protocols for Instrument Wireless Interface",0.476686507937,0.450396825397
+7CEF4BED,"Fault-tolerant clock synchronization for embedded distributed multi-cluster systems",0.362103174603,0.395833333333
+7E37315E,"Clock synchronization of PTP-based devices through PROFINET IO networks",0.450496031746,0.47094017094
+80A0EC9D,"An optimal internal clock synchronization algorithm",0.348561507937,0.430555555556
+7DA910F5,"A clock synchronization algorithm for multi-hop wireless ad hoc networks",0.571180555556,0.576388888889
+7AC21292,"SYNC_WAVE: a high accuracy and low overhead algorithm for clock, synchronization in transputer networks",0.455704365079,0.424272486772
+78AB224D,"Clock Synchronization in Distributed Real-Time Systems",0.362103174603,0.472222222222
+7D24E95D,"Self-adaptive clock synchronization based on clock precision difference",0.343353174603,0.320105820106
+7D58E42C,"Probabilistic clock synchronization",0.343353174603,0.583333333333
+5906039B,"Interval-based Clock Synchronization",0.343353174603,0.583333333333
+7F498585,"Clock Free Data Streams Alignment for Sensor Networks",0.345734126984,0.440740740741
+79291B39,"Clock synchronization for packet networks using a weighted least‐squares error filtering technique and enabling circuit emulation service",0.473214285714,0.337229437229
+7E8CD976,"An Adaptive Coupling-Based Algorithm for Internal Clock Synchronization of Large Scale Dynamic Systems, MidLab",0.367311507937,0.385416666667
+75B3BF5C,"Internal synchronization of drift-constraint clocks in ad-hoc sensor networks",0.56001984127,0.769230769231
+7FAE2484,"Design and implementation of precision time synchronization system based on IEEE1588",0.494047619048,0.438492063492
+7CABDE56,"Exploiting FM radio data system for adaptive clock calibration in sensor networks",0.467261904762,0.504166666667
+7F106817,"Clock synchronization through handshake signalling",0.346329365079,0.444444444444
+7641A8AA,"Closed form bounds for clock synchronization under simple uncertainty assumptions",0.343353174603,0.279563492063
+7753DF90,"Transmission delays in hardware clock synchronization",0.35808531746,0.323333333333
+7F616901,"A resource--efficient time estimation for wireless sensor networks",0.572023809524,0.715277777778
+79E069C6,"Clock Synchronization of a Large Multiprocessor System in the Presence of Malicious Faults",0.371279761905,0.308531746032
+015800F4,"Performance Evaluation of Clock Synchronization Algorithms",0.352529761905,0.315476190476
+7DCB2C4D,"Formal Analysis of a Distributed Fault Tolerant Clock Synchronization Algorithm for Automotive Communication Systems",0.376488095238,0.28231292517
+7FD9D0A2,"Fault-tolerant clock synchronization in large multicomputer systems",0.362103174603,0.472222222222
+7DC456B7,"Probabilistic clock synchronization in distributed systems",0.362103174603,0.472222222222
+7D05053C,"Wireless LXI Bus Clock Synchronization and Triggering Design",0.476686507937,0.458333333333
+7FEE3072,"On-demand time synchronization with predictable accuracy",0.44255952381,0.714285714286
+5B833E23,"Optimal Wait-Free Clock Synchronisation Protocol on a Shared-Memory Multi-processor System",0.362103174603,0.389880952381
+7F95A7E4,"Clock synchronization for wireless local area networks",0.450496031746,0.569444444444
+80888067,"Interaction of formal design systems in the development of a fault-tolerant clock synchronization circuit",0.386904761905,0.308503401361
+7F01004F,"Evaluation of clock synchronization protocols for Wireless Sensor Networks",0.676339285714,0.636054421769
+7DA004E2,"Safely Stimulating the Clock Synchronization Algorithm in Time-Triggered Systems–A Combined Formal and Experimental Approach",0.457936507937,0.456944444444
+8137E6B7,"Sync & Sense: VoIP Measurement Methodology for Assessing One-Way Delay Without Clock Synchronization",0.357738095238,0.260880785881
+5BC354FE,"Integrating External and Internal Clock Synchronization",0.343353174603,0.444444444444
+059EDC06,"Self-stabilizing Byzantine Pulse and Clock Synchronization",0.351244588745,0.356060606061
+8140D6C3,"A mutual clock synchronization method using weight coefficient for wireless ad hoc networks",0.565972222222,0.486111111111
+6A238E8A,"A Paradigm for Reliable Clock Synchronization",0.343353174603,0.436507936508
+7F650096,"A novel, high-precision timestamping platform for wireless networks",0.345734126984,0.566964285714
+7C11C902,"CesiumSpray>: a Precise and Accurate Global Time Servicefor Large-scale Systems",0.245138888889,0.625
+76E618BA,"Tight bounds for clock synchronization",0.343353174603,0.422222222222
+7C033CDF,"Behavior of clock-sampling mutual network synchronization in wireless sensor networks",0.681547619048,0.861111111111
+7D00CF97,"Clock Synchronization Issues in Multi-Cluster Time-Triggered Networks",0.453179112554,0.572916666667
+7886BFBC,"Noninertial Observers in Special Relativity and Clock Synchronization Debates",0.343353174603,0.299511599512
+7D466127,"Novel Clock Phase Offset and Skew Estimation Using Two-Way Timing Message Exchanges for Wireless Sensor Networks",0.50615530303,0.417716122262
+7B237606,"Gradient clock synchronization",0.343353174603,0.455555555556
+7E6A70F2,"Multistep interactive convergence: an efficient approach to the fault-tolerant clock synchronization of large multicomputers",0.475297619048,0.604166666667
+80407FC3,"An algorithm for WSN clock synchronization: Uncertainty and convergence rate trade off",0.365922619048,0.287074829932
+7F9A849C,"Set-valued consensus for distributed clock synchronization",0.343353174603,0.422222222222
+7FB99BF8,"Analysis of synchronization algorithms with time-out control over networks with exponentially symmetric delays",0.441716269841,0.416666666667
+7E92BB19,"Fundamental limits on synchronization of affine clocks in networks",0.438141719392,0.455788655789
+59145266,"Energy efficient dynamic cluster based clock synchronization for wireless sensor network",0.667162698413,0.594696969697
+6FE59570,"Reactive Clock Synchronization for Wireless Sensor Networks with Asynchronous Wakeup Scheduling",0.672371031746,0.715277777778
+7B04C16E,"Observable clock synchronization extended abstract",0.343353174603,0.366666666667
+5CEB8838,"Understanding Protocols for Byzantine Clock Synchronization",0.343353174603,0.350108225108
+77881AE4,"Optimal gradient clock synchronization in dynamic networks",0.450496031746,0.591666666667
+5B559002,"Statistical Probabilistic Clock Synchronization Algorithm",0.348561507937,0.430555555556
+7E8C3D75,"A convergence function for clock synchronization protocols",0.364186507937,0.351904761905
+808EEE46,"Scalable timestamp synchronization for event traces of message-passing applications",0.361752830503,0.379464285714
+75B20EC1,"Achieve high accuracy of network time with proper parameters",0.335416666667,0.556547619048
+78396180,"Byzantine clock synchronization",0.343353174603,0.419191919192
+80F4C40D,"Probabilistic clock synchronization in large distributed systems",0.362103174603,0.472222222222
+75620C89,"A theory of clock synchronization (extended abstract)",0.343353174603,0.311515151515
+8026D85D,"An Implementation of IEEE 1588 Over IEEE 802.11b for Synchronization of Wireless Local Area Network Nodes",0.44623466811,0.472222222222
+7DB5A99C,"Clock synchronization in wireless distributed embedded applications",0.465029761905,0.446031746032
+7BBD9627,"Byzantine clock synchronization",0.343353174603,0.419191919192
+80EE5723,"Safe deterministic replay for stimulating the clock synchronization algorithm in time-triggered systems",0.374255952381,0.318055555556
+76DEA59F,"Clock synchronization with faults and recoveries (extended abstract)",0.352529761905,0.292063492063
+7E4652A7,"Distributed Clock Synchronization for Wireless Sensor Networks Using Belief Propagation",0.669246031746,0.601388888889
+5CA9C924,"A Secure Time Synchronization Protocol for Sensor Network",0.673214285714,0.828571428571
+79471849,"Fault-tolerant clock synchronization",0.343353174603,0.583333333333
+80C73C07,"A precise clock synchronization protocol",0.343353174603,0.436507936508
+75E8AAA7,"An algorithm for clock synchronization with the gradient property in sensor networks",0.565228174603,0.527380952381
+7D5668E3,"Timestamp synchronization for event traces of large-scale message-passing applications",0.361752830503,0.379464285714
+5B2E9895,"Modeling and verification of master/slave clock synchronization using hybrid automata and model-checking",0.343353174603,0.301851851852
+04550C46,"Clock synchronization with deterministic accuracy guarantee",0.343353174603,0.363095238095
+7A92DF05,"Joint Ranging and Synchronization for an Anchorless Network of Mobile Nodes",0.436507936508,0.553977272727
+801E73DA,"Verification of Fault-Tolerant Clock Synchronization Systems",0.362103174603,0.379166666667
+79808B05,"Dynamic fault-tolerant clock synchronization",0.343353174603,0.583333333333
+7E61957E,"A fine-grain clock synchronization mechanism for Myrinet clusters",0.346329365079,0.358333333333
+80450E03,"Chaining Clock Synchronization: An Energy-Efficient Clock Synchronization Scheme for Wireless Sensor Networks",0.667162698413,0.621212121212
+7D222ADE,"CTH15-2: Analysis of Clock Offset and Skew Estimation in Timing-sync Protocol for Sensor Networks",0.350942460317,0.386054421769
+7E263F28,"QRPp1-4: Characterizing Quality of Time and Topology in a Time Synchronization Network",0.554312354312,0.705555555556
+7CF95A36,"A New Approach for Time Synchronization in Wireless Sensor Networks: Pairwise Broadcast Synchronization",1.0,1.0
+76D49A44,"Verification of clock synchronization algorithms: Experiments on a combination of deductive tools",0.365228174603,0.270238095238
+7DF050D6,"Joint motion estimation and clock synchronization for a wireless network of mobile nodes",0.457638888889,0.386796536797
+7F170EA8,"MTSP: Multi-hop Time Synchronization Protocol for IEEE 802.11 Wireless Ad Hoc Network",0.67619047619,0.718253968254
+7544D927,"ACES: adaptive clock estimation and synchronization using Kalman filtering",0.343353174603,0.345
+7841391A,"A theoretical evaluation of peer-to-peer internal clock synchronization",0.352529761905,0.436507936508
+7755BF8C,"Vertical and horizontal synchronization services with outlier detection in underwater acoustic networks",0.441716269841,0.55625
+7FC275BB,"Gradient clock synchronization",0.343353174603,0.455555555556
+7FD91BF8,"Virtual time synchronization for multimedia ad hoc networks",0.554067460317,0.658333333333
+80B63F6C,"Secure network-wide clock synchronization in wireless sensor networks",0.667162698413,0.833333333333
+7E24CA94,"Clock synchronization in powerline networks",0.450496031746,0.722222222222
+7D29F0B0,"Orthogonal, Fault-Tolerant, and High-Precision Clock Synchronization for the Controller Area Network",0.450496031746,0.473737373737
+7E0BD240,"Low complexity synchronization design of an OFDM receiver for DVB-T/H",0.362599206349,0.383928571429
+61CD58CD,"Precise Time and Time Interval Applications to Electric Power Systems",0.266369047619,0.507142857143
+7F0F7624,"Hardware-assisted software clock synchronization for homogeneous distributed systems",0.362103174603,0.348333333333
+7B34D8AC,"On the possibility and impossibility of achieving clock synchronization",0.343353174603,0.325555555556
+805658EA,"Fault-tolerant external clock synchronization",0.343353174603,0.583333333333
+7A3332FD,"Clock synchronization and the power of broadcasting",0.345436507937,0.355158730159
+7F329A74,"Clock Offset and Skew Estimation in Wireless Sensor Networks with Known Deterministic Delays and Exponential Nondeterministic Delays",0.452876984127,0.446428571429
+59DBD211,"Multi-hop time synchronization protocol for IEEE 802.11 wireless ad hoc networks",0.67619047619,0.718253968254
+5E985445,"Tree Structured, Multi-hop Time Synchronization Approach in Wireless Sensor Networks",0.892857142857,0.779220779221
+7FFD6AA8,"Building Ring-Like Overlays on Wireless Ad Hoc and Sensor Networks",0.455853174603,0.593253968254
+6785DC05,"Clock Synchronization in Cell BE Traces",0.343353174603,0.345
+5A6E15DA,"Oblivious Gradient Clock Synchronization",0.343353174603,0.455555555556
+76391A51,"The case for feed-forward clock synchronization",0.395436507937,0.555555555556
+58D62BE9,"Gauge-invariant registration in networks",0.224305555556,0.555555555556
+809AC7E9,"Power and time efficient clock synchronization in Fiber Channel",0.457936507937,0.429563492063
+7819E481,"An overview of clock synchronization",0.343353174603,0.436507936508
+7849ABA5,"Clock synchronization for wireless sensor networks: a survey",0.670634920635,0.712962962963
+80BB9E94,"Coherent preamble detection and packet decoding for wireless clock synchronization using IEEE 802.11b WLAN",0.468204365079,0.38125
+05FD73DB,"Network Issues in Clock Synchronization on Distributed Database",0.45615530303,0.491666666667
+7E9FF26C,"A distributed consensus protocol for clock synchronization in wireless sensor network",0.667162698413,0.629931972789
+817AA58A,"Fault-tolerant clock synchronization validation methodology",0.348561507937,0.342147435897
+7D83ED01,"Probabilistic internal clock synchronization",0.343353174603,0.583333333333
+80A4A0DB,"The derivation and experimental verification of clock synchronization theory",0.343353174603,0.291515151515
+7FD2FE79,"Self-synchronizing properties of CSMA wireless multi-hop networks",0.236507936508,0.6
+7EF6E174,"Improved Estimation of Clock Offset in Sensor Networks",0.345734126984,0.447420634921
+816BACA9,"A formally verified algorithm for clock synchronization under a hybrid fault model",0.352529761905,0.295905483405
+756A3BB8,"Optimal clock synchronization under different delay assumptions",0.343353174603,0.354166666667
+76EFEF8F,"Probabilistic clock synchronization in large distributed systems",0.362103174603,0.472222222222
+7F7D7BBD,"Clock Synchronization in Wireless Sensor Networks: An Overview",0.667162698413,0.718253968254
+6935E99C,"Implementation issues in clock synchronization",0.347172619048,0.354166666667
+7F8EAA0D,"Optimal Synchronization of Local Clocks by GPS 1PPS Signals Using Predictive FIR Filters",0.388595779221,0.324481074481
+808FF9CE,"Evaluating a clock synchronization for dependable sensor networks",0.56001984127,0.673333333333
+761EC6CC,"Implementation and timing analysis of Clock Synchronization on a transputer-based replicated system",0.369047619048,0.298611111111
+7DAD2D87,"Low-Complexity Maximum-Likelihood Estimator for Clock Synchronization of Wireless Sensor Nodes Under Exponential Delays",0.56001984127,0.502380952381
+782A7730,"ReversePTP: a software defined networking approach to clock synchronization",0.443948412698,0.5
+7F0CC187,"A compatible and scalable clock synchronization protocol in IEEE 802.11 ad hoc networks",0.453472222222,0.495238095238
+814F9082,"Global clock synchronization in sensor networks",0.56001984127,0.791666666667
+7868EEE7,"One-Way Time Synchronization via Geostationary Satellites at UHF",0.466071428571,0.733333333333
+7D06ED15,"Clock synchronization simulation for wireless sensor networks",0.672371031746,0.715277777778
+77BD6BB1,"Low-power clock synchronization using electromagnetic energy radiating from AC power lines",0.346329365079,0.307204700062
+692C65EE,"Internal Timer Synchronization for Parallel Event Tracing",0.374107142857,0.416666666667
+7DD1F597,"A fault-tolerant protocol for atomic broadcast",0.222222222222,0.571428571429
+7ECC7DF9,"A Peer-to-Peer Filter-Based Algorithm for Internal Clock Synchronization in Presence of Corrupted Processes",0.357738095238,0.316666666667
+7F677670,"Clock Synchronization Integrated with Traffic Smoothing Technique for Distributed Hard Real-Time Systems",0.369246031746,0.297619047619
+7FEE4717,"Cluster-based semi-asynchronous power-saving protocols for multi-hop ad hoc networks",0.225198412698,0.436507936508
+815C5EB8,"A posteriori agreement for fault-tolerant clock synchronization on broadcast networks",0.557638888889,0.666666666667
+79D02E4A,"Optimal clock synchronization in networks",0.450496031746,0.722222222222
+7CFD2BA2,"Secure and resilient clock synchronization in wireless sensor networks",0.667162698413,0.833333333333
+7F3668FA,"Fault-tolerant clock synchronization in CAN",0.343353174603,0.583333333333
+7C29823D,"Distributed source-destination synchronization using inband clock distribution",0.343353174603,0.362222222222
+77684476,"Clock Synchronization of Wireless Sensor Networks",0.667162698413,0.833333333333
+09AE20D1,"Improvement of Time Synchronization over Space Wire Link",0.460912698413,0.440476190476
+7C5C05A5,"Using full message exchange for probabilistic clock synchronization (extended abstract)",0.39365530303,0.341558441558
+81169171,"The effect of quartz drift on convergence-average based clock synchronization",0.343353174603,0.338888888889
+7959A514,"An upper and lower bound for clock synchronization",0.343353174603,0.430555555556
+7DE54921,"A Byzantine-fault tolerant self-stabilizing protocol for distributed clock synchronization systems",0.362103174603,0.389880952381
+80060923,"Continuous clock synchronization in wireless real-time applications",0.352529761905,0.436507936508
+78CD822F,"An interval-based framework for clock rate synchronization",0.343353174603,0.364393939394
+7FE9A480,"A robust clock synchronization algorithm for wireless sensor networks",0.672371031746,0.715277777778
+780CB5E8,"Booting clock synchronization in partially synchronous systems with hybrid process and link failures",0.376488095238,0.294217687075
+58DCBDE0,"On Self-Stabilizing Wait-Free Clock Synchronization",0.343353174603,0.583333333333
+79710560,"Improving the Energy Efficiency of a Clock Synchronization Protocol for WSNs Using a TDMA-Based MAC Protocol",0.343353174603,0.264911014911
+7DEEA3C6,"High-Precision Relative Clock Synchronization Using Time Stamp Counters",0.457936507937,0.46130952381
+7D4D19E7,"Clock synchronization using maximal margin estimation",0.343353174603,0.347222222222
+5DAD5940,"GPS-based Clock Synchronization in a Mobile, Distributed Real-Time System",0.362103174603,0.404166666667
+7E129386,"A synchronization strategy for a time-triggered multicluster real-time system",0.362103174603,0.44696969697
+77D1437D,"On the scalability of IEEE 802.11 ad hoc networks",0.225198412698,0.430555555556
+7F97DADD,"Fault-tolerant clock synchronization for distributed systems using continuous synchronization messages",0.41240530303,0.541666666667
+7F273701,"A case against routing-integrated time synchronization",0.443948412698,0.833333333333
+5F14F2CA,"Ultrasonic time synchronization and ranging on smartphones",0.44255952381,0.75
+7E6A75CB,"DSA: Distributed Semi-Asynchronous Sleep Scheduling Protocol for Mobile Wireless Networks",0.350942460317,0.429828042328
+7A8E6DF8,"Synchronized universal time coordinated for distributed real-time systems",0.245138888889,0.404166666667
+7E9B91DD,"Asynchronous wakeup for ad hoc networks",0.225198412698,0.583333333333
+76E0C500,"A new fault-tolerant algorithm for clock synchronization",0.42094356261,0.572916666667
+7F2946E5,"Preamble detection for wireless clock synchronization in frequency selective fading channels",0.463293650794,0.385884353741
+788AE675,"Improving the probabilistic clock synchronization algorithm",0.348561507937,0.385416666667
+81242C74,"Assuring Resilient Time Synchronization",0.44255952381,0.777777777778
+7BC21AA3,"Clock synchronization through handshake signalling",0.346329365079,0.444444444444
+7BDEF745,"A new fault-tolerant algorithm for clock synchronization",0.42094356261,0.572916666667
+758AF3EF,"Interval-based clock synchronization with optimal precision",0.343353174603,0.425925925926
+79826E19,"Tight bounds for clock synchronization",0.343353174603,0.422222222222
+7AB2BC00,"Average TimeSynch: A consensus-based protocol for clock synchronization in wireless sensor networks.",0.667162698413,0.718253968254
+7C36F460,"A linear programming approach to highly precise clock synchronization over a packet network",0.565079365079,0.581944444444
+7D8B0037,"Time synchronization in ad hoc networks",0.552678571429,0.791666666667
+75F635A8,"Interval based off-line clock synchronization for wireless mesh networks",0.56865530303,0.539682539683
+7D833076,"On Scheduling and Real-Time Capacity of Hexagonal Wireless Sensor Networks",0.452876984127,0.662222222222
+7E914E2B,"A scalable and adaptive clock synchronization protocol for IEEE 802.11-based multihop ad hoc networks",0.453472222222,0.495238095238
+7DB5D9D1,"Analysis of a clock synchronization protocol for wireless sensor networks",0.672371031746,0.633503401361
+7EDA3912,"Near-Optimal Radio Use for Wireless Network Synchronization",0.574404761905,0.833333333333
+7951245A,"Self-adaptive clock synchronization for computational grid",0.343353174603,0.425925925926
+7649FC4D,"Impact of the Deafness Problem on Clock Synchronization in a Wireless Sensor Network",0.680357142857,0.568650793651
+7DDA0C14,"Analysis of self-stabilizing clock synchronization by means of stochastic Petri nets",0.353918650794,0.315476190476
+7DF58116,"Verification of Clock Synchronization Algorithms: Experiments on a Combination of Deductive Tools",0.365228174603,0.270238095238
+7F9EF735,"Extension of pairwise broadcast clock synchronization for multicluster sensor networks",0.667162698413,0.712962962963
+757730B1,"Self-stabilizing clock synchronization in the presence of Byzantine faults",0.352529761905,0.305086580087
+7CE1BE59,"Firefly clock synchronization in an 802.15.4 wireless network",0.562996031746,0.647619047619
+7C54A596,"Adaptive clock synchronization in sensor networks",0.56001984127,0.791666666667
+7D6F05D0,"A simulation framework for fault-tolerant clock synchronization in industrial automation networks",0.455704365079,0.413762626263
+7DE07DEF,"A Light Weight Method for Maintaining Clock Synchronization for Networked Systems",0.362103174603,0.331018518519
+7F57C7DC,"Almost Peer-to-Peer Clock Synchronization",0.343353174603,0.583333333333
+80114C26,"Clock Synchronization in Distributed Real-Time Simulation System",0.367311507937,0.385416666667
+5F557008,"SMT-Based Formal Verification of a TTEthernet Synchronization Function",0.329365079365,0.433333333333
+7646DB9C,"The Wake-Up Problem in MultiHop Radio Networks",0.345734126984,0.703703703704
+80C59B4C,"Gradient clock synchronization in dynamic networks",0.450496031746,0.591666666667
+753BAF09,"A new hardware-based fault-tolerant clock synchronization scheme for real-time multiprocessor systems",0.432980599647,0.445707070707
+7E5C4646,"Clock synchronization issues in bluetooth-based industrial measurements",0.357738095238,0.364583333333
+76C8DB1A,"Optimal and efficient clock synchronization under drifting clocks",0.343353174603,0.373397435897
+7C1941FD,"A High Precision Fast Locking Arbitrary Duty Cycle Clock Synchronization Circuit",0.36433531746,0.282879818594
+7A01471C,"Performance of inter-media synchronization in distributed and heterogeneous multimedia systems",0.369543650794,0.379464285714
+5F6B1917,"A Theory of Clock Synchronization",0.343353174603,0.419191919192
+5E90A135,"Formal verification for time-triggered clock synchronization",0.343353174603,0.422222222222
+5B86238E,"Orthogonal Accuracy Clock Synchronization",0.343353174603,0.436507936508
+809E65A2,"Clock synchronization for energy-constrained wireless sensor networks",0.667162698413,0.833333333333
+09443199,"Switching On: How to Boot Clock Synchronization in Partially Synchronous Systems",0.362103174603,0.356666666667
+803AFC36,"Detecting wormhole attacks in wireless networks using local neighborhood information",0.362053571429,0.423871366729
+5F870B9B,"Secure and Self-stabilizing Clock Synchronization in Sensor Networks",0.56001984127,0.791666666667
+76A866FE,"Secure Precise Clock Synchronization for Interconnected Body Area Networks",0.451884920635,0.484126984127
+7DFBE219,"A measurement-friendly network (MFN) architecture",0.234623015873,0.571428571429
+7FDB9FF0,"Efficient Scheduling for Sensor Networks",0.345734126984,0.733333333333
+7F593F22,"Evaluation of clock synchronization accuracy of coexistent Real-Time Ethernet protocols",0.352529761905,0.286706349206
+7E750BB1,"EDA performance and clock synchronization over a wireless network: Analysis, experimentation and application to semiconductor manufacturing",0.464880952381,0.353422619048
+5E1F2D8C,"Using UPPAAL to model and verify a clock synchronization protocol for the controller area network",0.450496031746,0.36239377906
+7534C71C,"Clock synchronization on a multicomputer",0.343353174603,0.583333333333
+80E14CB6,"An UPPAAL Model for Formal Verification of Master/Slave Clock Synchronization over the Controller Area Network",0.450496031746,0.365656565657
+80928BCB,"TrueLink: A Practical Countermeasure to the Wormhole Attack in Wireless Networks",0.354910714286,0.556547619048
+0196F877,"Clock Offset Estimation in Wireless Sensor Networks Using Bootstrap Bias Correction",0.453823953824,0.480357142857
+7D42A326,"A Simple Broadcast Synchronization in Low Energy-Consumption Distributed Systems",0.469246031746,0.6125
+772EC029,"Optimal clock synchronization",0.343353174603,0.583333333333
+8154A201,"Wireless network synchronization for multichannel multimedia services",0.566964285714,0.65
+7AA294FB,"Performance Analysis of Kalman-Filter-Based Clock Synchronization in IEEE 1588 Networks",0.459672619048,0.486904761905
+814AD014,"Accurate clock synchronization for IEEE 802.11-based multi-hop wireless networks",0.562996031746,0.791666666667
+7EDCF4E7,"Wind maintenance system using network synchronization techniques based on open-source software",0.469246031746,0.367722092722
+5F70E4B7,"Opportunistic Clock Synchronization in a Beacon Enabled Wireless Sensor Network",0.670138888889,0.654761904762
+7E86A4B6,"Improving Fault Tolerance in High-Precision Clock Synchronization",0.352529761905,0.334126984127
+815E7D30,"Quantitative and Qualitative Comparison Study of Reference Based Time Synchronization Approach in Wireless Sensor Network",0.892857142857,0.669841269841
+7D1769E2,"Timestamping for IEEE 1588 based clock synchronization in wireless LAN",0.455853174603,0.528571428571
+5E8F11D4,"A simulation-based comparison of IEEE 802.11's timing advertisement and SyncTSF for clock synchronization",0.349801587302,0.311111111111
+7CD99DD2,"The flooding time synchronization protocol",0.44255952381,0.554945054945
+7FD990E6,"An Accurate and Scalable Clock Synchronization Protocol for IEEE 802.11-Based Multihop Ad Hoc Networks",0.453472222222,0.495238095238
+7E86FCBE,"Simple reading, implicit rejection and average function for fault-tolerant physical clock synchronization",0.357738095238,0.287373737374
+5E94FA61,"Mechanical Verification of a Generalized Protocol for Byzantine Fault Tolerant Clock Synchronization",0.352529761905,0.273881673882
+7CBD6BB4,"Elapsed time on arrival: a simple and versatile primitive for canonical time synchronisation services",0.451591810967,0.560185185185
+7D6E40D2,"A Geometric Approach to Slot Alignment in Wireless Sensor Networks",0.56746031746,0.722222222222
+7CDAC466,"An energy efficient and Fault-Tolerant Clock Synchronization Protocol for wireless sensor networks",0.667162698413,0.62863327149
+7B1D1C2A,"A group neighborhood average clock synchronization protocol for wireless sensor networks.",0.680357142857,0.537085137085
+80E0D669,"Global clock synchronization in sensor networks",0.56001984127,0.791666666667
+7DDC9078,"Data Transfer Protocol in Bridge Structural Health Monitor System using Wireless Sensor Network",0.45496031746,0.420396825397
+8144603E,"Does Loss Rate Really Matter? An Experimental Study on Time Synchronization Protocol in Wireless Sensor Networks",0.781746031746,0.595396825397
+7CEDF81E,"Adaptive and robust monitoring approach for WSAN environments",0.217948717949,0.408333333333
+7D026FF7,"Fault-tolerant cluster-wise clock synchronization for wireless sensor networks",0.667162698413,0.833333333333
+7F9C6FB5,"Dissemination of System Time",0.246527777778,0.458333333333
+5F807A1E,"Extending IEEE 1588 to fault tolerant clock synchronization",0.343353174603,0.404166666667
+7F51DA89,"Low Cost Approximate Agreement In Partially Connected Networks",0.225198412698,0.410714285714
+78652F88,"Scalable synchronization of clocks in wireless sensor networks",0.667162698413,0.815384615385
+7B3E4E66,"On the Feasibility of Time Estimation under Isolation Conditions in Wireless Sensor Networks",0.566071428571,0.557638888889
+75FE6A06,"A clock synchronization problem with random delays",0.343353174603,0.350694444444
+7540BB7B,"Relying on time synchronization for security in ad hoc networks",0.552678571429,0.570105820106
+7562E2BC,"Joint sequential target state estimation and clock synchronization in wireless sensor networks",0.667162698413,0.565679112554
+7D2277C7,"Relative clock synchronization in wireless networks",0.562996031746,0.791666666667
+8137FF80,"SECTOR: secure tracking of node encounters in multi-hop wireless networks",0.349553571429,0.467222222222
+80633682,"Cross-layer sensor network synchronization",0.56001984127,1.0
+7DE88EB3,"Harmonious internal clock synchronization",0.343353174603,0.583333333333
+8110FDF2,"Fast clock synchronization in wireless sensor networks via ADMM-based consensus",0.667162698413,0.711111111111
+7D78591F,"External/internal clock synchronization in ATM-based distributed systems",0.362103174603,0.472222222222
+7CE521AA,"AdaSynch: A General Adaptive Clock Synchronization Scheme Based on Kalman Filter for WSNs",0.369543650794,0.384848484848
+7EAC3ECD,"Feedback-Based Clock Synchronization in Wireless Sensor Networks: A Control Theoretic Approach",0.781746031746,0.755952380952
+7DDDD8B8,"Analysis of a Clock Synchronization Protocol for Wireless Sensor Networks",0.672371031746,0.633503401361
+8109989E,"Model-based clock synchronization in networks with drifting clocks",0.450496031746,0.498717948718
+7FEFCC59,"Passive cluster based clock synchronization in sensor network",0.56001984127,0.611111111111
+813BF37E,"TurboSync: Clock synchronization for shared media networks via principal component analysis with missing data",0.484871031746,0.402232142857
+7F4DC590,"Clock Synchronization in Clusters for Performance Evaluation: Numeric/Scientific Computing",0.355505952381,0.303174603175
+7964FF7A,"Optimal Clock Synchronization Under Different Delay Assumptions",0.343353174603,0.354166666667
+592BFFF8,"Time synchronization in ad hoc networks",0.552678571429,0.791666666667
+8150DA68,"Adaptive Internal Clock Synchronization",0.343353174603,0.583333333333
+7B506693,"Identifying and verifying clock synchronization protocol parameters",0.343353174603,0.328571428571
+798C7E47,"Resiliency of distributed clock synchronization networks",0.458387445887,0.583333333333
+5DF76A95,"Optimal clock synchronization revisited: upper and lower bounds in real-time systems",0.362103174603,0.30462962963
+77A8D4E1,"Secure topology discovery through network-wide clock synchronization",0.357738095238,0.35
+80B916E6,"Minimal cost clock synchronization using a sender-receiver protocol in Wireless Sensornets",0.343353174603,0.357142857143
+765A6A67,"50–250 MHz ΔΣ DLL for Clock Synchronization",0.343353174603,0.444444444444
+7C079FCA,"Layered interactive convergence for distributed clock synchronization",0.364186507937,0.395833333333
+7DA56113,"Least Squares-Based Estimation of Relative Clock Offset and Frequency in Sensor Networks with High Latency",0.351686507937,0.392006802721
+78CD8B46,"On clock synchronization over wireless LAN using timing advertisement mechanism and TSF timers",0.455853174603,0.37931547619
+5D6FA36F,"Gossip-based clock synchronization for large decentralized systems",0.362103174603,0.416666666667
+7EF1B9C4,"UDP network communications for distributed wireless control",0.345734126984,0.55625
+5D2E3367,"A Network Time Interface M-Module for Distributing GPS-Timeover LANs",0.347817460317,0.485238095238
+7CE46771,"Optimal clock synchronization",0.343353174603,0.583333333333
+8121F403,"IEEE 1588 style synchronization over wireless link",0.452876984127,0.577380952381
+7EF7653D,"Improved interval-based clock synchronization in sensor networks",0.56001984127,0.683333333333
+7946CBC1,"Behavior of clock‐sampling mutual network synchronization in wireless sensor networks: convergence and security",0.69494047619,0.690972222222
+7C3529F8,"An improved hardware implementation of the fault-tolerant clock synchronization algorithm for large multiprocessor systems",0.369047619048,0.290476190476
+7E8C700F,"Algorithmic aspects of the time synchronization problem in large-scale sensor networks",0.673214285714,0.699074074074

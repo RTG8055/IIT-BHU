@@ -17,8 +17,7 @@ def remove_non_ascii_2(text):
 
 doc_set=[]
 docid_paperid={}
-#sample 4 is peding
-file = open('output/sample1/paperids1_abstract.txt','r')
+file = open('output/sample8/paperids8_abstract.txt','r')
 i=0
 for line in file:
 	i+=1
@@ -38,13 +37,17 @@ The JPEG image compression standard is very sensitive to errors. Even though it 
 
 The performance of web search engines may often deteriorate due to the diversity and noisy information contained within web pages. User click-through data can be used to introduce more accurate description (metadata) for web pages, and to improve the search performance. However, noise and incompleteness, sparseness, and the volatility of web pages and queries are three major challenges for research work on user click-through log mining. In this paper, we propose a novel iterative reinforced algorithm to utilize the user click-through data to improve search performance. The algorithm fully explores the interrelations between queries and web pages, and effectively finds "virtual queries" for web pages and overcomes the challenges discussed above. Experiment results on a large set of MSN click-through log data show a significant improvement on search performance over the naive query log mining algorithm as well as the baseline search engine.
 
-
+Web query recommendation has long been considered a key feature of search engines. Building a good Web query recommendation system, however, is very difficult due to the fundamental challenge of predicting users' search intent, especially given the limited user context information. In this paper, we propose a novel "sequential query prediction" approach that tries to grasp a user's search intent based on his/her past query sequence and its resemblance to historical query sequence models mined from massive search engine logs. Different query sequence models were examined, including the naive variable length N-gram model, Variable Memory Markov (VMM) model, and our proposed Mixture Variable Memory Markov (MVMM) model. Extensive experiments were conducted to benchmark our sequence prediction algorithms against two conventional pairwise approaches on large-scale search logs extracted from a commercial search engine. Results show that the sequence-wise approaches significantly outperform the conventional pair-wise ones in terms of prediction accuracy. In particular, our MVMM approach, consistently leads the pack, making it an effective and practical approach towards Web query recommendation.
 
 Current Web search engines are built to serve all users, independent of the special needs of any individual user. Personalization of Web search is to carry out retrieval for each user incorporating his/her interests. We propose a novel technique to learn user profiles from users' search histories. The user profiles are then used to improve retrieval effectiveness in Web search. A user profile and a general profile are learned from the user's search history and a category hierarchy, respectively. These two profiles are combined to map a user query into a set of categories which represent the user's search intention and serve as a context to disambiguate the words in the user's query. Web search is conducted based on both the user query and the set of categories. Several profile learning and category mapping algorithms and a fusion algorithm are provided and evaluated. Experimental results indicate that our technique to personalize Web search is both effective and efficient.
 
 #NOTDONE
 Fast and high-quality document clustering algorithms play an important role in providing intuitive navigation and browsing mechanisms by organizing large amounts of information into a small number of meaningful clusters. In particular, clustering algorithms that build meaningful hierarchies out of large document collections are ideal tools for their interactive visualization and exploration as they provide data-views that are consistent, predictable, and at different levels of granularity. This paper focuses on document clustering algorithms that build such hierarchical solutions and (i) presents a comprehensive study of partitional and agglomerative algorithms that use different criterion functions and merging schemes, and (ii) presents a new class of clustering algorithms called constrained agglomerative algorithms, which combine features from both partitional and agglomerative approaches that allows them to reduce the early-stage errors made by agglomerative methods and hence improve the quality of clustering solutions. The experimental evaluation shows that, contrary to the common belief, partitional algorithms always lead to better solutions than agglomerative algorithms; making them ideal for clustering large document collections due to not only their relatively low computational requirements, but also higher clustering quality. Furthermore, the constrained agglomerative methods consistently lead to better solutions than agglomerative methods alone and for many cases they outperform partitional methods, as well.
 
+#not done
+7
+
+This letter proposes an energy-efficient clock synchronization scheme for Wireless Sensor Networks (WSNs)based on a novel time synchronization approach. Within the proposed synchronization approach, a subset of sensor nodes are synchronized by overhearing the timing message exchanges of a pair of sensor nodes. Therefore, a group of sensor nodes can be synchronized without sending any extra messages. This paper brings two main contributions: 1. Development of a novel synchronization approach which can be partially or fully applied for implementation of new synchronization protocols and for improving the performance of existing time synchronization  protocols. 2. Design of a time synchronization scheme which significantly reduces the overall network-wide energy consumption without incurring any loss of synchronization accuracy compared to other well-known schemes.
 '''
 
 # doc_set = [doc_a, doc_b, doc_c, doc_d, doc_e]	
@@ -110,7 +113,7 @@ for doc in lda_corpus:
 	print doc,i
 
 final_list = sorted(final_list,key=final_list.__getitem__,reverse=True)
-new = open("output/sample1/gensim_lda1.txt",'w')
+new = open("output/sample8/gensim_lda8.txt",'w')
 for d in final_list:
 	pid = docid_paperid.get(d)
 	print d,pid
@@ -121,7 +124,7 @@ new.close()
 
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 
-no_features = 500
+no_features = 250
 
 # NMF is able to use tf-idf
 tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2, max_features=no_features, stop_words='english')
@@ -136,7 +139,9 @@ tf_feature_names = tf_vectorizer.get_feature_names()
 
 from sklearn.decomposition import NMF, LatentDirichletAllocation
 
-no_topics = len(doc_set)/10 + 1
+no_topics = len(doc_set)/10 
+# if(no_topics > 5):
+	# no_topics =5
 
 # Run NMF
 final_mat=[]
@@ -163,7 +168,7 @@ for d_id,doc in enumerate(nmf):
 	print doc,i
 
 final_list = sorted(final_list,key=final_list.__getitem__,reverse=True)
-new = open("output/sample1/scikit_nmf1.txt",'w')
+new = open("output/sample8/scikit_nmf8.txt",'w')
 for d in final_list:
 	pid = docid_paperid.get(d)
 	print d,pid
@@ -202,7 +207,7 @@ for d_id,doc in enumerate(lda):
 	print doc,i
 
 final_list = sorted(final_list,key=final_list.__getitem__,reverse=True)
-new = open("output/sample1/scikit_lda1.txt",'w')
+new = open("output/sample8/scikit_lda8.txt",'w')
 for d in final_list:
 	pid = docid_paperid.get(d)
 	print d,pid

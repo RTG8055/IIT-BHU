@@ -3,7 +3,7 @@ import zipfile
 
 paperids={}
 papers=set()
-with open("output/sample1/paperids1_67.txt",'r') as f:
+with open("output/sample8/paperids8_43.txt",'r') as f:
 	i=0
 	for line in f:
 		i+=1
@@ -36,7 +36,7 @@ with zipfile.ZipFile("only_CS_files/no_upload_id_tit_ye_doi_ven_jou_conf_ra.zip"
 					conf[paperids[line[0]]]=line[6]
 			if(i%1000000 == 0):
 				print i
-			# if(i==2000000):
+			# if(i==1000000):
 				# break
 # print paperids,journals,conf
 print i,len(paperids),len(journals),len(conf)
@@ -73,8 +73,8 @@ with zipfile.ZipFile("zips/Conferences.zip") as z:
 				# break
 
 print c_names,i
-new = open("output/sample1/paperids1_67_journals_conf.txt",'w')
-# new2=open("output/sample2/paperids2_50_conf.txt",'w')
+new = open("output/sample8/paperids8_43_journals_conf.txt",'w')
+# new3=open("output/sample3/paperids3_50_conf.txt",'w')
 i=0
 for k,v in paperids.items():
 	i+=1

@@ -68,6 +68,7 @@ def search_in_all_fos(list_fosids,given_words,level): #return lchildren or rchil
 	# to choose one of the fids to proceed to choose the one which has the maximum total of rscore, lscore and pscore
 	####################
 	for fid in list_fosids:
+		# print fid,level
 		if(groups.get(fid)==None):
 			print fid,"not there directly ",level
 			with open("fos_keywords_normalized_sorted.txt") as f:
@@ -102,6 +103,7 @@ def search_in_all_fos(list_fosids,given_words,level): #return lchildren or rchil
 			rscore = rscore + word_list_score(g,v[3])
 			pscore = pscore + word_list_score(g,v[4])
 
+		# print lscore,rscore,pscore,maxScore
 		if(lscore+rscore+pscore>maxScore):
 			maxlscore_list=[lscore]
 			maxrscore_list=[rscore]
@@ -118,7 +120,7 @@ def search_in_all_fos(list_fosids,given_words,level): #return lchildren or rchil
 			maxrchildren_list.append(v[1])
 			maxpid_list.append(fid)
 
-
+		# print maxpid_list
 	fos_list_required=[]
 	for x in range(0,len(maxpid_list)):
 		maxlscore = maxlscore_list[x]
@@ -139,7 +141,7 @@ def search_in_all_fos(list_fosids,given_words,level): #return lchildren or rchil
 			# return maxpid
 		if(maxlscore>maxrscore):
 			maxlchildren = maxlchildren.split(' ')
-			print "left",level,maxpid,maxScore
+			print "left",level,maxpid#,maxScore,maxpscore,maxlscore
 			if(maxpscore == maxlscore):
 				fos_list_required.append(' '.join(search_in_all_fos(maxlchildren,given_words,level+1) + maxpid.split(' ')))
 				continue
@@ -148,16 +150,24 @@ def search_in_all_fos(list_fosids,given_words,level): #return lchildren or rchil
 			continue
 		elif(maxrscore>0):
 			maxrchildren = maxrchildren.split(' ')
+			maxlchildren = maxlchildren.split(' ')
 			print "right",level,maxpid
-			if(maxpscore == maxrscore):
+			if(maxpscore == maxrscore and maxrscore == maxlscore):
+				fos_list_required.append(' '.join(search_in_all_fos(maxrchildren,given_words,level+1) + maxpid.split(' ') + search_in_all_fos(maxlchildren,given_words,level+1)))
+			elif(maxrscore == maxlscore):
+				# print maxrchildren,"hahahaha",maxlchildren
+				fos_list_required.append(' '.join(search_in_all_fos(maxrchildren,given_words,level+1) + search_in_all_fos(maxlchildren,given_words,level+1)))
+
+			elif(maxpscore == maxrscore):
 				fos_list_required.append(' '.join(search_in_all_fos(maxrchildren,given_words,level+1) + maxpid.split(' ')))
-				continue
-			fos_list_required.append(' '.join(search_in_all_fos(maxrchildren,given_words,level+1)))
-			continue
+			else:
+				fos_list_required.append(' '.join(search_in_all_fos(maxrchildren,given_words,level+1)))
 		else:
 			print maxlscore,maxrscore,maxpscore,level
 			print "all scores are Zero"
 			# return []
+		# print fos_list_required
+	# print fos_list_required
 	return fos_list_required
 
 
@@ -190,7 +200,7 @@ def get_relavent_papers(given_keywords,given_fos):
 		###########################
 		# print k,given_fos
 		to_be_searched_words=""
-		list_L1=[]
+		list_L1=""
 		if(k == given_fos):
 			given_keywords = given_keywords.split(',')
 			print "insode"
@@ -208,23 +218,25 @@ def get_relavent_papers(given_keywords,given_fos):
 				precise_ids = list(k)
 				break
 			if(lscore >= rscore):
+				if(lscore == rscore):
+					list_L1+=v[1]
 				print "left -1"
 				if(lscore == pscore):
 					general_category=True
-				list_L1=v[0]
+				list_L1+= " " + v[0]
 
 			else:
 				print "right -1"
 				if(rscore == pscore):
 					general_category=True
-				list_L1=v[1]
+				list_L1+= " " + v[1]
 			
 			################
 			# if only in general category it would not reach here
 			################
 			list_L1 = list_L1.split(' ')
 			# print list_L1,given_keywords
-
+			print list_L1
 			precise_ids = search_in_all_fos(list_L1,given_keywords,0)
 			# print precise_ids
 			if(general_category):
@@ -236,7 +248,8 @@ def get_relavent_papers(given_keywords,given_fos):
 	#############
 	# outside for loop
 	#############
-	precise_ids = precise_ids[0].split(' ')
+	for c in range(0,len(precise_ids)):
+		precise_ids = precise_ids[c].split(' ')
 	print precise_ids
 
 	with zipfile.ZipFile("zips/fos_papers_keywords_server.zip") as z:
