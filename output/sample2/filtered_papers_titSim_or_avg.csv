@@ -1,0 +1,798 @@
+5A0E1B99,"Generalized parallel CRC computation on FPGA",0.179166666667,0.196428571429
+797B07C1,"Speeding up CRC32C computations with Intel CRC32 instruction",0.179166666667,0.175925925926
+7FCD9033,"Direct N-point DCT computation from three adjacent N/3-point DCT coefficients",0.179166666667,0.170454545455
+7E8F9696,"A Real-Time ECG Data Compression and Transmission Algorithm for an e-Health Device",0.591666666667,0.409116809117
+77ABB4F5,"High compression of nuclear medicine dynamic studies",0.3625,0.5625
+7A0FFE7A,"A fast 4*4 DCT algorithm for the recursive 2-D DCT",0.358441558442,1.0
+80183E34,"An integrated error correction and detection system for digital audio broadcasting",0.363492063492,0.259315221815
+78632944,"The Algebraic Approach to the Discrete Cosine and Sine Transforms and Their Fast Algorithms",0.358441558442,0.286363636364
+80F3AEF5,"A new LDPC decoding algorithm aided by segmented CRCs for erasure channels",0.366666666667,0.303333333333
+80EC5E94,"A Data Hiding Algorithm for H.264/AVC Video Streams Without Intra-Frame Distortion Drift",0.369444444444,0.250175221604
+789333CC,"Fast software implementation of error detection codes",0.363492063492,0.28746031746
+7B153B38,"A polynomial approach to fast algorithms for discrete Fourier-cosine and Fourier-sine transforms",0.358441558442,0.430555555556
+8124950E,"ECG Signal Compression Based on Burrows-Wheeler Transformation and Inversion Ranks of Linear Prediction",0.363492063492,0.254035250464
+78828953,"Adverse events in older patients undergoing colonoscopy: a systematic review and meta-analysis",0.195833333333,0.140404040404
+8090C353,"On arithmetic cosine transform algorithm",0.358441558442,0.545454545455
+7E315392,"Fast calculation algorithm of the undetected errors probability of CRC codes",0.577777777778,0.497222222222
+7E46C15F,"Efficient prime factor algorithm and address generation techniques for the discrete cosine transform",0.363492063492,0.282626262626
+80CB08BD,"Adaptive algorithm for speech Compression using Cosine Packet Transform",0.6,0.43367003367
+813B2CF6,"A high efficiency full-chip thermal simulation algorithm",0.358441558442,0.414285714286
+8112BD3C,"Respiratory Sounds Compression",0.336219336219,0.571428571429
+7B79FA7F,"Low complexity energy efficient very low bit-rate image compression scheme for wireless sensor network",0.350505050505,0.204386759074
+7F6D9740,"Next-Generation Stool DNA Test Accurately Detects Colorectal Cancer and Large Adenomas",0.302564102564,0.221416451196
+7F100C9B,"Error control aspects of high speed networks",0.363492063492,0.278888888889
+763A508C,"A fast algorithm for the computation of 2-D forward and inverse MDCT",0.366666666667,0.358134920635
+810BD91F,"Performance analysis of JPEG algorithm",0.336219336219,0.428571428571
+7A453BE5,"Effects of Metabolic Syndrome and Findings From Baseline Colonoscopies on Occurrence of Colorectal Neoplasms",0.185714285714,0.109018759019
+7F99BCA2,"A new transform for document image compression",0.350505050505,0.555555555556
+75255165,"High‐quality image magnification applying the gerchberg‐papoulis iterative algorithm with DCT",0.358441558442,0.355555555556
+78DCC949,"Lapped transforms for efficient transform/subband coding",0.2,0.125
+80AFAB3A,"The cost of JPEG compression anti-forensics",0.323232323232,0.545454545455
+7D630B46,"A real-time and parametric parallel video compression architecture using FPGA",0.350505050505,0.29468975469
+7F5A0AC2,"Efficient prediction algorithm of integer DCT coefficients for H.264/AVC optimization",0.358441558442,0.281363636364
+589CB562,"Improved quality of JPEG compressed image using approximate K-SVD algorithm",0.360714285714,0.290939153439
+811AE337,"Shifted Fourier transform-based tensor algorithms for the 2-D DCT",0.350108225108,0.416666666667
+7AD40D53,"Word-parallel CRC computation on VLIW DSP",0.15,0.25
+7FB88F93,"Trade-off's in the computation of mono- and multi-dimensional DCT's",0.154671717172,0.208333333333
+75637365,"Type-II/III DCT/DST algorithms with reduced number of arithmetic operations",0.369444444444,0.419191919192
+80D9AEA0,"Correlation-based approach to color image compression",0.354166666667,0.350694444444
+81460DA6,"A Genetic Algorithm Based Oblivious Image Watermarking Scheme Using Singular Value Decomposition (SVD)",0.358441558442,0.250288600289
+7DB972D1,"Multilayered image representation: application to image compression",0.358333333333,0.302777777778
+7F4B532A,"Stability and Convergence Analysis of Transform-Domain LMS Adaptive Filters With Second-Order Autoregressive Process",0.225,0.145757020757
+803F2A68,"Fast algorithm for the modulated complex lapped transform",0.358441558442,0.339691558442
+7EFE195C,"A 130 Mb/s compact HDTV codec based on a motion-adaptive DCT algorithm",0.358441558442,0.419607843137
+7E6324B7,"A Comparison of Some Error Detecting CRC Code Standards",0.563492063492,0.469444444444
+7D0E8434,"A Universal Approach to Developing Fast Algorithm for Simplified Order-16 ICT",0.358441558442,0.364583333333
+761B4128,"Meta-analysis Shows Colon Capsule Endoscopy Is Effective in Detecting Colorectal Polyps",0.344155844156,0.238350340136
+7E34EBE5,"A CMOS image sensor with analog two-dimensional DCT-based compression circuits for one-chip cameras",0.350505050505,0.263174603175
+774B0F8C,"Application of artificial neural networks for spacecraft instrument data compression",0.383333333333,0.254497354497
+7B79184D,"Production, Secretion, and Biological Activity of the C-Terminal Flanking Peptide of Human Progastrin",0.20625,0.164393939394
+7F2DFBE8,"An Adaptive Blind Watermarking Algorithm Based on DCT and Modified Watson's Visual Model",0.358441558442,0.275336700337
+807FE4A7,"An Energy Modulated Watermarking Algorithm Based on Watson Perceptual Model",0.358441558442,0.298566433566
+7CC9A9FC,"A fault detecting DCT architecture",0.563492063492,0.690476190476
+7D4D6C64,"Perceptual image compression via adaptive block- based super-resolution directed down-sampling",0.350505050505,0.347008547009
+7D91F0DC,"Improved subspace algorithm for a wider class of DCT and DST codes",0.358441558442,0.3
+8162F239,"A Visual Model Weighted Cosine Transform for Image Compression and Quality Assessment",0.35625,0.261646224146
+7566B6D3,"A novel digital image covert communication scheme based on generalized FCM in DCT domain",0.185416666667,0.148585858586
+7D33EE99,"A soft voice activity detector based on a Laplacian-Gaussian model",0.20625,0.140649350649
+801255E1,"Anti-forensics of digital image compression",0.350505050505,0.555555555556
+7DC750F9,"Retinex based motion estimation for sequences with brightness variations and its application to H.264",0.183333333333,0.142003367003
+7E348E26,"Efficient motion-estimation algorithm for reduced frame-rate video transcoder",0.358441558442,0.555555555556
+81304213,"Synthesis and selection of DCT algorithms using behavioral synthesis-based algorithm space exploration",0.377777777778,0.386904761905
+5E45DA53,"On The Design of A Dynamically Reconfigurable Function-Unit for Error Detection and Correction",0.363492063492,0.341964285714
+7E686661,"The Arithmetic Cosine Transform: Exact and Approximate Algorithms",0.358441558442,0.545454545455
+7FDC9315,"ECG data compression using cut and align beats approach and 2-D transforms",0.350505050505,0.246887239744
+7ED156D7,"A low complexity orthogonal 8×8 transform matrix for fast image compression",0.350505050505,0.330555555556
+7D2F32AD,"A Fast Inverse Motion Compensation Algorithm for DCT-Domain Video Transcoder",0.358441558442,0.280952380952
+77290AFF,"Fixed-point IDCT without multiplications based on B.G. Lee's algorithm",0.358441558442,0.335714285714
+7E6EE8FA,"An Experimental Home-use Digital VCR With Three Dimensional DCT And Superimposed Error Correction Coding",0.363492063492,0.290336134454
+7C9800A5,"Differential algorithms of digital signal processing",0.360714285714,0.408333333333
+80B25E95,"A New Concurrent Detection of Control Flow Errors Based on DCT Technique",0.366964285714,0.270833333333
+7A21BDD4,"Revealing the Trace of High-Quality JPEG Compression Through Quantization Noise Analysis",0.363095238095,0.277248677249
+789297A3,"A fast algorithm for the discrete sine transform implemented by the fast cosine transform",0.358441558442,0.337121212121
+7B3385DC,"Medical image compression by sampling DCT coefficients",0.350505050505,0.342171717172
+7E4431F3,"Zero coefficient-aware IDCT algorithm for fast video decoding",0.358441558442,0.403703703704
+80D37702,"Prime-factor DCT algorithms",0.327672327672,1.0
+79EF31FF,"Generalised lapped orthogonal transforms",0.2,0.126984126984
+7F7D27B2,"Comparative performance of fast cosine transform with fixed-point roundoff error analysis",0.363492063492,0.344155844156
+7EA2D69E,"Full-frame compression of tomographic images using the discrete Fourier transform",0.350505050505,0.347008547009
+7E7A1079,"Estudio de técnicas de reconocimiento facial",0.2,0.0
+7602DF6D,"A novel algorithm for PAPR reduction in LTE system",0.358441558442,0.406593406593
+7D25112D,"Focal-Plane Spatially Oversampling CMOS Image Compression Sensor",0.350505050505,0.39417989418
+7E2CF49B,"Wireless video transmission using multiple description codes combined with prioritized DCT compression",0.372916666667,0.239756944444
+7F3C3B41,"A novel error correction method without overhead for corrupted JPEG images",0.363492063492,0.265135327635
+7D181954,"Multipurpose image watermarking algorithm based on multistage vector quantization",0.358441558442,0.267592592593
+78CA90F8,"A new two-dimensional fast cosine transform algorithm",0.358441558442,0.405303030303
+78363BC0,"Worst-case error analysis of lifting-based fast DCT-algorithms",0.363492063492,0.571428571429
+7F230FA2,"A fast input reordering algorithm for the discrete cosine transform",0.358441558442,0.331755050505
+813BFF0D,"A new systolic array algorithm for a high throughput low cost VLSI implementation of DCT",0.360714285714,0.282308802309
+79AF3AE4,"Lossy Compression of Haptic Data by Using DCT",0.350505050505,0.437037037037
+782A542A,"Topographic classification of digital image intensity surfaces using generalized splines and the discrete cosine transformation",0.183333333333,0.127335858586
+75870D54,"Combination of Sigmoidoscopy and a Fecal Immunochemical Test to Detect Proximal Colon Neoplasia",0.328282828283,0.24082977208
+77047F76,"A unified framework for image compression and segmentation by using an incremental neural network",0.350505050505,0.266077441077
+7D84FAF0,"Discrete cosine harmonic wavelet transform and its application to signal compression and subband spectral estimation using modified group delay",0.383333333333,0.220043290043
+80A4FBFC,"Integrated processes and the discrete cosine transform",0.211111111111,0.183080808081
+780A0D0B,"Discrete sine transform and its inverse—realization through recursive algorithms",0.358441558442,0.545454545455
+6AEBB165,"Low-complexity scalable image compression",0.350505050505,0.555555555556
+796C5039,"Convolution-based DCT algorithm",0.327672327672,1.0
+78165255,"An outdoor time scenes simulation scheme based on support vector regression with radial basis function on DCT domain",0.185714285714,0.121213130304
+76607DCF,"Embedding a secondary communication channel transparently within a cyclic redundancy check (CRC)",0.185416666667,0.140800865801
+80187E10,"Event error control codes and their applications",0.364583333333,0.325555555556
+7692F901,"User-independent recognition of Arabic sign language for facilitating communication with the deaf community",0.185416666667,0.130112347969
+804E4FFA,"An error resilient scheme for image transmission over noisy channels with memory",0.363492063492,0.274410774411
+7F2AFC80,"Modified patchwork algorithm: a novel audio watermarking scheme",0.358441558442,0.293737373737
+7ED21B95,"Increasing compression of JPEG images using steganography",0.383333333333,0.324126984127
+77A3AC3C,"Novel hybrid classified vector quantization using discrete cosine transform for image compression",0.350505050505,0.245923520924
+76FFC627,"Using Two Levels DWT with Limited Sequential Search Algorithm for Image Compression",0.6,0.437037037037
+7E0D1AA2,"Mpeg2 Watermarking Channel Protection Using Duo-Binary Turbo Codes",0.177777777778,0.169444444444
+8128E718,"An efficient prime-factor algorithm for the discrete cosine transform and its hardware implementations",0.360714285714,0.326298701299
+7F77E0BA,"Restructured recursive DCT and DST algorithms",0.358441558442,0.55
+6D20CC23,"Recursive algorithms for discrete cosine transform",0.358441558442,0.545454545455
+7D7D9C9C,"Iterative error detection and correction of H.263 coded video for wireless networks",0.363492063492,0.233531746032
+7E128ACB,"New 2/sup n/ discrete cosine transform algorithm using recursive filter structure",0.358441558442,0.289134199134
+80C23797,"Error resilient pre-/post-filtering for DCT-based block coding systems",0.363492063492,0.321314102564
+7CCB9B4A,"Lossless Image Compression using the Discrete Cosine Transform",0.350505050505,0.350505050505
+772BBFA0,"Implementing compression and encryption of phase-shifting digital holograms for three-dimensional object reconstruction",0.371428571429,0.291904761905
+6CCFE840,"The association of colonoscopy quality indicators with the detection of screen-relevant lesions, adverse events, and postcolonoscopy cancers in an asymptomatic Canadian colorectal cancer screening population",0.195833333333,0.110895297513
+7D6C67D4,"An error concealment algorithm for images subject to channel errors",0.563492063492,0.495696763554
+7FC30E99,"A fast algorithm for DCT-domain inverse motion compensation based on shared information in a macroblock",0.358441558442,0.26746031746
+7D053982,"Perceptually tuned JPEG coder for echocardiac image compression",0.350505050505,0.334325396825
+04C46024,"Exploitation of Differential Pulse Code Modulation for Compression of EMG Signals by a Combination of DWT and DCT",0.383333333333,0.241161616162
+7E21DB8D,"DCT-Based Embedded Image Compression With a New Coefficient Sorting Method",0.350505050505,0.263498075998
+7D3A5DAA,"Improved Coding-Theoretic and Subspace-Based Decoding Algorithms for a Wider Class of DCT and DST Codes",0.358441558442,0.306349206349
+7D98098E,"Systolic algorithms and a memory-based design approach for a unified architecture for the computation of DCT/DST/IDCT/IDST",0.366666666667,0.317857142857
+80CD9091,"Fast approximate DCT: basic-idea, error analysis, applications",0.369444444444,0.436507936508
+43BF46E9,"DCT-Arnold chaotic based watermarking using JPEG-YCbCr",0.2,0.2
+76519DBF,"Constrained ECG compression algorithm using the block-based discrete cosine transform",0.350505050505,0.345454545455
+7733F0D3,"CRC-AIDED TURBO EQUALIZATION FOR MIMO FREQUENCY SELECTIVE FADING CHANNELS",0.189880952381,0.164880952381
+80B867C5,"Fast algorithm for rate-based optimal error protection of embedded codes",0.577777777778,0.577777777778
+813A2B09,"Fast Lossless Compression of Seismic Floating-Point Data",0.350505050505,0.555555555556
+76022FC0,"A Fast QRNS-Based Algorithm for the DCT and Its Field-Programmable Logic Implementation",0.360714285714,0.571428571429
+7EF509AD,"New fast full search algorithms using DCT coefficients",0.377777777778,0.372727272727
+6FC365DA,"Algorithms explained by symmetries",0.336219336219,0.403703703704
+7D259592,"Digital color image watermarking based on phase-shifting interferometry and neighboring pixel value subtraction algorithm in the discrete-cosine-transform domain",0.358441558442,0.233883477633
+775F9F27,"On computing 2-D systolic algorithm for discrete cosine transform",0.358441558442,0.411255411255
+7DAEC54D,"ECG compression using wavelet transform",0.35625,0.441666666667
+7C37F183,"Full-frame cosine transform image compression for medical and industrial applications",0.383333333333,0.342171717172
+788DF127,"Recursive algorithm for the discrete cosine transform with general lengths",0.358441558442,0.400673400673
+7ADEFAEA,"Radiological image compression using full-frame cosine transform with adaptive bit-allocation",0.350505050505,0.350505050505
+75285951,"Image dependent log-likelihood ratio allocation for repeat accumulate code-based decoding in data hiding channels",0.185714285714,0.134577922078
+7EC51C78,"A novel reversible blockade transform for hybrid image compression",0.372916666667,0.425925925926
+7E2DCB68,"Transform-based image enhancement algorithms with performance measure",0.336219336219,0.298015873016
+7F4F00CF,"A Fast 4 $\times$ 4 Forward Discrete Tchebichef Transform Algorithm",0.358441558442,1.0
+7D61E3FE,"Genetic Algorithm based Engine for Domain-Specific Reconfigurable Arrays",0.358441558442,0.343402777778
+7F870B2F,"A fast algorithm suitable for DCT implementation with integer multiplication",0.360714285714,0.328571428571
+7D5966BD,"Efficient implementation of the DCT-based video compression on custom computers",0.383333333333,0.29746031746
+7FB010ED,"Embedded medical image compression using DCT based subband decomposition and modified SPIHT data organization",0.350505050505,0.232407407407
+7F69535E,"Constant geometry algorithm for discrete cosine transform",0.358441558442,0.389277389277
+7870BE87,"Compression of ECG signals by optimized quantization of discrete cosine transform coefficients",0.35625,0.252988215488
+7F3DFD0F,"A low-power IDCT macrocell for MPEG-2 MP@ML exploiting data distribution properties for minimal activity",0.20625,0.12925170068
+800E7FB7,"On the computation of two-dimensional DCT",0.179166666667,0.25
+59175FBE,"A method to detect JPEG-based double compression",0.550505050505,0.703703703704
+7ED30764,"Neural Networks Arbitration for Optimum DCT Image Compression",0.350505050505,0.324786324786
+80A8AF12,"Complexity Reduction and Fast Algorithm for 2-D Integer Discrete Wavelet Transform Using Symmetric Mask-Based Scheme",0.366964285714,0.252839620697
+66511A69,"An embedding algorithm for multiple watermarks",0.358441558442,0.541666666667
+81309987,"Comparisons of fast 2D-DCT algorithms for parallel programmable digital signal processors",0.360714285714,0.333333333333
+80073DFB,"Fast algorithms for DCT-domain image downsampling and for inverse motion compensation",0.358441558442,0.323412698413
+80768418,"Parameter Embedding Mode and Optimal Post-Process Filtering for Improved WDCT Image Compression",0.350505050505,0.286111111111
+81444316,"A study on new DCT-based bit rate reduction algorithm and variable speed playback for a home-use digital VCR",0.358441558442,0.217223972923
+78522D2F,"A comparative study of DWT, CWT and DCT transformations in ECG arrhythmias classification",0.183333333333,0.124404761905
+7FB60111,"A fully digital modulator/demodulator for Power Line Communication (PLC)",0.185416666667,0.153703703704
+7940D060,"Concurrent computation of two-dimensional discrete cosine transform",0.179166666667,0.170454545455
+7F61817E,"Out of order incremental CRC computation",0.179166666667,0.208333333333
+81581B7D,"Double Compression Detection Based on Markov Model of the First Digits of DCT Coefficients",0.350505050505,0.262121212121
+80C5164D,"Prioritized DCT for compression and progressive transmission of images",0.372916666667,0.350694444444
+7CFEF7C2,"Fast Algorithm for Arbitrary Length Discrete Cosine Transform",0.358441558442,0.400673400673
+78A7EF00,"A chaos-based joint image compression and encryption scheme using DCT and SHA-1",0.371428571429,0.308975468975
+7F616BB8,"Fault tolerance design in JPEG 2000 image compression system",0.558441558442,0.403633403633
+7809F3F3,"Ecg Compression by Modelling the Instantaneous Module/Phase of Its Dct",0.350505050505,0.5625
+7EB32451,"Improving the Error Rate Performance of Turbo Codes using the Forced Symbol Method",0.363492063492,0.244246031746
+80A0BBDA,"Embedded quadtree-based image compression in DCT domain",0.331755050505,0.331755050505
+7E9E4A98,"Error-detection codes: algorithms and fast implementation",0.360714285714,0.417989417989
+7851B48C,"Multi-feature Fusion Face Recognition Based on Kernel Discriminate Local Preserve Projection Algorithm under Smart Environment",0.371428571429,0.206031006031
+76847121,"Iris recognition using discrete cosine transform and Kekre's fast codebook generation algorithm",0.358441558442,0.298585858586
+7AFFF286,"An efficient prime-factor algorithm for the discrete cosine transform and its hardware implementations",0.360714285714,0.326298701299
+791951D1,"Epigenetic and Genetic Alterations in Netrin-1 Receptors UNC5C and DCC in Human Colon Cancer",0.185416666667,0.112061651584
+814D4282,"A new transform domain vector quantization technique for image data compression in an asynchronous transfer mode network",0.363492063492,0.197265512266
+7EE3E148,"Image Watermarking based on Genetic Algorithm",0.358441558442,0.437037037037
+7D53C15E,"Image compression and matching",0.323232323232,0.555555555556
+808E8413,"An efficient algorithm for optimizing DCT quantization",0.358441558442,0.412037037037
+7F3CC137,"Psychovisual and statistical optimization of quantization tables for DCT compression engines",0.35625,0.279722222222
+802E6CC6,"Context-based entropy coding of block transform coefficients for image compression",0.358333333333,0.25867003367
+7A06DA4A,"Short Communication: Effects of Monensin on 3-Methylhistidine Excretion in Transition Dairy Cows",0.185416666667,0.111805706371
+75CEE2B5,"Improved DCT-DST prime factor algorithms",0.363492063492,0.425925925926
+7A548C76,"Lossy-to-lossless image compression based on multiplier-less reversible integer time domain lapped transform",0.363492063492,0.255390641105
+81227861,"New radix-3 fast algorithm for the discrete cosine transform",0.358441558442,0.405303030303
+7E83E2D3,"A generalized fast algorithm for n-D discrete cosine transform and its application to motion picture coding",0.366666666667,0.229121572872
+8073FCE3,"Recursive algorithm for the realization of the discrete cosine transform",0.358441558442,0.393939393939
+7E6A65CA,"The single burst error detection performance of binary cyclic codes",0.363492063492,0.299365079365
+7FC8F1F2,"Fast Frame-Based Scene Change Detection in the Compressed Domain for MPEG-4 Video",0.185416666667,0.125788655789
+753A712F,"Using LZW compression technique for payload encoding in multiple frequency domain steganography",0.383333333333,0.234669497169
+5BED3319,"Fast algorithm for the 3D DCT",0.358441558442,1.0
+7DCDDD22,"Real-time error protection of embedded codes for packet erasure and fading channels",0.385714285714,0.259297052154
+805E2670,"Digital Watetmarking Algorithm Using Two Dimensions Modulated Complex Lapped Transform",0.358441558442,0.313571428571
+81210A00,"A novel watermarking algorithm in DCT domain to authenticate image content",0.358441558442,0.280808080808
+7D3C2818,"On the Computation of the Discrete Cosine Transform",0.179166666667,0.170454545455
+7C53D037,"High-Quality DCT-Based Image Compression Using Partition Schemes",0.350505050505,0.295788655789
+7F87C487,"Flexible resizing algorithms for video transcoding",0.358441558442,0.412037037037
+7FA5266F,"New techniques for detection of changes in the local mean of a signal",0.185416666667,0.133181818182
+7D419CF0,"New algorithm for multidimensional type-III DCT",0.358441558442,1.0
+7DFB1FF6,"Collaborative In-Network Processing of LT Based Image Compression Algorithm in WMSNs",0.585714285714,0.482222222222
+7EC8A0B9,"A Multi-Transform Search Algorithms to Enhance H.264/AVC Performance",0.355555555556,0.363492063492
+79829F6E,"Performance Analysis of Digital Image Steganographic Algorithm",0.363492063492,0.349206349206
+7E4BC659,"Zero-Block Mode Decision Algorithm for H.264/AVC",0.344444444444,0.425925925926
+7EC88DB6,"RD-OPT: an efficient algorithm for optimizing DCT quantization tables",0.358441558442,0.334027777778
+7F41CB33,"Activity recognition from acceleration data based on discrete consine transform and SVM",0.225,0.170404040404
+76D9DC5A,"Image data compression by the discrete cosine transform",0.350505050505,0.328282828283
+45AC9C2B,"Low-complexity approximation of 8-point discrete cosine transform for image compression",0.350505050505,0.321338383838
+75C86B94,"An EDBoost algorithm towards robust face recognition in JPEG compressed domain",0.358441558442,0.28031968032
+755071D7,"Improvement of the Discrete Cosine Transform calculation by means of a recursive method",0.204166666667,0.163737373737
+7FA5E533,"Techniques for early stopping and error detection in turbo decoding",0.363492063492,0.281071428571
+58F3ED7C,"Image compression algorithm based on morphological associative memories",0.585714285714,0.484444444444
+800BAA62,"Fast algorithms for the discrete cosine transform",0.358441558442,0.545454545455
+7F385CB0,"A Fast Arbitrary Factor Video Resizing Algorithm",0.363492063492,0.336805555556
+7FC8FBA5,"Data-path and memory error compensation technique for low power JPEG implementation",0.363492063492,0.256084656085
+7A242EFF,"New fast algorithm for multidimensional type-IV DCT",0.358441558442,1.0
+7EFC7B63,"DCT algorithms for VLSI parallel implementations",0.360714285714,0.571428571429
+8091CF52,"Three-dimensional DCT/WT compression using motion vector segmentation for low bit-rate video coding",0.383333333333,0.250793650794
+7B1900CE,"New equalisation approach for maximising data rate in discrete multi tone systems",0.185416666667,0.131000348857
+7FD86923,"The GenLOT: generalized linear-phase lapped orthogonal transform",0.2,0.142857142857
+8114BE80,"The application of subspace preconditioned LSQR algorithm for solving the electrocardiography inverse problem",0.358333333333,0.248665223665
+7B30FE30,"SNAIL Regulates Interleukin-8 Expression, Stem Cell–Like Activity, and Tumorigenicity of Human Colorectal Carcinoma Cells",0.20625,0.109258855057
+7D6AD8E2,"Semi-fragile watermarking algorithm for image tampers localization and recovery",0.350108225108,0.29746031746
+800A9B11,"Channel estimation iterative algorithm for OFDM systems based on windowed fourth Discrete Cosine Transform",0.366666666667,0.269638694639
+7D72C810,"An algorithm for calculation of the discrete cosine transform by paired transform",0.366666666667,0.44696969697
+7CEF5F13,"A fragile watermark error detection scheme for wireless video communications",0.363492063492,0.221121933622
+789DF65C,"Rate-distortion optimization of the image compression algorithm based on the warped discrete cosine transform",0.585714285714,0.42117003367
+755A11AE,"Minimization of Error in Pitch Detection algorithm using Discrete Fractional Cosine Transform",0.363492063492,0.269318181818
+7E6FD3E0,"A DCT-based adaptive compression algorithm customized for radar imagery",0.585714285714,0.465833333333
+7A39F667,"An improved algorithm for face recognition using wavelet and facial parameters",0.366964285714,0.262694250194
+7FA41638,"Image compression based on the neural network art",0.350505050505,0.299829059829
+7E04D19C,"Symmetric realization of DCT for multi-dimensional data compression",0.350505050505,0.400673400673
+7F20C8C7,"Crossover codeword algorithm for iteration control",0.339691558442,0.322727272727
+58DD0226,"Image Coding and Compression with Sparse 3D Discrete Cosine Transform",0.383333333333,0.342171717172
+807E6127,"Digital watermarking robust to geometric distortions",0.147916666667,0.166666666667
+5B20BCD5,"Proposing self mutation of hybrid wavelet transform with Cosine-Kekre, Cosine-Sine & Cosine-Walsh for image compression",0.35625,0.287606837607
+7BF7C2FC,"Adverse events requiring hospitalization within 30 days after outpatient screening and nonscreening colonoscopies.",0.195833333333,0.143855218855
+7B76E75E,"Comparative Survey of the DCT and the Wavelet Transforms for Image Compression",0.3625,0.340277777778
+7E19344D,"A new algorithm to compute the DCT and its inverse",0.358441558442,0.417989417989
+7D35A104,"Multiplierless Approximation of Fast DCT Algorithms",0.358441558442,0.541666666667
+7F2B6CFF,"Efficient rate allocation for progressive image transmission via unequal error protection over finite-state Markov channels",0.377777777778,0.240423465423
+7F4F4F87,"Abstract-An efficient single-pass adaptive bandwidth compression , 11. COSINE TRANSFORM REPRESENTATION technique using the discrete cosine transform is described. The coding The two-dimensional discrete cosine transform of a se-",0.35625,0.199968213605
+7F41FFF9,"A Modified Split-Radix FFT With Fewer Arithmetic Operations",0.150694444444,0.166666666667
+0548000D,"Adaptive Deblocking of Images with DCT Compression",0.350505050505,0.555555555556
+7D2A897E,"On-chip compression for HDR image sensors",0.323232323232,0.39417989418
+801C0E13,"Stereo disparity computation in the DCT domain using genetic algorithms",0.366666666667,0.282386363636
+7FC2B1C0,"Fast algorithm for the 3-D DCT-II",0.358441558442,1.0
+781B875E,"A new approach to combine texture compression and filtering",0.3625,0.347916666667
+7F1631E5,"A hybrid data compression scheme using quaternary decomposition and selective multistage vector quantization",0.350505050505,0.220391414141
+77A5BD13,"When does impact become impactful?",0.2,0.161904761905
+77988EDA,"Fast Algorithms for the 2-D Discrete Cosine Transform",0.358441558442,0.545454545455
+7F67BF57,"Blind Watermarking Algorithm Based on DCT for Color Images",0.358441558442,0.352777777778
+7DB4D092,"An improved early detection algorithm for all-zero blocks in H.264 video encoding",0.358441558442,0.28746031746
+7FB3537B,"Transform Coding Techniques for Lossy Hyperspectral Data Compression",0.350505050505,0.334027777778
+7D06B057,"Low Complexity and Fast Computation for Recursive MDCT and IMDCT Algorithms",0.366666666667,0.453703703704
+781655CB,"Medical image compression using 3-D Hartley transform",0.350505050505,0.345634920635
+7E3D393C,"System-Level Energy Optimization for Error-Tolerant Image Compression",0.328977272727,0.328258547009
+8019A5BF,"Analysis of nested CRC with additional net data by means of stochastic automata for safety-critical communication",0.185416666667,0.141633597884
+7DD9DE21,"New Approach in Image Compression: 3D Spiral JPEG",0.3625,0.412037037037
+8076D2E5,"Alternatives to the discrete cosine transform for irreversible tomographic image compression",0.350505050505,0.325505050505
+7D66EA42,"One- and two-dimensional constant geometry fast cosine transform algorithms and architectures",0.358441558442,0.328754578755
+7E26BB47,"A novel coefficient scanning scheme for directional spatial prediction-based image compression",0.350505050505,0.291919191919
+8124A2CB,"Fixed-point error analysis and wordlength optimization of a distributed arithmetic based 8/spl times/8 2D-IDCT architecture",0.363492063492,0.251295133438
+809ED7FB,"Fast algorithms for orthogonal and biorthogonal modulated lapped transforms",0.358441558442,0.422619047619
+7F3C3DB8,"Luminance-model-based DCT quantization for color image compression",0.325505050505,0.330555555556
+8069AD7A,"A cascading MRVQ-DCT scheme for the compression of sequence images",0.336219336219,0.287157287157
+7F7422BF,"IMPROVEMENT OF WATSON’S DVQ METRIC",0.147916666667,0.166666666667
+03856ADC,"Chapter 9 - Digital Image Compression",0.350505050505,0.400673400673
+7F01A77D,"Statistical Modeling of Inter-Frame Prediction Error and Its Adaptive Transform",0.363492063492,0.391414141414
+8113B825,"Error-resilient image coding (ERIC) with smart-IDCT error concealment technique for wireless multimedia transmission",0.369444444444,0.272558922559
+7563EFBD,"The impact of fair colonoscopy preparation on colonoscopy use and adenoma miss rates in patients undergoing outpatient colonoscopy.",0.185714285714,0.131573256083
+7CEF7D98,"A fast DV to MPEG-2 IBP-picture conversion algorithm",0.377380952381,0.583333333333
+80264C96,"A fast adaptive filter algorithm using eigenvalue reciprocals as stepsizes",0.358441558442,0.345634920635
+7F80AE6E,"An embedded DCT-based still image coding algorithm",0.358441558442,0.412037037037
+7C5EFD77,"A Fast Algorithm for Deblurring Models with Neumann Boundary Conditions",0.358441558442,0.391414141414
+80A3DF94,"Algorithms for length 15 and 30 discrete cosine transform",0.358441558442,0.400673400673
+7E87FD9F,"An efficient fast integer DCT transform for images compression with 16 additions only",0.3625,0.283888888889
+7AAE0ABC,"Uniform convergence of a fast algorithm for Cauchy singular integral equations",0.383333333333,0.419191919192
+7DEFA0AC,"A Novel Hybrid HVS Based Embedded Imagecoding Algorithm Using DTT and SPIHT",0.358441558442,0.38125
+812F0C42,"An Advanced Motion Detection Algorithm With Video Quality Analysis for Video Surveillance Systems",0.360714285714,0.240127332984
+7E707C67,"Design of a real time image compression system using multiple DSP 56000/96000 processors",0.371428571429,0.251011686726
+7FF8EB93,"Continuous error detection (CED) for reliable communication",0.372916666667,0.45
+80336C98,"Modeling and Analysis of Image Dependence and Its Implications for Energy Savings in Error Tolerant Image Processing",0.363492063492,0.18967032967
+75E37D0A,"Fast generalized DFT and DHT algorithms",0.358441558442,0.571428571429
+7FEC0DEA,"Bayesian Error Concealment With DCT Pyramid for Images",0.363492063492,0.323232323232
+7D2CFC85,"A de-blocking algorithm and a blockiness metric for highly compressed images",0.358441558442,0.417989417989
+7A7C1DB9,"Multispectral data compression using bidirectional interband prediction",0.350505050505,0.350505050505
+7AB50B1B,"Discrete Cosine Transform data compression applied to satellite sensor images",0.350505050505,0.238270459699
+7EBC9316,"Multichannel recursive-least-square algorithms and fast-transversal-filter algorithms for active noise control and sound reproduction systems",0.371428571429,0.401781551782
+7F0D95FE,"A Recursive Algorithm for 2-D DCT",0.358441558442,1.0
+7A91AF4A,"Efficacy and mechanisms of action of traditional Chinese medicines for treating asthma and allergy",0.185416666667,0.110350958565
+75E57E8A,"Layered image resizing in compression domain",0.331755050505,0.290404040404
+7E6B4BDF,"Compensation of errors generated by an analog 2D DCT",0.355158730159,0.332251082251
+7EBA2CEA,"The use of the modified escalator algorithm to improve the performance of transform-domain LMS adaptive filters",0.377777777778,0.24874411303
+79B1EC10,"Ultrasonic NDE image compression by transform and subband coding",0.383333333333,0.425925925926
+7F85767B,"New algorithm for modulated complex lapped transform with symmetrical window function",0.358441558442,0.256090668591
+802F7295,"A UWB imaging system to detect early breast cancer in heterogeneous breast phantom",0.316666666667,0.211500264441
+7D2ED0AB,"Convergence of an iterative design algorithm for JPEG quantization tables",0.383333333333,0.304126984127
+7AD7F47F,"Evaluation of a preconditioned conjugate-gradient algorithm for weighted least-squares unwrapping of digital speckle-pattern interferometry phase maps",0.377777777778,0.342857142857
+7DA86928,"Lossy-to-Lossless Hyperspectral Image Compression Based on Multiplierless Reversible Integer TDLT/KLT",0.350505050505,0.352777777778
+80FBD8CA,"DC-guided compression scheme for distributed video coding",0.350505050505,0.331755050505
+766C1821,"Fast unified computation of the multi-dimensional discrete sinusoidal transforms",0.179166666667,0.25
+5D102F9E,"3D DCT based compression method for integral images",0.350505050505,0.355555555556
+7D44E173,"Applied Minimized Matrix Size Algorithm on the Transformed Images by DCT and DWT used for Image Compression",0.585714285714,0.332098765432
+7D53A3E6,"Detection and correction of transmission errors in DPCM images",0.336219336219,0.300555555556
+7A26EA80,"Sliding discrete fractional transforms",0.2,0.142857142857
+7EC5C53D,"On a Probabilistic Approach to Rate Control for Optimal Color Image Compression and Video Transmission",0.372916666667,0.228125
+78F24340,"Effect of Prepartum Administration of Monensin in a Controlled-Release Capsule on Milk Production and Milk Components in Early Lactation",0.185416666667,0.112493756244
+75F210C6,"Fast algorithms for discrete polynomial transforms",0.358441558442,1.0
+7CEBB1BA,"An improved SATD-based intra mode decision algorithm for H.264/AVC",0.366666666667,0.425925925926
+723E4CA1,"Discrete cosine transform: algorithms, advantages, applications",0.366666666667,0.339393939394
+7D0451D0,"Fast Mode Decision Algorithm for H.264/AVC Based on All-Zero Blocks Predetermination",0.366666666667,0.308181818182
+7E1F90FF,"Moval: A framework for turning digital signal processing algorithms into custom chips",0.360714285714,0.258207070707
+79172CF3,"Performance Comparison of Two Phase Face Recognition Algorithms based in Frequency Domain",0.363492063492,0.214066489066
+795DCDCA,"Neighboring joint density-based JPEG steganalysis",0.2,0.142857142857
+77050CD6,"Fast and numerically stable algorithms for discrete cosine transforms",0.358441558442,0.545454545455
+79411F44,"The Fast Hartley Transform Algorithm",0.358441558442,0.535714285714
+7E7B013B,"3B Yüz Tanmada 3B Dönü�üm Tabanl� Özniteliklerin Ç�karlmasve Seçilmesi 3D Transformation Based Feature Extraction and Selection for 3D Face Recognition",0.185714285714,0.135664335664
+7C7BFC3C,"On color transforms and bit allocation for optimal subband image compression",0.350505050505,0.280404040404
+80D19FD3,"Parametric Slant-Hadamard transforms with applications",0.158333333333,0.166666666667
+759B7E61,"Low-Complexity and Energy-Efficient Algorithms on Image Compression for Wireless Sensor Networks",0.563492063492,0.392691798942
+80802562,"Combining support vector machine learning with the discrete cosine transform in image compression",0.4,0.240431096681
+80AE0400,"A combined-transform coding (CTC) scheme for image data compression",0.361111111111,0.259453509454
+809B6E4B,"Multiprocessor DSP architectures that implement the FCT based JPEG still picture image compression algorithm with arithmetic coding",0.383333333333,0.268920730685
+79A32658,"Adaptive threshold-based block classification in medical image compression for teleradiology",0.383333333333,0.340277777778
+7E4E953D,"Algorithmic implementation and efficiency maintenance of real-time environment using low-bitrate wireless communication",0.185416666667,0.138066893424
+7E274F37,"Windowing technique for the DCT based retinex algorithm to handle videos with brightness variations coded using the H.264",0.385714285714,0.262847222222
+7D05396C,"A new LDPC decoding algorithm aided by segmented cyclic redundancy checks for magnetic recording channels",0.366666666667,0.243826015255
+7DD4EE6E,"Computation reduction for motion search in low rate video coders",0.190277777778,0.144217687075
+815363DD,"Compression of QRS complexes using Hermite expansion",0.35625,0.353977272727
+7ED38E31,"Image Compression via a Fast DCT Approximation",0.350505050505,0.398148148148
+80545E0B,"Electrocardiogram compression using lapped orthogonal transform",0.350505050505,0.447619047619
+7D3FFC1E,"Adaptive Color Image Watermarking Algorithm Based on Fractal and Neural Networks",0.358441558442,0.304444444444
+7EC0416E,"Novel Table Lookup-Based Algorithms for High-Performance CRC Generation",0.358441558442,0.555555555556
+80E39265,"A low computational complexity algorithm for ECG signal compression",0.585714285714,0.703703703704
+75947C62,"Improved Evolutionary Programming Algorithm and Its Application Research on the Optimization of Ordering Plan",0.366666666667,0.242311507937
+800C254D,"The 2-D Quantized DCT with Distributed Arithmetic",0.2,0.142857142857
+7FE9CA4D,"Weighted universal image compression",0.350505050505,0.417989417989
+797ACED8,"Reconsideration of "A Fast Computational Algorithm for the Discrete Cosine Transform"",0.358441558442,0.411255411255
+7EAE47AD,"Artifact reduction in low bit rate DCT-based image compression",0.363492063492,0.293015873016
+7ECBE70B,"An efficient wavelet-based deblocking algorithm for highly compressed images",0.358441558442,0.417989417989
+7DAEBCFB,"Algebraic Signal Processing Theory: Cooley–Tukey Type Algorithms for DCTs and DSTs",0.360714285714,0.279848484848
+80704378,"Fast radix-3/6 algorithms for the realization of the discrete cosine transform",0.358441558442,0.393939393939
+7FDEBC7B,"New equalization approach for maximizing data rate of discrete multi tone systems",0.185416666667,0.131000348857
+7FDB7FF6,"Recursive algorithms for the forward and inverse discrete cosine transform with arbitrary length",0.358441558442,0.318362193362
+7F04E292,"A hybrid algorithm using discrete cosine transform and Gabor filter bank for texture segmentation",0.358441558442,0.213240925741
+80021305,"Video compression on FPGA-based custom computers",0.361111111111,0.336111111111
+19B3C55A,"Short communication: the fast DCT-IV/DST-IV computation via the MDCT",0.20625,0.25
+5B088E4C,"Interference mitigation and error correction method for AIS signals received by satellite",0.355158730159,0.208061999729
+7DE80EB2,"An Algorithm for Image Clustering and Compression",0.560714285714,0.552777777778
+7F066D3F,"An improved method of speech compression using warped LPC and MLT-SPIHT algorithm",0.6,0.439351851852
+80EB9645,"A fast algorithm for n -D discrete cosine transform",0.358441558442,0.545454545455
+7BF255A1,"Applications of nonuniform fast transform algorithms in numerical solutions of differential and integral equations",0.366666666667,0.337121212121
+77E0108E,"The hybrid Frost's beamforming algorithm for multiple jammers suppression",0.358441558442,0.304769984917
+7ACDE386,"ECG Signal Compression using Optimum Wavelet Filter Bank Based on Kaiser Window",0.35625,0.227232142857
+7D3C5BC8,"Fast 8�8 DCT pruning algorithm",0.358441558442,0.541666666667
+79AC8AF6,"Adaptive cosine transform coding for compression of Mars-96 ELISMA instrument data",0.350505050505,0.27968975469
+7B64D19B,"The fast DCT-IV/DST-IV computation via the MDCT",0.179166666667,0.25
+7EC6EDB7,"Multiframe error concealment for MPEG-coded video delivery over error-prone networks",0.34126984127,0.287626262626
+81751EA1,"High-dimensional data compression via PHLCT",0.328282828283,0.555555555556
+808E7466,"An optimized architecture to perform image compression and encryption simultaneously using modified",0.371428571429,0.27029478458
+7D41A266,"Video watermarking algorithm based on pseudo 3D DCT and quantization index modulation",0.358441558442,0.238270459699
+7C019C9B,"Prime factor algorithm for multidimensional discrete cosine transform",0.363492063492,0.400673400673
+7EE9BD31,"A fast algorithm for computing multidimensional DCT on certain small sizes",0.358441558442,0.414285714286
+8034C9B1,"Multi-resolution Analysis Using Symmetrized Odd and Even DCT Transforms",0.144155844156,0.169841269841
+7D0BE95A,"Ultra low power implementation of 2-D DCT for image/video compression",0.363492063492,0.417989417989
+7D7E2B82,"Fast Codeword Search Algorithm for Split-dimension Vector Quantization based on the Sequence of Characteristic Value",0.377777777778,0.25266955267
+7E9313D4,"Functional coding of video using a shape-adaptive DCT algorithm and an object-based motion prediction toolbox",0.366666666667,0.2488997114
+7CB3756C,"Image sequence compression using adapted three-dimensional transform: Application to scintigraphic images",0.383333333333,0.263780663781
+7D5FA810,"An error control method for application of the discrete cosine transform to extraction of substrate parasitics in ICs",0.369444444444,0.217064879565
+801D5F6A,"Integer DCTs and fast algorithms",0.358441558442,0.55
+7CD6626F,"A comparison of fast inverse discrete cosine transform algorithms",0.358441558442,0.405303030303
+8165770F,"Relationship Modulation Based Blind Stereoscopic Image Watermarking Algorithm for 3D Media",0.360714285714,0.266061253561
+7FAA28DD,"Byte-Wise CRC Calculations",0.15,0.25
+80C25FC9,"Fast odd sinusoidal transform algorithms",0.358441558442,1.0
+5AF4F8A3,"DCT-Based Videoprinting on Saliency-Consistent Regions for Detecting Video Copies with Text Insertion",0.323232323232,0.279292929293
+80B0172B,"Optical watermarking robust to object with low-reflectance",0.2,0.125
+7F3357AC,"Commutative Encryption and Watermarking in Video Compression",0.371428571429,0.417989417989
+7CF091B3,"Improvements of Transform Coding Algorithm for Motion-Compensated Interframe Prediction Errors-DCT/SQ Coding",0.364583333333,0.309848484848
+7996F7EA,"Image compression algorithms in wireless multimedia sensor networks: A survey",0.591666666667,0.36933106576
+775EB332,"Multi watermarking algorithm based on DCT and hash functions for color satellite images",0.358441558442,0.237868480726
+8114F444,"A parallel VLSI algorithm for a high throughput systolic array VLSI implementation of type IV DCT",0.360714285714,0.247883597884
+7F41AFA2,"Image Compression by Using Fractional Transforms",0.350505050505,0.437037037037
+7F5A19F6,"Discrete Fourier Transform based multimedia colour image authentication for wireless communication (DFTMCIAWC)",0.185416666667,0.163005050505
+76F536BE,"Fast Algorithms for Low-Delay TDAC Filterbanks in MPEG-4 AAC-ELD",0.358441558442,1.0
+7E15A537,"Motion-compensated temporal filtering based on the DCT",0.2,0.2
+8154FFEB,"Discrete Chebyshev transform. A natural modification of the DCT",0.147916666667,0.166666666667
+7606DAD7,"The efficient mCBE algorithm and quantization numbers for multiplierless and low complexity DCT/IDCT Image Compression Architecture",0.585714285714,0.355442176871
+7E68CE3C,"Hybrid Model to Detect Zero Quantized DCT Coefficients in H.264",0.311188811189,0.393939393939
+7F46E72E,"A generalized Lloyd-type algorithm for adaptive transform coder design",0.358441558442,0.40873015873
+74171E8E,"Fast CRC calculation",0.179166666667,0.25
+7F1408DB,"Image compression using integrated lossless/lossy methods",0.350505050505,0.355555555556
+814B87FD,"DCT algorithms for composite sequence lengths",0.358441558442,0.400673400673
+620AC130,"A High Capacity Steganographic Algorithm in Color Images",0.358441558442,0.325505050505
+5EB295A7,"Residual error probability of embedded CRC by stochastic automata",0.363492063492,0.333333333333
+75FBDE9F,"Generalized Chen transform: a fast transform for image compression",0.350505050505,0.417989417989
+76459331,"Contour simplification for segmented still image and video coding: algorithms and experimental results",0.366666666667,0.224612193362
+80E8B45C,"Improved algorithm for efficient computation of the forward and backward MDCT in MPEG audio coder",0.366666666667,0.256235827664
+7B298622,"Removable visible image watermarking algorithm in the discrete cosine transform domain",0.358441558442,0.323232323232
+7D02B6A3,"A jointly optimal fractal/DCT compression scheme",0.350505050505,0.545454545455
+79017A65,"Efficient discrete cosine transform and quantization algorithm based on eliminating redundant computations in H.264 video encoding",0.366666666667,0.256105699856
+7D512A3A,"Fast Algorithm for Modulated Complex Lapped Transform",0.358441558442,0.339691558442
+7F9590B7,"Change Agents and Change of Norms : International Experiences on Training in UN Convention on the Rights of the Child in Schools",0.2125,0.13595959596
+7F1F2B6E,"Optical techniques for image compression",0.350505050505,0.403703703704
+7E3EDA30,"Statistical distributions of DCT coefficients and their application to an interframe compression algorithm for 3-D medical images",0.591666666667,0.4132996633
+810E438A,"A high-performance full-motion video compression chip set",0.350505050505,0.326388888889
+80475B25,"A detection algorithm for zero-quantized DCT coefficients in JPEG",0.331168831169,0.39696969697
+7C2520CB,"Steganalysis of DCT-embedding based adaptive steganography and YASS",0.158333333333,0.183333333333
+5BE8D5F7,"Hybrid DWT-DCT algorithm for image and video compression applications",0.591666666667,0.569444444444
+7F9FC2D5,"A new hardware-efficient algorithm and architecture for computation of 2-D DCTs on a linear array",0.366666666667,0.358134920635
+7E55DFC6,"Compression artifact reduction based on total variation regularization method for MPEG-2",0.363492063492,0.263553906411
+7E6280F6,"A low cost algorithm for fast inverse motion compensation in the MPEG-2 standard",0.358441558442,0.276911976912
+7E9F636C,"On fast algorithms for computing the inverse modified discrete cosine transform",0.358441558442,0.302308802309
+7C67873F,"The effect of lossy discrete cosine transform compression on subtle bone fractures",0.350505050505,0.263982683983
+7BFA0C49,"A Combined DWT and DCT Watermarking Scheme Optimized Using Genetic Algorithm",0.358441558442,0.353977272727
+7DC12A58,"A new activity model for scene adaptive quantization",0.20625,0.132235819736
+035322FE,"An audio watermarking algorithm using group quantization of DCT coefficients",0.363492063492,0.308975468975
+7F1A203B,"A Fast Computational Algorithm for the Discrete Sine Transform",0.358441558442,0.545454545455
+7A065B48,"A novel DCT domain CRT-based watermarking scheme for image authentication surviving JPEG compression",0.350505050505,0.263973063973
+75872507,"DCT based simple classification scheme for fractal image compression",0.383333333333,0.313737373737
+7FE01CB7,"Classification of Line and Character Pixels on Raster Maps Using Discrete Cosine Transformation Coefficients and Support Vector Machine",0.2,0.118448218448
+802A28D0,"Low-complexity and low-memory entropy coder for image compression",0.325505050505,0.323611111111
+815A4010,"Image compression with adaptive local cosines: a comparative study",0.3625,0.27968975469
+5A509ABF,"Hardware Implementation Aspects of New Low Complexity Image Coding Algorithm for Wireless Capsule Endoscopy",0.360714285714,0.190376984127
+801E4503,"Fixed-point round-off error analysis for the discrete cosine transform",0.363492063492,0.411255411255
+77E8F1CA,"High-Efficiency Green Function-Based Thermal Simulation Algorithms",0.358441558442,0.571428571429
+7D42A18C,"A fast encoding algorithm for fractal image compression using the DCT inner product",0.585714285714,0.421815221815
+096F08BD,"Compression Approach of EMG Signal Using 2D Discrete Wavelet and Cosine Transforms",0.3625,0.277651515152
+7D19FE47,"Bit Rate Reduction Algorithm For A Digital VCR",0.358441558442,0.282558356676
+76D04F48,"A fast recursive algorithm for computing the discrete cosine transform",0.358441558442,0.411255411255
+7E3B3195,"On the discrete cosine transform computation",0.179166666667,0.170454545455
+80A84DE7,"A new algorithm for watermarking based On DCT and chaotic scrambling",0.358441558442,0.6
+760072A6,"Fast DCT-based algorithms for signal convolution and translation",0.358441558442,0.394444444444
+80A820CF,"A two-dimensional fast cosine transform algorithm based on Hou's approach",0.358441558442,0.308181818182
+80FC312C,"A multichip module design for portable video compression systems",0.371428571429,0.336195054945
+7FEDD8AB,"New joint demosaicing and arbitrary-ratio resizing algorithm for color filter array based on DCT approach",0.358441558442,0.241553287982
+7F009C6A,"Transform coding algorithms for seismic data compression",0.585714285714,0.559027777778
+81660CEE,"A Compression Approach of Power Quality Monitoring Data Based on Two-dimension DCT",0.3625,0.254761904762
+80FD1C24,"Efficient Thermal Aware Placement Approach Integrated with 3D DCT Placement Algorithm",0.358441558442,0.294444444444
+7D405BF7,"Mechanical Derivation of Fused Multiply–Add Algorithms for Linear Transforms",0.358441558442,0.538461538462
+5F0FA94E,"A security steganography method for lossy compression gray scale image",0.383333333333,0.29595959596
+795FB7EE,"Facies recognition using a smoothing process through Fast Independent Component Analysis and Discrete Cosine Transform",0.211111111111,0.171601731602
+7F6CBA0A,"Artificial neural network for discrete cosine transform and image compression",0.350505050505,0.328282828283
+7B96CA47,"The decimation-in-frequency algorithms for a family of discrete sine and cosine transforms",0.358441558442,0.318181818182
+80FFB575,"Hardware testing for error tolerant multimedia compression based on linear transforms",0.585714285714,0.430158730159
+80BD2EE4,"Adaptive Local Cosine transform for Seismic Image Compression",0.350505050505,0.400673400673
+5F130632,"Performance enhancement of error resilient entropy coding on block based bitstream of SPIHT",0.363492063492,0.253741496599
+7624A6F0,"Low power field programmable gate array implementation of fast digital signal processing algorithms: characterisation and manipulation of data locality",0.366666666667,0.191056670602
+80B1E697,"Block delta modulation for compression of surveillance video signals",0.34375,0.231240981241
+7A764072,"Fast algorithms for discrete Chebyshev-Vandermonde transforms and applications",0.366666666667,0.583333333333
+7FE3364C,"Comments on “Fast Radix-9 Algorithm for the DCT-IV Computation”",0.333441558442,0.55
+7FD3F0EB,"A refined fast 2-D discrete cosine transform algorithm",0.358441558442,0.411255411255
+5D484B10,"Forward error correction in passive UHF Gen2 communications",0.363492063492,0.408333333333
+7ECD183E,"Analysis, fast algorithm, and VLSI architecture design for H.264/AVC intra frame coder",0.358441558442,0.25119047619
+806C1F82,"Huffman code based error screening and channel code optimization for error concealment in perceptual audio coding (PAC) algorithms",0.577777777778,0.328508457355
+7E0429B2,"Medical image compression by discrete cosine transform spectral similarity strategy",0.350505050505,0.278585858586
+7E68A6E2,"Computation of an odd-length DCT from a real-valued DFT of the same length",0.179166666667,0.180555555556
+6961A5E9,"Encryption method based on a new secret key algorithm for color images",0.358441558442,0.248072562358
+7F4309C0,"Improvement of DCT-Based Compression Algorithms Using Poisson's Equation",0.35625,0.364393939394
+7F930F15,"Curveswithnoregisteredfalseacceptsorrejects.Individualfeaturebitandpatchpositionparametersareoptimizedformatchingthrough a product-of-sum approach to Hamming distance calculation. For verification, a variable threshold is applied to the distance metric and the False Acceptance Rate (FAR) and False Rejection Rate (FRR) are recorded. A new worst-case metric is proposed for predicting practical system performance in the absence of matching failures, and the worst case theoretical Equal Error Rate (EER) is predicted to",0.404166666667,0.179223752438
+7DA44E4A,"Program Compression Based on Arithmetic Coding on Transport Triggered Architecture",0.383333333333,0.25016134659
+808F658A,"Robustness of data compression coding schemes for still pictures over noisy channels",0.372916666667,0.245526695527
+8115ECF8,"Fixed-point zero coefficient-aware fast IQ-IDCT algorithm",0.358441558442,1.0
+7D1D13EF,"Performance Increase of Error Control Operation on Data Transmission",0.34126984127,0.247392290249
+7D951468,"No-Reference Metric Design With Machine Learning for Local Video Compression Artifact Level",0.371428571429,0.24677386106
+7D3FE579,"Issues and solution on distortion drift in reversible video data hiding",0.191666666667,0.125175221604
+8019CF85,"Detecting errors in digital communications with CRC codes implemented with FPGA",0.563492063492,0.475555555556
+7977C7B1,"An efficient algorithm for direct computation of adjacent block coefficients in the transformed domain",0.366666666667,0.30303030303
+7FBBB0EC,"2D DCT compression in the switched-current technique",0.321338383838,0.55
+81457035,"Low bit-rate efficient compression for seismic data",0.350505050505,0.555555555556
+7CBC46FD,"Design and Development of Ant Colony System Algorithms for Block-Based DCT Watermarking",0.333441558442,0.288956043956
+07F035F7,"Selection of polynomials for cyclic redundancy check for the use of high speed embedded: an algorithmic procedure",0.211111111111,0.152583874459
+800AB195,"A New Decomposition Algorithm of DCT-IV/DST-IV for Realizing Fast IMDCT Computation",0.366666666667,0.370833333333
+80B2DDA0,"Computation of discrete cosine transform using Clenshaw's recurrence formula",0.185416666667,0.151363636364
+7EFD4829,"EFFICIENT PRIME FACTOR DECOMPOSITION ALGORITHM AND ADDRESS GENERATION TECHNIQUES FOR THE COMPUTATION OF DISCRETE COSINE TRANSFORM",0.369444444444,0.247113997114
+8176DDE5,"A computation engine for the FFT/FCT/FHT using AT&T DSP32",0.179166666667,0.170833333333
+7DCEAC54,"One- and two-dimensional algorithms for length 15 and 30 discrete cosine transforms",0.358441558442,0.400673400673
+81105141,"Multi-level watermarking with independent decoding",0.2,0.1
+7E9B5112,"Adaptive AC-Coefficient Prediction for Image Compression and Blind Watermarking",0.350505050505,0.328282828283
+7A0699AE,"Fast recursive algorithms for 2-D discrete cosine transform",0.358441558442,0.545454545455
+7DE5CAAE,"An analysis of real-Fourier domain-based adaptive algorithms implemented with the Hartley transform using cosine-sine symmetries",0.358441558442,0.280158730159
+75DE89C0,"A comparative study of DCT and Kekre's median code book generation algorithm for face recognition",0.358441558442,0.225364912865
+7823B8E5,"Vectorcardiographic Data Compression via Walsh And Cosine Transforms",0.328282828283,0.400673400673
+7FE7B86E,"Compression of multispectral images by spectral classification and transform coding",0.383333333333,0.361111111111
+79E9241C,"Medical Images Watermarking Algorithm Based on Improved DCT",0.358441558442,0.437037037037
+7F8F6535,"A DCT chip based on a new structured and computationally efficient DCT algorithm",0.358441558442,0.427777777778
+8014F28E,"Morphological representation of DCT coefficients for image compression",0.35625,0.331755050505
+80FB4511,"Distortion-optimal transmission of progressive images over channels with random bit errors and packet erasures",0.363492063492,0.248412698413
+779CA5B6,"Discussion about the DCT/FFT phase-unwrapping algorithm for interferometric applications",0.350505050505,0.455555555556
+75B2A742,"Content-based image enhancement in the compressed domain based on multi-scale α-rooting algorithm",0.358441558442,0.305404040404
+7CEFC885,"Does decorrelation really improve color image compression?",0.350505050505,0.315555555556
+5D98FE90,"An efficient classification approach based on grid code transformation and mask-matching method",0.183333333333,0.152314814815
+798984E8,"Colonoscopy training for nurse endoscopists: Is it possible? Is it wise? Is it worth doing?",0.177777777778,0.185185185185
+7F430B11,"Process variation tolerant low power DCT architecture",0.233333333333,0.178968253968
+7E41B83E,"Assessment on Undetectable Burst Errors in Tandem CRCs",0.363492063492,0.4
+7DB291D9,"Detecting computer-induced errors in remote-sensing JPEG compression algorithms",1.0,1.0
+75220CAC,"Toward a perceptual video-quality metric",0.2,0.0
+79DA43D6,"Exploring DWT–SVD–DCT feature parameters for robust multiple watermarking against JPEG and JPEG2000 compression",0.350505050505,0.329274891775
+7DE36142,"On the odd-DFT and its applications to DCT/IDCT computation",0.15,0.208333333333
+7F1CAE28,"Analysis of Dyadic Approximation Error for Hybrid Video Codecs With Integer Transforms",0.363492063492,0.28746031746
+79AC67A9,"Weighted sum codes for error detection and their comparison with existing codes",0.363492063492,0.236259920635
+7F3438A9,"Real-valued fast Fourier transform algorithms",0.329274891775,0.400641025641
+808978DB,"Undetected error probability performance of cyclic redundancy-check codes of 16-bit redundancy",0.363492063492,0.293975468975
+7A8BBF8F,"Compression methods for mechanical vibration signals: Application to the plane engines",0.383333333333,0.237670068027
+7FB6E88C,"Second-order derivative-based smoothness measure for error concealment in DCT-based codecs",0.336219336219,0.323232323232
+8078BA49,"Proximal and large hyperplastic and nondysplastic serrated polyps detected by colonoscopy are associated with neoplasia.",0.324786324786,0.248412698413
+808CDED9,"Architecture-oriented regular algorithms for discrete sine and cosine transforms",0.358441558442,0.393939393939
+7F426AF2,"Genetic algorithm based watermarking in double-density dual-tree DWT",0.358441558442,0.6
+76DF42B7,"A NONUNIFORM HIGH-QUALITY IMAGE COMPRESSION METHOD TO PRESERVE USER-SPECIFIED COMPRESSION RATIO",0.350505050505,0.416666666667
+80CE400F,"A VLSI architecture for the real time computation of discrete trigonometric transforms",0.189880952381,0.154761904762
+7B5DACE8,"Representations of Toeplitz-plus-Hankel matrices using trigonometric transformations with application to fast matrix-vector multiplication",0.183333333333,0.147108843537
+7E0F3E15,"Image Compression Using a Fast and Efficient Discrete Tchebichef Transform Algorithm",0.585714285714,0.577777777778
+7E3563C1,"Adaptive Dynamic Image Compression for Transmission",0.372916666667,0.425925925926
+8115F468,"A Novel Robust Watermarking Algorithm Based on DWT and DCT",0.358441558442,0.6
+7DBDFC9F,"Hardware implementation of 4×4 DCT/quantization block using multiplication and error-free algorithm",0.360714285714,0.299523809524
+7D1880FD,"Algorithm for p/sup m/-length discrete cosine transform",0.358441558442,0.545454545455
+7EA9D970,"A symbol based algorithm for hardware implementation of cyclic redundancy check (CRC)",0.360714285714,0.269384319384
+042A4C94,"Discrete cosine transform algorithms",0.358441558442,0.545454545455
+76C00EF0,"Improved CRC Calculation Strategies for 64-bit Serial RapidIO",0.179166666667,0.169191919192
+7CEB4C18,"Practical fast asymmetric DCT algorithm and its SIMD and VLIW oriented architecture",0.358441558442,0.334821428571
+7F683F38,"A hybrid DCT-SVD image-coding algorithm",0.358441558442,1.0
+7DD3AE7F,"On computation of the discrete W transform",0.179166666667,0.166666666667
+7E4720FD,"Colorectal cancers detected after colonoscopy frequently result from missed lesions.",0.324786324786,0.264036725801
+80E2EE1E,"Using tchebichef moment for fast and efficient image compression",0.3625,0.309444444444
+7576CA59,"A new VLSI algorithm and architecture for the hardware implementation of type IV discrete cosine transform using a pseudo-band correlation structure",0.360714285714,0.193773448773
+8122FF83,"A robust image authentication method distinguishing JPEG compression from malicious manipulation",0.372916666667,0.270442520443
+8098379A,"Multimedia Courseware Copyright Notification and Protection Based on DCT",0.177777777778,0.183333333333
+7E84581C,"An efficient parallel algorithm for high resolution color image reconstruction",0.358441558442,0.246043771044
+7EDD5239,"Fast algorithms for type-III DCT of composite sequence lengths",0.358441558442,0.400673400673
+81527089,"A Robust Chaos-Based DCT-Domain Watermarking Algorithm",0.358441558442,1.0
+5937B17A,"Combined Polynomial Transform and Radix- q Algorithm for Multi-dimensional DCT-III",0.358441558442,0.41452991453
+7FFC99F7,"A Novel Approach to Medical Image Compression Using Sequential 3D DCT",0.3625,0.359027777778
+8172C5D7,"Matrix Factorization for Fast DCT Algorithms",0.358441558442,0.390476190476
+7D2D6CA5,"Efficient reverse-play algorithms for MPEG video with VCR support",0.377777777778,0.437037037037
+7C0C8F4C,"SPDEF Functions as a Colorectal Tumor Suppressor by Inhibiting β-Catenin Activity",0.20625,0.122222222222
+7856ADC0,"The New Peak-to-Average Power Reduction Algorithm in the OFDM System",0.358441558442,0.332722832723
+77A32400,"A robust watermarking algorithm based on salient image features",0.358441558442,0.350505050505
+7AC60986,"A further reduction of multiplications in Wang's fast DCT algorithm",0.358441558442,0.404761904762
+7F86A83B,"A Complexity Scalable Universal DCT Domain Image Resizing Algorithm",0.358441558442,0.287626262626
+76EE3C93,"Hologram-based watermarking capable of surviving print-scan process",0.211111111111,0.266666666667
+772A5A19,"Video compression using the three dimensional discrete cosine transform (3D-DCT)",0.350505050505,0.350505050505
+7EEBE3AF,"Efficient algorithm for early detecting all-zero DCT blocks in H.264 video encoding",0.558441558442,0.46746031746
+5C7A3E1D,"A Dynamically Reconfigurable Function-Unit for Error Detection and Correction in Mobile Terminals",0.363492063492,0.324107142857
+794717A5,"Electrocardiographic Data Compression Via Orthogonal Transforms",0.350505050505,0.555555555556
+75612102,"Algorithm for prime length discrete cosine transforms",0.358441558442,0.400673400673
+7856FCC6,"High performance data compression method with pattern matching for biomedical ECG and arterial pulse waveforms",0.363492063492,0.235218253968
+8145C6D9,"A Novel DCT-Based Algorithm for Computing the Modulated Complex Lapped Transform",0.358441558442,0.300324675325
+7A6CB18E,"Image watermarking using a dynamically weighted fuzzy c-means algorithm",0.358441558442,0.437037037037
+5B5E50EF,"Comparative study of image compression",0.3625,0.412037037037
+7E28FE8C,"A Novel Watermarking Algorithm in Entropy Coding Based on Image Complexity Analysis",0.358441558442,0.255725623583
+7D655D4E,"Handling transmission error for IPv6 packets over high speed networks",0.363492063492,0.275925925926
+75D18C20,"Fast algorithm and implementation of 2-D discrete cosine transform",0.360714285714,0.411255411255
+7F59E984,"Embedded image coding algorithm based on all phase biorthogonal transform and SPIHT",0.358441558442,0.276851851852
+80179AA8,"Improved ECG compression method using discrete cosine transform",0.350505050505,0.313737373737
+75BE5F70,"A variation on SVD based image compression",0.363492063492,0.377777777778
+7E7A8D13,"Parallel and Pipelined Architectures for Cyclic Convolution by Block Circulant Formulation Using Low-Complexity Short-Length Algorithms",0.358441558442,0.231799153228
+7CFDCFEC,"A fast error protection scheme for transmission of embedded coded images over unreliable channels and fixed packet size",0.377777777778,0.221432178932
+6991E973,"A novel clonal selection algorithm based fragile watermarking method",0.377777777778,0.377777777778
+7D9FC910,"New Method of Image Compression Using Multiwavelets and Set Partitioning Algorithm",0.585714285714,0.381746031746
+7F640FAD,"Error masking probability of 1's complement checksums",0.349206349206,0.287137862138
+80EEA706,"Novel DCT-Based Real-Valued Discrete Gabor Transform and Its Fast Algorithms",0.358441558442,0.400641025641
+7A6D7FA4,"A Comparative Study of Image Compression Algorithms",0.585714285714,0.559027777778
+58D6ABC9,"Image compression and gamma correction using DCT",0.35625,0.302606837607
+7C0DF4A1,"New Systolic Algorithm and Array Architecture for Prime-Length Discrete Sine Transform",0.358441558442,0.318362193362
+80D38B01,"Transform methods for seismic data compression",0.350505050505,0.407407407407
+8069FC21,"Galois field computation LSI: a reconfigurable chip for high-speed communication",0.20625,0.16369047619
+8179A37C,"Hemorrhoids detected at colonoscopy: an infrequent cause of false-positive fecal immunochemical test results",0.340277777778,0.249142061642
+7AF43C5C,"Design, analysis and experimental evaluation of block based transformation in MFCC computation for speaker recognition",0.2125,0.154097754098
+7A1904AD,"Recursive algorithm, architectures and FPGA implementation of the two-dimensional discrete cosine transform",0.360714285714,0.326298701299
+7B6EB92B,"Error Analysis and Efficient Realization of the Multiplier-Less FFT-Like Transformation (ML-FFT) and Related Sinusoidal Transformations",0.385714285714,0.300072150072
+7E5FC508,"Hardware support of JPEG",0.150505050505,0.2
+7B0DBBE2,"A UNIVERSAL ALGORITHM FOR PARALLEL CRC COMPUTATION AND ITS IMPLEMENTATION",0.366666666667,0.464285714286
+808DCD61,"A fast approximate algorithm for scaling down digital images in the DCT domain",0.358441558442,0.336219336219
+788DA68A,"Fast decimation-in-time algorithms for a family of discrete sine and cosine transforms",0.358441558442,0.318181818182
+7E3FE717,"Parallel CRC Logic Optimization Algorithm for High Speed Communication Systems",0.39375,0.310384615385
+7FA005E7,"Fast Radix- $q$ and Mixed-Radix Algorithms for Type-IV DCT",0.358441558442,1.0
+79F462B9,"The XYZ Algorithm For Real-Time Compression of Full-Motion Video",0.585714285714,0.703703703704
+808DC177,"Analysis of IMDCT fast algorithms",0.327672327672,0.422619047619
+7F90CCAE,"The JPEG still picture compression standard",0.350505050505,0.555555555556
+80025162,"Multiplication-free approximate algorithms for compressed-domain linear operations on images",0.369444444444,0.425925925926
+7E52E3C6,"A 3D DCT architecture for compression of integral 3D images",0.350505050505,0.39417989418
+7B390B01,"Transform-domain and DSP based secure speech communication system",0.185416666667,0.181730769231
+8175CF8E,"Applying Statistics Ogive to Semi-Fragile Authentication of JPEG Images for Communication System",0.185416666667,0.134311059311
+7BE7473E,"Novel video coding algorithm based on 3D-binDCT",0.358441558442,0.359027777778
+7EA5D233,"Performance evaluation of DWT, DCT, and WHT for compression of ultrasonic signals",0.385714285714,0.366964285714
+705F545F,"Five decade evolution of feedback shift register: algorithms, architectures and applications",0.350694444444,0.215431096681
+77875BF9,"Increasing image compression rate using steganography",0.383333333333,0.288624338624
+7E2DBA1F,"A low-complexity parametric transform for image compression",0.350505050505,0.555555555556
+77F50821,"Large-scale wave-front reconstruction for adaptive optics systems by use of a recursive filtering algorithm",0.377777777778,0.287435897436
+80C9391F,"Enhancing the Error Detection Capabilities of DCT Based Codecs using Compressed Domain Dissimilarity Metrics",0.363492063492,0.21218004218
+7F70ED98,"Fast parallel CRC algorithm and implementation on a configurable processor",0.360714285714,0.40873015873
+7E82293B,"Efficient channel code rate selection algorithms for forward error correction of packetized multimedia bitstreams in varying channels",0.377777777778,0.249691358025
+7E22537C,"CRC-assisted error correction in a trellis coded system with bit stuffing",0.344742063492,0.230631868132
+7F8514A7,"A new orthogonal transform for signal coding",0.158333333333,0.166666666667
+816929C1,"FPGA implementation of a novel, fast motion estimation algorithm for real-time video compression",0.585714285714,0.361678004535
+7F12073B,"Optimum DCT-Based Multicarrier Transceivers for Frequency-Selective Channels",0.147916666667,0.166666666667
+7D23D7E0,"A DCT Approximation for Image Compression",0.323232323232,0.398148148148
+5C9FB936,"Security Evaluation of Generalized Patchwork Algorithm from Cryptanalytic Viewpoint",0.377777777778,0.300404040404
+7F911A7A,"Fast algorithms for computing the discrete cosine transform",0.358441558442,0.411255411255
+80EBD440,"A Fast Algorithm for Reconstructing Motion-Compensated Blocks in Compressed Domain",0.358441558442,0.321338383838
+80BBC93D,"Exploiting the JPEG compression scheme for image retrieval",0.342171717172,0.288023088023
+81648E5D,"Fast scene change detection using direct feature extraction from MPEG compressed videos",0.185416666667,0.130424513758
+7F11E126,"Optical computing techniques for image/video compression",0.350505050505,0.414285714286
+7E0BE56F,"Hierarchical HDTV/SDTV compatible coding using Kalman statistical filtering",0.2,0.1625
+8055714D,"New low complexity DCT based video compression method",0.350505050505,0.355555555556
+8161D4E4,"Data Hiding in H.264/AVC Streams with Limited Intra-Frame Distortion Drift",0.191666666667,0.128023088023
+7E37668E,"A Robust Image Watermarking Algorithm Based on Non-uniform Rectangular Partition and DCT-SVD",0.358441558442,0.347008547009
+75A2F594,"A set of new fast algorithms for DCTs and DSTs",0.358441558442,0.555555555556
+0A51DB94,"Probability of undetected error with redundant data transmission on a binary symmetric channel without memory",0.363492063492,0.280092592593
+7EDB4A91,"New fast recursive algorithms for the computation of discrete cosine and sine transforms",0.366666666667,0.357954545455
+80E6A82C,"Direct transform to transform computation",0.179166666667,0.208333333333
+7F40EE82,"Fast RNS-based 2D-DCT computation on field-programmable devices",0.179166666667,0.180555555556
+7D69646C,"New scaled DCT algorithms for fused multiply/add architectures",0.358441558442,0.404761904762
+7CFA973D,"Fast 4x4 Tchebichef Moment Image Compression",0.350505050505,0.407407407407
+7DAF317B,"A SIMPLIFIED 8 × 8 TRANSFORMATION AND QUANTIZATION REAL-TIME IP-BLOCK FOR MPEG-4 H.264/AVC APPLICATIONS: A NEW DESIGN FLOW APPROACH",0.183333333333,0.145105820106
+7FD46974,"A novel recursive algorithm for bit-efficient realization of arbitrary length inverse modified cosine transforms",0.358441558442,0.261784511785
+81736770,"New polynomial transform algorithm for multidimensional DCT",0.358441558442,1.0
+7A61FB18,"A global method for invertible integer DCT and integer wavelet algorithms",0.366964285714,0.287222222222
+8007F0A8,"An adaptive 3-D discrete cosine transform coder for medical image compression",0.350505050505,0.321338383838
+76905833,"All phase biorthogonal transform and its application in JPEG-like image compression",0.361111111111,0.347222222222
+7F39B21D,"On image compression systems for band-limited information networks",0.328282828283,0.282051282051
+79567C3F,"New algorithm for r-dimensional DCT-II",0.358441558442,1.0
+7AC7B338,"Detecting Double JPEG Compression With the Same Quantization Matrix",0.550505050505,0.552777777778
+78165E1E,"An edge property-based neighborhood region search strategy for fractal image compression",0.377777777778,0.233683776541
+812E7ABE,"Visibility of DCT Quantization Error: Effects of Display Resolution",0.338492063492,0.247306397306
+7C0B6979,"Adaptive Block-Wise Compressive Image Sensing Based on Visual Perception",0.135732323232,0.168055555556
+805C60A6,"An efficient arbitrary downsizing algorithm for video transcoding",0.366666666667,0.425925925926
+8162FD2F,"A new parallel algorithm for CRC generation",0.358441558442,0.555555555556
+5F5D20F5,"A Novel Algorithm for Segmentation of Lung Images",0.358441558442,0.315277777778
+781849EC,"Invertible integer DCT algorithms",0.358441558442,0.55
+7DDEE283,"A practical adaptive image compression technique using visual criteria for still-picture transmission with electronic mail",0.372916666667,0.257142857143
+8090CE25,"Compression of ECG signals exploiting correlation between ECG cycles",0.347916666667,0.268981481481
+815FC6F4,"Low complexity image compression for wireless multimedia sensor networks",0.372916666667,0.261904761905
+7ECD6FA1,"Parallel 3-dimensional DCT computation on k-ary n-cubes",0.179166666667,0.25
+7C463363,"Diet and physical activity intervention in colorectal cancer survivors: A feasibility study",0.20625,0.129122103387
+7AD308E2,"The Stool DNA Test Is More Accurate Than the Plasma Septin 9 Test in Detecting Colorectal Neoplasia",0.306547619048,0.206003891941
+7F83347C,"Compression of ECG signal based on its deviation from a reference signal using discrete cosine transform",0.35625,0.249810606061
+7F27B566,"Influence of Family History of Colorectal Cancer on Health Behavior and Performance of Early Detection Procedures: The SUN Project",0.211111111111,0.130495173276
+7E6D504A,"Adaptive Histogram Equalization and Logarithm Transform with Rescaled Low Frequency DCT Coefficients for Illumination Normalization",0.185416666667,0.133080808081
+7D9E7D92,"Karhunen-Loeve transform-based fast algorithms for image restoration",0.331168831169,0.329861111111
+7CADF28C,"Impact of fair bowel preparation quality on adenoma and serrated polyp detection: data from the New Hampshire Colonoscopy Registry by using a standardized preparation-quality rating",0.185714285714,0.114046775246
+7A4A5BEE,"Image compression using multiple transforms",0.350505050505,0.437037037037
+751BAB5F,"Fast 2-D 8×8 discrete cosine transform algorithm for image coding",0.366666666667,0.342171717172
+7F2A1409,"Data compression of power quality events using the slantlet transform",0.404166666667,0.299537037037
+7DC393ED,"An Improved Zero-Block Mode Decision Algorithm for H.264/AVC",0.366666666667,0.425925925926
+80AC0C87,"Fractal image compression with region-based functionality",0.323232323232,0.400673400673
+60C2371C,"New 2 n DCT algorithms suitable for VLSI implementation",0.360714285714,0.571428571429
+7B420B46,"DCT-like transform for image compression requires 14 additions only",0.350505050505,0.348611111111
+5D7832B2,"Using PSO algorithm for simple LSB substitution based steganography scheme in DCT transformation domain",0.391666666667,0.264393939394
+7D05A275,"An study of removal of subjective redundancy in JPEG for low cost, low power, computation efficient circuit design and high compression image",0.404166666667,0.211356421356
+80FEC7DD,"Nonuniform Fast Cosine Transform and Chebyshev Pstd Algorithms",0.358441558442,1.0
+7E3EA536,"Improved compression by coupling of coding techniques and redundant transform",0.350505050505,0.306904761905
+75FD15FB,"What's that deal with the DCT?",0.123421717172,0.166666666667
+726B7D42,"Weighted universal transform coding: universal image compression with the Karhunen-Loeve transform",0.383333333333,0.355158730159
+7DF8E27C,"Common Architecture Design of Novel Recursive MDCT and IMDCT Algorithms for Application to AAC, AAC in DRM, and MP3 Codecs",0.366666666667,0.345238095238
+7D74C083,"Adaptive Seismic Data Compression Using Wavelet Packets",0.35625,0.309444444444
+7F312CB7,"MD5-Based Error Detection",0.336219336219,0.55
+54FA75E0,"Public watermarking algorithm based on the polarity of DCT coefficients",0.358441558442,0.350505050505
+772EA4E6,"An efficient algorithm for the 2-D discrete cosine transform",0.358441558442,0.545454545455
+783C3DCC,"A mixed transform approach for efficient compression of medical images",0.3625,0.412037037037
+7F2185C8,"Maximum likelihood based estimation of frequency and phase offset in DCT OFDM systems under non-circular transmissions: algorithms, analysis and comparisons",0.366666666667,0.200535575536
+83A37E0A,"A hybrid multilayer error control technique for multihop ATM networks",0.363492063492,0.280404040404
+792E12D0,"A modified discrete Fourier-cosine transform algorithm and its VLSI implementation",0.360714285714,0.571428571429
+7E3C3860,"A prototype VLSI chip architecture for JPEG image compression",0.325505050505,0.273174603175
+7D986A49,"A new fast DCT algorithm and its systolic VLSI implementation",0.360714285714,0.422619047619
+7F58D325,"A low-complexity computation scheme of discrete cosine transform and quantization for video compression",0.404166666667,0.275673400673
+7D16572F,"On the modeling of DCT and subband image data for compression",0.328282828283,0.326388888889
+75538016,"Roundoff error analysis of fast DCT algorithms in fixed point arithmetic",0.577777777778,0.460622710623
+7DB2082D,"Voice activity detection based on multiple statistical models",0.20625,0.146363636364
+80EC162C,"New hardware-efficient algorithm and architecture for the computation of 2-D DCT on a linear systolic array",0.366666666667,0.358134920635
+7D5BAD86,"Fast parallel CRC & DBI calculation for high-speed memories: GDDR5 and DDR4",0.179166666667,0.180555555556
+7520304E,"Image representation using block compressive sensing for compression applications",0.383333333333,0.255158730159
+7A5103FD,"An Efficient Low Complexity Transform for DCT-OFDM Based Wireless Communication System",0.185416666667,0.159508547009
+7DBB7709,"An Improved JPEG Image Compression Technique based on Selective Quantization",0.350505050505,0.304444444444
+7E458130,"Bit-Wise Error Detection Based Iterative Signal Detection for OFDM MIMO Multiplexing",0.363492063492,0.35
+7CEDD28A,"A polynomial-transform based computation of the 2-D DCT with minimum multiplicative complexity",0.179166666667,0.187037037037
+77C93D55,"A new fast algorithm for the unified forward and inverse MDCT/MDST computation",0.366666666667,0.311507936508
+80354C35,"A Novel Algorithm for Decapsulation and Decoding of DVB-H Link Layer Forward Error Correction",0.358441558442,0.290238095238
+777BD865,"A New Algorithm for Discrete Cosine Transform of Arbitrary Number of Points",0.358441558442,0.316287878788
+7ED85F87,"A comparison of error behaviour in the implementation of the DCT and the ICT",0.338492063492,0.341964285714
+807E0123,"A DCT-Based Fractal Image Compression Method",0.323232323232,0.407407407407
+7E97504B,"The impact of suboptimal bowel preparation on adenoma miss rates and the factors associated with early repeat colonoscopy",0.185714285714,0.115870142929
+7F0992AD,"A new class of fast shape-adaptive orthogonal transforms and their application to region-based image compression",0.383333333333,0.347222222222
+7D10C675,"Fast algorithms for multidimensional DCT-to-DCT computation between a block and its associated subblocks",0.366666666667,0.444444444444
+773AC8B0,"On computing undetected error probabilities on the Gilbert channel",0.363492063492,0.303571428571
+7E342CFD,"A skin detection algorithm based on discrete Cosine transform and generalized Gaussian density",0.358441558442,0.294848484848
+7B476B45,"DCT-based image compression using wavelet-based algorithm with efficient deblocking filter",0.585714285714,0.476507936508
+7D53C32F,"A generalized output pruning algorithm for matrix-vector multiplication and its application to compute pruning discrete cosine transform",0.366666666667,0.220689033189
+6991F605,"A novel embedded coding algorithm based on the reconstructed DCT coefficients",0.358441558442,0.247907647908
+7EBEC735,"Fast algorithm for computing discrete cosine transform",0.358441558442,0.411255411255
+7F67A54D,"Compression of hyperspectral imagery using the 3-D DCT and hybrid DPCM/DCT",0.350505050505,0.433333333333
+77848FD0,"Compression of image clusters using Karhunen Loeve transformations",0.363492063492,0.322222222222
+77614A9E,"Motion-compensated prediction based algorithm for medical image sequence compression",0.585714285714,0.415488215488
+7A09ECAD,"Two new algorithms based on product system for discrete cosine transform",0.358441558442,0.288951048951
+7D73B192,"Algorithms for adaptive transform edge detection",0.358441558442,0.390476190476
+7B3CBA79,"The Increasing Incidence of Young-Onset Colorectal Cancer: A Call to Action",0.185416666667,0.121017952636
+7CFA4056,"A scaled DCT architecture with the CORDIC algorithm",0.358441558442,0.535714285714
+7D5B8DF1,"On optimal coding of visual information for Rate-Controlled communication",0.185416666667,0.175925925926
+791EFC2F,"A new fast algorithm for computing prime-length DCT through cyclic convolutions",0.358441558442,0.341964285714
+807EBA50,"COMPRESSION OF HYPERSPECTRAL IMAGERY USING HYBRID DPCM/DCT AND QUANTIZATION ENTROPY-CONSTRAINED TRELLIS CODED",0.350505050505,0.266435185185
+78E439ED,"A FPGA Implementation of a DCT-Based Digital Electrocardiographic Signal Compression Device",0.363492063492,0.406593406593
+79896194,"Performance analysis of the DCT-LMS adaptive filtering algorithm",0.363492063492,0.428571428571
+80AA9B76,"Practical fast 1-D DCT algorithms with 11 multiplications",0.358441558442,0.412698412698
+80839439,"Concurrent error detection in fast unitary transform algorithms",0.577777777778,0.7
+7CEC31E2,"Study on the algorithm of the Fractional Cosine Transform based on adaptive LMS algorithm",0.358441558442,0.298566433566
+7F7A596F,"AZB Prediction Algorithms in SSD-Based Video Coding",0.344444444444,0.342171717172
+7B25B2E5,"Reliable information embedding for image/video in the presence of lossy compression",0.350505050505,0.334027777778
+7F9EBFE7,"An Authenticating Algorithm with Multi-compression Compatible in DCT Domain",0.331168831169,0.393939393939
+7EA9A06C,"Log-Likelihood-Ratio based Selective Decode and Forward Cooperative Communication",0.185416666667,0.225
+7DEB0B9C,"Implementation of vedic multiplier in image compression using DCT algorithm",0.585714285714,0.425661375661
+81484EBE,"Quadtree image compression using sub-band DCT features and Kohonen neural networks",0.350505050505,0.302626262626
+7766C10B,"Fast discrete cosine transform algorithm for systolic arrays",0.358441558442,0.400673400673
+7DA70925,"New Pixel-DCT Domain Coding Technique for Object Based and Frame Based Prediction Error",0.369444444444,0.231621773288
+589B016F,"Data compression of color images using a probabilistic linear transform approach",0.3625,0.274537037037
+784D8006,"Codebook Design for Vector Quantization Based on a Kernel Fuzzy Learning Algorithm",0.358441558442,0.259174952032
+81476B50,"Architectural approaches for video compression",0.3625,0.412037037037
+805FEED8,"Applying a Disciplined Approach to the Development of a Context-Aware Communication Application",0.185416666667,0.173333333333
+7D2EB4E2,"Blind rate detection algorithm in W-CDMA mobile receiver",0.336219336219,0.243607549858
+7CFFB80C,"JPEG Image Compression and Transmission over Wireless Channel",0.372916666667,0.361111111111
+80DFDBEE,"Further results on "New fast recursive algorithms for the discrete cosine and sine transforms"",0.358441558442,0.318181818182
+7C81282F,"On the Error-Free Realization of a Scaled DCT Algorithm and Its VLSI Implementation",0.360714285714,0.411255411255
+80BEAFD0,"JPEG-Based Image Coding Algorithm at Low Bit Rates with Down-Sampling and Interpolation",0.358441558442,0.254024216524
+7B50A30A,"A Blind Watermarking Algorithm Based on Block DCT for Dual Color Images",0.358441558442,0.298888888889
+759E5C8E,"Fast algorithms for discrete polynomial transforms on arbitrary grids",0.358441558442,0.555555555556
+786880C7,"Bilinear algorithms for discrete cosine transforms of prime lengths",0.358441558442,0.400673400673
+7596E850,"Discrete cosine and sine transforms—regular algorithms and pipeline architectures",0.358441558442,0.321834415584
+810089BD,"Fast-acting and resolution improve of DCT algorithms with the use of synthetic coding",0.377777777778,0.364393939394
+80C2DC65,"Warped discrete cosine transform and its application in image compression",0.383333333333,0.298737373737
+7D93FB4D,"Fast directional discrete cosine transform for image compression",0.350505050505,0.400673400673
+80179D9D,"A fast picture compression technique",0.350505050505,0.390476190476
+7C5BD5F9,"Fast algorithms for the discrete W transform and for the discrete Fourier transform",0.358441558442,0.386752136752
+80CE5542,"Polynomial transform computation of the 2-D DCT",0.179166666667,0.25
+7BE963B3,"Accuracy of Capsule Colonoscopy in Detecting Colorectal Polyps in a Screening Population.",0.328282828283,0.245238095238
+7EF0AFF0,"Coefficient Elimination Algorithm for Low Energy Distributed Arithmetic DCT Architectures",0.358441558442,0.280463980464
+79137A44,"Genetic Watermarking for Zerotree-Based Applications",0.158333333333,0.166666666667
+7EE349C1,"RGB Image Compression Using Two Dimensional Discrete Cosine Transform",0.350505050505,0.350505050505
+7D0474CC,"An adaptive time-shift analysis for DCT based speech enhancement",0.163492063492,0.166964285714
+7E220508,"Digital Image Compression and Decompression Using Three Different Transforms and Comparison of Their Performance",0.366964285714,0.283994708995
+75B69319,"Simultaneous compression and encryption of color video images",0.371428571429,0.293015873016
+80DD48AD,"A rate control algorithm for DCT-based video coding using simple rate estimation and linear source model",0.358441558442,0.201590909091
+7A2CA082,"Harmonic Identification Algorithms Based on DCT for Power Quality Applications",0.366666666667,0.294907407407
+7FE1540D,"CRC extension header (CEH): A new model to handle transmission error for IPv6 packets over fiber optic links",0.363492063492,0.221231546232
+5B3C55B6,"Adaptive Orthogonal Transform for Motion Compensation Residual in Video Compression",0.350505050505,0.280952380952
+80654D7D,"Cooley-Tukey FFT like algorithms for the DCT",0.327672327672,1.0
+78567692,"Enhancement of image watermark retrieval based on genetic algorithms",0.358441558442,0.265145502646
+751C439E,"A new algorithm to compute the discrete cosine Transform",0.358441558442,0.411255411255
+7F466EB6,"Indexing and Retrieval Medical images based on 2X2 DCT and IDS Compression",0.371428571429,0.303293650794
+7D3D4C8D,"A Low-Complexity Cross-Layer Optimization Algorithm for Video Communication Over Wireless Networks",0.371527777778,0.309722222222
+7FD829FD,"Image Compression Using the Discrete Cosine Transform",0.350505050505,0.350505050505
+78BC2F56,"Novel artifact removal algorithm in the discrete cosine transform domain",0.358441558442,0.279545454545
+815875DE,"Fast algorithms for the computation of sliding discrete sinusoidal transforms",0.366666666667,0.464285714286
+7D843341,"A Fast Computational Algorithm for the Discrete Cosine Transform",0.358441558442,0.545454545455
+32B44AA8,"The increase of DFT and DCT computation rate and accuracy with the use of parallel operations",0.190277777778,0.158333333333
+7D345FE6,"Lossy to lossless image compression based on reversible integer DCT",0.350505050505,0.352777777778
+7E86A765,"VLSI design of a high-throughput discrete cosine transform for image compression systems",0.371428571429,0.28436008436
+78C900E6,"Dynamic range compression and contrast enhancement for digital images in the compressed domain",0.35625,0.25484006734
+7D80EAEE,"Energy-Efficient Error Control for Tightly Coupled Systems Using Silicon Photonic Interconnects",0.363492063492,0.303956043956
+7DF7BFE1,"A Watermarking Algorithm for Digital Image Based on DCT and SVD",0.358441558442,0.437037037037
+7E0D2AAB,"A real-time ECG data compression algorithm for a digital holter system",0.585714285714,0.457606837607
+811C0B21,"An error detection and recovery algorithm for compressed video signal using source level redundancy",0.585714285714,0.296432178932
+7E1E952E,"DIGICOP: A Copyright protection algorithm for Digital Images",0.377777777778,0.350505050505
+053359BE,"A fast zigzag-pruned 4×4 DTT algorithm for image compression",0.585714285714,0.703703703704
+8002ADA0,"An Adaptive Hybrid Classified Vector Quantisation and its Application to Image Compression",0.383333333333,0.241161616162
+6C1667EA,"Complexity-scalable transform coding using variable complexity algorithms",0.358441558442,0.359027777778
+773DAB7C,"Split-radix fast cosine transform algorithm",0.358441558442,0.545454545455
+7D7C4CB0,"Efficient coding and mapping algorithms for software-only real-time video coding at low bit rates",0.366666666667,0.241544566545
+7819DDBF,"On the algorithms for the computation of even discrete cosine transform-2 (EDCT-2) of real sequences",0.366666666667,0.357954545455
+7E68B3B1,"Data compression of ECG's by high-degree polynomial approximation",0.350505050505,0.323611111111
+80A2056D,"Signal compression method for biomedical image using the discrete orthogonal Gauss-Hermite transform",0.350505050505,0.355555555556
+784FA036,"Algorithm for cosine transform of Toeplitz matrices",0.333441558442,0.55
+78DA7A02,"Robust watermarking algorithm for digital image based on SIFT feature points",0.358441558442,0.297070707071
+7E42ABD7,"JAGUAR: a fully pipelined VLSI architecture for JPEG image compression standard",0.350505050505,0.268253968254
+80F594C6,"Image compression by self-organized Kohonen map",0.323232323232,0.39417989418
+800246AB,"Multiscale electrophysiology format: An open-source electrophysiology format using data compression, encryption, and cyclic redundancy check",0.371428571429,0.227038239538
+7F555C95,"Pipelined Fast 2-D DCT Architecture for JPEG Image Compression",0.350505050505,0.39417989418
+7E20E2C3,"Image compression algorithms using re-configurable logic",0.350505050505,0.348611111111
+77ED7331,"The discrete modal transform and its application to lossy image compression",0.383333333333,0.336111111111
+7F98E457,"Change detection in very high resolution imagery based on dynamic time warping: An implementation for Haiti earthquake damage assessment",0.185416666667,0.140582145128
+784CCB29,"Compression of Stereoscopic Images Using Pyramid and Prune DCT Encoding",0.350505050505,0.268590668591
+7F1283D6,"Image compression on FPGA using DCT",0.350505050505,0.437037037037
+7F26B520,"DCT coefficients recovery-based error concealment technique and its application to the MPEG-2 bit stream error",0.344444444444,0.364069264069
+677B756B,"Image compression by redundancy reduction",0.336219336219,0.336219336219
+80F2BBBD,"The max-log list algorithm (MLLA)-a list-sequence decoding algorithm that provides soft-symbol output",0.344155844156,0.400865800866
+77BD8E07,"Perceptual activity measures computed from blocks in the transform domain",0.20625,0.135642135642
+80E4EB6D,"A failure detection method for integrated voice/data packet networks",0.196825396825,0.153333333333
+79587939,"3D scanning-based compression technique for digital hologram video",0.350505050505,0.319444444444
+81329CE7,"Compression of color digital images using vector quantization in product codes",0.350505050505,0.224198717949
+7D9FEA0C,"On the on-line computation of DCT-IV and DST-IV transforms",0.179166666667,0.25
+7AB1DB12,"Scalable FPGA-based architecture for DCT computation using dynamic partial reconfiguration",0.179166666667,0.17380952381
+7F825A38,"Radioembolization versus Standard Care of Hepatic Metastases: Comparative Retrospective Cohort Study of Survival Outcomes and Adverse Events in Salvage Patients",0.195833333333,0.125048100048
+7558E3E8,"Genetic alterations in colorectal cancers with demethylation of insulin-like growth factor II",0.185416666667,0.118835412953
+7FA84480,"Comments on "Fast algorithms and implementation of 2-D discrete cosine transform"",0.360714285714,0.333441558442
+8165C68A,"A General Method for Detecting All-Zero Blocks Prior to DCT and Quantization",0.323232323232,0.326388888889
+7CF7AC06,"Algorithms for iterative phase noise estimation based on a truncated DCT expansion",0.371428571429,0.275198412698
+795100B3,"Robust watermarking procedure based on JPEG discrete cosine transform image compression",0.433333333333,0.347070707071
+7AB9369B,"Group testing for image compression using alternative transforms",0.363492063492,0.319365079365
+7C0D28EE,"Fast and stable algorithms for discrete spherical Fourier transforms",0.358441558442,0.538461538462
+77D126F2,"Signal compression using the discrete wavelet transform and the discrete cosine transform",0.35625,0.353977272727
+814DA25C,"Simple Element Inverse DCT/DFT Hybrid Architecture Algorithm",0.358441558442,0.318362193362
