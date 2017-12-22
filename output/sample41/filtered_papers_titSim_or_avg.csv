@@ -1,0 +1,384 @@
+7D37A34B,"Reconciling role based management and role based access control",0.171428571429,0.185714285714
+75E8C8A3,"Supporting dynamic administration of RBAC in web-based collaborative applications during run-time",0.145833333333,0.191964285714
+7E9B9801,"Sorting out role based access control",0.133928571429,0.176904761905
+7AC88A0E,"Spatial Domains for the Administration of Location-based Access Control Policies",0.333333333333,0.196753246753
+7A996420,"Trusted P2P computing environments with role-based access control",0.55,0.31380952381
+5BDBDC67,"Web Security Using Distributed Role Hierarchy",0.145833333333,0.185
+7F8D666D,"Grid Learning Management System with role-based access control",0.171428571429,0.158994708995
+77323DCF,"Ensuring authorization privileges for cascading user obligations",0.1625,0.189848484848
+80DCAB0F,"Activity Theory Guided Role Engineering",0.155555555556,0.158181818182
+7F70620A,"Introducing Role-Based Access Control to a Secure Virtual Machine Monitor: Security Policy Enforcement Mechanism for Distributed Computers",0.455555555556,0.194800653892
+7D7BBD75,"Enforcing Information Flow Constraints in RBAC Environments",0.5625,0.318571428571
+5CA2657B,"Separation of Duty in Trust-Based Collaboration",0.625,0.483333333333
+7D5B2FB1,"Generation of Personalized Web Courses Using RBAC",0.133928571429,0.178075396825
+7B7FDE1A,"Enabling technologies for role based online decision engines",0.116883116883,0.17380952381
+771282C9,"Role mining using answer set programming",0.125,0.163888888889
+5F498082,"Reasoning about Dynamic Delegation in Role Based Access Control Systems",0.133928571429,0.161281179138
+7AF94055,"A formal enforcement framework for role-based access control using aspect-oriented programming",0.171428571429,0.162572150072
+7B46D51E,"A framework for implementing role-based access control using CORBA security service",0.154761904762,0.172850958565
+7DF16D61,"Comprehensive two-level analysis of role-based delegation and revocation policies with UML and OCL",0.1875,0.144255050505
+7A8D96DF,"Beyond accountability: using obligations to reduce risk exposure and deter insider attacks",0.1625,0.161607142857
+80B0A174,"Concurrency control using role ordering (RO) scheduler for distributed objects",0.428571428571,0.243165784832
+68EBF74E,"A Uniform Approach to Securing Unix Applications Using SESAME",0.116883116883,0.170793650794
+7D4D1730,"An Administration Model for RBAC Using Hierarchical Structure",0.128787878788,0.170454545455
+8140B3CA,"Credential negotiation with limited disclosure via iterative range refinement in an unordered space",0.183333333333,0.158333333333
+7BFF85DD,"A Role Engineering Framework to Support Dynamic Authorizations in Collaborative Environments",0.5625,0.294191919192
+7D8DF01A,"Detecting and resolving constraint conflicts in role-based access control",0.196428571429,0.155026455026
+6CB7A86E,"Secure and efficient information sharing in multi-university E-Learning environments",0.555555555556,0.422619047619
+7DEDA929,"Support for ANSI RBAC in CORBA",0.133333333333,0.166666666667
+7FD1DD69,"An Extended RBAC Model for the Threshold in Collaborative Environment",0.55,0.400673400673
+7DB03C48,"Meta-policies for distributed role-based access control systems",0.414285714286,0.327380952381
+78CC544B,"Unified Identity Authentication between Heterogeneous Systems Based on LDAP and RBAC",0.138888888889,0.170833333333
+7DDB5568,"Authorization constraint enforcement for information system security",0.183333333333,0.134794372294
+037D299C,"Enhancing security in distributed systems with trusted computing hardware",0.419191919192,0.278296703297
+7C2B3959,"RB-GACA: an RBAC based grid access control architecture",0.121428571429,0.159111721612
+7E11F5FD,"Role-based security for distributed object systems",0.419191919192,0.416666666667
+7FA555A7,"A novel aspect-oriented BPEL framework for the dynamic enforcement of web services security",0.183333333333,0.138737373737
+81598B9E,"A fine-grained time-constraint role-based access control using OCL",0.121428571429,0.186507936508
+79B332D0,"Policy-based security management for federated healthcare databases (or RHIOs)",0.183333333333,0.149126984127
+7821F206,"SMARXO: towards secured multimedia applications by adopting RBAC, XML and object-relational database",0.126984126984,0.159365079365
+726CE25F,"Advanced Identity and Access Policy Management Using Contextual Data",0.183333333333,0.16654040404
+5890BC9A,"Resolving Information Flow Conflicts in RBAC Systems",0.1875,0.156666666667
+5F1B06E9,"A New Role-Based Delegation Model Using Sub-role Hierarchies",0.105555555556,0.158838383838
+7F33B7F4,"How role based access control is implemented in SESAME",0.133928571429,0.190646258503
+6F0B82E3,"Schema Based XML Security: RBAC Approach",0.138888888889,0.180555555556
+80A7BFD2,"Some issues of role-based collaboration",0.555555555556,0.5625
+812C21EF,"Adaptive Access Control Scheme Utilizing Context Awareness in Pervasive Computing Environments",0.55,0.263048855906
+7F62B835,"Enforcing Separation of Duty in Ad Hoc Collaboration",0.625,0.352222222222
+6FF754CC,"Access control, reverse access control and replication control in a world wide distributed system",0.417989417989,0.208954625621
+799B6E93,"Secure Information Sharing in a Virtual Multi-Agency Team Environment",0.555555555556,0.341964285714
+7EEB21EA,"Trust-Based Constraint-Secure Interoperation for Dynamic Mediator-Free Collaboration",0.55,1.0
+7E9F3CBE,"Constraint generation for separation of duty",0.225,0.179464285714
+0B5D3232,"Research on RBAC-based Separation of Duty Constraints",0.225,0.179464285714
+5A25C239,"A Context Aware Content Based Federated Access Control System for Healthcare Domain",0.3125,0.186607142857
+77ED47C6,"Design and Safety Analysis of a Role-Based Access Control Framework for Mobile Agents in Home Network Environments",0.5625,0.207463924964
+59AC4907,"Identity Management: Role Based Access Control for Enterprise Services",0.183333333333,0.162648809524
+84F9647D,"A formal model to express dynamic policies for access control and negotiation in a distributed environment",0.7,0.326001082251
+759CA697,"A meta model for authorisations in application security systems and their integration into RBAC administration",0.208333333333,0.141620284477
+7E5B15A5,"An architecture for supporting vicarious learning in a distributed environment",0.703703703704,0.504273504274
+77D8471F,"Role-based authorizations for workflow systems in support of task-based separation of duty",0.225,0.158181818182
+80BAC20D,"Integrating Trust and Role for Secure Interoperation in Multi-Domain Environment",0.5625,0.350694444444
+5F237A67,"Combining User Authentication with Role-Based Authorazition Based on Identity-Based Signature",0.0954545454545,0.195833333333
+7DAEEA7F,"A General Attribute based RBAC Model for Web Service",0.116883116883,0.166774891775
+7855D523,"Access-control language for multidomain environments",0.5625,0.571428571429
+7CCC4F8A,"EFSOC: A Layered Framework for Developing Secure Interactions between Web-Services",0.133333333333,0.169191919192
+7BE4C462,"An integrated approach to engineer and enforce context constraints in RBAC environments",0.555555555556,0.286772486772
+80FEB60D,"Web-based delegation using XML",0.105555555556,0.222222222222
+0C5364A2,"Integrated access control for smart buildings using building information models",0.126984126984,0.158395176252
+7A17F0B7,"A constraint based role based access control in the SECTET a model-driven approach",0.133928571429,0.181689342404
+7D84C1F7,"Implementing Web access control system for the multiple Web servers in the same domain using RBAC concept",0.305555555556,0.188000271334
+5B7CEE4D,"Eliciting and characterizing scenarios of disclosure of private health data.",0.145833333333,0.165614478114
+7FEF5096,"Security Analysis of Role-based Separation of Duty with Workflows",0.225,0.166515151515
+7F2AFAD3,"Role engineering using graph optimisation",0.104166666667,0.173611111111
+7B0BB73F,"INFRASTRUCTURE FOR RBAC-MAS: AN APPROACH BASED ON AGENT COORDINATION CONTEXTS",0.155555555556,0.173888888889
+5EFC5782,"The conflict detection between permission assignment constraints in role-based access control",0.196428571429,0.136451247166
+806BA162,"Taming role mining complexity in RBAC",0.145833333333,0.163194444444
+5A205695,"A SAT Based Verification Framework for Wireless LAN Security Policy Management Supported by STRBAC Model",0.183333333333,0.155606060606
+7CEE25D8,"Analyzing RBAC Security Policy of Implementation Using AST",0.166666666667,0.218181818182
+5C1E4646,"An Integration Model of Role-Based Access Control and Activity Based Access Control Using Task",0.196428571429,0.180281385281
+5A0ED893,"A Formal Model for Role-Based Access Control Using Graph Transformation",0.142857142857,0.158658008658
+7D1C00FB,"A coordinated spatio-temporal access control model for mobile computing in coalition environments",0.55,0.271368446368
+7BE3EF57,"Challenges in model-based evolution and merging of access control policies",0.216666666667,0.143590668591
+7DA28104,"The role mining problem: finding a minimal descriptive set of roles",0.145833333333,0.164351851852
+74B09D6D,"An integrity enforcement application design and operation framework in role-based access control systems: A session-oriented approach",0.225,0.14294011544
+7CB25E16,"The role graph model and conflict of interest",0.1875,0.143181818182
+75C23D53,"Specification and enforcement of flexible security policy for active cooperation",0.333333333333,0.211515151515
+80A82982,"Process-oriented approach for role-finding to implement role-based security administration in a large industrial organization",0.166666666667,0.163888888889
+80233DF0,"Managing Conflict of Interest in Service Composition",0.1875,0.175793650794
+79D9E518,"Security-Enhanced OSGi Service Environments",0.571428571429,0.571428571429
+7F03ABA0,"Using NFS to implement role-based access control",0.121428571429,0.202380952381
+7AB17B82,"Formal specification for role based access control user/role and role/role relationship management",0.171428571429,0.161054421769
+7F9C8A74,"Migrating to optimal RBAC with minimal perturbation",0.113095238095,0.196428571429
+7FAB9551,"Effective Collaboration with Information Sharing in Virtual Universities",0.5625,0.344742063492
+7DCAC543,"Client\Server Access: Satellite-ATM Connectivity Using a Knowledge Management Approach",0.183333333333,0.176851851852
+7D94DF60,"AmTRUE: Authentication Management and Trusted Role-based Authorization in Multi-Application and Multi-User Environment",0.6,0.306753246753
+75CC311B,"Centralized Role-Based Access Control for Federated Multi-Domain Environments",0.55,0.369047619048
+7F096767,"Secure collaboration in mediator-free environments",1.0,1.0
+76C335C7,"Budget-aware role based access control",0.133928571429,0.171130952381
+7DDDF9D8,"Context-Role based access control for context-aware application",0.142857142857,0.175595238095
+7D6EE23B,"Object based dynamic separation of duty in RBAC",0.225,0.227083333333
+7F0DDCF9,"An Authentication and Access Control Framework for Group Communication Systems in Grid Environment",0.6,0.233387445887
+7B2D807E,"A new security policy for distributed resource management and access control",0.183333333333,0.142125334982
+7F10CADF,"Securing role-based distributed collaboration system",0.55,0.370833333333
+7E6E6287,"A generalized temporal role based access control model for developing secure systems",0.133928571429,0.158395176252
+778710BA,"Role-based authorization in decentralized health care environments",0.571428571429,0.336219336219
+5CB1732A,"Integration of Security Policy into System Modeling",0.208333333333,0.151515151515
+75F6B5AB,"Migrating to role-based access control",0.121428571429,0.15873015873
+7B4A8EF6,"Towards secure dynamic collaborations with group-based RBAC model",0.55,0.430303030303
+7F2E99F7,"Secure Integration of Distributed Medical Data Using Mobile Agents",0.458333333333,0.363888888889
+7CCF0021,"Three for one: role-based access-control management in rapidly changing heterogeneous environments",0.6,0.511111111111
+815EF03F,"Hierarchical Domains for Decentralized Administration of Spatially-Aware RBAC Systems",0.333333333333,0.25
+7F8FF339,"Secure mobile agent environments: modelling role assignments",0.5625,0.305555555556
+81A0CC99,"A Flexible Access Control Model for Dynamic Workflow Using Extended WAM and RBAC",0.121428571429,0.162608225108
+80B91A33,"Preventing information leakage in C applications using RBAC-based model",0.133928571429,0.17376314162
+814E3BB0,"Separation of Duty in Role-Based Access Control Model through Fuzzy Relations",0.225,0.148683261183
+803C39A8,"Ensuring spatio-temporal access control for real-world applications",0.142857142857,0.175595238095
+7D6384FE,"On mutually-exclusive roles and separation of duty",0.225,0.191666666667
+75391F97,"Key management for role hierarchy in distributed systems",0.433333333333,0.301666666667
+5BB3D3F6,"Role-based access control on the web using LDAP",0.121428571429,0.167658730159
+7E6CEAD5,"Fine-grained access control for GridFTP using SecPAL",0.121428571429,0.186507936508
+7DCDD128,"Analyzing and Managing Role-Based Access Control Policies",0.121428571429,0.180086580087
+5EEFCE3B,"Role-Based Access Control Model for Ubiquitous Computing Environment",0.55,0.30341991342
+5E1694B0,"Context-aware security management system for pervasive computing environment",0.6,0.308181818182
+5880E397,"Autonomic Protection System Using Adaptive Security Policy",0.166666666667,0.168181818182
+6B49890D,"Secure Interoperation in Multidomain Environments Employing UCON Policies",0.55,0.474747474747
+8024AA41,"Towards Session-Aware RBAC Administration and Enforcement with XACML",0.15,0.183333333333
+7E2A9BD1,"Database roles analysis using data mining",0.125,0.161111111111
+7D923153,"Deriving Current State RBAC Models from Event Logs",0.196428571429,0.140233100233
+781AC098,"Towards a UML based approach to role engineering",0.104166666667,0.173611111111
+775D5097,"Efficient access enforcement in distributed role-based access control (RBAC) deployments",0.447619047619,0.275396825397
+77D4C55F,"Fault-Tolerant Adaptive Mobile Agent System using Dynamic Role based Access Control",0.133928571429,0.161954365079
+7B69C433,"RBAC in UNIX administration",0.128787878788,0.166666666667
+5B1BFA79,"Using π-calculus to formalize domain administration of RBAC",0.128787878788,0.222222222222
+7EBD23AA,"Representing and Reasoning about Web Access Control Policies",0.121428571429,0.16341991342
+5FCA2B22,"Achieving DRBAC Authorization in Multi-trust Domains with MAS Architecture and PMI",0.295454545455,0.229458041958
+7EE8A78F,"Access Control Based on RBAC in Distributed Cooperation Environment",0.833333333333,0.509920634921
+810701CB,"How to Use Events and Rules for Supporting Role-Based Security? (Invited Paper)",0.208333333333,0.213888888889
+7FFEE193,"I-RBAC: Isolation enabled role-based access control",0.15,0.169047619048
+58C0B6FC,"Analyzing First-Order Role Based Access Control",0.133928571429,0.203571428571
+7D168B64,"Representation and evaluation of security policies for distributed system services",0.444444444444,0.251082251082
+7B56EE86,"An interoperation framework for secure collaboration among organizations",0.5625,0.405303030303
+7CFBC243,"Using uml to visualize role-based access control constraints",0.121428571429,0.17380952381
+7C50764E,"RB-GACA: A RBAC Based Grid Access Control Architecture",0.121428571429,0.159111721612
+7319FC1E,"Security Analysis of Role Based Access Control Models Using Colored Petri Nets and CPNtools",0.145833333333,0.163011063011
+80139700,"Constraint-Based Authorization Management for Mobile Collaboration Services",0.55,0.353977272727
+7583FC03,"Using Alloy to Analyze a Spatio-Temporal Access Control Model Supporting Delegation",0.121428571429,0.191026334776
+5FBC5DEB,"An Object-Dependent and Context Constraints-Aware Access Control Approach Based on RBAC",0.126984126984,0.167658730159
+5CF44CAD,"Role-Based Access Control Features in Commercial Database Management Systems",0.171428571429,0.158994708995
+7F4F0387,"Selecting a security architecture for a new model of distributed tutorial support",0.444444444444,0.291860916861
+62BA6EC3,"A Constraint and Attribute Based Security Framework for Dynamic Role Assignment in Collaborative Environments",0.5625,0.260470779221
+7B56DA36,"SESAME: Scalable, Environment Sensitive Access Management Engine",0.6,0.283333333333
+7EBC4281,"Context-based role engineering for ubiquitous computing environment",0.5625,0.3625
+7610C6FF,"A Network-Cliques Based Role Mining Model",0.104166666667,0.165088383838
+77B34D29,"Security analysis of GTRBAC and its variants using model checking",0.145833333333,0.179503367003
+8023975C,"The Role Hierarchy Mining Problem: Discovery of Optimal Role Hierarchies",0.183333333333,0.13253968254
+7ED0FF5C,"Supporting Negative Authorization in Spatiotemporal Role Based Access Control",0.133928571429,0.184794372294
+5FE3EA02,"Preventing Illegal Information Flow Based on Role-Based Access Control Model",0.133928571429,0.176252319109
+7D9F47C6,"A Task-Role Based Access Control Model with Multi-Constraints",0.121428571429,0.162608225108
+80B5BE0F,"Applying Role-Based Access Control in Combining the Chinese and Western Medicine Systems",0.121428571429,0.160714285714
+5CB1B484,"Towards Semantic Integrity in Rational Databases",0.180555555556,0.180555555556
+7F8EBB4D,"A Context-Aware Access Control Model for Pervasive Computing Environments",0.55,0.281601731602
+7777DD32,"Incident response requirements for distributed security information management systems",0.455555555556,0.24990530303
+77F9A3C4,"How to do discretionary access control using roles",0.133928571429,0.203571428571
+80D3B5C0,"RoleMiner: mining roles using subset enumeration",0.107954545455,0.165088383838
+7A2ED0C4,"Controlling information access in workflow management systems using RBAC‐based model",0.1625,0.178463203463
+5DEEAF34,"The Policy Machine for Security Policy Management",0.183333333333,0.125081585082
+7F3C09D7,"A Trust and Context Based Access Control Model for Distributed Systems",0.414285714286,0.24310966811
+7E56617E,"Role Engineering with SKAOS for Systems Employing RBAC",0.104166666667,0.166666666667
+79D2FFCD,"Applying role based access control and genetic algorithms to insider threat detection",0.133928571429,0.167857142857
+587AECC7,"Context RBAC/MAC Access Control for Ubiquitous Environment",0.55,0.331547619048
+7E6DBCAB,"A review on extended role based access control (E-RBAC) model in pervasive computing environment",0.5625,0.244656385281
+7E1BEF41,"RoleVAT: Visual Assessment of Practical Need for Role Based Access Control",0.1625,0.164087301587
+5F0E76AF,"User-role reachability analysis of evolving administrative role based access control",0.133928571429,0.168253968254
+803A76FA,"Transforming and Selecting Functional Test Cases for Security Policy Testing",0.166666666667,0.158527583528
+77EA540F,"On the management of user obligations",0.15,0.166666666667
+7A472968,"Mediation security specification and enforcement for heterogeneous databases",0.183333333333,0.133737373737
+5B724D59,"Conditional privacy-aware role based access control",0.133928571429,0.171130952381
+78D03EAF,"W-RBAC — A Workflow Security Model Incorporating Controlled Overriding of Constraints",0.128787878788,0.180086580087
+5A5E305C,"A Semi-distributed Access Control Management Scheme for Securing Cloud Environment",0.6,0.257204700062
+7F80500A,"A Cross - Domain Role Mapping and Authorization Framework for RBAC in Grid Systems",0.3125,0.156926406926
+59394219,"An efficient access control model for highly distributed computing environment",0.55,0.268001443001
+7B60DCD0,"The extended RBAC model based on grid computing",0.0871212121212,0.208080808081
+58756C0B,"Role-Based Protection and Delegation for Mobile Object Environments",0.583333333333,0.350694444444
+5D0E1F6F,"The Work Concept RBAC Model for the Access Control of the Distributed Web Server Environment",0.722222222222,0.309212392546
+80D246EA,"Access Control Using Extended Role Graph Corresponding to Organizational Hierarchy",0.133928571429,0.165646258503
+7F77DBDA,"Role-based authorization constraints specification using Object Constraint Language",0.133928571429,0.158802308802
+7F5B4D57,"An empirical study of the characteristics of access control model towards secure KMS in collaborative environment",0.555555555556,0.245588538446
+6EF0F634,"Supporting heterogeneous middleware security policies in WebCom",0.128787878788,0.19696969697
+801C0B9C,"Apply the Technology of RBAC and WS-Security for Secure Web Services Environment in Campus",0.5625,0.294312169312
+814B8263,"Context-aware security service in RFID/USN environments using MAUT and extended GRBAC",0.571428571429,0.368571428571
+7F05A6DA,"Cryptographic role-based security mechanisms based on role-key hierarchy",0.128787878788,0.172727272727
+759D22FD,"CRBAC: Imposing multi-grained constraints on the RBAC model in the multi-application environment",0.55,0.411255411255
+5D91B1F8,"An approach for trusted interoperation in a multidomain environment",0.555555555556,0.555555555556
+06CA5857,"A Framework for Role-Based Access Control in Group Communication Systems",0.183333333333,0.12784992785
+808A81F9,"Applying hierarchical and role-based access control to XML documents",0.121428571429,0.167658730159
+7E2E9804,"An Object Oriented Role-based Access Control Model for Secure Domain Environments",0.555555555556,0.306014223871
+785363A6,"Determining role rights from use cases",0.138888888889,0.176515151515
+7E7D4978,"Static verification of security requirements in role based CSCW systems",0.166666666667,0.1625
+77CDA3E7,"Supporting RBAC with XACML+OWL",0.0,0.333333333333
+79BE0680,"Constraint based role based access control (CRBAC) for restricted administrative delegation constraints in the SECTET",0.133928571429,0.175705467372
+7FD1E9AC,"SLA Driven Process Security through Monitored E-contracts",0.166666666667,0.177777777778
+7EED4DDF,"Privacy-aware role based access control",0.133928571429,0.171130952381
+07AC1DA8,"Implementing Advanced RBAC Administration Functionality with USE",0.145833333333,0.191666666667
+0B31E84F,"Role based access control for a medical database",0.133928571429,0.159126984127
+80370950,"Role based reengineering of Web applications",0.126984126984,0.178075396825
+5DEBC89D,"Conflict of interest in the administrative role graph model",0.1875,0.143181818182
+5BDA1555,"Managing Risks in RBAC Employed Distributed Environments",0.55,0.376666666667
+7750E55C,"A request-driven secure interoperation framework in loosely-coupled multi-domain environments employing RBAC policies",0.55,0.378787878788
+5F8756D3,"Ontology-Based RBAC specification for interoperation in distributed environment",0.7,0.7
+810C76FA,"Multi-session Separation of Duties (MSoD) for RBAC",0.225,0.225
+694DAA07,"Using Graph Theory to Represent a Spatio-Temporal Role-Based Access Control Model",0.126984126984,0.159477427335
+7F957D63,"Role-based scheduling and synchronization algorithms to prevent illegal information flow",0.125,0.159722222222
+7DF8F415,"Access control meets public key infrastructure, or: assigning roles to strangers",0.133928571429,0.163265306122
+76A59A90,"Managing role/permission relationships using object access types",0.133928571429,0.178571428571
+7B9E2560,"Secure resource sharing on cross-organization collaboration using a novel trust method",0.555555555556,0.301587301587
+5A23F68C,"A Rule-Based Framework Using Role Patterns for Business Process Compliance",0.222222222222,0.182034632035
+59419174,"Mediator-free secure policy interoperation of exclusively-trusted multiple domains",0.295454545455,0.224747474747
+7E1585EA,"Research of Security Analysis of ARBAC Policy Based on Intelligence Planning",0.154761904762,0.158395176252
+7DE735EF,"A Domain Specific Modeling Framework for Secure Network Applications",0.321428571429,0.205086580087
+752BD5E3,"Partial and Fuzzy Constraint Satisfaction to Support Coalition Formation",0.126984126984,0.171031746032
+7FD2BC30,"On the Modeling of Bell-LaPadula Security Policies Using RBAC",0.128787878788,0.175505050505
+7DF3EF4D,"Supporting parameterised roles with object-based access control",0.133928571429,0.171130952381
+7C31002F,"Napoleon: network application policy environment",0.571428571429,0.287137862138
+6164F309,"Flexible access control for dynamic collaborative environments",0.55,0.40873015873
+7E444C62,"Putting role-based discretionary access control into practice",0.154761904762,0.160714285714
+7E5645F1,"E-Government Information Security in the Web Environment Based on Role Based Access Control Technology",0.5625,0.254563492063
+790EE47E,"Workflow authorisation in mediator-free environments",0.55,0.545454545455
+7EC521E1,"The PERMIS X.509 role based privilege management infrastructure",0.1625,0.195833333333
+80C53DF8,"Can Feature be used to Model the Changing Access Control Policies ?",0.121428571429,0.227137445887
+5D828B49,"An improved administration method on role-based access control in the enterprise environment",0.583333333333,0.271494708995
+7F33F689,"Vulnerabilities and threats in distributed systems",0.419191919192,0.3375
+7DCDFB54,"An Assessment Strategy for Rating Client/Server Satellite Network Performance in a Global Environment",0.571428571429,0.258279220779
+81608130,"Consistency Checks for Duties in Extended UML2 Activity Models",0.183333333333,0.1468997669
+7E5FBACF,"Proactive Role Discovery in Mediator-Free Environments",0.6,0.441666666667
+59337023,"Delegating revocations and authorizations",0.180555555556,0.180303030303
+58918DD9,"Security policy integration based on role-based access control model in healthcare collaborative environments",0.625,0.269751082251
+7AB524E8,"Tucupi: a flexible workflow system based on overridable constraints",0.116883116883,0.162608225108
+77982264,"Discovering role-relevant process-views for disseminating process knowledge",0.154761904762,0.161111111111
+7D5C6D1E,"Role-Based Access Controls: Status, Dissemination, and Prospects for Generic Security Mechanisms",0.196428571429,0.145640074212
+795D8755,"Implementing role-based access control using object technology",0.133928571429,0.186904761905
+592AA523,"Efficient Role Based Access Control Method in Wireless Environment",0.5625,0.2660430839
+5C4CC640,"Research of Integrated Access Control Based on Task-Driven RBAC for Lifecycle Software Quality Management",0.2,0.167918985776
+78981D58,"SmartGate: a smart push-pull approach to support role-based security in web gateways",0.138888888889,0.15873015873
+807DF47C,"Concurrency control on distributed objects using role ordering (RO) scheduler",0.428571428571,0.243165784832
+5F8E3626,"Modeling Role-Based Access Control Using Parameterized UML Models",0.121428571429,0.16341991342
+7E4AB174,"Domain Administration of Task-role Based Access Control for Process Collaboration Environments",1.0,0.424107142857
+5B4EC347,"Modeling and Inferring on Role-Based Access Control Policies Using Data Dependencies",0.180555555556,0.167068001443
+79A39679,"Events and streams: harnessing and unleashing their synergy!",0.196428571429,0.175
+7DB9F7D3,"dRBAC: distributed role-based access control for dynamic coalition environments",0.55,0.30746031746
+5CE772F9,"Design and implementation of access control system for smart office environment",0.583333333333,0.238945578231
+785BFF24,"The PERMIS X.509 role based privilege management infrastructure",0.1625,0.195833333333
+7E7D173D,"Role Based Access Control in Distributed Object Systems",0.422619047619,0.294642857143
+774121D5,"Role-based access control for collaborative enterprise in peer-to-peer computing environments",0.5625,0.28841991342
+5BD0CCBA,"Components- Based Access Control Architecture",0.121428571429,0.159111721612
+8016F053,"Making Societies in Peer-to-Peer (P2P) Overlay Networks",0.118055555556,0.165064102564
+7DAF3C1E,"An Access Control Model for Secure Cluster-Computing Environments",0.55,0.329274891775
+8134B734,"Temporal UAS: Supporting Efficient RBAC Authorization in Presence of the Temporal Role Hierarchy",0.1625,0.169848484848
+5A3B1F95,"Integration of a cryptographic file system and access control",0.196428571429,0.131904761905
+7FB2E4D5,"An XML-based language for access control specifications in an RBAC environment",0.5625,0.29380952381
+7885D52A,"TrustBAC: integrating trust relationships into the RBAC model for access control in open systems",0.196428571429,0.129200164914
+58C3F596,"Using Mediated Identity-Based Cryptography to Support Role-Based Access Control",0.121428571429,0.180627705628
+7EF6803D,"When Role Models Have Flaws: Static Validation of Enterprise Security Policies",0.171428571429,0.164239332096
+5EC4BE06,"A novel use of RBAC to protect privacy in distributed health care information systems",0.430555555556,0.241121031746
+7677E4C8,"RBAC-based access control for privacy protection in pervasive environments",0.583333333333,0.298571428571
+5863A42C,"Secure role activation and authorization in the enterprise environment",0.5625,0.286363636364
+59B7E2C4,"Scalable and efficient reasoning for enforcing role-based access control",0.121428571429,0.169047619048
+7ECCFD7F,"Dynamic trust domains for secure, private, technology-assisted living",0.305555555556,0.240740740741
+7FA76824,"Using Semantic Web Technologies to Specify Constraints of RBAC",0.133928571429,0.16746031746
+80197C7F,"Symbolic reachability analysis for parameterized administrative role based access control",0.133928571429,0.161904761905
+7FC11250,"Approach to Supporting Continuity of Usage in Location-Based Access Control",0.154761904762,0.16335978836
+80BAEA2A,"Inconsistency Detection of Authorization Policies in Distributed Component Environment",0.7,0.354834054834
+00812854,"Mobi-CoSWAC: an access control approach for collaborative scientific workflow in mobile environment",0.555555555556,0.285642135642
+8148B08E,"Application of Role-Based Access Control for Web Environment",0.571428571429,0.296031746032
+808F77CE,"Secure interoperation in a multidomain environment employing RBAC policies",0.55,0.474747474747
+80E41CD2,"Data security in location-aware applications: an approach based on RBAC",0.154761904762,0.175793650794
+7CD75844,"An adaptive security model using agent-oriented MDA",0.128787878788,0.19696969697
+7F476F29,"Security Policies in Distributed CSCW and Workflow Systems",0.419191919192,0.335227272727
+7EC8D1E3,"Role-Based Access Control for Distributed Cooperation Environment",0.75,0.385238095238
+5DCC5865,"A Flexible Access Control Model for Dynamic Workflow Using Extended WAM and RBAC",0.121428571429,0.162608225108
+809D33FC,"An Adaptive Security Model for Multi-agent Systems and Application to a Clinical Trials Environment",0.571428571429,0.271103896104
+7536B20F,"On classifying access control implementations for distributed systems",0.436507936508,0.27380952381
+7D4408E4,"Roles in learning systems",0.104166666667,0.180555555556
+7BE481DF,"Integrating role graphs: a tool for security integration",0.208333333333,0.151709401709
+59DE6AA1,"Access Control for Cooperation Systems Based on Group Situation",0.5,0.258503401361
+779004B6,"Symmetric RBAC model that takes the separation of duty and role hierarchies into consideration",0.225,0.159415584416
+7E53367B,"An integrated security framework for XML based management",0.183333333333,0.197727272727
+5FB9C405,"RBAC-Based Access Control Integration Framework for Legacy System",0.196428571429,0.125072150072
+791FDE2E,"Policy management using access control spaces",0.2,0.175072150072
+640BCD97,"Database Security Integration Using Role-Based Access Control",0.208333333333,0.181216931217
+7FDCDF8C,"Security Assurance for Dynamic Role Mapping in a Multi-Domain Environment",0.5625,0.308333333333
+75F9E4DE,"Minimizing insider misuse through secure Identity Management",0.183333333333,0.155238095238
+0C4F3C81,"XML-Based Revocation and Delegation in a Distributed Environment",0.703703703704,0.590277777778
+8126AB65,"Automated runtime management of embedded service systems based on design-time modeling and model transformation",0.155555555556,0.1693001443
+80232C04,"Concurrency Control using Subject- and Purpose-Oriented (SPO) View",0.142857142857,0.18253968254
+7F1DE893,"Implementing Role Based Access in Healthcare Ad Hoc Networks",0.125,0.164682539683
+806BDDA8,"Securing Web OLAP Based on RBAC Model",0.105555555556,0.183838383838
+8020330D,"Security Analysis of Temporal-RBAC Using Timed Automata",0.145833333333,0.168181818182
+6999191B,"Role-based serializability for distributed object systems",0.386752136752,0.541666666667
+751F7145,"Flexible authorisation in dynamic e-business environments using an organisation structure-based access control model",0.55,0.264636157493
+5E5D9083,"eMEDAC: Role-based Access Control Supporting Discretionary and Mandatory Features",0.121428571429,0.162608225108
+7B269C6F,"Role mining based on weights",0.133928571429,0.178075396825
+812FFD25,"Access control and session management in the HTTP environment",0.6,0.268001443001
+7D71F874,"RBAC-Based Secure Interoperation Using Constraint Logic Programming",0.133928571429,0.171130952381
+7E4C4F25,"An approach to engineer and enforce context constraints in an RBAC environment",0.555555555556,0.286772486772
+7AC4D6CE,"Consistency checking of role assignments in inter-organizational collaboration",0.583333333333,0.354166666667
+7B597F58,"Model of Domain based RBAC and Supporting Technologies",0.3125,0.276515151515
+7DC40F86,"An effective access control approach to support web service security",0.154761904762,0.16335978836
+5C9B2727,"Extended Role Based Access Control and Procedural Restrictions",0.133928571429,0.162572150072
+7DB8C74F,"Information flow control in role-based model for distributed objects",0.422619047619,0.268127705628
+76B0F997,"Modeling location attributes using XACML-RBAC model",0.105555555556,0.160404040404
+816E1A6E,"Evaluating RBAC Supported Techniques and their Validation and Verification",0.116883116883,0.175238095238
+7D59FB75,"Applying Context-Aware RBAC to RFID Security Management for Application in Retail Business",0.183333333333,0.188571428571
+7EF93987,"PIS-CC RBAC: Patient Information Service based on CC-RBAC in Next Generation Hospital considering Ubiquitous Intelligent Environment",0.571428571429,0.280612244898
+8067CFA1,"Role-Based Access Control Implementation Using Prime Numbers",0.154761904762,0.16341991342
+8109A65B,"A temporal-logic extension of role-based access control covering dynamic separation of duties",0.225,0.184920634921
+82FFC7AD,"Towards Managed Role Explosion",0.121428571429,0.172619047619
+7F0B6745,"Towards Improved Federated Identity and Privilege Management in Open Systems",0.183333333333,0.165
+59D0ACAC,"Generalization and enforcement of role-based access control using a novel event-based approach",0.171428571429,0.158994708995
+60220778,"An Activity-Based Model for Separation of Duty",0.225,0.180303030303
+8146B09F,"Design of Algorithm for Environment based Dynamic Access Control Model for Database Systems",0.5625,0.232764149431
+7FB82FF5,"An Effective Policy Management Framework Using RBAC model for Service Platform based on Components",0.15,0.16112036112
+7D4982D1,"Towards a Group-Based RBAC Model and Decentralized User-Role Administration",0.128787878788,0.169191919192
+79C8533E,"Security Extensible Access Control Markup Language Policy Integration Based on Role-Based Access Control Model in Healthcare Collaborative Environments",0.625,0.229732388823
+5E669EB0,"Set covering problems in role-based access control",0.138888888889,0.170238095238
+803CDEA0,"Database security - concepts, approaches, and challenges",0.222222222222,0.166666666667
+7C6CCB6C,"An Integrated Management Model of OS-RBAC and Separation Of Duty Policy",0.225,0.166363636364
+7E08B115,"Model-driven security management of embedded service systems",0.183333333333,0.148214285714
+7CCF112E,"Team-and-role-based organizational context and access control for cooperative hypermedia environments",0.5625,0.290238095238
+80E5F988,"Effective Web-Related Resource Security Using Distributed Role Hierarchy",0.145833333333,0.172685185185
+7F6EA653,"Achieving secure and flexible M-services through tickets",0.0871212121212,0.170454545455
+5B0EEFBC,"Constraint based role based access control in the SECTET-framework: A model-driven approach",0.133928571429,0.181689342404
+7F77E68B,"Early Validation and Verification of a Distributed Role-Based Access Control Model",0.428571428571,0.259992784993
+59CF8251,"An RBAC Based Policy Enforcement Coordination Model in Internet Environment",0.6,0.283116883117
+771FF6B8,"Inconsistency Resolution Method for RBAC Based Interoperation",0.111111111111,0.163888888889
+7C6CA975,"New role-based access control in ubiquitous e-business environment",0.55,0.40873015873
+7F3AB8AE,"Concurrency control based on significancy on roles",0.142857142857,0.186011904762
+77CFD776,"Supporting relationships in access control using role based access control",0.133928571429,0.191137566138
+7E2B2991,"A decentralized RBAC model and its user-role administration",0.128787878788,0.169191919192
+59977508,"Authorization Based on Evidence and Trust",0.118055555556,0.165088383838
+78F28747,"Distributed access control architecture and model for supporting collaboration and concurrency in dynamic virtual enterprises",0.714285714286,0.332801457801
+7EF1127C,"An object-oriented RBAC model for distributed system",0.391414141414,0.391414141414
+7602EC65,"A framework of composable access control features: Preserving separation of access control concerns from models to code",0.180555555556,0.158664567755
+7E00283D,"Coordinated access control with temporal and spatial constraints on mobile execution in coalition environments",0.571428571429,0.270502645503
+7A8E3233,"Permission based implementation of Dynamic Separation of Duty (DSD) in Role based Access Control (RBAC)",0.225,0.193959435626
+80840BB8,"Dependencies and separation of duty constraints in GTRBAC",0.225,0.210714285714
+595846E4,"Task-Role Based Access Control (T-RBAC): An Improved Access Control Model for Enterprise Environment",0.5625,0.250202922078
+6AE7FF69,"OS-DRAM: a delegation administration model in a decentralized enterprise environment",0.583333333333,0.298737373737
+7C3BE598,"RBAC administration in distributed systems",0.419191919192,0.416666666667
+7D3FB60B,"An efficient role-based access control mechanism for multicasting environments",0.55,0.329274891775
+7F971A68,"Using RBAC to Enforce Solaris System Security",0.128787878788,0.195833333333
+771A3CDF,"Securing context-aware applications using environment roles",0.571428571429,0.360238095238
+7E1DFC66,"Specification of secure distributed collaboration systems",0.55,0.345833333333
+7D31ACDB,"We have met the enemy and he is us",0.0871212121212,0.272727272727
+7C28F57D,"GridShib and PERMIS integration",0.180555555556,0.25
+7DB7330E,"Global Static Separation of Duty in Multi-domains",0.225,0.225
+7D48420E,"Towards Role-Based Authorization for OSGi Service Environments",0.571428571429,0.411255411255
+80B85D23,"Dynamic Role Assignment Using Semantic Contexts",0.1125,0.170833333333
+7EF5EF52,"MRBAC: Hierarchical Role Management and Security Access Control for Distributed Multimedia Systems",0.455555555556,0.243005952381
+7FF4270E,"RelBAC: Relation Based Access Control",0.154761904762,0.181547619048
+5EBDA4B1,"Secure and Reliable Communication Infrastructure for a Distributed IT-Federation",0.441666666667,0.441666666667
+7DA7FC5F,"Analyzing Temporal Role Based Access Control Models",0.133928571429,0.184794372294
+6AE822E0,"Efficient Authorization of Rich Presence Using Secure and Composed Web Services",0.1625,0.185058922559
+053BAEFC,"Securing Service-Oriented Systems Using State-Based XML Firewall *",0.116883116883,0.189880952381
+58BF18BC,"Integrative Security Management for Web-Based Enterprise Applications",0.183333333333,0.158630952381
+7D56EC84,"Discovering Services Is Not Enough",0.104166666667,0.219444444444
+810DABB2,"Separation of Duty Constraint for Permission Based Delegation Model",0.225,0.177045969903
+6CB94D95,"Formalising and validating RBAC-to-XACML translation using lightweight formal methods",0.105555555556,0.165088383838
+7D919970,"An Efficient Role Specification Management Model for Highly Distributed Environments",0.6,0.285984848485
+7DC5F26C,"RBAC-Based Access Control Framework for ensuring Privacy in Ubiquitous Computing",0.121428571429,0.158405483405
+80E91255,"Towards Reliable Trust Management based on Structural Trust Scopes of Distributed Roles",0.437037037037,0.278174603175
+81562884,"A Context-Sensitive Dynamic Role-Based Access Control Model for Pervasive Computing Environments",0.55,0.281601731602
+7E2CA671,"A light-weight static approach to analyzing UML behavioral properties",0.118055555556,0.189814814815
+80E62AA1,"Extended RBAC - Based Design and Implementation for a Secure Data Warehouse",0.145833333333,0.170238095238
+7E3AEAF1,"Modeling and analyzing the impact of authorization on workflow executions",0.126984126984,0.164213564214
+7AEDF09A,"A distributed collaborative product design environment based on semantic norm model and role-based access control",0.708333333333,0.329986371653
+7D5E159F,"Role Based Access Control",0.133928571429,0.171130952381
+80591BE3,"An integrated approach for identity and access management in a SOA context",0.183333333333,0.132222222222
+5C548B26,"Establishing RBAC-Based Secure Interoperability in Decentralized Multi-domain Environments",0.55,0.464285714286
+814DC3CE,"Design and implementation of fast access control that supports the separation of duty",0.225,0.185884353741
+7F4C2D04,"Constructing Role-Based Access Control and Delegation Based on Hierarchical IBS",0.121428571429,0.184126984127
+76B61368,"An organisation infrastructure for Multi-Agent Systems based on Agent Coordination Contexts",0.15,0.158796296296
+80AD1770,"Managing security policies in a distributed environment using eXtensible markup language (XML)",0.708333333333,0.381899350649
+7DAA2453,"A Legal Information flow (LIF) scheduler for distributed systems",0.416666666667,0.283333333333
+076DE0F8,"Toward Effective Access Control Using Attributes and Pseudoroles",0.121428571429,0.164880952381
+7B0DD41B,"Reliability of separation of duty in ANSI standard role-based access control",0.225,0.160238095238

@@ -1,0 +1,1239 @@
+7D37A34B	Reconciling role based management and role based access control
+5D208E29	A Classifier-Based Approach to User-Role Assignment for Web Applications
+75E8C8A3	Supporting dynamic administration of RBAC in web-based collaborative applications during run-time
+5A0FA307	Reusability of Functionality-Based Application Confinement Policy Abstractions
+7E9B9801	Sorting out role based access control
+7EA7F3AB	Comparing the expressive power of access control models
+80139700	Constraint-Based Authorization Management for Mobile Collaboration Services
+7D047BF3	Privacy Access Control Model with Location Constraints for XML Services
+77F12451	Self-adaptive federated authorization infrastructures
+6D5D2298	Towards user-oriented RBAC model
+7D7E3F72	Spatial role-based access control model for wireless networks
+5B458503	An integrated model for access control and information flow requirements
+7A044ACF	A Secure Approach to Educating a Mobile World-Class Military —A Mobile Secure Concept for Accessing the Classroom from Around the World
+7DFACF32	Enhancing Role-Based Access Control Model through Fuzzy Relations
+5BDBDC67	Web Security Using Distributed Role Hierarchy
+5A464E68	A role based access control for Web services
+08043944	Role based access control for knowledge sharing in remote areas
+7F8D666D	Grid Learning Management System with role-based access control
+7AB55161	Providing flexible access control to an information flow control model
+77323DCF	Ensuring authorization privileges for cascading user obligations
+80DCAB0F	Activity Theory Guided Role Engineering
+5A320B1B	A Novel Approach to Role-Based Access Control
+7F70620A	Introducing Role-Based Access Control to a Secure Virtual Machine Monitor: Security Policy Enforcement Mechanism for Distributed Computers
+7D7BBD75	Enforcing Information Flow Constraints in RBAC Environments
+5CA2657B	Separation of Duty in Trust-Based Collaboration
+7872056F	Role-based access control for a Grid system using OGSA-DAI and Shibboleth
+796A93F0	An effective role administration model using organization structure
+77D0CEA8	Model driven security: From UML models to access control infrastructures
+7F4A1B3D	A Role-Based Access Control Model for Complex Affairs
+5B43A3F7	A Role-Based Access Control Model and Implementation for Data-Centric Enterprise Applications
+7EBE0133	A Delegation Framework for Access Control in WfMS Based on Tasks and Roles
+7E843956	A formal security framework for mobile agent systems: Specification and verification
+7D5B2FB1	Generation of Personalized Web Courses Using RBAC
+733CA663	An Architecture for Unifying Web Services Authentication and Authorization
+76782254	Role-based access control in online authoring and publishing systems vs. document hierarchy
+7EA62B75	ROLE-BASED ACCESS CONTROL IN KIDNEY DIALYSIS INFORMATION SYSTEM
+7DDB5568	Authorization constraint enforcement for information system security
+5AD40BDA	A comprehensive modeling framework for role-based access control policies
+7EC88610	A Flexible Role- and Resource-Based Access Control Model
+0C40408A	Simulation of the Augmented Typed Access Matrix Model (ATAM) using Roles
+7F4B8802	LnRBAC: A Multiple-Levelled Role- Based Access Control Model for Protecting Privacy in Object-Oriented Systems
+5E285EDF	User-managed access control for health care systems
+7F476F29	Security Policies in Distributed CSCW and Workflow Systems
+7FFE0247	Semantic information assurance for secure distributed knowledge management: a business process perspective
+7D747D50	A business-driven decomposition methodology for role mining
+7622B820	Permission Set Mining: Discovering Practical and Useful Roles
+75AE996F	A new architecture for performance-based policy management in heterogeneous wireless networks
+771282C9	Role mining using answer set programming
+7E97307E	An analysis of expressiveness and design issues for the generalized temporal role-based access control model
+7FDCDF8C	Security Assurance for Dynamic Role Mapping in a Multi-Domain Environment
+5A5591FB	Data Protection by Logic Programming
+75CC78FB	DW-RBAC: A formal security model of delegation and revocation in workflow systems
+5F498082	Reasoning about Dynamic Delegation in Role Based Access Control Systems
+80AEBB2C	A class of probabilistic models for role engineering
+5FDA4E12	Formalization of RBAC Policy with Object Class Hierarchy
+7CB25E16	The role graph model and conflict of interest
+81437A84	Intrusion detection in RBAC-administered databases
+80BFE3D3	An Approach for Specifying Access Control Policy in J2EE Applications
+794FAA04	A framework to enforce access control over data streams
+79F2EA43	On the definition of role mining
+7C8919AE	An architecture for access control management in collaborative enterprise systems based on organization models
+806F1B61	Proposed NIST standard for role-based access control
+7AF94055	A formal enforcement framework for role-based access control using aspect-oriented programming
+7B46D51E	A framework for implementing role-based access control using CORBA security service
+77571CA2	Role-Based Access Control in a Data Grid Using the Storage Resource Broker and Shibboleth
+8069E967	Genetic Algorithms for Role Mining Problem
+5B82A67F	Information Flow Control among Objects in Role-Based Access Control Model
+5C00137D	Security, privacy and interoperability in heterogeneous systems
+707C8889	A Methodology for Bridging between RBAC and an Arbitrary Application Program
+7D91936F	Formal Verification of Business Workflows and Role Based Access Control Systems
+80B0A174	Concurrency control using role ordering (RO) scheduler for distributed objects
+81215362	Dynamic Purpose-Based Access Control
+75F6ABB2	Capability-based delegation model in RBAC
+7DC40F86	An effective access control approach to support web service security
+7DF16D61	Comprehensive two-level analysis of role-based delegation and revocation policies with UML and OCL
+770DF3CF	PERiMETER |[ndash]| pseudonymization and personal metadata encryption for privacy-preserving searchable documents
+7D124CC8	A Purpose Marking and Releasing Protocol for Information Flow Control
+7EEE1B2B	A role-based security architecture for business intelligence
+81561960	Developing Pervasive Trust Paradigm for Authentication and Authorization
+07D3221E	Improving Scenario-Driven Role Engineering Process with Aspects
+81064BFA	Evaluating role mining algorithms
+80EEA4F8	ShareEnabler: policy-driven access management for ad-hoc collaborative sharing
+7F50BB13	Timed information flow among objects based on role concept
+7E5F3E40	Hybrid role hierarchy for the extended role based access control model
+79FC25C5	Temporal hierarchies and inheritance semantics for GTRBAC
+68EBF74E	A Uniform Approach to Securing Unix Applications Using SESAME
+80645E71	A lightweight approach to specification and analysis of role-based access control extensions
+7A996420	Trusted P2P computing environments with role-based access control
+7D4D1730	An Administration Model for RBAC Using Hierarchical Structure
+7CA96E30	Peer-to-peer access control architecture using trusted computing technology
+7D174CFC	A unified authorization platform based on RBAC4WAS model for Web application system integration
+8140B3CA	Credential negotiation with limited disclosure via iterative range refinement in an unordered space
+5912B8BD	Authorization algorithms for permission-role assignments
+815DFE8F	An efficient access control model utilized the attribute certificate structuring
+79EDE347	On the complexity of role updating feasibility problem in RBAC
+7BFF85DD	A Role Engineering Framework to Support Dynamic Authorizations in Collaborative Environments
+7E59B192	Managing Delegation in Access Control Models
+83FE47A4	Role refinement in access control
+80BF5251	On modeling system-centric information for role engineering
+7DC33B41	Engineering a Policy-Based System for Federated Healthcare Databases
+75EDEB48	An empirical assessment of approaches to distributed enforcement in role-based access control (RBAC)
+7F507E77	Modeling role-based access control using a relational database tool
+7F340F54	Model Design of Role-Based Access Control and Methods of Data Security
+7A8E8DD0	The application of security policy to role-based access control and the common data security architecture
+68608932	Scenario-Based Static Analysis of UML Class Models
+76D71D17	A health information infrastructure enabling secure access to the life-long multimedia electronic health record
+7EDC3965	Administrative scope: A foundation for role-based administrative models
+7E177B6C	Analysis of ANSI RBAC Support in Commercial Middleware
+5E833D4F	A Semantic Approach to Secure Collaborative Inter-Organizational eBusiness Processes* (SSCIOBP) *
+7F3BAA05	An attribute and role based access control model for Web services
+7D8DF01A	Detecting and resolving constraint conflicts in role-based access control
+80E7AE4A	Analysis and application of environment-aware access control model
+7E23DB50	Role-Based Access Control of Digital Right Management
+6CB7A86E	Secure and efficient information sharing in multi-university E-Learning environments
+7FA88D2E	Fast exact and heuristic methods for role minimization problems
+7EE7468C	A formal model for hierarchical policy contexts
+758E3CF4	Retelab: A geospatial grid web laboratory for the oceanographic research community
+787E63F1	A model for role administration using organization structure
+7DE427A0	Core role-based access control: efficient implementations by transformations
+7ADB9B0C	Integrated constraints and inheritance in DTAC
+77E7B86E	Application of temporal and spatial role based access control in 802.11 wireless networks
+7DEDA929	Support for ANSI RBAC in CORBA
+7E9354D4	A formal model for role-based access control with constraints
+5A185801	A Formal Model for Parameterized Role-Based Access Control
+80F6394D	An experimental study of ERBAC03 for access control administration
+089AD7D0	A Policy-Based Framework for RBAC
+5D47230C	Access Control Management in Open Distributed Virtual Repositories and the Grid
+8111D5AF	HBase fine grained access control with extended permissions and inheritable roles
+809B11C5	Role-based access control for grid database services using the community authorization service
+7DFECEB7	Authorization recycling in RBAC systems
+7C9DB7C4	A Formal Virtual Enterprise Access Control Model
+76647102	Role Mining with Probabilistic Models
+7E0E268E	Conformance Testing of Temporal Role-Based Access Control Systems
+7C7E59CB	A function-based user authority delegation model
+7FD1DD69	An Extended RBAC Model for the Threshold in Collaborative Environment
+80FA4726	Trust and Risk based Access Control and Access Control Constraints
+80C4AFAE	A flexible payment scheme and its role-based access control
+61157848	LRBAC: a location-aware role-based access control model
+76D68477	Protecting deductive databases from unauthorized retrieval and update requests
+7D945258	Enterprise model as a basis of administration on role-based access control
+78CC544B	Unified Identity Authentication between Heterogeneous Systems Based on LDAP and RBAC
+7DAA44C5	An RBAC-based policy information base
+7BD22FBB	Integrating Access Control into UML for Secure Software Modeling and Analysis
+5C53FBE9	Reasoning About Security: A Logic and a Decision Method for Role-Based Access Control
+037D299C	Enhancing security in distributed systems with trusted computing hardware
+7EB1D4AD	Verification of access control coherence in information system during modifications
+7E653C03	Tower: A Language for Role Based Access Control
+7D6A576C	An RBAC Design with Discretionary and Mandatory Features
+7C2B3959	RB-GACA: an RBAC based grid access control architecture
+7FA555A7	A novel aspect-oriented BPEL framework for the dynamic enforcement of web services security
+2F948220	A Study on The Delegation of Role in Role Based Access Control
+5F6B39E3	Recovering Role-Based Access Control Security Models from Dynamic Web Applications
+7714A7B5	On spatio-temporal constraints and inheritance in role-based access control
+776EC4A4	Authorization recycling in hierarchical RBAC systems
+81598B9E	A fine-grained time-constraint role-based access control using OCL
+7821F206	SMARXO: towards secured multimedia applications by adopting RBAC, XML and object-relational database
+80ADCEE9	Scalable and Effective Test Generation for Role-Based Access Control Systems
+7A2A634A	Multimedia-based authorization and access control policy specification
+75CED4A2	Access control framework for XML document collections
+726CE25F	Advanced Identity and Access Policy Management Using Contextual Data
+7EBD87F5	Fine-granularity access control in 3-tier laboratory information systems
+800A6721	Specifying process-aware access control rules in SBVR
+5F1B06E9	A New Role-Based Delegation Model Using Sub-role Hierarchies
+80458270	A privacy enhanced role-based access control model for enterprises
+79D3CE86	Role engineering: From design to evolution of security schemes
+7F33B7F4	How role based access control is implemented in SESAME
+7D52CAB1	Rationale for the RBAC96 family of access control models
+6F0B82E3	Schema Based XML Security: RBAC Approach
+7FE343AA	An Extended Role-based Access Controls Model: Temporal, Spatial, Workflowed and Attributed Role-based Access Controls Model
+7CE4B175	A framework for verification and optimal reconfiguration of event-driven role based access control policies
+7DEC3E22	A Study on Access Control Model for Context-Aware Workflow
+8063D5A3	Context sensitivity in role-based access control
+80A7BFD2	Some issues of role-based collaboration
+5855FFB4	Spatial context in role-based access control
+812C21EF	Adaptive Access Control Scheme Utilizing Context Awareness in Pervasive Computing Environments
+7E47B880	A Dynamic Description Logic-Based Formalism for RBAC
+7F62B835	Enforcing Separation of Duty in Ad Hoc Collaboration
+7B56DA36	SESAME: Scalable, Environment Sensitive Access Management Engine
+5E5409B8	Term rewriting for access control
+7D7F7966	History-based access control for XML documents
+7C5A1A7B	An RBAC Implementation and Interoperability Standard: The INCITS Cyber Security 1.1 Model
+6FF754CC	Access control, reverse access control and replication control in a world wide distributed system
+5FB86BB4	Secure role-based workflow models
+799B6E93	Secure Information Sharing in a Virtual Multi-Agency Team Environment
+7EEB21EA	Trust-Based Constraint-Secure Interoperation for Dynamic Mediator-Free Collaboration
+7F68D857	A cost-driven approach to role engineering
+5EE3F424	Specifying role-based access constraints with object constraint language
+7FA491E1	RBAC for Supply Chain Process Monitoring
+5F11DFEB	Modeling of the Role-Based Access Control Policy with Constraints Using Description Logic
+7FE3B8FD	Detection of Multiple-Duty-Related Security Leakage in Access Control Policies
+7E9F3CBE	Constraint generation for separation of duty
+0B5D3232	Research on RBAC-based Separation of Duty Constraints
+7BA86DD4	RBAC for Organisation and Security in an Agent Coordination Infrastructure
+7E04E7F8	An effective and secure web banking system: development and evaluation
+5DB1ACB1	Alignment of ReMMo with RBAC to manage access rights in the frame of enterprise architecture
+8128FA50	Comprehensive Two-Level Analysis of Static and Dynamic RBAC Constraints with UML and OCL
+7CF6A054	SARBAC07: A Scoped Administration Model for RBAC with Hybrid Hierarchy
+7AC88A0E	Spatial Domains for the Administration of Location-based Access Control Policies
+77ED47C6	Design and Safety Analysis of a Role-Based Access Control Framework for Mobile Agents in Home Network Environments
+59AC4907	Identity Management: Role Based Access Control for Enterprise Services
+84F9647D	A formal model to express dynamic policies for access control and negotiation in a distributed environment
+759CA697	A meta model for authorisations in application security systems and their integration into RBAC administration
+8022ED01	Access control and trust in the use of widely distributed services
+7E5B15A5	An architecture for supporting vicarious learning in a distributed environment
+7EED4D72	Extending Role-Based Access Control for Business Usage
+5EF8B5F9	RBAC Policy Implementation for SQL Databases
+7B7FDE1A	Enabling technologies for role based online decision engines
+77D8471F	Role-based authorizations for workflow systems in support of task-based separation of duty
+808F6899	Framework for Agent-Based Role Delegation
+806AB592	Integrating business process modelling and ERP role engineering
+7E530852	Enforcing spatial constraints for mobile RBAC systems
+80D852FE	OASIS role-based access control for electronic health records
+80BAC20D	Integrating Trust and Role for Secure Interoperation in Multi-Domain Environment
+7F124362	An Approach to XML-Based Administration and Secure Information Flow Analysis on an Object Oriented Role-Based Access Control Model
+7E7D4607	RBAC for High Performance Computing Systems Integration in Grid Computing and Cloud Computing
+78AFC835	Semantic access control for information interoperation
+79AEAA61	AutoWF: a secure web workflow system using autonomous objects
+7FC3196A	Policy analysis for administrative role based access control
+7D4DE31D	Obtaining context information in dynamic access control
+7C1B680C	Fine-grained access control of personal data
+805E5781	Role-based Concurrency Control in a Subject- and Purpose-Oriented (SPO) View
+763F0995	Role-Based access control consistency validation
+81263C83	GenericWA-RBAC: Role Based Access Control Model for Web Applications
+5F237A67	Combining User Authentication with Role-Based Authorazition Based on Identity-Based Signature
+7DAEEA7F	A General Attribute based RBAC Model for Web Service
+7855D523	Access-control language for multidomain environments
+78981D58	SmartGate: a smart push-pull approach to support role-based security in web gateways
+7CCC4F8A	EFSOC: A Layered Framework for Developing Secure Interactions between Web-Services
+7514E1FC	An integrated framework for securing semi-structured health records
+7BE4C462	An integrated approach to engineer and enforce context constraints in RBAC environments
+80FEB60D	Web-based delegation using XML
+0C5364A2	Integrated access control for smart buildings using building information models
+7A17F0B7	A constraint based role based access control in the SECTET a model-driven approach
+7D84C1F7	Implementing Web access control system for the multiple Web servers in the same domain using RBAC concept
+7D31FD2D	A Rigorous Approach to Uncovering Security Policy Violations in UML Designs
+7F87302A	Design and Evaluation of a Legal Information Flow (LIF) Scheduler in a Role-based Access Control Model
+5B7CEE4D	Eliciting and characterizing scenarios of disclosure of private health data.
+7FEF5096	Security Analysis of Role-based Separation of Duty with Workflows
+7F2AFAD3	Role engineering using graph optimisation
+7B0BB73F	INFRASTRUCTURE FOR RBAC-MAS: AN APPROACH BASED ON AGENT COORDINATION CONTEXTS
+5EFC5782	The conflict detection between permission assignment constraints in role-based access control
+806BA162	Taming role mining complexity in RBAC
+7FC1F617	Using semantics for automatic enforcement of access control policies among dynamic coalitions
+78246FAE	Efficient policy analysis for administrative role based access control
+6B8597B1	Detecting and Resolving Misconfigurations in Role-Based Access Control (Short Paper)
+795D8755	Implementing role-based access control using object technology
+80166ADE	Configuring role-based access control to enforce mandatory and discretionary access control policies
+7D004C82	A unified attribute-based access control model covering DAC, MAC and RBAC
+7FDE89BD	Role based access control framework for network enterprises
+5A205695	A SAT Based Verification Framework for Wireless LAN Security Policy Management Supported by STRBAC Model
+7CEE25D8	Analyzing RBAC Security Policy of Implementation Using AST
+7735F62C	Formal Description for an Object-Oriented Role-based Access Control Model
+7F4F0CFD	Cross-domain access control via PKI
+5C1E4646	An Integration Model of Role-Based Access Control and Activity Based Access Control Using Task
+7752E717	Fuzzy Role-Based Access Control
+814247DD	The Context and the SitBAC Models for Privacy Preservation—An Experimental Comparison of Model Comprehension and Synthesis
+75DC9A10	Specification and verification of security requirements in a programming model for decentralized CSCW systems
+5A0ED893	A Formal Model for Role-Based Access Control Using Graph Transformation
+7EF1FCB4	Time and Location Based Services with Access Control
+7F096767	Secure collaboration in mediator-free environments
+7E26E9FC	Context-Dependent Access Control for Contextual Information
+796B1A19	Modular context-aware access control for medical sensor networks
+7DA28104	The role mining problem: finding a minimal descriptive set of roles
+029F077C	A Model for the Analysis of Security Policies in Industrial Networks
+74B09D6D	An integrity enforcement application design and operation framework in role-based access control systems: A session-oriented approach
+796A49CF	Symbolic reachability analysis for parameterized administrative role-based access control
+7D1FD4D3	Model and analysis of Role-Based Access Control in SELinux using Description Logic
+7E5D7EA4	An Environment-Aware Dynamic Access Control Model
+7D8A31AB	Homonymous role in role-based discretionary access control
+75C23D53	Specification and enforcement of flexible security policy for active cooperation
+7BE706CC	Administrative scope and role hierarchy operations
+801040E5	Role Engineering via Prioritized Subset Enumeration
+7B6AECBD	Role management in adhoc networks
+7AE35AD2	Deriving role engineering artifacts from business processes and scenario models
+80A82982	Process-oriented approach for role-finding to implement role-based security administration in a large industrial organization
+8140602B	Document access control in organisational workflows
+7EB74D27	Role activation hierarchies
+7E1B5856	Roles, stacks, histories: A triple for Hoare
+69DDEB5E	Group-Centric Models for Secure and Agile Information Sharing
+80233DF0	Managing Conflict of Interest in Service Composition
+809AB191	Temporal and Location-Based RBAC Model
+79D9E518	Security-Enhanced OSGi Service Environments
+7FFBBB9B	A Critique of the ANSI Standard on Role-Based Access Control
+59367A99	Development of a flexible PERMIS authorisation module for shibboleth and apache server
+7F2E99F7	Secure Integration of Distributed Medical Data Using Mobile Agents
+79FADF9B	Managing RBAC states with transitive relations
+7FCE2C81	Runtime Administration of an RBAC Profile for XACML
+7C26F9AA	Role-based access control on the Web using Java
+7F9C8A74	Migrating to optimal RBAC with minimal perturbation
+5BED60DF	LoT-RBAC : a location and time-based RBAC model
+7AF32F3D	Web-based secure access from multiple patient repositories
+7F5ECE4D	mPHASiS: Mobile patient healthcare and sensor information system
+7FAB9551	Effective Collaboration with Information Sharing in Virtual Universities
+76C72039	Practical safety in flexible access control models
+5BFA9ECA	Security Enhancement of a Flexible Payment Scheme and Its Role-Based Access Control
+5A894436	Securing publish/subscribe for multi-domain systems
+7DCAC543	Client\Server Access: Satellite-ATM Connectivity Using a Knowledge Management Approach
+8110B5A6	Bridging the gap between role mining and role engineering via migration guides
+7AB17B82	Formal specification for role based access control user/role and role/role relationship management
+7EC4D838	On Role Mappings for RBAC-Based Secure Interoperation
+7D94DF60	AmTRUE: Authentication Management and Trusted Role-based Authorization in Multi-Application and Multi-User Environment
+75CC311B	Centralized Role-Based Access Control for Federated Multi-Domain Environments
+7BE3EF57	Challenges in model-based evolution and merging of access control policies
+7FA7B1A1	A generalized temporal role-based access control model
+7559DD79	A role-based protocol for secure multicast communications in mobile ad hoc networks
+7D56EC84	Discovering Services Is Not Enough
+04ED3F47	A Fine-Grained Mandatory Access Control Model for XML Documents
+80E880F1	A Dynamically Modified Privilege Control Policy
+7DDDF9D8	Context-Role based access control for context-aware application
+80AAFF56	A Classification Framework Designed for Advanced Role-based Access Control Models and Mechanisms
+7D6EE23B	Object based dynamic separation of duty in RBAC
+7A1DEA6F	Cryptography based access control in healthcare web systems
+7FF7A4BE	Formal modelling and analysis of XML firewall for service-oriented systems
+595846E4	Task-Role Based Access Control (T-RBAC): An Improved Access Control Model for Enterprise Environment
+7F0216D6	A Practical Synthesis of Dynamic Role Settings in Telecare Services
+7F0DDCF9	An Authentication and Access Control Framework for Group Communication Systems in Grid Environment
+7CFADAD1	An administration concept for the enterprise role-based access control model
+0B31E84F	Role based access control for a medical database
+7F3FE384	The uses of role hierarchies in access control
+7B2D807E	A new security policy for distributed resource management and access control
+7F10CADF	Securing role-based distributed collaboration system
+793D915C	Role-based access control for substation automation systems using XACML
+7E6E6287	A generalized temporal role based access control model for developing secure systems
+778710BA	Role-based authorization in decentralized health care environments
+5C1E20B4	An Administrative Model for Role Graphs
+7923C319	Feasibility study of software reengineering towards role-based access control
+7FDD959F	A History-Based Constraint for Separation-of-Duty Policy in Role Based Access Control Model
+5CB1732A	Integration of Security Policy into System Modeling
+75F6B5AB	Migrating to role-based access control
+7B4A8EF6	Towards secure dynamic collaborations with group-based RBAC model
+614D8767	Concurrency and Time in Role-Based Access Control
+82FFC7AD	Towards Managed Role Explosion
+7C950026	SecureBPMN: modeling and enforcing access control requirements in business processes
+7F233B97	A system to specify and manage multipolicy access control models
+7CCF0021	Three for one: role-based access-control management in rapidly changing heterogeneous environments
+81186465	Aspect oriented approach to improvement role based access control systems
+7EA41CAD	Multi-granularity time-constraint Role-based access control
+7FC9F5E2	A policy validation framework for enterprise authorization specification
+5EE90C0A	Types for security in a mobile world
+7622F1D3	Scenario-Driven Role Engineering
+5E8DE7FB	A Multi-level Dynamic Access Control Model and Its Formalization
+815EF03F	Hierarchical Domains for Decentralized Administration of Spatially-Aware RBAC Systems
+7DCF1613	Using trust and risk in role-based access control policies
+7F8FF339	Secure mobile agent environments: modelling role assignments
+81A0CC99	A Flexible Access Control Model for Dynamic Workflow Using Extended WAM and RBAC
+7EBB2BD7	A unified model of RBAC and DAC
+76816307	Algorithms for mining meaningful roles
+7E143B30	A Formal Comparison of the Bell & LaPadula and RBAC Models
+7BF1CDF2	Comparing simple role based access control models and access control lists
+746A33B3	Formal authorisation allocation approaches for permission-role assignments using relational algebra operations
+808A9251	Privacy Engine for Context-Aware Enterprise Application Services
+7E11F5FD	Role-based security for distributed object systems
+8079E26B	Role updating for assignments
+6C9FD4AD	Role activation management in role based access control
+7F0ACE51	A Feature-Based Modeling Approach for Building Hybrid Access Control Systems
+5CB607C4	Description Logic Framework for Access Control and Security in Object-Oriented Systems
+814F2370	A Generalized Associated Temporal and Spatial Role-Based Access Control Model for Wireless Heterogeneous Networks
+7FEECB8F	Verification and change-impact analysis of access-control policies
+811CE53C	Discovery-based role activations in role-based access control
+814E3BB0	Separation of Duty in Role-Based Access Control Model through Fuzzy Relations
+01E555F8	Approaches to access control under uncertainty
+803C39A8	Ensuring spatio-temporal access control for real-world applications
+7902A491	Rule support for role-based access control
+7E738815	A DRM System for Home Network Based on RBAC and License Chain
+7D6384FE	On mutually-exclusive roles and separation of duty
+7C0432D0	Toward practical authorization-dependent user obligation systems
+75391F97	Key management for role hierarchy in distributed systems
+5BB3D3F6	Role-based access control on the web using LDAP
+810D6B10	Managing access in extended enterprise networks
+5B29D306	Persistent Versus Dynamic Role Membership
+7F106B30	Optimal Boolean Matrix Decomposition: Application to Role Engineering
+7E6CEAD5	Fine-grained access control for GridFTP using SecPAL
+7DCDD128	Analyzing and Managing Role-Based Access Control Policies
+7FB58C11	An administration model of DRBAC on the Web
+5D0F1309	Implementing role based access control for federated information systems on the web
+6C8C0275	Revocation Schemes for Delegation Licences
+7570CE77	Enforcing access control in workflow systems with a task engineering approach
+7B24C936	A fine-grained, controllable, user-to-user delegation method in RBAC
+5EEFCE3B	Role-Based Access Control Model for Ubiquitous Computing Environment
+5F7A0D88	Selective Regression Test for Access Control System Employing RBAC
+5E1694B0	Context-aware security management system for pervasive computing environment
+7B8E5D6D	Integrating Event-Driven-Based with Grey Relational Analysis for Role Engineering
+78A1CB4B	A criterion-based multilayer access control approach for multimedia applications and the implementation considerations
+5880E397	Autonomic Protection System Using Adaptive Security Policy
+6B49890D	Secure Interoperation in Multidomain Environments Employing UCON Policies
+0AD510B8	Succinct Access Control Policies for Published XML Datasets
+5D026052	Secure Interoperability between Cooperating XML Systems by Dynamic Role Translation
+7A83495B	A feature-based approach for modeling role-based access control systems
+806AE78F	Comparison of advanced authorisation infrastructures for grid computing
+810D21FB	Study on role-based access control model for web services and its application
+7EAAA05A	A financial institution's legacy mainframe access control system in light of the proposed NIST RBAC standard
+8024AA41	Towards Session-Aware RBAC Administration and Enforcement with XACML
+7E2A9BD1	Database roles analysis using data mining
+7A256DD5	A security architecture for interconnecting health information systems
+772B88CD	CONUGA: Constrained User-Group Assignment
+7796003F	A Verification Approach for Applied System Security
+7D923153	Deriving Current State RBAC Models from Event Logs
+7E22463B	Enforcing a security pattern in stakeholder goal models
+775D2848	Access control with safe role assignment for mobile agents
+59A1DB1E	Team Automata Based Framework for Spatio-Temporal RBAC Model
+7751C3ED	Towards a General Framework for Optimal Role Mining: A Constraint Satisfaction Approach
+80E4AED7	Evaluation of a Purpose-Based Marking (PM) Protocol for Secure Distributed Systems
+781AC098	Towards a UML based approach to role engineering
+775D5097	Efficient access enforcement in distributed role-based access control (RBAC) deployments
+77D4C55F	Fault-Tolerant Adaptive Mobile Agent System using Dynamic Role based Access Control
+5A5F45DF	A New Role-Based Authorization Model in a Corporate Workflow Systems*
+80568B36	Mobile secure role based access control (MS-Ro-BAC) device
+6E3DB0E4	Automating security configuration and administration: an access control perspective
+76C103B1	CatBAC: A generic framework for designing and validating hybrid access control models
+5EFCFF74	Administration Model for Or-BAC
+7B69C433	RBAC in UNIX administration
+746CE872	Mining RBAC Roles under Cardinality Constraint
+7C51C497	ID-based encryption for complex hierarchies with applications to forward security and broadcast encryption
+7AC4D6CE	Consistency checking of role assignments in inter-organizational collaboration
+5B1BFA79	Using π-calculus to formalize domain administration of RBAC
+7EBD23AA	Representing and Reasoning about Web Access Control Policies
+5FCA2B22	Achieving DRBAC Authorization in Multi-trust Domains with MAS Architecture and PMI
+7EE8A78F	Access Control Based on RBAC in Distributed Cooperation Environment
+5D7C3E54	On the Formal Analysis of a Spatio-temporal Role-Based Access Control Model
+7E2B2991	A decentralized RBAC model and its user-role administration
+810701CB	How to Use Events and Rules for Supporting Role-Based Security? (Invited Paper)
+75282F37	Visual modeling and formal specification of constraints of RBAC using semantic web technology
+7FFEE193	I-RBAC: Isolation enabled role-based access control
+7CD9F420	Managing Role-Based Access Control Policies for Grid Databases in OGSA-DAI Using CAS
+7C206518	An Oracle implementation of the PRA97 model for permission-role assignment
+797023C3	Application of XML tools for enterprise-wide RBAC implementation tasks
+5A817222	A Modal Logic for Role-Based Access Control
+7583FC03	Using Alloy to Analyze a Spatio-Temporal Access Control Model Supporting Delegation
+58C0B6FC	Analyzing First-Order Role Based Access Control
+7D168B64	Representation and evaluation of security policies for distributed system services
+7F03ABA0	Using NFS to implement role-based access control
+7CFBC243	Using uml to visualize role-based access control constraints
+7C50764E	RB-GACA: A RBAC Based Grid Access Control Architecture
+7D4982D1	Towards a Group-Based RBAC Model and Decentralized User-Role Administration
+80E62AA1	Extended RBAC - Based Design and Implementation for a Secure Data Warehouse
+80AF818A	Controllable authorization delegation model supported by constraints
+025F60EE	Composite Role-Based Monitoring (CRBM) for Countering Insider Threats
+7BFCA232	Security analysis in role-based access control
+587AECC7	Context RBAC/MAC Access Control for Ubiquitous Environment
+02958914	The Research for Spatial Role-Based Access Control Model
+5BF18CE1	Role-based administration of user-role assignment: The URA97 model and its Oracle implementation
+5FB9C405	RBAC-Based Access Control Integration Framework for Legacy System
+5CF44CAD	Role-Based Access Control Features in Commercial Database Management Systems
+7DDB192D	Discretionary access control with the administrative role graph model
+7F4F0387	Selecting a security architecture for a new model of distributed tutorial support
+62BA6EC3	A Constraint and Attribute Based Security Framework for Dynamic Role Assignment in Collaborative Environments
+8043B67B	On the role of roles: from role-based to role-sensitive access control
+81527D69	UDDI access control
+7C7836FD	Usage control in computer security: A survey
+756C575E	PRES: a practical flexible RBAC workflow system
+768C76E8	An information flow control model for C applications based on access control lists
+7A6EB310	Role mining with ORCA
+7F79B887	A probabilistic approach to hybrid role mining
+812D6B17	Purpose-Based Information Flow Control for Cyber Engineering
+80D87405	Modeling Access Control Requirements in Feature Model
+7EBC4281	Context-based role engineering for ubiquitous computing environment
+7610C6FF	A Network-Cliques Based Role Mining Model
+77B34D29	Security analysis of GTRBAC and its variants using model checking
+8023975C	The Role Hierarchy Mining Problem: Discovery of Optimal Role Hierarchies
+77982264	Discovering role-relevant process-views for disseminating process knowledge
+70829FB4	An OWL-Based Approach for RBAC with Negative Authorization
+80D452BF	Intergrating role-based access control model with web server
+76863F08	Parameterized Role-Based Access Control Policies for XML Documents
+79501380	Fine-grained role-based delegation in presence of the hybrid role hierarchy
+80370950	Role based reengineering of Web applications
+7CFE0C56	Semantics-based Access Control Approach for Web Service
+5DD9EE99	Efficient revocation of security capability in certificateless public key cryptography
+6913AF8E	Role Based Access Control for the World Wide Web
+5F8E3D27	Elements of a Language for Role-Based Access Control
+7C0C635E	A role-based access control model and reference implementation within a corporate intranet
+59EC0585	A Role Engineering Tool for Role-Based Access Control
+5CCE1946	Web Application Security Gateway with Java Non-blocking IO
+5F6BBBFB	An Attribute Graph Based Approach to Map Local Access Control Policies to Credential Based Access Control Policies
+7F041F96	A Case Study of a Formalized Security Architecture
+7ED0FF5C	Supporting Negative Authorization in Spatiotemporal Role Based Access Control
+7E098FCD	Roles in Information Systems: A Survey
+7DCB3196	Formal Z Specifications of Several Flat Role-Based Access Control Models
+7E652D73	Active Authorization Rules for Enforcing Role-Based Access Control and its Extensions
+5FE3EA02	Preventing Illegal Information Flow Based on Role-Based Access Control Model
+5BB7DF01	Semi-automatic synthesis of security policies by invariant-guided abduction
+5D7CD43C	Representation and Reasoning on Role-Based Access Control Policies with Conceptual Graphs
+7EF4020A	Administration in role-based access control
+7B60DCD0	The extended RBAC model based on grid computing
+7D9F47C6	A Task-Role Based Access Control Model with Multi-Constraints
+80B5BE0F	Applying Role-Based Access Control in Combining the Chinese and Western Medicine Systems
+5F91AC26	The Research on Role-Based Access Control Mechanism for Workflow Management System
+7F1C9242	Authorization approaches for advanced permission-role assignments
+762342D6	A composite rbac approach for large, complex organizations
+5CB1B484	Towards Semantic Integrity in Rational Databases
+7F8EBB4D	A Context-Aware Access Control Model for Pervasive Computing Environments
+7777DD32	Incident response requirements for distributed security information management systems
+7E25257E	Role-Based Access-Control Using Reference Ontology in Clouds
+7F52E436	A Flexible Applicable RBAC Model and Its Administration
+78609E3C	A context-related authorization and access control method based on RBAC:
+77F9A3C4	How to do discretionary access control using roles
+7E5E653F	Context-Based E-Health System Access Control Mechanism
+811AFAF9	The ARBAC99 model for administration of roles
+7E66392F	A Pattern System for Access Control
+766F0EDC	A graph-based formalism for RBAC
+7B56EE86	An interoperation framework for secure collaboration among organizations
+7599B359	A trust-and-risk aware RBAC framework: tackling insider threat
+76C22A00	Atom-Role-Based Access Control Model
+7A4A687A	Access Control Management for SCADA Systems
+06D897BD	Role-based access control: features and motivations
+80D3B5C0	RoleMiner: mining roles using subset enumeration
+77323B6F	A dynamic context-aware access control architecture for e-services
+788397B0	CRiBAC: Community-centric role interaction based access control model
+77FAFFE5	Embedding role-based access control model in object-oriented systems to protect privacy
+7ADB1B8A	Role based access control on MLS systems without kernel changes
+7A2ED0C4	Controlling information access in workflow management systems using RBAC‐based model
+5DEEAF34	The Policy Machine for Security Policy Management
+7A709B82	Analysis of ANSI RBAC Support in COM+
+7F3C09D7	A Trust and Context Based Access Control Model for Distributed Systems
+75342E7C	Paralocks: role-based information flow control and beyond
+7E1FB96E	Verification and Analysis of Access Control Policy with Colored Petri Net
+7E56617E	Role Engineering with SKAOS for Systems Employing RBAC
+79B3F6A2	Lightweight analysis of access control models with description logic
+7D4408E4	Roles in learning systems
+80CA2180	Constraints for role-based access control
+756D77CA	Situation-Based Access Control: Privacy management via modeling of patient data access scenarios
+7AE3FD48	Integrating GSTRBAC spatial constraints in X-GTRBAC
+778AB258	Role-based differentiation for insider detection algorithms
+5A2E7F94	A Formal Language for Specifying Complex XML Authorisations with Temporal Constraints
+79D2FFCD	Applying role based access control and genetic algorithms to insider threat detection
+7E6DBCAB	A review on extended role based access control (E-RBAC) model in pervasive computing environment
+7C11E6B8	Administrative scope in the graph-based framework
+7F93055A	Policy contexts: controlling information flow in parameterised RBAC
+095A2BE2	Delegation in role-based access control
+7DBB8583	Dependable and secure TMO scheme
+7E2C3551	Dynamic Activation of Role on RBAC for Ubiquitous Applications
+804E7DD0	Towards administration of a hybrid role hierarchy
+80206CE5	A contextual role-based access control authorization model for electronic patient record
+7FA71C84	A Role-Based Hierarchical Administrative Model
+7E1BEF41	RoleVAT: Visual Assessment of Practical Need for Role Based Access Control
+7C99798F	Managing role relationships in an information flow control model
+7BB7BAFB	A rule-based CBR approach for expert finding and problem diagnosis
+7D5424DD	Secure knowledge management: confidentiality, trust, and privacy
+80586A8E	Secure Web-based applications with XML and RBAC
+7D27881C	Advanced features for enterprise-wide role-based access control
+7F07BE81	Enforcing Role-Based Access Control Policies in Web Services with UML and OCL
+7E311912	An Improved Role-Based Workflow Access Control Model
+79952CBE	X-GTRBAC: an XML-based policy specification framework and architecture for enterprise-wide access control
+5F0E76AF	User-role reachability analysis of evolving administrative role based access control
+79E3BF54	Policy analysis for Administrative Role-Based Access Control
+803A76FA	Transforming and Selecting Functional Test Cases for Security Policy Testing
+77EA540F	On the management of user obligations
+772F532B	Fault coverage of Constrained Random Test Selection for access control: A formal analysis
+5B724D59	Conditional privacy-aware role based access control
+76C335C7	Budget-aware role based access control
+816014EC	Role-based access control with X.509 attribute certificates
+78D03EAF	W-RBAC — A Workflow Security Model Incorporating Controlled Overriding of Constraints
+7FAAD1F0	RMiner: a tool set for role mining
+81415211	A Novel Graph-Based Privacy Policy Management System
+5CB0D8BD	A privacy preservation model for facebook-style social network systems
+7915EA5B	Towards accuracy of role-based access control configurations in component-based systems
+8017D7C2	A model for attribute-based user-role assignment
+5A5E305C	A Semi-distributed Access Control Management Scheme for Securing Cloud Environment
+7FA651D2	Rights Management for Role-Based Access Control
+802F9CB1	A Policy Language for the Extended Reference Monitor in Trusted Operating Systems
+7F80500A	A Cross - Domain Role Mapping and Authorization Framework for RBAC in Grid Systems
+59394219	An efficient access control model for highly distributed computing environment
+6164F309	Flexible access control for dynamic collaborative environments
+8045B96A	Security analysis in role-based access control
+7F51B32A	Situation-aware access control for service-oriented autonomous decentralized systems
+58756C0B	Role-Based Protection and Delegation for Mobile Object Environments
+5E23D59A	A role-based access control model for information mediation
+75DA5380	Secure administration of cryptographic role-based access control for large-scale cloud storage systems
+80B6B996	Semantic-Aware Access Control for Grid Application
+05812356	A secure and efficient role-based access policy towards cryptographic cloud storage
+810EEA3C	A role-based secure database design tool
+775774B6	A delegation model for extended RBAC
+7D8E976C	RBAC and XML security in adhoc networks
+79FBB06B	Modeling Support for Role-Based Delegation in Process-Aware Information Systems
+75BA7E3E	Role templates for content-based access control
+80BC12F4	On the Complexity of Authorization in RBAC under Qualification and Security Constraints
+7BE88D54	Supporting authorization query and inter-domain role mapping in presence of hybrid role hierarchy
+7DFE5918	Role-based access control (RBAC) in Java via proxy objects using annotations
+5D0E1F6F	The Work Concept RBAC Model for the Access Control of the Distributed Web Server Environment
+77E7EF84	Incorporating social-cultural contexts in role engineering: an activity theoretic approach
+7D97FF53	A risk management approach to RBAC
+80D246EA	Access Control Using Extended Role Graph Corresponding to Organizational Hierarchy
+7DD0D5FE	A model-driven approach for the visual specification of Role-Based Access Control policies in web systems
+7CCF112E	Team-and-role-based organizational context and access control for cooperative hypermedia environments
+7319FC1E	Security Analysis of Role Based Access Control Models Using Colored Petri Nets and CPNtools
+7F77DBDA	Role-based authorization constraints specification using Object Constraint Language
+05014EEA	Role Based Access Control and the JXTA Peer-to-Peer Framework
+7F5B4D57	An empirical study of the characteristics of access control model towards secure KMS in collaborative environment
+75D18EFE	Flexible access control framework for MARC records
+6EF0F634	Supporting heterogeneous middleware security policies in WebCom
+59DE6AA1	Access Control for Cooperation Systems Based on Group Situation
+801C0B9C	Apply the Technology of RBAC and WS-Security for Secure Web Services Environment in Campus
+77CBDFCB	Designing secure e-commerce with role-based access control
+806BDDA8	Securing Web OLAP Based on RBAC Model
+63A90936	An Optimal Mobile Service for Telecare Data Synchronization using a Role-based Access Control Model and Mobile Peer-to-Peer Technology
+7BBD5149	TRBAC: A temporal role-based access control model
+814B8263	Context-aware security service in RFID/USN environments using MAUT and extended GRBAC
+7F05A6DA	Cryptographic role-based security mechanisms based on role-key hierarchy
+763F14AC	Role delegation in role-based access control
+7ECB3D77	Privacy Access Control Model for Aggregated e-Health Services
+759D22FD	CRBAC: Imposing multi-grained constraints on the RBAC model in the multi-application environment
+80F11699	On the formal definition of separation-of-duty policies and their composition
+7A08F331	Towards an authorisation model for distributed systems based on the Semantic Web
+7E319FAE	Novel Data Protection Model in Healthcare Cloud
+5D91B1F8	An approach for trusted interoperation in a multidomain environment
+7DD6F466	The role control center: features and case studies
+7FA47119	Specification and classification of role-based authorization policies
+8016DFC9	Synchronization of Transactions to Prevent Illegal Information Flow in a Role-Based Access Control Model
+5E90D6A8	An Architecture for Distributed OASIS Services
+06CA5857	A Framework for Role-Based Access Control in Group Communication Systems
+78276084	Specification and querying of security constraints in the EFSOC framework
+68905166	Automatic Conformance Checking of Role-Based Access Control Policies via Alloy
+7E71CB86	Efficient run-time solving of RBAC user authorization queries: pushing the envelope
+808A81F9	Applying hierarchical and role-based access control to XML documents
+7E2E9804	An Object Oriented Role-based Access Control Model for Secure Domain Environments
+785363A6	Determining role rights from use cases
+7D56578C	Access control of global distributed storage system
+7E7D4978	Static verification of security requirements in role based CSCW systems
+7FF643B0	Role-Based Access Control in Peer-to-Peer (P2P) Societies
+77CDA3E7	Supporting RBAC with XACML+OWL
+7B55007E	Role-based access to facilities lifecycle information on RFID tags
+81085978	Task-Role Based Dual System Access Control Model
+79BE0680	Constraint based role based access control (CRBAC) for restricted administrative delegation constraints in the SECTET
+7FD1E9AC	SLA Driven Process Security through Monitored E-contracts
+7EFF9961	Discretionary and Mandatory Controls for Role-Based Administration
+7949626D	A role-based XACML administration and delegation profile and its enforcement architecture
+7E672DDC	Role-Based Access Control in Software Services: Theory vs. Practice
+7BAD6FD5	Role-based cascaded delegation
+5BB3E3CF	Role-Based Access Control Models
+7D49C0AB	Managing Medical Images and Clinical Information: InCor's Experience
+7EED4DDF	Privacy-aware role based access control
+7B75FF66	Role-based access control and the access control matrix
+07AC1DA8	Implementing Advanced RBAC Administration Functionality with USE
+7F7970D9	Role inheritance with object-based DSD
+7F906B85	Constraints for Permission-Based Delegations
+5EF97F75	Specification and Verification of Constraints in Role Based Access Control for Enterprise Security System
+7F287B32	SERAT: SEcure role mApping technique for decentralized secure interoperability
+7D793BDE	Agent Based Architecture for Secure Access from Multiple Hospitals
+7CE73BAE	A location aware role and attribute based access control system
+8088290F	A flexible privilege management scheme for role graph model
+78773ABB	Role-based authorization constraints specification
+815D7C6C	An Approach for Generation of J2EE Access Control Configurations from Requirements Specification
+5EAB0D04	Authorization and User Failure Resiliency for WS-BPEL Business Processes
+8066EA99	A SIP-based architecture model for contextual coalition access control for ubiquitous computing
+7316B8F4	Flexible security policies in SQL
+5DEBC89D	Conflict of interest in the administrative role graph model
+7BC0C7E1	Role Refinement in Access Control: Model and Analysis
+76BCF040	Delegation in role-based access control
+5BDA1555	Managing Risks in RBAC Employed Distributed Environments
+7980C4A4	A system for visual role-based policy modelling
+7750E55C	A request-driven secure interoperation framework in loosely-coupled multi-domain environments employing RBAC policies
+772E2C6F	PBDM: a flexible delegation model in RBAC
+7DE50231	A description logic approach to represent and extend RBAC model
+7FE636BE	The role-based access control system of a European bank: a case study and discussion
+7F9FF539	Access control for Active Spaces
+7ED88E96	A general obligation model and continuity: enhanced policy enforcement engine for usage control
+791921B1	The tees confidentiality model: an authorisation model for identities and roles
+7D49380B	Function-Based Authorization Constraints Specification and Enforcement
+78D27BFF	Model driven security for process-oriented systems
+785A6916	Hard Instances for Verification Problems in Access Control
+77B796D2	Information flow analysis of an RBAC system
+7E62FB56	Task-Role-Based Access Control in Application on MIS
+810C76FA	Multi-session Separation of Duties (MSoD) for RBAC
+7F6181E3	Security Analysis on Administrative Model of Role-Based Access Control
+694DAA07	Using Graph Theory to Represent a Spatio-Temporal Role-Based Access Control Model
+7F47D5C7	A Study of Access Control Requirements for Healthcare Systems Based on Audit Trails from Access Logs
+79D2BB65	A new hybrid schema-sharing technique for multitenant applications
+789D4329	Flexible access control policy specification with constraint logic programming
+7F957D63	Role-based scheduling and synchronization algorithms to prevent illegal information flow
+7DF8F415	Access control meets public key infrastructure, or: assigning roles to strangers
+7EDB677B	A Domain-Role-Based Control Model for CSCW System
+5EFE7BC9	RiBAC: Role Interaction Based Access Control Model for Community Computing
+7FE623E7	DRM Application in UCONABC
+7876CCA2	Context-Sensitive Access Control Model for Government Services
+7EDE8472	An approach to extract RBAC models from BPEL4WS processes
+7C1B4F13	Access control in publish/subscribe systems
+7A8EAC4A	XeNA: an access negotiation framework using XACML
+5934093F	Security enhanced Linux to enforce mandatory access control in health information systems
+76A59A90	Managing role/permission relationships using object access types
+7B0DD41B	Reliability of separation of duty in ANSI standard role-based access control
+6A09E26D	Stateful Design for Secure Information Systems
+7EC90890	Role-based concurrency control for distributed systems
+7D0F2017	A Role-Based Dynamic Authorization Model and Its Implementation in PMI
+7607D8EA	domRBAC: An access control model for modern collaborative systems
+807CFD67	A privacy enhancing infrastructure for context-awareness
+77156E14	Security for Enterprise Resource Planning Systems
+7CBDD0BE	An argument for the role-based access control model
+7B9E2560	Secure resource sharing on cross-organization collaboration using a novel trust method
+04AD44F0	Some Usability Considerations in Access Control Systems
+80328C9E	Verification of UML-Based Security Policy Model
+7FDB2F60	Modeling process-related RBAC models with extended UML activity models
+5A23F68C	A Rule-Based Framework Using Role Patterns for Business Process Compliance
+7E6E702A	Location-based security framework for use of handheld devices in medical information systems
+80F128D6	Inter-domain role mapping and least privilege
+59419174	Mediator-free secure policy interoperation of exclusively-trusted multiple domains
+7EDC87BD	An Extensible Framework for RBAC in Dynamic Ad-Hoc Coalitions
+80A47904	A new security scheme for e-health system
+7E1585EA	Research of Security Analysis of ARBAC Policy Based on Intelligence Planning
+7FCE3B01	Model-Based Tool-Assistance for Packet-Filter Design
+76EBAD3E	A security policy framework for context-aware and user preferences in e-services
+7CB31234	Role delegation on multiple-attractor cellular automata based on pseudo-exhaustive bit patterns
+7648E4A9	Engineering authority and trust in cyberspace: the OM-AM and RBAC way
+7B5A3215	Enterprise access policy enforcement for applications through hybrid models and XSLT technologies
+7F491DE5	Generic support for RBAC break-glass policies in process-aware information systems
+7FEA041A	A Light-Weight Formal Approach for Modeling, Verifying and Integrating Role-Based Access Control Requirements
+3A6D394F	Model driven architecture for modeling of logical security based on RBAC approach
+80890F53	Selective Role Assignment on Dynamic Location-Based Access Control
+7DCB8BDF	Role-based access control on the web
+5F8756D3	Ontology-Based RBAC specification for interoperation in distributed environment
+7FD2BC30	On the Modeling of Bell-LaPadula Security Policies Using RBAC
+815ACCA3	The Efficient Maintenance of Access Roles with Role Hiding
+8171F56F	Access Control Policies for Semantic Networks
+7BDFCE23	A legal information flow (LIF) scheduler based on role-based access control model
+78210D6E	A model of OASIS role-based access control and its support for active security
+794E4BF2	An agent and RBAC model to secure cooperative information systems
+7E24AC17	A closer look to the V-model approach for role engineering
+7F671C74	A theory for comparing the expressive power of access control models
+754A50B4	A learning-based approach for SELinux policy optimization with type mining
+7DF3EF4D	Supporting parameterised roles with object-based access control
+5944557B	A Design for Parameterized Roles
+7FD0028E	A State-Adaptive Access Control Model for Web-Based IDRS System
+7FC56A9F	Towards a Privacy Policy Enforcement Middleware with Location Intelligence
+7C31002F	Napoleon: network application policy environment
+5B42F7C4	A Scalable Parametric-RBAC Architecture for the Propagation of a Multi-modality, Multi-resource Informatics System
+7AF0220F	Enable delegation for RBAC with Secure Authorization Certificate
+7F35B67E	An aspect-based approach to modeling access control concerns
+7E444C62	Putting role-based discretionary access control into practice
+7E5645F1	E-Government Information Security in the Web Environment Based on Role Based Access Control Technology
+6D5F6816	A Knowledge-Based Approach to Internet Authorizations
+790EE47E	Workflow authorisation in mediator-free environments
+7761D680	Towards an Automatic Top-down Role Engineering Approach Using Natural Language Processing Techniques
+79F5D685	Towards a more complete model of role
+7EC521E1	The PERMIS X.509 role based privilege management infrastructure
+7E445D39	Future Directions in Role-Based Access Control Models
+5D967D22	A DRBAC model based on context for smart and secure services in intelligent ubiquitous home
+58954830	SecureUML: A UML-Based Modeling Language for Model-Driven Security
+79C7F07E	A formal framework to elicit roles with business meaning in RBAC systems
+80C53DF8	Can Feature be used to Model the Changing Access Control Policies ?
+5AA868F4	A Framework for Modeling Restricted Delegation in Service Oriented Architecture
+5D828B49	An improved administration method on role-based access control in the enterprise environment
+5E06C57B	A Flexible Database Security System Using Multiple Access Control Policies
+7C0A2D9E	Role-based access control for publish/subscribe middleware architectures
+7F33F689	Vulnerabilities and threats in distributed systems
+5C6F7B99	A framework for multiple authorization types in a healthcare application system
+8103860C	Design and implementation of the RBAC-SOA model
+804D72B4	An electronic cash scheme and its management
+80C53DFC	Administration of an RBAC system
+7E5B3FE4	An Access Control Model for NoSQL Databases
+7DCDFB54	An Assessment Strategy for Rating Client/Server Satellite Network Performance in a Global Environment
+7CD65F5B	A data-gathering broker as a future-orientated approach to supporting EPR users
+5C039D6B	The URA97 Model for Role-Based User-Role Assignment
+77902BBD	An extended RBAC profile of XACML
+5CA524C4	A Logical Approach to Dynamic Role-Based Access Control
+8017C212	Package-Role Based Authorization Control Model for Wireless Network Services
+8108D345	Criticality aware access control model for pervasive applications
+81608130	Consistency Checks for Duties in Extended UML2 Activity Models
+7E5FBACF	Proactive Role Discovery in Mediator-Free Environments
+7B4612CB	The UCON ABC usage control model
+59337023	Delegating revocations and authorizations
+7F058664	ACStream: Enforcing Access Control over Data Streams
+7E40D13E	DRBAC based access control method in substation automation system
+01EA4537	RBAC/MAC Security Analysis and Design for UML
+5F032C95	Privilege states based access control for fine-grained intrusion response
+5F609446	Context-Aware Role-Based Access Control Model for Web Services
+8075056C	Requirements of role-based access control for collaborative systems
+58918DD9	Security policy integration based on role-based access control model in healthcare collaborative environments
+7DC751D3	Policy-based access control in peer-to-peer grid systems
+7DC4E052	A pattern language for security models
+7F8981F2	Applying lightweight directory access protocol service on session certification authority
+5CC2D515	An Attributable Role-Based Access Control for Healthcare
+7AB524E8	Tucupi: a flexible workflow system based on overridable constraints
+5CE772F9	Design and implementation of access control system for smart office environment
+7ADEDD75	Rebuttal to the NIST RBAC model proposal
+7E581C84	Towards role mining with restricted user-role assignment
+5C91B2E7	A spatio-temporal role-based access control model
+5F0D4869	Role-based Access Control
+813DC79D	A model for team-based access control (TMAC 2004)
+7DD71715	Engineering Policies for Secure Interorganizational Information Flow
+7E1BFA7F	A Criterion-Based Role-Based Multilayer Access Control Model for Multimedia Applications
+7A9CFCD5	Flexible control of downloaded executable content
+7D5C6D1E	Role-Based Access Controls: Status, Dissemination, and Prospects for Generic Security Mechanisms
+7D2F352D	Specifying and enforcing constraints in role-based access control
+811D550D	Towards Formal Specification and Verification of a Role-Based Authorization Engine using JML (Position paper)
+7E08FD2B	Performance prediction for running workflows under role-based authorization mechanisms
+7FE0413D	Timed constraint programming: a declarative approach to usage control
+7C4413A3	A conditional purpose-based access control model with dynamic roles
+8170B02D	A Security Model and its Application to a Distributed Decision Support System for Healthcare
+592AA523	Efficient Role Based Access Control Method in Wireless Environment
+5C4CC640	Research of Integrated Access Control Based on Task-Driven RBAC for Lifecycle Software Quality Management
+8023A3B9	FRAC: Implementing Role-Based Access Control for Network File Systems
+5B0797FC	Representation and reasoning on RBAC: a description logic approach
+807DF47C	Concurrency control on distributed objects using role ordering (RO) scheduler
+751A95AF	An adaptive risk management and access control framework to mitigate insider threats
+7C6CA975	New role-based access control in ubiquitous e-business environment
+7D59A41C	Formalism of the Access Control Model Based on the Marqued Petri Nets
+5C7ACCAD	On the homonymous role in role-based discretionary access control
+7E4AB174	Domain Administration of Task-role Based Access Control for Process Collaboration Environments
+7E90B4E5	Towards location-based access control in healthcare emergency response
+80566EB7	Role engineering of information system using extended RBAC model
+5B4EC347	Modeling and Inferring on Role-Based Access Control Policies Using Data Dependencies
+79503709	A framework integrating attribute-based policies into role-based access control
+5BD39708	Distributed Authorization Framework for Mobile Agents
+7D765F12	Role-based access control: a multi-dimensional view
+800AF3C2	Applications of the Oriented Permission Role-Based Access Control Model
+62BA4BE1	A Context-Sensitive Access Control Model and Prototype Implementation
+7DB9F7D3	dRBAC: distributed role-based access control for dynamic coalition environments
+7D8DFEB1	Secure Access to Grid Information Service Using Shibboleth and PERMIS
+80444137	A Purpose-Based Synchronization Protocol of Multiple Transactions
+5DAE9758	PuRBAC: Purpose-Aware Role-Based Access Control
+5E6AE0C9	Access Policy Design Supported by FCA Methods
+77441BBB	A model of OASIS role-based access control and its support for active security
+785BFF24	The PERMIS X.509 role based privilege management infrastructure
+5C9E65C9	Fine-Grained Access Control with Object-Sensitive Roles
+7FF6B995	Research and Implementation of Role-Based Access Control Model Based on Partition Number
+025A2345	RBAC AUTHORIZATION DECISION WITH DL REASONING
+7E7D173D	Role Based Access Control in Distributed Object Systems
+79D9E3F5	A flexible content and context-based access control model for multimedia medical image database systems
+774121D5	Role-based access control for collaborative enterprise in peer-to-peer computing environments
+5EE1557C	Cryptographic enforcement of role-based access control
+5BD0CCBA	Components- Based Access Control Architecture
+7FBEE0DD	AW-RBAC: Access Control in Adaptive Workflow Systems
+76924CF7	Evolving role definitions through permission invocation patterns
+7F4BC3A2	Three-Layers Role-Based Access Control Framework in Large Financial Web Systems
+814F0477	A Role-Based Access Control Architecture for P2P File-Sharing Systems Using Primary/Backup Strategy
+773738E8	Mining roles with noisy data
+61E9F8A4	Role-Based Access Control
+7DA1251E	Integrating Delegation with the Formal Core RBAC Model
+80591BE3	An integrated approach for identity and access management in a SOA context
+7DAF3C1E	An Access Control Model for Secure Cluster-Computing Environments
+80B0910B	Understanding and developing role-based administrative models
+7BB01A4D	On permissions, inheritance and role hierarchies
+7D42ABCE	Verifying BPEL workflows under authorisation constraints
+07831547	Designing a Complete Model of Role-based Access Control System for Distributed Networks
+7541E724	The role delegation authorization model of a computer-supported cooperative design system
+58CCABB8	Role-based modelling of interactions in database applications
+5A3B1F95	Integration of a cryptographic file system and access control
+812394F4	Database Applications of Role-Based Access Control
+5BC9659C	Role-Based Access Control for E-commerce Sea-of-Data Applications
+7822BEC4	Development of an access control model, system architecture and approaches for resource sharing in virtual enterprise
+7F94BC26	Formal Security Policy Verification of Distributed Component-Structured Software
+7FB2E4D5	An XML-based language for access control specifications in an RBAC environment
+5A555F45	Managing Access in Extended Enterprise Networks Web Service-Based
+7885D52A	TrustBAC: integrating trust relationships into the RBAC model for access control in open systems
+58C3F596	Using Mediated Identity-Based Cryptography to Support Role-Based Access Control
+5AD8CF7B	TRBAC: A Temporal Authorization Model
+76CD4247	A logical framework for reasoning about access control models
+7E870CB3	An intelligent agent based framework for secure Web Services
+01FC2155	Incremental Information Flow Analysis of Role Based Access Control
+5F8E3626	Modeling Role-Based Access Control Using Parameterized UML Models
+7EF6803D	When Role Models Have Flaws: Static Validation of Enterprise Security Policies
+5C548B26	Establishing RBAC-Based Secure Interoperability in Decentralized Multi-domain Environments
+5EC4BE06	A novel use of RBAC to protect privacy in distributed health care information systems
+7677E4C8	RBAC-based access control for privacy protection in pervasive environments
+5863A42C	Secure role activation and authorization in the enterprise environment
+767BC6F9	Context-aware role mining for mobile service recommendation
+5AF0721E	Apollon: Towards a semantically extensible policy framework
+75D0EB88	Extending virtualization services with trust guarantees via behavioral monitoring
+812E7FC1	Preprocessing the noise in legacy user permission assignment data for role mining — An industrial practice
+7A45ECB5	Validation of security policies by the animation of Z specifications
+7E106A4E	Role-based access control for CORBA distributed object systems
+7D194A6F	A simple role mining algorithm
+69713C4A	Role mining based on permission cardinality constraint and user cardinality constraint
+7C7EA03F	Constraint specification for object model of access control based on role
+59B7E2C4	Scalable and efficient reasoning for enforcing role-based access control
+7650FDF4	Schema‐level access control policies for XML documents
+75D22DC3	Dynamic rights: safe extensible access control
+7ECCFD7F	Dynamic trust domains for secure, private, technology-assisted living
+809B9E37	A Design and Implementation of Data Access Control in Digital Campus System Using the RBAC Method
+7DE735EF	A Domain Specific Modeling Framework for Secure Network Applications
+75EB973D	Future directions in role-based access control
+79CFF857	Role-based access control in Java
+7893A390	A verification framework for access control in dynamic web applications
+7F3ED5F3	Access Control Policy Management Framework based on RBAC in OSGi Service Platform
+75F9E4DE	Minimizing insider misuse through secure Identity Management
+7FA76824	Using Semantic Web Technologies to Specify Constraints of RBAC
+7FAA2D06	Managing the Life Cycle of Access Rules in CEOSIS
+08007D0C	SHIELDING THE OASIS RBAC INFRASTRUCTURE FROM CYBER-TERRORISM
+80197C7F	Symbolic reachability analysis for parameterized administrative role based access control
+7FC11250	Approach to Supporting Continuity of Usage in Location-Based Access Control
+8136329A	Research on Role-Based Joint Authorization Administration Model
+7F1E40B2	Role-based access control in DCOM
+80BAEA2A	Inconsistency Detection of Authorization Policies in Distributed Component Environment
+7FF3F10A	Design of an access control module for an instrumentation gateway
+7DCD0D28	Tool support for UML-based specification and verification of role-based access control properties
+00812854	Mobi-CoSWAC: an access control approach for collaborative scientific workflow in mobile environment
+8148B08E	Application of Role-Based Access Control for Web Environment
+7C53BF3D	Authorisation and antichains
+808F77CE	Secure interoperation in a multidomain environment employing RBAC policies
+80CABA49	Prox-RBAC: a proximity-based spatially aware RBAC
+6F6DF851	Towards Trustworthy Delegation in Role-Based Access Control Model
+75B5B712	Panel on role engineering
+80E41CD2	Data security in location-aware applications: an approach based on RBAC
+7A0ACCAE	A methodology for managing roles in legacy systems
+7E4E65A5	An approach to modular and testable security models of real-world health-care applications
+7CD75844	An adaptive security model using agent-oriented MDA
+5A25C239	A Context Aware Content Based Federated Access Control System for Healthcare Domain
+78146AA8	A UML profile for role-based access control
+7EC8D1E3	Role-Based Access Control for Distributed Cooperation Environment
+5DCC5865	A Flexible Access Control Model for Dynamic Workflow Using Extended WAM and RBAC
+809D33FC	An Adaptive Security Model for Multi-agent Systems and Application to a Clinical Trials Environment
+780E50CE	A scenario-driven role engineering process for functional RBAC roles
+7D9BB1D7	Inconsistency Management of Role Base Access Control Policy
+7536B20F	On classifying access control implementations for distributed systems
+7699A794	Patterns for session-based access control
+7714F47C	The ARBAC97 model for role-based administration of roles
+77D1E0DD	RBAC Standard Rationale: Comments on "A Critique of the ANSI Standard on Role-Based Access Control"
+79D4A262	Role mining - revealing business roles for security administration using data mining technology
+80F2069D	Detecting anomalous access patterns in relational databases
+01BF119F	Towards a better integration of patterns in secure component-based systems design
+7BE481DF	Integrating role graphs: a tool for security integration
+779161C0	Analysis of ANSI RBAC Support in EJB
+77DDB10F	Mixing privacy with role-based access control
+7D9A99BB	Proximity based access control in smart-emergency departments
+7EBE8306	Exploiting X.509 Certificate and Multi-agent System Architecture for Role-Based Access Control and Authentication Management
+761005C4	Inferring dynamic credentials for rôle-based trust management
+7A8D96DF	Beyond accountability: using obligations to reduce risk exposure and deter insider attacks
+7DC1A56F	Role Based Access Control for social network sites
+7E5CF2C2	An experimental news production system with flexible role-based access control
+8084F780	A Comprehensive Approach for Context-dependent Privacy Management
+69DD84B9	A Policy Based Framework for Access Control
+5890BC9A	Resolving Information Flow Conflicts in RBAC Systems
+7E765938	ROBAC: Scalable Role and Organization Based Access Control Models
+779004B6	Symmetric RBAC model that takes the separation of duty and role hierarchies into consideration
+5F19249C	Edge-RMP: Minimizing administrative assignments for role-based access control
+7E53367B	An integrated security framework for XML based management
+7D19F8EC	Expressions of expertness: the virtuous circle of natural language for access control policy specification
+791FDE2E	Policy management using access control spaces
+640BCD97	Database Security Integration Using Role-Based Access Control
+5AD507AA	Authorization Constraints Specification of RBAC
+7CCC583A	Role Based Access Control system in the ATLAS experiment
+7DC5362F	Towards Formal Verification of Role-Based Access Control Policies
+7DD40475	API access control in cloud using the Role Based Access Control Model
+7BF55BFF	Distributed role-based access control for coaliagion application
+7EFF2C20	New Approach Targeting Security Patterns Development and Deployment
+7AC5810E	A cognitive RBAC model with handover functions in small heterogeneous networks
+794AA058	Delegation in the role graph model
+7D1C00FB	A coordinated spatio-temporal access control model for mobile computing in coalition environments
+7E08B115	Model-driven security management of embedded service systems
+0C4F3C81	XML-Based Revocation and Delegation in a Distributed Environment
+8126AB65	Automated runtime management of embedded service systems based on design-time modeling and model transformation
+80232C04	Concurrency Control using Subject- and Purpose-Oriented (SPO) View
+79F222E2	Role-based access control in ambient and remote space
+812AE4F1	A Capability Assignment Concept Model for Resource Management System of Product Development
+750F9C20	Modeling users in role-based access control
+7CD06DD5	A Trust-Based Context-Aware Access Control Model for Web-Services
+7FD451A4	Hybrid role hierarchy for generalized temporal role based access control model
+5ADF79A8	Towards Modal Logic Formalization of Role-Based Access Control with Object Classes
+5B647DD6	Access control requirements for processing electronic health records
+7718BBEB	TRBAC: a temporal role-based access control model
+7A0E3B76	A role-based access control for intranet security
+8158F39F	Dual-Role Based Access Control Framework for Grid Services
+7853787E	Modular authorization and administration
+7F1DE893	Implementing Role Based Access in Healthcare Ad Hoc Networks
+78008FF7	A framework for access control in workflow systems
+8020330D	Security Analysis of Temporal-RBAC Using Timed Automata
+8134B734	Temporal UAS: Supporting Efficient RBAC Authorization in Presence of the Temporal Role Hierarchy
+79F8FDB7	Towards the realisation of context-risk-aware access control in pervasive computing
+7E8BFAB9	Induced role hierarchies with attribute-based RBAC
+7670ACF3	Research Issues of Privacy Access Control Model for Mobile Ad Hoc Healthcare Applications with XACML
+6999191B	Role-based serializability for distributed object systems
+751F7145	Flexible authorisation in dynamic e-business environments using an organisation structure-based access control model
+5E5D9083	eMEDAC: Role-based Access Control Supporting Discretionary and Mandatory Features
+5FBC5DEB	An Object-Dependent and Context Constraints-Aware Access Control Approach Based on RBAC
+7B269C6F	Role mining based on weights
+7FD7813F	A role and attribute based encryption approach to privacy and security in cloud based health services
+6F8FA3EE	A Flexible Role-Based Access Control Model for Multimedia Medical Image Database Systems
+812FFD25	Access control and session management in the HTTP environment
+7A76B82C	Task-role-based access control model
+59BAD41D	Role slices: a notation for RBAC permission assignment and enforcement
+7D71F874	RBAC-Based Secure Interoperation Using Constraint Logic Programming
+7D5C671C	Role-based access control for boxed ambients
+772B9E40	Handling least privilege problem and role mining in RBAC
+7E4C4F25	An approach to engineer and enforce context constraints in an RBAC environment
+7D980265	A Hybrid RBAC-PBAC Access Control Model for Network Isolation System
+07A71C3B	Role Based Access Control: Adoption and Implementation in the Developing World
+7ED80100	A Role and Context Based Access Control Model with UML
+7B597F58	Model of Domain based RBAC and Supporting Technologies
+7F3D016E	A role‐based infrastructure management system: design and implementation
+7647218F	Program synthesis in administration of higher-order permissions
+75BAAF49	Context-based Dynamic Access Control Model for u-healthcare and its Application
+8097BA67	Intelligent Access Control Mechanism for Ubiquitous Applications
+645CCBBD	Advanced permission-role relationship in role-based access control
+5BC7F6A0	An Extended Role-Based Access Control Model for Delegating Obligations
+816BB126	Data-centric security: role analysis and role typestates
+5936C951	A Role-Based Delegation Model and Some Extensions
+7EEE1944	Generalized role-based access control
+7FAFC384	Privacy Oriented Access Control for Electronic Health Records
+5C9B2727	Extended Role Based Access Control and Procedural Restrictions
+5BFE0EE6	Intelligent temporal role based access control for data storage in cloud database
+7DB8C74F	Information flow control in role-based model for distributed objects
+7DC51224	PrimAndroid: Privacy Policy Modelling and Analysis for Android Applications
+76B0F997	Modeling location attributes using XACML-RBAC model
+7DC921EF	Negotiation-Based Dynamic Role Transition in Data Access across Multi-VOs
+58BF18BC	Integrative Security Management for Web-Based Enterprise Applications
+7D0DBAB1	Ensuring access control in cloud provisioned healthcare systems
+75BEF681	Composing and combining policies under the policy machine
+816E1A6E	Evaluating RBAC Supported Techniques and their Validation and Verification
+7F6B59F3	Access control in network management system
+7FFC24CD	Reconstructing a formal security model
+7D880335	A Framework for Enforcing Constrained RBAC Policies
+7D59FB75	Applying Context-Aware RBAC to RFID Security Management for Application in Retail Business
+7EA58A6D	A Method of An Anonymous Authentication For Flat-rate Service
+7DC17EA8	Enhancing role management in Role-Based Access Control
+7EF93987	PIS-CC RBAC: Patient Information Service based on CC-RBAC in Next Generation Hospital considering Ubiquitous Intelligent Environment
+760B15AC	Privacy-aware role-based access control
+588C8D1A	A Task-Oriented Access Control Model for WfMS
+7F3A6507	Mining parameterized role-based policies
+8067CFA1	Role-Based Access Control Implementation Using Prime Numbers
+7B5363C5	Flexible and Manageable Delegation of Authority in RBAC
+5ACA896E	Semantic Representation of RTBAC: Relationship-Based Access Control Model
+6DB62DAC	The Consistency of Task-Based Authorization Constraints in Workflow Systems
+8164BDDC	Designing role hierarchies for access control in workflow systems
+7A968147	Filter-based access control model: exploring a more usable database management
+8109A65B	A temporal-logic extension of role-based access control covering dynamic separation of duties
+76DD3378	Static analysis of role-based access control in J2EE applications
+80E8756B	Requirements for a location-based access control model
+808FA28C	Modelling Workflow Executions under Role-Based Authorisation Control
+7F0B6745	Towards Improved Federated Identity and Privilege Management in Open Systems
+59D0ACAC	Generalization and enforcement of role-based access control using a novel event-based approach
+7C6B8436	Enforcing role based access control model with multimedia signatures
+60220778	An Activity-Based Model for Separation of Duty
+59664457	V-Model Role Engineering
+6AE822E0	Efficient Authorization of Rich Presence Using Secure and Composed Web Services
+8146B09F	Design of Algorithm for Environment based Dynamic Access Control Model for Database Systems
+76853DE1	An obligation model bridging access control policies and privacy policies
+7FC49446	SOAC: A Conceptual Model for Managing Service-Oriented Authorization
+7FB82FF5	An Effective Policy Management Framework Using RBAC model for Service Platform based on Components
+7AD3A43E	The NIST model for role-based access control: towards a unified standard
+767263FD	A MULTIPLE-LAYER KNOWLEDGE MANAGEMENT SYSTEM FRAMEWORK CONSIDERING USER KNOWLEDGE PRIVILEGES
+7E167FDE	Context-aware role-based access control in pervasive computing systems
+79C8533E	Security Extensible Access Control Markup Language Policy Integration Based on Role-Based Access Control Model in Healthcare Collaborative Environments
+7F154A8A	X-GTRBAC admin: a decentralized administration model for enterprise wide access control
+7EDA1F06	Context Active RBAC and its Applications
+7EFA1AD7	Strategy Design of Permission Management and Data Access Scope Control in Provincial Centralized Project
+7E8CBDDB	An Extended Permission-Based Delegation Authorization Model
+7E24F3F8	A Study of Security and Performance Issues in Designing Web-based Applications
+803CDEA0	Database security - concepts, approaches, and challenges
+7EAC21F4	From RBAC to ABAC: Constructing Flexible Data Access Control for Cloud Storage Services
+7CF70369	An authorization model for Web Services within SOA
+7C6CCB6C	An Integrated Management Model of OS-RBAC and Separation Of Duty Policy
+80C4499E	A Fuzzy RBAC Model Described by XML-Graph
+7E270F34	Advanced Security for Virtual Organizations: The Pros and Cons of Centralized vs Decentralized Security Models
+77196627	Access control with role attribute certificates
+58EEBA2C	Access Control and Trust in the Use of Widely Distributed Services
+7B57E355	A configurable access control system for networked manufacturing monitoring using XML
+7D21A9DB	A User Access Policy Based on Dynamic Sensitivity Label
+812EB5B9	A survey to determine federal agency needs for a role-based access control security product
+7FEB3539	Research and Implemention of File Protection System Based on Improved Role-Based Access Control
+7EB7AB8E	The Research and Implementation of a New B/S Access Control
+7D40028E	The Delegation Authorization Model: A Model For The Dynamic Delegation Of Authorization Rights In A Secure Workflow Management System
+061BDBCC	OSDM: an organizational supervised delegation model for RBAC
+7D6A49D7	Management advantages of object classification in role-based access control (RBAC)
+7D08FCB0	Policy storage for role-based access control systems
+7F2A6E83	An Efficient Role Based Access Control System for Cloud Computing
+75FB1D3E	Action-status access control
+76868E3E	Evaluating access control of open source electronic health record systems
+7D6C589C	Context-Aware Environment-Role-Based Access Control Model for Web Services
+5E507557	FORBAC: a flexible organisation and role-based access control model for secure information systems
+7A754B6A	X-gtrbac admin: A decentralized administration model for enterprise-wide access control
+7E91BA84	Design of a role-based trust-management framework
+7E4476F7	Anomaly detection and visualization in generative RBAC models
+5E95288A	Web Document Access Control Using Two-Layered Storage Structures with RBAC Server
+6ACB365A	A Survey of Policy Specification Approaches
+803D90EA	Security assurance for an RBAC/MAC security model
+80E5F988	Effective Web-Related Resource Security Using Distributed Role Hierarchy
+7E6ECFE3	A new role mining framework to elicit business roles and to mitigate enterprise risk
+5A703D08	A consumer scalable anonymity payment scheme with role based access control
+7849D130	An efficient framework for user authorization queries in RBAC systems
+7F8070C8	Toward an improved RBAC model for the organic organization
+7DA40F48	An Approach to Access Control under Uncertainty
+5A8640CD	RBAC-PAT: A Policy Analysis Tool for Role Based Access Control
+7DDA5549	Trust-Based User-Role Assignment in Role-Based Access Control
+7ED6AA44	Formal authorization allocation approaches for role-based access control based on relational algebra operations
+7F6EA653	Achieving secure and flexible M-services through tickets
+770A5C9C	The Policy Machine: A novel architecture and framework for access control policy specification and enforcement
+5B0EEFBC	Constraint based role based access control in the SECTET-framework: A model-driven approach
+7F77E68B	Early Validation and Verification of a Distributed Role-Based Access Control Model
+756852A3	Building hybrid access control by configuring RBAC and MAC features
+80823054	Minimal role mining method for Web service composition
+7F87AE13	Implementation of a Security Access Control Model for Inter-organizational Healthcare Information Systems
+80654711	Role-Based Access Control for XML enabled multi-protocol management gateways
+57CFAAE9	A Case Study on the Suitability of Process Mining to Produce Current-State RBAC Models
+7E4F7036	A new role-to-role delegation model
+59CF8251	An RBAC Based Policy Enforcement Coordination Model in Internet Environment
+771FF6B8	Inconsistency Resolution Method for RBAC Based Interoperation
+7851A3FC	Mining Roles with Multiple Objectives
+7DB5E1CE	Capability-Role-Based Delegation in Workflow Systems
+5E3276CC	A Verifiable Modeling Approach to Configurable Role-Based Access Control
+7F11D8EE	Planning user assignment in administrative role-based access control
+08F948BA	ROAC: a role-oriented access control model
+7EEA66F0	A Near-Real-Time Behaviour Control Framework
+80B91A33	Preventing information leakage in C applications using RBAC-based model
+5E4D5875	UC-RBAC: A Usage Constrained Role-Based Access Control Model
+7F3AB8AE	Concurrency control based on significancy on roles
+7AEDF09A	A distributed collaborative product design environment based on semantic norm model and role-based access control
+03D042BD	Authorization and Access Control in Adaptive Workflows
+799EBC2F	Design and implementation of a flexible RBAC-service in an object-oriented scripting language
+75AAED69	Towards an integrated approach to role engineering
+77CFD776	Supporting relationships in access control using role based access control
+7C419987	Failure Feedback for User Obligation Systems
+7F607D5D	Configuring RBAC to Simulate Bell Model
+5E743C89	Issues in the Design of a Language for Role Based Access Control
+79B332D0	Policy-based security management for federated healthcare databases (or RHIOs)
+59977508	Authorization Based on Evidence and Trust
+78F28747	Distributed access control architecture and model for supporting collaboration and concurrency in dynamic virtual enterprises
+8123BB63	Role-based access control models
+7CF11611	Towards dynamically administered role-based access control
+6FD06F12	Role Based Access Control with Spatiotemporal Context for Mobile Applications
+7EF1127C	An object-oriented RBAC model for distributed system
+7FDBA12B	Short Paper: Towards a Location-Aware Role-Based Access Control Model
+03B6E218	Role Based Access Control for the Interaction with Search Engines
+7AEAEA9E	A role-based approach to access control for XML databases
+75E39CC2	Information flow analysis on role‐based access control model
+7602EC65	A framework of composable access control features: Preserving separation of access control concerns from models to code
+7E00283D	Coordinated access control with temporal and spatial constraints on mobile execution in coalition environments
+7A8E3233	Permission based implementation of Dynamic Separation of Duty (DSD) in Role based Access Control (RBAC)
+7AC08585	RBAC on the Web by smart certificates
+77C3A661	Policy algebras for access control the predicate case
+7D2114DB	An Extended RBAC Model for Uniform Implementation of Role Hierarchy and Constraint
+80840BB8	Dependencies and separation of duty constraints in GTRBAC
+754DAEE4	General attribute based RBAC model for web services
+72A6D1C6	Role‐based and time‐bound access and management of EHR data
+7BCCFB40	Context-sensitive access control model for business processes
+5CECBC6D	Role Hierarchies and Constraints for Lattice-Based Access Controls
+7F1F0D08	Privacy enhanced access control by means of policy blinding
+7F622843	Single sign-on in In-VIGO: role-based access via delegation mechanisms using short-lived user identities
+809EB598	Constraint-Enabled Distributed RBAC for Subscription-Based Remote Network Services
+7CFB21CC	Role-Based Access To Portable Personal Health Records
+6AE7FF69	OS-DRAM: a delegation administration model in a decentralized enterprise environment
+800DFFEB	Injecting a permission-based delegation model to secure web-based workflow systems
+8100DA9A	ABDM: An extended flexible delegation model in RBAC
+7F659664	A context-aware role-based access control model for Web services
+7A6429D6	Dynamically authorized role-based access control for secure distributed computation
+7E915DB2	Exploring User-to-Role Delegation in Role-Based Access Control
+7D5C6A09	An application of directory service markup language (DSML) for role-based access control (RBAC)
+7C3BE598	RBAC administration in distributed systems
+7C9A1666	The problem of integrity in RBAC-based policies within relational databases: synthesis and problem study
+7D9F5BB9	Access Control Design and Implementations in the ATLAS Experiment
+7C26EE50	Toward A Practical Scheme for IPSec Management
+7D074559	An architecture for specification and enforcement of temporal access control constraints using OWL
+79A95D15	An approach to secure information flow on Object Oriented Role-based Access Control model
+7D3FB60B	An efficient role-based access control mechanism for multicasting environments
+773FDF15	Role Based Access Control Models
+7F971A68	Using RBAC to Enforce Solaris System Security
+771A3CDF	Securing context-aware applications using environment roles
+7E1DFC66	Specification of secure distributed collaboration systems
+7D31ACDB	We have met the enemy and he is us
+7C28F57D	GridShib and PERMIS integration
+7E7CE6D0	Napoleon: a recipe for workflow
+80105C2D	A framework for heterogeneous middleware security
+80D824AC	Towards model-centric engineering of a dynamic access control product line
+7DB7330E	Global Static Separation of Duty in Multi-domains
+7D48420E	Towards Role-Based Authorization for OSGi Service Environments
+7E2862C2	An organizational structure-based administration model for decentralized access control
+80B85D23	Dynamic Role Assignment Using Semantic Contexts
+7EF5F54B	Information Flow in Disaster Management Systems
+7EF5EF52	MRBAC: Hierarchical Role Management and Security Access Control for Distributed Multimedia Systems
+7DC5F26C	RBAC-Based Access Control Framework for ensuring Privacy in Ubiquitous Computing
+752BD5E3	Partial and Fuzzy Constraint Satisfaction to Support Coalition Formation
+755045DF	A survey of static analysis methods for identifying security vulnerabilities in software systems
+7FF4270E	RelBAC: Relation Based Access Control
+7917DA9B	On mutually exclusive roles and separation-of-duty
+81645887	Towards a Dynamic Access Control Model for E-Government Web Services
+5EBDA4B1	Secure and Reliable Communication Infrastructure for a Distributed IT-Federation
+7DA7FC5F	Analyzing Temporal Role Based Access Control Models
+59B13AC3	An Algorithm for Building User-Role Profiles in a Trust Environment1
+7FAEE606	A role-based access control policy verification framework for real-time systems
+053BAEFC	Securing Service-Oriented Systems Using State-Based XML Firewall *
+7C3935AE	Functionality and implementation issues for complex authorisation models
+81E6629D	RBAC-MAS and SODA: Experimenting RBAC in AOSE
+80228E0F	Unifying Private Registry and Web Service Access Control
+80412BCD	Document access in a multi-party information management system
+7D913946	R OWL BAC: representing role based access control in OWL
+7E01A464	Context-Aware Security Services in DAA Security Model
+7F81D3CA	Application of deontic logic in role-based access control
+7D38A284	A Implementation of Object Oriented Database Security
+587F2C71	A Spatio-temporal Access Control Model Supporting Delegation for Pervasive Computing Applications
+5F153A38	Implementing an enterprise business context model for defining mobile broadband policy
+810DABB2	Separation of Duty Constraint for Permission Based Delegation Model
+75BBA5F5	Analysis of Different Access Control Mechanism in Cloud
+6CB94D95	Formalising and validating RBAC-to-XACML translation using lightweight formal methods
+799D5792	Role engineering: from theory to practice
+7F7C5C64	A contract and rights management framework design for interacting brokers
+80DE1974	Roles In Information Security - A Survey And Classification Of The Research Area
+7A472968	Mediation security specification and enforcement for heterogeneous databases
+7D919970	An Efficient Role Specification Management Model for Highly Distributed Environments
+7B450950	Security policy verification for multi-domains in cloud systems
+5A9F6CCC	Database Intrusion Detection Using Role Profiling with Role Hierarchy
+75D45980	A role administration system in role-based authorization infrastructures: design and implementation
+7DD7A616	Role-based Administration of User-role Assignment and Its Oracle Implementation
+7FAA1AE9	Research on Dynamic Authorization in Workflow of Virtual Enterprise
+5F03CE8B	Role-Based Delegation with Negative Authorization
+80E91255	Towards Reliable Trust Management based on Structural Trust Scopes of Distributed Roles
+59A3A5A1	Constraints-based access control
+81562884	A Context-Sensitive Dynamic Role-Based Access Control Model for Pervasive Computing Environments
+793793CF	Role-based access control: a natural approach
+7EA42F0C	Role locks to prevent illegal information flow among objects
+7E2CA671	A light-weight static approach to analyzing UML behavioral properties
+63988ED3	An Integrated Management Model of Administrative Role-Based Access Control and Delegation Policy
+7E3AEAF1	Modeling and analyzing the impact of authorization on workflow executions
+7E4CF677	X-FEDERATE: a policy engineering framework for federated access management
+5D85A8EE	Dynamic User Role Assignment in Remote Access Control
+5D96A6B7	Generic Algorithms for Consistency Checking of Mutual-Exclusion and Binding Constraints in a Business Process Context
+7D82886F	UML-based representation of role-based access control
+814691FC	Fast Access Control Algorithm in Wireless Network
+774FD2A6	A New Access Control Model for Manufacturing Grid
+0A3C6AE6	Role-Based access control for model-driven web applications
+5E9367A0	Role-Based Access Control Requirements Model with Purpose Extension
+5B2DAC85	Task Delegation Based Access Control Models for Workflow Systems
+75268182	Towards complexity analysis of User Authorization Query problem in RBAC
+7DF87CF6	UAQ: a framework for user authorization query processing in RBAC extended with hybrid hierarchy and constraints
+754EFD48	StateMiner: an efficient similarity-based approach for optimal mining of role hierarchy
+7D5E159F	Role Based Access Control
+815A30C2	Extended privilege inheritance in RBAC
+80E34C12	Combination of duty and historical constraints in role-based access control
+8016F053	Making Societies in Peer-to-Peer (P2P) Overlay Networks
+81739B68	Verifiable composition of access control and application features
+5D4DEB1D	Role-Based Access Control for XML Enabled Management Gateways
+79A39679	Events and streams: harnessing and unleashing their synergy!
+76028160	A new approach for delegation in usage control
+7DEBFFCF	A Theory of Role Composition
+79188837	Dynamic adaptation to object state change in an information flow control model
+80F1C722	Mining roles with semantic meanings
+7F0750D5	Implementing RBAC on a type enforced system
+814DC3CE	Design and implementation of fast access control that supports the separation of duty
+801A05F5	An XACML Extension for Business Process-Centric Access Control Policies
+5DA1510A	Role-Based Access Controls
+7D752F14	Decentralized Authentication Mechanisms for Object-based Storage Devices
+7F4C2D04	Constructing Role-Based Access Control and Delegation Based on Hierarchical IBS
+76B61368	An organisation infrastructure for Multi-Agent Systems based on Agent Coordination Contexts
+80AD1770	Managing security policies in a distributed environment using eXtensible markup language (XML)
+81373E9C	A conditional role-involved purpose-based access control model
+795A98A4	Status-Based Access Control
+7D504638	Control principles and role hierarchies
+0878EEA0	STRBAC - An approach towards spatio-temporal role-based access control
+7DAA2453	A Legal Information flow (LIF) scheduler for distributed systems
+7DB03C48	Meta-policies for distributed role-based access control systems
+076DE0F8	Toward Effective Access Control Using Attributes and Pseudoroles
+5E669EB0	Set covering problems in role-based access control
+04280445	Towards an Analytical Role Modelling Framework for Security Requirements
