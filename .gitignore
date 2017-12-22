@@ -3,3 +3,4 @@ nohup.out
 zips
 no_upload_*.zip
 *_server*
+*.pyc
