@@ -1,0 +1,1103 @@
+Paper ID,Title,Sim1,Sim2
+80DDF623,"A regularized inverse approach to ultrasonic pulse-echo imaging",0.129126984127,0.130555555556
+76E49390,"An optimal method for fractional heat conduction problem backward in time",0.126587301587,0.121587301587
+7B05A3F8,"Mixed parametric/non-parametric identification of systems with discontinuous nonlinearities",0.108888888889,0.138888888889
+75D7C029,"Fully online classification by regularization",0.134126984127,0.166666666667
+7E5A88C3,"Regression shrinkage and selection via the lasso: a retrospective",0.125404040404,0.130404040404
+78E93AC4,"Learning a function from noisy samples at a finite sparse set of points",0.139682539683,0.184126984127
+7D2240D5,"Reliable Prediction of Pore Size Distribution for Nano-sized Adsorbents with Minimum Information Requirements",0.144365079365,0.1345289631
+758FEEBF,"Iterative Regularization and Generalized Discrepancy Principle for Monotone Operator Equations",0.14380952381,0.13835978836
+7C1603E0,"An a posteriori parameter choice rule for the truncation regularization method for solving backward parabolic problems",0.156349206349,0.160912698413
+5D5A16D4,"High accuracy optical flow method based on a theory for warping: implementation and qualitative/quantitative evaluation",0.149126984127,0.167068001443
+7B4843CC,"Spatially adaptive splines for statistical linear inverse problems",0.13088023088,0.133477633478
+7C7C50E6,"A noise-suppressing and edge-preserving multiframe super-resolution image reconstruction method",0.111197691198,0.117989417989
+78815E37,"Boundary reconstruction in two-dimensional steady state anisotropic heat conduction using a regularized meshless method",0.107070707071,0.142592592593
+7AB6B34C,"Super-Resolution Image Restoration from Blurred Low-Resolution Images",0.111197691198,0.179761904762
+79E3D3EA,"The truncation method for identifying an unknown source in the Poisson equation",0.109848484848,0.139444444444
+7E9F82D0,"European pollution outbreaks during ACE 2 : Microphysical particle properties and single-scattering albedo inferred from multiwavelength lidar observations",0.160476190476,0.157671957672
+77974C63,"Colbar: A collaborative location-based regularization framework for QoS prediction",0.304126984127,0.419191919192
+7C089058,"An efficient multi-objective learning algorithm for RBF neural network",0.126587301587,0.132275132275
+7EE4A06B,"Regularized Interpolation for Noisy Images",0.126587301587,0.178571428571
+79B8FEAF,"Regularized direct and indirect symmetric variational BIE formulations for three-dimensional elasticity",0.123571428571,0.186507936508
+79CE2FD9,"The approximate regularization of index-2 differential-algebraic problems",0.120793650794,0.154761904762
+7AB2D9AE,"Model selection criteria for the varying-coefficient modelling via regularized basis expansions",0.324126984127,0.293253968254
+7671E5C1,"Regularization of discriminant analysis for the study of biodiversity in humid tropical forests",0.129365079365,0.130086580087
+7B182881,"Convex multi-task feature learning",0.122626262626,0.155555555556
+7A845159,"Lardy's regularization of a singularly perturbed elliptic PDE",0.120793650794,0.183333333333
+7DCF19EA,"A unified interpretation of adaptation approaches based on a macroscopic time evolution system and indirect/direct adaptation approaches",0.135476190476,0.155202821869
+7A786E5F,"What do we Learn from the Discrepancy Principle?",0.129126984127,0.244047619048
+805157C9,"Linear prediction models with graph regularization for web-page categorization",0.309126984127,0.350108225108
+815BFF4C,"A linearization of a backward Euler scheme for a class of degenerate nonlinear advection–diffusion equations",0.126587301587,0.121587301587
+783187B2,"Wavelets and regularization of the sideways heat equation",0.125793650794,0.125694444444
+8028AB8B,"Dirichlet-Laplace priors for optimal shrinkage",0.0983333333333,0.1125
+7C63D455,"Adaptive sup-norm regularized simultaneous multiple quantiles regression",0.0963564213564,0.1875
+770F4960,"Regularized spectral multipole BEM for plane elasticity",0.11246031746,0.154761904762
+7E320D6B,"Learning with Limited Supervision by Input and Output Coding",0.127308802309,0.177142857143
+7FAD3992,"The Split Bregman Method for L1-Regularized Problems",0.118015873016,0.121693121693
+7D89F3DD,"METODOLOGÍA DE LOCALIZACIÓN DE FUENTES ELECTROENCEFALOGRÁFICAS EN EPILEPSIA FOCAL EMPLEANDO EL CRITERIO DE LA VARIANZA",0.110238095238,0.126984126984
+7F4D6AED,"A new kernel-based approach for system identification",0.108888888889,0.134259259259
+772F3CB1,"Parallel imaging reconstruction using automatic regularization",0.120793650794,0.191666666667
+7DBB959E,"Consistency of support vector machines and other regularized kernel classifiers",0.160238095238,0.142592592593
+7F4E7FA4,"A fast and rigorous anisotropic smoothing method for DT-MRI",0.104848484848,0.155555555556
+7E1CFD09,"Estimating point-to-point and point-to-multipoint traffic matrices: an information-theoretic approach",0.118975468975,0.139880952381
+381EEB60,"Regularization of non-coercive quasi variational inequalities",0.120793650794,0.154761904762
+77FF377C,"Roof edge detection using regularized cubic b-spline fitting",0.0988888888889,0.165740740741
+7E4D33B9,"Logistic regression with weight grouping priors",0.0981746031746,0.122619047619
+83E77A38,"Single image super-resolution using regularization of non-local steering kernel regression",0.134920634921,0.188161375661
+7D707B95,"λτ-Space Representation of Images and Generalized Edge Detector",0.125555555556,0.141904761905
+7E1EC1D1,"Path Following in the Exact Penalty Method of Convex Programming",0.11595959596,0.16746031746
+795EA7E5,"A real-time solution for an inverse Cauchy problem in cardiology",0.187137862138,0.239926739927
+7FF3829D,"Quadratic Regularization Design for 2-D CT",0.129365079365,0.130952380952
+8069DB01,"Harmonic spline–wavelets on the 3–dimensional ball and their application to the reconstruction of the Earth's density distribution from gravitational data at arbitrarily shaped satellite orbits",0.131349206349,0.122467532468
+7D62E533,"Supersymmetric Wilson Loops in Diverse Dimensions",0.11246031746,0.112433862434
+7FCB9B29,"Bayesian sensing hidden Markov models for speech recognition",0.647222222222,0.672222222222
+7C5017A2,"Representations and expansions of weighted pseudoinverse matrices, iterative methods, and problem regularization. II. Singular weights",0.14246031746,0.13501984127
+8114BE80,"The application of subspace preconditioned LSQR algorithm for solving the electrocardiography inverse problem",0.31341991342,0.276488095238
+7F5FDECA,"Field theories on deformed spaces",0.173571428571,0.174747474747
+80257039,"An Error-Minimizing Approach to Regularization in Indirect Measurements",0.142308802309,0.163888888889
+7BD96528,"Embedded local feature selection within mixture of experts",0.325,0.341904761905
+80AAB33B,"Determining the parameters in regularized super-resolution reconstruction",0.104848484848,0.2
+800649A3,"A Boundary Element Regularization Method for the Boundary Determination in Potential Corrosion Damage",0.164126984127,0.155291005291
+789DB155,"Existence of the Broucke periodic orbit and its linear stability",0.138737373737,0.140740740741
+7E687058,"A Hessian Regularized Nonlinear Time Series Model",0.295793650794,0.379464285714
+7EF225FE,"Vector field learning via spectral filtering",0.100952380952,0.2
+7BBCC099,"Incremental Adaptation Based on a Macroscopic Time Evolution System",0.125086580087,0.175793650794
+7EC6EA4A,"Investigation of KLIM algorithm applied to face recognition",0.290238095238,0.351904761905
+7D333ADE,"Regularized total least squares approach for nonconvolutional linear inverse problems",0.13088023088,0.170086580087
+81158F4F,"On MR experiment design with quadratic regularization",0.129365079365,0.154761904762
+75F9C7CA,"A regularization method for solving the radially symmetric backward heat conduction problem",0.128571428571,0.146957671958
+774822C2,"Nonlinear regularization techniques for seismic tomography",0.132698412698,0.136507936508
+765FF3A1,"Toward Global Convergence for Strongly Nonlinear Ill-Posed Problems via a Regularizing Multilevel Approach",0.129126984127,0.171130952381
+75FA37EA,"A wavelet regularization method for solving numerical analytic continuation",0.146349206349,0.170555555556
+7F492136,"Manifold identification in dual averaging for regularized stochastic online learning",0.11595959596,0.175925925926
+78781A7D,"Model-based clustering of high-dimensional data: A review",0.116197691198,0.119588744589
+785BEF1C,"An adaptive LSQR algorithm for computing discontinuous solutions in deconvolution problems",0.197527472527,0.246428571429
+779865A2,"The ill-posedness of the sampling problem and regularized sampling algorithm",0.123571428571,0.190476190476
+80C27F6B,"Unfolding the double shuffle structure of q-multiple zeta values",0.116197691198,0.120941558442
+7D0DCE29,"Covariance regularization by thresholding",0.120793650794,0.125
+7863ABE4,"Regularized extreme learning machine for regression problems",0.118015873016,0.145793650794
+7D4E550B,"Numerical solution of the Cauchy problem for steady-state heat transfer in two-dimensional functionally graded materials",0.19880952381,0.24380952381
+7B51E8A5,"Nonlinear Logistic Discrimination Via Regularized Gaussian Basis Expansions",0.279701779702,0.364583333333
+7D652B6F,"On the Impact of Lossy Compression on Hyperspectral Image Classification and Unmixing",0.122308802309,0.140873015873
+80E79645,"Color Superresolution Reconstruction and Demosaicing Using Elastic Net and Tight Frame",0.11246031746,0.150086580087
+7976FBBB,"Determination of a time-dependent coefficient in the bioheat equation",0.118585858586,0.140740740741
+7DF97E6F,"A Fault-Tolerant Regularizer for RBF Networks",0.116197691198,0.142857142857
+77BA1ECE,"On a fractional backward heat conduction problem: Application to deblurring",0.125793650794,0.130158730159
+7A6AEC98,"Reconstruction of local heat fluxes in pool boiling experiments along the entire boiling curve from high resolution transient temperature measurements",0.140324675325,0.125760582011
+7EADF9AB,"Use of an Experimentally Derived Leadfield in the Peripheral Nerve Pathway Discrimination Problem",0.131753246753,0.135238095238
+816CDA9D,"Overview and Classification of Some Regularization Techniques for the Gauss-Newton Inversion Method Applied to Inverse Scattering Problems",0.139682539683,0.164638447972
+7BBEC73A,"On the inverse problem of identifying Lamé coefficients in linear elasticity",0.13088023088,0.162698412698
+75EC18C4,"Interior proximal methods for quasiconvex optimization",0.107626262626,0.118055555556
+7CB679B5,"A Robust Regularized Hybrid State Estimator for Power Systems",0.127308802309,0.150555555556
+7B3E675E,"A strategy for input estimation with sensitivity analysis",0.132936507937,0.125714285714
+79822BCF,"Bayesian identification, selection and estimation of semiparametric functions in high-dimensional additive models",0.324126984127,0.326666666667
+80CCAEEE,"Smooth inversion for ground surface temperature histories: estimating the optimum regularization parameter by generalized cross‐validation",0.150793650794,0.147172619048
+427F3C00,"Image reconstruction from phased-array data based on multichannel blind deconvolution",0.126587301587,0.179761904762
+7F9C43E6,"Content based social behavior prediction: a multi-task learning approach",0.138015873016,0.167201779702
+75FAA384,"Load identification for a rolling disc: finite element discretization and virtual calibration",0.142626262626,0.15094017094
+0BEED53D,"Spatially Smooth Subspace Face Recognition Using LOG and DOG Penalties",0.484848484848,0.409812409812
+7B4EF606,"Four Encounters with System Identification",0.108888888889,0.140211640212
+7F969FB7,"A Full Curvature Based Algorithm for Image Registration",0.14126984127,0.185714285714
+5AE3B951,"High accuracy optical flow method based on a theory for warping: 3d extension",0.134126984127,0.157828282828
+7FBD2E0F,"Regularized multi--task learning",0.11595959596,0.175925925926
+794193CF,"Improved Variational Denoising of Flow Fields with Application to Phase-Contrast MRI Data",0.127308802309,0.156904761905
+784BDB73,"Weakly Constrained Minimization: Application to the Estimation of Images and Signals Involving Constant Regions",0.14880952381,0.15064484127
+7703F641,"Parameter estimation in equivalent circuit analysis of dielectric cure monitoring signals using genetic algorithms",0.14880952381,0.153266794933
+786C687F,"Discovering Sparse Covariance Structures With the Isomap",0.095,0.136111111111
+7ECD1AA6,"Pressure/Saturation System for Immiscible Two-Phase Flow: Uniqueness Revisited",0.100555555556,0.14537037037
+7A7095A9,"Cycle graph analysis for 3D roof structure modelling: Concepts and performance",0.171031746032,0.156845238095
+78407F03,"Diffusion tensor magnetic resonance image regularization",0.146031746032,0.146031746032
+7E29F9BA,"On Stochastic Optimization and Statistical Learning in Reproducing Kernel Hilbert Spaces by Support Vector Machines (SVM)",0.201904761905,0.167592592593
+771DB9C2,"Effective latent space graph-based re-ranking model with global consistency",0.353571428571,0.5
+803CB810,"On the Representer Theorem and Equivalent Degrees of Freedom of SVR",0.138737373737,0.140277777778
+80FA4652,"Discovering word associations in news media via feature selection and sparse classification",0.165,0.165972222222
+7CFC95E0,"Rank related properties for Basis Pursuit and total variation regularization",0.141991341991,0.149470899471
+79DFB5F0,"Optimally regularized adaptive filtering algorithms for room acoustic signal enhancement",0.135476190476,0.156904761905
+77CF4FF9,"Reproducing-kernel-based splines for the regularization of the inverse ellipsoidal gravimetric problem",0.135642135642,0.141774891775
+7623C9AD,"Lazy lasso for local regression",0.0963564213564,0.107954545455
+7AC6FA41,"Wavelet and error estimation of surface heat flux",0.131753246753,0.132142857143
+7EB87D4F,"Numerical approaches for state-dependent neutral delay equations with discontinuities",0.125793650794,0.131944444444
+7D3C2BD7,"L1‐regularization path algorithm for generalized linear models",0.288181818182,0.436507936508
+79E19BD9,"Mejora de la estabilidad, robustez y tiempo de cómputo en CRHPC con BDU",0.0939704739705,0.111111111111
+793653B7,"A Variational Approach to Remove Outliers and Impulse Noise",0.10937950938,0.178075396825
+81144E0E,"A linear functional strategy for regularized ranking.",0.120324675325,0.142857142857
+77570542,"A pixel-based regularization approach to inverse lithography",0.125793650794,0.130555555556
+8162987C,"Necessary and sufficient conditions for the output feedback regularization of descriptor systems",0.131904761905,0.142222222222
+7869D471,"Simplified Tikhonov and Fourier regularization methods on a general sideways parabolic equation",0.128571428571,0.159722222222
+7EE0066B,"Regularizers for structured sparsity",0.0835664335664,0.1
+7BB269DB,"An Experimental Study on Smoothness Regularized LDA in Hyperspectral Data Classification",0.127308802309,0.161904761905
+7663E3DE,"Wavelet moment method for the Cauchy problem for the Helmholtz equation",0.129365079365,0.124007936508
+76CC299C,"Sideways heat equation and wavelets",0.102070707071,0.112037037037
+794EA69D,"Convergence rates for maximum entropy regularization",0.13746031746,0.144444444444
+7C095333,"Caught in the Work–Citizenship Matrix: the Lasting Effects of Precarious Legal Status on Work for Toronto Immigrants",0.156515151515,0.139672364672
+7C888888,"Penalized Discriminant Analysis",0.0941891441891,0.238095238095
+7EFB3668,"A Bayesian MAP-EM Algorithm for PET Image Reconstruction Using Wavelet Transform",0.117546897547,0.16880952381
+76D07F4B,"Visualization of three-dimensional temperature distributions in a large-scale furnace via regularized reconstruction from radiative energy images: numerical studies",0.132142857143,0.132363315697
+76838897,"Angular smoothing and radial regularization of ODF fields: Application on deterministic crossing fiber tractography",0.161904761905,0.176666666667
+75CD7245,"Regularized fuzzy c-means method for brain tissue clustering",0.109848484848,0.150555555556
+7D7DA9B8,"FWT-based preconditioners for image restoration problems",0.124365079365,0.128571428571
+7E4F0BCC,"A Sparsity Regularization Approach to the Electromagnetic Inverse Scattering Problem",0.13841991342,0.137698412698
+7AA3810C,"Generalized Thresholding of Large Covariance Matrices",0.103888888889,0.136111111111
+797E25D4,"High dimensional single index models",0.278585858586,0.555555555556
+777C884F,"Beamforming With Uncertain Weights",0.11246031746,0.142857142857
+77A73F27,"Central difference schemes in time and error estimate on a non-standard inverse heat conduction problem",0.16380952381,0.139594356261
+7DAF58C1,"Electrode Position Scaling in Realistic Laplacian Computation",0.111666666667,0.144841269841
+7E766C86,"A mollification method for a Cauchy problem for the Laplace equation",0.120238095238,0.11746031746
+024B5742,"Multi-task regularization of generative similarity models",0.304126984127,0.436507936508
+7869EC64,"A multi-output two-stage locally regularized model construction method using the extreme learning machine",0.288975468975,0.292630385488
+800AEA1E,"Multisource remote sensing data classification based on consensus and pruning",0.130086580087,0.177551020408
+7B3508C9,"Statistical signal restoration with 1/ f wavelet domain prior models",0.31,0.35625
+7D196689,"Numerical tools for lightning return stroke current reconstruction by electromagnetic inverse problem formulation",0.13088023088,0.146598639456
+80FA3E75,"Regularization operators for natural images based on nonlinear perception models",0.312698412698,0.321428571429
+80380B97,"Maximum mutual information based reduction strategies for cross-correlation based joint distributional modeling",0.132936507937,0.201058201058
+79F8471E,"Regularized proportional odds models",0.285404040404,0.458333333333
+7A8F6DD5,"Least angle and ℓ1 penalized regression: A review",0.111363636364,0.168560606061
+7FC4C0C4,"Bayesian variable selection and regularization for time–frequency surface estimation",0.145086580087,0.147916666667
+807EE75F,"An efficient method to set up a Lanczos based preconditioner for discrete ill-posed problems",0.118015873016,0.209325396825
+7A4DA5F4,"Determining an unknown source in the heat equation by a wavelet dual least squares method",0.107070707071,0.147558922559
+79AE7C15,"Convergence rates in $\ell^1$-regularization when the basis is not smooth enough",0.13746031746,0.191666666667
+799F491A,"The cost of using decomposable Gaussian graphical models for computational convenience",0.413961038961,0.520238095238
+7F84FA65,"Finite-Dimensional Projection for Classification and Statistical Learning",0.11595959596,0.12037037037
+7BC05133,"Spectral semi-blind deconvolution with least trimmed squares regularization",0.120793650794,0.128787878788
+7C112C99,"Kronecker product and SVD approximations in image restoration",0.11341991342,0.109682539683
+7398EDF1,"The Fusion of Image and Range Flow",0.124365079365,0.133928571429
+0E9D5713,"Model selection for linear classifiers using Bayesian error estimation",0.302626262626,0.324074074074
+7D27CC5E,"Trust-region and other regularisations of linear least-squares problems",0.120793650794,0.154761904762
+760E3F69,"Feature Selection Guided by Structural Information",0.155793650794,0.198214285714
+7E42775D,"On Complexity Issues of Online Learning Algorithms",0.14880952381,0.146825396825
+055BF9E5,"Regularization in microwave tomography",0.129365079365,0.130952380952
+786B701A,"A tour of accelerated parallel MR imaging from a linear systems perspective",0.109848484848,0.125
+7C2EB559,"An interactive multi-objective optimization framework for groundwater inverse modeling",0.309126984127,0.350694444444
+761FC4CF,"An approximate solution for nonlinear backward parabolic equations",0.17397047397,0.305555555556
+804930CF,"Regularized functional regression modeling for functional response and predictors",0.103174603175,0.155555555556
+81655BF1,"L- and Θ-curve approaches for the selection of regularization parameter in geophysical diffraction tomography",0.15746031746,0.150198412698
+77451608,"The minimal error method for the Cauchy problem in linear elasticity. Numerical implementation for two-dimensional homogeneous isotropic linear elasticity",0.141587301587,0.14708994709
+7E51FBD5,"Multiframe demosaicing and super-resolution of color images",0.126587301587,0.142857142857
+80E3ED33,"Group Structure Influence on Group Lasso Consistency",0.152698412698,0.154238816739
+782DB1F0,"Regularization of hypersingular boundary integral equations: a new approach for axisymmetric elasticity",0.125793650794,0.136408730159
+7FF0BA5A,"Gradient methods for minimizing composite objective function",0.128571428571,0.161111111111
+7622159D,"Convergence analysis of smoothing methods for optimal control of stationary variational inequalities with control constraints",0.131349206349,0.146775793651
+785B4B63,"Nonlocal Linear Image Regularization and Supervised Segmentation",0.137698412698,0.150297619048
+7A6C21B7,"Gaussian Regularized Sliced Inverse Regression",0.272757335257,0.385416666667
+7F5E0D63,"Close-form solution and parameter selection for convex minimization-based edge-preserving smoothing",0.213737373737,0.288888888889
+7842C6AB,"Document Re-ranking Using Partial Social Tagging",0.103888888889,0.229166666667
+77CFFBEA,"Elastic Net Regression Modeling With the Orthant Normal Prior",0.0981746031746,0.130555555556
+7F349CDF,"The plane wave method for inverse problems associated with Helmholtz-type equations",0.134920634921,0.142290249433
+70FB58C5,"Non-local Regularization of Inverse Problems",0.135642135642,0.15873015873
+7932791C,"Smoothed State Estimates under Abrupt Changes using Sum-of-Norms Regularization",0.13746031746,0.175
+795AF71E,"Neighborhood preserving regression for image retrieval",0.118015873016,0.143571428571
+77EF8ED4,"Simultaneous image interpolation for stereo images",0.126587301587,0.127976190476
+75CD0590,"Penalized likelihood and Bayesian function selection in regression models",0.326904761905,0.327976190476
+8124F81B,"Image restoration with a half-quadratic approach to mixed weighted smooth and anisotropic bounded variation regularization",0.146031746032,0.161755952381
+7BD64644,"Discrepancy based model selection in statistical inverse problems",0.330476190476,0.330952380952
+7BF9B329,"A backward problem for the time-fractional diffusion equation",0.115709290709,0.132275132275
+7D9E5D3A,"Extracting Takagi-Sugeno Fuzzy Rules with Interpretable Submodels via Regularization of Linguistic Modifiers",0.160476190476,0.202380952381
+7ADE322B,"Nonparametric inference of the hemodynamic response using multi-subject fMRI data",0.116197691198,0.160642135642
+80D5FEE3,"A Global-to-Local 2D Shape Registration in Implicit Spaces using Level Sets",0.177142857143,0.210317460317
+0296A7D0,"Chapter 14 - Variable Selection in Predictive Regressions",0.125404040404,0.14537037037
+7A305B66,"Estimation of local nucleate boiling heat flux using a three-dimensional transient heat conduction model",0.293571428571,0.235934744268
+7DE0247D,"Minimizers of Cost-Functions Involving Nonsmooth Data-Fidelity Terms. Application to the Processing of Outliers",0.145238095238,0.172222222222
+7BD527AF,"Time-varying wind load identification from structural responses",0.111666666667,0.123421717172
+5CA1923E,"Why Curvature in L-Curve: Combining Soft Constraints",0.13088023088,0.144841269841
+7A004754,"Numerical solution of forward and backward problem for 2-D heat conduction equation",0.187137862138,0.177513227513
+7F844562,"Well-Posedness and Convergence of Some Regularization Methods for Nonlinear Ill-Posed Problems",0.139682539683,0.146825396825
+7FD65373,"Learning Multiple Tasks with Kernel Methods",0.118181818182,0.180555555556
+5D05C6D1,"Metric-Based Methods for Adaptive Model Selection and Regularization",0.324126984127,0.369444444444
+78D89F19,"A new approach to constrained total least squares image restoration",0.113975468975,0.113975468975
+8113BCCD,"Eigenfeature Regularization and Extraction in Face Recognition",0.29380952381,0.355158730159
+8549CE99,"Flexible Multi-Task Learning with Latent Task Grouping",0.15746031746,0.233333333333
+777647BE,"Synchronization and Non-Smooth Dynamical Systems",0.124531024531,0.138888888889
+6DDF67D5,"Solution of a singular infinite horizon zero-sum linear-quadratic differential game: A regularization approach",0.220086580087,0.223333333333
+7D577E12,"Numerical solution of Cauchy problems in linear elasticity in axisymmetric situations",0.240404040404,0.279761904762
+7B1E0639,"The method of fundamental solutions for the Cauchy problem associated with two-dimensional Helmholtz-type equations",0.198015873016,0.223015873016
+7B088CD1,"An interior-point method for large constrained discrete ill-posed problems",0.118015873016,0.121693121693
+77BCEA61,"Learning the mean: A neural network approach",0.118975468975,0.173024891775
+803D461C,"Quantization of systems with temporally varying discretization I: Evolving Hilbert spaces",0.195,0.208333333333
+7E8A4A6F,"A comparison of the lasso and marginal regression",0.10468975469,0.113636363636
+7899B6B6,"Iterative regularization methods for atmospheric remote sensing",0.128571428571,0.156944444444
+84A1FC82,"A regularized sampling algorithm for reconstructing non-bandlimited signals",0.140238095238,0.154761904762
+7564FDD9,"Two regularization methods for a Cauchy problem for the Laplace equation",0.128571428571,0.128571428571
+7D5C56B2,"Application of super-resolution methods to synthetic aperture radar data",0.131349206349,0.116178266178
+75DCD5E4,"Reinforced Multicategory Support Vector Machines",0.133737373737,0.155555555556
+79F6DD04,"Convergence analysis of the loping OS-EM iterative version of the circular radon transform",0.148333333333,0.165238095238
+7CDC1FE2,"Determining the regularization parameters for super-resolution problems",0.13746031746,0.202380952381
+79EBC86D,"Twin Boosting: improved feature selection and prediction",0.142626262626,0.150505050505
+80B64094,"On variational downscaling, fusion, and assimilation of hydrometeorological states: A unified framework via regularization",0.312698412698,0.315238095238
+79246C10,"Computation of two-dimensional Fourier transforms for noisy band-limited signals",0.140238095238,0.148148148148
+78997286,"AN L1-REGULARIZED NAÏVE BAYES-INSPIRED CLASSIFIER FOR DISCARDING REDUNDANT AND IRRELEVANT PREDICTORS",0.0845066045066,0.157407407407
+3B843500,"Rekonstrukcja obrazów w elektrycznej tomografii pojemnościowej",0,0
+7C16EFCA,"A regularized multi-level technique for solving potential problems by the method of fundamental solutions",0.198015873016,0.220793650794
+7B7BBC41,"Sparse principal component regression with adaptive loading",0.100396825397,0.118055555556
+75DFA909,"Regularization of hypersingular integrals in BEM formulations using various kinds of continuous elements",0.155238095238,0.173484848485
+7A9BC2CE,"Performance prediction using spatial autocorrelation",0.107157287157,0.189033189033
+7AB7EE55,"Isogeometric shape optimization in fluid mechanics",0.16341991342,0.173024891775
+7B7F3CE0,"Modified iterated Tikhonov methods for solving systems of nonlinear ill-posed equations",0.107070707071,0.166666666667
+7E085B30,"Numerically consistent regularization of force‐based frame elements",0.120793650794,0.116161616162
+7577E97F,"Existence results for a class of pseudomonotone elliptic-parabolic inclusions",0.152308802309,0.183928571429
+7AE256B7,"Runge-Kutta type total variation regularization for nonlinear inverse problems",0.157142857143,0.157142857143
+7DC1284B,"Linking riparian vegetation spatial structure in Australian tropical savannas to ecosystem health indicators: semi-variogram analysis of high spatial resolution satellite imagery",0.124365079365,0.129404761905
+77FD6CDA,"Comparison of different approaches and computer programs for progress curve analysis of enzyme kinetics",0.162142857143,0.135674202341
+76A25FEA,"Regularization of Singular Systems by Derivative and Proportional Output Feedback",0.127142857143,0.130158730159
+77CDEF16,"On a radially symmetric inverse heat conduction problem",0.13088023088,0.130158730159
+7C990C26,"Numerical interconversion between linear viscoelastic material functions with regularization",0.168975468975,0.222222222222
+75C78FFC,"A unified framework for recommending items, groups and friends in social media environment via mutual resource fusion",0.368571428571,0.264726631393
+75CBD394,"Dressed Wilson Loops on S^2",0.0845066045066,0.148148148148
+7667F538,"Geometrical regularization of displacement fields for histological image registration",0.14126984127,0.135476190476
+813C83DA,"Shearlet-Based Total Variation Diffusion for Denoising",0.115728715729,0.142857142857
+7DBF9CE4,"A generalized grid connectivity–based parameterization for subsurface flow model calibration",0.300404040404,0.359027777778
+7BFF23E9,"Classifying functional time series",0.113975468975,0.144841269841
+807C1C5F,"Regularized Common Spatial Pattern With Aggregation for EEG Classification in Small-Sample Setting",0.145238095238,0.139583333333
+801A291B,"Regularization of quasi-variational inequalities",0.120793650794,0.154761904762
+78C9FC4F,"Regularized Pre-image Estimation for Kernel PCA De-noising:Input Space Regularization and Sparse Reconstruction",0.173571428571,0.171995464853
+7A8C3B36,"The MFS for the Cauchy problem in two-dimensional steady-state linear thermoelasticity",0.10936008436,0.126984126984
+7C384AF0,"A piecewise local regularized Richardson–Lucy algorithm for remote sensing image deconvolution",0.117546897547,0.196428571429
+7B698514,"Invariance priors for Bayesian feed-forward neural networks",0.118975468975,0.128571428571
+77981352,"An iterative regularization method with B-spline approximation for atmospheric temperature and concentration retrievals",0.136111111111,0.128439153439
+7BD678E2,"Variable Selection With the Strong Heredity Constraint and Its Oracle Property",0.145086580087,0.146904761905
+7D374D1B,"SOLVING REGULARIZED TOTAL LEAST SQUARES PROBLEMS BASED ON EIGENPROBLEMS",0.107137862138,0.21341991342
+811ECB5B,"A Hopfield-type neural network used for remote sensing images with variational principle",0.131349206349,0.177142857143
+7F0738FC,"Nonparametric Identification of Population Models: An MCMC Approach",0.309126984127,0.358630952381
+7916EB9B,"Wavelet-based two-level methods for image restoration",0.111197691198,0.117989417989
+7B982CA0,"Computation of stereo disparity using regularization",0.134126984127,0.175
+78646E8C,"Regularizing properties of a truncated newton-cg algorithm for nonlinear inverse problems",0.137229437229,0.17380952381
+79FD7778,"Enhancing statistical performance of data-driven controller tuning via L2-regularization",0.10937950938,0.149206349206
+76E9FDC8,"ERROR ESTIMATES ON A BACKWARD HEAT EQUATION BY A WAVELET DUAL LEAST SQUARES METHOD",0.118585858586,0.118392255892
+7DD8CCDE,"Structured penalties for functional linear models—partially empirical eigenvectors for regression",0.118737373737,0.144841269841
+5BA1287D,"Maximum penalized likelihood estimation and smoothed em algorithms for positive integral equatioins of the first kind",0.128975468975,0.181216931217
+7535F195,"Handling Missing Values with Regularized Iterative Multiple Correspondence Analysis",0.137698412698,0.196428571429
+77131821,"Comparison of regularization methods for solving the Cauchy problem associated with the Helmholtz equation",0.131349206349,0.158482142857
+80A8C852,"Physically based adaptive preconditioning for early vision",0.0865967365967,0.212121212121
+781DE76E,"A non-local boundary value problem method for semi-linear parabolic equations backward in time",0.135476190476,0.134920634921
+7B37D69B,"Efficient Global Approximation of Generalized Nonlinear â„“1-Regularized Solution Paths and Its Applications",0.190404040404,0.229166666667
+77F6DD96,"Non-blind image deconvolution using natural image gradient prior",0.134920634921,0.196428571429
+803E253B,"Discrete ill-posed least-squares problems with a solution norm constraint",0.190238095238,0.223214285714
+7639C0C6,"A Riemannian Framework for Tensor Computing",0.268414918415,0.425925925926
+791ABAB7,"Locality Regularization Embedding for face verification",0.124126984127,0.128888888889
+75D226E3,"Smoothly Clipped Absolute Deviation on High Dimensions",0.11746031746,0.144841269841
+7D7B6717,"Identification of stable models in subspace identification by using regularization",0.491666666667,0.472222222222
+7C4A40C6,"MODELING SEGMENTATION VIA GEOMETRIC DEFORMABLE REGULARIZERS, PDE AND LEVEL SETS IN STILL AND MOTION IMAGERY: A REVISIT",0.129126984127,0.140238095238
+78BE3144,"Regularized p -version collocation BEM algorithms for two-dimensional heat conduction",0.130238095238,0.160793650794
+7919F58A,"Quasiperiodic motions in the planar three-body problem",0.122546897547,0.142857142857
+7614507A,"A regularization method for the approximate particular solution of nonhomogeneous Cauchy problems of elliptic partial differential equations with variable coefficients",0.206349206349,0.190476190476
+792B7C1E,"Average acceleration discrete algorithm for force identification in state space",0.181904761905,0.168452380952
+7E97AF5E,"Unifying regularization and Bayesian estimation methods for enhanced imaging with remotely sensed Data-part II: implementation and performance issues",0.146031746032,0.142239858907
+7A94F391,"Frequency Domain Optical Tomography Based on the Equation of Radiative Transfer",0.11880952381,0.174603174603
+6FC905CA,"Regularized Pre-image Estimation for Kernel PCA De-noising",0.0898412698413,0.153703703704
+5DF7E321,"Density estimation in high and ultra high dimensions, regularization, and the L1 asymptotics",0.120793650794,0.130158730159
+76F23C35,"Inversion of imaging mechanisms by regularization of inverse Volterra models",0.306904761905,0.311666666667
+8097C64D,"Inspection of specular and partially specular surfaces",0.100952380952,0.125
+76A06E8C,"An improved Newton projection method for nonnegative deblurring of Poisson-corrupted images with Tikhonov regularization",0.134920634921,0.123015873016
+76E7BA42,"Tuning parameter selection in sparse regression modeling",0.140555555556,0.160555555556
+7DDB0F75,"Regularized, fast, and robust analytical Q‐ball imaging",0.0948484848485,0.175
+7BA293B7,"A graphical generalized implementation of SENSE reconstruction using Matlab",0.101601731602,0.166774891775
+5E798409,"Support Vector Machines and the Bayes Rule in Classification",0.152626262626,0.165740740741
+7859EA80,"Adaptive Tikhonov regularization for damage detection based on nonlinear model updating",0.312698412698,0.32380952381
+7F8F53F9,"The method of fundamental solutions for inverse boundary value problems associated with the steady‐state heat conduction in anisotropic media",0.209126984127,0.186607142857
+7FC151DF,"Detecting Rare Haplotype‐Environment Interaction With Logistic Bayesian LASSO",0.118585858586,0.163636363636
+7C3E5264,"Regularization of stochastic variational inequalities and a comparison of an Lp and a sample-path approach",0.125793650794,0.12619047619
+75126ED0,"Determination of the state parameters of explosive detonation products by computational inverse method",0.15746031746,0.142630385488
+7AE4D54E,"A hybrid inverse method for the thermal design of radiative heating systems",0.134920634921,0.131349206349
+809A2EAB,"A mixed integer nonlinear programming formulation for the problem of fitting positive exponential sums to empirical data",0.137229437229,0.147108843537
+791C330D,"Bayesian Regularization via Graph Laplacian",0.127308802309,0.154761904762
+7DDB421B,"Dynamic Experiment Design Regularization Approach to Adaptive Imaging with Array Radar/SAR Sensor Systems",0.133658008658,0.136451247166
+7F71C952,"Non‐smooth gravity problem with total variation penalization functional",0.125086580087,0.135822510823
+7C06118E,"Multiclass support vector classification via coding and regression",0.140555555556,0.165
+7E6CB4EA,"Regularization for uniform spatial resolution properties in penalized-likelihood image reconstruction",0.146031746032,0.13746031746
+7D2FF258,"An efficient inversion algorithm for atmospheric remote sensing with application to UV limb observations",0.106666666667,0.146598639456
+7F635C9F,"A hybrid regularized inversion methodology for highly parameterized environmental models",0.271748251748,0.39696969697
+7744E09B,"Robust anisotropic diffusion",0.102541902542,0.142857142857
+77A8FA4A,"Super-resolution image reconstruction techniques: Trade-offs between the data-fidelity and regularization terms",0.146031746032,0.140476190476
+80B12563,"Large-Domain, Low-Contrast Acoustic Inverse Scattering for Ultrasound Breast Imaging",0.126349206349,0.156944444444
+815ECC35,"Super-resolution reconstruction of high dynamic range images in a perceptually uniform domain",0.135793650794,0.141964285714
+79BB0CFC,"Optical tomography reconstruction algorithm with the finite element method: An optimal approach with regularization tools",0.152698412698,0.136061507937
+786A6C47,"Phase-driven spatially variant regularization for image resolution enhancement",0.137698412698,0.136408730159
+7FEC7915,"The holographic Weyl anomaly",0.0963564213564,0.125
+80C7309D,"An iterative stochastic ensemble method for parameter estimation of subsurface flow models",0.285404040404,0.334027777778
+7877038A,"A new kernel-based approach for linear system identification.",0.108888888889,0.134259259259
+7638B67F,"Regularized multivariable grey model for stable grey coefficients estimation",0.280808080808,0.314444444444
+80771C93,"Reduced HyperBF Networks: Regularization by Explicit Complexity Reduction and Scaled Rprop-Based Training",0.149848484848,0.174149659864
+7D01A9B2,"Drosophila gene expression pattern annotation using sparse features and term-term interactions",0.147222222222,0.178240740741
+79679C05,"Magnetotelluric inversion for anisotropic conductivities in layered media",0.0845066045066,0.107407407407
+7BC402AC,"Nonlinear regression modeling via regularized radial basis function networks",0.127308802309,0.169642857143
+7BAFEA03,"Numerical analytic continuation on bounded domains",0.143181818182,0.2
+7F914FBD,"Multiobjective Neural Network Ensembles Based on Regularized Negative Correlation Learning",0.124531024531,0.21746031746
+7E49C36C,"Some Aspects of Band-Limited Extrapolations",0.096336996337,0.125
+7FB2FF44,"Adaptive nonparametric instrumental variables estimation: Empirical choice of the regularization parameter",0.148571428571,0.14
+75B09827,"Stability results for fractional differentiation",0.110793650794,0.117989417989
+75B315DE,"Regularized numerical integration of multibody dynamics with the generalized α method",0.129444444444,0.161111111111
+7F6F311C,"An Improved Tikhonov Regularization Method for Conductivity Tomography Imaging",0.134920634921,0.126349206349
+807A90BE,"Super-resolution image restoration from blurred observations",0.122308802309,0.185714285714
+7B6CD65F,"Sustainable economy inspired large-scale feed-forward portfolio construction",0.122546897547,0.135822510823
+79F2E917,"Future Polynomial Regularization of Ill-Posed Volterra Equations",0.120793650794,0.138888888889
+7649B187,"Learning Output Kernels for Multi-Task Problems",0.10936008436,0.171825396825
+75DC659B,"A pre-regularization scheme for the reconstruction of a spatial dependent scattering albedo using a hybrid ant colony optimization implementation",0.124365079365,0.16626984127
+80A3897C,"Regularizing ad hoc retrieval scores",0.103888888889,0.15
+77F6E315,"Atmospheric trace gases profile retrievals using the nonlinear regularized total least squares method",0.110238095238,0.151252319109
+6B22C8EC,"A computationally efficient scheme for feature extraction with kernel discriminant analysis",0.137546897547,0.147936507937
+8139F50D,"A well-posed multiscale regularization scheme for digital image denoising",0.134920634921,0.150793650794
+782378F0,"A regularized smoothing Newton method for solving SOCCPs based on a new smoothing C-function",0.107070707071,0.201111111111
+7BC295AA,"Variable Selection Using Adaptive Nonlinear Interaction Structures in High Dimensions",0.136753246753,0.200238095238
+7BCEC334,"Regularization of blood motion fields by modified Navier–Stokes equations",0.142308802309,0.144126984127
+798A360F,"Discrepancy-based adaptive regularization for GRAPPA reconstruction",0.120793650794,0.125925925926
+76A356BB,"A robust multiframe super-resolution algorithm based on half-quadratic estimation with modified BTV regularization",0.129365079365,0.185714285714
+79B62D11,"Video super-resolution with registration-reliability regulation and adaptive total variation",0.115728715729,0.132275132275
+7CE57D60,"Nonparametric identification of population models via Gaussian processes",0.429828042328,0.501904761905
+790AD784,"Retrieval of Mars surface physical properties from OMEGA hyperspectral images using Regularized Sliced Inverse Regression",0.137698412698,0.175048100048
+8082E5C1,"In Vivo Impedance Imaging With Total Variation Regularization",0.13088023088,0.144047619048
+787DDF83,"Model sparsity and brain pattern interpretation of classification models in neuroimaging",0.293737373737,0.418253968254
+81CAD12D,"Low-dose CT statistical iterative reconstruction via modified MRF regularization",0.120793650794,0.15
+7C74B091,"Least squares problems with inequality constraints as quadratic constraints",0.116031746032,0.125324675325
+76DB5AC3,"Regularization and singular perturbation techniques for non-smooth systems",0.124126984127,0.125694444444
+7D1F87D1,"A relaxation method of an alternating iterative MFS algorithm for the Cauchy problem associated with the two‐dimensional modified Helmholtz equation",0.132936507937,0.152557319224
+80A17691,"Convexly constrained linear inverse problems: iterative least-squares and regularization",0.120793650794,0.140211640212
+7DA3BC91,"A Fast Wavelet-Based Reconstruction Method for Magnetic Resonance Imaging",0.107070707071,0.105555555556
+80EFE0BC,"Implementation of algorithms for tuning parameters in regularized least squares problems in system identification",0.14246031746,0.157102773769
+759606E5,"Regularized complete linear discriminant analysis",0.0941891441891,0.142857142857
+76640244,"Identification of the nonlinear excitation force acting on a bowed string using the dynamical responses at remote locations",0.130555555556,0.178218694885
+76701EA0,"Convergence analysis of a block iterative version of the loping Landweber–Kaczmarz iteration",0.131666666667,0.144642857143
+758E6A8C,"Reproducing Kernel Banach Spaces with the l1 Norm",0.173571428571,0.204861111111
+7AA39D81,"Fourier regularization for a final value time-fractional diffusion problem",0.14380952381,0.154761904762
+7DE0782B,"Hidden dynamics in models of discontinuity and switching",0.31746031746,0.354166666667
+7B5A2ABB,"A regularization method for a Cauchy problem of the Helmholtz equation",0.128571428571,0.128571428571
+7D3A3AA6,"A comparison between new L1 minimization algorithms in Electrical Impedance Tomography using the Pareto Curve",0.121031746032,0.151488095238
+7A36DCCF,"Two-point step-size iterative soft-thresholding method for sparse reconstruction",0.104848484848,0.105555555556
+8121BCF1,"MEG source localization under multiple constraints: an extended Bayesian framework",0.305555555556,0.303333333333
+75AF4CCE,"Spectral method for ill-posed problems based on the balancing principle",0.146904761905,0.190793650794
+7894EE58,"Support Vector Machines: A Nonlinear Modelling and Control Perspective",0.149126984127,0.140939153439
+7915ABFA,"Eliminating unpredictable variation through iterated learning",0.111197691198,0.144742063492
+797CB60C,"A control type method for solving the Cauchy–Stokes problem",0.134920634921,0.162698412698
+7E6BD1C8,"Inverse geometry heat transfer problem based on a radial basis functions geometry representation",0.152380952381,0.163744588745
+7CA892A9,"Quantitative susceptibility map reconstruction from MR phase data using bayesian regularization: Validation and application to brain imaging",0.140238095238,0.151623376623
+5D0C249E,"A Fast MAP Algorithm for High-Resolution Image Reconstruction with Multisensors",0.117546897547,0.121428571429
+764CC2BF,"Wavelets and regularization of the Cauchy problem for the Laplace equation",0.125793650794,0.131349206349
+77631B77,"Numerical Solution of First-Kind Volterra Equations by Sequential Tikhonov Regularization",0.198571428571,0.259259259259
+7AB81937,"A New Matrix-Free Algorithm for the Large-Scale Trust-Region Subproblem",0.0941891441891,0.142857142857
+7A111B71,"Heterogeneous data fusion via matrix factorization for augmenting item, group and friend recommendations",0.169365079365,0.154012345679
+7747E451,"An iterative algorithm for linear inverse problems with compound regularizers",0.159047619048,0.163095238095
+79034CC4,"Experimental Testing of a Moving Force Identification Bridge Weigh-in-Motion Algorithm",0.119444444444,0.163161375661
+7DCE018B,"Regularization networks and support vector machines",0.160238095238,0.155238095238
+7E2F16D8,"Ultraviolet divergences in maximal supergravity from a pure spinor point of view",0.118737373737,0.134259259259
+75198291,"Numerical analysis of a calibration problem for simulating electric fault arc tests",0.131753246753,0.150506636221
+7F336EF7,"A Full Bayesian Approach to Curve and Surface Reconstruction",0.0941341991342,0.15625
+79082622,"Incremental Identification of Transport Coefficients in Convection-Diffusion Systems",0.112626262626,0.125
+80C1E84B,"A practical regularization for seismic tomography",0.129365079365,0.154761904762
+7F8D8BD5,"BLIND DECONVOLUTION USING A REGULARIZED STRUCTURED TOTAL LEAST NORM ALGORITHM",0.112931512932,0.217261904762
+7B82FBF2,"Linear reconstruction of perceived images from human brain activity",0.145793650794,0.148214285714
+7A539D2C,"A modified method for a non-standard inverse heat conduction problem",0.134920634921,0.126349206349
+80295718,"The index function and Tikhonov regularization for ill-posed problems",0.135642135642,0.146825396825
+77C2E9E1,"Variational problems and partial differential equations on implicit surfaces",0.112137862138,0.126322751323
+75F2179D,"A condition assessment method for time-variant structures with incomplete measurements",0.160555555556,0.147222222222
+7CC3B576,"Identification of both structural damages in bridge deck and vehicular parameters using measured dynamic responses",0.128333333333,0.15386002886
+7EB1FAFE,"Uncorrelated Multilinear Discriminant Analysis With Regularization and Aggregation for Tensor Object Recognition",0.335238095238,0.307142857143
+76BAEA11,"The MFS for numerical boundary identification in two-dimensional harmonic problems",0.125793650794,0.124389499389
+781B8E8A,"Regularization by Truncated Total Least Squares",0.120793650794,0.128787878788
+7B78D0EB,"A special Hermitian and skew-Hermitian splitting method for image restoration",0.111197691198,0.117989417989
+26150FB2,"Nonlocal models with damage-dependent interactions motivated by internal time",0.300404040404,0.385714285714
+02E6F8AF,"Aggregated conditional regularized enhancement of environmental imagery: numerical techniques and simulation study",0.10341991342,0.122619047619
+7C56291C,"Regularization of soft-X-ray imaging in the DIII-D tokamak",0.124126984127,0.116666666667
+7CFF34A2,"Smoothness in layers: Motion segmentation using nonparametric mixture estimation",0.291197691198,0.278741496599
+7A85A3B4,"Browder-Tikhonov regularization for a class of evolution second order hemivariational inequalities",0.16341991342,0.17380952381
+03D39E77,"Estimates on weight-decay regularization by variable-basis schemes",0.132698412698,0.130952380952
+7AD844AD,"The residual method for regularizing ill-posed problems",0.118015873016,0.167989417989
+77CF7516,"Improvement of Space-Invariant Image Deblurring by Preconditioned Landweber Iterations",0.131904761905,0.144841269841
+7E45BA69,"Diffusion regularization for iterative reconstruction in emission tomography",0.148658008658,0.150476190476
+764FA4F7,"Dynamic load identification for stochastic structures based on Gegenbauer polynomial approximation and regularization method",0.14246031746,0.156746031746
+7B2D3282,"Measuring information provided by language model and acoustic model in probabilistic speech recognition: Theory and experimental results",0.661904761905,0.499329004329
+49249541,"Inverse problems formulated in terms of first-kind Fredholm integral equations in indirect measurements",0.15341991342,0.155026455026
+7E8D0FFF,"Existence of Solutions for Nonlocal Boundary Value Problem with Singularity in Phase Variables",0.228888888889,0.206292517007
+7DAC42F8,"Near-Optimal Parameters for Tikhonov and Other Regularization Methods",0.139682539683,0.148148148148
+600C6FA8,"Brief paper: Segmentation of ARX-models using sum-of-norms regularization",0.148571428571,0.21875
+7D7DA5B1,"Semisupervised Neural Networks for Efficient Hyperspectral Image Classification",0.137698412698,0.150793650794
+2EFA8D54,"Regularization parameter selection in the 3D gravity inversion of the basement relief using GCV: A parallel approach",0.15746031746,0.156397306397
+79810AC9,"A non-local boundary value problem method for parabolic equations backward in time",0.135476190476,0.134920634921
+75FEB0B8,"Two stable methods with numerical experiments for solving the backward heat equation",0.104848484848,0.136666666667
+77B3BAFF,"Extreme learning machine with errors in variables",0.136515151515,0.2
+79EF7736,"Shape from shading—a method of integration of sonar images and bathymetric data for ocean mapping",0.155476190476,0.141567460317
+76417038,"Optimal regularized low rank inverse approximation",0.124531024531,0.152777777778
+79ED5322,"The modified truncated SVD method for regularization in general form",0.139682539683,0.173611111111
+7B5F4744,"Regularization in parallel MR image reconstruction",0.137698412698,0.133630952381
+7C5AF69C,"A variable smoothing algorithm for solving convex optimization problems",0.117527472527,0.165178571429
+7F00D0B0,"An image super-resolution algorithm for different error levels per frame",0.155476190476,0.148658008658
+7C7385FA,"Forward jet production & quantum corrections to the gluon Regge trajectory from Lipatov`s high energy effective action",0.157222222222,0.141567460317
+58D34417,"Tube Methods for BV Regularization",0.128571428571,0.122895622896
+788CC46B,"Clustered iterative stochastic ensemble method for multi-modal calibration of subsurface flow models",0.300404040404,0.320555555556
+80B6FFB6,"Bayesian interpretation of periodograms",0.111197691198,0.142857142857
+77D1C145,"Showalter regularization of a singularly perturbed PDE",0.120793650794,0.166666666667
+7FB8AAC7,"Parallel MR Image Reconstruction Using Augmented Lagrangian Methods",0.116197691198,0.16246031746
+7F7620B7,"Parameter estimation for hybrid wavelet-total variation regularization",0.146031746032,0.144047619048
+7F2D8ADD,"Edge detection method by Tikhonov regularization",0.128571428571,0.119444444444
+751967EE,"Unified descriptive experiment design regularization and component dictionary-based image restoration approach for enhanced radar/SAR sensing",0.14126984127,0.126927437642
+786275E3,"TROP-ELM: A double-regularized ELM using LARS and Tikhonov regularization",0.120793650794,0.192307692308
+77CD3968,"Variable matrix-type step-size affine projection algorithm with orthogonalized input vectors",0.137698412698,0.129365079365
+7E6198EC,"Estimation of oxygen tension in retinal capillaries from phosphorescence lifetime images",0.148015873016,0.125566893424
+7CEB6F11,"Generalized GRAPPA operators for wider spiral bands: Rapid self‐calibrated parallel reconstruction for variable density spiral MRI",0.122546897547,0.133276643991
+7EFA941A,"Regularized estimation of large covariance matrices",0.103888888889,0.139583333333
+79DC023A,"Joint additive Kullback–Leibler residual minimization and regularization for linear inverse problems",0.13841991342,0.150297619048
+80229734,"Multi-wavelength Raman lidar, sun photometric and aircraft measurements in combination with inversion models for the estimation of the aerosol optical and physico-chemical properties over Athens, Greece",0.324126984127,0.19363969364
+80794964,"A General Framework for Sparsity-Based Denoising and Inversion",0.271748251748,0.55
+79C4F23B,"Sparse logistic principal components analysis for binary data",0.144365079365,0.161904761905
+7CD877F7,"Finite Element Approach to Clustering of Multidimensional Time Series",0.135793650794,0.143571428571
+8081997D,"A Prescaled Multiplicative Regularized Gauss-Newton Inversion",0.0777380952381,0.175
+7DDFE224,"Probabilistic analysis of regularization",0.129365079365,0.154761904762
+803D822B,"Image reconstruction and restoration: overview of common estimation structures and problems",0.129365079365,0.117403628118
+790C12A3,"Localization and regularization behavior of mixed finite elements for 2D structural problems with damaging material",0.186753246753,0.183405483405
+7885E9D1,"A Grouped Structure-based Regularized Regression Model for Text Categorization",0.300793650794,0.379464285714
+7ABED11A,"Morozov's Discrepancy Principle under General Source Conditions",0.140238095238,0.150297619048
+7CEF0A95,"Variable Explicit Regularization in Affine Projection Algorithm: Robustness Issues and Optimal Choice",0.146031746032,0.13373015873
+5F756176,"Counter-examples for Bayesian MAP restoration",0.087619047619,0.1
+78C33C59,"Regularization parameter determination for discrete ill-posed problems",0.15746031746,0.169047619048
+790BD9E0,"Regularizing kernel‐based BRDF model inversion method for ill‐posed land surface parameter retrieval using smoothness constraint",0.294444444444,0.243611111111
+7B1AA3CE,"A Spatial Regularization of LDA for Face Recognition",0.28746031746,0.425925925926
+778959AE,"Tikhonov Regularization and Total Least Squares",0.120793650794,0.113636363636
+775D228E,"Local scaling heuristic-based regularization for pattern classification",0.134126984127,0.177777777778
+784B6751,"Data regularization for a backward time-fractional diffusion problem",0.13088023088,0.14880952381
+7B3B2479,"Fast 3D gradient shimming by only 2×2 pixels in XY plane for NMR-solution samples",0.128571428571,0.113023088023
+79AAFCF5,"A meshless method for the numerical solution of the Cauchy problem associated with three-dimensional Helmholtz-type equations",0.198015873016,0.223015873016
+78E090CD,"Regularization of backward heat conduction problem",0.120793650794,0.130158730159
+80B0F273,"Image restoration through l0 analysis-based sparse optimization in tight frames",0.113975468975,0.114691558442
+7E51C7A6,"Nonlinear Regularized Reaction-Diffusion Filters for Denoising of Images With Textures",0.126587301587,0.158928571429
+7BE1580D,"Heat Equations on Vector Bundles--Application to Color Image Regularization",0.153571428571,0.155853174603
+8038E121,"Regularization of an autoconvolution problem in ultrashort laser pulse characterization",0.125793650794,0.127308802309
+804433CC,"A Bayesian framework for regularization",0.304126984127,0.583333333333
+7DEED417,"Convex Approximation Technique for Interacting Line Elements Deblurring: a New Approach",0.112222222222,0.12904040404
+771FC1FA,"Lavrentiev regularization of a singularly perturbed elliptic PDE",0.120793650794,0.183333333333
+7BFE3551,"Adaptive force-based frame element for regularized softening response",0.127157287157,0.139691558442
+7CA82876,"A balanced combination of Tikhonov and total variation regularizations for reconstruction of piecewise-smooth signals",0.14380952381,0.14380952381
+7EC175C3,"Sparse Reconstruction by Separable Approximation",0.0881818181818,0.0916666666667
+7BED8C10,"Constructing the physical parameters of a damped vibrating system from eigendata",0.105788655789,0.194444444444
+7FCBC03A,"Regularized Subspace Gaussian Mixture Models for Speech Recognition",1.0,0.892857142857
+7829A414,"Multiresolution discontinuity-preserving surface reconstruction",0.092619047619,0.1125
+76BFB96C,"Local Strong Homogeneity of a Regularized Estimator",0.0981746031746,0.118055555556
+7EB6E8D3,"Some Properties of a Recursive Procedure for High Dimensional Parameter Estimation in Linear Model with Regularization",0.335238095238,0.3
+220EDA42,"Recovery of the temperature and the heat flux by a novel meshless method from the measured noisy data",0.126587301587,0.142970521542
+80605416,"L-Tangent Norm: A Low Computational Cost Criterion for Choosing Regularization Weights and its Use for Range Surface Reconstruction",0.145086580087,0.150238095238
+8052A02B,"Optimal control of cylinder wakes via suction and blowing",0.11880952381,0.130714285714
+7BB6EEB7,"A modified method for a backward heat conduction problem",0.120238095238,0.11626984127
+7D5A775F,"On the Performance of Autocorrelation Estimation Algorithms for fMRI Analysis",0.107157287157,0.127936507937
+75B643A5,"Consistency of large dimensional sample covariance matrix under weak dependence",0.142777777778,0.137222222222
+755884D5,"The use of the L-curve in the regularization of discrete ill-posed problems",0.142308802309,0.169841269841
+7B565A5F,"On the discrete variant of the traction method in parameter-free shape optimization",0.123015873016,0.114682539683
+7983445B,"An iterative method for the Cauchy problem in linear elasticity with fading regularization effect",0.134920634921,0.14126984127
+77E07D1D,"Source term identification for an axisymmetric inverse heat conduction problem",0.141991341991,0.13985260771
+8030EE0C,"A blocking and regularization approach to high‐dimensional realized covariance estimation",0.125793650794,0.139351851852
+7FF3BD92,"A Nonconformal Volume Integral Equation for Electromagnetic Scattering From Penetrable Objects",0.143333333333,0.150694444444
+7511C004,"Two regularization methods for a spherically symmetric inverse heat conduction problem",0.139682539683,0.133068783069
+7651E411,"Robust incremental compensation of the light attenuation with depth in 3D fluorescence microscopy",0.107606837607,0.10468975469
+7B94CB38,"winstodec: a stochastic deconvolution interactive program for physiological and pharmacokinetic systems",0.124848484848,0.155555555556
+7C9325DB,"Persistence of periodic orbits with sliding or sewing by singular perturbation",0.10873015873,0.115277777778
+782F6F31,"A singular boundary value problem for odd-order differential equations",0.125086580087,0.140211640212
+7DE879FB,"Approximate inverse method for stable analytic continuation in a strip domain",0.164126984127,0.164126984127
+79B505DA,"Image restoration through regularization based on error energy minimization",0.152698412698,0.168424036281
+78631135,"Model-augmented methods for estimation of contact pressure distribution",0.107070707071,0.108333333333
+7E96A866,"On the reduction of the systematic error in imaging radiometry by aperture synthesis: a new approach for the SMOS space mission",0.188571428571,0.171995464853
+7FCF57B6,"Gradient descent and fast artificial time integration",0.127222222222,0.179464285714
+791C8D38,"Discontinuous parameter estimates with least squares estimators",0.111666666667,0.116477272727
+814D0E28,"Clustering Dynamic PET Images on the Projection Domain",0.135793650794,0.148214285714
+7A0E6CD2,"An image reconstruction algorithm based on the extended Tikhonov regularization method for electrical capacitance tomography",0.14126984127,0.15496031746
+7CEE09AC,"Regularization of linear time-invariant differential–algebraic systems",0.120793650794,0.138888888889
+7A573FFE,"Incomplete oblique projections method for solving regularized least‐squares problems in image reconstruction",0.124365079365,0.136507936508
+5DB3C18E,"Raman lidar for monitoring of aerosol pollution in the free troposphere",0.1134004884,0.112103174603
+760C0B34,"Fast sparse regression and classification",0.115404040404,0.145833333333
+7BAF97E7,"The L1/2 regularization approach for survival analysis in the accelerated failure time model",0.324126984127,0.29623015873
+7FAFBA63,"Comment améliorer la capacité de généralisation des algorithmes d'apprentissage pour la prise de décisions financières",0.121666666667,0.14537037037
+785A4F8C,"Multiple-criteria calibration of a distributed watershed model using spatial regularization and response signatures",0.335238095238,0.313095238095
+7EF1C99C,"Existence, uniqueness and stability of minimizers of generalized Tikhonov–Phillips functionals",0.138737373737,0.155555555556
+63B84A19,"Sample Weighting: An Inherent Approach for Outlier Suppressing Discriminant Analysis",0.111197691198,0.119742063492
+7D481E87,"Bayesian online multi-task learning using regularization networks",0.127308802309,0.244047619048
+79B1098F,"Pruning and regularization in reservoir computing",0.129126984127,0.131944444444
+7F9E370D,"A comparison of regularization techniques for atmospheric trace gases retrievals",0.129126984127,0.119444444444
+799E0C6C,"Multimedia event detection with ℓ2-regularized logistic Gaussian mixture regression",0.444444444444,0.495
+794AC5D6,"An optimal regularization for structural parameter estimation from modal response",0.140238095238,0.139583333333
+7D60B88F,"Bayesian algorithms for PET image reconstruction with mean curvature and Gauss curvature diffusion regularizations",0.147619047619,0.14693877551
+828B43F4,"An invariant method of fundamental solutions for two-dimensional steady-state anisotropic heat conduction problems",0.198015873016,0.193015873016
+77CAC746,"Establishing criteria to ensure successful feedforward artificial neural network modelling of mechanical systems",0.118975468975,0.184193121693
+75AA5F7F,"Boosting with structure information in the functional space: an application to graph classification",0.181904761905,0.185884353741
+7D85A6C9,"Deterministic edge-preserving regularization in computed imaging",0.124126984127,0.133333333333
+7F4146E0,"A Study of Least Squares and Maximum Likelihood for Image Reconstruction in Positron Emission Tomography",0.144365079365,0.128476731602
+7C653B0F,"Variational formulations and a consistent finite-element procedure for a class of nonlocal elastic continua",0.15341991342,0.169047619048
+8030B293,"Example-Driven Manifold Priors for Image Deconvolution",0.111197691198,0.106593406593
+7EB600C6,"Are Models Too Simple? Arguments for Increased Parameterization",0.287222222222,0.486111111111
+7BD6961E,"Correlation Function of Circular Wilson Loops at Strong Coupling",0.124531024531,0.125555555556
+7CC97970,"Radial Basis Function network learning using localized generalization error bound",0.145086580087,0.196130952381
+77555298,"Hermite spectral and pseudospectral methods for numerical differentiation",0.104848484848,0.105555555556
+79B37621,"Sigmoidal approximations for self-interacting line processes in edge-preserving image restoration",0.118015873016,0.130238095238
+7F8267B3,"Adaptive Kernel Methods Using the Balancing Principle",0.13595959596,0.184444444444
+7D10374F,"Finite Array Observations-Adapted Regularization Unified with Descriptive Experiment Design Approach for High-Resolution Spatial Power Spectrum Estimation with Application to Radar/SAR Imaging",0.143181818182,0.143650793651
+7AD4810B,"Combined Curvelet Shrinkage and Nonlinear Anisotropic Diffusion",0.110642135642,0.172619047619
+786FAD7D,"Quasi-Newton Approach to Nonnegative Image Restorations",0.113975468975,0.122619047619
+79A0A3E7,"Calibration of the purely T-dependent Black–Scholes implied volatility",0.133975468975,0.144588744589
+80F73FFB,"Aggregated Regularization of Remote Sensing Image Restoration Using Deterministic and Statistic Techniques",0.134920634921,0.182142857143
+22B2CF0D,"Performance analysis and feasibility study of ant colony optimization, particle swarm optimization and cuckoo search algorithms for inverse heat transfer problems",0.165324675325,0.142385912698
+78A3025B,"CageR: Cage-Based Reverse Engineering of Animated 3D Shapes",0.133658008658,0.140873015873
+788AB29E,"The Dynamic Pyramid a Model for the Motion Analysis with Controlled Continuity",0.307142857143,0.307142857143
+752164CC,"Fourier series approximation of separable models",0.287222222222,0.402777777778
+7642A860,"A computational method for a Cauchy problem of Laplace’s equation",0.118015873016,0.121693121693
+162F8493,"Parallel magnetic resonance imaging reconstruction problems using wavelet representations",0.134126984127,0.163662131519
+770468A5,"Comparing different types of approximators for choosing the parameters in the regularization of ill-posed problems",0.13746031746,0.190476190476
+7A473D89,"Pilot-point based multi-objective calibration in a surface–subsurface distributed hydrological model",0.300404040404,0.433333333333
+7C5F5BF9,"Residual analysis for feature detection",0.12341991342,0.147619047619
+5D9DE544,"A multi-view regularization method for semi-supervised learning",0.128571428571,0.12962962963
+804F7527,"A meshless method for the stable solution of singular inverse problems for two-dimensional Helmholtz-type equations",0.201587301587,0.206349206349
+7845EB88,"Analysis of bounded variation penalty methods for ill-posed problems",0.129126984127,0.14126984127
+7F3C8BD6,"Efficient Surface Reconstruction From Noisy Data Using Regularized Membrane Potentials",0.122546897547,0.159193121693
+7C5F5AB9,"Hard or Soft Classification? Large-margin Unified Machines.",0.106666666667,0.133333333333
+7DFB2A52,"Predictor–Corrector Adaptation by Using Time Evolution System With Macroscopic Time Scale",0.125086580087,0.163832199546
+75BDDE3B,"Majorization–Minimization Algorithms for Wavelet-Based Image Restoration",0.117546897547,0.128571428571
+7B736368,"Identification of Transport Coefficient Models in Convection-Diffusion Equations",0.29595959596,0.3
+00E058A6,"Temporal Regularization Use in Dynamic Contrast-Enhanced MRI.",0.142308802309,0.163888888889
+78BEDEBD,"Quantile regression with ℓ 1—regularization and Gaussian kernels",0.250330687831,0.412037037037
+7FF6EC3B,"Regularization in statistics",0.122308802309,0.128787878788
+7C9D8062,"Local regularization assisted orthogonal least squares regression",0.120793650794,0.158143939394
+781317BA,"Sparse Estimation of Spike-Triggered Average",0.0948484848485,0.1
+7702813E,"Online Learning Algorithms",0.111197691198,0.126984126984
+7EC21E0B,"Large Vocabulary Mandarin Continuous Speech Recognition under Noisy Environment",0.468975468975,0.578125
+7586A4B1,"Hyperparameter estimation for satellite image restoration using a MCMC maximum-likelihood method",0.111197691198,0.15746031746
+80A19CD4,"Regularization of descriptor systems by output feedback",0.131904761905,0.13746031746
+7F2CDB19,"An information-theoretic approach to traffic matrix estimation",0.118975468975,0.123214285714
+7F7BF93A,"Asymptotics of Gaussian Regularized Least Squares",0.230849012099,0.44696969697
+77E57AC1,"BYY learning, regularized implementation, and model selection on modular networks with one hidden layer of binary units",0.315793650794,0.26433531746
+78663BE6,"Utility of an image-based canopy reflectance modeling tool for remote estimation of LAI and leaf chlorophyll content at the field scale.",0.124531024531,0.118473698019
+7BA809AF,"Relaxation procedures for an iterative MFS algorithm for two-dimensional steady-state isotropic heat conduction Cauchy problems",0.140324675325,0.135827664399
+7DA1CA42,"Shrinkage-based Diagonal Discriminant Analysis and Its Applications in High-dimensional Data",0.127308802309,0.150793650794
+3DB84053,"Identyfikacja siły skrawania na podstawie pomiarów przyspieszeń z zastosowaniem technik regularyzacji",0.107157287157,0.142857142857
+79F45FF9,"Discriminative Models for Speech Recognition",0.645,1.0
+7C4CDC77,"Particle extinction measured at ambient conditions with differential optical absorption spectroscopy. 1. System setup and characterization",0.150793650794,0.15462962963
+7F463162,"Regularization of the Affine Projection Algorithm",0.129365079365,0.130952380952
+7DDDA5DE,"Effects of registration regularization and atlas sharpness on segmentation accuracy.",0.14246031746,0.13955026455
+7AF64EE5,"Multivariate source prelocalization (MSP): Use of functionally informed basis functions for better conditioning the MEG inverse problem",0.148658008658,0.151058201058
+773719D8,"Improving source reconstructions by combining bioelectric and biomagnetic data",0.116197691198,0.173571428571
+806C7D55,"A Total Variation-Based Reconstruction Method for Dynamic MRI",0.107626262626,0.112037037037
+7A7259C0,"Spatially adaptive sparse grids for high-dimensional data-driven problems",0.118015873016,0.126984126984
+7D6C9B88,"Kernel-based methods for hyperspectral image classification",0.122308802309,0.140211640212
+75D3CC03,"Regularization by Intrinsic Plasticity and its Synergies with Recurrence for Random Projection Methods",0.137698412698,0.128637566138
+7B4A441D,"An inverse problem approach to pattern recognition in industry",0.305086580087,0.283531746032
+7A69966C,"Length Scales Interaction in Nonlocal Plastic Strain Localization of Bars of Varying Section",0.151753246753,0.166798941799
+79C45A68,"A model function method for determining the regularizing parameter in potential approach for the recovery of scattered wave",0.312698412698,0.26741622575
+76103F45,"Non-Filippov dynamics arising from the smoothing of nonsmooth systems, and its robustness to noise",0.11246031746,0.15746031746
+7F884D24,"A Generalized Accelerated Proximal Gradient Approach for Total-Variation-Based Image Restoration",0.137698412698,0.14623015873
+751F0773,"The ill-posedness of restoring lost samples and regularized restoration for band-limited signals",0.134126984127,0.175555555556
+61D140CF,"An ensemble regularization method for feature selection in mass spectral fingerprints",0.166904761905,0.157605820106
+809ABB22,"Vector Schwinger Model with a Photon Mass Term with Faddeevian Regularization",0.31746031746,0.287698412698
+7E8C2B2D,"Regularized Locality Preserving Projections and Its Extensions for Face Recognition",0.282070707071,0.272222222222
+837822B7,"An improved GLMNET for L1-regularized logistic regression",0.0963564213564,0.125
+7C3739ED,"On the uniqueness and reconstruction for an inverse problem of the fractional diffusion process",0.148658008658,0.149206349206
+7A1C5E1B,"Robust Solutions to Least-Squares Problems with Uncertain Data",0.197546897547,0.261904761905
+81758CAA,"A Multiplicative Regularized Gauss–Newton Inversion for Shape and Location Reconstruction",0.123571428571,0.151904761905
+7F5A5E75,"Efficient algorithms for solution of regularized total least squares",0.18436008436,0.244588744589
+79126E8F,"A Riemannian approach to anisotropic filtering of tensor fields",0.109285714286,0.130555555556
+8064EACE,"Reconstructing surfaces by volumetric regularization using radial basis functions",0.135642135642,0.183531746032
+7A9D27BC,"Extrapolation of Tikhonov regularization method",0.128571428571,0.12037037037
+810659AB,"A Regularized Nonlinear Diffusion Approach for Texture Image Denoising",0.135714285714,0.138392857143
+79FF3343,"Fast derivative computation using smooth X-splines",0.104848484848,0.25
+7BCA8004,"An efficient parallel implementation of the MSPAI preconditioner",0.100086580087,0.142857142857
+76554468,"Fourth-order modified method for the Cauchy problem for the Laplace equation",0.120238095238,0.145238095238
+254FD925,"Functional sufficient dimension reduction: Convergence rates and multiple functional case",0.129126984127,0.14380952381
+812C993A,"Tikhonov regularization as a tool for assimilating soil moisture data in distributed hydrological models",0.309126984127,0.275340136054
+7E4CB1F1,"Accelerated three‐dimensional upper airway MRI using compressed sensing",0.0869047619048,0.189087301587
+5CAEAD77,"Path Algorithms for One-Class SVM",0.104848484848,0.154761904762
+7B10868D,"Distributed Environmental Inversion for Multi-Static Sonar Tracking",0.0777380952381,0.158333333333
+7F9A4BAB,"Parallel MRI reconstruction using variance partitioning regularization",0.125793650794,0.172685185185
+7D3B93CD,"Density-Driven Generalized Regression Neural Networks (DD-GRNN) for Function Approximation",0.127308802309,0.129464285714
+7AD24F57,"Classification via Minimum Incremental Coding Length",0.130086580087,0.15873015873
+7DBBA4BA,"Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems",0.14380952381,0.137074829932
+7AF167DD,"On the residual empirical process based on the ALASSO in high dimensions and its functional oracle property",0.145086580087,0.188571428571
+7A98C297,"A regularizing L-curve Lanczos method for underdetermined linear systems",0.107070707071,0.157407407407
+5F18B1BE,"Adaptive Parameter Estimation for Satellite Image Deconvolution",0.11595959596,0.136507936508
+7618557D,"On an inverse boundary value problem of a nonlinear elliptic equation in three dimensions",0.132698412698,0.140873015873
+7CF95209,"Accelerating the LSTRS Algorithm",0.0941891441891,0.142857142857
+7ED7823C,"Efficient iterative tip/tilt reconstruction for atmospheric tomography",0.0988045288045,0.121428571429
+774274ED,"Multi-order blind deconvolution algorithm with adaptive Tikhonov regularization for infrared spectroscopic data",0.133658008658,0.14880952381
+804449F0,"A New Value Picking Regularization Strategy—Application to the 3-D Electromagnetic Inverse Scattering Problem",0.150793650794,0.16130952381
+7E6E4E7C,"Performance Study of the Robust Bayesian Regularization Technique for Remote Sensing Imaging in Geophysical Applications",0.13746031746,0.150170068027
+7886251B,"A biological mechanism for Bayesian feature selection: Weight decay and raising the LASSO",0.162142857143,0.157374768089
+75707E47,"Numerical instabilities in level set topology optimization with the extended finite element method",0.156666666667,0.156623931624
+81657D72,"Regularization techniques for learning with matrices",0.124126984127,0.18125
+757A4674,"Parametric semi-blind deconvolution algorithm with Huber–Markov regularization for passive millimeter-wave images",0.14126984127,0.150793650794
+7AE833E0,"Pivoted Cauchy-Like Preconditioners for Regularized Solution of Ill-Posed Problems",0.187137862138,0.280952380952
+8435EF7C,"Electron energy loss spectroscopy equation for spectra with overlapping oscillations and its solution by a regularization method",0.206349206349,0.166071428571
+784ABC4A,"DYNAMIC LOAD IDENTIFICATION FOR UNCERTAIN STRUCTURES BASED ON INTERVAL ANALYSIS AND REGULARIZATION METHOD",0.14246031746,0.165249433107
+7FC302A7,"Unifying Experiment Design and Convex Regularization Techniques for Enhanced Imaging With Uncertain Remote Sensing Data—Part I: Theory",0.160476190476,0.151443001443
+7FA6260C,"Microwave Biomedical Imaging Using the Multiplicative Regularized Gauss--Newton Inversion",0.087619047619,0.173333333333
+807B616C,"A Probabilistic Approach to Pattern Matching in the Continuous Domain",0.125384615385,0.185416666667
+75D45B2E,"A convergent least-squares regularized blind deconvolution approach",0.0856227106227,0.1875
+79C14F73,"Comparison of integral-type nonlocal plasticity models for strain-softening materials",0.345238095238,0.400297619048
+8069619E,"On Spectral Learning",0.104848484848,0.111111111111
+7D33BB0F,"A strain energy approach to regularization in displacement field fits of elastically deforming bodies",0.128571428571,0.139236111111
+7CC9FACE,"A posteriori stopping rule for regularized fixed point iterations",0.148333333333,0.186111111111
+7AB138CD,"Recursive identification of multivariable ARX models in the presence of a priori information: Robustness and regularization",0.320238095238,0.297619047619
+7631F668,"Nonlinear GRAPPA: A kernel approach to parallel MRI reconstruction",0.0981746031746,0.129444444444
+63934380,"A Survey of L1 Regression",0.10468975469,0.125
+78115BCE,"Reconstruction of permittivity profile from boundary capacitance data",0.116197691198,0.116964285714
+7F747767,"Learning Task-Optimal Registration Cost Functions for Localizing Cytoarchitecture and Function in the Cerebral Cortex",0.13088023088,0.16994047619
+805ED9C0,"High-Dimensional Graphical Model Selection Using $\ell_1$-Regularized Logistic Regression",0.307222222222,0.414583333333
+7EF19D94,"Statistical modelling of functional data",0.118975468975,0.133928571429
+79008BAE,"Object-based retrieval of biophysical canopy variables using artificial neural nets and radiative transfer models",0.306904761905,0.276757369615
+7C10F7EA,"Heat flux estimation of a plasma rocket helicon source by solution of the inverse heat conduction problem",0.197546897547,0.152739432285
+753B4F38,"Modeling inter-cluster and intra-cluster discrimination among triphones",0.111919191919,0.166666666667
+7EE0C9B0,"Extensions of a Theory of Networks for Approximation and Learning: Dimensionality Reduction and Clustering",0.129365079365,0.11875450938
+5ACA35DB,"Relations Between Regularization and Diffusion Filtering",0.135642135642,0.15873015873
+7A0D4787,"Wavelet-based inverse halftoning for error diffused halftones",0.142308802309,0.173397435897
+8034BE04,"On Model Selection Consistency of Lasso",0.326904761905,0.364393939394
+809B3823,"Robust Estimation of Transformation for Non-Rigid Registration",0.107157287157,0.128571428571
+7AC331B2,"Optical Flow Modeling and Computation: A Survey",0.110404040404,0.131944444444
+7A957497,"Cauchy problem for the Laplace equation in cylinder domain",0.12746031746,0.141587301587
+7A614E25,"LOCAL REGULARIZATION METHODS FOR THE STABILIZATION OF LINEAR ILL-POSED EQUATIONS OF VOLTERRA TYPE",0.146031746032,0.139682539683
+7AE22314,"Numerical Issues in Distributed Inelasticity Modeling of RC Frame Elements for Seismic Analysis",0.137698412698,0.124218374218
+7AA5BE88,"Piecewise linear regularized solution paths",0.190404040404,0.305555555556
+7F1D478E,"A regularized force-based beam element with a damage-plastic section constitutive law",0.138015873016,0.152678571429
+7A6EFDB4,"Preconditioned iterative regularization in Banach spaces",0.173571428571,0.233333333333
+7781A4C9,"Stability estimate and the modified regularization method for a Cauchy problem of the fractional diffusion equation",0.134920634921,0.124149659864
+7FA0CE6E,"A Signal Processing Approach to Generalized 1-D Total Variation",0.140238095238,0.160238095238
+7F3B4097,"High temporal resolution of dynamic MRI using the PSF model with robust reconstruction",0.285404040404,0.294907407407
+793EFB94,"A modified adaptive Lasso for identifying interactions in the Cox model with the heredity constraint",0.320555555556,0.282204700062
+7BFAA845,"An adaptive algorithm for image restoration using combined penalty functions",0.146031746032,0.186054421769
+7DD580D6,"Intelligent Experiment Design-Based Virtual Remote Sensing Laboratory",0.0777380952381,0.15
+8088EF78,"An improved iterative SENSE reconstruction method",0.104848484848,0.100673400673
+77A0A459,"High-resolution EEG: a new realistic geometry spline Laplacian estimation technique",0.107222222222,0.101363636364
+7A773210,"Regularization techniques in interior point methods",0.139682539683,0.136111111111
+7E41BF23,"Segmentation of ARX-models using sum-of-norms regularization",0.123571428571,0.208333333333
+5F75854A,"Learning Compressible Models",0.268414918415,0.666666666667
+7742681C,"Empirical Bayesian regularization of the inverse acoustic problem",0.120793650794,0.154761904762
+770F9EA6,"Linearized proximal alternating minimization algorithm for motion deblurring by nonlocal regularization",0.133658008658,0.17123015873
+76ADDB56,"Approximation BFGS methods for nonlinear image restoration",0.111197691198,0.109325396825
+8162E57B,"Regularized robust filters for time-varying uncertain discrete-time systems",0.0845066045066,0.153703703704
+77F4CAF8,"An efficient kernel discriminant analysis method",0.11341991342,0.121693121693
+7A62872B,"Stabilizing the lasso against cross-validation variability",0.11246031746,0.161255411255
+798E0563,"A discrepancy principle for equations with monotone continuous operators",0.135476190476,0.132698412698
+7C232951,"An Adaptive Markov Chain Monte Carlo Approach to Time Series Clustering of Processes with Regime Transition Behavior",0.125404040404,0.142579365079
+7794FD26,"Feature selection with neural networks",0.155793650794,0.180952380952
+7F61E9DF,"An Efficient Method for Compressed Sensing",0.104848484848,0.105555555556
+7C9EE2B1,"An iterative thresholding algorithm for the inverse problem of electrical resistance tomography",0.148658008658,0.159047619048
+78E64353,"An objective method for regularization of fiber orientation distributions derived from diffusion-weighted MRI",0.139682539683,0.146759259259
+7AA430A8,"Global convergence of RTLSQEP: A solver of regularized total least squares problems via quadratic eigenproblems",0.129126984127,0.127886002886
+762938B5,"Efficient Kansa-type MFS algorithm for time-fractional inverse diffusion problems",0.126098901099,0.134920634921
+78E15D8C,"A MOM-based algorithm for moving force identification: Part I - Theory and numerical simulation",0.178333333333,0.190708101422
+5EFE9486,"Detection of abnormal lung sounds taking into account duration distribution for adventitious sounds",0.120238095238,0.141373556999
+7C1A43CC,"On Spectral Windows In Supervised Learning From Data",0.120238095238,0.112433862434
+7F8A3005,"Regularization of Inverse Visual Problems Involving Discontinuities",0.120793650794,0.181547619048
+7B905D28,"Improved fiber tractography with Bayesian tensor regularization",0.13746031746,0.194444444444
+7DA9D824,"Robust feature selection based on regularized brownboost loss",0.153571428571,0.219047619048
+801BF0B3,"3D curve inference for diffusion MRI regularization and fibre tractography",0.155086580087,0.153048340548
+79DC3F9D,"Lidar measurements of Raman scattering at ultraviolet wavelength from mineral dust over East Asia",0.138585858586,0.159259259259
+79927822,"Determination of a time-dependent heat source from nonlocal boundary conditions",0.138737373737,0.147916666667
+784DF927,"Regularized virtual fields method for mechanical properties identification of composite materials",0.173015873016,0.187962962963
+76017EBD,"A MTF Compensation for Satellite Image Using L-curve-based Modified Wiener Filter",0.11341991342,0.155642135642
+7D3F095E,"Ill-posed inverse problems in economics",0.132698412698,0.136507936508
+786331DD,"On Semismooth Newton's Methods for Total Variation Minimization",0.11341991342,0.12251984127
+79E1E6A6,"The cost of uniqueness in groundwater model calibration",0.318571428571,0.366964285714
+7B0EA0EB,"Regularization of exponentially ill-posed problems",0.120793650794,0.154761904762
+768CE5BC,"Robust mapping of the myelin water fraction in the presence of noise: Synergic combination of anisotropic diffusion filter and spatially regularized nonnegative least squares algorithm",0.148658008658,0.141948051948
+7E98D1D2,"A Bidiagonalization-Regularization Procedure for Large Scale Discretizations of Ill-Posed Problems",0.131753246753,0.171428571429
+81207731,"Efficient Reconstruction of Piecewise Constant Images Using Nonsmooth Nonconvex Minimization",0.113975468975,0.175297619048
+7CE4E89C,"Arnoldi-Tikhonov regularization methods",0.128571428571,0.138888888889
+7C3AC4EB,"Conditional Stability Estimates and Regularization with Applications to Cauchy Problems for the Helmholtz Equation",0.134126984127,0.127551020408
+78B3E37D,"Estimation of the parameters in regularized simultaneous super-resolution",0.104848484848,0.133333333333
+7FB563E4,"Regularization without preliminary knowledge of smoothness and error behaviour",0.168571428571,0.165
+79D5B605,"Cross-Lingual Subspace Gaussian Mixture Models for Low-Resource Speech Recognition",1.0,1.0
+7580CC28,"Computation of three stochastic modifications of Stokes's formula for regional geoid determination",0.118585858586,0.161111111111
+7DB9099F,"Identification of boundary heat fluxes in a falling film experiment using high resolution temperature measurements",0.140324675325,0.170079365079
+822EADB1,"Magnetic resonance spectroscopic imaging at superresolution: Overview and perspectives",0.107070707071,0.125
+7DA7F3D8,"Adaptive FCM with contextual constrains for segmentation of multi-spectral MRI",0.100952380952,0.125
+795BD6C4,"On Clustering of Non-stationary Meteorological Time Series",0.113975468975,0.130952380952
+792944DA,"Designing Various Multivariate Analysis at Will via Generalized Pairwise Expression",0.111178266178,0.166964285714
+80367FCF,"Skin and bones: multi-layer, locally affine, optical flow and regularization with transparency",0.125793650794,0.117222222222
+75E7F6FF,"A limitation in the use of spatially stationary strain variance estimation in the regularization of shear modulus reconstruction",0.164126984127,0.143253968254
+75403DF6,"Robust and stable predictive control with bounded uncertainties",0.127308802309,0.154761904762
+800019D5,"Cloud tomography: Role of constraints and a new algorithm",0.10936008436,0.138392857143
+58378F86,"φ-regular functions in Asplund spaces",0.178333333333,0.25
+7B237078,"Remote sensing of surface reflective properties: Role of regularization and a priori knowledge",0.166666666667,0.144642857143
+3BA3EA63,"Spectral blind deconvolution with differential entropy regularization for infrared spectrum",0.127308802309,0.139880952381
+7822CD27,"Iteratively Regularized Gauss--Newton Method for Atmospheric Remote Sensing",0.104848484848,0.162222222222
+7A366D0E,"A modified method for high order numerical derivatives",0.132626262626,0.148148148148
+7B14530B,"A uniqueness result concerning a robust regularized least-squares solution",0.17397047397,0.306547619048
+754BA754,"On the solution of some nonlinear inverse problems in geophysics",0.18841991342,0.242063492063
+7F95BB86,"Performance of reconstruction-based super-resolution with regularization",0.13088023088,0.154761904762
+802C9DFB,"A Multi-objective Learning Algorithm for RBF Neural Network",0.126587301587,0.132275132275
+792BE139,"Relaxation procedures for an iterative MFS algorithm for the stable reconstruction of elastic fields from Cauchy data in two-dimensional isotropic linear elasticity",0.140324675325,0.135317460317
+77A8CDB6,"High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity",0.118975468975,0.178075396825
+7DD1F9A4,"A new wavelet method for solving an ill-posed problem",0.120793650794,0.157242063492
+7EE3D7F3,"Iterative methods for the reconstruction of astronomical images with high dynamic range",0.118015873016,0.119742063492
+7EEDDB68,"Codomain scale space and regularization for high angular resolution diffusion imaging",0.173571428571,0.184126984127
+80CDC4C4,"Regularization of Phase Retrieval With Phase-Attenuation Duality Prior for 3-D Holotomography",0.120793650794,0.129166666667
+78563FBF,"ON APPLICATION OF GENERALIZED DISCREPANCY PRINCIPLE TO ITERATIVE METHODS FOR NONLINEAR ILL-POSED PROBLEMS",0.146031746032,0.146031746032
+7BA8E649,"SEMI-DISCRETE CENTRAL DIFFERENCE METHOD FOR DETERMINING SURFACE HEAT FLUX OF IHCP",0.134920634921,0.163161375661
+7E45F77D,"Maximin effects in inhomogeneous large-scale data",0.116197691198,0.133928571429
+7738B11A,"Vast volatility matrix estimation for high-frequency financial data",0.118975468975,0.128571428571
+7735E9C4,"Shannon sampling and function reconstruction from point values",0.150793650794,0.144642857143
+7DFFDE85,"Generalized SURE for Exponential Families: Applications to Regularization",0.110404040404,0.138888888889
+79F1432A,"Clustering Curves on a Reduced Subspace",0.290404040404,0.436507936508
+7A54F480,"Shadow block iteration for solving linear systems obtained from wavelet transforms",0.122222222222,0.162698412698
+779449BA,"Functional regression modeling via regularized Gaussian basis expansions",0.275072150072,0.305555555556
+7D9E2F21,"Predictor estimation via Gaussian regression",0.250330687831,0.334027777778
+7A43D23B,"Optimizing extreme learning machines via ridge regression and batch intrinsic plasticity",0.118975468975,0.162244897959
+7ECE76F2,"Model Estimation of Cerebral Hemodynamics Between Blood Flow and Volume Changes: A Data-Based Modeling Approach",0.331666666667,0.230151946819
+78A7D704,"On inexact generalized proximal methods with a weakened error tolerance criterion",0.138015873016,0.155793650794
+789D3533,"On the reconstruction of obstacle using MFS from the far field data",0.118015873016,0.147883597884
+5BD0B0D5,"A riemannian framework for the processing of tensor-valued images",0.300555555556,0.436507936508
+7658A5B9,"Hessian optimal design for image retrieval",0.117546897547,0.128571428571
+78907943,"Fast surface interpolation using multiresolution wavelet transform",0.118975468975,0.181547619048
+787B47D7,"The Equivalence of the Taut String Algorithm and BV-Regularization",0.129365079365,0.136507936508
+760B70CB,"Tikhonov regularization and the L-curve for large discrete ill-posed problems",0.120793650794,0.154761904762
+773C4127,"Robust satisficing linear regression: Performance/robustness trade-off and consistency criterion",0.13841991342,0.170238095238
+7CC14943,"A regularization approach for estimating the type of a plane curve singularity",0.14246031746,0.140306122449
+76C904B3,"Weakly singular stress‐BEM for 2D elastostatics",0,0
+782E8FCF,"Laplacian unit-hyperplane learning from positive and unlabeled examples",0.117222222222,0.118055555556
+807239CB,"Iterative reconstruction of SPECT data with adaptive regularization",0.127308802309,0.136507936508
+77F2D934,"A method for simultaneous identification of the full nonlinear damping and the phase shift and amplitude of the external harmonic excitation in a forced nonlinear oscillator",0.125,0.115476190476
+7C899F5F,"Robust Truncated Hinge Loss Support Vector Machines",0.146904761905,0.14880952381
+00874FEF,"8 - Covariance Matrix Estimation in Time Series",0.113975468975,0.115238095238
+80261415,"A Convex Optimization Approach for Depth Estimation Under Illumination Variation",0.13088023088,0.131904761905
+7595563D,"Local results for the Gauss-Newton method on constrained rank-deficient nonlinear least squares",0.11341991342,0.113997113997
+7A9F2747,"Partial Lanczos extreme learning machine for single-output regression problems",0.116031746032,0.16880952381
+0168E905,"Identification of Wheel-Rail Contact Forces Based on Strain Measurement and Finite Element Model of the Rolling Wheel",0.307222222222,0.253644688645
+796FA59D,"3D velocity from 3D Doppler radial velocity",0.110238095238,0.132275132275
+8055A8B1,"Two-Dimensional Radio Frequency Tomography",0.11880952381,0.123015873016
+5ABD6481,"Speckle reduction of ultrasound images based on locally regularized Savitzky-Golay filters",0.117546897547,0.176659451659
+804C16DB,"IMAGE RESTORATION BASED ON GENERALIZED FINITE AUTOMATA ENCODED EDGE PRESERVING REGULARIZATION",0.137698412698,0.166836734694
+7917D3AA,"Analysis of discrete ill-posed problems by means of the L-curve",0.131753246753,0.161904761905
+7A9D308A,"Gaussian filtering of images: A regularization approach",0.281415343915,0.358630952381
+80C28EA9,"The Phoenix Project: master constraint programme for loop quantum gravity",0.142777777778,0.120631798757
+7DF8B682,"Adaptive regularization of noisy linear inverse problems",0.135642135642,0.15873015873
+7C81E0C5,"Review: A unified framework for regularized linear estimation in communication systems",0.317222222222,0.310404040404
+7D25216E,"Camouflaged Deconvolution with Application to Blood Curve Modeling in FDG PET Studies",0.125793650794,0.15731292517
+76BD090B,"Spatial regularization of SVM for the detection of diffusion alterations associated with stroke outcome.",0.14380952381,0.156292517007
+789593A3,"A regularized discriminative framework for EEG analysis with application to brain–computer interface",0.288181818182,0.350108225108
+7518561D,"HIGHLIGHTING RELATIONSHIPS BETWEEN HETEROGENEOUS BIOLOGICAL DATA THROUGH GRAPHICAL DISPLAYS BASED ON REGULARIZED CANONICAL CORRELATION ANALYSIS",0.146904761905,0.169662480377
+76AD9062,"Variable selection and regression analysis for graph-structured covariates with an application to genomics",0.125404040404,0.142289377289
+7EC89E25,"On Regularization in Adaptive Filtering",0.120793650794,0.166666666667
+8137EAA7,"On discontinuity-adaptive smoothness priors in computer vision",0.103585858586,0.101704545455
+79638FA6,"Viscoelastic properties of waxy maize starch and selected non-starch hydrocolloids gels",0.157864357864,0.186111111111
+7F4E7F7C,"Optimal Estimation of Deterioration From Diagnostic Image Sequence",0.118015873016,0.119742063492
+807A21A4,"On Edge Detection",0.0966666666667,0.1
+7E444521,"Greedy Tikhonov regularization for large linear ill-posed problems",0.120793650794,0.154761904762
+76151614,"Dual regularization-based image resolution enhancement for asymmetric stereoscopic images",0.113975468975,0.130456349206
+66C0FE78,"Training Neural Networks with Noisy Data as an Ill-Posed Problem",0.122546897547,0.138392857143
+7DA310E6,"An efficient algorithm for a class of fused lasso problems",0.128896103896,0.12987012987
+7F8E89FA,"Variable selection for multiply‐imputed data with application to dioxin exposure study",0.133975468975,0.151904761905
+7588FD73,"Identification of switched linear regression models using sum-of-norms regularization",0.31746031746,0.358333333333
+7EF979D3,"Dual-Augmented Lagrangian Method for Efficient Sparse Reconstruction",0.104848484848,0.105555555556
+7AD63FCA,"A generalized global Arnoldi method for ill-posed matrix equations",0.111666666667,0.115740740741
+7DD9BFBA,"Analysis of Resolution and Noise Properties of Nonquadratically Regularized Image Reconstruction Methods for PET",0.14126984127,0.140828924162
+7797D9CA,"Coupling BEM with FEM by a direct computation of the boundary stiffness matrix",0.119444444444,0.154166666667
+7583AAE6,"An Iteratively Reweighted Norm Algorithm for Minimization of Total Variation Functionals",0.113975468975,0.133928571429
+8013DBE0,"Tikhonov regularized Poisson likelihood estimation: theoretical justification and a computational method",0.104848484848,0.143055555556
+7986E10A,"Dataset structure as prior information for parameter-free regularization of extreme learning machines",0.127308802309,0.173571428571
+7DC9793F,"Simultaneously Structured Models With Application to Sparse and Low-Rank Matrices",0.300555555556,0.358630952381
+7E3719FA,"Determining cardiac velocity fields and intraventricular pressure distribution from a sequence of ultrafast CT cardiac images",0.124365079365,0.141964285714
+769233C9,"On an inverse problem for inhomogeneous thermoelastic rod",0.13088023088,0.136507936508
+7FBD9721,"SURE-Based Non-Local Means",0.118585858586,0.2
+77AEB923,"An adaptive pruning algorithm for the discrete L-curve criterion",0.122546897547,0.136904761905
+791D3F75,"Regularized greedy algorithms for network training with data noise",0.133975468975,0.170238095238
+7EA4FA77,"An iterative regularization approach for Color Filter Array image restoration",0.140476190476,0.131462585034
+806C982A,"Suppression of vortex shedding for flow around a circular cylinder using optimal control",0.120238095238,0.180272108844
+7E53BB21,"Task-based comparison of inverse methods in magnetoencephalography",0.107626262626,0.118055555556
+7D06C752,"Latent Variable Graphical Model Selection via Convex Optimization",0.300404040404,0.441666666667
+79CA65A9,"Solving inverse heat conduction problem with discrete wavelet transform",0.133658008658,0.149272486772
+80E9AA4F,"Reconstruction of boundary controls in parabolic systems",0.11246031746,0.117989417989
+7E767C12,"An advanced regularization methodology for use in watershed model calibration",0.324126984127,0.331515151515
+80E47E3D,"Consistency Check on Volume and Triad Operator Quantisation in Loop Quantum Gravity II",0.155476190476,0.147578964246
+7DEC282B,"Nearly cloaking the elastic wave fields",0.107157287157,0.147619047619
+7962F7E6,"Positive solutions of the Dirichlet problem for the prescribed mean curvature equation",0.198571428571,0.230158730159
+7C39DDBE,"Wavelets and high order numerical differentiation",0.124848484848,0.158333333333
+7D45364D,"Target Detection With Semisupervised Kernel Orthogonal Subspace Projection",0.292222222222,0.281111111111
+7A7551EF,"Eigentrigraphemes for under-resourced languages",0.131904761905,0.166666666667
+7526D9EF,"Fast regularized canonical correlation analysis",0.13088023088,0.154761904762
+787F9DB6,"Bayes and empirical Bayes semi-blind deconvolution using eigenfunctions of a prior covariance",0.089121989122,0.159722222222
+7F55CF19,"Regularization Approaches to Demosaicking",0.125793650794,0.145833333333
+794ED06C,"Two soft-thresholding based iterative algorithms for image deblurring",0.117546897547,0.206349206349
+777F37D5,"On a quadratic eigenproblem occurring in regularized total least squares",0.0770188145188,0.212121212121
+766C06E4,"Alternating direction method for the high-order total variation-based Poisson noise removal problem",0.126587301587,0.147156084656
+776AA1E6,"The non-singular Green tensor of Mindlin's anisotropic gradient elasticity with separable weak non-locality",0.14246031746,0.15873015873
+7703E1C0,"A meshless method for solving the cauchy problem in three-dimensional elastostatics",0.118015873016,0.167989417989
+7C04117B,"Minimization of a Large-Scale Quadratic Function Subject to a Spherical Constraint",0.130086580087,0.139880952381
+7C83EBF2,"A wavelet-Galerkin method for high order numerical differentiation",0.132626262626,0.153703703704
+7ACFC23B,"A MOM-based algorithm for moving force identification: Part II - Experiment and comparative studies",0.178333333333,0.1910430839
+7E0BF59C,"Regularized vector field learning with sparse approximation for mismatch removal",0.118737373737,0.167063492063
+7DC4F974,"Nonlocal regularization of abelian models with spontaneous symmetry breaking",0.312698412698,0.363095238095
+78846318,"Sensitivity encoding reconstruction with nonlocal total variation regularization",0.132698412698,0.141904761905
+75C910DC,"On impulsive algebraic multiplicities of linear time-invariant singular systems under feedback",0.11880952381,0.132275132275
+7F510A59,"On unbounded operators and applications",0.123571428571,0.154761904762
+773EA55A,"Total Generalized Variation",0.107157287157,0.142857142857
+7961548A,"Using dimensional reduction for hadronic collisions",0.107157287157,0.206349206349
+80E77ADC,"On application of asymptotic generalized discrepancy principle to the analysis of epidemiology models",0.309126984127,0.282661782662
+7A6DAEF6,"Tikhonov Regularization with a Solution Constraint",0.198571428571,0.263888888889
+7FCA0816,"Regularized Total Variation Image Enhancement Using E.Coli Bacteria Foraging Algorithm: Application to Neutron Radiography Projections",0.13088023088,0.163311688312
+7ABA2AF9,"Direct pore size distribution estimation of heterogeneous nano-structured solid adsorbents from condensation data: Condensation with no prior adsorption",0.143571428571,0.131437389771
+8168E7F5,"Casimir energy in deconstruction and the cosmological constant",0.11397047397,0.140740740741
+81867388,"Computing the regularization of a linear differential–algebraic system",0.120793650794,0.159259259259
+7664BD66,"Autoregressive frequency detection using Regularized Least Squares",0.113571428571,0.18341991342
+7BBE7213,"An inverse problem for fractional diffusion equation in 2-dimensional case: Stability analysis and regularization",0.148571428571,0.143849206349
+76C3996A,"Multitask multiclass support vector machines: Model and experiments",0.300404040404,0.315555555556
+7CE92D8C,"Efficient Image Magnification and Applications to Super-Resolution Reconstruction",0.122308802309,0.130158730159
+792A607A,"Regularized sparse representation for image deconvolution",0.125555555556,0.186507936508
+7BAEA074,"Digital Image Reconstruction: Deblurring and Denoising",0.111197691198,0.121428571429
+7AAE4153,"Bootstrapping Lasso Estimators",0.092619047619,0.107954545455
+80E8291A,"Classification of Hyperspectral Images With Regularized Linear Discriminant Analysis",0.122308802309,0.150793650794
+7E2904C9,"Unsupervised Bayesian Convex Deconvolution Based on a Field With an Explicit Partition Function",0.124531024531,0.177777777778
+8148F7CE,"Semisupervised Image Classification With Laplacian Support Vector Machines",0.133737373737,0.155238095238
+77D0FB94,"On a quasi-reversibility regularization method for a Cauchy problem of the Helmholtz equation",0.128571428571,0.128571428571
+7C33175E,"The Regularized Low Pass Filter",0.106666666667,0.172222222222
+7D0C088E,"Deep Learning Regularized Fisher Mappings",0.128571428571,0.175925925926
+80D72754,"A new regularized transform-domain NLMS adaptive filtering algorithm",0.0941891441891,0.196428571429
+76B2B573,"Nonhomogeneous heat equation: Identification and regularization for the inhomogeneous term",0.145238095238,0.142222222222
+7E9D53A7,"UNIFORMLY BOUNDED COMPOSITION OPERATORS ON A BANACH SPACE OF BOUNDED WIENER-YOUNG VARIATION FUNCTIONS",0.181904761905,0.196428571429
+802A166E,"Unitarity and On-Shell Recursion Methods for Scattering Amplitudes",0.111197691198,0.150992063492
+78698F0C,"Adaptive regularized image interpolation using a probabilistic gradient measure",0.134920634921,0.191137566138
+8117B53C,"Regularization in Tomographic Reconstruction Using Proximal Forward-Backward Algorithm",0.129365079365,0.185714285714
+7B558736,"Spatio-temporal random fields: compressible representation and distributed estimation",0.125555555556,0.141666666667
+7EF9725E,"Sylvester Tikhonov-regularization methods in image restoration",0.111197691198,0.117989417989
+7BF944E8,"Self-regular stress integral equations for axisymmetric elasticity.",0.11246031746,0.121693121693
+7D224321,"Cauchy problems of Laplace's equation by the methods of fundamental solutions and particular solutions",0.198015873016,0.246031746032
+7E7DDEC5,"Regression on manifolds: Estimation of the exterior derivative",0.0987373737374,0.0963141025641
+751F8CF9,"The Spin Foam Approach to Quantum Gravity",0.0934149184149,0.104482323232
+80AB5471,"Universal Glucose Models for Predicting Subcutaneous Glucose Concentration in Humans",0.315476190476,0.369047619048
+7F7167D1,"On stable numerical differentiation",0.0948484848485,0.1
+78CFD675,"A meta-learning approach to the regularized learning-Case study: Blood glucose prediction",0.119848484848,0.145707070707
+76770DDE,"A regularized structured total least squares algorithm for high-resolution image reconstruction",0.119769119769,0.145324675325
+754548B7,"High order structural image decomposition by using non-linear and non-convex regularizing objectives",0.138975468975,0.189194139194
+76C60676,"A weighted view on the partial least-squares algorithm",0.111197691198,0.126984126984
+7CBDC14B,"A total variation regularization strategy in dynamic MRI",0.14126984127,0.144345238095
+773F1306,"Saliency adaptive super-resolution image reconstruction",0.118015873016,0.122619047619
+7EE9FCF4,"An Efficient Method for an Ill-Posed Problem — Band-Limited Extrapolation by Regularization",0.128571428571,0.125992063492
+810A9517,"Unsupervised Acoustic Model Adaptation Based on Ensemble Methods",0.289444444444,0.392361111111
+78B616AB,"Iterative regularization for elliptic inverse problems",0.135642135642,0.15873015873
+786383BC,"Solving Ill-Conditioned and Singular Linear Systems: A Tutorial on Regularization",0.120793650794,0.154671717172
+5A2660CA,"A projection and a variational regularization method for sparse inverse problems",0.139682539683,0.134126984127
+80CF8DFC,"Phase retrieval through regularization for seismic problems",0.120793650794,0.133630952381
+7CD55D67,"An iterative method for linear discrete ill-posed problems with box constraints",0.118015873016,0.119742063492
+79290555,"Meshless thin plate spline methods for the modified Helmholtz equation",0.107070707071,0.100233100233
+79A122BE,"The method of fundamental solutions for a time-dependent two-dimensional Cauchy heat conduction problem",0.198015873016,0.193015873016
+7837F158,"Symmetries in the two-body problem associated to quasihomogeneous potentials",0.116031746032,0.169642857143
+75E77FAE,"Light-adaptive architectures for regularization vision chips",0.122308802309,0.117171717172
+8135C519,"An SDP approach for l0-minimization: application to ARX model segmentation",0.295,0.354166666667
+7AE95175,"Parameter identification in Helmholtz-type equations with a variable coefficient using a regularized DRBEM",0.127070707071,0.177777777778
+7983FC16,"A new spatial regularization scheme for the identification of the geometric shape of an inclusion in a finite body",0.165476190476,0.165674603175
+7C385321,"Wavelet estimation by Bayesian thresholding and model selection",0.300404040404,0.35625
+77429A35,"Coherence regularization for SENSE reconstruction with a nonlocal operator (CORNOL)",0.128658008658,0.128658008658
+79CFFCCD,"Spatially constrained inversion of radiative transfer models for improved LAI mapping from future Sentinel-2 imagery",0.312698412698,0.270105820106
+7FC0C78E,"Regularization studies of linear discriminant analysis in small sample size scenarios with application to face recognition",0.306349206349,0.229585537919
+76F569BB,"A domain decomposition technique for spline image restoration on distributed memory systems",0.138015873016,0.124821210535
+80364AD2,"Sensitivity filtering from a continuum mechanics perspective",0.129126984127,0.131060606061
+79ABFBE4,"A comparison of automatic techniques for estimating the regularization parameter in non‐linear inverse problems",0.153571428571,0.147789115646
+80E6D637,"Multicontingency voltage stability monitoring of a power system using an adaptive radial basis function network",0.135642135642,0.156613756614
+75D2A4BD,"Solving a final value fractional diffusion problem by boundary condition regularization",0.15746031746,0.178174603175
+7B434F7B,"The method of fundamental solutions for inverse boundary value problems associated with the two-dimensional biharmonic equation",0.209126984127,0.213624338624
+8114B38D,"An improved method for joint image registration and superresolution",0.117546897547,0.132275132275
+760D3D78,"Multi-label Classiﬁcation Using Hypergraph Orthonormalized Partial Least Squares",0.0770188145188,0.212121212121
+7CED1964,"Kernel Regularized Bone Surface Reconstruction from Partial Data Using Statistical Shape Model",0.300793650794,0.255118646785
+7A52F222,"Support vector machines regression for retrieval of leaf area index from multiangle imaging spectroradiometer",0.145555555556,0.128472222222
+7D15C7DD,"Classification of galactograms using fractal properties of the breast ductal network",0.135642135642,0.184126984127
+77D4E70E,"The Bayesian elastic net",0.0670634920635,0.0833333333333
+7AC7380A,"Edge-enhanced spatiotemporal constrained reconstruction of undersampled dynamic contrast-enhanced radial MRI",0.0941341991342,0.103258547009
+7E2694E8,"Robust modeling based on optimized EEG bands for functional brain state inference",0.116197691198,0.151252319109
+76CB032E,"Numerical Analysis of the Non-uniform Sampling Problem",0.123571428571,0.150793650794
+7B7A635F,"Impact-Force Estimation by Quadratic Spline Approximation",0.0881818181818,0.0914141414141
+7E08F1EE,"An improved GLMNET for l1-regularized logistic regression",0.0963564213564,0.125
+810DBE01,"Regularization of tissue shear modulus reconstruction using strain variance",0.128571428571,0.160185185185
+7FF8FE5C,"Portable Raman Lidar PollyXT for Automated Profiling of Aerosol Backscatter, Extinction, and Depolarization",0.120793650794,0.118055555556
+774D15BA,"Two regularization methods to identify time-dependent heat source through an internal measurement of temperature",0.149126984127,0.156519274376
+764D1B61,"Sparsity-constrained SENSE reconstruction: an efficient implementation using a fast composite splitting algorithm",0.101601731602,0.161991341991
+7D43AE80,"On the regularization of forgetting recursive least square",0.120793650794,0.25
+773B9691,"Rapid speaker adaptation using compressive sensing",0.107222222222,0.167361111111
+7E72D3CC,"Flexible covariance estimation in graphical Gaussian models",0.394191919192,0.545833333333
+759B8408,"Virtual control regularization of state constrained linear quadratic optimal control problems",0.120793650794,0.134391534392
+5D722D84,"Approximation and regularization of Lipschitz functions: Convergence of the gradients",0.148571428571,0.15
+770EB885,"Elastic-net regularization in learning theory",0.122308802309,0.19696969697
+7EEF539F,"New Learning Based Super-Resolution: Use of DWT and IGMRF Prior",0.118585858586,0.288888888889
+75C4E0C2,"A numerical method for identifying heat transfer coefficient",0.111197691198,0.143015873016
+80DE24E6,"A Comparison of Regularization Techniques for Magnetoencephalography Source Reconstruction",0.131904761905,0.123333333333
+7AFD712A,"NPTool: a Matlab software for nonnegative image restoration with Newton projection methods",0.111197691198,0.10746031746
+75A4B71B,"A consistent algorithm to solve Lasso, elastic-net and Tikhonov regularization",0.129365079365,0.162608225108
+6B85C55A,"Influence of the Discretization Methods on the Distribution of Relaxation Times Deconvolution: Implementing Radial Basis Functions with DRTtools",0.131349206349,0.138038548753
+770E6DF6,"Fast multilevel algorithm for a minimization problem in impulse noise removal",0.120324675325,0.135714285714
+7679D2AE,"THE METHOD OF FUNDAMENTAL SOLUTIONS FOR AN INVERSE INTERNAL BOUNDARY VALUE PROBLEM FOR THE BIHARMONIC EQUATION",0.209126984127,0.206349206349
+7A8E1774,"L1 regularization method in electrical impedance tomography by using the L1-curve (Pareto frontier curve)",0.134920634921,0.156689342404
+7B5C5606,"Non-quadratic convex regularized reconstruction of MR images from spiral acquisitions",0.133975468975,0.163571428571
+76776EDA,"A Regularized Robust Design Criterion for Uncertain Data",0.122546897547,0.142857142857
+7B7A5138,"The triangle method for finding the corner of the L-curve",0.108888888889,0.166666666667
+802828E7,"Structured Regularizers for High-Dimensional Problems: Statistical and Computational Issues",0.134126984127,0.154761904762
+7A01FB33,"Selection of regularization parameter for optical topography",0.15746031746,0.164583333333
+7FFC4CBF,"When do memory limitations lead to regularization? An experimental and computational investigation",0.122626262626,0.218571428571
+7B8406B1,"Variable selection for functional regression models via the L1 regularization",0.324126984127,0.372916666667
+5AE0E4A9,"Text Categorization Based on Regularized Linear Classification Methods",0.131349206349,0.173015873016
+7D445EE7,"A Robust Adaptive Super-Resolution Method",0.104848484848,0.111111111111
+76B13E93,"A generalized Co-HITS algorithm and its application to bipartite graphs",0.127308802309,0.150793650794
+79D2FC2D,"An equation error approach for the elasticity imaging inverse problem for predicting tumor location",0.148658008658,0.145559163059
+8008D5C1,"Efficient Minimization Method for a Generalized Total Variation Functional",0.111197691198,0.126322751323
+7FC41C91,"Regularization Techniques in Realistic Laplacian Computation",0.13746031746,0.144444444444
+7F35DEAF,"Point Set Registration: Coherent Point Drift",0.115471195471,0.165238095238
+75F1E2FF,"Efficient model selection for regularized linear discriminant analysis",0.300404040404,0.447619047619
+7AD6CA6D,"Regularization aspects in continuous-time model identification",0.31746031746,0.375
+7AAFD1E0,"Using QR factorization and SVD to solve input estimation problems in structural dynamics",0.122546897547,0.160544217687
+7DC530A8,"Using mesh adaption for the identification of a spatial field of material properties",0.168975468975,0.207142857143
+799D0072,"Regularized integral representation of thermoelastic stresses",0.125555555556,0.175925925926
+7A24DBE6,"Bagging for linear classifiers",0.0845066045066,0.155555555556
+76A04BD1,"Inverse heat conduction problem using thermocouple deconvolution: application to the heat flux estimation in a tokamak",0.141991341991,0.144885361552
+77090234,"Multi-Class Learning by Smoothed Boosting",0.104848484848,0.17037037037
+77D9240D,"Over-Parameterized Variational Optical Flow",0.0965151515152,0.125
+78C114F8,"Inverse scattering scheme based on the moment method in the spectral domain, part I: Theory",0.193571428571,0.202106782107
+792EC3C5,"Determination of pore size distributions by regularization and finite element collocation",0.181904761905,0.161678004535
+7B3D2D5B,"Dynamic force identification based on enhanced least squares and total least-squares schemes in the frequency domain",0.155476190476,0.171660482375
+7AA19F1F,"Regularization in model updating",0.31746031746,0.444444444444
+7800DAE4,"Choosing Regularization Parameters In Iterative Methods For Ill-Posed Problems",0.139682539683,0.16746031746
+7CBCA551,"Rotational Interface Formulation for Delamination Analysis of Composite Laminates",0.110855810856,0.127886002886
+7C1C3548,"Comparison of global and sequential methods for an inverse heat transfer problem",0.14126984127,0.131415343915
+78B70189,"Function approximation on non-Euclidean spaces",0.178333333333,0.194444444444
+77AB12F3,"Networks and the Best Approximation Property",0.124531024531,0.130952380952
+7D2B5DB5,"3D MFIE accuracy improvement using regularization",0.134848484848,0.197916666667
+7B291343,"Smoothing impact of isostatic crustal thickness models on local integral inversion of satellite gravity gradiometry data",0.304365079365,0.257374768089
+7A6DE10A,"The a posteriori Fourier method for solving the Cauchy problem for the Laplace equation with nonhomogeneous Neumann data",0.126587301587,0.140022675737
+7F63548B,"Regularization of diffusion-based direction maps for the tracking of brain white matter fascicles.",0.125793650794,0.112085137085
+7C9DF954,"An Extension of Possibilistic Fuzzy C-means using Regularization",0.120793650794,0.203703703704
+7A002209,"Slow-fast systems on algebraic varieties bordering piecewise-smooth dynamical systems",0.116197691198,0.15376984127
+7BD2EAB3,"Spectral analysis of nonlocal regularization in two‐dimensional finite element models",0.312698412698,0.377380952381
+835C6FFF,"Stabilization of Stochastic Iterative Methods for Singular and Nearly Singular Linear Systems",0.11341991342,0.121693121693
+77AA940F,"Explicit Cancellation of Triangles in One-loop Gravity Amplitudes",0.0996897546898,0.106755050505
+7DD1B8E4,"Estimating spectral information of complex fenestration systems in a video-goniophotometer",0.119769119769,0.140873015873
+78A96B50,"Old and new parameter choice rules for discrete ill-posed problems",0.143571428571,0.164880952381
+76661B2F,"Convergence results for the discrete regularization of linear-quadratic control problems with bang–bang solutions",0.215238095238,0.210317460317
+84349968,"Weight-decay regularization in reproducing Kernel Hilbert spaces by variable-basis schemes",0.182142857143,0.185846560847
+7B09613A,"Matrix-free algorithm for the large-scale constrained trust-region subproblem",0.0941891441891,0.142857142857
+780745D4,"Nonlinear regression modeling and detecting change points via the relevance vector machine",0.153571428571,0.150347222222
+7AA7CE9D,"A multi-frame image super-resolution method",0.111197691198,0.126984126984
+78A26CF3,"Statistical image reconstruction for low-dose CT using nonlocal means-based regularization",0.134920634921,0.165238095238
+7B2F142E,"Hölder-Type Approximation for the Spatial Source Term of a Backward Heat Equation",0.108585858586,0.117222222222
+7BCC10ED,"Regularization of bending and crossing white matter fibers in MRI Q-ball fields",0.158658008658,0.158405483405
+7BB52E57,"Approximating minimum norm solutions of rank‐deficient least squares problems",0.187137862138,0.225108225108
+78D49579,"An Interior-Point Method for Large-Scale l 1 -Regularized Logistic Regression",0.111666666667,0.112037037037
+773D64A3,"Progress on the two-dimensional filter diagonalization method. An efficient doubling scheme for two-dimensional constant-time NMR",0.111197691198,0.113440527726
+7183B6F3,"A post-processing system to yield reduced word error rates: Recognizer Output Voting Error Reduction (ROVER)",0.143181818182,0.154563492063
+760C4416,"A one-dimensional inverse problem in composite materials: Regularization and error estimates",0.186753246753,0.182142857143
+7C9896C1,"The truncation method for identifying the heat source dependent on a spatial variable",0.122777777778,0.137698412698
+7BA74C29,"Estimation in generalized linear models for functional data via penalized likelihood",0.300793650794,0.34380952381
+5C8EF4F9,"Regularization of hidden dynamics in piecewise smooth flows",0.134126984127,0.135416666667
+78F452ED,"A Trust-Region Approach to the Regularization of Large-Scale Discrete Forms of Ill-Posed Problems",0.136904761905,0.150297619048
+7D7F26E6,"Subspace identification using predictor estimation via Gaussian regression",0.417929292929,0.454166666667
+779D8DE4,"Robust PSD determination of micro and meso-pore adsorbents via novel modified U curve method",0.155793650794,0.167328042328
+806CFF40,"Spatially sparsed Common Spatial Pattern to improve BCI performance",0.120793650794,0.172619047619
+766EBE18,"Sparse Bayesian representation in time–frequency domain",0.145555555556,0.183333333333
+7F6164F3,"Robust Estimation of Nonrigid Transformation for Point Set Registration",0.122308802309,0.160476190476
+780842DC,"The Analysis of Two-Way Functional Data Using Two-Way Regularized Singular Value Decompositions",0.137698412698,0.18543956044
+7C0F34AE,"Stable Estimation of a Covariance Matrix Guided by Nuclear Norm Penalties",0.118737373737,0.141666666667
+790017EF,"Eigenstructure assignment in undamped vibrating systems: A convex-constrained modification method based on receptances",0.118181818182,0.185846560847
+7929300D,"Regularization for semilinear elliptic optimal control problems with pointwise state and control constraints",0.120793650794,0.136706349206
+787FB439,"A note on “sideways heat equation and wavelets” and constant e ∗",0.102541902542,0.117989417989
+7E998AAE,"STABLE NUMERICAL DIFFERENTIATION: WHEN IS IT POSSIBLE?",0.0948484848485,0.216666666667
+7A3542D5,"A splitting method for a backward parabolic equation with time-dependent coefficients",0.104848484848,0.111111111111
+7F138280,"From the Berkovits formulation to the Witten formulation in open superstring field theory",0.103263403263,0.131060606061
+7B8494F4,"Optimization of sensitivity encoding with arbitrary k-space trajectories",0.101666666667,0.13125
+77B043F6,"Combined energy method and regularization to solve the Cauchy problem for the heat equation",0.128571428571,0.155357142857
+80C1D0AD,"A multiplicative regularization approach for deblurring problems",0.125793650794,0.144841269841
+7ED6BA01,"Choosing Near-Optimal Regularization Parameter for the Inverse Problem of Electrocardiography",0.157142857143,0.172619047619
+78E627DD,"A New TwIST: Two-Step Iterative Shrinkage/Thresholding Algorithms for Image Restoration",0.117546897547,0.127678571429
+7DD538B4,"Error analysis and minimum bound method for atmospheric remote sensing",0.138015873016,0.157804232804
+7C40AEF6,"Determining surface heat flux in the steady state for the Cauchy problem for the Laplace equation",0.11880952381,0.145783730159
+7E32AB4C,"Solving Rank-Deficient and Ill-posed Problems Using UTV and QR Factorizations",0.107137862138,0.199404761905
+758FD46B,"Two numerical methods for a Cauchy problem for modified Helmholtz equation",0.120238095238,0.119047619048
+79263CAF,"Regularized logistic regression without a penalty term: An application to cancer classification with microarray data",0.13841991342,0.157680860806
+7FC96E71,"Total Least Squares Methods",0.104848484848,0.10101010101
+76D17534,"A framework based on spin glass models for the inference of anatomical connectivity from diffusion‐weighted MR data – a technical review",0.324126984127,0.326078643579
+7A2ACB56,"On Acoustic Diversification Front-End for Spoken Language Identification",0.140238095238,0.166666666667
+82FF526B,"A BEM formulation in conjunction with parametric equation approach for three-dimensional Cauchy problems of steady heat conduction",0.127289377289,0.122392290249
+78DBEEB2,"Terminated Ramp-Support Vector Machines: A nonparametric data dependent kernel",0.131349206349,0.146957671958
+7A96575F,"Wavelet domain signal deconvolution with singularity-preserving regularization",0.125793650794,0.145833333333
+7CABB544,"A novel locally regularized automatic construction method for RBF neural models",0.288975468975,0.375992063492
+800A3493,"On the embedding of variational inequalities",0.11246031746,0.142857142857
+5AD50301,"Sliding Vector Fields via Slow--Fast Systems",0.105788655789,0.144444444444
+7B87A2E4,"Multi-directional continuous association with input-driven neural dynamics",0.103888888889,0.104166666667
+7F626867,"Adaptive Multiple-Frame Image Super-Resolution Based on U-Curve",0.111197691198,0.238095238095
+79E037AD,"On the Laplacian operation with applications in magnetic resonance electrical impedance imaging",0.13746031746,0.128888888889
+8118E97E,"Geodesic Active Fields—A Geometric Framework for Image Registration",0.288975468975,0.428571428571
+7F70716E,"A statistical approach to SENSE regularization with arbitrary k‐space trajectories",0.125793650794,0.160416666667
+803DC8CD,"From Convex to Nonconvex: A Loss Function Analysis for Binary Classification",0.135642135642,0.154761904762
+7B364F6F,"Axisymmetric and two-dimensional crack identification using boundary elements and coupled quasi-random downhill simplex algorithms",0.114444444444,0.165141207998
+7907D102,"Regularized solution of the Cauchy problem for the Laplace equation using Meyer wavelets",0.195238095238,0.220568783069
+7A26A010,"Bayesian Online Multitask Learning of Gaussian Processes",0.268855218855,0.437037037037
+80A33F82,"A Regularized Maximum Figure-of-Merit (rMFoM) Approach to Supervised and Semi-Supervised Learning",0.107626262626,0.134259259259
+7AC69432,"Regularized inversion of microphysical atmospheric particle parameters: Theory and application",0.157070707071,0.170707070707
+7E5CA07D,"On-line adaptation and Bayesian detection of environmental changes based on a macroscopic time evolution system",0.131666666667,0.163662131519
+7BFE4898,"Fast computation of smoothing splines subject to equality constraints.",0.125793650794,0.145086580087
+7B86FE6D,"Efficient determination of the hyperparameter in regularized total least squares problems",0.131753246753,0.144588744589
+780ABBB3,"Uncertainty-based learning of acoustic models from noisy data",0.298015873016,0.417989417989
+7AB334F8,"Functional principal components analysis via penalized rank one approximation",0.128975468975,0.134325396825
+7BFBB179,"Quantitative measurement of N-acetyl-aspartyl-glutamate at 3 T using TE-averaged PRESS spectroscopy and regularized lineshape deconvolution.",0.127626262626,0.176111111111
+7A58B9AD,"On Tikhonov regularization, bias and variance in nonlinear system identification",0.13746031746,0.131111111111
+7B94261F,"On Steepest-Descent-Kaczmarz methods for regularizing systems of nonlinear ill-posed equations",0.107070707071,0.145833333333
+76168B85,"Solving trust-region subproblem augmented with linear inequality constraints",0.11246031746,0.179464285714
+75BECA36,"Optimally pruned extreme learning machine with ensemble of regularization techniques and negative correlation penalty applied to automotive engine coldstart hydrocarbon emission identification",0.155238095238,0.175198412698
+7D75A524,"Bayesian parallel imaging with edge‐preserving priors",0.100788655789,0.130555555556
+8009F4D0,"Harmonic multiresolution estimators for denoising and regularization of SPECT-PET data",0.127308802309,0.144841269841
+7611E4A0,"Restoring Images Degraded by Spatially Variant Blur",0.111197691198,0.196428571429
+761A29B7,"Variable and boundary selection for functional data via multiclass logistic regression modeling",0.136753246753,0.144742063492
+78F07DFA,"Recovering edges in ill-posed inverse problems: optimality of curvelet frames",0.13088023088,0.150086580087
+7DD93C5B,"On the Selection of Weight Decay Parameter for Faulty Networks",0.155476190476,0.159047619048
+77CFBD75,"Ill-posedness versus ill-conditioning–an example from inverse option pricing",0.117222222222,0.0997474747475
+80CF84F0,"On the estimation of transfer functions, regularizations and Gaussian processes-Revisited",0.284992784993,0.315238095238
+79AF616B,"A multiscale, statistically based inversion scheme for linearized inverse scattering problems",0.14126984127,0.168452380952
+6B5301A2,"A multi-frame adaptive super-resolution method using double channel and regional pixel information",0.131349206349,0.175793650794
+767E1F00,"Ultraviolet and Infrared Divergences in Implicit Regularization: a Consistent Approach",0.125793650794,0.123397435897
+7CB7F16E,"Some properties of generalized fused lasso and its applications to high dimensional data",0.135642135642,0.15341991342
+7D3F6DDC,"Interpolation using wavelet bases",0.118975468975,0.175297619048
+77A55142,"Prediction of first lactation 305-day milk yield in Karan Fries dairy cattle using ANN modeling",0.116515151515,0.13634536151
+7CA0627A,"Regularizability of linear time-invariant descriptor systems under decentralized control",0.123571428571,0.167658730159
+815ADEFC,"Space-Variant Restoration of Images Degraded by Camera Motion Blur",0.126587301587,0.158802308802
+7E247886,"Unifying Experiment Design and Convex Regularization Techniques for Enhanced Imaging With Uncertain Remote Sensing Data—Part II: Adaptive Implementation and Performance Issues",0.146031746032,0.142301587302
+779B8D26,"Stochastic regularization of feedwater flow rate evaluation for the venturi meter fouling problem in nuclear power plants",0.158181818182,0.144563492063
+7ECE7129,"Determining surface temperature and heat flux by a wavelet dual least squares method",0.125324675325,0.151422387137
+7AF0BB22,"An adaptive super-resolution method based on regional pixel information and ringing artifacts suppression",0.130158730159,0.160430839002
+79DA61D9,"Equation error approach for elliptic inverse problems with an application to the identification of Lamé parameters",0.16380952381,0.155704365079
+78457887,"Variable Selection for Model‐Based High‐Dimensional Clustering and Its Application to Microarray Data",0.133975468975,0.158630952381
+772271FA,"A Modified Extended Bayesian Method for Parameter Estimation",0.11595959596,0.156944444444
+765067F1,"A finite strain, finite band method for modeling ductile fracture",0.123015873016,0.129126984127
+7971787D,"Prediction error identification of linear systems: A nonparametric Gaussian regression approach",0.267466329966,0.269781144781
+80BFF818,"Algorithm 873: LSTRS: MATLAB software for large-scale trust-region subproblems and regularization",0.120793650794,0.133333333333
+7A14F026,"Log‐Euclidean metrics for fast and simple calculus on diffusion tensors",0.127308802309,0.127308802309
+78869908,"Regularization approach for inverting the exponential radon transforms (ERT)",0.153571428571,0.183333333333
+7D531021,"Accelerated short‐TE 3D proton echo‐planar spectroscopic imaging using 2D‐SENSE with a 32‐channel array coil",0.116197691198,0.162291412291
+7881B8BF,"Regularized locality preserving discriminant analysis for face recognition",0.291178266178,0.308994708995
+7E99B753,"A Computationally Stable Approach to Gaussian Process Interpolation of Deterministic Computer Simulation Data",0.278312890813,0.263497217069
+76E2364F,"Regularization Super-Resolution with Inaccurate Image Registration",0.14126984127,0.150793650794
+8051E878,"Regularized Robust Estimation of Mean and Covariance Matrix Under Heavy-Tailed Distributions",0.111666666667,0.126725589226
+79226F64,"Dimension reduction and variable selection in case control studies via regularized likelihood optimization",0.135793650794,0.159788359788
+791CB284,"Numerical reconstruction of an inhomogeneity in an elliptic equation",0.11246031746,0.117989417989
+787B131D,"Adaptive frequency-domain regularization for sparse-data tomography",0.129365079365,0.154761904762
+7579D8DE,"Optimization of tuning parameters for open node fault regularizer",0.149126984127,0.166904761905
+8098C8FD,"Unifying regularization and Bayesian estimation methods for enhanced imaging with remotely sensed Data-part I: theory",0.156349206349,0.15266955267
+80E8792D,"A framework for state-space estimation with uncertain models",0.27303030303,0.7
+7B6C4D19,"Level-set approaches of L 2-type for recovering shape and contrast in ill-posed problems",0.133658008658,0.165476190476
+77C7A6A6,"Localization analysis of variationally based gradient plasticity model",0.320238095238,0.325396825397
+79BB039F,"Edge-preserving restoration in 2-D fluorescence microscopy",0.0941341991342,0.0988095238095
+7BA8570E,"Optimal control of multivalued quasi variational inequalities",0.11246031746,0.142857142857
+7B14E5D3,"Vehicle axle loads identification using finite element method",0.133737373737,0.170634920635
+7FE9D925,"A Generic Path Algorithm for Regularized Statistical Estimation",0.104848484848,0.136507936508
+8046BB2D,"Regularizing Common Spatial Patterns to Improve BCI Designs: Unified Theory and New Algorithms",0.120793650794,0.166898577613
+7BD213AB,"Recognition of handwritten Chinese characters by critical region analysis",0.300324675325,0.344155844156
+55AD3B68,"Incremental regularized extreme learning machine and it׳s enhancement",0.107626262626,0.146527777778
+7FEEB1E8,"An edge-preserving high-resolution image reconstruction",0.111197691198,0.121428571429
+7AFFACED,"On numerical realization of quasioptimal parameter choices in (iterated) Tikhonov and Lavrentiev regularization",0.13746031746,0.129848484848
+7F2C73FF,"Identification of discontinuous coefficients in elliptic problems using total variation regularization",0.135642135642,0.177248677249
+7FFDC30F,"3Parallel magnetic resonance imaging with adaptive radius in k‐space (PARS): Constrained image reconstruction using k‐space locality in radiofrequency coil encoded data",0.126587301587,0.146263227513
+761F3059,"A computational method for stable analytic continuation",0.122626262626,0.155555555556
+797AB18D,"Eigenvalue decay: A new method for neural network regularization",0.134920634921,0.140873015873
+7CC5D876,"Non-parametric simultaneous identification of both the nonlinear damping and restoring characteristics of nonlinear systems whose dampings depend on velocity alone",0.146904761905,0.172883597884
+8128B217,"Regularization of eddy-current formulations using discrete grad-div operators",0.131904761905,0.202380952381
+7534C2DF,"The method of fundamental solutions for the detection of rigid inclusions and cavities in plane linear elastic bodies",0.223015873016,0.181235827664
+8067E040,"Estimating hyperparameters and instrument parameters in regularized inversion. Illustration for SPIRE/Herschel map making.",0.140555555556,0.136904761905
+7BCBA8DF,"Class prediction and gene selection for DNA microarrays using regularized sliced inverse regression",0.145086580087,0.172402597403
+75C3B9F4,"Regularized collocation method for Fredholm integral equations of the first kind",0.147222222222,0.174444444444
+7B5D9AA9,"GRAPPA operator for wider radial bands (GROWL) with optimally regularized self‐calibration",0.122546897547,0.154365079365
+78B29352,"Structured variable selection and estimation",0.118585858586,0.147619047619
+7F419F38,"A variational framework for simultaneous motion and disparity estimation in a sequence of stereo images",0.298015873016,0.243594104308
+7875028D,"A hybrid-optimization method for large-scale non-negative full regularization in image restoration",0.134920634921,0.130158730159
+7F90C964,"Compressed sensing parallel Magnetic Resonance Imaging",0.0988888888889,0.165277777778
+7AB5539E,"Sparse deconvolution using adaptive mixed-Gaussian models",0.268414918415,0.666666666667
+7CB3CA70,"A neural architecture of brightness perception: non-linear contrast detection and geometry-driven diffusion",0.134920634921,0.130476190476
+76179EFF,"Reconstruction of conductivity changes and electrode movements based on EIT temporal sequences",0.120555555556,0.154256854257
+7C4BBF98,"Distributed parametric and nonparametric regression with on-line performance bounds computation",0.12095959596,0.149126984127
+781C9059,"A survey of applications of the MFS to inverse problems",0.125793650794,0.136408730159
+7A464788,"An alternative method for density variation modeling of the crust based on 3-D gravity inversion",0.115238095238,0.138943001443
+7A7F1E4E,"A wavelet-based regularized reconstruction algorithm for SENSE parallel MRI with applications to neuroimaging",0.118737373737,0.125072150072
+7DA92E38,"Regularized discriminant analysis for the small sample size problem in face recognition",0.301587301587,0.271541950113
+7777AF72,"Filtering noise from oceanographic data with some applications for the Kara and Black Seas",0.13088023088,0.152380952381
+7D67065A,"On Iterative Regularization and Its Application",0.134126984127,0.166666666667
+58509D99,"Reliable and Efficient Computation of Optical Flow",0.104848484848,0.145833333333

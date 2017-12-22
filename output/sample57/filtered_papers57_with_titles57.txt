@@ -1,0 +1,1102 @@
+80DDF623	A regularized inverse approach to ultrasonic pulse-echo imaging
+76E49390	An optimal method for fractional heat conduction problem backward in time
+7B05A3F8	Mixed parametric/non-parametric identification of systems with discontinuous nonlinearities
+76776EDA	A Regularized Robust Design Criterion for Uncertain Data
+79A122BE	The method of fundamental solutions for a time-dependent two-dimensional Cauchy heat conduction problem
+75D7C029	Fully online classification by regularization
+78E93AC4	Learning a function from noisy samples at a finite sparse set of points
+7D2240D5	Reliable Prediction of Pore Size Distribution for Nano-sized Adsorbents with Minimum Information Requirements
+758FEEBF	Iterative Regularization and Generalized Discrepancy Principle for Monotone Operator Equations
+7C1603E0	An a posteriori parameter choice rule for the truncation regularization method for solving backward parabolic problems
+5D5A16D4	High accuracy optical flow method based on a theory for warping: implementation and qualitative/quantitative evaluation
+7CA892A9	Quantitative susceptibility map reconstruction from MR phase data using bayesian regularization: Validation and application to brain imaging
+7C7C50E6	A noise-suppressing and edge-preserving multiframe super-resolution image reconstruction method
+78815E37	Boundary reconstruction in two-dimensional steady state anisotropic heat conduction using a regularized meshless method
+75C910DC	On impulsive algebraic multiplicities of linear time-invariant singular systems under feedback
+7AB6B34C	Super-Resolution Image Restoration from Blurred Low-Resolution Images
+758FD46B	Two numerical methods for a Cauchy problem for modified Helmholtz equation
+79E3D3EA	The truncation method for identifying an unknown source in the Poisson equation
+7E9F82D0	European pollution outbreaks during ACE 2 : Microphysical particle properties and single-scattering albedo inferred from multiwavelength lidar observations
+77974C63	Colbar: A collaborative location-based regularization framework for QoS prediction
+7C089058	An efficient multi-objective learning algorithm for RBF neural network
+782378F0	A regularized smoothing Newton method for solving SOCCPs based on a new smoothing C-function
+79B8FEAF	Regularized direct and indirect symmetric variational BIE formulations for three-dimensional elasticity
+79CE2FD9	The approximate regularization of index-2 differential-algebraic problems
+79FF3343	Fast derivative computation using smooth X-splines
+7AB2D9AE	Model selection criteria for the varying-coefficient modelling via regularized basis expansions
+7671E5C1	Regularization of discriminant analysis for the study of biodiversity in humid tropical forests
+7B182881	Convex multi-task feature learning
+7A845159	Lardy's regularization of a singularly perturbed elliptic PDE
+7DCF19EA	A unified interpretation of adaptation approaches based on a macroscopic time evolution system and indirect/direct adaptation approaches
+7A786E5F	What do we Learn from the Discrepancy Principle?
+77B043F6	Combined energy method and regularization to solve the Cauchy problem for the heat equation
+815BFF4C	A linearization of a backward Euler scheme for a class of degenerate nonlinear advection–diffusion equations
+783187B2	Wavelets and regularization of the sideways heat equation
+8028AB8B	Dirichlet-Laplace priors for optimal shrinkage
+7C63D455	Adaptive sup-norm regularized simultaneous multiple quantiles regression
+770F4960	Regularized spectral multipole BEM for plane elasticity
+7FAD3992	The Split Bregman Method for L1-Regularized Problems
+7D89F3DD	METODOLOGÍA DE LOCALIZACIÓN DE FUENTES ELECTROENCEFALOGRÁFICAS EN EPILEPSIA FOCAL EMPLEANDO EL CRITERIO DE LA VARIANZA
+772F3CB1	Parallel imaging reconstruction using automatic regularization
+7DBB959E	Consistency of support vector machines and other regularized kernel classifiers
+7F4E7FA4	A fast and rigorous anisotropic smoothing method for DT-MRI
+7E1CFD09	Estimating point-to-point and point-to-multipoint traffic matrices: an information-theoretic approach
+381EEB60	Regularization of non-coercive quasi variational inequalities
+77FF377C	Roof edge detection using regularized cubic b-spline fitting
+7E4D33B9	Logistic regression with weight grouping priors
+83E77A38	Single image super-resolution using regularization of non-local steering kernel regression
+7658A5B9	Hessian optimal design for image retrieval
+795EA7E5	A real-time solution for an inverse Cauchy problem in cardiology
+7FF3829D	Quadratic Regularization Design for 2-D CT
+8069DB01	Harmonic spline–wavelets on the 3–dimensional ball and their application to the reconstruction of the Earth's density distribution from gravitational data at arbitrarily shaped satellite orbits
+7D62E533	Supersymmetric Wilson Loops in Diverse Dimensions
+7FCB9B29	Bayesian sensing hidden Markov models for speech recognition
+7C5017A2	Representations and expansions of weighted pseudoinverse matrices, iterative methods, and problem regularization. II. Singular weights
+8114BE80	The application of subspace preconditioned LSQR algorithm for solving the electrocardiography inverse problem
+7F5FDECA	Field theories on deformed spaces
+80257039	An Error-Minimizing Approach to Regularization in Indirect Measurements
+7BD96528	Embedded local feature selection within mixture of experts
+80AAB33B	Determining the parameters in regularized super-resolution reconstruction
+800649A3	A Boundary Element Regularization Method for the Boundary Determination in Potential Corrosion Damage
+789DB155	Existence of the Broucke periodic orbit and its linear stability
+7E687058	A Hessian Regularized Nonlinear Time Series Model
+7EF225FE	Vector field learning via spectral filtering
+7BBCC099	Incremental Adaptation Based on a Macroscopic Time Evolution System
+7EC6EA4A	Investigation of KLIM algorithm applied to face recognition
+7A111B71	Heterogeneous data fusion via matrix factorization for augmenting item, group and friend recommendations
+81158F4F	On MR experiment design with quadratic regularization
+75F9C7CA	A regularization method for solving the radially symmetric backward heat conduction problem
+806C7D55	A Total Variation-Based Reconstruction Method for Dynamic MRI
+774822C2	Nonlinear regularization techniques for seismic tomography
+7CF95209	Accelerating the LSTRS Algorithm
+765FF3A1	Toward Global Convergence for Strongly Nonlinear Ill-Posed Problems via a Regularizing Multilevel Approach
+7FAFBA63	Comment améliorer la capacité de généralisation des algorithmes d'apprentissage pour la prise de décisions financières
+7F336EF7	A Full Bayesian Approach to Curve and Surface Reconstruction
+7B94CB38	winstodec: a stochastic deconvolution interactive program for physiological and pharmacokinetic systems
+78781A7D	Model-based clustering of high-dimensional data: A review
+785BEF1C	An adaptive LSQR algorithm for computing discontinuous solutions in deconvolution problems
+779865A2	The ill-posedness of the sampling problem and regularized sampling algorithm
+80C27F6B	Unfolding the double shuffle structure of q-multiple zeta values
+7D0DCE29	Covariance regularization by thresholding
+7863ABE4	Regularized extreme learning machine for regression problems
+762938B5	Efficient Kansa-type MFS algorithm for time-fractional inverse diffusion problems
+7D4E550B	Numerical solution of the Cauchy problem for steady-state heat transfer in two-dimensional functionally graded materials
+7CC14943	A regularization approach for estimating the type of a plane curve singularity
+7D652B6F	On the Impact of Lossy Compression on Hyperspectral Image Classification and Unmixing
+80E79645	Color Superresolution Reconstruction and Demosaicing Using Elastic Net and Tight Frame
+7DF97E6F	A Fault-Tolerant Regularizer for RBF Networks
+7A6AEC98	Reconstruction of local heat fluxes in pool boiling experiments along the entire boiling curve from high resolution transient temperature measurements
+7EADF9AB	Use of an Experimentally Derived Leadfield in the Peripheral Nerve Pathway Discrimination Problem
+816CDA9D	Overview and Classification of Some Regularization Techniques for the Gauss-Newton Inversion Method Applied to Inverse Scattering Problems
+76C904B3	Weakly singular stress‐BEM for 2D elastostatics
+75EC18C4	Interior proximal methods for quasiconvex optimization
+7DA1CA42	Shrinkage-based Diagonal Discriminant Analysis and Its Applications in High-dimensional Data
+7B3E675E	A strategy for input estimation with sensitivity analysis
+79822BCF	Bayesian identification, selection and estimation of semiparametric functions in high-dimensional additive models
+80CCAEEE	Smooth inversion for ground surface temperature histories: estimating the optimum regularization parameter by generalized cross‐validation
+782E8FCF	Laplacian unit-hyperplane learning from positive and unlabeled examples
+7F9C43E6	Content based social behavior prediction: a multi-task learning approach
+75FAA384	Load identification for a rolling disc: finite element discretization and virtual calibration
+0BEED53D	Spatially Smooth Subspace Face Recognition Using LOG and DOG Penalties
+807239CB	Iterative reconstruction of SPECT data with adaptive regularization
+7F969FB7	A Full Curvature Based Algorithm for Image Registration
+5AE3B951	High accuracy optical flow method based on a theory for warping: 3d extension
+7FBD2E0F	Regularized multi--task learning
+7FA0CE6E	A Signal Processing Approach to Generalized 1-D Total Variation
+7B4843CC	Spatially adaptive splines for statistical linear inverse problems
+794193CF	Improved Variational Denoising of Flow Fields with Application to Phase-Contrast MRI Data
+76A04BD1	Inverse heat conduction problem using thermocouple deconvolution: application to the heat flux estimation in a tokamak
+7703F641	Parameter estimation in equivalent circuit analysis of dielectric cure monitoring signals using genetic algorithms
+786C687F	Discovering Sparse Covariance Structures With the Isomap
+7ECD1AA6	Pressure/Saturation System for Immiscible Two-Phase Flow: Uniqueness Revisited
+78407F03	Diffusion tensor magnetic resonance image regularization
+7E29F9BA	On Stochastic Optimization and Statistical Learning in Reproducing Kernel Hilbert Spaces by Support Vector Machines (SVM)
+7B3508C9	Statistical signal restoration with 1/ f wavelet domain prior models
+771DB9C2	Effective latent space graph-based re-ranking model with global consistency
+77D9240D	Over-Parameterized Variational Optical Flow
+80FA4652	Discovering word associations in news media via feature selection and sparse classification
+7CFC95E0	Rank related properties for Basis Pursuit and total variation regularization
+79DFB5F0	Optimally regularized adaptive filtering algorithms for room acoustic signal enhancement
+77CF4FF9	Reproducing-kernel-based splines for the regularization of the inverse ellipsoidal gravimetric problem
+7623C9AD	Lazy lasso for local regression
+80261415	A Convex Optimization Approach for Depth Estimation Under Illumination Variation
+7D3C2BD7	L1‐regularization path algorithm for generalized linear models
+7A8E1774	L1 regularization method in electrical impedance tomography by using the L1-curve (Pareto frontier curve)
+7C81E0C5	Review: A unified framework for regularized linear estimation in communication systems
+7595563D	Local results for the Gauss-Newton method on constrained rank-deficient nonlinear least squares
+81144E0E	A linear functional strategy for regularized ranking.
+7F463162	Regularization of the Affine Projection Algorithm
+8162987C	Necessary and sufficient conditions for the output feedback regularization of descriptor systems
+7869D471	Simplified Tikhonov and Fourier regularization methods on a general sideways parabolic equation
+7EE0066B	Regularizers for structured sparsity
+7BB269DB	An Experimental Study on Smoothness Regularized LDA in Hyperspectral Data Classification
+7663E3DE	Wavelet moment method for the Cauchy problem for the Helmholtz equation
+76CC299C	Sideways heat equation and wavelets
+794EA69D	Convergence rates for maximum entropy regularization
+7C095333	Caught in the Work–Citizenship Matrix: the Lasting Effects of Precarious Legal Status on Work for Toronto Immigrants
+7C888888	Penalized Discriminant Analysis
+7EFB3668	A Bayesian MAP-EM Algorithm for PET Image Reconstruction Using Wavelet Transform
+76D07F4B	Visualization of three-dimensional temperature distributions in a large-scale furnace via regularized reconstruction from radiative energy images: numerical studies
+77CFFBEA	Elastic Net Regression Modeling With the Orthant Normal Prior
+7E2F16D8	Ultraviolet divergences in maximal supergravity from a pure spinor point of view
+75CD7245	Regularized fuzzy c-means method for brain tissue clustering
+7D7DA9B8	FWT-based preconditioners for image restoration problems
+7E4F0BCC	A Sparsity Regularization Approach to the Electromagnetic Inverse Scattering Problem
+7AA3810C	Generalized Thresholding of Large Covariance Matrices
+797E25D4	High dimensional single index models
+777C884F	Beamforming With Uncertain Weights
+77A73F27	Central difference schemes in time and error estimate on a non-standard inverse heat conduction problem
+7C40AEF6	Determining surface heat flux in the steady state for the Cauchy problem for the Laplace equation
+7E766C86	A mollification method for a Cauchy problem for the Laplace equation
+024B5742	Multi-task regularization of generative similarity models
+7869EC64	A multi-output two-stage locally regularized model construction method using the extreme learning machine
+800AEA1E	Multisource remote sensing data classification based on consensus and pruning
+5ABD6481	Speckle reduction of ultrasound images based on locally regularized Savitzky-Golay filters
+7D196689	Numerical tools for lightning return stroke current reconstruction by electromagnetic inverse problem formulation
+7DC1284B	Linking riparian vegetation spatial structure in Australian tropical savannas to ecosystem health indicators: semi-variogram analysis of high spatial resolution satellite imagery
+7AF64EE5	Multivariate source prelocalization (MSP): Use of functionally informed basis functions for better conditioning the MEG inverse problem
+7A8F6DD5	Least angle and ℓ1 penalized regression: A review
+7FC4C0C4	Bayesian variable selection and regularization for time–frequency surface estimation
+807EE75F	An efficient method to set up a Lanczos based preconditioner for discrete ill-posed problems
+7A4DA5F4	Determining an unknown source in the heat equation by a wavelet dual least squares method
+79AE7C15	Convergence rates in $\ell^1$-regularization when the basis is not smooth enough
+799F491A	The cost of using decomposable Gaussian graphical models for computational convenience
+7F84FA65	Finite-Dimensional Projection for Classification and Statistical Learning
+7BC05133	Spectral semi-blind deconvolution with least trimmed squares regularization
+7C112C99	Kronecker product and SVD approximations in image restoration
+7398EDF1	The Fusion of Image and Range Flow
+0E9D5713	Model selection for linear classifiers using Bayesian error estimation
+7D27CC5E	Trust-region and other regularisations of linear least-squares problems
+760E3F69	Feature Selection Guided by Structural Information
+7E42775D	On Complexity Issues of Online Learning Algorithms
+055BF9E5	Regularization in microwave tomography
+786B701A	A tour of accelerated parallel MR imaging from a linear systems perspective
+7C2EB559	An interactive multi-objective optimization framework for groundwater inverse modeling
+761FC4CF	An approximate solution for nonlinear backward parabolic equations
+804930CF	Regularized functional regression modeling for functional response and predictors
+81655BF1	L- and Θ-curve approaches for the selection of regularization parameter in geophysical diffraction tomography
+77451608	The minimal error method for the Cauchy problem in linear elasticity. Numerical implementation for two-dimensional homogeneous isotropic linear elasticity
+7E51FBD5	Multiframe demosaicing and super-resolution of color images
+80E3ED33	Group Structure Influence on Group Lasso Consistency
+7C3AC4EB	Conditional Stability Estimates and Regularization with Applications to Cauchy Problems for the Helmholtz Equation
+782DB1F0	Regularization of hypersingular boundary integral equations: a new approach for axisymmetric elasticity
+7FF0BA5A	Gradient methods for minimizing composite objective function
+7622159D	Convergence analysis of smoothing methods for optimal control of stationary variational inequalities with control constraints
+7A6C21B7	Gaussian Regularized Sliced Inverse Regression
+7F5E0D63	Close-form solution and parameter selection for convex minimization-based edge-preserving smoothing
+7842C6AB	Document Re-ranking Using Partial Social Tagging
+7FE9D925	A Generic Path Algorithm for Regularized Statistical Estimation
+7F349CDF	The plane wave method for inverse problems associated with Helmholtz-type equations
+7CFF34A2	Smoothness in layers: Motion segmentation using nonparametric mixture estimation
+7932791C	Smoothed State Estimates under Abrupt Changes using Sum-of-Norms Regularization
+795AF71E	Neighborhood preserving regression for image retrieval
+77EF8ED4	Simultaneous image interpolation for stereo images
+75CD0590	Penalized likelihood and Bayesian function selection in regression models
+8124F81B	Image restoration with a half-quadratic approach to mixed weighted smooth and anisotropic bounded variation regularization
+7BF9B329	A backward problem for the time-fractional diffusion equation
+7D9E5D3A	Extracting Takagi-Sugeno Fuzzy Rules with Interpretable Submodels via Regularization of Linguistic Modifiers
+80D5FEE3	A Global-to-Local 2D Shape Registration in Implicit Spaces using Level Sets
+0296A7D0	Chapter 14 - Variable Selection in Predictive Regressions
+7A305B66	Estimation of local nucleate boiling heat flux using a three-dimensional transient heat conduction model
+7DE0247D	Minimizers of Cost-Functions Involving Nonsmooth Data-Fidelity Terms. Application to the Processing of Outliers
+7BD527AF	Time-varying wind load identification from structural responses
+7A69966C	Length Scales Interaction in Nonlocal Plastic Strain Localization of Bars of Varying Section
+7A004754	Numerical solution of forward and backward problem for 2-D heat conduction equation
+7F844562	Well-Posedness and Convergence of Some Regularization Methods for Nonlinear Ill-Posed Problems
+7FD65373	Learning Multiple Tasks with Kernel Methods
+5D05C6D1	Metric-Based Methods for Adaptive Model Selection and Regularization
+78D89F19	A new approach to constrained total least squares image restoration
+777647BE	Synchronization and Non-Smooth Dynamical Systems
+766C06E4	Alternating direction method for the high-order total variation-based Poisson noise removal problem
+6DDF67D5	Solution of a singular infinite horizon zero-sum linear-quadratic differential game: A regularization approach
+77CF7516	Improvement of Space-Invariant Image Deblurring by Preconditioned Landweber Iterations
+7B1E0639	The method of fundamental solutions for the Cauchy problem associated with two-dimensional Helmholtz-type equations
+77BCEA61	Learning the mean: A neural network approach
+803D461C	Quantization of systems with temporally varying discretization I: Evolving Hilbert spaces
+7E8A4A6F	A comparison of the lasso and marginal regression
+7EC89E25	On Regularization in Adaptive Filtering
+7899B6B6	Iterative regularization methods for atmospheric remote sensing
+84A1FC82	A regularized sampling algorithm for reconstructing non-bandlimited signals
+7D5C56B2	Application of super-resolution methods to synthetic aperture radar data
+75DCD5E4	Reinforced Multicategory Support Vector Machines
+79F6DD04	Convergence analysis of the loping OS-EM iterative version of the circular radon transform
+7CDC1FE2	Determining the regularization parameters for super-resolution problems
+79EBC86D	Twin Boosting: improved feature selection and prediction
+80B64094	On variational downscaling, fusion, and assimilation of hydrometeorological states: A unified framework via regularization
+7F492136	Manifold identification in dual averaging for regularized stochastic online learning
+79246C10	Computation of two-dimensional Fourier transforms for noisy band-limited signals
+78997286	AN L1-REGULARIZED NAÏVE BAYES-INSPIRED CLASSIFIER FOR DISCARDING REDUNDANT AND IRRELEVANT PREDICTORS
+3B843500	Rekonstrukcja obrazów w elektrycznej tomografii pojemnościowej
+7C16EFCA	A regularized multi-level technique for solving potential problems by the method of fundamental solutions
+7B7BBC41	Sparse principal component regression with adaptive loading
+75DFA909	Regularization of hypersingular integrals in BEM formulations using various kinds of continuous elements
+7A9BC2CE	Performance prediction using spatial autocorrelation
+7AB7EE55	Isogeometric shape optimization in fluid mechanics
+7B7F3CE0	Modified iterated Tikhonov methods for solving systems of nonlinear ill-posed equations
+80E8291A	Classification of Hyperspectral Images With Regularized Linear Discriminant Analysis
+7577E97F	Existence results for a class of pseudomonotone elliptic-parabolic inclusions
+7AE256B7	Runge-Kutta type total variation regularization for nonlinear inverse problems
+7A8C3B36	The MFS for the Cauchy problem in two-dimensional steady-state linear thermoelasticity
+7B2D3282	Measuring information provided by language model and acoustic model in probabilistic speech recognition: Theory and experimental results
+77CDEF16	On a radially symmetric inverse heat conduction problem
+7E32AB4C	Solving Rank-Deficient and Ill-posed Problems Using UTV and QR Factorizations
+7C990C26	Numerical interconversion between linear viscoelastic material functions with regularization
+75C78FFC	A unified framework for recommending items, groups and friends in social media environment via mutual resource fusion
+75CBD394	Dressed Wilson Loops on S^2
+7667F538	Geometrical regularization of displacement fields for histological image registration
+813C83DA	Shearlet-Based Total Variation Diffusion for Denoising
+7DBF9CE4	A generalized grid connectivity–based parameterization for subsurface flow model calibration
+7BFF23E9	Classifying functional time series
+807C1C5F	Regularized Common Spatial Pattern With Aggregation for EEG Classification in Small-Sample Setting
+801A291B	Regularization of quasi-variational inequalities
+79F2E917	Future Polynomial Regularization of Ill-Posed Volterra Equations
+7DA310E6	An efficient algorithm for a class of fused lasso problems
+7C384AF0	A piecewise local regularized Richardson–Lucy algorithm for remote sensing image deconvolution
+77FD6CDA	Comparison of different approaches and computer programs for progress curve analysis of enzyme kinetics
+7B698514	Invariance priors for Bayesian feed-forward neural networks
+77981352	An iterative regularization method with B-spline approximation for atmospheric temperature and concentration retrievals
+76B13E93	A generalized Co-HITS algorithm and its application to bipartite graphs
+7BD678E2	Variable Selection With the Strong Heredity Constraint and Its Oracle Property
+7D374D1B	SOLVING REGULARIZED TOTAL LEAST SQUARES PROBLEMS BASED ON EIGENPROBLEMS
+811ECB5B	A Hopfield-type neural network used for remote sensing images with variational principle
+7F0738FC	Nonparametric Identification of Population Models: An MCMC Approach
+7916EB9B	Wavelet-based two-level methods for image restoration
+79A0A3E7	Calibration of the purely T-dependent Black–Scholes implied volatility
+7B982CA0	Computation of stereo disparity using regularization
+78646E8C	Regularizing properties of a truncated newton-cg algorithm for nonlinear inverse problems
+79FD7778	Enhancing statistical performance of data-driven controller tuning via L2-regularization
+76E9FDC8	ERROR ESTIMATES ON A BACKWARD HEAT EQUATION BY A WAVELET DUAL LEAST SQUARES METHOD
+7DD8CCDE	Structured penalties for functional linear models—partially empirical eigenvectors for regression
+5BA1287D	Maximum penalized likelihood estimation and smoothed em algorithms for positive integral equatioins of the first kind
+7535F195	Handling Missing Values with Regularized Iterative Multiple Correspondence Analysis
+77131821	Comparison of regularization methods for solving the Cauchy problem associated with the Helmholtz equation
+7F5A5E75	Efficient algorithms for solution of regularized total least squares
+781DE76E	A non-local boundary value problem method for semi-linear parabolic equations backward in time
+7B37D69B	Efficient Global Approximation of Generalized Nonlinear â„“1-Regularized Solution Paths and Its Applications
+77F6DD96	Non-blind image deconvolution using natural image gradient prior
+803E253B	Discrete ill-posed least-squares problems with a solution norm constraint
+7639C0C6	A Riemannian Framework for Tensor Computing
+780745D4	Nonlinear regression modeling and detecting change points via the relevance vector machine
+791ABAB7	Locality Regularization Embedding for face verification
+7D7B6717	Identification of stable models in subspace identification by using regularization
+7EF979D3	Dual-Augmented Lagrangian Method for Efficient Sparse Reconstruction
+7C4A40C6	MODELING SEGMENTATION VIA GEOMETRIC DEFORMABLE REGULARIZERS, PDE AND LEVEL SETS IN STILL AND MOTION IMAGERY: A REVISIT
+78BE3144	Regularized p -version collocation BEM algorithms for two-dimensional heat conduction
+7919F58A	Quasiperiodic motions in the planar three-body problem
+7614507A	A regularization method for the approximate particular solution of nonhomogeneous Cauchy problems of elliptic partial differential equations with variable coefficients
+792B7C1E	Average acceleration discrete algorithm for force identification in state space
+7E97AF5E	Unifying regularization and Bayesian estimation methods for enhanced imaging with remotely sensed Data-part II: implementation and performance issues
+7A94F391	Frequency Domain Optical Tomography Based on the Equation of Radiative Transfer
+810659AB	A Regularized Nonlinear Diffusion Approach for Texture Image Denoising
+5DF7E321	Density estimation in high and ultra high dimensions, regularization, and the L1 asymptotics
+76F23C35	Inversion of imaging mechanisms by regularization of inverse Volterra models
+8097C64D	Inspection of specular and partially specular surfaces
+76A06E8C	An improved Newton projection method for nonnegative deblurring of Poisson-corrupted images with Tikhonov regularization
+7B5D9AA9	GRAPPA operator for wider radial bands (GROWL) with optimally regularized self‐calibration
+76E7BA42	Tuning parameter selection in sparse regression modeling
+7D7DA5B1	Semisupervised Neural Networks for Efficient Hyperspectral Image Classification
+79126E8F	A Riemannian approach to anisotropic filtering of tensor fields
+7BA293B7	A graphical generalized implementation of SENSE reconstruction using Matlab
+5E798409	Support Vector Machines and the Bayes Rule in Classification
+7859EA80	Adaptive Tikhonov regularization for damage detection based on nonlinear model updating
+7F8F53F9	The method of fundamental solutions for inverse boundary value problems associated with the steady‐state heat conduction in anisotropic media
+2EFA8D54	Regularization parameter selection in the 3D gravity inversion of the basement relief using GCV: A parallel approach
+7C3E5264	Regularization of stochastic variational inequalities and a comparison of an Lp and a sample-path approach
+75126ED0	Determination of the state parameters of explosive detonation products by computational inverse method
+7AE4D54E	A hybrid inverse method for the thermal design of radiative heating systems
+78A26CF3	Statistical image reconstruction for low-dose CT using nonlocal means-based regularization
+791C330D	Bayesian Regularization via Graph Laplacian
+7DDB421B	Dynamic Experiment Design Regularization Approach to Adaptive Imaging with Array Radar/SAR Sensor Systems
+7F71C952	Non‐smooth gravity problem with total variation penalization functional
+76BFB96C	Local Strong Homogeneity of a Regularized Estimator
+7C06118E	Multiclass support vector classification via coding and regression
+7E6CB4EA	Regularization for uniform spatial resolution properties in penalized-likelihood image reconstruction
+7D2FF258	An efficient inversion algorithm for atmospheric remote sensing with application to UV limb observations
+75FEB0B8	Two stable methods with numerical experiments for solving the backward heat equation
+7744E09B	Robust anisotropic diffusion
+7A1C5E1B	Robust Solutions to Least-Squares Problems with Uncertain Data
+77A8FA4A	Super-resolution image reconstruction techniques: Trade-offs between the data-fidelity and regularization terms
+79CFFCCD	Spatially constrained inversion of radiative transfer models for improved LAI mapping from future Sentinel-2 imagery
+80B12563	Large-Domain, Low-Contrast Acoustic Inverse Scattering for Ultrasound Breast Imaging
+78F452ED	A Trust-Region Approach to the Regularization of Large-Scale Discrete Forms of Ill-Posed Problems
+815ECC35	Super-resolution reconstruction of high dynamic range images in a perceptually uniform domain
+79BB0CFC	Optical tomography reconstruction algorithm with the finite element method: An optimal approach with regularization tools
+786A6C47	Phase-driven spatially variant regularization for image resolution enhancement
+7FEC7915	The holographic Weyl anomaly
+80C7309D	An iterative stochastic ensemble method for parameter estimation of subsurface flow models
+7877038A	A new kernel-based approach for linear system identification.
+7638B67F	Regularized multivariable grey model for stable grey coefficients estimation
+80771C93	Reduced HyperBF Networks: Regularization by Explicit Complexity Reduction and Scaled Rprop-Based Training
+7D01A9B2	Drosophila gene expression pattern annotation using sparse features and term-term interactions
+79679C05	Magnetotelluric inversion for anisotropic conductivities in layered media
+7BAFEA03	Numerical analytic continuation on bounded domains
+7B5F4744	Regularization in parallel MR image reconstruction
+7E49C36C	Some Aspects of Band-Limited Extrapolations
+7FB2FF44	Adaptive nonparametric instrumental variables estimation: Empirical choice of the regularization parameter
+75B09827	Stability results for fractional differentiation
+75B315DE	Regularized numerical integration of multibody dynamics with the generalized α method
+7F6F311C	An Improved Tikhonov Regularization Method for Conductivity Tomography Imaging
+807A90BE	Super-resolution image restoration from blurred observations
+7AA7CE9D	A multi-frame image super-resolution method
+78C9FC4F	Regularized Pre-image Estimation for Kernel PCA De-noising:Input Space Regularization and Sparse Reconstruction
+75DC659B	A pre-regularization scheme for the reconstruction of a spatial dependent scattering albedo using a hybrid ant colony optimization implementation
+8069619E	On Spectral Learning
+77F6E315	Atmospheric trace gases profile retrievals using the nonlinear regularized total least squares method
+6B22C8EC	A computationally efficient scheme for feature extraction with kernel discriminant analysis
+8139F50D	A well-posed multiscale regularization scheme for digital image denoising
+760D3D78	Multi-label Classiﬁcation Using Hypergraph Orthonormalized Partial Least Squares
+7BC295AA	Variable Selection Using Adaptive Nonlinear Interaction Structures in High Dimensions
+7D06C752	Latent Variable Graphical Model Selection via Convex Optimization
+798A360F	Discrepancy-based adaptive regularization for GRAPPA reconstruction
+76A356BB	A robust multiframe super-resolution algorithm based on half-quadratic estimation with modified BTV regularization
+7AD24F57	Classification via Minimum Incremental Coding Length
+7A2ACB56	On Acoustic Diversification Front-End for Spoken Language Identification
+7CE57D60	Nonparametric identification of population models via Gaussian processes
+790AD784	Retrieval of Mars surface physical properties from OMEGA hyperspectral images using Regularized Sliced Inverse Regression
+8082E5C1	In Vivo Impedance Imaging With Total Variation Regularization
+787DDF83	Model sparsity and brain pattern interpretation of classification models in neuroimaging
+81CAD12D	Low-dose CT statistical iterative reconstruction via modified MRF regularization
+7C74B091	Least squares problems with inequality constraints as quadratic constraints
+76DB5AC3	Regularization and singular perturbation techniques for non-smooth systems
+7D1F87D1	A relaxation method of an alternating iterative MFS algorithm for the Cauchy problem associated with the two‐dimensional modified Helmholtz equation
+80A17691	Convexly constrained linear inverse problems: iterative least-squares and regularization
+7C7385FA	Forward jet production & quantum corrections to the gluon Regge trajectory from Lipatov`s high energy effective action
+80EFE0BC	Implementation of algorithms for tuning parameters in regularized least squares problems in system identification
+759606E5	Regularized complete linear discriminant analysis
+76640244	Identification of the nonlinear excitation force acting on a bowed string using the dynamical responses at remote locations
+758E6A8C	Reproducing Kernel Banach Spaces with the l1 Norm
+7AA39D81	Fourier regularization for a final value time-fractional diffusion problem
+7DE0782B	Hidden dynamics in models of discontinuity and switching
+7B5A2ABB	A regularization method for a Cauchy problem of the Helmholtz equation
+791CB284	Numerical reconstruction of an inhomogeneity in an elliptic equation
+7D3A3AA6	A comparison between new L1 minimization algorithms in Electrical Impedance Tomography using the Pareto Curve
+7E8D0FFF	Existence of Solutions for Nonlocal Boundary Value Problem with Singularity in Phase Variables
+8121BCF1	MEG source localization under multiple constraints: an extended Bayesian framework
+75AF4CCE	Spectral method for ill-posed problems based on the balancing principle
+7894EE58	Support Vector Machines: A Nonlinear Modelling and Control Perspective
+7915ABFA	Eliminating unpredictable variation through iterated learning
+797CB60C	A control type method for solving the Cauchy–Stokes problem
+7E6BD1C8	Inverse geometry heat transfer problem based on a radial basis functions geometry representation
+810A9517	Unsupervised Acoustic Model Adaptation Based on Ensemble Methods
+5D0C249E	A Fast MAP Algorithm for High-Resolution Image Reconstruction with Multisensors
+764CC2BF	Wavelets and regularization of the Cauchy problem for the Laplace equation
+77631B77	Numerical Solution of First-Kind Volterra Equations by Sequential Tikhonov Regularization
+7A85A3B4	Browder-Tikhonov regularization for a class of evolution second order hemivariational inequalities
+7AB81937	A New Matrix-Free Algorithm for the Large-Scale Trust-Region Subproblem
+7DAF58C1	Electrode Position Scaling in Realistic Laplacian Computation
+7747E451	An iterative algorithm for linear inverse problems with compound regularizers
+79034CC4	Experimental Testing of a Moving Force Identification Bridge Weigh-in-Motion Algorithm
+7DCE018B	Regularization networks and support vector machines
+806C982A	Suppression of vortex shedding for flow around a circular cylinder using optimal control
+75198291	Numerical analysis of a calibration problem for simulating electric fault arc tests
+75FA37EA	A wavelet regularization method for solving numerical analytic continuation
+78E64353	An objective method for regularization of fiber orientation distributions derived from diffusion-weighted MRI
+79082622	Incremental Identification of Transport Coefficients in Convection-Diffusion Systems
+80C1E84B	A practical regularization for seismic tomography
+7618557D	On an inverse boundary value problem of a nonlinear elliptic equation in three dimensions
+7F8D8BD5	BLIND DECONVOLUTION USING A REGULARIZED STRUCTURED TOTAL LEAST NORM ALGORITHM
+7B82FBF2	Linear reconstruction of perceived images from human brain activity
+7A539D2C	A modified method for a non-standard inverse heat conduction problem
+7AB5539E	Sparse deconvolution using adaptive mixed-Gaussian models
+77C2E9E1	Variational problems and partial differential equations on implicit surfaces
+7F7620B7	Parameter estimation for hybrid wavelet-total variation regularization
+7CC3B576	Identification of both structural damages in bridge deck and vehicular parameters using measured dynamic responses
+760C4416	A one-dimensional inverse problem in composite materials: Regularization and error estimates
+7CEE09AC	Regularization of linear time-invariant differential–algebraic systems
+7EB1FAFE	Uncorrelated Multilinear Discriminant Analysis With Regularization and Aggregation for Tensor Object Recognition
+76BAEA11	The MFS for numerical boundary identification in two-dimensional harmonic problems
+780842DC	The Analysis of Two-Way Functional Data Using Two-Way Regularized Singular Value Decompositions
+7B78D0EB	A special Hermitian and skew-Hermitian splitting method for image restoration
+26150FB2	Nonlocal models with damage-dependent interactions motivated by internal time
+02E6F8AF	Aggregated conditional regularized enhancement of environmental imagery: numerical techniques and simulation study
+7526D9EF	Fast regularized canonical correlation analysis
+70FB58C5	Non-local Regularization of Inverse Problems
+7F35DEAF	Point Set Registration: Coherent Point Drift
+03D39E77	Estimates on weight-decay regularization by variable-basis schemes
+7EF1C99C	Existence, uniqueness and stability of minimizers of generalized Tikhonov–Phillips functionals
+7AD844AD	The residual method for regularizing ill-posed problems
+7D577E12	Numerical solution of Cauchy problems in linear elasticity in axisymmetric situations
+7AD4810B	Combined Curvelet Shrinkage and Nonlinear Anisotropic Diffusion
+7E45BA69	Diffusion regularization for iterative reconstruction in emission tomography
+7C4CDC77	Particle extinction measured at ambient conditions with differential optical absorption spectroscopy. 1. System setup and characterization
+764FA4F7	Dynamic load identification for stochastic structures based on Gegenbauer polynomial approximation and regularization method
+76CB032E	Numerical Analysis of the Non-uniform Sampling Problem
+7B51E8A5	Nonlinear Logistic Discrimination Via Regularized Gaussian Basis Expansions
+79DA61D9	Equation error approach for elliptic inverse problems with an application to the identification of Lamé parameters
+7DFFDE85	Generalized SURE for Exponential Families: Applications to Regularization
+781C9059	A survey of applications of the MFS to inverse problems
+7DAC42F8	Near-Optimal Parameters for Tikhonov and Other Regularization Methods
+600C6FA8	Brief paper: Segmentation of ARX-models using sum-of-norms regularization
+7EB6E8D3	Some Properties of a Recursive Procedure for High Dimensional Parameter Estimation in Linear Model with Regularization
+7EA4FA77	An iterative regularization approach for Color Filter Array image restoration
+79810AC9	A non-local boundary value problem method for parabolic equations backward in time
+7F635C9F	A hybrid regularized inversion methodology for highly parameterized environmental models
+77B3BAFF	Extreme learning machine with errors in variables
+79EF7736	Shape from shading—a method of integration of sonar images and bathymetric data for ocean mapping
+76417038	Optimal regularized low rank inverse approximation
+79ED5322	The modified truncated SVD method for regularization in general form
+7F914FBD	Multiobjective Neural Network Ensembles Based on Regularized Negative Correlation Learning
+7C5AF69C	A variable smoothing algorithm for solving convex optimization problems
+7F00D0B0	An image super-resolution algorithm for different error levels per frame
+7DA3BC91	A Fast Wavelet-Based Reconstruction Method for Magnetic Resonance Imaging
+7BFBB179	Quantitative measurement of N-acetyl-aspartyl-glutamate at 3 T using TE-averaged PRESS spectroscopy and regularized lineshape deconvolution.
+58D34417	Tube Methods for BV Regularization
+788CC46B	Clustered iterative stochastic ensemble method for multi-modal calibration of subsurface flow models
+80B6FFB6	Bayesian interpretation of periodograms
+77D1C145	Showalter regularization of a singularly perturbed PDE
+7886251B	A biological mechanism for Bayesian feature selection: Weight decay and raising the LASSO
+759B8408	Virtual control regularization of state constrained linear quadratic optimal control problems
+75F2179D	A condition assessment method for time-variant structures with incomplete measurements
+7F2D8ADD	Edge detection method by Tikhonov regularization
+751967EE	Unified descriptive experiment design regularization and component dictionary-based image restoration approach for enhanced radar/SAR sensing
+7F138280	From the Berkovits formulation to the Witten formulation in open superstring field theory
+7E6198EC	Estimation of oxygen tension in retinal capillaries from phosphorescence lifetime images
+7CEB6F11	Generalized GRAPPA operators for wider spiral bands: Rapid self‐calibrated parallel reconstruction for variable density spiral MRI
+7EFA941A	Regularized estimation of large covariance matrices
+79DC023A	Joint additive Kullback–Leibler residual minimization and regularization for linear inverse problems
+7A6EFDB4	Preconditioned iterative regularization in Banach spaces
+80794964	A General Framework for Sparsity-Based Denoising and Inversion
+79C4F23B	Sparse logistic principal components analysis for binary data
+7D75A524	Bayesian parallel imaging with edge‐preserving priors
+8081997D	A Prescaled Multiplicative Regularized Gauss-Newton Inversion
+7DEED417	Convex Approximation Technique for Interacting Line Elements Deblurring: a New Approach
+7DDFE224	Probabilistic analysis of regularization
+803D822B	Image reconstruction and restoration: overview of common estimation structures and problems
+790C12A3	Localization and regularization behavior of mixed finite elements for 2D structural problems with damaging material
+7885E9D1	A Grouped Structure-based Regularized Regression Model for Text Categorization
+7ABED11A	Morozov's Discrepancy Principle under General Source Conditions
+7A957497	Cauchy problem for the Laplace equation in cylinder domain
+81867388	Computing the regularization of a linear differential–algebraic system
+7CEF0A95	Variable Explicit Regularization in Affine Projection Algorithm: Robustness Issues and Optimal Choice
+5F756176	Counter-examples for Bayesian MAP restoration
+78C33C59	Regularization parameter determination for discrete ill-posed problems
+790BD9E0	Regularizing kernel‐based BRDF model inversion method for ill‐posed land surface parameter retrieval using smoothness constraint
+7B1AA3CE	A Spatial Regularization of LDA for Face Recognition
+778959AE	Tikhonov Regularization and Total Least Squares
+775D228E	Local scaling heuristic-based regularization for pattern classification
+7B3B2479	Fast 3D gradient shimming by only 2×2 pixels in XY plane for NMR-solution samples
+79AAFCF5	A meshless method for the numerical solution of the Cauchy problem associated with three-dimensional Helmholtz-type equations
+7C83EBF2	A wavelet-Galerkin method for high order numerical differentiation
+8435EF7C	Electron energy loss spectroscopy equation for spectra with overlapping oscillations and its solution by a regularization method
+7BE1580D	Heat Equations on Vector Bundles--Application to Color Image Regularization
+8038E121	Regularization of an autoconvolution problem in ultrashort laser pulse characterization
+7A9D27BC	Extrapolation of Tikhonov regularization method
+771FC1FA	Lavrentiev regularization of a singularly perturbed elliptic PDE
+7BFE3551	Adaptive force-based frame element for regularized softening response
+804F7527	A meshless method for the stable solution of singular inverse problems for two-dimensional Helmholtz-type equations
+7CA82876	A balanced combination of Tikhonov and total variation regularizations for reconstruction of piecewise-smooth signals
+7EC175C3	Sparse Reconstruction by Separable Approximation
+7BED8C10	Constructing the physical parameters of a damped vibrating system from eigendata
+7FCBC03A	Regularized Subspace Gaussian Mixture Models for Speech Recognition
+7829A414	Multiresolution discontinuity-preserving surface reconstruction
+79B37621	Sigmoidal approximations for self-interacting line processes in edge-preserving image restoration
+220EDA42	Recovery of the temperature and the heat flux by a novel meshless method from the measured noisy data
+7FC302A7	Unifying Experiment Design and Convex Regularization Techniques for Enhanced Imaging With Uncertain Remote Sensing Data—Part I: Theory
+80605416	L-Tangent Norm: A Low Computational Cost Criterion for Choosing Regularization Weights and its Use for Range Surface Reconstruction
+8052A02B	Optimal control of cylinder wakes via suction and blowing
+7BB6EEB7	A modified method for a backward heat conduction problem
+7D5A775F	On the Performance of Autocorrelation Estimation Algorithms for fMRI Analysis
+75B643A5	Consistency of large dimensional sample covariance matrix under weak dependence
+755884D5	The use of the L-curve in the regularization of discrete ill-posed problems
+7DC4F974	Nonlocal regularization of abelian models with spontaneous symmetry breaking
+77E07D1D	Source term identification for an axisymmetric inverse heat conduction problem
+7511C004	Two regularization methods for a spherically symmetric inverse heat conduction problem
+7651E411	Robust incremental compensation of the light attenuation with depth in 3D fluorescence microscopy
+822EADB1	Magnetic resonance spectroscopic imaging at superresolution: Overview and perspectives
+7C9325DB	Persistence of periodic orbits with sliding or sewing by singular perturbation
+782F6F31	A singular boundary value problem for odd-order differential equations
+7DE879FB	Approximate inverse method for stable analytic continuation in a strip domain
+7F626867	Adaptive Multiple-Frame Image Super-Resolution Based on U-Curve
+8067E040	Estimating hyperparameters and instrument parameters in regularized inversion. Illustration for SPIRE/Herschel map making.
+78631135	Model-augmented methods for estimation of contact pressure distribution
+7E96A866	On the reduction of the systematic error in imaging radiometry by aperture synthesis: a new approach for the SMOS space mission
+7FCF57B6	Gradient descent and fast artificial time integration
+791C8D38	Discontinuous parameter estimates with least squares estimators
+814D0E28	Clustering Dynamic PET Images on the Projection Domain
+75D45B2E	A convergent least-squares regularized blind deconvolution approach
+7ABA2AF9	Direct pore size distribution estimation of heterogeneous nano-structured solid adsorbents from condensation data: Condensation with no prior adsorption
+7A573FFE	Incomplete oblique projections method for solving regularized least‐squares problems in image reconstruction
+760C0B34	Fast sparse regression and classification
+7B87A2E4	Multi-directional continuous association with input-driven neural dynamics
+7BAF97E7	The L1/2 regularization approach for survival analysis in the accelerated failure time model
+7781A4C9	Stability estimate and the modified regularization method for a Cauchy problem of the fractional diffusion equation
+8135C519	An SDP approach for l0-minimization: application to ARX model segmentation
+785A4F8C	Multiple-criteria calibration of a distributed watershed model using spatial regularization and response signatures
+7E9D53A7	UNIFORMLY BOUNDED COMPOSITION OPERATORS ON A BANACH SPACE OF BOUNDED WIENER-YOUNG VARIATION FUNCTIONS
+63B84A19	Sample Weighting: An Inherent Approach for Outlier Suppressing Discriminant Analysis
+7A96575F	Wavelet domain signal deconvolution with singularity-preserving regularization
+79B1098F	Pruning and regularization in reservoir computing
+7F9E370D	A comparison of regularization techniques for atmospheric trace gases retrievals
+799E0C6C	Multimedia event detection with ℓ2-regularized logistic Gaussian mixture regression
+7D60B88F	Bayesian algorithms for PET image reconstruction with mean curvature and Gauss curvature diffusion regularizations
+828B43F4	An invariant method of fundamental solutions for two-dimensional steady-state anisotropic heat conduction problems
+77CAC746	Establishing criteria to ensure successful feedforward artificial neural network modelling of mechanical systems
+7CD877F7	Finite Element Approach to Clustering of Multidimensional Time Series
+75AA5F7F	Boosting with structure information in the functional space: an application to graph classification
+7D85A6C9	Deterministic edge-preserving regularization in computed imaging
+7F4146E0	A Study of Least Squares and Maximum Likelihood for Image Reconstruction in Positron Emission Tomography
+7C653B0F	Variational formulations and a consistent finite-element procedure for a class of nonlocal elastic continua
+8030B293	Example-Driven Manifold Priors for Image Deconvolution
+7EB600C6	Are Models Too Simple? Arguments for Increased Parameterization
+7BD6961E	Correlation Function of Circular Wilson Loops at Strong Coupling
+7CC97970	Radial Basis Function network learning using localized generalization error bound
+77555298	Hermite spectral and pseudospectral methods for numerical differentiation
+77AB12F3	Networks and the Best Approximation Property
+7F8267B3	Adaptive Kernel Methods Using the Balancing Principle
+7D10374F	Finite Array Observations-Adapted Regularization Unified with Descriptive Experiment Design Approach for High-Resolution Spatial Power Spectrum Estimation with Application to Radar/SAR Imaging
+6FC905CA	Regularized Pre-image Estimation for Kernel PCA De-noising
+786FAD7D	Quasi-Newton Approach to Nonnegative Image Restorations
+7DD538B4	Error analysis and minimum bound method for atmospheric remote sensing
+80F73FFB	Aggregated Regularization of Remote Sensing Image Restoration Using Deterministic and Statistic Techniques
+22B2CF0D	Performance analysis and feasibility study of ant colony optimization, particle swarm optimization and cuckoo search algorithms for inverse heat transfer problems
+7AD6CA6D	Regularization aspects in continuous-time model identification
+78A3025B	CageR: Cage-Based Reverse Engineering of Animated 3D Shapes
+788AB29E	The Dynamic Pyramid a Model for the Motion Analysis with Controlled Continuity
+752164CC	Fourier series approximation of separable models
+7642A860	A computational method for a Cauchy problem of Laplace’s equation
+162F8493	Parallel magnetic resonance imaging reconstruction problems using wavelet representations
+770468A5	Comparing different types of approximators for choosing the parameters in the regularization of ill-posed problems
+7AB138CD	Recursive identification of multivariable ARX models in the presence of a priori information: Robustness and regularization
+7C5F5BF9	Residual analysis for feature detection
+5D9DE544	A multi-view regularization method for semi-supervised learning
+7ECE7129	Determining surface temperature and heat flux by a wavelet dual least squares method
+7845EB88	Analysis of bounded variation penalty methods for ill-posed problems
+7F3C8BD6	Efficient Surface Reconstruction From Noisy Data Using Regularized Membrane Potentials
+7C5F5AB9	Hard or Soft Classification? Large-margin Unified Machines.
+7DFB2A52	Predictor–Corrector Adaptation by Using Time Evolution System With Macroscopic Time Scale
+75BDDE3B	Majorization–Minimization Algorithms for Wavelet-Based Image Restoration
+7B736368	Identification of Transport Coefficient Models in Convection-Diffusion Equations
+00E058A6	Temporal Regularization Use in Dynamic Contrast-Enhanced MRI.
+7F70716E	A statistical approach to SENSE regularization with arbitrary k‐space trajectories
+7FF6EC3B	Regularization in statistics
+7C9D8062	Local regularization assisted orthogonal least squares regression
+781317BA	Sparse Estimation of Spike-Triggered Average
+7702813E	Online Learning Algorithms
+7586A4B1	Hyperparameter estimation for satellite image restoration using a MCMC maximum-likelihood method
+78115BCE	Reconstruction of permittivity profile from boundary capacitance data
+7F2CDB19	An information-theoretic approach to traffic matrix estimation
+7F7BF93A	Asymptotics of Gaussian Regularized Least Squares
+77E57AC1	BYY learning, regularized implementation, and model selection on modular networks with one hidden layer of binary units
+78663BE6	Utility of an image-based canopy reflectance modeling tool for remote estimation of LAI and leaf chlorophyll content at the field scale.
+7BA809AF	Relaxation procedures for an iterative MFS algorithm for two-dimensional steady-state isotropic heat conduction Cauchy problems
+7CB679B5	A Robust Regularized Hybrid State Estimator for Power Systems
+75707E47	Numerical instabilities in level set topology optimization with the extended finite element method
+3DB84053	Identyfikacja siły skrawania na podstawie pomiarów przyspieszeń z zastosowaniem technik regularyzacji
+79F45FF9	Discriminative Models for Speech Recognition
+7A7095A9	Cycle graph analysis for 3D roof structure modelling: Concepts and performance
+77570542	A pixel-based regularization approach to inverse lithography
+7DDDA5DE	Effects of registration regularization and atlas sharpness on segmentation accuracy.
+79F8471E	Regularized proportional odds models
+7A9D308A	Gaussian filtering of images: A regularization approach
+75F1E2FF	Efficient model selection for regularized linear discriminant analysis
+7A7259C0	Spatially adaptive sparse grids for high-dimensional data-driven problems
+7D6C9B88	Kernel-based methods for hyperspectral image classification
+792A607A	Regularized sparse representation for image deconvolution
+79008BAE	Object-based retrieval of biophysical canopy variables using artificial neural nets and radiative transfer models
+7D333ADE	Regularized total least squares approach for nonconvolutional linear inverse problems
+5CA1923E	Why Curvature in L-Curve: Combining Soft Constraints
+79C45A68	A model function method for determining the regularizing parameter in potential approach for the recovery of scattered wave
+76103F45	Non-Filippov dynamics arising from the smoothing of nonsmooth systems, and its robustness to noise
+7F884D24	A Generalized Accelerated Proximal Gradient Approach for Total-Variation-Based Image Restoration
+751F0773	The ill-posedness of restoring lost samples and regularized restoration for band-limited signals
+61D140CF	An ensemble regularization method for feature selection in mass spectral fingerprints
+809ABB22	Vector Schwinger Model with a Photon Mass Term with Faddeevian Regularization
+7E8C2B2D	Regularized Locality Preserving Projections and Its Extensions for Face Recognition
+837822B7	An improved GLMNET for L1-regularized logistic regression
+7C3739ED	On the uniqueness and reconstruction for an inverse problem of the fractional diffusion process
+7BFAA845	An adaptive algorithm for image restoration using combined penalty functions
+81758CAA	A Multiplicative Regularized Gauss–Newton Inversion for Shape and Location Reconstruction
+80E77ADC	On application of asymptotic generalized discrepancy principle to the analysis of epidemiology models
+80A8C852	Physically based adaptive preconditioning for early vision
+7E5A88C3	Regression shrinkage and selection via the lasso: a retrospective
+8064EACE	Reconstructing surfaces by volumetric regularization using radial basis functions
+5DB3C18E	Raman lidar for monitoring of aerosol pollution in the free troposphere
+8030EE0C	A blocking and regularization approach to high‐dimensional realized covariance estimation
+80229734	Multi-wavelength Raman lidar, sun photometric and aircraft measurements in combination with inversion models for the estimation of the aerosol optical and physico-chemical properties over Athens, Greece
+7BCA8004	An efficient parallel implementation of the MSPAI preconditioner
+80CF84F0	On the estimation of transfer functions, regularizations and Gaussian processes-Revisited
+7E2904C9	Unsupervised Bayesian Convex Deconvolution Based on a Field With an Explicit Partition Function
+812C993A	Tikhonov regularization as a tool for assimilating soil moisture data in distributed hydrological models
+7E4CB1F1	Accelerated three‐dimensional upper airway MRI using compressed sensing
+5CAEAD77	Path Algorithms for One-Class SVM
+7AB334F8	Functional principal components analysis via penalized rank one approximation
+7F9A4BAB	Parallel MRI reconstruction using variance partitioning regularization
+7D3B93CD	Density-Driven Generalized Regression Neural Networks (DD-GRNN) for Function Approximation
+79B62D11	Video super-resolution with registration-reliability regulation and adaptive total variation
+7AF167DD	On the residual empirical process based on the ALASSO in high dimensions and its functional oracle property
+7A98C297	A regularizing L-curve Lanczos method for underdetermined linear systems
+8034BE04	On Model Selection Consistency of Lasso
+7DDB0F75	Regularized, fast, and robust analytical Q‐ball imaging
+792EC3C5	Determination of pore size distributions by regularization and finite element collocation
+7ED7823C	Efficient iterative tip/tilt reconstruction for atmospheric tomography
+774274ED	Multi-order blind deconvolution algorithm with adaptive Tikhonov regularization for infrared spectroscopic data
+804449F0	A New Value Picking Regularization Strategy—Application to the 3-D Electromagnetic Inverse Scattering Problem
+7E6E4E7C	Performance Study of the Robust Bayesian Regularization Technique for Remote Sensing Imaging in Geophysical Applications
+7FB8AAC7	Parallel MR Image Reconstruction Using Augmented Lagrangian Methods
+7649B187	Learning Output Kernels for Multi-Task Problems
+81657D72	Regularization techniques for learning with matrices
+757A4674	Parametric semi-blind deconvolution algorithm with Huber–Markov regularization for passive millimeter-wave images
+7A0E6CD2	An image reconstruction algorithm based on the extended Tikhonov regularization method for electrical capacitance tomography
+76E2364F	Regularization Super-Resolution with Inaccurate Image Registration
+7AE833E0	Pivoted Cauchy-Like Preconditioners for Regularized Solution of Ill-Posed Problems
+7B94261F	On Steepest-Descent-Kaczmarz methods for regularizing systems of nonlinear ill-posed equations
+784ABC4A	DYNAMIC LOAD IDENTIFICATION FOR UNCERTAIN STRUCTURES BASED ON INTERVAL ANALYSIS AND REGULARIZATION METHOD
+7AAFD1E0	Using QR factorization and SVD to solve input estimation problems in structural dynamics
+7FA6260C	Microwave Biomedical Imaging Using the Multiplicative Regularized Gauss--Newton Inversion
+7F63548B	Regularization of diffusion-based direction maps for the tracking of brain white matter fascicles.
+807B616C	A Probabilistic Approach to Pattern Matching in the Continuous Domain
+75D3CC03	Regularization by Intrinsic Plasticity and its Synergies with Recurrence for Random Projection Methods
+79C14F73	Comparison of integral-type nonlocal plasticity models for strain-softening materials
+7A54F480	Shadow block iteration for solving linear systems obtained from wavelet transforms
+7A614E25	LOCAL REGULARIZATION METHODS FOR THE STABILIZATION OF LINEAR ILL-POSED EQUATIONS OF VOLTERRA TYPE
+7CC9FACE	A posteriori stopping rule for regularized fixed point iterations
+772271FA	A Modified Extended Bayesian Method for Parameter Estimation
+7A473D89	Pilot-point based multi-objective calibration in a surface–subsurface distributed hydrological model
+7631F668	Nonlinear GRAPPA: A kernel approach to parallel MRI reconstruction
+63934380	A Survey of L1 Regression
+80A19CD4	Regularization of descriptor systems by output feedback
+802A166E	Unitarity and On-Shell Recursion Methods for Scattering Amplitudes
+805ED9C0	High-Dimensional Graphical Model Selection Using $\ell_1$-Regularized Logistic Regression
+7EF19D94	Statistical modelling of functional data
+7C0F34AE	Stable Estimation of a Covariance Matrix Guided by Nuclear Norm Penalties
+7C10F7EA	Heat flux estimation of a plasma rocket helicon source by solution of the inverse heat conduction problem
+753B4F38	Modeling inter-cluster and intra-cluster discrimination among triphones
+7EE0C9B0	Extensions of a Theory of Networks for Approximation and Learning: Dimensionality Reduction and Clustering
+5ACA35DB	Relations Between Regularization and Diffusion Filtering
+5F18B1BE	Adaptive Parameter Estimation for Satellite Image Deconvolution
+809B3823	Robust Estimation of Transformation for Non-Rigid Registration
+785B4B63	Nonlocal Linear Image Regularization and Supervised Segmentation
+7D33BB0F	A strain energy approach to regularization in displacement field fits of elastically deforming bodies
+78563FBF	ON APPLICATION OF GENERALIZED DISCREPANCY PRINCIPLE TO ITERATIVE METHODS FOR NONLINEAR ILL-POSED PROBLEMS
+7AE22314	Numerical Issues in Distributed Inelasticity Modeling of RC Frame Elements for Seismic Analysis
+7A14F026	Log‐Euclidean metrics for fast and simple calculus on diffusion tensors
+7AA5BE88	Piecewise linear regularized solution paths
+7F1D478E	A regularized force-based beam element with a damage-plastic section constitutive law
+81207731	Efficient Reconstruction of Piecewise Constant Images Using Nonsmooth Nonconvex Minimization
+7DD9BFBA	Analysis of Resolution and Noise Properties of Nonquadratically Regularized Image Reconstruction Methods for PET
+7F3B4097	High temporal resolution of dynamic MRI using the PSF model with robust reconstruction
+793EFB94	A modified adaptive Lasso for identifying interactions in the Cox model with the heredity constraint
+7E98D1D2	A Bidiagonalization-Regularization Procedure for Large Scale Discretizations of Ill-Posed Problems
+7DD580D6	Intelligent Experiment Design-Based Virtual Remote Sensing Laboratory
+803CB810	On the Representer Theorem and Equivalent Degrees of Freedom of SVR
+8088EF78	An improved iterative SENSE reconstruction method
+7A773210	Regularization techniques in interior point methods
+7E41BF23	Segmentation of ARX-models using sum-of-norms regularization
+5F75854A	Learning Compressible Models
+7742681C	Empirical Bayesian regularization of the inverse acoustic problem
+770F9EA6	Linearized proximal alternating minimization algorithm for motion deblurring by nonlocal regularization
+76ADDB56	Approximation BFGS methods for nonlinear image restoration
+8162E57B	Regularized robust filters for time-varying uncertain discrete-time systems
+7A62872B	Stabilizing the lasso against cross-validation variability
+798E0563	A discrepancy principle for equations with monotone continuous operators
+7C232951	An Adaptive Markov Chain Monte Carlo Approach to Time Series Clustering of Processes with Regime Transition Behavior
+7794FD26	Feature selection with neural networks
+7F61E9DF	An Efficient Method for Compressed Sensing
+7C9EE2B1	An iterative thresholding algorithm for the inverse problem of electrical resistance tomography
+7E3719FA	Determining cardiac velocity fields and intraventricular pressure distribution from a sequence of ultrafast CT cardiac images
+80E47E3D	Consistency Check on Volume and Triad Operator Quantisation in Loop Quantum Gravity II
+78E15D8C	A MOM-based algorithm for moving force identification: Part I - Theory and numerical simulation
+5EFE9486	Detection of abnormal lung sounds taking into account duration distribution for adventitious sounds
+7C1A43CC	On Spectral Windows In Supervised Learning From Data
+7F8A3005	Regularization of Inverse Visual Problems Involving Discontinuities
+7DD93C5B	On the Selection of Weight Decay Parameter for Faulty Networks
+7DA9D824	Robust feature selection based on regularized brownboost loss
+801BF0B3	3D curve inference for diffusion MRI regularization and fibre tractography
+79DC3F9D	Lidar measurements of Raman scattering at ultraviolet wavelength from mineral dust over East Asia
+76017EBD	A MTF Compensation for Satellite Image Using L-curve-based Modified Wiener Filter
+7D3F095E	Ill-posed inverse problems in economics
+80367FCF	Skin and bones: multi-layer, locally affine, optical flow and regularization with transparency
+786331DD	On Semismooth Newton's Methods for Total Variation Minimization
+79E1E6A6	The cost of uniqueness in groundwater model calibration
+7B0EA0EB	Regularization of exponentially ill-posed problems
+770E6DF6	Fast multilevel algorithm for a minimization problem in impulse noise removal
+768CE5BC	Robust mapping of the myelin water fraction in the presence of noise: Synergic combination of anisotropic diffusion filter and spatially regularized nonnegative least squares algorithm
+7B434F7B	The method of fundamental solutions for inverse boundary value problems associated with the two-dimensional biharmonic equation
+80AB5471	Universal Glucose Models for Predicting Subcutaneous Glucose Concentration in Humans
+7FF8FE5C	Portable Raman Lidar PollyXT for Automated Profiling of Aerosol Backscatter, Extinction, and Depolarization
+78B3E37D	Estimation of the parameters in regularized simultaneous super-resolution
+7FB563E4	Regularization without preliminary knowledge of smoothness and error behaviour
+7580CC28	Computation of three stochastic modifications of Stokes's formula for regional geoid determination
+79E19BD9	Mejora de la estabilidad, robustez y tiempo de cómputo en CRHPC con BDU
+7DB9099F	Identification of boundary heat fluxes in a falling film experiment using high resolution temperature measurements
+7D445EE7	A Robust Adaptive Super-Resolution Method
+78CFD675	A meta-learning approach to the regularized learning-Case study: Blood glucose prediction
+795BD6C4	On Clustering of Non-stationary Meteorological Time Series
+792944DA	Designing Various Multivariate Analysis at Will via Generalized Pairwise Expression
+8137EAA7	On discontinuity-adaptive smoothness priors in computer vision
+75E7F6FF	A limitation in the use of spatially stationary strain variance estimation in the regularization of shear modulus reconstruction
+75403DF6	Robust and stable predictive control with bounded uncertainties
+800019D5	Cloud tomography: Role of constraints and a new algorithm
+58378F86	φ-regular functions in Asplund spaces
+7B237078	Remote sensing of surface reflective properties: Role of regularization and a priori knowledge
+3BA3EA63	Spectral blind deconvolution with differential entropy regularization for infrared spectrum
+6B5301A2	A multi-frame adaptive super-resolution method using double channel and regional pixel information
+7B905D28	Improved fiber tractography with Bayesian tensor regularization
+7A366D0E	A modified method for high order numerical derivatives
+7B14530B	A uniqueness result concerning a robust regularized least-squares solution
+754BA754	On the solution of some nonlinear inverse problems in geophysics
+7F95BB86	Performance of reconstruction-based super-resolution with regularization
+8168E7F5	Casimir energy in deconstruction and the cosmological constant
+802C9DFB	A Multi-objective Learning Algorithm for RBF Neural Network
+77A8CDB6	High-dimensional regression with noisy and missing data: Provable guarantees with nonconvexity
+7DD1F9A4	A new wavelet method for solving an ill-posed problem
+7EE3D7F3	Iterative methods for the reconstruction of astronomical images with high dynamic range
+7EEDDB68	Codomain scale space and regularization for high angular resolution diffusion imaging
+80CDC4C4	Regularization of Phase Retrieval With Phase-Attenuation Duality Prior for 3-D Holotomography
+7E99B753	A Computationally Stable Approach to Gaussian Process Interpolation of Deterministic Computer Simulation Data
+7BA8E649	SEMI-DISCRETE CENTRAL DIFFERENCE METHOD FOR DETERMINING SURFACE HEAT FLUX OF IHCP
+7E45F77D	Maximin effects in inhomogeneous large-scale data
+761F3059	A computational method for stable analytic continuation
+79F1432A	Clustering Curves on a Reduced Subspace
+78B29352	Structured variable selection and estimation
+779449BA	Functional regression modeling via regularized Gaussian basis expansions
+7D9E2F21	Predictor estimation via Gaussian regression
+7A43D23B	Optimizing extreme learning machines via ridge regression and batch intrinsic plasticity
+76C60676	A weighted view on the partial least-squares algorithm
+7ECE76F2	Model Estimation of Cerebral Hemodynamics Between Blood Flow and Volume Changes: A Data-Based Modeling Approach
+7CBDC14B	A total variation regularization strategy in dynamic MRI
+789D3533	On the reconstruction of obstacle using MFS from the far field data
+7C4BBF98	Distributed parametric and nonparametric regression with on-line performance bounds computation
+5BD0B0D5	A riemannian framework for the processing of tensor-valued images
+7D707B95	λτ-Space Representation of Images and Generalized Edge Detector
+787B47D7	The Equivalence of the Taut String Algorithm and BV-Regularization
+760B70CB	Tikhonov regularization and the L-curve for large discrete ill-posed problems
+773C4127	Robust satisficing linear regression: Performance/robustness trade-off and consistency criterion
+784B6751	Data regularization for a backward time-fractional diffusion problem
+7BBEC73A	On the inverse problem of identifying Lamé coefficients in linear elasticity
+427F3C00	Image reconstruction from phased-array data based on multichannel blind deconvolution
+7B4EF606	Four Encounters with System Identification
+77F2D934	A method for simultaneous identification of the full nonlinear damping and the phase shift and amplitude of the external harmonic excitation in a forced nonlinear oscillator
+7C899F5F	Robust Truncated Hinge Loss Support Vector Machines
+00874FEF	8 - Covariance Matrix Estimation in Time Series
+7EB87D4F	Numerical approaches for state-dependent neutral delay equations with discontinuities
+793653B7	A Variational Approach to Remove Outliers and Impulse Noise
+0168E905	Identification of Wheel-Rail Contact Forces Based on Strain Measurement and Finite Element Model of the Rolling Wheel
+796FA59D	3D velocity from 3D Doppler radial velocity
+76701EA0	Convergence analysis of a block iterative version of the loping Landweber–Kaczmarz iteration
+804C16DB	IMAGE RESTORATION BASED ON GENERALIZED FINITE AUTOMATA ENCODED EDGE PRESERVING REGULARIZATION
+7917D3AA	Analysis of discrete ill-posed problems by means of the L-curve
+78B616AB	Iterative regularization for elliptic inverse problems
+80C28EA9	The Phoenix Project: master constraint programme for loop quantum gravity
+7DF8B682	Adaptive regularization of noisy linear inverse problems
+7E085B30	Numerically consistent regularization of force‐based frame elements
+786383BC	Solving Ill-Conditioned and Singular Linear Systems: A Tutorial on Regularization
+76BD090B	Spatial regularization of SVM for the detection of diffusion alterations associated with stroke outcome.
+789593A3	A regularized discriminative framework for EEG analysis with application to brain–computer interface
+7518561D	HIGHLIGHTING RELATIONSHIPS BETWEEN HETEROGENEOUS BIOLOGICAL DATA THROUGH GRAPHICAL DISPLAYS BASED ON REGULARIZED CANONICAL CORRELATION ANALYSIS
+76AD9062	Variable selection and regression analysis for graph-structured covariates with an application to genomics
+78D49579	An Interior-Point Method for Large-Scale l 1 -Regularized Logistic Regression
+7564FDD9	Two regularization methods for a Cauchy problem for the Laplace equation
+79638FA6	Viscoelastic properties of waxy maize starch and selected non-starch hydrocolloids gels
+5A2660CA	A projection and a variational regularization method for sparse inverse problems
+7E444521	Greedy Tikhonov regularization for large linear ill-posed problems
+76151614	Dual regularization-based image resolution enhancement for asymmetric stereoscopic images
+7CBCA551	Rotational Interface Formulation for Delamination Analysis of Composite Laminates
+7F8E89FA	Variable selection for multiply‐imputed data with application to dioxin exposure study
+7AC69432	Regularized inversion of microphysical atmospheric particle parameters: Theory and application
+7E7DDEC5	Regression on manifolds: Estimation of the exterior derivative
+7AD63FCA	A generalized global Arnoldi method for ill-posed matrix equations
+75D226E3	Smoothly Clipped Absolute Deviation on High Dimensions
+7797D9CA	Coupling BEM with FEM by a direct computation of the boundary stiffness matrix
+7583AAE6	An Iteratively Reweighted Norm Algorithm for Minimization of Total Variation Functionals
+8013DBE0	Tikhonov regularized Poisson likelihood estimation: theoretical justification and a computational method
+7986E10A	Dataset structure as prior information for parameter-free regularization of extreme learning machines
+7DC9793F	Simultaneously Structured Models With Application to Sparse and Low-Rank Matrices
+769233C9	On an inverse problem for inhomogeneous thermoelastic rod
+78457887	Variable Selection for Model‐Based High‐Dimensional Clustering and Its Application to Microarray Data
+77AEB923	An adaptive pruning algorithm for the discrete L-curve criterion
+791D3F75	Regularized greedy algorithms for network training with data noise
+792BE139	Relaxation procedures for an iterative MFS algorithm for the stable reconstruction of elastic fields from Cauchy data in two-dimensional isotropic linear elasticity
+7BCEC334	Regularization of blood motion fields by modified Navier–Stokes equations
+79CA65A9	Solving inverse heat conduction problem with discrete wavelet transform
+80E9AA4F	Reconstruction of boundary controls in parabolic systems
+7E767C12	An advanced regularization methodology for use in watershed model calibration
+8055A8B1	Two-Dimensional Radio Frequency Tomography
+7DEC282B	Nearly cloaking the elastic wave fields
+7C39DDBE	Wavelets and high order numerical differentiation
+7D45364D	Target Detection With Semisupervised Kernel Orthogonal Subspace Projection
+7A7551EF	Eigentrigraphemes for under-resourced languages
+7C56291C	Regularization of soft-X-ray imaging in the DIII-D tokamak
+787F9DB6	Bayes and empirical Bayes semi-blind deconvolution using eigenfunctions of a prior covariance
+781B8E8A	Regularization by Truncated Total Least Squares
+7F55CF19	Regularization Approaches to Demosaicking
+7971787D	Prediction error identification of linear systems: A nonparametric Gaussian regression approach
+777F37D5	On a quadratic eigenproblem occurring in regularized total least squares
+76554468	Fourth-order modified method for the Cauchy problem for the Laplace equation
+776AA1E6	The non-singular Green tensor of Mindlin's anisotropic gradient elasticity with separable weak non-locality
+7C04117B	Minimization of a Large-Scale Quadratic Function Subject to a Spherical Constraint
+80B0F273	Image restoration through l0 analysis-based sparse optimization in tight frames
+7ACFC23B	A MOM-based algorithm for moving force identification: Part II - Experiment and comparative studies
+8148F7CE	Semisupervised Image Classification With Laplacian Support Vector Machines
+7E0BF59C	Regularized vector field learning with sparse approximation for mismatch removal
+7983445B	An iterative method for the Cauchy problem in linear elasticity with fading regularization effect
+78846318	Sensitivity encoding reconstruction with nonlocal total variation regularization
+77A0A459	High-resolution EEG: a new realistic geometry spline Laplacian estimation technique
+7F510A59	On unbounded operators and applications
+773EA55A	Total Generalized Variation
+7961548A	Using dimensional reduction for hadronic collisions
+7D531021	Accelerated short‐TE 3D proton echo‐planar spectroscopic imaging using 2D‐SENSE with a 32‐channel array coil
+7C385321	Wavelet estimation by Bayesian thresholding and model selection
+7FCA0816	Regularized Total Variation Image Enhancement Using E.Coli Bacteria Foraging Algorithm: Application to Neutron Radiography Projections
+7A36DCCF	Two-point step-size iterative soft-thresholding method for sparse reconstruction
+80295718	The index function and Tikhonov regularization for ill-posed problems
+7DA92E38	Regularized discriminant analysis for the small sample size problem in face recognition
+7664BD66	Autoregressive frequency detection using Regularized Least Squares
+7BBE7213	An inverse problem for fractional diffusion equation in 2-dimensional case: Stability analysis and regularization
+76C3996A	Multitask multiclass support vector machines: Model and experiments
+7CE92D8C	Efficient Image Magnification and Applications to Super-Resolution Reconstruction
+7B4A441D	An inverse problem approach to pattern recognition in industry
+7BAEA074	Digital Image Reconstruction: Deblurring and Denoising
+7AAE4153	Bootstrapping Lasso Estimators
+80DE24E6	A Comparison of Regularization Techniques for Magnetoencephalography Source Reconstruction
+254FD925	Functional sufficient dimension reduction: Convergence rates and multiple functional case
+7B088CD1	An interior-point method for large constrained discrete ill-posed problems
+77D0FB94	On a quasi-reversibility regularization method for a Cauchy problem of the Helmholtz equation
+7C33175E	The Regularized Low Pass Filter
+7D0C088E	Deep Learning Regularized Fisher Mappings
+80D72754	A new regularized transform-domain NLMS adaptive filtering algorithm
+76B2B573	Nonhomogeneous heat equation: Identification and regularization for the inhomogeneous term
+7B2F142E	Hölder-Type Approximation for the Spatial Source Term of a Backward Heat Equation
+7F747767	Learning Task-Optimal Registration Cost Functions for Localizing Cytoarchitecture and Function in the Cerebral Cortex
+78698F0C	Adaptive regularized image interpolation using a probabilistic gradient measure
+8117B53C	Regularization in Tomographic Reconstruction Using Proximal Forward-Backward Algorithm
+7B558736	Spatio-temporal random fields: compressible representation and distributed estimation
+7EF9725E	Sylvester Tikhonov-regularization methods in image restoration
+7BF944E8	Self-regular stress integral equations for axisymmetric elasticity.
+7D224321	Cauchy problems of Laplace's equation by the methods of fundamental solutions and particular solutions
+784DF927	Regularized virtual fields method for mechanical properties identification of composite materials
+751F8CF9	The Spin Foam Approach to Quantum Gravity
+7CE4E89C	Arnoldi-Tikhonov regularization methods
+7F7167D1	On stable numerical differentiation
+7DA7F3D8	Adaptive FCM with contextual constrains for segmentation of multi-spectral MRI
+76770DDE	A regularized structured total least squares algorithm for high-resolution image reconstruction
+754548B7	High order structural image decomposition by using non-linear and non-convex regularizing objectives
+7907D102	Regularized solution of the Cauchy problem for the Laplace equation using Meyer wavelets
+78A7D704	On inexact generalized proximal methods with a weakened error tolerance criterion
+773F1306	Saliency adaptive super-resolution image reconstruction
+7EE9FCF4	An Efficient Method for an Ill-Posed Problem — Band-Limited Extrapolation by Regularization
+7A9F2747	Partial Lanczos extreme learning machine for single-output regression problems
+7703E1C0	A meshless method for solving the cauchy problem in three-dimensional elastostatics
+7D25216E	Camouflaged Deconvolution with Application to Blood Curve Modeling in FDG PET Studies
+807A21A4	On Edge Detection
+80CF8DFC	Phase retrieval through regularization for seismic problems
+80E6D637	Multicontingency voltage stability monitoring of a power system using an adaptive radial basis function network
+79290555	Meshless thin plate spline methods for the modified Helmholtz equation
+761A29B7	Variable and boundary selection for functional data via multiclass logistic regression modeling
+7837F158	Symmetries in the two-body problem associated to quasihomogeneous potentials
+75E77FAE	Light-adaptive architectures for regularization vision chips
+794AC5D6	An optimal regularization for structural parameter estimation from modal response
+7AE95175	Parameter identification in Helmholtz-type equations with a variable coefficient using a regularized DRBEM
+7983FC16	A new spatial regularization scheme for the identification of the geometric shape of an inclusion in a finite body
+7A6DAEF6	Tikhonov Regularization with a Solution Constraint
+77429A35	Coherence regularization for SENSE reconstruction with a nonlocal operator (CORNOL)
+7EC21E0B	Large Vocabulary Mandarin Continuous Speech Recognition under Noisy Environment
+7FC0C78E	Regularization studies of linear discriminant analysis in small sample size scenarios with application to face recognition
+76F569BB	A domain decomposition technique for spline image restoration on distributed memory systems
+80364AD2	Sensitivity filtering from a continuum mechanics perspective
+79ABFBE4	A comparison of automatic techniques for estimating the regularization parameter in non‐linear inverse problems
+7CD55D67	An iterative method for linear discrete ill-posed problems with box constraints
+75D2A4BD	Solving a final value fractional diffusion problem by boundary condition regularization
+7E51C7A6	Nonlinear Regularized Reaction-Diffusion Filters for Denoising of Images With Textures
+810DBE01	Regularization of tissue shear modulus reconstruction using strain variance
+7CED1964	Kernel Regularized Bone Surface Reconstruction from Partial Data Using Statistical Shape Model
+7A52F222	Support vector machines regression for retrieval of leaf area index from multiangle imaging spectroradiometer
+7D15C7DD	Classification of galactograms using fractal properties of the breast ductal network
+77D4E70E	The Bayesian elastic net
+79BB039F	Edge-preserving restoration in 2-D fluorescence microscopy
+7E2694E8	Robust modeling based on optimized EEG bands for functional brain state inference
+7B7A635F	Impact-Force Estimation by Quadratic Spline Approximation
+7E08F1EE	An improved GLMNET for l1-regularized logistic regression
+7AF0BB22	An adaptive super-resolution method based on regional pixel information and ringing artifacts suppression
+774D15BA	Two regularization methods to identify time-dependent heat source through an internal measurement of temperature
+7BA8570E	Optimal control of multivalued quasi variational inequalities
+80FA3E75	Regularization operators for natural images based on nonlinear perception models
+7D43AE80	On the regularization of forgetting recursive least square
+773B9691	Rapid speaker adaptation using compressive sensing
+7E72D3CC	Flexible covariance estimation in graphical Gaussian models
+7DBBA4BA	Gradient Projection for Sparse Reconstruction: Application to Compressed Sensing and Other Inverse Problems
+5D722D84	Approximation and regularization of Lipschitz functions: Convergence of the gradients
+770EB885	Elastic-net regularization in learning theory
+7EEF539F	New Learning Based Super-Resolution: Use of DWT and IGMRF Prior
+75C4E0C2	A numerical method for identifying heat transfer coefficient
+7588FD73	Identification of switched linear regression models using sum-of-norms regularization
+7AFD712A	NPTool: a Matlab software for nonnegative image restoration with Newton projection methods
+75A4B71B	A consistent algorithm to solve Lasso, elastic-net and Tikhonov regularization
+6B85C55A	Influence of the Discretization Methods on the Distribution of Relaxation Times Deconvolution: Implementing Radial Basis Functions with DRTtools
+7534C2DF	The method of fundamental solutions for the detection of rigid inclusions and cavities in plane linear elastic bodies
+7679D2AE	THE METHOD OF FUNDAMENTAL SOLUTIONS FOR AN INVERSE INTERNAL BOUNDARY VALUE PROBLEM FOR THE BIHARMONIC EQUATION
+7EE4A06B	Regularized Interpolation for Noisy Images
+7B5C5606	Non-quadratic convex regularized reconstruction of MR images from spiral acquisitions
+7B291343	Smoothing impact of isostatic crustal thickness models on local integral inversion of satellite gravity gradiometry data
+7B7A5138	The triangle method for finding the corner of the L-curve
+55AD3B68	Incremental regularized extreme learning machine and it׳s enhancement
+7A01FB33	Selection of regularization parameter for optical topography
+7B8406B1	Variable selection for functional regression models via the L1 regularization
+5AE0E4A9	Text Categorization Based on Regularized Linear Classification Methods
+7976FBBB	Determination of a time-dependent coefficient in the bioheat equation
+78E090CD	Regularization of backward heat conduction problem
+79D2FC2D	An equation error approach for the elasticity imaging inverse problem for predicting tumor location
+7FC41C91	Regularization Techniques in Realistic Laplacian Computation
+75BECA36	Optimally pruned extreme learning machine with ensemble of regularization techniques and negative correlation penalty applied to automotive engine coldstart hydrocarbon emission identification
+773719D8	Improving source reconstructions by combining bioelectric and biomagnetic data
+7DC530A8	Using mesh adaption for the identification of a spatial field of material properties
+799D0072	Regularized integral representation of thermoelastic stresses
+7A24DBE6	Bagging for linear classifiers
+784BDB73	Weakly Constrained Minimization: Application to the Estimation of Images and Signals Involving Constant Regions
+77090234	Multi-Class Learning by Smoothed Boosting
+7FF3BD92	A Nonconformal Volume Integral Equation for Electromagnetic Scattering From Penetrable Objects
+78C114F8	Inverse scattering scheme based on the moment method in the spectral domain, part I: Theory
+7B3D2D5B	Dynamic force identification based on enhanced least squares and total least-squares schemes in the frequency domain
+7AA19F1F	Regularization in model updating
+7800DAE4	Choosing Regularization Parameters In Iterative Methods For Ill-Posed Problems
+76838897	Angular smoothing and radial regularization of ODF fields: Application on deterministic crossing fiber tractography
+7C1C3548	Comparison of global and sequential methods for an inverse heat transfer problem
+78B70189	Function approximation on non-Euclidean spaces
+7D2B5DB5	3D MFIE accuracy improvement using regularization
+7DD1B8E4	Estimating spectral information of complex fenestration systems in a video-goniophotometer
+7A6DE10A	The a posteriori Fourier method for solving the Cauchy problem for the Laplace equation with nonhomogeneous Neumann data
+7F4E7F7C	Optimal Estimation of Deterioration From Diagnostic Image Sequence
+7C9DF954	An Extension of Possibilistic Fuzzy C-means using Regularization
+7A002209	Slow-fast systems on algebraic varieties bordering piecewise-smooth dynamical systems
+7BD2EAB3	Spectral analysis of nonlocal regularization in two‐dimensional finite element models
+835C6FFF	Stabilization of Stochastic Iterative Methods for Singular and Nearly Singular Linear Systems
+77AA940F	Explicit Cancellation of Triangles in One-loop Gravity Amplitudes
+78A96B50	Old and new parameter choice rules for discrete ill-posed problems
+76661B2F	Convergence results for the discrete regularization of linear-quadratic control problems with bang–bang solutions
+7B09613A	Matrix-free algorithm for the large-scale constrained trust-region subproblem
+7B6CD65F	Sustainable economy inspired large-scale feed-forward portfolio construction
+77BA1ECE	On a fractional backward heat conduction problem: Application to deblurring
+7FC151DF	Detecting Rare Haplotype‐Environment Interaction With Logistic Bayesian LASSO
+809A2EAB	A mixed integer nonlinear programming formulation for the problem of fitting positive exponential sums to empirical data
+7BCC10ED	Regularization of bending and crossing white matter fibers in MRI Q-ball fields
+7BB52E57	Approximating minimum norm solutions of rank‐deficient least squares problems
+7BC402AC	Nonlinear regression modeling via regularized radial basis function networks
+773D64A3	Progress on the two-dimensional filter diagonalization method. An efficient doubling scheme for two-dimensional constant-time NMR
+7183B6F3	A post-processing system to yield reduced word error rates: Recognizer Output Voting Error Reduction (ROVER)
+7BD64644	Discrepancy based model selection in statistical inverse problems
+7C9896C1	The truncation method for identifying the heat source dependent on a spatial variable
+7BA74C29	Estimation in generalized linear models for functional data via penalized likelihood
+5C8EF4F9	Regularization of hidden dynamics in piecewise smooth flows
+7FFC4CBF	When do memory limitations lead to regularization? An experimental and computational investigation
+7D7F26E6	Subspace identification using predictor estimation via Gaussian regression
+779D8DE4	Robust PSD determination of micro and meso-pore adsorbents via novel modified U curve method
+806CFF40	Spatially sparsed Common Spatial Pattern to improve BCI performance
+766EBE18	Sparse Bayesian representation in time–frequency domain
+7ED6BA01	Choosing Near-Optimal Regularization Parameter for the Inverse Problem of Electrocardiography
+7822CD27	Iteratively Regularized Gauss--Newton Method for Atmospheric Remote Sensing
+7D67065A	On Iterative Regularization and Its Application
+790017EF	Eigenstructure assignment in undamped vibrating systems: A convex-constrained modification method based on receptances
+7929300D	Regularization for semilinear elliptic optimal control problems with pointwise state and control constraints
+787FB439	A note on “sideways heat equation and wavelets” and constant e ∗
+7E998AAE	STABLE NUMERICAL DIFFERENTIATION: WHEN IS IT POSSIBLE?
+7A3542D5	A splitting method for a backward parabolic equation with time-dependent coefficients
+77CD3968	Variable matrix-type step-size affine projection algorithm with orthogonalized input vectors
+7B8494F4	Optimization of sensitivity encoding with arbitrary k-space trajectories
+7E320D6B	Learning with Limited Supervision by Input and Output Coding
+80C1D0AD	A multiplicative regularization approach for deblurring problems
+78869908	Regularization approach for inverting the exponential radon transforms (ERT)
+78E627DD	A New TwIST: Two-Step Iterative Shrinkage/Thresholding Algorithms for Image Restoration
+8114B38D	An improved method for joint image registration and superresolution
+804433CC	A Bayesian framework for regularization
+7735E9C4	Shannon sampling and function reconstruction from point values
+7738B11A	Vast volatility matrix estimation for high-frequency financial data
+79263CAF	Regularized logistic regression without a penalty term: An application to cancer classification with microarray data
+7FC96E71	Total Least Squares Methods
+76D17534	A framework based on spin glass models for the inference of anatomical connectivity from diffusion‐weighted MR data – a technical review
+786275E3	TROP-ELM: A double-regularized ELM using LARS and Tikhonov regularization
+82FF526B	A BEM formulation in conjunction with parametric equation approach for three-dimensional Cauchy problems of steady heat conduction
+7D481E87	Bayesian online multi-task learning using regularization networks
+7CABB544	A novel locally regularized automatic construction method for RBF neural models
+800A3493	On the embedding of variational inequalities
+5AD50301	Sliding Vector Fields via Slow--Fast Systems
+7F90C964	Compressed sensing parallel Magnetic Resonance Imaging
+8008D5C1	Efficient Minimization Method for a Generalized Total Variation Functional
+79E037AD	On the Laplacian operation with applications in magnetic resonance electrical impedance imaging
+8118E97E	Geodesic Active Fields—A Geometric Framework for Image Registration
+78BEDEBD	Quantile regression with ℓ 1—regularization and Gaussian kernels
+803DC8CD	From Convex to Nonconvex: A Loss Function Analysis for Binary Classification
+7B364F6F	Axisymmetric and two-dimensional crack identification using boundary elements and coupled quasi-random downhill simplex algorithms
+7A26A010	Bayesian Online Multitask Learning of Gaussian Processes
+80A33F82	A Regularized Maximum Figure-of-Merit (rMFoM) Approach to Supervised and Semi-Supervised Learning
+80A3897C	Regularizing ad hoc retrieval scores
+7E5CA07D	On-line adaptation and Bayesian detection of environmental changes based on a macroscopic time evolution system
+7BFE4898	Fast computation of smoothing splines subject to equality constraints.
+7B86FE6D	Efficient determination of the hyperparameter in regularized total least squares problems
+780ABBB3	Uncertainty-based learning of acoustic models from noisy data
+7B10868D	Distributed Environmental Inversion for Multi-Static Sonar Tracking
+84349968	Weight-decay regularization in reproducing Kernel Hilbert spaces by variable-basis schemes
+7A58B9AD	On Tikhonov regularization, bias and variance in nonlinear system identification
+7ADE322B	Nonparametric inference of the hemodynamic response using multi-subject fMRI data
+76168B85	Solving trust-region subproblem augmented with linear inequality constraints
+805157C9	Linear prediction models with graph regularization for web-page categorization
+8009F4D0	Harmonic multiresolution estimators for denoising and regularization of SPECT-PET data
+7611E4A0	Restoring Images Degraded by Spatially Variant Blur
+78F07DFA	Recovering edges in ill-posed inverse problems: optimality of curvelet frames
+66C0FE78	Training Neural Networks with Noisy Data as an Ill-Posed Problem
+77CFBD75	Ill-posedness versus ill-conditioning–an example from inverse option pricing
+77F4CAF8	An efficient kernel discriminant analysis method
+79AF616B	A multiscale, statistically based inversion scheme for linearized inverse scattering problems
+49249541	Inverse problems formulated in terms of first-kind Fredholm integral equations in indirect measurements
+767E1F00	Ultraviolet and Infrared Divergences in Implicit Regularization: a Consistent Approach
+7D3F6DDC	Interpolation using wavelet bases
+77A55142	Prediction of first lactation 305-day milk yield in Karan Fries dairy cattle using ANN modeling
+7CA0627A	Regularizability of linear time-invariant descriptor systems under decentralized control
+815ADEFC	Space-Variant Restoration of Images Degraded by Camera Motion Blur
+7E247886	Unifying Experiment Design and Convex Regularization Techniques for Enhanced Imaging With Uncertain Remote Sensing Data—Part II: Adaptive Implementation and Performance Issues
+779B8D26	Stochastic regularization of feedwater flow rate evaluation for the venturi meter fouling problem in nuclear power plants
+7E1EC1D1	Path Following in the Exact Penalty Method of Convex Programming
+78907943	Fast surface interpolation using multiresolution wavelet transform
+7FBD9721	SURE-Based Non-Local Means
+7E53BB21	Task-based comparison of inverse methods in magnetoencephalography
+765067F1	A finite strain, finite band method for modeling ductile fracture
+794ED06C	Two soft-thresholding based iterative algorithms for image deblurring
+80BFF818	Algorithm 873: LSTRS: MATLAB software for large-scale trust-region subproblems and regularization
+7AC6FA41	Wavelet and error estimation of surface heat flux
+8113BCCD	Eigenfeature Regularization and Extraction in Face Recognition
+7881B8BF	Regularized locality preserving discriminant analysis for face recognition
+79B505DA	Image restoration through regularization based on error energy minimization
+80380B97	Maximum mutual information based reduction strategies for cross-correlation based joint distributional modeling
+8051E878	Regularized Robust Estimation of Mean and Covariance Matrix Under Heavy-Tailed Distributions
+79226F64	Dimension reduction and variable selection in case control studies via regularized likelihood optimization
+79D5B605	Cross-Lingual Subspace Gaussian Mixture Models for Low-Resource Speech Recognition
+787B131D	Adaptive frequency-domain regularization for sparse-data tomography
+7579D8DE	Optimization of tuning parameters for open node fault regularizer
+8098C8FD	Unifying regularization and Bayesian estimation methods for enhanced imaging with remotely sensed Data-part I: theory
+80E8792D	A framework for state-space estimation with uncertain models
+7B6C4D19	Level-set approaches of L 2-type for recovering shape and contrast in ill-posed problems
+77C7A6A6	Localization analysis of variationally based gradient plasticity model
+7AC7380A	Edge-enhanced spatiotemporal constrained reconstruction of undersampled dynamic contrast-enhanced radial MRI
+764D1B61	Sparsity-constrained SENSE reconstruction: an efficient implementation using a fast composite splitting algorithm
+7B14E5D3	Vehicle axle loads identification using finite element method
+7BCBA8DF	Class prediction and gene selection for DNA microarrays using regularized sliced inverse regression
+8046BB2D	Regularizing Common Spatial Patterns to Improve BCI Designs: Unified Theory and New Algorithms
+7777AF72	Filtering noise from oceanographic data with some applications for the Kara and Black Seas
+802828E7	Structured Regularizers for High-Dimensional Problems: Statistical and Computational Issues
+7FEEB1E8	An edge-preserving high-resolution image reconstruction
+7AFFACED	On numerical realization of quasioptimal parameter choices in (iterated) Tikhonov and Lavrentiev regularization
+7F2C73FF	Identification of discontinuous coefficients in elliptic problems using total variation regularization
+7FFDC30F	3Parallel magnetic resonance imaging with adaptive radius in k‐space (PARS): Constrained image reconstruction using k‐space locality in radiofrequency coil encoded data
+7F4D6AED	A new kernel-based approach for system identification
+797AB18D	Eigenvalue decay: A new method for neural network regularization
+7CC5D876	Non-parametric simultaneous identification of both the nonlinear damping and restoring characteristics of nonlinear systems whose dampings depend on velocity alone
+8128B217	Regularization of eddy-current formulations using discrete grad-div operators
+76A25FEA	Regularization of Singular Systems by Derivative and Proportional Output Feedback
+7AC331B2	Optical Flow Modeling and Computation: A Survey
+7F6164F3	Robust Estimation of Nonrigid Transformation for Point Set Registration
+75C3B9F4	Regularized collocation method for Fredholm integral equations of the first kind
+7BD213AB	Recognition of handwritten Chinese characters by critical region analysis
+78DBEEB2	Terminated Ramp-Support Vector Machines: A nonparametric data dependent kernel
+7F419F38	A variational framework for simultaneous motion and disparity estimation in a sequence of stereo images
+7875028D	A hybrid-optimization method for large-scale non-negative full regularization in image restoration
+7A0D4787	Wavelet-based inverse halftoning for error diffused halftones
+7B565A5F	On the discrete variant of the traction method in parameter-free shape optimization
+7CB3CA70	A neural architecture of brightness perception: non-linear contrast detection and geometry-driven diffusion
+76179EFF	Reconstruction of conductivity changes and electrode movements based on EIT temporal sequences
+7CB7F16E	Some properties of generalized fused lasso and its applications to high dimensional data
+79927822	Determination of a time-dependent heat source from nonlocal boundary conditions
+58509D99	Reliable and Efficient Computation of Optical Flow
+7A7F1E4E	A wavelet-based regularized reconstruction algorithm for SENSE parallel MRI with applications to neuroimaging
+7AA430A8	Global convergence of RTLSQEP: A solver of regularized total least squares problems via quadratic eigenproblems
+8549CE99	Flexible Multi-Task Learning with Latent Task Grouping
+7962F7E6	Positive solutions of the Dirichlet problem for the prescribed mean curvature equation
+7A464788	An alternative method for density variation modeling of the crust based on 3-D gravity inversion
