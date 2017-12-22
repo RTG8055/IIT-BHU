@@ -1,0 +1,585 @@
+5F58F167	Global Synchronization in Sensornets
+7D97E2A4	Symmetric clock synchronization in sensor networks
+5FC81836	Practical End-to-End Performance Testing Tool for High Speed 3G-Based Networks
+62850E24	Is Detection of Fitzgerald-Lorentz Contraction Possible?
+6302AC73	Mechanical Verification of Clock Synchronization Algorithms
+5DDE6ADB	Optimal clock synchronization under energy constraints in wireless ad-hoc networks
+5D3157DD	Timely Authentication in Distributed Systems
+7F7136DE	Hierarchical detection of strongly consistent global states
+7A962541	Implementation of IEEE1588 for Clock Synchronization
+7530D118	Continuous clock amortization need not affect the precision of a clock synchronization algorithm
+7A5FAA68	Wait-free clock synchronization
+813CBD6E	Modeling and simulation comparison of two time synchronization protocols
+7C649FE3	On the interconnection of causal memory systems
+061A259D	TREE STRUCTURED TIME SYNCHRONIZATION PROTOCOL IN WIRELESS SENSOR NETWORK
+06FECFBF	FPGAs for High Accuracy Clock Synchronization over Ethernet Networks
+58A6B9C4	NTI: A Network Time Interface M-Module for High-Accuracy Clock Synchronization
+7D269E98	Clock Synchronization for Wireless Positioning of COTS Mobile Nodes
+78F80572	Poster: An Insomnia Therapy for Clock Synchronization in Wireless Sensor Networks
+806188BA	Synchronization by Two-Way Message Exchanges: Cramér-Rao Bounds, Approximate Maximum Likelihood, and Offshore Submarine Positioning
+7E37315E	Clock synchronization of PTP-based devices through PROFINET IO networks
+7D3ED7D5	VLSI Implementation of a Fault-Tolerant Distributed Clock Generation
+7D6F4104	Distributed Clock Synchronization over Wireless Networks: Algorithms and Analysis
+5FC7A69D	Optimal and Global Time Synchronization in Sensornets
+7C8CE7C5	Subharmonic Optoelectronic Oscillator
+596AE1C4	Clockscalpel: Understanding Root Causes of Internet Clock Synchronization Inaccuracy
+764304E8	1/k phase stamping for continuous shared data (extended abstract)
+7E459469	Interleaved all-to-all reliable broadcast on meshes and hypercubes
+80E94C47	GALDS: a complete framework for designing multiclock ASICs and SoCs
+7D2F5E42	THE ARCHITECTURE OF MARS
+7FEB03BE	Networked clock synchronization based on second order linear consensus algorithms
+80D6524F	IEEE 1588 clock synchronization using dual slave clocks in a slave
+770A5A5D	A Fault-Tolerant Schema for Clock Synchronization and data aggregation in WSN
+81242C74	Assuring Resilient Time Synchronization
+7D2F10AA	Stability-Optimized Time Adjustment for a Networked Computer Clock
+7E4AC92A	Degradable Byzantine agreement
+7FE5EF14	Clock synchronization in MAFT
+816D7F63	Gradient clock synchronization in wireless sensor networks
+7EDFF13F	A new clock synchronization algorithm for multi-hop wireless ad hoc networks
+75620C89	A theory of clock synchronization (extended abstract)
+75F4010D	A robust estimation scheme for clock phase offsets in wireless sensor networks in the presence of non-Gaussian random delays
+7F0D0ECC	The Controlled Logical Clock – a Global Time for Trace Based Software Monitoring of Parallel Applications in Workstation Clusters
+7E47E674	A non-cooperative active measurement technique for estimating the average and variance of the one-way delay
+7AF44EAD	Application of generalized predictive control in networked control system
+80C888C7	Robust Time-Based Localization for Asynchronous Networks
+79DA8799	A design approach for self-diagnosis of fault-tolerant clock synchronization
+7D9CB910	Strongly consistent global states detection using relative clock errors
+7D466127	Novel Clock Phase Offset and Skew Estimation Using Two-Way Timing Message Exchanges for Wireless Sensor Networks
+5B329FAE	Design time reliability analysis of distributed fault tolerance algorithms
+81481D38	Coupling-Based Internal Clock Synchronization for Large-Scale Dynamic Distributed Systems
+7E2EB541	Distant clock synchronization using entangled photon pairs
+7FC9F339	A Unified Fault-Tolerance Protocol
+7ACD9D7F	Enhanced FIR filter based module for clock synchronization in MPEG2 transport stream
+80713BC5	Distributed Kalman filter for precise and robust clock synchronization in wireless networks
+7FDA03D9	Time synchronization using the Internet
+7E73A4C6	Low Complexity Clock Synchronization Algorithm for Wireless Sensor Networks with Unknown Delay
+7D1D1A0E	Establishing wireless time-triggered communication using a firefly clock synchronization approach
+7F2A70BE	On the synchronization techniques for wireless OFDM systems
+7ACF6B61	Deterministic and Energy-Optimal Wireless Synchronization
+7F9FC7D7	One-way delay measurement in wired and wireless mobile full-mesh networks
+7943CC11	Lower bounds for convergence function based clock synchronization
+7E2397FF	160-gb/s optical clock recovery using a regeneratively mode-locked laser diode
+80D90D38	Robust Clock Synchronization in Wireless Sensor Networks Through Noise Density Estimation
+7F7308C4	Use of common time base for checkpointing and rollback recovery in a distributed system
+7E148E22	Clock synchronization algorithms for network measurements
+77A2EA60	Low-cost clock synchronization
+0C267322	Formalization of a generalized protocol for clock synchronization in Isabelle/HOL
+7D8079CB	An Enhanced IEEE 1588 Time Synchronization Algorithm for Asymmetric Communication Link using Block Burst Transmission
+7A8E6DF8	Synchronized universal time coordinated for distributed real-time systems
+5EF8880A	Booting Clock Synchronization in Partially Synchronous Systems
+810EE3C0	On pulse-coupled discrete-time phase locked loops forwireless networks
+78DA4353	On the possibility and impossibility of achieving clock synchronization
+7F980C5B	Joint Time, Frequency and Sampling Clock Synchronization for OFDM-Based Systems
+81B91587	Near-optimal radio use for wireless network synchronization
+7EA9175C	Security aspects for IEEE 1588 based clock synchronization protocols
+789B188C	The accuracy of the clock synchronization achieved by TEMPO in Berkeley UNIX 4.3BSD
+807ED0B1	On estimating clock skew for one-way measurements
+7EBD9E0F	Investigations on fault tolerant clock synchronization within a powerline communication structure
+81063FB5	Parameter estimation and error reduction for OFDM-based WLANs
+7C0EB63B	A Fast Averaging Synchronization Algorithm for Clock Oscillators in Nonlinear Dynamical Network with Arbitrary Time-delays
+7F1F639A	Optimal Gradient Clock Synchronization in Dynamic Networks
+76472979	A better wake-up in radio networks
+7EE51EBA	MU-Sync: a time synchronization protocol for underwater mobile networks
+780188A0	Analysis of a clock‐recovery technique for circuit emulation services over packet networks
+7E8E0CA3	Cryptanalysis of the chaotic-based key agreement protocols
+7EEAE6B6	Precision Time Protocol Prototype on Wireless LAN
+7D0402C2	A novel control scheme based on online delay evaluation for a class of networked control systems
+80027607	Energy-efficient and rapid time synchronization for wireless sensor networks
+0861F35F	Scheduling and Clock Synchronization in CAN-based Distributed Systems
+759BD9C8	Clock synchronization using a linear process model
+7F200392	PariSync: Clock synchronization in P2P networks
+764A582C	Robust remote authentication scheme with smart cards
+76ED45D0	Clock Synchronization with Bounded Global and Local Skew
+80464B18	Secure and self-stabilizing clock synchronization in sensor networks
+7FD5D71D	Inference of One-Way Queuing Delay Distribution Using Packet-Pair Probes without Clock Synchronization
+7DD871ED	All-Optical Clock Recovery Using Erbium-Doped Fiber Laser Incorporating an Electroabsorption Modulator and a Linear Optical Amplifier
+5DDC19FA	Timestamp Based Predictive Robot Control System over Real-Time Industrial Ethernet
+66D7B971	Clock Synchronization: Open Problems in Theory and Practice
+76D1FAAD	Simultaneous Prescaled Clock Recovery and Serial-to-Parallel Conversion of Data Signals Using a Polarization Modulator-Based Optoelectronic Oscillator
+7C19FF0A	Impossibility Results for Distributed Computing
+816664C7	On Clock Synchronization Algorithms for Wireless Sensor Networks Under Unknown Delay
+7D6DBE87	Maximum likelihood estimators of clock offset and skew under exponential delays
+810A7290	Ten Microseconds Over LAN, for Free (Extended)
+5D73A135	C.: Best paper: Stabilizing clock synchronization for wireless sensor networks
+816A6720	Clock Synchronization Algorithms and Scheduling Issues
+7FD230DD	A Stable Clock Synchronization Based on Clock Drift Rate
+7E0F3581	Sequential consistency versus linearizability
+80059FB3	A fully digital feedforward MSK demodulator with joint frequency offset and symbol timing estimation for burst mode mobile radio
+7F0DBD83	Localization and clock synchronization need similar hardware support in wireless LANs
+8098EEDA	Simultaneous Prescaled Clock Recovery and Serial-to-Parallel Conversion of Data Signals Using a Polarization Modulator-Based
+80BEB94C	FLASH: Fine-Grained Localization in Wireless Sensor Networks Using Acoustic Sound Transmissions and High Precision Clock Synchronization
+80DF8C2C	Modelling Clock Synchronization in the Chess gMAC WSN Protocol
+7F527F8B	Security flaws and workarounds for IEEE 1588 (transparent) clocks
+78969FAD	Range-Based Clock Synchronization Protocol for Wireless Sensor Networks
+7D6B3EF3	A runtime stability analysis of clock synchronization precision on a time-triggered bus prototype
+80417A7C	Recursive time-synchronization in sensor networks
+7E743DB0	A Clock Synchronization Algorithm for Multihop Wireless Ad Hoc Networks
+812E1CDC	Limits and power of the simplest uniform and self-stabilizing phase clock algorithm
+7EBBBCAB	Some improved and generalized estimation schemes for clock synchronization of listening nodes in wireless sensor networks
+7E6028BD	Robust synchronization of absolute and difference clocks over networks
+80A27F46	Integration of internal and external clock synchronization by the combination of clock-state and clock-rate correction in fault-tolerant distributed systems
+7EA1A2AB	Time synchronization for Wireless Sensor Networks operating in extreme temperature conditions
+7B50C386	Brief announcement: gradient clock synchronization in sensor networks
+073A7D61	Clock Synchronization in the Presence of Omission and Performance Failures, and Processor Joins
+5E1963AE	Linear Time Byzantine Self-Stabilizing Clock Synchronization
+7CF49201	Clock Drift Estimation in Networks with Symmetric Exponential Link Delays
+7F87B596	Implementing a Probabilistic Clock Synchronization Algorithm
+813E3E38	Remote measurement of local oscillator drifts in FlexRay networks
+7F2A5C8A	Temporal Predicate Detection Using Synchronized Clocks
+770FC222	Fast self-stabilizing byzantine tolerant digital clock synchronization
+5D6F6AFF	On setting-up asynchronous ad hoc wireless networks
+7D6B7F02	Clock synchronization protocol for wireless sensor networks with bounded communication delays
+7EC0AD1D	On the Seamless Interconnection of IEEE1588-Based Devices Using a PROFINET IO Infrastructure
+7EAB3E5B	Fundamental Limits on Secure Clock Synchronization and Man-In-The-Middle Detection in Fixed Wireless Networks
+7FFDBC8A	A model-based approach to clock synchronization
+7F793842	Signal processing techniques for synchronization of wireless sensor networks
+73856B33	Clock Synchronization in the Byzantine-Recovery Failure Model
+80158EB2	Pushing the limits of remote online diagnosis in flexray-based networks
+7E6CF586	Phasor assisted state estimation for NYS transmission system --Implementation & testing
+5AC68651	Synchronization in wireless sensor networks using Bluetooth
+814D046C	Clock synchronization based on distributed hidden state estimation
+7F34A8FB	Pausible clocking-based heterogeneous systems
+7E658C9B	Scalable Byzantine-Fault-Quantifying Clock Synchronization
+7CA9801E	Experience with an adaptive globally-synchronizing clock algorithm
+7F910544	Practical application of 1588 security
+80021BC8	Analytical Assessment of the Precision Degradation Caused by Faults in a Fault-Tolerant Master/Slave Clock Synchronization Service for CAN
+7ED8B0F7	Smart clocks have a hand in the smart grid
+7E968E73	Boundaries of Ethernet layer 2 hardware timestamping
+80E72FFA	MMAC-HR: Multi-Channel Medium Access Control with Hopping Reservation for Multi-Hop Wireless Networks
+5A8D9731	Clock synchronization for wireless networks
+7B34D8AC	On the possibility and impossibility of achieving clock synchronization
+805031C6	Experimental Characterization of Synchronization Protocols for Instrument Wireless Interface
+7CEF4BED	Fault-tolerant clock synchronization for embedded distributed multi-cluster systems
+7F3668FA	Fault-tolerant clock synchronization in CAN
+7E27A978	Self-stabilization with global rooted synchronizers
+80A0EC9D	An optimal internal clock synchronization algorithm
+7DA910F5	A clock synchronization algorithm for multi-hop wireless ad hoc networks
+7D767D91	Synchronizing sampling and actuation in the absence of global time in Networked Control Systems
+76A27E5C	Time-based localisation in unsynchronized wireless LAN for industrial automation systems
+5C5A01BF	Towards the pervasive verification of automotive systems
+7AC21292	SYNC_WAVE: a high accuracy and low overhead algorithm for clock, synchronization in transputer networks
+78AB224D	Clock Synchronization in Distributed Real-Time Systems
+7D24E95D	Self-adaptive clock synchronization based on clock precision difference
+5BCCC17B	Optimal Deterministic Remote Clock Estimation in Real-Time Systems
+7D58E42C	Probabilistic clock synchronization
+5906039B	Interval-based Clock Synchronization
+75D5A653	Inexact agreement: accuracy, precision, and graceful degradation
+7F498585	Clock Free Data Streams Alignment for Sensor Networks
+75C04178	A Time-Optimal Self-Stabilizing Synchronizer Using A Phase Clock
+0A7A8E43	Investigations on Security Aspects in Clock Synchronized Industrial Ethernet
+79291B39	Clock synchronization for packet networks using a weighted least‐squares error filtering technique and enabling circuit emulation service
+7E8CD976	An Adaptive Coupling-Based Algorithm for Internal Clock Synchronization of Large Scale Dynamic Systems, MidLab
+75B3BF5C	Internal synchronization of drift-constraint clocks in ad-hoc sensor networks
+7FAE2484	Design and implementation of precision time synchronization system based on IEEE1588
+7CABDE56	Exploiting FM radio data system for adaptive clock calibration in sensor networks
+78F26911	Towards relativistic atomic physics. Part 1. The rest-frame instant form of dynamics and a canonical transformation for a system of charged particles plus the electro-magnetic field
+78D14C95	Clock recovery based on packet inter-arrival time averaging
+7F106817	Clock synchronization through handshake signalling
+7E0ACE42	Rigorously modeling self-stabilizing fault-tolerant circuits: An ultra-robust clocking scheme for systems-on-chip
+7F650096	A novel, high-precision timestamping platform for wireless networks
+7641A8AA	Closed form bounds for clock synchronization under simple uncertainty assumptions
+7D72FA00	Designing a Process Variability Robust Energy-Efficient Control for Complex SoCs
+7ED0DE76	Interferometric experiments analyzed in the non-inertial reference frames
+7753DF90	Transmission delays in hardware clock synchronization
+7F616901	A resource--efficient time estimation for wireless sensor networks
+812CF37C	The Einstein-Maxwell-Particle System in the York Canonical Basis of ADM Tetrad Gravity: II) The Weak Field Approximation in the 3-Orthogonal Gauges and Hamiltonian Post-Minkowskian Gravity: the N-Body Problem and Gravitational Waves with Asymptotic Background.
+79E069C6	Clock Synchronization of a Large Multiprocessor System in the Presence of Malicious Faults
+015800F4	Performance Evaluation of Clock Synchronization Algorithms
+7DCB2C4D	Formal Analysis of a Distributed Fault Tolerant Clock Synchronization Algorithm for Automotive Communication Systems
+7CD3485B	Towards a topological characterization of asynchronous complexity
+7D1E977A	Checkpointing and rollback recovery in a distributed system using common time base
+7FD9D0A2	Fault-tolerant clock synchronization in large multicomputer systems
+7DF3135A	The proposed on-chip bus system with GALDS topology
+7DC456B7	Probabilistic clock synchronization in distributed systems
+79687E9D	Using adaptive timeouts to achieve at-most-once message delivery
+7D05053C	Wireless LXI Bus Clock Synchronization and Triggering Design
+7D4B5A0D	Fault tolerant IC chip for crystal oscillators
+78CFDAFB	Non-byzantine clock synchronization—a programming experiment
+7FEE3072	On-demand time synchronization with predictable accuracy
+5B833E23	Optimal Wait-Free Clock Synchronisation Protocol on a Shared-Memory Multi-processor System
+7F95A7E4	Clock synchronization for wireless local area networks
+7FC26239	Semantics-preserving implementation of synchronous specifications over dynamic TDMA distributed architectures
+7EB0D1C8	A 100 MHz-to-1 GHz Fast-Lock Synchronous Clock Generator With DCC for Mobile Applications
+80888067	Interaction of formal design systems in the development of a fault-tolerant clock synchronization circuit
+7F01004F	Evaluation of clock synchronization protocols for Wireless Sensor Networks
+7D357786	A globally asynchronous locally dynamic system for ASICs and SoCs
+7DA004E2	Safely Stimulating the Clock Synchronization Algorithm in Time-Triggered Systems–A Combined Formal and Experimental Approach
+810349C6	Dynamic node management and measure estimation in a state-driven fault injector
+8137E6B7	Sync & Sense: VoIP Measurement Methodology for Assessing One-Way Delay Without Clock Synchronization
+5BC354FE	Integrating External and Internal Clock Synchronization
+059EDC06	Self-stabilizing Byzantine Pulse and Clock Synchronization
+8140D6C3	A mutual clock synchronization method using weight coefficient for wireless ad hoc networks
+6A238E8A	A Paradigm for Reliable Clock Synchronization
+7C11C902	CesiumSpray>: a Precise and Accurate Global Time Servicefor Large-scale Systems
+76E618BA	Tight bounds for clock synchronization
+811D9B6F	Application of the chirp-z transform to fractional interpolation in DMT modems
+7C033CDF	Behavior of clock-sampling mutual network synchronization in wireless sensor networks
+79D87D07	Designing a SAR-Based All-Digital Delay-Locked Loop With Constant Acquisition Cycles Using a Resettable Delay Line
+7E5F6534	MH-TRACE: multihop time reservation using adaptive control for energy efficiency
+7D00CF97	Clock Synchronization Issues in Multi-Cluster Time-Triggered Networks
+75A13D3A	Time, clocks, and the ordering of events in a distributed system
+7DAA835B	Synchronous data collection from diverse hardware
+7886BFBC	Noninertial Observers in Special Relativity and Clock Synchronization Debates
+7ECC236F	Joint sampling clock offset and channel estimation for OFDM signals: Crame/spl acute/r-Rao bound and algorithms
+80DA2A54	Reliable real-time communication in cooperative mobile applications
+7D4868B6	The timewheel group communication system
+77C7010D	Exploring the interdisciplinary connections of gossip-based systems
+7E84FFE9	A formal model of asynchronous communication and its use in mechanically verifying a biphase mark protocol
+7B237606	Gradient clock synchronization
+7E6A70F2	Multistep interactive convergence: an efficient approach to the fault-tolerant clock synchronization of large multicomputers
+80407FC3	An algorithm for WSN clock synchronization: Uncertainty and convergence rate trade off
+7DFA8688	An efficent dynamic multicast routing protocol for distributing traffic in NOCs
+7F9A849C	Set-valued consensus for distributed clock synchronization
+7FB99BF8	Analysis of synchronization algorithms with time-out control over networks with exponentially symmetric delays
+80C73C07	A precise clock synchronization protocol
+59145266	Energy efficient dynamic cluster based clock synchronization for wireless sensor network
+6FE59570	Reactive Clock Synchronization for Wireless Sensor Networks with Asynchronous Wakeup Scheduling
+7B04C16E	Observable clock synchronization extended abstract
+76C53834	Exploiting omissive faults in synchronous approximate agreement
+80D42660	Self-stabilizing Byzantine digital clock synchronization
+7567675D	Evaluation of Effective Resistances in Pseudo-Distance-Regular Resistor Networks
+5CEB8838	Understanding Protocols for Byzantine Clock Synchronization
+7DD32E1D	A Self-Aware Clock for Pervasive Computing Systems
+77881AE4	Optimal gradient clock synchronization in dynamic networks
+5B559002	Statistical Probabilistic Clock Synchronization Algorithm
+5E8F11D4	A simulation-based comparison of IEEE 802.11's timing advertisement and SyncTSF for clock synchronization
+808EEE46	Scalable timestamp synchronization for event traces of message-passing applications
+7FC01629	Testing distributed real-time systems
+75B20EC1	Achieve high accuracy of network time with proper parameters
+78396180	Byzantine clock synchronization
+80F4C40D	Probabilistic clock synchronization in large distributed systems
+7F041770	Clock synchronization on the factory floor (FMS)
+8026D85D	An Implementation of IEEE 1588 Over IEEE 802.11b for Synchronization of Wireless Local Area Network Nodes
+7DB5A99C	Clock synchronization in wireless distributed embedded applications
+7BBD9627	Byzantine clock synchronization
+80EE5723	Safe deterministic replay for stimulating the clock synchronization algorithm in time-triggered systems
+7F7EA65E	A Quorum-based Mechanism as an Enhancement to Clock Synchronization Protocols for IEEE 802.11 MANETs
+76DEA59F	Clock synchronization with faults and recoveries (extended abstract)
+7E4652A7	Distributed Clock Synchronization for Wireless Sensor Networks Using Belief Propagation
+5CA9C924	A Secure Time Synchronization Protocol for Sensor Network
+79471849	Fault-tolerant clock synchronization
+7E92BB19	Fundamental limits on synchronization of affine clocks in networks
+75E8AAA7	An algorithm for clock synchronization with the gradient property in sensor networks
+7D5668E3	Timestamp synchronization for event traces of large-scale message-passing applications
+8006C5D4	Quality monitoring in clock synchronized distributed systems
+5B2E9895	Modeling and verification of master/slave clock synchronization using hybrid automata and model-checking
+04550C46	Clock synchronization with deterministic accuracy guarantee
+7A92DF05	Joint Ranging and Synchronization for an Anchorless Network of Mobile Nodes
+7B6C6996	Simulating synchronized clocks and common knowledge in distributed systems
+801E73DA	Verification of Fault-Tolerant Clock Synchronization Systems
+79808B05	Dynamic fault-tolerant clock synchronization
+7E61957E	A fine-grain clock synchronization mechanism for Myrinet clusters
+80450E03	Chaining Clock Synchronization: An Energy-Efficient Clock Synchronization Scheme for Wireless Sensor Networks
+7EE3474C	Bit-Error-Rate Performance Enhancement of All-Optical Clock Recovery at 42.66 Gb/s Using Passive Prefiltering
+7D222ADE	CTH15-2: Analysis of Clock Offset and Skew Estimation in Timing-sync Protocol for Sensor Networks
+7E263F28	QRPp1-4: Characterizing Quality of Time and Topology in a Time Synchronization Network
+7CE64129	Easy impossibility proofs for distributed consensus problems
+7CF95A36	A New Approach for Time Synchronization in Wireless Sensor Networks: Pairwise Broadcast Synchronization
+76D49A44	Verification of clock synchronization algorithms: Experiments on a combination of deductive tools
+7DF050D6	Joint motion estimation and clock synchronization for a wireless network of mobile nodes
+7F170EA8	MTSP: Multi-hop Time Synchronization Protocol for IEEE 802.11 Wireless Ad Hoc Network
+7544D927	ACES: adaptive clock estimation and synchronization using Kalman filtering
+7841391A	A theoretical evaluation of peer-to-peer internal clock synchronization
+7755BF8C	Vertical and horizontal synchronization services with outlier detection in underwater acoustic networks
+7FC275BB	Gradient clock synchronization
+7D16CB64	Safe estimation of time uncertainty of local clocks
+7FD91BF8	Virtual time synchronization for multimedia ad hoc networks
+80B63F6C	Secure network-wide clock synchronization in wireless sensor networks
+7E24CA94	Clock synchronization in powerline networks
+7D29F0B0	Orthogonal, Fault-Tolerant, and High-Precision Clock Synchronization for the Controller Area Network
+7E0BD240	Low complexity synchronization design of an OFDM receiver for DVB-T/H
+61CD58CD	Precise Time and Time Interval Applications to Electric Power Systems
+7F0F7624	Hardware-assisted software clock synchronization for homogeneous distributed systems
+7C1CB97E	Easy impossibility proofs for distributed consensus problems
+7CE521AA	AdaSynch: A General Adaptive Clock Synchronization Scheme Based on Kalman Filter for WSNs
+805658EA	Fault-tolerant external clock synchronization
+7A3332FD	Clock synchronization and the power of broadcasting
+80998D01	Modeling and tracking clocks with time-varying skews using information criteria
+7F329A74	Clock Offset and Skew Estimation in Wireless Sensor Networks with Known Deterministic Delays and Exponential Nondeterministic Delays
+59DBD211	Multi-hop time synchronization protocol for IEEE 802.11 wireless ad hoc networks
+5E985445	Tree Structured, Multi-hop Time Synchronization Approach in Wireless Sensor Networks
+77DA219D	The Asynchronous Bounded-Cycle model
+7FFD6AA8	Building Ring-Like Overlays on Wireless Ad Hoc and Sensor Networks
+6785DC05	Clock Synchronization in Cell BE Traces
+5A6E15DA	Oblivious Gradient Clock Synchronization
+76391A51	The case for feed-forward clock synchronization
+58D62BE9	Gauge-invariant registration in networks
+809AC7E9	Power and time efficient clock synchronization in Fiber Channel
+7D532245	A configurable adjunct for real time systems (CARTS)
+7819E481	An overview of clock synchronization
+7849ABA5	Clock synchronization for wireless sensor networks: a survey
+7BF48E41	Energy harvesting from electromagnetic energy radiating from AC power lines
+7E8A87A6	Precision timing in ocean sensor systems
+78C755A4	A security risk of depending on synchronized clocks
+7E8C3D75	A convergence function for clock synchronization protocols
+8072748C	Control Channel Establishment in Cognitive Radio Networks using Channel Hopping
+7769B76C	TDOA Based Positioning in the Presence of Unknown Clock Skew
+80BB9E94	Coherent preamble detection and packet decoding for wireless clock synchronization using IEEE 802.11b WLAN
+05FD73DB	Network Issues in Clock Synchronization on Distributed Database
+7E9FF26C	A distributed consensus protocol for clock synchronization in wireless sensor network
+80AD1DD2	Implementation of time offset estimation with General Cell
+7884DF7E	Chromatin, photoperiod and the Arabidopsis circadian clock: A question of time
+7CFC8E1F	Prevention of Sequential Message Loss in CAN Systems
+817AA58A	Fault-tolerant clock synchronization validation methodology
+7D83ED01	Probabilistic internal clock synchronization
+76CA2D0D	Self-stabilizing byzantine asynchronous unison
+7CD9375E	Reducing message-length variations in resource-constrained embedded systems implemented using the Controller Area Network (CAN) protocol
+80A4A0DB	The derivation and experimental verification of clock synchronization theory
+7FD2FE79	Self-synchronizing properties of CSMA wireless multi-hop networks
+7EF6E174	Improved Estimation of Clock Offset in Sensor Networks
+7D1B5699	On the Formal Verification of the FlexRay Communication Protocol
+7E9FA222	A semidigital dual delay-locked loop
+816BACA9	A formally verified algorithm for clock synchronization under a hybrid fault model
+756A3BB8	Optimal clock synchronization under different delay assumptions
+75FDEFF8	A VCDL-based 60-760-MHz dual-loop DLL with infinite phase-shift capability and adaptive-bandwidth scheme
+76EFEF8F	Probabilistic clock synchronization in large distributed systems
+7F7D7BBD	Clock Synchronization in Wireless Sensor Networks: An Overview
+7FD01FF9	The load and availability of Byzantine quorum systems
+7A31D1C2	Fail-awareness in timed asynchronous systems
+7A8B2F1E	Dynamic FTSS in asynchronous systems: The case of unison
+805A746B	Post-Minkowskian Gravity: Dark matter as a relativistic inertial effect?
+6935E99C	Implementation issues in clock synchronization
+7F8EAA0D	Optimal Synchronization of Local Clocks by GPS 1PPS Signals Using Predictive FIR Filters
+7DC861C9	RSRP: A Robust Secure Routing Protocol for Mobile Ad Hoc Networks
+808FF9CE	Evaluating a clock synchronization for dependable sensor networks
+7DC6377C	Fault-tolerant algorithms for tick-generation in asynchronous logic: Robust pulse generation
+7D257E34	TICSync: Knowing when things happened
+761EC6CC	Implementation and timing analysis of Clock Synchronization on a transputer-based replicated system
+7D47378E	Time-Triggered Fieldbus Networks State of the Art and Future Applications
+7DAD2D87	Low-Complexity Maximum-Likelihood Estimator for Clock Synchronization of Wireless Sensor Nodes Under Exponential Delays
+782A7730	ReversePTP: a software defined networking approach to clock synchronization
+7DCB0E0A	On Minimum Variance Unbiased Estimation of Clock Offset in a Two-Way Message Exchange Mechanism
+78EF16A5	Estimation and Confidence Intervals for Clock Offset in Networks with Bivariate Exponential Delays
+7F0CC187	A compatible and scalable clock synchronization protocol in IEEE 802.11 ad hoc networks
+814F9082	Global clock synchronization in sensor networks
+7F3CD32B	Wavelet-based signal design for reduced jitter timing-recovery
+7868EEE7	One-Way Time Synchronization via Geostationary Satellites at UHF
+81C84395	One-Way Delay Measurement: State of the Art
+7D06ED15	Clock synchronization simulation for wireless sensor networks
+77BD6BB1	Low-power clock synchronization using electromagnetic energy radiating from AC power lines
+692C65EE	Internal Timer Synchronization for Parallel Event Tracing
+7901550E	How to reconcile fault-tolerant interval intersection with the Lipschitz condition
+7DD1F597	A fault-tolerant protocol for atomic broadcast
+7ECC7DF9	A Peer-to-Peer Filter-Based Algorithm for Internal Clock Synchronization in Presence of Corrupted Processes
+7F677670	Clock Synchronization Integrated with Traffic Smoothing Technique for Distributed Hard Real-Time Systems
+7FEE4717	Cluster-based semi-asynchronous power-saving protocols for multi-hop ad hoc networks
+815C5EB8	A posteriori agreement for fault-tolerant clock synchronization on broadcast networks
+79D02E4A	Optimal clock synchronization in networks
+75C7AB9E	Towards a real-time distributed computing model
+7CFD2BA2	Secure and resilient clock synchronization in wireless sensor networks
+5F12FE0E	Freshness Assurance of Authentication Protocols
+7C29823D	Distributed source-destination synchronization using inband clock distribution
+77684476	Clock Synchronization of Wireless Sensor Networks
+7F2B4810	TTP-A Protocol for Fault-Tolerant Real-Time Systems
+803893A1	On maximum-likelihood estimation of clock offset
+09AE20D1	Improvement of Time Synchronization over Space Wire Link
+7C5C05A5	Using full message exchange for probabilistic clock synchronization (extended abstract)
+7DF9403A	Formal verification for fault-tolerant architectures: prolegomena to the design of PVS
+7F7AB6BB	Skew variability in 3-D ICs with multiple clock domains
+81169171	The effect of quartz drift on convergence-average based clock synchronization
+7959A514	An upper and lower bound for clock synchronization
+7DE54921	A Byzantine-fault tolerant self-stabilizing protocol for distributed clock synchronization systems
+80060923	Continuous clock synchronization in wireless real-time applications
+7B5A65C0	Combination of clock-state and clock-rate correction in fault-tolerant distributed systems
+78CD822F	An interval-based framework for clock rate synchronization
+7FE9A480	A robust clock synchronization algorithm for wireless sensor networks
+7F8BDDEF	Measuring distributed durations with stable errors
+780CB5E8	Booting clock synchronization in partially synchronous systems with hybrid process and link failures
+58DCBDE0	On Self-Stabilizing Wait-Free Clock Synchronization
+5C266DFB	Self-stabilization of byzantine protocols
+79710560	Improving the Energy Efficiency of a Clock Synchronization Protocol for WSNs Using a TDMA-Based MAC Protocol
+7DEEA3C6	High-Precision Relative Clock Synchronization Using Time Stamp Counters
+7D4D19E7	Clock synchronization using maximal margin estimation
+5DAD5940	GPS-based Clock Synchronization in a Mobile, Distributed Real-Time System
+8310ADF3	무선 네트워크 제어 시스템을 위한 클럭 동기화 메커니즘
+7E129386	A synchronization strategy for a time-triggered multicluster real-time system
+77D1437D	On the scalability of IEEE 802.11 ad hoc networks
+7F97DADD	Fault-tolerant clock synchronization for distributed systems using continuous synchronization messages
+7FCD6B33	Robust Level Converter for Sub-Threshold/Super-Threshold Operation:100 mV to 2.5 V
+7F273701	A case against routing-integrated time synchronization
+5F14F2CA	Ultrasonic time synchronization and ranging on smartphones
+7E6A75CB	DSA: Distributed Semi-Asynchronous Sleep Scheduling Protocol for Mobile Wireless Networks
+80094191	On Maximum Likelihood Estimation of Clock Offset and Skew in Networks With Exponential Delays
+7F379337	The York map as a Shanmugadhasan canonical transformation in tetrad gravity and the role of non-inertial frames in the geometrical view of the gravitational field
+7B459376	Byzantine-resilient distributed computing systems
+7E9B91DD	Asynchronous wakeup for ad hoc networks
+7E0FAFB5	Formal verification of algorithms for critical systems
+76E0C500	A new fault-tolerant algorithm for clock synchronization
+7F2946E5	Preamble detection for wireless clock synchronization in frequency selective fading channels
+788AE675	Improving the probabilistic clock synchronization algorithm
+7F8535D1	Self Organizing Maps for Synchronization in Wireless Sensor Networks
+7BC21AA3	Clock synchronization through handshake signalling
+7BDEF745	A new fault-tolerant algorithm for clock synchronization
+7DEE1105	Detecting Clock Dynamics in One-Way Delay Measurement
+76EED4CA	PC based precision timing without GPS
+79826E19	Tight bounds for clock synchronization
+7C798E25	Why two clocks synchronize: Energy balance of the synchronized clocks.
+760A45A6	Design of a large remote seismic exploration data acquisition system, with the architecture of a distributed storage area network
+7AB2BC00	Average TimeSynch: A consensus-based protocol for clock synchronization in wireless sensor networks.
+7E55010D	Time and frequency transfer between master and slave clocks
+796CEBE5	A Survey and Taxonomy of GALS Design Styles
+7C36F460	A linear programming approach to highly precise clock synchronization over a packet network
+7D8B0037	Time synchronization in ad hoc networks
+75F635A8	Interval based off-line clock synchronization for wireless mesh networks
+7D833076	On Scheduling and Real-Time Capacity of Hexagonal Wireless Sensor Networks
+7E914E2B	A scalable and adaptive clock synchronization protocol for IEEE 802.11-based multihop ad hoc networks
+7DB5D9D1	Analysis of a clock synchronization protocol for wireless sensor networks
+7EDA3912	Near-Optimal Radio Use for Wireless Network Synchronization
+71F75089	CAN 네트워크의 시간동기를 위한 IEEE1588 구현
+59DE194B	Possible and Impossible Self-Stabilizing Digital ClockSynchronization in General Graphs
+7ADFF238	The Inertial Transformations and the Relativity Principle
+7951245A	Self-adaptive clock synchronization for computational grid
+7649FC4D	Impact of the Deafness Problem on Clock Synchronization in a Wireless Sensor Network
+7DDA0C14	Analysis of self-stabilizing clock synchronization by means of stochastic Petri nets
+7DF58116	Verification of Clock Synchronization Algorithms: Experiments on a Combination of Deductive Tools
+7FFF28E4	The asynchronous bounded-cycle model
+7F9EF735	Extension of pairwise broadcast clock synchronization for multicluster sensor networks
+757730B1	Self-stabilizing clock synchronization in the presence of Byzantine faults
+7CE1BE59	Firefly clock synchronization in an 802.15.4 wireless network
+7C54A596	Adaptive clock synchronization in sensor networks
+7D6F05D0	A simulation framework for fault-tolerant clock synchronization in industrial automation networks
+5D01BCDB	Predicate detection using event streams in ubiquitous environments
+7E2F0E9A	Robust synchronization of software clocks across the internet
+7DE07DEF	A Light Weight Method for Maintaining Clock Synchronization for Networked Systems
+7F277BC4	An Infinite Phase Shift Delay-Locked Loop With Voltage-Controlled Sawtooth Delay Line
+7F57C7DC	Almost Peer-to-Peer Clock Synchronization
+7D71CCDD	Design of on-chip and off-chip interfaces for a GALS NoC architecture
+7C400F69	Four-state stabilizing phase clock for unidirectional rings of odd size
+80114C26	Clock Synchronization in Distributed Real-Time Simulation System
+5AA26CF4	On self-stabilizing synchronous actions despite byzantine attacks
+7D67A0C4	Steiner tree based rotary clock routing with bounded skew and capacitive load balancing
+7F5CB59D	A 3D User Interface for the Active Reflector of Large Radio Telescope
+5F557008	SMT-Based Formal Verification of a TTEthernet Synchronization Function
+7646DB9C	The Wake-Up Problem in MultiHop Radio Networks
+7F4AFFD6	SEEEP: Simple and Efficient End-to-End Protocol to Secure Ad Hoc Networks against Wormhole Attacks
+80C59B4C	Gradient clock synchronization in dynamic networks
+753BAF09	A new hardware-based fault-tolerant clock synchronization scheme for real-time multiprocessor systems
+7E5C4646	Clock synchronization issues in bluetooth-based industrial measurements
+76C8DB1A	Optimal and efficient clock synchronization under drifting clocks
+7C1941FD	A High Precision Fast Locking Arbitrary Duty Cycle Clock Synchronization Circuit
+7A01471C	Performance of inter-media synchronization in distributed and heterogeneous multimedia systems
+5F6B1917	A Theory of Clock Synchronization
+5E90A135	Formal verification for time-triggered clock synchronization
+5B86238E	Orthogonal Accuracy Clock Synchronization
+8128AD0D	Networked control system design and implementation
+7FA05D34	How to model link failures: a perception-based fault model
+809E65A2	Clock synchronization for energy-constrained wireless sensor networks
+7F8AAAEF	Preventing the Collision of Requests From Slave Clocks in the Precision Time Protocol (PTP)
+753B9FA0	Password authentication schemes with smart cards
+09443199	Switching On: How to Boot Clock Synchronization in Partially Synchronous Systems
+5F31AF1D	Design and Experimental Evaluation of an Adaptive Playout Delay Control Mechanism for Packetized Audio for Use over the Internet
+5E5FEE08	Using Directional Antennas to Prevent Wormhole Attacks
+803AFC36	Detecting wormhole attacks in wireless networks using local neighborhood information
+5F870B9B	Secure and Self-stabilizing Clock Synchronization in Sensor Networks
+76A866FE	Secure Precise Clock Synchronization for Interconnected Body Area Networks
+7DFBE219	A measurement-friendly network (MFN) architecture
+7F72951F	Synchronizing clocks in a system resilient to a wide class of failures
+7F7B97A2	FEEPVR: First End-to-End Protocol to Secure Ad Hoc Networks with Variable Ranges against Wormhole Attacks
+7FC3AD28	Swarm synchronization for multi-recipient multimedia streaming
+7FDB9FF0	Efficient Scheduling for Sensor Networks
+71681FFC	Evaluation of message delay correlation in distributed systems
+7F593F22	Evaluation of clock synchronization accuracy of coexistent Real-Time Ethernet protocols
+7E750BB1	EDA performance and clock synchronization over a wireless network: Analysis, experimentation and application to semiconductor manufacturing
+5E1F2D8C	Using UPPAAL to model and verify a clock synchronization protocol for the controller area network
+7534C71C	Clock synchronization on a multicomputer
+80E14CB6	An UPPAAL Model for Formal Verification of Master/Slave Clock Synchronization over the Controller Area Network
+80928BCB	TrueLink: A Practical Countermeasure to the Wormhole Attack in Wireless Networks
+0196F877	Clock Offset Estimation in Wireless Sensor Networks Using Bootstrap Bias Correction
+7D42A326	A Simple Broadcast Synchronization in Low Energy-Consumption Distributed Systems
+758C3CFF	Brief announcement: how to speed-up fault-tolerant clock generation in VLSI systems-on-chip via pipelining
+807C3D4E	Enhanced sampling clock offset correction based on time domain estimation scheme
+772EC029	Optimal clock synchronization
+8154A201	Wireless network synchronization for multichannel multimedia services
+7AA294FB	Performance Analysis of Kalman-Filter-Based Clock Synchronization in IEEE 1588 Networks
+7DD0DA37	Uniform timing of a multi-cast service
+7ECA1893	HARTS: a distributed real-time architecture
+814AD014	Accurate clock synchronization for IEEE 802.11-based multi-hop wireless networks
+7EDCF4E7	Wind maintenance system using network synchronization techniques based on open-source software
+5F70E4B7	Opportunistic Clock Synchronization in a Beacon Enabled Wireless Sensor Network
+58A51F14	Using Adaptive Timeouts to Achive At-Most-Once Message Delivery
+7E86A4B6	Improving Fault Tolerance in High-Precision Clock Synchronization
+815E7D30	Quantitative and Qualitative Comparison Study of Reference Based Time Synchronization Approach in Wireless Sensor Network
+7F4603CB	Distributed checkpointing using synchronized clocks
+7D1769E2	Timestamping for IEEE 1588 based clock synchronization in wireless LAN
+7CD99DD2	The flooding time synchronization protocol
+812514B4	Avoiding Delay Jitter in Cyber-Physical Systems Using One Way Delay Variations Model
+7FEA6464	A Scalable Communication Protocol for Multi-layered Groups
+80C1B29F	New hybrid fault models for asynchronous approximate agreement
+7DBFAA4E	High accurate timestamping by phase and frequency estimation
+7FD990E6	An Accurate and Scalable Clock Synchronization Protocol for IEEE 802.11-Based Multihop Ad Hoc Networks
+7E86FCBE	Simple reading, implicit rejection and average function for fault-tolerant physical clock synchronization
+77A7F077	Logical analysis of AUTHMAC_DH: a new protocol for authentication and key distribution
+5E94FA61	Mechanical Verification of a Generalized Protocol for Byzantine Fault Tolerant Clock Synchronization
+7CBD6BB4	Elapsed time on arrival: a simple and versatile primitive for canonical time synchronisation services
+7D6E40D2	A Geometric Approach to Slot Alignment in Wireless Sensor Networks
+7EE3ECC4	Towards Making NekoStat a Proper Measurement Tool for the Validation of Distributed Systems
+7CDAC466	An energy efficient and Fault-Tolerant Clock Synchronization Protocol for wireless sensor networks
+7B1D1C2A	A group neighborhood average clock synchronization protocol for wireless sensor networks.
+80E0D669	Global clock synchronization in sensor networks
+7FC3B8EC	Design and implementation of a consistent time service for fault-tolerant distributed systems
+7DDC9078	Data Transfer Protocol in Bridge Structural Health Monitor System using Wireless Sensor Network
+8144603E	Does Loss Rate Really Matter? An Experimental Study on Time Synchronization Protocol in Wireless Sensor Networks
+7CEDF81E	Adaptive and robust monitoring approach for WSAN environments
+7D026FF7	Fault-tolerant cluster-wise clock synchronization for wireless sensor networks
+7F9C6FB5	Dissemination of System Time
+5F807A1E	Extending IEEE 1588 to fault tolerant clock synchronization
+7F51DA89	Low Cost Approximate Agreement In Partially Connected Networks
+787CD549	On the scalability of IEEE 802.11 ad-hoc-mode timing synchronization function
+78652F88	Scalable synchronization of clocks in wireless sensor networks
+7DD21A26	A 7 ps Jitter 0.053 mm $^{2}$ Fast Lock All-Digital DLL With a Wide Range and High Resolution DCC
+7B3E4E66	On the Feasibility of Time Estimation under Isolation Conditions in Wireless Sensor Networks
+75FE6A06	A clock synchronization problem with random delays
+7DE6AFBB	Voting using predispositions
+7540BB7B	Relying on time synchronization for security in ad hoc networks
+7562E2BC	Joint sequential target state estimation and clock synchronization in wireless sensor networks
+7D2277C7	Relative clock synchronization in wireless networks
+802CBC75	Data synchronization issues in GALS SoCs
+80633682	Cross-layer sensor network synchronization
+7DE88EB3	Harmonious internal clock synchronization
+8110FDF2	Fast clock synchronization in wireless sensor networks via ADMM-based consensus
+7D78591F	External/internal clock synchronization in ATM-based distributed systems
+758AF3EF	Interval-based clock synchronization with optimal precision
+6F420EC1	Designing modular services in the scattered byzantine failure model
+7EAC3ECD	Feedback-Based Clock Synchronization in Wireless Sensor Networks: A Control Theoretic Approach
+7DDDD8B8	Analysis of a Clock Synchronization Protocol for Wireless Sensor Networks
+8109989E	Model-based clock synchronization in networks with drifting clocks
+762EB754	Synchronization of fault-tolerant clocks in the presence of malicious failures
+813BF37E	TurboSync: Clock synchronization for shared media networks via principal component analysis with missing data
+7F4DC590	Clock Synchronization in Clusters for Performance Evaluation: Numeric/Scientific Computing
+7FEFCC59	Passive cluster based clock synchronization in sensor network
+7964FF7A	Optimal Clock Synchronization Under Different Delay Assumptions
+592BFFF8	Time synchronization in ad hoc networks
+8080DD1E	Nonuniform Linear Regression With Block-Wise Sample-Minimum Preprocessing
+751F3CE2	BlindDate: A Neighbor Discovery Protocol
+8150DA68	Adaptive Internal Clock Synchronization
+7B506693	Identifying and verifying clock synchronization protocol parameters
+7F7FC54A	Timing constraint remapping to achieve time equi-continuity in distributed real-time systems
+798C7E47	Resiliency of distributed clock synchronization networks
+75491F2B	Conventionality of synchronisation, gauge dependence and test theories of relativity
+5DF76A95	Optimal clock synchronization revisited: upper and lower bounds in real-time systems
+7EA129F7	Fail-Aware Publish/Subscribe
+7D84D1DC	Fundamental Limits on Synchronizing Clocks Over Networks
+80063368	Thermally robust clocking schemes for 3D integrated circuits
+77A8D4E1	Secure topology discovery through network-wide clock synchronization
+7F7554A7	Using Internet Protocols to Implement IEC 60870-5 Telecontrol Functions
+80B916E6	Minimal cost clock synchronization using a sender-receiver protocol in Wireless Sensornets
+765A6A67	50–250 MHz ΔΣ DLL for Clock Synchronization
+7C079FCA	Layered interactive convergence for distributed clock synchronization
+806EA2B3	Efficient non-data-aided carrier and clock recovery for satellite DVB at very low signal-to-noise ratios
+8137FF80	SECTOR: secure tracking of node encounters in multi-hop wireless networks
+7DA56113	Least Squares-Based Estimation of Relative Clock Offset and Frequency in Sensor Networks with High Latency
+78CD8B46	On clock synchronization over wireless LAN using timing advertisement mechanism and TSF timers
+5D6FA36F	Gossip-based clock synchronization for large decentralized systems
+7EF1B9C4	UDP network communications for distributed wireless control
+7F83E106	Demystifying Data-Driven and Pausible Clocking Schemes
+794A9CDC	A high-throughput, metastability-free GALS channel based on pausible clock method
+5D2E3367	A Network Time Interface M-Module for Distributing GPS-Timeover LANs
+7CE46771	Optimal clock synchronization
+8121F403	IEEE 1588 style synchronization over wireless link
+80FCDE47	A global-state-triggered fault injector for distributed system evaluation
+80FEEF8A	Real-time operating environment for networked control systems
+7EF7653D	Improved interval-based clock synchronization in sensor networks
+7946CBC1	Behavior of clock‐sampling mutual network synchronization in wireless sensor networks: convergence and security
+7C3529F8	An improved hardware implementation of the fault-tolerant clock synchronization algorithm for large multiprocessor systems
+7E8C700F	Algorithmic aspects of the time synchronization problem in large-scale sensor networks
+7DEBD760	Towards the formal verification of lower system layers in automotive systems
