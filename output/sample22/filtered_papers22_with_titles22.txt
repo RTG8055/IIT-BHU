@@ -1,0 +1,245 @@
+7B14220F	Domain-specific program profiling and its application to attribute grammars and term rewriting
+5FB82331	Feature Subset Selection for Multi-class SVM Based Image Classification
+7D772226	On A Generic Parallel Collection Framework
+0D4F886D	Class: History of the Concept
+786B7539	Measuring class cohesion based on dependence analysis
+77306F5E	On understanding data abstraction, revisited
+75AD80C1	Complexities and Complications: Intersections of Class and Sexuality
+25CD3541	A Veblenian articulation of the monetary theory of production
+094E53E3	Quasiquotes for Scala
+7941FEA1	Basset: a tool for systematic testing of actor programs
+7EB3958A	‘I can’t do any more education’: class, individualisation and educational decision‐making
+7AEAAFB7	(Re)constituting the past, (re)branding the present and (re)imagining the future: women's spatial negotiation of gender and class
+758DE031	Gender, class and rurality: Australian case studies
+7DDD360E	Structural Insights into Omega-Class Glutathione Transferases: A Snapshot of Enzyme Reduction and Identification of a Non-Catalytic Ligandin Site
+8029402C	Intersectional Directions in Working Life Research—a Proposal
+7EAD7871	"Excuse the mess, but we live here": class, gender, and identity in the post-Cold War working-class family sitcom.
+76FB2154	The use of abstract data types to simplify program modifications
+7D957BD5	Extended mothering: maternal influences in daughters’ higher education.
+77702103	Income, race, and class: exploring socioeconomic differences in family technology use
+7EF2F895	Retinal photoreceptors of paleognathous birds: the ostrich (Struthio camelus) and rhea (Rhea americana)
+6F946843	Re-classifying London: a growing middle class and increasing inequality
+79DEF350	ESPeciaL: an embedded systems programming language
+7C20446B	Economies of racism: grounding education policy research in the complex dialectic of race, class, and capital
+7EEA439C	Object-oriented programming: Some history, and challenges for the next fifty years
+7997BC16	‘Cristiano Ronaldo is cheap chic, Twilight actors are special’: young audiences of celebrities, class and locality
+79A0CE74	Scala macros: let our powers combine!: on how rich syntax and static types work with metaprogramming
+7F788847	B-spline finite elements and their efficiency in solving relativistic mean field equations
+7E450CE8	Racialized bodies, naturalized classes: Moving through the city of Salvador da Bahia
+79ACBFA2	Miniboxing: improving the speed to code size tradeoff in parametric polymorphism translations
+7833CFDF	Disability welfare reform and the chav threat: a reflection on social class and ‘contested disabilities’
+7CCF7DA7	new Scala() instance of Java: a comparison of the memory behaviour of Java and Scala programs
+7E32613C	The intersections of gender and class in health status and health care
+75A6B23A	Pleasure, change and values in doctoral pedagogy
+81758A31	Coming Home to Love and Class
+26E78838	Social Generation, Class and Experiences of Youth Transition in Indonesia
+7CF765EE	Modular domain-specific language components in scala
+0E4458A2	Voting, Explanations of: Social Class
+77E23CE2	On structuring operating systems with monitors
+82B1662B	Estonia – Highly Unequal but Classless?
+7F47833A	The Neo-Marxist Legacy in American Sociology
+7DB053BA	Critical public relations: Some reflections
+7DCA8937	Communicating sequential processes
+75D86A30	The White working class, racism and respectability: victims, degenerates and interest-convergence
+7F62569F	A Scala Embedded DSL for Combinatorial Optimization in Software Requirements Engineering
+7BB10BF9	From object algebras to attribute grammars
+8080D3F7	Placing Research: 'City Publics' and the 'Public Sociologist'
+7782DAA2	Company and contract labour in a central Indian steel plant
+045204ED	JavaScript as an Embedded DSL
+7756A399	smARTbox: out-of-the-box technologies for interactive art and exhibition
+6EFDAD8A	Internal versus external DSLs for trace analysis
+7544E05C	Being seen in your pyjamas: the relationship between fashion, class, gender and space
+75725531	The Concept of ‘Social Division’ and Theorising Social Stratification: Looking at Ethnicity and Class
+78EC3452	Strivers vs skivers: Class prejudice and the demonisation of dependency in everyday life
+76F0F7C4	Beck, individualization and the death of class: a critique1
+7826FBAA	The importance of low control at work and home on depression and anxiety: do these effects vary by gender and social class?
+71D6EBED	Social stratification and attitudes: a comparative analysis of the effects of class and education in Europe1
+7FDB1096	TRACECONTRACT: a scala DSL for trace analysis
+7C2354A7	Relativistic Hartree-Bogoliubov theory in coordinate space: finite element solution for a nuclear system with spherical symmetry
+7EEE586C	Class, Individualization and Perceived (Dis)advantages: Not Either/Or But Both/And?
+7E7DD506	Ordinary, Ambivalent and Defensive: Class Identities in the Northwest of England
+81008BE2	An experimental study of the influence of dynamic compiler optimizations on Scala performance
+80CA851A	Life course pathways to business start-up
+8023A248	State Exploration of Scala Actor Programs
+8027F32C	Scalable component abstractions
+81267442	The programming language Concurrent Pascal
+76CE53F2	Restraining Women: Gender, Sexuality and Modernity in Salvador da Bahia
+8209AD1C	On linear algebraic semigroups. II
+75E540C6	Migrants, Cohesion and the Cultural Politics of the State: Critical Perspectives on the Management of Diversity
+7F69DDA0	Capsules: a shared memory access mechanism for Concurrent C/C++
+610AB96C	Actors that unify threads and events
+7D78C23E	Community Strikes Back? Belonging and Exclusion in Rural English Villages in Networked Times.
+7F2BBF1F	Same formula, different figures: change and persistence in class inequalities
+7F773D86	Classed, raced, and gendered biographies: young people's understandings of social structures in a boomtown
+7B65C3CC	The Gap and How to Mind It: Intersections of Class and Sexuality (Research Note)
+7E4558BF	Why Do Scala Developers Mix the Actor Model with Other Concurrency Models?
+78021300	Triple jeopardy? Mental health at the intersection of gender, race, and class
+7E938AFA	Crisis, Class, and Cooperatives: Some Comments on the United Steelworkers–Mondragón Alliance
+5AA0F55A	THE DIGITAL PRODUCTION GAP IN GREAT BRITAIN
+763BB383	Practical experience of eliciting classes from use case descriptions
+7F772DAC	The Trouble with Class
+7E2F6A25	London: A dividing city, 2001–11?
+785C198E	Serializability in multi-level monitor environments
+79FE32CB	Rural Youths' Images of the Rural.
+78B19126	Remaking labour imaginaries: social reproduction and the internationalising project of welfare reform
+7B78FFB6	On the automorphism group of a linear algebraic monoid
+7C0B81EE	Does the descriptive representation of the working class “crowd out” women and minorities (and vice versa)? Evidence from the Local Elections in America Project
+7B32BE83	Childbirth as ritual in Brazil: young mothers' experiences
+7F66BB34	SILO: INTEGRATING LOGIC IN OBJECTS FOR KNOWLEDGE REPRESENTATION AND REASONING
+728BD015	Enhancing the Object Constraint Language for more expressive specifications
+7BC31173	“We Was Regenerated Out”: Regeneration, Recycling and Devaluing Communities
+7546A56B	The classing gaze : sexuality, class and surveillance
+7BEB9F2C	The shifting and diverging White working class in U.S. presidential elections, 1972–2004
+7FBA182B	A Compositional Model for Confluent Dynamic Data-Flow Networks
+7602D4ED	Bollywood Bhajans: Style as ‘Air’ in an Indian-Guyanese Twice-migrant Community
+80DA0684	Class or Citizenship? Debating Workplace Conflict in China
+6DD7746F	Distributed Programming via Safe Closure Passing
+78C5C4C7	Race, gender, class, sexuality (RGCS) and hypertension
+78640FF3	The reproduction of privilege: young women, the family and private education
+76C2F173	Evaluation of soil moisture extremes for agricultural productivity in the Canadian prairies
+77C890FF	Balancing stigma and status: racial and class identities among middle-class Haitian youth
+794EB932	Concerning periodic points in mappings of continua
+7714C7A3	The Place of Disgust: Disability, Class and Gender in Spaces of Workfare
+779EFAB5	Developing Lift-based Web Applications Using Best Practices
+7C2A9F07	Compositional Effects, Segregation and Test Scores: Evidence From the National Assessment of Educational Progress
+7B283565	Analyzing best practices on Web development frameworks: The lift approach
+8135381E	Uma implementação paralela do AIRS em Scala
+7AC6E691	Suffering, Frustration, and Anger: Class, Gender and History in Sri Lankan Suicide Stories
+7B9D38A3	MorphScala: safe class morphing with macros
+72ADA357	Modes of consumption: From ‘what’ to ‘how’ in cultural stratification research
+7570D784	Kitsch as Kitsch Can, or Can't: An Introduction to a Symposium on Kitsch, Class, and Political Aesthetics
+7E9C1EDA	Incarceration and Stratification
+77E75455	The class and cultural functions of obesity discourse: our latter day child saving movement
+7D2A4447	Toward Interprocedural Pointer and Effect Analysis for Scala
+760A2837	Class, Place And Blackness In São Paulo's Gospel Music Scene
+5EF4792E	‘Heroes and Matriarchs’: Working‐Class Femininities, Violence and Door Supervision Work
+7ABE5A32	Forcing behavioral subtyping through specification inheritance
+79CE11E7	Attribute grammar paradigms—a high-level methodology in language implementation
+7D6FB13F	Accelerating parser combinators with macros
+798FBAD6	Gendering social mobility: a comparative perspective on the nexus of education and class across Europe
+7FE0DC23	Class and Class Conflict in Six Western Nations
+75A7B717	Guarding the Neighbourhood: The New Landscape of Control in Malaysia
+21BD34EC	Ethnicity and class
+0551117A	Scala.js: Type-Directed Interoperability with Dynamically Typed Languages
+81714999	Separation logic and abstraction
+716C4F8D	Intersections: The Simultaneity of Race, Gender and Class in Organization Studies
+76D5127F	Social Divisions, Party Positions, and Electoral Behaviour
+7DB4CD3A	Class Voting in Capitalist Democracies Since World War II: Dealignment, Realignment, or Trendless Fluctuation?
+78AD4540	Taking the next step: class, resources and educational choice across the generations
+77172A89	"Class matters": human and social capital in the entrepreneurial process
+7CC2FB6F	The class and colour of tone: An essay on the social history of vocal timbre
+7535F8A4	Spaces of the Home: Absence, Presence, New Connections and New Anxieties
+786D2837	Should I pitch my tent in the middle ground? On ‘middling tendency’, Beck and inequality in youth sociology
+7D1CD266	Interrogating the changing inequalities constituting ‘popular’ ‘deviant’ and ‘ordinary’ subjects of school/subculture in Ireland: moments of new migrant student recognition, resistance and recuperation
+76B6D29B	Application of finite element methods in relativistic mean-field theory: spherical nucleus
+82E3FB8E	Oberon-0 in Kiama
+762BEE23	Distributed REScala: an update algorithm for distributed reactive programming
+79328CC9	Transnational Capitalist Class in the Global Financial Crisis: A Discussion with Leslie Sklair
+7BA2FECD	Type-directed language extension for effectful computations
+7D09AAA0	Deprecating the Observer Pattern with Scala.React
+775CBEA0	Negotiation and Navigation - an Exploration of the Spaces/Places of Working-Class Lesbians
+7E1E2A2D	Labor in Informational Capitalism and on the Internet
+7C54343E	Supply-Side Dreams: Composition, Technology, and the Circular Logic of Class
+7AE8525B	Caste, Class, and Clientelism: A Political Economy of Everyday Corruption in Rural North India*
+7561F0A4	The Complexities and Potential of Theorizing Gender, Caste, Race, and Class
+3179AE86	Teoria klas a społeczeństwo ryzyka
+7A3951C5	Separation logic, abstraction and inheritance
+7E6ED83E	Self help and protest: the emergence of black supplementary schooling in England
+7BDA8463	Migrant masculinities: Bangladeshi men in Singapore's labour force
+80811A15	Bodies, mothers and identities: rethinking obesity and the BMI
+78ADEBE3	Marxism, Tribal Society, and the Dual Nature of Archaeology
+79C85179	The Intersection of Gender, Caste and Class Inequalities in Child Nutrition in Rural India
+76A88E13	How bodies are classed: An analysis of clothing and bodily tastes in Turkey
+80915698	The changing relationship between origins, education and destinations in the 1990s and 2000s
+784B841A	Degrees of Intersectionality: Male Rap Artists in Sweden Negotiating Class, Race and Gender
+7DAEAC0E	Beyond 'Juggling' and 'Flexibility': Classed and Gendered Experiences of Combining Employment and Motherhood
+6F884432	Capabilities for Uniqueness and Borrowing
+77E9C373	The Personal Contexts of National Sentiments
+7AEF4845	Sinner Ladies and the gospel of good taste: Geographies of food, class and care
+0B3A1833	Home Environments: Aesthetics, Fashion, Status
+7BDD7466	‘Chavs, chavettes and pramface girls’: teenage mothers, marginalised young men and the management of stigma
+7A60A707	jStar: towards practical verification for java
+5CCD318C	A bedrock of support? Trends in welfare state attitudes in Sweden, 1981–2010 :
+8083026D	The Digital Divide in Classroom Technology Use: A Comparison of Three Schools
+7B6D5E23	The ‘trouble’ with the ‘white working class’: whiteness, class and ‘groupism’
+7AFCD1B8	School principals and racism: responding to Aveling
+75944329	Waiting for change: youth, caste and politics in India
+7C606F18	‘A fist is stronger than five fingers’: caste and dominance in rural north India
+762BF2ED	DIMENSIONS OF A SOCIAL THEORY OF TASTE
+7FEA6D7C	Scala for generic programmers
+7A239EBA	Reproducing Difference? Schooling, Jobs, and Empowerment in Uttar Pradesh, India
+7263498D	Deprecating the Observer Pattern
+7CEB08ED	Function Passing: A Model for Typed, Distributed Functional Programming
+7FA806C5	Requirements-Driven Log Analysis Extended Abstract
+7848596E	Why is there a lack of central funding for enterprise education at Further Education Colleges?
+75AB0A65	SESSL: A domain-specific language for simulation experiments
+0AB736A0	Domain Specific Languages for High Performance Computing
+7E40852D	The material and the symbolic in theorizing social stratification: issues of gender, ethnicity and class
+7898B618	Da capo con scala: design and analysis of a scala benchmark suite for the java virtual machine
+7781D456	Haskell vs. f# vs. scala: a high-level language features and parallelism support comparison
+75A5FAB4	Gospel of Wealth, Gospel of Work: Counterhegemony in the U.S. Working Class
+7E82782D	How cultural capital, habitus and class influence the responses of older adults to the field of contemporary visual art
+7A283C6F	Misrepresenting ‘choice biographies’?: a reply to Woodman
+7AFDEB31	On divides and interfaces: Access, class, and computers
+5B62C9F1	Distinction : a social critique of the judgement of taste
+75F939CB	Comparing public spheres: Normative models and empirical measurements
+7FD31B62	An object-oriented approach to datatype-generic programming
+75EC05CB	Explanations of How Love Crosses Class Lines: Cultural Complements and the Case of Cross‐Class Marriages
+7A0DF993	The recession as the site of the exceptional: young people, self-determination and social mobility
+81A7AE95	Moving Beyond Dichotomies: How the Intersection of Race, Class and Place Impacts High School Graduation Rates for African American Students
+0E0C4FAA	Marxism in Contemporary Sociology
+767FF845	Bridging islands of specialized code using macros and reified types
+76240CA5	‘Seedy bars and grotty pints’: close encounters in queer leisure spaces
+777FA130	Multiple‐scale modelling of forest snow sublimation: initial findings
+797FD9C8	Anatomies of Inequality: Considering the Emotional Cost of Aiming Higher for Marginalised, Mature Mothers Re-Entering Education.
+78CC7EC1	Polymorphic embedding of dsls
+78410C60	From Aberfan to the ‘Canvey Factor’: schools, children and industrial disasters
+234251E0	Cosmopolitan cultural consumption: Preferences and practices in a heterogenous, urban population in Switzerland
+809DCF2E	Structural Marxism and Human Geography: A Critical Assessment
+82B7389A	"Waiting for the White Man to Fix Things:" Rebuilding Black Poverty in New Orleans
+7F0DD611	Black Middle-Class Neighborhoods
+76009E38	The experiences of female youth apprentices in Canada: just passing through?
+805254BA	Distributed processes: a concurrent programming concept
+7C632A60	CLASS AND CONFORMISM: A COMPARISON OF FOUR WESTERN COUNTRIES
+799BF0B1	Exploiting Java scientific libraries with the Scala language within the ScalaLab environment
+7A10CBF4	Moving Beyond The Gender Wealth Gap: On Gender, Class, Ethnicity, And Wealth Inequalities In The United Kingdom
+7D86608B	Who Won the Contest for a New Property Class? Structural Transformation of Elites in the Visegrád Four Region
+80887347	Generics of a higher kind
+79C7D7A8	Queer encounters of sexuality and class: Navigating emotional landscapes of academia
+5D947068	Automatic surjectivity of ring homomorphisms on *-algebras and algebraic differences among some group algebras of compact groups
+7D0278B5	Exploring Intersections of Employment and Ethnicity Amongst British Pakistani Young Men.
+78C73C42	Type classes as objects and implicits
+706C42E0	Class analysis for whom?
+81764AE7	A Framework for State-Space Exploration of Java-Based Actor Programs
+8101EE47	Instant pickles: generating object-oriented pickler combinators for fast and extensible serialization
+7DD3B9CB	Work–life reconciliation: Including children in the conversation
+765D6751	Culture, Class, and Connections
+770C046A	ScalaDyno: making name resolution and type checking fault-tolerant
+79228678	Social class, anxieties and mothers' foodwork
+7E1153B0	Making Class and Gender: (Market) Socialist Enframing of Traders in Ho Chi Minh City
+736577B4	Intergenerational class mobility in contemporary Britain: political concerns and empirical findings1
+77C5A119	A Political Chameleon: Class Segregation in Kingston, Ontario, 1961–1976
+7963CEDB	Complexity, Knowledge Politics and the Remaking of Class: Response to Levins
+75159CBF	Social Structure and the Production, Reproduction and Durability of Health Inequalities
+7B5096C7	The Search for a Mass Ecological Constituency
+8072312F	Whose choice? Young people, career choices and reflexivity re-examined
+81407592	REScala: bridging between object-oriented and functional style in reactive applications
+773733B8	The Racialised Somatic Norm and the Senior Civil Service
+7EF81612	Struggles for value: value practices, injustice, judgment, affect and the idea of class
+7DE9807D	A coordination language for mobile components
+7F3CF698	The Democratic Class Struggle in the United States, 1948-1992
+76E0BC33	'A Mob of Women' Confront Post-Colonial Republican Politics: How Class, Race, and Partisan Ideology Affected Gendered Political Space in Nineteenth-Century Southwestern Colombia
+7770F30B	Same, but different: Within London's ‘static’ class structure and the missing antagonism
+58E9A72E	How Can the Intersections between Gender, Class, and Sexuality Be Translated to an Empirical Agenda?
+7CB40FBE	Class and employment
+7A55C1EA	Scala and Lift Functional Recipes for the Web
+79461B0B	When convenience is inconvenient: ‘healthy’ family foodways and the persistent intersectionalities of gender and class
+7BB09D00	Class and Voting in the 1996 Australian Federal Election
+5FBC37FD	Aspects-classes integration testing strategy: an incremental approach
+8031D86D	Keywords given by authors of scientific articles in database descriptors
+7B04DB91	‘Mugging up’ versus ‘exposure’: international schools and social mobility in Hyderabad, India
+8134CB55	Fundamental ideas for a parallel computing course
+7F4F7E64	Analysis and improvement of runoff generation in the land surface scheme CLASS and comparison with field measurements from China
+7E582DE2	Class and Other Identifications in Managerial Careers: The Case of the Lemon Dress
+782EE0C3	Simulation of alpine tundra surface microclimates using the Canadian Land Surface Scheme: II. Energy balance and surface microclimatology
+799B75EB	Women and economy: complex inequality in a post-industrial landscape

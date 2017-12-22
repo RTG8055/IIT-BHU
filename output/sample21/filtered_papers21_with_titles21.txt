@@ -1,0 +1,807 @@
+5F7D28BA	Inference Based Classifier: Efficient Construction of Decision Trees for Sparse Categorical Attributes
+096FE627	A comparison of methods for predicting vegetation type
+7DB4EBA8	LANDSCAPE HISTORY, FRAGMENTATION, AND PATCH OCCUPANCY: MODELS FOR A FOREST BIRD WITH LIMITED DISPERSAL
+7C84D570	Assessing the potential impacts of climate change on the alpine habitat suitability of Japanese stone pine (Pinus pumila).
+7E07E299	Distributional Ecology of a Rare, Endemic Stonefly
+7E118CA8	Preparing measurements of legacy software for predicting operational faults
+75464F4C	Decision trees for hierarchical multi-label classification
+777094E3	Boosting Using Branching Programs
+7BA04FD7	A GIS-based empirical model for vegetation prediction in Lefka Ori, Crete
+5BD2E015	Learning conditional independence tree for ranking
+5C27E998	Classification Rules + Time = Temporal Rules
+792D9D58	Genes in the insulin and insulin-like growth factor pathway and odds of metachronous colorectal neoplasia
+7D0C5ACF	Hierarchical classifier design in high-dimensional numerous class cases
+7E0B900D	A Coverage-Driven Constraint Random-Based Functional Verification Method of Pipeline Unit
+80F62DFD	Seed bank composition and above-ground vegetation in response to grazing in sub-Mediterranean oak forests (NW Greece).
+5D25C398	A Scalable Algorithm for Rule Post-pruning of Large Decision Trees
+7D871529	Decision trees do not generalize to new variations
+761765E7	Mapping seasonal snow with SIR-C/X-SAR in mountainous areas
+7EB79B6F	Document zone content classification and its performance evaluation
+5B7F5483	Decision tree learning system with switching evaluator
+5CA383D7	Decision Trees for Hierarchical Multilabel Classification: A Case Study in Functional Genomics
+81051DE1	Constructing a decision tree from data with hierarchical class labels
+7D6BF95F	A neural network classification tree
+7C659FCA	Tree‐structured classifiers
+7F17EEC7	The influence of logging and topography on the distribution of spruce-fir forests near their Southern limits in Great Smoky Mountains National Park, USA
+7FED3D97	Classifying Cinnamomums using rough sets classifier based on interval-discretization
+76B1BFA3	Relaxing instance boundaries for the search of splitting points of numerical attributes in classification trees
+7BD76242	Classification trees with optimal multivariate decision nodes
+583CC201	The Elements of Statistical Learning
+7836AAFD	Growing a classification tree using the apparent misclassification rate.
+7AF23130	AN IMPROVED KNOWLEDGE-ACQUISITION STRATEGY BASED ON GENETIC PROGRAMMING
+07CF004C	Analysing Bug Prediction Capabilities of Static Code Metrics in Open Source Software
+7F617EA0	On the use of linguistic consistency in systems for human-computer dialogues
+76E46C09	Determination of risk factors for hypertension through the classification tree method
+7EFAF191	Building software quality classification trees: Approach, experimentation, evaluation
+7A917624	User Modeling in Spoken Dialogue Systems to Generate Flexible Guidance
+7D6B33E0	Improving the quality of classification trees via restructuring
+5D23F78F	Estimating feature discriminant power in decision tree classifiers
+7DF0B2B7	Deriving high-level concepts using fuzzy-ID3 decision tree for image retrieval
+75EE81A9	Recursive Partitioning for the Identification of Disease Risk Subgroups: A Case-Control Study of Subarachnoid Hemorrhage
+760DA458	Multiclass Corporate Failure Prediction by Adaboost.M1
+7F6EAC0E	Layout recognition of multi-kinds of table-form documents
+7C8F5460	Comments on optimizing the selection of the number of groups in a classification tree
+7ECAD363	Identification of high-risk subgroups in very elderly intensive care unit patients
+81797A1A	Recursive Decision Tree Induction Based on Homogeneousness for Data Clustering
+7027A8E1	The Alternating Decision Tree Learning Algorithm
+7F13DCEC	An Efficient Classification System Based on Binary Search Trees for Data Streams Mining
+5EEE13F2	Data Mining of Software Development Databases
+7A8DD8E1	MMDT: a multi-valued and multi-labeled decision tree classifier for data mining
+776A5AEE	Using classification trees to study the effects of fisheries management plans on the yield of Merluccius merluccius (Linnaeus, 1758) in the Alboran Sea (Western Mediterranean)
+7ED0BE26	A Strategy for Attributes Selection in Cost-Sensitive Decision Trees Induction
+7DB7B57D	Hyperspectral discrimination of tropical rain forest tree species at leaf to crown scales
+7C538C03	The application of non-parametric techniques to solve classification problems in complex data sets in veterinary epidemiology – An example
+7942BB92	Density estimation trees
+0972561F	Modeling Brook Trout Presence and Absence from Landscape Variables Using Four Different Analytical Methods
+7AD65442	First order random forests: Learning relational classifiers with complex aggregates
+7F502558	Bayesian Decision Trees for predicting survival of patients: A study on the US National Trauma Data Bank
+7C09F4A8	Performance evaluation of classification trees for building detection from aerial images and LiDAR data: a comparison of classification trees models
+5E468D72	A Classification-Tree Hybrid Method for Studying Prognostic Models in Intensive Care
+7DA7A9A2	A comparison of decision tree and backpropagation neural network classifiers for land use classification
+7CEB4D0E	Decision tree regression for soft classification of remote sensing data
+8102A209	MODEL-BASED STRATIFICATIONS FOR ENHANCING THE DETECTION OF RARE ECOLOGICAL EVENTS
+7F08D85D	An Approach for Automatic Sleep Stage Scoring and Apnea-Hypopnea Detection
+7B39BBCF	Classification of Italian honeys by mid-infrared diffuse reflectance spectroscopy (DRIFTS)
+78BE6513	PPtree: Projection pursuit classification tree
+80B879CA	Hybrid learning using genetic algorithms and decision trees for pattern classification
+63884C1D	A comparison of two learning algorithms for text categorization
+781218D5	Predictive mapping of soil organic carbon in wet cultivated lands using classification-tree based models: the case study of Denmark.
+7DD9AB9A	Selecting the best categorical split for classification trees
+7A2505E4	A new information measure based on example-dependent misclassification costs and its application in decision tree learning
+7808D939	Analysis of traffic injury severity: An application of non-parametric classification tree techniques
+5E84EE11	Pre-pruning Classification Trees to Reduce Overfitting in Noisy Domains
+7F8DA76A	An Empirical Study on Class Probability Estimates in Decision Tree Learning
+7918E6DE	Classification Using Φ-Machines and Constructive Function Approximation
+5F70E1A4	Possibilistic Induction in Decision-Tree Learning
+5D2614D0	A Study with Class Imbalance and Random Sampling for a Decision Tree Learning System
+7655C9CA	An Object-Based Approach for Mapping Shrub and Tree Cover on Grassland Habitats by Use of LiDAR and CIR Orthoimages
+76379AE0	Some modifications of the algorithm for construction of classification trees
+81531AA1	Dyadic Classification Trees via Structural Risk Minimization
+80D6B343	Mapping moderate-scale land-cover over very large geographic areas within a collaborative framework: A case study of the Southwest Regional Gap Analysis Project (SWReGAP)
+5A9C3896	Model-Driven Software Product Line Testing: An Integrated Approach
+78FC7157	Identifying indicators of the spatial variation of agricultural practices by a tree partitioning method: The case of weed control practices in a vine growing catchment
+79931D06	Remote sensing of aquatic vegetation distribution in Taihu Lake using an improved classification tree with modified thresholds
+7B3DD8D0	Genetic Programming with a Genetic Algorithm for Feature Construction and Selection
+5F266F4C	Spam behavior recognition based on session layer data mining
+7985A140	Motivation for compliance with environmental regulations related to forest health.
+76F222A0	Controlling Overfitting in Classification-Tree Models ofSoftware Quality
+5FC3D117	Predictive Classification Trees
+75FD2021	Per-field urban land use classification based on tax parcel boundaries
+7FAA4BA9	Recursive Partitioning as an Approach to Selection of Immune Markers for Tumor Diagnosis
+7BB9CE27	Determining of gas type in counter flow vortex tube using pairwise fisher score attribute reduction method
+5B79C7AF	Unknown attribute values in induction
+7C54DFE0	Invasive species distribution modeling (iSDM): are absence data and dispersal constraints needed to predict actual distributions?
+7F7E8785	Decision Tree Algorithm based on Sampling
+560B2421	Applying remote sensing techniques to monitoring seasonal and interannual changes of aquatic vegetation in Taihu Lake, China
+80BE6F3A	Predicting Node Failure in High Performance Computing Systems from Failure and Usage Logs
+76121E5E	Application of genetic algorithm and greedy stepwise to select input variables in classification tree models for the prediction of habitat requirements of Azolla filiculoides (Lam.) in Anzali wetland, Iran
+7A155A0A	Efficient sleep stage recognition system based on EEG signal using k-means clustering based feature weighting
+75FAFF35	Reliability measures for local nodes assessment in classification trees
+7EAAD3A1	Genetic algorithm-based decision tree classifier for remote sensing mapping with SPOT-5 data in the HongShiMao watershed of the loess plateau, China
+7A3E6E74	Info-fuzzy algorithms for mining dynamic data streams
+5EA0BB7C	A Survey of Fuzzy Decision Tree Classifier Methodology
+80F25EF4	Structure and Majority Classes in Decision Tree Learning
+7F272634	Encoding and decoding the knowledge of association rules over SVM classification trees
+7A18D63D	On the boosting ability of top-down decision tree learning algorithms
+80F0F8E4	A decision tree based quasi-identifier perturbation technique for preserving privacy in data mining
+689FA895	Additive logistic regression : A statistical view of boosting
+79406A62	Classification of repeated measurements data using tree-based ensemble methods
+7FDDD447	Analysis of a complexity-based pruning scheme for classification trees
+77B5357E	Integrating classification trees with local logistic regression in Intensive Care prognosis
+80D8BC42	Patient-specific learning in real time for adaptive monitoring in critical care
+80DCAAC2	Using Decision Tree Analysis to Identify Risk Factors for Relapse to Smoking
+7A2533E8	Responses of forest herbs to available understory light measured with hemispherical photographs in silver fir–beech forest in Croatia
+59E014F7	Tools and Techniques for Decision Tree Learning
+7515C5E1	Towards a generic approach for characterizing and mapping tropical secondary forests in the highlands of mainland Southeast Asia
+7FA9B46B	A k-norm pruning algorithm for decision tree classifiers based on error rate estimation
+8043E4F8	A high speed decision tree classifier algorithm for huge dataset
+75548498	Superficial and subterranean soil erosion in Tabasco, tropical Mexico: Development of a decision tree modeling approach
+5D26A0B9	Examples of Integration of Induction and Deduction in Knowledge Discovery
+7B6C0DF2	Data mining criteria for tree-based regression and classification
+7A04C044	Industrial and occupational ergonomics in the petrochemical process industry: A regression trees approach
+7FF8481B	Automatic CRP mapping using nonparametric machine learning approaches
+59F961F6	Tree Induction for Probability-Based Ranking
+81702C53	Birds on novel island environments. A case study with the urban avifauna of Tenerife (Canary Islands)
+5AC679FE	A comparison of different off-centered entropies to deal with class imbalance for decision trees
+76957AB8	Glaucoma Classification Model Based on GDx VCC Measured Parameters by Decision Tree
+79006A5D	Automated extraction of attribute hierarchies for an improved decision-tree classifier
+808C8578	Monitoring mangrove forest changes using remote sensing and GIS data with decision-tree learning
+816302E5	A pattern recognition approach for detecting power islands using transient signals — Part I: Design and implementation
+7EB1ED43	Evolving optimised decision rules for intrusion detection using particle swarm paradigm
+7D014A76	Speciesâ€™ Functional Type Affects the Performance of Species Distribution Models for Plants in Southern California
+7E90A831	Face membership authentication using SVM classification tree generated by membership-based LLE data partition
+7DA5BB86	An actuarial model of violence risk assessment for persons with mental disorders.
+60D65F09	Making Ontology-Based Knowledge and Decision Trees Interact: An Approach to Enrich Knowledge and Increase Expert Confidence in Data-Driven Models
+5C0E3543	AUC: a Better Measure than Accuracy In Comparing Learning Algorithms
+7B0D80E7	COMPARING THE PERFORMANCE OF SEMANTIC IMAGE RETRIEVAL USING SPARQL QUERY, DECISION TREE ALGORITHM AND LIRE
+7F2CCD5E	Random forests as a tool for ecohydrological distribution modelling
+7577FD1D	The individual borrowers recognition: Single and ensemble trees
+7A6F854E	Staying Power of Churn Prediction Models
+6BEA8553	Cost Sensitive Discretization of Numeric Attributes
+7EB7DA8D	Application of Decision Tree Algorithm for classification and identification of natural minerals using SEM–EDS
+7772B19F	Bundling classifiers by bagging trees
+7B87FC6C	Predicting the distribution of invasive crayfish (Pacifastacus leniusculus) in a Kusiro Moor marsh (Japan) using classification and regression trees
+7BEAD898	Decision tree learning with fuzzy labels
+79479AC6	Risk profiles for overweight/obesity among preschoolers.
+79872E33	Geochemistry of low-grade clastic rocks in the Acatlán Complex of southern Mexico: Evidence for local provenance in felsic–intermediate igneous rocks
+7807020D	Extrapolating regional soil landscapes from an existing soil map: Sampling intensity, validation procedures, and integration of spatial context
+7FB04BF9	Classification trees with neural network feature extraction
+7635766D	Classification tree based protein structure distances for testing sequence-structure correlation
+794AFA29	Combining genetic algorithms and neural networks to build a signal pattern classifier
+7E8F41FE	Supervised classification using probabilistic decision graphs
+5DAC4631	First Order Random Forests with Complex Aggregates
+7745DFE0	A study in machine learning from imbalanced data for sentence boundary detection in speech
+775E424E	Cell and tumor classification using gene expression data: Construction of forests
+7B7B8A67	Comparison of modelling techniques to predict macroinvertebrate community composition in rivers of Ethiopia
+78A47E05	Additive logistic regression: a statistical view of boosting (With discussion and a rejoinder by the authors)
+800B30B3	Activity classification using realistic data from wearable sensors
+7F2DDA1D	Developing interpretable models with optimized set reduction for identifying high-risk software components
+7907860E	Assessing the extent of agriculture/pasture and secondary succession forest in the Brazilian Legal Amazon using SPOT VEGETATION data
+7FCEDD1A	Discriminative Wavelet Packet Filter Bank Selection for Pattern Recognition
+7BA827F1	Multiple binary decision tree classifiers
+7AC65706	Multifactorial comparison of disk displacement with and without reduction to normals according to temporomandibular joint hard tissue anatomic relationships
+78F4F268	A comparison of classification models to identify the Fragile X Syndrome
+7C9B7793	Analysis of the traffic injury severity on two-lane, two-way rural roads based on classification tree models
+7CC7B73F	Genetic basis of variation in tenofovir drug susceptibility in HIV-1
+7DACB0B9	Classification-tree restructuring methodologies: a new perspective
+809D1AC2	Learning from examples: generation and evaluation of decision trees for software resource analysis
+766D1A0F	Personalized mode transductive spanning SVM classification tree
+7AE8A09A	To ask or not to ask, that is the question
+76279AB5	Automated segmentation of the optic nerve head for diagnosis of glaucoma
+5D04D366	Cost-Sensitive decision tree learning for forensic classification
+5E6C32AB	PUBLIC: A Decision Tree Classifier that Integrates Building and Pruning
+5CED5F34	Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision Tree Hybrid
+76CDF761	Application of an enhanced decision tree learning approach for prediction of petroleum production
+7E5791EC	Recursive partitioning for tumor classification with gene expression microarray data
+0BD455E8	Pruning for Monotone Classification Trees
+7518D8AB	An approach of private classification on vertically partitioned data
+80DA4044	Classification tree analysis using TARGET
+3414DC80	Decision forest: Twenty years of research
+75527D59	Influencing Elections with Statistics: Targeting Voters with Logistic Regression Trees
+78C404F5	A comparison of techniques for generating forest ownership spatial products
+7CCB323B	The response of soil biochemical variables to organic and conventional cultivation of Asparagus sp.
+7806276E	A multi-scale approach for modeling fire occurrence probability using satellite data and classification trees: A case study in a mountainous Mediterranean region
+7C879F8B	Comparison of Support Vector Machines to Other Classifiers Using Gene Expression Data
+7B8BBF02	The comparison between classification trees through proximity measures
+7F3CE23A	Learning classification trees
+79046D26	Multifactorial analysis of differences in temporomandibular joint hard tissue anatomic relationships between disk displacement with and without reduction in women
+76BBB220	Modelling distribution of marine benthos from hydroacoustics and underwater video
+7F4EC541	A Method for Selecting Training Data and its Effect on Automated Land Cover Mapping of Large Areas
+7987EFAC	Classification trees: an alternative to traditional land cover classifiers
+7A16DEDE	Automatic model selection in cost-sensitive boosting
+6F622FCF	Evolutionary feature construction using information gain and gini index
+8088BCB1	Automatic acquisition of adjectival subcategorization from corpora
+7644FCFD	A classification tree approach to identify key factors of transit service quality
+803F343B	Hierarchical decision tree induction in distributed genomic databases
+6CB9CCA2	Benchmarking Open-Source Tree Learners in R/RWeka
+7FB38937	Mining Staff Assignment Rules from Event-Based Data
+78B221C1	Local value difference metric
+5C736746	Lazy Learning of Bayesian Rules
+768C5293	Selecting the best splits for classification trees with categorical variables
+690C63DE	Numerical Attributes in Decision Trees: A Hierarchical Approach
+7C2D70CB	Balancing Misclassification Rates in Classification-TreeModels of Software Quality
+58DC3966	Model Switching for Bayesian Classification Trees with Soft Splits
+75487C02	On the boosting ability of top-down decision tree learning algorithms
+09F47932	The Foundations of Cost-Sensitive Learning
+7E1B2E88	Privacy in Data Mining Using Formal Methods
+81736796	The Effects of Over and Under Sampling on Fault-prone Module Detection
+77761D6E	Application of 1 H NMR for the characterisation and authentication of ‘‘Tonda Gentile Trilobata” hazelnuts from Piedmont (Italy)
+7E4C2F0A	Use of classification trees for association studies
+7FDF2C7C	The training strategy for creating decision tree
+7910E150	Improving test coverage using merged classification tree
+5DE0814F	Control of Dexterous Hand Via Recognition of EMG Signals Using Combination of Decision-Tree and Sequential Classifier
+76E7C192	Models developed by three techniques did not achieve acceptable prediction of binary trauma outcomes
+7FA8663B	Automatic detection of blue-white veil and related structures in dermoscopy images.
+7F293779	Aspen, climate, and sudden decline in western USA.
+80DBF8C6	A Coverage-Driven Constraint Random-Based Functional Verification Method of Memory Controller
+7E84B055	Selection of diurnal refuges by the nocturnal squirrelfish, Holocentrus rufus
+7D28B480	Building pixel classifiers using the interactive teacher/learner (ITL) system
+5D15CA29	Landscape Dynamics of the Spread of Sudden Oak Death
+81727861	Application of classification tree and logistic regression for the management and health intervention plans in a community‐based study
+7ED25D03	A New Decision Tree Algorithm Based on Rough Set Theory
+7A4E6427	Potential effects of climate change on plant communities in three montane nature reserves in Scotland, UK
+00D8E521	A fast decision tree learning algorithm
+7D3727BA	Classification trees for partition testing
+80975818	An Incremental and Interactive Decision Tree Learning Algorithm for a Practical Diagnostic Supporting Workbench
+7DC08B34	Cascaded multi-class pairwise classifier (CascaMPa) for normal, cancerous, and cancer confounder classes in prostate histology
+5E5D0895	SVMT-Rule: Association Rule Mining Over SVM Classification Trees
+76C92EA9	Visual classification: an interactive approach to decision tree construction
+066840FF	Human Involvement and Interactivity of the Next Generation's Data Mining Tools
+584F8649	Application of Classification Trees to Analyze Income Distribution in Poland
+7B0730C2	Development of two-level decision tree-based real-time scheduling system under product mix variety environment
+7554B23E	Probability of ponderosa pine infestation by mountain pine beetle in the Colorado Front Range
+7AF7A6E5	Non-parametric classification of protein secondary structures
+05D1C973	The Use of Functional and Logic Languages in Machine Learning
+797B8E0C	La contribution des arbres de classification et de régression dans la prédiction de la récidive chez les délinquants sexuels adultes
+81508024	Predicting the distribution of shrub species in southern California from climate and terrain‐derived variables
+6DB6C639	Evaluation of decision tree pruning with subadditive penalties
+7AE9CA10	Modelling habitat preferences for fin whales and striped dolphins in the Pelagos Sanctuary (Western Mediterranean Sea) with physiographic and remote sensing variables
+7CDDA234	Comparing techniques for vegetation classification using multi-and hyperspectral images and ancillary environmental data
+7BF6B3A2	On the effectiveness of classification trees for test case construction
+77FBC406	A hierarchical Bayesian model for predicting the functional consequences of amino acid polymorphisms
+7C13A0AD	Comparison of burned area estimates derived from SPOT-VEGETATION and Landsat ETM+ data in Africa: Influence of spatial pattern and vegetation type
+8078FE2D	Contextual Semantics for WSD
+7660F5E3	Catastrophe Predictors From Ensemble Decision-Tree Learning of Wide-Area Severity Indices
+77502702	Hyper-rectangular space partitioning trees: A practical approach
+5E0BAD93	Fast Perceptron Decision Tree Learning from Evolving Data Streams
+7F0C6667	Binary tree genetic algorithm with Quadtree for land cover classifications
+60A90300	New Data Pre-processing on Assessing of Obstructive Sleep Apnea Syndrome: Line Based Normalization Method (LBNM)
+753568E5	A comparison between cluster busting technique and a classification tree algorithm of a moderate resolution imaging spectrometer (MODIS) land cover map of Honduras
+7EC3FFCB	Spoofing protection for fingerprint scanner by fusing ridge signal and valley noise
+801E5BB1	Learning Heuristics for the Superblock Instruction Scheduling Problem
+7AA53B3B	Application of classification trees in the sensitivity analysis of probabilistic model results
+7813E81C	An effective application of decision tree learning for on-line detection of mean shifts in multivariate control charts
+80CA6543	Privacy Preservation and Restoration of Data Using Unrealized Data Sets
+7C759B20	Changes in wildfire severity from maritime pine woodland to contiguous forest types in the mountains of northwestern Portugal
+6C0298A4	Generic Object Class Detection using Feature Maps
+75AED858	Privacy preserving decision tree learning over multiple parties
+801D8FCE	Optimal constraint-based decision tree induction from itemset lattices
+77B6CE73	Object-based classification using Quickbird imagery for delineating forest vegetation polygons in a Mediterranean test site
+7A78D8D0	Modeling the risk: Innovative approaches to understand and quantify the risk of severe FB injury
+7A075B5B	Malaria in central Vietnam: analysis of risk factors by multivariate analysis and classification tree models
+7C48A9BC	Generating test cases from class vectors
+76F90626	Empirical characterization of random forest variable importance measures
+80724366	Vegetation and topographical correlates of fire severity from two fires in the Klamath-Siskiyou region of Oregon and California
+6E0983D7	An inductive learning system for XML documents
+76B6ECE4	Identification and characterization of dendritic, parallel, pinnate, rectangular, and trellis networks based on deviations from planform self‐similarity
+61AAB9D7	Bayesian Evidence Framework for Decision Tree Learning
+5D1FD91C	Constructing X-of-N Attributes for Decision Tree Learning
+7B40CA29	A comparison of multi-class support vector machine and classification tree methods for hydroacoustic classification of fish-schools in Chile
+7631698E	Classification tree models for predicting distributions of michigan stream fish from landscape variables
+7F868FF4	Predicting tree species presence and basal area in Utah: A comparison of stochastic gradient boosting, generalized additive models, and tree-based methods
+75098F83	A Comparison of Node-Splitting Rules in Recursive Partitioning Analysis of Multivariate Quantitative Structure Activity Data
+7C1A5149	Systems biological approach on neurological disorders: a novel molecular connectivity to aging and psychiatric diseases
+7A7B2BA9	A novel feature extraction method and hybrid tree classification for handwritten numeral recognition
+76589AE4	Modelling physico-chemical factors affecting occurrences of a non-indigenous planktonic copepod in northeast Pacific estuaries.
+053C7747	Generating Better Decision Trees
+8056E553	Diversification for better classification trees
+7B626573	XRules: an effective structural classifier for XML data
+7E7808BF	Modeling the distribution of four vegetation alliances using generalized linear models and classification trees with spatial dependence
+7FCCD98B	The wetland conservation atlas of the St. Lawrence valley produced from decision tree classifications of RADARSAT and Landsat images
+79EEF106	An iterative approach to build relevant ontology-aware data-driven models
+7BBC366E	Constructing conjunctions using systematic search on decision trees
+5C165CA1	Application of Genetic Programming to Induction of Linear Classification Trees
+6DCAAFDC	Simple Test Strategies for Cost-Sensitive Decision Trees
+5BF8772A	Chapter 28 Incorporating Classification Trees into a Pedogenic Understanding Raster Classification Methodology, Green River Basin, Wyoming, USA
+5B3F0056	ComEnVprs: a novel approach for inducing decision tree classifiers
+5A0CA622	Spanning SVM Tree for Personalized Transductive Learning
+7AF1AC8A	Evaluating techniques for generating metric-based classification trees
+7B3E91A4	Classification of image pixels based on minimum distance and hypothesis testing
+7E5562F9	A Dynamic Discretization Approach for Constructing Decision Trees with a Continuous Label
+7F908BB3	Exploring an Improved Decision Tree Based Weights
+79017D7E	Privacy in data systems
+5DFE89CF	SLIQ: A Fast Scalable Classifier for Data Mining
+7EE48A59	Privacy-preserving data mining
+80278E61	A novel robust feature of modulation classification for reconfigurable software radio
+7903B636	Predicting elementary school participation in children with disabilities
+817A2BCE	Fuzzification of a Crisp Near-Real-Time Operational Automatic Spectral-Rule-Based Decision-Tree Preliminary Classifier of Multisource Multispectral Remotely Sensed Images
+8009F1AE	Global land cover classifications at 8 km spatial resolution: the use of training data derived from Landsat imagery in decision tree classifiers
+5F2BAD7A	A Bayesian Random Split to Build Ensembles of Classification Trees
+7DB4BB80	Forest Cover Classification With MODIS Images in Northeastern Asia
+800CEA3E	Combining Search, Social Media, and Traditional Data Sources to Improve Influenza Surveillance
+7BF821E4	Towards a comprehensive evaluation of V-I-S sub-pixel fractions and land surface temperature for urban land-use classification in the USA
+7EF8C984	Identifying Patterns of Resilience Using Classification Trees
+788F8779	Block diagrams and splitting criteria for classification trees
+7E55664F	A classification tree approach to the development of actuarial violence risk assessment tools
+8044DD47	Privacy preserving C4.5 using Gini index
+7D459119	Investigation of the random forest framework for classification of hyperspectral data
+8071ADD8	A Continuous Wavelet Transform and Classification Method for Delirium Motoric Subtyping
+6FC32C79	Bias in random forest variable importance measures: Illustrations, sources and a solution
+7A584785	Regional patterns of agricultural land use and deforestation in Colombia
+750F4E68	Analysis and Design of a Decision Tree Based on Entropy Reduction and Its Application to Large Character Set Recognition
+7D13BEA7	A land cover map of southern hemisphere Africa based on SPOT‐4 Vegetation data
+782D74BE	On the versatility of radial basis function neural networks: A case study in the field of intrusion detection
+80D812E0	Discriminatively Trained GMMs for Language Classification Using Boosting Methods
+7C78AFF2	Interactive visualization in multiclass learning: integrating the SASSC algorithm with KLIMT
+8146B364	A genome-wide tree- and forest-based association analysis of comorbidity of alcoholism and smoking
+5D43D998	Ordinal classification with monotonicity constraints
+80E79EFE	Modeling major lung resection outcomes using classification trees and multiple imputation techniques
+060A5BF0	TRANSFERABILITY AND ROBUSTNESS OF PREDICTIVE MODELS TO PROACTIVELY ASSESS REAL-TIME FREEWAY CRASH RISK
+7CE9A083	Geographic variation in vocalizations of pups and mother-pup behavior of harp seals Pagophilus groenlandicus.
+80DFDDF3	A note on split selection bias in classification trees
+080A7D49	Well-Trained PETs: Improving Probability Estimation Trees
+76B55918	Siberian crane duet as an individual signature of a pair: comparison of visual and statistical classification techniques
+76D89B1B	Statistical evaluation of local to regional snowpack stability using simulated snow-cover data
+76DFCED7	Using conditional inference forests to identify the factors affecting crash severity on arterial corridors
+602C796A	K nearest neighbor edition to guide classification tree learning: motivation and experimental results
+799775D5	Backscatter coefficient as an attribute for the classification of full-waveform airborne laser scanning data in urban areas
+59FBC9BF	Integrating semantic templates with decision tree for image semantic learning
+5CCD86EA	Applications of randomized response methodology in e-commerce
+790997B5	Comparing Fire Severity Models from Post-Fire and Pre/Post-Fire Differenced Imagery
+7D7BFB47	Applying Distributed Classification Algorithms to Wireless Sensor Networks A Brief View into the Application of the SPRINT Algorithm Family
+5F1BA789	Maximum margin decision surfaces for increased generalisation in evolutionary decision tree learning
+7FF31C27	Evalution of Random Forest Ensemble Classification for Land Cover Mapping Using TM and Ancillary Geographical Data
+7794D544	Comparing CART with backpropagation neural networks in vegetation greenness classification
+80CB9AEC	Intra-annual variation in habitat choice by an endemic woodpecker: implications for forest management and conservation.
+769D2945	Decision-Tree and Rule-Induction Approach to Integration of Remotely Sensed and GIS Data in Mapping Vegetation in Disturbed or Hilly Environments
+7F7FE042	Random forests for classification in ecology.
+79F0B555	Analysis of occlusal variables, dental attrition, and age for distinguishing healthy controls from female patients with intracapsular temporomandibular disorders
+7E90E578	Genetic Variation in the Nucleotide Excision Repair Pathway and Bladder Cancer Risk
+5E370059	Cost-Time Sensitive Decision Tree with Missing Values
+7694448D	Improved wetland remote sensing in Yellowstone National Park using classification trees to combine TM imagery and ancillary environmental data
+80B95072	Geno2pheno: interpreting genotypic HIV drug resistance tests
+75FD0F67	Understanding the determinants of investment reactions to decoupling of the Common Agricultural Policy
+75881784	Focal-Test-Based Spatial Decision Tree Learning
+8114BECE	Effect of species rarity on the accuracy of species distribution models for reptiles and amphibians in southern California
+7CCFC576	The hybrid of association rule algorithms and genetic algorithms for tree induction: an example of predicting the student course performance
+811F38EA	Mapping invasive plants using hyperspectral imagery and Breiman Cutler classifications (Randomforest)
+5B923D67	Consolidated trees: an analysis of structural convergence
+5A73690B	Conditional Independence Trees
+7D851D6C	Classification by ensembles from random partitions of high-dimensional data
+72719B81	CMP: a fast decision tree classifier using multivariate predictions
+5DC01A3F	Active Learning with Automatic Soft Labeling for Induction of Decision Trees
+75C3ED49	Effect of the x 2 test on construction of ID3 decision trees
+7A1B7F43	Mining data to find subsets of high activity
+7F5E9A4A	Utilization of Discretization method on the diagnosis of optic nerve disease
+8167B992	Mapping Selective Logging in Mixed Deciduous Forest: A Comparison of Machine Learning Algorithms
+7E38FA8C	Character recognition based on global feature extraction
+79CD7C67	A variant of Rotation Forest for constructing ensemble classifiers
+7C471851	FRCT: fuzzy-rough classification trees
+5C5AF7FD	Bayesian Classification Trees with Overlapping Leaves Applied to Credit-Scoring
+7673D9C3	Classifying G-protein coupled receptors with bagging classification tree
+5D6B01DC	Spatial Simulation of Agricultural Practices using a Robust Extension of Randomized Classification Tree Algorithms
+79249A4C	Missing value imputation using decision trees and decision forests by splitting and merging records: Two novel techniques
+7B827728	Decisional Trees in Renal Transplant Follow-up
+782012A1	A similarity measure to assess the stability of classification trees
+7CA54E07	A classification tree analysis of broadband adoption in Australian households
+7A62849E	A tree-based statistical classification algorithm (CHAID) for identifying variables responsible for the occurrence of faecal indicator bacteria during waterworks operations
+7F627B23	A connectionist approach to generating oblique decision trees
+7C91966B	Fall Detection Based on Body Part Tracking Using a Depth Camera
+77531D91	Factors associated with caregiver stability in permanent placements: A classification tree approach
+62C5EBB5	Using classification trees for software quality models: lessons learned
+80B99314	1D 13C-NMR Data as Molecular Descriptors in Spectra — Structure Relationship Analysis of Oligosaccharides
+75E66A87	Mapping land-cover modifications over large areas: A comparison of machine learning algorithms
+7B742528	Top-down decision tree learning as information based boosting
+0920B2C9	Graph Transformations for Model-Based Testing
+7F0CF03D	Ensemble of One-Class Classifiers for Network Intrusion Detection System
+7E53AC45	National Park vegetation mapping using multitemporal Landsat 7 data and a decision tree classifier
+76E32E9C	Splitting criteria for regression trees
+7BFBCB5B	Use of data mining techniques to investigate disease risk classification as a proxy for compromised biosecurity of cattle herds in Wales
+75B543E9	Estimating plant species occurrence in MTB/64 quadrants as a function of DEM-based variables—a case study for Medvednica Nature Park, Croatia
+7CF4EFFB	A comparison of statistical approaches for modelling fish species distributions
+5D4F81AE	Varying Parameter in Classification Based on Imprecise Probabilities
+7ABDCCD6	Risk of in-hospital mortality identified according to the typology of patients with acute heart failure: Classification tree analysis on data from the Acute Heart Failure Database–Main registry
+5BF53C73	CLOUDS: A Decision Tree Classifier for Large Datasets
+77DC8244	Decision Trees for Probability Estimation: An Empirical Study
+76ABA68C	Random Forests for multiclass classification: Random MultiNomial Logit
+7766EBB6	Learning decision tree classifiers
+7C4AD466	Diagnosing warm‐season rainfall variability in Mexico: a classification tree approach
+796E1EA3	Fraudulent financial reporting detection and business failure prediction models: a comparison
+7C6A47C9	Classification techniques for metric-based software development
+7EA330FD	Land-Cover Change Monitoring with Classification Trees Using Landsat TM and Ancillary Data
+7F0A6C3B	Increasing rule extraction accuracy by post-processing GP trees
+7E6879D0	Improving GP classification performance by injection of decision trees
+8051CE46	An Improved Decision Tree Algorithm on Bayesian
+7C791BF9	Perceptual grouping of line features in 3-D space: a model-based framework
+773A262E	Predicting the post-fire establishment and persistence of an invasive tree species across a complex landscape.
+7929A092	Integrating genetic algorithm and decision tree learning for assistance in predicting in vitro fertilization outcomes
+7FB36959	RainForest—A Framework for Fast Decision Tree Construction of Large Datasets
+5972D6B9	ERROR-CORRECTING OUTPUT CODING CORRECTS BIAS AND VARIANCE
+5873F73B	Decision Tree Instability and Active Learning
+7EBC642E	An Investigation of Missing Data Methods for Classification Trees Applied to Binary Response Data
+801DF3D6	Consistency of Random Forests and Other Averaging Classifiers
+801103D8	Adaptive Building of Decision Trees by Reinforcement Learning
+6A1B7A68	Automatic Construction of Decision Trees from Data: A Multi-Disciplinary Survey
+5EB56273	Bagging Classification Models with Reduced Bootstrap
+7D2EF0B7	Volumetric coronary plaque composition using intravascular ultrasound: three-dimensional segmentation and spectral analysis
+7A059493	Instance selection and classification tree analysis for large spatial datasets in digital soil mapping
+765A80FF	Multi-scale digital terrain analysis and feature selection for digital soil mapping.
+76F8EA1A	Oil pipeline spill cause analysis A classification tree approach
+752DA09E	A comparison of decision tree classifiers with backpropagation neural networks for multimodal classification problems
+8027B02B	Identification of Interaction Patterns and Classification with Applications to Microarray Data
+7D3AD997	A Framework for Learning Comprehensible Theories in XML Document Classification
+76CB6A7E	Forecasting and Evaluating Water Quality of Chao Lake based on an Improved Decision Tree Method
+7E4DD1BC	Learning consistent semantics from training data
+75AD64AE	A Framework for Measuring Differences in Data Characteristics
+7A88004A	A comparison of ARA and DNA data for microbial source tracking based on source-classification models developed using classification trees
+7A92CC7D	Predicting progressive glaucomatous optic neuropathy using baseline standard automated perimetry data.
+7E8F0CBC	Enhancing a regional vegetation map with predictive models of dominant plant species in chaparral
+2417C4DB	Selecting multiway splits in decision trees
+78AAEDCF	Knowledge discovery from models of soil properties developed through data mining
+7DBE91C8	An Empiric Approach to Level of Care Determinations: The Importance of Executive Measures
+80DBF875	Learning Decision Tree Classifiers from Attribute Value Taxonomies and Partially Specified Data
+7C68D222	Explaining and predicting workplace accidents using data-mining techniques
+7BD843FF	Decentralized M-ary detection via hierarchical binary decision fusion
+7F7F4388	Mapping land-cover change in a Haitian watershed using a combined spectral mixture analysis and classification tree procedure
+80417ADA	Habitat utilization by Blainville’s beaked whales off Great Abaco, northern Bahamas, in relation to seabed topography
+7A497D83	Integrating TM and ancillary geographical data with classification trees for land cover classification of marsh area
+79D3E945	A neural network approach to discover attribute dependency for improving the performance of classification
+7D6C0598	Efflcient incremental decision tree generation for embedded applications
+7FF13771	Classification trees as an alternative to linear discriminant analysis
+80F92B97	A boosting approach for corporate failure prediction
+7D16E87F	Wetland mapping in the Congo Basin using optical and radar remotely sensed data and derived topographical indices
+76C30F89	A classification system for delirium subtyping with the use of a commercial mobility monitor
+75C804BD	Predicting microhabitat selection in juvenile Atlantic salmon Salmo salar by the use of logistic regression and classification trees
+7E21AB11	Diet and lifestyle factors and risk of subtypes of esophageal and gastric cancers: classification tree analysis.
+8076B530	Novel insights in the fecal egg count reduction test for monitoring drug efficacy against soil-transmitted helminths in large-scale treatment programs
+7CC62C76	Does hollow occurrence vary with forest type? A case study in wet and dry Eucalyptus obliqua forest
+5E366623	Isotonic Classification Trees
+7B656940	Climatic determinants of the northern range limit of Fagus crenata forests in Japan
+815D263E	Using genetic programming for feature creation with a genetic algorithm feature selector
+0BD5F0D8	Bias Correction in Classification Tree Construction
+7DADD024	Biodiversity among Lactobacillus helveticus Strains Isolated from Different Natural Whey Starter Cultures as Revealed by Classification Trees
+7F375BDA	A comparative modelling analysis of firm performance
+5A25EF93	Using Product, Process, and Execution Metrics to Predict Fault-Prone Software Modules with Classification Trees
+80A219C9	Note Onset Deviations as Musical Piece Signatures
+76BB2CB2	EEG gamma frequency and sleep–wake scoring in mice: Comparing two types of supervised classifiers
+75494C3C	Analyses of Rear-End Crashes Based on Classification Tree Models
+7EAD4110	A survey of decision tree classifier methodology
+7F6DC727	A novel hybrid intelligent method based on C4.5 decision tree classifier and one-against-all approach for multi-class classification problems
+79209CD6	Improving global scale land cover classifications with multi-directional POLDER data and a decision tree classifier
+75DA9FB2	Application of classification trees and support vector machines to model the presence of macroinvertebrates in rivers in Vietnam
+5CA100E8	Robust prediction of fault-proneness by random forests
+6D0ADD57	Automatically Generating Information from a Z Specification to Support the Classification Tree Method
+5E9A6F66	Wykorzystanie drzew klasyfikacyjnych w analizie cech sensorycznych brokułu włoskiego po obróbce cieplnej
+7CA115F9	Automating extraction of logical domains in a web site
+7E36C31B	Travel, Migration and HIV:Comparing Risk Behaviors BetweenNative and Migrant Jamaican Persons Infected with HIV
+7D5B187E	Random forests for land cover classification
+78C48629	A multigenic approach to predict breast cancer risk
+7BE7AEE9	Tree-Based Methods as an Alternative to Logistic Regression in Revealing Risk Factors of Crib-Biting in Horses
+7E8724EA	The use of classification trees for bioinformatics
+7DDF1F6D	Binary halftone image resolution increasing by decision tree learning
+790A6AD7	Comparison of Different Classifier Algorithms on the Automated Detection of Obstructive Sleep Apnea Syndrome
+5E5ADE23	Extracting Decision Rules from Sigmoid Kernel
+7F108404	Characterizing and mapping forest fire fuels using ASTER imagery and gradient modeling
+7D9353F7	r-SVMT: Discovering the knowledge of association rule over SVM classification trees
+7BD3B9AB	Predicting the incidence risk of ischemic stroke in a hospital population of southern China: A classification tree analysis
+7739D71D	Regionalizing soil properties in a catchment of the Bavarian Alps.
+7D139C2C	Detection of fraud use of credit card by extended VFDT
+7E895C5F	A new feature extraction method for signal classification applied to cord dorsum potential detection
+79FEF31D	External validity of predictive models: a comparison of logistic regression, classification trees, and neural networks.
+7904EEAB	Classification confidence weighted majority voting using decision tree classifiers
+7B3BBF3A	Classification in conservation biology: A comparison of five machine-learning methods
+7652A3F3	Critical storm thresholds for the generation of significant dune erosion at Dziwnow Spit, Poland
+76202CAC	Predicting avian patch occupancy in a fragmented landscape: do we know more than we think?
+755952C3	Susceptibility of ponderosa pine, Pinus ponderosa (Dougl. Ex Laws.), to mountain pine beetle, Dendroctonus ponderosae Hopkins, attack in uneven-aged stands in the Black Hills of South Dakota and Wyoming USA
+7CE913CA	A comparison of random forest and its Gini importance with standard chemometric methods for the feature selection and classification of spectral data
+76DE6639	A performance comparison of trained multilayer perceptrons and trained classification trees
+789240F8	Probabilistic scoring using decision trees for fast and scalable speaker recognition
+75250ABC	Computational Intelligence based techniques for islanding detection of distributed generation in distribution network: A review
+7C121ED8	Multiple Criteria for Evaluating Machine Learning Algorithms for Land Cover Classification from Satellite Data
+77210889	Fuzzy knowledge-based models for prediction of Asellus and Gammarus in watercourses in Flanders (Belgium)
+7FFD7E7C	Heterogeneous and Hierarchical Cooperative Learning via Combining Decision Trees
+7D4B2F93	Applying design patterns to decision tree learning system
+76F8A2E1	SQL database primitives for decision tree classifiers
+7708C25C	A cross sectional study of the prevalence and risk factors for owner misperception of canine body shape in first opinion practice in Glasgow
+8145682F	A survey of image classification methods and techniques for improving classification performance
+7FC75423	Variation in Spatial Predictions Among Species Distribution Modeling Methods
+7971FC0B	Integrating Landsat TM and SRTM-DEM derived variables with decision trees for habitat classification and change detection in complex neotropical environments
+7A7F1A7D	An unbiased method for constructing multilabel classification trees
+7DDCEAA2	TARV: Tree‐based Analysis of Rare Variants Identifying Risk Modifying Variants in CTNNA2 and CNTNAP2 for Alcohol Addiction
+797F61C3	Prediction of Chronic Allograft Nephropathy Using Classification Trees
+7C6832CD	Developing a clinically useful actuarial tool for assessing violence risk
+756E0A0A	Snow and weather conditions associated with avalanche releases in forests: Rare situations with decreasing trends during the last 41years
+7B2872AE	Stand and individual tree characteristics associated with Enaphalodes rufulus (Haldeman) (Coleoptera: Cerambycidae) infestations within the Ozark and Ouachita National Forests
+7D7DCFEB	MAPPING WETLANDS AND RIPARIAN AREAS USING LANDSAT ETM 1 IMAGERY AND DECISION-TREE-BASED MODELS
+6A4BCB3D	Embedding proximal support vectors into randomized trees
+78687CB9	Modeling Bare Ground With Classification Trees in Northern Spain
+78F9553F	Improving the precision of classification trees
+7D15B2F1	Clustering-based activity classification with a wrist-worn accelerometer using basic features
+75502685	Application of classification-tree models to characterize the mycobiota of grapes on the basis of origin
+7B417486	Preempt or Yield? An Analysis of Driver’s Dynamic Decision Making at Unsignalized Intersections by Classification Tree
+7A174700	An intelligent approach to time series identification by a neural network-driven decision tree classifier
+75321FEA	Application and evaluation of classification trees for screening unwanted plants
+7B2A2624	Informatics software for the ecologist's toolbox: A basic example
+6BAB5329	Uncertain Classification of Fault-Prone Software Modules
+797733FE	Land use land cover classification of Orissa using multi-temporal IRS-P6 awifs data: A decision tree approach
+7EF42D0F	Operational Automatic Remote Sensing Image Understanding Systems: Beyond Geographic Object-Based and Object-Oriented Image Analysis (GEOBIA/GEOOIA). Part 1: Introduction
+78E2C03E	Constructing a multi-valued and multi-labeled decision tree
+7C8CCCB4	A New Method for Modifying Thresholds in the Classification of Tree Models for Mapping Aquatic Vegetation in Taihu Lake with Satellite Images
+5F697B67	Chapter 25 A Comparison of Data-Mining Techniques in Predictive Soil Mapping
+5F9B7048	SIM-PDT: a similarity based possibilistic decision tree approach
+7AC54865	Non-binary classification trees
+7EDE01B2	Multifactorial modeling of temporomandibular anatomic and orthopedic relationships in normal versus undifferentiated disk displacement joints
+7D81D04F	A decision tree classifier design for high-dimensional data with limited training samples
+812B8C6C	RotBoost: A technique for combining Rotation Forest and AdaBoost
+8109D714	EffiCuts: optimizing packet classification for memory and throughput
+7714050A	Incorporating taxonomic distance into spatial prediction and digital mapping of soil classes
+5A53DC10	Efficient Parallel Classification Using Dimensional Aggregates
+80359DCE	Discrimination Aware Decision Tree Learning
+6D9D2BCA	On selecting additional predictive models in double bagging type ensemble method
+7683DF85	Wetland monitoring using classification trees and SPOT-5 seasonal time series
+776180A5	A novel data reduction method: Distance based data reduction and its application to classification of epileptiform EEG signals
+7C66892E	An iterative growing and pruning algorithm for classification tree design
+5D9B75D7	Probabilistic inference trees for classification and ranking
+7AA3D69F	Mining optimal decision trees from itemset lattices
+7A79F4FD	Comparison of methods for integrating biological and physical data for marine habitat mapping and classification
+58DC12EC	Classification of High-Resolution NMR Spectra Based on Complex Wavelet Domain Feature Selection and Kernel-Induced Random Forest
+7E728705	Genetic programming for performance improvement and dimensionality reduction of classification problems
+7BB98473	Empirically guided software development using metric-based classification trees
+5A5C90DC	Generating Classifier Commitees by Stochastically Selecting both Attributes and Training Examples
+7D9F6510	Mining Three-Dimensional Anthropometric Body Surface Scanning Data for Hypertension Detection
+5B21D4DB	The Determinants of Farmer’s Intended Behaviour Towards the Adoption of Energy Crops in Southern Spain: an Application of the Classification Tree-Method
+7B069868	The importance of ecological scale for wildlife conservation in naturally fragmented environments: A case study of the Brush-Tailed Rock-Wallaby (Petrogale Penicillata)
+7E92BF8B	An Empirical Study on Several Classification Algorithms and Their Improvements
+7DE3D027	Classification tree modeling to identify severe and moderate vehicular injuries in young and middle-aged adults
+7A10D5B1	Evolving decision tree rule based system for audio stego anomalies detection based on Hausdorff distance statistics
+80D8FF0C	A Processing Path Dispatcher in Network Processor MPSoCs
+78369BC8	Genetic algorithms for optimisation of predictive ecosystems models based on decision trees and neural networks
+7A9055F5	Mining social mixing patterns for infectious disease models based on a two-day population survey in Belgium
+7F3D96EC	Test Case Design Using Classification Trees and the Classification-Tree Editor CTE
+78E303D3	A data-integrated simulation model to evaluate nurse–patient assignments
+7DCDC5F1	Large area mapping of land‐cover change in Rondônia using multitemporal spectral mixture analysis and decision tree classifiers
+7B33A4AD	Nest selection by snow petrels Pagodroma nivea in East Antarctica
+77632AB4	Discriminating the papyrus vegetation (Cyperus papyrus L.) and its co-existent species using random forest and hyperspectral data resampled to HYMAP
+66614CCB	Text Categorization Using Neural Networks Initialized with Decision Trees
+59A615C4	Analysis of company growth data using genetic algorithms on binary trees
+7C9D2136	Experiences with criticality predictions in software development
+7938E606	Audio steganalysis with Hausdorff distance higher order statistics using a rule based decision tree paradigm
+5CA30F4F	An Evaluation of Different Training Sample Allocation Schemes for Discrete and Continuous Land Cover Classification Using Decision Tree-Based Algorithms
+7893B9CF	The effect to diagnostic accuracy of decision tree classifier of fuzzy and k-NN based weighted pre-processing methods to diagnosis of erythemato-squamous diseases
+792859ED	A vulnerability analysis of the temperate forests of south central Chile
+7EEF3736	Loss Functions for Binary Class Probability Estimation and Classification: Structure and Applications
+7E308670	Region-based image retrieval with high-level semantics using decision tree learning
+7DA028E8	Novel and Highly Efficient Reconfigurable Implementation of Data Mining Classification Tree
+778FF174	Classification trees versus multinomial models in the analysis of urban farming systems in Central Africa
+7714993F	Multistage classification and recognition that employs vector quantization coding and criteria extracted from nonorthogonal and preprocessed signal representations
+7D330154	The effect of small disjuncts and class distribution on decision tree learning
+80055A7A	Exploiting the Cost (In)sensitivity of Decision Tree Splitting Criteria
+619947F4	RainForest - A Framework for Fast Decision Tree Construction of Large Datasets
+7AC8DFCB	Explicitly incorporating spatial dependence in predictive vegetation models in the form of explanatory variables: a Mojave Desert case study
+5AC346D7	A classification tree based on discriminant functions
+80B8F577	An Investigation of Missing Data Methods for Classiffcation Trees
+780901E3	Logistic regression had superior performance compared with regression trees for predicting in-hospital mortality in patients hospitalized with heart failure.
+7E1558B9	Best-first Decision Tree Learning
+754FA369	Texture classification of logged forests in tropical Africa using machine-learning algorithms
+7A080F7A	Multivariate determination of the geographical origin of wines from four different countries
+7780A9DE	Inducing safer oblique trees without costs
+58D2377F	Inverse halftoning by decision tree learning
+77BC4E7F	Mapping wetlands using ASTER data: a comparison between classification trees and logistic regression
+5D9952A5	PUBLIC: A Decision Tree Classifier that Integrates Building and Pruning
+812FADA1	The use of decision tree and multiscale texture for classification of JERS-1 SAR data over tropical forest
+815060A9	Integrating species traits with extrinsic threats: closing the gap between predicting and preventing species declines.
+5FF82AD7	Multi-interval Discretization Methods for Decision Tree Learning
+79699889	GIS-based application of resource selection functions to the prediction of snow petrel distribution and abundance in East Antarctica: Comparing models at multiple scales
+59F59044	Building software quality classification trees: approach, experimentation, evaluation
+7EA12692	The Compound Effect of Boosting and Stratified Sampling on Decision Tree Accuracy
+7EBC7994	Complexity measure evaluation and selection
+7E73AF26	Putting a cart before the search : Successful habitat prediction for a rare forest herb
+7D48C6E2	Inductive Querying with Virtual Mining Views
+755E5D21	SNP model development for the prediction of eye colour in New Zealand
+592C1B59	A data-driven approach to feature construction
+59499344	Classification Based on Attribute Dependency
+7C2C1D39	Adaptive Selection of Extra Cutpoints—Towards Reconciling Robustness and Interpretability in Classification Trees
+5CCC46F4	Stochastic Attribute Selection Committees
+7840B6A9	Freshwater macrophyte communities in lakes of variable landscape position and development in northern Wisconsin, U.S.A.
+785AC0D4	Using learning to facilitate the evolution of features for recognizing visual concepts
+7E9032A4	The application of semantic classification trees to natural language understanding
+5C733ABD	Ontology-Driven Induction of Decision Trees at Multiple Levels of Abstraction
+5EEA988D	Test Case Design by Means of the CTE XL
+7EEA510E	Improving tree-based models of software quality with principal components analysis
+5F4CE14B	Parallel Formulations of Decision-Tree Classification Algorithms
+815A4E9B	Ranking Categorical Features Using Generalization Properties
+78AACF4C	Pareto-optimality of oblique decision trees from evolutionary algorithms
+7BB096BB	Online monitoring and fault identification of mean shifts in bivariate processes using decision tree learning techniques
+7817C07B	The effect of generalized discriminate analysis (GDA) to the classification of optic nerve disease from VEP signals
+760DAC0A	Comprehensive Decision Tree Models in Bioinformatics
+8008E43A	Implementation and evaluation of existing knowledge for digital soil mapping in Senegal
+75225A15	Indication of a species in an extinction vortex: The ocellated turkey on the Yucatan peninsula, Mexico
+7DB312C0	ECG-based prediction of atrial fibrillation development following coronary artery bypass grafting
+5FB82FDA	A fast splitting procedure for classification trees
+059F0EDA	Classification spanning private databases
+7EC0370B	Machine learning approaches to multisource geospatial data classification: application to CRP mapping in Texas County, Oklahoma
+7EA1EB54	A Robust Algorithm for Classification Using Decision Trees
+7E7B8D13	Rule generation for protein secondary structure prediction with support vector machines and decision tree
+752F2199	FALL DETECTION USING THREE WEARABLE TRIAXIAL ACCELEROMETERS AND A DECISION-TREE CLASSIFIER
+7812143C	Ecosystem states : creating a data-derived, ecosystem-scale ecological response model that is explicit in space and time
+809CADCA	Test strategies for cost-sensitive decision trees
+7A3077B0	Reply to Comment on “A new procedure to optimize the selection of groups in a classification tree: Applications for ecological data”
+7EA9AC08	Handling over-fitting in test cost-sensitive decision tree learning by feature selection, smoothing and pruning
+7D8270FA	Forecasting the spread of invasive rainbow smelt in the laurentian great lakes region of North America
+80B34684	Deriving test cases using class vectors
+751235FF	Vegetation based classification trees for rapid assessment of isolated wetland condition
+79151983	Measuring conservation value at fine and broad scales: implications for a diverse and fragmented region, the Agulhas Plain
+75D2AFE2	Regional mapping of soil parent material by machine learning based on point data
+7F8399B4	Classification trees: An alternative non‐parametric approach for predicting species distributions
+7E38F8DE	Model-based classification trees
+75886846	Automatic Spectral-Rule-Based Preliminary Classification of Radiometrically Calibrated SPOT-4/-5/IRS, AVHRR/MSG, AATSR, IKONOS/QuickBird/OrbView/GeoEye, and DMC/SPOT-1/-2 Imagery—Part I: System Design and Implementation
+810EE9CF	Cline: A New Decision-Tree Family
+7EC4B130	Operational Performance of an Automatic Preliminary Spectral Rule-Based Decision-Tree Classifier of Spaceborne Very High Resolution Optical Images
+7B1AEF5B	A tree-based decision rule for identifying profile groups of cases without predefined classes: application in diffuse large B-cell lymphomas
+81028C03	Single-accelerometer-based daily physical activity classification
+76B4C9C6	Modelling habitat selection using presence-only data: Case study of a colonial hollow nesting bird, the snow petrel
+79BCE1C3	Optimizing land use classification using decision tree approaches
+7AFE440C	Classification of premalignant pancreatic cancer mass-spectrometry data using decision tree ensembles
+79D4D0E4	Capturing impressions of pedestrian landscapes used for healing purposes with decision tree learning
+7521495D	A bottom-up methodology for integrating underwater video and acoustic mapping for seafloor substrate classification
+81052765	Land Cover Analysis on Sub-Continental Scale: FAO LCCS Standard with 250 Meter MODIS Satellite Observations in West Africa
+7E4B4E43	A survey of fuzzy decision tree classifier
+7D069928	Genetic algorithm-based neural fuzzy decision tree for mixed scheduling in ATM networks
+092B87BF	Multivariate Regression Trees: A New Technique for Modeling Species-Environment Relationships
+75404C8A	Building multi-way decision trees with numerical attributes
+7F90A0DC	Modelling fault-proneness statistically over a sequence of releases: a case study
+7E3028E1	A Comparison of Decision Tree Ensemble Creation Techniques
+8003FB71	Decision Tree Network Traffic Classifier Via Adaptive Hierarchical Clustering for Imperfect Training Dataset
+085FB010	MRDTL: A multi-relational decision tree learning algorithm
+7D016C02	A Multi-relational Decision Tree Learning Algorithm – Implementation and Experiments
+7901DF72	Large-area crop mapping using time-series MODIS 250 m NDVI data: An assessment for the U.S. Central Great Plains
+07C89F77	Generalized Entropy for Splitting on Numerical Attributes in Decision Trees
+5FBFA1D7	Stochastic Attribute Selection Committees with Multiple Boosting: Learning More Accurate and More Stable Classifier Committees
+0B2EA2E1	A Hybrid Genetic Algorithm — Decision Tree Classifier
+79525CEA	Construction of classification trees via the classification-hierarchy table
+7D3B64E1	A Novel Algorithm for Associative Classification
+7D762E5E	VDM-RS: A visual data mining system for exploring and classifying remotely sensed images
+7FBAD9E4	Bagging tree classifiers for laser scanning images: a data- and simulation-based strategy
+78720773	Modelling nearshore intertidal habitat use of young-of-the-year Pacific sand lance (Ammodytes hexapterus) in Barkley Sound, British Columbia, Canada
+58DC2B3C	Shared Ensemble Learning Using Multi-trees
+766E5517	A comparative analysis of a fixed thresholding vs. a classification tree approach for operational burn scar detection and mapping
+76438064	CSNL: A cost-sensitive non-linear decision tree algorithm
+5A42FEC9	Classification tree analysis of second neoplasms in survivors of childhood cancer
+09C4B886	Cost-Sensitive Test Strategies
+7DBC9607	A Classification-Tree Analysis of Nesting Habitat in an Island Population of Northern Harriers
+815D56B0	Context based Application Level Intrusion Detection System
+76BF5914	Classification and mapping of anthropogenic landforms on cultivated hillslopes using DEMs and soil thickness data - Example from the SW Parisian Basin, France
+78D002D4	Minimizing False Positives of a Decision Tree Classifier for Intrusion Detection on the Internet
+7B81695C	Boosting the Generalized Margin in Cost-Sensitive Multiclass Classification
+5CCA92FB	Genetic Programming and Class-Wise Orthogonal Transformation for Dimension Reduction in Classification Problems
+80F6F135	Boosted Classification Trees and Class Probability/Quantile Estimation
+80493A93	Vocal Diversity and Taxonomy of Nomascus in Central Vietnam and Southern Laos
+79A697FB	Fault Diagnosis of Welded Joints through Vibration Signals Using Naïve Bayes Algorithm
+7968BCC9	Predicting future depression in adolescents using the Short Mood and Feelings Questionnaire: A two-nation study
+5C4F99C0	Consolidated Trees: Classifiers with Stable Explanation. A Model to Achieve the Desired Stability in Explanation
+7D866902	Generating, selecting and prioritizing test cases from specifications with tool support
+8051B076	A Streaming Parallel Decision Tree Algorithm
+7ABB5B97	Comparison of logistic regression model and classification tree: An application to postpartum depression data
+77D1DAF8	Classification trees for ordinal variables
+7C5815C8	Naive Bayes for optimal ranking
+7F84DEBC	Image-based predictive ecosystem mapping in Canadian arctic parks
+780F7169	Learning probabilistic decision trees for AUC
+7D968239	Contraceptive use and intent in Guatemala
+7E280521	The application of classification tree analysis to soil type prediction in a desert landscape
+793D1F3B	Optimization of classification trees: strategy and algorithm improvement
+78D64BE5	Assessing herbivore foraging behavior with GPS collars in a semiarid grassland.
+0A511FA7	Enhancing the efficiency in privacy preserving learning of decision trees in partitioned databases
+7B9409A7	Machine learning techniques to examine large patient databases
+804B3F86	Human Protein Function Prediction using Decision Tree Induction
+80F40623	Tree induction vs. logistic regression: a learning-curve analysis
+7C4E63B0	Using classification trees to assess low birth weight outcomes
+814BD334	Monitoring of cropland practices for carbon sequestration purposes in north central Montana by Landsat remote sensing.
+7C4E703E	Comparing mapping approaches at subcatchment scale in northern Thailand with emphasis on the Maximum Likelihood approach
+7FDC5E9D	Automatic Spectral Rule-Based Preliminary Classification of Radiometrically Calibrated SPOT-4/-5/IRS, AVHRR/MSG, AATSR, IKONOS/QuickBird/OrbView/GeoEye, and DMC/SPOT-1/-2 Imagery—Part II: Classification Accuracy Assessment
+7D655255	Efficient prediction methods for selecting effective siRNA sequences
+7DF548DB	Learning speech semantics with keyword classification trees
+7A44CBB4	Mapping forest alliances and associations using fuzzy systems and nearest neighbor classifiers
+7B17DD34	A hybrid method for robust car plate character recognition
+77F1C351	Forest classification trees and forest support vector machines algorithms: Demonstration using microarray data
+7F79BB8D	Sensitivity analysis and stability patterns of two-species pest models using artificial neural networks
+7A5B0A16	Operational Automatic Remote Sensing Image Understanding Systems: Beyond Geographic Object-Based and Object-Oriented Image Analysis (GEOBIA/GEOOIA). Part 2: Novel system Architecture, Information/Knowledge Representation, Algorithm Design and Implementation
+094A81F9	Intra-sentence Punctuation Insertion in Natural Language Generation
+78CEE1FA	Classification Trees With Bivariate Linear Discriminant Node Models
+814D93BB	Multiple classifier combination for land cover classification of remote sensing image
+079F11A0	Detecting grammatical errors with treebank-induced, probabilistic parsers
+82704A9B	Cybercrime Profiling: Decision-Tree Induction, Examining Perceptions of Internet Risk and Cybercrime Victimisation
+7928AB5D	Classification trees and decision-analytic feedforward control: a case study from the video game industry
+75AC3F8B	An intelligent method for computer-aided trauma decision making system
+7587FFB9	Characterization of New Zealand obsidian using PXRF
+7FFE8376	Influence of Hydroclimatology and Socioeconomic Conditions on Water-Related International Relations
+758F58B5	An enhanced secure preserving for pre-processed data using DMI and PCRBAC algorithm
+7EDFB3A5	Comparison of statistical methods for classification of ovarian cancer using mass spectrometry data.
+7AFA8FBA	Functional Impact of Missense Variants in BRCA1 Predicted by Supervised Learning
+78E2EC66	Learning relational probability trees
+80FD6ED9	Human and biophysical factors influencing modern fire disturbance in northern Wisconsin
+80B725A3	Importance of electrophysiological signal features assessed by classification trees
+7CF993B1	Personalization Algorithm for Real-Time Activity Recognition Using PDA, Wireless Motion Bands, and Binary Decision Tree
+7B2B6A78	SECRET: a scalable linear regression tree algorithm
+78C76725	Mapping residential density patterns using multi-temporal Landsat data and a decision-tree classifier
+7FECF49A	The application of GIS based decision-tree models for generating the spatial distribution of hydromorphic organic landscapes in relation to digital terrain data
+76F208B3	HABITAT USE AND BEHAVIOR OF THE PACIFIC SAND LANCE (AMMODYTES HEXAPTERUS) IN THE SHALLOW SUBTIDAL REGION OF SOUTHWESTERN VANCOUVER ISLAND
+5E26543C	An Approach to the Design of a Linear Binary Tree Classifier
+76AD7C94	Identifying the key risk factors of traffic accident injury severity on Slovenian roads using a non-parametric classification tree
+811E73E0	Software quality classification modeling using the SPRINT decision tree algorithm
+7C51731F	Comment on ``Tectonic classification of basalts with classification trees'' by Pieter Vermeesch (2006)
+7A7576F0	Statistical tree classification of aphids based on morphological characteristics
+769D7064	Robot Navigation by Waypoints
+7E366CC2	Change detection of wetland ecosystems using Landsat imagery and change vector analysis
+7E353F0E	An Introspective Comparison of Random Forest-Based Classifiers for the Analysis of Cluster-Correlated Data by Way of RF++
+5E450025	On the Use of Clustering in Possibilistic Decision Tree Induction
+7D59E73B	Effects of sample survey design on the accuracy of classification tree models in species distribution models
+7DDDB9E5	Research on multi-valued and multi-labeled decision trees
+5CF96F19	Families of splitting criteria for classification trees
+7A72861B	On digital soil mapping
+7E233BB6	Using classification trees to analyze the impact of exotic species on the ecological assessment of polder lakes in Flanders, Belgium
+7FB00EE2	Oracle Bounds and Exact Algorithm for Dyadic Classification Trees
+76CAFFDD	A Classification Tree Based Modeling Approach for Segment Related Crashes on Multilane Highways
+7D1284CF	A boosted-trees method for name disambiguation
+7789F7DD	A survey of cost-sensitive decision tree induction algorithms
+75542B44	Assessing the stability of classification trees using Florida birth data
+806ECB0D	Comparison of discriminant function and classification tree analyses for age classification of marmots
+5C53D253	Systematic Unit-Testing of Ada Programs
+7509E0F7	Three learning phases for radial-basis-function networks
+7685EDA6	Decision Tree Classifiers in Bioinformatics
+7B5C591C	Modeling Landscape Vegetation Pattern in Response to Historic Land-use: A Hypothesis-driven Approach for the North Carolina Piedmont, USA
+817A0BAB	Efficient Multidimensional Suppression for K-Anonymity
+80D392C6	A Comparison of Prediction Accuracy, Complexity, and Training Time of Thirty-Three Old and New Classification Algorithms
+7FBA6946	Model-based evaluation of ecological bank design and management in the scope of the European Water Framework Directive
+7869DDA1	Detecting hospital fraud and claim abuse through diabetic outpatient services
+7C067E41	Association Study of Selected Genetic Polymorphisms and Occurrence of Venous Thromboembolism in Patients With Multiple Myeloma Who Were Treated With Thalidomide
+7D245BEC	CLASSIFICATION AND REGRESSION TREES: A POWERFUL YET SIMPLE TECHNIQUE FOR ECOLOGICAL DATA ANALYSIS
+7DD171A0	Unbiased split selection for classification trees based on the Gini Index
+75424E4E	The postglacial history of three Picea species in New England, USA
+7B19B92F	Structure-driven induction of decision tree classifiers through neural learning
+7C83BC94	Integration of classification tree analyses and spatial metrics to assess changes in supraglacial lakes in the Karakoram Himalaya
+77306098	Comparing five modelling techniques for predicting forest characteristics
+7FB6FE61	Diagnostic and predictive maintenance systems for abnormal behavior of power scheduling loading and its application to robotics systems
+7DA6E964	Use of Digital Terrain Analysis and Classification Trees for Predictive Mapping of Soil Organic Carbon in Southern Denmark
+7BDD3B5F	Characterizing the presence of oilseed rape feral populations on field margins using machine learning
+08F4D7C2	CLASSIFICATION TREE BASED BUILDING DETECTION FROM LASER SCANNER AND AERIAL IMAGE DATA
+5F89D306	Combining Decision Trees Based on Imprecise Probabilities and Uncertainty Measures
+77E2D7D6	Landscape structure and management regime as indicators of calcareous grassland habitat condition and species diversity
+7A155996	Malaria and water resource development: the case of Gilgel-Gibe hydroelectric dam in Ethiopia
+8124A06F	The Performance of Maximum Likelihood, Spectral Angle Mapper, Neural Network and Decision Tree Classifiers in Hyperspectral Image Analysis
+782ACC60	Decision tree classifier for network intrusion detection with GA-based feature selection
+04985EF0	Verlies van regie over het leven
+7E5A97E3	A compact and accurate model for classification
+7FA08F6C	Application of genetic algorithms in production line classification systems
+78A4D2AC	Decision Tree Learning Algorithm with structured attributes: application to verbal case frame acquisition
+7A777694	Predicting Future Changes in Muskegon River Watershed Game Fish Distributions under Future Land Cover Alteration and Climate Change Scenarios
+7FC30D85	Efficient building algorithms of decision tree for uniformly distributed uncertain data
+7D4111A0	"Missing is useful": missing values in cost-sensitive decision trees
+75D49B50	A novel unsupervised classification approach for network anomaly detection by k-Means clustering and ID3 decision tree learning methods
+7F8F5A50	An efficient framework for MPEG-4 HVXC encoder based on the multi-stage V/UV decision
+757153C9	The decision tree classifier: Design and potential
+7E0FDB5E	Learning when training data are costly: The effect of class distribution on tree induction
+7D67FCB7	Concept Classification Using a Hybrid Data Mining Model
+7BF4CF1C	Multi-dimensional criteria for testing web services transactions
+7DAAB00C	Trainable context model for multiscale segmentation
+7CD1CE39	Predicting the potential habitat of oaks with data mining models and the R system
+7CEE5111	Decision Tree Learning for Drools
+77FA609C	Application of classification algorithms for analysis of road safety risk factor dependencies
+7A780E74	Diversity and complexity of HIV-1 drug resistance: A bioinformatics approach to predicting phenotype from genotype
+7F4719F0	Classification tree models of software quality over multiple releases
+7786E5FF	Classification tree and minimum-volume ellipsoid analyses of the distribution of ponderosa pine in the western USA
+5D0A4B5E	The Biases of Decision Tree Pruning Strategies
+7D6C29AA	Morphological Models for Identifying Largemouth Bass, Spotted Bass, and Largemouth Bass × Spotted Bass Hybrids
+5A0E856D	Confinement Regime Identification in Nuclear Fusion via an Interpretable Fuzzy Logic Classifier
+7817BD08	Application of multi-temporal ENVISAT ASAR data to agricultural area mapping in the Pearl River Delta
+80F3630B	Decision support oriented Enterprise Architecture metamodel management using classification trees
+7F40C9B0	Automatic recognition of analog and digital modulation signals using DoE filter
+7FC5CFF8	Heuristic Model Research on Decision Tree Algorithm
+75087187	A Method for Application of Classification Tree Models to Map Aquatic Vegetation Using Remotely Sensed Images from Different Sensors and Dates
+7767905F	Instability of decision tree classification algorithms
+7DA5460F	Towards a more efficient way of generating test cases: class graphs
+5C57817A	Retrofitting Decision Tree Classifiers Using Kernel Density Estimation
+7DBE188B	Bagging One-Class Decision Trees
+815AA4AA	Reproductive success and habitat characteristics of Golden-winged Warblers in high-elevation pasturelands
+7EDFE617	A Classification Tree Based Approach for the Development of Minimal Cut and Path Vectors of a Capacitated Network
+7D399FE3	Combining data-driven methods and lab studies to analyse the ecology of Dikerogammarus villosus
+77F73826	Shrinking classification trees for bootstrap aggregation
+79A7221F	Mapping U.S. forest biomass using nationwide forest inventory data and moderate resolution information
+85C0A252	Predicting the Next State of Traffic by Data Mining Classification Techniques
+74802F94	A new restructuring algorithm for the classification-tree method
+7B55219F	A framework for measuring changes in data characteristics
+5F196016	Modulation Classification of Analog and Digital Signals Using Neural Network and Support Vector Machine
+639389BA	Modeling fault-prone modules of subsystems
+7DD1DB4C	Evolutionary constructive induction
+05A30B05	Split Selection Methods for Classification Trees
+5B149866	Privacy Preserving Data Mining
+5E9CDB60	On the use of selective ensembles for relevance classification in case-based web search
+7E472F6D	Modelling of stream fishes in the Great Plains, USA
+7887D583	An Automated Approach to the Design of Decision Tree Classifiers
+769E77A4	Control of cryptosporidiosis in neonatal calves : use of halofuginone lactate in two different calf rearing systems
+7EB2415E	Using multiple data features improved the validity of osteoporosis case ascertainment from administrative databases
+813C3791	Errata: Optimal land use/land cover classification using remote sensing imagery for hydrological modeling in a Himalayan watershed
+7510F878	Hydro-acoustic remote sensing of benthic biological communities on the shallow South East Australian continental shelf
+80F3FC49	A framework for the automated generation of power-efficient classifiers for embedded sensor nodes
+5DD97DA3	Building decision tree classifier on private data
+7FB9D5BF	An incremental decision tree learning methodology regarding attributes in medical data mining
+7F758794	Global land cover classification at 1 km spatial resolution using a classification tree approach

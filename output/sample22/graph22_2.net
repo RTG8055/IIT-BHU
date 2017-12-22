@@ -1,0 +1,106 @@
+*vertices 60
+1 7781D456 0.0 0.0 ellipse
+2 7826FBAA 0.0 0.0 ellipse
+3 71D6EBED 0.0 0.0 ellipse
+4 81008BE2 0.0 0.0 ellipse
+5 7A283C6F 0.0 0.0 ellipse
+6 7FE0DC23 0.0 0.0 ellipse
+7 7FDB1096 0.0 0.0 ellipse
+8 77306F5E 0.0 0.0 ellipse
+9 7EEA439C 0.0 0.0 ellipse
+10 81407592 0.0 0.0 ellipse
+11 7F773D86 0.0 0.0 ellipse
+12 7AEAAFB7 0.0 0.0 ellipse
+13 767FF845 0.0 0.0 ellipse
+14 7BB09D00 0.0 0.0 ellipse
+15 7DB4CD3A 0.0 0.0 ellipse
+16 80CA851A 0.0 0.0 ellipse
+17 77172A89 0.0 0.0 ellipse
+18 76FB2154 0.0 0.0 ellipse
+19 81267442 0.0 0.0 ellipse
+20 78AD4540 0.0 0.0 ellipse
+21 762BEE23 0.0 0.0 ellipse
+22 7BA2FECD 0.0 0.0 ellipse
+23 7D09AAA0 0.0 0.0 ellipse
+24 775CBEA0 0.0 0.0 ellipse
+25 79DEF350 0.0 0.0 ellipse
+26 6F946843 0.0 0.0 ellipse
+27 75AD80C1 0.0 0.0 ellipse
+28 79ACBFA2 0.0 0.0 ellipse
+29 7DD3B9CB 0.0 0.0 ellipse
+30 7CCF7DA7 0.0 0.0 ellipse
+31 8101EE47 0.0 0.0 ellipse
+32 7E32613C 0.0 0.0 ellipse
+33 7B65C3CC 0.0 0.0 ellipse
+34 706C42E0 0.0 0.0 ellipse
+35 7C0B81EE 0.0 0.0 ellipse
+36 80915698 0.0 0.0 ellipse
+37 7DAEAC0E 0.0 0.0 ellipse
+38 7BEB9F2C 0.0 0.0 ellipse
+39 6DD7746F 0.0 0.0 ellipse
+40 805254BA 0.0 0.0 ellipse
+41 5CCD318C 0.0 0.0 ellipse
+42 76C2F173 0.0 0.0 ellipse
+43 7DCA8937 0.0 0.0 ellipse
+44 7F3CF698 0.0 0.0 ellipse
+45 0E4458A2 0.0 0.0 ellipse
+46 7FA806C5 0.0 0.0 ellipse
+47 58E9A72E 0.0 0.0 ellipse
+48 7848596E 0.0 0.0 ellipse
+49 7263498D 0.0 0.0 ellipse
+50 7CEB08ED 0.0 0.0 ellipse
+51 8080D3F7 0.0 0.0 ellipse
+52 7B9D38A3 0.0 0.0 ellipse
+53 610AB96C 0.0 0.0 ellipse
+54 79A0CE74 0.0 0.0 ellipse
+55 75725531 0.0 0.0 ellipse
+56 6EFDAD8A 0.0 0.0 ellipse
+57 7E582DE2 0.0 0.0 ellipse
+58 7EF81612 0.0 0.0 ellipse
+59 7F4F7E64 0.0 0.0 ellipse
+60 7898B618 0.0 0.0 ellipse
+*arcs
+1 60 1.0
+3 15 1.0
+4 30 1.0
+9 8 1.0
+10 23 1.0
+11 5 1.0
+11 58 1.0
+12 24 1.0
+13 54 1.0
+14 6 1.0
+14 44 1.0
+16 17 1.0
+18 19 1.0
+20 36 1.0
+21 10 1.0
+21 23 1.0
+22 54 1.0
+25 23 1.0
+27 24 1.0
+28 13 1.0
+29 37 1.0
+30 60 1.0
+32 2 1.0
+33 55 1.0
+33 24 1.0
+34 26 1.0
+35 44 1.0
+37 57 1.0
+38 44 1.0
+39 31 1.0
+40 19 1.0
+41 44 1.0
+42 59 1.0
+43 19 1.0
+45 15 1.0
+45 44 1.0
+46 7 1.0
+47 55 1.0
+48 17 1.0
+49 53 1.0
+50 31 1.0
+51 24 1.0
+52 54 1.0
+56 7 1.0

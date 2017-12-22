@@ -1,0 +1,455 @@
+5F7D28BA,"Inference Based Classifier: Efficient Construction of Decision Trees for Sparse Categorical Attributes",0.340757575758,0.405050505051
+75464F4C,"Decision trees for hierarchical multi-label classification",0.425800865801,1.0
+5BD2E015,"Learning conditional independence tree for ranking",0.224889277389,0.427083333333
+5D25C398,"A Scalable Algorithm for Rule Post-pruning of Large Decision Trees",0.335681818182,0.733333333333
+7D871529,"Decision trees do not generalize to new variations",0.32968975469,0.535238095238
+5B7F5483,"Decision tree learning system with switching evaluator",0.347896825397,0.482407407407
+5CA383D7,"Decision Trees for Hierarchical Multilabel Classification: A Case Study in Functional Genomics",0.428300865801,0.566666666667
+81051DE1,"Constructing a decision tree from data with hierarchical class labels",0.419487734488,0.625
+7D6BF95F,"A neural network classification tree",0.350995670996,0.733333333333
+7FED3D97,"Classifying Cinnamomums using rough sets classifier based on interval-discretization",0.223253968254,0.388888888889
+76B1BFA3,"Relaxing instance boundaries for the search of splitting points of numerical attributes in classification trees",0.364166666667,0.361111111111
+7BD76242,"Classification trees with optimal multivariate decision nodes",0.428300865801,0.78125
+7836AAFD,"Growing a classification tree using the apparent misclassification rate.",0.411948051948,0.678571428571
+07CF004C,"Analysing Bug Prediction Capabilities of Static Code Metrics in Open Source Software",0.302886002886,0.329891404891
+76E46C09,"Determination of risk factors for hypertension through the classification tree method",0.316349206349,0.376875901876
+7EFAF191,"Building software quality classification trees: Approach, experimentation, evaluation",0.418452380952,0.464583333333
+7D6B33E0,"Improving the quality of classification trees via restructuring",0.33544011544,0.604166666667
+5D23F78F,"Estimating feature discriminant power in decision tree classifiers",0.306392496392,0.418590668591
+7DF0B2B7,"Deriving high-level concepts using fuzzy-ID3 decision tree for image retrieval",0.396356421356,0.501875901876
+81797A1A,"Recursive Decision Tree Induction Based on Homogeneousness for Data Clustering",0.419487734488,0.532142857143
+7027A8E1,"The Alternating Decision Tree Learning Algorithm",0.335681818182,0.556666666667
+7F13DCEC,"An Efficient Classification System Based on Binary Search Trees for Data Streams Mining",0.4625,0.517708333333
+776A5AEE,"Using classification trees to study the effects of fisheries management plans on the yield of Merluccius merluccius (Linnaeus, 1758) in the Alboran Sea (Western Mediterranean)",0.421071428571,0.329166666667
+7ED0BE26,"A Strategy for Attributes Selection in Cost-Sensitive Decision Trees Induction",0.299570707071,0.469318181818
+7C538C03,"The application of non-parametric techniques to solve classification problems in complex data sets in veterinary epidemiology – An example",0.337380952381,0.359567901235
+7942BB92,"Density estimation trees",0.177657342657,0.4
+7F502558,"Bayesian Decision Trees for predicting survival of patients: A study on the US National Trauma Data Bank",0.425793650794,0.4199334616
+7C09F4A8,"Performance evaluation of classification trees for building detection from aerial images and LiDAR data: a comparison of classification trees models",0.438571428571,0.477261627262
+7DA7A9A2,"A comparison of decision tree and backpropagation neural network classifiers for land use classification",0.447424242424,0.490277777778
+7CEB4D0E,"Decision tree regression for soft classification of remote sensing data",0.59170995671,0.85
+78BE6513,"PPtree: Projection pursuit classification tree",0.303225108225,0.5625
+7EF8C984,"Identifying Patterns of Resilience Using Classification Trees",0.409253246753,0.581018518519
+7DD9AB9A,"Selecting the best categorical split for classification trees",0.340086580087,0.59375
+7A2505E4,"A new information measure based on example-dependent misclassification costs and its application in decision tree learning",0.350995670996,0.422619047619
+7808D939,"Analysis of traffic injury severity: An application of non-parametric classification tree techniques",0.332781385281,0.385669191919
+5E84EE11,"Pre-pruning Classification Trees to Reduce Overfitting in Noisy Domains",0.319531024531,0.577777777778
+7F8DA76A,"An Empirical Study on Class Probability Estimates in Decision Tree Learning",0.353932178932,0.440476190476
+7918E6DE,"Classification Using Φ-Machines and Constructive Function Approximation",0.318333333333,0.556547619048
+76379AE0,"Some modifications of the algorithm for construction of classification trees",0.308939393939,0.52
+81531AA1,"Dyadic Classification Trees via Structural Risk Minimization",0.345515873016,0.566964285714
+79931D06,"Remote sensing of aquatic vegetation distribution in Taihu Lake using an improved classification tree with modified thresholds",0.434404761905,0.474305555556
+5F266F4C,"Spam behavior recognition based on session layer data mining",0.295396825397,0.311111111111
+5FC3D117,"Predictive Classification Trees",0.340086580087,1.0
+7FAA4BA9,"Recursive Partitioning as an Approach to Selection of Immune Markers for Tumor Diagnosis",0.301507936508,0.333852258852
+7F7E8785,"Decision Tree Algorithm based on Sampling",0.335681818182,0.556666666667
+560B2421,"Applying remote sensing techniques to monitoring seasonal and interannual changes of aquatic vegetation in Taihu Lake, China",0.320515873016,0.379513888889
+76121E5E,"Application of genetic algorithm and greedy stepwise to select input variables in classification tree models for the prediction of habitat requirements of Azolla filiculoides (Lam.) in Anzali wetland, Iran",0.355357142857,0.268179413179
+75FAFF35,"Reliability measures for local nodes assessment in classification trees",0.353300865801,0.431018518519
+7EAAD3A1,"Genetic algorithm-based decision tree classifier for remote sensing mapping with SPOT-5 data in the HongShiMao watershed of the loess plateau, China",0.497896825397,0.511644219978
+7655C9CA,"An Object-Based Approach for Mapping Shrub and Tree Cover on Grassland Habitats by Use of LiDAR and CIR Orthoimages",0.286904761905,0.306547619048
+80DBF875,"Learning Decision Tree Classifiers from Attribute Value Taxonomies and Partially Specified Data",0.419487734488,0.472222222222
+5EA0BB7C,"A Survey of Fuzzy Decision Tree Classifier Methodology",0.329487734488,0.47094017094
+80F25EF4,"Structure and Majority Classes in Decision Tree Learning",0.368015873016,0.494444444444
+7F272634,"Encoding and decoding the knowledge of association rules over SVM classification trees",0.327106782107,0.394047619048
+7A18D63D,"On the boosting ability of top-down decision tree learning algorithms",0.340876623377,0.479365079365
+80F0F8E4,"A decision tree based quasi-identifier perturbation technique for preserving privacy in data mining",0.419487734488,0.441582491582
+79406A62,"Classification of repeated measurements data using tree-based ensemble methods",0.417142857143,0.688888888889
+7FDDD447,"Analysis of a complexity-based pruning scheme for classification trees",0.307384559885,0.480404040404
+77B5357E,"Integrating classification trees with local logistic regression in Intensive Care prognosis",0.341197691198,0.437962962963
+80DCAAC2,"Using Decision Tree Analysis to Identify Risk Factors for Relapse to Smoking",0.407777777778,0.439197530864
+59E014F7,"Tools and Techniques for Decision Tree Learning",0.341507936508,0.526666666667
+7FA9B46B,"A k-norm pruning algorithm for decision tree classifiers based on error rate estimation",0.341987734488,0.355379188713
+8043E4F8,"A high speed decision tree classifier algorithm for huge dataset",0.338181818182,0.58125
+75548498,"Superficial and subterranean soil erosion in Tabasco, tropical Mexico: Development of a decision tree modeling approach",0.420876623377,0.41741622575
+7B6C0DF2,"Data mining criteria for tree-based regression and classification",0.305833333333,0.468571428571
+81727861,"Application of classification tree and logistic regression for the management and health intervention plans in a community‐based study",0.341197691198,0.338271604938
+7FF8481B,"Automatic CRP mapping using nonparametric machine learning approaches",0.318376623377,0.424867724868
+7929A092,"Integrating genetic algorithm and decision tree learning for assistance in predicting in vitro fertilization outcomes",0.362626262626,0.382671957672
+5AC679FE,"A comparison of different off-centered entropies to deal with class imbalance for decision trees",0.352821067821,0.405158730159
+76957AB8,"Glaucoma Classification Model Based on GDx VCC Measured Parameters by Decision Tree",0.425800865801,0.478625541126
+808C8578,"Monitoring mangrove forest changes using remote sensing and GIS data with decision-tree learning",0.306825396825,0.38253968254
+816302E5,"A pattern recognition approach for detecting power islands using transient signals — Part I: Design and implementation",0.333333333333,0.310152116402
+7EB1ED43,"Evolving optimised decision rules for intrusion detection using particle swarm paradigm",0.309243534244,0.304285714286
+7E90A831,"Face membership authentication using SVM classification tree generated by membership-based LLE data partition",0.507738095238,0.532716049383
+60D65F09,"Making Ontology-Based Knowledge and Decision Trees Interact: An Approach to Enrich Knowledge and Increase Expert Confidence in Data-Driven Models",0.426154401154,0.408953168044
+7B0D80E7,"COMPARING THE PERFORMANCE OF SEMANTIC IMAGE RETRIEVAL USING SPARQL QUERY, DECISION TREE ALGORITHM AND LIRE",0.40345959596,0.403773448773
+7EB7DA8D,"Application of Decision Tree Algorithm for classification and identification of natural minerals using SEM–EDS",0.495598845599,0.590972222222
+7B87FC6C,"Predicting the distribution of invasive crayfish (Pacifastacus leniusculus) in a Kusiro Moor marsh (Japan) using classification and regression trees",0.415079365079,0.38417027417
+7BEAD898,"Decision tree learning with fuzzy labels",0.328578643579,0.625
+7FB04BF9,"Classification trees with neural network feature extraction",0.354404761905,0.483181818182
+7635766D,"Classification tree based protein structure distances for testing sequence-structure correlation",0.360476190476,0.385912698413
+7E8F41FE,"Supervised classification using probabilistic decision graphs",0.404047619048,0.661904761905
+775E424E,"Cell and tumor classification using gene expression data: Construction of forests",0.415952380952,0.4366334283
+800B30B3,"Activity classification using realistic data from wearable sensors",0.455202020202,0.74
+7907860E,"Assessing the extent of agriculture/pasture and secondary succession forest in the Brazilian Legal Amazon using SPOT VEGETATION data",0.32,0.401736111111
+7BA827F1,"Multiple binary decision tree classifiers",0.329487734488,0.703703703704
+76CB6A7E,"Forecasting and Evaluating Water Quality of Chao Lake based on an Improved Decision Tree Method",0.337265512266,0.380902777778
+7C9B7793,"Analysis of the traffic injury severity on two-lane, two-way rural roads based on classification tree models",0.368614718615,0.366939233606
+809D1AC2,"Learning from examples: generation and evaluation of decision trees for software resource analysis",0.346590909091,0.364814814815
+766D1A0F,"Personalized mode transductive spanning SVM classification tree",0.331948051948,0.518571428571
+5D04D366,"Cost-Sensitive decision tree learning for forensic classification",0.425800865801,0.833333333333
+5E6C32AB,"PUBLIC: A Decision Tree Classifier that Integrates Building and Pruning",0.322182539683,0.393650793651
+5CED5F34,"Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision Tree Hybrid",0.333773448773,0.427513227513
+76CDF761,"Application of an enhanced decision tree learning approach for prediction of petroleum production",0.434924242424,0.50303030303
+7E5791EC,"Recursive partitioning for tumor classification with gene expression microarray data",0.337380952381,0.399394586895
+0BD455E8,"Pruning for Monotone Classification Trees",0.308538961039,0.560714285714
+7518D8AB,"An approach of private classification on vertically partitioned data",0.423095238095,0.8
+80DA4044,"Classification tree analysis using TARGET",0.407864357864,0.662222222222
+3414DC80,"Decision forest: Twenty years of research",0.221227661228,0.390277777778
+7806276E,"A multi-scale approach for modeling fire occurrence probability using satellite data and classification trees: A case study in a mountainous Mediterranean region",0.604166666667,0.523611111111
+7C879F8B,"Comparison of Support Vector Machines to Other Classifiers Using Gene Expression Data",0.425555555556,0.421913580247
+7B8BBF02,"The comparison between classification trees through proximity measures",0.311558441558,0.501515151515
+7F3CE23A,"Learning classification trees",0.340086580087,0.777777777778
+7813E81C,"An effective application of decision tree learning for on-line detection of mean shifts in multivariate control charts",0.350995670996,0.382787698413
+7F4EC541,"A Method for Selecting Training Data and its Effect on Automated Land Cover Mapping of Large Areas",0.296666666667,0.271119929453
+7987EFAC,"Classification trees: an alternative to traditional land cover classifiers",0.352182539683,0.414814814815
+7644FCFD,"A classification tree approach to identify key factors of transit service quality",0.439682539683,0.490079365079
+803F343B,"Hierarchical decision tree induction in distributed genomic databases",0.331078643579,0.5625
+7C8F5460,"Comments on optimizing the selection of the number of groups in a classification tree",0.381785714286,0.462301587302
+768C5293,"Selecting the best splits for classification trees with categorical variables",0.349801587302,0.503571428571
+690C63DE,"Numerical Attributes in Decision Trees: A Hierarchical Approach",0.417467532468,0.775
+58DC3966,"Model Switching for Bayesian Classification Trees with Soft Splits",0.340086580087,0.483181818182
+75487C02,"On the boosting ability of top-down decision tree learning algorithms",0.340876623377,0.479365079365
+7E1B2E88,"Privacy in Data Mining Using Formal Methods",0.289920634921,0.507070707071
+7E4C2F0A,"Use of classification trees for association studies",0.325126262626,0.533333333333
+7FDF2C7C,"The training strategy for creating decision tree",0.362626262626,0.551515151515
+7910E150,"Improving test coverage using merged classification tree",0.407864357864,0.514957264957
+7ED25D03,"A New Decision Tree Algorithm Based on Rough Set Theory",0.359924242424,0.492929292929
+00D8E521,"A fast decision tree learning algorithm",0.335681818182,0.633333333333
+7D3727BA,"Classification trees for partition testing",0.313849206349,0.572916666667
+80975818,"An Incremental and Interactive Decision Tree Learning Algorithm for a Practical Diagnostic Supporting Workbench",0.366035353535,0.498611111111
+5E5D0895,"SVMT-Rule: Association Rule Mining Over SVM Classification Trees",0.312031024531,0.473333333333
+76C92EA9,"Visual classification: an interactive approach to decision tree construction",0.511515151515,0.84
+584F8649,"Application of Classification Trees to Analyze Income Distribution in Poland",0.343217893218,0.413780663781
+7B0730C2,"Development of two-level decision tree-based real-time scheduling system under product mix variety environment",0.288333333333,0.288595779221
+7AF7A6E5,"Non-parametric classification of protein secondary structures",0.267301587302,0.433333333333
+7A8DD8E1,"MMDT: a multi-valued and multi-labeled decision tree classifier for data mining",0.419487734488,0.642222222222
+7BF6B3A2,"On the effectiveness of classification trees for test case construction",0.310245310245,0.428098290598
+77502702,"Hyper-rectangular space partitioning trees: A practical approach",0.337265512266,0.591666666667
+5E0BAD93,"Fast Perceptron Decision Tree Learning from Evolving Data Streams",0.422896825397,0.609722222222
+7F0C6667,"Binary tree genetic algorithm with Quadtree for land cover classifications",0.352182539683,0.495555555556
+753568E5,"A comparison between cluster busting technique and a classification tree algorithm of a moderate resolution imaging spectrometer (MODIS) land cover map of Honduras",0.366071428571,0.280006105006
+7AA53B3B,"Application of classification trees in the sensitivity analysis of probabilistic model results",0.345515873016,0.39512987013
+80CA6543,"Privacy Preservation and Restoration of Data Using Unrealized Data Sets",0.324047619048,0.539177489177
+75AED858,"Privacy preserving decision tree learning over multiple parties",0.335245310245,0.473484848485
+801D8FCE,"Optimal constraint-based decision tree induction from itemset lattices",0.32968975469,0.559027777778
+77B6CE73,"Object-based classification using Quickbird imagery for delineating forest vegetation polygons in a Mediterranean test site",0.342973692974,0.376778083028
+7A075B5B,"Malaria in central Vietnam: analysis of risk factors by multivariate analysis and classification tree models",0.345515873016,0.323894932228
+61AAB9D7,"Bayesian Evidence Framework for Decision Tree Learning",0.331078643579,0.509848484848
+5D1FD91C,"Constructing X-of-N Attributes for Decision Tree Learning",0.328578643579,0.536666666667
+7B40CA29,"A comparison of multi-class support vector machine and classification tree methods for hydroacoustic classification of fish-schools in Chile",0.321313131313,0.43024691358
+75098F83,"A Comparison of Node-Splitting Rules in Recursive Partitioning Analysis of Multivariate Quantitative Structure Activity Data",0.327063492063,0.321428571429
+053C7747,"Generating Better Decision Trees",0.328578643579,0.75
+8056E553,"Diversification for better classification trees",0.345800865801,0.733333333333
+7B626573,"XRules: an effective structural classifier for XML data",0.22797979798,0.555555555556
+7E7808BF,"Modeling the distribution of four vegetation alliances using generalized linear models and classification trees with spatial dependence",0.430995670996,0.439554272888
+7FCCD98B,"The wetland conservation atlas of the St. Lawrence valley produced from decision tree classifications of RADARSAT and Landsat images",0.334563492063,0.328741012074
+79EEF106,"An iterative approach to build relevant ontology-aware data-driven models",0.228436147186,0.44696969697
+7BBC366E,"Constructing conjunctions using systematic search on decision trees",0.429292929293,0.612373737374
+5C165CA1,"Application of Genetic Programming to Induction of Linear Classification Trees",0.340086580087,0.515
+6DCAAFDC,"Simple Test Strategies for Cost-Sensitive Decision Trees",0.328578643579,0.541958041958
+5BF8772A,"Chapter 28 Incorporating Classification Trees into a Pedogenic Understanding Raster Classification Methodology, Green River Basin, Wyoming, USA",0.350793650794,0.359518259518
+5B3F0056,"ComEnVprs: a novel approach for inducing decision tree classifiers",0.418376623377,0.662222222222
+5A0CA622,"Spanning SVM Tree for Personalized Transductive Learning",0.227070707071,0.437037037037
+7AF1AC8A,"Evaluating techniques for generating metric-based classification trees",0.326753246753,0.51
+7E5562F9,"A Dynamic Discretization Approach for Constructing Decision Trees with a Continuous Label",0.417467532468,0.683333333333
+7F908BB3,"Exploring an Improved Decision Tree Based Weights",0.331078643579,0.531666666667
+79017D7E,"Privacy in data systems",0.21373015873,0.44696969697
+5DFE89CF,"SLIQ: A Fast Scalable Classifier for Data Mining",0.22797979798,0.403703703704
+7EE48A59,"Privacy-preserving data mining",0.191706349206,0.55
+817A2BCE,"Fuzzification of a Crisp Near-Real-Time Operational Automatic Spectral-Rule-Based Decision-Tree Preliminary Classifier of Multisource Multispectral Remotely Sensed Images",0.285537190083,0.555555555556
+8009F1AE,"Global land cover classifications at 8 km spatial resolution: the use of training data derived from Landsat imagery in decision tree classifiers",0.5375,0.428205128205
+5F2BAD7A,"A Bayesian Random Split to Build Ensembles of Classification Trees",0.344372294372,0.503571428571
+6DB6C639,"Evaluation of decision tree pruning with subadditive penalties",0.305245310245,0.501904761905
+800CEA3E,"Combining Search, Social Media, and Traditional Data Sources to Improve Influenza Surveillance",0.385,0.415178571429
+788F8779,"Block diagrams and splitting criteria for classification trees",0.33880952381,0.444642857143
+7E55664F,"A classification tree approach to the development of actuarial violence risk assessment tools",0.446944444444,0.470982142857
+7D459119,"Investigation of the random forest framework for classification of hyperspectral data",0.305833333333,0.543560606061
+750F4E68,"Analysis and Design of a Decision Tree Based on Entropy Reduction and Its Application to Large Character Set Recognition",0.357626262626,0.365202020202
+80D812E0,"Discriminatively Trained GMMs for Language Classification Using Boosting Methods",0.323132423132,0.495555555556
+5D43D998,"Ordinal classification with monotonicity constraints",0.242146089205,0.55
+80E79EFE,"Modeling major lung resection outcomes using classification trees and multiple imputation techniques",0.406753246753,0.450946969697
+80DFDDF3,"A note on split selection bias in classification trees",0.33968975469,0.470833333333
+76D89B1B,"Statistical evaluation of local to regional snowpack stability using simulated snow-cover data",0.31630952381,0.575
+799775D5,"Backscatter coefficient as an attribute for the classification of full-waveform airborne laser scanning data in urban areas",0.357662337662,0.403968253968
+59FBC9BF,"Integrating semantic templates with decision tree for image semantic learning",0.32968975469,0.414814814815
+7D7BFB47,"Applying Distributed Classification Algorithms to Wireless Sensor Networks A Brief View into the Application of the SPRINT Algorithm Family",0.338773448773,0.342896825397
+5F1BA789,"Maximum margin decision surfaces for increased generalisation in evolutionary decision tree learning",0.345793650794,0.536507936508
+7FF31C27,"Evalution of Random Forest Ensemble Classification for Land Cover Mapping Using TM and Ancillary Geographical Data",0.417738095238,0.506349206349
+769D2945,"Decision-Tree and Rule-Induction Approach to Integration of Remotely Sensed and GIS Data in Mapping Vegetation in Disturbed or Hilly Environments",0.465584415584,0.603125
+7F7FE042,"Random forests for classification in ecology.",0.225632423132,0.453703703704
+5E370059,"Cost-Time Sensitive Decision Tree with Missing Values",0.32968975469,0.611111111111
+7694448D,"Improved wetland remote sensing in Yellowstone National Park using classification trees to combine TM imagery and ancillary environmental data",0.590238095238,0.555411255411
+75881784,"Focal-Test-Based Spatial Decision Tree Learning",0.328578643579,0.777777777778
+811F38EA,"Mapping invasive plants using hyperspectral imagery and Breiman Cutler classifications (Randomforest)",0.323059163059,0.416738816739
+5B923D67,"Consolidated trees: an analysis of structural convergence",0.252467532468,0.455555555556
+7D851D6C,"Classification by ensembles from random partitions of high-dimensional data",0.351071428571,0.577380952381
+72719B81,"CMP: a fast decision tree classifier using multivariate predictions",0.396154401154,0.640404040404
+5DC01A3F,"Active Learning with Automatic Soft Labeling for Induction of Decision Trees",0.328578643579,0.614583333333
+75C3ED49,"Effect of the x 2 test on construction of ID3 decision trees",0.31373015873,0.416987179487
+7A1B7F43,"Mining data to find subsets of high activity",0.309560994561,0.466666666667
+7C471851,"FRCT: fuzzy-rough classification trees",0.300844155844,1.0
+5C5AF7FD,"Bayesian Classification Trees with Overlapping Leaves Applied to Credit-Scoring",0.410793650794,0.655555555556
+7673D9C3,"Classifying G-protein coupled receptors with bagging classification tree",0.319329004329,0.444444444444
+5D6B01DC,"Spatial Simulation of Agricultural Practices using a Robust Extension of Randomized Classification Tree Algorithms",0.42095959596,0.549206349206
+79249A4C,"Missing value imputation using decision trees and decision forests by splitting and merging records: Two novel techniques",0.410245310245,0.419172494172
+7B827728,"Decisional Trees in Renal Transplant Follow-up",0.215525210084,0.405303030303
+782012A1,"A similarity measure to assess the stability of classification trees",0.331634199134,0.445833333333
+7CA54E07,"A classification tree analysis of broadband adoption in Australian households",0.247916666667,0.377380952381
+7F627B23,"A connectionist approach to generating oblique decision trees",0.417467532468,0.8125
+77531D91,"Factors associated with caregiver stability in permanent placements: A classification tree approach",0.430995670996,0.464384920635
+62C5EBB5,"Using classification trees for software quality models: lessons learned",0.41544011544,0.479220779221
+7E53AC45,"National Park vegetation mapping using multitemporal Landsat 7 data and a decision tree classifier",0.49044011544,0.594246031746
+7BFBCB5B,"Use of data mining techniques to investigate disease risk classification as a proxy for compromised biosecurity of cattle herds in Wales",0.353376623377,0.307327741703
+5D4F81AE,"Varying Parameter in Classification Based on Imprecise Probabilities",0.256465756466,0.383333333333
+7ABDCCD6,"Risk of in-hospital mortality identified according to the typology of patients with acute heart failure: Classification tree analysis on data from the Acute Heart Failure Database–Main registry",0.436785714286,0.345454545455
+5BF53C73,"CLOUDS: A Decision Tree Classifier for Large Datasets",0.329487734488,0.552777777778
+77DC8244,"Decision Trees for Probability Estimation: An Empirical Study",0.337265512266,0.486666666667
+76ABA68C,"Random Forests for multiclass classification: Random MultiNomial Logit",0.260354645355,0.625
+7766EBB6,"Learning decision tree classifiers",0.329487734488,0.611111111111
+7C4AD466,"Diagnosing warm‐season rainfall variability in Mexico: a classification tree approach",0.416987734488,0.509004884005
+7EA330FD,"Land-Cover Change Monitoring with Classification Trees Using Landsat TM and Ancillary Data",0.497662337662,0.629931972789
+7E6879D0,"Improving GP classification performance by injection of decision trees",0.413578643579,0.589285714286
+7E8724EA,"The use of classification trees for bioinformatics",0.317070707071,0.777777777778
+7587FFB9,"Characterization of New Zealand obsidian using PXRF",0.203499278499,0.417989417989
+7FB36959,"RainForest—A Framework for Fast Decision Tree Construction of Large Datasets",0.241907993967,0.430303030303
+5873F73B,"Decision Tree Instability and Active Learning",0.331078643579,0.559027777778
+7EBC642E,"An Investigation of Missing Data Methods for Classification Trees Applied to Binary Response Data",0.498773448773,0.626543209877
+801103D8,"Adaptive Building of Decision Trees by Reinforcement Learning",0.357896825397,0.505555555556
+6A1B7A68,"Automatic Construction of Decision Trees from Data: A Multi-Disciplinary Survey",0.430757575758,0.673333333333
+80B879CA,"Hybrid learning using genetic algorithms and decision trees for pattern classification",0.492467532468,0.755555555556
+7A059493,"Instance selection and classification tree analysis for large spatial datasets in digital soil mapping",0.380995670996,0.444217687075
+76F8EA1A,"Oil pipeline spill cause analysis A classification tree approach",0.414487734488,0.472127525253
+752DA09E,"A comparison of decision tree classifiers with backpropagation neural networks for multimodal classification problems",0.43670995671,0.512698412698
+8027B02B,"Identification of Interaction Patterns and Classification with Applications to Microarray Data",0.316547619048,0.465277777778
+7577FD1D,"The individual borrowers recognition: Single and ensemble trees",0.221435786436,0.407407407407
+7E4DD1BC,"Learning consistent semantics from training data",0.223253968254,0.385416666667
+7A88004A,"A comparison of ARA and DNA data for microbial source tracking based on source-classification models developed using classification trees",0.591071428571,0.524936868687
+7A92CC7D,"Predicting progressive glaucomatous optic neuropathy using baseline standard automated perimetry data.",0.289920634921,0.436507936508
+2417C4DB,"Selecting multiway splits in decision trees",0.315245310245,0.59375
+7BD843FF,"Decentralized M-ary detection via hierarchical binary decision fusion",0.233234126984,0.373214285714
+7F7F4388,"Mapping land-cover change in a Haitian watershed using a combined spectral mixture analysis and classification tree procedure",0.426666666667,0.498958333333
+7A497D83,"Integrating TM and ancillary geographical data with classification trees for land cover classification of marsh area",0.448571428571,0.527160493827
+79D3E945,"A neural network approach to discover attribute dependency for improving the performance of classification",0.343095238095,0.426530612245
+7D6C0598,"Efflcient incremental decision tree generation for embedded applications",0.35670995671,0.6125
+7FF13771,"Classification trees as an alternative to linear discriminant analysis",0.300844155844,0.575
+80F92B97,"A boosting approach for corporate failure prediction",0.244503968254,0.430303030303
+7D16E87F,"Wetland mapping in the Congo Basin using optical and radar remotely sensed data and derived topographical indices",0.438888888889,0.458297258297
+76C30F89,"A classification system for delirium subtyping with the use of a commercial mobility monitor",0.286785714286,0.317185592186
+75C804BD,"Predicting microhabitat selection in juvenile Atlantic salmon Salmo salar by the use of logistic regression and classification trees",0.394444444444,0.38082010582
+7E21AB11,"Diet and lifestyle factors and risk of subtypes of esophageal and gastric cancers: classification tree analysis.",0.345515873016,0.41712962963
+5E366623,"Isotonic Classification Trees",0.340086580087,1.0
+797B8E0C,"La contribution des arbres de classification et de régression dans la prédiction de la récidive chez les délinquants sexuels adultes",0.202903664962,0.440476190476
+8051CE46,"An Improved Decision Tree Algorithm on Bayesian",0.335681818182,0.733333333333
+7DADD024,"Biodiversity among Lactobacillus helveticus Strains Isolated from Different Natural Whey Starter Cultures as Revealed by Classification Trees",0.350162337662,0.33152958153
+5A25EF93,"Using Product, Process, and Execution Metrics to Predict Fault-Prone Software Modules with Classification Trees",0.433333333333,0.406978021978
+75494C3C,"Analyses of Rear-End Crashes Based on Classification Tree Models",0.340086580087,0.458207070707
+7F6DC727,"A novel hybrid intelligent method based on C4.5 decision tree classifier and one-against-all approach for multi-class classification problems",0.513535353535,0.583333333333
+79209CD6,"Improving global scale land cover classifications with multi-directional POLDER data and a decision tree classifier",0.530952380952,0.493055555556
+75DA9FB2,"Application of classification trees and support vector machines to model the presence of macroinvertebrates in rivers in Vietnam",0.407896825397,0.404722222222
+6D0ADD57,"Automatically Generating Information from a Z Specification to Support the Classification Tree Method",0.345281385281,0.386408730159
+5D2614D0,"A Study with Class Imbalance and Random Sampling for a Decision Tree Learning System",0.339682539683,0.413194444444
+7B742528,"Top-down decision tree learning as information based boosting",0.333773448773,0.561904761905
+7DDF1F6D,"Binary halftone image resolution increasing by decision tree learning",0.330598845599,0.407936507937
+7D9353F7,"r-SVMT: Discovering the knowledge of association rule over SVM classification trees",0.33544011544,0.447222222222
+7BD3B9AB,"Predicting the incidence risk of ischemic stroke in a hospital population of southern China: A classification tree analysis",0.354404761905,0.336992945326
+7E895C5F,"A new feature extraction method for signal classification applied to cord dorsum potential detection",0.320515873016,0.367125334982
+79FEF31D,"External validity of predictive models: a comparison of logistic regression, classification trees, and neural networks.",0.350995670996,0.383225108225
+7904EEAB,"Classification confidence weighted majority voting using decision tree classifiers",0.493376623377,0.537261503928
+7CE913CA,"A comparison of random forest and its Gini importance with standard chemometric methods for the feature selection and classification of spectral data",0.373095238095,0.425685425685
+76DE6639,"A performance comparison of trained multilayer perceptrons and trained classification trees",0.341197691198,0.577380952381
+789240F8,"Probabilistic scoring using decision trees for fast and scalable speaker recognition",0.397265512266,0.519841269841
+7C121ED8,"Multiple Criteria for Evaluating Machine Learning Algorithms for Land Cover Classification from Satellite Data",0.434404761905,0.435396825397
+7FFD7E7C,"Heterogeneous and Hierarchical Cooperative Learning via Combining Decision Trees",0.32968975469,0.590277777778
+76F8A2E1,"SQL database primitives for decision tree classifiers",0.301785714286,0.475793650794
+7A3E6E74,"Info-fuzzy algorithms for mining dynamic data streams",0.250833333333,0.414583333333
+7971FC0B,"Integrating Landsat TM and SRTM-DEM derived variables with decision trees for habitat classification and change detection in complex neotropical environments",0.435515873016,0.422354497354
+7A7F1A7D,"An unbiased method for constructing multilabel classification trees",0.341197691198,0.590277777778
+797F61C3,"Prediction of Chronic Allograft Nephropathy Using Classification Trees",0.406753246753,0.634848484848
+6A4BCB3D,"Embedding proximal support vectors into randomized trees",0.34595959596,0.483333333333
+78687CB9,"Modeling Bare Ground With Classification Trees in Northern Spain",0.35869047619,0.495555555556
+78F9553F,"Improving the precision of classification trees",0.327864357864,0.590277777778
+7D15B2F1,"Clustering-based activity classification with a wrist-worn accelerometer using basic features",0.358568931069,0.546753246753
+7B417486,"Preempt or Yield? An Analysis of Driver’s Dynamic Decision Making at Unsignalized Intersections by Classification Tree",0.426911976912,0.461004273504
+7A174700,"An intelligent approach to time series identification by a neural network-driven decision tree classifier",0.425043290043,0.512471655329
+75321FEA,"Application and evaluation of classification trees for screening unwanted plants",0.350793650794,0.465476190476
+6BAB5329,"Uncertain Classification of Fault-Prone Software Modules",0.247854645355,0.408333333333
+797733FE,"Land use land cover classification of Orissa using multi-temporal IRS-P6 awifs data: A decision tree approach",0.6875,0.672222222222
+78E2C03E,"Constructing a multi-valued and multi-labeled decision tree",0.328578643579,0.75
+7D4B2F93,"Applying design patterns to decision tree learning system",0.346666666667,0.419444444444
+5F9B7048,"SIM-PDT: a similarity based possibilistic decision tree approach",0.419967532468,0.691666666667
+7AC54865,"Non-binary classification trees",0.300844155844,1.0
+7C8CCCB4,"A New Method for Modifying Thresholds in the Classification of Tree Models for Mapping Aquatic Vegetation in Taihu Lake with Satellite Images",0.366829004329,0.331313131313
+5A53DC10,"Efficient Parallel Classification Using Dimensional Aggregates",0.335515873016,0.722222222222
+7683DF85,"Wetland monitoring using classification trees and SPOT-5 seasonal time series",0.424404761905,0.525170068027
+776180A5,"A novel data reduction method: Distance based data reduction and its application to classification of epileptiform EEG signals",0.34218004218,0.402777777778
+7C66892E,"An iterative growing and pruning algorithm for classification tree design",0.35623015873,0.452976190476
+5D9B75D7,"Probabilistic inference trees for classification and ranking",0.341197691198,0.550505050505
+7A79F4FD,"Comparison of methods for integrating biological and physical data for marine habitat mapping and classification",0.345281385281,0.35376984127
+58DC12EC,"Classification of High-Resolution NMR Spectra Based on Complex Wavelet Domain Feature Selection and Kernel-Induced Random Forest",0.296068931069,0.295594837262
+7BB98473,"Empirically guided software development using metric-based classification trees",0.406753246753,0.582142857143
+7F8399B4,"Classification trees: An alternative non‐parametric approach for predicting species distributions",0.432467532468,0.570105820106
+7E92BF8B,"An Empirical Study on Several Classification Algorithms and Their Improvements",0.242146089205,0.372916666667
+7DE3D027,"Classification tree modeling to identify severe and moderate vehicular injuries in young and middle-aged adults",0.346626984127,0.441738816739
+7A10D5B1,"Evolving decision tree rule based system for audio stego anomalies detection based on Hausdorff distance statistics",0.349007936508,0.35047008547
+78369BC8,"Genetic algorithms for optimisation of predictive ecosystems models based on decision trees and neural networks",0.346590909091,0.395887445887
+7F3D96EC,"Test Case Design Using Classification Trees and the Classification-Tree Editor CTE",0.420876623377,0.514957264957
+7DCDC5F1,"Large area mapping of land‐cover change in Rondônia using multitemporal spectral mixture analysis and decision tree classifiers",0.419563492063,0.438403880071
+77632AB4,"Discriminating the papyrus vegetation (Cyperus papyrus L.) and its co-existent species using random forest and hyperspectral data resampled to HYMAP",0.289920634921,0.389583333333
+66614CCB,"Text Categorization Using Neural Networks Initialized with Decision Trees",0.406154401154,0.608333333333
+59A615C4,"Analysis of company growth data using genetic algorithms on binary trees",0.409166666667,0.523979591837
+7938E606,"Audio steganalysis with Hausdorff distance higher order statistics using a rule based decision tree paradigm",0.396356421356,0.433238366572
+5CA30F4F,"An Evaluation of Different Training Sample Allocation Schemes for Discrete and Continuous Land Cover Classification Using Decision Tree-Based Algorithms",0.414563492063,0.40047979798
+7893B9CF,"The effect to diagnostic accuracy of decision tree classifier of fuzzy and k-NN based weighted pre-processing methods to diagnosis of erythemato-squamous diseases",0.337182539683,0.338844797178
+7EEF3736,"Loss Functions for Binary Class Probability Estimation and Classification: Structure and Applications",0.290634920635,0.289732142857
+7E308670,"Region-based image retrieval with high-level semantics using decision tree learning",0.396356421356,0.516955266955
+7DA028E8,"Novel and Highly Efficient Reconfigurable Implementation of Data Mining Classification Tree",0.430995670996,0.596031746032
+778FF174,"Classification trees versus multinomial models in the analysis of urban farming systems in Central Africa",0.359404761905,0.416558441558
+7714993F,"Multistage classification and recognition that employs vector quantization coding and criteria extracted from nonorthogonal and preprocessed signal representations",0.323132423132,0.329563492063
+7EAD4110,"A survey of decision tree classifier methodology",0.290245310245,0.47094017094
+80055A7A,"Exploiting the Cost (In)sensitivity of Decision Tree Splitting Criteria",0.34544011544,0.436281179138
+619947F4,"RainForest - A Framework for Fast Decision Tree Construction of Large Datasets",0.241907993967,0.430303030303
+5AC346D7,"A classification tree based on discriminant functions",0.345281385281,0.619047619048
+80B8F577,"An Investigation of Missing Data Methods for Classiffcation Trees",0.316868686869,0.505555555556
+7E1558B9,"Best-first Decision Tree Learning",0.328578643579,0.777777777778
+754FA369,"Texture classification of logged forests in tropical Africa using machine-learning algorithms",0.334404761905,0.45
+58D2377F,"Inverse halftoning by decision tree learning",0.333773448773,0.619047619048
+77BC4E7F,"Mapping wetlands using ASTER data: a comparison between classification trees and logistic regression",0.507738095238,0.526984126984
+5D9952A5,"PUBLIC: A Decision Tree Classifier that Integrates Building and Pruning",0.322182539683,0.393650793651
+812FADA1,"The use of decision tree and multiscale texture for classification of JERS-1 SAR data over tropical forest",0.527424242424,0.672619047619
+5FF82AD7,"Multi-interval Discretization Methods for Decision Tree Learning",0.32968975469,0.611111111111
+59F59044,"Building software quality classification trees: approach, experimentation, evaluation",0.418452380952,0.464583333333
+7EA12692,"The Compound Effect of Boosting and Stratified Sampling on Decision Tree Accuracy",0.323849206349,0.396490414348
+592C1B59,"A data-driven approach to feature construction",0.235539321789,0.511111111111
+59499344,"Classification Based on Attribute Dependency",0.251666666667,0.394047619048
+7C2C1D39,"Adaptive Selection of Extra Cutpoints—Towards Reconciling Robustness and Interpretability in Classification Trees",0.378300865801,0.553571428571
+7E9032A4,"The application of semantic classification trees to natural language understanding",0.348773448773,0.503333333333
+5C733ABD,"Ontology-Driven Induction of Decision Trees at Multiple Levels of Abstraction",0.333773448773,0.473571428571
+5F4CE14B,"Parallel Formulations of Decision-Tree Classification Algorithms",0.245354645355,0.430303030303
+78AACF4C,"Pareto-optimality of oblique decision trees from evolutionary algorithms",0.335681818182,0.733333333333
+7BB096BB,"Online monitoring and fault identification of mean shifts in bivariate processes using decision tree learning techniques",0.429292929293,0.43873015873
+760DAC0A,"Comprehensive Decision Tree Models in Bioinformatics",0.328578643579,0.69696969697
+5FB82FDA,"A fast splitting procedure for classification trees",0.354292929293,0.777777777778
+059F0EDA,"Classification spanning private databases",0.247854645355,0.441666666667
+7EC0370B,"Machine learning approaches to multisource geospatial data classification: application to CRP mapping in Texas County, Oklahoma",0.44670995671,0.470811287478
+7EA1EB54,"A Robust Algorithm for Classification Using Decision Trees",0.492467532468,0.84
+7E7B8D13,"Rule generation for protein secondary structure prediction with support vector machines and decision tree",0.454285714286,0.430471380471
+809CADCA,"Test strategies for cost-sensitive decision trees",0.289336219336,0.541958041958
+7A3077B0,"Reply to Comment on “A new procedure to optimize the selection of groups in a classification tree: Applications for ecological data”",0.414166666667,0.430555555556
+7EA9AC08,"Handling over-fitting in test cost-sensitive decision tree learning by feature selection, smoothing and pruning",0.32345959596,0.374644491311
+751235FF,"Vegetation based classification trees for rapid assessment of isolated wetland condition",0.374404761905,0.439455782313
+7D330154,"The effect of small disjuncts and class distribution on decision tree learning",0.35623015873,0.483796296296
+7E38F8DE,"Model-based classification trees",0.300844155844,1.0
+75886846,"Automatic Spectral-Rule-Based Preliminary Classification of Radiometrically Calibrated SPOT-4/-5/IRS, AVHRR/MSG, AATSR, IKONOS/QuickBird/OrbView/GeoEye, and DMC/SPOT-1/-2 Imagery—Part I: System Design and Implementation",0.290119047619,0.340476190476
+81028C03,"Single-accelerometer-based daily physical activity classification",0.284283216783,0.75
+76B4C9C6,"Modelling habitat selection using presence-only data: Case study of a colonial hollow nesting bird, the snow petrel",0.361944444444,0.298891706584
+79BCE1C3,"Optimizing land use classification using decision tree approaches",0.587626262626,0.701388888889
+7AFE440C,"Classification of premalignant pancreatic cancer mass-spectrometry data using decision tree ensembles",0.583376623377,0.744217687075
+79D4D0E4,"Capturing impressions of pedestrian landscapes used for healing purposes with decision tree learning",0.398376623377,0.444444444444
+7E4B4E43,"A survey of fuzzy decision tree classifier",0.329487734488,0.569444444444
+7D069928,"Genetic algorithm-based neural fuzzy decision tree for mixed scheduling in ATM networks",0.346590909091,0.502222222222
+75404C8A,"Building multi-way decision trees with numerical attributes",0.328578643579,0.5875
+7E3028E1,"A Comparison of Decision Tree Ensemble Creation Techniques",0.333737373737,0.52
+8003FB71,"Decision Tree Network Traffic Classifier Via Adaptive Hierarchical Clustering for Imperfect Training Dataset",0.385757575758,0.461111111111
+085FB010,"MRDTL: A multi-relational decision tree learning algorithm",0.335681818182,0.633333333333
+7D016C02,"A Multi-relational Decision Tree Learning Algorithm – Implementation and Experiments",0.328578643579,0.52380952381
+7901DF72,"Large-area crop mapping using time-series MODIS 250 m NDVI data: An assessment for the U.S. Central Great Plains",0.303611111111,0.374891774892
+07C89F77,"Generalized Entropy for Splitting on Numerical Attributes in Decision Trees",0.331078643579,0.4375
+0B2EA2E1,"A Hybrid Genetic Algorithm — Decision Tree Classifier",0.336590909091,0.577777777778
+79525CEA,"Construction of classification trees via the classification-hierarchy table",0.314411976912,0.591666666667
+7D3B64E1,"A Novel Algorithm for Associative Classification",0.242146089205,0.6
+7D762E5E,"VDM-RS: A visual data mining system for exploring and classifying remotely sensed images",0.382070707071,0.478472222222
+58DC2B3C,"Shared Ensemble Learning Using Multi-trees",0.625,0.492063492063
+5A73690B,"Conditional Independence Trees",0.224889277389,0.5625
+766E5517,"A comparative analysis of a fixed thresholding vs. a classification tree approach for operational burn scar detection and mapping",0.430995670996,0.454220779221
+76438064,"CSNL: A cost-sensitive non-linear decision tree algorithm",0.296439393939,0.733333333333
+7CDDA234,"Comparing techniques for vegetation classification using multi-and hyperspectral images and ancillary environmental data",0.404047619048,0.542063492063
+76BF5914,"Classification and mapping of anthropogenic landforms on cultivated hillslopes using DEMs and soil thickness data - Example from the SW Parisian Basin, France",0.414682539683,0.386785714286
+78D002D4,"Minimizing False Positives of a Decision Tree Classifier for Intrusion Detection on the Internet",0.334682539683,0.343551587302
+7B81695C,"Boosting the Generalized Margin in Cost-Sensitive Multiclass Classification",0.244742063492,0.437037037037
+80F6F135,"Boosted Classification Trees and Class Probability/Quantile Estimation",0.342662337662,0.526666666667
+0BD5F0D8,"Bias Correction in Classification Tree Construction",0.342467532468,0.585714285714
+8051B076,"A Streaming Parallel Decision Tree Algorithm",0.336590909091,0.575
+7ABB5B97,"Comparison of logistic regression model and classification tree: An application to postpartum depression data",0.430995670996,0.464835858586
+77D1DAF8,"Classification trees for ordinal variables",0.349801587302,0.714285714286
+780F7169,"Learning probabilistic decision trees for AUC",0.331078643579,0.614583333333
+7E280521,"The application of classification tree analysis to soil type prediction in a desert landscape",0.338614718615,0.350224466891
+793D1F3B,"Optimization of classification trees: strategy and algorithm improvement",0.300844155844,0.426461038961
+0A511FA7,"Enhancing the efficiency in privacy preserving learning of decision trees in partitioned databases",0.317745310245,0.35560966811
+804B3F86,"Human Protein Function Prediction using Decision Tree Induction",0.40044011544,0.494109461967
+7C4E63B0,"Using classification trees to assess low birth weight outcomes",0.409253246753,0.513265306122
+7FDC5E9D,"Automatic Spectral Rule-Based Preliminary Classification of Radiometrically Calibrated SPOT-4/-5/IRS, AVHRR/MSG, AATSR, IKONOS/QuickBird/OrbView/GeoEye, and DMC/SPOT-1/-2 Imagery—Part II: Classification Accuracy Assessment",0.251666666667,0.42380952381
+7DF548DB,"Learning speech semantics with keyword classification trees",0.343578643579,0.523333333333
+77F1C351,"Forest classification trees and forest support vector machines algorithms: Demonstration using microarray data",0.589444444444,0.627777777778
+7631698E,"Classification tree models for predicting distributions of michigan stream fish from landscape variables",0.322420634921,0.337355699856
+78CEE1FA,"Classification Trees With Bivariate Linear Discriminant Node Models",0.342586580087,0.553977272727
+814D93BB,"Multiple classifier combination for land cover classification of remote sensing image",0.359404761905,0.453703703704
+7928AB5D,"Classification trees and decision-analytic feedforward control: a case study from the video game industry",0.326829004329,0.38244047619
+75AC3F8B,"An intelligent method for computer-aided trauma decision making system",0.266111111111,0.390277777778
+758F58B5,"An enhanced secure preserving for pre-processed data using DMI and PCRBAC algorithm",0.312142857143,0.6125
+7EDFB3A5,"Comparison of statistical methods for classification of ovarian cancer using mass spectrometry data.",0.404047619048,0.45376984127
+78E2EC66,"Learning relational probability trees",0.239015151515,0.5
+80B725A3,"Importance of electrophysiological signal features assessed by classification trees",0.327106782107,0.428114478114
+7CF993B1,"Personalization Algorithm for Real-Time Activity Recognition Using PDA, Wireless Motion Bands, and Binary Decision Tree",0.475,0.480070546737
+78C76725,"Mapping residential density patterns using multi-temporal Landsat data and a decision-tree classifier",0.299015151515,0.41712962963
+7D81D04F,"A decision tree classifier design for high-dimensional data with limited training samples",0.460757575758,0.543650793651
+5E26543C,"An Approach to the Design of a Linear Binary Tree Classifier",0.335681818182,0.590277777778
+76AD7C94,"Identifying the key risk factors of traffic accident injury severity on Slovenian roads using a non-parametric classification tree",0.43619047619,0.416432178932
+811E73E0,"Software quality classification modeling using the SPRINT decision tree algorithm",0.501154401154,0.528703703704
+7C51731F,"Comment on ``Tectonic classification of basalts with classification trees'' by Pieter Vermeesch (2006)",0.342586580087,0.641666666667
+7A7576F0,"Statistical tree classification of aphids based on morphological characteristics",0.245073260073,0.376893939394
+5E450025,"On the Use of Clustering in Possibilistic Decision Tree Induction",0.335245310245,0.525
+7D59E73B,"Effects of sample survey design on the accuracy of classification tree models in species distribution models",0.326829004329,0.313023088023
+7DDDB9E5,"Research on multi-valued and multi-labeled decision trees",0.335681818182,0.733333333333
+5CF96F19,"Families of splitting criteria for classification trees",0.323614718615,0.497142857143
+7E233BB6,"Using classification trees to analyze the impact of exotic species on the ecological assessment of polder lakes in Flanders, Belgium",0.424404761905,0.386976911977
+7FB00EE2,"Oracle Bounds and Exact Algorithm for Dyadic Classification Trees",0.348571428571,0.493333333333
+7789F7DD,"A survey of cost-sensitive decision tree induction algorithms",0.296439393939,0.498333333333
+75542B44,"Assessing the stability of classification trees using Florida birth data",0.497662337662,0.632142857143
+806ECB0D,"Comparison of discriminant function and classification tree analyses for age classification of marmots",0.313733766234,0.466964285714
+7685EDA6,"Decision Tree Classifiers in Bioinformatics",0.290245310245,0.703703703704
+7D245BEC,"CLASSIFICATION AND REGRESSION TREES: A POWERFUL YET SIMPLE TECHNIQUE FOR ECOLOGICAL DATA ANALYSIS",0.430995670996,0.566666666667
+80359DCE,"Discrimination Aware Decision Tree Learning",0.32968975469,0.625
+7B19B92F,"Structure-driven induction of decision tree classifiers through neural learning",0.330598845599,0.469444444444
+7C83BC94,"Integration of classification tree analyses and spatial metrics to assess changes in supraglacial lakes in the Karakoram Himalaya",0.352182539683,0.32543040293
+7DA6E964,"Use of Digital Terrain Analysis and Classification Trees for Predictive Mapping of Soil Organic Carbon in Southern Denmark",0.362662337662,0.347795414462
+08F4D7C2,"CLASSIFICATION TREE BASED BUILDING DETECTION FROM LASER SCANNER AND AERIAL IMAGE DATA",0.441071428571,0.44012345679
+5F89D306,"Combining Decision Trees Based on Imprecise Probabilities and Uncertainty Measures",0.337265512266,0.448979591837
+8124A06F,"The Performance of Maximum Likelihood, Spectral Angle Mapper, Neural Network and Decision Tree Classifiers in Hyperspectral Image Analysis",0.358611111111,0.319007936508
+782ACC60,"Decision tree classifier for network intrusion detection with GA-based feature selection",0.315043290043,0.389141414141
+7E5A97E3,"A compact and accurate model for classification",0.217662337662,0.419191919192
+78A4D2AC,"Decision Tree Learning Algorithm with structured attributes: application to verbal case frame acquisition",0.352619047619,0.375
+7FC30D85,"Efficient building algorithms of decision tree for uniformly distributed uncertain data",0.426590909091,0.608333333333
+7D4111A0,""Missing is useful": missing values in cost-sensitive decision trees",0.32968975469,0.555555555556
+75D49B50,"A novel unsupervised classification approach for network anomaly detection by k-Means clustering and ID3 decision tree learning methods",0.522424242424,0.501111111111
+7F8F5A50,"An efficient framework for MPEG-4 HVXC encoder based on the multi-stage V/UV decision",0.230638152697,0.474747474747
+757153C9,"The decision tree classifier: Design and potential",0.31297979798,0.494444444444
+7D67FCB7,"Concept Classification Using a Hybrid Data Mining Model",0.404047619048,0.550336700337
+7CEE5111,"Decision Tree Learning for Drools",0.331078643579,0.614583333333
+7AA3D69F,"Mining optimal decision trees from itemset lattices",0.32968975469,0.611111111111
+7F4719F0,"Classification tree models of software quality over multiple releases",0.353968253968,0.416738816739
+7786E5FF,"Classification tree and minimum-volume ellipsoid analyses of the distribution of ponderosa pine in the western USA",0.343217893218,0.397619047619
+5D0A4B5E,"The Biases of Decision Tree Pruning Strategies",0.297031024531,0.466753246753
+80F3630B,"Decision support oriented Enterprise Architecture metamodel management using classification trees",0.578174603175,0.68869047619
+7FC5CFF8,"Heuristic Model Research on Decision Tree Algorithm",0.335681818182,0.498181818182
+75087187,"A Method for Application of Classification Tree Models to Map Aquatic Vegetation Using Remotely Sensed Images from Different Sensors and Dates",0.561832611833,0.491394716395
+7767905F,"Instability of decision tree classification algorithms",0.393578643579,0.665
+7D5B187E,"Random forests for land cover classification",0.241349206349,0.381944444444
+5C57817A,"Retrofitting Decision Tree Classifiers Using Kernel Density Estimation",0.402063492063,0.450347222222
+7DBE188B,"Bagging One-Class Decision Trees",0.306911976912,0.733333333333
+7DD171A0,"Unbiased split selection for classification trees based on the Gini Index",0.376911976912,0.511574074074
+7EDFE617,"A Classification Tree Based Approach for the Development of Minimal Cut and Path Vectors of a Capacitated Network",0.442424242424,0.452292768959
+77F73826,"Shrinking classification trees for bootstrap aggregation",0.359920634921,0.561904761905
+79A7221F,"Mapping U.S. forest biomass using nationwide forest inventory data and moderate resolution information",0.292338772339,0.375963718821
+85C0A252,"Predicting the Next State of Traffic by Data Mining Classification Techniques",0.342973692974,0.436054421769
+76CAFFDD,"A Classification Tree Based Modeling Approach for Segment Related Crashes on Multilane Highways",0.439682539683,0.464947089947
+5F196016,"Modulation Classification of Analog and Digital Signals Using Neural Network and Support Vector Machine",0.418535353535,0.429012345679
+05A30B05,"Split Selection Methods for Classification Trees",0.33968975469,0.547222222222
+5E9CDB60,"On the use of selective ensembles for relevance classification in case-based web search",0.284682539683,0.35873015873
+7887D583,"An Automated Approach to the Design of Decision Tree Classifiers",0.424090909091,0.672222222222
+7EB2415E,"Using multiple data features improved the validity of osteoporosis case ascertainment from administrative databases",0.306825396825,0.355113636364
+813C3791,"Errata: Optimal land use/land cover classification using remote sensing imagery for hydrological modeling in a Himalayan watershed",0.403849206349,0.448611111111
+5DD97DA3,"Building decision tree classifier on private data",0.419487734488,0.672222222222
+7FB9D5BF,"An incremental decision tree learning methodology regarding attributes in medical data mining",0.419487734488,0.472115384615
+7F758794,"Global land cover classification at 1 km spatial resolution using a classification tree approach",0.504563492063,0.60987654321
