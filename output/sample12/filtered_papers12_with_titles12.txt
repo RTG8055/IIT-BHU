@@ -1,0 +1,2103 @@
+7D85D00B	Fair, class based, delay jitter controlled packet scheduling scheme managing handoff and buffer occupancy for 4G wireless access systems
+7DD5B89F	Semi-Markov modeling of dependability of VoIP network in the presence of resource degradation and security attacks
+7537A223	"Friendly, don't shoot!": how communication design can enable novel social interactions
+7DD2A050	Dual power-saving modes for voice over IP traffic supporting voice activity detection
+77C7B5E8	Research on P2P-SIP based VoIP system enhanced by UPnP technology
+5DE2FF98	An analytical approach to the efficient real-time events/services handling in converged network environment
+7E56FCD5	Make-Before-Break MAC Layer Handoff in 802.11 Wireless Networks
+800E392E	ReLACK: A Reliable VoIP Steganography Approach
+78B7767F	Advanced service architecture for H.323 Internet Protocol Telephony
+7E2FBAAE	VoIP performance on differentiated services enabled network
+7F447498	Handling NAT traversal and mobility for multimedia traffic
+7D0172BC	Supporting Personal Mobility with Integrated RFID in VoIP Systems
+59F3B2EE	CPL: A Language for User Control of Internet Telephony Services
+8140D5D3	Call routing management in enterprise VoIP networks
+7F6C369F	Deploying IP Multimedia Subsystem (IMS) services in future mobile networks
+811FC9DE	A hybrid channel scan mechanism for improved VoIP handoff performance in 802.11 WLANs
+7FD232AA	Inexpensive high availability solutions for the SIP-based VoIP service
+755F61AC	Using game theory to configure P2P SIP
+7C3A0E28	Security Issues in VOIP Applications
+777374F1	Speech Packet Concealment Techniques Based on Time-Scale Modification for VoIP
+800379FB	Quality of Service over IPV6 and IPV4
+7D9600B7	Assessment of Internet voice transport with TCP
+7D8D4BA3	Policy support for H.323 call handling
+7D16C979	SIP Mobility Modes: Application Layer and Data Link Layer
+7F5EEB8E	IMS Application Servers: Roles, Requirements, and Implementation Technologies
+7FB0AC68	Designing an Integrated Voice, Video, and Instant Message Service System in SIP-Based IP Networks
+7E4483E2	On Redundant Multipath Operating System Support for Wireless Mesh Networks
+764D36CF	Joint routing and playout buffering of IP telephony flows in MANETs
+02A6CAF9	Network VoIP for corporative environment design
+5D606A47	Performance Measurement Methodologies and Quality of Service Evaluation in VoIP and Desktop Videoconferencing Networks
+7E4800F3	Providing VOIP service in UMTS-HSDPA with frame aggregation
+7F15A0D2	Autoconfiguration, registration, and mobility management for pervasive computing
+81264627	Effects of fully redundant dispersity routing on VoIP quality
+78962548	Conforming normalised behaviour of SIP server overload control mechanism
+7CEC8964	Outbound SPIT filter with optimal performance guarantees
+7F6AF193	What's up: P2P spontaneous social networking
+7B186DEB	VoIP over DVB-RCS satellite systems: Trial results and the impact of adaptive speech coding using cross-layer design
+5D5A833D	Delivering voice over IP networks
+75FD9583	Providing true end-to-end security in converged voice over IP infrastructures
+81593BED	Effects of Loss Characteristics on Loss-Recovery Techniques for VoIP
+804E5562	A source and channel rate adaptation algorithm for AMR in VoIP using the Emodel
+7E04162B	Assessment of effects of different language in VOIP
+7ED85637	Providing Quality of Service for Voice-over-IP over TD-SCDMA HSDPA
+7FA7A45A	Speech playout buffering based on a simplified version of the ITU-T E-model
+752B9B0A	Survey on application-layer mechanisms for speech quality adaptation in VoIP
+77B95777	Performance evaluation of H.264/SVC video streaming over mobile WiMAX
+80343E03	An H.323 gatekeeper prototype: design, implementation, and performance analysis
+8103CF9A	Cross-Layer Algorithm for VOIP Applications over Satellite
+7D62607A	A Study for Providing Better Quality of Service to VoIP Users
+7F1A2460	QRP08-3: Speech Repetition Method for Compensating Delay Spike Gaps in Voice Packet Stream
+75EF892D	Dynamic codec with priority for voice over IP in WLAN
+5AFC62A7	OpenVoice: Low-cost mobile wireless communication project for rural area based on OpenWRT
+7DF20134	Performance evaluation of access selection algorithms for VoIP on wireless multi-access networks
+7BD5410F	Experiences of VoIP traffic monitoring in a commercial ISP
+78E1EDFA	A new per-class flow fixed proportional differentiated service for multi-service wireless LAN
+587C34AC	Security testing of SIP implementations
+7E730A2D	Analytical and Experimental Comparison of Packet Loss Recovery Methods Based on AMR-WB for VoIP
+0B2C3D7C	Effects of Packet Lossless Recovery Scheme on Buffer Size for Mobile VoIP Handoff
+6CFAE423	A survey of requirements and standardization efforts for IP-telephony-security
+7ECB9AA4	An architecture and admission control algorithm for multi-precedence voice over IP (VoIP) calls
+8140D342	Skype VoIP service- architecture and comparison
+810AF06F	An Integrated Load Balancing Scheme for Future Wireless Networks
+7DF83938	User perceived codec and duplex aware playout algorithms and LMOS-DMOS measurement for real time streams
+7FD52FF8	Security Patterns for Voice over IP Networks
+7D3C9F90	An ontology description for SIP security flaws
+805E033C	Comparison of voice activity detection algorithms for VoIP
+79B5AA5B	On the deployment of VoIP in Ethernet networks: methodology and case study
+7E3CA34B	Traffic analysis for IP telephony
+7FAA7A65	Packet Scheduling for VOIP Over HSDPA in Mixed Traffic Scenarios
+7F673A41	Increasing VoIP Capacity on WiFi Networks through the Use of the FAIR Algorithm for MAC
+8099551B	Bayesian piggyback control for improving real-time communication quality
+7C63472D	Vertical Handover Management for VoIP Session over Broadband Wireless Networks
+79131BE6	Voice over IP
+7EB285F6	Convergence towards Packet Networks
+807A40AA	Provisioning an end to end QoS for VoIP over WiMAX network
+7803BEEF	Energy efficient implementation of G.729 for wireless VoIP application
+7EE30C24	Multimedia convergence service using multi-functional systems : 3D virtual monitoring with dynamic voice and video over IP based on SIP
+7B88C91F	A performance monitoring system for VoIP gateways
+7987AB2E	Mobisense testbed: merging user perception and network performance
+7841DAF9	An implementation design of a cross-layer handover method with multi-path transmission for VoIP communication
+7CE33DDF	VoIP over wireless mesh networks: challenges and approaches
+7F26A341	Relay Path Selection Approaches in Peer-to-Peer VoIP Systems
+811FA871	Security enhancement of voice over Internet protocol using speaker recognition technique
+8179C901	Following skype signaling footsteps
+7F000B1F	WLC24-5: Adaptive Multi-Rate VoIP for IEEE 802.11 Wireless Networks with Link Adaptation Function
+7EC5F62D	Scalable network assessment for IP telephony
+7FD5E71B	A framework for securing the signaling plane in the emergency services IP network (ESINet)
+486EBECB	An energy efficient authenticated key agreement protocol for SIP-based green VoIP networks
+7F95B18D	On Modeling VoIP Traffic in Broadband Networks
+7CEB34A9	Implementing automatic location update for follow-me database using VoIP and bluetooth technologies
+7ED768EE	Reliable VoIP Services Using a Peer-to-Peer Intranet
+8063B0B6	On the perceptual performance limitations of echo cancellers in wideband telephony
+808BF16C	Threat Analysis of the Session Initiation Protocol Regarding Spam
+7914B5BB	From POTS to PANS: a commentary on the evolution to Internet telephony
+7FD71310	New IP QoS Architecture for Voice and Data Convergence over DSL Lines
+7DE61337	Speech Quality Aware Admission Control for Fixed IEEE 802.16 Wireless MAN
+7F315C93	Energy-Efficient VoIP over Wireless LANs
+807D6861	Service creation and service management for advanced IP networks and services-an experience paper
+5CE20808	The Design and Implementation of Datagram TLS
+7E3C1D58	Session Initiation Protocol Automatic Debugger
+808D0C5F	Group Scheduling for Improving VoIP Capacity in IEEE 802.16e Networks
+70184CDD	A Videophone Prototype System Evaluated by Elderly Users in the Living Lab Schwechat
+7F3DA408	Signaling performance of SIP based VoIP: a measurement-based approach
+5DBEEAA9	Conceptual foundations of user preference modeling
+7DCF4BCD	Design and implementation of SIP-aware DDoS attack detection system
+7F16C168	Scheduling Techniques for Improving Call Capacity for VoIP Traffic in MIMO-OFDMA Networks
+76ECCA92	DEVS-Based modeling of VoIP spam callers’ behavior for SPIT level calculation
+816B0308	A Model-based Admission Control for IEEE 802.11e Networks
+7D6CDF34	An Analysis of VoIP Service Using 1 $times$ EV-DO Revision A System
+7F9CB2ED	Analytical description of a parameter-based optimization of the quality of service for VoIP communications
+7701D69D	Adaptive partial-matching steganography for voice over IP using triple M sequences
+8172FD15	A Technique of Lossless Steganography for G.711 Telephony Speech
+7CEC6BCD	Impact of Multi-Rate VoIP on Quality of Service in IEEE 802.11e EDCA with Link Adaptation
+80772866	APPEL: An Adaptable and Programmable Policy Environment and Language
+802E5E20	QoS provisioning for VoIP over wireless local area networks
+7EDD5625	Performance of VoIP over HSDPA in Mobility Scenarios
+7B98AEE6	On detecting feature interactions in the programmable service environment of internet telephony
+7F93FA04	Integration of Internet and telecommunications: an architecture for hybrid services
+805E844C	Service architectures in H.323 and SIP: A comparison
+80A3A201	Accelerating the Evolution of Evolvable Hardware-based Packet Classifiers
+80F88E29	Securing VoIP: A Framework to Mitigate or Manage Risks
+79501935	Meeting Interactivity Requirements in Mobile E-Witness: An Experimental Study
+7DE9FCD7	Endpoint admission control with delay variation measurements for QoS in IP networks
+7E8C6546	DYSWIS: An architecture for automated diagnosis of networks
+7EFE28BA	Peer-to-peer approach for global deployment of voice over IP service
+7D7A842B	On Privacy of Skype VoIP Calls
+7D21CE9F	Detecting More SIP Attacks on VoIP Services by Combining Rule Matching and State Transition Models
+75B9D6A1	A Comprehensive Survey of Voice over IP Security Research
+77482408	Extending P2PSIP VoIP communication for ad hoc networks
+80BD2795	Single-Ended FDR to Locate and Specifically Identify DSL Loop Impairments
+7616E53D	Real-time voice over packet-switched networks
+80C3450C	Design and Analysis for the 3G IP Multimedia Subsystem
+760DE124	Nationwide SIP Telephony Network Design to Prevent Congestion Caused by Disaster
+79E5F60B	Voice over IP
+5A8F9D97	Monitoring SIP Traffic Using Support Vector Machines
+7632F20D	Capability Measure for VoIP Performance
+5D218004	A Telephony Application for Manets: Voice over a MANET-Extended JXTA Virtual Overlay Network
+5A7142B3	Performance analysis of a VoIP access architecture
+82315D16	Creating an Audio Conferencing Application on Android Smart Phones
+60AD2A21	Vulnerabilities and security limitations of current IP telephony systems
+7D4BEA14	WSIP - Web service SIP endpoint for converged multimedia/multimodal communication over IP
+80F3312C	Voice over Data over GPRS/ EDGE Networks
+80942790	Measurement Techniques in On-Demand Overlays for Reliable Enterprise IP Telephony
+7D7BEF25	Multichannel Virtual Access Points for Seamless Handoffs in IEEE 802.11 Wireless Networks
+7DAAA0A1	Adaptive-Modulation-and-Coding-Based Transmission of Control Messages for Resource Allocation in Mobile Communication Systems
+06BC71FD	Modeling the Effects of Burst Packet Loss and Recency on Subjective Voice Quality
+78342064	Partitioned fuzzy integral nested logit model for the Taiwan's internet telephony market
+7AEC9F9D	The generic architecture for data/internet telephony in Nigeria
+7E5C4FF6	On the processing time for detection of Skype traffic
+7E57AF9B	Implication of MAC Frame Aggregation on Empirical Wireless Experimentation
+7E290932	Scheduling TCP-friendly flows over a satellite network
+80ED458A	VoIP cross-layer load control for hybrid satellite-WiMAX networks
+7F158EA5	Design, Implementation, and Performance Evaluation of an Advanced SIP-Based Call Control for VoIP Services
+7719779F	Traffic Identification and Overlay Measurement of Skype
+7F2A3595	IPsec-Based VoIP Performance in WLAN Environments
+80177FB9	Traffic engineering for VoIP network based on PSTN statistical models
+80CCBFDE	Scalable Detection of SIP Fuzzing Attacks
+7F29B7FE	Voice over IP Realized for the 3GPP Long Term Evolution
+8172DC20	A performance study of fast handovers for mobile IPv6
+0F885325	Optimal matrix embedding for Voice-over-IP steganography
+806F4843	EVDO Rev. A Control Channel Bandwidth Analysis for Paging
+7F55B8DD	Subjective Audio Quality over Secure IEEE 802.11 Wireless Local Area Networks
+5C44C77F	Assessment of VoIP quality over Internet backbones
+77E01870	Accuracy of packet loss monitoring over networked CPE
+7D177A1E	Performance Evaluation of Opportunistic Vertical Handover Considering On–Off Characteristics of VoIP Traffic
+7D1E2CFB	Phonotactic Reconstruction of Encrypted VoIP Conversations: Hookt on Fon-iks
+7E321D7D	Evading stepping-stone detection under the cloak of streaming media with SNEAK
+7F564B0B	Flexible playout adaptation for low delay AAC RTP communication
+7A07568C	Statistical Analysis of a Subjective QoE Assessment for VVoIP Applications
+7D37F974	EasyVoice: Breaking Barriers for People with Voice Disabilities
+583814C1	New VoIP traffic security scheme with digital watermarking
+7E7C18A2	Detecting VoIP calls hidden in web traffic
+7D4DA0C6	Cross-Layer Response Surface Methodology Applied to Wireless Mesh Network VoIP Call Capacity
+5DED89B0	Assessment of VoIP E-model over 802.11 wireless mesh network
+7E371718	Performance and Capacity of Cellular OFDMA Systems With Voice-Over-IP Traffic
+79C13BF2	Anomaly detection in diurnal data
+037C063D	Assessment of VoIP Service Availability in the Current Internet
+7D0C9DB4	SERvartuka: Dynamic Distribution of State to Improve SIP Server Scalability
+7FC49A52	A measurement study of Speex VoIP and H.264/AVC video over IEEE 802.16d and IEEE 802.11g
+7B83AD6C	Geographies of global telephony in the age of the internet
+805A1129	Handover management based on the number of retries for VoIP on WLANs
+7E18F46C	SIPFIX: A scheme for distributed SIP monitoring
+7F679794	Secure Variable Data Rate Transmission
+7E2310A0	Analysis of a "/0" stealth scan from a botnet
+08F79975	Queueing analysis of simple FEC schemes for 1P Telephony
+8117F1E6	IP mobility with high speed access and network intelligence
+5CB1004F	A load-sensitive QoS routing algorithm in best-effort environment
+7D3A1ECD	Desirable practices for contact centres outsourced to an African country
+7C04890F	Speaking in character: using voice-over-IP to communicate within MMORPGs
+7D9029DA	ITU-T standardization activities for interactive multimedia communications on packet-based networks: H.323 and related recommendations
+80BF6627	Optimization of SIP Session Setup Delay for VoIP in 3G Wireless Networks
+8139DDED	Detection and mitigation of spam in IP telephony networks using signaling protocol analysis
+7FCC242A	Output-based method of applying PESQ to measure the perceptual quality of framed speech signals
+77EA5E8A	Performance comparison between VBR speech coders for adaptive VoIP applications
+7F185F41	Petri net based modelling and simulation of Email Alert System
+7F2673EC	Investigation of Mobile IPv6 and SIP integrated architectures for IMS and VoIP applications
+7CC7DCBF	Voice over IP: security pitfalls
+048188E9	D(e|i)aling with VoIP: Robust Prevention of DIAL Attacks
+7FB808C7	Voicing-aware parametric speech quality models over VoIP networks
+7FB11991	Speech Quality While Roaming in Next Generation Networks
+7A9A0FC3	Hybrid multimode/multirate CS-ACELP speech coding for adaptive voice over IP
+81173B1E	Providing QoS for Symmetrical Voice/Video Traffic in Wireless Networks
+7F69C274	Optimal DiffServ AC Design using Non-Linear Programming
+7566B56D	Capacity management and routing policies for voice over IP traffic
+793A8FD8	Language independent on-off voice over IP source model with lognormal transitions
+5BA0687C	Facilitating the interoperability among different VoIP protocols with VoIP Web services
+7D7FBA4F	Effective Bandwidth Evaluation for VoIP Applications in IEEE 802.11 Networks
+7B27EE99	A new QoE model and evaluation method for broadcast audio contribution over IP
+7F66AE28	Terminating telephony services on the internet
+7E24FBDE	A Study on Structure for Monitoring and Detecting VoIP Abnormal Traffic
+79C7D70A	DualMAC: A soft handoff mechanism for real-time communications in secured WLANs
+7EC1FC53	Sicsophone: a low-delay Internet telephony tool
+7D878EAB	Evaluating DoS Attacks against Sip-Based VoIP Systems
+7F144A74	Hidden Markov model-based packet loss concealment for voice over IP
+7A4C8898	Cross-Layer Design for QoS Support in Multihop Wireless Networks
+7BCEB3E9	Multiple design patterns for voice over IP security
+7F658799	VoIP capacity analysis in cognitive radio system
+7E5FEEB4	A framework for SIP intrusion detection and response systems
+81117D40	Time synchronization for VoIP quality of service
+5E0A9D2C	Relay path selection for peer-to-peer voice-over-IP systems
+7F9D1FA4	Optimizing Voice over Internet Protocol (VoIP) networks based-on Extended E-model
+71B4D0C3	On Packet Aggregation Mechanisms for Improving VoIP Quality in Mesh Networks
+7B1E1327	Achieving VoIP Guarantee in Wireless Local Area Networks
+80A4FDF1	DPCCH Gating Gain for Voice Over IP on HSUPA
+7ECDBD52	Analysis of the delay and jitter of voice traffic over the Internet
+67E095CE	Common Gateway Interface for SIP
+7E51DF42	Audio quality assessment in packet networks: an "inter-subjective" neural network model
+76D08651	Comparison of QoS guarantee techniques for VoIP over IEEE802.11 wireless LAN
+7F306BAA	Mobility Management of VoIP Services Using SCTP Handoff Mechanism
+7F79E888	The impact of security on voip call quality
+08755AC7	Overview of Voice over IP
+7B0EC03E	An architecture for IN-internet hybrid services
+76EC31F1	An Adaptive Jitter Buffer Play-Out Scheme to Improve VoIP Quality in Wireless Networks
+80D9734F	Voice-over-IP-over-wireless
+7F31DF82	On studying the impact of the Internet delays on audio transmission
+77CA54AD	SDRS: A Voice-over-IP Spam Detection and Reaction System
+7D68C874	A policy-based approach to personalization of communication over converged networks
+7F98B6C0	Designing Secure Peer-to-Peer Voice Applications in Ad Hoc Wireless Networks
+7D485FA1	Differential VoIP service in Wi-Fi networks and priority QoS maps
+7F504958	Empirical Modeling and Estimation of End-to-End VoIP Delay over Mobile Multi-Hop Wireless Networks
+7D9D6E2D	Trust-Based VoIP Spam Detection Based on Call Duration and Human Relationships
+7F774FED	Jitter-Buffer Management for VoIP over Wireless LAN in a Limited Resource Device
+59FEAD29	Assessing the Impact of Internet Telephony on the Deployment of Telecommunications Infrastructure
+800FA964	Analysis of soft-state user tracking of wireless LAN hosts for VoIP
+7EE05E96	Semantic-enabled integration of voice and data services: telecommunication use case
+5DFDB313	A sender-oriented back-track enabled resource reservation scheme
+5B2CCDD6	The effect of F-DPCH on VoIP over HSDPA Capacity
+80ADCF63	On the Design of Overlay Networks for IP Links Fault Verification
+5BD8EB7C	An Analysis of the Skype Peer-to-Peer Internet Telephony Protocol
+7D53BC3D	A “GAP-model” based framework for online VVoIP QoE measurement
+7E01EFEF	HSDPA Performance in Live Networks
+81676EA3	On the dependence of burst losses on the packet inter-arrival times in VoIP
+80FDE7CC	A comparison of VoIP performance on IPv6 and IPv4 networks
+7ECD6553	Synthetic stereo acoustic echo cancellation structure for multiple participant VoIP conferences
+7EA0C1D3	Handoff with DSP Support: Enabling Seamless Voice Communications across Heterogeneous Telephony Systems on Dual-Mode Mobile Devices
+7AB14D78	A New Buffer Algorithm for Speech Quality Improvement in VoIP Systems
+5CFA4E6C	Smart Delivery of Multimedia Content for Wireless Applications
+816634A6	SIP-Based Mobility Architecture for Next Generation Wireless Networks
+7B475188	Session initiation protocol improvement using inter-asterisk exchange
+7F6CE4C2	Hardware acceleration of the robust header compression (RoHC) algorithm
+76DCF5F8	Performance Characterization and Call Reliability Diagnosis Support for Voice over LTE
+7A51A0B3	The model of end-to-end call setup time calculation for Session Initiation Protocol
+7E4C657C	Application-layer mobility using SIP
+7F394FB4	Authentication of Signaling in VoIP Applications
+75A15F1A	Non-intrusive speech quality prediction in VoIP networks using a neural network approach
+7D43A05B	Studying Timing Analysis on the Internet with SubRosa
+814B2EFF	Design, implementation, and evaluation of cellular IP
+5EE7F681	A Novel Architectural Framework for Adapting Mobile Agents to Host Variation
+7C1FA131	Performance evaluation of the MAC protocol in IEEE 802.16 systems with data and VoiP traffic scheduling
+803DF285	On SIP session setup delay for VoIP services over correlated fading channels
+80D48DBB	Hybrid Power Saving Mechanism for VoIP Services with Silence Suppression in IEEE 802.16e Systems
+59DF8840	An Adaptive Policy-Based Approach to SPIT Management
+7E97D81B	A Novel MCS Selection Criterion for VOIP in LTE
+7D222606	Asterisk Voice Exchange: An Alternative to Conventional EPBX
+8130A608	Countering phishing threats with trust-by-wire in packet-switched ip networks - a conceptual framework
+7CB5DD04	Measuring the Quality of VoIP Traffic on a WiMAX Testbed
+7B09C60F	Deployment issues of a VoIP conferencing system in a Virtual Conferencing Environment
+76726FF8	Effectiveness of adaptive codec switching VoIP application over heterogeneous networks
+7E77EF79	Voice call quality using 802.11e on a wireless mesh network
+74104389	Hypermedia support for collaboration in requirements analysis
+77AF7F89	WLAN VoIP capacity allocation using an adaptive voice packetization server
+7DAF9B01	Performance of VoIP in HSDPA based on an adaptive power allocation scheme
+7BBD37B2	The IETF Internet telephony architecture and protocols
+7D39AC23	Adaptive VoIP playout scheduling: assessing user satisfaction
+78162667	Hiding Skype VoIP calls from parametric identification
+7CF8EAEC	Evaluation of Optimum Multi-Channel Implementation of CS-ACELP Codec on TMS320C6205
+7E21109D	TOPS: an architecture for telephony over packet networks
+7EA1F126	An Integrated System, with Natural Language Management, for the Monitoring Activities in e-Learning Environments
+7FD8C093	Spam detection in voice-over-IP calls through semi-supervised clustering
+76D27AF0	The diffusion of Internet telephony among consumers and firms
+7E5324A5	A novel AF/sup +/ service for VoIP applications over a Diff-Serv/MPLS network
+7BA32AFE	SIP-Based QoS in IP Telephony
+762645B9	iVisher: Real-Time Detection of Caller ID Spoofing
+75AC5FD7	Improving application QoS with residential multihoming
+8035614B	New access scheme for VoIP packets in IEEE 802.11e wireless LANs
+7E286FD5	New Solutions of VoIP on Multi-hop Wireless Network
+7E9BFE53	An approach of integrating SIP in converged multimodal/multimedia communication services
+584555F4	Presence Interaction Management in SIP SOHO Architecture
+7EBCD8A5	MOS-Based Rate Adaption for VoIP Sources
+7F5F6C20	The Design of a Multi-party VoIP Conferencing System over the Internet
+5D92C528	Adaptive Delay Aware Error Control for Internet Telephony
+8062F61C	Measurement-based multi-call voice frame grouping in Internet telephony
+7E0BAFF3	Performance of TTI Bundling for VoIP In EUTRAN TDD Mode
+5AF9028F	Adaptive FEC-Based Error Control for Interactive Audio in the Internet
+7B077EC3	Gateway Strategies for VoIP Traffic over Wireless Multihop Networks
+79B447D0	Audio feature interactions in Voice-over-IP
+7E1A1D1D	Codec-based adaptive QoS control for VoWLAN with differentiated services
+7D2CFD0E	A Survey of Voice over IP Security Research
+79369AB5	Accurate resource estimation for homogeneous VoIP aggregated traffic
+7E36B417	Internet service provider access networking
+7E506999	An Energy Saving Based Uplink Scheduling Algorithm for VoIP Services in IEEE 802.16 Systems
+796C54E5	Can you hear me now?!: it must be BGP
+5D53424E	Mobile Technologies for Improved Collaboration on Construction Sites
+7EB78B3B	On the modeling of voice sources regulated by dual leaky buckets
+7ED6915E	Lost audio packets steganography: the first practical evaluation
+7D8F2390	Mobility in a multi-location enterprise network, case study: global voice calls placing
+80916B17	Wavelet analysis of QoS based network traffic
+5CDC4A51	Smart softphone device for the network quality parameters discovery and measurement
+04D9BEDE	Packet Loss Concealment Algorithm for VoIP Transmission in Unreliable Networks
+01157E24	Internet Telephony over Wireless Links
+7E0E9F86	Less Impact Better Service (LIBS) - A service paradigm for Internet telephony
+7EBCF8CC	AS-Aware Relay Selection Using DHT Service Discovery in P2P Overlays
+6ECDE0E1	Fast handoff with differentiated services based on broadcasting scheduling for VoWLAN
+7F8EB07D	An approach to transport layer handover of VoIP over WLAN
+7E216784	Voice and Data Traffic Analysis in IEEE 802.11 DCF Infrastructure WLANs
+7929C131	An assessment of the audio codec performance in voice over WLAN (VoWLAN) systems
+81690DBA	Supporting multi-party voice-over-IP services with peer-to-peer stream processing
+813AAEB1	Data Steganography on VoIP through Combination of Residue Number System and DNA Sequences
+8097B109	A real-time network simulation application for multimedia over IP
+80C2A721	Accessing telephony services from the Internet
+76E37BDF	Mobility-Aware RSVP: A framework for improving the performance of multimedia services over wireless IP-based mobile networks
+7EFD9A36	Intrusion detection system for signal based SIP attacks through timed HCPN
+78315A76	Scalable voice over internet protocol service-level agreement guarantees in converged transmission control protocol/ internet protocol networks
+7FF4C506	Modeling Session Initiation Protocol with Extended Finite State Machines
+7EA69F8F	LPRE: Lost Speech Packet Recovery with Enhancement
+808A9F67	Fundamental design issues for the future Internet
+77EDC510	Enable VoIP survivability for future tactical Airborne Networks
+7E5FC307	VoIP over WiMAX: Quality of experience evaluation
+7DD69CE7	Hybrid Signal-and-Link-Parametric Speech Quality Measurement for VoIP Communications
+7F4A406D	An Analytical Model for the Capacity Estimation of Combined VoIP and TCP File Transfers over EDCA in an IEEE 802.11e WLAN
+70A17255	QoS management for VoIP networks with edge-to-edge admission control
+7F54CA1D	TDR and FDR Identification of Bad Splices in Telephone Cables
+7E84479E	A New Error Concealment Technique for VoIP Based on Forward Contour Prediction
+7FA5F426	Characterizing and Detecting Skype-Relayed Traffic
+77631389	Securing VoIP network: An overview of applied approaches and analysis
+81193755	Integrating Internet telephony services
+76AD4806	Assessing the security of VoIP Services
+7812C9EC	QoE-Aware LTE Radio Link Control Parameters for Voice over IP in Vehicular Environments
+7F438797	WLC29-1: Addressing the Link Adaptation Problem for VoWLAN using Codec Adaptation
+80F9F540	Statistical admission control using delay distribution measurements
+7FC0FCEE	Could Skype be more satisfying? a QoE-centric study of the FEC mechanism in an internet-scale VoIP system
+8154EE42	Economic assessment of externalities for interactive audio media anti-SPIT protection of internet services
+58D8F572	QoS Measurement-Based CAC for an IP Telephony System
+7F6383E3	Can DCCP Replace UDP in Changing Network Conditions?
+80F515A4	An adaptive steganography scheme for voice over IP
+80B47A22	On the use of a power-saving mode for mobile VoIP devices and its performance evaluation
+807613B8	IP Telephony over Mobile Ad Hoc Networks: Joint Routing and Playout Buffering
+7CE59CE3	Improving quality of experience in wireless voip through novel call scheduling
+80DD3185	Measuring one-way delay of VoIP packets without clock synchronization
+7D7C2D4E	Adaptive Multiplexing Based on E-model for Reducing Network Overhead in Voice over IP Security Ensuring Conversation Quality
+7A401F84	A novel implementation of very large teleconferences
+004ADD9E	Fault-Tolerant Multi-Path Routing for Real-Time Streaming with Erasure Resilient Codes
+83C27F80	Automatically Provisioned Embedded Systems in Managed Networks
+7F998740	Leveraging the Rate-Delay Trade-Off for Service Differentiation in Multi-Provider Networks
+810F5DF2	A new adaptive FEC loss control algorithm for voice over IP applications
+764B432A	A survey of application layer techniques for adaptive streaming of multimedia
+80567588	Residential Area Service Platforms: Modelling Challenges for Multiple Data Traffic Patterns in Wireless Mesh Networks
+8144FBBE	Context-aware communication services a framework for building enhanced IP telephony services
+7EE9E8F4	Evaluating SIP proxy servers based on real performance data
+7F63D379	A Novel Uncertainty Decoding Rule With Applications to Transmission Error Robust Speech Recognition
+7E302936	Packet Loss Concealment for G.722 using Side Information with Application to Voice over Wireless LANs
+79459D95	Personalization of internet telephony services for presence with SIP and extended CPL
+7E221145	An experimental study of throughput for UDP and VoIP traffic in IEEE 802.11b networks
+7C9177C7	Voice over IP forensics
+7CF62DD1	Resource Management in Hybrid DVB-RCS and WiFi Networks
+7DE659BC	Communications Support for Disaster Recovery Operations using Hybrid Mobile Ad-Hoc Networks
+7ED62E14	Integrated management architecture for IP-based networks
+7F2C0CAB	VOIP over HSPA with 3GPP Release 7
+7EDF7CD1	Remote Surveillance System over MANET
+7E66F063	A Robust Push-To-Talk Service for Wireless Mesh Networks
+7E6B20B0	Disjoint Multi-Path Routing and Failure Recovery
+7F980C70	A Directory Infrastructure to Support Mobile Services
+78743FF2	Internet telephony: architecture and protocols—an IETF perspective
+7DD9441D	Unified Messaging using SIP and RTSP
+7DBBF15D	Syntax, and semantics‐based signature database for hybrid intrusion detection systems
+7F48A7E7	Voice Transmission Enhancing Model on Wireless Mesh Networks
+7CF6F268	Quick data-retrieving for U-APSD in IEEE802.11e WLAN networks
+7F7E4C7C	Self-Similarity, Packet Loss, Jitter, and Packet Size: Empirical Relationships for VoIP
+7E1C5196	Implementation of Video Voice over IP in Local Area Network Campus Environment
+7715D53A	Mobility management for VoIP service: Mobile IP vs. SIP
+7EC7C69A	Parametric speech quality models for measuring the perceptual effect of network delay jitter
+80AA5E5F	An adaptive predictor for media playout buffering
+806DB873	Dynamic QoS Adaptation for Multimedia Traffic
+5B2D5F1E	Load Balancing Studies on an H.323 Gatekeeper Prototype
+7611CBAF	Comparison and optimization of packet loss recovery methods based on AMR-WB for VoIP
+7E88E765	A survey on VoIP packet loss techniques
+7DD9D5CF	Which architecture for integrated services?
+7E808F2D	Providing VoIP Service over TD-SCDMA HSDPA
+76C011E7	Voice over IP performance monitoring
+7D257679	Security analysis and countermeasures assessment against spit attacks on VoIP systems
+7F252A65	Can VoIP Live up to the QoS Standards of Traditional Wireline Telephony?
+7C7D3A42	Low Cost IP Private Branch Exchange (PBX)
+7D6784B8	Modeling Prepaid Application Server of VoIP and Messaging Services for UMTS
+7D11BA65	ON-OFF-2ON Traffic Model for Packetized Voice over Wireless Both-Way Transmission Media
+59089F89	Active Concealment for Internet Speech Transmission
+7F9C1295	Hybrid Energy-Saving Algorithm Considering Silent Periods of VoIP Traffic for Mobile WiMAX
+7C1C0455	A comprehensive survey on scheduler for VoIP over WLAN
+809CBA12	A new feature vector for HMM-based packet loss concealment
+802A1154	Performance Evaluation of Load Control Techniques in SIP Signaling Servers
+643036AC	Efficient transport of voice over IP over cellular links
+757A42AD	An assessment of VoIP covert channel threats
+77A1785E	Optimal sleep interval decision for energyefficient VoIP services in wireless networks
+7D5B0CDE	Deploying Open Source IP Telephony in Rural Environments
+7F9A99DF	An Energy Efficient WLAN Skype Deployment Using GSM Wakeup Signals
+815E2DF9	A Comparison of Packet-Level and Byte-Level Reliable FEC Multicast Protocols for WLANs
+7D2E460D	QoS evaluation based on extend E-Model in VoIP
+7D60D169	End-to end delay performance analysis of various codecs on VoIP Quality of Service
+8068B87B	Reducing Packet Loss in CBC Secured VoIP using Interleaved Encryption
+7E739329	Implementing Endpoint Services Using the SIP Servlet Standard
+7B744F14	Comparison of energy efficiency in PSTN and VoIP systems
+7C5DAA0E	Vulnerability analysis and best practices for adopting IP telephony in critical infrastructure sectors
+8002C16A	Sparse telephone gateway for internet telephony
+80218377	Towards High Quality VoIP in 3G Networks - An Empirical Study
+81726E2D	Allowing bit errors in speech over wireless LANs
+7AC4C70F	Voice transmission over IEEE 802.11 networks: main issues and restrictions
+7E93EE04	Do Low Rate DoS Attacks Affect QoS Sensitive VoIP Traffic?
+7E0BBE50	VoIP Intrusion Detection Through Interacting Protocol State Machines
+7ECFB93B	The Design of an Active VoIP Security Defense Model Based on Dynamic Self-Adaptive Diffluence
+7F6DAD9F	Performance of FMIPv6-based cross-layer handover for supporting mobile VoIP in WiMAX networks
+7FC9EC9D	Assessment of voice over IP as a solution for voice over ADSL
+7DD076E8	Experimental VoIP capacity measurements for 802.11b WLANs
+80A16C8A	Evaluating semantic warnings in VoIP programmable services with open source environment
+7A45B865	Lab experiment vs. crowdsourcing: a comparative user study on Skype call quality
+7E57BF31	Application-Aware Design to Enhance System Efficiency for VoIP Services in BWA Networks
+7FBB867F	Seamless Handover and Security Solution for Real-Time Services
+5FC59087	Performance Optimization of VoIP using an Overlay Network
+7BEE35FF	Performance Analysis of Uplink Scheduling Algorithms for VoIP Services in the IEEEE 802.16e OFDMA System
+7F3BF319	Using optimization to achieve efficient quality of service in voice over IP networks
+803D103C	Broadband services provision in powerline communications of developing countries
+5E9EC7FB	Peer-to-Peer VoIP communications using anonymisation overlay networks
+8024F21C	Research of a Service Monitoring System Based on SIP in Hybrid Network
+5FCAE67F	Empirical observations of traffic patterns in mobile and IP telephony
+752AFECD	Contention-free approaches for WiFi MAC design for VoIP services: performance analysis and comparison
+806C7DA6	Impact of aggregation headers on aggregating small MSDUs in 802.11n WLANs
+7D2537BC	Detection of SIP De-Registration and Call-Disruption Attacks Using a Retransmission Mechanism and a Countermeasure Scheme
+7934D339	Analysis of Correlation between Sleep Interval Length and Jitter Buffer Size for QoS of IPTV and VoIP Audio Service over Mobile WiMax
+7E766C26	VoIP mobility in IP/cellular network internetworking
+805927FD	Traffic aggregation based SIP over MPLS network architecture
+7F0765AA	Improving QoS of VoWLAN via Cross-Layer-Based Adaptive Approach
+5F683EDE	Analyzing Voice-over-IP Subjective Quality as a Function of Network QoS: A Simulation-Based Methodology and Tool
+77E6A2FC	A Practical Method for Improving Delay Performance of Time Slot Allocation in DVB-RCS
+7D6244A7	Decreasing distortion using low delay codes for bursty packet loss channels
+7741A0BD	Voice over IP signaling: H.323 and beyond
+805EBCD3	Quick Detection of Stealthy SIP Flooding Attacks in VoIP Networks
+5CC80A36	Performance Studies of MPLS Based Integrated Architecture for 3G-WLAN Scenarios with QoS Provisioning
+752D6D4D	VoIP deregulation in South Africa: Implications for underserviced areas
+8008C736	VoIP: making secure calls and maintaining high call quality
+816994D9	Recognizing voice over IP: a robust front-end for speech recognition on the world wide web
+5478B992	Heavy-tail and voice over internet protocol traffic: queueing analysis for performance evaluation
+7D40003B	Analysis of on-off patterns in VoIP and their effect on voice traffic aggregation
+5B9F2967	Softspeak: Making VoIP Play Well in Existing 802.11 Deployments
+7F7BC44E	Hybrid Robust Header Compression in Proxy Mobile IPv6 over Wireless Mesh Networks
+7F6F9A21	Optimization technique for configuring IEEE 802.11b access point parameters to improve VoIP performance
+0289E6CB	Toward a new perspective of Secure Real-Time Transport Protocol with Active networks
+7F54C937	A practical architecture for implementing end-to-end QoS in an IP network
+5EA8CFAD	Improved Fast Handovers for Mobile IPv6 over IEEE 802.16e Network
+76416E7D	RESEARCH ON THE ALGORITHM FOR IDENTIFYING VOIP SESSION
+7AD58AB1	VoIP end-to-end performance in HSPA with packet age aided HSDPA scheduling
+80BF746D	A Framework for Detecting Anomalies in VoIP Networks
+7EB16941	The study of mobile Internet telephony
+7EDB09FF	Integrating traffic aggregation mechanism into SIP based IP telephony over MPLS network
+5A233A76	Managing Risks at Runtime in VoIP Networks and Services
+7619646B	Multimedia applications over metropolitan area networks (MANs)
+77F56FF8	Can the current generation of wireless mesh networks compete with cellular voice?
+7AE11221	A dependable privacy protection for end-to-end VoIP via Elliptic-Curve Diffie-Hellman and dynamic key changes
+8178EBF1	Performance Evaluation of Quality of VoIP Service Over UMTS-UTRAN R99
+59794D5D	QoE Assessment of VoIP in Next Generation Networks
+7BF2A83A	Capture and Analysis of Malicious Traffic in VoIP Environments Using a Low Interaction Honeypot
+7FB07E59	A high level service creation environment for Parlay in a SIP environment
+7EB067F8	PCP: An End-to-End Measurement-Based Call Admission Control for Real-Time Services over IP Networks
+6DEBF7DA	Reliable Voice-Based Transactions over VoIP Communications
+8051DAA9	A Dynamic Mobility Management Scheme for VoIP Services
+5AD2B953	QoS-aware end-to-end adaptive congestion detection and control for VoIP
+5B31E116	An OSPF based load sensitive QoS routing algorithm using alternate paths
+80FF74D5	Two layer Denial of Service prevention on SIP VoIP infrastructures
+5A2F4F8D	A ROBUST AND EFFICIENT SIP AUTHENTICATION SCHEME
+778A9EF1	Objective quality analysis of a Voice over Internet Protocol system
+7E08F455	SIP: Ringing timer support for INVITE Client Transaction
+7EF240AB	Voice capacity analysis of WLANS with channel access prioritizing mechanisms
+7DA31ADA	VoIP Capacity over Multiple IEEE 802.11 WLANs
+796EECE0	Radio resource management strategy for VoIP service in TD-HSDPA system
+7F667C32	Policies and conflicts in call control
+7DF83C78	Can I add a VoIP call?
+7CF64C41	Objective Assessment Methodology for Estimating Conversational Quality in VoIP
+7FCEED10	Experience with modularity in an advanced teleconferencing service deployment
+8133D5AC	Improving Quality of VoIP Streams over WiMax
+7EBE0956	A Side Information Based Packet Loss Recovery Algorithm in VoIP
+7ECD3E51	Performance measurement over Mobile WiMAX/IEEE 802.16e network
+7E1F3F6C	Performance Prediction for OFDMA Systems with Dynamic Power and Subcarrier Allocation
+7DBE5D4A	Uplink VoIP Delays in IEEE 802.16e Using Different ertPS Resumption Mechanisms
+7F107395	Improving the transcoding capability of speech coders
+7F82D21B	Ontologies to Support Call Control Policies
+7F023626	A SIP-Based Mobility Management Architecture Supporting TCP with Handoff Optimization
+7E11B96B	Services for internet telephony
+7DAE0070	PA-SIP: A Privacy-Aware SIP for VoIP over WMNs
+7FA2D2BA	Capacity of packetized voice services over time-shared wireless packet data channels
+7E194D18	Adaptive Rate Control for VoIP in Wireless Ad Hoc Networks
+80060C40	QoS/QoE Measurement System Implemented on Cellular Phone for NGN
+81064F98	Adaptive Speech Quality Management in Voice-over-IP Communications
+7D820EBF	Voice-Over-IP Performance in UTRA Long Term Evolution Downlink
+7BC7DC99	An optimal power-saving class II for VoIP traffic and its performance evaluations in IEEE 802.16e
+7FA28856	Idle mode for deep power save in IEEE 802.11 WLANs
+7D7F5EB7	The Study of the SIP for the VoIP
+6DA51A7B	Detecting Ringing-Based DoS Attacks on VoIP Proxy Servers
+5E27EE9D	Critical analysis and new perspective for securing voice networks
+7F7F7CE4	Impact of wireless telecommunications standards and regulation on the evolution of wireless technologies and services over Internet protocol
+78A12D98	Accurate resource estimation for generalized VoIP sources
+7FBD5DD3	Probabilistic delay guarantees using delay distribution measurement
+8054C9C0	Self-Configuring Multi-hop Ad-Hoc Wireless Telephony for Small Enterprises
+7F9053C4	iPTT: peer-to-peer push-to-talk for VoIP
+80CA3D06	Analysis of Retry Limit for Supporting VoIP in IEEE 802.11e EDCA WLANs
+7F203572	A WLAN handoff scheme based on selective channel scan using pre-collected AP information for VoIP application
+75182472	Symphony: synchronous two-phase rate and power control in 802.11 wlans
+7EC0ED44	Performance monitoring of individual VoIP flows on DiffServ networks
+7AB33B2D	Security Analysis of Voice-over-IP Protocols
+7F8052C7	A Quantitative Study of Mobility Impact for Real-Time Services on a Wi-Fi Multi-hop Network
+7E1DF5E6	Conditional Vector Quantization for Speech Coding
+7973375D	VoIP over Wi-Fi Networks: Performance Analysis and Acceleration Algorithms
+81670AE0	Adaptive Voice Spam Control with User Behavior Analysis
+7E6E031F	Quality of service provisioning for VoIP applications with policy-enabled differentiated services
+80AA8562	An efficient relay node selection scheme to improve the performance of P2P-based VoIP applications in Chinese internet
+7E73F38C	Failure insensitive routing for ensuring service availability
+7ED89510	Simulation and Optimization of SPIT Detection Frameworks
+7D01AAC4	Voice over the internet: A tutorial discussing problems and solutions associated with alternative transport
+7DAEA624	ARQ parameters for VoIP in IEEE 802.16 networks
+7E39C375	mSIP: Extension of SIP for Soft Handover with Bicasting
+7F702784	How to tune VoIP codec selection in WLANs?
+7A16BFAB	A Study of Ten Popular Android Mobile VoIP Applications: Are the Communications Encrypted?
+7EFE0982	Providing response identity and authentication in IP telephony
+7DF99263	Performance of VoIP with Mobility in UTRA Long Term Evolution
+5E8FAE98	Internet Telephony: Costs, Pricing, and Policy
+7F39AB72	Capacity Improvement of Wireless LAN VoIP using Distributed Transmission Scheduling
+6DBCE199	A Mechanism for Ensuring the Validity and Accuracy of the Billing Services in IP Telephony
+58E323D6	Bandwidth efficient AMR operation for VoIP
+7DC0D454	SIP signaling and QoS for VoIP over IPv6 DVB-RCS satellite networks
+7E951C8D	Adaptive playout scheduling and loss concealment for voice communication over IP networks
+812B3794	A Study of Control Plane Stability with Retry Traffic : Comparison of Hard- and Soft-State Protocols
+79E9F5F9	Reconfiguration-aware real-time scheduling under QoS constraint
+7E3250AB	Alternative schemes for proactive IP recovery
+7D57D837	Evaluating the perceived quality of infrastructure-less VoIP
+75A3E948	SOVoIP: middleware for universal VoIP connectivity
+778BA47F	Co-designing a Billing System for Voice Services in RuralSouth Africa: Lessons Learned
+7D716869	Handover management based on the number of data frame retransmissions for VoWLAN
+6D91F0EA	M/G/∞ transience, and its applications to overload detection
+596DAD59	Transmission of VoIP traffic in multihop ad hoc IEEE 802.11b networks: experimental results
+7DBD8A23	Call Processing Language (CPL): A Language for User Control of Internet Telephony Services
+805680F9	Vulnerabilities in SOHO VoIP gateways
+6F386EC3	Assessing network readiness for IP telephony
+80CEC43A	Multiple WNIC-based handoff in IEEE 802.11 WLANs
+7B903CA8	Anti-vamming trust enforcement in peer-to-peer VoIP networks
+7D5B6538	On the impact of soft vertical handoff on optimal voice admission control in PCF-based WLANs loosely coupled to 3G networks
+759D5797	A single round-trip SIP authentication scheme for Voice over Internet Protocol using smart card
+757C666D	Comparison and optimization of packet loss repair methods on VoIP perceived quality under bursty loss
+74884E60	Lawful Interception in P2P-Based VoIP Systems
+7E80BCF8	V2 over IP: telecom service application and operational architecture to support video and voice
+75994D2A	IEEE 802.11e enhancement for voice service
+7F8B1175	The delay-friendliness of TCP for real-time traffic
+7FF589F3	QoE model driven for network services
+5A82F00C	Comparative analysis on security techniques in VoIP environment
+7A74859E	An Optimization Technique for Improved VoIP Performance over Wireless LAN
+7A96023B	An empirical study of the use of visually enhanced voip audio conferencing: the case of IEAC
+7EDB77D9	Delay Analysis of IEEE 802.11e EDCA Under Unsaturated Conditions
+7E500579	100+ VoIP Calls on 802.11b: The Power of Combining Voice Frame Aggregation and Uplink-Downlink Bandwidth Control in Wireless LANs
+7F40FD09	Efficient and scalable charging systems for IP multimedia networks
+7F44E4C4	Evolution of mean opinion Score due to handover events in IEEE 802.11 WLAN networks
+7EF83489	VoIP support using group resource allocation based on the UMB system
+80E47EC5	Heuristic algorithms for server allocation in distributed VoIP conferencing
+71AADC31	Performance of VoIP applications in a simple differentiated services network architecture
+806CAFF8	Modelling and verification of interworking between SIP and H.323
+7DB4F8D6	Reduced-delay mixing of compressed speech signals for VoIP and cellular telephony
+0B7FCB41	Internet Telephony: Architecture and Protocols
+76872626	An overlay and distributed approach to node mobility in multi-access wireless networks
+80FED0F2	A CSI and Rate-Distortion Based Packet Loss Recovery Algorithm for VoIP
+0887F944	Supporting VBR VoIP Traffic in IEEE 802.11 WLAN in PCF Mode
+7E8C4F22	Multicast Power Control for VoIP in Mobile WiMAX
+7EEEAF03	Dynamic VoIP codec selection on smartphones
+7D578921	E 2 VoIP 2 : Energy efficient voice over IP privacy
+810BB703	A Holistic Study of VoIP Session Quality - The Knobs that Control
+804C10CC	A traffic aggregation and differentiation scheme for enhanced QoS in IEEE 802.11-based Wireless Mesh Networks
+7D7172EE	Perceptual-Based Playout Mechanisms for Multi-Stream Voice over IP Networks
+7E6ED1DF	A client‐side design and implementation for push to talk over cellular service
+7D206938	Performance evaluation of a WiMAX testbed under VoIP traffic
+7DD715BD	VoIP Scheduling Algorithm for AMR Speech Codec in IEEE 802.16e/m System
+7585EE08	Application of evolutionary algorithms in detection of SIP based flooding attacks
+5C195EA6	Energy efficient sleep interval decision method considering delay constraint for VoIP traffic
+59A6DAF1	무선 멀티 홉 네트워크에서 VoIP 서비스를 위한 효율적인 패킷 결합 기법
+7FC70AF8	A Low Latency Handoff Algorithm for Voice over IP Traffics in the Next Generation Packet-Based Cellular Networks: Cellular Mobile IPv6
+7F6054CA	A Performance Summary of the Evolved 3G (E-UTRA) for Voice Over Internet and Best Effort Traffic
+7F08E039	Detection and Comparison of RTP and Skype Traffic and Performance
+7944D193	A Web services based framework for voice over IP
+78E5DC23	A Taxonomy of Internet Telephony Applications
+7A92FD67	SHIP: Cross-layer mobility management scheme based on Session Initiation Protocol and Host Identity Protocol
+80854C45	Enhanced adaptive playout scheduling and loss concealment techniques for Voice over IP networks
+79468588	Analysis and Study of IP Telephony Traffic Characteristics over Next Generation Network with NGN Carrier's Case Study
+80C3EDC0	Topology-aided cross-layer fast handoff designs for IEEE 802.11/mobile IP environments
+802FEFB1	An Efficient Scheduling Scheme for HSDPA System in Mixed Traffic Environments
+7D2D1AB4	Fast handoff for seamless wireless mesh networks
+8061DF3D	Quality Internet Telephony
+804AF37B	Statistical Voice Activity Detection Using Low-Variance Spectrum Estimation and an Adaptive Threshold
+7E33E04B	A new MAC scheme for very high-speed WLANs
+7F01AC6A	A New Dynamic Self-adaptive Diffluence Algorithm for VoIP Gateway of Intelligrid
+81092CCE	Internet telephony gateway location
+767F5EB9	Plaintext transmission over Session Initiation Protocol
+7FD6BE85	Multipoint Interactive Communication for Peer to Peer Environments
+7F02BF49	Utilization of SIP Contact Header for Reducing the Load on Proxy Servers in FoIP Application
+025B47E4	SPRT for SPIT: using the sequential probability ratio test for spam in VoIP prevention
+801B0E81	Novel multiple access protocol for voice over IP in wireless LAN
+5ED7662C	New Management Methods for Feature and Preference Interactions
+7D4028A5	Using dynamic PCF to improve the capacity for VoIP traffic in IEEE 802.11 networks
+804FC264	Progressive multi gray-leveling: a voice spam protection algorithm
+5E9C2A2C	Analyzing of MOS and Codec Selection for Voice over IP Technology
+7D5CFEFC	Modeling and Performance Analysis of Telephony Gateway REgistration Protocol
+75A9F695	Assessing and Redesigning Enterprise Networks through NS-2 to Support VoIP
+75613E24	Efficient and stateless deployment of VoIP services
+7D678209	Application-layer mobility support for streaming real-time media
+7DFFE2C1	A low level frame prioritize scheme for VoIP QoS improvement over wireless links
+0895A9B7	Online Detection of Feature Interactions of CPL Services
+788E7ADD	Assessment of objective voice quality over best-effort networks
+7D803863	QoS evaluation of VoIP end-points
+8136CA16	IP Telephony Development and Performance over IEEE 802.11g WLAN
+801D7296	A low-complexity doubletalk detector for acoustic echo cancellers in packet-based telephony
+7721530E	Performance analysis of secure session initiation protocol based VoIP networks
+7E5F918B	Protecting SIP-Based Networks and Services from Unwanted Communications
+7DBAC7AC	The Communications Assistance for Law Enforcement Act (CALEA)
+7FB97B9E	A Novel Optimized Scheduler to Provide QoS for Video IP Telephony over Wireless Networks
+7D30738A	Paving the first mile for QoS-dependent applications and appliances
+8028C7C9	Downlink Performance for Mixed Web/VoIP Traffic in 1xEVDO Revision A Networks
+7EB1B3B5	Analysis of voice capacity in IEEE 802.11 Wireless LANs with/without data traffic
+7F5038EF	Using Call Patterns to Detect Unwanted Communication Callers
+7CE4C6D9	An Adaptive FEC based Error Control Algorithm for VoIP
+7CC9A64B	Efficient De-Jitter Control for Voice Applications over Wireless Ad Hoc Networks
+029C9CBE	E-model improvement for speech quality evaluation including codecs tandeming
+5E57CF43	Implementation considerations in a SIP based secure voice over IP network
+7DD4F5B7	How Well Does JXTA Fit Peer-to-Peer SIP?
+790145A5	Cost‐quality based consumer perception analysis of voice over Internet protocol (VoIP) in India
+7D03F9B8	Towards energy efficient VoIP over wireless LANs
+8045AAA2	Uplink Capacity of VoIP on HSUPA
+7839BC52	IP multimedia subsystem testbed using open source elements
+59AFBF73	End-to-End Delay Behavior in the Internet
+8083CE1C	Principle and Performance of TTI Bundling For VoIP in LTE FDD Mode
+7EF6E410	Source-driven packet marking for speech transmission over differentiated-services networks
+7F503F50	An efficient approach for NAT traversal problem on security of voice over internet protocol
+7D2CCE8B	Exploiting and Defending Opportunistic Scheduling in Cellular Data Networks
+7D327F9A	Improving the latency of 802.11 hand-offs using neighbor graphs
+7DEB9C38	Performance of VoIP on HSDPA
+7D2B8036	Detailed Analysis of Skype Traffic
+81107924	Throughput performance of a wireless VoIP model with packet aggregation in IEEE 802.11
+0B57F8AC	Feature Interaction in Internet Telephony
+80755186	Performance studies of VoIP over Ethernet LANs
+7DED933F	SmartTunnel: Achieving Reliability in the Internet
+7E89AD97	Voice over IPsec: analysis and solutions
+80E56436	Enhanced Scanning Scheme for Delay-Constrained Fast Handoff in IEEE 802.11 WLANs
+7CD7CACC	A comparison of front-ends for bitstream-based ASR over IP
+7D763231	Overview on VoIP: Subjective and Objective Measurement Methods
+7E0D4BC1	Perceived Quality of Packet Audio under Bursty Losses
+7EBC726B	Proactive Handover in Heterogeneous Networks Using SIPs
+5D01CF63	Developing Robust VoIP Router Honeypots Using Device Fingerprints.
+8013AFC8	Seamless SIP-based mobility for multimedia applications
+804A2B61	Investigating factors influencing QoS of Internet phone
+7CB1EC70	Wiretapping via Mimicry: Short Voice Imitation Man-in-the-Middle Attacks on Crypto Phones
+04EA0DA9	An Investigation into the Effect of Security on Performance in a VoIP Network
+81682BC1	The EMA system: a CTI based e-mail alerting service
+7E57E203	Simplified link reliability enhancement schemes for wireless networks
+77417F8E	Analysis of Skype VoIP traffic in UMTS: End-to-end QoS and QoE measurements
+8115DC89	Evolution of the Codebook Technique for Automatic Fault Localization
+80841AF4	Performance evaluation of the architecture for end-to-end quality-of-service provisioning
+7E01B4CD	SIP intrusion detection and prevention: recommendations and prototype implementation
+7F14F166	VoIP Under the EU Regulatory Framework: Preventing Foreclosure?
+7D4F9594	AN IMPROVED PACKET LOSS RECOVERY IN VOIP USING COMBINED SOURCE AND RECEIVER BASED TECHNIQUE
+8057CD15	Introducing QoS mechanisms into the IPsec packet processing
+80D5198E	Extended-rtPS+ considering characteristics of VoIP codecs in Mobile WiMAX
+6011C74A	Peer-to-peer communication across network address translators
+801955C5	Efficient residential consumer device interaction with network services
+7E6DF7F6	Evaluating overflow probability for voice over internet protocol buffer dimensioning
+8019D587	An Online Risk Management Strategy for VoIP Enterprise Infrastructures
+828381CE	Performance comparision of secure and insecure VoIP environments
+8045D7E4	A call admission control framework for voice over WLANs
+79BCCF32	Uncovering Spoken Phrases in Encrypted Voice over IP Conversations
+7CDEE7FF	VoIP speech quality estimation in a mixed context with genetic programming
+08639F7A	Transporting User Control Information in SIP REGISTER Payloads
+772B83E6	Efficient mapping of multiple VoIP vocoders in WiMAX systems
+7758011B	Statistical Aspects of the Analysis of Data Networks
+7EAF07DD	A Novel Application-layer Relay Strategy for Low Delay P2P SIP VoIP System
+7DD2A9AF	A Comparative Study of Bandwidth Requirements of VoIP Codecs over WiMAX Access Networks
+7FA8B3A8	P2P-Based VoIP QoS Management in Heterogeneous Networks
+76558AAF	Leveraging digital backchannels to enhance user experience in electronically mediated communication
+7CF0DB67	Sketch-Based SIP Flooding Detection Using Hellinger Distance
+80009258	A comparison study of automatic speech quality assessors sensitive to packet loss burstiness
+813BA468	SIP-based enterprise converged networks for voice/video-over-IP: implementation and evaluation of components
+7A8711C5	Mobility impact on the end-to-end delay performance for VoIP over LTE
+7E67CCD5	Modeling PCS networks under general call holding time and cell residence time distributions
+7F3D7EE3	Voice capacity of IEEE 802.11b, 802.11a and 802.11g wireless LANs
+6EC35316	Performance Modeling of Wireless Voice over IP
+8090D764	Fast and scalable wireless handoffs in supports of mobile Internet audio
+800A2FE1	Improved packet loss recovery using late frames for prediction-based speech coders
+050F1410	GPON, the Ultimate Pertinent of Next Generation Triple-play Bandwidth Resolution
+7F10BAEB	Reducing the signalling overhead for wireless VoIP transmission using weighted prioritisation
+7D903BED	Mobile IP as an Enabling Technology for VoIP in Metropolitan Wireless Mesh Networks
+7F0DEE9E	SCTP based Handover Mechanism for VoIP over IEEE 802.11b Wireless LAN with Heterogeneous Transmission Rates
+5E518C07	Distributed algorithms and protocols for scalable internet telephony
+7D3C5F65	ITU-T G.711.1: extending G.711 to higher-quality wideband speech
+7D31881F	Quality of service and new architectures for future telecommunications networks
+80E0ED3F	Proxy-based Security for the Session Initiation Protocol (SIP)
+7D74FFAC	A Provider-Level Reputation System for Assessing the Quality of SPIT Mitigation Algorithms
+7C8BDE40	Accurate modeling of VoIP traffic QoS parameters in current and future networks with multifractal and Markov Models
+7D6D8A2C	On understanding transient interdomain routing failures
+7DFBE238	Off-Line Password-Guessing Attack to Yang's and Huang's Authentication Schemes for Session Initiation Protocol
+7D6B2BA8	A framework for protecting a SIP-based infrastructure against malformed message attacks
+7F165C51	Improving VoIP Call Capacity of Multi-Hop Wireless Networks through Self-Controlled Frame Aggregation
+7CAB5EF8	Secure and usable P2P VoIP for mobile devices
+7DA6642A	Performance evaluation of VoIP over 3G-WLAN interworking system
+7EB3E3AF	Simulation and modeling of packet loss on VoIP traffic: a power-law model
+7F232663	A new optimum jitter protection for conversational VoIP
+7A3F28E3	Proactive resource provisioning
+7F88127A	A teleconferencing system with high-speed stream mixing for voice over IP
+8172B176	Review of AMR speech codec-and distributed speech recognition-based speech-enabled services
+09C48F71	A perceptual quality model intended for adaptive VoIP applications: Research Articles
+7E40A3AE	Reliability and relay selection in peer-to-peer communication systems
+801C71B0	Smart resource allocation algorithm considering voice activity for VoIP services in mobile-WiMAX system
+08F0A0F7	Critical voice network security analysis and new approach for securing Voice over IP Communications
+7CFD113B	Performance analysis of voice transfer using multi-transceiver optical communication structures
+80A58351	Mobility management alternatives for migration to mobile Internet session-based services
+7C7A82C5	A SIP-oriented SPIT Management Framework
+7E42986F	A Theoretical Model of the Effects of Losses and Delays on the Performance of SIP
+7E62495E	Sender Scorecards for the prevention of unsolicited communication
+7E2B26EF	Statistical Testing of Off-line Comparative Subjective Evaluations for Optimizing Perceptual Conversational Quality in VoIP
+792A1641	On-the-fly coding for real-time applications
+75CF7119	Comparing technological hype cycles: Towards a theory
+812DDDB8	Spot Me if You Can: Uncovering Spoken Phrases in Encrypted VoIP Conversations
+7AEF1B44	QOE-driven mobility management — Integrating the users' quality perception into network — Level decision making
+7D3A85F7	Hierarchical clustering as an approach for supporting P2P SIP sessions in ubiquitous environments
+75CE9B3E	Design of SIP transformation server for efficient media negotiation
+800B8B14	Objective evaluation of voice clarity measurements for VoIP compression algorithms
+809257FC	A Novel Idle Mode Operation in IEEE 802.11 WLANs
+7DBDF1D8	A border-friendly, non-overlay mechanism for inter-domain QoS support in the Internet
+8045F6B6	Fast Detection of Path Failures in an Autonomous Decentralized System
+7FA11DAC	Efficient Signaling for VoIP in OFDMA
+7DDB7218	Application Layer Packet Merging to Improve Call Capacity in a 802.11 Based Intercom
+589123F6	Capacity Allocation for Voice over IP Networks Using Maximum Waiting Time Models
+800C491B	SCTP: state of the art in research, products, and technical challenges
+7E27AD3A	Impact of VoIP and QoS on Open and Distance Learning
+81607AEA	VoIP in 3G networks: an end-to-end quality of service analysis
+8069A46D	A scalable distributed VoIP conferencing using SIP
+5CC5B3B3	Secure Fast Handover in an Open Broadband Access Network using Kerberos-style Tickets
+7F6A420D	Experimental evaluation of asymmetric QoS in IEEE 802.11g wireless networks
+7EA68905	Probe-based end-to-end overload control for networks of SIP servers
+7F18C0E1	Modeling Resource Sharing Dynamics of VoIP Users over a WLAN Using a Game-Theoretic Approach
+7F54CDC6	Coding with side information techniques for LSF reconstruction in voice over IP
+775E7309	Survey of IPX (IP eXchange) as an Emerging International Interconnection between Telecommunication Networks
+79B99DA4	Fuzzy packet size control for delay sensitive traffic in ad hoc networks
+802B99FE	Quality effects of wireless VoIP using security solutions
+76ABA5C3	Stateful Virtual Proxy for SIP Message Flooding Attack Detection
+7EA923E4	Reactive Handover Optimization in IPv6-Based Mobile Networks
+7DA7CE14	Performance and scalability of M/M/c based queuing model of the SIP Proxy Server - a practical approach
+8141C222	Optimization of VoIP session setup delay over wireless links using SIP
+77B67245	Socio-technical defense against voice spamming
+7F8693AE	Efficient host-independent coprocessor architecture for speech coding algorithms
+7CF16961	Seamless Streaming Transfer Method between Devices within Mobile Personal Area Networks
+7FA1ECA3	SIP and 802.21 for Service Mobility and Pro-active Authentication
+801D5B97	A Framework for VoIP Speech Data Generation Using Asterisk
+7E0086A5	IDC: An Energy Efficient Communication Scheme for Connected Mobile Platforms
+7DB20CA8	Location-based communication services
+8074C4BE	Monitoring jitter and packet loss in VoIP networks using speech quality features
+817A37A8	DMQR: A spatial routing protocol to enable VoIP over high-mobility wireless multihop networks
+5F551CD1	SIP and mobile IP integration to support seamless mobility
+7FFEF792	VoIP Network Forensic Patterns
+7A79F203	Audio codec identification from coded and transcoded audios
+77CE3201	End-to-end testing of IP QoS mechanisms
+7D8C7099	Peer-to-peer overlays for real-time communication: security issues and solutions
+7D5CAE14	Improving the R-score of an adaptive VoIP codec in IEEE 802.16 networks
+7EB2DD38	ASR System Integration with Asterisk for SIP or IAX Softphone Clients
+7CA1BF73	Blocking attacks on SIP VoIP proxies caused by external processing
+7F8F3E47	Design and performance evaluation of service overlay networks topologies
+7F74DD38	Rapid Detection of Constant-Packet-Rate Flows
+7D272D21	A Security Model for VoIP Steganography
+80B76D48	User Satisfaction Based Resource Allocation in Future Heterogeneous Wireless Networks
+6296AB67	A secure archive for Voice-over-IP conversations
+7F2A6CA1	Study of enhanced VoIP performance under congested wireless network scenarios
+0A1D5989	Chapter 4 - Multimedia Services over Wireless Metropolitan Area Networks
+7EC74C62	Evaluating P2PSIP under Attack: An Emulative Study
+8080F635	Covert channel detection in VoIP streams
+7D763352	Voice-quality monitoring and control for VoIP
+80403E0C	Characterization and Comparison of Skype Behavior in Wired and Wireless Network Scenarios
+7DAF1CB7	Experimental investigation on VoIP performance and the resource utilization in 802.11b WLANs
+77455AFB	Getting SIP endpoints and network call control to work well together
+80508BA5	Redundant bundling in TCP to reduce perceived latency for time-dependent thin streams
+8173E768	Implementation of QoS-Provisioning system for voice over IP
+7D007780	Security analysis and solutions for deploying IP telephony in the critical infrastructure
+7FF5F63A	Software Rejuvenation for Higher Levels of VoIP Availability and Mean Time to Failure
+7E0E16FA	A fast MAC layer handoff protocol for WiFi-based wireless networks
+7CF0DF09	The impact of QoS support on the end user satisfaction in LTE networks with mixed traffic
+5E9AB41C	SIP Trunking the route to the new VoIP services
+7E9AACF3	Optimization of IEEE 802.11e Access Class Parameters with Cross-layer Approach
+7EF98CB6	ECHoP2P: Emergency call handling over peer-to-peer overlays
+586288E9	Analysing the characteristics of VoIP traffic
+814E9D21	Dimensioning token bucket policers for various voice-over ip applications using real-scenario measurements
+7F85CC90	Capacity Analysis of Supporting VoIP in IEEE 802.11e EDCA WLANs
+7EC188C3	ASPF: Adaptive anti-SPIT Policy-based Framework
+7EDCBE0B	Asterisk VoIP private branch exchange
+755BCB07	Internet telephony and modem delay
+7F428B42	An Adaptive Receiver Buffer Adjust Algorithm for Voice a Video on IP Applications
+770F6AAF	Balancing uplink and downlink delay of VoIP traffic in WLANs using Adaptive Priority Control (APC)
+803D780C	VORAL: a system for Voice over IP Routing in Application Layer
+6DA609C6	Voice over IP End-to-End Delay Measurements
+7F16539D	A seamless handoff scheme with new AP module for wireless LANs support VoIP
+80204C52	A SIP Security Testing Framework
+7E08A9BE	An Overlay Architecture for High-Quality VoIP Streams
+7F61CCA9	VoIP over DVB-RCS Satellite Systems: A Novel Capacity Request Mechanism for Improved Voice Activity Detection
+7D662126	Gauging VoIP call quality from 802.11 WLAN resource usage
+7F5D6340	Cross-layer optimization of hybrid satellite network over the Amazonian region
+7D99BDD2	Evaluation of SIP Signaling and QoS for VoIP over Satellite Networks
+7FA70E2D	A Service Provider's Approach for Improving Performance of Aggregate Voice-over-IP Traffic
+7FC4B424	Load Control for VoIP over HSDPA in Mixed Traffic Scenarios
+7EACC709	Networking Africa: a case for VoIP
+7D2FE127	Techniques for performance improvement of VoIP applications
+7F094AFE	Performance Evaluation of VoIP Services using Different CODECs over a UMTS Network
+80AF71E2	Multimedia services interoperability in next-generation networks for the residential environment
+80A81B26	Prototyping a P2P SIP User Agent with Support for Multiple Overlays
+7688B060	System of Quality monitoring for IP Telephony Services
+80CD7059	An integrated call agent of the converged VoIP network
+77838AEC	Moving toward end-to-end support for handoffs across heterogeneous telephony systems on dual-mode mobile devices
+7F2BDC95	An Approach for Downlink VoIP Capacity Estimation in OFDM-Based FDD Networks
+82124724	Fusion of Disruptive Technologies:: Lessons from the Skype Case
+7935E6D8	Modeling and performance evaluation of transport protocols for firewall control
+7EE44142	A VoIP emergency services architecture and prototype
+7D98CB6C	A Cross-Layer Fast Handover Scheme For Mobile WiMAX
+76926CA0	IEEE 802.11 Load Balancing: An Approach for QoS Enhancement
+5A74FF79	Using context informations to avoid service interactions in IP telephony
+7D892077	Comparison of SIP and H.323 Protocols
+750E01B4	Qos-aware channel scheduling for multi-radio/multi-channel wireless mesh networks
+7FE762D2	Experimental analysis of VoIP call quality support in IEEE 802.11 DCF
+7A5C00EE	VoIP at the crossroads: A critical overview of feasible European regulatory models
+802827B3	Impact of Wireless Channel on VoIP QoS and Admission Regions in IEEE 802.11g WLANs
+7E04A76E	Fast local rerouting for handling transient link failures
+80FBDB08	It's Talk, But Not as We Know It: Using VoIP to Communicate in War Games
+5F57102B	Carrier grade voice over IP
+68D21273	Mobility management for VoIP in 3G systems: evaluation of low-latency handoff schemes
+7D0E539A	HMM delay prediction technique for VoIP
+797F4098	ROHC and aggregated VoIP over fixed WiMAX: An empirical evaluation
+7903EBD2	Black-box approach for testing quality of service in case of security incidents on the example of a SIP-based VoIP service: work in progress
+7E107F40	Feedback-Free Early VoIP Quality Adaptation Scheme in Next Generation Networks
+7F6CED0C	Dynamic Class-based Control for Improving Perceived Voice Quality
+808D1DD3	A comparative study of the SIP and IAX VoIP protocols
+7E856849	Efficient Search Algorithms in the Presence of Measurement Uncertainty
+7E070C86	Friendly coexistence of voice and data traffic in IEEE 802.11 WLANs
+5D08820F	Real-time, non-intrusive evaluation of VoIP
+77B37AB3	Conjoint analysis of demand for IP telephony: the case of Japan
+812D0277	A QoS-aware congestion control mechanism for DCCP
+7DBB4993	Voice over IP service and performance in satellite networks
+09978BFE	Modeling of Packet Loss and Delay and Their Effect on Real-Time Multimedia Service Quality
+7E9D1694	Voice performance in WLAN networks - an experimental study
+7FA33BC1	QoS Constrained VoIP Scheduling in 1xEV-DO
+80F7AF5F	Principle and Performance of Semi-Persistent Scheduling for VoIP in LTE System
+7D35A58A	Wireless VoIP Adaptive Source Rate Control Algorithm
+7DF2E01F	Practical performance evaluation of VoWLAN handover based on frame retries
+7748EA34	Evaluating the influence of multiplexing schemes and buffer implementation on perceived VoIP conversation quality
+80C2FAE0	Adaptive Rate Control for Aggregated VoIP Traffic
+7FA55814	Comparison of QoS performance between IPv6 QoS management model and IntServ and DiffServ QoS models
+76F8288D	VoIP over cdma2000 1xEV-DO revision A
+7E2D5937	Optimization of a link adaptation algorithm for voice over wireless LAN applications
+7D08A66B	A new method for VoIP quality of service control use combined adaptive sender rate and priority marking
+7D5EA34A	Differentiation of traffic on access networks
+7DBEEF1D	An overlay based QoS-aware voice-over-IP conferencing system
+810FF5F5	Development of a VoIP system implementing a high quality packet loss concealment technique
+7F13748D	M.: User-Perceived Quality Assessment for VoIP Applications
+80840F9E	VoIP capacity analysis in IEEE 802.11 WLAN
+8146C4E0	Endpoint admission control enhanced systems for VoIP networks
+758297ED	Adaptive time scale modification of speech for graceful degrading voice quality in congested networks for VoIP applications
+7F9E947A	Queueing analysis of simple FEC schemes for IP telephony
+00811A07	METHODS FOR DESIGNING INTERNET TELEPHONY SERVICES WITH FEWER FEATURE INTERACTIONS
+7E5AA4CA	Packet Voice Rate Adaptation Through Perceptual Frame Discarding
+80634078	On exploiting the on-off characteristics of human speech to conserve energy for the downlink VoIP in WiMAX systems
+7DBE63CC	A measurement-free admission control for the IP telephony service over DiffServ-based networks
+7D0117DC	Mixed traffic packet scheduling in UTRAN Long Term Evolution Downlink
+792A7152	Finding "Who Is Talking to Whom" in VoIP Networks via Progressive Stream Clustering
+75BB9230	Best Approach for Video Codec Selection Over VoIP Conversation Using Wireless Local Area Network
+598CFBBF	Evaluating and improving firewalls for ip-telephony environments
+804B936F	Analysis of a “/0” Stealth Scan From a Botnet
+8162DDE6	Advanced Mechanisms for Sleep Mode Optimization of VoIP Traffic over IEEE 802.16m
+6EE16307	Attack modeling of SIP-Oriented SPIT
+7A034DF8	A detection method of subliminal channel based on VoIP communication
+7CA87CB8	Mobile Call Authentication using Near Field Communication-based Smart Cards for Proof of Identity towards a Company
+7E243170	MAC Scheduling Scheme for VoIP Traffic Service in 3G LTE
+7F15B843	Self-Regulation of E911 for VoIP: Lessons for the Cable Industry from Environmental Voluntary Agreements
+7F3CE4A8	Implementation and evaluation of a mobile tetherless VoIP/PSTN gateway
+8096E3E7	A MOS-Based Routing Approach for Wireless Mesh Networks
+81656415	A MAC Queue Aggregation Scheme for VoIP Transmission in WLAN
+7F52F15A	An approach of QoS library redirection method for DiffServ in Microsoft Windows systems
+5EF7D983	A network architecture based on market principles
+76752455	An objective-oriented service model for VoIP overlay networks over DiffServ/MPLS networks
+163D16A8	VoIP Networks Monitoring and Intrusion Detection
+7CCC6D4F	Internet telephony signaling
+044E902A	Centralized Conferencing using SIP
+7F66027B	Cryptanalysis of a data security protection scheme for VoIP
+05985573	A technology independent security gateway for real-time multimedia communication
+80BD743B	Autonomous load balancing anycast routing for wireless mesh networks: VoIP call support
+063B51E9	Charging algorithm for quality-based VoIP charging mechanism
+6E870075	Prediction of perceived conversational speech quality and effects of playout buffer algorithms
+7C6F9234	Security analysis of VoIP architecture for identifying SIP vulnerabilities
+77F81AE8	The Triumphant Consumer? VoIP, “Little Smart,” and Telecom Service Reform in China
+6C56E0EF	A lightweight scheme for securely and reliably locating SIP users
+81670C60	Field performance evaluation of VoIP in 4G trials
+80B6007E	Enhancing Performance of VoIP over HSDPA
+7F4BD2C4	VoIP call admission control for last mile Wireless Mesh Networks
+7067A072	Architectural Framework for Using Java Servlets in a SIP Environment
+7D860F40	An empirical evaluation of VoIP playout buffer dimensioning in Skype, Google talk, and MSN Messenger
+80C531D1	Exploring Adaptive Power Saving Schemes for Mobile VoIP Devices in IEEE 802.11 Networks
+7F669F7F	Perceptual QoS assessment technologies for VoIP
+78081613	Vice over IP
+7FCE6FB9	An application-quality-based mobility management scheme
+5D3E69F5	Convergence and new regulatory frameworks: A comparative study of regulatory approaches to Internet telephony
+5A49C911	Covert Channels in SIP for VoIP signalling
+753D4784	Non-intrusive single-ended speech quality assessment in VoIP
+76AE261B	Wireline deregulation: The Canadian experience
+7EC2AEBA	ASAP: an AS-Aware Peer-Relay Protocol for High Quality VoIP
+5B17649D	A Forward-Backward Voice Packet Loss Concealment Algorithm for Multimedia over IP Network Services
+79AFB277	Measuring the performance of VoIP over Wireless LAN
+7E937EA5	Study and Design of QoS-Based VoIP over Wireless LAN
+06CF93BC	Accessible Voice CAPTCHAs for Internet Telephony
+7EA35993	A Comparative Study of VoIP Standards with Asterisk
+812D1526	Conversational Model Based VoIP Traffic Generation
+78A954C7	Vehicular networks and the future of the mobile internet
+7A977774	STEM: Secure Telephony Enabled Middlebox
+771472F7	Intra-flow loss recovery and control for VoIP
+7E9FFB2E	IEEE 802.11n MAC Enhancement and Performance Evaluation
+7EA1EF77	Quality assessment of interactive voice applications
+764A1F39	Improving QoS of IPTV and VoIP over IEEE 802.11n
+7F9F345D	The well-tempered conversation: interactivity, delay and perceptual VoIP quality
+7F9CCC59	Non Disruptive Data Services Towards Real-Time Traffic in Wireless Ad Hoc Networks
+5D740C8D	A multiplex-multicast scheme that improves system capacity of voice-over-IP on wireless LAN by 100%
+815204C7	Revealing the Calling History of SIP VoIP Systems by Timing Attacks
+7D9DBF94	Cognition Change from Skype Internet Phone User by Qualitative Perspectives
+7F2B42F0	VoIP Capacity Allocation Using an Adaptive Voice Packetization Server in IEEE 802.11 WLANs
+7A5925AC	Real time implementation of Elliptic Curve Cryptography over a open source VoIP server
+7FB7593A	Security in the New Era of Telecommunication: Threats, Risks and Controls of VoIP
+7D3C13A5	VoIP Service Performance Optimization in Pre-IEEE 802.11S Wireless Mesh Networks
+0283D89F	PARAMETRIC SIMULATION OF IMPAIRMENTS CAUSED BY TELEPHONE AND VOICE OVER IP NETWORK TRANSMISSION
+7F2D9D5C	Improving Triple Play Services Using Multi Protocol Label Switching Technology
+7F8F5DB9	Design of a PI Rate Controller for Mitigating SIP Overload
+7E8EB006	An E-model implementation for speech quality evaluation in VoIP systems
+59821969	Information Leakage in Ubiquitous Voice-over-IP Communications
+79E235FF	Providing emergency services in Internet telephony
+7F97C84D	Advantages of VoIP in the German research network
+80212CDD	Packet scheduling for Voice over IP over HSDPA in mixed traffic scenarios with different end-to-end delay budgets
+7F79C506	Advanced Flooding Attack on a SIP Server
+80BA0708	A Novel Distributed Wireless VoIP Server Based on SIP
+7FC34975	Using conference servers for sip-based vertical handoff between ip and cellular networks
+80952A2A	Speech Quality Measurement Methods with Applying PLC Algorithms on Real-time Transmission Control Scheme for VoIP Service
+7562F9C5	Audio CAPTCHA: Existing solutions assessment and a new implementation for VoIP telephony
+7D6C5094	A Session-Based Management Architecture for QoS Assurance to VoIP Applications on Wireless Access Networks
+7DC90F9C	TE-SIP server design for a SIP-over-MPLS based network
+7B9ADFEC	Integrated mobility and resource management for cross-network resource sharing in heterogeneous wireless networks using traffic offload policies
+7CFA3EBE	The Village Telco project: a reliable and practical wireless mesh telephony infrastructure
+741789FD	A secure QoS proposal for vehicular networks
+5E16775F	VAD for VoIP Using Cepstrum
+7EB6B65B	Joint pre-echo control and frame erasure concealment for VoIP audio codecs
+76B15792	Internet telephony: going like crazy
+5C5B69BC	International Standards for VoIP
+69D7055C	Monitoring the Effects of Temporal Clipping on VoIP Speech Quality
+7CE99366	Distributed adaptive diverse routing for voice-over-IP in service overlay networks
+80173038	An Aggregative Approach for Scalable Detection of DoS Attacks
+7F9D305C	Call Admission Control in IEEE 802.11 WLANs Using QP-CAT
+7D0BCD94	VoIP Malware: Attack Tool & Attack Scenarios
+75C463D0	The changing usage of a mature campus-wide wireless network
+8137E369	Explaining the Impact of Network Transport Protocols on SIP Proxy Performance
+78FFD5E5	IP Multimedia Subsystem (IMS) signaling core security
+79D676C6	Speaker recognition from encrypted VoIP communications
+7EC1D669	A Highly Adaptive Acoustic Echo Cancellation Solution for VoIP Conferencing Systems
+7E57122D	MEOW with CATS: multimedia extensions over wireless with CTS-assisted transmission scheme
+80710113	Handover Management for VoWLAN Based on Estimation of AP Queue Length and Frame Retries
+807CCE7B	IP fast reroute with failure inferencing
+7FE765D3	An enhanced uplink scheduling algorithm based on voice activity for VoIP services in IEEE 802.16d/e system
+805DAA30	Scheduling and Link Adaptations for VoIP in TDD-LTE Uplink
+7CFC28FA	Jitter Buffer Analysis
+7EEBC587	TCP Enhancement in IEEE 802.11e Wireless Networks
+7A5E5F6D	The diffusion of IP telephony and vendors' commercialisation strategies
+81A78D93	Probe-based end-to-end overload control for networks of SIP servers
+8082BB3A	Where packet traces meet speech samples: an instrumental approach to perceptual QoS evaluation of VoIP
+8145FA2E	A Cross-Layer Analysis of Session Setup Delay in IP Multimedia Subsystem (IMS) With EV-DO Wireless Transmission
+79EE0B9A	A DTN mode for reliable internet telephony
+7D33B188	Voice Capacity Analysis and Enhancement in Wireless LAN
+7FC7F232	The Session Initiation Protocol: Providing advanced telephony services across the Internet
+7BD74D7C	Analyzing and Modeling Workload Characteristics in a Multiservice IP Network
+7FCC6228	Model and Algorithm of Tencent's Voice Service Identification Based on SAT: Session Association Technology
+758E5A65	Voice over IP: improving the quality over wireless LAN by adopting a booster mechanism: an experimental approach
+7692F68A	Design and implementation of the push-to-talk service in ad hoc VoIP network
+7A08914B	Analysis of link failures in an IP backbone
+7891D2F2	A study on switching voice traffic seamlessly between GSM and GPRS cellular networks
+75D4C62A	Speech perception benefits of internet versus conventional telephony for hearing-impaired individuals.
+80F44105	Neural and fuzzy computation techniques for playout delay adaptation in VoIP networks
+78308A48	Integration of call signaling and resource management for IP telephony
+7EC21A9A	Towards junking the PBX: deploying IP telephony
+7DFE8AE4	Management of VoWLAN security parameters using a QoS tool
+5D6676B8	Towards Mobile Agent Based Provision of Voice over IP Services
+79677EDE	IP telephony in the enterprise network: comparing operating costs of PSTN and IP network
+762BDDCD	Real-time voice communication over the internet using packet path diversity
+80DBB73F	On the influence of best-effort network conditions on the perceived speech quality of VoIP connections
+762C7302	On the anonymity and traceability of peer-to-peer VoIP calls
+7E923534	Stream authentication scheme for the use over the IP telephony
+7F025DB5	Improving the Speech Quality of VoIP by Packet Prioritization
+7F9AEC8C	Performance Evaluation of Traffic Mix in IP Based Networks
+80985997	QoS-Factor Transmission Control Mechanism for Voice over IP Network based on RTCP-XR Scheme
+773890D0	Defense against SPIT using community signals
+5F4A30AE	Threat assessment of IP based voice systems
+80F6B73A	Improving Quality of Service for Voice-Over-IP Using Routing Diversity
+7E6207F9	VAD techniques for real-time speech transmission on the Internet
+7DDB03E8	Denial of service attacks targeting a SIP VoIP infrastructure: attack scenarios and prevention mechanisms
+800E7ACC	Partial update PNLMS algorithm for network echo cancellation
+7F41D3AC	On the impact of loss and delay variation on Internet packet audio transmission
+7E282140	Adaptive playout scheduling for multi-stream voice over IP networks
+7D96155C	Capacity of an IEEE 802.11b wireless LAN supporting VoIP
+8097B005	Proactive Traffic Engineering for IEEE 802.11 Mobile Wireless Networks
+7CDEADCA	An Accelerated IEEE 802.11 Handoff Process Based on the Dynamic Cluster Chain Method
+58440BE3	E-Scribe: ubiquitous real-time speech transcription for the hearing-impaired
+806EBE42	A Research on Telephone-Supported Multimodal Accessible Website
+0CC8E328	Service quality assurance mechanisms for P2P SIP VoIP
+5F9DAE5D	VoIP — Panacea or PIG's Ear?
+7EBB6D29	Effective VoIP call routing in WLAN and cellular integration
+7D0CCC7A	Wireless Access Point Voice Capacity Analysis and Enhancement Based on Clients' Spatial Distribution
+7F3E1E31	Capacity of VoIP Services in TDD OFDMA System with Different Delay Requirements
+7F495543	Detecting DoS attacks on SIP systems
+7EADB818	A simple neural framework for bandwidth reservation of VoIP communications in cost-effective devices
+7CF49E83	You can SPIT, but you can't hide: Spammer identification in telephony networks
+7D853ABA	Mitigating interference in a network measurement service
+761B5F2A	Voice transmission over ad hoc network adapting optimum approaches to maximize the performance
+78BD4BA7	A definition of convergence in the area of information and telecommunication technologies
+5B8B0E80	Implementing Voice over IP
+776B3F37	Call admission control for voice over IP
+7DE589C8	Transformation-based reconstruction for real-time voice transmissions over the Internet
+6FF3092D	A passive method for monitoring voice-over-IP call quality with ITU-T objective speech quality measurement methods
+7EAB13AC	Detection of Resource-Drained Attacks on SIP-Based Wireless VoIP Networks
+77ADB830	A survey on fraud and service misuse in voice over IP (VoIP) networks
+7DAE3673	Latent state models of primary user behavior for opportunistic spectrum access
+7F26860F	Voice call capacity model for hybrid multi-channel protocol over multi-hop multi-channel multi-radio wireless mesh networks
+7E7C83FB	Embedded system architecture for an WLAN-based dual mode mobile phone
+7EAF124B	Multiple description speech coding for robust communication over lossy packet networks
+7D9579A8	Enabling cooperation of consumer devices through peer-to-peer overlays
+7AAB8D1A	Empirical analysis of the single-radio mesh architecture: performance limitations and challenges
+7EE2A5FA	Scheduling constant bit rate flows in data over cable networks
+7B91023A	Mitigation of Flooding Based Denial of Service Attack against Session Initiation Protocol Based VoIP System
+5F66AC38	Voice logging and search technology in IP telephony call center
+812A924B	Multiparty Voice over IP (MVoIP) Peer-Based System for Large-Scale Conference Support
+773F990C	Tracking Skype VoIP Calls Over The Internet
+7E0A0260	Performance optimization of VoIP calls over wireless links using H.323 protocol
+7CF3D2F1	VoIProtect: A Layered Security Architecture
+7DD59732	Predictive Path Switching Control for Improving the Quality of Service in Real-Time Applications
+810CA474	Echo cancellation of FXO line card expansion
+7FA5C823	A genetic algorithm approach for voice quality prediction
+8032545E	Federal standard 2.4 kbps MELP over IP
+7BF96E76	Providing voice connectivity to rural India using WiMAX: issues and solution
+7ED1B792	Is machine learning losing the battle to produce transportable signatures against VoIP traffic?
+7FBC7AA0	Monitoring the user perceived quality of SILK-based voice calls
+7B5B74A1	Active queue management in DOCSIS 3.1 networks
+81551C13	VPN Analysis and New Perspective for Securing Voice over VPN Networks
+75C5A049	A QoS Improvement for Voice over Mobile IPv4 (Mobile VoIPv4)
+7DBA1B7B	VoIP over WLAN: voice capacity, admission control, QoS, and MAC
+7E0E89EE	Enhanced MAC Protocol for Voice Communication in IEEE 802.11 WLAN
+7F9D0969	Lightweight Piggybacking for Packet Loss Recovery in Internet Telephony
+593FF0E7	Delay bounds for voice over IP calls transported over satellite access networks
+7F88D9F2	Carrier Class High Density VoIP Media Gateway using Hardware Software Distributed Architecture
+770B25E5	Convivo communicator: An interface‐adaptive VoIP system for poor quality networks
+80D4CD1C	On traffic characteristics and user experience of Skype video call
+6F2A3A40	Performance Analysis of Scheduling Algorithms for VoIP Services in IEEE 802.16e Systems
+81796F47	Towards scalable end-to-end QoS provision for VoIP applications
+817793D0	QoS for inter-WLAN IP mobility with high speed accessed network server
+7F5F852D	An architecture for the integration of Internet and telecommunication services
+79830445	Critical vpn security analysis and new approach for securing voip communications over vpn networks
+7EFD0BB9	SIP authentication based on HOTP
+7D3EC453	Uncertainty Evaluation of Objective Speech Quality Measurement in VoIP Systems
+58352CFA	A Peer-to-Peer Secure VoIP Architecture
+5DA94864	Anti-run-dry algorithm for optimal control of playoutbuffers
+7EA9B9D9	Call Admission Control and Traffic Engineering of VoIP
+80D4733F	A programmable architecture for the provision of hybrid services
+7F274EEF	Tandem voice communications: digital cellular, VoIP, and voice over Wi-Fi
+7E964867	Analysis of SIP Transfer Delay in Multi-Rate Wireless Networks
+7D06C793	Performance analysis of audio codecs over real-time transmission protocol (RTP) for voice services over Internet protocol
+7FA7D3EB	Selecting an audio redundancy codec combination for error control in Internet telephony
+7FD918C6	NAT Issues in the Remote Management of Home Network Devices
+6A1445D2	Using PARLAY APIs over a SIP system in a distributed service platform for carrier grade multimedia services
+7DC897B2	A study on SIP session timer for wireless VoIP
+7572B464	Obscuring users' identity in VoIP/IMS environments
+7E73762E	Packet loss concealment in a secure voice over IP environment
+7DD7E477	Fast IP handoff support for VoIP and multimedia applications in 802.11 WLANs
+7F108B08	VoIP and IPTV distribution over wireless mesh networks in indoor environment
+77349122	An information theoretic framework for predictive channel reservation in VoIP over GPRS
+81613A60	High Capacity VoIP Services in 802.11 Networks
+804CDE16	A qualitative study in consumer behavior of Skype internet phone
+7951E715	Packet-E-Model: e-model for VoIP quality evaluation
+76C22CB6	Selective packet dropping for VoIP and TCP flows
+7AF2CBCB	Task Dependency of User Perceived Utility in Autonomic VoIP Systems
+7D7D8306	Practical Performance Evaluation of Peer-to-Peer Internet Telephony Using SIP
+7DB58880	An Experimental Comparison of Burst Packet Transmission Schemes in IEEE 802.11-Based Wireless Mesh Networks
+7D6DEB86	Exploiting the flexibility of MAC layer in WiMAX networks for improved data and VoIP traffic
+756C1A6E	Secure VoIP architecture based on honeypot technology
+8044AE26	QoS control using an end-point CPU capability detector in a secure VoIP system
+81741F4C	A Teletraffic Perspective on Relay-Node Selection Strategy in VoP2P System
+7C6CB221	Experiments with SIP over TLS in an NG-9-1-1 testbed
+77062A4A	The packet-based networks performance requirements for real-time facsimile transmission
+80BA6FD9	The design of multimedia Web-based phone and billing system with freeware over the VoIP network
+8137E6B7	Sync & Sense: VoIP Measurement Methodology for Assessing One-Way Delay Without Clock Synchronization
+7E0A26B3	Quantifying the quality of service of streaming media in differentiated services networks
+79250463	Using decision trees for generating adaptive SPIT signatures
+7EB22B0A	Design and implementation of a measurement and alert system of QoS parameters in SIP based Internet telephony
+6D2165A8	Improving VoIP quality through path switching
+79C93005	A comparison of VoIP performance over three routing protocols for IEEE 802.11s-based wireless mesh networks (wlan mesh)
+7BCD4EB8	Creating value added services in Internet telephony: an overview and a case study on a high-level service creation environment
+79E211A8	Modeling and analysis of value added services using message sequence charts
+7A87B931	Measuring the perceptual quality of Skype sources
+7785E2DD	Speaker verification from partially encrypted compressed speech for forensic investigation
+7ECD38FC	Statistical Characterization of QoS Aspects Arising from the Transport of Skype VoIP Flows
+7F261727	SINR-Based Routing in Multi-Hop Wireless Networks to Improve VoIP Applications Support
+5BF5FA23	A Secured Authentication Protocol for SIP Using Elliptic Curves Cryptography
+781A3E2C	Performance problems of VoIP in 802.11 wireless mesh networks & their solutions
+7EE33847	Voice over IP - considerations for a next generation architecture
+77CEBA1B	Playout buffering in ip telephony: a survey discussing problems and approaches
+802F7931	Replication in Overlay Networks: A Multi-objective Optimization Approach
+5ADF7587	A Hybrid, Stateful and Cross-Protocol Intrusion Detection System for Converged Applications
+8152CAB9	Analysis of the Scalability of the Overlay Skype System
+80155C11	An Efficient Channel Scan Scheduling Algorithm for VoIP Handoffs in WLANs
+7802F9F0	Understanding network delay changes caused by routing events
+7CAC0C68	Single-message denial-of-service attacks against voice-over-internet protocol terminals
+7FD24901	QoS Provisioning Method for Downstream VoIP Service Flows in HFC Networks
+7A6D02AA	VoIP Performance over HSPA with Different VoIP Clients
+7F7100F1	On Serving Cell Change Reliability in HSDPA Network
+7ACF9470	A call admission and rate control scheme for multimedia support over IEEE 802.11 wireless LANs
+5B7BF3DE	Aggregate Traffic Models for VoIP Applications
+81630C60	Dynamic peer-to-peer overlays for voice systems
+7D95918C	Performance Comparison of Control-Less Scheduling Policies for VoIP in LTE UL
+7DBB1FB9	Supporting NGNs Core Software Services: A Hybrid Architecture and its Performance Analysis
+7FDADF29	Performance analysis of identity management in the Session Initiation Protocol (SIP)
+7F1D0EAF	Real-Time Service Migration for Voice over IP Services
+793C2353	Digital logic based encoding strategies for steganography on voice-over-IP
+7EE87CF2	A QoE based service control scheme for RACF in IP-based FMC networks
+80B0F04C	A New Algorithm for Resource Manager to Enhance the Quality of Service in VoIP Systems
+7EA6F036	Understanding VoIP from Backbone Measurements
+7B5DE76D	A cross layer scheme for maximising the combination of wireless VoIP capacity and quality
+7DB65373	A cross-layer mechanism for QoS improvements in VoIP over multi-rate WLAN networks
+80EA9469	Improvement on Network Capacity for Voice Services over HCCA
+7E305BD7	QoS enabled voice support in the next generation Internet: issues, existing approaches and challenges
+7E03F6EF	Risk management in VoIP infrastructures using support vector machines
+78813073	Herd: A Scalable, Traffic Analysis Resistant Anonymity Network for VoIP Systems
+7ED335AE	Assessing voice quality in packet-based telephony
+75ED319F	Empirical evaluation of VoIP aggregation over a fixed WiMAX testbed
+7E60E536	A Waiting-Time Dependent Backoff Algorithm for QoS Enhancement of Voice over WLAN
+7E91834C	Impact of link failures on VoIP performance
+808F423C	Evaluation of Transport Services for VoIP
+80F233CC	Silence detection in secure P2P VoIP multiconferencing
+80B7F6AF	QoS-driven adaptive congestion control for voice over IP in multiservice wireless cellular networks
+7C2AD11F	Realizing mobile wireless Internet telephony and streaming multimedia testbed
+811275EA	Using Queuing Network to Evaluate IXP2400 Based VoIP SPS
+7F02AA54	Using cross-layer metrics to improve the performance of end-to-end handover mechanisms
+7CDE5DCC	Misuse patterns in VoIP
+75D2EB80	Using Transcoding for Hidden Communication in IP Telephony
+7A2E21F0	Enterprise network maintaining mobility – architectural model of services delivery
+81697CCA	A QoS-based indoor wireless data network design for VoIP applications
+7B371FB1	Modeling the QoE of Rate Changes in Skype/SILK VoIP Calls
+660CEC87	A Voice Spam Filter to Clean Subscribers’ Mailbox
+7F6F64A3	On the Importance of a VoIP Packet
+78DEBFA0	Towards High Quality VoIP in 3G Networks An Empirical Approach
+812A382D	Speech quality prediction in VoIP using the extended E-model
+5FA828FA	Voice capacity in IEEE 802.11 networks
+5F971C88	Study on appropriate voice data length of IP packets for VoIP network adjustment
+817904DE	Different Approaches of interworking between SIP and H.323
+7CB6CAA8	Application Oriented Flow Routing Algorithm for VoIP Overlay Networks
+590A8D05	Availability Analysis of an IMS-Based VoIP Network System
+7F16B5B3	Enhancing low speed network performance for voice over internet protocol
+5C048F0D	Codec Schemes Selection for Wireless Voice over IP (VoIP)
+7FAAA2F2	SoftMAC: Layer 2.5 Collaborative MAC for Multimedia Support in Multihop Wireless Networks
+8027E5FF	Simulation of SPIT Filtering: Quantitative Evaluation of Parameter Tuning
+59E4D84C	Real-Time Audio Quality Evaluation for Adaptive Multimedia Protocols
+7CD4F8C8	Enhancing VoIP service for ubiquitous communication in a campus WLAN with partial coverage
+7ED0B30D	Self Similarity Analysis and Modeling of VoIP Traffic under Wireless Heterogeneous Network Environment
+7ED4B960	Performance of VoIP over Multiple Co-Located IEEE 802.11 Wireless LANs
+7563A392	VoIP Security — Attacks and Solutions
+8037BA76	Performance comparisons of transport protocols for session initiation protocol signaling
+739B4C32	Using location information for sophisticated emergency call management
+7E8CE715	An Effective Channel Control Algorithm for Integrated IPTV Services Over DOCSIS CATV Networks
+7DDEFE10	QoS control by means of COPS to support SIP-based applications
+7E7042C4	SIP Network Design to Prevent Congestion Caused by Disaster
+5D288C7B	An Improved Bandwidth-Use Method on IEEE 802.11e Standard over Wireless LAN
+7D335FFC	Admission control for VoIP calls with heterogeneous codecs
+76A57C39	QoS based performance analysis of VoWLAN for emergency calls using QualNet
+7D2109D6	Pricing for the multi-service networks
+7E552161	Enhancing MAC IEEE 802.16 Voice Support with Statistical Multiple Access for UMTS Integration
+750E4249	Detecting feature interactions in CPL
+77EDC932	Optimum VoIP packet routing using a communications processor
+80FB4CEA	Hardware-fitted modeling and simulation of VoIP over a wireless LAN
+7E1119E4	Mobile Internet telephony: mobility extension to H.323
+76D2B21C	Identity federation for voip-based services
+760A9578	Carrier VoIP Security Architecture
+800D216C	VoIP encryption module for securing privacy
+81355019	Determining Host Location on the Internet: The Case of VoIP Emergency Calls
+74CDC404	Integrating packet FEC into adaptive voice playout buffer algorithms on the Internet
+7D913998	Mobility management for VoIP: evaluation of mobile IP-based protocols
+7FDB47DB	Scheduling of VoIP traffic over a time-shared wireless packet data channel
+7E49F284	On Maximizing VoIP Capacity and Energy Conservation in Multi-Rate WLANs
+8077D440	Next generation policy for the e-communications sector: The role of the end user and technology
+7F010534	Detecting SPIT Calls by Checking Human Communication Patterns
+0C49CC7B	Predicting Internet Telephony Call Setup Delay
+79EC7542	VoIP Quality Measurement System Using Flow Mediation for Large-Scale IP Networks
+5F289DB1	A New Smoothing Jitter Algorithm for Voice over Ad Hoc Networks
+7E6653CA	Playout buffering in IP telephony: a quality maximization approach
+76B0F763	Eliminating handoff latencies in 802.11 WLANs using multiple radios: applications, experience, and evaluation
+7F678912	Call capacity improvement techniques for VoIP over Wireless Mesh Networks
+7A01E667	Interworking internet telephony and wireless telecommunications networks
+792825A7	Empirical tests of anonymous voice over IP
+7E29DC9F	Internet telephony: services, technical challenges, and products
+798AFD2C	Socio-technical aspects of remote media control for a NG9-1-1 system
+8178DDCB	Building blocks for IP telephony
+7F7147D6	Admission control for roadside unit access in Intelligent Transportation Systems
+5B75C743	An architecture framework for measuring and evaluating packet-switched voice
+7FCD235E	A VoIP system for mobility voice security support using the VPN
+7FEBDE34	Research challenges and perspectives of voice over wireless LAN
+7C3A72D0	What are suspicious VoIP delays?
+7D7437B8	Multiplexação adaptativa baseada no e-model para redução do overhead na rede em ligações VoIP sobre IP security mantendo qualidade nas conversações
+794DA730	Securing micropayment transactions over Session Initiation Protocol
+7D30351C	Adaptation of cochlear implant fitting to various telecommunication systems: a proposal for a 'telephone map'
+811D6B75	Voice over IP: the challenges behind the vision
+7D940D89	Experiences with evaluating network QoS for IP telephony
+81403269	An Experimental Evaluation of Voice Quality Over the Datagram Congestion Control Protocol
+7F45F447	Guaranteeing quality of service to packetised voice over the UMTS air interface
+80654BD9	Performance evaluation of telephony routing over IP (TRIP)
+78AD7B9C	A lightweight protection mechanism against signaling attacks in a SIP-based VoIP environment
+78808E91	Collaborative scheme for VoIP traceback
+80B70CAB	Collaborative Reputation-based Voice Spam Filtering
+7C5BB1F7	Bandwidth-delay constrained routing algorithms
+7DE67AE3	A novel prevent-scan Handoff technique for IEEE 802.11 WLANs
+7F53A308	Service learning and service risk management in Internet telephony
+800A731C	Voice over Internet Protocol over IEEE 802.11 Wireless Local Area Networks and effective admission control with transmission interval adaptation
+7CD98760	End-to-end congestion control for TCP-friendly flows with variable packet size
+7FD93F27	A new approach for VoIP traffic characterization
+7C7AD787	Service overlay networks: SLAs, QoS, and bandwidth provisioning
+7E5B38CF	Construction sites communications towards the integration of IP telephony
+7F875DF2	Characterizing residential broadband networks
+5E068C5F	Quality-of-service provisioning for multi-service TDMA mesh networks
+7D89D529	VoIP Performance over Different Interior Gateway Protocols
+8138C0CD	Adaptor-Based Design and Implementation of Peer-to-Peer SIP
+7D8865B9	Performance analysis of VoIP according to relay capability in OFDMA-based systems
+58C68905	Incorporating global positioning data in real time P2P audio/video streams for mobile devices
+75E72EBD	Performance Analysis of Power Saving Class of Type I for Voice Service in Two-Way Communication in IEEE 802.16e
+812D46A3	Capacity estimation of VoIP transmission over WLAN
+5A156D78	A Hybrid Energy Saving Mechanism for VoIP Traffic with Silence Suppression
+80D7907C	Distributed Delay Estimation and Call Admission Control in IEEE 802.11 Wireless LANs
+7DCBB194	A SIP-based medical event monitoring system
+75941F8D	The Broadvoice Speech Coding Algorithm
+7FDB3B00	An intelligent agent-based mobile resource reservation scheme
+80843370	Fast Detection of Denial-of-Service Attacks on IP Telephony
+7F32DEE6	An evaluation of remote communication versus face-to-face in clinical dental education.
+80F50677	Adaptive power loading in OFDM-based WLANs and the resulting performance improvement in voice and data applications
+80A72EFD	A Novel AP for Improving the Performance of Wireless LANs Supporting VoIP
+7550F29B	Implement VoIP Based IP Telephony with Open Source Asterisk Architecture
+7E47C03F	Design and implementation of a SIP-based VoIP architecture
+8123596B	Increasing SIP firewall performance by ruleset size limitation
+7D481D29	NAV (Network Allocation Vector)-Based Differentiation Mechanism for VoWLAN Enhancement
+7DDF11E8	VoIP-based air traffic controller training
+7E0E719C	The capability of the EDCA mechanism to support voice traffic in a mixed voice/data transmission over 802.11e WLANs - an experimental investigation
+7902717F	VoIP Security: Not an Afterthought
+7D009D18	peerTalk: A Peer-to-Peer Multiparty Voice-over-IP System
+7DED516A	Improved mobile PoC registration for CDMA systems
+767861AD	Low-latency handoff inter-WLAN IP mobility with broadband network control
+71600E86	향상된 Multi Gray-Leveling을 통한 VoIP 스팸 탐지 기법
+8158CAEE	Skype Traffic Identification
+757BA39E	Information Hiding in Real-Time VoIP Streams
+7F08BAA0	Novel scheduling algorithms aiming for QoS guarantees for VoIP over HSDPA
+780D9349	Admission control by implicit signaling in support of voice over IP over ADSL
+7CD6D412	Evaluating packet erasure recovery techniques for audio streaming
+7DDC6C4D	Signaling for Internet telephony
+6D221BE0	SPIT Identification Criteria Implementation: Effectiveness and Lessons Learned
+7E9D14A2	On Sliding Window Based Change Point Detection for Hybrid SIP DoS Attack
+58F283C4	Solving interoperability problem of SIP, H.323 and Jingle with a middleware
+816738C7	SOSIMPLE: A Serverless, Standards-based, P2P SIP Communication System
+81022BF6	Scheduling of Multi-Media over 3GPP LTE
+7E8CF889	Routing constraint for VoIP traffic in wireless mesh networks
+7EFAE753	Performance of VoIP with DCCP for Satellite Links
+78FA1A36	VoIP network architectures and QoS strategy
+7DA33657	Analysis and research of association pattern between network performances and faults in voip network
+80A4C873	Playout delay calculations based on truncated Gaussians for Internet Telephony
+7E37E7E0	Electronic Customer Relationship Management for VoIP Service
+7DC9981B	Uplink performance analysis of VoIP services in TDD-OFDMA WiMAX networks
+80BBBEE8	Relay node selection in large-scale VoIP overlay networks
+03BCDE66	PERFORMANCE OF VOIP SERVICES ON A DOCSIS NETWORK TARGETED BY A DENIAL OF SERVICE ATTACK
+810790F2	Bidirectional Packet Aggregation and Coding for VoIP Transmission in Wireless Multi-Hop Networks
+7F03A179	VoIP Quality of Service in Networks with Active Queue Management
+7D82B3B9	Cross-Layer Schemes for Optimization of VoIP Over 802.11e WLAN
+7EDFE07D	SSCS: A Serverless SIP-Based Communication System
+8083F56C	Policing aggregates of voice traffic with the token bucket algorithm
+7FBE3FD4	Context-Aware Mobility Management with Energy Efficiency for Multimedia Streaming Service in Wireless LAN
+7FC6B134	Squeezing 100+ VoIP calls out of 802.11b WLANs
+7E04FB66	Locality-Awareness in BitTorrent-Like P2P Applications
+8000834A	A Multilayered Fusion Method for SPITs Detection
+80344A5B	Low-latency mobile IP handoff for infrastructure-mode wireless LANs
+7FDA3EA9	Communication quality of voice over TCP used for firewall traversal
+7AFE0B69	Experimental Evaluation of Decision Criteria for WLAN Handover: Signal Strength and Frame Retransmission
+7DF6CA6B	Voice over IP quality of service using active queue management
+7726AE33	A G.711 Embedded Wideband Speech Coding for VoIP Conferences
+815F1F2A	VoIP on Wireless Meshes: Models, Algorithms and Evaluation
+7B92870A	A new approach for the prediction of end-to-end performance of multimedia streams
+0BBB77BD	Efficient and Secure Authentication Protocols for Mobile VoIP Communications
+7EC03C6F	Secure voice over Internet Protocol (voIP) using virtual private networks (VPN) and Internet Protocol Security (IPSec)
+79E863E9	Traffic analysis attacks on Skype VoIP calls
+687CD3F9	Convergence in ICT services : emerging regulatory responses to multiple play
+7D87C144	Wireless wakeups revisited: energy management for voip over wi-fi smartphones
+7B76CD90	FORECASTING THE TAIWAN CUSTOMER MARKET FOR INTERNET TELEPHONY
+777040F2	A low overhead scaled equalized harmonic-based voice authentication system
+665B190C	Delay variation model for RTP flows in network with priority queueing
+79A12351	A dynamic IP addressing system for Internet telephony applications
+7F18B6FA	New models for perceived voice quality prediction and their applications in playout buffer optimization for VoIP networks
+7C9317F5	Fair Scheduling for Delay-Sensitive VoIP Traffic
+7F9A61FB	Towards (perceived) latency minimisation in audio-conferencing systems over application-level multicast
+8149D469	Capacity Planning for Voice/Data Traffic in IEEE 802.11e Based Wireless LANs
+7E66E7D2	Framework for Decentralizing Legacy Applications
+79BC3BB8	Economic factors and diffusion of IP telephony: Empirical evidence from an advanced market
+5BDCDF52	SIP Spam Detection
+805878CD	Efficient Semi-Persistent Scheduling for VoIP on EUTRA Downlink
+7DF06F0F	A practical QoS solution to voice over IP in IEEE 802.11 WLANs
+80EF2E7A	Formulation of Distributed Coordination Function of IEEE 802.11 for Asynchronous Networks: Mixed Data Rate and Packet Size
+79D01A30	Tracking anonymous peer-to-peer VoIP calls on the internet
+80D67F3D	VoIP Capacity Analysis of Wireless Multi-Access Networks using Access Selection Schemes
+03A7AFD7	Abnormal traffic detection system of VoIP based on SIP
+72A21AFE	Fractal analysis and modeling of VoIP traffic
+5C1FA007	Estimation of Voice over IP Quality in the Netherlands
+7E0CB8E0	Complementary Resource Allocation for Variable-Size VoIP Packet in E-UTRA
+7E45CE23	E-model supported switching between narrowband and wideband speech quality
+7F4E36CF	VoIP Quality Assessment: Taking Account of the Edge-Device
+7C434A14	LAP: Link-Aware Protection for Improving Performance of Loss and Delay Sensitive Applications in Wireless LANs
+7E6E912B	SIP Vulnerabilities and Anti-SPIT Mechanisms Assessment
+84465E59	Asterisk : the future of telephony
+7AD484D1	An efficient bandwidth management scheme for real-time Internet applications
+5FDD5B1D	Integrating voiceXML with SIP services
+8009BE2A	The WAMI toolkit for developing, deploying, and evaluating web-accessible multimodal interfaces
+7F6A5750	Towards a security policy for VoIP applications
+7E91DF42	Performance Analysis of VoIP Services in the IEEE 802.16e OFDMA System With Inband Signaling
+7DC06CA1	Content-Based Detection and Prevention of Spam over IP Telephony - System Design, Prototype and First Results
+80602008	Reducing Call Setup Latency in Mobile VoIP Systems
+807DFA8C	An evaluation of the performance advantage of DiffServ with respect to voice over IP flows
+8170C344	Offline Text Message Storage and Recovery Based on Inverted Files in Peer-to-Peer Internet Telephony
+78C94E25	Quality of service for voice over IP in networks with congestion avoidance
+7D49B1C6	Interactive conflict detection and resolution for personalized features
+7D339067	Efficient, scalable migration of IP telephony calls for enhanced fault-tolerance
+7EE607F4	Reducing the VoIP packet overhead in UMTS air interface
+7D0758F1	Unstructured Peer-to-Peer Session Initiation Protocol for Mobile Environment
+7BD24CB1	Exploring power saving in 802.11 VoIP wireless links*
+7D0C2FDF	Comparison of VoIP capacity between 3G-LTE and IEEE 802.16m
+79B00E8D	Application-aware scheduling for VoIP in Wireless Mesh Networks
+5CBAC419	The design and implementation of a quality-based handover trigger
+80CCE34F	Evaluation of CRTP performance over cellular radio links
+7BF6386C	An efficient complexity reduction algorithm for G.729 speech codec
+7EEA166E	Streamlining HSUPA TTI Lengths without Compromising HSUPA Capacity
+7DFA8300	Proactive Scan: Fast Handoff with Smart Triggers for 802.11 Wireless LAN
+772D86F5	User-Level Quality Assessment of a Delay-Aware Packet Dropping Scheme for VoIP
+7FAC1B59	On building an Internet gateway for Internet telephony
+78A526D4	EasyVoice: integrating voice synthesis with Skype
+80043CDC	A tool for describing and evaluating hierarchical real-time bus scheduling policies
+7FCDF748	Performance Analysis of VoIP Traffic using various Protocols and Throughput enhancement in WLANs
+7F6B8CAC	VoIP services with embedded CAC over cable modem systems
+76C0ED69	Dynamic resource configuration in DiffServ networks: control plane mechanisms and performance evaluation of a traffic control API
+58C76F8B	Implementing Intelligent Network Services with the Session Initiation Protocol
+7D30089B	VoIP Performance in SIP-Based Vertical Handovers Between WLAN and GPRS/UMTS Networks
+7D0AD5A4	Performance evaluation of real-time schedulers for HCCA function in IEEE 802.11e wireless networks
+7A9D0BCE	Proactive QoS Enhancement Technique for Efficient VoIP Performance over Wireless LAN and Cognitive Radio Network
+81451E2B	Designing cross-layering solutions for wireless networks: a general framework and its application to a voice-over-WiFi scenario
+80D69E67	How green is IP-telephony?
+5FA1BA21	Creative and adaptive responses in technological change
+02633048	SCONE: A Tool to Estimate Shared Congestion Among Internet Paths
+7A1D8890	Securing quality-of-service route discovery in on-demand routing for ad hoc networks
+802C4D3B	Security Challenge and Defense in VoIP Infrastructures
+80F1E1CC	Performance Evaluation of HSDPA Mobility for Voice Over IP
+7FA9EDD1	A novel system for remote control of household devices using digital IP phones
+81246E89	Implementation of a Test-Bed for Telephony over IP: Architectural, Theoretical, and Performance Issues
+805A83AD	vGPRS: A mechanism for voice over GPRS
+7D38A626	Detecting Trustworthy Real-Time Communications Using a Web-of-Trust
+79F9481B	Quality of Experience of Voice Services in Corporate Network
+7B77D4E9	Usable and Secure P2P VoIP for Mobile Use
+800E1E41	Admission control for VoIP traffic in IEEE 802.11 networks
+79E77860	Handling feature interactions in the language for end system services
+800E182A	Dialing for displays: session initiation protocol for opportunistic augmentation
+7F9BFA86	Using P2P Overlay to Improve VoIP Quality in SIP+P2P System
+7721C0E9	On interaction behaviour in telephone conversations under transmission delay
+7D5C5B53	Decoder Initializing Technique for Improving Frame-Erasure Resilience of a CELP Speech Codec
+7E7CE211	A Full-Distributed Architecture for PoC Application in Data Packet Voice Communication
+7E9D297C	A joint design of admission control and transmission rate adaptation for VoIP over wireless network
+5FCF3C82	Capacity Study of Statistical Multiplexing for IP Telephony
+7F41CFE1	Influence of the distribution of TCRTP multiplexed flows on VoIP conversation quality
+7F606E5B	VoIP Honeypot Architecture
+788E953E	P2P/Grid-based overlay architecture to support VoIP services in large-scale IP networks
+7662F6B2	Voice-activity-based vertical handover in 3G-WLAN interworking networks
+7FEB9B3C	Experiences in building a multi-university testbed for research in multimedia communications
+7ECBA3E0	Semantic warnings and feature interaction in Call Processing Language on Internet telephony
+5DB2DBB6	SECURITY ANALYSIS OF SESSION INITIATION PROTOCOL -- A METHODOLOGY BASED ON COLOURED PETRI NETS
+816D69D6	Detecting VoIP-specific Denial-of-Service using change-point method
+5FDB4545	A survey of VoIP intrusions and intrusion detection systems
+78A84BBF	A Garch-based adaptive playout delay algorithm for VoIP
+7C19AEDE	Assessing the risk of intercepting VoIP calls
+80D3AD00	Toward scalable admission control for VoIP networks
+7F20D84F	A scalable coding scheme based on interframe dependency limitation
+7E9C4C36	WS-AMUSE - web service architecture for multimedia services
+750DD764	VoIP over DVB-RCS with QoS and bandwidth on demand
+7DA35DC7	PASS: Peer-Aware Silence Suppression for Internet Voice Conferences
+062051E1	Measurements of Voice over IP Quality
+79A0E0F2	Enhanced packet loss recovery in voice multiplex-multicast based VoIP networks
+7BBB3166	Security challenges for peer-to-peer SIP
+7DC534C5	MS-initiated handover decision criteria for VoIP over IEEE 802.16e
+7F4FC409	Achieving airtime fairness of delay-sensitive applications in multirate IEEE 802.11 wireless LANs
+79FFC689	Queuing analysis of simple FEC schemes for voice over IP
+80656E61	Effects of radio channel characteristics on IEEE 802.11b QoS performance in an outdoor point-to-multipoint configuration
+148F0660	The Design of a Synchronous Virtual Writing Clinic
+7DCC667D	A New P2P File Sharing System Based on the Access Distribution Property
+7D0B66AB	Improving the performance of ITU-T G.729A for VoIP
+7E2CCBA5	Capacity Improvement and Analysis for Voice/Data Traffic over WLANs
+810995C5	CSR: Speaker Recognition from Compressed VoIP Packet Stream
+7E61E08C	Dimensioning links for IP telephony
+8133B075	Quality of VoIP in wireless communication networks
+7D32F652	Packet dispersion and the quality of voice over IP applications in IP networks
+7CB1EED9	QoE/QoS-aware LTE downlink scheduler for VoIP with power saving
+7BA83262	A study on the forensic mechanisms of VoIP attacks: Analysis and digital evidence
+805FBC44	Model-based Simulation of VoIP Network Reconfigurations using Graph Transformation Systems
+7F297807	A comparative study of pricing strategies for IP telephony
+7D25812C	Trust-by-Wire in packet-switched networks: Calling line identification presentation for IP
+80E68516	Seamless VoWLAN handoff management based on estimation of AP queue length and frame retries
+7CF6CF0A	Survey of security vulnerabilities in session initiation protocol
+7B2A513F	Neue Entwicklungen im Bereich dezentraler Voice-over-IP-Netze
+7AE3E351	Measurement of packet loss probability by optimal design of packet probing experiments
+7E2FCE13	Bilateral Waveform Similarity Overlap-and-Add Based Packet Loss Concealment for Voice over IP
+7CF89A96	A COMPREHENSIVE REVIEW ON VOIP OVER WIRELESS LAN NETWORKS
+7995A103	Intrusion Detection System for Denial-of-Service flooding attacks in SIP communication networks
+7DCBCB96	CTI and multimedia applications applied to intelligent networks
+813B0BD0	QoS Routing of VoIP using a Modified Widest-Shortest Routing Algorithm
+7FC2A994	Novel MAC Layer Handoff Schemes for IEEE 802.11 Wireless LANs
+7F5278B2	Packet scheduling to support both of real-time and non-real-time services
+76789C8B	Intrusion detection in voice over IP environments
+78C65F09	A simulation-based methodology and tool for automating the modeling and analysis of voice-over-IP perceptual quality
+7E3D86D5	Wide Area Measurements of Voice Over IP Quality
+7F42FFB5	The performance analysis of SIP-T signaling system in carrier class VoIP network
+8115AD14	Reducing Power Consumption with QoS Constraints in IEEE 802.16e Wireless Networks
+7FDB87C2	A Preliminary Investigation of Skype Traffic Classification Using a Minimalist Feature Set
+7E98588E	Influence of Codecs on Adaptive Jitter Buffer Algorithm
+768C99F1	QoS support between ad hoc networks and fixed IP networks
+79DCD2A2	Quality of Experience of VoIP Service: A Survey of Assessment Approaches and Open Issues
+7E009568	Burst erasure correction codes with low decoding delay
+7F6326B5	Coexistence of VoIP and TCP in wireless multihop networks
+71652C5A	Characterizing packet audio streams from Internet multimedia applications
+7BE62AC2	Integrating communication services
+045F6D5C	Simulation and modeling of packet loss on self-similar VoIP traffic
+78B37016	Integrating SIP and IEEE 802.11e to support handoff and multi-grade QoS for VoIP-over-WLAN applications
+7E5832DF	Quality of service evaluation of VoIP over HSDPA
+7ABA576E	Programming Internet telephony services
+7E63C654	Power saving and delay reduction for supporting WLAN-based fixed-mobile convergence service in smartphone
+7DF8BE1E	Online pairing of VoIP conversations
+0924C847	An Analysis of the MOS under Conditions of Delay, Jitter and Packet Loss and an Analysis of the Impact of Introducing Piggybacking and Reed Solomon FEC for VOIP
+80EABDF6	Performance evaluation of two layered mobility management using mobile IP and session initiation protocol
+7E63C899	Replacement of missing speech parameters using Markov chain estimates
+812E9AC3	The Speech Quality Analysis of Push-to-Talk Services
+7ED52A44	Internet facsimile as an Internet office appliance
+036916A5	Secure IP Telephony using Multi-layered Protection
+5960A6CD	Quality aspects of audio communication
+80116080	Performance management of Java-based SIP application servers
+6408F547	Sender based adaptive VoIP quality improvement using constructive feedback
+7E3369D6	Opinion model for estimating conversational quality of VoIP
+805FB6DE	Scheduling techniques evaluation in LTE systems with mixed data traffic
+7F68072B	Efficient mechanisms for recovering voice packets in the Internet
+80C93297	Interviews via VoIP: Benefits and Disadvantages within a PhD study of SMEs
+7BDBFD8F	Unified Mobility Manager: enabling efficient SIP/UMTS mobile network control
+7D41501B	Effect of rerouting on NGN VoIP quality
+7EDF6B2B	A Dynamic Admission Control Scheme for QoS Supporting in IEEE 802.11e EDCA
+7FAE8AE4	Voice over IP System in an Academic Environment
+813E640F	VoIP: A comprehensive survey on a promising technology
+7ACB88F4	Design and realization of ad-hoc VoIP with embedded p-SIP server
+7F558E8C	An overview of some techniques to exploit VoIP over WLAN
+7D3D073A	Quality of experience evaluation of voice communication systems using affect-based approach
+7F042DF2	An Adaptive Audio Quantizer for Voip Systems
+80B33E85	Study of the Impact of UMTS Best Effort Parameters on QoE of VoIP Services
+7E3F03E9	A Cross-Layer Adaptation for VoIP over Infrastructure Mesh Network
+7B1DD2CD	Steganography and steganalysis in voice-over IP scenarios: operational aspects and first experiences with a new steganalysis tool set
+812D810E	Speech-property-based FEC for Internet telephony applications
+804FF5BB	Locating the Optimal Sleep Window for Enhancing the Energy Efficiency of VoIP in WiMAX Systems: A Modified Analysis Model and Performance Evaluation
+80DCCD52	Delay analysis for IP speech over GPRS
+7F0DCEDB	VoIP Capacity Model for an OFDMA Downlink
+81309448	A user-centric mobility framework for multimedia interactive applications
+7E2C2CE9	The impact of the Internet on telecommunication architectures
+75A53766	Subchannel allocation and mapping algorithms for improving the QoS of VoIP traffic in IEEE 802.16e networks
+7FAFE041	Performance Optimizations for Deploying VoIP Services in Mesh Networks
+7EDE0A55	Mixed Traffic HSDPA scheduling - Impact on VoIP Capacity
+7FCC4F81	Investigating Manet Performance in a VOIP Context
+7EAADBBE	Speech coding methods, standards, and applications
+594DB6E1	A Mobile Agent Based Service Architecture for Internet Telephony
+7E6AD0D8	A framework for the analysis of adaptive voice over IP
+62A4E0BC	An Ontology-Driven antiSPIT Architecture
+7B64D25B	Providing statistical QoS guarantee for voice over IP in the IEEE 802.11 wireless LANs
+7DE4987E	Sip-Based Protocol for P2P Large-Scale Multiparty VoIP (MVoIP) Conference Support
+7FA8C748	RTP Control Protocol Extended Reports (RTCP XR)
+80779CC0	Protecting SIP Proxy Servers from Ringing-Based Denial-of-Service Attacks
+7DEB7CAE	Using Misuse Patterns for VoIP Steganalysis
+764C7E8B	SiFi: exploiting VoIP silence for WiFi energy savings insmart phones
+7DEE92C0	Power management for VoIP over IEEE 802.11 WLAN
+77ABB5BC	Consumer-Oriented Incoming Call Connection Service for a Ubiquitous Consumer Wireless World
+80C854BB	A video-spam detection approach for unprotected multimedia flows based on active networks
+76952449	Regulatory legacy, VoIP adoption, and investment incentives
+7ACE32A7	End-to-end security and seamless handover solution for real-time communications over 3G networks
+79C856BA	On the performance of secure user-centric VoIP communication
+7BBAB9CD	IP telephony network saving capacity due to substitution of PSTN by IP network
+80CC247F	Abusing SIP Authentication
+7E0F2F01	Measurement of Path Redundancy for Protection in Enterprise Networks
+81148705	IMS Network Architecture
+7FC9EB57	QoS performance analysis for VoIP traffic in heterogeneous networks with WiMAX access
+7B0E3750	VoIP: State of art for global connectivity—A critical review
+780C2A37	Developing applications for internet telephony: A case study on the use of web services for conferencing in SIP networks
+805412F1	Perceptive admission control for wireless network quality of service
+7F29AA45	Managing routing disruptions in Internet service provider networks
+75B7C9DC	A simulation study of adaptive voice communications on IP networks
+722A3975	Perceived speech quality prediction for voice over IP-based networks
+7DF1EBF4	Protecting SIP server from CPU-based DoS attacks using history-based IP filtering
+80E5DFE9	Tracking encrypted VoIP calls via robust hashing of network flows
+798FCABA	IP telephony over satellite networks: control of the playout delay to maximize the perceived quality
+7D9076E4	Internet Call Delay on Peer to Peer and Phone to Phone VoIP Network
+7FA0417F	Design and Implementation of 2.4GHz Wireless Skype Phone
+7B242EED	A QoS-aware downlink packet scheduler using token bucket algorithm for LTE systems
+801E6383	Measurements and Analysis of M/M/1 and M/M/c Queuing Models of the SIP Proxy Server
+80885F38	A local coefficient based load sensitive routing protocol for providing QoS
+80775CBB	A Mathematical Model of the Skype VoIP Congestion Control Algorithm
+757F9211	SMS-MIPv6: An End-to-End Mechanism for IPv6 Mobility Management in Mobile Networks
+58A9C279	A Multicast-Based Enterprise VoIP Service Architecture: MEVA
+7E86AB80	Detecting VoIP Floods Using the Hellinger Distance
+771FD4D6	Quality of service (QoS) of voice over MAC protocol 802.11 using ns-2
+814035D4	QoS and Channel-Aware Packet Bundling for Capacity Improvement in Cellular Networks
+5BAE5F5F	Quality aspects of internet telephony
+81126262	Analyzing the QoS of VoIP on SIP in Java
+7E5C9011	Design and Implementation of a Low Cost DNS-Based Load Balancing Solution for the SIP-Based VoIP Service
+7E190BE8	Distant VCR - A Virtual Classroom for Distance Learning
+0212E7B5	Representing New Voice Services and Their Features
+7EC370D0	Audio and Video Conferencing Tools in Learning Management Systems
+7F12DEA5	Policy Support for Call Control
+7A87904A	Rate adaptive speech coding for universal multimedia access
+7ED6D688	Performance of VoIP using DCCP over a DVB-RCS Satellite Network
+7B629EBF	Dynamic adaptive playout algorithm using interarrival jitter and dual use of α
+7CD65F1C	An Improved Packet Loss Concealment Method for Mobile Audio Coding
+7EF193B3	AN EFFICIENT VOICE PRIORITY QUEUE (VPQ) SCHEDULER ARCHITECTURES AND ALGORITHM FOR VOIP OVER WLAN NETWORKS
+7FF2CB89	Applying Speaker Recognition on VoIP Auditing
+77517D51	Playout scheduling and loss-concealments in voip for optimizing conversational voice communication quality
+72242EC6	Proposal of a method of voice stream multiplexing for IP telephony systems
+75EC525A	The Logarithmic Nature of QoE and the Role of the Weber-Fechner Law in QoE Assessment
+7DDF15E2	Erasure-robust speech coding and concealment in VoIP systems with frame packetization
+7EAE8091	Optimizing financial parameters to disincentivise international grey traffic and rationalization of measures to curb illegal international telephony in Pakistan
+7F6B1C15	Performance analysis of decentralized user information management system for peer-to-peer real-time communication services
+7F93000C	Predicting the quality of voice over IP networks
+7874561A	Design and analysis of channel reservation scheme in Cognitive Radio Networks
+7F32F0C6	OmniVoice: a mobile voice solution for small-scale enterprises
+80BDDDBC	ISA: a stand alone intelligent services agent supporting IN/IP integration
+75096E68	VoiceXML dialog system of the multimodal IP-Telephony - The application for voice ordering service
+7F213D42	A protocol for reliable decentralized conferencing
+8056840B	Adaptive VoIP Steganography for Information Hiding within Network Audio Streams
+7EC0D00E	SONDe, a Self-Organizing Object Deployment Algorithm in Large-Scale Dynamic Systems
+78689B90	Synthesis of network delays for voice packets in service overlay networks
+75F52689	Voice service interworking for PSTN and IP networks
+7F9B6B20	Capacity evaluation of VoIP in IEEE 802.11e WLAN environment
+7F496802	Solving the firewall and NAT traversal issues for SIP-based VoIP
+7D57AC01	Efficient Architecture and Handoff Strategy used for VoIP Sessions in SIP Based Wireless Networks
+80AAB3EB	SIP security issues: the SIP authentication procedure and its processing load
+751A9EA8	Wake on wireless: an event driven energy saving strategy for battery operated devices
+7E178D42	A Dependable Global Location Service using Rendezvous on Hierarchic Distributed Hash Tables
+801DA4EE	The Session Initiation Protocol: Internet-centric signaling
+7DA9495F	Enhancing echo cancellation via estimation of delay
+7F699CB4	Exploring Cognition Change of Skype Usage
+8095D642	Assessed quality of service and voice and data integration: A case study
+724E5CD1	Characteristics of network delay and delay jitter and its effect on voice over IP (VoIP)
+7D93C4BB	A Holistic Approach to Open-Source VoIP Security: Preliminary Results from the EUX2010sec Project
+761E946F	Backhaul and Routing Assignments with End-to-End QoS Constraints for Wireless Mesh Networks
+75C857B3	Video Call Traffic Identification based on Bayesian Model
+7E15F6A8	CAC for VoIP Traffic over Wireless Systems with Voice Activity Detection and Background Noise Transmission
+80DDC668	Virtually Dedicated Resource Allocation for VoIP Traffic in the Downlink Mobile WiMAX System With Hybrid ARQ
+7833EF29	An efficient uplink mapping scheme for VoIP services in the IEEE 802.16e OFDMA system
+6B8CB820	Parameter interpolation to enhance the frame erasure robustness of CELP coders in packet networks
+7DED5DC6	Mutual Authentication for SIP: A Semantic Meaning for the SIP Opaque Values
+816C8FEF	VoIP security assessment: methods and tools
+7DF5A444	Design and Characterization of a Wi-Fi Loop Antenna Suitable for in Vivo Experiments
+7F6E98BF	A cross-layer handover management scheme for SIP-based VoWLAN
+7E395CCE	SIP paging and tracking of wireless LAN hosts for VoIP
+7E0D1DAA	Mid-call, multi-party, and multi-device telecommunication features and their interactions
+651E7275	Call Processing Language Framework and Requirements
+7D566F6F	COMPARISONS OF FEC AND CODEC ROBUSTNESS ON VOIP QUALITY AND BANDWIDTH EFFICIENCY
+7D142359	Three topics in parallel communications
+7F38BFBE	Performance tradeoff between mobility and voice quality among different VoIP deployment strategies
+7AAE3573	Evaluation of technological and socio-economic issues affecting the deployment of home networks: evidence from the ICT-OMEGA project
+796F05E4	End-to-end queuing delay assessment in multi-service ip networks
+8065B0B0	A New Security Mechanism for SIP-Based VoIP over WMNs
+7E56A449	Real-Time VoIP Quality Measurement for Mobile Devices
+7F3FE7BA	Abstractions for programming SIP back-to-back user agents
+7E15AB47	DigiParty - a decentralized multi-party video conferencing system
+815D8FB6	On the effectiveness of IEEE 802.11e implementations in real hardware
+7F42F93C	Optimal Allocation of Bandwidth and Power Resources to OFDMA VoIP Channels
+7F993176	A goal-directed and policy-based approach to system management
+7D26C449	Live Network Performance Challenge: FLASH-OFDM vs. HSDPA
+7D496751	Talk burst control for push-to-talk over cellular
+7C26CE3D	A distributed end-to-end overload control mechanism for networks of SIP servers
+637FED49	Statistical inverse problems in active network tomography
+02C0C59A	Security Issues and Solutions for Voice over IP compared to Circuit Switched Networks
+7E4CB5FE	Perceptual codec and interaction aware playout algorithms and quality measurements for VoIP systems
+810FC9A4	User-level performance evaluation of VoIP using ns-2
+7FC44A3C	Empirical performance evaluation of peer-to-peer VoIP telephony using SIP
+80F58DF8	Self-Similarity and Internet Performance
+7D957A2E	A comprehensive simulation study of low latency handoffs in mobile IPv4 for VoiP in IEEE 802.11b WLAN
+7DC3DC6B	A Hierarchical DHT for Fault Tolerant Management in P2P-SIP Networks
+801E82EE	Telerehabilitation: Expanding access to rehabilitation expertise
+80F35A39	Converged Voice Access to Data (CVAD)
+8159CA04	Cross Layer Fast Handoff for SIP
+801B8182	Managing feature interactions between distributed SIP call control services
+7FC18AE6	Design and Architecture of a Portable User Agent in SIP Collaboration Systems
+7BD9ADC4	A policy framework for personalized and role-based SPIT prevention
+7D2AA97F	SIPp-DD: SIP DDoS Flood-Attack Simulation Tool
+815545A5	Hop-by-Hop Frame Aggregation for VoIP on Multi-Hop Wireless Networks
+81061EC6	Protecting SIP against Very Large Flooding DoS Attacks
+7D860163	Impact of Mobility to the VoIP over HSUPA System Level Performance
+7DAB5EA8	SPam over Internet Telephony (SPIT) Prevention Framework
+7DFAFB09	Development of an intelligent VoWLAN services for patient care improvement
+7D393E49	CallRank: Combating SPIT Using Call Duration, Social Networks and Global Reputation �
+8064CB39	Specification-Based Denial-of-Service Detection for SIP Voice-over-IP Networks
+804C82B5	Performance Analysis of Compressed-Domain Automatic Speaker Recognition as a Function of Speech Coding Technique and Bit Rate
+5D5BA24E	A self-managing sip-based ip telephony system based on a P2P approach using Kademlia
+7CFB6558	Mobile intelligent agent technologies to support VoIP seamless mobility
+7F979DDA	Enhanced Call Admission Control for WiMAX networks
+7568E634	A Low Cost VoIP Architecture for Private Networks
+800AEB6B	Link-Based VoIP Aggregation in Mesh Networks
+7F65C192	VoIP over WLANs by Adapting Transmitting Interval and Call Admission Control
+58BC2EC9	Assessment of VoIP quality over access networks
+806E49E7	A Decision Mechanism for Processing Multimodal Services in Future Generation Network
+7E3C0BC0	Analysis of Determinants and Moderator Effects of User Age and Experience for VoIP Acceptance
+7E1768EF	QoS Considerations for HSDPA and Performance Results for Different Services
+7EA415AD	Experimental Study of Voice over IP Services over Broadband Wireless Networks
+5F434A35	A framework for detecting malformed messages in SIP networks
+7D8E2F00	VoIP echo suppression in critical environments
+7FD5CDD2	LTE Coverage Improvement by TTI Bundling
+7FFBC6F8	Mobile health information system integrated with voip technology in a wireless hospital
+7DCBCB60	A Covert Communication Model Based on Least Significant Bits Steganography in Voice over IP
+7D7E8835	QoS Provisioning in IEEE 802.11e WLANs through Reactive Monitoring
+7F90E713	4G as a Next Generation Wireless Network
+7D2DECAC	A Multichannel Scheduler for High-Speed Wireless Backhaul Links with Packet Concatenation
+7FC8871C	Playout buffering of speech packets based on a quality maximization approach
+7E23C091	Enhancing the radio link protocol for VoIP session establishment signalling over satellite-UMTS
+806EECE0	Number of floors for a voice-only conference on packet networks - a conjecture
+7784F371	Telephony's next act
+7D64900A	Autonomic QoS Optimization of Real-Time Internet Audio Using Loss Prediction and Stochastic Control
+7D68690D	Experiences, challenges and lessons from rolling out a rural WiFi mesh network
+06C490A2	VoIP over WLAN: voice capacity, admission control, QoS, and MAC: Research Articles
+81018B28	Design and implementation of SIP network and client services
+641BEE0F	VoIP over MPLS Networking Requirements
+7AF428E9	On end-to-end analysis of packet loss
+7E613041	Quantifying Skype user satisfaction
+7EC25CD7	Challenges in securing voice over IP
+7CD0181B	Trust-based VoIP Spam Detection based on Calling Behaviors and Human Relationships
+7F69A5BE	Multi-User Detection for Improving VoIP Capacity and Coverage in WCDMA Uplink
+7FDC259F	Autonomic Management for Capacity Improvement in Wireless Networks
+753D3E9E	Denial of service attack and prevention on SIP VoIP infrastructures using DNS flooding
+5F0F5F47	Allowable Propagation Delay for VoIP Calls of Acceptable Quality
+7FC2A244	Quantisation for Multiple Description Coding for voice over IP
+7B45F377	Utilizing bloom filters for detecting flooding attacks against SIP based services
+80BA5AC2	Language Technology for Internet-Telephony Service Creation
+7F0EBFA7	Object-Oriented Framework for Development of Telephony Applications
+7F17D2D4	SIP paging of wireless LAN hosts for VoIP
+811F8C14	Media Switching and Media Integration: An Examination of Instant Messaging and IP-Calling Practices
+5D159E27	Security and Non-Repudiation for Voice-Over-IP Conversations
+8152E7D8	Impact of security on voice quality in 3G networks
+793207E2	Measuring the perceptual quality of Skype sources
+802CCEA6	Optimization of Mobile IPv6-Based Handovers to Support VoIP Services in Wireless Heterogeneous Networks
+81227BAD	Short- and Long-Term Packet Loss Behavior: Towards Speech Quality Prediction for Arbitrary Loss Distributions
+5D049507	Security in Peer-to-Peer SIP VoIP
+7C590678	Unregister Attacks in SIP
+7E3BB467	An adaptive playout algorithm with delay spike detection for real-time VoIP
+7EFB9D0B	Voice quality prediction models and their application in VoIP networks
+8054009E	VoIP steganography and its Detection—A survey
+5A9A22D3	Variable packet size of IP packets for VoIP transmission
+7DB9EC54	Software TDMA for VoIP Applications Over IEEE802.11 Wireless LAN
+80EF2F28	VoIP over IEEE 802.11 wireless networks: Experimental analysis of interference effects
+7DA0ADAB	Performance Analysis Framework and Vertical Handover Triggering Algorithms for Voice over WLAN/Cellular Network
+7D623CE3	Design and Deployment of Link-Layer Boosters for Per-flow Improvement of QoS in Wireless Internet Access
+7812E916	Access Regulation and the Adoption of VoIP
+7AE375F9	An architecture for residential Internet telephony service
+79282E30	Context-aware multimedia encryption in mobile platforms
+7EB9894C	Design and implementation of an H.323 gatekeeper prototype
+7ABA5AE4	QoS-aware path switching for VoIP traffic using SCTP
+7FB89A0D	Voice over IP security and law enforcement
+58377350	Server allocation algorithms for VOIP conferencing
+77252DC4	Using cross-media relations to identify important communication requests: testing the concept and implementation
+7F6CDAAD	On-line detection of real time multimedia traffic
+796FC914	An analytical simulator for deploying IP telephony
+5D732B7E	Performance of current perceptual objective speech quality measures
+7F0C468E	Programmable end system services using SIP
+00EFF9AD	Voice Over Internet Protocol (VoIP) and Security
+5BE387EC	VoIP Regulation in Latin America
+7D2C0535	Speech recognition performance as an effective perceived quality predictor
+7B0C53DA	An ontology-based policy for deploying secure SIP-based VoIP services
+797DDD82	Security design and evaluation in a VoIP secure infrastracture: a policy based approach
+7C80A9DD	Inter-domain and DoS-resistant call establishment protocol (IDDR-CEP): work in progress
+7F2310A9	On Autonomic QoS Provisioning for Voice over IP Services
+7D9CCA67	Design of QoS and admission control for VoIP services over IEEE 802.11e WLANs
+817A4472	Multi-stream voice over IP using packet path diversity
+7F15B174	An Embedded Packet Train and Adaptive FEC Scheme for VoIP Over Wired/Wireless Ip Networks
+7E22C479	Design and Implementation of an IP-based Fixed VoIP Emergency System
+6D5DABC2	THE DIFFUSION OF IP-TELEPHONY AND THE VENDORS COMMERCIALISATION STRATEGIES
+7E073AC1	A simple compensation algorithm for VoIP services in IEEE 802.16e system
+80C988C4	Improving Performance of VoIP Services in IEEE 802.16 OFDMA System
+07952ADC	Review: A comprehensive survey on scheduler for VoIP over WLAN
+04E189D7	Flow-level QoS guarantees in IEEE 802.11e EDCA-based WLANs
+7EF737F6	Extended-rtPS Algorithm for VoIP Services in IEEE 802.16 systems
+802FB277	Speech quality prediction for voice over Internet protocol networks
+788D8698	A study on QoS of VoIP networks: a random neural network (RNN) approach
+7D6F6428	An M-Sequence Based Steganography Model for Voice over IP
+7EFA779F	A Robust Iterative Energy Based Voice Activity Detector
+7F21CB24	Towards a new Security Architecture for Telephony
+7E54174B	Analysis of delay factors for voice over WiMAX
+81421F10	Adaptive VoIP with Audio Watermarking for Improved Call Quality and Security
+78C3C8EB	VoIP Protection and Performance Improvement
+80C542AA	Congestion Avoidance Using DYnamic COdec MAnagement: A solution for ISP
+5B03F774	Stateless RD Network Services
+7B72F359	Modeling the qoe of rate changes in SKYPE/SILK VoIP calls
+7C348284	Performance Evaluation of the VoIP Services of the Cognitive Radio System, Based on DTMC
+7676DFE9	Cross‐layer control of adaptive coding and modulation for satellite Internet multimedia
+6048FE90	New security and control protocol for VoIP based on steganography and digital watermarking
+80096B49	QRP08-6: A Novel Unicast based Multiplexing Scheme to Guarantee the QoS of VoWLAN
+80E021C8	Interactive Real-Time Embedded Systems Education Infused with Applied Internet Telephony
+7E8C8936	Analysis and Evaluation of the Skype and Google-Talk Voip Systems
+809959D7	An Adaptive Packet Dropping Algorithm for Improved VoIP Quality at ADSL-Subscribers
+7E195EBD	Reducing idle mode power consumption of cellular/VoWLAN dual mode mobiles
+5C085DA6	CINEMA: Columbia InterNet Extensible Multimedia Architecture
+813D7565	Capacity Improvement and Analysis of VoIP Service in a Cognitive Radio System
+7EB217A7	VoIP protection and performance improvement
+7F994E74	Embedded System for Inter-Vehicle Heterogeneous Wireless-Based Real-Time Multimedia Streaming and Video/Voice over IP
+7898B3ED	A cooperative SIP infrastructure for highly reliable telecommunication services
+79695204	The 1974 origins of VoIP
+8104EA3C	VoIP Eavesdropping: A Comprehensive Evaluation of Cryptographic Countermeasures
+7F52BED0	Integrating SIP and IEEE 802.11e to support handoff and multi-grade QoS for VoIP applications
+7FDDA648	A Recursive Load Balancing technique for VoIP-dedicated WLANs
+811B8788	Effect of Nakagami-m fading on the QoE performance of VoIP in wireless mesh networks
+7F2662BE	Overloading vulnerability of VoIP networks
+7E3CDD5A	MuxComp - A New Architecture to Improve VoIP Bandwidth Utilization
+809C7796	An Analysis of Joint Aggregation, Bursting, Routing, and Rate Adaptation for Increasing VoIP Capacity in Multi-Hop 802.11 Networks
+686100D9	The internet measurement of VoIP on different transport layer rotocols
+809B1EDE	Monitoring real-time applications events in net-centric enterprise systems to ensure high quality of experience
+7F93C921	A New Quality-Driven QoS Control Method for AMR-WB in VoIP
+7EDAC4F1	Endpoint-Based Call Admission Control and Resource Management for VoWLAN
+7D4A4E8A	Auto-scaling emergency call centres using cloud resources to handle disasters
+76058687	An energy-efficient delay reduction technique for supporting WLAN-based VoIP in SmartPhone
+7F5BBAA5	Voice communication over GGSN/SGSN
+78D9DF8F	Parlay-based service engineering in a converged Internet–PSTN environment
+7D4F5729	An Analysis of the Skype Peer-to-Peer Internet Telephony Protocol
+5E638829	Evaluating Measures and Countermeasures for SPAM over Internet Telephony
+7E182033	UMTS, the mobile multimedia vision for IMT 2000: a focus on standardization
+80ABD99B	Performance of VoIP on EUTRA downlink with limited channel feedback
+5F8051C3	Design and evaluation of steganography for voice-over-IP
+7B913E36	The resurgence of push-to-talk technologies
+79931DF5	QoS evaluation of sender-based loss-recovery techniques for VoIP
+7D717DCA	A novel design of a VoIP firewall proxy to mitigate SIP-based flooding attacks
+804DB006	Performance Analysis of a Semi-fixed Mapping Scheme for VoIP Services in Wireless OFDMA Systems
+7F021F82	Adaptive joint playout buffer and FEC adjustment for Internet telephony
+79F52EAA	FaxWeb: Accessing the WWW using the fax machine
+7DB8C3E2	Downlink VoIP Support for Evolved UTRA
+7F780B9F	P2PNS: A Secure Distributed Name Service for P2PSIP
+01014831	Impact of Packet Loss Location on Perceived Speech Quality
+7E45F690	VoIP Capacity Model for the 1xEV-DO Uplink
+7CFEE30D	VoIP Capacity—Analysis, Improvements, and Limits in IEEE 802.11 Wireless LAN
+7DEC0590	Robust voice recognition over IP and mobile networks
+784FA7B9	Optimal quality-level adaptation and performance evaluation for SLA-based VoIP services over DiffServ/MPLS networks
+815BAE4B	An End-to-End Measurement-Based Admission Control Policy for VoIP over Wireless Networks
+7956BD07	SS7 over IP: signaling interworking vulnerabilities
+7E8CEA80	Conferencing, Paging, Voice Mailing via Asterisk EPBX
+39F73722	Burst Ratio in Concatenated Markov-based Channels
+7FDB3074	VoIP Service on HSDPA in Mixed Traffic Scenarios
+7CF90333	The affine transform and feature fusion for robust speaker identification in the presence of speech coding distortion
+7FC849D5	Performance evaluation of EVRC-encoded voice traffic over CDMA EVDO Rev. A
+7D5A8922	A Novel Channel Switching Scenario in Multicast IPTV Networks
+807077AC	A framework for SIP-based wireless medical applications
+7C94C794	Admission control for VoIP and data traffic in IEEE 802.11 WLANs
+78FBC91E	Towards a standards-based Internet telephony system
+7E402528	VoIP and Tracking Capacity over WiFi Networks
+814CAE24	Side effects of identity management in SIP VoIP environment
+7FB50A1E	Reliability and performance modelling of VoIP system with multiple component failures
+7785A4FA	Programming Internet telephony services
+806CA8B8	Voice over wireless LAN via wireless distribution system
+7EB3E11F	A First Order Logic Security Verification Model for SIP
+809D2806	IDEM: an Internet delay emulator approach for assessing VoIP quality
+80D0453F	Using T.38 and SIP for real-time fax transmission over IP networks
+8098E46E	SoftMAC: layer 2.5 MAC for VoIP support in multi-hop wireless networks
+7896AD06	Development of a VoWLAN Terminal based on Open Source Software
+78707C76	Simulation and performance evaulation of AMR-WB with adaptive rate control for VoIP on wireless ad hoc networks
+78989576	New voice over Internet protocol technique with hierarchical data security protection
+7CF3A3B8	The effect of packet dispersion on voice applications in IP networks
+7DC241AC	VoIP frame bundling for WiMAX downlink
+7E942BE8	Symphony: synchronous two-phase rate and power control in 802.11 WLANs
+8084A3B8	Bandwidth provisioning and capacity planning tools
+7EC3668E	A Multipath Forwarding Algorithm Based-On Predictive Path Loss Rate for Real-Time Application
+7DCF4125	CPU-based DoS attacks against SIP servers
+7EBEF8F7	Security issues in SIP signaling in wireless networks and services
+778582BB	Is IEEE 802.11 ready for VoIP?
+7D65E5B8	Implementing VoIP: a voice transmission performance progress report
+78CA0D0A	Dynamic bandwidth allocation for Internet telephony
+79CDA013	Analysis of the quality of experience of a commercial voice-over-IP service
+7C6BC181	System/network design-space exploration based on TLM for networked embedded systems
+7E11CA18	The Impact of Real-Time Media Differentiation on the Internet Traffic
+80065A19	Multi-User Queuing Analysis Considering AMC for Wireless VoIP Services
+6307B91A	SPAM over Internet Telephony and how to deal with it
+8148B894	Strategy based proxy to secure user agent from flooding attack in SIP
+7D119B05	A User-Balanced System for IP Telephony in WLANs
+80793597	Practical Implementations for Securing VoIP Enabled Mobile Devices
+7594BF74	Analysis of information leakage from encrypted Skype conversations
+7E950AAC	Adaptive QoS control by toggling voice traffic between circuit and packet cellular networks
+762FC3DF	Quality assurance of voice over WLANs (VoWLANs) with differentiated services
+8068B3CF	On Peer-to-Peer relays for VoIP applications
+80513F65	Securing IP-Multimedia Subsystem (IMS) against Anomalous Message Exploits by Using Machine Learning Algorithms
+80A322D1	On Variable Rate Frame Independent Predictive Speech Coding: Re-Engineering ILBC
+79696B59	Evaluating perceived voice quality on packet networks using different random neural network architectures
+80EC71F2	Exploring Anti-Spam Models in Large Scale VoIP Systems
+7D76AD59	Mowgli: improvements for Internet applications using slow wireless links
+7F099881	Evaluation of Conversational Voice Communication Quality of the Skype, Google-Talk, Windows Live, and Yahoo Messenger Voip Systems
+7E634E70	Flexible Uplink Scheduling Algorithm for VMR-WB VoIP Services in IEEE802.16e System
+7EB6AB88	Resource management for IP telephony networks
+815BDD95	Bridging communications and the physical world: sense everything, control everything
+809E2834	Reusable features for VoIP service realization
+5D257082	Modelling the Arrival Process for Packet Audio
+80270349	QoS Routing and Scheduling in TDMA Based Wireless Mesh Backhaul Networks
+816192B3	Peer-to-peer internet telephony using SIP
+7FA04848	Assessing the quality of voice communications over Internet backbones
+8153A092	A Novel Voice Priority Queue (VPQ) Schedule and Algorithm for VoIP over WLAN Network
+7A9F5CCC	Evaluations of AODV and DSR for QOS requirements
+7FBDBB75	VoIP Availability and Service Reliability through Software Rejuvenation Policies
+7D8654D7	Non-intrusive quality evaluation of VoIP using genetic programming
+78ADD56D	Performance optimization of VoIP calls over wireless links using H.323 protocol
+805322BB	Scalable resource reservation for the Internet
+7BB9BB45	A dynamic traffic allocation model of voice over internet protocol and public switched telephone network
+78184496	OntoSPIT: SPIT management through ontologies
+806DCE05	Low-latency wireless video over 802.11 networks using path diversity
+7DCAFAE3	Optimal packing of VoIP calls in an IEEE 802.11 a/e WLAN in the presence of QoS constraints and channel errors
+7F3956CB	Comparative analysis of traditional telephone and voice-over-Internet protocol (VoIP) systems
+7E5D5C0B	Rate-distortion optimal time-segmentation and redundancy selection for VoIP
+7D538A57	APSM: bounding the downlink delay for 802.11 power save mode
+766CD22A	Performance evaluation of a new QoS packet-scheduler for VoIP service in IEEE 802.16-based WMAN systems
+7D661F58	Improving WLAN VoIP Capacity Through Service Differentiation
+79292948	VoIP pricing in competitive telephony markets
+79D506AF	PinDr0p: using single-ended audio features to determine call provenance
+5A423C20	Affect-based Modeling and its Application in Multimedia Analysis Problems
+5E8B0F6D	PCP-DV: An End-to-End Admission Control Mechanism for IP Telephony
+7CEDB5F5	Secure SIP: A Scalable Prevention Mechanism for DoS Attacks on SIP Based VoIP Systems
+779E5B72	Wireless ad hoc VoIP
+7CF17B34	Multiple design patterns for voice over IP (VoIP) security
+7D160B60	Assessment of effects of packet loss on speech quality in VoIP
+7F38BF22	A novel method for detecting attacks towards the SIP protocol
+8113377A	Voice over IP for Sony Ericsson Cellular Phones
+7E51DE4C	A viability analysis of a secure VoIP and instant messaging system on a Pocket PC platform
+7EB9A4F8	Security Issues in a Synchronous e-Training Platform
+810EA2F0	VoIP Capacity over Wireless Mesh Networks
+81771CDC	On Spam over Internet Telephony (SPIT) Prevention
+7D989323	Have I met you before?: using cross-media relations to reduce SPIT
+7D8777DD	Application-Centric Analysis of IP-based Mobility Management Techniques
+7E52F864	A Methodology for Deriving VoIP Equipment Impairment Factors for a Mixed NB/WB Context
+76AF36E2	The vendors' perspective on the choice process of IP telephony
+80D1B451	Performance Evaluation of a Flooding Detection Mechanism for VoIP Networks
+75E37643	Emerging alternatives to today's advanced service architectures for Internet telephony: IN and beyond
+8007D4E2	An Architecture for Secure VoIP and Collaboration Applications
+58EF6200	Intrusion detection systems for IP telephony networks
+7DFC005A	A Generalizable Methodology for Quantifying User Satisfaction
+7E0EDCB7	Tuning Skype's Redundancy Control Algorithm for User Satisfaction
+7AEBFF19	Effects of iterative block ciphers on quality of experience for Internet Protocol Security enabled voice over IP calls
+7EBE5136	Framework for VoIP Authentication using Session ID based on Modified Vector Quantization
+7F767396	Location-based services in Internet telephony
+5FB75050	Design and evaluation of distributed algorithms for placement of network services
+7C1424C1	ADVS: a reputation-based model on filtering SPIT over P2P-VoIP networks
+7FD7D108	Adaptive Medium Access Control for VoIP Services in IEEE 802.11 WLANs
+7E37CC9A	Service development and deployment in H.323 and SIP
+7F81BCF7	Voice over Internet protocol (VoIP)
+7E9A4F83	Steganography in Inactive Frames of VoIP Streams Encoded by Source Codec
+7D9921DD	A new secure password authenticated key agreement scheme for SIP using self-certified public keys on elliptic curves
+7F4EA3AD	Efficient Scheduler for the Growing VoIP Traffic
+7F52DB6B	Sticky CSMA/CA: Implicit synchronization and real-time QoS in mesh networks
+80844E87	Queuing Network Performance Model for Evaluation of CMP-Based VoIP SPS
+8005A72B	The changing usage of a mature campus-wide wireless network
+807295D6	LSP-based multiple-description coding for real-time low bit-rate voice over IP
+7E534B73	Innovative service and performance focused handson end-to-end system integration approach in teaching undergraduate Data Communications and Telecommunications
+7DEB5C6C	Dynamic Packet Bundling for VoIP Transmission Over Rel'7 HSUPA with 10ms TTI Length
+804EA653	A Three-Layer Network Management System
+5EFE8463	Test Generation for Interaction Detection in Feature-Rich Communication Systems
+801ED810	AdaptiveScan: The Fast Layer-2 Handoff for WLAN
+6CB537EB	A secure authentication scheme for session initiation protocol by using ECC on the basis of the Tang and Liu scheme
+7E29C071	Effect of packetization on VoIP performance
+7B79E38E	A method to efficiently integrate internet telephony call signaling with dynamic resource negotiation
+776FAE66	1-800-OVERLAYS: using overlay networks to improve VoIP quality
+812EAC8F	Design and implementation of QoS-provisioning system for voice over IP
+7CFB4773	The Effect of Packet Delay on Voip Speech Quality: Failure of Hurst Method
+7E9C1EFC	QoS and Admission Probability Study for a SIP-Based Central Managed IP Telephony System
+7CF10F89	bFixing number of floors for virtual voice-only conference - an empirical study
+7FEB61E6	Efficient Delivery of Voice Services over MPLS Internet Infrastructure
+800AC511	A method of service quality estimation with a network measurement tool
+7637F079	A perceptual quality model intended for adaptive VoIP applications
+5882FF7A	Characterizing session initiation protocol (SIP) network performance and reliability
+7C6A08EE	Misuse patterns in VoIP
+7CE8CC6A	Simulation of voice over MPLS communication networks
+786C8052	Bidirectional Packet Aggregation and Coding for Efficient VoIP Transmission in Wireless Multi-Hop Networks
+7D05406E	Privacy of encrypted voice-over-IP
+8110F8D8	Statistical Scheduling of Offline Comparative Subjective Evaluations for Real-Time Multimedia
+7E74F760	E-model MOS Estimate Improvement through Jitter Buffer Packet Loss Modelling
+769557B5	Failover, load sharing and server architecture in SIP telephony
+7E9D2AC6	The performance of voice over IP over 3G downlink shared packet channels under different delay budgets
+79A822ED	A multiplexing scheme for H.323 voice-over-IP applications
+6F288B4A	A Self-learning System for Detection of Anomalous SIP Messages
+7EC64991	The design of a versatile, secure P2PSIP communications architecture for the public internet
+7E6C03B9	Privacy in VoIP Networks: A k-Anonymity Approach
+5FE10C43	Secure session management mechanism in VoIP service
+76DA4DEA	Active Buffer Management Algorithm for Voice Communication System with Silence Suppression
+7D57C644	Current trends and challenges towards wireless Internet
+7806AEE5	Adaptive FEC-based error control for Internet telephony
+7F5CE2AB	Admission control of VoIP calls in EDCA WLANs: Analysis and experimentation
+729F1054	Analysis of Techniques for Protection against Spam over Internet Telephony
+72FF360A	Reducing the recovery time of IP-Phones in an h.323 based VoIP system
+08120223	The diffusion of Internet telephony among consumers and firms: Current issues and future prospects
+7A9918CE	Aggregation of VoIP streams in a 3G mobile network: a teletraffic perspective
+80D8264C	Analyzing the use of VoIP technology in collaborative modeling
+7D05D92D	The delay-friendliness of TCP
+58FF219F	A study of Skype over IEEE 802.16 networks: voice quality and bandwidth usage
+7F1C0A6C	Cure for Spam Over Internet Telephony
+7F293F36	Computational quality model for wideband voice-over-IP communications
+6AFBE169	Challenges for Mobile Voice-over-IP
+786F5F31	An efficient end-to-end security mechanism for IP multimedia subsystem
+814EFF23	Using DMIF for Abstracting from IP-Telephony Signaling Protocols
+7E04E291	Interpolation of Lost Speech Segments Using LP-HNM Model With Codebook Post-Processing
+80C7DB3C	The Design of Standardisation Processes in ICT: An evolutionary transaction cost approach
+5FDDE27B	Design and Implementation of SIP Security
+7E2DEDF7	On the problem of specifying the number of floors for a voice-only conference on packet networks
+814F383D	Changepoint detection techniques for VoIP traffic
+8090A444	Specification-based intrusion detection for H.323-based voice over IP
+5C50346A	Evaluation of VoIP quality over the pakistan internet exchange (PIE) backbone
+7E41F638	Utility-Based Bandwidth Allocation for Triple-Play Services
+5F344285	Experimental investigation of the relationship between IP network performances and speech quality of VoIP
+7DE49A66	Statistical performance guarantees for streaming flows using expedited forwarding
+76612B14	Evolutionary speech quality estimation in VoIP
+798DF163	Analysis of Optimal Jitter Buffer Size for VoIP QoS under WiMAX Power-Saving Mode
+7DBE7C85	Bandwidth scheduling for multi-channel packet cable telephony
+7F2F600C	Traffic-Aware Connection Admission Control Scheme for Broadband Mobile Systems
+7DC13B42	A framework for evaluating Internet telephony systems
+80D73FEB	Mobility Management for VoIP on Heterogeneous Networks: Evaluation of Adaptive Schemes
+78B86909	Cross-layer routing metrics for mesh networks: Current status and research directions
+7F3A65C6	Tracking Down Skype Traffic
+7C95D647	Hidden VoIP calling records from networking intermediaries
+816FD5F3	Performance evaluation of P2P VoIP applications
+80F90EBB	"MOSQoS": Subjective VoIP Quality for Feedback Control and Dynamic QoS Adaptation.
+7F299E55	Measuring Internet telephony quality: where are we today?
+7FE6DAB1	Traditional IP measurements: What changes in a today multimedia IP network
+7E762A75	WIP: Web Service Initiation Protocol for Multimedia and Voice Communication over IP
+7DC2CE79	G.711.1: A wideband extension to ITU-T G.711
+80DF9BC0	The 'pure-IP' Moby Dick 4G architecture
+81641E42	Designing a Markov Model for the Analysis of 2-tier Cognitive Radio Network
+80CDF943	Mitigating Harm of Liar-Farm in Reputation Model of VoIP Spam Filtering System
+8067C959	Scheduling Support for Mixed VoIP and Web Traffic over HSDPA
+7D75E82F	A Dynamic Buffer Management Scheme for End-to-End QoS Enhancement of Multi-flow Services in HSDPA
+8025F958	Optimization of source and channel coding for voice over IP
+5ECD5226	Failover and Load Sharing in SIP Telephony
+7EE28840	A mobile agent-based advanced service architecture for wireless Internet telephony: design, implementation, and evaluation
+7855C58D	Combining quality of services path first routing and admission control to support VoIP traffic
+7FC31DD3	A Performance Model and Measurement Framework for DiffServ Implementations
+7DE7475F	A Proposal for Distributed Conferencing on SIP Using Conference Servers
+73A11F5C	The perceptual analysis measurement system for robust end-to-end speech quality assessment
+767906BB	Detecting VoIP based DoS attacks at the public safety answering point
+80397127	Oblivious routing of highly variable traffic in service overlays and IP backbones
+7034B4F5	Robust speech recognition over IP networks
+7E1E9CC9	Measurement and Analysis of the VoIP Capacity in IEEE 802.11 WLAN
+76485374	An overview of VoIP and P2P copyright and lawful-interception issues in the United States and Taiwan
+7E8A31CA	Location-aware healthcare in u-hospitals
+7C452421	Developing IP telephony laboratory and curriculum with private cloud computing
+80AFDD85	A Novel Peer Relay Lookup Scheme for SIP+P2P VoIP System
+813602A4	Packet Scheduling Algorithms for Mixed Traffic Flow over HSDPA
+7DD20706	Proactive vs reactive approaches to failure resilient routing
+7E00D2B7	Contention-based QoS MAC mechanisms for VBR VoIP in IEEE 802.11e wireless LANs
+7FFC0A16	Mobile Voice Over IP (MVOIP): An Application-level Protocol
+78BA213B	Design and implementation of a reconfigurable test-bed for real-time security measurements in VoIP systems
+7C270F07	Enabling SIP-based sessions in ad hoc networks
+80A2095F	VoIP Denial of service attacks classification and implementation
+7D80E72E	Non-uniform Optimal Subband Beamforming: An Evaluation on Real Acoustic Measurements
+7E36188A	Towards Public Key Infrastructure less authentication in Session Initiation Protocol
+7FFC0C30	Formal Modeling of Authentication in SIP Registration
+59F43B93	VDisaster recovery with the help of real time video streaming using MANET support
+8046B9CD	Delivery of low rate isochronous streams over the digital video broadcasting/Digital Audio-Visual Council cable television protocol
+7E08D384	Internet protocol support for telephony
+7F1C9742	Linking market uncertainty to VoIP service architectures
+6C83C1D7	SIP threats detection system
+80AF0521	Packet Loss Concealment with Natural Variations using HMM
+8166B51D	An Analytical Tool to Assess Readiness of Existing Networks for Deploying IP Telephony
+8064854E	ECHO: A Quality of Service Based Endpoint Centric Handover Scheme for VoIP
+800BF389	A distributed scheduling mechanism to improve quality of service in IEEE 802.11 ad hoc networks
+754DA328	A Conjoint Analysis of Voice Over IP Attributes
+7F7D7FFF	QoE assessment of VoIP over IEEE 802.16 networks with DaVinci codes using E-model
+80959DAF	A Feature Interaction Conflicts Detection Engine for Pervasive Networked Environment
+7BA6F18A	RTP-miner: a real-time security framework for RTP fuzzing attacks
+80934A94	A Framework for supporting VoIP Services over the Downlink of an OFDMA Network
+80CF8033	Improvement of Capacity and Energy Saving of VoIP over IEEE 802.11 WLANs by a Dynamic Sleep Strategy
+7CF5E87A	How well can the IEEE 802.11 wireless LAN support quality of service?
+80D037B7	Mobile Voice Over IP (MVOIP): an application-level protocol for call hand-off in real time applications
+809D2175	A multi-signaling protocol architecture for voice over IP terminal
+7937485A	Call admission control and load balancing for voice over IP
+7EB4C0E1	Measurement of the Effects of Temporal clipping on Speech Quality
+816F3B86	A Service Creation Model for Integrated Communication Systems on the Internet
+80010EC6	Choosing the UMTS air interface parameters, the voice packet size and the dejittering delay for a voice-over-IP call between a UMTS and a PSTN party
+80B43123	A delay-efficient rerouting scheme for VoIP traffic
+0693BB8C	Overview of security issues of VOIP
+7D8AB2EC	Efficient SIP-Specific Event Notification
+7EDDC90A	Fast retransmission mechanism for VoIP in IEEE 802.11e wireless LANs
+7F5D4C53	Solutions to performance problems in VoIP over a 802.11 wireless LAN
+7D78CC5A	PreQuEst: A Scalable and Proactive Quality Enrichment for Presence Services
+07C12062	Collecting Voices from the Cloud
+7D0C0E23	The Use of Metamodeling for VoIP over WiFi Capacity Evaluation
+5D6BF570	Formalising Graphical Behaviour Descriptions
+7F869C46	Aggregation with fragment retransmission for very high-speed WLANs
+7DE69E3B	Towards high-availability for IP telephony using virtual machines
+058D88AF	A VoIP Implementation on an Embedded Platform
+7ED1705C	Evaluation of multiplexing and buffer policies influence on VoIP conversation quality
+7E80013F	Implementation and integration of efficient ECDH key exchanging mechanism in software based VoIP network
+7ED43F00	Audio packet loss over IP and speech recognition
+802C6E80	Decoupling bandwidth and delay properties in class based queuing
+7E48334E	Priority Based Dynamic Rate Control for VoIP Traffic
+7FE00400	Analysis of VoIP over HSDPA Performance with Discontinuous Reception Cycles
+7DF62E8E	Experimental Measurement of the Capacity for VoIP Traffic in IEEE 802.11 WLANs
+8038FFAC	Implementing a testbed for mobile multimedia
+78C849C9	An evolutionary game-theoretic approach to congestion control
+7FAC94C7	Dynamic QoS and Network Control for Commercial VoIP Systems in Future Heterogeneous Networks
+01C5665C	A survey of VoIP DoS attacks and their solutions
+7583E4BC	Efficiency of packet voice with deterministic delay
+7FB34CD0	Path Aggregation for Voice over IP in Multihop Wireless Mesh Networks
+7F7730E0	Present and future challenges concerning DoS-attacks against PSAPs in VoIP networks
+77CC4FDB	Signalling optimisation for VoIP service in All–IP network
+80F46DEC	A Study of the Effect of Using Kademlia as an Alternative to Centralized User Location Servers in SIP-based IP Telephony Systems
+7DEC37AA	Adaptive VoIP Multiplexing in LTE Backhaul
+7CD61845	Novel approaches for online playout delay prediction in VoIP applications using time series models
+809E85C2	Artemisa: An open-source honeypot back-end to support security in VoIP domains
+7D2C805B	A distributed trust and reputation model for capacity enhancement in wireless networks
+7F502B23	Improving VOIP application's performance over WLAN using a new distributed fair MAC scheme
+7D56C0AA	Differentiated Services and Vertical Handovers Supporting Multimedia in Heterogeneous Networks
+7B414499	DVoIP: Dynamic Voice-over-IP transformations for quality of service in bandwidth constrained environments
+60505B9F	Automatic addition and deletion of clients in VoIP conferencing
+7ECB1920	A quality-aware VoWLAN architecture and its quantitative evaluations
+80397A89	Selective Cross Correlation in Passive Timing Analysis Attacks against Low-Latency Mixes
+750B5203	Resource allocation and management in DiffServ networks for IP telephony
+75F0F595	VoIP Call Capacity over Wireless Mesh Networks
+7E6F2FCF	Intrastandard Hybrid Speech Coding for Adaptive IP Telephony
+7DAEBBEA	An O(n) Telephony Gateway Selection Methodology for IP-PSTN Packet Routing
+813735CE	Designing DCCP: congestion control without reliability
+7F239D7F	Secure and QoS-aware SIP handover for VoIP communication in vehicular adhoc networks
+64216735	On privacy leakage through silence suppression
+7E553D4A	Toward an understanding of the processing delay of peer-to-peer relay nodes
+686788D4	Mobile IP telephony: mobility support of SIP
+7BF12A47	Fuzzy logic overload control in Asterisk proxy
+78D5B99A	An FEC Adaptive Multicast MAC Protocol for Providing Reliability in WLANs
+58CF9412	Assessing the Quality of VoIP Transmission Affected by Playout Buffer Scheme
+7F6D095C	Experimental assessment of VoIP quality in MIPv6 and SIP mobility scenarios
+8139B18D	Packet Loss and Compression Effects on Vocal Recognition
+7867DABC	Performance evaluation of packet aggregation scheme for VoIP service in wireless multi-hop network
+7FD002CC	AMR mode selection enhancement in 3G networks
+7890DEC7	ConnectionWatch: passive monitoring of round-trip times at end-hosts
+80E04BB6	A Mobility Scheme for Personal and Terminal Mobility
+7FB445F6	Can I add a secure VoIP call?
+7D9C70B9	Measurements of SIP signaling over 802.11b links
+7D857492	A cross layer QoS algorithm to improve wireless link throughput and voice quality over multi-rate WLANs
+7F031488	A Technique for Seamless VoIP-Codec Switching in Next Generation Networks
+7EBD79FA	VISOR: VoIP Security Using Reputation
+7D8B0523	Empirical bandwidth provisioning models for high speed Internet traffic
+7FD544BB	Performance Enhancement for WLAN Supporting Integrated Voice/Data Traffic
+5CC9FFCF	Analysing Protocol Implementations
+7CCF0818	Survey of network security systems to counter SIP-based denial-of-service attacks
+7D1B5C3E	Applying scheduling policies to improve QoE in wireless Voice-over-IP
+7F45025E	Asynchronous distributed P2P-SIP model for VoIP
+7E8EC582	An Adaptive Polling Scheme to Improve Voice Transmission over Wireless LANs
+817919B4	Fast and secure universal roaming service for mobile Internet
+7BAF0410	adaMOS: MOS-adaptive VoIP sources
+7EF1047D	Survey on QoS management of VoIP
+71AA5881	Packet loss burstiness and enhancement to the E-Model
+7E8C332A	Supplementary services in the H.323 IP telephony network
+7E0D9B92	VoIP Traffic Scheduling in WiMAX Networks
+80A78A1A	SCIDIVE: a stateful and cross protocol intrusion detection architecture for voice-over-IP environments
+053CA3B0	Development of a Voice over IP Applications for a Metropolitan Area Network
+77212DD7	Evaluating the perceived voice quality on VoIP network using interpolated FIR filter algorithm
+59EC91EB	IP telephony : the integration of robust VoIP services
+7F900EF9	Improving R-Score of VoIP Streams over WiMax
+7D070A1C	Service dependent handoff management for efficient mobile IP communication
+750F0146	The security challenges inherent in VoIP
+7DE6ACC6	Packet Based Echo Cancellation for Voice Over Internet Protocol Simulated with Variable Amount of Network Delay Time
+7DE0DD9B	Optimized Adaptive Jitter Buffer Design for Wireless Internet Telephony
+7F73B6FC	A new model of application response time for VoIP over WLAN and fixed WiMAX
+7E91E8D9	iPlane : an information plane for distributed services
+5980C433	A utility-aware middleware architecture for decentralized group communication applications
+7D9380B1	A Non-Incremental Hierarchical Conference Organization Using Shortest Distance Terminal
+8050D2BC	SIP application composition framework based on business rules
+807A67C4	Performance study of the WiMAX uplink scheduler
+7C0EA52C	Caller-REP: Detecting unwanted calls with caller social strength
+5906607E	Implementation and Performance Evaluation of a Differentiated Services Test-Bed for Voice over IP Support
+7CF27936	Using a multi-layer approach to tackle the service interaction problem in telephony scenarios
+8136EC9C	VoMESH: voice over wireless MESH networks
+781017E6	Feature interactions between internet services and telecommunication services
+7D99EE24	Utility-based analytical model for representing user QoE
+32DE4EBC	Predictive modeling in a VoIP system
+7D917D0B	On the Privacy of Encrypted Skype Communications
