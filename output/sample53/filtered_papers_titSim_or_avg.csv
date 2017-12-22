@@ -1,0 +1,671 @@
+80A1F632,"Integrating Motion, Illumination, and Structure in Video Sequences with Applications in Illumination-Invariant Tracking",0.389583333333,0.270634920635
+7B949A51,"Design galleries: a general approach to setting parameters for computer graphics and animation",0.161111111111,0.134173465423
+7D81BFE5,"Motion detection in infrared retinal image sequences",0.373397435897,0.392361111111
+7FA11DDB,"Face Detection using Local SMQT Features and Split up Snow Classifier",0.312087912088,0.288975468975
+770DF0EA,"Face detection using skin tone segmentation",0.328754578755,0.300086580087
+7E3C21C0,"Image detection under varying illumination and pose",0.321314102564,0.303571428571
+7901E506,"Moving window-based topographic normalization of optical satellite imagery for forest mapping in mountainous terrain",0.138492063492,0.127248677249
+80CB032B,"Visual tracking via incremental Log-Euclidean Riemannian subspace learning",0.369047619048,0.464285714286
+804607B0,"Face recognition with illumination distinction description",0.128754578755,0.138737373737
+7F4829DE,"Shot Boundary Detection: An Information Saliency Approach",0.347727272727,0.35
+7D5CF113,"Real-time tracking of image regions with changes in geometry and illumination",0.3375,0.261574074074
+7E5856F5,"Transformation of adaptive thresholds by significance invariance for change detection",0.334027777778,0.264351851852
+807C883C,"Vehicle license plate detection in images",0.321314102564,0.28
+7927AD70,"What Camera Motion Reveals about Shape with Unknown BRDF",0.148397435897,0.178418803419
+7D4E9CAF,"Reconstruction of 3D models from specular motion using circular lights",0.148397435897,0.148571428571
+7E6B305D,"Using A-buffer in radiosity",0.0,0.142857142857
+81478334,"Adaptive Motion Gesture Segmentation",0.172727272727,0.2
+7F154A76,"Classification of image databases using face detection",0.350694444444,0.275072150072
+7DAC5377,"Facial Action Unit Recognition by Exploiting Their Dynamic and Semantic Relationships",0.150694444444,0.149126984127
+80C8AE58,"3Deflicker from motion",0.148397435897,0.333333333333
+7F8036C2,"Real-Time Shape Illustration Using Laplacian Lines",0.122315184815,0.160714285714
+58518BA4,"New approaches for colour histogram adaptation in face tracking tasks",0.353977272727,0.280429292929
+72E1A873,"Saliency Map Generation by the Convolutional Neural Network for Real-Time Traffic Light Detection Using Template Matching",0.325778388278,0.233234126984
+7F087EEC,"Automatic scene relighting for video conferencing",0.315064102564,0.545454545455
+7E355FF7,"Automatic ground-truthing using video registration for on-board detection algorithms",0.334027777778,0.344742063492
+7FDEBEC8,"Edge Detection by Morphological Operations and Fuzzy Reasoning",0.330555555556,0.334325396825
+81146300,"Comparison of several image features for WCE video abstract",0.328977272727,0.287222222222
+7F7F452D,"Incremental Learning for Robust Visual Tracking",0.361111111111,0.625
+7A44F18A,"Vision-Based Proximity Detection in Retinal Surgery",0.312087912088,0.389277389277
+7F9C141C,"Alignment by maximization of mutual information",0.122727272727,0.141666666667
+80C82409,"Comparative analysis of contrast enhancement algorithms in surveillance imaging",0.149206349206,0.134656084656
+7EB6BB35,"A sound foundation? What we know about the impact of environments on learning and the implications for Building Schools for the Future",0.151893939394,0.136551226551
+80535670,"An edge detection scheme using radial basis function networks",0.325778388278,0.250680272109
+7DBE4845,"Robust object tracking via online learning of adaptive appearance manifold",0.138278388278,0.145476190476
+7F1D2F80,"Interactive display of isosurfaces with global illumination",0.122315184815,0.1875
+7F8B9BCD,"Radiometric calibration using photo collections",0.136408730159,0.133928571429
+815E57FC,"Differential Earth Mover's Distance with Its Applications to Visual Tracking",0.331755050505,0.279273504274
+8043209D,"Visualization by Proxy: A Novel Framework for Deferred Interaction with Volume Data",0.138888888889,0.127370777371
+7F66377E,"Region Duplication Detection Using Image Feature Matching",0.317841880342,0.240127332984
+73DB7D20,"View-based object matching",0.100778388278,0.142857142857
+7EE79851,"A hybrid adaptive scheme based on selective Gaussian modeling for real-time object detection",0.312087912088,0.335714285714
+80218EFF,"Real Time Detection of Eye Corners and Iris Center from Images Acquired by Usual Camera",0.325505050505,0.198634390301
+78D0A0EB,"Moving Cast Shadows Detection Using Ratio Edge",0.325778388278,0.246830550402
+7D480D8B,"Detection of composite edges",0.312087912088,0.541666666667
+7D19E268,"Image chromatic adaptation using ANNs for skin color adaptation",0.112980769231,0.145238095238
+7D1BCA51,"Stabilizing Marker-Based Visual Tracking Using Markers with Scattering Materials and Multiple Cameras",0.324810606061,0.242111459969
+7D4FD5FE,"Matching Groups of People by Covariance Descriptor",0.128977272727,0.138737373737
+802F8E9E,"Discriminative Learning and Recognition of Image Set Classes Using Canonical Correlations",0.138278388278,0.148526077098
+80F48E36,"Looking around the corner using transient imaging",0.112087912088,0.144155844156
+7B59D650,"Influence of shading control patterns on the energy assessment of office spaces",0.135227272727,0.129808386058
+80BA2022,"Advanced Volume Illumination with Unconstrained Light Source Positioning",0.136408730159,0.133630952381
+7D75C89E,"Activity maps for location-aware computing",0.136408730159,0.116666666667
+7E3BA603,"Change detection using comparagram of images under varying illumination",0.334027777778,0.276785714286
+7D33A8F5,"Directional correlation analysis of local Haar binary pattern for text detection",0.338492063492,0.307936507937
+80217BB2,"A fast parametric motion estimation algorithm with illumination and lens distortion correction",0.171825396825,0.156216931217
+7A0671B6,"Volume illustration: nonphotorealistic rendering of volume models",0.133838383838,0.156666666667
+7F8EC22B,"Fast and Accurate 3D Scanning Using Coded Phase Shifting and High Speed Pattern Projection",0.152191558442,0.145975056689
+81479743,"Robust Multi-Pedestrian Tracking in Thermal-Visible Surveillance Videos",0.55,0.7
+796C8193,"High-speed pattern projection for three-dimensional shape measurement using laser speckles",0.133928571429,0.116932670504
+79E2B0E7,"Reflectance estimation from motion under complex illumination",0.148397435897,0.170833333333
+7FD8C6CE,"Classification of traffic video based on a spatiotemporal orientation analysis",0.334027777778,0.274470899471
+7C4B08A8,"A multi-layer discriminative framework for parking space detection",0.335227272727,0.344444444444
+811292BE,"Segmenting scenes with motion using Ambient Illumination Invariant Imaging",0.173397435897,0.15630282416
+81079C06,"Automatic exposure compensation for line detection applications",0.340277777778,0.288888888889
+7DDD10DD,"Self-Adaptive Visual Tracking Method for Illumination Varying Based on Multi-feature Fusion",0.335227272727,0.274470899471
+774C5D46,"Sleep duration, illumination, and activity patterns in a population sample: effects of gender and ethnicity",0.14880952381,0.132495590829
+7FB65F49,"Ellipsoidal Method for Shadow Detection Based on Normalized RGB Values",0.317841880342,0.296753246753
+7F307E69,"Learning illumination- and orientation-invariant representations of objects through temporal association",0.114989177489,0.138392857143
+7D41204C,"Real-time visual tracking via Incremental Covariance Tensor Learning",0.361111111111,0.357954545455
+7EE23B24,"Object detection and localization by dynamic template warping",0.327777777778,0.328282828283
+7D64BB5C,"Eye Detection Based on Skin Color Analysis with Different Poses under Varying Illumination Environment",0.334027777778,0.218474426808
+7E3E4E9E,"Low complexity algorithm for robust video frame rate up-conversion (FRUC) technique",0.330555555556,0.264143264143
+80B78E8A,"Using video for recovering texture",0.315064102564,0.348214285714
+64D85AEE,"Virtual light: digitally-generated lighting for video conferencing applications",0.334027777778,0.329166666667
+77ADE364,"Supply Demand Coordination for Building Energy Saving: Explore the Soft Comfort",0.136111111111,0.131651334776
+7FE66F44,"Progressive Image Color Neutralization Based on Adaptive Histogram Clustering",0.137797619048,0.143452380952
+7608E867,"Structure from shadow motion",0.148397435897,0.216666666667
+7EE0631A,"pProgramming for artists: a visual language for expressive lighting design",0.143055555556,0.146527777778
+80139534,"Symmetric Objects are Hardly Ambiguous",0.100778388278,0.142857142857
+810CFDD0,"Biologically Inspired Features for Scene Classification in Video Surveillance",0.334027777778,0.283181818182
+705B35B9,"Player extraction in sports video sequences",0.365277777778,0.314444444444
+7D391B42,"Unsupervised Learning of Discriminative Edge Measures for Vehicle Matching between Nonoverlapping Cameras",0.134508547009,0.119764957265
+8164402B,"Improved fuzzy logic supported HDR colored information enhancement",0.131547619048,0.137770562771
+807171C5,"Robust pupil detection by image difference with positional compensation",0.325778388278,0.290238095238
+7D4DC4C4,"A compressive sensing approach for expression-invariant face recognition",0.325505050505,0.325505050505
+7E5BFE6E,"Tree-based Classifiers for Bilayer Video Segmentation",0.315064102564,0.39696969697
+75912425,"Lightness Change as Perceived in Relation to the Size of Recognized Visual Space of Illumination",0.134027777778,0.140646258503
+5B41AF04,"Robust and illumination invariant change detection based on linear dependence for surveillance application",0.344742063492,0.251530612245
+7C88A338,"Morphological Background Detection and Illumination Normalization of Text Image with Poor Lighting",0.338492063492,0.26917989418
+7E7769B4,"Safety for human-robot interaction in dynamic environments",0.125694444444,0.138888888889
+7F773D75,"Change detection and background extraction by linear algebra",0.338492063492,0.29246031746
+72245318,"Seamless change detection and mosaicing for aerial imagery",0.334027777778,0.441666666667
+78AFC634,"A Random Field Model for Improved Feature Extraction and Tracking",0.323611111111,0.278888888889
+7A834880,"ExpoBlend: Information preserving exposure blending based on normalized log-domain entropy",0.115064102564,0.138015873016
+80FBF6D7,"Computer vision for the remote sensing of atmospheric visibility",0.314865689866,0.338675213675
+7FCEA24D,"Visual Tracker Using Sequential Bayesian Learning: Discriminative, Generative, and Hybrid",0.130341880342,0.15873015873
+7F82DF8C,"An alignment based similarity measure for hand detection in cluttered sign language video",0.545833333333,0.329894179894
+81298BB7,"A motion compensated filtering approach to remove sunlight flicker in shallow water images",0.164583333333,0.137901334776
+7FA6D690,"A physics-based statistical signature model for hyperspectral target detection",0.322802197802,0.338492063492
+7D4DD2F2,"The Research on Vehicle Flow Detection in Complex Scenes",0.327777777778,0.277070707071
+7ED2A5C5,"Object tracking using incremental 2D-LDA learning and Bayes inference",0.138278388278,0.146103896104
+7F7D0879,"Illumination normalization with time-dependent intrinsic images for video surveillance",0.334027777778,0.292222222222
+800F6C67,"High quality mesostructure acquisition using specularities",0.128472222222,0.144841269841
+7F27FECA,"Background recovery from video sequences using motion parameters",0.315064102564,0.273139558854
+7EF1EB06,"Spherical wave near-field imaging and radar cross-section measurement",0.144742063492,0.126298701299
+78EB0B5B,"Detection of Moving Objects with Removal of Cast Shadows and Periodic Changes Using Stereo Vision",0.346428571429,0.215043290043
+5ACAB521,"Development of a learning algorithm for facial recognition under varying illumination",0.157242063492,0.147156084656
+806949DA,"Component-based face detection method for various types of occluded faces",0.317841880342,0.283585858586
+7E49055E,"Robust background extraction scheme using histogram-wise for real-time tracking in urban traffic video",0.545833333333,0.377097505669
+78346DB4,"Shadow removal of single texture region using local histogram matching",0.129274891775,0.144365079365
+7F40E72F,"Cloud shadow detection under arbitrary viewing and illumination conditions",0.340064102564,0.267803030303
+800D0BFB,"Single-image reflectance estimation for relighting by iterative soft grouping",0.128977272727,0.141666666667
+7BDC6A35,"Perceptual learning of second order cues for layer decomposition",0.143055555556,0.126507936508
+7F35C3C0,"Deblocking Filtering for Illumination Compensation in Multiview Video Coding",0.315064102564,0.281666666667
+7D954CFC,"Geometric Modifications Applied to Real Elements in Augmented Reality",0.134027777778,0.136195054945
+7F214372,"Efficient Binarization of Historical and Degraded Document Images",0.112980769231,0.144841269841
+7B447E09,"Effects of amphetamine and illumination on activity following frontal ablation",0.136408730159,0.119781144781
+7EEBEDFC,"Histogram model for 3D textures",0.112087912088,0.141666666667
+7CFD3559,"An Artificial Woodland Scene Model for Simulation of Hyperspectral Imaging System",0.134027777778,0.119654882155
+7EB08F07,"Combining color and geometric information for the illumination invariant recognition of 3-D objects",0.115064102564,0.138161375661
+7D3A7559,"The Effects of Motion and Spatio-temporal Non-uniform Illumination on Image-pair Joint Scattergrams",0.148397435897,0.189814814815
+7FC755BC,"Extended VQM model for predicting 3D video quality considering ambient illumination context",0.321338383838,0.225599747475
+7F520F5F,"A 0.15 /spl mu/m KrF lithography for 1 Gb DRAM product using highly printable patterns and thin resist process",0.133928571429,0.12408008658
+806F68CA,"Shadow Detection in Dynamic Scenes Using Dense Stereo Information and an Outdoor Illumination Model",0.340064102564,0.247170686456
+775C4718,"Blue light aids in coping with the post-lunch dip: an EEG study",0.132954545455,0.131666666667
+7ED61B7F,"Shadow detection based on adaboost classifiers in a co-training framework",0.312087912088,0.284935064935
+80CC8BE8,"Difference Subspace and Its Generalization for Subspace-Based Methods",0.111492673993,0.138392857143
+7D299304,"What Object Motion Reveals about Shape with Unknown BRDF and Lighting",0.148397435897,0.194444444444
+80A71818,"Shot boundary detection from videos using entropy and local descriptor",0.540064102564,0.475793650794
+7E2DB287,"A Robust Moving Object Detection Approach",0.322727272727,0.414285714286
+7B25C9C2,"Visual performance for trip hazard detection when using incandescent and led miner cap lamps",0.342171717172,0.211708045041
+7FD791E1,"Precise detailed detection of faces and facial features",0.312087912088,0.403703703704
+76E3B663,"SuBSENSE: A Universal Change Detection Method With Local Adaptive Sensitivity",0.334027777778,0.340277777778
+7D90D231,"A color neuromorphic approach for motion estimation",0.156060606061,0.170833333333
+80F4CC13,"A moving object detection algorithm for smart cameras",0.327777777778,0.332722832723
+80AE788F,"Robust visual tracking via multi-task sparse learning",0.130341880342,0.1875
+1303E162,"Visual Effects Assessment of the Green Laser-Baton Illuminator (GLBI)",0.114865689866,0.155555555556
+7C458C91,"Novel face detection using Gabor filter bank with variable threshold",0.318337912088,0.233286951144
+7F5B96D7,"Automatic Recognition of Offensive Team Formation in American Football Plays",0.208441558442,0.201587301587
+8087AA25,"Fast track matching and event detection",0.358630952381,0.422222222222
+7EBD17B3,"Fast video search and indexing for video surveillance applications with optimally controlled False Alarm Rates",0.341964285714,0.226591810967
+7F7FF5F0,"Adaptive Monte Carlo Retinex Method for Illumination and Reflectance Separation and Color Image Enhancement",0.133928571429,0.126339285714
+82669D3B,"Performance Indexes Assessment for Lighting Systems Based on the Normalized Power Density and Energy Losses Estimation in University Workrooms",0.133441558442,0.117522221368
+7AB6043D,"Underwater Optical Imaging: The Past, the Present, and the Prospects",0.125778388278,0.147619047619
+7A5166CB,"Robust real time face detection automatically from video sequence based on Haar features",0.547727272727,0.365141207998
+8012B718,"Robust visual tracking based on simplified biologically inspired features",0.318560606061,0.341964285714
+77F2AA05,"Uniform illumination by diffractive shaping of independent light beams",0.115064102564,0.15
+7EB64678,"DSP implmentation of a low complexity motion detection algorithm",0.386111111111,0.396825396825
+7F4FBA42,"Class-specific Hough forests for object detection",0.318337912088,0.5625
+758D6BD7,"Day color transfer based night video enhancement for surveillance system",0.341666666667,0.226238576239
+7EF9C6C3,"Generating Novel Information Salient Maps for Foreground Object Detection in Video",0.540064102564,0.37132034632
+5B169488,"Ultrasonic array sensor for indoor presence detection",0.325778388278,0.337797619048
+7FE3D8FD,"Continual surface-based multi-projector blending for moving objects",0.117261904762,0.142857142857
+7E3F3BFE,"Moving cast shadow detection using physics-based features",0.318337912088,0.266937229437
+7DA8D19C,"Visual Tracking via Locality Sensitive Histograms",0.341666666667,0.427777777778
+8107818F,"Detection of visual fatigue by analyzing the blink rate",0.325778388278,0.29880952381
+7DBC69C6,"Open Hand Detection in a Cluttered Single Image using Finger Primitives",0.317841880342,0.29246031746
+7ED306EB,"A new colour space for skin tone detection",0.335227272727,0.361111111111
+5BB1085B,"Automatic object-level change interpretation for multispectral remote sensing imagery",0.134027777778,0.131666666667
+80CB91DF,"Screen-Camera Calibration Using Gray Codes",0.141964285714,0.161904761905
+81034BDF,"Hand tracking by combining enhanced incremental learning and background model",0.138278388278,0.137698412698
+7D95A52B,"Video segmentation into scenes using entropy and SURF",0.318560606061,0.259794372294
+80D684C3,"Blind face indexing in video",0.327777777778,0.400673400673
+808951BD,"Fast display of illuminated field lines",0.122315184815,0.152777777778
+7E935960,"Fast centre–surround contrast modification",0.135714285714,0.171428571429
+7F197906,"Gradient of B-splines in volume rendering",0.113005050505,0.140211640212
+81A58B03,"Accurate and Practical 3D Measurement for Translucent Objects by Dashed Lines and Complementary Gray Code Projection",0.144742063492,0.144365079365
+807427F1,"Robust adapted object detection under complex environment",0.318337912088,0.416666666667
+7F02CEF8,"A Multiscale Parametric Background Model for Stationary Foreground Object Detection",0.325778388278,0.295324675325
+762F0EA1,"Behavior of early life intervals of Klamath River green sturgeon, Acipenser medirostris, with a note on body color",0.136408730159,0.114229386598
+7642AFF8,"Eigenbubbles: An Enhanced Apparent BRDF Representation",0.110524891775,0.142857142857
+814807D6,"Chronomics, neuroendocrine feedsidewards and the recording and consulting of nowcasts—forecasts of geomagnetics",0.115064102564,0.2
+7E0E9742,"Computer Vision-Based Eyelid Closure Detection: A Comparison of MLP and SVM Classifiers",0.35,0.293566433566
+7F397BBC,"Particle Filter with Mode Tracker(PF-MT) for Visual Tracking Across Illumination Change",0.338492063492,0.238662131519
+7E669857,"Millimeter-wave active imaging using neural networks for signal processing",0.125778388278,0.152678571429
+80158681,"Deformable motion tracking of the heart surface",0.379166666667,0.383333333333
+8058565A,"An image sensor with an in-pixel demodulation function for detecting the intensity of a modulated light signal",0.137310606061,0.129138321995
+8109139E,"Avoiding false alarms due to illumination variation in shot detection",0.325505050505,0.338492063492
+7EE1B531,"Video partitioning by an illumination invariant metric based on edge map",0.317841880342,0.233792001649
+798DEB33,"Radiometric measurements of gap probability in conifer tree canopies.",0.136408730159,0.105726911977
+7FDA3BD2,"Illumination Invariant Object Tracking with Incremental Subspace Learning",0.138278388278,0.146103896104
+816A1DCF,"Quantitative comparison of metrics for change detection in video patrolling applications",0.559027777778,0.405555555556
+7E57644A,"Real-Time Hand Gesture Detection and Recognition Using Bag-of-Features and Support Vector Machine Techniques",0.355158730159,0.21468654802
+8133EC76,"SIFT-Rank: Ordinal description for invariant feature correspondence",0.115064102564,0.155555555556
+80A06C6E,"Dynamic shadow elimination for multi-projector displays",0.135708041958,0.1875
+813E6228,"Assessing the Uniqueness and Permanence of Facial Actions for Use in Biometric Applications",0.144742063492,0.135846560847
+8045BD49,"Object recognition using invariant profiles",0.122315184815,0.167989417989
+7D13D906,"Combining color-based invariant gradient detector with HoG descriptors for robust image detection in scenes under cast shadows",0.325778388278,0.197745310245
+810BFCB1,"Face Recognition from Face Motion Manifolds using Robust Kernel Resistor-Average Distance",0.148397435897,0.129725829726
+7F17CBAD,"Fuzzy integral for moving object detection",0.312087912088,0.417989417989
+761748DF,"Subpixel Scanning Invariant to Indirect Lighting Using Quadratic Code Length",0.115064102564,0.144365079365
+7D58B9CF,"Binary Segmentation of Video Sequences in Real Time",0.322727272727,0.330555555556
+7A54ED50,"Search for gross illumination discrepancies in images of natural objects",0.133928571429,0.132142857143
+813B38A3,"Three-Dimensional Facial Imaging Using a Static Light Screen (SLS) and a Dynamic Subject",0.140064102564,0.130627705628
+810CB031,"Radiative transfer modeling and analysis of spatially variant and coherent illumination for undersea object detection",0.350694444444,0.300555555556
+7EC930A1,"An Illumination Adaptive Video Coding Scheme for In-Vehicle Video Applications",0.334027777778,0.408333333333
+7E402DF9,"Probabilistic recognition of human faces from video",0.315064102564,0.407407407407
+80A504F0,"Activity based energy model for calibrated simulation approach in retrofitting a multi use facility",0.136408730159,0.117155683822
+7ECC327A,"CMOS Camera With In-Pixel Temporal Change Detection and ADC",0.334027777778,0.400641025641
+811A2628,"Semi-active guidance using event driven tracking",0.152678571429,0.158630952381
+81592FB1,"Modeling Time-Varying Illumination Patterns in Video",0.329274891775,0.341964285714
+7EAF8F16,"Facial expression recognition from near-infrared video sequences",0.315064102564,0.333333333333
+7FA60521,"An Effective License-Plate Detection Method for Overexposure and Complex Vehicle Images",0.321338383838,0.284848484848
+7FF869C2,"Bayesian Order-Consistency Testing with Class Priors Derivation for Robust Change Detection",0.338492063492,0.258868446368
+7CFE8EC0,"A Comparison of the Perceptual Benefits of Linear Perspective and Physically-Based Illumination for Display of Dense 3D Streamtubes",0.141477272727,0.138181818182
+7F87384F,"Lateral biases in lighting of abstract artwork",0.151175213675,0.189814814815
+7739437D,"Pseudo‐natural Light for Displays and Lighting",0.122315184815,0.142592592593
+7E1709AA,"Joint Spectral Correspondence for Disparate Image Matching",0.121314102564,0.1625
+8126FD77,"Comparative study of electromagnetic and electronic ballasts - an assessment on harmonic emission",0.136805555556,0.134027777778
+7E6DA547,"Uniform Illumination Rendering Using an Array of LEDs: A Signal Processing Perspective",0.137310606061,0.136061507937
+800123FB,"Single-image shadow detection and removal using paired regions",0.334325396825,0.297546897547
+7C388145,"An empirical explanation of brightness",0.101481851482,0.138888888889
+7E37ECA9,"Application of Structured Illumination in Nano-Scale Vision",0.131944444444,0.138888888889
+7DD145C7,"Multi-view face detection and recognition under variable lighting using fuzzy logic",0.314865689866,0.257816257816
+805DB542,"Analytical studies of low-level motion estimators in space-time images using a unified filter concept",0.162310606061,0.144217687075
+7D2084DA,"The Power Is in Your Hands: 3D Analysis of Hand Gestures in Naturalistic Video",0.344444444444,0.248247783962
+7F1992DC,"Dictionary learning for robust background modeling",0.138278388278,0.164285714286
+7F980D92,"Improving Robustness and Accuracy in Moving Object Detection Using Section-Distribution Background Model",0.325778388278,0.240178571429
+7E2BE5EA,"Robust thermophysics-based interpretation of radiometrically uncalibrated IR images for ATR and site change detection",0.334027777778,0.259722222222
+808A5DB4,"An Intensity-augmented Ordinal Measure for Visual Correspondence",0.119230769231,0.15
+78E5EC69,"Robust motion estimation under varying illumination",0.148397435897,0.181547619048
+81491BD4,"Shape and model from specular motion",0.148397435897,0.186111111111
+79C768D1,"Temperature Dependence and Dynamic Behavior of Full Well Capacity in Pinned Photodiode CMOS Image Sensors",0.133928571429,0.119846423418
+7E45DC2A,"A Color Correction Algorithm of Multi-view Video Based on Depth Segmentation",0.338492063492,0.247562358277
+7D30149A,"Visible Light Communication, Networking, and Sensing: A Survey, Potential and Challenges",0.348214285714,0.341964285714
+74FD0172,"Automatic detection of human faces in natural scene images by use of a skin color model and of invariant moments",0.352678571429,0.229716810967
+80979FDB,"FOVEA: A video frame organizer via identity extraction and analysis",0.327777777778,0.231974374832
+5FE3288C,"Measurement of the pupil responses induced by RGB flickering stimuli",0.133928571429,0.119365079365
+7D72E398,"Tangible video teleconference system using real-time image-based relighting",0.315064102564,0.339691558442
+79B16A95,"Minimum Uncertainty Gap for Robust Visual Tracking",0.331547619048,0.414285714286
+7D2C0927,"Polyp detection in wireless capsule endoscopy images using novel color texture features",0.328977272727,0.208068783069
+7DE5C066,"Light conditions for older adults in the nursing home: Assessment of environmental illuminances and colour temperature",0.138492063492,0.121873364731
+807A9365,"Shadow-resistant tracking in video",0.545833333333,1.0
+7DE389B5,"Uniform Illumination Design by Configuration of LED Array and Diffuse Reflection Surface for Color Vision Application",0.136408730159,0.125749559083
+7EFAD12A,"Identification and Detection of the Same Scene Based on Flash Light Patterns",0.334027777778,0.239914450629
+815D4181,"Ball Detection Based on Color Information and Hough Transform",0.340064102564,0.366964285714
+7E830E52,"Affine-Constrained Group Sparse Coding and Its Application to Image-Based Classifications",0.140277777778,0.14375
+7C6AA7FF,"Towards automatic colour segmentation for robot soccer",0.319444444444,0.322008547009
+8141D6B2,"Vision-based localization using active scope camera — Accuracy evaluation for structure from motion in disaster environment",0.167361111111,0.13591020091
+7A3FD93C,"Achieving robust face recognition from video by combining a weak photometric model and a learnt generic face invariant",0.315064102564,0.21672979798
+8078755A,"Transparent watermarking using bidirectional imaging",0.112087912088,0.171428571429
+80E9E8B7,"Face tracking and recognition with visual constraints in real-world videos",0.315064102564,0.285404040404
+80334145,"Illumination change compensation techniques to improve kinematic tracking",0.334027777778,0.261574074074
+7FC34764,"Exudates detection in fundus image using non-uniform illumination background subtraction",0.329274891775,0.246660482375
+807A322A,"A unified 2D-3D video scene change detection framework for mobile camera platforms",0.552777777778,0.353737928738
+7BE6208E,"Face detection in gray scale images using locally linear embeddings",0.321314102564,0.296753246753
+79563C81,"Multiple light source detection",0.312087912088,0.55
+78630C0A,"Performance analysis of color image segmentation for text detection",0.334027777778,0.262037037037
+8462A129,"Practical database system design production of administration management for energy economization of street and public lamps project",0.136408730159,0.109241036741
+7F088322,"Recaptured photo detection using specularity distribution",0.317841880342,0.337797619048
+80359DD5,"Competitive Combination of Multiple Eye Detection and Tracking Techniques",0.325778388278,0.29246031746
+7ECF15FD,"Light-at-night, circadian disruption and breast cancer: assessment of existing evidence",0.134027777778,0.125733525734
+7F56F45B,"Evolutionary pursuit and its application to face recognition",0.206755050505,0.206755050505
+7D14F6A9,"Preliminary Image Registration for Creation of Virtual Models of Real Objects",0.133928571429,0.127142857143
+80D8263D,"Robust segmentation and tracking of colored objects in video",0.545833333333,0.560714285714
+7F3CA163,"Global action selection for illumination invariant color modeling",0.140277777778,0.143333333333
+78C346BE,"ReLiSCE: Utilizing Resource-Limited Sensors for Office Activity Context Extraction",0.136408730159,0.109829059829
+7EF41A40,"Robust Motion Detection with Color-texture Feature Fuzzy Approach",0.381060606061,0.383333333333
+7D287FAC,"Color-based and context-aware skin detection for online video annotation",0.540064102564,0.556547619048
+7E293D71,"Image Quality Assessments and Restoration for Face Detection and Recognition System Images",0.335227272727,0.223288439955
+80D69EDE,"Separating a color signal into illumination and surface reflectance components: theory and applications",0.152777777778,0.13253968254
+7F93900C,"Characterizing the shadow space of camera-light pairs",0.113005050505,0.138888888889
+7B2620DA,"Preceding vehicle detection and tracking adaptive to illumination variation in night traffic scenes based on relevance analysis.",0.338492063492,0.201626656172
+7E27A20E,"Driver alert state and fatigue detection by salient points analysis",0.334027777778,0.235209235209
+7D0552DF,"Critical Assessment of Detecting Asphalt Pavement Cracks under Different Lighting and Low Intensity Contrast Conditions Using Emerging 3D Laser Technology",0.138492063492,0.119731888482
+7D2056CB,"Multi-view scene capture by surfel sampling: from video streams to non-rigid 3D motion, shape and reflectance",0.338492063492,0.253526334776
+8171B5AC,"Interactive learning of visual topological navigation",0.143055555556,0.180555555556
+7B7EDA07,"Luminance affects age-related deficits in object detection: implications for computerized psychological assessments.",0.318337912088,0.276851851852
+8116E4E1,"Image Matching Using Photometric Information",0.121314102564,0.148214285714
+77774D54,"Narrative theme navigation for sitcoms supported by fan-generated scripts",0.127777777778,0.144365079365
+7B405416,"A Self-Adjusting Approach to Change Detection Based on Background Word Consensus",0.333441558442,0.250510204082
+7FC52D58,"Palmprint Recognition Using 3-D Information",0.115064102564,0.151322751323
+7F24F5D5,"Circularly configured multi-SLM holographic display system",0.122315184815,0.14696969697
+7A3B56DB,"Gesture Recognition in Ego-centric Videos Using Dense Trajectories and Hand Segmentation",0.339393939394,0.2410430839
+7DE61038,"Models and methods for automated material identification in hyperspectral imagery acquired under unknown illumination and atmospheric conditions",0.134027777778,0.128218694885
+7E7285EB,"Kernel-based learning of cast shadows from a physical model of light sources and surfaces for low-level segmentation",0.133814102564,0.123701298701
+795379C7,"Distributed Illumination Control With Local Sensing and Actuation in Networked Lighting Systems",0.348214285714,0.245696763554
+7E274F37,"Windowing technique for the DCT based retinex algorithm to handle videos with brightness variations coded using the H.264",0.330555555556,0.230505952381
+7E2ACCC4,"SVM-based detection of moving vehicles for automatic traffic monitoring",0.329274891775,0.291991341991
+76A07BA3,"Mobile Phone-Enabled Museum Guidance with Adaptive Classification",0.134027777778,0.136111111111
+7B46A06A,"Detection of changes in luminance distributions.",0.334027777778,0.34375
+8173D22F,"A 3.6 $\mu$ s Latency Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor",0.100778388278,0.142857142857
+776AFB18,"Improved personal identification method for guide robots using dress color information via KINECT",0.134027777778,0.122851800977
+78CF1B3D,"Multimodal face recognition based on histograms of three local descriptors using score level fusion",0.133441558442,0.132852332852
+7FFD8D7C,"Object detection through edge behavior modeling",0.344742063492,0.331547619048
+78F0A441,"Dispersal patterns and clumping behaviors in the beetle Trichoton sordidum.",0.133928571429,0.124206349206
+786EE5B7,"Color Modification of Pictures Requiring Same Color Impression as Real Scene",0.1375,0.1274427953
+7DF06B92,"Color contrast enhancement for visually impaired people",0.125992063492,0.144345238095
+759BB266,"Adaptive shadow detection using global texture and sampling deduction",0.318337912088,0.261183261183
+5C3FB4DF,"Specularity Removal in Images and Videos : A PDE Approach",0.341964285714,0.341964285714
+8142B774,"Acquiring a complete 3D model from specular motion under the illumination of circular-shaped light sources",0.148397435897,0.144642857143
+7D4F2D63,"Illumination normalization methods for object recognition in robot soccer vision",0.350694444444,0.273148148148
+768D75AD,"Tracking sparse signal sequences from nonlinear/non-Gaussian measurements and applications in illumination-motion tracking",0.338492063492,0.300793650794
+7EB39671,"Efficient motion estimation under varying illumination",0.148397435897,0.181547619048
+7BA4C793,"A novel approach for denoising and enhancement of extremely low-light video",0.335714285714,0.414285714286
+7F855F52,"Defect Detection of IC Wafer Based on Spectral Subtraction",0.318560606061,0.283116883117
+7D5C43AD,"Global Illumination Invariant Object Detection With Level Set Based Bimodal Segmentation",0.325778388278,0.246660482375
+7F8FAD9A,"Removing motion blur from barcode images",0.154647435897,0.181547619048
+7EA54ED7,"Modeling Repetitive Motions Using Structured Light",0.148397435897,0.146753246753
+81790792,"Drift-free tracking of rigid and articulated objects",0.331547619048,0.571428571429
+7D4F7D70,"On the way to solve lighting problems in underwater imaging",0.125778388278,0.138015873016
+7FDE9818,"Robust Tracking and Stereo Matching under Variable Illumination",0.324810606061,0.330357142857
+7D16A240,"Morphological Background Detection and Enhancement of Images With Poor Lighting",0.342261904762,0.304365079365
+7F6DE739,"Combining gradient and albedo data for rotation invariant classification of 3D surface texture",0.133630952381,0.131547619048
+7FAD2C94,"Learning a geometry integrated image appearance manifold from a small training set",0.133928571429,0.118303571429
+7D3ABECB,"DCT-Based Object Tracking in Compressed Video",0.315064102564,0.422619047619
+5AD94ACA,"An illumination-robust algorithm based on visual background extractor for moving object detection",0.338492063492,0.269434269434
+7E8F0581,"Illumination estimation and cast shadow detection through a higher-order graphical model",0.318337912088,0.260984848485
+8019FCC1,"A Theory Of Frequency Domain Invariants: Spherical Harmonic Identities for BRDF/Lighting Transfer and Image Consistency",0.141774891775,0.132896424563
+8075F3AF,"Moving cast shadow detection from a Gaussian mixture shadow model",0.318337912088,0.263961038961
+7DE8EF50,"The lighter side of advertising: Investigating posing and lighting biases",0.142361111111,0.132407407407
+784F89C3,"A Proposal for the Management of the Measurement Uncertainty in Classification and Recognition Problems",0.134027777778,0.133531746032
+7E1C24B4,"Interactive global illumination in dynamic environments using commodity graphics hardware",0.148397435897,0.151587301587
+7E764946,"A Detection Technique for Degraded Face Images",0.317841880342,0.331755050505
+7D3A3D6F,"Shadow elimination and occluder light suppression for multi-projector displays",0.135708041958,0.158333333333
+7D8385AC,"Illumination-invariant tracking via graph cuts",0.148397435897,0.189814814815
+810AD039,"Damaged building detection in aerial images using shadow Information",0.340064102564,0.280627705628
+7D40D177,"Neural Network Approach to Background Modeling for Video Object Segmentation",0.322727272727,0.250892857143
+7D7470D3,"A robust motion detection technique using unit gradient vectors",0.373397435897,0.280560709132
+7FFDEEF3,"A Hierarchical Bayesian Generation Framework for Vacant Parking Space Detection",0.335227272727,0.304126984127
+7D766912,"Real-time skin color detection under rapidly changing illumination conditions",0.318337912088,0.262698412698
+7F50262E,"An adaptive real-time background subtraction and moving shadows detection",0.329274891775,0.293506493506
+7FF6EE58,"A procedure for the detection and removal of cloud shadow from AVHRR data over land",0.357142857143,0.271765271765
+8078BE65,"Integrating Motion and Illumination Models for 3D Tracking",0.379166666667,0.331666666667
+8177131D,"Color histograms adapted to query-target images for object recognition across illumination changes",0.134027777778,0.13373015873
+7E8D2E4D,"Integrated detection and tracking via closed-loop radar with spatial-domain matched illumination",0.318337912088,0.284285714286
+7FA3F928,"A fast multi-channel edge detection algorithm for vision-based autonomous spacecraft docking",0.338492063492,0.282844932845
+7DF8ACE5,"Automatic Feature Learning for Robust Shadow Detection",0.312087912088,0.333441558442
+7EC0121E,"Tracking Biological Cells in Time-Lapse Microscopy: An Adaptive Technique Combining Motion and Topological Features",0.158838383838,0.142063492063
+59B036B6,"Intelligent scene display and exploration",0.138798701299,0.161255411255
+7DF04F29,"Illumination Invariant Elastic Bunch Graph Matching for Efficient Face Recognition",0.148397435897,0.151725589226
+7E96E25D,"Operational and Performance Considerations of Radiative-Transfer Modeling in Hyperspectral Target Detection",0.333441558442,0.299365079365
+79866A09,"Performance evaluation procedure for vision based object feature extraction algorithms",0.136408730159,0.126339285714
+7F8A0745,"Color-based face detection using skin locus model and hierarchical filtering",0.312087912088,0.28341991342
+75BD1B57,"A Review of the Empirical Literature on the Relationships Between Indoor Environment and Stress in Health Care and Office Settings Problems and Prospects of Sharing Evidence",0.142361111111,0.121640325486
+7D28E5AE,"Slow updating of the achromatic point after a change in illumination",0.134027777778,0.135227272727
+7A7A3E6F,"Contour-Based Object Detection in Range Images",0.317841880342,0.412037037037
+80C905BF,"Refined Gaussian Weighted Histogram Intersection and Its Application in Number Plate Categorization",0.134027777778,0.120011337868
+7FF5B68E,"Learning to track: conceptual manifold map for closed-form tracking",0.310897435897,0.283571428571
+78836D12,"Extension of the Linear Chromodynamics Model for Spectral Change Detection in the Presence of Residual Spatial Misregistration",0.334027777778,0.292222222222
+58F5E7CE,"MC3D: Motion Contrast 3D Scanning",0.148397435897,0.195767195767
+784F8C05,"A review of indices for assessing visual comfort with a view to their use in optimization processes to support building integrated design",0.144345238095,0.126028138528
+8116C5DF,"An integrated approach for generic object detection using kernel PCA and boosting",0.322727272727,0.333441558442
+8078E803,"Improved Image Enhancement Method for License Plate Detection",0.337797619048,0.244217687075
+7FF0C0FE,"Real-time feature tracking and outlier rejection with changes in illumination",0.340277777778,0.298571428571
+7EFC4E11,"Forward-Looking Planar Array 3D-STAP using Space Time Illumination Patterns (STIP)",0.125108225108,0.138558201058
+8157EDFB,"A New Adaptive Color Space YCH for Face Detection",0.335227272727,0.345643939394
+81416C6A,"Building detection from aerial images using invariant color features and shadow information",0.340064102564,0.259693877551
+7A53EA8B,"Building Knowledge into the Environment of Urban Public Space: Universal Design for Intelligent Infrastructure",0.147222222222,0.134132996633
+77B237DE,"Image segmentation by a dynamic thresholding using edge detection based on cascaded uniform filters",0.317841880342,0.220089285714
+7D19FB73,"Visual tracking decomposition",0.310897435897,0.535714285714
+7F41E17E,"Region detection and description for Object Category Recognition",0.331730769231,0.306349206349
+7F26638B,"Efficient Shot Boundary Detection Based on Scale Invariant Features",0.340277777778,0.263961038961
+802EB8A1,"Fast Non-Rigid Surface Detection, Registration and Realistic Augmentation",0.328977272727,0.33125
+7E0E5A5F,"Sparse Feature Learning for Visual Tracking by Least Absolute Shrinkage and Selection Operator",0.334027777778,0.272420634921
+589991C6,"Tracking deformable motion",0.148397435897,0.229166666667
+7DD6D517,"Understanding the diffusion of Sustainable Product-Service Systems: Insights from the sociology of consumption and practice theory",0.133928571429,0.118312590188
+7F224147,"Detection of moving cast shadows for object segmentation",0.318337912088,0.291753246753
+7E4B2623,"Illumination mipmaps for texture mapping in computational video",0.315064102564,0.348214285714
+80F9B595,"Pedestrian detection in complex scene using full binary tree classifiers based on locally assembled Binary Haar-like features",0.312087912088,0.218759018759
+7B5DE1F1,"Effects of indoor lighting on mood and cognition",0.144444444444,0.136805555556
+808EC5EB,"Mutual Illumination Correction for Compositing and Material Editing",0.120941558442,0.144841269841
+7BB966F0,"Comparison of Color LCD and Medical-grade Monochrome LCD Displays in Diagnostic Radiology",0.132954545455,0.108097854526
+7FD292D7,"A New Image Correction Method for Multiview Video System",0.337797619048,0.296753246753
+7B24363B,"Design a light pattern of multiple concentric circles for LED fishing lamps using Fourier series and an energy mapping method",0.138095238095,0.123449782541
+803B72DE,"Shot Change Detection via Local Keypoint Matching",0.334027777778,0.5625
+7F661824,"Statistical change detection with moments under time-varying illumination",0.338492063492,0.348214285714
+7E0F36B7,"Edge Detection Algorithm for Uneven Lighting Image Based on Vision Theory",0.330555555556,0.233134920635
+7DD2CFD1,"Incremental learning of weighted tensor subspace for visual tracking",0.369047619048,0.370941558442
+43351C16,"Contrast Invariant Interest Point Detection by Zero-Norm LoG Filter",0.325778388278,0.24981962482
+763FB5AB,"Effect of Classroom Modification on Attention and Engagement of Students With Autism or Dyspraxia",0.165277777778,0.135592185592
+80547057,"A novel feature based rapid eye state detection method",0.317841880342,0.255753968254
+7827A7AF,"Efficient Illumination Insensitive Object Tracking by Normalized Gradient Matching",0.331547619048,0.307142857143
+7D94F6DF,"Shadow Removal in Front Projection Environments Using Object Tracking",0.329861111111,0.268789081289
+7FD2FEF4,"Video Normals from Colored Lights",0.329274891775,0.333630952381
+8037A0E3,"Face detection with the modified census transform",0.322727272727,0.39696969697
+7B534FE2,"Evaluation of background subtraction techniques for video surveillance",0.336805555556,0.261646224146
+79CF583E,"Video Based Palmprint Recognition",0.315064102564,0.417989417989
+7DD94AA0,"3D surface estimation and model construction from specular motion in image sequences",0.167361111111,0.143650793651
+75B53A02,"Validation of forward modeling target detection approach on a new hyperspectral data set featuring an urban scenario and variable illumination conditions",0.338492063492,0.191501322751
+7D457B9C,"CDnet 2014: An Expanded Change Detection Benchmark Dataset",0.334027777778,0.416666666667
+803691A2,"MMI-Based Optimal LBP Code Selection for Face Recognition",0.144444444444,0.142171717172
+80F0A5A2,"Robust learning of discriminative projection for multicategory classification on the Stiefel manifold",0.149305555556,0.138194444444
+77690365,"Theory of Edge Detection",0.312087912088,0.402777777778
+7EF70A91,"Automatic face tracking and identity verification",0.334325396825,0.336219336219
+7FF326D2,"Isotropy, Reciprocity and the Generalized Bas-Relief Ambiguity",0.113005050505,0.150793650794
+7FA32E26,"New Block-Based Motion Estimation for Sequences with Brightness Variation and Its Application to Static Sprite Generation for Video Compression",0.167361111111,0.148474541332
+7F4EC590,"Simultaneous tracking and recognition of human faces from video",0.545833333333,0.555555555556
+7E49514F,"A study of pupil detection and tracking by image processing techniques for a human eye-computer interaction system",0.559027777778,0.339835858586
+7FE422AF,"Dependent Multiple Cue Integration for Robust Tracking",0.336805555556,0.328977272727
+7FF45E73,"Interactive intrinsic video editing",0.315064102564,0.5625
+7FC09EE1,"Near-Work Activity, Night-lights, and Myopia in the Singapore-China Study",0.136408730159,0.10119047619
+7CF83A85,"Incremental gradient on the Grassmannian for online foreground and background separation in subsampled video",0.315064102564,0.303896103896
+785E9636,"Face recognition in unconstrained videos with matched background similarity",0.315064102564,0.265812890813
+7E1A9271,"Color Retrieval for Video Surveillance",0.322727272727,0.327083333333
+7838FD5E,"An LED light source and novel fluorophore combinations improve fluorescence laparoscopic detection of metastatic pancreatic cancer in orthotopic mouse models.",0.325778388278,0.18475140056
+808BD9FD,"Face Recognition from Video by Matching Image Sets",0.321314102564,0.265812890813
+7DCA6717,"Foreground Detection Based on Real-time Background Modeling and Robust Subtraction",0.329274891775,0.261255411255
+7DE2F2D2,"An Efficient Intensity Correction Algorithm for High Definition Video Surveillance Applications",0.341964285714,0.249546485261
+8248DD12,"Traffic Sign Detection via Graph-Based Ranking and Segmentation Algorithms",0.338492063492,0.267989417989
+7D164C8F,"A Variational Bayesian Approach for Classification with Corrupted Inputs",0.134027777778,0.1375
+7D2E0B7A,"Modeling complex luminance variations for target tracking",0.333441558442,0.295793650794
+75AA4621,"RGB calibration for color image analysis in machine vision",0.139880952381,0.125661375661
+7E785FA1,"Car Number Plate Detection Using Multi-layer Weak Filter",0.314865689866,0.245105820106
+7DE5349E,"An effective foreground/background segmentation approach for bootstrapping video sequences",0.322727272727,0.327777777778
+8115037D,"Temporal Information Cooperated Gaussian Mixture Models for Real-time Surveillance with Ghost Detection",0.347727272727,0.248701298701
+761A46CC,"Pixel-based correspondence and shape reconstruction for moving objects",0.115064102564,0.142142857143
+7DD6C73D,"Pedestrian Detection in Infrared Images based on Local Shape Features",0.321314102564,0.298571428571
+7D5EE484,"A Double-Layer Model for Foreground Detection from Video Sequence",0.540064102564,0.552777777778
+8059E86E,"Background segmentation and its application to traffic monitoring using modified histogram",0.134027777778,0.13621031746
+7FB1A5BA,"Hazard Detection Methods for Lunar Landing",0.317841880342,0.328258547009
+7B181868,"Characterization of natural illuminants in forests and the use of digital video data to reconstruct illuminant spectra",0.341964285714,0.233685064935
+7E59791B,"Actionable information in vision",0.131730769231,0.183333333333
+7E1468E1,"Characteristics extraction of Pb free solder fillet profile for external feature inspection",0.135227272727,0.118934240363
+7B7F60DA,"Elimination of Speckle and Target Orientation Requirements in Millimeter-Wave Active Imaging by Modulated Multimode Mixing Illumination",0.148214285714,0.125736416361
+7EB10965,"Structure and appearance features for robust 3D facial actions tracking",0.144742063492,0.133571428571
+7B81808D,"Image-set face recognition based on transductive learning",0.130341880342,0.148719336219
+7E8066AA,"Color Correction Preprocessing for Multiview Video Coding",0.331547619048,0.341964285714
+7F9BBCD7,"Real-time direct tracking of color images in the presence of illumination variation",0.335227272727,0.268518518519
+804BB434,"Car license plates detection from complex scene",0.318337912088,0.278737373737
+7D7F0A84,"Moving cast shadow detection by exploiting multiple cues",0.318337912088,0.263961038961
+8151AE60,"Active Lighting for Video Conferencing",0.315064102564,0.5625
+80C88EDB,"Wavelets in computer graphics",0.151893939394,0.170085470085
+719C57B3,"A complete framework for fully-automatic people indexing in generic videos",0.321338383838,0.335897435897
+80D64578,"Video repairing under variable illumination using cyclic motions",0.315064102564,0.34246031746
+805C8AC7,"3D Probabilistic Feature Point Model for Object Detection and Recognition",0.314865689866,0.280404040404
+7F87A649,"Locality-constrained group sparse representation for robust face recognition",0.133441558442,0.136219336219
+7DD71493,"Adaptive change detection for real-time surveillance applications",0.340277777778,0.3375
+7FB7193C,"Streaming face recognition using multicamera video arrays",0.315064102564,0.266474266474
+7E20F18F,"Vehicle matching in smart camera networks using image projection profiles at multiple instances",0.146527777778,0.131342423009
+807FF127,"Self shadowing and local illumination of randomly rough surfaces",0.158143939394,0.162310606061
+7D29A3CF,"Generic graphics architecture",0.148397435897,0.208333333333
+7F720F82,"Motion and Region Detection for Effective Recursive Temporal Noise Reduction",0.397727272727,0.344444444444
+7E716AB6,"Scale-Adaptive Spatial Appearance Feature Density Approximation for Object Tracking",0.334325396825,0.290793650794
+7DA862A2,"Classifying color edges in video into shadow-geometry, highlight, or material transitions",0.339393939394,0.266666666667
+7C278EB1,"Efficient Visual Search for Objects in Videos",0.341964285714,0.428571428571
+71F4CF0F,"20 Gb/s Mobile Indoor Visible Light Communication System Employing Beam Steering and Computer Generated Holograms",0.144742063492,0.119433691309
+7A062009,"Automated Traffic Sign Recognition System Using Computer Vision and Support Vector Machines",0.144345238095,0.119661903753
+7DF55D82,"Seeing People in Different Light-Joint Shape, Motion, and Reflectance Capture",0.170138888889,0.1625
+7F796320,"An AC LED Smart Lighting System with Visible Light Time-Division Multiplexing Free Space Optical Communication",0.136408730159,0.127585377585
+79FEC242,"The effect of the driving activity on target detection as a function of the visibility level: Implications for road lighting",0.363095238095,0.207939787485
+7EC8840E,"ViBe: A Universal Background Subtraction Algorithm for Video Sequences",0.327777777778,0.263498075998
+7F903508,"Adaptive Learning for Target Tracking and True Linking Discovering Across Multiple Non-Overlapping Cameras",0.369047619048,0.284315221815
+788A8E2C,"Object Tracking With Joint Optimization of Representation and Classification",0.133928571429,0.133928571429
+602E8F11,"Power quality measurements embedded in smart lighting systems",0.136408730159,0.125733525734
+585E423D,"Maximin robust radar waveform design for detection of weapons",0.327777777778,0.271892551893
+7D5C2995,"Quantization effects in applying chaos theory to the detection of motion in image sequences",0.383814102564,0.242724867725
+7D45740D,"Structured light using pseudorandom codes",0.115064102564,0.144588744589
+8128AE6D,"Tracking Nonstationary Visual Appearances by Data-Driven Adaptation",0.106730769231,0.144841269841
+7BD837ED,"Dynamic Bidirectional Reflectance Distribution Functions: Measurement and Representation",0.138392857143,0.130714285714
+812D6AC1,"Underwater experiments for orientation and motion recovery from video images",0.340277777778,0.294191919192
+80BDE5C9,"Characterization and Testing of LAS: A Prototype `Large Area Sensor' With Performance Characteristics Suitable for Medical Imaging Applications",0.144742063492,0.115674603175
+80F375A9,"Efficient face recognition with variant pose and illumination in video",0.315064102564,0.287626262626
+7FA7A16C,"Color cluster rotation",0.118371212121,0.138888888889
+7EAE32B6,"Modelling 3D camera movement for vibration characterisation and multiple object identification with application to lighting assessment",0.166964285714,0.137074345408
+80F6B702,"Intelligence thresholding for degraded text-photo document images",0.120941558442,0.144345238095
+75DABE6C,"A 3D photovoltaic simulation tool for low concentration and sun tracking",0.338492063492,0.284126984127
+7B016C91,"Illumination normalization with time-dependent intrinsic images for video surveillance",0.334027777778,0.292222222222
+7F3A898A,"Face recognition in video with closed-loop super-resolution",0.315064102564,0.400673400673
+7F4D3883,"Joint nonuniform illumination estimation and deblurring for bar code signals",0.133838383838,0.155384615385
+7AF7826C,"Non-visual biological effect of lighting and the practical meaning for lighting for work",0.141964285714,0.138015873016
+7EFA3B65,"Tracking of Multiple Humans in Meetings",0.340277777778,0.430555555556
+7EEF571E,"Real-Time Eye Detection in Video Streams",0.540064102564,0.548611111111
+7D300005,"Relighting objects from image collections",0.116477272727,0.144841269841
+7E7A3CA6,"Duty factor and contrast in scanned displays",0.140277777778,0.148719336219
+7CC3AED9,"Smart modules for lighting system applications and power quality measurements",0.144345238095,0.131751185323
+7EA28245,"Video Object Boundary Reconstruction by 2-Pass Voting",0.335714285714,0.335714285714
+7F14B8B1,"Algorithm and architecture design of illumination changes adaptive motion estimation",0.166666666667,0.144841269841
+7FA691DB,"3-D-Skeleton-Based Head Detection and Tracking Using Range Images",0.317841880342,0.265812890813
+804721F7,"A Feature-Based Object Tracking Method Using Online Template Switching and Feature Adaptation",0.147916666667,0.139186507937
+7D6297B7,"A prism-based system for multispectral video acquisition",0.334027777778,0.405303030303
+7C407EED,"Optimization of a widefield structured illumination microscope for non-destructive assessment and quantification of nuclear features in tumor margins of a primary mouse model of sarcoma.",0.137797619048,0.102141642399
+76007E6D,"Robust real-time eye detection and tracking for rotated facial images under complex conditions",0.317841880342,0.257407407407
+81B054D7,"Multiscale Retinex Aggregation to Enable Robust Dense Stereo Correspondence",0.121338383838,0.140773809524
+7D16C4B5,"Polarization multiplexing for bidirectional imaging",0.112087912088,0.141666666667
+7F2310B7,"A new tracking method for small infrared targets",0.337797619048,0.422619047619
+7AEDCDE4,"Multisource illumination & shadowing",0.158143939394,0.229166666667
+7E667FCC,"Online Spatial-temporal Data Fusion for Robust Adaptive Tracking",0.333441558442,0.417989417989
+7D124B7D,"Speaker attention system for mobile robots using microphone array and face tracking",0.369047619048,0.216892366892
+7EB0F43A,"Error concealment for stereoscopic video using illumination compensation",0.334027777778,0.26455026455
+7D3FFE20,"Robust Temporal Activity Templates Using Higher Order Statistics",0.136408730159,0.125992063492
+7E3A8019,"Multi-pose Face Detection Based on Adaptive Skin Color and Structure Model",0.318337912088,0.234585652443
+7B8363B4,"NEW ALGORITHM FOR MOVING OBJECT DETECTION",0.327777777778,0.417989417989
+7536993E,"Locomotor activity and melatonin rhythms in rats under non-24-h lighting cycles",0.140873015873,0.116946778711
+7A402F01,"Learning of scanning strategies for electronic support using predictive state representations",0.160714285714,0.140986394558
+5F542E58,"Indoor Granular Presence Sensing and Control Messaging With an Ultrasonic Circular Array Sensor",0.325778388278,0.261183261183
+79E12668,"No Reference Uneven Illumination Assessment for Dermoscopy Images",0.125778388278,0.148214285714
+7C730E09,"Simulation Study on the Minimization of Moiré Patterns Caused by Microlens Array Films for Backlight Applications",0.133928571429,0.122562358277
+7FA900BE,"Fuzzy color histogram and its use in color image retrieval",0.148214285714,0.133531746032
+7EFC4832,"Skin color-based video segmentation under time-varying illumination",0.315064102564,0.408333333333
+8101E520,"An unconstrained method for lip detection in color images",0.321314102564,0.34375
+7F020A02,"Shape and motion under varying illumination: unifying structure from motion, photometric stereo, and multiview stereo",0.148397435897,0.162797619048
+7EA28D97,"Head detection for video surveillance based on categorical hair and skin colour models",0.547727272727,0.304369087702
+7E2AEF34,"Noninvasive Raman spectroscopy of rat tibiae: approach to in vivo assessment of bone quality.",0.139393939394,0.107974623416
+8096777D,"Motion and Appearance Contexts for Tracking and Re-Acquiring Targets in Aerial Videos",0.315064102564,0.309193121693
+79C1C82A,"Boosting performance of face detection by using an efficient skin segmentation algorithm",0.330555555556,0.218804112554
+7DB69C49,"Pre-Integrated Volume Rendering with Non-Linear Gradient Interpolation",0.121338383838,0.155158730159
+7FCD8DFB,"MMI-based optimal LBP code selection for facial expression recognition",0.144444444444,0.147222222222
+79DBD5A9,"Effect of Illuminance and Color Temperature on Lowering of Physiological Activity",0.140873015873,0.133267195767
+7C667C32,"Photoreception for circadian, neuroendocrine, and neurobehavioral regulation.",0.0910714285714,0.142857142857
+7DF406D8,"Identifying Color in Motion in Video Sensors",0.315064102564,0.333333333333
+80E745A2,"Modeling and tracking of faces in real-life illumination conditions",0.324810606061,0.287222222222
+7EB17033,"Video frame rate up conversion using region based motion compensation",0.318560606061,0.237030253697
+584B2D4E,"Sensors in heat: A pilot study for high resolution urban sensing in an integrated streetlight platform",0.333441558442,0.205952380952
+7D394E2F,"Accurate Moving Cast Shadow Suppression Based on Local Color Constancy Detection",0.318337912088,0.249546485261
+79633466,"Joint Human Detection From Static and Mobile Cameras",0.312087912088,0.538461538462
+7EBAD550,"4-sensor camera calibration for image representation invariant to shading, shadows, lighting, and specularities",0.133928571429,0.107186216561
+7F6F34F7,"Segmenting video shots using 2D entropy model",0.334027777778,0.295793650794
+5F428B2B,"Illumination invariant face detection using classifier fusion",0.328977272727,0.293975468975
+81449482,"Adaptive thresholding of document images based on Laplacian sign",0.112980769231,0.144345238095
+7E284E82,"Skin detection in video under changing illumination conditions",0.540064102564,0.473571428571
+8023C9D3,"Semi-Local Structure Patterns for Robust Face Detection",0.324810606061,0.333441558442
+773E33A1,"Imaging blended vertical seismic profiling data using full-wavefield migration in the common-receiver domain",0.145941558442,0.142970521542
+7CFA5774,"Adaptive Patch-Based Background Modelling for Improved Foreground Object Segmentation and Tracking",0.335714285714,0.259794372294
+7F030017,"A solution to illumination variation problem in shot detection",0.336805555556,0.291666666667
+7B85AF6A,"Moving object detection in real-time visual surveillance using background subtraction technique",0.322727272727,0.264622414622
+72166898,"Optimum color spaces for skin detection",0.335227272727,0.430555555556
+70678280,"Video occupant detection for airbag deployment",0.559027777778,0.708333333333
+7F16689A,"Subspace Interpolation via Dictionary Learning for Unsupervised Domain Adaptation",0.152564102564,0.174126984127
+7C498C75,"Integrating discrete event and lighting simulation for analyzing construction work zones lighting plans",0.14880952381,0.121273448773
+7E70C144,"Eye tracking and pupil size variation as response to affective stimuli: A preliminary study",0.341964285714,0.237471655329
+60B51784,"Human Head-Shoulder Illumination Transfer",0.118371212121,0.145833333333
+807D9969,"Group sparsity based classification for cervigram segmentation",0.140277777778,0.131753246753
+8018CD6C,"Linear vs. non linear minimization in stereo visual odometry",0.0966117216117,0.142857142857
+7F8C9E00,"Improved Shape Context algorithm for online fast recognition -an application in pedestrian detection from a moving vehicle",0.340277777778,0.214947089947
+7B1F9CBF,"A pose-wise linear illumination manifold model for face recognition using video",0.315064102564,0.240141207998
+80445BEA,"An a priori Shading Correction Technique for Contact Imaging Devices",0.138492063492,0.138822751323
+7F75B301,"Affine compensation of illumination in hyperspectral remote sensing images",0.321314102564,0.283333333333
+757D695D,"Circadian controls outweigh acute illumination effects on the activity of extracellular signal-regulated kinase (ERK) in the retina.",0.136408730159,0.113658563659
+5DB417D6,"Flat-Format Lens-Free Imaging Using an Organic Sensor With Guided Illumination and Application to Fingerprints",0.150694444444,0.140476190476
+7FF53FE0,"A transform domain approach to real-time foreground segmentation in video sequences",0.322727272727,0.252188552189
+7AFC6994,"Pixel-Level Hand Detection in Ego-centric Videos",0.540064102564,0.694444444444
+5F4740C5,"Does colorspace transformation make any difference on skin detection?",0.333441558442,0.270502645503
+81073A64,"Learning and Removing Cast Shadows through a Multidistribution Approach",0.141477272727,0.141753246753
+7D12589D,"Neural networks applied to continuous range amplitude measurements of small sinusoidal vibrations",0.138095238095,0.131613756614
+7559B8FC,"The Brain Adaptation to the Color of Illumination and not the Retinal Adaptation to the Color of Objects that Determines the Color Appearance of an Object in the Space",0.113005050505,0.137896825397
+7F89136D,"Rapid eye detection method for non-glasses type 3D display on portable devices",0.352564102564,0.316666666667
+80F75C74,"Analysis and detection of shadows in video streams: a comparative evaluation",0.336805555556,0.287626262626
+7EEBF837,"Towards night fog detection through use of in-vehicle multipurpose cameras",0.348214285714,0.284340659341
+7F424BB9,"Designing an illumination effect canceling filter in facial images for multi-view face detection and recognition in images with complex background",0.325778388278,0.197117276663
+7DAF3B3C,"Content-Based Video Segment Reunification for TV Program Extraction",0.331730769231,0.257275132275
+80B6AC73,"Precise Evaluation of Topographic Effects in Satellite Imagery for Illumination Correction",0.144742063492,0.140793650794
+7D016A0F,"Efficient Shadow Detection of Color Aerial Images Based on Successive Thresholding Scheme",0.321314102564,0.298571428571
+7FA888D2,"Order consistent change detection via fast statistical significance testing",0.334027777778,0.289444444444
+77AC34BF,"Illumination compensation based change detection using order consistency",0.338492063492,0.234126984127
+804B62DC,"Determining Both Surface Position and Orientation in Structured-Light-Based Sensing",0.334027777778,0.341964285714
+7D8C280E,"3D Scene priors for road detection",0.312087912088,0.316287878788
+44C1E4CD,"Modelowanie, badania eksperymentalne i ocena jakości oświetlenia sylwetki pieszego na przejściu dla pieszych",0.100778388278,0.142857142857
+7E3612CE,"Image partitioning and illumination in image-based pose detection for teleoperated flexible endoscopes",0.321314102564,0.286507936508
+7D88B87C,"Maximum-likelihood versus maximum a posteriori based local illumination and color correction algorithm for multi-view video",0.338492063492,0.274470899471
+7E90AC5E,"Pose and Illumination Invariant Face Recognition in Video",0.315064102564,0.287626262626
+7F953417,"Relations between Surface Gradient Maps in Frequency Domain and Application in Diffuse Component Detection",0.344742063492,0.214462081129
+7A734FCF,"A comparative life cycle assessment of luminaires for general lighting for the office – compact fluorescent (CFL) vs Light Emitting Diode (LED) – a case study",0.138492063492,0.118116605617
+7C631FAF,"A New Graph Morphological Enhancement Operator for Low Illumination Color Image",0.171130952381,0.162698412698
+802FC1DD,"NorMaL: Non-compact Markovian Likelihood for change detection",0.334027777778,0.416666666667
+80D7C0B1,"3D Haar-Like Features for Pedestrian Detection",0.312087912088,0.55
+5FB5FAC5,"Relevance Metric Learning for Person Re-Identification by Exploiting Listwise Similarities",0.138278388278,0.153571428571
+7DF2F63C,"Local Normalization with Optimal Adaptive Correlation for Automatic and Robust Face Detection on Video Sequences",0.552777777778,0.409331409331
+7E78313E,"Towards robust face recognition from video",0.315064102564,0.400673400673
+80D52930,"Human detection using Discriminative and Robust Local Binary Pattern",0.324810606061,0.342261904762
+789109D7,"Discriminative Multi-Task Sparse Learning for Robust Visual Tracking Using Conditional Random Field",0.130341880342,0.150297619048
+7FE5912E,"New block-based motion estimation for sequences with illumination variation and its application to video mosaicking",0.167361111111,0.155092592593
+7C255F48,"Anadromous Salmonid Passage and Video Image Quality under Infrared and Visible Light at Prosser Dam, Yakima River, Washington",0.345643939394,0.204446479446
+81C107E8,"Shadow Detection and Sun Direction in Photo Collections",0.335227272727,0.335227272727
+82130543,"Cooperative OFDM-based multi-user visible light communication systems with limited information",0.144742063492,0.144588744589
+79D2DE2F,"Coding techniques in Multiview Video Coding and Joint Multiview Video Model",0.336805555556,0.406018518519
+7E7E47DD,"Robust PCA by Projection Pursuit and Mean Shift Analysis",0.203282828283,0.203282828283
+7575FFE9,"Tensor-based covariance matrices for object tracking",0.331547619048,0.339691558442
+7B3FA26A,"A Low-Cost and Noninvasive System for the Measurement and Detection of Faulty Streetlights",0.344742063492,0.326298701299
+79958061,"Joint estimation of deformable motion and photometric parameters in single view video",0.321314102564,0.334848484848
+7A2A678D,"Shading cues for object class detection",0.325778388278,0.338492063492
+766B2A54,"The effects of display time and eccentricity on the detection of amplitude and phase degradations in textured stimuli",0.376893939394,0.231220939554
+7F462AD8,"Cascaded change detection for foreground segmentation",0.334027777778,0.285404040404
+80E7A216,"Object Tracking in Compressed Video with Confidence Measures",0.319230769231,0.328977272727
+7D022BF1,"Shadow-less segmentation of moving humans from surveillance video sequences",0.325505050505,0.270105820106
+7F3B0558,"Using multiple cues for hand tracking and model refinement",0.327083333333,0.258531746032
+7D63ECBA,"DTM: dynamic tone mapping for backlight scaling",0.119444444444,0.140211640212
+7D80E2D7,"Global Illumination for Interactive Lighting Design Using Light Path Pre-Computation and Hierarchical Histogram Estimation",0.136219336219,0.138832199546
+7985E877,"Shadow removal in remote sensing images using features sample matting",0.334325396825,0.243089053803
+8064C84F,"Face Recognition in Video: Adaptive Fusion of Multiple Matchers",0.322727272727,0.279292929293
+7DCFB3BE,"The new approach to automatic detection of Optic Disc from non-dilated retinal images",0.325505050505,0.322916666667
+805E4AA6,"Video-Based Tracking and Incremental Learning Applied to Rodent Behavioral Activity Under Near-Infrared Illumination",0.385416666667,0.336904761905
+7F653186,"Adaptive Shadow Detection Using a Blackbody Radiator Model",0.312087912088,0.255627705628
+7FA16417,"Joint Random Field Model for All-Weather Moving Vehicle Detection",0.312087912088,0.281904761905
+7F0D1344,"Fast 3D Scanning with Automatic Motion Compensation",0.148397435897,0.180555555556
+7E13F033,"Robust Edge Detection Based on Non-local Contribution of Local Frequency Characteristics",0.340277777778,0.262698412698
+7E6F7553,"Robust detection and classification of longitudinal changes in color retinal fundus images for monitoring diabetic retinopathy",0.340277777778,0.221681096681
+757A720D,"Guest Editor's Introduction: Special Section on the Symposium on Interactive 3D Graphics and Games (I3D)",0.185714285714,0.155905998763
+7E88A137,"The bas-relief ambiguity",0.0910714285714,0.142857142857
+7E96B39D,"Motion estimation with Second Order Prediction",0.167361111111,0.173611111111
+5F3DE30B,"An improvement on face recognition rate using local tetra patterns with support vector machine under varying illumination conditions",0.138392857143,0.112551337551
+7E25D1A4,"Multiple illuminant direction detection with application to image synthesis",0.336805555556,0.288181818182
+7FEBA17B,"Edge detection method insensitive to the light and shade variance in image",0.317841880342,0.273181818182
+80CBF2C5,"High Dynamic Range Image Display With Halo and Clipping Prevention",0.152777777778,0.137037037037
+7674AD13,"A new waveform design method for target detection in through-the-wall radar application",0.344742063492,0.239342403628
+809F42CD,"Patch-based probabilistic image quality assessment for face selection and improved video-based face recognition",0.161111111111,0.134532828283
+80CC9CA5,"Real-time rendering of human hair using programmable graphics hardware",0.151893939394,0.148571428571
+7DD2D891,"Change detection in aerial image sequences",0.334027777778,0.340277777778
+789458AD,"Object Tracking by Occlusion Detection via Structured Sparse Learning",0.548611111111,0.585227272727
+7F3B2655,"Eye-based HCI with Full Specification of Mouse and Keyboard Using Pupil Knowledge in the Gaze Estimation",0.144444444444,0.120540034195
+8073C694,"A robust depth measurement method with optimal trace tracking of structured light using dynamic programming",0.348214285714,0.228075396825
+7F231B9C,"A New Facial Features and Face Detection Method for Human-Robot Interaction",0.347222222222,0.296515151515
+7DD12E26,"Learning texture classifier for flooded region detection in SAR images",0.321314102564,0.265812890813
+80DC8ED6,"On the dimensionality of video bricks under varying illumination",0.315064102564,0.296753246753
+80E6CA42,"Visual Tracking Based on Mixture Motion Model and Incorporate Observation Distribution",0.395833333333,0.278741496599
+7B2BF320,"Color attributes for object detection",0.318337912088,0.412037037037
+81023A0C,"Accurate Quadrifocal Tracking for Robust 3D Visual Odometry",0.310897435897,1.0
+80208EB4,"Robust facial action recognition from real-time 3D streams",0.140277777778,0.140740740741
+7F4E3C07,"Nighttime Vehicle Detection Based on Illumination Visibility Recognition",0.318337912088,0.262235449735
+81728181,"Lighting control system using an Actor - Critic type learning algorithm",0.146527777778,0.126600829726
+7D46840E,"A Joint Illumination and Shape Model for Visual Tracking",0.327083333333,0.3375
+7F9B3425,"User authentication on mobile devices with dynamical selection of biometric techniques for optimal performance",0.136408730159,0.131349206349
+793127B8,"Binary Descriptor Based Nonparametric Background Modeling for Foreground Extraction by Using Detection Theory",0.325778388278,0.218522526856
+7805B2EC,"Detection of light transformations and concomitant changes in surface albedo",0.334027777778,0.292222222222
+803210E4,"Use of Sparse Representation for Pedestrian Detection in Thermal Images",0.348214285714,0.352678571429
+811DDF76,"Adaptive tracking for a mobile robot",0.310897435897,0.538461538462
+4608AAB6,"Identification and Detection of Simple 3D Objects with Severely Blurred VisionObject Visibility with Severely Blurred Vision",0.338492063492,0.259637188209
+766A2260,"Color Property of the Recognized Visual Space of Illumination Controlled by Interior Color as the Initial Visual Information",0.121338383838,0.140922619048
+80FE9E77,"A Novel Method for Face Detection across Illumination Changes",0.334027777778,0.293181818182
+598B5CE1,"Generalized Array Factor Approach to the Assessment of Discrete Tapered Nonuniform Leaky-Wave Antenna",0.133441558442,0.122137862138
+7EB4DC9C,"Performance Evaluation of Face Recognition using Visual and Thermal Imagery with Advanced Correlation Filters",0.144742063492,0.125897366522
+80CEB37F,"Code Division-Based Sensing of Illumination Contributions in Solid-State Lighting Systems",0.359027777778,0.277651515152
+7EC5ED9B,"Stripe boundary codes for real-time structured-light range scanning of moving objects",0.115064102564,0.141587301587
+790DF81B,"Iris recognition using quaternionic sparse orientation code (QSOC)",0.134027777778,0.144742063492
+8071F71B,"Modeling bidirectional radiance distribution functions of conifer canopies using 3-D graphics",0.154647435897,0.132494588745
+812A0693,"The design and implementation of a low-cost 360-degree color LED display system",0.138005050505,0.136646224146
+7FCAF831,"Towards Automatic Photometric Correction of Casually Illuminated Documents",0.120941558442,0.140211640212
+8063AF03,"Motion estimation based on iterative color matching and structure matching",0.148397435897,0.165238095238
+7FD28DA0,"Volume illustration: non-photorealistic rendering of volume models",0.133838383838,0.156666666667
+80447A01,"A New Nonparametric Linear Discriminant Analysis Method Based on Marginal Information",0.134027777778,0.144742063492
+805DA709,"Real-time eye blink detection with GPU-based SIFT tracking",0.312087912088,0.322916666667
+79F79506,"Facial landmark detection in uncontrolled conditions",0.312087912088,0.39696969697
+7DDEC823,"A principled approach to fast partitioning of uncompressed video",0.325505050505,0.334027777778
+7D83AB83,"Foreground Detection Using the Choquet Integral",0.312087912088,0.411255411255
+0306C990,"Circadian sleep, illumination, and activity patterns in women: influences of aging and time reference",0.14880952381,0.123104056437
+7C126069,"The irradiance volume",0.113005050505,0.166666666667
+7DE4348D,"Visual tracking in the presence of motion blur",0.385416666667,0.395833333333
+80F931E7,"A two-frame theory of motion, lighting and shape",0.154647435897,0.173611111111
+7E8875F1,"Cast shadow detection and removal in a real-time environment",0.337797619048,0.296753246753
+801C8D0A,"Efficient Background Subtraction and Shadow Removal for Monochromatic Video Sequences",0.333441558442,0.263107263107
+80550AB9,"Optimal detection and tracking of feature points using mutual information",0.570833333333,0.422294372294
+7F4F6F73,"Moving object detection based on blob analysis",0.334027777778,0.304365079365
+7E7D1608,"Skin detection with illumination adaptation in single image",0.331730769231,0.354166666667
+7E5DCC02,"Robust Orientation and Appearance Adaptation for Wide-Area Large Format Video Object Tracking",0.334027777778,0.260884353741
+81183F3C,"Visual Tracking via Sparse Representation Based Linear Subspace Model",0.342261904762,0.305714285714
+7B385CCE,"Using infrared illumination to improve eye & face tracking in low quality video images",0.552083333333,0.317640692641
+80FF33F6,"Integrating intensity and texture differences for robust change detection",0.338492063492,0.269642857143
+808B2D99,"Face detection by color and multilayer feedforward neural network",0.325778388278,0.339691558442
+7915FB00,"Parameter estimation of multiple pulse trains for illumination sensing",0.318337912088,0.283566433566
+7F09D557,"Robust real-time face detection with skin color detection and the modified census transform",0.328977272727,0.463181818182
+7ED16B2A,"Communications and Sensing of Illumination Contributions in a Power LED Lighting System",0.344742063492,0.232841810967
+7D5C0BF2,"A WSN-Based Intelligent Light Control System Considering User Activities and Profiles",0.167658730159,0.133207070707
+8092E5F2,"New Coding Tools for Illumination and Focus Mismatch Compensation in Multiview Video Coding",0.340277777778,0.220833333333
+7CF7F8DD,"Study of the color detection of a-Si:H by transient response in the visible range",0.328977272727,0.25787037037
+79340B89,"Modeling pixel process with scale invariant local patterns for background subtraction in complex scenes",0.138392857143,0.116923701299
+7BBC78ED,"Implementation conditions for energy saving technologies and practices in office buildings: Part 1. Lighting",0.136408730159,0.111548729049
+7DC63016,"Motion detection using periodic background estimation subtraction method",0.376893939394,0.279993815708
+7CC59297,"Computationally efficient application of the generic shape-illumination invariant to face recognition from video",0.334027777778,0.287626262626
+804B2C2A,"Regions of interest for accurate object detection",0.314865689866,0.400673400673
+7D0DEE8F,"Acquisition and evaluation of illumination series for unsupervised defect detection",0.340277777778,0.270833333333
+800B4218,"Detection of Flicker Caused by Interharmonics",0.325505050505,0.412037037037
+80C949D5,"Invariant subpixel material detection in hyperspectral imagery",0.318337912088,0.441666666667
+7F4F7640,"Colour Retinal Image Enhancement Based on Domain Knowledge",0.152380952381,0.144365079365
+5E12EFD2,"A Feature Extraction Using SIFT with a Preprocessing by Adding CLAHE Algorithm to Enhance Image Histograms",0.134027777778,0.122623556999
+780A1E97,"Bright illumination reduces parietal EEG alpha activity during a sustained attention task",0.171130952381,0.155555555556
+7FD29DB9,"Simulation of specular surface imaging based on computer graphics: application on a vision inspection system",0.184027777778,0.13468004218
+765DBFA8,"Interaction improves perception of gloss",0.136408730159,0.139880952381
+76BC3A0A,"Assessing spatial and temporal properties of perimetric stimuli for resistance to clinical variations in retinal illumination.",0.140873015873,0.133267195767
+7D486C6B,"Experimental evaluation of video transmission through LED illumination devices",0.340277777778,0.271494708995
+7F5E5642,"The PSD transfer function",0.125108225108,0.154761904762
+8063DD7B,"Geometrical shadowing of a random rough surface",0.148397435897,0.216666666667
