@@ -1,0 +1,646 @@
+7F120BC5,"Phase coupled code generation for DSPs using a genetic algorithm",0.293121693122,0.355753968254
+08CD6F07,"Low Power Code Generation for a RISC Processor by Register Pipelining",0.247426647427,0.268452380952
+5C74110F,"Logic specification of code generation techniques",0.249278499278,0.349206349206
+59DC4EE4,"Case Studies on Automatic Extraction of Target-Specific Architectural Parameters in Complex Code Generation",0.378968253968,0.382601525459
+7D18EEFD,"Handling communications in process algebraic architectural description languages: Modeling, verification, and implementation",0.299146224146,0.266468253968
+7A046B4E,"Engineering a production code generator",0.31712962963,0.39375
+7F896412,"Optimized code generation for finite element local assembly using symbolic manipulation",0.280555555556,0.322420634921
+032982CD,"Code Generation for Multirate DSP Systems in Gabriel",0.2632996633,0.350108225108
+7FA5F4F7,"UJECTOR: A Tool for Executable Code Generation from UML Models",0.259331409331,0.346428571429
+770DB2FB,"Tool support for semi-automatic modularization of existing code bases",0.319841269841,0.384126984127
+7D9119AA,"A generic annotation inference algorithm for the safety certification of automatically generated code",0.297288359788,0.300170068027
+033B186E,"Generating Test Cases for Code Generators by Unfolding Graph Transformation Systems",0.289351851852,0.259523809524
+774D0A8E,"Type-safe runtime code generation: accelerate to LLVM",0.247426647427,0.571428571429
+7A14372B,"Modular code generation from synchronous block diagrams: modularity vs. code size",0.259331409331,0.418452380952
+7FEFF54D,"Post Register Allocation Spill Code Optimization",0.255555555556,0.25867003367
+788AB444,"A Note on Removing Loops from Table-Driven Code Generators",0.256355218855,0.338888888889
+71AAC00F,"Integration Of The Code Generation Approach In The Model-Based Development Process By Means Of Tool Certification",0.432804232804,0.344708994709
+80F84BF0,"A new method for compiler code generation",0.252509065009,0.339691558442
+80EA0D63,"Model Based Development of Safety-Critical Systems Using Template Based Code Generation",0.271296296296,0.293959435626
+7D2E712D,"Optimal Synthesis of Communication Procedures in Real-Time Synchronous Reactive Models",0.288283475783,0.3625
+814BE1BC,"Formal synthesis and code generation of embedded real-time software",0.248342398342,0.352380952381
+5B99149C,"Code generation in the SACRES project",0.285515873016,0.464285714286
+5A6966D9,"Automatic generation of code generators.",0.36259018759,0.566964285714
+5B7593AB,"A fast general parser for automatic code generation",0.354937126366,0.566964285714
+7CA2BFE8,"A flexible code generation framework for the design of application specific programmable processors",0.285515873016,0.29880952381
+5F07D0DE,"Chess : Retargetable Code Generation for Embedded DSP Processors",0.247426647427,0.326339285714
+7FF54C99,"Efficient code generation for in-house DSP-cores",0.247426647427,0.571428571429
+813DDD17,"Optimal code generation for expression trees: an application BURS theory",0.292929292929,0.256685774543
+5CB88AB9,"A Preliminary Exploration of Optimized Stack Code Generation",0.247426647427,0.341964285714
+761C4AC2,"Tree automata for code selection",0.287698412698,0.344230769231
+778152E2,"The design of an integrated support software system",0.184920634921,0.216666666667
+80250374,"Verification of Hardware Descriptions by Retargetable Code Generation",0.261183261183,0.312698412698
+7E00BCCA,"Code Generation: On the Scheduling of DAGs Using Worm-Partition",0.270899470899,0.355238095238
+7F9898EA,"Online Adaptive Code Generation and Tuning",0.285515873016,0.464285714286
+78380089,"An implementation of a code generator specification language for table driven code generators",0.272156084656,0.397959183673
+812D523A,"Test suite design for code generation tools",0.282804232804,0.288095238095
+6C1F862B,"On the development and formalization of an extensible code generator for real life security protocols",0.279828042328,0.261281179138
+80E47244,"Code generation based on formal BURS theory and heuristic search",0.31534992785,0.337572150072
+7AA248FE,"Code generation using tree matching and dynamic programming",0.270899470899,0.419047619048
+59A65B29,"The Utilization of Matrix Structure to Generate Optimized Code from MATLAB Programs",0.324007936508,0.329365079365
+80A2E6DB,"Constructing a Safety Case for Automatically Generated Code from Formal Program Verification Information",0.275793650794,0.278472222222
+750CC351,"Evaluating automatic parallelization for efficient execution on shared-memory multiprocessors",0.232034632035,0.35625
+7D31D8C5,"Low-energy DSP code generation using a genetic algorithm",0.293121693122,0.452380952381
+7E64A71D,"Instruction selection using binate covering for code size optimization",0.285714285714,0.330952380952
+7A49E8EF,"A practical method for code generation based on exhaustive search",0.312103174603,0.386904761905
+79EDB9B2,"Code generation using an orthogonal model",0.247426647427,0.394047619048
+7D133C18,"Code Generation from Statecharts: Simulation of Wireless Sensor Networks",0.292328042328,0.304761904762
+802A9D42,"CTH12-3: Gaussian Chip Waveform Together with Markovian Spreading Codes Improve BER Performance in Chip-Asynchronous CDMA Systems",0.277248677249,0.302551020408
+767809B0,"Compiler design for efficient code generation and program optimization",0.275981888482,0.280627705628
+78727801,"A new code generation algorithm for 2-offset producer order queue computation model",0.328098290598,0.30560966811
+772DF3F8,"C: a language for high-level, efficient, and machine-independent dynamic code generation",0.256339031339,0.373214285714
+5D5629B4,"Semantically Configurable Code Generation",0.247426647427,0.571428571429
+5C34FEE0,"Automatic Code Generation Method Based on Coloured Petri Net Models Applied on an Access Control System",0.372113997114,0.34170995671
+7EC96664,"A simple tree pattern matching algorithm for code generator",0.309193121693,0.321352258852
+7CE1E467,"A systematic review of code generation proposals from state machine specifications",0.270442520443,0.268367346939
+770A2A18,"Optimal code generation for embedded memory non-homogeneous register architectures",0.258207070707,0.300793650794
+77B9FDF2,"Communication optimization and code generation for distributed memory machines",0.322420634921,0.297619047619
+0C4E3586,"Generating VHDL Source Code from UML Models of Embedded Systems",0.2632996633,0.323333333333
+754B64C6,"The correctness of an optimized code generation",0.247426647427,0.428571428571
+7A7F74AF,"Concern-based (de)composition of model-driven software development processes",0.279365079365,0.354166666667
+747D68DA,"Retargetable code generation based on structural processor descriptions",0.247426647427,0.348571428571
+5E190106,"A survey and critique of some models of code generation",0.260515873016,0.321904761905
+773C0643,"Retargeting JIT Compilers by using C-Compiler Generated Executable Code",0.248342398342,0.418560606061
+5F725708,"A Higher Order Generative Framework for Weaving Traceability Links into a Code Generator for Web Application Testing",0.294444444444,0.263541666667
+7B24843C,"The Pascal-XT code generator",0.256355218855,0.5625
+76AB77E6,"Multithreaded derivative computation with generated libraries",0.180429292929,0.3
+80B7905E,"Modular Code Generation from Triggered and Timed Block Diagrams",0.259331409331,0.279563492063
+7FE74042,"Towards automatic parallelization of tree reductions in dynamic programming",0.240538033395,0.447619047619
+7E995E36,"Generating Code Review Documentation for Auto-Generated Mission-Critical Software",0.258537758538,0.345238095238
+5CA9054D,"Target code generation sing the code expansion technique for java bytecode",0.25867003367,0.343353174603
+719C9EAC,"A Machine-Verified Code Generator",0.256355218855,0.5625
+7E1134E1,"A machine independent algorithm for code generation and its use in retargetable compilers.",0.319841269841,0.340548340548
+5D076D2C,"A Case Study for Automatic Code Generation on a Coupled Ocean-Atmosphere Model",0.377267573696,0.396598639456
+808FDBAF,"Adjoint Code by Source Transformation with OpenAD/F",0.264622414622,0.414285714286
+7FA5290E,"Reducing fine-grain communication overhead in multithread code generation for heterogeneous MPSoC",0.308201058201,0.336753246753
+81460928,"Direct synthesis of optimized DSP assembly code from signal flow block diagrams",0.265476190476,0.293571428571
+75C7F695,"Energy-efficient code generation for DSP56000 family (poster session)",0.247426647427,0.344742063492
+69DF0766,"Code generation for multiple mappings",0.247426647427,0.428571428571
+7D6A7E7F,"Using invariants to optimize formal specifications before code synthesis",0.248342398342,0.305627705628
+0568249E,"Towards Aspect-oriented Model-driven Code Generation in the Formal Design Analysis Framework",0.270899470899,0.328571428571
+7989DEF9,"Surveyor's Forum: Retargetable Code Generators",0.256355218855,0.334027777778
+7D49A5F8,"Time-constrained code compaction for DSPs",0.247426647427,0.555555555556
+765AF3F3,"Simultaneous reference allocation in code generation for dual data memory bank ASIPs",0.25484006734,0.252097505669
+78E246E0,"Scheduling-based code size reduction in processors with indirect addressing mode",0.261375661376,0.279563492063
+76065132,"Using rewriting techniques to produce code generators and proving them correct",0.258207070707,0.301537698413
+7D3CD3ED,"Specification, Synthesis, and Simulation of Transactor Processes",0.277106227106,0.305238095238
+812F1F86,"Retargetable assembly code generation by bootstrapping",0.256355218855,0.422619047619
+78FCA7EA,"Software Code Generation for the RVC-CAL Language",0.256339031339,0.389880952381
+7EB34A3F,"Towards Adaptive Test Code Generation for Service Oriented Systems",0.301388888889,0.309920634921
+7BA5639C,"A Retargetable Code Generator for the Generic Intermediate Language in COINS",0.264351851852,0.366477272727
+7727E250,"Efficient retargetable code generation using bottom-up tree pattern matching",0.260714285714,0.37380952381
+80CEEACB,"Efficient call graph analysis",0.292328042328,0.466666666667
+047D08E3,"Automatic task generation for the multi-level computing architecture",0.270804988662,0.320793650794
+8153DD1C,"Hardware code generation from dataflow programs",0.263498075998,0.352678571429
+7FE16A45,"On the code generated by the incidence matrix of points and hyperplanes in PG(n,q) and its dual",0.247426647427,0.281355218855
+7F18DC92,"Code Generation of an XForms Client for Service Integration",0.297883597884,0.338571428571
+7EB52AF6,"Code generation by model transformation: a case study in transformation modularity",0.273478835979,0.265986394558
+80E3C34F,"Efficient retargetable compiler code generation",0.248342398342,0.411255411255
+7FC064E0,"Optimized RTL Code Generation from Coarse-Grain Dataflow Specification for Fast HW/SW Cosynthesis",0.247426647427,0.363095238095
+7FEE8479,"Code Optimization Techniques for Embedded DSP Microprocessors",0.260185185185,0.334027777778
+78B56CE4,"Code reuse in an optimizing compiler",0.248342398342,0.545454545455
+7D9F80E8,"Clock-directed modular code generation for synchronous data-flow languages",0.256339031339,0.464285714286
+58FB42FC,"Beyond Java: An Infrastructure for High-Performance Mobile Code on the World Wide Web",0.25404040404,0.289444444444
+80A211F6,"An approach to generating and verifying complex scripts and procedures",0.284226190476,0.373333333333
+799C61A5,"Using an interactive parallelisation toolkit to parallelise an ocean modelling code",0.2625,0.402777777778
+7D27C6BC,"Code generation in the polytope model",0.247426647427,0.414285714286
+7E932D15,"Generating optimized code from SCR specifications",0.247426647427,0.389880952381
+7672AE53,"CAPLib - A 'thin layer' message passing library to support computational mechanics codes on distributed memory parallel systems",0.273611111111,0.293898809524
+7CCEC64C,"Description-driven code generation using attribute grammars",0.247426647427,0.389880952381
+02B6B339,"Performance of Table-Driven Code Generators Using Tree-Pattern Matching",0.270304232804,0.400297619048
+656D2C3F,"Consistent code generation from UML models",0.247426647427,0.414285714286
+5C03259D,"Data Parallel Code Generation for Arbitrarily Tiled Loop Nests",0.25404040404,0.267006802721
+7EBCF676,"Code Generation from B Specification based on Component Oriented Approach",0.261431623932,0.27032967033
+7FA0A696,"Instruction set design and optimizations for address computation in DSP architectures",0.200462962963,0.231018518519
+7ABC966F,"A Dynamic Programming Approach to Optimal Integrated Code Generation",0.270899470899,0.377380952381
+59A53D2C,"Target code generation from G-machine code",0.247426647427,0.571428571429
+7E9CB4C6,"An Automatic Approach to Generating State Diagram from Contract-Based Class",0.247789115646,0.290476190476
+0C4AEAD4,"Multi-core code generation from Interface based hierarchy",0.247426647427,0.332844932845
+005B6E2C,"Object-Process Methodology (OPM) vs. UML - a Code Generation Perspective",0.251593314093,0.337797619048
+78487CBC,"VCODE: a retargetable, extensible, very fast dynamic code generation system",0.2632996633,0.436507936508
+794C1918,"A mechanically verified code generator",0.256355218855,0.5625
+58C3A88E,"Two Tree Pattern Matchers for Code Selection",0.292857142857,0.356547619048
+7EFA7E20,"Jacobian code generated by source transformation and vertex elimination can be as efficient as hand-coding",0.264622414622,0.322883597884
+7BB564A9,"Automatic parallel code generation for message passing on distributed memory systems",0.377380952381,0.359871031746
+77E0F99E,"Recovery code generation for general speculative optimizations",0.253571428571,0.344742063492
+5F6629CF,"Symbolic Derivation and Automatic Generation of Parallel Routines for Finite Element Analysis",0.302551020408,0.338961038961
+803FE9F9,"Address code generation utilizing memory sharing in DSP processors",0.251593314093,0.287244897959
+76E93A14,"Generating Java Code from UML Class and Sequence Diagrams",0.252188552189,0.283994708995
+6A1278B6,"Advanced code generation for high performance Fortran",0.261375661376,0.349206349206
+7754111F,"Efficient code generation from SHIM models",0.249410774411,0.331547619048
+0BBCA9FE,"An Object-Oriented Approach To Generate Java Code From UML Statecharts",0.263762626263,0.379166666667
+756DBD80,"Error control by product codes in arithmetic units",0.427976190476,0.478571428571
+09CEEA4F,"Code generator writing systems",0.2632996633,0.372916666667
+06D9A6D4,"Graham-glanville code generators",0.256355218855,0.5625
+7A17C80A,"High-performance SIMT code generation in an active visual effects library",0.247426647427,0.417989417989
+5A14D076,"Code Generation in Action",0.308201058201,0.464285714286
+7F586777,"Partial Evaluation for Code Generation from Domain-Specific Languages",0.288481888482,0.398214285714
+7F0D3093,"Minimum register instruction sequence problem: revisiting optimal code generation for DAGs",0.247426647427,0.255725623583
+812A2DC6,"CoDeSe: fast deserialization via code generation",0.247426647427,0.571428571429
+7D3C6C6F,"Automatic tuning matrix multiplication performance on graphics hardware",0.262811791383,0.294841269841
+7B0DDF5F,"Retargetable Compiler Code Generation",0.248342398342,0.411255411255
+09BEE36E,"Pattern-Based Code Generation for Well-Defined Application Domains",0.285515873016,0.375992063492
+78542694,"Cronus: A platform for parallel code generation based on computational geometry methods",0.258207070707,0.268424036281
+7F22C9D7,"A graph based processor model for retargetable code generation",0.247426647427,0.312698412698
+7F2612F2,"Design of space-time codes achieving generalized optimal diversity",0.270899470899,0.348181818182
+7BF7C0D9,"Efficient SIMD Code Generation for Runtime Alignment and Length Conversion",0.253571428571,0.307142857143
+5D68D62E,"Code Generator Generation Based on Template-Driven Target Term Rewriting",0.256355218855,0.285430839002
+6A14B06A,"Loop transformation recipes for code generation and auto-tuning",0.267989417989,0.312698412698
+77EAA3E5,"Verifying semantic conformance of state machine-to-java code generators",0.256355218855,0.311666666667
+7EC7B30D,"Instruction-set matching and selection for DSP and ASIP code generation",0.285714285714,0.447619047619
+5B4C5518,"Code generation and optimization for embedded digital signal processors",0.256339031339,0.323571428571
+7D4A4285,"Target-sensitive construction of diagnostic programs for procedure calling sequence generators",0.283994708995,0.293518518519
+7EDF8449,"Code generation algorithms for digital signal processors",0.295889295889,0.365238095238
+76A51926,"Minimal unroll factor for code generation of software pipelining",0.247426647427,0.355158730159
+5DA50305,"On automatic loop data-mapping for distributed-memory multiprocessors",0.203131252501,0.403703703704
+7DE9D4EB,"Automatic framework generation for hard real-time applications",0.265136054422,0.373214285714
+7E82DC59,"Efficient embedded code generation with multiple load/store instructions",0.247426647427,0.344047619048
+7EE9227A,"CARS: a new code generation framework for clustered ILP processors",0.252188552189,0.288571428571
+75464F99,"Using domain-specific languages and access-execute descriptors to expand the parallel code synthesis design space: keynote talk",0.273667073667,0.261349206349
+7D5FD16E,"Code generation from a domain-specific language for C-based HLS of hardware accelerators",0.267328042328,0.289285714286
+76B67A8F,"Table-Driven Code Generation",0.247426647427,0.571428571429
+7B026EC8,"Dynamic Reverse Code Generation for Backward Execution",0.253571428571,0.352678571429
+80C661B6,"Source-level loop optimization for DSP code generation",0.260185185185,0.344742063492
+80FF05C4,"Model-based code generation for HLA federates",0.247426647427,0.571428571429
+7587A118,"The Generation of Optimal Code for Stack Machines",0.259331409331,0.352678571429
+805B7E05,"Preventing Reverse Engineering Threat in Java Using Byte Code Obfuscation Techniques",0.275998075998,0.269183902517
+7D1B7265,"Code Generation for Autonomic Systems with ASSL",0.2632996633,0.436507936508
+80694FF5,"High-integrity code generation for state-based formalisms",0.249278499278,0.417989417989
+7ED5080A,"Automatic Test Generation for Model-Based Code Generators",0.36259018759,0.473571428571
+7FE5061F,"All-optical CDMA using 'quasi-prime' codes",0.247426647427,0.666666666667
+76ED11ED,"Processor modeling and code selection for retargetable compilation",0.288961038961,0.296666666667
+77CA5638,"Optimal register assignment to loops for embedded code generation",0.270899470899,0.333571428571
+7AADAB02,"Selective code transformation for dual instruction set processors",0.261375661376,0.338571428571
+5B5DEDEE,"DSP Code Generation with Optimized Data Word-Length Selection",0.285714285714,0.371428571429
+7A0A55A0,"Ur: statically-typed metaprogramming with type-level record computation",0.185984848485,0.333333333333
+5AD550BD,"Code Generation and Optimization Techniques for Embedded Digital Signal Processors",0.256339031339,0.288161375661
+07D4B158,"Code Generator Testing in Practice",0.316865079365,0.414583333333
+0288B37B,"Code Generation Methods for Tiling Transformations",0.265542328042,0.332142857143
+78F848FD,"Mesa: automatic generation of lookup table optimizations",0.238540031397,0.261183261183
+5A406007,"Generalized Instruction Selector Generation: The Automatic Construction of Instruction Selectors from Descriptions of Compiler Internal Forms and Target Machines",0.270975056689,0.216883116883
+802025AE,"Towards the formal verification of a C0 compiler: code generation and implementation correctness",0.264143264143,0.271765271765
+7E148DC9,"Address Code Optimization Exploiting Code Scheduling in DSP Applications",0.285515873016,0.427380952381
+6E293876,"A code generation approach for auto-vectorization in the SPADE compiler",0.261431623932,0.296753246753
+60323203,"HEPMath 1.4: A Mathematica Package for Semi-Automatic Computations in High Energy Physics",0.184325396825,0.206168831169
+73A5E4F8,"Code Generation and Optimization for Finite Element Analysis",0.270899470899,0.313571428571
+7C3B8ED1,"Gras: A general framework for combining automatic code generation and register allocation",0.354937126366,0.38985260771
+7624C378,"Code Generation: A Strategy for Neural Network Simulators",0.256355218855,0.302142857143
+7A1F7F58,"Denotational semantics as a specification of code generators",0.256355218855,0.339691558442
+80F808F4,"Automatic Implementation of Multi-partitioning Using Global Tiling",0.235222573878,0.404761904762
+80BCA4A4,"Model-Driven SIMD Code Generation for a Multi-resolution Tensor Kernel",0.252188552189,0.333441558442
+7639634F,"SDL code generation for network simulators",0.256355218855,0.352678571429
+813BB968,"Transformation of Scientific Algorithms to Parallel Computing Code: Single GPU and MPI Multi GPU Backends with Subdomain Support",0.307936507937,0.368253968254
+5E0A554A,"Program Checking with Certificates: Separating Correctness-Critical Code",0.251593314093,0.414583333333
+80D67D66,"A Framework for Generating Query Language Code from OCL Invariants",0.256339031339,0.338181818182
+7A6D10F7,"Automatic derivation of compiler machine descriptions",0.240538033395,0.298268398268
+7F4D5DFB,"Generating customized verifiers for automatically generated code",0.248342398342,0.397727272727
+7BD70E27,"Code generation for silicon",0.248342398342,0.417989417989
+5DDA983F,"Expression and loop libraries for high-performance code synthesis",0.25404040404,0.284444444444
+7BB91920,"Code Generation for Expressions with Common Subexpressions",0.247426647427,0.417989417989
+7E1E8FA2,"Graphical user interfaces and automatic generation of sequential and parallel code for scientific computing",0.35772005772,0.405148555149
+80B2ACB1,"Sound Code Generation from Communicating Hybrid Models",0.247426647427,0.352380952381
+03E4FF58,"Sollya: An Environment for the Development of Numerical Codes",0.253571428571,0.416666666667
+771D397B,"Finite-state code generation",0.247426647427,0.571428571429
+7F4AD413,"Optimal register assignment to loops for embedded code generation",0.270899470899,0.333571428571
+7E78301C,"Providing rapid feedback in generated modular language environments: adding error recovery to scannerless generalized-LR parsing",0.297883597884,0.280555555556
+7AFFC74B,"Instruction selection, resource allocation, and scheduling in the AVIV retargetable code generator",0.294642857143,0.280158730159
+779F7477,"Aspect-oriented model-driven code generation: A systematic mapping study",0.260515873016,0.363095238095
+7DDAC73E,"Leveraging Service-Orientation for Combining Code Generation Frameworks",0.247426647427,0.323571428571
+7A8646B4,"Binary codes from the complements of the triangular graphs",0.247426647427,0.437037037037
+5CCF91DB,"A Latency Tolerant Code Generation Algorithm for a Coarse Grain Dataflow Machine",0.305026455026,0.310317460317
+5D041215,"Mapping Uml Statecharts To Java Code",0.247426647427,0.583333333333
+7D42D0B4,"Formal synthesis and code generation of real-time embedded software using time-extended quasi-static scheduling",0.271815221815,0.301360544218
+7C26CB89,"Code generation for compiled bit-true simulation for DSP application",0.285515873016,0.398214285714
+7F995DB0,"Automatic parallelization and scheduling of programs on multiprocessors using CASCH",0.255725623583,0.351666666667
+7D09D29E,"Automatic SystemC Code Generation from UML Models at Early Stages of Systems on Chip Design",0.388662131519,0.35431547619
+7725A618,"High-quality code generation via bottom-up tree pattern matching",0.260714285714,0.383928571429
+7E475FCC,"Run-time code generation as a central system service",0.301388888889,0.389880952381
+758DA239,"Efficient scheduling of DSP code on processors with distributed register files",0.270899470899,0.313571428571
+5C9A23A1,"How Hard is Compiler Code Generation?",0.247426647427,0.492063492063
+7DF377E1,"Quibbs, a Code Generator for Quantum Gibbs Sampling",0.256355218855,0.313181818182
+049AF8F2,"The virtual processor: fast, architecture-neutral dynamic code generation",0.260515873016,0.352380952381
+75352088,"An Efficient Code Generation Algorithm for Non-orthogonal DSP Architecture",0.299735449735,0.396825396825
+7659FCEF,"Affix grammar driven code generation",0.247426647427,0.29380952381
+801051DD,"Jumbo: run-time code generation for Java and its applications",0.288762626263,0.373214285714
+596355BC,"Using C as a Compiler Target Language for Native Code Generation in Persistent Systems",0.271296296296,0.278327922078
+76B324E6,"Automatic floating-point to fixed-point conversion for DSP code generation",0.360204081633,0.566964285714
+6DF7FD1B,"From High-Level Task Descriptions to Executable Robot Code",0.294444444444,0.385416666667
+7C178BDC,"Proving the correctness of heuristically optimized code",0.247426647427,0.389880952381
+58BA3246,"Code Generation for a Dual Instruction Set Processor Based on Selective Code Transformation",0.261375661376,0.396130952381
+60570996,"MySQL4OCL: A Stored Procedure-Based MySQL Code Generator for OCL",0.256355218855,0.5625
+79FB97A6,"Source coherence impairments in a direct detection direct sequence optical code-division multiple-access system",0.279100529101,0.271957671958
+7DF2A908,"Conflict Modelling and Instruction Scheduling in Code Generation for In-House DSP Cores",0.287566137566,0.290646258503
+7EC01F48,"Obstacles in software process technology evolution: analysis of the code generation case",0.424146224146,0.345811287478
+75657BC8,"Parallel code generation for super-scalar architectures",0.25404040404,0.417989417989
+810DB1F1,"Effective Code Generation for Distributed and Ping-Pong Register Files: A Case Study on PAC VLIW DSP Cores",0.273478835979,0.244994588745
+5C7E56C8,"Code partitioning for synthesis of embedded applications with phantom",0.286431623932,0.33
+7722B4E0,"Code generation and reorganization in the presence of pipeline constraints",0.253571428571,0.267328042328
+76E9E3F6,"A code generator generator language",0.264351851852,0.375
+80C08524,"A Solution Based on Modeling and Code Generation for Embedded Control System",0.2632996633,0.268204365079
+751147E6,"Model-Driven development with SDL – process, tools, and experiences",0.286970899471,0.348214285714
+7880E88C,"A greedy concurrent approach to incremental code generation",0.260515873016,0.436507936508
+071884B7,"Formalization and automatic derivations of code generators",0.382709750567,0.483181818182
+7D38BBCB,"A Code Generation Framework for Time-Triggered Real-Time Systems",0.2632996633,0.352380952381
+5B298FD8,"Automatic Generation of Optimized Code for Marshalling Routines",0.423299319728,0.568571428571
+7D52F431,"A 90nm Manchester Code Generator with CMOS Switches Running at 2.4GHz and 5GHz",0.256355218855,0.301507936508
+599405BF,"Adaptive Compression of Syntax Trees and Iterative Dynamic Code Optimization: Two Basic Technologies for Mobile Object Systems",0.293915343915,0.260365428223
+818CB766,"Constraint analysis for DSP code generation",0.270899470899,0.360714285714
+7F36A1D7,"Code Generation = A* + BURS",0.250673400673,0.411255411255
+139B2D60,"Parallel Code Generation from Dataflow Specification for MPSoc System",0.2632996633,0.363095238095
+5D33FDA6,"Integer Loop Code Generation for VLIW",0.25404040404,0.344742063492
+5B67C8AF,"Runtime Code Generation in C++ as a Foundation for Domain-Specific Optimisation",0.256339031339,0.358630952381
+05B28527,"Deterministic UML Models for Interconnected Activities and State Machines",0.215939153439,0.206547619048
+5A60C849,"Issues of the Automatic Generation of HPF Loop Programs",0.249546485261,0.304365079365
+7CE0258A,"Automatic isolation of compiler errors",0.377825745683,0.553977272727
+7A18B987,"Optimized code generation of multiplication-free linear transforms",0.247426647427,0.436507936508
+751D6047,"Optimal code generation for expression trees",0.248342398342,0.332722832723
+6CA4B354,"Automatic Synthesis and Verification of Real-Time Embedded Software",0.234004884005,0.308888888889
+7FD0FC0B,"Constraint analysis for DSP code generation",0.270899470899,0.360714285714
+59A7061E,"Code Generation: Evaluating Polynomials",0.247426647427,0.422619047619
+76DD9FA9,"Towards a performance-portable description of geometric multigrid algorithms using a domain-specific language",0.170889295889,0.270833333333
+80FFA1FE,"Recompilation for debugging support in a JIT-compiler",0.15830026455,0.25
+82AA62C9,"Runtime Code Generation and Data Management for Heterogeneous Computing in Java",0.274873737374,0.292063492063
+5A91502C,"Code Instruction Selection Based on SSA-Graphs",0.285714285714,0.433333333333
+7A327C96,"DESOLA: An active linear algebra library using delayed evaluation and runtime code generation",0.290476190476,0.286054421769
+808914C9,"Register Allocation and Optimal Spill Code Scheduling in Software Pipelined Loops Using 0-1 Integer Linear Programming Formulation",0.277513227513,0.233011937557
+6F0D5174,"A technique for code generation of USN applications based on nano-qplus",0.287367724868,0.36746031746
+811DA5EC,"Constraint analysis for DSP code generation",0.270899470899,0.360714285714
+80FE0294,"A Lightweight MDSD Process Applied in Small Projects",0.269411375661,0.527777777778
+7F2EDA20,"HW/SW partitioning and code generation of embedded control applications on a reconfigurable architecture platform",0.293981481481,0.252232142857
+7D3091F2,"Serialized parallel code generation framework for MPSoC",0.247426647427,0.352380952381
+7D93DF3D,"An automatic code generation tool for partitioned software in distributed systems",0.368542568543,0.436507936508
+7B6281C3,"Optimal Code Generation for Expression Trees",0.248342398342,0.332722832723
+7E6BB7ED,"New Code Generation Algorithm for QueueCore An Embedded Processor with High ILP",0.293121693122,0.394047619048
+79E4C4A3,"Optimizing Address Code Generation for Array-Intensive DSP Applications",0.285515873016,0.345238095238
+7DBB5C01,"An MCU description methodology for initialization code generation software",0.247426647427,0.28373015873
+76B63FC4,"Generic control flow reconstruction from assembly code",0.256355218855,0.3375
+813B353D,"Native Code Generation Using the Transterpreter",0.247426647427,0.492063492063
+75DAE574,"Denali: A practical algorithm for generating optimal code",0.293121693122,0.415064102564
+772CBF19,"Code generation for fixed-point DSPs",0.247426647427,0.571428571429
+585D1303,"Retargetable code generation and optimization using attribute grammars",0.253571428571,0.336904761905
+7F625C79,"An efficient code generation technique for tiled iteration spaces",0.25867003367,0.309126984127
+790AB21D,"Global optimization techniques for automatic parallelization of hybrid applications",0.258800186741,0.371527777778
+5CEB56F7,"RCGES: Retargetable Code Generation for Embedded Systems",0.2632996633,0.436507936508
+779FA1BC,"A retargetable technique for predicting execution time of code segments",0.267989417989,0.272156084656
+7927B1CC,"Efficient Computation of Expressions with Common Subexpressions",0.176031144781,0.305555555556
+7A2D43ED,"Numerical computation of molecular integrals via optimized (vectorized) FORTRAN code",0.329034391534,0.377777777778
+80E31280,"Constraint analysis for code generation: basic techniques and applications in FACTS",0.292658730159,0.278117913832
+7F106D44,"An efficient model for DSP code generation: performance, code size, estimated energy",0.261375661376,0.346036255411
+7E09E3E2,"Memory-efficient multithreaded code generation from Simulink for heterogeneous MPSoC",0.247426647427,0.571428571429
+5E69FDD6,"Code generation for embedded Java with Ptolemy",0.250673400673,0.331547619048
+7CC53B2C,"A code generation method for system-level synthesis on ASIC, FPGA and manycore CGRA",0.252509065009,0.341964285714
+7E7D47F1,"Automatic generation of hypertext system repositories: a model driven approach",0.25731292517,0.26343537415
+76221248,"Validate, simulate, and implement ARINC653 systems using the AADL",0.0915861915862,0.25
+8086896C,"Automatic code generation and tuning for stencil kernels on modern shared memory architectures",0.366161616162,0.327425044092
+806E13DD,"Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs",0.269444444444,0.290674603175
+7929DFCB,"Fast, automatic, procedure-level performance tuning",0.259325396825,0.464285714286
+7A87C21F,"Code optimizations for a VLIW-style network processing unit",0.256818181818,0.307142857143
+7E41EABF,"Extending Graham-Glanville Techniques for Optimal Code Generation",0.249278499278,0.363492063492
+813CE87A,"An inverse radiative transfer model of the vegetation canopy based on automatic differentiation",0.266383219955,0.292006802721
+7B67D910,"Automating the selection of code templates",0.287566137566,0.390277777778
+5BCE943A,"Retargetable and Tuneable Code Generation for High Performance DSP",0.261375661376,0.428571428571
+7E008C72,"Automatic detection and diagnosis of faults in generated code for procedure calls",1.0,1.0
+802B5824,"Code generation in ALPAL using symbolic techniques",0.249278499278,0.396825396825
+58AE58E5,"- Code Generation Using GEODE: A CASE Study",0.273478835979,0.316738816739
+78E903FC,"Clearwater: extensible, flexible, modular code generation",0.247426647427,0.571428571429
+7947FF2D,"A practical automatic polyhedral parallelizer and locality optimizer",0.204611459969,0.541666666667
+7F7155B5,"Avoidance and suppression of compensation code in a trace scheduling compiler",0.28663003663,0.257034632035
+5D197475,"A Flexible Tradeoff Between Code Size and WCET Using a Dual Instruction Set Processor",0.271626984127,0.310714285714
+7B449F08,"Recovery of jump table case statements from binary code",0.273478835979,0.320555555556
+7B3C7E9D,"An effective and efficient code generation algorithm for uniform loops on non-orthogonal DSP architecture",0.299735449735,0.339682539683
+7BD6FAA4,"DCG: an efficient, retargetable dynamic code generation system",0.2632996633,0.436507936508
+7601E901,"Optimizations for quadrature representations of finite element tensors through automated code generation",0.273214285714,0.256452922078
+77058BE4,"Recipes for adjoint code construction",0.270899470899,0.455555555556
+77AE0B42,"Retargetable generation of code selectors from HDL processor models",0.250673400673,0.254232804233
+786CDE08,"Code Generation with the Exemplar Flexibilization Language",0.256339031339,0.464285714286
+80556CDA,"Generating fast code from concurrent program dependence graphs",0.251593314093,0.343571428571
+7607E728,"On the Sethi-Ullman algorithm",0.136183261183,0.333333333333
+7C214373,"Scan detection and parallelization in "inherently sequential" nested loop programs",0.255892255892,0.359027777778
+7A431168,"Adjoint code generator",0.256355218855,0.5625
+81069B3F,"Evaluation of code generation strategies for scalar replaced codes in fine-grain configurable architectures",0.292328042328,0.388662131519
+7D736A6D,"Integrating a new cluster assignment and scheduling algorithm into an experimental retargetable code generation framework",0.293121693122,0.283482142857
+7ABA239D,"Two-level semantics and code generation",0.247426647427,0.411255411255
+7F381FA5,"Extended quasi-static scheduling for formal synthesis and code generation of embedded software",0.271815221815,0.301587301587
+7E6308C8,"Message-passing code generation for non-rectangular tiling transformations",0.261375661376,0.357142857143
+75163AAC,"Overview of existing safeguarding techniques for automatically generated code",0.249278499278,0.333994708995
+59DDE312,"Limited Address Range Architecture for Reducing Code Size in Embedded Processors",0.25404040404,0.259126984127
+8067A6D5,"Genesys: service-oriented construction of property conform code generators",0.279828042328,0.366964285714
+5B12340F,"Code generation for complex subscripts in data-parallel programs",0.251593314093,0.348214285714
+7E068272,"High performance code generation for VLIW digital signal processors",0.264143264143,0.327142857143
+7EB816A1,"Multi-threaded code generation from Signal program to OpenMP",0.251593314093,0.422619047619
+7E962882,"Automatic Generation of Fast and Certified Code for Polynomial Evaluation",0.387755102041,0.439087301587
+12082DA3,"Implementing the dynamic behavior represented as multiple state diagrams and activity diagrams",0.208796296296,0.230952380952
+7ACCD7F8,"Using code generation approach in developing kiosk applications",0.288762626263,0.319109461967
+7D597C9A,"Constraint driven code selection for fixed-point DSPs",0.285714285714,0.360714285714
+76AD5F8F,"Using static single assignment form in a code optimizer",0.270899470899,0.411111111111
+7BC5C4DF,"Efficient data driven run-time code generation",0.247426647427,0.428571428571
+0077896E,"A retargetable compilation methodology for embedded digital signal processors using a machine-dependent code optimizaton library",0.260185185185,0.278571428571
+7F838063,"Generating Reliable Code from Hybrid-Systems Models",0.247426647427,0.45
+809CB4A9,"Models for automatic generation of safety-critical real-time systems",0.246093588951,0.352380952381
+7BFAD2BA,"Experience with a Graham-Glanville style code generator",0.260521885522,0.348214285714
+7A3157E9,"Prolog based retargetable code generation",0.247426647427,0.404761904762
+7F5F4F0E,"SPIRAL: Code Generation for DSP Transforms",0.247426647427,0.417989417989
+636FF2A4,"CODELAB: a develpers' tool for efficient code generation and optimization",0.265476190476,0.352678571429
+7BD41C48,"Generating Multi-Threaded code from Polychronous Specifications",0.247426647427,0.464285714286
+7EAA7846,"Generation and optimisation of code using Coxeter lattice paths",0.275793650794,0.315476190476
+7F43C39F,"Data routing: a paradigm for efficient data-path synthesis and code generation",0.248342398342,0.299365079365
+78471333,"MOSAIC a web-based modeling environment for code generation",0.250673400673,0.341964285714
+774E1C96,"Efficient computation of address sequences in data parallel programs using closed forms for basis vectors",0.19246031746,0.205717893218
+7C84AF7B,"Automatic code generation from event-B models",0.354937126366,0.560714285714
+75C9F697,"Automatic Performance Tuning for Fast Fourier Transforms",0.238633786848,0.447619047619
+027D3B8D,"Chapter Seven Integrated Modelling Frameworks for Environmental Assessment and Decision Support",0.189781746032,0.190476190476
+7895C4CF,"On code generation in a PASCAL compiler",0.248342398342,0.411255411255
+7625A161,"Automated and parallel code generation for finite-differencing stencils with arbitrary data types",0.256355218855,0.291937229437
+7EC96573,"Exploring Java code generation based on formal specifications in RTPA",0.250673400673,0.319841269841
+5CAB9874,"A Framework for Enhancing Code Quality in Limited Register Set Embedded Processors",0.256339031339,0.256398809524
+7BAABF10,"Reducing program image size by extracting frozen code and data",0.251593314093,0.28112244898
+7F72720E,"Discovering machine-specific code improvements",0.253571428571,0.441666666667
+7DEF25ED,"Formalization and automatic derivation of code generators.",0.382709750567,0.483181818182
+7B0DB8F4,"GPU code generation for ODE-based applications with phased shared-data access patterns",0.292658730159,0.325324675325
+7DD80E28,"High Performance Fortran Compilation Techniques for Parallelizing Scientific Codes",0.265211640212,0.30746031746
+78A6530C,"Spill code minimization techniques for optimizing compliers",0.256339031339,0.300555555556
+8161416C,"OpenMP to GPGPU: a compiler framework for automatic translation and optimization",0.235989010989,0.288181818182
+7E12BD9D,"Code generation from hybrid systems models for distributed embedded systems",0.2632996633,0.296031746032
+7DAE4622,"Routine run-time code generation",0.247426647427,0.428571428571
+7744199D,"Hard-coding bottom-up code generation tables to save time and space",0.264143264143,0.29623015873
+78AA7E3F,"CoGenTe: a tool for code generator testing",0.259331409331,0.366964285714
+7DC87117,"Optimized code generation for programmable digital signal processors",0.256339031339,0.331904761905
+04CD976F,"A lisp-based ratfor code generator",0.256355218855,0.5625
+7DA3F407,"Automatic code generation for executing tiled nested loops onto parallel architectures",0.360606060606,0.409297052154
+77AE0B5E,"Attributed linear intermediate representations for retargetable code generators",0.269642857143,0.366964285714
+685A7528,"Automatic generation of FORTRAN-coded Jacobians and Hessians",0.236569779427,0.414285714286
+7C386067,"Efficient hardware code generation for FPGAs",0.259331409331,0.428571428571
+7717C335,"An approach for developing domain specific CASE tools and its application to manufacturing process control",0.286970899471,0.264329805996
+7756D700,"Object race detection",0.261739417989,0.571428571429
+812814B8,"REGLAS PARA LA GENERACIÓN AUTOMÁTICA DE CÓDIGO DEFINIDAS SOBRE METAMODELOS SIMPLIFICADOS DE LOS DIAGRAMAS DE CLASES, SECUENCIAS Y MÁQUINA DE ESTADOS DE UML 2.0 RULES FOR AUTOMATED CODE GENERATION DEFINED OVER SIMPLIFIED METAMODELS OF CLASS, SEQUENCE AND STATE MACHINE DIAGRAMS OF UML 2.0",0.261183261183,0.231569664903
+8139808D,"Using OCL-queries for debugging C++",0.0,0.25
+06C7812C,"Exploiting Roles and Responsibilities to Generate Code in a Distributed Design-Pattern-Based Programming System",0.293055555556,0.319047619048
+7FC076E5,"FCG: A Code Generator for Lazy Functional Languages",0.264351851852,0.458333333333
+799C39B6,"Efficient SIMD code generation for irregular kernels",0.252188552189,0.414285714286
+7D6295F7,"A Certifying Code Generation Phase",0.247426647427,0.422619047619
+5DC6FB30,"Code Generation for Embedded Processors",0.247426647427,0.414285714286
+7B8DE7F6,"A new strategy for code generation: the general purpose optimizing compiler",0.252509065009,0.270905483405
+75898F29,"Code generation for hybrid mixed mode formulation in finite element analysis",0.270899470899,0.279437229437
+7E11B8F1,"Code generation for single-dimension software pipelining of multi-dimensional loops",0.25404040404,0.355158730159
+7D37EBFF,"Automatic mapping of system of N-dimensional affine recurrence equations (SARE) onto distributed memory parallel systems",0.254931972789,0.258630952381
+7D9B7559,"Certifying code generation runs with Coq: a tool description",0.259331409331,0.29623015873
+77A372CC,"Revisiting communication code generation algorithms for message-passing systems",0.337962962963,0.34880952381
+5CF0A62A,"Dependence-based code generation for a CELL processor",0.249410774411,0.335714285714
+7C7F2F0E,"Performance of Coded CS-CDMA/CP with M-ZCZ Code over a Fast Fading Channel",0.271626984127,0.355158730159
+803061A2,"Code density optimization for embedded DSP processors using data compression techniques",0.255423280423,0.252926587302
+78C78208,"Computer aided parallelisation tools (CAPTools)—conceptual overview and performance on the parallelisation of structured mesh codes",0.27328042328,0.273526077098
+813E1BCB,"Towards universal code generator generation",0.256355218855,0.422619047619
+5862905F,"Simplifying code generation through peephole optimization",0.253571428571,0.379464285714
+769BF3A5,"Time-constrained code compaction for DSPs",0.247426647427,0.555555555556
+7873B3DA,"Automated generation of code using backtracking parsers for attribute grammars",0.249278499278,0.280704365079
+7E6B1DD2,"Generating Code from Scenario and State Based Models to Address Crosscutting Concerns",0.248342398342,0.272916666667
+76314A5F,"Design and Implementation of an Autonomic Code Generator Based on RTPA",0.279828042328,0.360238095238
+7AB8FF7B,"Automatic reasoning about numerical stability of rational expressions",0.216526529027,0.365277777778
+5A4AAED4,"Automatic retargetable code generation: A new technique",0.356524427953,0.563492063492
+5D820AA3,"Taking Advantage of Symmetry in the Automatic Generation of Numerical Programs for Finite Element Analysis",0.256179138322,0.258482142857
+7D9A9664,"Reduced code size modulo scheduling in the absence of hardware support",0.319841269841,0.300170068027
+7788CD49,"A directive-based MPI code generator for Linux PC clusters",0.256355218855,0.3375
+5AE2B2B1,"Model checking and code generation for UML state machines and collaborations",0.283531746032,0.272619047619
+7A8A7B40,"Automatic code generation for microprocessor based systems",0.368542568543,0.457142857143
+75AD2DDB,"Industrial experience using rule-driven retargetable code generation for multimedia applications",0.289682539683,0.33630952381
+6BDD5FF7,"Optimal code generation for expressions on super scalar machines",0.259331409331,0.349206349206
+7954CA06,"Generating OpenMP code using an interactive parallelization environment",0.247426647427,0.427083333333
+833529CA,"Communication Optimizations for Multithreaded Code Generation from Simulink Models",0.308201058201,0.323571428571
+7B7D36D5,"Fast code generation using automatically-generated decision trees",0.272542735043,0.343956043956
+7F3EED8E,"Code Generation for Multi-Threaded Architectures from Dataflow Graphs",0.25404040404,0.363492063492
+8162471E,"Bit-alignment for retargetable code generators",0.256355218855,0.5625
+79A3F936,"Compositionality in Dataflow Synchronous Languages: Specification and Distributed Code Generation",0.256339031339,0.347142857143
+7D6601E5,"Compact and efficient code generation through program restructuring on limited memory embedded DSPs",0.260521885522,0.280753968254
+7F1DCF88,"Automatic instruction set extension and utilization for embedded processors",0.292517006803,0.332407407407
+5E01A714,"An Approach to Automatic Proof Support for Code Generator Verification",0.418027210884,0.40873015873
+7943DF83,"Improved spill code generation for software pipelined loops",0.25404040404,0.295105820106
+752AD829,"Loo.py: transformation-based code generation for GPUs and CPUs",0.256355218855,0.422619047619
+7B1A7345,"Towards modular code generators using symmetric language-aware aspects",0.256355218855,0.387310606061
+7EEF24C4,"Skeleton-based automatic parallelization of image processing algorithms for GPUs",0.275458668316,0.395833333333
+0187F68D,"CODE GENERATION FROM UML STATECHARTS",0.247426647427,0.571428571429
+7E7CE1A4,"TIMES: a Tool for Schedulability Analysis and Code Generation of Real-Time Systems",0.286772486772,0.29623015873
+5BB7CB89,"Code generation and parallel code execution from business UML models: A case study for an algorithmic trading system",0.289351851852,0.312182539683
+7A0204A8,"Code generation for core processors",0.247426647427,0.341964285714
+5A6907AA,"A Retargetable Compilation Methodology for Embedded Digital Signal Processors Using a Machine-Dependent Code Optimization Library",0.260185185185,0.259375
+7F7A89EA,"Code generation by using integer-controlled dataflow graph",0.247426647427,0.419047619048
+7FC48FDA,"Serialized multitasking code generation from dataflow specification",0.247426647427,0.363095238095
+76E329A0,"Using an architectural knowledge base to generate code for parallel computers",0.297222222222,0.336574074074
+5D77BEE9,"A Specification Language for Code Generators",0.264351851852,0.379464285714
+7C141A36,"Code Generation for a One-Register Machine",0.259331409331,0.428571428571
+805C8ECA,"Symbolic calculation of the generalized inertia matrix of robots with a large number of joints",0.193253968254,0.183994708995
+817790BF,"Integrating code generation and optimization",0.253571428571,0.358630952381
+7E51091D,"Toward optimized code generation through model-based optimization",0.253571428571,0.358630952381
+7A7649FF,"Code selection through object code optimization",0.285714285714,0.58125
+762392A5,"A language for writing code generators",0.264351851852,0.39375
+5E43C6EE,"Topics in Code Generation and Register Allocation",0.247426647427,0.315793650794
+7FD173E6,"Gprof: A call graph execution profiler",0.275,0.441666666667
+7F104333,"Code Generation from AADL to a Real-Time Operating System: An Experimentation Feedback on the Use of Model Transformation",0.325661375661,0.263492063492
+5FCF5779,"Towards a "middle road" methodology for writing code generators",0.256355218855,0.306666666667
+5E81EE23,"Model-Driven Engineering Support for Building C# Applications",0.15830026455,0.258333333333
+77BF945C,"Automatic synthesis and verification of real-time embedded software for mobile and ubiquitous systems",0.246825396825,0.257431457431
+7F8C8E8C,"Stochastic gradient algorithms for design of minimum error-rate linear dispersion codes in MIMO wireless systems",0.31455026455,0.307709750567
+77A10AAF,"Automatic generation of basic behavior schemas from UML class diagrams",0.292006802721,0.307341269841
+7E599DA9,"Software synthesis and code generation for signal processing systems",0.2632996633,0.283531746032
+7ADEB10D,"Using dynamic programming to generate optimized code in a Graham-Glanville style code generator",0.279828042328,0.435884353741
+80A831FB,"Automatic Synthesis and Adaption of Gray-Box Components for Embedded Systems - Reuse vs. Optimization",0.246825396825,0.26712962963
+7DB1A394,"Improved decoding of affine-variety codes",0.270899470899,0.483333333333
+7C03E299,"Composable code generation for distributed giotto",0.248342398342,0.358441558442
+0AB76983,"Automatic Generation of Java Code from UML Diagrams using UJECTOR",0.359018759019,0.515238095238
+812747B0,"Integrating the Calculus-Based Method into OCL: Study of Expressiveness and Code Generation",0.264682539683,0.290674603175
+7CAD0E8F,"Retargetable code generation for application-specific processors",0.247426647427,0.414285714286
+6F8D902B,"Formalising FinFuns – Generating Code for Functions as Data from Isabelle/HOL",0.247426647427,0.340476190476
+80098D5D,"Code synthesis for timed automata",0.249410774411,0.33125
+7755739D,"An automated round-trip support towards deployment assessment in component-based embedded systems",0.192328042328,0.233333333333
+7FBA0B5B,"Automatic extraction of functional parallelism from ordinary programs",0.233225108225,0.336805555556
+05D3F91E,"Refactoring and Code Generation Tools for AspectJ",0.259331409331,0.428571428571
+7C6E07EA,"Automatic Derivation of Code Generators from Machine Descriptions",0.365141207998,0.420905483405
+7EB0E76E,"CodeBricks: code fragments as building blocks",0.259331409331,0.344742063492
+7FDF7409,"NISD: A Framework for Automatic Narrow Instruction Set Design",0.260770975057,0.35
+75B6FEDE,"Service-oriented smart home applications: composition, code generation, deployment, and execution",0.285515873016,0.281397174254
+7FD0233E,"Analyzing exotic instructions for a retargetable code generator",0.256355218855,0.38125
+798DA417,"The development of a new STEP-NC code generator (GEN-MILL)",0.2625,0.416666666667
+75236DD5,"Hide and show: using real compiler code for teaching",0.271815221815,0.308405483405
+04F11A62,"Time-Memory Scheduling and Code Generation of Real-Time Embedded Software",0.270899470899,0.335238095238
+7E2DEABD,"Efficient spill code for SDRAM",0.248342398342,0.55
+0AD8ACF2,"Concise specifications of locally optimal code generators",0.256355218855,0.422619047619
+097A1700,"Runtime Code Generation with JVM and CLR",0.247426647427,0.571428571429
+5AD500CC,"An Infrastructure for UML-Based Code Generation Tools",0.259331409331,0.349206349206
+020DB573,"A Formal Correctness Proof for Code Generation from SSA Form in Isabelle/HOL",0.251593314093,0.304365079365
+7CCB9C6E,"Code Generation for Parallel Applications Modelled with Object-Based Graph Grammars",0.285515873016,0.307142857143
+76AF6406,"Assembling code for machines with span-dependent instructions",0.259331409331,0.352380952381
+00A2512F,"Code generation and machine descriptions",0.259331409331,0.363095238095
+7916CBEE,"Limitations of Graham-Glanville style code generation",0.247426647427,0.346428571429
+7D772003,"Accelerating Haskell array codes with multicore GPUs",0.247426647427,0.428571428571
+80BC4628,"Generation of correct-by-construction code from design models for embedded systems",0.286772486772,0.321904761905
+80C22F90,"Code generation for embedded processors",0.247426647427,0.414285714286
+7D296768,"Implementing UML associations in Java: a slim code pattern for a complex modeling concept",0.263961038961,0.263265306122
+77C3C968,"A numerical code generation facility for REDUCE",0.259331409331,0.371428571429
+8115C462,"Compilation Techniques for High Level Parallel Code",0.251262626263,0.289682539683
+5AADB64B,"An Evaluation of Optimized Threaded Code Generation",0.285714285714,0.377380952381
+8128AA2C,"Formal Specification and Code Generation of Programable Logic Controllers",0.248342398342,0.344155844156
+5E8BB07A,"Generating efficient code for lazy functional languages",0.256339031339,0.5
+5D4FCBFC,"Fast Code Generation for Embedded Processors with Aliased Heterogeneous Registers",0.247426647427,0.341964285714
+7BA53E92,"Optimal integrated code generation for clustered VLIW architectures",0.25404040404,0.355158730159
+755F5767,"Address code generation for DSP instruction-set architectures",0.25404040404,0.355158730159
+6AE20E19,"Compiler Support for Code Size Reduction Using a Queue-Based Processor",0.308852258852,0.30363327149
+00513E6D,"A Declarative Approach to Run-Time Code Generation",0.260515873016,0.436507936508
+7E917977,"Code generation for expressions with common subexpressions (Extended Abstract)",0.249278499278,0.313015873016
+7E7C1555,"Decompiler For Pseudo Code Generation",0.247426647427,0.40873015873
+7BCEB1EE,"Polyhedral parallel code generation for CUDA",0.247426647427,0.571428571429
+758244BD,"Using closures for code generation",0.253571428571,0.400297619048
+7FC19BA8,"Address assignment combined with scheduling in DSP code generation",0.270899470899,0.358571428571
+7FD9B220,"Optimizing Code Generation from SSA Form: A Comparison Between Two Formal Correctness Proofs in Isabelle/HOL",0.264682539683,0.265022675737
+0BA41CEA,"Realization of UML Class and State Machine Models in the C# Code Generation and Execution Framework",0.269642857143,0.217989417989
+5922B27E,"Automatic Generation of Executable Data Structures",0.242692228407,0.357142857143
+80017435,"Lightweight Modular Staging: A Pragmatic Approach to Runtime Code Generation and Compiled DSLs",0.269444444444,0.290674603175
+7719559F,"Automatic source-code parallelization using HICOR objects",0.240141207998,0.492063492063
+7A8FC02A,"A portable code generator for CRAY FORTRAN",0.256355218855,0.412037037037
+7B36CF17,"Overview and industrial application of code generator generators",0.294444444444,0.328571428571
+80244F75,"Concept assignment as a debugging technique for code generators",0.28167989418,0.359027777778
+7D68EC81,"Hardware-Aware Automatic Code-Transformation to Support Compilers in Exploiting the Multi-Level Parallel Potential of Modern CPUs",0.225455100455,0.318392255892
+80F5599E,"Platform-dependent code generation for embedded real-time software",0.247426647427,0.436507936508
+777C53B4,"Automatic generation of fast optimizing code generators",0.36259018759,0.486904761905
+7B5C62C3,"Producing good code for the case statement",0.273478835979,0.404166666667
+7F655BB9,"A Case Study on SDF-Based Code Generation for ECU Software Development",0.273478835979,0.294642857143
+7D704E20,"PATUS: A Code Generation and Autotuning Framework for Parallel Iterative Stencil Computations on Modern Microarchitectures",0.336111111111,0.373571428571
+0271A732,"Automated code generation from system requirements in natural language",0.279100529101,0.325396825397
+07779850,"Clock-directed Modular Code Generation from Synchronous Block Diagrams",0.259331409331,0.346428571429
+77D8E849,"Rapid development of optimized DSP code from a high level description through software estimations",0.253571428571,0.294642857143
+7D8AA612,"An integrated approach to retargetable code generation",0.260515873016,0.436507936508
+70836DE8,"Simplifying control flow in compiler-generated parallel code",0.253571428571,0.322222222222
+5896F99A,"Polyhedral code generation in the real world",0.25404040404,0.417989417989
+7ADDDC0A,"Generating efficient tiled code for distributed memory machines",0.263498075998,0.353571428571
+7C7E57A5,"Use of formal methods for building qualified code generator for safer automotive systems",0.327976190476,0.285714285714
+779E32AE,"Efficient building block based RTL code generation from synchronous data flow graphs",0.265476190476,0.292113095238
+7D1890B3,"Model checking and code generation for transaction processing software",0.290812890813,0.289087301587
+7DE8EE92,"Correct-by-construction code generation from hybrid automata specification",0.249410774411,0.346428571429
+78071C70,"Resourceable, retargetable, modular instruction selection using a machine-independent, type-based tiling of low-level intermediate code",0.285714285714,0.375238095238
+7AF58228,"Fast, effective code generation in a just-in-time Java compiler",0.250673400673,0.333441558442
+8168BD4F,"Generating compact code from dataflow specifications of multirate signal processing algorithms",0.29822029822,0.350198412698
+7E46430F,"Exploiting conditional instructions in code generation for embedded VLIW processors",0.247426647427,0.311904761905
+7E147221,"Annotation Inference for Safety Certification of Automatically Generated Code (Extended Abstract)",0.257738095238,0.259871031746
+7F35AE27,"Automatic instruction code generation based on trellis diagrams",0.359018759019,0.409585652443
+80FEF5FB,"An evaluation of code generation strategies targeting hardware for the rapid prototyping of SDL specifications",0.297619047619,0.267346938776
+811699ED,"Using semi-lagrangian formulations with automatic code generation for environmental modeling",0.35772005772,0.444516594517
+0650CB02,"Code generation for UML 2 activity diagrams: towards a comprehensive model-driven development approach",0.35462962963,0.339087301587
+59CF5B98,"Mechanized Inductive Proof of Properties of a Simple Code Optimizer",0.251593314093,0.352678571429
+7619DDE4,"An abstraction for reusable MDD components: model-based generation of model-based code generators",0.258207070707,0.295793650794
+7F97D4D3,"Code generation schema for modulo scheduled loops",0.258207070707,0.315793650794
+774AFF7D,"Profiling in an object-oriented design environment that supports Ada 9X and Ada 83 code generation",0.270899470899,0.327976190476
+79CFDA53,"Retargetable code generator for Java bytecode",0.256355218855,0.408333333333
+7F4E931A,"Automatic generation of memory interfaces",0.236059575345,0.336195054945
+5C345655,"A verified code generator for a subset of gypsy",0.264351851852,0.342147435897
+786333FB,"Aspect-oriented model-driven skeleton code generation: A graph-based transformation approach",0.265343915344,0.312698412698
+79CB877B,"Code generation of nested loops for DSP processors with heterogeneous registers and structural pipelining",0.25404040404,0.295793650794
+7B00E673,"Split tiling for GPUs: automatic parallelization using trapezoidal tiles",0.225572047001,0.361111111111
+7C1D5A15,"Adapting optimal code generation for arithmetic expressions to the instruction sets available on present-day computers",0.256355218855,0.296995464853
+81491036,"Efficient code generation for automatic parallelization and optimization",0.360204081633,0.566964285714
+7E9A6DFF,"An RTPA supporting environment for Java code generation",0.250673400673,0.340238095238
+6A39D510,"Automatic C-to-CUDA Code Generation for Affine Programs",0.359293484293,0.471753246753
+8168E903,"Smoothed DPCM codes",0.247426647427,0.6
+77B21FAC,"Generate and offshore: type-safe and modular code generation for low-level optimization",0.253571428571,0.422619047619
+7A26E4CD,"Integrating intermediate code optimization with retargetable code generation",0.253571428571,0.486904761905
+7E21D0F3,"Code Generation and Optimization for Transactional Memory Constructs in an Unmanaged Language",0.258653846154,0.294642857143
+79053788,"A case study of a new code generation technique for compilers",0.274394586895,0.279701779702
+775F27DF,"Efficient generated libraries for asynchronous derivative computation",0.180429292929,0.283333333333
+8064A1DD,"High-performance code generation for stencil computations on GPU architectures",0.333796296296,0.438492063492
+80CB554A,"Automatic software synthesis of dataflow program: An MPEG-4 simple profile decoder case study",0.261904761905,0.229843304843
+7564799E,"An experiment in table driven code generation",0.252717652718,0.428571428571
+759B643F,"Object-oriented design and automatic Ada code generation in the education of software engineers",0.409585652443,0.38060966811
+7D761A3E,"Algorithms for address assignment in DSP code generation",0.293121693122,0.419047619048
+7A0F83CB,"On the symbolic manipulation and code generation for elasto-plastic material matrices",0.273611111111,0.311904761905
+7E3A10B9,"A grating-based OCDMA coding-decoding system incorporating a nonlinear optical loop mirror for improved code recognition and noise reduction",0.277248677249,0.245783730159
+80F354B2,"Extending IP-XACT to support an MDE based approach for SoC design",0.113961038961,0.246666666667
+592FC426,"An Approach to Generating Program Code in Quickly Evolving Environments",0.264682539683,0.311111111111
+760F714F,"Automatic alignment of array data and processes to reduce communication time on DMPPs",0.391723356009,0.375446428571
+754A41D8,"The scalable modeling system: directive-based code parallelization for distributed and shared memory computers",0.267466329966,0.265646258503
+7A8C9B1F,"Using register-transfer paths in code generation for heterogeneous memory-register architectures",0.278240740741,0.350793650794
+799433EF,"Integrated Code Generation for Loops",0.25404040404,0.355158730159
+80449F9F,"Language level checkpointing support for stream processing applications",0.188035113035,0.20205026455
+70163A33,"An approach to the automatic generation of code-generators.",0.243707482993,0.436507936508
+7E706047,"Modular code generation from hybrid automata based on data dependency",0.249410774411,0.310317460317
+75A1E86B,"Address assignment in DSP code generation - an integrated approach",0.270899470899,0.377380952381
+5C2EFD82,"Generation of incremental indirect threaded code for language-based programming environments",0.270899470899,0.343571428571
+7C354DEA,"On symbolic manipulation and code generation of a hybrid three-dimensional solid element",0.271626984127,0.352380952381
+7CF849A0,"An object-oriented platform-based design process for embedded real-time systems",0.286772486772,0.455555555556
+807C9766,"A Model-Based Transformation Process to Validate and Implement High-Integrity Systems",0.286772486772,0.336904761905
+80E47E78,"Code Compilation for an Explicitly Parallel Register-Sharing Architecture",0.25404040404,0.398148148148
+5BFD26F4,"Automatic Ada code generation using a model-driven engineering approach",0.375056689342,0.419109461967
+811900CF,"Address code generation for digital signal processors",0.256339031339,0.331904761905
+76DB39C1,"Automatic code generation for a convection scheme",0.355722055722,0.468571428571
+8092FF18,"Compiling for template-based run-time code generation",0.247426647427,0.436507936508
+7EE0016D,"Partitioning variables across register windows to reduce spill code in a low-power processor",0.250673400673,0.246875
+7A3979EE,"Reverse interpretation + mutation analysis = automatic retargeting",0.260260770975,0.313571428571
+80A9D5D5,"A code generation framework for Java component-based designs",0.270899470899,0.360714285714
+81485A9A,"Construction of Wavelength/Time Codes for Fiber-Optic CDMA Networks",0.270899470899,0.447619047619
+7D5FD4BC,"RSFQ asynchronous serial multiplier and spreading codes generator for multiuser detector",0.259331409331,0.345238095238
+7CA6961F,"Demystifying on-the-fly spill code",0.248342398342,0.403703703704
+77F8487D,"Application to MISR land products of an RPV model inversion package using adjoint and Hessian codes",0.294444444444,0.268204365079
+7EA1C73B,"On the optimal code generation for signal flow graph computation",0.327182539683,0.393571428571
+8077D575,"Model based code generation approach for fast-deployment wireless security applications",0.285515873016,0.300566893424
+813B47FF,"Bit error rate measurements for GHz code generator circuits",0.316865079365,0.28231292517
+7BC4A7E7,"Code Generation in the Polyhedral Model Is Easier Than You Think",0.247426647427,0.355238095238
+5C4D28B5,"Automatic structure-based code generation from coloured Petri nets: a proof of concept",0.364177489177,0.381519274376
+7E4D5C72,"A code generation and execution environment for service-oriented smart home solutions",0.254487179487,0.263481888482
+794EAAAE,"CCG: a prototype coagulating code generator",0.258207070707,0.412037037037
+7721E350,"Automatic inference and fast interpretation of peephole optimization rules",0.235515873016,0.297222222222
+7C2EC08D,"AUTOMATED TEST CODE GENERATION FROM CLASS STATE MODELS",0.248342398342,0.259863945578
+7E316C9B,"Certifying Code Generation with Coq",0.247426647427,0.422619047619
+78EE79D2,"Code generation in a machine-independent compiler",0.248342398342,0.411255411255
+7CE9BC10,"Model-Driven Code Generation for Secure Smart Card Applications",0.285515873016,0.373214285714
+79A2A168,"The Intel IA-64 compiler code generator",0.256355218855,0.405303030303
+026CDA56,"Scheduling, Compaction and Binding in a Retargetable Code Generator using Constraint Logic Programming",0.279828042328,0.253928170595
+5E4E80FC,"Multi-thread code generation for dataflow architectures from non-strict programs",0.258207070707,0.344742063492
+77BC50F5,"Verified Code Generation for Embedded Systems",0.2632996633,0.436507936508
+7D1D1C1D,"Is Search Really Necessary to Generate High-Performance BLAS?",0.0,0.305555555556
+5A775FDC,"Code generation for large scale applications",0.285515873016,0.379464285714
+809FD787,"An ILP based approach to address code generation for digital signal processors",0.263283475783,0.308503401361
+779A24D4,"Closing the stage: from staged code to typed closures",0.253571428571,0.321031746032
+0101D1F3,"Bibliography on automated retargetable code generation",0.247426647427,0.379464285714
+7C5E7E4B,"GENTRAN 90: a REDUCE package for the generation of Fortran 90 code",0.247426647427,0.371428571429
+7B1EAFDE,"An optimizing retargetable code generator",0.256355218855,0.430555555556
+7FA7D7AA,"Destination-Driven Code Generation",0.247426647427,0.571428571429
+8139EFEB,"Model transformations in the UPES/UPSoC development process for embedded systems",0.286772486772,0.283531746032
+813E8E96,"Compact and efficient presentation conversion code",0.294444444444,0.375
+810CF3CC,"A knowledge-based code generator generator",0.256355218855,0.416666666667
+7463C594,"Computation in the Context of Transport Triggered Architectures",0.193392255892,0.211111111111
+7E8DE245,"Systematic Testing of Model-Based Code Generators",0.25867003367,0.416666666667
+7E2BC12C,"Generating Code for High-Level Operations through Code Composition",0.271626984127,0.508333333333
+5CD12001,"Code generation for just-in-time compiled mobile collector agents",0.250673400673,0.309126984127
+7EC0862A,"Using DSL for Automatic Generation of Software Connectors",0.249494949495,0.322420634921
+7B6BC907,"Testing-based translation validation of generated code in the context of IEC 61508",0.29246031746,0.371527777778
+7E4862FB,"Efficient implementation of OVSF code generator for UMTS systems",0.277248677249,0.358630952381
+7DB72AC3,"A Generation Approach of Transformation Code for Web Interchanging Documents",0.271957671958,0.304563492063
+7D8B28B0,"Monitoring aspects for the customization of automatically generated code for big-step models",0.252717652718,0.316753246753
+7CFB5FDA,"ASSL Specification and Code Generation of Self-Healing Behavior for NASA Swarm-Based Systems",0.32380952381,0.357142857143
+6697D0A5,"Automatic decomposition in EPPP compiler",0.208539079968,0.387445887446
+5AD47A37,"Code Generation via Higher-Order Rewrite Systems",0.2632996633,0.436507936508
+7D679D4F,"A co-design approach for embedded system modeling and code generation with UML and MARTE",0.276388888889,0.315238095238
+7A3F1D65,"A new viewpoint on code generation for directed acyclic graphs",0.251593314093,0.311753246753
+767EC7FD,"Flexibility in modeling languages and tools: a call to arms",0.285185185185,0.306216931217
+80DC5EE6,"A code generation interface for ANSI C",0.247426647427,0.329945054945
+7D9FF842,"A Code Generation Framework for Actor-Oriented Models with Partial Evaluation",0.285714285714,0.308571428571
+59A4DFF1,"An implementation of retargetable code generators in prolog",0.270304232804,0.352678571429
+759C67E3,"The equational specification of efficient compiler code generation",0.248342398342,0.344155844156
+78EEDDCF,"Code generation from UML models with semantic variation points",0.261375661376,0.295324675325
+7D8F5E55,"Code generation for streaming: an access/execute mechanism",0.248342398342,0.360714285714
+7C9A6830,"Assuring property conformance of code generators via model checking",0.256355218855,0.293027210884
+7CF391C6,"Automatic parallel code generation for tiled nested loops",0.360606060606,0.435846560847
+79A81EE7,"Experiences with hierarchy-based code generation in the J2EE context",0.251593314093,0.344742063492
+8159C171,"Complexities in DSP software compilation: performance, code size, power, retargetability",0.26335978836,0.257653061224
+7A28347F,"Code Generation in the Columbia Esterel Compiler",0.248342398342,0.331168831169
+80671CAA,"A random matrix spreading code generator for WCDMA rake receiver",0.256355218855,0.297558922559
+6B5E5643,"On Code Generation for Multi-generator WITH-Loops in SAC",0.249410774411,0.414285714286
+78ACEABC,"The Generation of Optimal Code for Arithmetic Expressions",0.247426647427,0.417989417989
+7698717C,"Integrating code generation and peephole optimization",0.253571428571,0.358630952381
+7D46C75E,"Automatic generation of optimization code based on symbolic non-linear domain formulation",0.360204081633,0.400458668316
+801F7C51,"Implementation of the kernel techniques of real-time process algebra",0.277513227513,0.28746031746
+801ADE45,"A constructive method for exploiting code motion",0.251593314093,0.39375
+586A286A,"Retargetable Code Generation for Digital Signal Processors",0.256339031339,0.373214285714
+7DE854C6,"Systems for Late Code Modification",0.2875,0.444444444444
+5C433AE2,"A Programming Language Interface to Describe Transformations and Code Generation",0.264143264143,0.283924408924
+7D86AC15,"Automatic data partitioning for the agere payload plus network processor",0.232488146774,0.279437229437
+5F41AC8F,"Hardware acceleration for thermodynamic constrained DNA code generation",0.27328042328,0.270502645503
+78A4E280,"The effect on RISC performance of register set size and structure versus code generation strategy",0.27328042328,0.223968253968
+7D813EC0,"Code generation for semi-lagrangian formulations",0.247426647427,0.411255411255
+7F2DD0B0,"Efficient code generation for a domain specific language",0.256339031339,0.375992063492

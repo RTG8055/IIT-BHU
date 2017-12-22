@@ -1,0 +1,1525 @@
+7CEB57B0	Instruction Scheduling for Clustered VLIW DSPs
+7E8B0C7C	Requirements engineering-based conceptual modeling
+80973A68	An evaluation of bottom-up and top-down thread generation techniques
+5C360F7A	A Language and Tool for Generating Efficient Virtual Machine Interpreters
+7F120BC5	Phase coupled code generation for DSPs using a genetic algorithm
+807D9BA7	Generation of Executable Representation for Processor Simulation with Dynamic Translation
+08A4B3FE	Kernel plugins: when a VM is too much
+08CD6F07	Low Power Code Generation for a RISC Processor by Register Pipelining
+5863C70D	The Model-Composition Problem in User-Interface Generation
+776163E8	SAC: a functional array language for efficient multi-threaded execution
+7E5D9C45	Model-based run-time monitoring of end-to-end deadlines
+7B139221	A pattern-based application generator for building simulation
+5C74110F	Logic specification of code generation techniques
+59DC4EE4	Case Studies on Automatic Extraction of Target-Specific Architectural Parameters in Complex Code Generation
+7F04AD6B	Explicitly heterogeneous metaprogramming with MetaHaskell
+7576219C	Hardware architectures for programming languages and programming languages for hardware architectures
+7619029B	Storage assignment optimizations through variable coalescence for embedded processors
+7D18EEFD	Handling communications in process algebraic architectural description languages: Modeling, verification, and implementation
+7E9C01BD	A unified approach to global program optimization
+7FAC8532	Mapping multirate dataflow to complex RT level hardware models
+7F896412	Optimized code generation for finite element local assembly using symbolic manipulation
+70603ECF	A Design Notation and Toolset for High-Performance Embedded Systems Development
+7CB92DC4	Code-generation for machines with multiregister operations
+7A577178	Compiling for automatically generated instruction set extensions
+032982CD	Code Generation for Multirate DSP Systems in Gabriel
+7FA5F4F7	UJECTOR: A Tool for Executable Code Generation from UML Models
+770DB2FB	Tool support for semi-automatic modularization of existing code bases
+7D9119AA	A generic annotation inference algorithm for the safety certification of automatically generated code
+5CC003F1	Translation Validation: From DC+ to C
+7FB40318	Dexpler: converting Android Dalvik bytecode to Jimple for static analysis with Soot
+5A80A27C	Optimizing Matrix Multiplication with a Classifier Learning System
+7F4F7DCB	Hardware synthesis for multi-dimensional time
+78880AD7	Statecharts in the making: a personal account
+782B12A9	Classification and generation of schedules for VLIW processors
+033B186E	Generating Test Cases for Code Generators by Unfolding Graph Transformation Systems
+7DE5A92B	Applying MDA Approach to Create Graphical User Interfaces
+774D0A8E	Type-safe runtime code generation: accelerate to LLVM
+7A14372B	Modular code generation from synchronous block diagrams: modularity vs. code size
+802916A6	A Fortran compiler for the FPS-164 scientific computer
+7FEFF54D	Post Register Allocation Spill Code Optimization
+788AB444	A Note on Removing Loops from Table-Driven Code Generators
+71AAC00F	Integration Of The Code Generation Approach In The Model-Based Development Process By Means Of Tool Certification
+7A0756B8	Extracting task-level parallelism
+7FE01817	A Case Study of Design Space Exploration for Embedded Multimedia Applications on SoCs
+80F84BF0	A new method for compiler code generation
+80EA0D63	Model Based Development of Safety-Critical Systems Using Template Based Code Generation
+7D2E712D	Optimal Synthesis of Communication Procedures in Real-Time Synchronous Reactive Models
+7A772893	Fast memory bank assignment for fixed-point digital signal processors
+80D71CA3	A novel ADL-based compiler-centric software framework for reconfigurable mixed-ISA processors
+814BE1BC	Formal synthesis and code generation of embedded real-time software
+7C67E42A	Static array storage optimization in MATLAB
+5B99149C	Code generation in the SACRES project
+5A6966D9	Automatic generation of code generators.
+7DE3DED0	Compiler generation from structural architecture descriptions
+5B7593AB	A fast general parser for automatic code generation
+7BA9FC50	MieruCompiler: integrated visualization tool with "horizontal slicing" for educational compilers
+8024CDF4	Evaluating pattern catalogs: the computer games experience
+5F07D0DE	Chess : Retargetable Code Generation for Embedded DSP Processors
+7FF54C99	Efficient code generation for in-house DSP-cores
+813DDD17	Optimal code generation for expression trees: an application BURS theory
+5CB88AB9	A Preliminary Exploration of Optimized Stack Code Generation
+5F7547BA	Experience with VDM in Norsk Data
+5CBA10C1	Multi-Stage Programming: Axiomatization and Type Safety
+7F10DA79	Mixed abstraction level hardware synthesis from SDL for rapid prototyping
+7E955778	Automatically retargetable pre-processor and assembler generation for ASIPs
+8019067E	A model-based approach to designing QoS adaptive applications
+761C4AC2	Tree automata for code selection
+7B00A455	Highly concurrent scalar processing
+778152E2	The design of an integrated support software system
+80250374	Verification of Hardware Descriptions by Retargetable Code Generation
+7E581986	Embedded UML: a merger of real-time UML and co-design
+7E00BCCA	Code Generation: On the Scheduling of DAGs Using Worm-Partition
+7F9898EA	Online Adaptive Code Generation and Tuning
+5CF99BFF	Coalescing Conditional Branches into Efficient Indirect Jumps
+7EE7BF3E	Experimental evaluation of parallel transmission using optical ZCZ-CDMA system
+78380089	An implementation of a code generator specification language for table driven code generators
+812D523A	Test suite design for code generation tools
+7F63237E	Hybrid Code-Data Prefetch-Aware Multiprocessor Task Graph Scheduling
+6C1F862B	On the development and formalization of an extensible code generator for real life security protocols
+752AD829	Loo.py: transformation-based code generation for GPUs and CPUs
+7AA248FE	Code generation using tree matching and dynamic programming
+59A65B29	The Utilization of Matrix Structure to Generate Optimized Code from MATLAB Programs
+8108B43F	Integrated on-chip storage evaluation in ASIP synthesis
+80A2E6DB	Constructing a Safety Case for Automatically Generated Code from Formal Program Verification Information
+750CC351	Evaluating automatic parallelization for efficient execution on shared-memory multiprocessors
+7D31D8C5	Low-energy DSP code generation using a genetic algorithm
+77F9D041	Design of heterogeneous ICs for mobile and personal communication systems
+7C42FD39	Flexible model element introduction policies for aspect-oriented modeling
+80F07AC9	A Portable Framework for High-Speed Parallel Producer/Consumers on Real CMP, SMT and SMP Architectures
+7E64A71D	Instruction selection using binate covering for code size optimization
+7A49E8EF	A practical method for code generation based on exhaustive search
+7588E81D	Autonomic specification of self-protection for distributed MARF with ASSL
+80574C91	SENSORIA Patterns: Augmenting Service Engineering with Formal Analysis, Transformation and Dynamicity
+5A888D8D	Balanced loop partitioning using GTS
+5DAA68BF	Aspect and XML-oriented Semantic Framework Generator: SmartTools
+810E280C	Development of the Retargetable Tool Suite for Embedded Software
+5C9E13B4	Local CPS conversion in a direct-style compiler
+76D0B4FB	Synthesis of time-constrained multitasking embedded software
+7D0F6ECC	Precise modeling and verification of topological integrity constraints in spatial databases: from an expressive power study to code generation principles
+79EDB9B2	Code generation using an orthogonal model
+7683F568	Implementation of a portable Fortran 77 compiler using modern tools
+7D133C18	Code Generation from Statecharts: Simulation of Wireless Sensor Networks
+802A9D42	CTH12-3: Gaussian Chip Waveform Together with Markovian Spreading Codes Improve BER Performance in Chip-Asynchronous CDMA Systems
+81768766	Compiling tiled iteration spaces for clusters
+767809B0	Compiler design for efficient code generation and program optimization
+78727801	A new code generation algorithm for 2-offset producer order queue computation model
+80470FF5	Morphable messaging: efficient support for evolution in distributed applications
+5E8EE224	Unified parallel C for GPU clusters: language extensions and compiler implementation
+772DF3F8	C: a language for high-level, efficient, and machine-independent dynamic code generation
+5D5629B4	Semantically Configurable Code Generation
+7F693C5A	The impact of if-conversion and branch prediction on program execution on the Intel® Itanium#8482; processor
+7E621CB0	Retargetable compilation for low power
+5C34FEE0	Automatic Code Generation Method Based on Coloured Petri Net Models Applied on an Access Control System
+7ABC934F	Eliminating false phase interactions to reduce optimization phase order search space
+7EC96664	A simple tree pattern matching algorithm for code generator
+79BDFD8C	Just in time: adding value to the IO pipelines of high performance applications with JITStaging
+7CE1E467	A systematic review of code generation proposals from state machine specifications
+770A2A18	Optimal code generation for embedded memory non-homogeneous register architectures
+77B9FDF2	Communication optimization and code generation for distributed memory machines
+0C4E3586	Generating VHDL Source Code from UML Models of Embedded Systems
+7750E9F2	Mapping and scheduling for heterogeneous architectures
+7CEEFD78	Phase coupled operation assignment for VLIW processors with distributed register files
+754B64C6	The correctness of an optimized code generation
+809C515A	An approach for supporting aspect-oriented domain modeling
+7C0AFF52	Bootstrapping mobile app development
+75F936A0	Addressing optimization for loop execution targeting DSP with auto-increment/decrement architecture
+5D2132EA	Translation Validation: From Simulink to C
+7A7F74AF	Concern-based (de)composition of model-driven software development processes
+747D68DA	Retargetable code generation based on structural processor descriptions
+8037BAC9	Leveraging Predicated Execution for Multimedia Processing
+5E190106	A survey and critique of some models of code generation
+794C1918	A mechanically verified code generator
+7DAE1187	OpenMPC: extended OpenMP for efficient programming and tuning on GPUs
+7FBD3843	AMABULO - A Model Architecture for Business Logic
+5F725708	A Higher Order Generative Framework for Weaving Traceability Links into a Code Generator for Web Application Testing
+7620C356	Loops in esterel
+7D4221A2	Generating FPGA-Accelerated DFT Libraries
+75D74B86	Supporting OpenMP on cell
+7C9FCAE8	Generalized instruction selection using SSA -graphs
+7E98A9D8	Comparing mostly-copying and mark-sweep conservative collection
+7B381983	Application of the adjoint of the WAM model to inverse wave modeling
+76AB77E6	Multithreaded derivative computation with generated libraries
+5FA87E47	Towards formal specification and generation of autonomic policies
+80B7905E	Modular Code Generation from Triggered and Timed Block Diagrams
+7FE74042	Towards automatic parallelization of tree reductions in dynamic programming
+77F1DA0C	High‐level programming and control for industrial robotics: using a hand‐held accelerometer‐based input device for gesture and posture recognition
+7757A233	Compiler construction using modern tools
+7E995E36	Generating Code Review Documentation for Auto-Generated Mission-Critical Software
+7C7345AC	In search of a program generator to implement generic transformations for high-performance computing
+5CA9054D	Target code generation sing the code expansion technique for java bytecode
+7B1C0230	Clarity MCode: a retargetable intermediate representation for compilation
+719C9EAC	A Machine-Verified Code Generator
+7E1134E1	A machine independent algorithm for code generation and its use in retargetable compilers.
+78A7FDF3	A systematic review of the use of requirements engineering techniques in model-driven development
+5D076D2C	A Case Study for Automatic Code Generation on a Coupled Ocean-Atmosphere Model
+76D96782	Scaling up model driven engineering-experience and lessons learnt
+7F61474E	A comparison of full and partial predicated execution support for ILP processors
+47013AB3	Polyhedral AST Generation Is More Than Scanning Polyhedra
+723A615B	A Case for Specification Validation
+5A07D3A3	Interpretation of History Pseudostates in Orthogonal States of UML State Machines
+808FDBAF	Adjoint Code by Source Transformation with OpenAD/F
+7ED931E8	Design Assists for Embedded Systems in the COINS Compiler Infrastructure
+7FA5290E	Reducing fine-grain communication overhead in multithread code generation for heterogeneous MPSoC
+061DEC53	Teaching UML Using the Umple Model-Oriented Programming Technology
+81460928	Direct synthesis of optimized DSP assembly code from signal flow block diagrams
+5C8CBEB3	Development of Web Applications from Web Enhanced Conceptual Schemas
+800910E3	Iterative Algorithm for Compound Instruction Selection with Register Coalescing
+7D083BBD	A Component-Oriented Programming for Embedded Mobile Robot Software
+7F03F02E	Compiler prototyping using formal semantics
+7E1C98FD	Translating discrete-time simulink to lustre
+7F4ACF5C	Scenario-Based Generation of Digital Library Services
+7DA29996	Large-scale Model-Driven Engineering of web user interaction: The WebML and WebRatio experience
+797A6D5D	Advanced model transformation language constructs in the VIATRA2 framework
+69DF0766	Code generation for multiple mappings
+7EC7BC0C	Orthogonal Instruction Encoding for a 16-bit Embedded Processor with Dynamic Implied Addressing Mode
+753E11F3	A Case Study on Compiler Optimizations for the Intel® CoreTM 2 Duo Processor
+7D6A7E7F	Using invariants to optimize formal specifications before code synthesis
+0568249E	Towards Aspect-oriented Model-driven Code Generation in the Formal Design Analysis Framework
+761E9E4A	Offset assignment using simultaneous variable coalescing
+7989DEF9	Surveyor's Forum: Retargetable Code Generators
+75F8CE72	Continuation-passing, closure-passing style
+7D49A5F8	Time-constrained code compaction for DSPs
+7CF161BD	A formal software synthesis approach for embedded hard real-time systems
+765AF3F3	Simultaneous reference allocation in code generation for dual data memory bank ASIPs
+779E32AE	Efficient building block based RTL code generation from synchronous data flow graphs
+7F759CB2	The combining DAG: a technique for parallel data flow analysis
+76065132	Using rewriting techniques to produce code generators and proving them correct
+758999EC	Symbolic Reduction for High-Speed Power System Simulation
+7D97DD54	Case Studies in Model Manipulation for Scientific Computing
+7D3CD3ED	Specification, Synthesis, and Simulation of Transactor Processes
+0247C3CF	Improving performance of OpenCL on CPUs
+812F1F86	Retargetable assembly code generation by bootstrapping
+7F4E931A	Automatic generation of memory interfaces
+78FCA7EA	Software Code Generation for the RVC-CAL Language
+58459469	PAGODE: A back end generator using attribute abstract syntaxes and term rewritings
+7EB34A3F	Towards Adaptive Test Code Generation for Service Oriented Systems
+7ABBA655	Why a two pass front end?
+7BA5639C	A Retargetable Code Generator for the Generic Intermediate Language in COINS
+7727E250	Efficient retargetable code generation using bottom-up tree pattern matching
+7C245037	Automated performance tuning
+80CEEACB	Efficient call graph analysis
+047D08E3	Automatic task generation for the multi-level computing architecture
+8116AF49	Model based real-time networked applications for Wireless Sensor Networks
+8153DD1C	Hardware code generation from dataflow programs
+7FE16A45	On the code generated by the incidence matrix of points and hyperplanes in PG(n,q) and its dual
+7F18DC92	Code Generation of an XForms Client for Service Integration
+7862B531	Generating embedded software from hierarchical hybrid models
+8168E022	A unified formal model of ISA and FSMD
+7B4BC3C0	A singular loop transformation framework based on non-singular matrices
+7EB52AF6	Code generation by model transformation: a case study in transformation modularity
+0A83E0F2	An Energy-Aware Synthesis Methodology for OS-Driven Multi-Process Embedded Software
+7FF1BEFB	Separate Compilation of Polychronous Specifications
+80E3C34F	Efficient retargetable compiler code generation
+7FC064E0	Optimized RTL Code Generation from Coarse-Grain Dataflow Specification for Fast HW/SW Cosynthesis
+7FEE8479	Code Optimization Techniques for Embedded DSP Microprocessors
+78B56CE4	Code reuse in an optimizing compiler
+7D9F80E8	Clock-directed modular code generation for synchronous data-flow languages
+7DB05D81	Optimized address assignment for DSPs with SIMD memory accesses
+58FB42FC	Beyond Java: An Infrastructure for High-Performance Mobile Code on the World Wide Web
+7A700687	A code-motion pruning technique for global scheduling
+776C5071	Communication Generation for Block-Cyclic Distributions
+80A211F6	An approach to generating and verifying complex scripts and procedures
+799C61A5	Using an interactive parallelisation toolkit to parallelise an ocean modelling code
+7D27C6BC	Code generation in the polytope model
+7E932D15	Generating optimized code from SCR specifications
+7672AE53	CAPLib - A 'thin layer' message passing library to support computational mechanics codes on distributed memory parallel systems
+8151ACD4	Generation of abstract programming interfaces from syntax definitions
+7CCEC64C	Description-driven code generation using attribute grammars
+7F03A5F2	ASSYNT: efficient assembly code generation for digital signal processors starting from a data flowgraph
+7E132720	Graph-partitioning based instruction scheduling for clustered processors
+02B6B339	Performance of Table-Driven Code Generators Using Tree-Pattern Matching
+6E918A71	A linker for effective whole-program optimizations
+7DAE3DCF	From MSCs to statecharts
+7589965E	Global methods in the flow graph approach to retargetable microcode generation
+80F97C22	A retargetable VLIW compiler framework for DSPs with instruction-level parallelism
+656D2C3F	Consistent code generation from UML models
+7EED8F8D	Automating the Development of Device-Aware Web Services: A Model-Driven Approach
+5C03259D	Data Parallel Code Generation for Arbitrarily Tiled Loop Nests
+7EBCF676	Code Generation from B Specification based on Component Oriented Approach
+7BB1246C	A study of compiler techniques for multiple targets in compiler infrastructures
+7A51CCFF	Modular Design of Real-Time Systems Using Hierarchical Communicating Real-time State Machines
+7DAF6E16	Mod4J: a qualitative case study of model-driven software development
+7FA0A696	Instruction set design and optimizations for address computation in DSP architectures
+80E47244	Code generation based on formal BURS theory and heuristic search
+7F1EC4E7	C compiler design for a network processor
+7ABC966F	A Dynamic Programming Approach to Optimal Integrated Code Generation
+7D5B6A76	An instruction reorderer for pipelined computers
+7AB0AAFF	On the Design of a Microcode Compiler for a Machine-Independent High-Level Language
+76BD6DBC	BURG, IBURG, WBURG, GBURG: so many trees to rewrite, so little time (invited talk)
+7A2AEF89	Instruction Sets for Evaluating Arithmetic Expressions
+80F6B325	Model-Driven Development of Mobile Personal Health Care Applications
+59A53D2C	Target code generation from G-machine code
+7E9CB4C6	An Automatic Approach to Generating State Diagram from Contract-Based Class
+0C4AEAD4	Multi-core code generation from Interface based hierarchy
+005B6E2C	Object-Process Methodology (OPM) vs. UML - a Code Generation Perspective
+78487CBC	VCODE: a retargetable, extensible, very fast dynamic code generation system
+7EE23A2A	Performance of multicode direct-detection optical CDMA systems
+58C3A88E	Two Tree Pattern Matchers for Code Selection
+7B24843C	The Pascal-XT code generator
+7EA0A78F	Partial Evaluation + Reflection = Domain Specific Aspect Languages
+7EFA7E20	Jacobian code generated by source transformation and vertex elimination can be as efficient as hand-coding
+7BB564A9	Automatic parallel code generation for message passing on distributed memory systems
+77E0F99E	Recovery code generation for general speculative optimizations
+5F6629CF	Symbolic Derivation and Automatic Generation of Parallel Routines for Finite Element Analysis
+7DBFD31F	Predicated switching - optimizing speculation on EPIC machines
+68D3E67B	One-Pass, Optimal Tree Parsing - With Or Without Trees
+7E5FB24F	Integrating Model-Based and Task-Based Approaches to User Interface Generation
+7A959ED3	Loop transformations for NUMA machines
+78DE093A	Reducing reverse-mode memory requirements by using profile-driven checkpointing
+7B72C02F	Flow graph machine models in microcode synthesis
+803FE9F9	Address code generation utilizing memory sharing in DSP processors
+7F91E819	Address register allocation for arrays in loops of embedded programs
+80DD098C	Compiling with code-size constraints
+77A0F59B	A New Multithreaded Architecture Supporting Direct Execution of Esterel
+76E93A14	Generating Java Code from UML Class and Sequence Diagrams
+6A1278B6	Advanced code generation for high performance Fortran
+7DBD6A47	STARPro — A new multithreaded direct execution platform for Esterel
+7754111F	Efficient code generation from SHIM models
+7894A93E	Seamless Implementation of a Telephone Switching System Based on Formal Specifications in RTPA
+0BBCA9FE	An Object-Oriented Approach To Generate Java Code From UML Statecharts
+5AFE9058	Model-Based Interoperability of Heterogeneous Information Systems: An Industrial Case Study
+756DBD80	Error control by product codes in arithmetic units
+77AF1236	Violated dependence analysis
+78598BA6	Time weaver: a software-through-models framework for embedded real-time systems
+09CEEA4F	Code generator writing systems
+74985DC7	Analysis and Evaluation of Address Arithmetic Capabilities in Custom DSP Architectures
+7D39B220	Probabilistic source-level optimisation of embedded programs
+6DB2212B	Memory Offset Assignment for DSPs
+5C18824A	Automated Test Input Generation for Software That Consumes ORM Models
+7820AD10	Fast Prototyping Methodology for Distributed and Heterogeneous Architectures: Application to Mpeg-4 Video Tools
+06D9A6D4	Graham-glanville code generators
+7A17C80A	High-performance SIMT code generation in an active visual effects library
+5A14D076	Code Generation in Action
+7F499EF9	A methodology for control-dominated systems codesign
+7F586777	Partial Evaluation for Code Generation from Domain-Specific Languages
+7BD2165C	An empirical evaluation of high level transformations for embedded processors
+7F0D3093	Minimum register instruction sequence problem: revisiting optimal code generation for DAGs
+812A2DC6	CoDeSe: fast deserialization via code generation
+7D3C6C6F	Automatic tuning matrix multiplication performance on graphics hardware
+7F3D0501	Dynamic compilation of data-parallel kernels for vector processors
+70986355	WISE: A Prototype for Ontology Driven Development of Web Information Systems
+7B0DDF5F	Retargetable Compiler Code Generation
+8069B8EE	Verifying Ptolemy II Discrete-Event Models Using Real-Time Maude
+80B09D93	Embedded compiler optimization for communication applications
+7FFDEADA	Synthesis of Multitask Implementations of Simulink Models With Minimum Delays
+09BEE36E	Pattern-Based Code Generation for Well-Defined Application Domains
+78542694	Cronus: A platform for parallel code generation based on computational geometry methods
+7DB76684	ALIA4J's [(just-in-time) compile-time] MOP for advanced dispatching
+7D705182	Function outlining and partial inlining
+7FCEA32E	Buffer memory optimization for video codec application modeled in Simulink
+7ACE1CB1	OCL for formal modelling of topological constraints involving regions with broad boundaries
+7F22C9D7	A graph based processor model for retargetable code generation
+7F2612F2	Design of space-time codes achieving generalized optimal diversity
+598884FC	Embedded SW Design Space Exploration and Automation using UML-Based Tools
+7E61A767	Performance Study of a Whole Genome Comparison Tool on a Hyper-Threading Multiprocessor
+5AD550BD	Code Generation and Optimization Techniques for Embedded Digital Signal Processors
+7E44CC00	Profile-assisted Compiler Support for Dynamic Predication in Diverge-Merge Processors
+7B25230F	Type harvesting: a practical approach to obtaining typing information in dynamic programming languages
+7BF7C0D9	Efficient SIMD Code Generation for Runtime Alignment and Length Conversion
+5D68D62E	Code Generator Generation Based on Template-Driven Target Term Rewriting
+6A14B06A	Loop transformation recipes for code generation and auto-tuning
+77EAA3E5	Verifying semantic conformance of state machine-to-java code generators
+7EC7B30D	Instruction-set matching and selection for DSP and ASIP code generation
+5B4C5518	Code generation and optimization for embedded digital signal processors
+049AF8F2	The virtual processor: fast, architecture-neutral dynamic code generation
+7D4A4285	Target-sensitive construction of diagnostic programs for procedure calling sequence generators
+7EDF8449	Code generation algorithms for digital signal processors
+80DD8636	Model-driven Development of Complex Routing Protocols with SDL-MDD
+5D955C7A	Formalising UML state machines for model checking
+76A51926	Minimal unroll factor for code generation of software pipelining
+776DE219	Exemplar driven development of software product lines
+5DA50305	On automatic loop data-mapping for distributed-memory multiprocessors
+7DE9D4EB	Automatic framework generation for hard real-time applications
+7E82DC59	Efficient embedded code generation with multiple load/store instructions
+7EE9227A	CARS: a new code generation framework for clustered ILP processors
+7F244EAC	Static resource models of instruction sets
+7BCCF898	Exploiting heterogeneous parallelism with the Heterogeneous Programming Library
+7E9C339C	Optimization of embedded DSP programs using post-pass data-flow analysis
+7F587E8D	Applying WCET Analysis at Architectural Level
+75464F99	Using domain-specific languages and access-execute descriptors to expand the parallel code synthesis design space: keynote talk
+79DEDDE0	Retargetable microcode synthesis
+7D5FD16E	Code generation from a domain-specific language for C-based HLS of hardware accelerators
+7E7DBC50	Distributed, Modular HTL
+5EF298B1	Adaptable Translator of B Specifications to Embedded C Programs
+76B67A8F	Table-Driven Code Generation
+5F9FAB37	ConTraST – A Configurable SDL Transpiler and Runtime Environment
+5E7EDAEF	URSA: A Unified ReSource Allocator for Registers and Functional Units in VLIW Architectures
+7B026EC8	Dynamic Reverse Code Generation for Backward Execution
+76768422	Control flow aspects of semantics directed compiling (Summary)
+7D350289	Automated code generation of dynamic specializations: an approach based on design patterns and formal techniques
+80C661B6	Source-level loop optimization for DSP code generation
+80FF05C4	Model-based code generation for HLA federates
+7587A118	The Generation of Optimal Code for Stack Machines
+7780C6BE	Compiling APL for parallel and vector execution
+805B7E05	Preventing Reverse Engineering Threat in Java Using Byte Code Obfuscation Techniques
+0C4F0F1B	A Formal Way from Text to Code Templates
+7D1B7265	Code Generation for Autonomic Systems with ASSL
+781618B2	ISDL: an instruction set description language for retargetability
+594CC593	Global and Thread-Local Activation of Contextual Program Execution Environments
+77E2C253	Two versions of architectures for dynamic implied addressing mode
+5D741721	A Program Generator for Intel AES-NI Instructions
+80694FF5	High-integrity code generation for state-based formalisms
+7ED5080A	Automatic Test Generation for Model-Based Code Generators
+7FE5061F	All-optical CDMA using 'quasi-prime' codes
+78ED0B30	Link-time compaction and optimization of ARM executables
+76ED11ED	Processor modeling and code selection for retargetable compilation
+585716BF	Action algebras and model algebras in denotational semantics
+5E22220F	Technological steps toward a software component industry
+7CB4E354	Model driven transformation between design models to system test models using UML: a survey
+80F8D7FA	SimPL A Simple Software Production Line for End User Development
+75F0D8C8	The spineless tagless G-machine
+77CA5638	Optimal register assignment to loops for embedded code generation
+80EDFCE2	STEP-NC and function blocks for interoperable manufacturing
+7E1074A1	A retargetable instruction reorganizer
+7AADAB02	Selective code transformation for dual instruction set processors
+7A01D39F	An eclipse modelling framework alternative to meet the models@runtime requirements
+79DEAD01	Improvements to graph coloring register allocation
+5B5DEDEE	DSP Code Generation with Optimized Data Word-Length Selection
+685FFEC5	A translator system for the MATLAB language: Research Articles
+7B72A411	Semi-automatic composition of loop transformations for deep parallelism and memory hierarchies
+7EF42480	Statecharts in the making: a personal account
+7A0A55A0	Ur: statically-typed metaprogramming with type-level record computation
+778731EB	The STSLib Project: Towards a Formal Component Model Based on STS
+7E6A98CD	Synthesizing Byzantine Fault-Tolerant Grid Application Wrapper Services
+056CAF92	A Functional Language For Generating Structured Text
+7E655AB9	Modeling interactions using role-driven patterns
+77B0B95F	Optimizing data structures in high-level programs: new directions for extensible compilers based on staging
+813B0A5C	Dependent advice: a general approach to optimizing history-based aspects
+80D7CD0A	A dynamic heuristic algorithm for offset assignment
+07D4B158	Code Generator Testing in Practice
+7D7AF95E	A constraint driven approach to loop pipelining and register binding
+6F50A7E7	Fast and effective solutions to the phase ordering problem
+7AB59141	Continuous program optimization: A case study
+0288B37B	Code Generation Methods for Tiling Transformations
+78F848FD	Mesa: automatic generation of lookup table optimizations
+5A406007	Generalized Instruction Selector Generation: The Automatic Construction of Instruction Selectors from Descriptions of Compiler Internal Forms and Target Machines
+78ECE374	Orthogonal parallel processing in vector pascal
+802025AE	Towards the formal verification of a C0 compiler: code generation and implementation correctness
+78EE458C	Compiler-Based Performance Evaluation of an SIMD Processor with a Multi-Bank Memory Unit
+7B5B3F66	Efficient compilation for queue size constrained queue processors
+7A54780B	Array recovery and high-level transformations for DSP applications
+813657D9	Optimal spilling for CISC machines with few registers
+7D6FBD37	Communication Generation for Irregular Parallel Applications
+7E148DC9	Address Code Optimization Exploiting Code Scheduling in DSP Applications
+6E293876	A code generation approach for auto-vectorization in the SPADE compiler
+7704A445	MDABench: Customized benchmark generation using MDA
+60323203	HEPMath 1.4: A Mathematica Package for Semi-Automatic Computations in High Energy Physics
+73A5E4F8	Code Generation and Optimization for Finite Element Analysis
+7C3B8ED1	Gras: A general framework for combining automatic code generation and register allocation
+7E1861F5	Lightweight Morphing Support for Evolving Middleware Data Exchanges in Distributed Applications
+81300582	RTSOA: Real-Time Service-Oriented Architecture
+7CC284C6	DisIRer: Converting a retargetable compiler into a multiplatform binary translator
+5CF42C00	A SWP specification for sequential image processing algorithms
+7FDFCC70	Software Architecture Modelling and Performance Analysis with Argo/MTE
+7ED22017	Designing Modular Hardware Accelerators in C with ROCCC 2.0
+7DD0ABC7	Optimizations for faster execution of Esterel programs
+7624C378	Code Generation: A Strategy for Neural Network Simulators
+5DCD3981	An overview of the open research compiler
+769E955C	Artificial intelligence in scheduling and instruction selection for digital signal processors
+5BE4217E	An Engineer’s Workstation to Support Integrated Development of Flexible Production Control Systems
+7C7D916A	A truly generative semantics-directed compiler generator
+8055AF40	Dynamic optimization for efficient strong atomicity
+5F97A390	Global Register Allocation Based on Graph Fusion
+7E562B49	flashWeb: graphical modeling of web applications for data management
+7A1F7F58	Denotational semantics as a specification of code generators
+7AF20B56	An object-oriented implementation of concurrent and hierarchical state machines
+7558059C	A single-pass syntax-directed front end for Ada
+5841FA95	Model-Driven Performance Analysis
+6BAD8A2B	Deriving compilers and virtual machines for a multi-level language
+5BD29CE7	The Challenges of Using SDL for the Development of Wireless Sensor Networks
+80F808F4	Automatic Implementation of Multi-partitioning Using Global Tiling
+80BCA4A4	Model-Driven SIMD Code Generation for a Multi-resolution Tensor Kernel
+8017231F	Variable instruction set architecture and its compiler support
+7990D773	Scope conserving expression evaluation: a class of storage optimal evaluation strategies for arithmetic expressions
+7F432334	NOVA: A Functional Language for Data Parallelism
+7E79FDD0	Optimization for the Intel® Itanium® architecture register stack
+5FA915D2	A Practical MDA Approach for Autonomic Profiling and Performance Assessment
+7639634F	SDL code generation for network simulators
+813BB968	Transformation of Scientific Algorithms to Parallel Computing Code: Single GPU and MPI Multi GPU Backends with Subdomain Support
+5E0A554A	Program Checking with Certificates: Separating Correctness-Critical Code
+77E578F2	M3D: a tool for the model driven development of web applications
+80D67D66	A Framework for Generating Query Language Code from OCL Invariants
+7F1AB7EC	Synthesizing hardware from dataflow programs: An MPEG-4 simple profile decoder case study
+8062359A	DiSL: a domain-specific language for bytecode instrumentation
+7A6D10F7	Automatic derivation of compiler machine descriptions
+7F4D5DFB	Generating customized verifiers for automatically generated code
+7BD70E27	Code generation for silicon
+80EC46A1	A preliminary study on data allocation of on-chip dual memory banks
+7772E89F	Semantic analysis in a concurrent compiler
+5DDA983F	Expression and loop libraries for high-performance code synthesis
+76F9B957	Reconciling scenario-centered controller design with state-based system models
+588D7488	WebDSL: A Case Study in Domain-Specific Language Engineering
+7BB91920	Code Generation for Expressions with Common Subexpressions
+7E1E8FA2	Graphical user interfaces and automatic generation of sequential and parallel code for scientific computing
+79526579	A functional macro expansion system for optimizing code generation: gaining context-sensitivity without losing confluence (poster)
+5E8FC7F0	Constraint support in MDA tools: a survey
+7F8F7AB4	Model-based embedded software development flow
+80B2ACB1	Sound Code Generation from Communicating Hybrid Models
+5DD68DEA	A pattern enforcing compiler (PEC) for Java: using the compiler
+05014E03	Active Libraries and Universal Languages
+03E4FF58	Sollya: An Environment for the Development of Numerical Codes
+771D397B	Finite-state code generation
+76C087C2	Assembly instruction level reverse execution for debugging
+80120328	VERTAF: an application framework for the design and verification of embedded real-time software
+7F4AD413	Optimal register assignment to loops for embedded code generation
+803DFA55	Machine-Description Driven Compilers for EPIC and VLIW Processors
+7E78301C	Providing rapid feedback in generated modular language environments: adding error recovery to scannerless generalized-LR parsing
+784BC57D	Termination analysis and specialization-point insertion in offline partial evaluation
+7AFFC74B	Instruction selection, resource allocation, and scheduling in the AVIV retargetable code generator
+79008651	SESAG: an object‐oriented application framework for real‐time systems
+7E6024BA	Simultaneous multithreading: maximizing on-chip parallelism
+779F7477	Aspect-oriented model-driven code generation: A systematic mapping study
+5967429C	Intents and Upgrades in Component-Based High-Assurance Systems
+7D2BC5DA	Building application generators
+7DDAC73E	Leveraging Service-Orientation for Combining Code Generation Frameworks
+7DEAC1C5	Describing instruction set processors using nML
+7C6D69D1	Instruction-path coprocessing to solve some RISC problems
+7A8646B4	Binary codes from the complements of the triangular graphs
+7C0A9A7E	CoLan: a functional constraint language and its implementation
+5CCF91DB	A Latency Tolerant Code Generation Algorithm for a Coarse Grain Dataflow Machine
+064C1023	Development and Reuse of Engineering Automation
+5D041215	Mapping Uml Statecharts To Java Code
+7D42D0B4	Formal synthesis and code generation of real-time embedded software using time-extended quasi-static scheduling
+7C26CB89	Code generation for compiled bit-true simulation for DSP application
+77B54ACD	BabbleFlow: a translator for analytic data flow programs
+774A5883	An efficient separate compilation strategy for very large programs
+7F995DB0	Automatic parallelization and scheduling of programs on multiprocessors using CASCH
+7D09D29E	Automatic SystemC Code Generation from UML Models at Early Stages of Systems on Chip Design
+7725A618	High-quality code generation via bottom-up tree pattern matching
+7E475FCC	Run-time code generation as a central system service
+758DA239	Efficient scheduling of DSP code on processors with distributed register files
+5C9A23A1	How Hard is Compiler Code Generation?
+5ED99CC2	Compilation techniques for multimedia processors
+7C90CD12	Direct implementation of compiler specifications or the pascal p-code compiler revisited
+7DF377E1	Quibbs, a Code Generator for Quantum Gibbs Sampling
+7E1492C7	Metasynthesis for Designing Automotive SoCs
+75352088	An Efficient Code Generation Algorithm for Non-orthogonal DSP Architecture
+7ACBB9A1	Optimal and near-optimal global register allocations using 0–1 integer programming
+7659FCEF	Affix grammar driven code generation
+801051DD	Jumbo: run-time code generation for Java and its applications
+7E48F133	Modular JADE Agents Design and Implementation Using ASEME
+596355BC	Using C as a Compiler Target Language for Native Code Generation in Persistent Systems
+07654F83	Efficient Tree Pattern Matching: An Aid to Code Generation
+7A22F71B	Higher-order transformations with nested concrete syntax
+76B324E6	Automatic floating-point to fixed-point conversion for DSP code generation
+6DF7FD1B	From High-Level Task Descriptions to Executable Robot Code
+817117D0	Improving the Size of Communication Buffers in Synchronous Models With Time Constraints
+7C178BDC	Proving the correctness of heuristically optimized code
+58BA3246	Code Generation for a Dual Instruction Set Processor Based on Selective Code Transformation
+591697EB	Bi-dimensional composition with domain specific languages
+60570996	MySQL4OCL: A Stored Procedure-Based MySQL Code Generator for OCL
+75B3F3EC	A type system for reflective program generators
+80B4FA32	Information sources using chaotic dynamics
+79FB97A6	Source coherence impairments in a direct detection direct sequence optical code-division multiple-access system
+7D61A877	Optimizing stack frame accesses for processors with restricted addressing modes
+8004F871	Capacity analysis of m-user self-encoded multiple access system in AWGN channels
+776E499D	An llVM backend for GHC
+7DF2A908	Conflict Modelling and Instruction Scheduling in Code Generation for In-House DSP Cores
+7D7BF72E	Analysing Switch-Case Tables by Partial Evaluation
+7D3744FA	Interface synthesis in heterogeneous system-level DSP design tools
+7A994170	A framework for remote dynamic program optimization
+7E75583F	Efficient instruction scheduling for a pipelined architecture
+753E618B	A portable global optimizer and linker
+7EC01F48	Obstacles in software process technology evolution: analysis of the code generation case
+808DE823	Tutorial: Compiling concurrent languages for sequential processors
+5B45E30C	Transformation of UML state machines for direct execution
+75657BC8	Parallel code generation for super-scalar architectures
+7C0A1704	Translating concurrent action oriented specifications to synchronous guarded actions
+804329AD	Metadata driven code generation using .NET framework
+810DB1F1	Effective Code Generation for Distributed and Ping-Pong Register Files: A Case Study on PAC VLIW DSP Cores
+7C423BA2	An approach to systems verification
+5CCE9F39	A standard ML compiler
+7B1CF815	The Design and Application of a Retargetable Peephole Optimizer
+5C7E56C8	Code partitioning for synthesis of embedded applications with phantom
+8093A0B8	Model-Based Design of Embedded Control Systems by Means of a Synchronous Intermediate Model
+7E440ADF	AN APPROACH TO THE DEVELOPMENT OF HYBRID OBJECT-ORIENTED DESIGN TOOL
+7722B4E0	Code generation and reorganization in the presence of pipeline constraints
+5BB7D3C8	Model Driven Development of Graphical User Interfaces for Enterprise Business Applications --- Experience, Lessons Learnt and a Way Forward
+76E9E3F6	A code generator generator language
+80C08524	A Solution Based on Modeling and Code Generation for Embedded Control System
+751147E6	Model-Driven development with SDL – process, tools, and experiences
+7880E88C	A greedy concurrent approach to incremental code generation
+7D2516FF	An Implementation of the Haskell Language
+071884B7	Formalization and automatic derivations of code generators
+780F8104	A type system for reflective program generators
+7D38BBCB	A Code Generation Framework for Time-Triggered Real-Time Systems
+7522A69F	Current status of a portable LISP compiler
+7EC4BEAF	Building models of real-time systems from application software
+5B298FD8	Automatic Generation of Optimized Code for Marshalling Routines
+7D52F431	A 90nm Manchester Code Generator with CMOS Switches Running at 2.4GHz and 5GHz
+599405BF	Adaptive Compression of Syntax Trees and Iterative Dynamic Code Optimization: Two Basic Technologies for Mobile Object Systems
+818CB766	Constraint analysis for DSP code generation
+5970CE12	S2A: a compiler for multi-modal UML sequence diagrams
+697B6AF6	100% Coverage for Safety-Critical Software – Efficient Testing by Static Analysis
+7F36A1D7	Code Generation = A* + BURS
+7EF8E770	Model-Based Development of Embedded Systems: The SysWeaver Approach
+8033B350	Denali: a goal-directed superoptimizer
+75BD6705	Partial translation: towards a portable and efficient prolog implementation technology
+7D52DE82	Improving register allocation for subscripted variables
+589E2F84	Transformation-Based Operationalization of Graph Languages
+7B9D4680	The essence of compiling with continuations
+5A4C69F0	From Crosscutting Concerns to Web Systems Models
+139B2D60	Parallel Code Generation from Dataflow Specification for MPSoc System
+5D33FDA6	Integer Loop Code Generation for VLIW
+801E626E	Aspect-oriented multi-view modeling
+58971E3F	Turning Inductive into Equational Specifications
+5B67C8AF	Runtime Code Generation in C++ as a Foundation for Domain-Specific Optimisation
+759C132A	No assembly required: compiling standard ML to C
+05B28527	Deterministic UML Models for Interconnected Activities and State Machines
+7DD506F9	Heuristic tradeoffs between latency and energy consumption in register assignment
+80D47089	Distributed-code generation from hybrid systems models for time-delayed multirate systems
+7ABE0AB3	Buffer optimization in multitask implementations of Simulink models
+7D123395	SecureMDD: A Model-Driven Development Method for Secure Smart Card Applications
+7E2D2A66	From Requirements to Code Revisited
+6D3C91A9	An MDA Framework Supporting OCL
+5A60C849	Issues of the Automatic Generation of HPF Loop Programs
+7CE0258A	Automatic isolation of compiler errors
+7F6B2AFE	Defining visual notations and their manipulation through meta-modelling and graph transformation
+809ACA57	Extracting knowledge from association relationships to build navigational models
+7A18B987	Optimized code generation of multiplication-free linear transforms
+751D6047	Optimal code generation for expression trees
+78A9C51E	SystemJ: A GALS language for system level design
+76290515	Domain specific model-based development of software for programmable logic controllers
+75B593F6	On the use of LISP in implementing denotational semantics
+6CA4B354	Automatic Synthesis and Verification of Real-Time Embedded Software
+7FD0FC0B	Constraint analysis for DSP code generation
+80434674	Just-In-Time Data Virtualization: Lightweight Data Management with ViDa
+59A7061E	Code Generation: Evaluating Polynomials
+76DD9FA9	Towards a performance-portable description of geometric multigrid algorithms using a domain-specific language
+5862905F	Simplifying code generation through peephole optimization
+80FFA1FE	Recompilation for debugging support in a JIT-compiler
+82AA62C9	Runtime Code Generation and Data Management for Heterogeneous Computing in Java
+5A91502C	Code Instruction Selection Based on SSA-Graphs
+584DC27B	Dynamic Look Ahead Compilation: A Technique to Hide JIT Compilation Latencies in Multicore Environment
+804A1A21	A case study using empirical optimization for a large, engineering application
+5FAC4317	Finding Synchronization-Free Parallelism Represented with Trees of Dependent Operations
+7A327C96	DESOLA: An active linear algebra library using delayed evaluation and runtime code generation
+808914C9	Register Allocation and Optimal Spill Code Scheduling in Software Pipelined Loops Using 0-1 Integer Linear Programming Formulation
+80EFBBC0	CMS-Based Web-Application Development Using Model-Driven Languages
+6F0D5174	A technique for code generation of USN applications based on nano-qplus
+811DA5EC	Constraint analysis for DSP code generation
+80FE0294	A Lightweight MDSD Process Applied in Small Projects
+7F2EDA20	HW/SW partitioning and code generation of embedded control applications on a reconfigurable architecture platform
+81140E1E	Energy efficient special instruction support in an embedded processor with compact isa
+7E99C7C2	C Compiler Design for an Industrial Network Processor
+7E595B83	IP reuse in an MDA MPSoPC co-design approach
+7DA2CF18	A type-based compiler for standard ML
+6A723F64	FrameKit and the prototyping of CASE environments
+7FBFE34C	Neural networks and dynamic complex systems
+769F3CFD	Timing analysis of esterel programs on general-purpose multiprocessors
+80EE113A	The Test and Training Enabling Architecture (TENA) Supporting the Decentralized Development of Distributed Applications and LVC Simulations
+75991E92	A framework for interprocedural optimization in the presence of dynamic class loading
+760428C0	A global progressive register allocator
+7D3091F2	Serialized parallel code generation framework for MPSoC
+79D48163	Using logic programming and coroutining for electronic CAD
+5F37DF07	Unboxed values as first class citizens in a non-strict functional language
+7E754B1E	Separate compilation and execution of imperative synchronous modules
+04AF2110	Contribution of model-driven engineering to crop modeling
+7D93DF3D	An automatic code generation tool for partitioned software in distributed systems
+76783851	High-performance implementations of the Descartes method
+7B6281C3	Optimal Code Generation for Expression Trees
+7E6BB7ED	New Code Generation Algorithm for QueueCore An Embedded Processor with High ILP
+79E4C4A3	Optimizing Address Code Generation for Array-Intensive DSP Applications
+7CF8AA38	Event-driven Scheduling for Parallel Stream Processing
+812E903E	The impact of If-conversion and branch prediction on program execution on the Intel/sup R/ Itanium/sup TM/ processor
+7DBB5C01	An MCU description methodology for initialization code generation software
+76B63FC4	Generic control flow reconstruction from assembly code
+80EBAFE0	Design of clocked circuits using UML
+7FFADCB1	Formal loop merging for signal transforms
+8082FA1E	The Challenges of Building Advanced Mechatronic Systems
+812111B8	Symbolic binding for clustered VLIW ASIPs
+813B353D	Native Code Generation Using the Transterpreter
+75DAE574	Denali: A practical algorithm for generating optimal code
+7774389E	Scheduliing expression trees with register variables on delayed-load architectures
+772CBF19	Code generation for fixed-point DSPs
+585D1303	Retargetable code generation and optimization using attribute grammars
+7F625C79	An efficient code generation technique for tiled iteration spaces
+7C5E9364	Experience with a clustered parallel reduction machine
+760E1148	Look-ahead allocation in the presence of branches
+7F62F8F2	Performance portable optimizations for loops containing communication operations
+790AB21D	Global optimization techniques for automatic parallelization of hybrid applications
+5CEB56F7	RCGES: Retargetable Code Generation for Embedded Systems
+80D18D34	Program Synthesis from Formal Requirements Specifications Using APTS
+597006A2	Finding Coarse Grained Parallelism in Computational Geometry Algorithms
+7F8F1C1F	A Phase-Coupled Compiler Backend for a New VLIW Processor Architecture Using Two-step Register Allocation
+7D3F142A	Compiler-assisted dynamic scheduling for effective parallelization of loop nests on multicore processors
+77F6B094	A generative geometric kernel
+779FA1BC	A retargetable technique for predicting execution time of code segments
+78E246E0	Scheduling-based code size reduction in processors with indirect addressing mode
+6EFA342A	Combining offline and online optimizations: register allocation and method inlining
+7A651898	Feedrate scheduling strategies for free-form surfaces
+7927B1CC	Efficient Computation of Expressions with Common Subexpressions
+5C91E469	Compiler Optimizations with DSP-Specific Semantic Descriptions
+7F265C40	Peephole optimization as a targeting and coupling tool
+7582EC64	Memory data organization for improved cache performance in embedded processor applications
+7A9C5316	Space-efficient closure representations
+7A2D43ED	Numerical computation of molecular integrals via optimized (vectorized) FORTRAN code
+80DB4457	Fast, frequency-based, integrated register allocation and instruction scheduling
+80E31280	Constraint analysis for code generation: basic techniques and applications in FACTS
+7F106D44	An efficient model for DSP code generation: performance, code size, estimated energy
+7E09E3E2	Memory-efficient multithreaded code generation from Simulink for heterogeneous MPSoC
+5E69FDD6	Code generation for embedded Java with Ptolemy
+7787DE4A	Optimized implementation of synchronous models on industrial LTTA systems
+7EE6F0DF	A Modular Compiler Architecture for a Data Manipulation Language
+7688238E	Certifiable program generation
+7CC53B2C	A code generation method for system-level synthesis on ASIC, FPGA and manycore CGRA
+787751B5	Simple and effective link-time optimization of Modula-3 programs
+5EE1875E	A functional intermediate form for diverse source languages
+7E7D47F1	Automatic generation of hypertext system repositories: a model driven approach
+76221248	Validate, simulate, and implement ARINC653 systems using the AADL
+75628C4A	Adaptive parallel tiled code generation and accelerated auto-tuning
+7D8C0780	Memory management for dataflow programming of multirate signal processing algorithms
+8086896C	Automatic code generation and tuning for stencil kernels on modern shared memory architectures
+7517A40F	Improving balanced scheduling with compiler optimizations that increase instruction-level parallelism
+7A81797E	C++ reflection for high performance problem solving environments
+806E13DD	Lightweight modular staging: a pragmatic approach to runtime code generation and compiled DSLs
+60B228EB	Optimizing Nested Loops Using Local CPS Conversion
+7971105E	Parsing and compiling using Prolog
+7929DFCB	Fast, automatic, procedure-level performance tuning
+813D804E	A model-driven validation & verification environment for embedded systems
+80480322	A tool-supported approach to testing UML design models
+76F53CA5	Simulink ® -based heterogeneous multiprocessor SoC design flow for mixed hardware/software refinement and simulation
+7A87C21F	Code optimizations for a VLIW-style network processing unit
+6CA3165A	Instruction selection for ARM/Thumb processors based on a multi-objective ant algorithm
+7E41EABF	Extending Graham-Glanville Techniques for Optimal Code Generation
+7D04C2E9	Field-testing IMPACT EPIC research results in Itanium 2
+046729A5	Using Platform-Specific Optimizations in Stub-Code Generation
+7DD54458	Efficient multiway radix search trees
+813CE87A	An inverse radiative transfer model of the vegetation canopy based on automatic differentiation
+7B67D910	Automating the selection of code templates
+5BCE943A	Retargetable and Tuneable Code Generation for High Performance DSP
+8080F6B5	Experimental Evaluation and Improvements to Linear Scan Register Allocation
+7E008C72	Automatic detection and diagnosis of faults in generated code for procedure calls
+802B5824	Code generation in ALPAL using symbolic techniques
+7ED1D6B9	Rapid architecture prototyper (RAP)
+7DD8789F	Extracting compiler provenance from program binaries
+58AE58E5	- Code Generation Using GEODE: A CASE Study
+78E903FC	Clearwater: extensible, flexible, modular code generation
+806BF39F	MobCon: A Generative Middleware Framework for Java Mobile Applications
+7740D3C3	Mapping UML designs to Java
+7C718351	VikiBuilder: end-user specification and generation of visual wikis
+812AAA5E	A portable-approach to dynamic optimization in run-time specialization
+7A338EC6	Trade-offs in loop transformations
+7947FF2D	A practical automatic polyhedral parallelizer and locality optimizer
+7C9CAA94	A systematic approach to advanced debugging through incremental compilation (Preliminary Draft)
+7F7155B5	Avoidance and suppression of compensation code in a trace scheduling compiler
+5D197475	A Flexible Tradeoff Between Code Size and WCET Using a Dual Instruction Set Processor
+5BEE07E6	Convergent Compilation Applied to Loop Unrolling
+7B449F08	Recovery of jump table case statements from binary code
+7B3C7E9D	An effective and efficient code generation algorithm for uniform loops on non-orthogonal DSP architecture
+7F552086	Engineering a simple, efficient code-generator generator
+7BD6FAA4	DCG: an efficient, retargetable dynamic code generation system
+7F3B8154	Skewed pipelining for parallel simulink simulations
+789B7F98	Code-generation technique for large-language compilers
+77B00869	Incremental dynamic semantics for language-based programming environments
+7601E901	Optimizations for quadrature representations of finite element tensors through automated code generation
+77058BE4	Recipes for adjoint code construction
+7F55B7B7	CSX: an extended compression format for spmv on shared memory systems
+7772FA0C	Compilation reuse and hybrid compilation: an experiment
+77AE0B42	Retargetable generation of code selectors from HDL processor models
+786CDE08	Code Generation with the Exemplar Flexibilization Language
+811038BB	Developing Tools with Fujaba XProM
+7D37EBFF	Automatic mapping of system of N-dimensional affine recurrence equations (SARE) onto distributed memory parallel systems
+7607E728	On the Sethi-Ullman algorithm
+7CBA93F4	Optimizing the performance of streaming numerical kernels on the IBM Blue Gene/P PowerPC 450 processor
+7F35A4D2	ADAPT: Automated De-coupled Adaptive Program Transformation
+7CA2BFE8	A flexible code generation framework for the design of application specific programmable processors
+7C214373	Scan detection and parallelization in "inherently sequential" nested loop programs
+7D7EAEF1	Vmgen: a generator of efficient virtual machine interpreters
+7A431168	Adjoint code generator
+7AD01FC8	Towards an operation model for generated web applications
+81069B3F	Evaluation of code generation strategies for scalar replaced codes in fine-grain configurable architectures
+7D736A6D	Integrating a new cluster assignment and scheduling algorithm into an experimental retargetable code generation framework
+7ABA239D	Two-level semantics and code generation
+7F381FA5	Extended quasi-static scheduling for formal synthesis and code generation of embedded software
+80C08F7D	Viewpoints in the Smart Home Product Line
+7E6308C8	Message-passing code generation for non-rectangular tiling transformations
+75163AAC	Overview of existing safeguarding techniques for automatically generated code
+59DDE312	Limited Address Range Architecture for Reducing Code Size in Embedded Processors
+8067A6D5	Genesys: service-oriented construction of property conform code generators
+7CEF078F	STATEMATE: a working environment for the development of complex reactive systems
+5B12340F	Code generation for complex subscripts in data-parallel programs
+76B2869B	Resource Management in Dataflow-Based Multithreaded Execution
+7D70894B	Shonan challenge for generative programming: short position paper
+58505F87	Lost in Translation? Transformation Nets to the Rescue!
+799FD8E7	A CAD environment for real-time DSP implementations on multiprocessors
+790B7184	DSP design tool requirements for embedded systems: a telecommunications industrial perspective
+7C746554	Generating efficient local memory access sequences for coupled subscripts in data-parallel programs
+805DE5C9	A comparison of empirical and model-driven optimization
+7E068272	High performance code generation for VLIW digital signal processors
+7EB816A1	Multi-threaded code generation from Signal program to OpenMP
+799D97E3	A Compiler for Multimodal Scenarios: Transforming LSCs into AspectJ
+7E962882	Automatic Generation of Fast and Certified Code for Polynomial Evaluation
+587B90AB	Computer algebra for the formation of structural matrices of piezoceramic finite elements
+7F21EBF9	Software pipelining showdown: optimal vs. heuristic methods in a production compiler
+7E0887D8	Modeling the Image-Processing Behavior of the NASA Voyager Mission with ASSL
+12082DA3	Implementing the dynamic behavior represented as multiple state diagrams and activity diagrams
+7E482CE8	Rapid software prototyping using visual language techniques
+7EE2918A	A non-deterministic scheduler for a software pipelining compiler
+7ACCD7F8	Using code generation approach in developing kiosk applications
+7D597C9A	Constraint driven code selection for fixed-point DSPs
+76AD5F8F	Using static single assignment form in a code optimizer
+7D731CCF	Pension reserve computations on GPUs
+07C6D028	Model Driven Development with Interactive Use Cases and UML Models
+5C10D102	A model-driven framework for developing web service oriented applications
+7E8231DC	Just-In-Time Java? Compilation for the Itanium® Processor
+7BC5C4DF	Efficient data driven run-time code generation
+7D4D4BCC	Traversals of object structures: Specification and Efficient Implementation
+77F1AF2A	Just-In-Time compilation on ARM processors
+0077896E	A retargetable compilation methodology for embedded digital signal processors using a machine-dependent code optimizaton library
+7F838063	Generating Reliable Code from Hybrid-Systems Models
+793881AD	A resource semantics and abstract machine for Safe: A functional language with regions and explicit deallocation
+809CB4A9	Models for automatic generation of safety-critical real-time systems
+5A3650A9	Iterative compilation with kernel exploration
+7BFAD2BA	Experience with a Graham-Glanville style code generator
+7A3157E9	Prolog based retargetable code generation
+79CD49D4	Tool support for the rapid composition, analysis and implementation of reactive services
+5BF65D13	A Tree-Based Alternative to Java Byte-Codes
+7F5F4F0E	SPIRAL: Code Generation for DSP Transforms
+7E02AB11	Instruction selection for embedded DSPs with complex instructions
+636FF2A4	CODELAB: a develpers' tool for efficient code generation and optimization
+7BD41C48	Generating Multi-Threaded code from Polychronous Specifications
+7EAA7846	Generation and optimisation of code using Coxeter lattice paths
+80B2DFF3	Generic Fault-Tolerance Mechanisms Using the Concept of Logical Execution Time
+78471333	MOSAIC a web-based modeling environment for code generation
+774E1C96	Efficient computation of address sequences in data parallel programs using closed forms for basis vectors
+7C84AF7B	Automatic code generation from event-B models
+80F0E8F4	Automating the implementation of Kalman filter algorithms
+85061293	An aspect-oriented model-driven engineering approach for distributed embedded real-time systems
+75C9F697	Automatic Performance Tuning for Fast Fourier Transforms
+027D3B8D	Chapter Seven Integrated Modelling Frameworks for Environmental Assessment and Decision Support
+78CBE951	Integrating Compiler and System Toolkit Flow for Embedded VLIW DSP Processors
+06A20B76	Modelling Local and Global Behaviour: Petri Nets and Event Coordination
+7895C4CF	On code generation in a PASCAL compiler
+77DB5E72	Heuristic chaining in directed acyclic graphs
+7D70F29F	An efficient technique for exploring register file size in ASIP design
+7B945F39	Design of a SIMD multimedia SoC platform
+7ACFD4D9	An approach towards parallelisation of sequential programs in an interactive environment
+59819E17	Integrating WCET Analysis into a Matlab/Simulink Simulation Model
+7625A161	Automated and parallel code generation for finite-differencing stencils with arbitrary data types
+80857F68	ModHel’X: A Component-Oriented Approach to Multi-Formalism Modeling
+80E7C2F7	A compiler for multiprocessor DSP implementation
+5A5DCF21	Techniques for Lightweight Generator Refactoring
+808E2A09	Partial redundancy elimination for access path expressions
+7EC96573	Exploring Java code generation based on formal specifications in RTPA
+5CAB9874	A Framework for Enhancing Code Quality in Limited Register Set Embedded Processors
+7BAABF10	Reducing program image size by extracting frozen code and data
+7EF225A9	Structural Optimization on Superscalar Processors
+7F72720E	Discovering machine-specific code improvements
+759C1E15	A runtime system
+5D0CB6EF	Generative Programming and Active Libraries
+7F7275AF	Polychronous controller synthesis from MARTE CCSL timing specifications
+7DEF25ED	Formalization and automatic derivation of code generators.
+7B0DB8F4	GPU code generation for ODE-based applications with phased shared-data access patterns
+7DD80E28	High Performance Fortran Compilation Techniques for Parallelizing Scientific Codes
+7E469F9A	Correctness proofs for META IV written code generator specifications using term rewriting
+7E87030A	Integrated scheduling and register assignment for VLIW-DSP architectures
+78A6530C	Spill code minimization techniques for optimizing compliers
+7D225F63	Vectorization for SIMD architectures with alignment constraints
+8161416C	OpenMP to GPGPU: a compiler framework for automatic translation and optimization
+5AAEC61A	Static resource models for code generation of embedded processors
+5A0B87F0	Model Driven Formal Development of Digital Libraries
+7E12BD9D	Code generation from hybrid systems models for distributed embedded systems
+7DAE4622	Routine run-time code generation
+79949A12	A translation system for enabling data mining applications on GPUs
+7F54EA20	Hierarchical Optimization of Asynchronous Circuits
+795AE80B	Compiling with code-size constraints
+7FF1003E	An Esterel compiler for large control-dominated systems
+7744199D	Hard-coding bottom-up code generation tables to save time and space
+78AA7E3F	CoGenTe: a tool for code generator testing
+75F1866B	Beyond unimodular transformations
+81412C8E	Leveraging UML Profiles to Generate Plugins From Visual Model Transformations
+7DC87117	Optimized code generation for programmable digital signal processors
+04CD976F	A lisp-based ratfor code generator
+7AAD4A8C	TinyGALS: a programming model for event-driven embedded systems
+7DF36FF0	An axiomatic approach to code optimization for expressions
+7DA3F407	Automatic code generation for executing tiled nested loops onto parallel architectures
+77AE0B5E	Attributed linear intermediate representations for retargetable code generators
+685A7528	Automatic generation of FORTRAN-coded Jacobians and Hessians
+7D319BB3	Using hammock graphs to structure programs
+7733D656	A data-localization compilation scheme using partial-static task assignment for Fortran coarse-grain parallel processing
+7A030F1E	A time Petri net-based method for embedded hard real-time software synthesis
+584F75DE	Control Flow Regeneration for Software Pipelined Loops with Conditions
+80D10992	Building auto-adaptive distributed applications: the QuO-APOD experience
+75A1B76B	Hybrid Hexagonal/Classical Tiling for GPUs
+813892E2	Efficient type inference for secure information flow
+7FF7997D	Cost-effective maintenance tools for proprietary languages
+7D0C8785	Performance debugging of Esterel specifications
+7F285B9B	Optimization on instruction reorganization
+7B4DCECF	A case study on API generation
+7B05FE1C	A decade of model-driven security
+776ABC1C	A higher-order extension for imperative synchronous languages
+69F286C3	Phase-Coupled Mapping of Data Flow Graphs to Irregular Data Paths
+7E0CCFD8	Experience of Optimizing FFT on Intel Architectures
+80E5B537	A coarse-grain reconfigurable hardware architecture for RVC-CAL-based design
+7C386067	Efficient hardware code generation for FPGAs
+81338EEC	Optimizing data permutations for SIMD devices
+5CCB3837	Scenario-Based Performance Evaluation of SDL/MSC-Specified Systems
+7717C335	An approach for developing domain specific CASE tools and its application to manufacturing process control
+7E17D661	CS-CDMA/CP with the Chu Sequence: A Bandwidth-Efficient Multi-Access Scheme for Fast Fading Multipath Channels
+7A030CE8	Model driven benchmark generation for web services
+7756D700	Object race detection
+812814B8	REGLAS PARA LA GENERACIÓN AUTOMÁTICA DE CÓDIGO DEFINIDAS SOBRE METAMODELOS SIMPLIFICADOS DE LOS DIAGRAMAS DE CLASES, SECUENCIAS Y MÁQUINA DE ESTADOS DE UML 2.0 RULES FOR AUTOMATED CODE GENERATION DEFINED OVER SIMPLIFIED METAMODELS OF CLASS, SEQUENCE AND STATE MACHINE DIAGRAMS OF UML 2.0
+7D95AA92	An abstract intermediate representation in compilation systems
+7F00BFC4	A minimum-cost circulation approach to DSP address-code generation
+7E7C910D	Scheduling DAGs for Fixed-point DSP Processors by Using Worm Partitions
+8139808D	Using OCL-queries for debugging C++
+81709D8A	Efficient Utilization of SIMD Extensions
+06C7812C	Exploiting Roles and Responsibilities to Generate Code in a Distributed Design-Pattern-Based Programming System
+7FCE13C0	Programming‐by‐demonstration in the coworker scenario for SMEs
+7A046B4E	Engineering a production code generator
+7FC076E5	FCG: A Code Generator for Lazy Functional Languages
+799C39B6	Efficient SIMD code generation for irregular kernels
+7D6295F7	A Certifying Code Generation Phase
+773C0643	Retargeting JIT Compilers by using C-Compiler Generated Executable Code
+7E84D437	Automated support for data exchange via XML
+780EEE7E	Statistical Models for Empirical Search-Based Performance Tuning
+809D69BD	Tracing execution of software for design coverage
+7C56C139	A near-optimal instruction scheduler for a tightly constrained, variable instruction set embedded processor
+5DC6FB30	Code Generation for Embedded Processors
+804B4845	Behaviour Directed Testing of Auto-code Generators
+798864D2	From scenarios to code: An air traffic control case study
+7B8DE7F6	A new strategy for code generation: the general purpose optimizing compiler
+75898F29	Code generation for hybrid mixed mode formulation in finite element analysis
+59C8AF71	From Model Driven Engineering to Verification Driven Engineering
+7945699B	Efficiently parallelizing instruction set simulation of embedded multi-core processors using region-based just-in-time dynamic binary translation
+753F8DF3	Towards Model Transformation in Generated Eclipse Editor Plug-Ins
+7F02B80F	ModES: Embedded Systems Design Methodology and Tools based on MDE
+7D4DCF99	An environment for the design and implementation of visual applications
+76D1A24D	Real-Time scheduling techniques for implementation synthesis from component-based software models
+7E11B8F1	Code generation for single-dimension software pipelining of multi-dimensional loops
+80556CDA	Generating fast code from concurrent program dependence graphs
+7D9B7559	Certifying code generation runs with Coq: a tool description
+77A372CC	Revisiting communication code generation algorithms for message-passing systems
+7DE2D0AD	Pack instruction generation for media pUsing multi-valued decision diagram
+5CF0A62A	Dependence-based code generation for a CELL processor
+80D2BB66	Model-based hardware/software synthesis for wireless sensor network applications
+7C7F2F0E	Performance of Coded CS-CDMA/CP with M-ZCZ Code over a Fast Fading Channel
+803061A2	Code density optimization for embedded DSP processors using data compression techniques
+78C78208	Computer aided parallelisation tools (CAPTools)—conceptual overview and performance on the parallelisation of structured mesh codes
+813E1BCB	Towards universal code generator generation
+5FB061DF	Real-Time Systems Development Using Hierarchical State Machines
+58F0317E	Metaprogramming with traits
+7D761541	Formal requirements-based programming for complex systems
+07BD1FDD	Sequentializing Program Dependence Graphs for Irreducible Programs
+769BF3A5	Time-constrained code compaction for DSPs
+7F4417C3	From PIMs to PSMs
+7E7EAA81	Minimum register instruction sequencing to reduce register spills in out-of-order issue superscalar architectures
+7E881906	An Efficient Hash Table Based Approach to Avoid State Space Explosion in History Driven Quasi-Static Scheduling
+58BB6DA1	Coalgebraic Semantics for Component Systems
+5B8D3359	A Basic Data Routing Model for a Coarse-Grain Reconfigurable Hardware
+7873B3DA	Automated generation of code using backtracking parsers for attribute grammars
+802F7396	Data-Parallel Compiler Support for Multipartitioning
+7FA6D6C7	On Pattern-Based Database Design and Implementation
+7E6B1DD2	Generating Code from Scenario and State Based Models to Address Crosscutting Concerns
+76314A5F	Design and Implementation of an Autonomic Code Generator Based on RTPA
+7AB8FF7B	Automatic reasoning about numerical stability of rational expressions
+5A4AAED4	Automatic retargetable code generation: A new technique
+7822B0D5	UML-based specification and generation of executable web services
+75445BF2	Parameterized loop tiling
+7BD08CCE	Program Improvement by Source-to-Source Transformation
+5D820AA3	Taking Advantage of Symmetry in the Automatic Generation of Numerical Programs for Finite Element Analysis
+79113B82	Specifying and proving properties of timed I/O automata using Tempo
+7D9A9664	Reduced code size modulo scheduling in the absence of hardware support
+59F021F2	Exploring a Model-Oriented and Executable Syntax for UML Attributes
+7788CD49	A directive-based MPI code generator for Linux PC clusters
+7F274A7B	Flattening statecharts without explosions
+5AE2B2B1	Model checking and code generation for UML state machines and collaborations
+7D956857	An AADL-Based Modeling Method for ARINC653-Based Avionics Software
+7EF086FD	Providing personalized information in transport systems: A Model Driven Architecture approach
+7A8A7B40	Automatic code generation for microprocessor based systems
+7B71CD55	One stone two birds: synchronization relaxation and redundancy removal in GPU-CPU translation
+80251CE6	A formal approach to code optimization
+75AD2DDB	Industrial experience using rule-driven retargetable code generation for multimedia applications
+8153BE2B	Operand Registers and Explicit Operand Forwarding
+6BDD5FF7	Optimal code generation for expressions on super scalar machines
+79F34A29	Correct flow analysis in continuation semantics
+5EBC1B7A	Microcode Generation for Flexible Parallel Target Architectures
+76BFEE17	Movie-based representation of reduction operations in numerical computing
+833529CA	Communication Optimizations for Multithreaded Code Generation from Simulink Models
+75CB3369	Parcae: a system for flexible parallel execution
+5A1FCA87	COVERS 3.0 - A C++ Based Graphical Modeling and Simulation Tool
+7F08CFA8	Embedded software synthesis and prototyping
+814AF741	Formal Verification of a Modern SAT Solver
+7B7D36D5	Fast code generation using automatically-generated decision trees
+7C016E1F	A fast, memory-efficient register allocation framework for embedded systems
+7FFF1503	A vectorizing compiler for multimedia extensions
+7D1A8ABA	Optimized Unrolling of Nested Loops
+7A8FC02A	A portable code generator for CRAY FORTRAN
+7F3EED8E	Code Generation for Multi-Threaded Architectures from Dataflow Graphs
+8162471E	Bit-alignment for retargetable code generators
+7942EFC7	Interprocedural register allocation for lazy functional languages
+7F1CF9EB	Designing domain-specific processors
+6EC5B100	A New One-Pass Transformation into Monadic Normal Form
+59FFE0B4	Applying story driven modeling to the paderborn shuttle system case study
+79A3F936	Compositionality in Dataflow Synchronous Languages: Specification and Distributed Code Generation
+641589AA	An Idealized MetaML: Simpler, and More Expressive
+7D6601E5	Compact and efficient code generation through program restructuring on limited memory embedded DSPs
+7E9249D6	Region scheduling: an approach for detecting and redistributing parallelism
+7F27B2F9	Rewriting Strategies for Instruction Selection
+7F1DCF88	Automatic instruction set extension and utilization for embedded processors
+5E93D5DA	An architectural blueprint for model driven development and maintenance of business logic for information systems
+7D163132	Generative design patterns
+7774E15F	The Marion system for retargetable instruction scheduling
+7FD14CD9	Model-Driven Engineering for Development-Time QoS Validation of Component-Based Software Systems
+7E52B34A	Towards Model-Based Optimisations of Real-Time Systems, an Application with the AADL
+78380538	WCET-aware register allocation based on graph coloring
+7BE3E4EE	Managing embedded systems complexity with aspect-oriented model-driven engineering
+7943DF83	Improved spill code generation for software pipelined loops
+7ED2A486	Use of verification for testing and debugging of complex reactive systems
+75C7F695	Energy-efficient code generation for DSP56000 family (poster session)
+7B1A7345	Towards modular code generators using symmetric language-aware aspects
+7EEF24C4	Skeleton-based automatic parallelization of image processing algorithms for GPUs
+7E3E4E38	A specification invariant technique for regularity improvement between flow-graph clusters
+72736AED	Feedback-directed switch-case statement optimization
+0187F68D	CODE GENERATION FROM UML STATECHARTS
+7C044540	A translator system for the MATLAB language
+811F9B62	Multiparadigm modeling in embedded systems design
+7E7CE1A4	TIMES: a Tool for Schedulability Analysis and Code Generation of Real-Time Systems
+5BB7CB89	Code generation and parallel code execution from business UML models: A case study for an algorithmic trading system
+80A6DB80	Realizing Efficient Execution of Dataflow Actors on Manycores
+7A0204A8	Code generation for core processors
+5A6907AA	A Retargetable Compilation Methodology for Embedded Digital Signal Processors Using a Machine-Dependent Code Optimization Library
+7C2EC08D	AUTOMATED TEST CODE GENERATION FROM CLASS STATE MODELS
+7FC48FDA	Serialized multitasking code generation from dataflow specification
+7AC4204A	Local and global microcode compaction using reduction operators
+7F1C7DEC	Gateways: a technique for adding event-driven behavior to compiled simulations
+766F2D25	A uniform optimization technique for offset assignment problems
+5B96FC6E	Partial Translation Verification for Untrusted Code-Generators
+76E329A0	Using an architectural knowledge base to generate code for parallel computers
+5D77BEE9	A Specification Language for Code Generators
+7C141A36	Code Generation for a One-Register Machine
+805C8ECA	Symbolic calculation of the generalized inertia matrix of robots with a large number of joints
+8147BB60	Using SIMD registers and instructions to enable instruction-level parallelism in sorting algorithms
+817790BF	Integrating code generation and optimization
+7E51091D	Toward optimized code generation through model-based optimization
+7ABCA657	Efficient tree pattern matching (extended abstract): an aid to code generation
+7A7649FF	Code selection through object code optimization
+762392A5	A language for writing code generators
+5D7C226F	Initial Results for Glacial Variable Analysis
+7FF88E29	Scheduling expression DAGs for minimal register need
+78DE51F4	Compiling for Reduced Bit-Width Queue Processors
+5E43C6EE	Topics in Code Generation and Register Allocation
+7FD173E6	Gprof: A call graph execution profiler
+5E01A714	An Approach to Automatic Proof Support for Code Generator Verification
+7CE0D323	Adoption of Model-Based Testing and Abstract Interpretation by a Railway Signalling Manufacturer
+7F104333	Code Generation from AADL to a Real-Time Operating System: An Experimentation Feedback on the Use of Model Transformation
+761B7E5C	An ASSL-generated architecture for autonomic systems
+5FCF5779	Towards a "middle road" methodology for writing code generators
+7B9EAF2A	Fast liveness checking for ssa-form programs
+79B2E7BF	Reactive parallel processing for synchronous dataflow
+808C2E5B	An open framework for rapid prototyping of signal processing applications
+768D830D	Comparison and evaluation of back-translation algorithms for static single assignment forms
+7E0A2A47	A Co-Design Framework with OpenCL Support for Low-Energy Wide SIMD Processor
+803D6344	A Graphical Framework for High Performance Computing Using An MDE Approach
+5E81EE23	Model-Driven Engineering Support for Building C# Applications
+77BF945C	Automatic synthesis and verification of real-time embedded software for mobile and ubiquitous systems
+7F8C8E8C	Stochastic gradient algorithms for design of minimum error-rate linear dispersion codes in MIMO wireless systems
+7A641610	Implementation of EasyTime formal semantics using a LISA compiler generator
+75B007BB	Compiling Fortran D for MIMD distributed-memory machines
+77A10AAF	Automatic generation of basic behavior schemas from UML class diagrams
+7B316D68	Up-down parsing with prefix grammars
+6E46A60E	Synthesis of Monitors for Real-Time Analysis of Reactive Systems
+676CA9E9	Towards an end-user development approach for web engineering methods
+7E599DA9	Software synthesis and code generation for signal processing systems
+7ADEB10D	Using dynamic programming to generate optimized code in a Graham-Glanville style code generator
+7F4B7E4F	Automatically Tuned Linear Algebra Software
+5F281AC9	Run-Time Bytecode Specialization
+77AF07DF	A component-based approach to integrated modeling in the geosciences: The design of CSDMS
+80A831FB	Automatic Synthesis and Adaption of Gray-Box Components for Embedded Systems - Reuse vs. Optimization
+7D568E5B	Correct-by-Construction Transformations across Design Environments for Model-Based Embedded Software Development
+7E0F9FAA	Prescriptive Frameworks for Multi-Level Lambda-Calculi
+7CBA46A8	From sequential programming to flexible parallel execution
+7DB1A394	Improved decoding of affine-variety codes
+7C03E299	Composable code generation for distributed giotto
+0AB76983	Automatic Generation of Java Code from UML Diagrams using UJECTOR
+812747B0	Integrating the Calculus-Based Method into OCL: Study of Expressiveness and Code Generation
+7E560AC1	Alphabets: An Extended Polyhedral Equational Language
+81014962	A strategy for real-time kernel support in application-specific HW/SW embedded architectures
+7CAD0E8F	Retargetable code generation for application-specific processors
+7D0A4233	Efficient parallel stencil convolution in Haskell
+6F8D902B	Formalising FinFuns – Generating Code for Functions as Data from Isabelle/HOL
+097A1700	Runtime Code Generation with JVM and CLR
+80098D5D	Code synthesis for timed automata
+5AE33175	Towards provably correct code generation via horn logical continuation semantics
+7E30548F	galsC: A Language for Event-Driven Embedded Systems
+7755739D	An automated round-trip support towards deployment assessment in component-based embedded systems
+7D2383A5	Staging static analyses for program generation
+76277F8C	Using a domain-specific language and custom tools to model a multi-tier service-oriented application — experiences and challenges
+7FBA0B5B	Automatic extraction of functional parallelism from ordinary programs
+7D9D5F78	Model-Driven Software Engineering in Practice
+7B9C5B16	HARE: an optimizing portable compiler for Scheme
+80682839	Reliable operating modes for distributed embedded systems
+7F437729	On-chip cache hierarchy-aware tile scheduling for multicore machines
+751B9130	Distributed prototyping from validated specifications
+05D3F91E	Refactoring and Code Generation Tools for AspectJ
+7C6E07EA	Automatic Derivation of Code Generators from Machine Descriptions
+7EB0E76E	CodeBricks: code fragments as building blocks
+7EACBC5B	From multi-modal scenarios to code: compiling LSCs into aspectJ
+7ED633A3	Transformation of UML Models into Formal RTPA Specifications
+7E595D6C	DBT path selection for holistic memory efficiency and performance
+7FDF7409	NISD: A Framework for Automatic Narrow Instruction Set Design
+75B6FEDE	Service-oriented smart home applications: composition, code generation, deployment, and execution
+6D3E08C6	Integrated modulo scheduling for clustered VLIW architectures
+7FB9D31B	Image feature extraction for mobile processors
+7D018258	SOA Collaboration Modeling, Analysis, and Simulation in PSML-C
+7D9754FF	Power optimization using divide-and-conquer techniques for minimization of the number of operations
+7FD0233E	Analyzing exotic instructions for a retargetable code generator
+798DA417	The development of a new STEP-NC code generator (GEN-MILL)
+75236DD5	Hide and show: using real compiler code for teaching
+5EDBC9B4	RESS: Real-Time Embedded Software Synthesis and Prototyping Methodology
+04F11A62	Time-Memory Scheduling and Code Generation of Real-Time Embedded Software
+7AF4E0FA	Phase coupling and constant generation in an optimizing microcode compiler
+5F42A1C5	The polyhedral model is more widely applicable than you think
+8074D3C8	3.69 GHz single flux quantum pseudorandom bit sequence generator fabricated with Nb/AlO/sub x//Nb
+7E2DEABD	Efficient spill code for SDRAM
+0AD8ACF2	Concise specifications of locally optimal code generators
+7B77EDE9	Efficient compilation of lazy evaluation
+7F752A0F	Testing and Monitoring Model-based Generated Program
+765E649E	Generating optimal contiguous evaluations for expression DAGs
+5AD500CC	An Infrastructure for UML-Based Code Generation Tools
+020DB573	A Formal Correctness Proof for Code Generation from SSA Form in Isabelle/HOL
+6EB31D32	The advantages of machine-dependent global optimization
+7E9CBA2E	Repleo: a syntax-safe template engine
+7D5B767D	Supporting the Decentralized Development of Large-Scale Distributed Real-Time LVC Simulation Systems with TENA (The Test and Training Enabling Architecture)
+7F05B804	Exploring the use of Hyper-Threading technology for multimedia applications with Intel/spl reg/ OpenMP compiler
+6B8C0170	Improving Offset Assignment through Simultaneous Variable Coalescing
+7CCB9C6E	Code Generation for Parallel Applications Modelled with Object-Based Graph Grammars
+7D986506	A Unified Modulo Scheduling and Register Allocation Technique for Clustered Processors
+77C633ED	Optimized system synthesis of complex RT level building blocks from multirate dataflow graphs
+7FA5EEA3	Data flow modelling in real time multitasking graphical design
+7FB581C3	Chaining Span-Dependent Jump Instructions
+7F42912B	Performance Portable Optimizations for Loops Containing Communication Operations
+5D617C53	An XML-based approach to processing imprecise requirements
+76AF6406	Assembling code for machines with span-dependent instructions
+00A2512F	Code generation and machine descriptions
+7916CBEE	Limitations of Graham-Glanville style code generation
+79175A19	Program Execution Environments as Contextual Values
+7D772003	Accelerating Haskell array codes with multicore GPUs
+80BC4628	Generation of correct-by-construction code from design models for embedded systems
+80F5E78E	A framework for balancing control flow and predication
+7DF7F83B	Instruction-level reverse execution for debugging
+7C378C8E	Retrieving surface parameters for climate models from Moderate Resolution Imaging Spectroradiometer (MODIS)‐Multiangle Imaging Spectroradiometer (MISR) albedo products
+77119A64	J-Orchestra: Enhancing Java programs with distribution capabilities
+7E246A4D	Integration of domain-specific models into a MDA framework for time-critical embedded systems
+7D296768	Implementing UML associations in Java: a slim code pattern for a complex modeling concept
+77C3C968	A numerical code generation facility for REDUCE
+7A71201F	Non-Intrusive Structural Coverage for Objective Caml
+8115C462	Compilation Techniques for High Level Parallel Code
+5AADB64B	An Evaluation of Optimized Threaded Code Generation
+7E334174	Towards managing environment dependence during legacy systems renovation and maintenance
+5ED52088	Agent Based Simulation for Social Systems: From Modeling to Implementation
+5E50CC54	Macro-programming Wireless Sensor Networks Using Kairos
+80BE3093	Feedback, Correlation, and Delay Concerns in the Power Estimation of VLSI Circuits
+8128AA2C	Formal Specification and Code Generation of Programable Logic Controllers
+7A57E72A	Certifying compilers using higher-order theorem provers as certificate checkers
+817712DC	Enforcing isolation and ordering in STM
+5E8BB07A	Generating efficient code for lazy functional languages
+5D4FCBFC	Fast Code Generation for Embedded Processors with Aliased Heterogeneous Registers
+7E1030D7	Henshin: advanced concepts and tools for in-place EMF model transformations
+7D5C411C	Integration of data validation and user interface concerns in a DSL for web applications
+7BA53E92	Optimal integrated code generation for clustered VLIW architectures
+7FFC3A24	Context-sensitive timing analysis of Esterel programs
+755F5767	Address code generation for DSP instruction-set architectures
+7DAA057B	Specifying aggregation functions in multidimensional models with OCL
+6AE20E19	Compiler Support for Code Size Reduction Using a Queue-Based Processor
+00513E6D	A Declarative Approach to Run-Time Code Generation
+7E917977	Code generation for expressions with common subexpressions (Extended Abstract)
+7E7C1555	Decompiler For Pseudo Code Generation
+7BCEB1EE	Polyhedral parallel code generation for CUDA
+774ED765	A novel requirement analysis approach for periodic control systems
+7E83E8A9	SimSoC: A SystemC TLM integrated ISS for full system simulation
+758244BD	Using closures for code generation
+7CB37D67	The Metrô Rio case study
+7FC19BA8	Address assignment combined with scheduling in DSP code generation
+7FD9B220	Optimizing Code Generation from SSA Form: A Comparison Between Two Formal Correctness Proofs in Isabelle/HOL
+775FB586	An aspect-oriented, model-driven approach to functional hardware verification
+7F7F0671	StackThreads/MP: integrating futures into calling standards
+5F277375	Granulated code generation of interfering functionalities
+0BA41CEA	Realization of UML Class and State Machine Models in the C# Code Generation and Execution Framework
+5922B27E	Automatic Generation of Executable Data Structures
+80017435	Lightweight Modular Staging: A Pragmatic Approach to Runtime Code Generation and Compiled DSLs
+7AD78005	A hybrid approach of OpenMP for clusters
+7719559F	Automatic source-code parallelization using HICOR objects
+5F0CE79B	Compiler Scheduling for STA-Processors
+7A92E770	Model driven engineering for MPSOC design space exploration
+7A7BDD5C	Experience on knowledge-based software engineering: A logic-based requirements language and its industrial applications
+7E0748CE	Implementing Multi-Periodic Critical Systems: from Design to Code Generation
+7D93AE71	A model-driven design environment for embedded systems
+7EBF4709	Multi-level tiling: M for the price of one
+7782BD55	A Practical and Open Source Implementation of IEC 61850-7-2 for IED Monitoring Applications
+7B36CF17	Overview and industrial application of code generator generators
+80244F75	Concept assignment as a debugging technique for code generators
+1351CE3A	Combining a High-Level Design Tool for Safety-Critical Systems with a Tool for WCET Analysis on Executables
+7D68EC81	Hardware-Aware Automatic Code-Transformation to Support Compilers in Exploiting the Multi-Level Parallel Potential of Modern CPUs
+80F5599E	Platform-dependent code generation for embedded real-time software
+80193B80	On efficient program synthesis from statecharts
+777C53B4	Automatic generation of fast optimizing code generators
+8135C1EA	A novel type checker for software system specifications in RTPA
+7B5C62C3	Producing good code for the case statement
+7F655BB9	A Case Study on SDF-Based Code Generation for ECU Software Development
+7D704E20	PATUS: A Code Generation and Autotuning Framework for Parallel Iterative Stencil Computations on Modern Microarchitectures
+5F01865E	Integrating Generative and Aspect-Oriented Technologies
+7EA348EB	BRILLANT: an open source and XML-based platform for rigourous software development
+0271A732	Automated code generation from system requirements in natural language
+07779850	Clock-directed Modular Code Generation from Synchronous Block Diagrams
+77D8E849	Rapid development of optimized DSP code from a high level description through software estimations
+7D973CB8	Icc.NET: targeting the .NET common intermediate language from standard C
+7D8AA612	An integrated approach to retargetable code generation
+7ED82A45	DOLFIN: Automated finite element computing
+7954CA06	Generating OpenMP code using an interactive parallelization environment
+70836DE8	Simplifying control flow in compiler-generated parallel code
+78BFDDB5	BEG: a generator for efficient back ends
+69C8ECE9	Application of a Generator-Based Software Development Method Supporting Model Reuse
+5D7185B7	An MDA Approach for Database Profiling and Performance Assessment
+5FB0C156	A Novel Asynchronous Software Cache Implementation for the Cell-BE Processor
+5896F99A	Polyhedral code generation in the real world
+7ADDDC0A	Generating efficient tiled code for distributed memory machines
+5A0E407E	Monaco: A High-Performance Flat Concurrent Logic Programming System
+7C7E57A5	Use of formal methods for building qualified code generator for safer automotive systems
+81C72BDF	Optimization for faster execution of Esterel programs
+7B12B2F5	Loop Optimization using Hierarchical Compilation and Kernel Decomposition
+7C1E2C07	Facilitating the search for compositions of program transformations
+7BAE7443	An optimizing compiler for lexically scoped LISP
+77D128A6	Optimizing memory usage in the polyhedral model
+7D1890B3	Model checking and code generation for transaction processing software
+772CC0FC	Embra: fast and flexible machine simulation
+7AC4D7DB	Scala-Virtualized: linguistic reuse for deep embeddings
+7DE8EE92	Correct-by-construction code generation from hybrid automata specification
+78071C70	Resourceable, retargetable, modular instruction selection using a machine-independent, type-based tiling of low-level intermediate code
+7AF58228	Fast, effective code generation in a just-in-time Java compiler
+8168BD4F	Generating compact code from dataflow specifications of multirate signal processing algorithms
+7E46430F	Exploiting conditional instructions in code generation for embedded VLIW processors
+792A4438	Binary translation to improve energy efficiency through post-pass register re-allocation
+7E147221	Annotation Inference for Safety Certification of Automatically Generated Code (Extended Abstract)
+7F35AE27	Automatic instruction code generation based on trellis diagrams
+77B730E6	Construction of a transportable, multi-pass compiler for extended Pascal
+7BC1B9F1	Framework for Evaluating the Version Management Capabilities of a Class of UML Modeling Tools from the Viewpoint of Multi-Site, Multi-Partner Product Line Organizations
+80FEF5FB	An evaluation of code generation strategies targeting hardware for the rapid prototyping of SDL specifications
+813FCF5E	Exploiting pseudo-schedules to guide data dependence graph partitioning
+7F6D4359	Visual temporal logic as a rapid prototyping tool
+795FC1D4	Natural instruction level parallelism-aware compiler for high-performance QueueCore processor architecture
+7A955D97	BURS automata generation
+7B9C4EE9	Developing Java Card Applications with B
+811699ED	Using semi-lagrangian formulations with automatic code generation for environmental modeling
+7A8B43E3	Compiling embedded languages
+8050736F	On Succinctness of Hierarchical State Diagrams in Absence of Message Passing
+7D9DCCD9	Model driven engineering for SoC co-design
+0650CB02	Code generation for UML 2 activity diagrams: towards a comprehensive model-driven development approach
+7DC9800F	Simulation of real-time systems with clock calculus
+59CF5B98	Mechanized Inductive Proof of Properties of a Simple Code Optimizer
+7619DDE4	An abstraction for reusable MDD components: model-based generation of model-based code generators
+7F97D4D3	Code generation schema for modulo scheduled loops
+05A18FD8	A PATTERN CATALOG FOR COMPUTER ROLE PLAYING GAMES
+774AFF7D	Profiling in an object-oriented design environment that supports Ada 9X and Ada 83 code generation
+58BD174A	Integrating performance and reliability analysis in a non-functional MDA framework
+58A6BAC4	Executing Verified Compiler Specification
+79CFDA53	Retargetable code generator for Java bytecode
+817903D2	Parameterized tiling revisited
+7CE5CFE3	A synthesis of memory mechanisms for distributed architectures
+5B991AF6	Designing web services for supporting user tasks: a model driven approach
+5C805047	Model-Driven Web Development with VisualWADE
+7E5C1FCB	High-level microprogramming: an optimizing C compiler for a processing element of a CAD accelerator
+58F9C649	Improving Offset Assignment for Embedded Processors
+7DF7FC4B	Integrated Data Mapping for a Software Meta-tool
+5F4F7D48	The Partial Reverse If-Conversion Framework for Balancing Control Flow and Predication
+77A03282	Combining aspects and object-orientation in model-driven engineering for distributed industrial mechatronics systems
+79199ECC	Anatomy of a hardware compiler
+7F43C39F	Data routing: a paradigm for efficient data-path synthesis and code generation
+7524DEF1	Nonzero structure analysis
+5C345655	A verified code generator for a subset of gypsy
+7FB24A0F	Exploring parallelization strategies for NUFFT data translation
+7F5147EA	abc: an extensible AspectJ compiler
+7BE8FC61	Sub-protocol-evaluators for attribute grammars
+78E478E4	Garbage collection for monitoring parametric properties
+786333FB	Aspect-oriented model-driven skeleton code generation: A graph-based transformation approach
+817160F9	Generation of Firmwarecompilers
+7AFCF12C	Optimized unrolling of nested loops
+79CB877B	Code generation of nested loops for DSP processors with heterogeneous registers and structural pipelining
+7B00E673	Split tiling for GPUs: automatic parallelization using trapezoidal tiles
+7C1D5A15	Adapting optimal code generation for arithmetic expressions to the instruction sets available on present-day computers
+761BBE14	The hierarchical task graph as a universal intermediate representation
+81491036	Efficient code generation for automatic parallelization and optimization
+7D1D29E5	An Optimized Cell BE Special Function Library Generated by Coconut
+7FC4E26B	Delite: A Compiler Architecture for Performance-Oriented Embedded Domain-Specific Languages
+7E9A6DFF	An RTPA supporting environment for Java code generation
+6A39D510	Automatic C-to-CUDA Code Generation for Affine Programs
+8168E903	Smoothed DPCM codes
+59FC129B	Static Scheduling of Parallel Programs for Message Passing Architectures
+77B21FAC	Generate and offshore: type-safe and modular code generation for low-level optimization
+75475531	Model-driven iterative development of 3D web-applications using SSIML, X3D and JavaScript
+7E1A0993	Synthesizable High Level Hardware Descriptions
+8064C6AF	A New STC Structure to Achieve Generalized Optimal Diversity with a Reduced Design Complexity
+7A26E4CD	Integrating intermediate code optimization with retargetable code generation
+7CF725EA	Effective compiler generation by architecture description
+7D32A82E	Annotations for Portable Intermediate Languages
+7E21D0F3	Code Generation and Optimization for Transactional Memory Constructs in an Unmanaged Language
+79053788	A case study of a new code generation technique for compilers
+775F27DF	Efficient generated libraries for asynchronous derivative computation
+77CF3894	Real-Time Embedded Software Design for Mobile and Ubiquitous Systems
+65DFC94A	Real-time embedded software design for mobile and ubiquitous systems
+8064A1DD	High-performance code generation for stencil computations on GPU architectures
+7F626959	Post-compaction register assignment in a retargetable compiler
+7C7EB219	Register assignment through resource classification for ASIP microcode generation
+585B69FB	Generating smart wrapper libraries for arbitrary APIs
+7935F06F	Optimization of available C compilers for the MC68HC11
+7BDC664E	Evaluating address register assignment and offset assignment algorithms
+80CB554A	Automatic software synthesis of dataflow program: An MPEG-4 simple profile decoder case study
+7DA4FB7F	Design space characterization for architecture/compiler co-exploration
+79B52C77	WCET-aware static locking of instruction caches
+7D4C1E1D	ULF-Ware – An Open Framework for Integrated Tools for ITU-T Languages
+591FB352	Finding and Certifying Loops
+7564799E	An experiment in table driven code generation
+757607C3	An automatically‐tuned sorting library
+7E7006F2	Phi-predication for light-weight if-conversion
+759B643F	Object-oriented design and automatic Ada code generation in the education of software engineers
+759BDCDF	Abstract description of pointer data structures: an approach for improving the analysis and optimization of imperative programs
+81318553	Taming the IXP network processor
+80C22F90	Code generation for embedded processors
+7750CF93	Adaptive input-aware compilation for graphics engines
+7E1D44AA	A compiler for lazy ML
+7FBA6E52	Distributed component-based software development: an incremental approach
+0F7ED4CC	RELATING MERIS FAPAR PRODUCTS TO RADIATION TRANSFER SCHEMES USED IN CLIMATE/NUMERICAL WEATHER PREDICTION AND CARBON MODELS
+7D761A3E	Algorithms for address assignment in DSP code generation
+7EB16EF7	Round-trip support for extra-functional property management in model-driven engineering of embedded systems
+7CF6ED4C	MDA-Based Modeling and Implementation of E-Commerce Web Applications in WebML
+7AE889E2	Optimizing Sorting with Genetic Algorithms
+7A0F83CB	On the symbolic manipulation and code generation for elasto-plastic material matrices
+7EE26731	GPU-S2S: A Compiler for Source-to-Source Translation on GPU
+7F6ED61F	Benchmark Generation Using Domain Specific Modeling
+7F369B78	Retargetable Self-Test Program Generation Using Constraint Logic Programming
+7B116225	A methodology and algorithms for the design of hard real-time multitasking ASICs
+776CA21B	Mulini: an automated staging framework for QoS of distributed multi-tier applications
+75269790	Design and implementation of a queue compiler
+7E3A10B9	A grating-based OCDMA coding-decoding system incorporating a nonlinear optical loop mirror for improved code recognition and noise reduction
+7BD700A2	On the performance of UML state machine interpretation at runtime
+80F354B2	Extending IP-XACT to support an MDE based approach for SoC design
+7B9709B2	Task generation and compile-time scheduling for mixed data-control embedded software
+592FC426	An Approach to Generating Program Code in Quickly Evolving Environments
+79940762	Combining partial evaluation and staged interpretation in the implementation of domain-specific languages
+760F714F	Automatic alignment of array data and processes to reduce communication time on DMPPs
+7D5732AA	Reflective program generation with patterns
+754A41D8	The scalable modeling system: directive-based code parallelization for distributed and shared memory computers
+626812C7	A Gentle Introduction to Multi-stage Programming
+6ADD0A41	DSML4CP: A Domain-specific Modeling Language for Concurrent Programming
+7C74A545	Marmot: an optimizing compiler for Java
+7CB2B63C	StagedSAC: a case study in performance-oriented DSL development
+7757AE52	P-SOP - A multi-agent based control approach for flexible and robust manufacturing
+80B5D54D	Concrete syntax for objects: domain-specific language embedding and assimilation without restrictions
+802EB187	Deriving safety cases for hierarchical structure in model-based development
+811B746B	Using Program Checking to Ensure the Correctness of Compiler Implementations
+7A8C9B1F	Using register-transfer paths in code generation for heterogeneous memory-register architectures
+799433EF	Integrated Code Generation for Loops
+80449F9F	Language level checkpointing support for stream processing applications
+70163A33	An approach to the automatic generation of code-generators.
+589846B4	OCL as a Specification Language for Business Rules in Database Applications
+7E706047	Modular code generation from hybrid automata based on data dependency
+75A1E86B	Address assignment in DSP code generation - an integrated approach
+5C2EFD82	Generation of incremental indirect threaded code for language-based programming environments
+7FF2ED62	Automatically translating a general purpose C++ image processing library for GPUs
+7C354DEA	On symbolic manipulation and code generation of a hybrid three-dimensional solid element
+7CF849A0	An object-oriented platform-based design process for embedded real-time systems
+7D762D7C	Compiling Embedded Languages
+807C9766	A Model-Based Transformation Process to Validate and Implement High-Integrity Systems
+80E47E78	Code Compilation for an Explicitly Parallel Register-Sharing Architecture
+7E658F86	Model Based Analysis and Test Generation for Flight Software
+5BFD26F4	Automatic Ada code generation using a model-driven engineering approach
+757DBF99	GURRR: a global unified resource requirements representation
+811900CF	Address code generation for digital signal processors
+76DB39C1	Automatic code generation for a convection scheme
+7AF4078B	Shifting the stage: staging with delimited control
+8092FF18	Compiling for template-based run-time code generation
+7EE0016D	Partitioning variables across register windows to reduce spill code in a low-power processor
+5E8E7484	BURS-based instruction set selection
+7A3979EE	Reverse interpretation + mutation analysis = automatic retargeting
+75F01BFA	An efficient and systematic method of compiler code-generation.
+80A9D5D5	A code generation framework for Java component-based designs
+7FE22E80	A retargetable technique for predicting execution time
+5BF09D6F	Generative Software Development
+81485A9A	Construction of Wavelength/Time Codes for Fiber-Optic CDMA Networks
+7AC033D4	Efficient and safe-for-space closure conversion
+7D5FD4BC	RSFQ asynchronous serial multiplier and spreading codes generator for multiuser detector
+7E269757	Application specific parallel architectures
+7BC67E1A	A new method for compiling schizophrenic synchronous programs
+7F7E2DE0	Spread spectrum data transfer from dewar to dewar at 2 gigachips per second
+7CA6961F	Demystifying on-the-fly spill code
+77F8487D	Application to MISR land products of an RPV model inversion package using adjoint and Hessian codes
+7EA1C73B	On the optimal code generation for signal flow graph computation
+8077D575	Model based code generation approach for fast-deployment wireless security applications
+813B47FF	Bit error rate measurements for GHz code generator circuits
+7BC4A7E7	Code Generation in the Polyhedral Model Is Easier Than You Think
+7E0225E5	Run-time support for extensible protocol stacks
+5C4D28B5	Automatic structure-based code generation from coloured Petri nets: a proof of concept
+7E4D5C72	A code generation and execution environment for service-oriented smart home solutions
+7EC12F50	Transformation of SDL specifications for system-level timing analysis
+794EAAAE	CCG: a prototype coagulating code generator
+7EF5BBFA	Hardware synthesis from SPDF representation for multimedia applications
+68C93C25	SDL Versus C Equivalence Checking
+75F4E1C1	Reducing instruction bit-width for low-power VLIW architectures
+7B6E910D	I-Line lithography of poly-(3,4-ethylenedioxythiophene) electrodes and application in all-polymer integrated circuits
+7F7D1C83	Frances: A Tool for Understanding Computer Architecture and Assembly Language
+7721E350	Automatic inference and fast interpretation of peephole optimization rules
+80B6B2A1	Orchestrating the execution of stream programs on multicore platforms
+7FB68D70	Introducing MDA in a large IT consultancy organization
+80EE78C7	Tile Percolation: An OpenMP Tile Aware Parallelization Technique for the Cyclops-64 Multicore Processor
+7E358E98	An ultra-fast instruction set simulator
+7C30A88E	Marama: an eclipse meta-toolset for generating multi-view environments
+7F7A89EA	Code generation by using integer-controlled dataflow graph
+80ADCAE6	A pipeline-based approach for scheduling video processing algorithms on NOW
+7880BBD6	Lower bound on latency for VLIW ASIP datapaths
+7F72CFC1	Tachyon Common Lisp: an efficient and portable implementation of CLtL2
+7AAAE9AD	PEAK—a fast and effective performance tuning system via compiler optimization orchestration
+7FC9CF84	Forge: generating a high performance DSL implementation from a declarative specification
+7CE0FC04	Data descriptors: a compile-time model of data and addressing
+7E316C9B	Certifying Code Generation with Coq
+78EE79D2	Code generation in a machine-independent compiler
+7CE9BC10	Model-Driven Code Generation for Secure Smart Card Applications
+5B3C2E04	Putting Polyhedral Loop Transformations to Work
+816505E2	MDA approach for maintenance of business applications
+7F31F0A2	ORBIT: an optimizing compiler for scheme
+782FFFC4	An energy-efficient method of supporting flexible special instructions in an embedded processor with compact ISA
+79A2A168	The Intel IA-64 compiler code generator
+7B1B414E	Differentiation transforming system
+5F1DEDCD	Describing Adaptive Navigation Requirements of Web Applications
+026CDA56	Scheduling, Compaction and Binding in a Retargetable Code Generator using Constraint Logic Programming
+789C466A	Generating a ROS/JAUS bridge for an autonomous ground vehicle
+7EE2AF83	An evaluation of data-parallel compiler support for line-sweep applications
+7F9EF96C	Synthesis of real-time embedded software with local and global deadlines
+80E27028	Compiling for vector-thread architectures
+80DB2480	Effective compilation support for Variable Instruction Set Architecture
+7D5BD51A	Model-based testing and monitoring for hybrid embedded systems
+7F966773	Access-Pattern-Aware On-Chip Memory Allocation for SIMD Processors
+7E332341	Using UML and OCL to maintain the consistency of spatial data in environmental information systems
+5E4E80FC	Multi-thread code generation for dataflow architectures from non-strict programs
+815D2B75	A Generic MCU Description Methodology with Dependency Evaluation
+7655CB98	INFELT STEP: An integrated and interoperable platform for collaborative CAD/CAPP/CAM/CNC machining systems based on STEP standard
+7FF42455	Safety and Software Intensive Systems: Challenges Old and New
+77BC50F5	Verified Code Generation for Embedded Systems
+5FC562CA	A Domain Specific Language for Interactive Enterprise Application Development
+7DF0F635	Synthesis of real-time implementations from component-based software models
+7D1D1C1D	Is Search Really Necessary to Generate High-Performance BLAS?
+5A775FDC	Code generation for large scale applications
+7A05D5D8	Ease: an environment for architecture study and experimentation
+809FD787	An ILP based approach to address code generation for digital signal processors
+7D00DB3A	Experiences with model and autocode reviews in model-based software development
+7712D68A	ILP Based Multithreaded Code Generation for Simulink Model
+5B2E162B	Finding Synchronization-Free Parallelism for Non-uniform Loops
+7CA53DC5	Fast and flexible instruction selection with on-demand tree-parsing automata
+7BA7450D	Loop parallelization algorithms: from parallelism extraction to code generation
+5D79DE1B	OCamlJIT 2.0 - Faster Objective Caml
+812617CE	Gabriel: a design environment for DSP
+779A24D4	Closing the stage: from staged code to typed closures
+0101D1F3	Bibliography on automated retargetable code generation
+7A6F7C3A	Extend: an interactive simulation tool: extend: an interactive simulation tool
+7C5E7E4B	GENTRAN 90: a REDUCE package for the generation of Fortran 90 code
+7C0880C8	Near-optimal instruction selection on dags
+7B1EAFDE	An optimizing retargetable code generator
+7BF767E7	Toward the development of machine: independent systems programming languages
+5CAAB2C0	Translation Validation for Synchronous Languages
+76A91E0A	Pattern-matching algorithms based on term rewrite systems
+7FA7D7AA	Destination-Driven Code Generation
+75532702	A feature model of coupling technologies for Earth System Models
+8139EFEB	Model transformations in the UPES/UPSoC development process for embedded systems
+80D68BDC	Provably correct Java implementations of Spi Calculus security protocols specifications
+59CC2F58	Assurance cases in model-driven development of the pacemaker software
+80AF1929	Parameterized tiled loops for free
+778C71B5	Programming graphics processors functionally
+813E8E96	Compact and efficient presentation conversion code
+75B7B863	Using established Web Engineering knowledge in model-driven approaches
+7E0C900E	A design framework for real-time embedded systems with code size and energy constraints
+5AA70731	Using the SafeTSA Representation to Boost the Performance of an Existing Java Virtual Machine
+6F8523CE	Fault-tolerant replication based on fragmented objects
+7B95DA17	A retargetable, ultra-fast instruction set simulator
+7DB1D655	Pack Instruction Generation for Media Processors Using Multi-valued Decision Diagram
+77F48154	Register allocation for software pipelined loops
+810CF3CC	A knowledge-based code generator generator
+7E1F30AF	Communication generation for aligned and cyclic(k) distributions using integer lattice
+7E4A9D3F	A microprogramming design laboratory
+7463C594	Computation in the Context of Transport Triggered Architectures
+7E8DE245	Systematic Testing of Model-Based Code Generators
+7E2BC12C	Generating Code for High-Level Operations through Code Composition
+5CD12001	Code generation for just-in-time compiled mobile collector agents
+7EC0862A	Using DSL for Automatic Generation of Software Connectors
+7B6BC907	Testing-based translation validation of generated code in the context of IEC 61508
+7E4862FB	Efficient implementation of OVSF code generator for UMTS systems
+7DB72AC3	A Generation Approach of Transformation Code for Web Interchanging Documents
+5A00E92B	Formal Design and Verification of Real-Time Embedded Software
+7DDB2518	Memory organization for improved data cache performance in embedded processors
+808181A0	Adaptive Query Processing on RAW Data
+7A614054	Branch distance optimization of structured programs
+7D8B28B0	Monitoring aspects for the customization of automatically generated code for big-step models
+7CFB5FDA	ASSL Specification and Code Generation of Self-Healing Behavior for NASA Swarm-Based Systems
+5ABED8F0	Static Single Assignment Form for Message-Passing Programs
+7FB0DB4B	Implementing Associations: UML 2.0 to Java 5
+6697D0A5	Automatic decomposition in EPPP compiler
+79CDD8E2	The very portable optimizer for digital signal processors
+5BBB28C8	C--: A Portable Assembly Language that Supports Garbage Collection
+7B7225C6	Automatically partitioning threads for multithreaded architectures
+808ABFC4	A new algorithm for linear regular tree pattern matching
+5AD47A37	Code Generation via Higher-Order Rewrite Systems
+7D679D4F	A co-design approach for embedded system modeling and code generation with UML and MARTE
+7E304222	Energy aware compilation for DSPs with SIMD instructions
+7A3F1D65	A new viewpoint on code generation for directed acyclic graphs
+767EC7FD	Flexibility in modeling languages and tools: a call to arms
+80DC5EE6	A code generation interface for ANSI C
+7D3085BA	A code-generator generator for multi-output instructions
+7D9FF842	A Code Generation Framework for Actor-Oriented Models with Partial Evaluation
+59A4DFF1	An implementation of retargetable code generators in prolog
+7D70412A	Efficient vectorization of SIMD programs with non-aligned and irregular data access hardware
+759C67E3	The equational specification of efficient compiler code generation
+78EEDDCF	Code generation from UML models with semantic variation points
+7D8F5E55	Code generation for streaming: an access/execute mechanism
+7F6F29A7	Instruction scheduling for instruction level parallel processors
+7C9A6830	Assuring property conformance of code generators via model checking
+7CF391C6	Automatic parallel code generation for tiled nested loops
+7FB47F89	Expressive scoping of dynamically-deployed aspects
+7BC52511	Compiling affine loop nests for distributed-memory parallel architectures
+7613BE4E	UML-based design test generation
+80BB685A	Energy-efficient backend compiler design for embedded systems
+79A81EE7	Experiences with hierarchy-based code generation in the J2EE context
+8159C171	Complexities in DSP software compilation: performance, code size, power, retargetability
+7A28347F	Code Generation in the Columbia Esterel Compiler
+5B629231	Generation of Efficient Nested Loops from Polyhedra
+7CACFB9E	Experience with a retargetable compiler for a commercial network processor
+79623981	Efficient register and memory assignment for non-orthogonal architectures via graph coloring and MST algorithms
+6D777312	Efficient Tiled Loop Generation: D-Tiling
+77001847	An Improved Quasi-Static Scheduling Algorithm for Mixed Data-Control Embedded Software
+7CD5BA9A	An Analysis of the Composition of Synchronous Systems
+08BCD099	Design of a High Level Intermediate Representation for Attribute-based Analysis
+760455E2	Strength reduction of multiplications by integer constants
+80671CAA	A random matrix spreading code generator for WCDMA rake receiver
+7BF011B4	From higher-order logic to Haskell: there and back again
+7C0BA34D	Only the Best Can Make It: Optimal Component Selection
+04D9BAE3	Bulldog: a compiler for VLIW architectures
+59F266C3	MOSAIC, an environment for web-based modeling in the documentation level
+6B5E5643	On Code Generation for Multi-generator WITH-Loops in SAC
+78ACEABC	The Generation of Optimal Code for Arithmetic Expressions
+07A29EEE	Towards a Method for the Development of Aspect-Oriented Generative Approaches
+7A476114	Input data reuse in compiling window operations onto reconfigurable hardware
+7698717C	Integrating code generation and peephole optimization
+7D46C75E	Automatic generation of optimization code based on symbolic non-linear domain formulation
+7693A940	The canals language and its compiler
+816D423B	Simple register spilling in a retargetable compiler
+801F7C51	Implementation of the kernel techniques of real-time process algebra
+801ADE45	A constructive method for exploiting code motion
+586A286A	Retargetable Code Generation for Digital Signal Processors
+5E786F8E	Standard ML of New Jersey
+7DE854C6	Systems for Late Code Modification
+7FB0C51B	Java interoperability in managed X10
+5C433AE2	A Programming Language Interface to Describe Transformations and Code Generation
+7EB39F87	Synthesising graphics card programs from DSLs
+7DB536C9	A Transformation-Based Approach for Storage Optimization
+7D86AC15	Automatic data partitioning for the agere payload plus network processor
+5F41AC8F	Hardware acceleration for thermodynamic constrained DNA code generation
+78A4E280	The effect on RISC performance of register set size and structure versus code generation strategy
+816440E4	Test Synthesis from UML Models of Distributed Software
+77F4EC4D	Fast graph‐based instruction selection for multi‐output instructions
+7D813EC0	Code generation for semi-lagrangian formulations
+7E899E87	CPN tools for editing, simulating, and analysing coloured Petri nets
+5FBEEA0A	SMARTCore: Boosting Model-Driven Engineering of Embedded Systems for Multicore
+7F40671D	Pervasive Compiler Verification -- From Verified Programs to Verified Systems
+8121BD90	Model-Driven Design of Network Aspects of Distributed Embedded Systems
+77284A00	Compiling high performance Fortran for distributed-memory architectures
+7545A8E4	Compiling distributed applications
+7F2DD0B0	Efficient code generation for a domain specific language
