@@ -1,0 +1,60 @@
+7C325CE0	International Conference on Computer Communications<--Authentication and tamper detection in images using dual watermarking approach
+7C9A4CE6	Information not present<--Medical image authentication based on revertible watermarking
+5BC1AE79	Information Hiding<--A Secure, Robust Watermark for Multimedia
+813332B9	Information not present<--Robust authentication of the JPEG 2000 bitstream
+77F169C9	Information not present<--An actual blind detection watermark approach based on CT and ICA
+7824EFEF	Information not present<--A new measure of image scrambling degree based on statistical hypothesis testing
+79DCAAEC	Computers & Electrical Engineering<--Authentication and recovery of images using multiple watermarks
+7562FC29	Advanced Materials Research<--DWT Based Blind Watermark in Relational Database
+809D24E9	International Conference on Multimedia and Expo<--Reversible Semi-Fragile Authentication Watermark
+77E2777E	Signal Processing<--Quantization effects on digital watermarks
+7578EEF3	Mathematical and Computer Modelling<--A novel approach of audio watermarking based on S-box transformation
+7D3743F2	Artificial Intelligence and Computational Intelligence<--A New Semi-fragile Watermarking for Audio Authentication
+783EB169	Information not present<--DWT Based Blind Watermark in Relational Database
+092C4341	Information not present<--A new watermark approach for protection of databases
+79BF98B1	Applied Mechanics and Materials<--Cryptanalysis of a Fragile Watermark Based H.264/AVC Video Authentication Scheme
+7F411E8F	IEEE Transactions on Multimedia<--Hidden messages in heavy-tails: DCT-domain watermark detection using alpha-stable models
+80B4B08A	Information not present<--Secure Spread-Spectrum Watermark Detection Based on Extended TPM
+7811A20D	Information Sciences<--Robust watermarking and compression for medical images based on genetic algorithms
+777FAEBB	Pattern Recognition<--Image watermarking: an evolution to content based approaches
+128FCFCC	Pervasive and Mobile Computing<--Fast track article: Secure data aggregation in wireless sensor networks: A watermark based authentication supportive approach
+753DC3A7	Information Sciences<--Multiuser-based shadow watermark extraction system
+802F0C1D	International Conference on Image Processing<--Protecting publicly-available images with an invisible image watermark
+7DA3A28E	Information not present<--Towards `robust' watermarks
+7B8AF693	Computational Intelligence<--Application of Energy Efficient Watermark on Audio Signal for Authentication
+76441826	Intelligent Information Hiding and Multimedia Signal Processing<--A DC-based Approach to Robust Watermarking with Hamming-Code
+7FAA1196	Proceedings of the IEEE<--Perceptual watermarks for digital images and video
+808BBE9F	Intelligent Systems Design and Applications<--Digital Watermark for 3D Face Model Authentication and EER Performance Analysis
+770D38E1	Network and System Security<--KL-F: Karhunen-Loève based fragile watermarking
+80A861F9	International Conference on Image Processing<--A digital watermark
+7AAAD725	International Journal of Computer Applications<--Digital Watermarking: An Indirect Approach
+7FC397E0	Information not present<--A Novelty Approach for Image Data Hiding Based on Frequency Watermark
+7DCEED43	Information not present<--An adayfive digital watermarking approach
+7EF782AE	IEEE Transactions on Image Processing<--Locally optimum nonlinearities for DCT watermark detection
+78FFE60B	Information Sciences<--Digital image authentication and recovery: Employing integer transform based information embedding and extraction
+7DAFE534	Computational Intelligence<--Information Hiding Theoretic Research Based on Digital Watermark Technology
+56521F97	The Open Electrical & Electronic Engineering Journal<--Digital Watermark based Authentication for Intrusion Detection of DigitalSubstations
+75C44EE3	World of Wireless, Mobile and Multimedia Networks<--Aggregation Supportive Authentication in Wireless Sensor Networks: A Watermark Based Approach
+5F36FD2D	International Conference on Information Theoretic Security<--Statistical-Mechanical Approach for Multiple Watermarks Using Spectrum Spreading
+7C2F314E	Signal Processing-image Communication<--Watermarking-based image authentication with recovery capability using halftoning technique
+76FB3E9A	Pattern Recognition<--Machine learning based adaptive watermark decoding in view of anticipated attack
+7883FD41	The Imaging Science Journal<--A Cauchy distribution-based ternary hypothesis testing for bipolar additive watermark detection in H.264/AVC video
+7CAC2376	Information Sciences<--Preserving robustness and removability for digital watermarks using subsampling and difference correlation
+82802DDF	Signal Processing<--Authentication and recovery algorithm for speech signal based on digital watermarking
+7D49B3E7	IEEE Transactions on Circuits and Systems for Video Technology<--Optimal watermark detection under quantization in the transform domain
+6C8550AF	International Conference on Communications<--Digital signatures based on invertible watermarks for video authentication
+7E430A10	International Conference on Image Processing<--Effective and ineffective digital watermarks
+80565BED	Pacific Rim Conference on Multimedia<--A print-and-scan resilient digital watermark for card authentication
+7DB1BDB2	IEEE Journal on Selected Areas in Communications<--Some general methods for tampering with watermarks
+7DC4C8F6	Information not present<--Adaptive watermark algorithm based fast curvelet transform
+7D3761ED	Proceedings of the IEEE<--The use of watermarks in the protection of digital multimedia products
+7FA69773	IEEE Transactions on Information Forensics and Security<--Watermarking With Flexible Self-Recovery Quality Based on Compressive Sensing and Compositive Reconstruction
+58FD0601	Information not present<--Fingerprint authentication by hybrid DWT and SVD based watermarking
+7A5CF78E	Computational Intelligence and Security<--Subjective and Objective Watermark Detection using a Novel Approach - Bar-code Watermarking
+76B1386C	Information not present<--Malicious attacks on media authentication schemes based on invertible watermarks
+77D60E9D	Information not present<--Image authentication and tampering localization based on watermark embedding in the wavelet domain
+77B4C1C7	Proceedings of SPIE<--Psychovisual approach for watermarking
+7CAC0DAC	Proceedings of SPIE<--Practical off-line authentication
+7FB6F52A	International Conference on Image Processing<--Digital watermarking based on locally linear embedding
+815D8B0B	Proceedings of SPIE<--Provably robust digital watermarking
+7FC133C5	Information not present<--Protecting publicly available images with a visible image watermark

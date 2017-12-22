@@ -1,0 +1,46 @@
+0BD946B6	SIAM International Conference on Data Mining
+7EBEC735	IEEE Transactions on Signal Processing<--Fast algorithm for computing discrete cosine transform
+59E5C607	Human Nature-an Interdisciplinary Biosocial Perspective
+779C02E2	Information not present
+7B13384D	Scandinavian Journal of Statistics
+7E19344D	IEEE Transactions on Signal Processing<--A new algorithm to compute the DCT and its inverse
+7CE629CE	Journal of Computer Science and Technology
+5B4F822C	Information not present
+772CE3A1	User Interface Software and Technology
+7FA005E7	IEEE Signal Processing Letters<--Fast Radix- $q$ and Mixed-Radix Algorithms for Type-IV DCT
+77C93D55	Signal Processing<--A new fast algorithm for the unified forward and inverse MDCT/MDST computation
+80E6A82C	IEEE Signal Processing Letters<--Direct transform to transform computation
+7F9A8948	IEEE Transactions on Multimedia
+7E68A6E2	IEEE Transactions on Signal Processing<--Computation of an odd-length DCT from a real-valued DFT of the same length
+7F77E0BA	IEEE Transactions on Signal Processing<--Restructured recursive DCT and DST algorithms
+7D10C675	IEEE Transactions on Signal Processing<--Fast algorithms for multidimensional DCT-to-DCT computation between a block and its associated subblocks
+7FE3364C	IEEE Signal Processing Letters<--Comments on “Fast Radix-9 Algorithm for the DCT-IV Computation”
+7C5AAA1F	Psychotherapy and Psychosomatics
+80D10329	Meeting of the Association for Computational Linguistics
+7D843341	IEEE Transactions on Communications<--A Fast Computational Algorithm for the Discrete Cosine Transform
+7963E765	Forensic Science International
+7A1904AD	Iet Image Processing<--Recursive algorithm, architectures and FPGA implementation of the two-dimensional discrete cosine transform
+7B64D19B	Signal Processing<--The fast DCT-IV/DST-IV computation via the MDCT
+08A0B727	Information not present
+83EF0AC0	Information not present
+776AFD98	Information not present
+7A8EB39B	Web Intelligence
+77988EDA	IEEE Transactions on Computers<--Fast Algorithms for the 2-D Discrete Cosine Transform
+82078F27	Artificial Intelligence
+7E271971	Computer Vision and Pattern Recognition
+7D05A275	Information not present<--An study of removal of subjective redundancy in JPEG for low cost, low power, computation efficient circuit design and high compression image
+7700F7BC	Conference on Recommender Systems
+5E453122	European Conference on Computer Vision
+7F96C238	Information not present
+7F4AA6EA	Conference on Recommender Systems
+809ACCE2	Computational Science and Engineering
+7B368C93	Bayesian Analysis
+81262D6D	Winter Simulation Conference
+80D1B10B	International Conference on Acoustics, Speech, and Signal Processing
+8613899F	China Communications
+75B26557	Cloud Computing
+761D5749	Annals of Mathematics and Artificial Intelligence
+7B59C5C0	Machine Learning
+7576CA59	Information not present<--A new VLSI algorithm and architecture for the hardware implementation of type IV discrete cosine transform using a pseudo-band correlation structure
+7D3C2818	IEEE Transactions on Communications<--On the Computation of the Discrete Cosine Transform
+8105168F	International Conference on Global Software Engineering

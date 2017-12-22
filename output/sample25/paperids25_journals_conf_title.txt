@@ -1,0 +1,58 @@
+789986D9	International Symposium on Biomedical Imaging<--Graph cut based automatic prostate segmentation using learned semantic information
+7AFB42E2	Pattern Recognition<--Texture segmentation using independent-scale component-wise Riemannian-covariance Gaussian mixture model in KL measure based multi-scale nonlinear structure tensor space
+6A2D0EE9	European Conference on Computer Vision<--Multi-camera Scene Reconstruction via Graph Cuts
+002A1815	Artificial Intelligence and Computational Intelligence<--Automatic object extraction in nature scene based on visual saliency and super pixels
+76D5AD7F	Neural Processing Letters<--A Modified Semi-Supervised Learning Algorithm on Laplacian Eigenmaps
+8062DE9D	Computer Vision and Pattern Recognition<--Object segmentation using graph cuts based active contours
+6BDF01D4	Advanced Data Mining and Applications<--Semi Supervised Image Spam Hunter: A Regularized Discriminant EM Approach
+5FC2C7FC	International Symposium on Neural Networks<--Semi supervised learning for prediction of prosodic phrase boundaries in chinese TTS using conditional random fields
+5E7FABBA	Information not present<--Learning from Partial Labels with Minimum Entropy
+814FEDA0	International Conference on Computer Vision<--A multilevel banded graph cuts method for fast image segmentation
+8053771F	International Journal of Computer Vision<--Unsupervised Learning for Graph Matching
+7525EF15	Information not present<--On surrogate supervision multiview learning
+79EF694B	Information not present<--Semi-Supervised Learning with Density-Sensitive Manifold graph
+756C1A4A	Pattern Recognition<--Texture aware image segmentation using graph cuts and active contours
+7E401158	Information not present<--Semi-supervised learning with co-training for data-driven prognostics
+7D3F70C2	IEEE Transactions on Pattern Analysis and Machine Intelligence<--What energy functions can be minimized via graph cuts?
+765578E2	Pattern Recognition<--Efficient multilevel image segmentation through fuzzy entropy maximization and graph cut optimization
+7FEDD688	Computer Vision and Pattern Recognition<--Active Graph Cuts
+7FDB40F3	Information not present<--Graph theory and mean shift segmentation based classification of building facades
+7DE594CD	International Conference on Acoustics, Speech, and Signal Processing<--Learning based on kernel discriminant-EM algorithm for image classification
+08451859	International Joint Conference on Artificial Intelligence<--Selective Supervision: Guiding Supervised Learning with Decision-Theoretic Active Learning
+796A74A9	International Conference on Multimedia and Expo<--Unsupervised cosegmentation based on superpixel matching and Fastgrabcut
+7F3B7CA7	IEEE Transactions on Knowledge and Data Engineering<--Transductive Multilabel Learning via Label Set Propagation
+7FED3742	Wirtschaftsinformatik \/ Angewandte Informatik<--Graph-Cut Based Iterative Constrained Clustering
+75DC2DD5	International Journal of Semantic Computing<--GRAPH BASED MULTI-VIEW LEARNING FOR SEMANTIC RELATION EXTRACTION
+7D1CB2E4	Information not present<--Learning with hybrid data
+7D0C49B6	Information not present<--Semi-Supervised Learning Algorithm Based on Lie Group
+7E77CFA2	International Conference on Computer Vision<--Computing visual correspondence with occlusions using graph cuts
+7D9CEDAB	Information not present<--Tri-Training Based Learning from Positive and Unlabeled Data
+7FFB7F08	IEEE Transactions on Image Processing<--Image Segmentation Based on GrabCut Framework Integrating Multiscale Nonlinear Structure Tensor
+622CA6D3	Journal of Visual Communication and Image Representation<--Image segmentation based on weighting boundary information via graph cut
+092E6612	Conference on Computational Complexity<--Semi-supervised learning using random subspace based linear embedding repulsion graph
+8150BAE6	International Conference on Computer Vision<--Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images
+7D78459A	International Conference on Acoustics, Speech, and Signal Processing<--Similarity learning for semi-supervised multi-class boosting
+7CBB5316	Information not present<--A Novel Multi label Text Classification Model using Semi supervised learning
+807F0055	International Conference on Genetic and Evolutionary Computing<--Semi-supervised Kernel Based Progressive SVM
+7E5B1A47	European Conference on Computer Vision<--What Energy Functions Can Be Minimized via Graph Cuts?
+5D59CCA8	Information not present<--Core issues in graph based perceptual organization: Spectral cut measures, learning
+8014E25E	International Conference on Computer Vision<--Fast approximate energy minimization via graph cuts
+7CA1F170	Information Processing Letters<--Minimum cost subpartitions in graphs
+7F7034C9	Discrete Mathematics<--On separable self-complementary graphs
+7AF65CE3	Information not present<--A semi-supervised clustering algorithm based on local scaling graph and label propagation
+5E800C58	Medical Image Computing and Computer-Assisted Intervention<--Interactive Organ Segmentation Using Graph Cuts
+7E68E6DC	International Conference on Computer Vision<--Efficiently solving dynamic Markov random fields using graph cuts
+80F19426	Asia Information Retrieval Symposium<--Learning Chinese Polarity Lexicons by Integration of Graph Models and Morphological Features
+811B19DA	Knowledge Discovery and Data Mining<--Collective graph identification
+7BA9AAAD	Information not present<--Dirichlet mixtures of graph diffusions for semi supervised learning
+8010A489	International Conference on Pattern Recognition<--An improvement on learning with local and global consistency
+6D5FAEC4	International World Wide Web Conferences<--Multi-label learning with millions of labels: recommending advertiser bid phrases for web pages
+7CEC1AD4	Intelligent Information Technology Application<--A Novel Semi-Supervised SVM Based on Tri-Training
+7D7D5508	International Conference on Computer Vision<--Computing geodesics and minimal surfaces via graph cuts
+7E0D8880	Computer Vision and Pattern Recognition<--A Graph Cut Approach to Image Segmentation in Tensor Space
+7FC37865	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Fast approximate energy minimization via graph cuts
+86066EA5	Information not present<--Analysis of social media messages for disasters via semi supervised learning
+7E51F583	International Journal of Computer Vision<--Graph Cuts and Efficient N-D Image Segmentation
+7E0AE1E4	International Symposium on Biomedical Imaging<--Segmentation of anatomical branching structures based on texture features and graph cut
+7D656EF1	Journal of Multimedia<--Object Recognition Algorithm Utilizing Graph Cuts Based Image Segmentation
+7DEB0ED6	Computer Vision and Pattern Recognition<--Exact voxel occupancy with graph cuts

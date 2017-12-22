@@ -1,0 +1,65 @@
+78848AB6	Expert Systems With Applications<--Detecting near-duplicate documents using sentence-level features and supervised learning
+7BB1F2A4	Computer Science and Software Engineering<--Emotion classification of Thai text based using term weighting and machine learning techniques
+812F24DC	International Conference on Machine Learning<--Efficient learning of Naive Bayes classifiers under class-conditional classification noise
+7A94F317	Communications in Statistics-theory and Methods<--A review of some adaptive statistical techniques
+7DA7B206	Information not present<--Discriminative dictionary learning via mutual exclusion
+0A088B47	Knowledge Discovery and Data Mining<--Learning Limited Dependence Bayesian Classifiers
+5A30BF03	Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics<--Identification of individualized feature combinations for survival prediction in breast cancer: a comparison of machine learning techniques
+7510E7BD	IEEE/ACM Transactions on Computational Biology and Bioinformatics<--A Survey on Filter Techniques for Feature Selection in Gene Expression Microarray Analysis
+76E67A3F	International Symposium on Software Testing and Analysis<--Instrumenting where it hurts: an automatic concurrent debugging technique
+7FA126C4	Information not present<--Effective multimodal information fusion by structure learning
+5E5CE080	Pattern Analysis and Applications<--Feature selection, mutual information, and the classification of high-dimensional patterns
+7FFEDC6D	National Conference on Artificial Intelligence<--Building Classifiers Using Bayesian Networks
+5D3348BE	Pacific-Asia Conference on Knowledge Discovery and Data Mining<--Compact Dual Ensembles for Active Learning
+75BBCB63	Information not present<--Experimental Study on Sentiment Classification of Chinese Review using Machine Learning Techniques
+764B4F14	Expert Systems With Applications<--Web-services classification using intelligent techniques
+0476ACD6	Information not present<--Large scale sparse semi-supervised learning
+21A9A6DF	Biomedical Signal Processing and Control<--Feature selection method based on mutual information and class separability for dimension reduction in multidimensional time series for clinical data
+7B157682	Pattern Recognition Letters<--Adaptive floating search methods in feature selection
+608163FD	Information not present<--Application of a Feature Selection Technique to Samples of High Resolution Synthetic Aperture Radar Imagery,
+813A1DD2	Bioinformatics<--Fast feature selection using a simple estimation of distribution algorithm: a case study on splice site prediction
+7FCEC94E	IEEE Transactions on Systems, Man, and Cybernetics<--An improved naive Bayesian classifier technique coupled with a novel input solution method [rainfall
+7E2BAB1B	Information not present<--An Evaluation of Naïve Bayesian Anti-Spam Filtering Techniques
+5C664574	Information not present<--A comparison of event models for Naive Bayes text classification
+7D6A21F8	Computer Vision and Pattern Recognition<--Structure-perceptron learning of a hierarchical log-linear model
+782B8359	Information not present<--Automated screening of Polycystic Ovary Syndrome using machine learning techniques
+5C92FC9F	Information not present<--Scaling Up Machine Learning: Parallel Online Learning
+584A9F54	International Joint Conference on Artificial Intelligence<--Efficient Bayesian Task-level Transfer Learning
+5D3D3DF8	Discovery Science<--Iterative Naive Bayes
+7119C80A	International Conference on E-Business and E-Government<--Classifying depression patients and normal subjects using machine learning techniques
+80895228	IEEE Transactions on Neural Networks<--Normalized Mutual Information Feature Selection
+7DE87364	Information not present<--Sensory Evaluation Based on Ensemble Learning
+762A27B1	Information not present<--GA-MTL: A Random Method of Multi-Task Learning
+7B1ED9C9	Clinical Orthopaedics and Related Research<--Thumbs up? Sentiment Classification using Machine Learning Techniques
+7BAB122C	Molecular Simulation<--Identification of DNA adduct formation of small molecules by molecular descriptors and machine learning methods
+7E2EEE71	Bioinformatics<--Robust biomarker identification for cancer diagnosis with ensemble feature selection methods
+7FF4A547	PLOS ONE<--The influence of feature selection methods on accuracy, stability and interpretability of molecular signatures
+7DBCCFE0	BMC Bioinformatics<--Feature selection for splice site prediction: A new method using EDA-based feature ranking
+09A0DAD5	Information not present<--Research on intrinsic plagiarism detection resolution: a supervised learning approach
+06D8C8DE	Information not present<--A Comparison of Techniques for Classification and Ad Hoc Retrieval of Biomedical Documents
+5FC1ECAC	Machine Intelligence and Pattern Recognition<--Comparative study of techniques for large-scale feature selection
+78D5F25A	International Conference on Data Mining<--Multi-instance Multi-graph Dual Embedding Learning
+78192D7B	Pattern Recognition Letters<--Floating search methods in feature selection
+77654CEF	Electronic Journal of Statistics<--The Smooth-Lasso and other ℓ1+ℓ2-penalized methods
+7CAF3D4C	Information not present<--DiscWord: Learning Discriminative Topics
+80F1EA90	Congress on Evolutionary Computation<--A Theme-based Search Technique
+7F1C2084	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Statistical pattern recognition: a review
+7B5B0392	Journal of Computer Applications in Technology<--Automated diagnosis of age-related macular degeneration using machine learning techniques
+73831E7D	Computational Intelligence in Bioinformatics and Computational Biology<--Identifying differentially expressed transcripts associated with prostate cancer progression using RNA-Seq and machine learning techniques
+831EE2E6	Information not present<--Adaptive Real-time Anomaly-based Intrusion Detection using Data Mining and Machine Learning Techniques
+75695754	Pattern Recognition Letters<--Feature selection using expected attainable discrimination
+80643FBF	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Feature selection based on mutual information criteria of max-dependency, max-relevance, and min-redundancy
+77630BE7	Neurocomputing<--A new local search based hybrid genetic algorithm for feature selection
+7E5348E7	Bioinformatics<--A review of feature selection techniques in bioinformatics
+5B1AE809	Information not present<--Searching for Dependencies in Bayesian Classifiers
+750A9F88	Expert Systems With Applications<--Similarity of feature selection methods: An empirical study across data intensive classification tasks
+77BEDFB0	Knowledge Based Systems<--An effective feature selection method for hyperspectral image classification based on genetic algorithm and support vector machine
+5F39A066	Information not present<--Preventing Student Dropout in Distance Learning Using Machine Learning Techniques
+7FB56746	Information Sciences<--A review of microarray datasets and applied feature selection methods
+7508EFF3	International Symposium on Neural Networks<--Multi-objective optimization of a hybrid model for network traffic classification by combining machine learning techniques
+7B425AC3	International Journal of Human-computer Studies \/ International Journal of Man-machine Studies<--Mathematical methods of feature selection in pattern recognition
+810F181F	European Conference on Principles of Data Mining and Knowledge Discovery<--Robust Feature Selection Using Ensemble Feature Selection Techniques
+775B2060	Computers and Electronics in Agriculture<--Aquatic weed automatic classification using machine learning techniques
+75CFD48F	International Journal of Approximate Reasoning<--Active learning for microarray data
+7D0157AF	Systems, Man and Cybernetics<--Manifold elastic net for sparse learning
+76C82C3C	Neurocomputing<--Feature selection techniques with class separability for multivariate time series

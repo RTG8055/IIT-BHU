@@ -1,0 +1,72 @@
+757BA39E	Information Systems Management<--Information Hiding in Real-Time VoIP Streams
+7619646B	Journal of Network and Computer Applications<--Multimedia applications over metropolitan area networks (MANs)
+5A8F9D97	Recent Advances in Intrusion Detection<--Monitoring SIP Traffic Using Support Vector Machines
+7D39AC23	IEEE Internet Computing<--Adaptive VoIP playout scheduling: assessing user satisfaction
+8133D5AC	IEEE Transactions on Computers<--Improving Quality of VoIP Streams over WiMax
+812A382D	Global Communications Conference<--Speech quality prediction in VoIP using the extended E-model
+6E870075	International Conference on Communications<--Prediction of perceived conversational speech quality and effects of playout buffer algorithms
+80F515A4	International Symposium on Circuits and Systems<--An adaptive steganography scheme for voice over IP
+7DE3AE79	Security and Communication Networks<--On the undetectability of transcoding steganography
+5F8051C3	International Symposium on Circuits and Systems<--Design and evaluation of steganography for voice-over-IP
+79250463	Security of Information and Networks<--Using decision trees for generating adaptive SPIT signatures
+77FE1304	Information not present<--Design of a VoIP Media Stream Encryption Device
+03AB104A	Information not present<--BigBlueButton – Outil collaboratif open source
+5D0F37C5	Information not present<--The effects of encryption on VoIP streams under the code-excited linear prediction coder G.729
+7D5CAE14	Telecommunication Systems<--Improving the R-score of an adaptive VoIP codec in IEEE 802.16 networks
+81670C60	International Conference on Multimedia and Expo<--Field performance evaluation of VoIP in 4G trials
+7E951C8D	IEEE Transactions on Multimedia<--Adaptive playout scheduling and loss concealment for voice communication over IP networks
+8046B9CD	IEEE Transactions on Broadcasting<--Delivery of low rate isochronous streams over the digital video broadcasting/Digital Audio-Visual Council cable television protocol
+7EB78B3B	Modeling, Analysis, and Simulation On Computer and Telecommunication Systems<--On the modeling of voice sources regulated by dual leaky buckets
+7F900EF9	International Conference on Communications<--Improving R-Score of VoIP Streams over WiMax
+7E86AB80	IEEE Transactions on Parallel and Distributed Systems<--Detecting VoIP Floods Using the Hellinger Distance
+80DBB73F	International Conference on Computer Communications and Networks<--On the influence of best-effort network conditions on the perceived speech quality of VoIP connections
+7F88127A	Symposium on Applications and the Internet<--A teleconferencing system with high-speed stream mixing for voice over IP
+6FF3092D	International Conference on Communications<--A passive method for monitoring voice-over-IP call quality with ITU-T objective speech quality measurement methods
+7C2CDBE3	Information not present<--Introduction to XMPP protocol and developing online collaboration applications using open source software and libraries
+7A87B931	ACM Special Interest Group on Data Communication<--Measuring the perceptual quality of Skype sources
+7DF83938	Information not present<--User perceived codec and duplex aware playout algorithms and LMOS-DMOS measurement for real time streams
+80AA5E5F	International Conference on Acoustics, Speech, and Signal Processing<--An adaptive predictor for media playout buffering
+7DDF15E2	Information not present<--Erasure-robust speech coding and concealment in VoIP systems with frame packetization
+7DCBCB60	International Conference for Young Computer Scientists<--A Covert Communication Model Based on Least Significant Bits Steganography in Voice over IP
+01014831	Information not present<--Impact of Packet Loss Location on Perceived Speech Quality
+7E1E9CC9	IEEE Transactions on Mobile Computing<--Measurement and Analysis of the VoIP Capacity in IEEE 802.11 WLAN
+7E923534	Advanced Information Networking and Applications<--Stream authentication scheme for the use over the IP telephony
+7F80D600	Advanced Information Networking and Applications<--High-speed stream cipher
+7E03F6EF	Conference on Network and Service Management<--Risk management in VoIP infrastructures using support vector machines
+652368DD	International Conference on Image Processing<--Spatially disjoint source channel coding: taking advantage of the current dial-up architecture for video over the Internet
+7CEC8964	Computer Networks<--Outbound SPIT filter with optimal performance guarantees
+7D662126	World of Wireless, Mobile and Multimedia Networks<--Gauging VoIP call quality from 802.11 WLAN resource usage
+6D785A11	Security and Communication Networks<--On steganography in lost audio packets
+58CF9412	Information not present<--Assessing the Quality of VoIP Transmission Affected by Playout Buffer Scheme
+764AF17F	Information not present<--Cloud consulting: ERP and communication application integration in open source cloud systems
+8054009E	ACM Computing Surveys<--VoIP steganography and its Detection—A survey
+75EAC64A	Designs, Codes and Cryptography<--Enhanced Lossless Coding Tools of LPC Residual for ITU-T G.711.0
+7EFA283A	International Conference on Acoustics, Speech, and Signal Processing<--Resynchronization of the Adaptive Codebook in a Constrained celp Codec After a Frame Erasure
+7C8D0145	Information not present<--A technique for classification of VoIP flows in UDP media streams using VoIP signalling traffic
+5C691BA5	Clinical Orthopaedics and Related Research<--On Steganography in Lost Audio Packets
+7F6DAD9F	Information not present<--Performance of FMIPv6-based cross-layer handover for supporting mobile VoIP in WiMAX networks
+58C68905	Information not present<--Incorporating global positioning data in real time P2P audio/video streams for mobile devices
+7FCD235E	Security and Communication Networks<--A VoIP system for mobility voice security support using the VPN
+78F4BCB6	International Conference on Acoustics, Speech, and Signal Processing<--Selective encryption based data security for Ogg streams
+80843370	International Workshop on Quality of Service<--Fast Detection of Denial-of-Service Attacks on IP Telephony
+2DDA12E0	Information not present<--Wireless Communication Systems: Source coding I: speech and audio coding
+80D69E67	ACM Special Interest Group on Data Communication<--How green is IP-telephony?
+80508BA5	IEEE Communications Letters<--Redundant bundling in TCP to reduce perceived latency for time-dependent thin streams
+7D6DEB86	International Conference on Computer Communications and Networks<--Exploiting the flexibility of MAC layer in WiMAX networks for improved data and VoIP traffic
+7550F29B	International Journal of Interdisciplinary Telecommunications and Networking<--Implement VoIP Based IP Telephony with Open Source Asterisk Architecture
+036916A5	Network and Distributed System Security Symposium<--Secure IP Telephony using Multi-layered Protection
+7839BC52	Information not present<--IP multimedia subsystem testbed using open source elements
+79208D58	Proceedings of SPIE<--MPEG-4 low-delay general audio coding
+7B1DD2CD	Information not present<--Steganography and steganalysis in voice-over IP scenarios: operational aspects and first experiences with a new steganalysis tool set
+7D6F6428	International Conference on Communications<--An M-Sequence Based Steganography Model for Voice over IP
+7D35A58A	Information not present<--Wireless VoIP Adaptive Source Rate Control Algorithm
+75D2EB80	Multimedia Tools and Applications<--Using Transcoding for Hidden Communication in IP Telephony
+58FF219F	Information not present<--A study of Skype over IEEE 802.16 networks: voice quality and bandwidth usage
+0F885325	Signal Processing<--Optimal matrix embedding for Voice-over-IP steganography
+7D3C3318	Information not present<--Secure steganography in audio using inactive frames of VoIP streams
+84F40BB8	Information not present<--Deployment of a sustainable, production-grade VoIP system based on open source software component in an educational institution
+2EC0FE68	Information not present<--LSP-Based Multiple-Description Coding for
+7EEEAF03	Network Protocols and Algorithms<--Dynamic VoIP codec selection on smartphones
+800A2FE1	International Conference on Acoustics, Speech, and Signal Processing<--Improved packet loss recovery using late frames for prediction-based speech coders
+025B47E4	Autonomous Infrastructure, Management and Security<--SPRT for SPIT: using the sequential probability ratio test for spam in VoIP prevention
+7A5925AC	Information not present<--Real time implementation of Elliptic Curve Cryptography over a open source VoIP server

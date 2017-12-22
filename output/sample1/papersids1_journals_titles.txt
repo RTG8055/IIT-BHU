@@ -1,0 +1,67 @@
+81431585	International Conference on Acoustics, Speech, and Signal Processing<--Scalable robust hypothesis tests using graphical models
+7698D6DC	Journal of the American Statistical Association<--A Constrained L1 Minimization Approach to Sparse Precision Matrix Estimation
+797F1FB0	Annals of Statistics<--Correction: Graphical Models for Associations Between Variables, Some of which are Qualitative and Some Quantitative
+0BD946B6	SIAM International Conference on Data Mining<--Exploiting Parameter Related Domain Knowledge for Learning in Graphical Models
+59E5C607	Human Nature-an Interdisciplinary Biosocial Perspective<--Why aren't we all hutterites?
+779C02E2	Information not present<--A Utility-Based Recommendation Approach for E-Commerce Websites Based on Bayesian Networks
+7B13384D	Scandinavian Journal of Statistics<--Causal Reasoning from Longitudinal Data*
+80D1B10B	International Conference on Acoustics, Speech, and Signal Processing<--Multi-instrument musical transcription using a dynamic graphical model
+5B4F822C	Information not present<--An Integrated, Conditional Model of Information Extraction and Coreference with Application to Citation Matching
+7BCF362F	Journal of Statistical Planning and Inference<--A SINful Approach to Gaussian Graphical Model Selection
+772CE3A1	User Interface Software and Technology<--Using the multi-layer model for building interactive graphical applications
+096AEEA7	Uncertainty in Artificial Intelligence<--Learning Factor Graphs in Polynomial Time & Sample Complexity
+7F3655D3	Uncertainty in Artificial Intelligence<--PAC-learning bounded tree-width graphical models
+7BDE06A5	IEEE Transactions on Systems, Man, and Cybernetics<--Graph-Based Sensor Fusion for Classification of Transient Acoustic Signals
+7F9A8948	IEEE Transactions on Multimedia<--A Graphical Model for Context-Aware Visual Content Recommendation
+80379CA8	Journal of Machine Learning Research<--Model Selection Through Sparse Maximum Likelihood Estimation for Multivariate Gaussian or Binary Data
+008901FD	Uncertainty in Artificial Intelligence<--Score and information for recursive exponential models with incomplete data
+76E3283E	Journal of Multivariate Analysis<--Bayesian structure learning in graphical models
+5A0EE170	International Conference on Acoustics, Speech, and Signal Processing<--Variational Bayes learning of multiscale graphical models
+761D5749	Annals of Mathematics and Artificial Intelligence<--Learning invariant features using inertial priors
+7E144371	Journal of Machine Learning Research<--A Recursive Method for Structural Learning of Directed Acyclic Graphs
+81262D6D	Winter Simulation Conference<--Simulation-based engineering of complex systems using EXTEND+MFG+OpEMCSS
+7C7FFC7E	Artificial Intelligence<--Maximum likelihood bounded tree-width Markov networks
+79AF77CD	Scandinavian Journal of Statistics<--Markov Properties for Acyclic Directed Mixed Graphs
+7A730712	Symposium on Discrete Algorithms<--Learning Markov networks: maximum bounded tree-width graphs
+7E25BD71	IEEE Transactions on Signal Processing<--Learning Graphical Models for Hypothesis Testing and Classification
+805ED9C0	Neural Information Processing Systems<--High-Dimensional Graphical Model Selection Using $\ell_1$-Regularized Logistic Regression
+7F6DA698	Journal of Machine Learning Research<--The Nonparanormal: Semiparametric Estimation of High Dimensional Undirected Graphs
+7C5AAA1F	Psychotherapy and Psychosomatics<--Using Interaction Graphs for Analysing the Therapy Process
+80D10329	Meeting of the Association for Computational Linguistics<--Phrase-based statistical language generation using graphical models and active learning
+7E409A3D	Information not present<--Optimizing Costly Functions with Simple Constraints: A Limited-Memory Projected Quasi-Newton Algorithm
+7963E765	Forensic Science International<--The evaluation of evidence in the forensic investigation of fire incidents (Part I): An approach using Bayesian networks
+77757110	Journal of Multivariate Analysis<--Adjusting for high-dimensional covariates in sparse precision matrix estimation by ℓ1-penalization
+801D527C	International Journal of Approximate Reasoning<--An interactive approach for Bayesian network learning using domain/expert knowledge
+7ED9E3E7	Annals of Statistics<--High-dimensional Ising model selection using ℓ1-regularized logistic regression
+756B4845	Applied Soft Computing<--New skeleton-based approaches for Bayesian structure learning of Bayesian networks
+809ACCE2	Computational Science and Engineering<--TagRec: Leveraging Tagging Wisdom for Recommendation
+6049E046	Information not present<--A tutorial on learning with Bayesian networks
+08A0B727	Information not present<--Adaptive preference elicitation for top-K recommendation tasks using GAI-networks
+83EF0AC0	Information not present<--Multi-modal learning for video recommendation based on mobile application usage
+80A025FA	Journal of Computational and Graphical Statistics<--Positive Semidefinite Rank-Based Correlation Matrix Estimation With Application to Semiparametric Graph Estimation
+776AFD98	Information not present<--Using Category and Keyword for Personalized Recommendation: A Scalable Collaborative Filtering Algorithm
+7F9DACE7	Information not present<--Demonstrating Patterns in the Views of Stakeholders Regarding Ethically Salient Issues in Clinical Research: A Novel Use of Graphical Models in Empirical Ethics Inquiry
+79B9CC7E	International Journal of Approximate Reasoning<--Learning AMP Chain Graphs and some Marginal Models Thereof under Faithfulness
+82078F27	Artificial Intelligence<--Exploiting Local and Repeated Structure in Dynamic Bayesian Networks
+7E271971	Computer Vision and Pattern Recognition<--Integration of multiple contextual information for image segmentation using a Bayesian Network
+766DF9F3	BMC Biophysics<--A minimal ligand binding pocket within a network of correlated mutations identified by multiple sequence and structural analysis of G protein coupled receptors
+80DC1B7C	Scandinavian Journal of Statistics<--On the Validity of the Markov Interpretation of Path Diagrams of Gaussian Structural Equations Systems with Correlated Errors
+7E66E464	Journal of Machine Learning Research<--High-dimensional Covariance Estimation Based On Gaussian Graphical Models
+7700F7BC	Conference on Recommender Systems<--Query-driven context aware recommendation
+5E453122	European Conference on Computer Vision<--Stacked hierarchical labeling
+7F96C238	Information not present<--An EDDM based toolset
+7F4AA6EA	Conference on Recommender Systems<--A matrix factorization technique with trust propagation for recommendation in social networks
+7A8EB39B	Web Intelligence<--User Interest and Topic Detection for Personalized Recommendation
+7CE629CE	Journal of Computer Science and Technology<--Exploring Social Annotations with the Application to Web Page Recommendation
+8613899F	China Communications<--Point-of-interest recommendation in location-based social networks with personalized geo-social influence
+7FF9B70B	Journal of Machine Learning Research<--Learning Factor Graphs in Polynomial Time and Sample Complexity
+795C2806	Information not present<--Variational Bayes learning of graphical models with hidden variables
+7CF1D0CA	Machine Learning<--Boosted Bayesian network classifiers
+7CA63E85	Social Science & Medicine<--Undernutrition in Benin -- an analysis based on graphical models.
+75B26557	Cloud Computing<--Utilizing Favorites Lists for Better Recommendations
+7B368C93	Bayesian Analysis<--Robust Bayesian Graphical Modeling Using Dirichlet $t$-Distributions
+7B59C5C0	Machine Learning<--Mining Skewed and Sparse Transaction Data for Personalized Shopping Recommendation
+814F9EFD	Proteins<--Learning generative models for protein fold families
+80F77A3D	Neural Information Processing Systems<--Stability Approach to Regularization Selection (StARS) for High Dimensional Graphical Models
+7F9FC5C6	Information not present<--Structural Learning of Chain Graphs via Decomposition.
+8105168F	International Conference on Global Software Engineering<--Integration of Design in Distributed Development Using D-Scenario Graph

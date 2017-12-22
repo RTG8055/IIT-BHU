@@ -30818,10 +30818,6 @@ graph [
   ]
   edge [
     source 2228
-    target 1716
-  ]
-  edge [
-    source 2228
     target 551
   ]
   edge [

@@ -1,0 +1,68 @@
+27435BF3	Artificial Intelligence<--A flexible ILP formulation for hierarchical clustering
+805F1CE5	International Conference on Multimodal Interfaces<--State sharing in a hybrid neuro-Markovian on-line handwriting recognition system through a simple hierarchical clustering algorithm
+7B2F0A06	Data Mining and Knowledge Discovery<--Hierarchical Clustering Algorithms for Document Datasets
+79B17C36	The Vldb Journal<--Clustering Categorical Data: An Approach Based on Dynamical Systems
+765DCAF5	Pattern Recognition and Image Analysis<--Automatic hierarchical clustering algorithm for remote sensing data
+806BFB0C	Symbolic and Numeric Algorithms for Scientific Computing<--Adaptive AFOPT algorithm
+7643E108	International Symposium on Computational Intelligence and Design<--An Improved Clustering Algorithm
+791C640A	Neural Processing Letters<--TCSOM: Clustering Transactions Using Self-Organizing Map
+0624B843	Information not present<--A Fast Clustering Algorithm to Cluster Very Large Categorical Data Sets in Data Mining
+5CD02299	Information Reuse and Integration<--An efficient algorithm for fuzzy Web-mining
+7F94DC21	IEEE/ACM Transactions on Computational Biology and Bioinformatics<--A Fast Hierarchical Clustering Algorithm for Functional Modules Discovery in Protein Interaction Networks
+756A50D3	Psychometrika<--Ultrametric hierarchical clustering algorithms
+817A9F08	International Conference on Parallel and Distributed Systems<--A Virtual Machine Server Aggregation Algorithm Based on Hierarchical Clustering
+7E6AAED5	Information not present<--A COMBINED K-MEANSAND HIERARCHICAL CLUSTERINGMETHOD FOR IMPROVING THE CLUSTERINGEFFICIENCYOF MICROARRAY
+76B1A066	Geoinformatica<--An algorithm for local geoparsing of microtext
+7EAD8177	Monthly Notices of the Royal Astronomical Society<--Weak Lensing from Strong Clustering
+7AC42166	Knowledge Based Systems<--NB + : An improved Naïve Bayesian algorithm
+82D539EC	Journal of Chromatography A<--Algorithm for comprehensive analysis of datasets from hyphenated high resolution mass spectrometric techniques using single ion profiles and cluster analysis.
+7C9D9D1B	Psychometrika<--Note on ultrametric hierarchical clustering algorithms
+81781587	International Conference on Information and Communication Security<--A normalized LMF (XE-NLMF) algorithm with variable data-reusing
+75EB34A6	Information Fusion<--k-ANMI: A mutual information based clustering algorithm for categorical data
+7FA715BB	Knowledge Discovery and Data Mining<--Incorporating SAT solvers into hierarchical clustering algorithms: an efficient and flexible approach
+7D37CDF7	Cyber-Enabled Distributed Computing and Knowledge Discovery<--An efficient parallel FP-Growth algorithm
+7A430D5C	Information not present<--Prototypes-Based Horizontal Collaborative Fuzzy Clustering
+7528D3D9	ACM Multimedia<--Hierarchical collaborative multicast
+674B2B5A	Informatica (lithuanian Academy of Sciences)<--Hierarchical Adaptive Clustering
+7592732C	Knowledge Based Systems<--A fuzzy k-prototype clustering algorithm for mixed numeric and categorical data
+7E7A888D	The European Symposium on Artificial Neural Networks<--TreeGNG -- Hierarchical Topological Clustering
+7F0EF70B	Sigmod Record<--CURE: an efficient clustering algorithm for large databases
+7FA60214	IEEE Computer<--Chameleon: hierarchical clustering using dynamic modeling
+801AA81F	Data Mining and Knowledge Discovery<--Extensions to the k-Means Algorithm for Clustering Large Data Sets with Categorical Values
+814CAB96	International Conference on e-Business Engineering<--Audio Watermarking Pre-process Algorithm
+000069BF	Computers & Graphics<--Hierarchical Back-Face Culling
+77245C93	Psychometrika<--Hierarchical clustering schemes
+802F0036	Neural Computing and Applications<--QuoCast: A Resource-Aware Algorithm for Reliable Peer-to-Peer Multicast
+7FB09619	Information not present<--Application of Genetic Algorithm in Document Clustering
+5D8BB455	European Conference on Parallel Processing<--Self-Organizing Hierarchical Cluster Timestamps
+7D648CAA	Computational Intelligence and Security<--Dynamic Fluzzy Clustering Algorithm for Web Documents Mining
+7DAD351F	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Parallel algorithms for hierarchical clustering and cluster validity
+7599B1B2	International Journal of Intelligent Information Technologies<--PPDAM: Privacy-Preserving Distributed Association-Rule-Mining Algorithm
+7D45371E	Information Processing Letters<--A hierarchical clustering algorithm using strong components
+8000EE71	Knowledge Based Systems<--G-ANMI: A mutual information based genetic clustering algorithm for categorical data
+79249275	Information not present<--A hierarchical cluster-based optical network-on-chip
+75AC0D00	Neurocomputing<--An improved k-prototypes clustering algorithm for mixed numeric and categorical data
+803A5CED	Information not present<--A novel quantumized Fuzzy C-medians algorithm
+7BB625D3	Journal of Intelligent Information Systems<--Hybrid data labeling algorithm for clustering large mixed type data
+7547B164	Scientific Journal of Riga Technical University. Computer Sciences<--A Multilayered Self-Learning Spiking Neural Network and its Learning Algorithm Based on ‘Winner-Takes-More’ Rule in Hierarchical Clustering
+7A132388	International Journal of Information Technology and Decision Making<--A Sequence-Element-Based Hierarchical Clustering Algorithm For Categorical Sequence Data
+590717D5	Information not present<--Hierarchical and k‐Means Clustering
+7CB6732C	Information not present<--Application of the SpecHybrid Algorithm to text document clustering problem
+8030ABF3	International Conference on Hybrid Information Technology<--Mining Association Rules from a Collection of XML Documents using Cross Filtering Algorithm
+7C73C958	Machine Learning<--Empirical and Theoretical Comparisons of Selected Criterion Functions for Document Clustering
+79CA8DD3	Pattern Recognition Letters<--An iterative initial-points refinement algorithm for categorical data clustering
+7E1C5F27	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Comments on "Parallel algorithms for hierarchical clustering and cluster validity
+72AA42EC	Information not present<--Metode Hierarchical K-Means untuk Pengelompokoan Desa Tertinggal di Provinsi Sumatera Utara
+76F0F507	Knowledge Discovery and Data Mining<--CLOPE: a fast and effective clustering algorithm for transactional data
+7FA96432	The Computer Journal<--A Survey of Recent Advances in Hierarchical Clustering Algorithms
+752C5C0B	International Conference on Data Mining<--Weighted-Object Ensemble Clustering
+85E31772	Information not present<--STICH : a hierarchical clustering algorithm
+7A2AE3B6	Parallel Computing<--Parallel algorithms for hierarchical clustering
+5DF1BD46	European Conference on Principles of Data Mining and Knowledge Discovery<--Agglomerative Hierarchical Clustering with Constraints: Theoretical and Empirical Results
+7CB6B315	Psychometrika<--U-statistic hierarchical clustering
+71CD6C9A	Information not present<--A term-based algorithm for hierarchical clustering of Web documents
+7CF2C846	Information Fusion<--A cluster ensemble method for clustering categorical data
+80419A8C	Information not present<--Ratio-based collaborative filtering algorithms
+7FB2DA95	International Conference on Machine Learning and Cybernetics<--KM-A ∗ pathfinding algorithm based on hierarchical clustering and strengthened DB Index criteria
+5EC00903	Artificial Neural Networks in Pattern Recognition<--On the effects of constraints in semi-supervised hierarchical clustering
+05B49239	Information not present<--K-means and Hierarchical Clustering

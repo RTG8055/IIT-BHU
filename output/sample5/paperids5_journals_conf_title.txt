@@ -1,0 +1,58 @@
+76DB1B25	International Conference on Innovative Computing, Information and Control<--Novel Search Engine: Combination of Link and Popularity Rank for Multimedia Retrieval
+7FDDCCD4	Management Science<--Search Engine Advertising: Channel Substitution When Pricing Ads to Context
+77D497A2	World Wide Web<--A user-tunable approach to marketplace search
+7510D861	Information Processing and Management<--Finding information on the World Wide Web: the retrieval effectiveness of search engines
+754D28B2	Tourism Management<--The power of search engine ranking for tourist destinations.
+7FEBCDC1	International Conference on Information Technology: New Generations<--Metasearch Engines and Information Retrieval: Computational Complexity of Ranking Multiple Search Results
+77B1FCBA	Artificial Intelligence Review<--Improving mobile search using content enrichment
+77AEC8E8	Information not present<--An integration framework for search engine architecture to improve information retrieval quality
+595640C9	International Conference on Electronic Publishing<--Combining the Power of Query Languages and Search Engines for On-line Document and Information Retrieval : The QIRi@D Environment
+02426620	Information not present<--Exploiting Code Search Engines to Improve Programmer Productivity and Quality
+8091AFDD	Information not present<--The effect on click-through of combining sponsored and non-sponsored search engine results in a single listing
+759C853B	Computational Intelligence<--Improving Search Quality of an XML Context-Driven Search Engine by Relabling of Canonical Trees
+787F20C4	Information not present<--Information Retrieval using Semantic Web Browser - Personalized and Categorical Web Search
+79ADFC87	Health Informatics Journal<--Applying Semantic Web technologies to improve the retrieval, credibility and use of health-related web resources.
+7F48E77D	Information not present<--Search Less, Find More? Examining Limited Consumer Search with Social Media and Product Search Engines
+58FB967D	Information not present<--Preferences of People with Disabilities to Improve Information Presentation and Information Retrieval Inside Internet Services – Results of a User Study
+79A89D40	International ACM SIGIR Conference on Research and Development in Information Retrieval<--Community-based snippet-indexes for pseudo-anonymous personalization in web search
+7BB9B487	Information not present<--A scalable real-time search engine for fast retrieval of social media content
+75B65C35	Evolutionary Computation<--Multi-keyword sponsored search
+7FBD8242	Marketing Science<--Analyzing the Relationship Between Organic and Sponsored Search Advertising: Positive, Negative, or Zero Interdependence?
+80BE578A	International Conference on Data Engineering<--Improving the Effectiveness of XML Retrieval with User Navigation Models
+7B60E99F	Computational and Mathematical Methods in Medicine<--BioTCM-SE: a semantic search engine for the information retrieval of modern biology and traditional Chinese medicine.
+7F3F0AE2	Information Processing and Management<--The effectiveness of web search engines for retrieving relevant ecommerce links
+75CC9391	Computer Law & Security Review<--A database right in search results? – An intellectual property right reconsidered in respect of computer generated databases
+7F2BF256	Multimedia Information Retrieval<--Annodex: a simple architecture to enable hyperlinking, search & retrieval of time--continuous data on the Web
+753A28D6	Journal of Computer Science and Technology<--A New Retrieval Model Based on TextTiling for Document Similarity Search
+7F561450	Social Indicators Research<--Search Engine Competition with Network Externalities
+75F71181	IEEE Intelligent Systems<--Lycos: design choices in an Internet search service
+7D600956	Information not present<--Exploring HTML Tags and Metadata to Improve the Expressiveness of Web Search Engine's Queries
+77C4F21A	Computer Vision and Pattern Recognition<--Nonparametric Label-to-Region by search
+7E48A49D	Wirtschaftsinformatik \/ Angewandte Informatik<--Improving Retrieval of Future-Related Information in Text Collections
+5F6157DD	International Semantic Web Conference<--Towards High-Precision Service Retrieval
+5F4B20E5	Information Retrieval<--Measuring Search Engine Quality
+7DA63EC1	World Wide Web<--Analyzing search engine advertising: firm behavior and cross-selling in electronic markets
+00B17298	Information not present<--A categorised search of the CTAN
+7F2A565B	Management Science<--An Empirical Analysis of Search Engine Advertising: Sponsored Search in Electronic Markets
+59CE7EA6	Applications of Natural Language to Data Bases<--Towards Semantic Search
+5A9D2B23	Theory and Practice of Digital Libraries<--Effectiveness of Keyword-Based Display and Selection of Retrieval Results for Interactive Searches
+5ADB3A52	Information not present<--An analysis of Internet search engines: assessment of over 200 search queries
+5D259979	Multiagent System Technologies<--Agent-based semantic search at motoso.de
+80BF1EF4	Information not present<--Personalized Web search results with profile comparisons
+76244FC6	Proceedings of the IEEE<--Query-Adaptive Fusion for Multimodal Search
+7928820F	IEEE Transactions on Image Processing<--Circular Reranking for Visual Search
+803D2737	Information not present<--Speeding up keyword search for search engines
+6E411207	Information not present<--Improving Performance Support Systems through Information Retrieval Evaluation
+79110C9C	Information Processing and Management<--Search engine coverage bias: evidence and possible causes
+7EE419B7	Information not present<--Using BM25F for semantic search
+63913EDD	Clinical Orthopaedics and Related Research<--Synonym search in Wikipedia: Synarcher
+75FC39F7	Information Processing and Management<--New measurements for search engine evaluation proposed and tested
+78A4DC3B	Web Search and Data Mining<--An empirical analysis of sponsored search performance in search engine advertising
+7DEA9D12	Information not present<--A Boolean Model in Information Retrieval for Search Engines
+77B7328F	Information not present<--An intelligent agent-based meta search
+72030340	Behavioral & Social Sciences Librarian<--One-Stop Search
+790B5A53	International Conference on Management of Data<--Efficient two-sided error-tolerant search
+7EC88017	Information not present<--A Novel Approach to Improve the Accuracy of Web Retrieval
+7FF3B599	Information not present<--Comparing performance metrics in organic search with sponsored search advertising
+01D30712	Brazilian Symposium on Databases<--Personalized Keyword Search with Partial-Order Preferences
+80ED8842	IEEE Distributed Systems Online<--What's Next in Web Search?

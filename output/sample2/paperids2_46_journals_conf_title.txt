@@ -1,0 +1,46 @@
+0BD946B6	SIAM International Conference on Data Mining<--Exploiting Parameter Related Domain Knowledge for Learning in Graphical Models
+7EBEC735	IEEE Transactions on Signal Processing<--Fast algorithm for computing discrete cosine transform
+59E5C607	Human Nature-an Interdisciplinary Biosocial Perspective<--Why aren't we all hutterites?
+779C02E2	Information not present<--A Utility-Based Recommendation Approach for E-Commerce Websites Based on Bayesian Networks
+7B13384D	Scandinavian Journal of Statistics<--Causal Reasoning from Longitudinal Data*
+7E19344D	IEEE Transactions on Signal Processing<--A new algorithm to compute the DCT and its inverse
+80D1B10B	International Conference on Acoustics, Speech, and Signal Processing<--Multi-instrument musical transcription using a dynamic graphical model
+81262D6D	Winter Simulation Conference<--Simulation-based engineering of complex systems using EXTEND+MFG+OpEMCSS
+7C5AAA1F	Psychotherapy and Psychosomatics<--Using Interaction Graphs for Analysing the Therapy Process
+5B4F822C	Information not present<--An Integrated, Conditional Model of Information Extraction and Coreference with Application to Citation Matching
+772CE3A1	User Interface Software and Technology<--Using the multi-layer model for building interactive graphical applications
+7FA005E7	IEEE Signal Processing Letters<--Fast Radix- $q$ and Mixed-Radix Algorithms for Type-IV DCT
+77C93D55	Signal Processing<--A new fast algorithm for the unified forward and inverse MDCT/MDST computation
+80E6A82C	IEEE Signal Processing Letters<--Direct transform to transform computation
+7F9A8948	IEEE Transactions on Multimedia<--A Graphical Model for Context-Aware Visual Content Recommendation
+7E68A6E2	IEEE Transactions on Signal Processing<--Computation of an odd-length DCT from a real-valued DFT of the same length
+7F77E0BA	IEEE Transactions on Signal Processing<--Restructured recursive DCT and DST algorithms
+80D10329	Meeting of the Association for Computational Linguistics<--Phrase-based statistical language generation using graphical models and active learning
+761D5749	Annals of Mathematics and Artificial Intelligence<--Learning invariant features using inertial priors
+75B26557	Cloud Computing<--Utilizing Favorites Lists for Better Recommendations
+7B64D19B	Signal Processing<--The fast DCT-IV/DST-IV computation via the MDCT
+776AFD98	Information not present<--Using Category and Keyword for Personalized Recommendation: A Scalable Collaborative Filtering Algorithm
+7D843341	IEEE Transactions on Communications<--A Fast Computational Algorithm for the Discrete Cosine Transform
+7963E765	Forensic Science International<--The evaluation of evidence in the forensic investigation of fire incidents (Part I): An approach using Bayesian networks
+7F4AA6EA	Conference on Recommender Systems<--A matrix factorization technique with trust propagation for recommendation in social networks
+809ACCE2	Computational Science and Engineering<--TagRec: Leveraging Tagging Wisdom for Recommendation
+08A0B727	Information not present<--Adaptive preference elicitation for top-K recommendation tasks using GAI-networks
+83EF0AC0	Information not present<--Multi-modal learning for video recommendation based on mobile application usage
+77988EDA	IEEE Transactions on Computers<--Fast Algorithms for the 2-D Discrete Cosine Transform
+82078F27	Artificial Intelligence<--Exploiting Local and Repeated Structure in Dynamic Bayesian Networks
+7E271971	Computer Vision and Pattern Recognition<--Integration of multiple contextual information for image segmentation using a Bayesian Network
+7D05A275	Information not present<--An study of removal of subjective redundancy in JPEG for low cost, low power, computation efficient circuit design and high compression image
+7700F7BC	Conference on Recommender Systems<--Query-driven context aware recommendation
+5E453122	European Conference on Computer Vision<--Stacked hierarchical labeling
+7F96C238	Information not present<--An EDDM based toolset
+7A1904AD	Iet Image Processing<--Recursive algorithm, architectures and FPGA implementation of the two-dimensional discrete cosine transform
+7B368C93	Bayesian Analysis<--Robust Bayesian Graphical Modeling Using Dirichlet $t$-Distributions
+7A8EB39B	Web Intelligence<--User Interest and Topic Detection for Personalized Recommendation
+7CE629CE	Journal of Computer Science and Technology<--Exploring Social Annotations with the Application to Web Page Recommendation
+8613899F	China Communications<--Point-of-interest recommendation in location-based social networks with personalized geo-social influence
+7FE3364C	IEEE Signal Processing Letters<--Comments on “Fast Radix-9 Algorithm for the DCT-IV Computation”
+7576CA59	Information not present<--A new VLSI algorithm and architecture for the hardware implementation of type IV discrete cosine transform using a pseudo-band correlation structure
+7B59C5C0	Machine Learning<--Mining Skewed and Sparse Transaction Data for Personalized Shopping Recommendation
+8105168F	International Conference on Global Software Engineering<--Integration of Design in Distributed Development Using D-Scenario Graph
+7D3C2818	IEEE Transactions on Communications<--On the Computation of the Discrete Cosine Transform
+7D10C675	IEEE Transactions on Signal Processing<--Fast algorithms for multidimensional DCT-to-DCT computation between a block and its associated subblocks

@@ -1,0 +1,55 @@
+78F9553F	The Annals of Applied Statistics<--Improving the precision of classification trees
+76EB6675	Scientific Journal of Riga Technical University. Computer Sciences<--Using Data Structure Properties in Decision Tree Classifier Design
+7DA028E8	Field-Programmable Logic and Applications<--Novel and Highly Efficient Reconfigurable Implementation of Data Mining Classification Tree
+79406A62	Computational Statistics<--Classification of repeated measurements data using tree-based ensemble methods
+7EAD4110	IEEE Transactions on Systems, Man, and Cybernetics<--A survey of decision tree classifier methodology
+80AD4E0F	Information not present<--Fuzzy clustering and decision tree learning for time-series tidal data classification
+7E8F41FE	Computational Statistics & Data Analysis<--Supervised classification using probabilistic decision graphs
+74C25125	Information not present<--Ensemble Learning with Decision Tree for Remote Sensing Classification
+5E26543C	Information not present<--An Approach to the Design of a Linear Binary Tree Classifier
+7FB04BF9	IEEE Transactions on Neural Networks<--Classification trees with neural network feature extraction
+7900D934	Information not present<--Improved classification of soil salinity by decision tree on remotely sensed images
+80DFDDF3	Computational Statistics & Data Analysis<--A note on split selection bias in classification trees
+25F1BD95	Information not present<--Decision Tree による学習を利用したプリント基板上の故障箇所推定
+7C51731F	Geochimica et Cosmochimica Acta<--Comment on ``Tectonic classification of basalts with classification trees'' by Pieter Vermeesch (2006)
+7767905F	Knowledge Discovery and Data Mining<--Instability of decision tree classification algorithms
+757153C9	IEEE Transactions on Geoscience and Remote Sensing<--The decision tree classifier: Design and potential
+8020CD31	International Geoscience and Remote Sensing Symposium<--Classification of urban areas at continental scales using remotely sensed data
+80DCAAC2	Substance Use & Misuse<--Using Decision Tree Analysis to Identify Risk Factors for Relapse to Smoking
+75542B44	Journal of Statistical Planning and Inference<--Assessing the stability of classification trees using Florida birth data
+79D84E5F	International Journal of Remote Sensing<--The use of SPOT VEGETATION data in a classification tree approach for burnt area mapping in Australian savanna
+7E53AC45	Remote Sensing of Environment<--National Park vegetation mapping using multitemporal Landsat 7 data and a decision tree classifier
+7E1558B9	Information not present<--Best-first Decision Tree Learning
+838AECE6	Information not present<--Decision Tree를 이용한 선에코 탐지 방법에 대한 연구
+74267BE0	European Conference on Principles of Data Mining and Knowledge Discovery<--Bloomy Decision Tree for Multi-objective Classification
+7ABDCCD6	Journal of Critical Care<--Risk of in-hospital mortality identified according to the typology of patients with acute heart failure: Classification tree analysis on data from the Acute Heart Failure Database–Main registry
+7DD171A0	Computational Statistics & Data Analysis<--Unbiased split selection for classification trees based on the Gini Index
+7683DF85	Remote Sensing of Environment<--Wetland monitoring using classification trees and SPOT-5 seasonal time series
+7C8CCCB4	Remote Sensing<--A New Method for Modifying Thresholds in the Classification of Tree Models for Mapping Aquatic Vegetation in Taihu Lake with Satellite Images
+77DF6B2E	Information not present<--A new approach of Boosting using decision tree classifier for classifying noisy data
+7C66892E	IEEE Transactions on Pattern Analysis and Machine Intelligence<--An iterative growing and pruning algorithm for classification tree design
+79BCE1C3	International Conference on Data Mining<--Optimizing land use classification using decision tree approaches
+7A88004A	Water Research<--A comparison of ARA and DNA data for microbial source tracking based on source-classification models developed using classification trees
+5FE9C8DA	International Conference on Data Mining<--Functional trees for classification
+75087187	Sensors<--A Method for Application of Classification Tree Models to Map Aquatic Vegetation Using Remotely Sensed Images from Different Sensors and Dates
+76CDF761	Engineering Applications of Artificial Intelligence<--Application of an enhanced decision tree learning approach for prediction of petroleum production
+7AF08408	Data Mining and Knowledge Discovery<--Flexible decision tree for data stream classification in the presence of concept change, noise and missing values
+5A874781	Information not present<--A Modified Decision Tree Algorithm for Uncertain Data Classification
+79931D06	Journal of Environmental Management<--Remote sensing of aquatic vegetation distribution in Taihu Lake using an improved classification tree with modified thresholds
+7E4C6FAC	International Conference on Data Mining<--Lazy Associative Classification
+7598242E	Marketing Science<--Model Selection Using Database Characteristics: Developing a Classification Tree for Longitudinal Incidence Data
+58772DB1	European Conference on Principles of Data Mining and Knowledge Discovery<--Efficient Multisplitting on Numerical Data
+5FC3D117	Information not present<--Predictive Classification Trees
+75881784	IEEE Transactions on Knowledge and Data Engineering<--Focal-Test-Based Spatial Decision Tree Learning
+589C9711	Computers and The Humanities<--Using Semantic Classification Trees for WSD
+5D25C398	Pacific-Asia Conference on Knowledge Discovery and Data Mining<--A Scalable Algorithm for Rule Post-pruning of Large Decision Trees
+78504EB4	Pattern Recognition Letters<--Flexible nonlinear contextual classification
+560B2421	Ecological Indicators<--Applying remote sensing techniques to monitoring seasonal and interannual changes of aquatic vegetation in Taihu Lake, China
+77531D91	Child Abuse & Neglect<--Factors associated with caregiver stability in permanent placements: A classification tree approach
+7887D583	IEEE Transactions on Pattern Analysis and Machine Intelligence<--An Automated Approach to the Design of Decision Tree Classifiers
+7E7B8D13	IEEE Transactions on Nanobioscience<--Rule generation for protein secondary structure prediction with support vector machines and decision tree
+03F42860	Artificial Intelligence and Computational Intelligence<--An improved decision tree algorithm using rough set theory in clinical decision support system
+58DC2B3C	Information not present<--Shared Ensemble Learning Using Multi-trees
+6A1B7A68	Data Mining and Knowledge Discovery<--Automatic Construction of Decision Trees from Data: A Multi-Disciplinary Survey
+7F7B7733	Information not present<--Classification tree Sources
+80B879CA	International Joint Conference on Artificial Intelligence<--Hybrid learning using genetic algorithms and decision trees for pattern classification
