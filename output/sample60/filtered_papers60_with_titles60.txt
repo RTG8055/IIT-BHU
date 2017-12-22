@@ -1,0 +1,13 @@
+76327740	Compositional semantics for composable continuations: from abortive to delimited control
+7735DDD5	Recovery semantics for a DB/DC system
+7813871D	Strong normalization from an unusual point of view
+7C9BB964	When Two Sensory Modes are Better Than One
+7EFE6622	Call-by-value Solvability
+78E10214	Call-by-push-value: Decomposing call-by-value and call-by-name
+7ABBD4E7	Declarative event-oriented programming
+756A4550	Recovery scenario for a DB/DC system
+7F1EF40E	Linear logic, monads and the lambda calculus
+782EB1EB	The duality of computation
+80D08EDA	A reactive extension of the OpenMusic visual programming language
+7FA0A8BC	When auditory presentations should and should not be a component of multimedia instruction
+7DEBD3B9	Proofs, tests and continuation passing style

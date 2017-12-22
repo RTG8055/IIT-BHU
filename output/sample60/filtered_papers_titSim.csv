@@ -1,0 +1,14 @@
+Paper ID,Title,Sim1,Sim2
+76327740,"Compositional semantics for composable continuations: from abortive to delimited control",0.123421717172,0.15625
+7735DDD5,"Recovery semantics for a DB/DC system",0.0998106060606,0.102777777778
+7813871D,"Strong normalization from an unusual point of view",0.109325396825,0.112433862434
+7C9BB964,"When Two Sensory Modes are Better Than One",0.116964285714,0.238095238095
+7EFE6622,"Call-by-value Solvability",0.116964285714,0.142857142857
+78E10214,"Call-by-push-value: Decomposing call-by-value and call-by-name",0,0
+7ABBD4E7,"Declarative event-oriented programming",0.0926677489177,0.125
+756A4550,"Recovery scenario for a DB/DC system",0.110227272727,0.116666666667
+7F1EF40E,"Linear logic, monads and the lambda calculus",0.104861111111,0.107638888889
+782EB1EB,"The duality of computation",0.125405844156,0.142857142857
+80D08EDA,"A reactive extension of the OpenMusic visual programming language",0.157242063492,0.162037037037
+7FA0A8BC,"When auditory presentations should and should not be a component of multimedia instruction",0.141964285714,0.181991341991
+7DEBD3B9,"Proofs, tests and continuation passing style",0.133630952381,0.114896214896

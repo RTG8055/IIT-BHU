@@ -1,0 +1,22 @@
+*vertices 13
+1 76327740 0.0 0.0 ellipse
+2 7735DDD5 0.0 0.0 ellipse
+3 7813871D 0.0 0.0 ellipse
+4 7C9BB964 0.0 0.0 ellipse
+5 7EFE6622 0.0 0.0 ellipse
+6 78E10214 0.0 0.0 ellipse
+7 7ABBD4E7 0.0 0.0 ellipse
+8 756A4550 0.0 0.0 ellipse
+9 7F1EF40E 0.0 0.0 ellipse
+10 80D08EDA 0.0 0.0 ellipse
+11 782EB1EB 0.0 0.0 ellipse
+12 7FA0A8BC 0.0 0.0 ellipse
+13 7DEBD3B9 0.0 0.0 ellipse
+*arcs
+1 11 1.0
+2 8 1.0
+3 5 1.0
+6 9 1.0
+10 7 1.0
+12 4 1.0
+13 11 1.0
