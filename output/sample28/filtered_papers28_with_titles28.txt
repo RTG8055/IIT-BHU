@@ -1,0 +1,1055 @@
+5EAF44BC	A Ravenscar-Compliant Run-Time Kernel for Safety-Critical Systems
+770A3134	Implementing a distributed fault-tolerant embedded system in Ada
+7BD9B746	The building blocks for specifying communication behavior of complex objects: an activity-driven approach
+0AE76C07	Inheritance-Based Metric for Complexity Analysis in Object-Oriented Design
+72974E11	Systematic review and meta-analysis on the nonsurgical treatment of chronic periodontitis by means of scaling and root planing with or without adjuncts.
+7862DC3E	Balancing flexibility and performance in three dimensional meshing tools
+7B8983F1	Preventive Oral Health Care in Early Childhood: Knowledge, Confidence, and Practices of Pediatricians and Family Physicians in Florida
+7AAC52F7	A case study: productivity and quality gains using an object‐oriented framework
+7AB89FB6	Application of Ada on a distributed missile control system
+7AE501B1	Requirements of an object-oriented design method
+75E0A136	Diagnosis of immunodeficiency caused by a purine nucleoside phosphorylase defect by using tandem mass spectrometry on dried blood spots
+7CC9C018	A clone-based graphical modeler and mathematical model generator for optimal production planning in process industries
+79951B8B	Strategies in object-oriented design
+594930BF	Object Oriented Design Expertise Reuse: An Approach Based on Heuristics, Design Patterns and Anti-patterns
+7EEED6E0	A controlled experiment for evaluating quality guidelines on the maintainability of object-oriented designs
+7FB7031B	Analyzing systems for object oriented design
+76A6F2A6	Adenosine deaminase in rodent median eminence: detection by antibody to the mouse enzyme and co-localization with adenosine deaminase-complexing protein (CD26)
+8092AE76	Evolving an integrated curriculum for object-oriented analysis and design
+7955A95B	MODeLeR: multimedia object design learning resource
+75A28CC1	Identifying novice difficulties in object oriented design
+7D25A19C	Dyslipidemia in Youth with Diabetes: To Treat or Not to Treat?
+7FD6FD6A	Mapping Software Design Changes to Source Code Changes
+80FFC3EF	Clinical and immunological manifestations of patients with atypical severe combined immunodeficiency
+0B2CD14F	Round-Trip Software Engineering Using UML: From Architecture to Design and Back
+811331AB	Functional refinement and nested objects for object-oriented design
+7DDC8215	An Evaluation of the Dynamic and Static Multiprocessor Priority Ceiling Protocol and the Multiprocessor Stack Resource Policy in an SMP System
+5F2FE306	Object-Oriented Design Patterns
+78E6DEB5	The Adenosine Deaminase Gene Polymorphism Is Associated with Chronic Heart Failure Risk in Chinese
+7A09CF12	Reusing design experiences to materialize software architectures into object-oriented designs
+78EB92FB	Demonstrational and constraint-based techniques for pictorially specifying application objects and behaviors
+80171ECE	Distributed Expert System Architecture for Automatic Object-Oriented Software Design
+7A9076C5	Understanding object-oriented: a unifying paradigm
+799212C4	Measuring design complexity of semantic web ontologies
+7E275FA1	Introducing and practically using an object oriented design automation/prototyping tool
+048F00BC	Principles and Patterns in the Object Oriented Design
+7F622E2F	Use and interpretation of diagnostic vaccination in primary immunodeficiency: A working group report of the Basic and Clinical Immunology Interest Section of the American Academy of Allergy, Asthma & Immunology
+7F03C616	Rapid prototyping through graphical operational specification and automated code generation
+7D87AD9A	A new object-oriented finite element analysis program architecture
+7A74B430	An electrochemiluminescence (ECL)-based assay for the specific detection of anti-drug antibodies of the IgE isotype
+5ADC727F	Automated Software Evolution via Design Pattern Transformations
+79CD3013	Process-translatable Petri nets for the rapid prototyping of process control systems
+754A9E0F	Object-oriented design processes of electronic commerce in a multi-agent environment
+81542FC9	Comparing architectural design styles
+7CFD04E0	A rule-based software test data generator
+7DB24434	Object-Oriented Design Patterns for Detailed Design
+75D7948A	Hilbert class library: A library of abstract C++ classes for optimization and inversion
+7E4D9EA1	Normalization of object-oriented design
+76F8B3E0	Taming access control security: extending capabilities using the views relationship
+7BD17397	Allogeneic hematopoietic cell transplantation for primary immune deficiency diseases: Current status and critical needs
+77421528	The interpretation and utility of three cohesion metrics for object-oriented design
+803FA931	From bench-top to chair-side: how scientific evidence is incorporated into clinical practice.
+7F2F9235	Integrating architecture description languages with a standard design method
+7F62DF4A	An undergraduate course in object-oriented software design
+7C1DFEA0	A laboratory for teaching object oriented thinking
+5B1516D4	Reflections on CRC cards and OO design
+80D3B796	Checking Model Consistency Using Data-Flow Testing
+80C9EE88	Experience in modeling a concurrent software system using STATEMATE
+7A40DE33	Cognitive and behavioral abnormalities in adenosine deaminase deficient severe combined immunodeficiency
+7D29AFDC	The design-methods comparison project
+8029F356	Solving programming problems in intelligent programming tutors for teaching the object-oriented programming paradigm
+59D786F7	View Integration of Object Life-Cycles in Object-Oriented Design
+7EC81F83	OO design patterns, design structure, and program changes: an industrial case study
+751AD080	A methodology for deriving an object-oriented design from functional specifications
+7DD65A41	Modulation of neuroimmunity by adenosine and its receptors: Metabolism to mental illness
+8020A0DD	Analysis goal expression language
+5BC13747	What is an object, after all?
+5D68481C	The OCoN Approach to Workflow Modeling in Object-Oriented Systems
+80A9CFB5	Obj ect-Oriented D e sign Archaeology with CIA
+7569640F	Integrating structured OO approaches with formal techniques for the development of real-time systems
+062BD13B	From Requirements to Tests via Object-Oriented Design
+7F9E1FC4	Detection strategies: metrics-based rules for detecting design flaws
+800A23E4	Investigation of metrics for object-oriented design logical stability
+76D693E0	Creating graphical interactive application objects by demonstration
+7E119051	A method of concurrent object-oriented design using high-level Petri nets
+80DD50D7	Specifying Ada server tasks with executable formal grammars
+7D7BCE21	Activity of the enzyme adenosine deaminase in serum, erythrocytes and lymphocytes of rats infected with Trypanosoma evansi
+7BACD0EF	Axioms and proof rules for Ada tasks
+793257FB	Automating the analysis of design component contracts
+80ADA81C	A metrics suite for object oriented design
+7B86871D	ESFM: An Essential Software Framework for Meshfree Methods
+76B851EC	Beyond standards: reaching usability goals through user participation
+5A01F95F	Formalizing UML Models with Object-Z
+7D190B43	Design properties and object-oriented software changeability
+2EB99AF3	Heterogeneous Data Structures and Cross-Classification of Objects with Ada 95
+5A53F517	Real-Time Object-Oriented Design and Formal Methods
+5CBB9C34	Student Modeling with Atomic Bayesian Networks
+73FED56B	Evaluating the impact of object-oriented design on software quality
+5AF4603F	A Formal Model of Object-Oriented Design and GoF Design Patterns
+7A643B8F	Template for a system design file using OODPM version 5.0
+7BA54962	A systematic approach for implementing fault tolerant software designs in Ada
+7FA13904	Modeling inheritance anomaly in concurrent systems using colored Petri nets
+766BC29B	A tutorial and review of object-oriented design of manufacturing software systems
+7E38EB70	A component-based approach to building formal analysis tools
+7EA0C25E	Realization of an Ada architecture for heterogenous distributed embedded processors
+7D8349EC	Engineering software design processes to guide process execution
+5DAA029C	Object Oriented Design Measurement
+7E121ACD	Defining and validating measures for object-based high-level design
+7B07BDD5	Array representation in symbolic execution
+7818D09A	Towards complexity metrics for Ada tasking
+7EF36BA3	Extending UML-RT for Control System Modeling
+7A22AEAC	Design property metrics to maintainability estimation: a virtual method using functional relationship mapping
+0292D41B	Impact of Impaired Fasting Glucose on Cardiovascular Disease: The Framingham Heart Study
+7D1162B1	Towards a semantic metrics suite for object-oriented design
+0221FA63	Pre-Diabetes and the Risk for Cardiovascular Disease: A Systematic Review of the Evidence
+5A4F9279	Object Oriented Design Knowledge: Ontology and Measurement of Impact
+7258F1F4	Measuring coupling and cohesion: an information-theory approach
+79AD7EEB	An investigation into coupling measures for C++
+7D8323FB	An answer to FMS complexity: Object-oriented approach
+7E8FB4B6	Notes on notes on postmodern programming: radio edit
+8177EE79	A formal description of design patterns using OWL
+5C4DD183	An Investigation into the Applicability and Validity ofObject-Oriented Design Metrics
+7B8DAC9C	An object-oriented design system shell
+7D9067C3	An evaluation of the MOOD set of object-oriented software metrics
+58BFE9D5	An object oriented real-time database storage scheme armed with dual efficient indexes
+7866F3C3	An organized, devoted, project-wide reuse effort
+7B97828F	Type 1 diabetes, metabolic syndrome and cardiovascular risk
+5CD12EEC	Object-Oriented Design Structures in Web Application Models
+8131B024	An empirical methodology for introducing software processes
+8160AB33	An evaluation of applying use cases to construct design versus validate design
+767F849B	Dentists’ levels of evidence-based clinical knowledge and attitudes about using pit-and-fissure sealants
+7E017F8E	Reuse in software engineering: an object-oriented perspective
+8135E763	Design Framework for Self-Stabilizing Real-Time Systems Based on Real-Time Objects and Prototype Implementation with Analysis
+598ED80B	A specification language for object-oriented analysis and design
+76EB9F9F	Upper limit of fasting plasma glucose level defined by oral glucose tolerance test in Japanese subjects
+803E2456	Lightweight Analysis of Object Interactions
+75108247	Active information systems, from object-oriented design to Ada 95
+775DDE57	Towards the design and development of a new architecture for Geographic Information Systems
+7D756C7D	On the use of Ada in computer-aided engineering
+7AA225BD	Adapting an object-oriented development method
+8090C677	Quality of Service Negotiation in Next Generation Networks
+61C25C90	Formal use of design patterns and refactoring
+7F88BAFF	An object-oriented design paradigm for standard CMOS fabrication technology
+5B563F9B	Some Architectural Features of Ada Systems Affecting Defects
+6E4498D0	Identification of checkpoints in human T-cell development using severe combined immunodeficiency stem cells
+790C96D2	Neonatal screening for severe combined immunodeficiency caused by an adenosine deaminase defect: A reliable and inexpensive method using tandem mass spectrometry
+7E4315DF	Design of a framework for electronic commerce brokers
+588152A9	OOD Frameworks in Component-Based Software - Development in Computational Logic
+7EEA0498	Indicators of Structural Stability of Object-Oriented Designs: A Case Study
+6D651AE0	Correct OO Systems in Computational Logic
+7594F32E	Ada in distributed systems: an overview
+7E5AACC5	Traceability and modularity in software design
+801FBF27	An object-oriented modelling approach to system software design
+78117ED5	A Precise Method-Method Interaction-Based Cohesion Metric for Object-Oriented Classes
+72436751	Embedding object-oriented design in system engineering
+755744F2	Framework based on design patterns for providing persistence in object-oriented programming languages
+77ECE23A	Deploying expert systems in Ada
+7ED6016A	Reusing a distributed object domain framework
+7EF31E73	GAME: an object-oriented approach to computer animation in flexible manufacturing system modelling
+7F5CD4D8	The Importance of Anti-Discrimination and Workers’ Compensation Laws on the Provision of Workplace Accommodations Following the Onset of a Disability
+78A4D501	RAPID: a free, portable GUI design tool
+585076CA	Behavioural subtyping using invariants and constraints
+811473D4	An object-oriented approach for implementing power system restoration package
+77A8E059	Object-oriented design of preconditioned iterative methods in diffpack
+7708766A	On the use of genetic programming for automated refactoring and the introduction of design patterns
+7F754DFF	Quantifying the quality of object-oriented design: the factor-strategy model
+7C91828F	Identification of Move Method Refactoring Opportunities
+7464D108	Implementing Multicore Real-Time Scheduling Algorithms Based on Task Splitting Using Ada 2012
+77878B24	ANNA: Towards a language for annotating Ada programs
+7B027B55	Agents in object-oriented software engineering
+7CE20D96	Design of class hierarchies based on concept (Galois) lattices
+80FF9959	A software complexity perspective on nondeterminism used to support intertask communication
+7E582FD6	Designing an object-oriented structure for crop models
+75BCE85C	An analysis of the effects of ramp slope on people with mobility impairments.
+75488E83	Beyond ASIS: program data bases and tool-oriented queries
+049EFA15	Object-Oriented Design Pattern: Access Protector
+5E23E39F	Using Declarative Metaprogramming To Detect Possible Refactorings
+5DA9F57E	Accessible IT for People with Disabilities: HR Considerations
+66D0F16B	Principles in formal specification of object oriented design and architecture
+03D38552	A Framework for Object-Oriented Shader Design
+79F9671E	Roles for composite objects in object-oriented analysis and design
+62D22D92	The effect of test-driven development on program code
+60DE187F	Extending UML for Object-Relational Database Design
+7FC80D0F	Concurrent simulation with entity life modeling: an airport simulator using Ada
+7F866D11	A change prediction model for embedded software applications
+7A063B6F	Object-oriented design of a cotton crop model
+5C42FDF4	Obfuscating Java: the most pain for the least gain
+7DEB2558	Extensible multimedia document player
+7CFE7488	An object-oriented methodology for the design of control software for flexible manufacturing systems
+306C68E2	Towards a formal semantics for Ada 9X
+7EADB485	Building object-oriented simulations with C++
+5C086E5E	Meta Patterns - A Means For Capturing the Essentials of Reusable Object-Oriented Design
+5D646ED5	The use of an object repository in the configuration of control systems at CERN
+79731FE2	Implementing generic, object-oriented models in biology
+08660FF1	An empirical study of overriding in open source Java
+7FD9718A	Automating the development of pattern-oriented designs for application specific software systems
+7EB98AAE	BATCES solution #2: a simplified SA/OOD approach
+7F08E1B5	A class of programming language mechanisms to facilitate multiple implementations of the same specification
+5BEAC71A	Refactoring and Aggregation
+7F09E9D0	A group critic system for object-oriented analysis and design
+7AA46D07	The object-oriented software development method: a practical approach to object-oriented development
+7EE43A69	Cognitive activities of abstraction in object orientation: an empirical study
+76298155	An object-oriented library for hierarchical animation sequences
+77178AA8	The design and development of embedded Ada systems
+01C184A3	Oral bisphosphonate use and the prevalence of osteonecrosis of the jaw: An institutional inquiry
+78BC582C	A comparison of the concurrency features of Ada 95 and Java
+79D40A99	The when, why and why not of the BETA programming language
+0C49FE0D	AN EMPIRICAL METHOD FOR MEASURING THE EFFECTIVENESS OF AN OBJECT-ORIENTED DESIGN PROCESS
+5D4F2422	Distributed Object Oriented Data Structures and Algorithms for VLSI CAD
+7D45C6FA	Evolution support by homogeneously documenting patterns, aspects and traces
+7F9D9D6A	TRW's Ada process model for incremental development of large software systems
+08617382	A Comparison of Ada 83 and C++
+7E58BA39	A Family of Reading Techniques for OO Design Inspections
+7705CBF4	A framework for evaluating the effectiveness of real-time object-oriented models
+457155DC	Primary immunodeficiency update: Part II. Syndromes associated with mucocutaneous candidiasis and noninfectious cutaneous manifestations
+76418A77	European air traffic flow management: porting a large application to GNU/linux
+774AFF7D	Profiling in an object-oriented design environment that supports Ada 9X and Ada 83 code generation
+7CB23097	SUPPORTING TOOL FOR OBJECT ORIENTED DESIGN OF REAL TIME APPLICATIONS
+5D1AEDA5	Automatic Serialization of Dynamic Structures in Ada
+80574650	Sources of unbounded priority inversions in real-time systems and a comparative study of possible solutions
+76894CE6	Host natural killer immunity is a key indicator of permissiveness for donor cell engraftment in patients with severe combined immunodeficiency.
+78F59291	The effects of individual differences on CS2 course performance across universities
+75B2D876	The evolution and impact of code smells: A case study of two open source systems
+79C2F1E3	Combining tasking and transactions, part II: open multithreaded transactions
+8053D160	A Metric-Based Heuristic Framework to Detect Object-Oriented Design Flaws
+7DDBC739	Solving the Class Responsibility Assignment Problem in Object-Oriented Analysis with Multi-Objective Genetic Algorithms
+59F82615	Using patterns for design and documentation
+7EFE46DA	Producing relational database schemata from an object oriented design
+76C9F35E	Facilitating software extension with design patterns and Aspect-Oriented Programming
+76C01C1A	Object-oriented design: exception handling and copying
+769FB74F	Ada 95 as implementation language for object-oriented designs
+7E19E623	ADTEST: a test data generation suite for Ada software systems
+7D98C9D9	Assessing the quality of abstract data types written in ADA
+7690EE46	The AdaPIC tool set: supporting interface control and analysis throughout the software development process
+767C3813	Recognition, pathogenesis, and treatment of different stages of nephropathy in patients with type 2 diabetes mellitus.
+7D526AC5	Seamless visual object-oriented behavior modeling for distributed software systems
+5D35E048	Software Tools for Partitioning Block-Structured Applications
+77830F0B	Accessing delay queues
+756C44DD	Adaptive Detection of Design Flaws
+7E67E534	Empirical Analysis of Object-Oriented Design Metrics for Predicting High and Low Severity Faults
+7FD80FED	On the inevitable intertwining of analysis and design: developing systems for complex cooperations
+7D689335	C++ classes for linking optimization with complex simulations
+752D2BBA	Real-time programming on accelerator many-core processors
+5FD46D2B	An approach to teaching object oriented design in CS2
+778F1235	B Cell Function in Severe Combined Immunodeficiency after Stem Cell or Gene Therapy: A Review
+01580D6D	On Aspect-Oriented Technology and Object-Oriented Design Patterns
+5A269260	MODeLeR: A Virtual Constructivist Learning Environment and Methodology for Object-Oriented Design
+79916FCC	Surveying current research in object-oriented design
+79BD2301	Metrics for class cohesion and similarity between methods
+7B155C72	Client/Server computing: is this the future direction for the clinical laboratory?
+77D1843D	An Ada code generator for VAX 11/780 with Unix
+7E587FD5	Using Function Generalization to Design a Cosequential Processing Framework
+26E8FF6A	Did the ADA Evolve into Our Ramp to Full Employment? An Analysis of 18 Years of the Americans with Disabilities Act
+76BE1F47	Designing a product family of meshing tools
+814993F4	Analyzing partially-implemented real-time systems
+7E72ADB9	Formal verification of Ada programs
+75AA6A67	A formal model for verifying compound design patterns
+7A0CB907	eCSedtrend: A new software to improve sediment trend analysis
+7E86B885	On the applicability of Weyuker Property 9 to object-oriented structural inheritance complexity metrics
+7B4B23D5	An empirical study of cycles among classes in Java
+78A0F2F8	Management options for adenosine deaminase deficiency; proceedings of the EBMT satellite workshop (Hamburg, March 2006)
+81095694	An object-oriented approach to dialogue management in spoken language systems
+7865FD70	Design with objects: an approach to object-oriented design
+785D65BF	A controlled experiment investigation of an object-oriented design heuristic for maintainability
+7AA43A18	Comparative Study of Workplace Policy and Practices Contributing to Disability Nondiscrimination
+8079AFDA	Reusing object oriented design: An algebraic approach
+751422C9	Adaptive Erkennung von Software-Entwurfsmängeln
+8161DCFA	Automated verification of code automatically generated from Simulink®
+7C3F5631	The Charrette Ada compiler
+7787F3AB	Integration of a 1-D river model with object-orientated methodology
+764CD37A	Does size matter?: a preliminary investigation of the consequences of powerlaws in software
+75CAF422	Object-oriented programming with mixins in Ada
+7ECF5037	Tool support for the construction of statically analysable hard real-time Ada systems
+76402E6E	Dental procedures and subsequent prosthetic joint infections
+75860446	Applying object-oriented concepts to documentation
+7EF18EDB	Hardware support for efficient execution of Ada tasking
+801F3241	Antimicrobial Prophylaxis in Adults
+056C8408	Object Oriented Design with Applications; Benjamin/Cummings
+784B76F3	Measuring design complexity: an inherited method perspective
+7D754364	The State of the Science of Employment and Economic Self-Sufficiency for People With Intellectual and Developmental Disabilities
+7998460B	Requirements analysis for large Ada programs: lessons learned on CCPDS-R
+7C5C021C	Beyond objects: a software design paradigm based on process control
+7FAF4F5F	Testing generic Ada packages with APE
+809A6947	Graph library design
+5CBF4D72	An Inductive Method For Discovering Design Patterns From Object-Oriented Software Systems
+7EFF707A	Formally specifying the logic of an automatic guidance controller
+76B954ED	Transitioning from structured analysis to object-oriented design
+793EEA1A	On the accuracy of predicting rate monotonic scheduling performance
+7715BE46	Transforming an Imperative Design into an Object-Oriented Design
+7E3716D0	Managerial use of metrics for object-oriented software: an exploratory analysis
+7DC2FD7E	A java API for historical ciphers: an object-oriented design project
+7BD1E840	Design of a communication system for a real-time C 2 simulator
+0295A3EA	Extending UML to Visualize Design Patterns In Class Diagrams
+8025D774	Product metrics for automatic identification of "bad smell" design problems in Java source-code
+083EFC30	Towards Advising Design Patterns Application through Interface Agents
+7E8403BB	Experience with the development of hard real-time embedded Ada software
+77A9DC23	Coping with Abstraction in Object Orientation with a Special Focus on Interface Classes
+5A74AC76	Assessing Inheritance for the Multiple Descendant Redefinition Problem in OO Systems
+780202A4	Assisting novice software designers by an expert designer agent
+7687BA7E	Comments on "Critical races in Ada programs
+7AEBEB6B	Automated verification of design patterns: A case study
+74E86518	Coupling metrics for object-oriented design
+7F8F8A2A	An Empirical Validation of Object-Oriented Design Metrics for Fault Prediction
+7DE7EC8A	Evaluating object-oriented designs with link analysis
+5A9D06C6	On Object-Oriented Design and Verification
+5E69D2FF	An Interactive 3D Graphics Class Library in EIFFEL
+7F349453	The Semantics of Ada Access Types (Pointers) in the State Delta Verification System (SVDS).
+7B8B79EA	On design of element evaluators in OOFEM
+76B76735	Mathematical assessment of object-oriented design quality
+800FB406	Proposals for Enhancement for the Ada Programming Language: A Software Engineering Perspective
+79653017	Toward a general object-oriented software development methodology
+813E4914	Intelligent Support for Retrieval and Synthesis of Patterns for Object-Oriented Design
+7EC053DE	Object-Oriented Design of Information Systems: Troll Language Features
+80212C28	Modeling and managing risk early in software development
+049976A5	Patterns for Encapsulating Class Trees
+7EF37569	Contract-Based Data Structure Repair Using Alloy
+788329F0	Advances in basic and clinical immunology in 2011
+7E7C63FA	Object oriented design for a distributed priority queue
+7EF25057	Specifying Java Card API in OCL
+8142A8DD	UML class diagram metrics tool
+5FF4E52E	A visual language for design pattern modelling and instantiation
+7ADF8F1D	Design Patterns: Abstraction and Reuse of Object-Oriented Design
+70D601F5	Class inheritance metrics-an analytical and empirical approach
+70FE38AF	Using a maze case study to teach: object-oriented programming and design patterns
+7EBA0BD2	A Qualitative Evaluation of a Software Development and Re-Engineering Project
+8138A8C2	Analysis of quality of object oriented systems using object oriented metrics
+79AD3FAD	An annotated bibliography for object-oriented analysis and design
+80765C95	Predicting the probability of change in object-oriented systems
+59FD3E20	Ada for multi-microprocessors
+7B3C14A9	The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints
+5FE09E5B	G++: An Environment for Object-Oriented Design and Prototyping of Manufacturing Systems
+7DFFF9D5	Models for Improving Software System Size Estimates during Development
+7CB7F8D7	Modeling software architectures in the Unified Modeling Language
+7E435EBF	On the implementation of OOD frameworks in COM
+04A52260	The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners—a report of the American Dental Association Council on Scientific Affairs
+7F8F95EE	Debugging concurrent Ada programs by deterministic execution
+7E8F9CAF	Correct Object-Oriented Systems in Computational Logic
+0448E0BA	An Immersive Tool for Wide-Area Collaborative Design
+799D297C	Applicability of Weyuker Property 9 to Object-Oriented Inheritance Tree Metric-A Discussion
+78DA7F33	Revising cohesion measures by considering the impact of write interactions between class members
+5867AD84	A relational model for object-oriented designs
+7ACE542E	Ada training evaluation and recommendation
+7A2EB76A	Inducible repair of alkylated DNA in microorganisms.
+59A354E2	A graphical environment for GLADE
+7B07BAE5	Application of neural networks for software quality prediction using object-oriented metrics
+76A0F499	Investigating quality factors in object-oriented designs: an industrial case study
+75769777	Incremental software test approach for DOD-STD-2167A Ada projects
+7FE39BEA	Object-oriented design of decision support systems in natural resource management
+7CD894BA	Modeling and schedulability analysis in the development of real-time distributed Ada systems
+7DEB92FA	Improved 3D coupled calculations of the structural-dynamic behavior of induction furnaces excited by electromagnetic forces using adaptive algorithms
+78A98D88	An open software architecture for virtual reality interaction
+7DA70139	Mapping State Diagram To Petri Net : An Approach To UseMarkov Theory For Analyzing Non-Functional Parameters
+7D326E99	An initial comparison of software and engineering designs of automotive cruise control systems
+81161A1C	Some optimal object-based architectural features for corrective maintenance
+809A9BCE	Eco-problem solving for containers stacking
+78EF9A6A	Metric based testability model for object oriented design (MTMOOD)
+7DB2DA42	LAPACK++: A design overview of object-oriented extensions for high performance linear algebra
+809C2B96	On analysis of design component contracts: a case study
+5F776D23	Assessing the Changeability of two Object-Oriented Design Alternatives—a Controlled Experiment
+745AD852	Building a predictable avionics platform in Ada: a case study
+7AFCA034	Investigating the Role of Use Cases in the Construction of Class Diagrams
+007F9767	Experiences using Design Patterns to Reorganize an Object-Oriented Application
+8061333A	Design Pattern Detection Using Similarity Scoring
+812016B3	Identifying objects in legacy systems
+7AD6EF77	Hardware-In-the-Loop (HIL) simulation: an application of Colbert's object-oriented software development method
+7D8D9C37	Formal foundations for object-oriented data modeling
+5B6BD8A8	Service-Oriented Context-Awareness and Context-Aware Services
+75F92DC1	Object-oriented programming in control system design: a survey
+78E4E984	Metrics for applying GOF design patterns in refactoring processes
+7A63D913	Formal specification and verification of Ada software
+756479D0	Control structure diagrams for Ada 95
+5B57116F	Role-play and Use Case Cards for Requirements Review
+7BC3969E	TCOL Ada and the “Middle End” of the PQCC Ada compiler
+7CEF1E77	An analyzable annotation language
+843CAF51	Encapsulating interactive behaviors
+74707DC0	An empirical study on object-oriented metrics
+7D421C35	HyM: a hybrid methodology for the development of integrated hybrid intelligent information systems
+023BABD8	Mapping HRT-HOOD® designs to Ada 95 hierarchical libraries
+765B7DCB	Separation of concerns in compiler development using aspect-orientation
+7C8890E6	Primary Immune Deficiency Treatment Consortium (PIDTC) report
+760DED29	Beyond Legal Compliance: Communities of Advocacy That Support Accessible Online Learning
+759047BA	Resource modeling for the integration of the manufacturing enterprise
+80388B32	Modeling and visualizing object-oriented programs with Codecharts
+7DDC4C13	Language-oriented reusability
+0B71570F	Automated Design Improvement by Example
+08930DEA	Artificial Intelligence (AI) and Ada: Integrating AI with Mainstream Software Engineering
+5ECCE48A	Object-Oriented Design of Information Systems: Theoretical Foundations
+739712CF	Support for object-oriented testing
+8104AAB8	Measurement and quality in object-oriented design
+7F86828E	Testing object‐oriented software: a survey
+771E020E	rCOS: a refinement calculus of object systems
+588AEAD0	Rapid Development of Modular Dynamic Web Sites Using UML
+6D8991A0	Design pattern recovery in object-oriented software
+790C20C2	A concurrency analysis tool suite for Ada programs: rationale, design, and preliminary experience
+78A451DF	Refinement and verification in component-based model-driven design
+5916490B	Inheritance as a Conceptual Primitive
+5B57C7E4	Probabilistic evaluation of object-oriented systems
+7EB29904	Towards a Valid Metric for Class Cohesion at Design Level
+08337F23	A Class Cohesion Metric For Object-Oriented Designs
+59300DF4	A framework supporting the utilization of domain knowledge embedded in software
+79AE4EA8	Industrial experience with SPARK
+7A271861	An object-oriented simulation framework for real-time control of automated flexible manufacturing systems
+807074B0	Selecting and mapping test sequences from formal specifications of concurrent programs
+7990C753	Metrics to study symptoms of bad software designs
+803F0BA3	A new approach to module-oriented design of OO software
+7FCAA1B5	Architectural Design Methodologies for Complex Evolving Systems
+5C3DF6FD	Graphical Design Support for DCE Applications
+7F0E52B8	Real-time schedulability-analyzable mechanisms in Ada9X
+7A90BD13	Pricing index-based catastrophe bonds: Part 1
+5A237531	Putting into Practice Advanced Software Engineering Techniques through Students Project
+10240E2D	Compositional design reuse
+7E1F5EE7	Design pattern density defined
+807B6474	Reusability: The Case for Object-Oriented Design
+7E098FCD	Roles in Information Systems: A Survey
+7556CB38	A Framework Based on Design Patterns for Providing Persistence in Object-Oriented Programming Languages
+7BE01339	Extending CRC cards into a complete design process
+798CB8AA	Internal representation and rule development in object-oriented design
+8048049F	Applicability of Weyuker's Property 9 to object oriented metrics
+779F7BAD	Characteristics for the basic syntax of an object-oriented design language (OODL) (abstract and references only)
+7EB0F395	Transplantation immunology: solid organ and bone marrow.
+081281BE	Evidence-based clinical recommendations on the prescription of dietary fluoride supplements for caries prevention: a report of the American Dental Association Council on Scientific Affairs.
+7979AC35	Association Between Pharmacokinetics of Adalimumab and Mucosal Healing in Patients With Inflammatory Bowel Diseases
+7E650889	A novel codification scheme based on the "VITAL" and "DICOM" standards for telemedicine applications
+7AA14F2E	An object oriented design method for reconfigurable computing systems
+785DD3DA	Using business rules within a design process of active databases
+7F17890B	System performance analysis with an Ada process model development
+7D28DBC9	An Agent Based Framework for Visual-Interactive Ecosystem Simulations
+75416E86	Object-oriented methodologies of Coad and Yourdon and Booch: comparison of graphical notations
+78ECEEED	The impact of accounting for special methods in the measurement of object-oriented class cohesion on refactoring and fault prediction activities
+7E791BA1	A validation of object-oriented design metrics as quality indicators
+77DF7E5B	Clinical Practice Guidelines for the Medical Management of Nonhospitalized Ulcerative Colitis: The Toronto Consensus
+769C45C8	An object-oriented 3D graphics toolkit
+5F8942AC	Object Calculus and the Object-Oriented Analysis and Design of an Error-Sensitive GIS
+806BCE01	A data/knowledge paradigm for the modeling and design of operations support systems
+7EEF2A31	Toward formalizing domain modeling semantics in language syntax
+5F1DB4BA	Introducing object-oriented design with active learning
+7A088E39	Ada System Dependency Analyzer tool
+768F5B38	Experimental performance analysis of ada programs in cluster system
+5B488824	Towards Correct Object-Oriented Design Frameworks in Computational Logic
+7D9DDB8F	Structuring the application software for real-time process control
+0347B050	An application framework for dynamic distributed software architectures
+7E3C89F2	Design of object-oriented simulations in C++
+7F65A588	Empirical Validation of Three Software Metrics Suites to Predict Fault-Proneness of Object-Oriented Classes Developed Using Highly Iterative or Agile Software Development Processes
+7F8E6182	An object oriented design for the visualization of multi-variable data objects
+76EA58D6	An Empirical Validation of Object Oriented Design Quality Metrics
+77A26FC8	Classifying a Strength of Dependency between classes by using Software Metrics and Machine Learning in Object-Oriented System
+798575CB	General-purpose modular hardware and software framework for mobile outdoor augmented reality applications in engineering
+74855B91	Pattern visualization for software comprehension
+7BC85AEF	A reusable lightweight executive for command and control systems
+753DC0E2	Using object oriented structured development to implement a hybrid system
+7C36754B	Reliable, reusable Ada components for constructing large, distributed multi-task networks: networks architecture services (NAS)
+80004ED8	Composing Design Models: An Extension to the UML
+7B4DDEE0	The object-oriented paradigm in the undergraduate curriculum: a survey of implementations and issues
+7D35A62F	Respectful type converters
+795E6759	Distributed Ada: case study
+0B6ABFA7	Models and Methodology for Agent-Oriented Analysis and Design
+590BEC75	Object-oriented design
+7E68AB5B	The object-oriented structured design notation for software design representation
+5B44C7CE	ASIS-for-GNAT: A Report of Practical Experiences
+7DF2B194	A declarative evolution framework for object-oriented design patterns
+7F217085	A parallelizing compiler by object oriented design
+81569493	Implementing Layered Designs with Mixin Layers
+6E89DFD5	Testing Ada 95 Object-Oriented Programs
+7845C10C	Long-term immune reconstitution and clinical outcome after stem cell transplantation for severe T-cell immunodeficiency
+60B9980B	Formal Development of Safe and Secure Java Card Applets
+77329A82	Object-oriented design and PAMELA
+5FBCD285	Pass the ball: game-based learning of software design
+686095E8	HOOD and Z for the Development of Complex Software Systems
+79806E9F	The game of set®: an ideal example for introducing polymorphism and design patterns
+5EC9007F	Quality-for-ASIS: A Portable Testing Facility for ASIS
+7A24BD40	The cognitive consequences of object-oriented design
+7CEB88AE	Derivation of safety requirements for safety analysis of object-oriented design documents
+7E4AE21E	Integrating rate monotonic analysis into the preliminary Ada design process
+7BA59F61	Implementation of mode changes with the Ravenscar profile
+7C02205D	Object-oriented software for quadratic programming
+7AD3F0B1	Ada package specifications: path expressions and monitors
+7F3CFCEF	An aspect-oriented framework for developing component-based software with the collaboration-based architectural style
+7B8FA89B	Java power tools: model software for teaching object-oriented design
+5E6015F8	A New Definition of the Subtype Relation
+112C5110	Reuse Metrics for Object Oriented Software
+7AA0D60B	CANON in D(esign): Composing scales of plant canopies from phytomers to whole-plants using the composite design pattern
+5A19C34F	Object-Oriented Design Heuristics
+8162E537	A toolkit for automated support of Ada tasking analysis
+78C8B0BF	Experience report on using object-oriented design for software maintenance
+77A55460	SA-2-Ada: a methodology for deriving Ada designs from structured analysis specifications
+81626C4C	MDAnalysis: A toolkit for the analysis of molecular dynamics simulations
+7D3032B1	API-Evolution Support with Diff-CatchUp
+75965354	Role-play virtual worlds for teaching object-oriented design: the ViRPlay development experience
+76F8133D	Object-oriented requirements to object-oriented design: an easy transition?
+80B95C6C	Transformation of data flow analysis models to object oriented design
+718D95F3	Real-time convergence of Ada and Java ™
+7BB43584	From objects to classes: algorithms for optimal objection-oriented design
+5F53E5D8	Object-Oriented Design of Dynamic Graphics Applications
+7C8488EC	Object-oriented design: a responsibility-driven approach
+6FD9C1D0	Restructuring Conditional Code Structures Using Object Oriented Design Patterns
+7F29380F	Temporal skeletons for verifying time
+7F3BE916	Structuring Criteria For Real Time System Design
+7C19D122	Primary immunodeficiencies: 2009 update.
+75F5B999	Applying object-oriented metrics to Ada 95
+7E7C5DC1	POD: a composition environment for pattern-oriented design
+799CA085	Assessing the cognitive consequences of the object-oriented approach: a survey of empirical research on object-oriented design by individuals and teams
+7DC71310	A pattern-based approach to structural design composition
+7F455829	The prediction of faulty classes using object-oriented design metrics
+766A5959	Verifying general safety properties of Ada tasking programs
+7A682452	On the Implementation and Use of Ada on Fault-Tolerant Distributed Systems
+5CB2995C	Conceptual Design of Parallel Systems
+7CA1AAD2	Parsek: object oriented particle in cell. implementation and performance issues
+789999AC	Building distributed Ada applications from specifications and functional components
+7732533A	Object-oriented programming in C++
+77DD7B1F	An experimental approach to the performance penalty of the use of classes in Fortran 95
+5F97A2D9	The Impact of Pair Programming and Test-Driven Development on Package Dependencies in Object-Oriented Design — An Experiment
+7FED07C1	Applying a revised RFC metric to redesign an OO design
+7E36BFC2	Design patterns for object-oriented software development (tutorial)
+80AA482E	Perfecting preemption threshold scheduling for object-oriented real-time system design: from the perspective of real-time synchronization
+7F31A1C2	Evaluation of Accuracy in Design Pattern Occurrence Detection
+7855240D	Object-oriented design: guidelines and techniques
+7AE6E6E2	Defect proneness estimation and feedback approach for software design quality improvement
+8102695D	Analysis Software with an Object-Oriented Petri Net Model
+5C9BCB40	Concept Lattices in Software Analysis
+75B1B4B5	Combining object-oriented and functional paradigms in a design methodology for Ada
+76EC3CE5	The evidence base for the efficacy of antibiotic prophylaxis in dental practice.
+2DBF3E95	Software Engineering Laboratory (SEL) Ada performance study report
+80268D87	Translation and execution of distributed Ada programs: Is it still Ada?
+7810623C	An experimental comparison of reading techniques for defect detection in UML design documents
+7C2C355E	Modeling and analysis of unbalanced distribution system using object-oriented methodology
+7BE8EAEE	Toward a method of object-oriented concurrent programming
+7D7A8E81	Applying object-oriented design to structured graphics
+79CA2BE0	Structural testing of concurrent programs
+7534C8C8	Implications of perspective in teaching objects first and object design
+808692A5	A design pattern verifier in two-tier programming environment
+78B81462	Introduction to the literature on object-oriented design, programming, and languages
+79785B2A	A software process for the construction of predictable on-board embedded real-time systems
+803C224A	An object-oriented methodology using dynamic variables for animation and scientific visualization
+59499BB8	Towards a UML extension for hypermedia design
+785D7AE4	An experimental evaluation of quality guidelines on the maintainability of object-oriented design documents
+7A8FC431	A truly implementation independent GUI development tool
+7FD6B5DB	Evolving object-oriented designs with refactorings
+80293C14	Towards an authorization mechanism for user-role based security in an object-oriented design model
+79044EDF	Automating regression test selection based on UML designs
+788B7B63	Improving the teaching of object-oriented design knowledge
+09FC939A	Essential Framework Design Patterns
+7A4E3D7E	OO overkill: when simple is better than not
+7B628078	Object-oriented design
+7B4DA32F	Lessons learned from automated analysis of industrial UML class models (an experience report)
+80B5D296	Structured document framework for design patterns based on SGML
+7E646A94	Enhancing an object-oriented curriculum: metacognitive assessment and training
+77B4A79D	Coordinating Aspects and Objects
+7CF4349A	Object oriented design function points
+7D3E97B2	Scalable libraries for solving systems of nonlinear equations and unconstrained minimization problems
+5B24DDAF	Survey of the Federal Government on Supervisor Practices in Employment of People with Disabilities
+782A3C6C	Influence of treatment with 3′-deoxyadenosine associated deoxycoformycin on hematological parameters and activity of adenosine deaminase in infected mice with Trypanosoma evansi
+7BE5855D	Functional lists: object-oriented design classes for MIS applications
+81032AD7	Ada as a parallel language for high performance computers: experience and results
+75931B87	Subject-oriented design: towards improved alignment of requirements, design, and code
+77DE2F33	A character recognition scheme based on object oriented design for Tibetan buddhist texts
+7CC24FBC	Identifying objects in legacy systems using design metrics
+0B8F3573	Dental procedures and subsequent prosthetic joint infections: Findings from the Medicare Current Beneficiary Survey
+77B7F2BB	Wanted: CS1 students. no experience required
+6EF41E60	PROTOB - A Hierarchical Object-Oriented CASE Tool for Distributed Systems
+7BC97AC5	Object-oriented parallel programming tools for structural engineering applications
+80E4840B	A comprehensive analysis of object-oriented design: towards a measure of assessing design ability
+77E3D0B6	Towards a hierarchical design and integration of programming projects
+8060F89D	Real-time synchronization on distributed architecture with Ada-2005
+7AD784FD	Dependency oriented complexity metrics to detect rippling related design defects
+7F0F29E3	Software testing and metrics for concurrent computation
+7ED4D2AA	Static code analysis of functional descriptions in SystemC
+7FE08547	Polymorphism measures for early risk prediction
+7B7EDE51	Application specific conversation schemes for ADA programs
+7D572AD1	Reactive transport in surface sediments. I. Model complexity and software quality
+76155960	Diabetes mellitus tipo 2 y enfermedad cardiovascular en España: una revisión descriptiva
+7E0D427D	An object-oriented forest landscape model and its representation of tree species
+75F8B5F5	Analyzing and measuring reusability in object-oriented design
+7A453AA5	Architecture initiatives: component-based simulation modeling
+7FDD2711	Coupling of design patterns: common practices and their benefits
+7D60397C	Mixin-Based Programming in C++
+7EE11A82	Validation of CK Metrics for Object Oriented Design Measurement
+75292D3C	Object construction and destruction design patterns in Fortran 2003
+7F8E333E	Case study in migration to object-oriented system structure using design transformation methods
+793038BC	Object-Oriented Optimal Power Flow: A New Approach Based on Design Patterns
+7CF3A49B	Bridging the gap between structured requirements and object-oriented analysis and design
+7EFDA7FF	Architectural tradeoffs at the object level
+812F55BF	A hierarchical model for object-oriented design quality assessment
+5AAB95BC	Behavior Consistent Extension of Object Life Cycles
+79C57B7D	Finding software metrics threshold values using ROC curves
+76C22293	A note on hardware-software codesign
+7AF6E8D0	Designing a real-time coprocessor for Ada tasking
+5AF9458E	Operation of The Bayes Inference Engine
+7ED56944	Temporal logic-based deadlock analysis for Ada
+71910F3E	Real-time synchronization protocols for multiprocessors
+7A4A98A3	Object-oriented programming and design patterns
+7E33ED65	Validation of object oriented software design with fault tree analysis
+09948D59	Measuring Object-Oriented Design
+7AC5A464	Object-relational mapping with SqueakSave
+8001613E	Object-oriented design and implementation of CFDLab: a computer-assisted learning tool for fluid dynamics using dual reciprocity boundary element methodology
+7AFFFBA3	Diagnosis of the significance of inconsistencies in object-oriented designs: a framework and its experimental evaluation
+7A44D715	A proposal for a recursive object-oriented life-cycle
+75E04CFE	Notation and representation in collaborative object-oriented design: an observational study
+79C7BB83	Object-oriented modeling and synthesis of SystemC specifications
+7A60D65D	Use of barrel in applications studies
+78B6BA73	Unresolved issues in hematopoietic stem cell transplantation for severe combined immunodeficiency: Need for safer conditioning and reduced late effects
+751ADAEF	Biologic therapies in inflammatory bowel disease
+5E824C4A	Assessing the Suitability of a Standard Design Method for Modeling Software Architectures
+6E52E58F	Timing Issues in the Distributed Execution of Ada Programs
+5C594A37	Graphical object oriented executable specification for an automation oriented paradigm of software development
+763BE3BF	Defining combined immunodeficiency
+80B67475	A revised, inheritance-supporting parallel object model in PDEFA-I
+7FBC01B5	Safety verification in Murphy using fault tree analysis
+751403D0	Adding Time to Synchronous Process Communications
+76AB6518	An analysis of errors in a reuse-oriented development environment
+7BF10B98	Virtual memory and backing storage management in multiprocessor operating systems using object-oriented design techniques
+7921B3BB	Domain-specific Semantics and Data Refinement of Object Models
+76781EDC	An overview of real-time issues and Ada
+7C5C3D31	Timethread-role maps for object-oriented design of real-time-and-distributed systems
+80A78268	Integrating computer-aided software engineering and user interface management systems
+7BBA76EE	Isolation of cDNA clones for human adenosine deaminase
+7BA53FFB	The correlation between source code analysis change recommendations and software metrics
+7AA8BF6D	Insertional mutagenesis combined with acquired somatic mutations causes leukemogenesis following gene therapy of SCID-X1 patients.
+78A6FBAE	Identification of defect-prone classes in telecommunication software systems using design metrics
+5FA20526	Hartstone Benchmark Results and Analysis
+5F905663	Graphical notation for object-oriented design and programming
+76136252	An entropy‐based complexity measure for object‐oriented designs
+7B1378C0	An empirical study of the bad smells and class error probability in the post-release object-oriented system evolution
+7A6213F3	Object-oriented design of FMS control software based on object modeling technique diagrams and Petri nets
+7A7F3308	Empirical analysis of object-oriented design metrics for predicting high, medium and low severity faults using mallows C p
+5CE4A3DA	A New Approach for Detecting Design Patterns by Graph Decomposition and Graph Isomorphism
+59760C52	Achieving Consistency and Reusability in Presentation Layer Design using Formal Methods and Design Patterns
+81C18503	IL-17 receptor A and adenosine deaminase 2 deficiency in siblings with recurrent infections and chronic inflammation
+7B4C246A	Overweight is highly prevalent in children with type 1 diabetes and associates with cardiometabolic risk.
+808E5BEA	Ada Interfaces to the X Window System
+7898C34D	Buffer pools and file processing projects for an undergraduate data structures course
+80F17D3F	A logical theory of interfaces and objects
+7DA5D03D	Tangible software modeling with multi-touch technology
+77EC0F61	Evidence-Based Clinical Recommendations on the Prescription of Dietary Fluoride Supplements for Caries Prevention
+7821C63F	Extending standard UML with model composition semantics
+05A6A4BB	An example proof of correctness for a collaboration-based design
+761FEFDA	Designing for telecommunication services
+7EBBEB2E	The Bayes Inference Engine
+78B3087E	An object-oriented approach to evaluating multiple spectral models
+7EA7042F	Starvation and critical race analyzers for Ada
+5C9E0C22	A stochastic approach to automated design improvement
+5E1AF5BD	GLADE: a framework for building large object-oriented real-time distributed systems
+7B700FE9	Integrity quantification model for object oriented design
+815D9E63	NAMD: Biomolecular Simulation on Thousands of Processors
+7FB8D225	Hot spot recovery in object-oriented software with inheritance and composition template methods
+7A5C0DB8	On the object-oriented design of reference-counted shadow objects
+7A9D691C	Using metamodeling to integrate object-oriented analysis, design and programming concepts
+5F58551B	Inheritance conditions for object life cycle diagrams
+76088509	Assessment of maintainability metrics for object-oriented software system
+7D3BE192	Towards a Client Driven Characterization of Class Hierarchies
+7F53B7FB	A Class Hierarchy for Building Stream-Oriented File Systems
+802D6171	An overview of object-oriented design metrics
+7E0F7C91	The event notification pattern—integrating implicit invocation with object-orientation
+7F043ECA	Object oriented design metrics framework based on code extraction
+7D33277B	OO/DEVS: A platform for industry simulation and strategic modelling
+7E65B513	The use of layers and planes for architectural design of communication systems
+79062BCB	Using object modeling to transform structured analysis into object oriented design
+81175686	An empirical study of software reuse with special attention to Ada
+7F29F1EC	Application of metrics to object-oriented designs
+583C2FBB	Design recovery by automated search for structural design patterns in object-oriented software
+595D8458	Mapping Procedural Patterns to Object-Oriented Design Patterns
+7EEA11F5	A network operating system (NOS) to support real-time distributed Ada applications
+7D2A6BDF	A generalized framework for interactive dynamic simulation for multirigid bodies
+76651551	Ode: a self-guided, scenario-based learning environment for object-oriented design principles
+6E6601C3	Classifying relationships between object-oriented design patterns
+5C5C50B8	Replicated Case Studies for Investigating Quality Factorsin Object-Oriented Designs
+5D98B4A2	Mapping Object-Oriented Designs to Ada
+81115318	Adenosine deaminase and adenosine receptor polymorphisms in aspirin-intolerant asthma
+759155C1	Understanding the shape of Java software
+7F59CB2E	Recognizing design patterns in C++ programs with integration of Columbus and Maisa
+7E951B81	Ada95 object-oriented and real-time support for development of software fault tolerance reusable components
+758CB09C	A strategy for mapping from function-oriented software models to object-oriented software models
+7EF90420	Using generalized markup and SGML for reverse engineering graphical representations of software
+79B24C01	Further investigations of reading techniques for object-oriented design inspection
+5A2CA50D	Patterns as Signs
+7CFB3FCF	Multi-view software evolution: a UML-based framework for evolving object-oriented software
+7857A434	Qualitative Analysis for the Impact of Accounting for Special Methods in Object-Oriented Class Cohesion Measurement
+77BA26FA	Creating object-oriented designs from legacy FORTRAN code
+726FC96C	Applying design-metrics to object-oriented frameworks
+7B3E7A5A	Contracts for aspect-oriented design
+75C57350	User interface modeling in UMLi
+77E918E9	Teaching Object‐Oriented Design Without Programming: A Progress Report
+0224A1F5	Fluoride supplements, dental caries and fluorosis: a systematic review
+7C5C5655	A real-time Ada design method based on DoD-STD-2167A
+016BD9CE	High Level Design Reuse through Fuzzy Learning
+7B7074BD	Generating large-scale repositories of reusable artifacts for conceptual design of information systems
+5CB77708	Behavior Consistent Refinement of Object Life Cycles
+7F0D66D3	A Service-Oriented Componentization Framework for Java Software Systems
+777A40C2	Techniques for assessing tooth surfaces in school-based sealant programs
+7D9E5133	On the Rough Number Computation and the Ada Language
+75CB7EE5	Constructing models for predicting extract subclass refactoring opportunities using object-oriented quality metrics
+79D8219F	Towards a real-time distributed systems annex in Ada
+809A5225	Detection of Ada static deadlocks using Petri net invariants
+7D8F80FD	Modelling the behaviour of Ada tasks and verifying its safety
+808C75D5	Software prototyping by relational techniques: experiences with program construction systems
+77CF0CBC	A tool for measuring inheritance coupling in object-oriented systems
+80AC4C32	Coping with Java threads
+7AAA5C0C	Components for the implementation of fixed priority real-time systems in ADA
+7AF79F0F	A new model for handling input
+80088939	Implementing Sporadic Servers in Ada
+816310D9	A Verified Formal Model of a VC Generator
+7D279DB2	A methodology for constructing maintainability model of object-oriented design
+7F848E90	Compiling Knowledge-Based Systems to Ada: The PrkAda ProTalk Compiler
+5B93230F	Heterogeneous Data Structures and Cross-Classification of Objects with Ada95
+7840104E	Improving cellular therapy for primary immune deficiency diseases: Recognition, diagnosis, and management
+0E58A3B4	Understanding the Adoption of Ada: Results of an Industry Survey
+7DA01596	Empirical analysis of CK metrics for object-oriented design complexity: implications for software defects
+7672874A	Impaired fasting glucose and cardiovascular risk factor clustering among Mongolian population in rural and animal husbandry area, Inner Mongolia, China
+71E7BC82	About the Difficulties of Building a Pretty-Printer for Ada
+7D0F5DE7	The objection to objects
+79A58CAA	Object-oriented abstraction of contemporary forest management design
+7863AE1A	The long quest for neonatal screening for severe combined immunodeficiency.
+80CACC4A	Tool-based quality management in object-oriented software development
+7D7AEA25	Determinants of Labor Market Outcomes of Disabled Men Before and After the Americans with Disabilities Act of 1990
+5C672145	Disability Employment Policies and Practices in Private and Federal Sector Organizations
+78399FF9	An architecture for the development of real-time fault diagnosis systems using model-based reasoning
+5DED193F	Layered Development with (Unix) Dynamic Libraries
+794AB575	Levels of Drug and Antidrug Antibodies Are Associated With Outcome of Interventions After Loss of Response to Infliximab or Adalimumab
+8011AECB	ReSoFT: a reusable testbed for development and evaluation of software fault-tolerant systems
+7F4AA60A	Towards a learner-centred approach to teaching object-oriented design
+7DDF7BE0	The use of preemptive priority-based scheduling for space applications
+80E7B92E	Applying use cases to design versus validate class diagrams - a controlled experiment using a professional modeling tool
+8120C03C	Learning Object-Oriented Programming
+7820432D	Reconfigurable simulator using graphical user interface (GUI) and object-oriented design for OFDM systems
+8019F6EB	Object oriented design with applications
+7C2FA142	Using timed CSP during object oriented design of real-time systems
+76F202B7	Language-independent detection of object-oriented design patterns
+7A12D8B0	Object-oriented development
+7E4727A5	An object-oriented hydrologic model for humid, shallow water-table environments
+76F9826A	Risks of Serious Infection or Lymphoma With Anti–Tumor Necrosis Factor Therapy for Pediatric Inflammatory Bowel Disease: A Systematic Review
+75993997	An object oriented perspective for AC/MTDC system simulation
+80D98C8A	Pleural Fluid Adenosine Deaminase (ADA) Level in Tuberculous Pleurisy
+7CB51EDC	BATCES solution #1: an object-oriented design from functional requirements analysis
+7AE32275	Current and future trends in compiler validation and evaluation (invited presentation)
+7F17518D	Selecting an object-oriented process for student analysts
+5F35C35F	Object-oriented architecture measures
+7F7F296F	Towards the optimization of automatic detection of design flaws in object-oriented software systems
+76782BB2	Assessing conformance of pattern-based design in UML
+76C964FE	Assessment of usability metrics for object-oriented software system
+79D7C272	An object-oriented system for 3D medical image analysis
+7B9A48C1	Intensively managed young children with type 1 diabetes consume high-fat, low-fiber diets similar to age-matched controls
+760CF967	Object-oriented design and analyses for advanced application development: progress towards a new frontier
+59A0B8F6	An Object-Oriented Framework for Loop Parallelization
+7D62637C	Object-Oriented Design Process Model
+79D79436	Rational for the design of reusable abstract data types implemented in Ada
+772034A6	OREX-J: towards a universal software framework for the experimental analysis of optimization algorithms
+7926BA99	Towards A Dynamic Object-Oriented Design Metric Plug-in Framework
+7D046DA4	Design components: towards software composition at the design level
+80C1C308	Evaluating the effect of a delegated versus centralized control style on the maintainability of object-oriented software
+798AD31C	Toward a real-time Ada design methodology
+7FC2A69A	Modeling of advanced tasking in Ada-95: a Petri net perspective
+5F71D236	Usage-Centered Interface Design for Quality Improvement
+7CFDA95A	Benchmarking library and application software with Data Envelopment Analysis
+786BE8EB	Generic discrete event simulations using D EGAS :: application to logic design and digital signal processing
+6A0295BA	Object-oriented design of the UPT service: Evaluation of the design quality and experience learned
+7ACC447E	Distributed and parallel Ada and the Ada 9X recommendations
+7863A2CD	A comparison of two object-oriented design methodologies (abstract only)
+791A776F	HRT-HOOD: a structured design method for hard real-time systems
+7E6F0797	A rule-based object-oriented model for security monitoring and control
+5FA12714	An Automated Approach to Testing Polymorphic Features Using Object-Z
+59E42F0F	The Specification of UML Collaborations as Interaction Components
+6B39E6FF	Delegation diagrams: visual support for the development of object-oriented designs
+7FDE5537	Object-oriented system decomposition quality
+5E020A29	From Conceptual Specification to Object Oriented Design
+77A0761E	Achieving reusability through an interactive Ada interface builder
+7DB957CE	Towards a pattern language for object oriented design
+7DAC1AF2	Unequal treatment or uneven consequence: a content analysis of Americans with Disabilities Act Title I disparate impact cases from 1992 - 2012
+7A6AD748	Design of a simple and effective object-to-relational mapping technique
+7C4D9822	Object-oriented and conventional analysis and design methodologies
+59C754A7	Framework component systems: Concepts, design heuristics, and perspectives
+7A658A0D	ForeSee —A hierarchical dynamic modeling and simulation system of complex processes
+7EBE6772	Introducing Objectcharts or how to use Statecharts in object-oriented design
+5BAA5B2B	Simple problem solving in Java: a problem set framework
+8069B12C	Object-oriented analysis and design of hardware/software co-designs with dependence analysis for design reuse
+801A3467	Balancing value and modifiability when planning for the next release
+7B0DAAFD	Abstract data types are under full control with Ada 9X
+7AF2F25E	A parallel programming model for ada
+77BD5F09	PaperButtons: expanding a tangible user interface
+7790256D	ADAM: a language-independent, object-oriented, design environment for modeling inheritance and relationship variants in Ada 95, C++, and Eiffel
+795ECF43	Towards a model of cognitive process in logical design: comparing object-oriented and traditional functional decomposition software methodologies
+7F134DC1	Object-Oriented Design for Sparse Direct Solvers
+80599B92	Object oriented design pattern inference
+5E99DA6D	Object-Oriented Design for Image Synthesis
+762E87EA	The state-machine pattern
+5B9BB145	Design Patterns as Litmus Paper to Test the Strength of Object-Oriented Methods
+58799C39	A strategy for realizing traceability in an Object-Oriented design environment
+816E2E0A	Engineering multimedia user interfaces with objects and patterns
+7002F2AB	Cost-effectiveness of antibiotic prophylaxis for dental patients with prosthetic joints: Comparisons of antibiotic regimens for patients with total hip arthroplasty
+8096ADF9	Modularity-Oriented Refactoring
+7E21073A	Timing analysis of Ada tasking programs
+7F063287	First-Class Relationships for Object-Orientated Programming Languages
+7C3BE22D	Object-oriented requirements analysis: a tool vision
+7CF96C3B	Software CAD: a revolutionary approach
+0A2F8D2D	The Standard Vector Library: a software framework for coupling complex simulation and optimization
+5F72D71B	Empirical Analysis of CK Metrics for Object-Oriented Design Complexity: Implications for Software De
+80A668EF	An approach for deriving object-oriented metrics
+69D2597E	Integrating middleware for timely reconfiguration of distributed soft real-time systems with ada DSA
+7FF7AE04	Chidamber and Kemerer's metrics suite: a measurement theory perspective
+7D1648CC	A study of the impact of C++ on software maintenance
+79FF77BE	Object-oriented design
+7D7A8DA1	Scenario-based assessment of learning experiences
+7C28E22C	Evaluation of object-oriented design patterns in game development
+78C117ED	Polymorphic constitutive equations in finite element codes
+759B5F5E	Gene therapy for primary adaptive immune deficiencies
+78713041	Safe parallel programming in ada with language extensions
+5ADB24C7	Object-oriented design of an air defence simulator
+7E66A794	Insertion of fault detection mechanisms in distributed Ada software systems
+7C554C1C	An object-oriented high-level design-based class cohesion metric
+7D4D0D67	An integrated approach to design complex CORBA systems
+7582E483	Using Pantomime in Teaching OOA&OOD with UML
+7E3792C1	Metrics for Object-Oriented Design Focusing on Class Inheritance Metrics
+5F02A260	Graph Theoretical Indicators and Refactoring
+77A6CBAD	The representation of space in an object-oriented computational pelagic ecosystem
+7F356B10	A combined functional and object-oriented approach to software design
+7D224810	Panel: effects of object-oriented design on reuse and maintenance
+7DEAB275	UMLDiff: an algorithm for object-oriented design differencing
+75DA478E	Keynote paper: A performance analysis of a hard real-time system
+67538508	The application of formal specifications to software documentation and debugging
+75A252DF	An environment for operational software engineering in Ada
+04AFB29A	A Comparison of two outstanding Methodo- logies for Object-Oriented Design
+7BE7BDDE	Pre-Diabetes, Metabolic Syndrome, and Cardiovascular Risk
+7644DDC2	Object-oriented design patterns recovery
+7DB9A749	An automatic restructuring approach preserving the behavior of object-oriented designs
+7B2B9CBC	Misunderstandings about object-oriented design: experiences using code reviews
+074ABCCB	The dental treatment of patients with joint replacements: a position paper from the American Academy of Oral Medicine.
+7BCAC0C2	Connecting Employers With People Who Have Intellectual Disability
+7EE16BFB	RECODE: SOFTWARE PACKAGE REFACTORING VIA COMMUNITY DETECTION IN BIPARTITE SOFTWARE NETWORKS
+79A27D60	A comparison of experiences with the maintenance of object-oriented systems: Ada vs. C++
+76340F16	Object-oriented design for distributed systems: The OSI directory example
+7E0BB926	Essential use cases and responsibility in object-oriented development
+80FED1B0	Improving cohesion metrics for classes by considering dependent instance variables
+7D2EA936	Comments on "measurement of Ada overhead in OSI-style communications systems
+81642F73	An expert system on site selection of sanitary landfill
+7EA0E2B6	Object model resurrection — an object oriented maintenance activity
+0A1F7CF7	From Structured Programming to Object-Oriented Design: The Road to Eiffel
+7779B888	Partial trisomy 20 confirmed by gene dosage studies
+81067485	APSARA: a tool to automate system design via intelligent pattern retrieval and synthesis
+81779FDC	Security Metrics for Object-Oriented Class Designs
+7E8E7668	Trends in esign for Distributed Computing Systems
+76C7CB1D	Impact of inheritance on vulnerability propagation at design phase
+79678044	Faunus: An object oriented framework for molecular simulation
+7EF0DBA0	Systematically deriving partial oracles for testing concurrent programs
+7DB11D5A	A generic classification and object-oriented simulation toolkit for SMT assembly equipment
+776883C4	The current programming language standards scene VIIIA: ADA
+7F856D83	Structural Modeling: An Application Framework and Development Process for Flight Simulators
+768BCDBD	Bilateral sensorineural deafness in adenosine deaminase-deficient severe combined immunodeficiency
+7B6DC3CC	An object-oriented cellular automata model for forest planning problems
+7E0CFEED	Recent developments to the MICHELLE 2-D/3-D electron gun and collector modeling code
+770EE9E3	B-cell development and functions and therapeutic options in adenosine deaminase–deficient patients
+7757A8C2	The rise, fall and persistence of Ada
+7E744C7D	Design Structural Stability Metrics and Post-Release Defect Density: An Empirical Study
+80E52E78	On the use of Ada tasking in the building of satellite control software
+76B54F5C	Evaluating framework architecture structural stability
+809990EA	Industrial strength exception freedom
+812D85BD	How Fields are Used in Java: An Empirical Study
+7810611D	Cognitive activities and levels of abstraction in procedural and object-oriented design
+7C953DFC	Getting the most from search-based refactoring
+79373767	Dual ceiling protocol for real-time synchronization under preemption threshold scheduling
+7CD4A1A2	Object centered design for Java: teaching OOD in CS-1
+7AFC0954	Assessing defect detection performance of interacting teams in object-oriented design inspection
+5AD66762	Using the AADL to Describe Distributed Applications from Middleware to Software Components
+7E766D5D	Design pattern recovery by visual language parsing
+80FE40C9	Ada programming language for numerical computation
+7F82141E	Towards a simplified implementation of object-oriented design metrics
+803B2718	Linear programming supporting Ada-tasking static analysis: a Petri net approach
+7D6F815E	Assessing the Impact of Refactoring on Security-Critical Object-Oriented Designs
+7F6ECDBB	Design and implementation of a Petri net based toolkit for Ada tasking analysis
+082D8BC1	GoF Creational Patterns: A Formal Specification
+7CC4C6E2	A portable generic elementary function package in Ada and an accurate test suite
+7BD3E632	A model of visibility control
+5BC4B962	Object-Oriented Distributed Computing with C++ and OSF DCE
+80B660DB	Teaching students to build well formed object-oriented methods through refactoring
+8053D1A3	Derivation and presentation of an abstract program space for Ada
+76B3449C	A preliminary annotated bibliography on domain engineering
+7940F605	Applying object-oriented design to finite element programming
+80C7343B	Testing Consequences of Grime Buildup in Object Oriented Design Patterns
+79F98CC7	A new approach for the design of electric power system software using object oriented modeling
+777D09EA	Object-oriented design: A goal-driven and pattern-based approach
+7C90F83D	Traffic simulation: a case study for teaching object oriented design
+788D1046	Schizophrenic middleware support for fault tolerance
+7D1F3D3F	Runtime control of Ada rendezvous for testing and debugging
+7C865066	Rank-based quality measurement of software systems in standardized source code
+78901916	Object-centered design: a five-phase introduction to object-oriented programming in CS1–2
+5A0C4C6D	Integration of business processes in web application models
+7CB8619B	Empirical assessment of the impact of structural properties on the changeability of object-oriented software
+7926CA60	Object-oriented Ada-based development of highly reusable control software
+7EACCDA5	Development and use of concurrency abstractions for discrete-event simulation
+7D43C151	An interleaving symbolic execution approach for the formal verification of Ada programs with tasking
+78234227	A semantics for dynamic ceiling priorities in Ada
+817682B2	Using Declarative Meta Programming for Design Flaws Detection in Object-Oriented Software
+7F5529CA	Reading Techniques for OO Design Inspections
+7B8D943C	An empirical investigation of an object-oriented design heuristic for maintainability
+770E54FA	Entity-relationship and object-oriented formalisms for modeling spatial environmental data
+7B72B6E3	Developing Java applications for a nuclear fusion experiment: a test case for Java applicability in a demanding environment
+7C66F066	A study of object-oriented design errors made by novice programmers
+7CD2B59B	The SIGCSE 2001 Maze Demonstration program
+76B4202F	The effects of design pattern application on metric scores
+7A9114D5	The performance of a prototype coprocessor for Ada tasking
+7DB219FF	An Efficient Measurement of Object Oriented Design Vulnerability
+7B7E2AAB	Scheduling hard real-time systems: a review
+7C8198D4	Working with Ada 9X classes
+7B840931	Measuring the vulnerability of an object-oriented design
+7DEC2E0F	Support technologies for avionics operational flight programs
+809802D4	Effective Recognition of Patterns in Object-Oriented Designs
+5EB78107	Identity and Disability in the Workplace
+7DF3CCDA	Distributed and parallel execution in Ada 83
+7CC117F5	Biochemical detection of adenosine deaminase in Trypanosoma evansi
+7BDAFA3E	The Ravenscar tasking profile for high integrity real-time programs
+80AD2E88	Object-Oriented Reconfiguration
+77916639	SPARK—an annotated Ada subset for safety-critical programming
+76497B52	The Dental Treatment of Patients with Joint Replacements
+75494FBC	An internet-based search formalism for design with modules
+78FB7B53	A NEW METRIC FOR OBJECT-ORIENTED DESIGN
+802CDD9E	Identification of refactoring opportunities introducing polymorphism
+765A7922	Issues in testing collection class libraries
+7D43F775	Knowledge-Based Support for Object-Oriented Software Design and Synthesis: a category theoretic approach
+763ABED2	NTGsim: A graphical user interface and a 3D simulator for nonlinear trajectory generation methodology
+58822ECB	System Design by Composing Structures of Interacting Objects
+7DBFFD76	The effect of task order on the maintainability of object-oriented software
+7D42FF85	A tasking deadlock detector for Ada programs
+771E17C6	Structured analysis and object-oriented design are compatible
+5F49D530	Gauging the Performance of Object-Oriented Design Metrics
+67AD206D	A constraint-based collaborative environment for learning UML class diagrams
+7691EB50	An object-oriented design of a finite element code: application to multibody systems analysis
+7C194597	Proving specifications of tasking systems using Ada/TL
+80B07D9D	Applying Petri net reduction to support Ada-tasking deadlock detection
+76C6EEDC	A comparison of sixteen quality metrics for object-oriented design
+8095C0B8	Assessing Post‐ADA Employment: Some Econometric Evidence and Policy Considerations
+7D0694CD	Formal foundation and conceptual design of dynamic adaptations in a workflow management system
+5BE616EE	Application and System Prototyping Via an Extensible Object-Oriented Environment
+80B123F8	A formal mechanism for assessing polymorphism in object-oriented systems
+7BD3D194	Behavior-consistent specialization of object life cycles
+8096DFB7	Investigating effect of Design Metrics on Fault Proneness in Object-Oriented Systems
+80431317	Object oriented reuse: experience in developing a framework for speech recognition applications
+7FA0A1C3	Job acquisition by urban youth with disabilities transitioning from school to work
+7C31FE7C	An empirical analysis of a testability model for object-oriented programs
+7B70CBB8	Exception handling refactorings: Directed by goals and driven by bug fixing
+79031211	Positive Family History, Infection, Low Absolute Lymphocyte Count (ALC), and Absent Thymic Shadow: Diagnostic Clues for All Molecular Forms of Severe Combined Immunodeficiency (SCID)
+76A1CA08	Problem-solution mapping in object-oriented design
+813C7A57	Template elastic‐plastic computations in geomechanics
+80659DA7	Toward the efficient implementation of expert systems in Ada
+7BB9A9EF	A conceptual model for megaprogramming
+7ED73C8E	TQL: a tasking query language for concurrent program analysis
+7CB8ABF6	Effects of metabolic disorders on the brain: Can these effects be reversed with bone marrow transplantation?
+807611CA	Understanding of informatics systems: a theoretical framework implying levels of competence
+810712A6	Using CPN Modeling and Simulating the Task-Oriented C2 Organization
+7F02882C	POST: a case study for an incremental development in rCOS
+0DC4295B	QUEST/Ada: Query utility environment for software testing of Ada
+79DA5EA0	Do Rules and Patterns Affect Design Maintainability？
+7EEA07BF	Automated Testing of Generic Computational Science Libraries
+814164DC	An enhanced role model for alleviating the role‐binding anomaly
+7EB7D49A	Object oriented design pattern decay: a taxonomy
+77E392C2	Scenario-based multitasking for real-time object-oriented models
+5E76550C	Comments on 'Temporal Logic-Based Deadlock Analysis for Ada' by G.M. Karam and R.J.A. Burh
+814A8EB0	Real-time scheduling theory and Ada
+5E08AA9B	Ada COCOMO and the Ada Process Model
+77C8DE77	Hierarchical object-oriented design of a concurrent, individual-based, model of a pelagic Tunicate bloom
+7FE401C4	Teaching Software Design Using a Case Study on Model Transformation
+7E911D9B	Component-based tool for verifying applications using object-oriented patterns
+7DE42030	Development of power flow software using design patterns
+7EE5A6BB	The Benchmark Generator Tool: measuring Ada compilation system performance
+7B15682A	Task-wait-for graphs and their application to handling tasking deadlocks
+7525F487	Pattern-based reverse-engineering of design components
+029D7913	Predicting Faulty Classes Using Design Metrics with Discriminant Analysis
+7AE355A7	Ada and software engineering education: one professor's experiences
+77FC0E58	Ada-Java middleware for legacy software modernization
+7EC04124	Object-oriented design of real-time systems with stereotypes
+5EF7C841	Analyzing object-oriented design patterns from an object-process viewpoint
+5E0C47F1	A Theory of Object-Oriented Design
+80541385	Common intermediate design language
+7F6F033F	A taxonomy for distributed object-oriented real-time systems
+7F29ACC0	High-performance Java codes for computational fluid dynamics
+7B0311D8	Pattern hybridization: breeding new designs out of pattern interactions
+7DD368B9	A practical comparison between Java and Ada in implementing a real-time embedded system
+77FDA0E7	Long-term Clinical Outcome of Patients with Severe Combined Immunodeficiency Who Received Related Donor Bone Marrow Transplants without Pretransplant Chemotherapy or Post-transplant GVHD Prophylaxis
+7F304E8D	Integrating real-time synchronization schemes into preemption threshold scheduling
+76E9DFB1	Parallel computing in Ada: an overview and critique
+8119328F	Vision paper: the essence of structural models
+5E814FF0	HRT-UML: taking HRT-HOOD onto UML
+7D5F0178	An integration environment to put formal specifications into practical use in real-time systems
+0DC97FC8	A Taxonomy of Coordination Mechanisms Used in Real-Time Software Based on Domain Analysis
+6B86BA46	Teaching the evaluation of object-oriented designs
+7FCFF9BD	Projecting software defects from analyzing Ada designs
+8081B5DE	Quantifying the Effects of Aspect-Oriented Programming: A Maintenance Study
+7AF5ECBE	An Empirical Exploration of the Distributions of the Chidamber and Kemerer Object-Oriented Metrics Suite
+792A2337	An object-oriented design and implementation of reusable graph objects with C++: a case study
+778D56EF	The process of object-oriented design
+7A842EE1	Human severe combined immunodeficiency: Genetic, phenotypic, and functional diversity in one hundred eight infants
+786FF3F4	Warts and all: human papillomavirus in primary immunodeficiencies.
+7BF97E81	Human aspects in object-oriented design: an assessment and a methodology
+7BBB24CA	An inductive approach to teaching object-oriented design
+6EB70B72	Automated verification of design patterns with LePUS3
+7E6A4C5A	Software metrics for object-oriented designs
+7E420097	Designing for schedulability: integrating schedulability analysis with object-oriented design
+7F0060C4	A methodology and environment for the object oriented analysis and design of real time systems
+79135EAE	REQUIREMENTS ORGANIZATION APPROACH FOR OBJECT-BASED CONSTRUCTION OF SOFTWARE SYSTEMS
+77AEAA06	Executive-centred system design for CAD applications
+770C4B8B	Analyzability Quantification Model of Object Oriented Design
+800E76FA	Dynamic metrics for object oriented designs
+778CEDE5	Longitudinal Lipid Screening and Use of Lipid-Lowering Medications in Pediatric Type 1 Diabetes
+80E27855	Visual Modeling of Object-Oriented Distributed Systems
+5DC703A6	Composition tools integration with a music database system
+7F51ACBF	Search-based software maintenance
+7E9E47CC	Metrics and techniques for automatic partitioning and assignment of object-based concurrent programs
+59FA321A	A round robin scheduling policy for Ada
+80A2F7BE	An application of Petri net reduction for Ada tasking deadlock analysis
+815CFA47	Application of design patterns for object-oriented modeling of power systems
+39D47CF3	Reliability Measurement of an Object Oriented Design: A Systematic Review
+7594697F	ESA—an expert supported OOA method and tool
+8178D3A2	System Architectures Enabling Reconfigurable Laboratory-Automation Systems
+719BBC7E	Using metrics to identify design patterns in object-oriented software
+7DE89FFC	Experience with an approach to comparing software design methodologies
+78DF97EC	PROTOB: an object oriented methodology for developing discrete event dynamic systems
+7985C4A7	The Impact of Business Size on Employer Response
+77C4EC6C	Comparison of outcomes of hematopoietic stem cell transplantation without chemotherapy conditioning by using matched sibling and unrelated donors for treatment of severe combined immunodeficiency
+780BEE33	Detection and correction of design defects in object-oriented designs
+0B76970E	A Comprehensive Investigation of Quality Factors in Object-Oriented Designs: an Industrial Case Study
+5DEAC410	Object-oriented design frameworks: formal specification and some implementation issues
+1193393A	Social Work Admissions and Academic Accommodations for Students with Disabilities
+00B737F2	Improving Object Oriented Software Contracts
+7581B470	A verification helper for task specifications
+80944B24	Quality driven software migration of procedural code to object-oriented design
+7A611B13	A tailored design language: putting model based formal specification into practice
+8158BEB7	Compiling Knowledge-Based Systems to Ada: The PrkAda Core
+77F98FC7	Looking into safety with the safety and security Rapporteur group
+788A7CD7	OODS: an object-oriented design system — an example of electronics assemblies
+7DDCF7CF	Comparative Study of the Software Metrics for the complexity and Maintainability of Software Development
+7E5F0BEE	Integrating expert system diagnostics within ATE system software
+7CDD420C	The composition of abstractions: evolution of software component design with Ada 95
+7D7EB601	Application of an informal program verification method to Ada
+046BBE5F	Formalizing Object-Oriented Design Metrics upon the UML Meta-Model
+5E857388	Lightweight Modeling of Dynamic Websites using UML
+5C6ED18F	Object-Oriented Reading Techniques for Inspection of UML Models – An Industrial Experiment
+759B643F	Object-oriented design and automatic Ada code generation in the education of software engineers
+79B210F7	Quantifying Reusability of Object Oriented Design: A Testability Perspective
+7C3055EA	Object-oriented development of control software
+06A67741	Predicting Error Probability in the Eclipse Project
+7ABE5D78	Tandem mass spectrometry, but not T-cell receptor excision circle analysis, identifies newborns with late-onset adenosine deaminase deficiency.
+76B6C72F	Towards reuse of verified Ada software
+7A0801EC	Towards a metrics suite for object oriented design
+7685DDE3	Establishing diagnostic criteria for severe combined immunodeficiency disease (SCID), leaky SCID, and Omenn syndrome: The Primary Immune Deficiency Treatment Consortium experience
+7E06706F	Component-based simulation modeling
+0641F2E0	A Review of Selected E-Recruiting Websites: Disability Accessibility Considerations
+7A1701B3	Quantitative assessment of UML dynamic models
+804748B6	Comments on "A metrics suite for object oriented design
+0F63BB7E	A practical approach to evidence-based dentistry: VII: How to use patient management recommendations from clinical practice guidelines
+7E52AC62	Experience acquiring and retargeting a portable Ada compiler
+7D1D3955	Precise specification and automatic application of design patterns
+752C4FF8	Oral bisphosphonate use and the prevalence of osteonecrosis of the jaw
+810F053B	Specifying Ada tasking using patterns of behavior
+7718628D	Runtime detection and description of deadness errors in Ada tasking
+8118409E	Scalable real-time system design using preemption thresholds
+7D74A502	Introducing testing practices into objects and design course
+78FA4375	VMD-Visual Molecular Dynamics
+5F8C863C	Foundations of the unified modeling language
+7A6905C8	Detecting defects in object-oriented designs: using reading techniques to increase software quality
+7594120F	Diagnosis and Treatment of Tuberculous Pleural Effusion in 2006
+7E1D981E	Object-oriented power system analysis
+7D790D73	Efficient object-oriented integration and regression testing
+7DA864F8	Effective software reuse in an embedded real-time system
+7701FF87	Ada/X Window system bindings: conversion strategies
+71E29072	Design Patterns for Object-Oriented Software Development
+7A4821F7	Supporting design model refactoring for improving class responsibility assignment
+0005181D	AUTOMATIC GENERATION OF DISTRIBUTED SYSTEM SIMULATIONS FROM UML
+05200F74	Animation and presentation tools for object-oriented design
+7A300F19	A mathematical approach to object oriented design patterns
+750C831D	Knowing your roots: object-oriented binary search trees revisited

@@ -1,0 +1,1056 @@
+Paper ID,Title,Sim1,Sim2
+5EAF44BC,"A Ravenscar-Compliant Run-Time Kernel for Safety-Critical Systems",0.0702838827839,0.0769230769231
+770A3134,"Implementing a distributed fault-tolerant embedded system in Ada",0.0702838827839,0.142628205128
+7BD9B746,"The building blocks for specifying communication behavior of complex objects: an activity-driven approach",0.130555555556,0.116714634572
+77B4A79D,"Coordinating Aspects and Objects",0.0981481481481,0.125925925926
+72974E11,"Systematic review and meta-analysis on the nonsurgical treatment of chronic periodontitis by means of scaling and root planing with or without adjuncts.",0.15,0.14154040404
+7862DC3E,"Balancing flexibility and performance in three dimensional meshing tools",0.0981481481481,0.110245310245
+7B8983F1,"Preventive Oral Health Care in Early Childhood: Knowledge, Confidence, and Practices of Pediatricians and Family Physicians in Florida",0.187037037037,0.113482669291
+7AB89FB6,"Application of Ada on a distributed missile control system",0.111255411255,0.109867216117
+59499BB8,"Towards a UML extension for hypermedia design",0.0997474747475,0.105303030303
+75E0A136,"Diagnosis of immunodeficiency caused by a purine nucleoside phosphorylase defect by using tandem mass spectrometry on dried blood spots",0.130555555556,0.149596391263
+75E04CFE,"Notation and representation in collaborative object-oriented design: an observational study",0.455555555556,0.372916666667
+7CC9C018,"A clone-based graphical modeler and mathematical model generator for optimal production planning in process industries",0.127525252525,0.113832199546
+79951B8B,"Strategies in object-oriented design",0.102513227513,0.118055555556
+594930BF,"Object Oriented Design Expertise Reuse: An Approach Based on Heuristics, Design Patterns and Anti-patterns",0.130555555556,0.15524691358
+7EEED6E0,"A controlled experiment for evaluating quality guidelines on the maintainability of object-oriented designs",0.134259259259,0.143333333333
+7D43C151,"An interleaving symbolic execution approach for the formal verification of Ada programs with tasking",0.112433862434,0.139424001924
+8092AE76,"Evolving an integrated curriculum for object-oriented analysis and design",0.153703703704,0.170555555556
+7955A95B,"MODeLeR: multimedia object design learning resource",0.183080808081,0.153240740741
+75A28CC1,"Identifying novice difficulties in object oriented design",0.101731601732,0.179464285714
+7D25A19C,"Dyslipidemia in Youth with Diabetes: To Treat or Not to Treat?",0.075641025641,0.135539215686
+7FD6FD6A,"Mapping Software Design Changes to Source Code Changes",0.416666666667,0.255952380952
+0B2CD14F,"Round-Trip Software Engineering Using UML: From Architecture to Design and Back",0.405303030303,0.306812169312
+7FD6B5DB,"Evolving object-oriented designs with refactorings",0.0957792207792,0.1625
+7DDC8215,"An Evaluation of the Dynamic and Static Multiprocessor Priority Ceiling Protocol and the Multiprocessor Stack Resource Policy in an SMP System",0.112037037037,0.0888257004433
+7E744C7D,"Design Structural Stability Metrics and Post-Release Defect Density: An Empirical Study",0.541958041958,0.397095959596
+78E6DEB5,"The Adenosine Deaminase Gene Polymorphism Is Associated with Chronic Heart Failure Risk in Chinese",0.106481481481,0.152944277944
+7A09CF12,"Reusing design experiences to materialize software architectures into object-oriented designs",0.422619047619,0.280612244898
+78EB92FB,"Demonstrational and constraint-based techniques for pictorially specifying application objects and behaviors",0.130555555556,0.134126984127
+80171ECE,"Distributed Expert System Architecture for Automatic Object-Oriented Software Design",0.405303030303,0.29467032967
+7A9076C5,"Understanding object-oriented: a unifying paradigm",0.0818903318903,0.212121212121
+799212C4,"Measuring design complexity of semantic web ontologies",0.122619047619,0.145793650794
+7E275FA1,"Introducing and practically using an object oriented design automation/prototyping tool",0.112037037037,0.168174603175
+048F00BC,"Principles and Patterns in the Object Oriented Design",0.130555555556,0.145555555556
+7F622E2F,"Use and interpretation of diagnostic vaccination in primary immunodeficiency: A working group report of the Basic and Clinical Immunology Interest Section of the American Academy of Allergy, Asthma & Immunology",0.150793650794,0.120830062794
+7F03C616,"Rapid prototyping through graphical operational specification and automated code generation",0.12037037037,0.156944444444
+7D87AD9A,"A new object-oriented finite element analysis program architecture",0.15873015873,0.143849206349
+0B76970E,"A Comprehensive Investigation of Quality Factors in Object-Oriented Designs: an Industrial Case Study",0.412037037037,0.265151515152
+7A74B430,"An electrochemiluminescence (ECL)-based assay for the specific detection of anti-drug antibodies of the IgE isotype",0.134615384615,0.145982142857
+7E435EBF,"On the implementation of OOD frameworks in COM",0.0960113960114,0.105555555556
+79CD3013,"Process-translatable Petri nets for the rapid prototyping of process control systems",0.122895622896,0.101522435897
+754A9E0F,"Object-oriented design processes of electronic commerce in a multi-agent environment",0.122895622896,0.125694444444
+81542FC9,"Comparing architectural design styles",0.112037037037,0.162037037037
+7CFD04E0,"A rule-based software test data generator",0.398148148148,0.322222222222
+7DB24434,"Object-Oriented Design Patterns for Detailed Design",0.127525252525,0.138888888889
+75D7948A,"Hilbert class library: A library of abstract C++ classes for optimization and inversion",0.100673400673,0.0863155363155
+7E4D9EA1,"Normalization of object-oriented design",0.106481481481,0.118055555556
+76F8B3E0,"Taming access control security: extending capabilities using the views relationship",0.114959114959,0.155262445887
+7BD17397,"Allogeneic hematopoietic cell transplantation for primary immune deficiency diseases: Current status and critical needs",0.107407407407,0.0946488696489
+77421528,"The interpretation and utility of three cohesion metrics for object-oriented design",0.117063492063,0.10531968032
+803FA931,"From bench-top to chair-side: how scientific evidence is incorporated into clinical practice.",0.141414141414,0.208333333333
+7F2F9235,"Integrating architecture description languages with a standard design method",0.126322751323,0.123412698413
+7F62DF4A,"An undergraduate course in object-oriented software design",0.414285714286,0.422619047619
+7C1DFEA0,"A laboratory for teaching object oriented thinking",0.127777777778,0.145079365079
+5B1516D4,"Reflections on CRC cards and OO design",0.120879120879,0.136904761905
+80D3B796,"Checking Model Consistency Using Data-Flow Testing",0.117989417989,0.189682539683
+80C9EE88,"Experience in modeling a concurrent software system using STATEMATE",0.40873015873,0.343956043956
+7A40DE33,"Cognitive and behavioral abnormalities in adenosine deaminase deficient severe combined immunodeficiency",0.0818903318903,0.139277389277
+770E54FA,"Entity-relationship and object-oriented formalisms for modeling spatial environmental data",0.102777777778,0.134259259259
+8029F356,"Solving programming problems in intelligent programming tutors for teaching the object-oriented programming paradigm",0.0997474747475,0.132251082251
+59D786F7,"View Integration of Object Life-Cycles in Object-Oriented Design",0.119588744589,0.130952380952
+5DAA029C,"Object Oriented Design Measurement",0.125925925926,0.150694444444
+751AD080,"A methodology for deriving an object-oriented design from functional specifications",0.105303030303,0.128977272727
+7DD65A41,"Modulation of neuroimmunity by adenosine and its receptors: Metabolism to mental illness",0.0844155844156,0.0796328671329
+8020A0DD,"Analysis goal expression language",0.186507936508,0.162608225108
+7DB219FF,"An Efficient Measurement of Object Oriented Design Vulnerability",0.125925925926,0.138737373737
+5BC13747,"What is an object, after all?",0.0981481481481,0.222222222222
+7DDBC739,"Solving the Class Responsibility Assignment Problem in Object-Oriented Analysis with Multi-Objective Genetic Algorithms",0.153703703704,0.157828282828
+7E06706F,"Component-based simulation modeling",0.0976107226107,0.104166666667
+7569640F,"Integrating structured OO approaches with formal techniques for the development of real-time systems",0.104344729345,0.118911181411
+062BD13B,"From Requirements to Tests via Object-Oriented Design",0.104344729345,0.112037037037
+7F9E1FC4,"Detection strategies: metrics-based rules for detecting design flaws",0.155303030303,0.151851851852
+800A23E4,"Investigation of metrics for object-oriented design logical stability",0.108974358974,0.106060606061
+76D693E0,"Creating graphical interactive application objects by demonstration",0.117989417989,0.174603174603
+7E119051,"A method of concurrent object-oriented design using high-level Petri nets",0.117063492063,0.165922619048
+7D7BCE21,"Activity of the enzyme adenosine deaminase in serum, erythrocytes and lymphocytes of rats infected with Trypanosoma evansi",0.138636363636,0.111090225564
+7BACD0EF,"Axioms and proof rules for Ada tasks",0.147619047619,0.128956043956
+80ADA81C,"A metrics suite for object oriented design",0.112037037037,0.125404040404
+7B86871D,"ESFM: An Essential Software Framework for Meshfree Methods",0.40873015873,0.417989417989
+76B851EC,"Beyond standards: reaching usability goals through user participation",0.130555555556,0.167222222222
+5A01F95F,"Formalizing UML Models with Object-Z",0.0846560846561,0.138888888889
+7D190B43,"Design properties and object-oriented software changeability",0.412037037037,0.336805555556
+2EB99AF3,"Heterogeneous Data Structures and Cross-Classification of Objects with Ada 95",0.144444444444,0.138888888889
+5CBB9C34,"Student Modeling with Atomic Bayesian Networks",0.0981481481481,0.12037037037
+73FED56B,"Evaluating the impact of object-oriented design on software quality",0.416666666667,0.312222222222
+5AF4603F,"A Formal Model of Object-Oriented Design and GoF Design Patterns",0.127525252525,0.131944444444
+7CF4349A,"Object oriented design function points",0.112037037037,0.129444444444
+7BA54962,"A systematic approach for implementing fault tolerant software designs in Ada",0.412037037037,0.281339031339
+7FA13904,"Modeling inheritance anomaly in concurrent systems using colored Petri nets",0.0960113960114,0.138977920228
+7E38EB70,"A component-based approach to building formal analysis tools",0.137445887446,0.170634920635
+7EA0C25E,"Realization of an Ada architecture for heterogenous distributed embedded processors",0.0970695970696,0.132857142857
+5BEAC71A,"Refactoring and Aggregation",0.109006734007,0.125
+5B24DDAF,"Survey of the Federal Government on Supervisor Practices in Employment of People with Disabilities",0.412037037037,0.234576931006
+7DB957CE,"Towards a pattern language for object oriented design",0.144841269841,0.149126984127
+7EF36BA3,"Extending UML-RT for Control System Modeling",0.0892773892774,0.135897435897
+0292D41B,"Impact of Impaired Fasting Glucose on Cardiovascular Disease: The Framingham Heart Study",0.398148148148,0.267079053844
+7D1162B1,"Towards a semantic metrics suite for object-oriented design",0.105303030303,0.105303030303
+7DF3CCDA,"Distributed and parallel execution in Ada 83",0.0844155844156,0.145454545455
+7258F1F4,"Measuring coupling and cohesion: an information-theory approach",0.0951178451178,0.130862193362
+7CB7F8D7,"Modeling software architectures in the Unified Modeling Language",0.405303030303,0.292857142857
+7D8323FB,"An answer to FMS complexity: Object-oriented approach",0.111111111111,0.111111111111
+7E8FB4B6,"Notes on notes on postmodern programming: radio edit",0.102272727273,0.0923295454545
+8177EE79,"A formal description of design patterns using OWL",0.134259259259,0.158333333333
+76B3449C,"A preliminary annotated bibliography on domain engineering",0.102272727273,0.102272727273
+5C4DD183,"An Investigation into the Applicability and Validity ofObject-Oriented Design Metrics",0.113636363636,0.108181818182
+7B8DAC9C,"An object-oriented design system shell",0.0957792207792,0.0895299145299
+7C5C3D31,"Timethread-role maps for object-oriented design of real-time-and-distributed systems",0.0957792207792,0.0911172161172
+7D9067C3,"An evaluation of the MOOD set of object-oriented software metrics",0.412037037037,0.285404040404
+58BFE9D5,"An object oriented real-time database storage scheme armed with dual efficient indexes",0.111111111111,0.15266955267
+7866F3C3,"An organized, devoted, project-wide reuse effort",0.12037037037,0.222222222222
+5CD12EEC,"Object-Oriented Design Structures in Web Application Models",0.110297110297,0.115575396825
+8131B024,"An empirical methodology for introducing software processes",0.569444444444,0.480086580087
+8160AB33,"An evaluation of applying use cases to construct design versus validate design",0.127525252525,0.178571428571
+767F849B,"Dentists’ levels of evidence-based clinical knowledge and attitudes about using pit-and-fissure sealants",0.157407407407,0.195555555556
+8135E763,"Design Framework for Self-Stabilizing Real-Time Systems Based on Real-Time Objects and Prototype Implementation with Analysis",0.153703703704,0.158211233211
+598ED80B,"A specification language for object-oriented analysis and design",0.172619047619,0.154464285714
+75108247,"Active information systems, from object-oriented design to Ada 95",0.12037037037,0.108974358974
+775DDE57,"Towards the design and development of a new architecture for Geographic Information Systems",0.12037037037,0.0978521478521
+76F9826A,"Risks of Serious Infection or Lymphoma With Anti–Tumor Necrosis Factor Therapy for Pediatric Inflammatory Bowel Disease: A Systematic Review",0.136111111111,0.0948425031758
+7AA225BD,"Adapting an object-oriented development method",0.1056998557,0.161255411255
+8090C677,"Quality of Service Negotiation in Next Generation Networks",0.14537037037,0.129444444444
+61C25C90,"Formal use of design patterns and refactoring",0.141414141414,0.152777777778
+7F88BAFF,"An object-oriented design paradigm for standard CMOS fabrication technology",0.105303030303,0.110227272727
+5B563F9B,"Some Architectural Features of Ada Systems Affecting Defects",0.0929810929811,0.134508547009
+6E4498D0,"Identification of checkpoints in human T-cell development using severe combined immunodeficiency stem cells",0.0960113960114,0.137546481296
+793038BC,"Object-Oriented Optimal Power Flow: A New Approach Based on Design Patterns",0.130555555556,0.15787037037
+7E646A94,"Enhancing an object-oriented curriculum: metacognitive assessment and training",0.175925925926,0.167658730159
+7E4315DF,"Design of a framework for electronic commerce brokers",0.106481481481,0.106036324786
+588152A9,"OOD Frameworks in Component-Based Software - Development in Computational Logic",0.400673400673,0.325505050505
+6D651AE0,"Correct OO Systems in Computational Logic",0.0793650793651,0.0884615384615
+7594F32E,"Ada in distributed systems: an overview",0.0874458874459,0.0846153846154
+7E5AACC5,"Traceability and modularity in software design",0.405303030303,0.5625
+801FBF27,"An object-oriented modelling approach to system software design",0.405303030303,0.284829059829
+72436751,"Embedding object-oriented design in system engineering",0.0957792207792,0.123397435897
+755744F2,"Framework based on design patterns for providing persistence in object-oriented programming languages",0.144841269841,0.160111416361
+7D421C35,"HyM: a hybrid methodology for the development of integrated hybrid intelligent information systems",0.109006734007,0.0959353146853
+7ED6016A,"Reusing a distributed object domain framework",0.0981481481481,0.140782828283
+76497B52,"The Dental Treatment of Patients with Joint Replacements",0.1114996115,0.116666666667
+7EF31E73,"GAME: an object-oriented approach to computer animation in flexible manufacturing system modelling",0.122895622896,0.116147741148
+7F5CD4D8,"The Importance of Anti-Discrimination and Workers’ Compensation Laws on the Provision of Workplace Accommodations Following the Onset of a Disability",0.105303030303,0.105946830947
+78A4D501,"RAPID: a free, portable GUI design tool",0.155303030303,0.13244047619
+585076CA,"Behavioural subtyping using invariants and constraints",0.0811965811966,0.172222222222
+811473D4,"An object-oriented approach for implementing power system restoration package",0.107407407407,0.123931623932
+7708766A,"On the use of genetic programming for automated refactoring and the introduction of design patterns",0.141414141414,0.134848484848
+77B7F2BB,"Wanted: CS1 students. no experience required",0.103174603175,0.223214285714
+7C91828F,"Identification of Move Method Refactoring Opportunities",0.112433862434,0.111219336219
+7464D108,"Implementing Multicore Real-Time Scheduling Algorithms Based on Task Splitting Using Ada 2012",0.125641025641,0.234523809524
+77878B24,"ANNA: Towards a language for annotating Ada programs",0.125541125541,0.133928571429
+7B027B55,"Agents in object-oriented software engineering",0.408333333333,0.408333333333
+5F35C35F,"Object-oriented architecture measures",0.075641025641,0.077380952381
+7E582FD6,"Designing an object-oriented structure for crop models",0.0864875864876,0.116468253968
+75BCE85C,"An analysis of the effects of ramp slope on people with mobility impairments.",0.162037037037,0.119227994228
+75488E83,"Beyond ASIS: program data bases and tool-oriented queries",0.114285714286,0.106349206349
+049EFA15,"Object-Oriented Design Pattern: Access Protector",0.127525252525,0.11875
+763ABED2,"NTGsim: A graphical user interface and a 3D simulator for nonlinear trajectory generation methodology",0.0981481481481,0.0852525252525
+7FE401C4,"Teaching Software Design Using a Case Study on Model Transformation",0.708333333333,0.368551587302
+5DA9F57E,"Accessible IT for People with Disabilities: HR Considerations",0.122895622896,0.118551587302
+66D0F16B,"Principles in formal specification of object oriented design and architecture",0.116666666667,0.12208994709
+03D38552,"A Framework for Object-Oriented Shader Design",0.102513227513,0.118055555556
+79F9671E,"Roles for composite objects in object-oriented analysis and design",0.153703703704,0.163194444444
+60DE187F,"Extending UML for Object-Relational Database Design",0.112037037037,0.14537037037
+7FC80D0F,"Concurrent simulation with entity life modeling: an airport simulator using Ada",0.130952380952,0.124942765568
+7F866D11,"A change prediction model for embedded software applications",0.428571428571,0.281415343915
+5C42FDF4,"Obfuscating Java: the most pain for the least gain",0.102777777778,0.142361111111
+7DEB2558,"Extensible multimedia document player",0.117989417989,0.112433862434
+7CFE7488,"An object-oriented methodology for the design of control software for flexible manufacturing systems",0.408333333333,0.252972027972
+306C68E2,"Towards a formal semantics for Ada 9X",0.0793650793651,0.0884615384615
+7EADB485,"Building object-oriented simulations with C++",0.0957792207792,0.1875
+75CB7EE5,"Constructing models for predicting extract subclass refactoring opportunities using object-oriented quality metrics",0.109006734007,0.15551497114
+5C086E5E,"Meta Patterns - A Means For Capturing the Essentials of Reusable Object-Oriented Design",0.127525252525,0.136666666667
+5D646ED5,"The use of an object repository in the configuration of control systems at CERN",0.127525252525,0.109102564103
+67AD206D,"A constraint-based collaborative environment for learning UML class diagrams",0.0981481481481,0.152777777778
+79731FE2,"Implementing generic, object-oriented models in biology",0.0846560846561,0.150673400673
+08660FF1,"An empirical study of overriding in open source Java",0.540064102564,0.473333333333
+7691EB50,"An object-oriented design of a finite element code: application to multibody systems analysis",0.175925925926,0.145426332926
+7EB98AAE,"BATCES solution #2: a simplified SA/OOD approach",0.0951178451178,0.10101010101
+7CFDA95A,"Benchmarking library and application software with Data Envelopment Analysis",0.453703703704,0.318975468975
+7D8349EC,"Engineering software design processes to guide process execution",0.425925925926,0.279653679654
+7F09E9D0,"A group critic system for object-oriented analysis and design",0.172619047619,0.134340659341
+7F0F29E3,"Software testing and metrics for concurrent computation",0.414285714286,0.358441558442
+7EE43A69,"Cognitive activities of abstraction in object orientation: an empirical study",0.553977272727,0.493571428571
+76298155,"An object-oriented library for hierarchical animation sequences",0.0892773892774,0.0858585858586
+77178AA8,"The design and development of embedded Ada systems",0.0957792207792,0.0924388111888
+01C184A3,"Oral bisphosphonate use and the prevalence of osteonecrosis of the jaw: An institutional inquiry",0.133477633478,0.118005952381
+78BC582C,"A comparison of the concurrency features of Ada 95 and Java",0.173789173789,0.159722222222
+79D40A99,"The when, why and why not of the BETA programming language",0.130952380952,0.117063492063
+77A8E059,"Object-oriented design of preconditioned iterative methods in diffpack",0.117063492063,0.133928571429
+7A4E3D7E,"OO overkill: when simple is better than not",0.0818903318903,0.162247474747
+5D4F2422,"Distributed Object Oriented Data Structures and Algorithms for VLSI CAD",0.112037037037,0.12963980464
+7D45C6FA,"Evolution support by homogeneously documenting patterns, aspects and traces",0.141414141414,0.129365079365
+80B07D9D,"Applying Petri net reduction to support Ada-tasking deadlock detection",0.142307692308,0.22
+7A0801EC,"Towards a metrics suite for object oriented design",0.112037037037,0.125404040404
+08617382,"A Comparison of Ada 83 and C++",0.161111111111,0.333333333333
+7E58BA39,"A Family of Reading Techniques for OO Design Inspections",0.180555555556,0.174848484848
+7705CBF4,"A framework for evaluating the effectiveness of real-time object-oriented models",0.0929810929811,0.130555555556
+457155DC,"Primary immunodeficiency update: Part II. Syndromes associated with mucocutaneous candidiasis and noninfectious cutaneous manifestations",0.112037037037,0.114129273504
+76418A77,"European air traffic flow management: porting a large application to GNU/linux",0.117989417989,0.124735449735
+774AFF7D,"Profiling in an object-oriented design environment that supports Ada 9X and Ada 83 code generation",0.134259259259,0.16712962963
+7CB23097,"SUPPORTING TOOL FOR OBJECT ORIENTED DESIGN OF REAL TIME APPLICATIONS",0.117989417989,0.156405895692
+5D1AEDA5,"Automatic Serialization of Dynamic Structures in Ada",0.0811965811966,0.0811965811966
+78F59291,"The effects of individual differences on CS2 course performance across universities",0.117989417989,0.111197691198
+76894CE6,"Host natural killer immunity is a key indicator of permissiveness for donor cell engraftment in patients with severe combined immunodeficiency.",0.0923076923077,0.124454333545
+80574650,"Sources of unbounded priority inversions in real-time systems and a comparative study of possible solutions",0.391414141414,0.235583860584
+75B2D876,"The evolution and impact of code smells: A case study of two open source systems",0.455555555556,0.232879273504
+76C9F35E,"Facilitating software extension with design patterns and Aspect-Oriented Programming",0.430555555556,0.284595959596
+8053D160,"A Metric-Based Heuristic Framework to Detect Object-Oriented Design Flaws",0.109006734007,0.134027777778
+79BD2301,"Metrics for class cohesion and similarity between methods",0.10873015873,0.107157287157
+7EFE46DA,"Producing relational database schemata from an object oriented design",0.126322751323,0.15667989418
+70D601F5,"Class inheritance metrics-an analytical and empirical approach",0.330555555556,0.333333333333
+76C01C1A,"Object-oriented design: exception handling and copying",0.126984126984,0.139880952381
+769FB74F,"Ada 95 as implementation language for object-oriented designs",0.130952380952,0.122619047619
+7E19E623,"ADTEST: a test data generation suite for Ada software systems",0.398148148148,0.251709401709
+7D98C9D9,"Assessing the quality of abstract data types written in ADA",0.109006734007,0.135505698006
+7690EE46,"The AdaPIC tool set: supporting interface control and analysis throughout the software development process",0.453703703704,0.232097763348
+767C3813,"Recognition, pathogenesis, and treatment of different stages of nephropathy in patients with type 2 diabetes mellitus.",0.119191919192,0.0971776589424
+815D9E63,"NAMD: Biomolecular Simulation on Thousands of Processors",0.0976107226107,0.0972222222222
+7D526AC5,"Seamless visual object-oriented behavior modeling for distributed software systems",0.425925925926,0.322051282051
+7B07BDD5,"Array representation in symbolic execution",0.119191919192,0.122895622896
+77830F0B,"Accessing delay queues",0.0892773892774,0.130303030303
+756C44DD,"Adaptive Detection of Design Flaws",0.155303030303,0.158333333333
+7E67E534,"Empirical Analysis of Object-Oriented Design Metrics for Predicting High and Low Severity Faults",0.361111111111,0.260667903525
+7FD80FED,"On the inevitable intertwining of analysis and design: developing systems for complex cooperations",0.155303030303,0.165384615385
+7D689335,"C++ classes for linking optimization with complex simulations",0.112037037037,0.144255050505
+752D2BBA,"Real-time programming on accelerator many-core processors",0.0976107226107,0.0890522875817
+5FD46D2B,"An approach to teaching object oriented design in CS2",0.0957792207792,0.144742063492
+5C6ED18F,"Object-Oriented Reading Techniques for Inspection of UML Models – An Industrial Experiment",0.192307692308,0.180555555556
+01580D6D,"On Aspect-Oriented Technology and Object-Oriented Design Patterns",0.127525252525,0.138888888889
+7AE355A7,"Ada and software engineering education: one professor's experiences",0.436507936508,0.263018925519
+79916FCC,"Surveying current research in object-oriented design",0.137445887446,0.208333333333
+59F82615,"Using patterns for design and documentation",0.130555555556,0.18125
+7B155C72,"Client/Server computing: is this the future direction for the clinical laboratory?",0.0846560846561,0.148199023199
+77D1843D,"An Ada code generator for VAX 11/780 with Unix",0.12037037037,0.116666666667
+7B7E2AAB,"Scheduling hard real-time systems: a review",0.114285714286,0.158974358974
+26E8FF6A,"Did the ADA Evolve into Our Ramp to Full Employment? An Analysis of 18 Years of the Americans with Disabilities Act",0.153703703704,0.156214156214
+76BE1F47,"Designing a product family of meshing tools",0.0981481481481,0.110074370074
+8158BEB7,"Compiling Knowledge-Based Systems to Ada: The PrkAda Core",0.0892773892774,0.11452991453
+7F86828E,"Testing object‐oriented software: a survey",0.694444444444,0.733333333333
+7E72ADB9,"Formal verification of Ada programs",0.103174603175,0.114926739927
+75AA6A67,"A formal model for verifying compound design patterns",0.127525252525,0.152777777778
+7A0CB907,"eCSedtrend: A new software to improve sediment trend analysis",0.44696969697,0.392857142857
+7E86B885,"On the applicability of Weyuker Property 9 to object-oriented structural inheritance complexity metrics",0.107407407407,0.104848484848
+7D60397C,"Mixin-Based Programming in C++",0.0957792207792,0.125
+78A0F2F8,"Management options for adenosine deaminase deficiency; proceedings of the EBMT satellite workshop (Hamburg, March 2006)",0.107407407407,0.0888437950938
+7865FD70,"Design with objects: an approach to object-oriented design",0.112037037037,0.118055555556
+5A53F517,"Real-Time Object-Oriented Design and Formal Methods",0.117063492063,0.133928571429
+7F8E333E,"Case study in migration to object-oriented system structure using design transformation methods",0.411255411255,0.246569749695
+8079AFDA,"Reusing object oriented design: An algebraic approach",0.112037037037,0.159444444444
+751422C9,"Adaptive Erkennung von Software-Entwurfsmängeln",0,0
+8161DCFA,"Automated verification of code automatically generated from Simulink®",0.125,0.197916666667
+7C3F5631,"The Charrette Ada compiler",0.0702838827839,0.0769230769231
+7787F3AB,"Integration of a 1-D river model with object-orientated methodology",0.113636363636,0.102588383838
+7BDAFA3E,"The Ravenscar tasking profile for high integrity real-time programs",0.112433862434,0.14126984127
+764CD37A,"Does size matter?: a preliminary investigation of the consequences of powerlaws in software",0.400641025641,0.285984848485
+6D8991A0,"Design pattern recovery in object-oriented software",0.405303030303,0.405303030303
+7ECF5037,"Tool support for the construction of statically analysable hard real-time Ada systems",0.12037037037,0.103388278388
+76402E6E,"Dental procedures and subsequent prosthetic joint infections",0.12037037037,0.108974358974
+75860446,"Applying object-oriented concepts to documentation",0.103174603175,0.238095238095
+056C8408,"Object Oriented Design with Applications; Benjamin/Cummings",0.117989417989,0.144742063492
+784B76F3,"Measuring design complexity: an inherited method perspective",0.122619047619,0.154365079365
+7D754364,"The State of the Science of Employment and Economic Self-Sufficiency for People With Intellectual and Developmental Disabilities",0.109006734007,0.0991462241462
+7E6F0797,"A rule-based object-oriented model for security monitoring and control",0.100673400673,0.100505050505
+7C5C021C,"Beyond objects: a software design paradigm based on process control",0.425925925926,0.275288600289
+7FAF4F5F,"Testing generic Ada packages with APE",0.0981481481481,0.110166441745
+809A6947,"Graph library design",0.12037037037,0.105555555556
+5CBF4D72,"An Inductive Method For Discovering Design Patterns From Object-Oriented Software Systems",0.430555555556,0.285241147741
+7EFF707A,"Formally specifying the logic of an automatic guidance controller",0.106481481481,0.106730769231
+793EEA1A,"On the accuracy of predicting rate monotonic scheduling performance",0.112037037037,0.120238095238
+7715BE46,"Transforming an Imperative Design into an Object-Oriented Design",0.0957792207792,0.166666666667
+7E3716D0,"Managerial use of metrics for object-oriented software: an exploratory analysis",0.453703703704,0.376893939394
+7DC2FD7E,"A java API for historical ciphers: an object-oriented design project",0.14537037037,0.133333333333
+7BD1E840,"Design of a communication system for a real-time C 2 simulator",0.119588744589,0.098956043956
+0295A3EA,"Extending UML to Visualize Design Patterns In Class Diagrams",0.130555555556,0.139351851852
+8025D774,"Product metrics for automatic identification of "bad smell" design problems in Java source-code",0.136111111111,0.115808728309
+083EFC30,"Towards Advising Design Patterns Application through Interface Agents",0.133477633478,0.118716931217
+7E8403BB,"Experience with the development of hard real-time embedded Ada software",0.411255411255,0.350108225108
+7D42FF85,"A tasking deadlock detector for Ada programs",0.103174603175,0.114908424908
+77A9DC23,"Coping with Abstraction in Object Orientation with a Special Focus on Interface Classes",0.341964285714,0.258106575964
+5A74AC76,"Assessing Inheritance for the Multiple Descendant Redefinition Problem in OO Systems",0.100673400673,0.11397047397
+780202A4,"Assisting novice software designers by an expert designer agent",0.392307692308,0.239726939727
+7687BA7E,"Comments on "Critical races in Ada programs",0.117989417989,0.110500610501
+7AEBEB6B,"Automated verification of design patterns: A case study",0.419191919192,0.298611111111
+74E86518,"Coupling metrics for object-oriented design",0.0957792207792,0.138636363636
+7F8F8A2A,"An Empirical Validation of Object-Oriented Design Metrics for Fault Prediction",0.337797619048,0.265812890813
+80DD50D7,"Specifying Ada server tasks with executable formal grammars",0.125641025641,0.112852147852
+5E69D2FF,"An Interactive 3D Graphics Class Library in EIFFEL",0.106481481481,0.0965277777778
+7F349453,"The Semantics of Ada Access Types (Pointers) in the State Delta Verification System (SVDS).",0.0976107226107,0.0943962287712
+7B8B79EA,"On design of element evaluators in OOFEM",0.0957792207792,0.100961538462
+800FB406,"Proposals for Enhancement for the Ada Programming Language: A Software Engineering Perspective",0.422619047619,0.233776640027
+79653017,"Toward a general object-oriented software development methodology",0.393939393939,0.393939393939
+813E4914,"Intelligent Support for Retrieval and Synthesis of Patterns for Object-Oriented Design",0.141414141414,0.122619047619
+7EC053DE,"Object-Oriented Design of Information Systems: Troll Language Features",0.130952380952,0.111966736967
+049976A5,"Patterns for Encapsulating Class Trees",0.119191919192,0.126736111111
+7EF37569,"Contract-Based Data Structure Repair Using Alloy",0.100673400673,0.141919191919
+788329F0,"Advances in basic and clinical immunology in 2011",0.0892773892774,0.0884615384615
+7E7C63FA,"Object oriented design for a distributed priority queue",0.112037037037,0.123585858586
+792A2337,"An object-oriented design and implementation of reusable graph objects with C++: a case study",0.408333333333,0.292222222222
+8142A8DD,"UML class diagram metrics tool",0.0981481481481,0.0850288600289
+5FF4E52E,"A visual language for design pattern modelling and instantiation",0.144841269841,0.137698412698
+7ADF8F1D,"Design Patterns: Abstraction and Reuse of Object-Oriented Design",0.127525252525,0.135416666667
+7C2C355E,"Modeling and analysis of unbalanced distribution system using object-oriented methodology",0.15873015873,0.162892662893
+70FE38AF,"Using a maze case study to teach: object-oriented programming and design patterns",0.419191919192,0.261160714286
+77A0761E,"Achieving reusability through an interactive Ada interface builder",0.0818903318903,0.121124708625
+80765C95,"Predicting the probability of change in object-oriented systems",0.115740740741,0.117445054945
+59FD3E20,"Ada for multi-microprocessors",0.0702838827839,0.0769230769231
+0DC4295B,"QUEST/Ada: Query utility environment for software testing of Ada",0.414285714286,0.249450549451
+7B3C14A9,"The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints",0.12037037037,0.114285714286
+5FE09E5B,"G++: An Environment for Object-Oriented Design and Prototyping of Manufacturing Systems",0.105303030303,0.117147435897
+7DFFF9D5,"Models for Improving Software System Size Estimates during Development",0.405303030303,0.250563325563
+04A52260,"The use of prophylactic antibiotics prior to dental procedures in patients with prosthetic joints: Evidence-based clinical practice guideline for dental practitioners—a report of the American Dental Association Council on Scientific Affairs",0.134259259259,0.108035714286
+7F8F95EE,"Debugging concurrent Ada programs by deterministic execution",0.1056998557,0.119338994339
+80FFC3EF,"Clinical and immunological manifestations of patients with atypical severe combined immunodeficiency",0.0981481481481,0.130341880342
+0448E0BA,"An Immersive Tool for Wide-Area Collaborative Design",0.0957792207792,0.0982142857143
+799D297C,"Applicability of Weyuker Property 9 to Object-Oriented Inheritance Tree Metric-A Discussion",0.112037037037,0.111805555556
+5867AD84,"A relational model for object-oriented designs",0.102513227513,0.118055555556
+765A7922,"Issues in testing collection class libraries",0.122895622896,0.133888888889
+7A2EB76A,"Inducible repair of alkylated DNA in microorganisms.",0.0818903318903,0.0797535797536
+59A354E2,"A graphical environment for GLADE",0.0892773892774,0.0857142857143
+7B07BAE5,"Application of neural networks for software quality prediction using object-oriented metrics",0.428571428571,0.278009688724
+76A0F499,"Investigating quality factors in object-oriented designs: an industrial case study",0.412037037037,0.285984848485
+75769777,"Incremental software test approach for DOD-STD-2167A Ada projects",0.437037037037,0.299829059829
+7FE39BEA,"Object-oriented design of decision support systems in natural resource management",0.122895622896,0.115135327635
+7FCAA1B5,"Architectural Design Methodologies for Complex Evolving Systems",0.0957792207792,0.123208041958
+7DEB92FA,"Improved 3D coupled calculations of the structural-dynamic behavior of induction furnaces excited by electromagnetic forces using adaptive algorithms",0.12037037037,0.163474025974
+78A98D88,"An open software architecture for virtual reality interaction",0.422619047619,0.334821428571
+7DA70139,"Mapping State Diagram To Petri Net : An Approach To UseMarkov Theory For Analyzing Non-Functional Parameters",0.108465608466,0.131820436508
+7D326E99,"An initial comparison of software and engineering designs of automotive cruise control systems",0.477777777778,0.262454212454
+81161A1C,"Some optimal object-based architectural features for corrective maintenance",0.0886243386243,0.0972222222222
+809A9BCE,"Eco-problem solving for containers stacking",0.0960113960114,0.118233618234
+7E1D981E,"Object-oriented power system analysis",0.153703703704,0.146011396011
+7DB2DA42,"LAPACK++: A design overview of object-oriented extensions for high performance linear algebra",0.112037037037,0.103585858586
+809C2B96,"On analysis of design component contracts: a case study",0.408333333333,0.317222222222
+5F776D23,"Assessing the Changeability of two Object-Oriented Design Alternatives—a Controlled Experiment",0.125925925926,0.187222222222
+745AD852,"Building a predictable avionics platform in Ada: a case study",0.405303030303,0.267780830281
+7AFCA034,"Investigating the Role of Use Cases in the Construction of Class Diagrams",0.130555555556,0.144444444444
+007F9767,"Experiences using Design Patterns to Reorganize an Object-Oriented Application",0.133477633478,0.179563492063
+76EB9F9F,"Upper limit of fasting plasma glucose level defined by oral glucose tolerance test in Japanese subjects",0.106481481481,0.13824543512
+812016B3,"Identifying objects in legacy systems",0.0981481481481,0.132235819736
+7AD6EF77,"Hardware-In-the-Loop (HIL) simulation: an application of Colbert's object-oriented software development method",0.428571428571,0.260074484339
+7D8D9C37,"Formal foundations for object-oriented data modeling",0.109006734007,0.106481481481
+8096DFB7,"Investigating effect of Design Metrics on Fault Proneness in Object-Oriented Systems",0.109006734007,0.122677322677
+5B6BD8A8,"Service-Oriented Context-Awareness and Context-Aware Services",0.0957792207792,0.125
+78E4E984,"Metrics for applying GOF design patterns in refactoring processes",0.141414141414,0.176515151515
+7A63D913,"Formal specification and verification of Ada software",0.400641025641,0.325480769231
+756479D0,"Control structure diagrams for Ada 95",0.0892773892774,0.0817307692308
+0221FA63,"Pre-Diabetes and the Risk for Cardiovascular Disease: A Systematic Review of the Evidence",0.127272727273,0.132251082251
+7BC3969E,"TCOL Ada and the “Middle End” of the PQCC Ada compiler",0.0702838827839,0.0769230769231
+7CEF1E77,"An analyzable annotation language",0.119588744589,0.121428571429
+843CAF51,"Encapsulating interactive behaviors",0.12037037037,0.166666666667
+74707DC0,"An empirical study on object-oriented metrics",0.539393939394,0.69696969697
+5A4F9279,"Object Oriented Design Knowledge: Ontology and Measurement of Impact",0.175925925926,0.158106575964
+023BABD8,"Mapping HRT-HOOD® designs to Ada 95 hierarchical libraries",0.0957792207792,0.119444444444
+7C8890E6,"Primary Immune Deficiency Treatment Consortium (PIDTC) report",0.127525252525,0.118371212121
+759047BA,"Resource modeling for the integration of the manufacturing enterprise",0.127525252525,0.12
+80388B32,"Modeling and visualizing object-oriented programs with Codecharts",0.103174603175,0.130952380952
+7DDC4C13,"Language-oriented reusability",0,0
+79C7BB83,"Object-oriented modeling and synthesis of SystemC specifications",0.0874458874459,0.0888888888889
+0B71570F,"Automated Design Improvement by Example",0.127525252525,0.160416666667
+08930DEA,"Artificial Intelligence (AI) and Ada: Integrating AI with Mainstream Software Engineering",0.430555555556,0.235347985348
+5ECCE48A,"Object-Oriented Design of Information Systems: Theoretical Foundations",0.125,0.112980769231
+739712CF,"Support for object-oriented testing",0.12037037037,0.154761904762
+8104AAB8,"Measurement and quality in object-oriented design",0.134259259259,0.138888888889
+814993F4,"Analyzing partially-implemented real-time systems",0.0702838827839,0.205128205128
+769C45C8,"An object-oriented 3D graphics toolkit",0.106481481481,0.125
+588AEAD0,"Rapid Development of Modular Dynamic Web Sites Using UML",0.0939393939394,0.148917748918
+75CAF422,"Object-oriented programming with mixins in Ada",0.0957792207792,0.100961538462
+6EB70B72,"Automated verification of design patterns with LePUS3",0.127525252525,0.166666666667
+7BC97AC5,"Object-oriented parallel programming tools for structural engineering applications",0.10873015873,0.111038961039
+78A451DF,"Refinement and verification in component-based model-driven design",0.113636363636,0.116666666667
+5916490B,"Inheritance as a Conceptual Primitive",0.0981481481481,0.10101010101
+5B57C7E4,"Probabilistic evaluation of object-oriented systems",0.106481481481,0.100961538462
+7EB29904,"Towards a Valid Metric for Class Cohesion at Design Level",0.112037037037,0.109532828283
+08337F23,"A Class Cohesion Metric For Object-Oriented Designs",0.112037037037,0.109006734007
+59300DF4,"A framework supporting the utilization of domain knowledge embedded in software",0.472222222222,0.30266955267
+80AD2E88,"Object-Oriented Reconfiguration",0,0
+79AE4EA8,"Industrial experience with SPARK",0.10873015873,0.126984126984
+7A271861,"An object-oriented simulation framework for real-time control of automated flexible manufacturing systems",0.109006734007,0.131339031339
+807074B0,"Selecting and mapping test sequences from formal specifications of concurrent programs",0.10873015873,0.122308802309
+803F0BA3,"A new approach to module-oriented design of OO software",0.405303030303,0.412037037037
+7CD894BA,"Modeling and schedulability analysis in the development of real-time distributed Ada systems",0.139277389277,0.140233100233
+5C3DF6FD,"Graphical Design Support for DCE Applications",0.12037037037,0.144841269841
+5D68481C,"The OCoN Approach to Workflow Modeling in Object-Oriented Systems",0.0886243386243,0.118233618234
+7A90BD13,"Pricing index-based catastrophe bonds: Part 1",0.109006734007,0.135416666667
+7926BA99,"Towards A Dynamic Object-Oriented Design Metric Plug-in Framework",0.102513227513,0.0972222222222
+10240E2D,"Compositional design reuse",0.0957792207792,0.125
+7E1F5EE7,"Design pattern density defined",0.0976107226107,0.152777777778
+807B6474,"Reusability: The Case for Object-Oriented Design",0.113636363636,0.125
+7E098FCD,"Roles in Information Systems: A Survey",0.412037037037,0.342147435897
+7556CB38,"A Framework Based on Design Patterns for Providing Persistence in Object-Oriented Programming Languages",0.144841269841,0.160111416361
+7BE01339,"Extending CRC cards into a complete design process",0.12037037037,0.158630952381
+798CB8AA,"Internal representation and rule development in object-oriented design",0.127525252525,0.126893939394
+8048049F,"Applicability of Weyuker's Property 9 to object oriented metrics",0.0981481481481,0.133737373737
+779F7BAD,"Characteristics for the basic syntax of an object-oriented design language (OODL) (abstract and references only)",0.144841269841,0.129126984127
+7EB0F395,"Transplantation immunology: solid organ and bone marrow.",0.0904558404558,0.0809401709402
+081281BE,"Evidence-based clinical recommendations on the prescription of dietary fluoride supplements for caries prevention: a report of the American Dental Association Council on Scientific Affairs.",0.12037037037,0.0972222222222
+7979AC35,"Association Between Pharmacokinetics of Adalimumab and Mucosal Healing in Patients With Inflammatory Bowel Diseases",0.0892773892774,0.0801587301587
+7E650889,"A novel codification scheme based on the "VITAL" and "DICOM" standards for telemedicine applications",0.117989417989,0.164682539683
+7AA14F2E,"An object oriented design method for reconfigurable computing systems",0.122619047619,0.142648555149
+785DD3DA,"Using business rules within a design process of active databases",0.134259259259,0.15867003367
+7D1D3955,"Precise specification and automatic application of design patterns",0.136507936508,0.133630952381
+7F17890B,"System performance analysis with an Ada process model development",0.148148148148,0.134453509454
+8061333A,"Design Pattern Detection Using Similarity Scoring",0.155303030303,0.183888888889
+75416E86,"Object-oriented methodologies of Coad and Yourdon and Booch: comparison of graphical notations",0.211111111111,0.208080808081
+78ECEEED,"The impact of accounting for special methods in the measurement of object-oriented class cohesion on refactoring and fault prediction activities",0.360714285714,0.219051226551
+7E791BA1,"A validation of object-oriented design metrics as quality indicators",0.12037037037,0.110404040404
+77DF7E5B,"Clinical Practice Guidelines for the Medical Management of Nonhospitalized Ulcerative Colitis: The Toronto Consensus",0.125925925926,0.105174291939
+5F8942AC,"Object Calculus and the Object-Oriented Analysis and Design of an Error-Sensitive GIS",0.139277389277,0.133814102564
+7A60D65D,"Use of barrel in applications studies",0.398148148148,0.343005952381
+806BCE01,"A data/knowledge paradigm for the modeling and design of operations support systems",0.12037037037,0.108990546491
+7EEF2A31,"Toward formalizing domain modeling semantics in language syntax",0.133477633478,0.138961038961
+5F1DB4BA,"Introducing object-oriented design with active learning",0.180555555556,0.200396825397
+7A088E39,"Ada System Dependency Analyzer tool",0.0981481481481,0.0806105006105
+7990C753,"Metrics to study symptoms of bad software designs",0.422619047619,0.33841991342
+5B488824,"Towards Correct Object-Oriented Design Frameworks in Computational Logic",0.102513227513,0.134027777778
+7D9DDB8F,"Structuring the application software for real-time process control",0.425925925926,0.310476190476
+0347B050,"An application framework for dynamic distributed software architectures",0.417989417989,0.331349206349
+7E3C89F2,"Design of object-oriented simulations in C++",0.0957792207792,0.125
+7E587FD5,"Using Function Generalization to Design a Cosequential Processing Framework",0.116666666667,0.17037037037
+8119328F,"Vision paper: the essence of structural models",0.127272727273,0.142171717172
+76EA58D6,"An Empirical Validation of Object Oriented Design Quality Metrics",0.340277777778,0.251875901876
+7A22AEAC,"Design property metrics to maintainability estimation: a virtual method using functional relationship mapping",0.126322751323,0.143804112554
+7D572AD1,"Reactive transport in surface sediments. I. Model complexity and software quality",0.405303030303,0.22963980464
+798575CB,"General-purpose modular hardware and software framework for mobile outdoor augmented reality applications in engineering",0.428571428571,0.256179138322
+7E017F8E,"Reuse in software engineering: an object-oriented perspective",0.422619047619,0.422619047619
+7BC85AEF,"A reusable lightweight executive for command and control systems",0.109006734007,0.0933379120879
+7C36754B,"Reliable, reusable Ada components for constructing large, distributed multi-task networks: networks architecture services (NAS)",0.112037037037,0.126668701669
+80004ED8,"Composing Design Models: An Extension to the UML",0.106481481481,0.144255050505
+80CACC4A,"Tool-based quality management in object-oriented software development",0.412037037037,0.331755050505
+7D35A62F,"Respectful type converters",0.0777777777778,0.0857142857143
+795E6759,"Distributed Ada: case study",0.405303030303,0.350480769231
+7BF10B98,"Virtual memory and backing storage management in multiprocessor operating systems using object-oriented design techniques",0.117063492063,0.136193708253
+590BEC75,"Object-oriented design",0.0957792207792,0.125
+7E68AB5B,"The object-oriented structured design notation for software design representation",0.430555555556,0.323333333333
+7857A434,"Qualitative Analysis for the Impact of Accounting for Special Methods in Object-Oriented Class Cohesion Measurement",0.373214285714,0.246581890332
+7F0E52B8,"Real-time schedulability-analyzable mechanisms in Ada9X",0.075641025641,0.0833333333333
+7DF2B194,"A declarative evolution framework for object-oriented design patterns",0.127525252525,0.125694444444
+7F217085,"A parallelizing compiler by object oriented design",0.112037037037,0.142606837607
+77AEAA06,"Executive-centred system design for CAD applications",0.106593406593,0.105425824176
+81569493,"Implementing Layered Designs with Mixin Layers",0.0976107226107,0.15625
+6E89DFD5,"Testing Ada 95 Object-Oriented Programs",0.103174603175,0.171428571429
+7845C10C,"Long-term immune reconstitution and clinical outcome after stem cell transplantation for severe T-cell immunodeficiency",0.101851851852,0.0931623931624
+60B9980B,"Formal Development of Safe and Secure Java Card Applets",0.141414141414,0.126893939394
+77329A82,"Object-oriented design and PAMELA",0.0957792207792,0.125
+5FBCD285,"Pass the ball: game-based learning of software design",0.486111111111,0.327222222222
+686095E8,"HOOD and Z for the Development of Complex Software Systems",0.403703703704,0.269121989122
+79806E9F,"The game of set®: an ideal example for introducing polymorphism and design patterns",0.141414141414,0.140796703297
+5EC9007F,"Quality-for-ASIS: A Portable Testing Facility for ASIS",0.101037851038,0.113095238095
+7A24BD40,"The cognitive consequences of object-oriented design",0.0997474747475,0.107954545455
+7CEB88AE,"Derivation of safety requirements for safety analysis of object-oriented design documents",0.164285714286,0.127825745683
+7E4AE21E,"Integrating rate monotonic analysis into the preliminary Ada design process",0.153703703704,0.149394586895
+76B76735,"Mathematical assessment of object-oriented design quality",0.162037037037,0.166666666667
+78DA7F33,"Revising cohesion measures by considering the impact of write interactions between class members",0.112037037037,0.111256798757
+7AD3F0B1,"Ada package specifications: path expressions and monitors",0.107407407407,0.096911976912
+7F3CFCEF,"An aspect-oriented framework for developing component-based software with the collaboration-based architectural style",0.398148148148,0.368055555556
+7B8FA89B,"Java power tools: model software for teaching object-oriented design",0.412037037037,0.234977324263
+5E6015F8,"A New Definition of the Subtype Relation",0.122619047619,0.121428571429
+112C5110,"Reuse Metrics for Object Oriented Software",0.398148148148,0.350505050505
+7AA0D60B,"CANON in D(esign): Composing scales of plant canopies from phytomers to whole-plants using the composite design pattern",0.130555555556,0.143335368335
+5A19C34F,"Object-Oriented Design Heuristics",0.0957792207792,0.125
+8162E537,"A toolkit for automated support of Ada tasking analysis",0.148148148148,0.173397435897
+78C8B0BF,"Experience report on using object-oriented design for software maintenance",0.422619047619,0.301587301587
+77A55460,"SA-2-Ada: a methodology for deriving Ada designs from structured analysis specifications",0.14696969697,0.151461038961
+81626C4C,"MDAnalysis: A toolkit for the analysis of molecular dynamics simulations",0.137445887446,0.152777777778
+7D3032B1,"API-Evolution Support with Diff-CatchUp",0.12037037037,0.166666666667
+75965354,"Role-play virtual worlds for teaching object-oriented design: the ViRPlay development experience",0.117063492063,0.116991341991
+76F8133D,"Object-oriented requirements to object-oriented design: an easy transition?",0.100641025641,0.108333333333
+80B95C6C,"Transformation of data flow analysis models to object oriented design",0.153703703704,0.145833333333
+718D95F3,"Real-time convergence of Ada and Java ™",0.109006734007,0.0950854700855
+7C8488EC,"Object-oriented design: a responsibility-driven approach",0.0957792207792,0.118055555556
+6FD9C1D0,"Restructuring Conditional Code Structures Using Object Oriented Design Patterns",0.152777777778,0.171428571429
+7F29380F,"Temporal skeletons for verifying time",0.0981481481481,0.150673400673
+7F3BE916,"Structuring Criteria For Real Time System Design",0.112037037037,0.1134004884
+7C19D122,"Primary immunodeficiencies: 2009 update.",0.0874458874459,0.0884615384615
+75F5B999,"Applying object-oriented metrics to Ada 95",0.0719696969697,0.212121212121
+753DC0E2,"Using object oriented structured development to implement a hybrid system",0.100673400673,0.162005355755
+799CA085,"Assessing the cognitive consequences of the object-oriented approach: a survey of empirical research on object-oriented design by individuals and teams",0.547727272727,0.329769921437
+7DC71310,"A pattern-based approach to structural design composition",0.105303030303,0.112037037037
+78A6FBAE,"Identification of defect-prone classes in telecommunication software systems using design metrics",0.412037037037,0.239977036852
+766A5959,"Verifying general safety properties of Ada tasking programs",0.10873015873,0.136178266178
+7A682452,"On the Implementation and Use of Ada on Fault-Tolerant Distributed Systems",0.12037037037,0.124102564103
+5CB2995C,"Conceptual Design of Parallel Systems",0.0957792207792,0.100961538462
+7CA1AAD2,"Parsek: object oriented particle in cell. implementation and performance issues",0.122222222222,0.123304473304
+789999AC,"Building distributed Ada applications from specifications and functional components",0.117989417989,0.126178266178
+76B954ED,"Transitioning from structured analysis to object-oriented design",0.137445887446,0.179464285714
+5F97A2D9,"The Impact of Pair Programming and Test-Driven Development on Package Dependencies in Object-Oriented Design — An Experiment",0.125925925926,0.117613636364
+7FED07C1,"Applying a revised RFC metric to redesign an OO design",0.0957792207792,0.1875
+7E36BFC2,"Design patterns for object-oriented software development (tutorial)",0.430555555556,0.345643939394
+80AA482E,"Perfecting preemption threshold scheduling for object-oriented real-time system design: from the perspective of real-time synchronization",0.122619047619,0.135257203114
+7F31A1C2,"Evaluation of Accuracy in Design Pattern Occurrence Detection",0.158333333333,0.150793650794
+7855240D,"Object-oriented design: guidelines and techniques",0.116666666667,0.116666666667
+7AE6E6E2,"Defect proneness estimation and feedback approach for software design quality improvement",0.416666666667,0.220391414141
+8102695D,"Analysis Software with an Object-Oriented Petri Net Model",0.453703703704,0.355902777778
+5C9BCB40,"Concept Lattices in Software Analysis",0.464285714286,0.383928571429
+75B1B4B5,"Combining object-oriented and functional paradigms in a design methodology for Ada",0.0997474747475,0.126748251748
+76EC3CE5,"The evidence base for the efficacy of antibiotic prophylaxis in dental practice.",0.141414141414,0.121356421356
+2DBF3E95,"Software Engineering Laboratory (SEL) Ada performance study report",0.703703703704,0.358494679923
+7E5F0BEE,"Integrating expert system diagnostics within ATE system software",0.390476190476,0.226906426906
+80268D87,"Translation and execution of distributed Ada programs: Is it still Ada?",0.108225108225,0.171601731602
+7810623C,"An experimental comparison of reading techniques for defect detection in UML design documents",0.242063492063,0.196031746032
+7E9E47CC,"Metrics and techniques for automatic partitioning and assignment of object-based concurrent programs",0.130952380952,0.130086580087
+7BE8EAEE,"Toward a method of object-oriented concurrent programming",0.117063492063,0.133928571429
+7D7A8E81,"Applying object-oriented design to structured graphics",0.12037037037,0.181547619048
+0A2F8D2D,"The Standard Vector Library: a software framework for coupling complex simulation and optimization",0.412037037037,0.241955266955
+7534C8C8,"Implications of perspective in teaching objects first and object design",0.122619047619,0.129365079365
+768F5B38,"Experimental performance analysis of ada programs in cluster system",0.161255411255,0.136178266178
+78B81462,"Introduction to the literature on object-oriented design, programming, and languages",0.130952380952,0.125324675325
+803C224A,"An object-oriented methodology using dynamic variables for animation and scientific visualization",0.0976107226107,0.149848484848
+7AE501B1,"Requirements of an object-oriented design method",0.117063492063,0.122619047619
+785D7AE4,"An experimental evaluation of quality guidelines on the maintainability of object-oriented design documents",0.130952380952,0.123571428571
+7A8FC431,"A truly implementation independent GUI development tool",0.15,0.128084415584
+811331AB,"Functional refinement and nested objects for object-oriented design",0.112037037037,0.112037037037
+80293C14,"Towards an authorization mechanism for user-role based security in an object-oriented design model",0.115740740741,0.142466329966
+79044EDF,"Automating regression test selection based on UML designs",0.106481481481,0.171296296296
+788B7B63,"Improving the teaching of object-oriented design knowledge",0.162037037037,0.184027777778
+09FC939A,"Essential Framework Design Patterns",0.127525252525,0.134259259259
+5A9D06C6,"On Object-Oriented Design and Verification",0.108974358974,0.125
+7B628078,"Object-oriented design",0.0957792207792,0.125
+7EC81F83,"OO design patterns, design structure, and program changes: an industrial case study",0.419191919192,0.236607142857
+80B5D296,"Structured document framework for design patterns based on SGML",0.144841269841,0.156964067678
+80A9CFB5,"Obj ect-Oriented D e sign Archaeology with CIA",0.0874458874459,0.0811854811855
+7A643B8F,"Template for a system design file using OODPM version 5.0",0.116666666667,0.141860916861
+7D3E97B2,"Scalable libraries for solving systems of nonlinear equations and unconstrained minimization problems",0.0939393939394,0.112567987568
+7E121ACD,"Defining and validating measures for object-based high-level design",0.0957792207792,0.145833333333
+782A3C6C,"Influence of treatment with 3′-deoxyadenosine associated deoxycoformycin on hematological parameters and activity of adenosine deaminase in infected mice with Trypanosoma evansi",0.138636363636,0.144883040936
+7BE5855D,"Functional lists: object-oriented design classes for MIS applications",0.117989417989,0.109126984127
+81032AD7,"Ada as a parallel language for high performance computers: experience and results",0.128571428571,0.11088023088
+75931B87,"Subject-oriented design: towards improved alignment of requirements, design, and code",0.134259259259,0.144444444444
+780BEE33,"Detection and correction of design defects in object-oriented designs",0.155303030303,0.138181818182
+77DE2F33,"A character recognition scheme based on object oriented design for Tibetan buddhist texts",0.12037037037,0.143434343434
+7CC24FBC,"Identifying objects in legacy systems using design metrics",0.112037037037,0.154026529027
+0B8F3573,"Dental procedures and subsequent prosthetic joint infections: Findings from the Medicare Current Beneficiary Survey",0.403703703704,0.250089031339
+7F754DFF,"Quantifying the quality of object-oriented design: the factor-strategy model",0.12037037037,0.131944444444
+7ED73C8E,"TQL: a tasking query language for concurrent program analysis",0.178571428571,0.167142857143
+6EF41E60,"PROTOB - A Hierarchical Object-Oriented CASE Tool for Distributed Systems",0.109006734007,0.0911172161172
+760DED29,"Beyond Legal Compliance: Communities of Advocacy That Support Accessible Online Learning",0.19696969697,0.167222222222
+77DD7B1F,"An experimental approach to the performance penalty of the use of classes in Fortran 95",0.125925925926,0.115740740741
+80E4840B,"A comprehensive analysis of object-oriented design: towards a measure of assessing design ability",0.153703703704,0.149074074074
+77E3D0B6,"Towards a hierarchical design and integration of programming projects",0.138636363636,0.154166666667
+8060F89D,"Real-time synchronization on distributed architecture with Ada-2005",0.0981481481481,0.0912698412698
+7AD784FD,"Dependency oriented complexity metrics to detect rippling related design defects",0.112037037037,0.142266414141
+7AA46D07,"The object-oriented software development method: a practical approach to object-oriented development",0.417989417989,0.287157287157
+7ED4D2AA,"Static code analysis of functional descriptions in SystemC",0.175925925926,0.175925925926
+7FE08547,"Polymorphism measures for early risk prediction",0.103174603175,0.0985056610057
+7D28DBC9,"An Agent Based Framework for Visual-Interactive Ecosystem Simulations",0.112037037037,0.156111111111
+76155960,"Diabetes mellitus tipo 2 y enfermedad cardiovascular en España: una revisión descriptiva",0.0818903318903,0.0776886512181
+81C18503,"IL-17 receptor A and adenosine deaminase 2 deficiency in siblings with recurrent infections and chronic inflammation",0.0950854700855,0.0906177156177
+778D56EF,"The process of object-oriented design",0.12037037037,0.145833333333
+7A453AA5,"Architecture initiatives: component-based simulation modeling",0.105303030303,0.0949404761905
+7FDD2711,"Coupling of design patterns: common practices and their benefits",0.141414141414,0.121336996337
+7B4B23D5,"An empirical study of cycles among classes in Java",0.552777777778,0.461111111111
+7EE11A82,"Validation of CK Metrics for Object Oriented Design Measurement",0.125925925926,0.134132996633
+75292D3C,"Object construction and destruction design patterns in Fortran 2003",0.127525252525,0.118181818182
+7AA43A18,"Comparative Study of Workplace Policy and Practices Contributing to Disability Nondiscrimination",0.398148148148,0.279354904355
+7EF25057,"Specifying Java Card API in OCL",0.075641025641,0.0972222222222
+7EF18EDB,"Hardware support for efficient execution of Ada tasking",0.12037037037,0.109668109668
+7EFDA7FF,"Architectural tradeoffs at the object level",0.107407407407,0.111111111111
+812F55BF,"A hierarchical model for object-oriented design quality assessment",0.162037037037,0.152777777778
+5AAB95BC,"Behavior Consistent Extension of Object Life Cycles",0.0981481481481,0.100673400673
+808E5BEA,"Ada Interfaces to the X Window System",0.075641025641,0.0741025641026
+76C22293,"A note on hardware-software codesign",0.080303030303,0.0909090909091
+7AF6E8D0,"Designing a real-time coprocessor for Ada tasking",0.0702838827839,0.138461538462
+7ED56944,"Temporal logic-based deadlock analysis for Ada",0.139277389277,0.136752136752
+7898C34D,"Buffer pools and file processing projects for an undergraduate data structures course",0.137037037037,0.111393467643
+7A4A98A3,"Object-oriented programming and design patterns",0.127525252525,0.138888888889
+7F8E6182,"An object oriented design for the visualization of multi-variable data objects",0.116666666667,0.130555555556
+09948D59,"Measuring Object-Oriented Design",0.0957792207792,0.1875
+7AC5A464,"Object-relational mapping with SqueakSave",0.0981481481481,0.111111111111
+8001613E,"Object-oriented design and implementation of CFDLab: a computer-assisted learning tool for fluid dynamics using dual reciprocity boundary element methodology",0.189814814815,0.147344877345
+80F17D3F,"A logical theory of interfaces and objects",0.10873015873,0.106878306878
+7AFFFBA3,"Diagnosis of the significance of inconsistencies in object-oriented designs: a framework and its experimental evaluation",0.109006734007,0.107407407407
+7A44D715,"A proposal for a recursive object-oriented life-cycle",0.106481481481,0.125
+7CB51EDC,"BATCES solution #1: an object-oriented design from functional requirements analysis",0.144444444444,0.141477272727
+78234227,"A semantics for dynamic ceiling priorities in Ada",0.0849206349206,0.0836247086247
+5B57116F,"Role-play and Use Case Cards for Requirements Review",0.127525252525,0.156904761905
+58799C39,"A strategy for realizing traceability in an Object-Oriented design environment",0.109006734007,0.146527777778
+77A26FC8,"Classifying a Strength of Dependency between classes by using Software Metrics and Machine Learning in Object-Oriented System",0.472222222222,0.240592740593
+771E020E,"rCOS: a refinement calculus of object systems",0.0702838827839,0.0769230769231
+78B6BA73,"Unresolved issues in hematopoietic stem cell transplantation for severe combined immunodeficiency: Need for safer conditioning and reduced late effects",0.150673400673,0.134697401364
+5E824C4A,"Assessing the Suitability of a Standard Design Method for Modeling Software Architectures",0.422619047619,0.259580498866
+5C594A37,"Graphical object oriented executable specification for an automation oriented paradigm of software development",0.403703703704,0.236616161616
+763BE3BF,"Defining combined immunodeficiency",0.0702838827839,0.192307692308
+7BB43584,"From objects to classes: algorithms for optimal objection-oriented design",0.112037037037,0.118055555556
+7FBC01B5,"Safety verification in Murphy using fault tree analysis",0.155303030303,0.152465986395
+5ADB24C7,"Object-oriented design of an air defence simulator",0.127525252525,0.110416666667
+76AB6518,"An analysis of errors in a reuse-oriented development environment",0.150673400673,0.141477272727
+76782BB2,"Assessing conformance of pattern-based design in UML",0.0976107226107,0.136111111111
+0B6ABFA7,"Models and Methodology for Agent-Oriented Analysis and Design",0.14417989418,0.144255050505
+7921B3BB,"Domain-specific Semantics and Data Refinement of Object Models",0.0981481481481,0.105555555556
+76781EDC,"An overview of real-time issues and Ada",0.119191919192,0.11452991453
+7BF97E81,"Human aspects in object-oriented design: an assessment and a methodology",0.150641025641,0.141477272727
+74855B91,"Pattern visualization for software comprehension",0.406593406593,0.422619047619
+80A78268,"Integrating computer-aided software engineering and user interface management systems",0.412037037037,0.257727920228
+7BBA76EE,"Isolation of cDNA clones for human adenosine deaminase",0.0892773892774,0.078125
+7BA53FFB,"The correlation between source code analysis change recommendations and software metrics",0.458333333333,0.240877525253
+7AA8BF6D,"Insertional mutagenesis combined with acquired somatic mutations causes leukemogenesis following gene therapy of SCID-X1 patients.",0.0976107226107,0.171425796426
+7F455829,"The prediction of faulty classes using object-oriented design metrics",0.122619047619,0.160642135642
+5FA20526,"Hartstone Benchmark Results and Analysis",0.14696969697,0.14696969697
+5F905663,"Graphical notation for object-oriented design and programming",0.141666666667,0.15
+76136252,"An entropy‐based complexity measure for object‐oriented designs",0.112037037037,0.106481481481
+7B1378C0,"An empirical study of the bad smells and class error probability in the post-release object-oriented system evolution",0.577777777778,0.342254273504
+7A6213F3,"Object-oriented design of FMS control software based on object modeling technique diagrams and Petri nets",0.416666666667,0.221759259259
+5CE4A3DA,"A New Approach for Detecting Design Patterns by Graph Decomposition and Graph Isomorphism",0.138888888889,0.127944277944
+59760C52,"Achieving Consistency and Reusability in Presentation Layer Design using Formal Methods and Design Patterns",0.136507936508,0.164462081129
+7E0D427D,"An object-oriented forest landscape model and its representation of tree species",0.116161616162,0.108055555556
+7B4C246A,"Overweight is highly prevalent in children with type 1 diabetes and associates with cardiometabolic risk.",0.0849206349206,0.119009421951
+79C57B7D,"Finding software metrics threshold values using ROC curves",0.40873015873,0.29876314162
+7E3792C1,"Metrics for Object-Oriented Design Focusing on Class Inheritance Metrics",0.112037037037,0.12984006734
+71910F3E,"Real-time synchronization protocols for multiprocessors",0.0981481481481,0.0899782135076
+79AD7EEB,"An investigation into coupling measures for C++",0.0916666666667,0.136111111111
+7DA5D03D,"Tangible software modeling with multi-touch technology",0.405303030303,0.430555555556
+77EC0F61,"Evidence-Based Clinical Recommendations on the Prescription of Dietary Fluoride Supplements for Caries Prevention",0.12037037037,0.101851851852
+7821C63F,"Extending standard UML with model composition semantics",0.0929810929811,0.127777777778
+05A6A4BB,"An example proof of correctness for a collaboration-based design",0.130555555556,0.136408730159
+7E420097,"Designing for schedulability: integrating schedulability analysis with object-oriented design",0.137445887446,0.191666666667
+7EBBEB2E,"The Bayes Inference Engine",0.0952380952381,0.102678571429
+7EA7042F,"Starvation and critical race analyzers for Ada",0.0981481481481,0.082905982906
+5C9E0C22,"A stochastic approach to automated design improvement",0.100641025641,0.112037037037
+5E1AF5BD,"GLADE: a framework for building large object-oriented real-time distributed systems",0.0846560846561,0.141892551893
+7B700FE9,"Integrity quantification model for object oriented design",0.112037037037,0.129444444444
+7B4DDEE0,"The object-oriented paradigm in the undergraduate curriculum: a survey of implementations and issues",0.425925925926,0.293737373737
+7FB8D225,"Hot spot recovery in object-oriented software with inheritance and composition template methods",0.417989417989,0.23617295403
+7A5C0DB8,"On the object-oriented design of reference-counted shadow objects",0.112037037037,0.104344729345
+7A9D691C,"Using metamodeling to integrate object-oriented analysis, design and programming concepts",0.15873015873,0.190476190476
+5F58551B,"Inheritance conditions for object life cycle diagrams",0.107407407407,0.0944444444444
+76088509,"Assessment of maintainability metrics for object-oriented software system",0.442307692308,0.354458041958
+7D3BE192,"Towards a Client Driven Characterization of Class Hierarchies",0.0981481481481,0.105642135642
+7F53B7FB,"A Class Hierarchy for Building Stream-Oriented File Systems",0.0981481481481,0.125788655789
+802D6171,"An overview of object-oriented design metrics",0.105303030303,0.105303030303
+7E0F7C91,"The event notification pattern—integrating implicit invocation with object-orientation",0.140211640212,0.125925925926
+7F043ECA,"Object oriented design metrics framework based on code extraction",0.134259259259,0.159704184704
+7D33277B,"OO/DEVS: A platform for industry simulation and strategic modelling",0.0976107226107,0.0977182539683
+7E65B513,"The use of layers and planes for architectural design of communication systems",0.127525252525,0.108389295889
+79062BCB,"Using object modeling to transform structured analysis into object oriented design",0.139277389277,0.206944444444
+81175686,"An empirical study of software reuse with special attention to Ada",1.0,1.0
+7DEAB275,"UMLDiff: an algorithm for object-oriented design differencing",0.0957792207792,0.125
+583C2FBB,"Design recovery by automated search for structural design patterns in object-oriented software",0.444444444444,0.274891774892
+595D8458,"Mapping Procedural Patterns to Object-Oriented Design Patterns",0.127525252525,0.15625
+7EEA11F5,"A network operating system (NOS) to support real-time distributed Ada applications",0.117989417989,0.158259201116
+7D2A6BDF,"A generalized framework for interactive dynamic simulation for multirigid bodies",0.104344729345,0.106481481481
+76651551,"Ode: a self-guided, scenario-based learning environment for object-oriented design principles",0.186111111111,0.156666666667
+6E6601C3,"Classifying relationships between object-oriented design patterns",0.134259259259,0.145833333333
+813C7A57,"Template elastic‐plastic computations in geomechanics",0.114926739927,0.133928571429
+5C5C50B8,"Replicated Case Studies for Investigating Quality Factorsin Object-Oriented Designs",0.412037037037,0.298611111111
+5D98B4A2,"Mapping Object-Oriented Designs to Ada",0.0957792207792,0.145833333333
+778CEDE5,"Longitudinal Lipid Screening and Use of Lipid-Lowering Medications in Pediatric Type 1 Diabetes",0.134259259259,0.106764705882
+759155C1,"Understanding the shape of Java software",0.392307692308,0.379166666667
+0C49FE0D,"AN EMPIRICAL METHOD FOR MEASURING THE EFFECTIVENESS OF AN OBJECT-ORIENTED DESIGN PROCESS",0.350108225108,0.297420634921
+7E0BB926,"Essential use cases and responsibility in object-oriented development",0.127525252525,0.123421717172
+77916639,"SPARK—an annotated Ada subset for safety-critical programming",0.12037037037,0.138888888889
+7E951B81,"Ada95 object-oriented and real-time support for development of software fault tolerance reusable components",0.425925925926,0.264099326599
+7EF90420,"Using generalized markup and SGML for reverse engineering graphical representations of software",0.430555555556,0.259962606838
+79B24C01,"Further investigations of reading techniques for object-oriented design inspection",0.178418803419,0.181666666667
+5A2CA50D,"Patterns as Signs",0.119191919192,0.133333333333
+7CFB3FCF,"Multi-view software evolution: a UML-based framework for evolving object-oriented software",0.396011396011,0.482222222222
+7EBA0BD2,"A Qualitative Evaluation of a Software Development and Re-Engineering Project",0.437037037037,0.353977272727
+77BA26FA,"Creating object-oriented designs from legacy FORTRAN code",0.134259259259,0.159848484848
+726FC96C,"Applying design-metrics to object-oriented frameworks",0.0846560846561,0.222222222222
+7B3E7A5A,"Contracts for aspect-oriented design",0.105303030303,0.1125
+75C57350,"User interface modeling in UMLi",0.075641025641,0.075
+6E52E58F,"Timing Issues in the Distributed Execution of Ada Programs",0.116161616162,0.131358225108
+7F51ACBF,"Search-based software maintenance",0.388888888889,0.541666666667
+7C5C5655,"A real-time Ada design method based on DoD-STD-2167A",0.117063492063,0.169528388278
+016BD9CE,"High Level Design Reuse through Fuzzy Learning",0.186111111111,0.204861111111
+7B7074BD,"Generating large-scale repositories of reusable artifacts for conceptual design of information systems",0.12037037037,0.124125874126
+5CB77708,"Behavior Consistent Refinement of Object Life Cycles",0.0981481481481,0.103703703704
+7F0D66D3,"A Service-Oriented Componentization Framework for Java Software Systems",0.39417989418,0.317841880342
+777A40C2,"Techniques for assessing tooth surfaces in school-based sealant programs",0.103174603175,0.126904761905
+5F53E5D8,"Object-Oriented Design of Dynamic Graphics Applications",0.126322751323,0.130952380952
+802CDD9E,"Identification of refactoring opportunities introducing polymorphism",0.0981481481481,0.10545010545
+5ADC727F,"Automated Software Evolution via Design Pattern Transformations",0.430555555556,0.29212962963
+79D8219F,"Towards a real-time distributed systems annex in Ada",0.0702838827839,0.117948717949
+809A5225,"Detection of Ada static deadlocks using Petri net invariants",0.134615384615,0.191666666667
+7D8F80FD,"Modelling the behaviour of Ada tasks and verifying its safety",0.130303030303,0.163333333333
+808C75D5,"Software prototyping by relational techniques: experiences with program construction systems",0.422619047619,0.268772893773
+77CF0CBC,"A tool for measuring inheritance coupling in object-oriented systems",0.0960113960114,0.141892551893
+80AC4C32,"Coping with Java threads",0.075641025641,0.134920634921
+7DB11D5A,"A generic classification and object-oriented simulation toolkit for SMT assembly equipment",0.106593406593,0.102861721612
+5A269260,"MODeLeR: A Virtual Constructivist Learning Environment and Methodology for Object-Oriented Design",0.105303030303,0.134916472416
+7AF79F0F,"A new model for handling input",0.106481481481,0.162037037037
+77FDA0E7,"Long-term Clinical Outcome of Patients with Severe Combined Immunodeficiency Who Received Related Donor Bone Marrow Transplants without Pretransplant Chemotherapy or Post-transplant GVHD Prophylaxis",0.101851851852,0.115934065934
+80088939,"Implementing Sporadic Servers in Ada",0.0702838827839,0.132783882784
+816310D9,"A Verified Formal Model of a VC Generator",0.0846560846561,0.0888888888889
+7D279DB2,"A methodology for constructing maintainability model of object-oriented design",0.102513227513,0.144255050505
+7F848E90,"Compiling Knowledge-Based Systems to Ada: The PrkAda ProTalk Compiler",0.0702838827839,0.106837606838
+5B93230F,"Heterogeneous Data Structures and Cross-Classification of Objects with Ada95",0.144444444444,0.138888888889
+7840104E,"Improving cellular therapy for primary immune deficiency diseases: Recognition, diagnosis, and management",0.106481481481,0.119908266337
+7C02205D,"Object-oriented software for quadratic programming",0.405303030303,0.5625
+7DA01596,"Empirical analysis of CK metrics for object-oriented design complexity: implications for software defects",0.59375,0.350252525253
+7672874A,"Impaired fasting glucose and cardiovascular risk factor clustering among Mongolian population in rural and animal husbandry area, Inner Mongolia, China",0.107407407407,0.0930959926058
+71E7BC82,"About the Difficulties of Building a Pretty-Printer for Ada",0.0992063492063,0.156593406593
+7D0F5DE7,"The objection to objects",0.112037037037,0.118055555556
+7863AE1A,"The long quest for neonatal screening for severe combined immunodeficiency.",0.125,0.154647435897
+0AE76C07,"Inheritance-Based Metric for Complexity Analysis in Object-Oriented Design",0.153703703704,0.162037037037
+7D7AEA25,"Determinants of Labor Market Outcomes of Disabled Men Before and After the Americans with Disabilities Act of 1990",0.148148148148,0.112653318903
+5C672145,"Disability Employment Policies and Practices in Private and Federal Sector Organizations",0.125925925926,0.11038961039
+78399FF9,"An architecture for the development of real-time fault diagnosis systems using model-based reasoning",0.125,0.13775153418
+5DED193F,"Layered Development with (Unix) Dynamic Libraries",0.080303030303,0.108080808081
+794AB575,"Levels of Drug and Antidrug Antibodies Are Associated With Outcome of Interventions After Loss of Response to Infliximab or Adalimumab",0.107407407407,0.14025974026
+8011AECB,"ReSoFT: a reusable testbed for development and evaluation of software fault-tolerant systems",0.412037037037,0.323208041958
+7F02882C,"POST: a case study for an incremental development in rCOS",0.405303030303,0.323208041958
+7F4AA60A,"Towards a learner-centred approach to teaching object-oriented design",0.0957792207792,0.126322751323
+7DDF7BE0,"The use of preemptive priority-based scheduling for space applications",0.134259259259,0.139880952381
+80E7B92E,"Applying use cases to design versus validate class diagrams - a controlled experiment using a professional modeling tool",0.130555555556,0.173373015873
+8120C03C,"Learning Object-Oriented Programming",0.0957792207792,0.229166666667
+7820432D,"Reconfigurable simulator using graphical user interface (GUI) and object-oriented design for OFDM systems",0.155303030303,0.144214119214
+8019F6EB,"Object oriented design with applications",0.117989417989,0.144742063492
+79D7C272,"An object-oriented system for 3D medical image analysis",0.15873015873,0.156593406593
+7B2B9CBC,"Misunderstandings about object-oriented design: experiences using code reviews",0.163888888889,0.176461038961
+7EE16BFB,"RECODE: SOFTWARE PACKAGE REFACTORING VIA COMMUNITY DETECTION IN BIPARTITE SOFTWARE NETWORKS",0.444444444444,0.428703703704
+76F202B7,"Language-independent detection of object-oriented design patterns",0.155303030303,0.180555555556
+7A12D8B0,"Object-oriented development",0.080303030303,0.0909090909091
+7E4727A5,"An object-oriented hydrologic model for humid, shallow water-table environments",0.0929810929811,0.105555555556
+7D756C7D,"On the use of Ada in computer-aided engineering",0.12037037037,0.122863247863
+75993997,"An object oriented perspective for AC/MTDC system simulation",0.122619047619,0.131178266178
+80D98C8A,"Pleural Fluid Adenosine Deaminase (ADA) Level in Tuberculous Pleurisy",0.0981481481481,0.0826068376068
+7818D09A,"Towards complexity metrics for Ada tasking",0.0981481481481,0.0929810929811
+80A668EF,"An approach for deriving object-oriented metrics",0.0895622895623,0.134006734007
+7AE32275,"Current and future trends in compiler validation and evaluation (invited presentation)",0.112433862434,0.105463980464
+7F17518D,"Selecting an object-oriented process for student analysts",0.12037037037,0.145833333333
+7CE20D96,"Design of class hierarchies based on concept (Galois) lattices",0.122619047619,0.146141556856
+7F7F296F,"Towards the optimization of automatic detection of design flaws in object-oriented software systems",0.458333333333,0.273805361305
+7A063B6F,"Object-oriented design of a cotton crop model",0.102513227513,0.0947420634921
+76C964FE,"Assessment of usability metrics for object-oriented software system",0.442307692308,0.303566433566
+79AD3FAD,"An annotated bibliography for object-oriented analysis and design",0.143939393939,0.155303030303
+7B9A48C1,"Intensively managed young children with type 1 diabetes consume high-fat, low-fiber diets similar to age-matched controls",0.0892773892774,0.111513323278
+760CF967,"Object-oriented design and analyses for advanced application development: progress towards a new frontier",0.142307692308,0.127254689755
+59A0B8F6,"An Object-Oriented Framework for Loop Parallelization",0.0846560846561,0.0868055555556
+7D62637C,"Object-Oriented Design Process Model",0.12037037037,0.134259259259
+79D79436,"Rational for the design of reusable abstract data types implemented in Ada",0.112037037037,0.124394586895
+772034A6,"OREX-J: towards a universal software framework for the experimental analysis of optimization algorithms",0.453703703704,0.315404040404
+7DE7EC8A,"Evaluating object-oriented designs with link analysis",0.14696969697,0.16875
+7863A2CD,"A comparison of two object-oriented design methodologies (abstract only)",0.165223665224,0.183080808081
+80C1C308,"Evaluating the effect of a delegated versus centralized control style on the maintainability of object-oriented software",0.398148148148,0.292003367003
+798AD31C,"Toward a real-time Ada design methodology",0.0957792207792,0.0976107226107
+7FC2A69A,"Modeling of advanced tasking in Ada-95: a Petri net perspective",0.103174603175,0.113095238095
+5F71D236,"Usage-Centered Interface Design for Quality Improvement",0.12037037037,0.104166666667
+778F1235,"B Cell Function in Severe Combined Immunodeficiency after Stem Cell or Gene Therapy: A Review",0.141666666667,0.115886752137
+7BA59F61,"Implementation of mode changes with the Ravenscar profile",0.115740740741,0.111805555556
+6A0295BA,"Object-oriented design of the UPT service: Evaluation of the design quality and experience learned",0.151322751323,0.168027210884
+7ACC447E,"Distributed and parallel Ada and the Ada 9X recommendations",0.0874458874459,0.113461538462
+765B7DCB,"Separation of concerns in compiler development using aspect-orientation",0.100673400673,0.136741036741
+791A776F,"HRT-HOOD: a structured design method for hard real-time systems",0.117063492063,0.114926739927
+7998460B,"Requirements analysis for large Ada programs: lessons learned on CCPDS-R",0.15873015873,0.185238095238
+5FA12714,"An Automated Approach to Testing Polymorphic Features Using Object-Z",0.0978835978836,0.188888888889
+59E42F0F,"The Specification of UML Collaborations as Interaction Components",0.112037037037,0.111805555556
+6B39E6FF,"Delegation diagrams: visual support for the development of object-oriented designs",0.122895622896,0.109848484848
+80212C28,"Modeling and managing risk early in software development",0.393939393939,0.316287878788
+5E020A29,"From Conceptual Specification to Object Oriented Design",0.105303030303,0.130555555556
+8138A8C2,"Analysis of quality of object oriented systems using object oriented metrics",0.162037037037,0.173409576535
+751ADAEF,"Biologic therapies in inflammatory bowel disease",0.0895299145299,0.0892857142857
+7DAC1AF2,"Unequal treatment or uneven consequence: a content analysis of Americans with Disabilities Act Title I disparate impact cases from 1992 - 2012",0.155303030303,0.151447510823
+7A6AD748,"Design of a simple and effective object-to-relational mapping technique",0.116666666667,0.12037037037
+7C4D9822,"Object-oriented and conventional analysis and design methodologies",0.137445887446,0.155303030303
+59C754A7,"Framework component systems: Concepts, design heuristics, and perspectives",0.117063492063,0.11926565498
+7A658A0D,"ForeSee —A hierarchical dynamic modeling and simulation system of complex processes",0.12037037037,0.112980769231
+7AF2F25E,"A parallel programming model for ada",0.102513227513,0.104344729345
+8069B12C,"Object-oriented analysis and design of hardware/software co-designs with dependence analysis for design reuse",0.153703703704,0.172222222222
+801A3467,"Balancing value and modifiability when planning for the next release",0.106593406593,0.120238095238
+7B0DAAFD,"Abstract data types are under full control with Ada 9X",0.0981481481481,0.144273504274
+790C20C2,"A concurrency analysis tool suite for Ada programs: rationale, design, and preliminary experience",0.164285714286,0.135763888889
+77BD5F09,"PaperButtons: expanding a tangible user interface",0.0818903318903,0.100144300144
+7790256D,"ADAM: a language-independent, object-oriented, design environment for modeling inheritance and relationship variants in Ada 95, C++, and Eiffel",0.12037037037,0.109867909868
+795ECF43,"Towards a model of cognitive process in logical design: comparing object-oriented and traditional functional decomposition software methodologies",0.481481481481,0.271991896992
+7F134DC1,"Object-Oriented Design for Sparse Direct Solvers",0.0957792207792,0.100961538462
+80599B92,"Object oriented design pattern inference",0.130555555556,0.149126984127
+5E99DA6D,"Object-Oriented Design for Image Synthesis",0.117063492063,0.117063492063
+762E87EA,"The state-machine pattern",0.116161616162,0.166666666667
+5B9BB145,"Design Patterns as Litmus Paper to Test the Strength of Object-Oriented Methods",0.130555555556,0.139424001924
+7685DDE3,"Establishing diagnostic criteria for severe combined immunodeficiency disease (SCID), leaky SCID, and Omenn syndrome: The Primary Immune Deficiency Treatment Consortium experience",0.136507936508,0.124471824472
+5B44C7CE,"ASIS-for-GNAT: A Report of Practical Experiences",0.117063492063,0.133928571429
+7CDD420C,"The composition of abstractions: evolution of software component design with Ada 95",0.416666666667,0.260185185185
+816E2E0A,"Engineering multimedia user interfaces with objects and patterns",0.130555555556,0.111910774411
+7002F2AB,"Cost-effectiveness of antibiotic prophylaxis for dental patients with prosthetic joints: Comparisons of antibiotic regimens for patients with total hip arthroplasty",0.178418803419,0.126736111111
+8096ADF9,"Modularity-Oriented Refactoring",0,0
+7E21073A,"Timing analysis of Ada tasking programs",0.15873015873,0.172619047619
+7F063287,"First-Class Relationships for Object-Orientated Programming Languages",0.130952380952,0.130952380952
+7C3BE22D,"Object-oriented requirements analysis: a tool vision",0.175641025641,0.155357142857
+79A58CAA,"Object-oriented abstraction of contemporary forest management design",0.111111111111,0.12037037037
+7EACCDA5,"Development and use of concurrency abstractions for discrete-event simulation",0.125,0.123737373737
+79CA2BE0,"Structural testing of concurrent programs",0.123015873016,0.142857142857
+5F72D71B,"Empirical Analysis of CK Metrics for Object-Oriented Design Complexity: Implications for Software De",0.59375,0.386002886003
+81095694,"An object-oriented approach to dialogue management in spoken language systems",0.126322751323,0.110500610501
+69D2597E,"Integrating middleware for timely reconfiguration of distributed soft real-time systems with ada DSA",0.0702838827839,0.121794871795
+7FF7AE04,"Chidamber and Kemerer's metrics suite: a measurement theory perspective",0.136507936508,0.128658008658
+7D1648CC,"A study of the impact of C++ on software maintenance",0.703703703704,0.548611111111
+78EF9A6A,"Metric based testability model for object oriented design (MTMOOD)",0.102513227513,0.192361111111
+81067485,"APSARA: a tool to automate system design via intelligent pattern retrieval and synthesis",0.127525252525,0.12068288854
+7C28E22C,"Evaluation of object-oriented design patterns in game development",0.141414141414,0.134848484848
+78C117ED,"Polymorphic constitutive equations in finite element codes",0.12037037037,0.125925925926
+759B5F5E,"Gene therapy for primary adaptive immune deficiencies",0.0997474747475,0.0975378787879
+78713041,"Safe parallel programming in ada with language extensions",0.130952380952,0.10531968032
+751403D0,"Adding Time to Synchronous Process Communications",0.125,0.142361111111
+7E66A794,"Insertion of fault detection mechanisms in distributed Ada software systems",0.458333333333,0.242147435897
+80944B24,"Quality driven software migration of procedural code to object-oriented design",0.416666666667,0.276587301587
+7D4D0D67,"An integrated approach to design complex CORBA systems",0.0886243386243,0.129344729345
+7582E483,"Using Pantomime in Teaching OOA&OOD with UML",0.106593406593,0.206349206349
+7F59CB2E,"Recognizing design patterns in C++ programs with integration of Columbus and Maisa",0.127525252525,0.1308356676
+5F02A260,"Graph Theoretical Indicators and Refactoring",0.0874458874459,0.1
+77A6CBAD,"The representation of space in an object-oriented computational pelagic ecosystem",0.122895622896,0.134259259259
+7F356B10,"A combined functional and object-oriented approach to software design",0.405303030303,0.412037037037
+7E33ED65,"Validation of object oriented software design with fault tree analysis",0.453703703704,0.248090277778
+7F29F1EC,"Application of metrics to object-oriented designs",0.106593406593,0.119588744589
+75DA478E,"Keynote paper: A performance analysis of a hard real-time system",0.148148148148,0.132235819736
+67538508,"The application of formal specifications to software documentation and debugging",0.414285714286,0.335714285714
+75A252DF,"An environment for operational software engineering in Ada",0.408333333333,0.325480769231
+04AFB29A,"A Comparison of two outstanding Methodo- logies for Object-Oriented Design",0.165223665224,0.229166666667
+7BE7BDDE,"Pre-Diabetes, Metabolic Syndrome, and Cardiovascular Risk",0.0849206349206,0.0954545454545
+5AF9458E,"Operation of The Bayes Inference Engine",0.103563103563,0.0955700549451
+5A237531,"Putting into Practice Advanced Software Engineering Techniques through Students Project",0.441666666667,0.275
+7C2FA142,"Using timed CSP during object oriented design of real-time systems",0.0957792207792,0.172051282051
+074ABCCB,"The dental treatment of patients with joint replacements: a position paper from the American Academy of Oral Medicine.",0.113636363636,0.0970006184292
+7BCAC0C2,"Connecting Employers With People Who Have Intellectual Disability",0.109006734007,0.189285714286
+7DB9A749,"An automatic restructuring approach preserving the behavior of object-oriented designs",0.12037037037,0.163194444444
+79A27D60,"A comparison of experiences with the maintenance of object-oriented systems: Ada vs. C++",0.186507936508,0.142673992674
+76340F16,"Object-oriented design for distributed systems: The OSI directory example",0.127525252525,0.106036324786
+7ACE542E,"Ada training evaluation and recommendation",0.112037037037,0.116666666667
+80FED1B0,"Improving cohesion metrics for classes by considering dependent instance variables",0.112037037037,0.133513708514
+7D2EA936,"Comments on "measurement of Ada overhead in OSI-style communications systems",0.134259259259,0.111324786325
+81642F73,"An expert system on site selection of sanitary landfill",0.106481481481,0.0882367632368
+7EA0E2B6,"Object model resurrection — an object oriented maintenance activity",0.141666666667,0.138425925926
+7779B888,"Partial trisomy 20 confirmed by gene dosage studies",0.403703703704,0.319841269841
+759B643F,"Object-oriented design and automatic Ada code generation in the education of software engineers",0.425925925926,0.248182373182
+7D7A8DA1,"Scenario-based assessment of learning experiences",0.166666666667,0.242063492063
+81779FDC,"Security Metrics for Object-Oriented Class Designs",0.112037037037,0.104482323232
+79C2F1E3,"Combining tasking and transactions, part II: open multithreaded transactions",0.109006734007,0.12803030303
+7E8E7668,"Trends in esign for Distributed Computing Systems",0.0702838827839,0.116117216117
+76C7CB1D,"Impact of inheritance on vulnerability propagation at design phase",0.109006734007,0.106355218855
+7EF0DBA0,"Systematically deriving partial oracles for testing concurrent programs",0.103174603175,0.153571428571
+7B4DA32F,"Lessons learned from automated analysis of industrial UML class models (an experience report)",0.172619047619,0.177926587302
+785D65BF,"A controlled experiment investigation of an object-oriented design heuristic for maintainability",0.107142857143,0.125
+776883C4,"The current programming language standards scene VIIIA: ADA",0.130952380952,0.106562881563
+0A1F7CF7,"From Structured Programming to Object-Oriented Design: The Road to Eiffel",0.0957792207792,0.127861721612
+768BCDBD,"Bilateral sensorineural deafness in adenosine deaminase-deficient severe combined immunodeficiency",0.0702838827839,0.129807692308
+76A6F2A6,"Adenosine deaminase in rodent median eminence: detection by antibody to the mouse enzyme and co-localization with adenosine deaminase-complexing protein (CD26)",0.136752136752,0.0972544581567
+7E0CFEED,"Recent developments to the MICHELLE 2-D/3-D electron gun and collector modeling code",0.122895622896,0.092803030303
+7B6DC3CC,"An object-oriented cellular automata model for forest planning problems",0.112433862434,0.107052669553
+770EE9E3,"B-cell development and functions and therapeutic options in adenosine deaminase–deficient patients",0.100673400673,0.0963383838384
+7757A8C2,"The rise, fall and persistence of Ada",0.0914141414141,0.0861888111888
+803E2456,"Lightweight Analysis of Object Interactions",0.148148148148,0.1875
+80E52E78,"On the use of Ada tasking in the building of satellite control software",0.425925925926,0.248656898657
+7A1701B3,"Quantitative assessment of UML dynamic models",0.134615384615,0.180555555556
+76B54F5C,"Evaluating framework architecture structural stability",0.0864875864876,0.116468253968
+79678044,"Faunus: An object oriented framework for molecular simulation",0.112037037037,0.129444444444
+80B67475,"A revised, inheritance-supporting parallel object model in PDEFA-I",0.0886243386243,0.109006734007
+7810611D,"Cognitive activities and levels of abstraction in procedural and object-oriented design",0.141666666667,0.140277777778
+7C953DFC,"Getting the most from search-based refactoring",0,0.333333333333
+79373767,"Dual ceiling protocol for real-time synchronization under preemption threshold scheduling",0.112037037037,0.0989478114478
+7CD4A1A2,"Object centered design for Java: teaching OOD in CS-1",0.112037037037,0.136111111111
+7AFC0954,"Assessing defect detection performance of interacting teams in object-oriented design inspection",0.222222222222,0.194336219336
+0F63BB7E,"A practical approach to evidence-based dentistry: VII: How to use patient management recommendations from clinical practice guidelines",0.125925925926,0.13530982906
+5AD66762,"Using the AADL to Describe Distributed Applications from Middleware to Software Components",0.417989417989,0.335642135642
+7E766D5D,"Design pattern recovery by visual language parsing",0.130952380952,0.119588744589
+80FE40C9,"Ada programming language for numerical computation",0.136904761905,0.121909340659
+7F82141E,"Towards a simplified implementation of object-oriented design metrics",0.100641025641,0.105303030303
+803B2718,"Linear programming supporting Ada-tasking static analysis: a Petri net approach",0.137445887446,0.215277777778
+7D224810,"Panel: effects of object-oriented design on reuse and maintenance",0.0997474747475,0.0940413752914
+7F6ECDBB,"Design and implementation of a Petri net based toolkit for Ada tasking analysis",0.142307692308,0.157959401709
+77FC0E58,"Ada-Java middleware for legacy software modernization",0.393939393939,0.393939393939
+082D8BC1,"GoF Creational Patterns: A Formal Specification",0.119191919192,0.133333333333
+7CF3A49B,"Bridging the gap between structured requirements and object-oriented analysis and design",0.142307692308,0.158531746032
+7BD3E632,"A model of visibility control",0.0929810929811,0.100673400673
+5BC4B962,"Object-Oriented Distributed Computing with C++ and OSF DCE",0,0.2
+80B660DB,"Teaching students to build well formed object-oriented methods through refactoring",0.103174603175,0.17380952381
+8053D1A3,"Derivation and presentation of an abstract program space for Ada",0.132275132275,0.112912087912
+808692A5,"A design pattern verifier in two-tier programming environment",0.127525252525,0.118717948718
+7940F605,"Applying object-oriented design to finite element programming",0.102513227513,0.173611111111
+80C7343B,"Testing Consequences of Grime Buildup in Object Oriented Design Patterns",0.130555555556,0.132544191919
+79F98CC7,"A new approach for the design of electric power system software using object oriented modeling",0.412037037037,0.255101495726
+777D09EA,"Object-oriented design: A goal-driven and pattern-based approach",0.0957792207792,0.118055555556
+7C90F83D,"Traffic simulation: a case study for teaching object oriented design",0.408333333333,0.261281179138
+788D1046,"Schizophrenic middleware support for fault tolerance",0.12037037037,0.127525252525
+7D1F3D3F,"Runtime control of Ada rendezvous for testing and debugging",0.0892773892774,0.135897435897
+7C865066,"Rank-based quality measurement of software systems in standardized source code",0.430555555556,0.269764957265
+78901916,"Object-centered design: a five-phase introduction to object-oriented programming in CS1–2",0.0957792207792,0.113636363636
+79FF77BE,"Object-oriented design",0.0957792207792,0.125
+7CB8619B,"Empirical assessment of the impact of structural properties on the changeability of object-oriented software",0.5875,0.430555555556
+7926CA60,"Object-oriented Ada-based development of highly reusable control software",0.39696969697,0.39696969697
+77E918E9,"Teaching Object‐Oriented Design Without Programming: A Progress Report",0.113636363636,0.120238095238
+7FB7031B,"Analyzing systems for object oriented design",0.0957792207792,0.183814102564
+5F2FE306,"Object-Oriented Design Patterns",0.127525252525,0.145833333333
+817682B2,"Using Declarative Meta Programming for Design Flaws Detection in Object-Oriented Software",0.458333333333,0.375
+7F5529CA,"Reading Techniques for OO Design Inspections",0.178418803419,0.195833333333
+7B8D943C,"An empirical investigation of an object-oriented design heuristic for maintainability",0.330357142857,0.34375
+7E7C5DC1,"POD: a composition environment for pattern-oriented design",0.105303030303,0.0979166666667
+7B72B6E3,"Developing Java applications for a nuclear fusion experiment: a test case for Java applicability in a demanding environment",0.127525252525,0.127341269841
+7C66F066,"A study of object-oriented design errors made by novice programmers",0.398148148148,0.291666666667
+7CD2B59B,"The SIGCSE 2001 Maze Demonstration program",0.112433862434,0.108465608466
+76B4202F,"The effects of design pattern application on metric scores",0.111255411255,0.114691558442
+7A9114D5,"The performance of a prototype coprocessor for Ada tasking",0.102777777778,0.104344729345
+75F92DC1,"Object-oriented programming in control system design: a survey",0.39696969697,0.285384615385
+793257FB,"Automating the analysis of design component contracts",0.153703703704,0.177777777778
+7C8198D4,"Working with Ada 9X classes",0.0981481481481,0.222222222222
+7B840931,"Measuring the vulnerability of an object-oriented design",0.0997474747475,0.155303030303
+7DEC2E0F,"Support technologies for avionics operational flight programs",0.133477633478,0.123571428571
+809802D4,"Effective Recognition of Patterns in Object-Oriented Designs",0.127525252525,0.127525252525
+5EB78107,"Identity and Disability in the Workplace",0.0981481481481,0.0864875864876
+809990EA,"Industrial strength exception freedom",0.116666666667,0.12962962963
+7CC117F5,"Biochemical detection of adenosine deaminase in Trypanosoma evansi",0.134615384615,0.25
+7B97828F,"Type 1 diabetes, metabolic syndrome and cardiovascular risk",0.0849206349206,0.0874331550802
+7D046DA4,"Design components: towards software composition at the design level",0.412037037037,0.262037037037
+812D85BD,"How Fields are Used in Java: An Empirical Study",0.540064102564,0.470238095238
+790C96D2,"Neonatal screening for severe combined immunodeficiency caused by an adenosine deaminase defect: A reliable and inexpensive method using tandem mass spectrometry",0.144841269841,0.172876814543
+7EEA0498,"Indicators of Structural Stability of Object-Oriented Designs: A Case Study",0.408333333333,0.286666666667
+78117ED5,"A Precise Method-Method Interaction-Based Cohesion Metric for Object-Oriented Classes",0.0981481481481,0.10101010101
+77ECE23A,"Deploying expert systems in Ada",0.0702838827839,0.106837606838
+766BC29B,"A tutorial and review of object-oriented design of manufacturing software systems",0.441666666667,0.305384615385
+7D43F775,"Knowledge-Based Support for Object-Oriented Software Design and Synthesis: a category theoretic approach",0.425925925926,0.266203703704
+5A0C4C6D,"Integration of business processes in web application models",0.127525252525,0.127308802309
+5E23E39F,"Using Declarative Metaprogramming To Detect Possible Refactorings",0,0.266666666667
+58822ECB,"System Design by Composing Structures of Interacting Objects",0.112037037037,0.149394586895
+7DBFFD76,"The effect of task order on the maintainability of object-oriented software",0.433333333333,0.350505050505
+7CF96C3B,"Software CAD: a revolutionary approach",0.398148148148,0.396011396011
+771E17C6,"Structured analysis and object-oriented design are compatible",0.137445887446,0.212797619048
+5F49D530,"Gauging the Performance of Object-Oriented Design Metrics",0.106481481481,0.123421717172
+78FB7B53,"A NEW METRIC FOR OBJECT-ORIENTED DESIGN",0.0957792207792,0.125
+7FD9718A,"Automating the development of pattern-oriented designs for application specific software systems",0.414285714286,0.280948218448
+7C194597,"Proving specifications of tasking systems using Ada/TL",0.0874458874459,0.192051282051
+7F9D9D6A,"TRW's Ada process model for incremental development of large software systems",0.425925925926,0.289121989122
+76C6EEDC,"A comparison of sixteen quality metrics for object-oriented design",0.189814814815,0.168560606061
+8095C0B8,"Assessing Post‐ADA Employment: Some Econometric Evidence and Policy Considerations",0.119191919192,0.151111111111
+5BE616EE,"Application and System Prototyping Via an Extensible Object-Oriented Environment",0.111255411255,0.106593406593
+80B123F8,"A formal mechanism for assessing polymorphism in object-oriented systems",0.075641025641,0.109294871795
+7BD3D194,"Behavior-consistent specialization of object life cycles",0.103703703704,0.103703703704
+7F08E1B5,"A class of programming language mechanisms to facilitate multiple implementations of the same specification",0.122619047619,0.129138321995
+80431317,"Object oriented reuse: experience in developing a framework for speech recognition applications",0.128571428571,0.146730699856
+7FA0A1C3,"Job acquisition by urban youth with disabilities transitioning from school to work",0.12037037037,0.151870748299
+7C31FE7C,"An empirical analysis of a testability model for object-oriented programs",0.369047619048,0.375992063492
+79031211,"Positive Family History, Infection, Low Absolute Lymphocyte Count (ALC), and Absent Thymic Shadow: Diagnostic Clues for All Molecular Forms of Severe Combined Immunodeficiency (SCID)",0.106481481481,0.102718924594
+76A1CA08,"Problem-solution mapping in object-oriented design",0.112037037037,0.118055555556
+801F3241,"Antimicrobial Prophylaxis in Adults",0.0981481481481,0.10101010101
+80659DA7,"Toward the efficient implementation of expert systems in Ada",0.0923076923077,0.0846153846154
+7BB9A9EF,"A conceptual model for megaprogramming",0.0846560846561,0.111111111111
+7D0694CD,"Formal foundation and conceptual design of dynamic adaptations in a workflow management system",0.130952380952,0.116178266178
+7CB8ABF6,"Effects of metabolic disorders on the brain: Can these effects be reversed with bone marrow transplantation?",0.0951178451178,0.130214846882
+807611CA,"Understanding of informatics systems: a theoretical framework implying levels of competence",0.116666666667,0.112820512821
+810712A6,"Using CPN Modeling and Simulating the Task-Oriented C2 Organization",0.0981481481481,0.181944444444
+5D35E048,"Software Tools for Partitioning Block-Structured Applications",0.414285714286,0.353571428571
+7E8F9CAF,"Correct Object-Oriented Systems in Computational Logic",0.0793650793651,0.0884615384615
+79DA5EA0,"Do Rules and Patterns Affect Design Maintainability？",0.127525252525,0.2
+7EEA07BF,"Automated Testing of Generic Computational Science Libraries",0.114926739927,0.111507936508
+814164DC,"An enhanced role model for alleviating the role‐binding anomaly",0.118233618234,0.140277777778
+7EB7D49A,"Object oriented design pattern decay: a taxonomy",0.130555555556,0.129503367003
+77E392C2,"Scenario-based multitasking for real-time object-oriented models",0.0846560846561,0.111111111111
+814A8EB0,"Real-time scheduling theory and Ada",0.113095238095,0.114926739927
+5E08AA9B,"Ada COCOMO and the Ada Process Model",0.12037037037,0.118233618234
+77C8DE77,"Hierarchical object-oriented design of a concurrent, individual-based, model of a pelagic Tunicate bloom",0.106481481481,0.0984217171717
+80FF9959,"A software complexity perspective on nondeterminism used to support intertask communication",0.428571428571,0.343915343915
+7E911D9B,"Component-based tool for verifying applications using object-oriented patterns",0.133477633478,0.192857142857
+7DE42030,"Development of power flow software using design patterns",0.430555555556,0.275288600289
+7644DDC2,"Object-oriented design patterns recovery",0.127525252525,0.127525252525
+7EE5A6BB,"The Benchmark Generator Tool: measuring Ada compilation system performance",0.122895622896,0.0910678373914
+7B15682A,"Task-wait-for graphs and their application to handling tasking deadlocks",0.126322751323,0.160238095238
+7525F487,"Pattern-based reverse-engineering of design components",0.102513227513,0.118055555556
+029D7913,"Predicting Faulty Classes Using Design Metrics with Discriminant Analysis",0.153703703704,0.175535113035
+5BAA5B2B,"Simple problem solving in Java: a problem set framework",0.0981481481481,0.114267676768
+7D6F815E,"Assessing the Impact of Refactoring on Security-Critical Object-Oriented Designs",0.106481481481,0.14537037037
+7EC04124,"Object-oriented design of real-time systems with stereotypes",0.117063492063,0.114926739927
+5EF7C841,"Analyzing object-oriented design patterns from an object-process viewpoint",0.127525252525,0.191964285714
+80541385,"Common intermediate design language",0.130952380952,0.133928571429
+7F6F033F,"A taxonomy for distributed object-oriented real-time systems",0.075641025641,0.0801282051282
+7F29ACC0,"High-performance Java codes for computational fluid dynamics",0.12037037037,0.108333333333
+7B0311D8,"Pattern hybridization: breeding new designs out of pattern interactions",0.106481481481,0.130357142857
+7DD368B9,"A practical comparison between Java and Ada in implementing a real-time embedded system",0.16452991453,0.164102564103
+79785B2A,"A software process for the construction of predictable on-board embedded real-time systems",0.425925925926,0.307051282051
+7F304E8D,"Integrating real-time synchronization schemes into preemption threshold scheduling",0.112037037037,0.117466329966
+76E9DFB1,"Parallel computing in Ada: an overview and critique",0.0957792207792,0.125480769231
+7F65A588,"Empirical Validation of Three Software Metrics Suites to Predict Fault-Proneness of Object-Oriented Classes Developed Using Highly Iterative or Agile Software Development Processes",0.569444444444,0.371963684464
+5E814FF0,"HRT-UML: taking HRT-HOOD onto UML",0,0.25
+7D5F0178,"An integration environment to put formal specifications into practical use in real-time systems",0.130555555556,0.136431623932
+0DC97FC8,"A Taxonomy of Coordination Mechanisms Used in Real-Time Software Based on Domain Analysis",0.45,0.28428030303
+6B86BA46,"Teaching the evaluation of object-oriented designs",0.106481481481,0.130952380952
+7FCFF9BD,"Projecting software defects from analyzing Ada designs",0.408333333333,0.300320512821
+8081B5DE,"Quantifying the Effects of Aspect-Oriented Programming: A Maintenance Study",0.391414141414,0.293181818182
+7AF5ECBE,"An Empirical Exploration of the Distributions of the Chidamber and Kemerer Object-Oriented Metrics Suite",0.331547619048,0.282137862138
+5E76550C,"Comments on 'Temporal Logic-Based Deadlock Analysis for Ada' by G.M. Karam and R.J.A. Burh",0.153703703704,0.130341880342
+75F8B5F5,"Analyzing and measuring reusability in object-oriented design",0.0957792207792,0.236111111111
+7A842EE1,"Human severe combined immunodeficiency: Genetic, phenotypic, and functional diversity in one hundred eight infants",0.0702838827839,0.105054945055
+786FF3F4,"Warts and all: human papillomavirus in primary immunodeficiencies.",0.0702838827839,0.0769230769231
+7CC4C6E2,"A portable generic elementary function package in Ada and an accurate test suite",0.0981481481481,0.102051282051
+7BBB24CA,"An inductive approach to teaching object-oriented design",0.0957792207792,0.126322751323
+7AAA5C0C,"Components for the implementation of fixed priority real-time systems in ADA",0.0981481481481,0.0911732711733
+7E6A4C5A,"Software metrics for object-oriented designs",0.405303030303,0.405303030303
+761FEFDA,"Designing for telecommunication services",0.0957792207792,0.132142857143
+7F0060C4,"A methodology and environment for the object oriented analysis and design of real time systems",0.153703703704,0.133131798757
+79135EAE,"REQUIREMENTS ORGANIZATION APPROACH FOR OBJECT-BASED CONSTRUCTION OF SOFTWARE SYSTEMS",0.412037037037,0.254024216524
+78B3087E,"An object-oriented approach to evaluating multiple spectral models",0.0978835978836,0.140740740741
+770C4B8B,"Analyzability Quantification Model of Object Oriented Design",0.102513227513,0.134027777778
+800E76FA,"Dynamic metrics for object oriented designs",0.112037037037,0.131755050505
+81115318,"Adenosine deaminase and adenosine receptor polymorphisms in aspirin-intolerant asthma",0.0702838827839,0.0721153846154
+80E27855,"Visual Modeling of Object-Oriented Distributed Systems",0.075641025641,0.0801282051282
+5DC703A6,"Composition tools integration with a music database system",0.125,0.101577126577
+0224A1F5,"Fluoride supplements, dental caries and fluorosis: a systematic review",0.132142857143,0.11994047619
+7D9E5133,"On the Rough Number Computation and the Ada Language",0.136904761905,0.125541125541
+59FA321A,"A round robin scheduling policy for Ada",0.102513227513,0.0859401709402
+80A2F7BE,"An application of Petri net reduction for Ada tasking deadlock analysis",0.142307692308,0.142185592186
+815CFA47,"Application of design patterns for object-oriented modeling of power systems",0.136507936508,0.117648555149
+39D47CF3,"Reliability Measurement of an Object Oriented Design: A Systematic Review",0.155555555556,0.148947811448
+7594697F,"ESA—an expert supported OOA method and tool",0.103174603175,0.159632034632
+8178D3A2,"System Architectures Enabling Reconfigurable Laboratory-Automation Systems",0.0702838827839,0.134615384615
+719BBC7E,"Using metrics to identify design patterns in object-oriented software",0.430555555556,0.327651515152
+7DE89FFC,"Experience with an approach to comparing software design methodologies",0.422619047619,0.286646224146
+78DF97EC,"PROTOB: an object oriented methodology for developing discrete event dynamic systems",0.140211640212,0.149268324268
+7985C4A7,"The Impact of Business Size on Employer Response",0.100673400673,0.0937373737374
+77C4EC6C,"Comparison of outcomes of hematopoietic stem cell transplantation without chemotherapy conditioning by using matched sibling and unrelated donors for treatment of severe combined immunodeficiency",0.222222222222,0.165750915751
+786BE8EB,"Generic discrete event simulations using D EGAS :: application to logic design and digital signal processing",0.150793650794,0.162244897959
+7EBE6772,"Introducing Objectcharts or how to use Statecharts in object-oriented design",0.0957792207792,0.200396825397
+5DEAC410,"Object-oriented design frameworks: formal specification and some implementation issues",0.130555555556,0.120555555556
+1193393A,"Social Work Admissions and Academic Accommodations for Students with Disabilities",0.148148148148,0.119134199134
+00B737F2,"Improving Object Oriented Software Contracts",0.398148148148,0.332222222222
+7581B470,"A verification helper for task specifications",0.141666666667,0.127083333333
+7C554C1C,"An object-oriented high-level design-based class cohesion metric",0.0981481481481,0.10101010101
+0E58A3B4,"Understanding the Adoption of Ada: Results of an Industry Survey",0.391414141414,0.282601657602
+7A611B13,"A tailored design language: putting model based formal specification into practice",0.144841269841,0.175566893424
+7D29AFDC,"The design-methods comparison project",0.170085470085,0.266666666667
+77F98FC7,"Looking into safety with the safety and security Rapporteur group",0.122619047619,0.138961038961
+7DDCF7CF,"Comparative Study of the Software Metrics for the complexity and Maintainability of Software Development",0.703703703704,0.548821548822
+7A7F3308,"Empirical analysis of object-oriented design metrics for predicting high, medium and low severity faults using mallows C p",0.361111111111,0.216787668659
+7F856D83,"Structural Modeling: An Application Framework and Development Process for Flight Simulators",0.122895622896,0.108792001649
+7D7EB601,"Application of an informal program verification method to Ada",0.123015873016,0.138392857143
+046BBE5F,"Formalizing Object-Oriented Design Metrics upon the UML Meta-Model",0.0957792207792,0.127525252525
+71E29072,"Design Patterns for Object-Oriented Software Development",0.430555555556,0.345643939394
+7B7EDE51,"Application specific conversation schemes for ADA programs",0.132275132275,0.116971916972
+788A7CD7,"OODS: an object-oriented design system — an example of electronics assemblies",0.127525252525,0.105233100233
+79B210F7,"Quantifying Reusability of Object Oriented Design: A Testability Perspective",0.122619047619,0.149126984127
+7C3055EA,"Object-oriented development of control software",0.39696969697,0.39696969697
+06A67741,"Predicting Error Probability in the Eclipse Project",0.14537037037,0.140793650794
+7ABE5D78,"Tandem mass spectrometry, but not T-cell receptor excision circle analysis, identifies newborns with late-onset adenosine deaminase deficiency.",0.162037037037,0.120004127817
+76B6C72F,"Towards reuse of verified Ada software",0.383333333333,0.538461538462
+62D22D92,"The effect of test-driven development on program code",0.133477633478,0.122835497835
+75494FBC,"An internet-based search formalism for design with modules",0.141414141414,0.145833333333
+7732533A,"Object-oriented programming in C++",0.0957792207792,0.125
+0641F2E0,"A Review of Selected E-Recruiting Websites: Disability Accessibility Considerations",0.120085470085,0.140250721501
+5E0C47F1,"A Theory of Object-Oriented Design",0.113095238095,0.133928571429
+804748B6,"Comments on "A metrics suite for object oriented design",0.115740740741,0.123021885522
+7B70CBB8,"Exception handling refactorings: Directed by goals and driven by bug fixing",0.116161616162,0.138118883917
+7E52AC62,"Experience acquiring and retargeting a portable Ada compiler",0.103174603175,0.157509157509
+7AAC52F7,"A case study: productivity and quality gains using an object‐oriented framework",0.412037037037,0.272222222222
+752C4FF8,"Oral bisphosphonate use and the prevalence of osteonecrosis of the jaw",0.122895622896,0.109722222222
+810F053B,"Specifying Ada tasking using patterns of behavior",0.141414141414,0.198333333333
+7718628D,"Runtime detection and description of deadness errors in Ada tasking",0.162037037037,0.140758547009
+8118409E,"Scalable real-time system design using preemption thresholds",0.105303030303,0.145233100233
+7D74A502,"Introducing testing practices into objects and design course",0.125925925926,0.148082010582
+78FA4375,"VMD-Visual Molecular Dynamics",0.0669934640523,0.0833333333333
+5F8C863C,"Foundations of the unified modeling language",0.119588744589,0.117063492063
+7A6905C8,"Detecting defects in object-oriented designs: using reading techniques to increase software quality",0.416666666667,0.267592592593
+7594120F,"Diagnosis and Treatment of Tuberculous Pleural Effusion in 2006",0.119191919192,0.122222222222
+758CB09C,"A strategy for mapping from function-oriented software models to object-oriented software models",0.39417989418,0.416666666667
+7D790D73,"Efficient object-oriented integration and regression testing",0.119588744589,0.117063492063
+7DA864F8,"Effective software reuse in an embedded real-time system",0.383333333333,0.41452991453
+7701FF87,"Ada/X Window system bindings: conversion strategies",0.0976430976431,0.0909401709402
+5E857388,"Lightweight Modeling of Dynamic Websites using UML",0.075641025641,0.159722222222
+7A4821F7,"Supporting design model refactoring for improving class responsibility assignment",0.125925925926,0.172619047619
+0005181D,"AUTOMATIC GENERATION OF DISTRIBUTED SYSTEM SIMULATIONS FROM UML",0.112037037037,0.104344729345
+05200F74,"Animation and presentation tools for object-oriented design",0.111255411255,0.109821428571
+7A300F19,"A mathematical approach to object oriented design patterns",0.127525252525,0.142361111111
+7FDE5537,"Object-oriented system decomposition quality",0.109006734007,0.0929487179487
+750C831D,"Knowing your roots: object-oriented binary search trees revisited",0.122895622896,0.1725
