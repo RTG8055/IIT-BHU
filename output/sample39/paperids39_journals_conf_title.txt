@@ -1,0 +1,80 @@
+813FBEC6	Information not present<--An experimental time-sharing system
+781333FF	Information Sciences<--Scheduling with a position-weighted learning effect based on sum-of-logarithm-processing-times and job position
+800AC70E	IEEE Transactions on Wireless Communications<--Hybrid scheduling scheme for a cooperative relay system in heterogeneous traffic environments
+7E26F65E	IEEE Transactions on Systems, Man, and Cybernetics<--Experience-Based Approach to Scheduling Problems With the Learning Effect
+59DF1868	Information not present<--Application-Specific Optical Interconnects for Embedded Multiprocessors
+7E8F52BD	IEEE Transactions on Computers<--Preemptive Scheduling Under Time and Resource Constraints
+7F8DBD8E	Real-Time Systems Symposium<--A proportional share resource allocation algorithm for real-time, time-shared systems
+7C4B92E0	European Journal of Operational Research<--A concise survey of scheduling with time-dependent processing times
+80F25302	Real-Time Systems Symposium<--Accounting for interrupt handling costs in dynamic priority task systems
+7B24499B	International Conference on Computer Communications<--MIMO downlink scheduling in LTE systems
+78998183	Annals of Operations Research<--Scheduling flexible machining and assembly systems
+59A985F6	International Conference on Artificial Intelligence and Soft Computing<--Parallel Single-Thread Strategies in Scheduling
+22C68BCB	Information not present<--AUTOMATED PARATRANSIT SCHEDULING USING KBGIS
+789C7E4B	Networks<--The perfectly matchable subgraph polytope of a bipartite graph
+803A0936	Information not present<--Bandwidth scheduling strategy with deterministic time-constraint for networked control systems
+8023DC2E	IEEE Transactions on Computers<--Evaluation of a flexible task scheduling algorithm for distributed hard real-time systems
+8134F61B	Journal of Systems and Software<--Fair scheduling of dynamic task systems on multiprocessors
+803B7CFD	Field-Programmable Logic and Applications<--Cooperative multithreading in dynamically reconfigurable systems
+0E6DC43C	Information not present<--Dependable Real-Time Systems
+7EFC0944	Theoretical Computer Science<--Quantitatively fair scheduling
+7AB7CE85	IEEE Transactions on Computers<--Partial precedence constrained scheduling
+7C44FB9D	Information not present<--Computer scheduling methods and their countermeasures
+77EDE772	Information Sciences<--Some single-machine and m -machine flowshop scheduling problems with learning considerations
+7D47A9F7	IEEE Transactions on Computers<--Scheduling Multiprocessor Tasks to Minimize Schedule Length
+03CE9FFD	Information not present<--Scheduling in computer and communication systems and generalized graph coloring problems
+75FC5AC9	Advances in Computing and Communications<--TaskTracker Aware Scheduling for Hadoop MapReduce
+7B1B79AE	Information Sciences<--A revision of some single-machine and m -machine flowshop scheduling problems with learning considerations
+80BAD600	Information not present<--An Improved Low-Feedback Scheduling Scheme in MU-MIMO
+7535C3B9	Information Processing Letters<--The complexity of scheduling starting time dependent tasks with release times
+7FA0527B	Journal of Computer and System Sciences<--Optimal rate-based scheduling on multiprocessors
+148A6836	Information not present<--The CAOS System.
+7DE991AC	Parallel Computing in Electrical Engineering<--Program graph scheduling in the look-ahead reconfigurable multiprocessor system
+7A13A449	Information not present<--Networked control system (NCS) on a network CAN: On the quality of service (QoS) and quality of control (QoC) provided by different message scheduling schemes based on hybrid priorities
+7DBC3C41	Journal of the ACM<--Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment
+76B2EE53	Applied Mathematical Modelling<--Machine scheduling problems with a position-dependent deterioration
+7D3CE9E4	Euromicro Conference on Real-Time Systems<--Work-Conserving Optimal Real-Time Scheduling on Multiprocessors
+7FF76847	Design Automation Conference<--Performance-driven scheduling with bit-level chaining
+766DA98B	European Journal of Operational Research<--A state-of-the-art review on scheduling with learning effects
+7747E43E	IEEE Transactions on Software Engineering<--Scheduling Tasks with Resource Requirements in Hard Real-Time Systems
+7BEB24F7	Information not present<--An extention of edge zeroing heuristic for scheduling precedence constrained task graphs on parallel systems using cluster dependent priority scheme
+7FEF7274	Operating Systems Review<--A hierarchial CPU scheduler for multimedia operating systems
+7B8345BF	Information Processing Letters<--Single machine scheduling with past-sequence-dependent setup times and learning effects
+5F89548A	Journal of Embedded Computing<--Adapting Pfair scheduling for symmetric multiprocessors
+7ACE40FE	Information Sciences<--Four single-machine scheduling problems involving due date determination decisions
+7A247C2D	Operations Research Letters<--A note on single-processor scheduling with time-dependent execution times
+7B8594DD	Applied Mathematical Modelling<--Scheduling jobs with position and sum-of-processing-time based processing times
+81273310	IEEE Transactions on Computers<--A contention-based bus-control scheme for multiprocessor systems
+7DEF560D	Euromicro Conference on Real-Time Systems<--Semi-partitioned Scheduling of Sporadic Task Systems on Multiprocessors
+1647FE65	Information not present<--2208 第2工程が複数台マシンを持つ2工程HFS(Hybrid Flowshop Scheduling)問題に対する最早開始時刻の連鎖割付の最適性の証明(OS9-1 システム最適化,OS9 システム最適化)
+770A6B28	Information not present<--Task graph scheduling in multiprocessor systems using a coarse grained genetic algorithm
+76061C10	Information Sciences<--Single-machine scheduling with sum-of-logarithm-processing-times-based learning considerations
+7B54C0EC	Global Communications Conference<--On scheduling for massive distributed MIMO downlink
+7E30BF29	International Conference on Hybrid Information Technology<--Guaranteed Scheduling for Worst-Case in HR-WPAN
+7CE4778B	Operating Systems Design and Implementation<--Surplus fair scheduling: a proportional-share CPU scheduling algorithm for symmetric multiprocessors
+80829446	Communications of The ACM<--A policy-driven scheduler for a time-sharing system
+7C9912E6	International Conference on Wireless Communications and Mobile Computing<--Space-frequency precoding scheme for multiuser MIMO-OFDM systems
+27007EBE	Ieice Transactions<--A Note on the Complexity of Scheduling for Precedence Constrained Messages in Distributed Systems(Algorithms and Data Structures)
+7B33D9F8	Embedded Software<--Portioned EDF-based scheduling on multiprocessors
+784A8116	Journal of the Operational Research Society<--Scheduling with time dependent processing times: Review and extensions
+105F2D6E	Asian Conference on Intelligent Information and Database Systems<--On transformation of query scheduling strategies in distributed and heterogeneous database systems
+80811368	Vehicular Technology Conference<--A robust packet scheduling strategy for packet services over dedicated channels in WCDMA system
+5E97B23B	Information not present<--The eclipse operating system: providing quality of service via reservation domains
+7CEFF0D3	Information not present<--Perceptual priority based packet scheduling for quality constrained low delay live surveillance system
+7DB1889F	IEEE Transactions on Power Systems<--Optimality with hydropower system
+7C179829	Journal of Systems Architecture<--On-line evolvable fuzzy system for ATM cell-scheduling
+7C367647	Information Sciences<--Single machine group scheduling with time dependent processing times and ready times
+78411C7B	Information Sciences<--Note on Single-machine and flowshop scheduling with a general learning effect model and Some single-machine and m-machine flowshop scheduling problems with learning considerations
+7B2C2E92	Journal of the Operational Research Society<--Scheduling start time dependent jobs to minimize the total weighted completion time
+7F2EB872	Real-Time Systems Symposium<--RUN: Optimal Multiprocessor Real-Time Scheduling via Reduction to Uniprocessor
+8136F0E9	International Conference on Machine Learning and Cybernetics<--Scheduling strategy based on BP neural network and fuzzy feedback in networked control system
+725C3850	Emerging Technologies and Factory Automation<--Scheduling of mixed-criticality systems with RUN
+78B8F583	Applied Mathematical Modelling<--Single-machine scheduling problems with precedence constraints and simple linear deterioration
+80066DE7	IEEE Transactions on Software Engineering<--Engineering and analysis of fixed priority schedulers
+76FE392E	Real-Time Systems Symposium<--MC-Fluid: Fluid Model-Based Mixed-Criticality Scheduling on Multiprocessors
+78F818A7	International Conference on Computer Aided Design<--A super-scheduler for embedded reconfigurable systems
+80C37553	IEEE Transactions on Computers<--Priority inheritance protocols: an approach to real-time synchronization
+7D8236E4	Design, Automation, and Test in Europe<--Functional self-testing for bus-based symmetric multiprocessors
+7C3D294D	Iet Communications<--Performance analysis on carrier scheduling schemes in the long-term evolution-advanced system with carrier aggregation
+7A73E4A7	Real-time Systems<--LRE-TL: an optimal multiprocessor algorithm for sporadic task sets with unconstrained deadlines
+7DF1D46B	Computer Supported Cooperative Work<--Towards self-optimizing collaborative systems

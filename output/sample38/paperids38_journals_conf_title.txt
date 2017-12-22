@@ -1,0 +1,66 @@
+808B43EF	IEEE Transactions on Multimedia<--Authentication of Scalable Video Streams With Low Communication Overhead
+74E8AB32	Integrated Network Management<--Policy-based networking architecture for QoS interworking in IP management-scalable architecture for large-scale enterprise-public interoperation
+7B9D73D9	Microelectronics Journal<--Scalable architectures for real-time hyperspectral unmixing
+7D996511	IEEE Transactions on Image Processing<--Rate Distortion Analysis for Spatially Scalable Video Coding
+7E6B030D	Computer Software and Applications Conference<--A Scalable Service Scheme for Secure Group Communication in Grid
+75B7139F	The Vldb Journal<--Elastic SI-Cache: consistent and scalable caching in multi-tier architectures
+7CF125B7	Information not present<--Energy-efficient WSN infrastructure
+7A792280	Global Communications Conference<--A scalable public key infrastructure for smart grid communications
+7B964191	Canadian Conference on Electrical and Computer Engineering<--Optimization of distributed communication architectures in advanced metering infrastructure of smart grid
+7F7C98E5	International Conference on Image Processing<--Color image compression using an embedded rate scalable approach
+7EAADF32	International Conference on Parallel Processing<--Scalable S-to-P broadcasting on message-passing MPPs
+6E42AD7F	International Conference on Computer Communications and Networks<--An API for scalable reliable multicast
+763CE745	International Journal of Computational Intelligence Systems<--Scalable Content Authentication in H.264/SVC Videos Using Perceptual Hashing based on Dempster-Shafer theory
+78114AC2	Parallel Computing<--Alternative, uniformly expressive and more scalable interfaces for collective communication in MPI
+80E27171	Embedded and Real-Time Computing Systems and Applications<--Efficient resource management for hard real-time communication over differentiated services architectures
+7E101CFA	International Parallel and Distributed Processing Symposium<--Exploring a Multithreaded Methodology to Implement a Network Communication Protocol on the Cyclops-64 Multithreaded Architecture
+7F45DB7D	Information not present<--A distributed mapping system to support mobility in identifier/locator separation architecture
+80485FDF	IEEE\/ACM Transactions on Networking<--Internet indirection infrastructure
+7D11BF0C	IEEE Transactions on Parallel and Distributed Systems<--Scalable Distributed Communication Architectures to Support Advanced Metering Infrastructure in Smart Grid
+7E0DEE20	Information not present<--Rate scalable image and video compression techniques
+81565DAF	IEEE Transactions on Consumer Electronics<--Fast mode decision for combined scalable video coding based on the block complexity function
+7F3DE411	IEEE Transactions on Circuits and Systems for Video Technology<--Rate Control Optimization for Temporal-Layer Scalable Video Coding
+7EFFF39D	Proceedings of the IEEE<--Advances in Scalable Video Coding
+7EE7435A	Information not present<--Comparative Study of Peer-to-Peer Architectures for Scalable Resource Discovery
+80FB17B6	IEEE Transactions on Circuits and Systems for Video Technology<--File Format for Scalable Video Coding
+7D194C2D	IEEE Transactions on Consumer Electronics<--Fast mode decision algorithm for inter-layer coding in scalable video coding
+8086CE01	International Conference on Image Processing<--DCT-prediction based progressive fine granularity scalable coding
+00DF837D	Information not present<--A Scalable Communication Architecture for AMI in SmartGrid
+8043E91D	IEEE Transactions on Circuits and Systems for Video Technology<--Wavelet based rate scalable video compression
+7D640F01	IEEE Transactions on Circuits and Systems for Video Technology<--Fast Mode Decision Algorithm for Inter-Frame Coding in Fully Scalable Video Coding
+7B639BB8	Computer Communication Review<--A framework for scalable global IP-anycast (GIA)
+7F604DC4	Information not present<--Scalability and load balancing for Multiplatform Communication System architecture based on Intelligent agents
+7D12F2C0	International Conference on Communications<--DTIA: An Architecture for Inter-Domain Routing
+772B6552	Computer Networks<--A survey and taxonomy of ID/Locator Split Architectures
+77C866FE	IEEE Systems Journal<--Enhanced Evaluation of the Interdomain Routing System for Balanced Routing Scalability and New Internet Architecture Deployments
+7D873E94	International Conference on Image Processing<--Encoding of predictive error frames in rate scalable video codecs using wavelet shrinkage
+7E663076	Computer Communication Review<--Internet indirection infrastructure
+7CC2095B	Knowledge Discovery and Data Mining<--Scalable heterogeneous translated hashing
+80A1F6BB	Local Computer Networks<--An inherently anomaly-free iBGP architecture
+2242BCCA	Information not present<--Scalable Distributed CommunicationArchitectures to Support AdvancedMetering Infrastructure in Smart Grid
+7EAA2130	International Conference on Multimedia and Expo<--A fast efficient architecture for MPEG-4 zerotree encoder
+812477A0	IEEE Transactions on Parallel and Distributed Systems<--Scalable s-to-p broadcasting on message-passing MPPs
+5E988F39	Information not present<--Novel SDN multi-domain architecture
+8152D1DA	IEEE Journal on Selected Areas in Communications<--MILSA: A New Evolutionary Architecture for Scalability, Mobility, and Multihoming in the Future Internet
+7F4A214A	International Parallel and Distributed Processing Symposium<--Scalable Visual Analytics of Massive Textual Datasets
+7F7FB540	IEEE Transactions on Image Processing<--A Multiple Description Coding and Delivery Scheme for Motion-Compensated Fine Granularity Scalable Video
+7CE96D64	Information not present<--Mesh-of-Tree Based Scalable Network-on-Chip Architecture
+5D3D697B	Working IEEE/IFIP Conference on Software Architecture<--Architecture Knowledge for Evaluating Scalable Databases
+815BA7A5	Computer Communication Review<--NIRA: a new Internet routing architecture
+7DF1DA2B	International Conference on Computer Design<--A massively parallel multithreaded architecture: DAVRID
+809FFAF6	IEEE Transactions on Circuits and Systems for Video Technology<--Mobile Video Transmission Using Scalable Video Coding
+810F8A3E	International Conference on Communications<--Improving IEEE 802.11s Wireless Mesh Networks for Reliable Routing in the Smart Grid Infrastructure
+7D48C9A2	ACM Transactions in Embedded Computing Systems<--Towards a scalable, low-power all-optical architecture for networks-on-chip
+7E13916C	Information not present<--Fast Mode Decision for Scalable Video Coding with Spatial Scalability
+7DB5CC40	International Conference on Image Processing<--A control scheme for a data rate scalable video codec
+7A44B646	Information not present<--OFBGP: A Scalable, Highly Available BGP Architecture for SDN
+80168B22	IEEE Transactions on Image Processing<--Rate-distortion analysis of motion-compensated rate scalable video
+80DCC6AC	Local Computer Networks<--Transparent distributed Web caching
+817736CD	IEEE Transactions on Circuits and Systems for Video Technology<--Overview of the Scalable Video Coding Extension of the H.264/AVC Standard
+5BA87494	International Symposium on Circuits and Systems<--A linear dependent rate-quantization model for scalable video enhancement layer encoding
+7650CD10	Information not present<--Manycraft: Massively Distributed Minecraft
+7FE8D880	International Symposium on Neural Networks<--Adaptive-SDR: adaptive swarm-based distributed routing
+7136DB48	Procedia Engineering<--Scalable 3D Hybrid Parallel Delaunay Image-to-Mesh Conversion Algorithm for Distributed Shared Memory Architectures
+7B226D16	Information not present<--RCAT: A RESTful client-scalable architecture
+80C21360	International Conference on Information Technology: New Generations<--Distributed Key Management Technique for Reliable Secure Group Communication
+79C99A78	IEEE Communications Magazine<--Toward an SDN-enabled NFV architecture

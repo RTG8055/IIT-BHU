@@ -1,0 +1,64 @@
+7D09D29E	International Journal of Computer Applications<--Automatic SystemC Code Generation from UML Models at Early Stages of Systems on Chip Design
+7FF54C99	Information not present<--Efficient code generation for in-house DSP-cores
+7989DEF9	ACM Computing Surveys<--Surveyor's Forum: Retargetable Code Generators
+5B6A5210	Applicable Algebra in Engineering, Communication and Computing<--On Hyperbolic Codes
+7CCEC64C	Sigplan Notices<--Description-driven code generation using attribute grammars
+7B6281C3	Journal of the ACM<--Optimal Code Generation for Expression Trees
+7EC7B30D	Information not present<--Instruction-set matching and selection for DSP and ASIP code generation
+7DBDE863	Information not present<--Automated algorithm for iris detection and code generation
+7698717C	Acta Informatica<--Integrating code generation and peephole optimization
+7EC01F48	Information not present<--Obstacles in software process technology evolution: analysis of the code generation case
+83EC62A5	Information not present<--Idempotent AN codes
+7D46C75E	International Symposium on Symbolic and Algebraic Computation<--Automatic generation of optimization code based on symbolic non-linear domain formulation
+7D49A5F8	Information not present<--Time-constrained code compaction for DSPs
+7587A118	Journal of the ACM<--The Generation of Optimal Code for Stack Machines
+7A487701	European Journal of Combinatorics<--On codes from hypergraphs
+7564799E	Sigplan Notices<--An experiment in table driven code generation
+7890E2BC	Journal of Computational Physics<--Symbolic computation and automatic fortran code generation for eigenvalue determination by phase integral method
+80FE0294	Software Engineering and Advanced Applications<--A Lightweight MDSD Process Applied in Small Projects
+751A4E7B	Information not present<--On the RDLP and IRDLP of a linear code and a linear subcode
+8168E903	IEEE Transactions on Communications<--Smoothed DPCM codes
+7CE0258A	ACM Transactions on Programming Languages and Systems<--Automatic isolation of compiler errors
+7E962882	Symposium on Computer Arithmetic<--Automatic Generation of Fast and Certified Code for Polynomial Evaluation
+80F84BF0	Sigplan Notices<--A new method for compiler code generation
+77BC50F5	Electronic Notes in Theoretical Computer Science<--Verified Code Generation for Embedded Systems
+7E8DE245	IEEE Transactions on Software Engineering<--Systematic Testing of Model-Based Code Generators
+76BEF408	Information not present<--Automatic Code Generation for Business Process System Based on Artifact
+78EE79D2	Sigplan Notices<--Code generation in a machine-independent compiler
+7659FCEF	ACM Transactions on Programming Languages and Systems<--Affix grammar driven code generation
+8614DF9E	Lecture Notes in Computer Science<--Schedule-carrying code
+7F106D44	Information not present<--An efficient model for DSP code generation: performance, code size, estimated energy
+7B6BC907	Formal Methods in System Design<--Testing-based translation validation of generated code in the context of IEC 61508
+7C65028B	Information not present<--Cleanroom: Edit-Time Error Detection with the Uniqueness Heuristic
+012F2D4D	Information not present<--Parallel on-the-fly configuration-interaction shell-model code
+7C6E07EA	ACM Transactions on Programming Languages and Systems<--Automatic Derivation of Code Generators from Machine Descriptions
+7FE5061F	Journal of Lightwave Technology<--All-optical CDMA using 'quasi-prime' codes
+78E903FC	Automated Software Engineering<--Clearwater: extensible, flexible, modular code generation
+7E09E3E2	Design Automation for Embedded Systems<--Memory-efficient multithreaded code generation from Simulink for heterogeneous MPSoC
+76DE5053	The Journal of Object Technology<--Activity Diagrams : A Formal Framework to Model Business Processes and Code Generation
+06C03C1F	Information not present<--MATLAB to Fixed-Point C Code Generation and its Application to Real-Time Heartbeat Detection
+7AA248FE	ACM Transactions on Programming Languages and Systems<--Code generation using tree matching and dynamic programming
+77F4D461	Information not present<--Short-length rateless codes with unequal error protection property
+09C69FC2	Information not present<--Meta-modeling Design Patterns: application to pattern detection and code synthesis
+59A53D2C	Information not present<--Target code generation from G-machine code
+7756D700	Sigplan Notices<--Object race detection
+59A65B29	International Journal of Parallel Programming<--The Utilization of Matrix Structure to Generate Optimized Code from MATLAB Programs
+60B9D151	Information not present<--Acquisition of a PN code. Comparison of the optimal procedure and a threshold system. Application to the Perigeole case
+7D597C9A	Design Automation Conference<--Constraint driven code selection for fixed-point DSPs
+7C84AF7B	Information not present<--Automatic code generation from event-B models
+756DBD80	International Journal of Parallel, Emergent and Distributed Systems<--Error control by product codes in arithmetic units
+7A8C9B1F	Design Automation Conference<--Using register-transfer paths in code generation for heterogeneous memory-register architectures
+7B770A00	International Conference on Communications<--Service-Driven Approximate LT Codes
+8088DBFF	IEEE Transactions on Information Theory<--On linear unequal error protection codes
+033B186E	International Conference on Graph Transformation<--Generating Test Cases for Code Generators by Unfolding Graph Transformation Systems
+817790BF	Sigplan Notices<--Integrating code generation and optimization
+760F714F	Sigplan Notices<--Automatic alignment of array data and processes to reduce communication time on DMPPs
+5E01A714	Information not present<--An Approach to Automatic Proof Support for Code Generator Verification
+7E7106BF	International On-Line Testing Symposium<--Unidirectional error detection, localization and correction for DRAMs: Application to on-line DRAM repair strategies
+7DF2A908	Design Automation Conference<--Conflict Modelling and Instruction Scheduling in Code Generation for In-House DSP Cores
+090DC587	Information not present<--The LES-8/9 downlink code
+80FF05C4	Software - Practice and Experience<--Model-based code generation for HLA federates
+78ACEABC	Journal of the ACM<--The Generation of Optimal Code for Arithmetic Expressions
+7ECB9BCD	IEEE Transactions on Information Theory<--Path-invariant comma-free codes
+7FD0233E	Sigplan Notices<--Analyzing exotic instructions for a retargetable code generator
+747D68DA	Design Automation for Embedded Systems<--Retargetable code generation based on structural processor descriptions

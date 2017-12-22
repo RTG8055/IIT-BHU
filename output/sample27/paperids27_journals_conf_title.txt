@@ -1,0 +1,70 @@
+7FE594DD	International Geoscience and Remote Sensing Symposium<--Validation of satellite-derived forest metrics in northeastern China
+80167C1F	High-Assurance Systems Engineering<--Using product, process, and execution metrics to predict fault-prone software modules with classification trees
+7F14266A	Computer Vision and Pattern Recognition<--Learning Joint Top-Down and Bottom-up Processes for 3D Visual Inference
+7996D23B	Information not present<--Software Quality Classification using Bayesian Classifier
+78A62349	International Journal of Machine Tools & Manufacture<--A time-varied predictive model for EDM process
+7E791BA1	IEEE Transactions on Software Engineering<--A validation of object-oriented design metrics as quality indicators
+7AF8CAAA	International Journal of River Basin Management<--Comparison of stream flow predicted in a forest watershed using different modelling procedures: ARMA, ANN, SWRRB, and IHACRES models
+7AA73EFC	Journal of Systems and Software<--Applying machine learning to software fault-proneness prediction
+08139E9F	Information not present<--On the validation process of CSEP/RELM experiments
+5E31A1ED	Information not present<--A Validation Process for the Groundwater Flow and Transport Model of the Faultless Nuclear Test at Central Nevada Test Area
+775312C0	Software Quality Journal<--Assessing the maintainability of software product line feature models using structural metrics
+7BE3E94B	IEEE Transactions on Software Engineering<--Evaluation of competing software reliability predictions
+79F1D35C	IEEE Software<--Using neural networks in reliability prediction
+049BEF02	Information not present<--Software Metrics for Predicting Maintainability Software Metrics Study: Technical Memorandum 2
+7D71156A	Conference on Decision and Control<--Model-based control of rapid thermal processes
+7D0D09BA	Information not present<--Signal validation based on PCSVR and EULM
+766E4289	International Conference on Software Engineering<--Analyzing the significance of process metrics for TT&C software defect prediction
+0C814E72	Information not present<--In Vitro Phototoxicity Testing: Development and Validation of a New Concentration Response Analysis Software and Biostatistical Analyses Related to the Use of Various Prediction Models
+7DF540E4	International Symposium on Software Reliability Engineering<--A novel method for early software quality prediction based on support vector machine
+7F455829	Journal of Systems and Software<--The prediction of faulty classes using object-oriented design metrics
+5D5303B1	Information not present<--A preliminary study of different metrics for the validation of device and behavioral models
+80017093	IEEE Transactions on Electron Devices<--Feature-scale Process Simulation and accurate capacitance extraction for the backend of a 100-nm aluminum/TEOS Process
+7E183060	Information Sciences, Signal Processing and their Applications<--Prediction of Long-Range Dependent Processes for Teletraffic Applications
+75D8B052	Information & Software Technology<--Evaluating logistic regression models to estimate software project outcomes
+75B4B94E	Chemometrics and Intelligent Laboratory Systems<--Further exploring r m 2 metrics for validation of QSPR models
+76FE5B3A	Information not present<--Requirement phase effort estimation using software metrics
+7F2DDA1D	IEEE Transactions on Software Engineering<--Developing interpretable models with optimized set reduction for identifying high-risk software components
+7D9B3629	IEEE Transactions on Software Engineering<--Evolutionary Optimization of Software Quality Modeling with Multiple Repositories
+59477FB8	Information not present<--Software evolution and software evolvability
+76232CEB	IEEE Transactions on Software Engineering<--Recalibrating software reliability models
+7D45D473	IEEE Transactions on Software Engineering<--A critique of software defect prediction models
+80212C28	International Conference on Software Engineering<--Modeling and managing risk early in software development
+7F34FB79	International Conference on Software Engineering<--Characterizing and modeling the cost of rework in a library of reusable software components
+803FCA57	IEEE Transactions on Instrumentation and Measurement<--A measurement procedure for viscous and coulomb friction
+7C66F68B	Information not present<--Analyzing the effect of bagged ensemble approach for software fault prediction in class level and package level metrics
+811EB40B	Information not present<--A new version of ROSECON - A software tool for modeling and analyzing systems of processes working together
+7BAB0624	Expert Systems With Applications<--Review: Software fault prediction: A literature review and current trends
+7E8EABA8	IEEE Transactions on Software Engineering<--Reliability and validity in comparative studies of software prediction models
+761A7BE9	Journal of Systems and Software<--Evaluating predictive quality models derived from software measures: lessons learned
+8062D367	Information not present<--Evaluation of query languages with software science metrics
+5B09215F	Product Focused Software Process Improvement<--Key Questions in Building Defect Prediction Models in Practice
+75E31632	IEEE Transactions on Software Engineering<--Software Reliability Modeling with Software Metrics Data via Gaussian Processes
+7BB98473	IEEE Software<--Empirically guided software development using metric-based classification trees
+7FC6F995	Software Engineering and Advanced Applications<--What Software Repositories Should Be Mined for Defect Predictors?
+7F6E3A82	Information not present<--Empirical validation of availability models for the RISC System/6000 workstation using survey and measurement data
+774787F7	Design, Automation, and Test in Europe<--NFRs early estimation through software metrics
+7C5F7EE4	Empirical Software Engineering and Measurement<--Using security metrics coupled with predictive modeling and simulation to assess security processes
+7C4BF42C	Journal of Systems and Software<--The optimization of success probability for software projects using genetic algorithms
+7FCFF9BD	IEEE Transactions on Software Engineering<--Projecting software defects from analyzing Ada designs
+80DC9F90	Information not present<--Voluntary Liquidations: An Empirical Study
+7FD35685	IEEE Transactions on Software Engineering<--Prediction of software reliability using connectionist models
+7A65CAD0	International Conference on Computer Design<--Metrics selection for fault-proneness prediction of software modules
+7941323C	IEEE Transactions on Pattern Analysis and Machine Intelligence<--The Supervised Hierarchical Dirichlet Process
+7957374C	International Conference on Software Engineering<--An investigation on the use of machine learned models for estimating correction costs
+7FEB3BFA	Conference on Decision and Control<--A practical application of recent results in model and controller validation to a ferrosilicon production process
+7F82664B	Software Product Lines<--Towards software process modules
+7C1E8237	International Journal of Food Microbiology<--Determination of ready-to-eat vegetable salad shelf-life.
+7E2566CD	Information not present<--Prediction of mixed-mode interfacial fracture from cohesive zone finite element model: Testing and determination of fracture process parameters
+80BB20A1	IEEE Transactions on Software Engineering<--Comparing software prediction techniques using simulation
+7DEC9E18	IEEE Transactions on Software Engineering<--A General Software Defect-Proneness Prediction Framework
+7E2B5A1F	International Journal of Advanced Computer Science and Applications<--Empirical Validation of Web Metrics for Improving the Quality of Web Page
+7EC23763	International Geoscience and Remote Sensing Symposium<--Validation of a new empirical SAR algorithum
+7F452676	Soft Computing<--Gauzing software readiness using metrics
+801ED71F	American Control Conference<--Predictive control of diffusion-reaction processes
+7C395478	Surgical Oncology-oxford<--Multicentre validation of different predictive tools of non-sentinel lymph node involvement in breast cancer.
+6F592096	International Conference on Software Maintenance<--Software process modeling at SEI
+75B8BB3E	Journal of Systems and Software<--A systematic and comprehensive investigation of methods to build and evaluate fault prediction models
+7BE6B24E	Information not present<--Performance of defect prediction in rapidly evolving software
+7D839AFC	IEEE Transactions on Software Engineering<--Benchmarking Classification Models for Software Defect Prediction: A Proposed Framework and Novel Findings
+80C733FD	IEEE Transactions on Software Engineering<--The confounding effect of class size on the validity of object-oriented metrics

@@ -1,0 +1,61 @@
+5E824C4A	Working IEEE/IFIP Conference on Software Architecture<--Assessing the Suitability of a Standard Design Method for Modeling Software Architectures
+7F412202	Journal of Neuroimmunology<--A knowledge base system used to estimate schedule, effort, staff, documentation and defects in a software development process
+01861A55	Information not present<--Evaluation of online documentation.
+77C8DE95	International Conference on Design of Communication<--Documentation for software engineers: what is needed to aid system understanding?
+8316C7CE	Information not present<--Is there an agile handover? An empirical study of documentation and project handover practices across agile software teams
+80FB6B66	International Conference on Software Engineering<--Recovering documentation-to-source-code traceability links using latent semantic indexing
+7DD6FD42	Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing<--Towards Quantitative Evaluation of UML based Software Architecture
+7DDD1E4E	International Conference on Software Engineering<--Supporting program comprehension using semantic and structural information
+81B5134E	Model Driven Engineering Languages and Systems<--On the use of UML documentation in software maintenance: Results from a survey in industry
+7F5143D2	IEEE Transactions on Software Engineering<--A Realistic Empirical Evaluation of the Costs and Benefits of UML in Software Maintenance
+7F4B8C8F	IEEE Transactions on Professional Communication<--Software documentation: from instruction to integration
+7E2B7A9B	Conference on Software Maintenance and Reengineering<--METAMORPHOS: MEthods and Tools for migrAting software systeMs towards web and service Oriented aRchitectures: exPerimental evaluation, usability, and tecHnOlogy tranSfer
+806DBF3A	International Conference on Software Engineering<--Sixth international workshop on traceability in emerging forms of software engineering (TEFSE 2011)
+7C1BAA8B	International Conference on Software Engineering<--Why good developers write bad code: an observational case study of the impacts of organizational factors on software quality
+801D95AB	Information not present<--Information hiding, knowledge clustering approach to software maintenance
+597F1F45	Model Driven Engineering Languages and Systems<--Evaluating the Impact of UML Modeling on Software Quality: An Industrial Case Study
+7C8C5DFC	Communications of The ACM<--Syntax-directed documentation for PL360
+7A94C4AC	Empirical Software Engineering and Measurement<--An Experimental Evaluation of the Impact of System Sequence Diagrams and System Operation Contracts on the Quality of the Domain Model
+586ADFDB	Information not present<--Evaluation Without Derivatization
+79D4DFB3	Cooperative and Human Aspects of Software Engineering<--Wolf: supporting impact analysis activities in distributed software development
+75FFFC30	Information & Software Technology<--Are Forward Designed or Reverse-Engineered UML diagrams more helpful for code maintenance?: A family of experiments
+7BDA9AF8	ACM Transactions on Software Engineering and Methodology<--On the impact of UML analysis models on source-code comprehensibility and modifiability
+7D3D1228	Automated Software Engineering<--Automatic software clustering via Latent Semantic Analysis
+7D5A8C13	Annual Software Engineering Workshop<--Understanding Change Requests to Predict Software Impact
+7734A618	Product Focused Software Process Improvement<--Empirical investigation on the benefits of using UML in software maintenance
+7F23FE81	International Conference on Software Maintenance<--Iterative reengineering to compensate for quick-fix maintenance
+7DC42E05	IEEE Transactions on Applications and Industry<--Using latent semantic analysis to identify similarities in source code to support program understanding
+807BAAFB	International Conference on Software Maintenance<--Software maintenance in Hong Kong
+78C79C8F	Information not present<--Are forward designed or reverse-engineered UML diagrams more helpful for code maintenance?: a controlled experiment
+7FF0E7E6	IEEE Transactions on Software Engineering<--The impact of UML documentation on software maintenance: an experimental evaluation
+7CB7F8D7	ACM Transactions on Software Engineering and Methodology<--Modeling software architectures in the Unified Modeling Language
+7E9CC159	International Conference on Software Engineering<--Semi-automated traceability maintenance: An architectural overview of traceMaintainer
+7A36EB5E	Empirical Software Engineering and Measurement<--Experimental Analysis of Textual and Graphical Representations for Software Architecture Design
+2FA7E6B5	Information not present<--Software for Better Documentation of Other Software
+81679DA9	Information not present<--Getting back to basics: Promoting the use of a traceability information model in practice
+7EABD594	Information not present<--Arquitectura de software aplicada a un sistema experto de evaluación de riesgos naturales
+81223C97	Requirements Engineering<--Rule-Based Maintenance of Post-Requirements Traceability Relations
+7F8651AD	Conference on Software Maintenance and Reengineering<--In Vivo Evaluation of Large-Scale IR-Based Traceability Recovery
+760A508C	Computer Integrated Manufacturing Systems<--Evaluation of vendor documentation in the acquisition of MRP and related manufacturing software
+79AEDE90	International Conference on Design of Communication<--Aspect-oriented documentation
+7D52E96E	International Conference on Software Maintenance<--Using a relational database for software maintenance: A case study
+7D935EA2	International Conference on Software Maintenance<--A knowledge-based system for software maintenance
+7BAA01F5	Information Processing and Management<--Quality control in software documentation based on measurement of text comprehension and text comprehensibility
+806FB17F	International Conference on Design of Communication<--A qualitative assessment of the efficacy of UML diagrams as a form of graphical documentation in aiding program understanding
+7A3F9EB2	Information not present<--UMLtrust: towards developing trust-aware software
+7DD2EFFC	Automated Software Engineering<--Enabling Automated Traceability Maintenance by Recognizing Development Activities Applied to Models
+84910906	Information not present<--L’ADBS fédère les professionnels de l’information et de la documentation
+5DB778AF	IEEE Latin America Transactions<--IDEAS03: Evaluation of software development through an MDA tool: a case study
+802BC80F	International Conference on Software Engineering<--Three dimensional software modelling
+7BBBFC44	International Conference on Design of Communication<--Necessary and neglected?: an empirical study of internal documentation in agile software development teams
+7C056534	Computer and Information Technology<--The Impact of Acceptance Tests on Analyzing Component-Based Systems Specifications: An Experimental Evaluation
+7EBEFDF1	Journal of Convergence Information Technology<--Automated retrieval of consistent documentation from requirement analysis to program codes for software maintenance
+7D0A7A81	International Conference on Software Maintenance<--Partially automated in-line documentation (PAID): design and implementation of a software maintenance tool
+7D001A43	Automated Software Engineering<--A Verification-Driven Approach to Traceability and Documentation for Auto-Generated Mathematical Software
+7E96AE65	International Conference on Program Comprehension<--Workshop on graphical documentation for programmers: assessing the efficacy of UML diagrams for program understanding
+7FCFB6D5	Cooperative and Human Aspects of Software Engineering<--Documentation practices in scientific software development
+84CD0E2B	Information not present<--Impact ISR Monétaire Fiche Fonds
+0004EC5E	Information not present<--Utilização de técnicas de gestão de projetos na análise de requisitos de projetos de software
+7E5BF652	Computer Software and Applications Conference<--Experimental evaluation of the cost effectiveness of software reviews
+7E8055AC	Information not present<--Multi-spectral high-resolution 3D-acquisition for rapid archaeological documentation and analysis
+76677ED7	Computational Intelligence<--Use of Method for Elicitation, Documentation, and Validation of Software User Requirements (MEDoV) in Agile Software Development Projects

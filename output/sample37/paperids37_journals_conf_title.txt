@@ -1,0 +1,69 @@
+7E047B02	Information not present<--Multilevel composite fuzzy models
+788ED83F	Software Visualization<--A space of layout styles for hierarchical graph models of software systems
+7880312C	Parallel Computing<--Yada: Straightforward parallel programming
+70022CC5	International Conference on Autonomic Computing<--Layered Autonomic Systems
+7B0B5ECA	Microprocessing and Microprogramming<--Parset: A language construct for system independent parallel programming on distributed systems
+781E3669	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Unsupervised learning of finite mixture models
+8114C11B	Information not present<--A Virtualized Self-Adaptive Parallel Programming Framework for Heterogeneous High Productivity Computers
+5F86BBDC	Parallel Processing and Applied Mathematics<--Divide-and-conquer parallel programming with minimally synchronous parallel ML
+7FB99442	IEEE Journal on Selected Areas in Communications<--The Design and Simulation of a Mobile Radio Network with Distributed Control
+604CAFBA	Information not present<--Teaching parallel programming early
+7F82D4FE	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Combining Multiple Clusterings Using Evidence Accumulation
+5915FB57	Information not present<--Multivariate Linear Models
+7DDC65F8	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Cumulative Voting Consensus Method for Partitions with Variable Number of Clusters
+5E7FA96D	International Symposium on Parallel and Distributed Processing and Applications<--A generic distributed monitor construct for programming process synchronization in distributed systems
+32E33C28	Information not present<--General Probabilistic Framework for Clustering and Managing Heterogeneous Infrastructure Systems
+5EEA5FD7	Parallel Processing and Applied Mathematics<--A container-iterator parallel programming model
+7C31495C	IEEE Journal on Emerging and Selected Topics in Circuits and Systems<--Probabilistically Programmed STT-MRAM
+7E74D135	IEEE Transactions on Parallel and Distributed Systems<--Middleware infrastructure for parallel and distributed programming models in heterogeneous systems
+766A5297	Information not present<--A novel evolutionary approach for load balanced clustering problem for wireless sensor networks
+7FECDA80	Atmospheric Environment<--Interpretation of air quality in relation to monitoring station's surroundings
+7FA60214	IEEE Computer<--Chameleon: hierarchical clustering using dynamic modeling
+7804FE7F	Future Generation Computer Systems<--A distributed energy-efficient clustering algorithm with improved coverage in wireless sensor networks
+5E4A91B1	Information not present<--Semi-supervised heterogeneous evolutionary co-clustering
+7C2C3EA0	Water Research<--Assessment of seasonal and polluting effects on the quality of river water by exploratory data analysis
+7C271CAE	International Conference on Data Engineering<--Clustering large datasets in arbitrary metric spaces
+6C904FD2	Atmospheric Environment<--A performance assessment and adjustment program for air quality monitoring networks in Shanghai
+42D8D46C	Journal of Network and Computer Applications<--EDHRP: Energy efficient event driven hybrid routing protocol for densely deployed wireless sensor networks
+791CA357	Pattern Recognition Letters<--Linear flaw detection in woven textiles using model-based clustering
+7F02386E	International Conference on Pattern Recognition<--Data clustering using evidence accumulation
+7A1A88AA	Analytica Chimica Acta<--Chemometric application in classification and assessment of monitoring locations of an urban river system
+766E9DA6	International Journal of Rock Mechanics and Mining Sciences<--Prediction of rock mass rating system based on continuous functions using Chaos–ANFIS model
+805E1A24	IEEE Transactions on Fuzzy Systems<--Pseudoerror-based self-organizing neuro-fuzzy system
+7871F90D	Pattern Recognition<--Agglomerative clustering using the concept of mutual nearest neighbourhood
+7D078885	Journal of Machine Learning Research<--Cluster ensembles --- a knowledge reuse framework for combining multiple partitions
+76459DD9	Computers & Electrical Engineering<--Energy efficient fault tolerant clustering and routing algorithms for wireless sensor networks
+7C443D8B	Information Sciences<--Analysing microarray expression data through effective clustering
+7EB83834	International Journal of High Performance Computing Applications<--Programming Models at Exascale: Adaptive Runtime Systems, Incomplete Simple Languages, and Interoperability
+0D1E4331	Procedia Computer Science<--The k-modes Algorithm with Entropy Based Similarity Coefficient
+791E94C8	Water Research<--Multivariate statistical techniques for the evaluation of spatial and temporal variations in water quality of Gomti River (India)—a case study
+76802CE9	Atmospheric Environment<--Management of air quality monitoring using principal component and cluster analysis—Part II: CO, NO 2 and O 3
+7A897473	Information Sciences<--Clustering with a new distance measure based on a dual-rooted tree
+102F172B	Information not present<--The Generalized Zacks Model.
+8169BE6E	Information not present<--CPB: A Model for Biclustering
+5AD9E47D	Water Research<--Pattern recognition techniques for the evaluation of spatial and temporal variations in water quality. A case study: Suquía River Basin (Cordoba-Argentina).
+7E027E2A	Atmospheric Environment<--Assessing spatial variability of SO 2 field as detected by an air quality network using Self-Organizing Maps, cluster, and Principal Component Analysis
+80401A34	Fuzzy Systems and Knowledge Discovery<--Distributed Clustering Based on K-Means and CPGA
+7FA23803	Health & Place<--A framework for identifying similarities among countries to improve cross-national comparisons of health systems
+7EB73B1B	Information not present<--COFTA: hardware-software co-synthesis of heterogeneous distributed embedded system architectures for low overhead fault tolerance
+58CAF153	Information not present<--The PCP/PFP Programming Models on the BBN TC2000
+5B300413	Information not present<--Programming models for parallel systems
+80636922	Grid Computing Environments<--Collective Collaborative Tagging System
+8062E538	IEEE Transactions on Knowledge and Data Engineering<--A framework for learning in search-based systems
+5D87E519	Parallel Computing<--The NIP Parallel Object-Oriented Computational Model
+75CEF15A	Computers & Electrical Engineering<--A distributed energy-efficient clustering protocol for wireless sensor networks
+807A339B	IEEE Transactions on Mobile Computing<--HEED: a hybrid, energy-efficient, distributed clustering approach for ad hoc sensor networks
+6A8EA88D	Information not present<--Distributed clustering for ad hoc networks
+58C252E0	Information not present<--Improved load balanced clustering algorithm for wireless sensor networks
+7F9D2BC6	International Geoscience and Remote Sensing Symposium<--A new framework of cluster-based parallel processing system for high-performance geo-computing
+7900DDE3	Analytica Chimica Acta<--Water quality assessment and apportionment of pollution sources of Gomti river (India) using multivariate statistical techniques—a case study
+766897A3	Applied Soft Computing<--A novel differential evolution based clustering algorithm for wireless sensor networks
+58FCD3D3	Information not present<--Parallel Program Model for Distributed Systems
+7E068751	Environmental Modelling and Software<--ASSESSMENT OF SURFACE WATER QUALITY USING MULTIVARIATE STATISTICAL TECHNIQUES: A CASE STUDY OF THE FUJI RIVER BASIN, JAPAN
+7CD1068A	Information not present<--Diffusive parallelism: a parallel programming model for large scale distributed computation systems
+7BF77DA5	Journal of Classification<--An entropy criterion for assessing the number of clusters in a mixture model
+7E05645F	High Performance Computing<--A Migration-Based Parallel Programming Model with Architectural Support Structures
+7D1222C0	Eurasip Journal on Information Security<--Privacy-preserving distributed clustering
+7FE8D880	International Symposium on Neural Networks<--Adaptive-SDR: adaptive swarm-based distributed routing
+7BBB7054	Water Research<--The elaboration of indices to assess biological water quality. A case study
+774C2C5B	Design Automation Conference<--An EDA framework for large scale hybrid neuromorphic computing systems

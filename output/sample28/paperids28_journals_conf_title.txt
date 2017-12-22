@@ -1,0 +1,53 @@
+59300DF4	International Conference on Conceptual Modeling<--A framework supporting the utilization of domain knowledge embedded in software
+08660FF1	Information not present<--An empirical study of overriding in open source Java
+058D47EC	Information not present<--Object-oriented development of client / server application: case study of service control software
+7B4DA32F	Model Driven Engineering Languages and Systems<--Lessons learned from automated analysis of industrial UML class models (an experience report)
+7B07BAE5	Journal of Systems and Software<--Application of neural networks for software quality prediction using object-oriented metrics
+726FC96C	Information not present<--Applying design-metrics to object-oriented frameworks
+76A0F499	International Conference on Software Engineering<--Investigating quality factors in object-oriented designs: an industrial case study
+7C02205D	ACM Transactions on Mathematical Software<--Object-oriented software for quadratic programming
+7BA53FFB	International Conference on Information and Communication Security<--The correlation between source code analysis change recommendations and software metrics
+2DBF3E95	Information not present<--Software Engineering Laboratory (SEL) Ada performance study report
+7B027B55	Software - Practice and Experience<--Agents in object-oriented software engineering
+1367D137	Information not present<--A Correlational Study of the SEI's Capability Maturity Model and Software Development Performance in DoD Contracts.
+76F99AE3	Information not present<--Development of multi-tasking software in Ada — a case study
+6D9B5EDE	Information not present<--Diagnostic software for SMARTNet-2
+6B8C5D5C	Document Analysis Systems<--Ada 95 and software reuse
+7E3716D0	IEEE Transactions on Software Engineering<--Managerial use of metrics for object-oriented software: an exploratory analysis
+7F9BE01F	Canadian Conference on Electrical and Computer Engineering<--The utility of graph theoretic software metrics: a case study
+7884E4DF	Information not present<--Bofors 9LV Mk3 system—developing for maximum software reuse
+7E66A794	Hawaii International Conference on System Sciences<--Insertion of fault detection mechanisms in distributed Ada software systems
+7DDCF7CF	International Journal of Advanced Computer Science and Applications<--Comparative Study of the Software Metrics for the complexity and Maintainability of Software Development
+7A7F3308	ACM Sigsoft Software Engineering Notes<--Empirical analysis of object-oriented design metrics for predicting high, medium and low severity faults using mallows C p
+79C57B7D	Journal of Software Maintenance and Evolution: Research and Practice<--Finding software metrics threshold values using ROC curves
+7A9076C5	Communications of The ACM<--Understanding object-oriented: a unifying paradigm
+77FC0E58	Java Technologies for Real-time and Embedded Systems<--Ada-Java middleware for legacy software modernization
+7DA5D03D	Cooperative and Human Aspects of Software Engineering<--Tangible software modeling with multi-touch technology
+7F8F8A2A	Journal of Computer Science<--An Empirical Validation of Object-Oriented Design Metrics for Fault Prediction
+80545B71	Information not present<--Developing reliable software
+2EBA97B6	Information not present<--Ada software productivity prototypes: A case study
+799CA085	Interacting with Computers<--Assessing the cognitive consequences of the object-oriented approach: a survey of empirical research on object-oriented design by individuals and teams
+79916FCC	Communications of The ACM<--Surveying current research in object-oriented design
+5C9BCB40	Information not present<--Concept Lattices in Software Analysis
+104F2C68	Information not present<--Study of fault-tolerant software technology
+74707DC0	Information not present<--An empirical study on object-oriented metrics
+8025DE28	Australian Software Engineering Conference<--Agent-oriented software analysis
+795ECF43	Human Factors in Computing Systems<--Towards a model of cognitive process in logical design: comparing object-oriented and traditional functional decomposition software methodologies
+70BD4494	Information not present<--Tempat Download Software Terbaru 2012
+7E67E534	IEEE Transactions on Software Engineering<--Empirical Analysis of Object-Oriented Design Metrics for Predicting High and Low Severity Faults
+7F62DF4A	Information not present<--An undergraduate course in object-oriented software design
+60E0AAD7	Clinical Orthopaedics and Related Research<--An empirical study of software reuse by experts in object-oriented design
+7D1C7594	Information not present<--National Software Capacity: Near-Term Study
+2FBC050F	Information not present<--Software Engineering Laboratory Ada performance study: Results and implications
+8120C03C	Information not present<--Learning Object-Oriented Programming
+77A26FC8	Information not present<--Classifying a Strength of Dependency between classes by using Software Metrics and Machine Learning in Object-Oriented System
+7E017F8E	Information not present<--Reuse in software engineering: an object-oriented perspective
+0B76970E	Information not present<--A Comprehensive Investigation of Quality Factors in Object-Oriented Designs: an Industrial Case Study
+7DA864F8	Information not present<--Effective software reuse in an embedded real-time system
+5FBCD285	Information not present<--Pass the ball: game-based learning of software design
+13ACDC2A	Information not present<--A Survey of the Software Reuse Environment: A Study for the NSRS
+75E04CFE	Sigplan Notices<--Notation and representation in collaborative object-oriented design: an observational study
+7D53B04F	Information not present<--Rapid prototyping via automatic software code generation from formal specifications: a case study
+78154E04	Conference on Scientific Computing<--Structured techniques for IMIS (Integrated Maintenance Information System) software development—a case study
+5C5C50B8	Empirical Software Engineering<--Replicated Case Studies for Investigating Quality Factorsin Object-Oriented Designs
+7B86871D	Advances in Engineering Software<--ESFM: An Essential Software Framework for Meshfree Methods

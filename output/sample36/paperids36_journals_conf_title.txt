@@ -1,0 +1,57 @@
+7755A285	IEEE Software<--Axiomatic Specifications in Firmware Development Systems
+7A36F8DB	Information not present<--MDA Based Development Approach for Software Mining System
+7AC6606E	Mining Software Repositories<--A study on the role of software architecture in the evolution and quality of software
+7D5F3DA7	Information not present<--PARSA: a parallel program software development tool
+772D9D7E	IEEE-ASME Transactions on Mechatronics<--Reconfiguration of Distributed Embedded-Control Systems
+7F3F3936	Information not present<--Architecturally-Enforced InfoSec in a General-Purpose Self-Configurable System
+7F26E2C0	International Conference on Software Engineering<--ArchJava: connecting software architecture to implementation
+7F1249D2	Computer Software and Applications Conference<--An architecture-independent software development approach for parallel processing systems
+765D6FA7	International Conference on Information Technology: New Generations<--Developing Rapidly Expandable Data-driven Software Systems Based on Multitier Architecture: Examination of the Development of Modules for Content Management Systems Used to Construct Web Portals and Virtual Communities
+79ED41AD	International Conference on Software Engineering<--A language and environment for architecture-based software development and evolution
+8164D439	IEEE Transactions on Software Engineering<--A packaging system for heterogeneous execution environments
+815C5F85	IEEE Internet Computing<--System Virtualization Tools for Software Development
+7FC9497C	IEEE Transactions on Software Engineering<--A component- and message-based architectural style for GUI software
+808999EB	International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing<--On applying coordinated atomic actions and dependable software architectures for developing complex systems
+80219DBE	International Conference on Systems<--Open architecture and tool integration of software development environments
+7DEDA25C	Conference on Software Maintenance and Reengineering<--Towards A Process-Oriented Software Architecture Reconstruction Taxonomy
+7A80B7F9	IEEE Software<--Software in Automotive Systems
+0FC2B3F6	Information not present<--Design and Software Development of Automated Data Acquisition System for Load Cell Calibration
+7D729C18	Working Conference on Reverse Engineering<--Improving fact extraction of framework-based software systems
+5B36A63A	Asia Pacific Conference on Circuits and Systems<--Ear-type systems
+7F726C81	Information not present<--InterBALANCE: cooperative load-balancing system
+7ED8344D	Information not present<--An MDA-Based System Development Lifecycle
+7F3C2074	International Conference on Systems<--The Aquarius-IIU system
+7E481A85	Computer Software and Applications Conference<--A Model-Driven Multicore Software Development Environment for Embedded System
+7F3D2FB0	International Conference on Software Engineering<--Architecture-based runtime software evolution
+709EB156	International Conference on Software Maintenance<--Applying instructional systems development to software maintenance education
+7E044973	Information not present<--Towards a modular, service-oriented mechatronic system
+78938265	International Conference on Software Engineering<--Using off-the-shelf middleware to implement connectors in distributed software architectures
+808E770D	International Conference on Software Engineering<--DiscoTect: a system for discovering architectures from running systems
+5F7C941F	Information not present<--Advanced Parallel Systems
+77E1901E	International Conference on Internet and Web Applications and Services<--A Secure and Legal Network-Aware P2P VoD System
+7EE734F3	Information not present<--The Domain-Specific Software Architecture Program
+7F9BE110	Information not present<--An Introduction to Software Architecture
+7EFA2FA0	International Conference on Software Engineering Advances<--Frameworks for the Development of Adaptive Systems: Evaluation of Their Adaptability Feature Through Software Metrics
+7FEA9F6C	IEEE Transactions on Software Engineering<--Abstractions for software architecture and tools to support them
+733C702D	Signal Processing Systems<--Heterogeneous reconfigurable systems
+813F1CAD	International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing<--Towards an Open Dependable Operating System
+7D0A1DDD	Information not present<--A Generative Approach to the Development of Autonomous Robot Software
+63DB3066	Logic in Computer Science<--Reactive systems over cospans
+05E53073	Information not present<--Use of Abstract Interfaces in the Development of Software for Embedded Computer Systems
+80E31996	IEEE Transactions on Software Engineering<--A classification and comparison framework for software architecture description languages
+8083377D	Information not present<--Development of a target recognition system using formal and semi-formal software modeling methods
+65AB8165	Information not present<--Systems integration using CASE tool development software
+80F48122	Information not present<--Quality-driven systems
+7F42F2D5	IEEE Transactions on Software Engineering<--The TAME project: towards improvement-oriented software environments
+8104C29B	Information not present<--Effective software design and development for the new graph architecture HPC machines.
+7D2E7D95	IEEE Transactions on Software Engineering<--Hierarchical Clustering for Software Architecture Recovery
+6D6C6B05	Information not present<--A flexible telepathology system
+80CABE78	Design, Automation, and Test in Europe<--Safe Automotive Software Development
+738D7C85	Information not present<--Mixer: software enabled wear leveling for morphable PCM in embedded systems
+80F89D7B	Requirements Engineering<--Scenario-based systems architecting
+7E608632	International Conference on Software Engineering<--Metric-driven analysis and feedback systems for enabling empirically guided software development
+7DDAED8F	IEEE Transactions on Industrial Electronics<--FPGA-Based Configurable Frequency-Diverse Ultrasonic Target-Detection System
+75F930F7	International Conference on Software Engineering<--Obtaining ground-truth software architectures
+7D17A232	Information not present<--Automotive Software Development for a Multi-Core System-on-a-Chip
+5E219F49	Information not present<--ASSESS (Analytic System and Software for Evaluating Safeguards and Security) update: Current status and future developments
+8070DACF	Information not present<--Safe online reconfiguration of time- and space-partitioned systems

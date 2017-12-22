@@ -1,0 +1,60 @@
+7D919970	Journal of Networks<--An Efficient Role Specification Management Model for Highly Distributed Environments
+7D37A34B	Information not present<--Reconciling role based management and role based access control
+78A428E2	Geo-spatial Information Science<--Authorization administration in a distributed multi-application environment
+58756C0B	European Conference on Object-Oriented Programming<--Role-Based Protection and Delegation for Mobile Object Environments
+599992D8	Information not present<--Security Architecture for Open Collaborative Environment
+7E11F5FD	Workshops on Enabling Technologies: Infrastracture for Collaborative Enterprises<--Role-based security for distributed object systems
+79C8533E	Information not present<--Security Extensible Access Control Markup Language Policy Integration Based on Role-Based Access Control Model in Healthcare Collaborative Environments
+5F7ED447	Trustworthy Global Computing<--Role-Based Access Control in a Mobile Environment
+7E4AB174	Information not present<--Domain Administration of Task-role Based Access Control for Process Collaboration Environments
+7BE4C462	ACM Transactions on Information and System Security<--An integrated approach to engineer and enforce context constraints in RBAC environments
+7EE8A78F	Information not present<--Access Control Based on RBAC in Distributed Cooperation Environment
+80D3B5C0	Computer and Communications Security<--RoleMiner: mining roles using subset enumeration
+59D0ACAC	Information not present<--Generalization and enforcement of role-based access control using a novel event-based approach
+7F2E99F7	IEEE Intelligent Systems<--Secure Integration of Distributed Medical Data Using Mobile Agents
+77CFD776	Information not present<--Supporting relationships in access control using role based access control
+7740926C	Collaboration Technologies and Systems<--Job-centric security model for open collaborative environment
+7E7D4978	Symposium on Access Control Models and Technologies<--Static verification of security requirements in role based CSCW systems
+810701CB	Database and Expert Systems Applications<--How to Use Events and Rules for Supporting Role-Based Security? (Invited Paper)
+7CCF112E	Information not present<--Team-and-role-based organizational context and access control for cooperative hypermedia environments
+7AEDF09A	Journal of Network and Computer Applications<--A distributed collaborative product design environment based on semantic norm model and role-based access control
+7DA28104	Symposium on Access Control Models and Technologies<--The role mining problem: finding a minimal descriptive set of roles
+7319FC1E	Transactions on Computational Science<--Security Analysis of Role Based Access Control Models Using Colored Petri Nets and CPNtools
+80139700	Information not present<--Constraint-Based Authorization Management for Mobile Collaboration Services
+7FDCDF8C	Computational Intelligence and Security<--Security Assurance for Dynamic Role Mapping in a Multi-Domain Environment
+7DF8F415	Scientific Programming<--Access control meets public key infrastructure, or: assigning roles to strangers
+76A59A90	Information not present<--Managing role/permission relationships using object access types
+5CF44CAD	Information not present<--Role-Based Access Control Features in Commercial Database Management Systems
+814B8263	International Conference on Digital Information Management<--Context-aware security service in RFID/USN environments using MAUT and extended GRBAC
+781BD0DF	Computer Supported Cooperative Work in Design<--A Distributed Domain Administration of RBAC Model in Collaborative Environments
+5EDB0A93	Symposium on Applications and the Internet<--A roles and rights language specification for a distributed e-commerce environment
+7A866AB1	Information not present<--Research and application of access control technique in distributed 3D virtual environment
+7B269C6F	Symposium on Access Control Models and Technologies<--Role mining based on weights
+84F9647D	Information not present<--A formal model to express dynamic policies for access control and negotiation in a distributed environment
+5A5E305C	International Conference on Cloud Computing<--A Semi-distributed Access Control Management Scheme for Securing Cloud Environment
+758B37CF	Ieice Transactions<--A Collaborative Role-Based Access Control for Trusted Operating Systems in Distributed Environment
+0CFD8AA9	Information not present<--A Role-Based Access Control Model of Managed Objects in Distributed System Environments
+77B34D29	Computers & Security<--Security analysis of GTRBAC and its variants using model checking
+7F9C8A74	Symposium on Access Control Models and Technologies<--Migrating to optimal RBAC with minimal perturbation
+7EC8D1E3	Computational Intelligence and Security<--Role-Based Access Control for Distributed Cooperation Environment
+80BAC20D	Information Systems<--Integrating Trust and Role for Secure Interoperation in Multi-Domain Environment
+68FAA330	Information not present<--PULSE: a pluggable user-space Linux security environment
+59CF8251	Cooperative Information Systems<--An RBAC Based Policy Enforcement Coordination Model in Internet Environment
+7F77E68B	Asia-Pacific Software Engineering Conference<--Early Validation and Verification of a Distributed Role-Based Access Control Model
+7B46D51E	Information not present<--A framework for implementing role-based access control using CORBA security service
+7AC4D6CE	International Journal of Geographical Information Science<--Consistency checking of role assignments in inter-organizational collaboration
+6164F309	European Cells & Materials<--Flexible access control for dynamic collaborative environments
+771A3CDF	Symposium on Access Control Models and Technologies<--Securing context-aware applications using environment roles
+7E1DFC66	International Symposium on Autonomous Decentralized Systems<--Specification of secure distributed collaboration systems
+76C335C7	Computers & Security<--Budget-aware role based access control
+77C46276	Secure Web Services<--Secure collaboration based on RBAC in decentralized multi-domain environments
+7B9A1652	Information not present<--Attribute certification: an enabling technology for delegation and role-based controls in distributed environments
+80A7BFD2	Canadian Conference on Electrical and Computer Engineering<--Some issues of role-based collaboration
+7D5C6D1E	Electronic Commerce Research<--Role-Based Access Controls: Status, Dissemination, and Prospects for Generic Security Mechanisms
+7E45C5B9	Information not present<--Security for distributed object-oriented systems
+7A8D96DF	Symposium on Access Control Models and Technologies<--Beyond accountability: using obligations to reduce risk exposure and deter insider attacks
+6E512098	Computer Software and Applications Conference<--Role-based decomposition for improving concurrency in distributed object-oriented software development environments
+795D8755	Information not present<--Implementing role-based access control using object technology
+58918DD9	Information not present<--Security policy integration based on role-based access control model in healthcare collaborative environments
+2471C250	Ieice Transactions<--A Collaborative Role-Based Access Control for Trusted Operating Systems in Distributed Environment(Application)( Cryptography and Information Security)
+5F1C2EDC	Information not present<--A trusted role-based access control model for dymanic collaboration in a federated environment

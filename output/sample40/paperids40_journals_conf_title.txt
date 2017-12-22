@@ -1,0 +1,63 @@
+85BCC3D1	Information not present<--Joint tasks and cache partitioning for real-time systems
+7F5B0762	Real Time Technology and Applications Symposium<--Adaptive Failover for Real-Time Middleware with Passive Replication
+7FAB19D6	IEEE Transactions on Power Delivery<--FPGA-Based Real-Time EMTP
+7F909201	Real Time Technology and Applications Symposium<--NetQoPE: A Model-Driven Network QoS Provisioning Engine for Distributed Real-time and Embedded Systems
+8157DBCB	Information not present<--Implementation challenges in real-time middleware for distributed autonomous systems
+7E1A7A39	High Performance Computing and Communications<--Task Grain Scheduling for Hypervisor-Based Embedded System
+63ACCD2C	Information not present<--Real-time operating system for a multi-laser/multi-detector system
+5E138E90	Symposium on Reliable Distributed Systems<--Component replication in distributed systems: a case study using Enterprise Java Beans
+74972C61	Microelectronics Systems Education<--Senior-level embedded system design project using FPGAs
+7E114DCA	Information not present<--Middleware scheduling optimization techniques for distributed real-time and embedded systems
+808824F7	Embedded and Real-Time Computing Systems and Applications<--Preemption Control for Energy-Efficient Task Scheduling in Systems with a DVS Processor and Non-DVS Devices
+7C2230AD	Software - Practice and Experience<--A distributed real-time operating system
+7F28EEA4	Information not present<--LightPS: Lightweight Content-Based Publish/Subscribe for Peer-to-Peer Systems
+7CC7B191	Journal of Systems Architecture<--A real-time perspective of service composition: Key concepts and some contributions
+802D8BC3	Proceedings of the IEEE<--Techniques for enhancing real-time CORBA quality of service
+7E985B7B	Information not present<--Meta-adaptation in autonomic systems
+758811F9	IEEE Communications Magazine<--A high-performance end system architecture for real-time CORBA
+71095C34	Real-time Systems<--Software architectures for reducing priority inversion and non-determinism in real-time object request brokers
+7E5A6EBA	Workshops on Enabling Technologies: Infrastracture for Collaborative Enterprises<--Fifth Collaborative Peer-to-Peer Systems (COPS 09)
+7E755772	Information Systems<--Agent-oriented middleware for InfoStation-based mLearning intelligent systems
+80C907A1	International Conference on Computer Communications<--Techniques for optimizing CORBA middleware for distributed embedded systems
+78A7BE36	ACM Special Interest Group on Data Communication<--A mobile peer-to-peer system for opportunistic content-centric networking
+7FD63100	Real Time Technology and Applications Symposium<--Evaluating policies and mechanisms for supporting embedded, real-time applications with CORBA 3.0
+7EC7FF26	Computer Communications<--The design of the TAO real-time object request broker
+7DDF8C83	Cooperative Information Systems<--Component-Based Dynamic QoS Adaptations in Distributed Real-Time and Embedded Systems
+7F8E640F	IEEE Journal on Selected Areas in Communications<--Optimizing a CORBA Internet inter-ORB protocol (IIOP) engine for minimal footprint embedded multimedia systems
+79A6D961	Operating Systems Review<--MERT - a multi-environment real-time operating system
+6152CF2F	Information not present<--Real-time TSpaces
+785BB087	Journal of Systems Architecture<--Comparative analysis of two different middleware approaches for reconfiguration of distributed real-time systems
+8115183F	Real-Time Systems Symposium<--Optimal task rate selection in fixed priority systems
+7865D947	Computer Standards & Interfaces<--Virtual machines for distributed real-time systems
+5F02D60B	Cluster Computing and the Grid<--A Task Pipelining Framework for e-Science Workflow Management Systems
+5E4297C6	Wuhan University Journal of Natural Sciences<--The Logic Description of the System of Embedded Hardware Logic Task
+7F875CB2	Information not present<--ORB middleware evolution for networked embedded systems
+7ED97825	Real-Time Systems Symposium<--Preemptibility in real-time operating systems
+5F1E0B2D	Information not present<--Optimizing a corba iiop protocol engine for minimal footprint multimedia systems
+7E2BD844	Journal of Systems Architecture<--Supporting component-based failover units in middleware for distributed real-time and embedded systems
+800C8759	Computational Science and Engineering<--Multi-objective Placement of Reconfigurable Hardware Tasks in Real-Time System
+80DD419F	Real Time Technology and Applications Symposium<--Feedback control real-time scheduling in ORB middleware
+135D17D3	Information not present<--Attribute/Service Model: Design Patterns for Efficient Coordination of Distributed Sensors, Actuators and Tasks in Embedded Systems
+7E3567FA	Canadian Conference on Electrical and Computer Engineering<--An Internet-based distributed system by using real-time CORBA
+7F69877B	Information not present<--A Roadmap for Autonomous Fault-Tolerant Systems
+77B88F5B	Operating Systems Review<--HARTOS: a distributed real-time operating system
+7DFDBAF5	International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing<--Fast software component migration for applications survivability in distributed real-time systems
+7ABD83C3	Architectures for Networking and Communications Systems<--Designing high-speed packet processing tasks at arbitrary levels of abstraction: implementation and evaluation of a MIXMAP system
+5E522BB9	Real Time Technology and Applications Symposium<--Alleviating priority inversion and non-determinism in real-time CORBA ORB core architectures
+7F447BA2	International Parallel and Distributed Processing Symposium<--Utility-function based resource allocation for adaptable applications in dynamic, distributed real-time systems
+7B345384	Information not present<--Space-based middleware for loosely-coupled distributed systems
+7EFCA914	Wireless and Mobile Computing, Networking and Communications<--Autonomic iPOJO: Towards Self-Managing Middleware for Ubiquitous Systems
+7D5B767D	Information not present<--Supporting the Decentralized Development of Large-Scale Distributed Real-Time LVC Simulation Systems with TENA (The Test and Training Enabling Architecture)
+7D31AD48	Australian Software Engineering Conference<--Towards platform-independent real-time systems
+7ED7CD4F	Real Time Technology and Applications Symposium<--Dynamic CPU management for real-time, middleware-based systems
+5BC89B7B	Global Communications Conference<--Evaluating the performance of demultiplexing strategies for real-time CORBA
+5E77D5F8	Information not present<--Dynamic Publish/Subscribe in Mobile Peer-to-Peer Systems
+7C81A5DC	IEEE Concurrency<--Using principle patterns to optimize real-time ORBs
+5FD1FEB6	Advances in Computers<--FlexiNet: A Flexible, Component-Oriented Middleware System
+7A2E21CE	Concurrency and Computation: Practice and Experience<--Evaluating policies and mechanisms to support distributed real‐time applications with CORBA
+5DD3CA36	Autonomic and Trusted Computing<--Analyzing the Behavior of an Artificial Hormone System for Task Allocation
+7F7E1DC6	International Journal of Pervasive Computing and Communications<--An improved method of task context switching in OSEK operating system
+7AC411E4	Real-time Systems<--The Design and Performance of a Real-Time CORBA SchedulingService
+7D5EE7EB	International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing<--Enhancing Real-Time Event Service for synchronization in object oriented distributed systems
+618762CA	Information not present<--Measuring OS support for real-time CORBA ORBs
+75AF2650	International Conference on Mobile Systems, Applications, and Services<--M-ECho: a middleware for morphable data-streaming in pervasive systems
