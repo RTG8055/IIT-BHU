@@ -1,0 +1,838 @@
+7F25CCB0,"Arbitrary Body Segmentation With a Novel Graph Cuts-Based Algorithm",0.307034632035,0.33125
+5BB9D88B,"A Gradient Descent Approximation for Graph Cuts",0.247562358277,0.329861111111
+7EDB7F54,"Learning from partially supervised data using mixture models and belief functions",0.395299938157,0.404993815708
+7CD9CA8B,"Semi-Supervised Local Fisher Discriminant Analysis Based on Reconstruction Probability Class",0.286111111111,0.270905483405
+7BBDDA34,"Dynamic video narratives",0.208225108225,0.266666666667
+6B897324,"Graph Laplacian for semi-supervised feature selection in regression problems",0.255498866213,0.293737373737
+7F0302C8,"A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data",0.285260770975,0.295324675325
+8063E9D6,"A Higher Accuracy Classifier Based on Semi-supervised Learning",0.276252319109,0.417989417989
+7A009AAF,"Genus zero graph segmentation: Estimation of intracranial volume",0.307936507937,0.295
+8008EDA9,"Learning a Propagable Graph for Semisupervised Learning: Classification and Regression",0.407709750567,0.470793650794
+623CB31B,"Better Foreground Segmentation Through Graph Cuts",0.303463203463,0.323611111111
+5B7C16A3,"Graph-Based Pairwise Learning to Rank for Video Search",0.196995464853,0.215277777778
+78F37D12,"Graph Based Semi-Supervised Learning via Structure Preserving Low-Rank Representation",0.403174603175,0.495
+7E3212FE,"An Internet Traffic Classification Method Based on Semi-Supervised Support Vector Machine",0.292233560091,0.225198412698
+7BC43D20,"Interactive 3D video editing",0.208225108225,0.291666666667
+5D2BF039,"Hierarchical Image Segmentation Based on Semidefinite Programming",0.275288600289,0.334027777778
+7ADE71E6,"Markerless human body motion capture using Markov random field and dynamic graph cuts",0.319444444444,0.303968253968
+6C51CD7A,"A Convex Image Segmentation: Extending Graph Cuts and Closed-Form Matting",0.303463203463,0.282626262626
+80AE316D,"A novel framework for N-D multimodal image segmentation using graph cuts",0.303463203463,0.291077441077
+7D73E77F,"Semi-supervised Learning Using Local Regularizer and Unit Circle Class Label Representation",0.407709750567,0.404993815708
+80C92EEF,"Learning from Partially Labeled Data: Unsupervised and Semi-supervised Learning on Graphs and Learning with Distribution Shifting",0.398701298701,0.483134920635
+7BE0E8BE,"Segmenting and tracking multiple objects under occlusion using multi-label graph cut",0.306349206349,0.324735449735
+5EB0DC9C,"Automatic Cortical Gyral Parcellation Using Probabilistic Atlas and Graph Cuts",0.303463203463,0.324273504274
+7BE0E960,"Graph Cuts via $\ell_1$ Norm Minimization",0.241104926819,0.407407407407
+80674BFB,"HMM based semi-supervised learning for activity recognition",0.298979591837,0.355555555556
+019A2CC0,"Graph cut optimization for the Mumford-Shah model",0.241104926819,0.328282828283
+7D04C0EA,"A Novel Transductive Learning Algorithm Based on Multi-Agent-System",0.367640692641,0.708333333333
+755C2BDB,"Links Between Image Segmentation Based on Optimum-Path Forest and Minimum Cut in Graph",0.398701298701,0.360592185592
+7F23679D,"Combining Graph Laplacians for Semi--Supervised Learning",0.530158730159,0.672222222222
+7D0C49B6,"Semi-Supervised Learning Algorithm Based on Lie Group",0.389682539683,0.493571428571
+7CF62009,"Exact optimization for a class of second order Markov random field via graph cuts",0.320634920635,0.248474541332
+7E286C34,"Recursive MDL via graph cuts: Application to segmentation",0.312471655329,0.338492063492
+777616C2,"Improving web page classification by label-propagation over click graphs",0.285260770975,0.369047619048
+7D9E6166,"3D volume extraction of densely packed cells in EM data stack by forward and backward graph cuts",0.307936507937,0.216798941799
+7DD615B5,"Multi-shape graph cuts with neighbor prior constraints and its application to lung segmentation from a chest CT volume",0.312471655329,0.241723356009
+7EB1F946,"Learning From Labeled And Unlabeled Data: An Empirical Study Across Techniques And Domains",0.277839620697,0.285846560847
+7EA22FB1,"Transformation of General Binary MRF Minimization to the First-Order Case",0.225340136054,0.203703703704
+7BDE965C,"Tracking cortical activity from M/EEG using graph cuts with spatiotemporal constraints",0.328741496599,0.332407407407
+5DA72BDF,"Generalized entropy based semi-supervised learning",0.273701298701,0.359027777778
+7791EECD,"Image segmentation algorithms based on the machine learning of features",0.275288600289,0.231637806638
+7947B1A8,"Improving Graph Cuts algorithm to transform sequence of stereo image to depth map",0.303463203463,0.27380952381
+7D996371,"Privacy leakage in multi-relational databases via pattern based semi-supervised learning",0.284126984127,0.265614478114
+7E557BB0,"Learning from Positive and Unlabeled Examples: A Survey",0.278174603175,0.412037037037
+58F5D1F9,"Efficient Learning from Few Labeled Examples",0.278174603175,0.458333333333
+780802A5,"Automated articulated structure and 3D shape recovery from point correspondences",0.22380952381,0.181944444444
+7C47512D,"A New Graph Based Active Learning Method",0.398701298701,0.555555555556
+80BEA668,"Using the P n Potts model with learning methods to segment live cell images",0.271717171717,0.246085858586
+7EB040B0,"Bilayer Segmentation of Live Video",0.208225108225,0.216666666667
+58FD83BF,"SETRED: self-training with editing",0.214285714286,0.25
+8066C4D5,"SVM-HUSTLE—an iterative semi-supervised machine learning approach for pairwise protein remote homology detection",0.270923520924,0.249410774411
+6A8E8AA0,"Bayesian Oil Spill Segmentation of SAR Images Via Graph Cuts",0.303463203463,0.250925925926
+7571B8F9,"Semi-supervised learning with density-ratio estimation",0.264324960754,0.5625
+5F649B96,"A New Multi-view Learning Algorithm Based on ICA Feature for Image Retrieval",0.370526695527,0.401725589226
+808AE35D,"Segment-based stereo matching using graph cuts",0.303463203463,0.353174603175
+5C2E86FF,"Graph cuts approach to MRF based linear feature extraction in satellite images",0.398701298701,0.338446969697
+5C4F230C,"Segmentation-Based Motion with Occlusions Using Graph-Cut Optimization",0.212698412698,0.222222222222
+6E0A2D0B,"Graph cuts in content-based image classification and retrieval with relevance feedback",0.248526077098,0.243197278912
+7795AC62,"Supervised and semi-supervised learning in text classification using enhanced KNN algorithm: a comparative study of supervised and semi-supervised classification in text categorisation",0.309070294785,0.263640873016
+7D1CB2E4,"Learning with hybrid data",0.276252319109,0.571428571429
+800769A7,"A Semi-Supervised Learning Algorithm for Brain-Computer Interface Based on Combining Features",0.275288600289,0.275657213157
+7ADD16DB,"Network traffic classification based on ensemble learning and co-training",0.285260770975,0.307936507937
+7FFB7F08,"Image Segmentation Based on GrabCut Framework Integrating Multiscale Nonlinear Structure Tensor",0.271717171717,0.236002886003
+5AC99189,"Video Segmentation Using Iterated Graph Cuts Based on Spatio-temporal Volumes",0.403174603175,0.434920634921
+7CA1F170,"Minimum cost subpartitions in graphs",0.303463203463,0.555555555556
+7C33F03A,"Kernel local Fisher discriminant analysis based manifold-regularized SVM model for financial distress predictions",0.275288600289,0.251473063973
+75C2ABB1,"Graph based multi-modality learning",0.398701298701,0.703703703704
+09F87B1E,"Bidirectional semi-supervised learning with graphs",0.303463203463,0.555555555556
+7F3A848C,"Tracking Through Clutter Using Graph Cuts",0.303463203463,0.361111111111
+5A1F8404,"An improved riemannian metric approximation for graph cuts",0.303463203463,0.398148148148
+7FD7F6CD,"A scalable kernel-based semisupervised metric learning algorithm with out-of-sample generalization ability",0.279823747681,0.337797619048
+7821B4FF,"Segmentation of the thalamus in multi-spectral MR images using a combination of atlas-based and gradient graph cut methods",0.303463203463,0.23152958153
+8077CC9B,"An Alternative Graph Cut Algorithm for Morphological Edge Detection",0.307034632035,0.283888888889
+7D56CE88,"LIVEcut: Learning-based interactive video segmentation by evaluation of multiple propagated cues",0.224206349206,0.175
+81748A74,"Semi-supervised orthogonal discriminant analysis via label propagation",0.306349206349,0.416666666667
+7DCAECD2,"SDG Cut: 3D Reconstruction of Non-lambertian Objects Using Graph Cuts on Surface Distance Grid",0.303463203463,0.235626102293
+58AC6B29,"Transductive Learning on Adaptive Graphs",0.303463203463,0.555555555556
+7C710D50,"A new cross-training approach by using labeled data",0.182601525459,0.209325396825
+81017B31,"A graph-cut based algorithm for approximate MRF optimization",0.272402597403,0.412037037037
+5A77D860,"Leave-One-Out cross-validation based model selection for manifold regularization",0.289682539683,0.345643939394
+77664C47,"Error-Tolerant Scribbles Based Interactive Image Segmentation",0.276252319109,0.338492063492
+5C467B64,"Electron Microscopy Image Segmentation with Graph Cuts Utilizing Estimated Symmetric Three-Dimensional Shape Prior",0.305050505051,0.23664021164
+7555C67D,"Image annotation by k NN-sparse graph-based label propagation over noisily tagged web images",0.312471655329,0.259297052154
+80E38E05,"A graph cut based active contour for multiphase image segmentation",0.398701298701,0.40787037037
+3FF19CD2,"Enhancing semi-supervised learning through label-aware base kernels",0.257204700062,0.329274891775
+7E60C9E8,"Generalizing Swendsen-Wang to sampling arbitrary posterior probabilities",0.188888888889,0.205555555556
+81CD4E0A,"Classes of submodular constraints expressible by graph cuts",0.303463203463,0.338492063492
+5F092087,"Vessels-Cut: a graph based approach to patient-specific carotid arteries modeling",0.400288600289,0.469841269841
+76294E8B,"Semi-supervised outlier detection based on fuzzy rough C-means clustering",0.26645021645,0.422222222222
+5C686D5B,"Learning Classification with Both Labeled and Unlabeled Data",0.285260770975,0.383928571429
+5BC4D1BB,"Learning from a Test Set",0.276252319109,0.406593406593
+8137BDF3,"Learning on Weighted Hypergraphs to Integrate Protein Interactions and Gene Expressions for Cancer Outcome Prediction",0.292233560091,0.23060966811
+80A2AF41,"Comparing Belief Propagation and Graph Cuts for Novelty Detection",0.282709750567,0.262301587302
+78C7582B,"Fast image segmentation based on multilevel banded closed-form method",0.271717171717,0.293015873016
+7D9942B3,"Dense Neighborhoods on Affinity Graph",0.239517625232,0.386752136752
+7BE18FF8,"Semi-supervised learning based on nearest neighbor rule and cut edges",0.271717171717,0.252777777778
+7811CEF2,"Local margin based semi-supervised discriminant embedding for visual recognition",0.264957264957,0.347222222222
+809CA9B8,"Intuition in Medical Image Segmentation: Visualizing Graph Edge Weights",0.303463203463,0.255092592593
+8145F234,"Automatic segmentation of the lung fields in portable chest radiographs based on Bézier interpolation of salient control points",0.284415584416,0.194551282051
+7E51E327,"Structured learning with constrained conditional models",0.262071262071,0.411255411255
+8155CEA1,"Hyperparameter Learning for Graph Based Semi-supervised Learning Algorithms",0.497510822511,0.647222222222
+5B17174C,"Semi-supervised Learning with Ensemble Learning and Graph Sharpening",0.239517625232,0.407407407407
+80E23C51,"A Seeded Image Segmentation Framework Unifying Graph Cuts And Random Walker Which Yields A New Algorithm",0.307034632035,0.21587702421
+80DFC2EE,"A local spectral method for graphs: with applications to improving graph partitions and exploring data graphs locally",0.312471655329,0.367216810967
+7F236781,"Fast SDP Relaxations of Graph Cut Clustering, Transduction, and Other Combinatorial Problems",0.303463203463,0.261574074074
+78D9DC97,"Fast Approximate Energy Minimization with Label Costs",0.306349206349,0.318362193362
+7BD88377,"Graphcut textures: image and video synthesis using graph cuts",0.303463203463,0.301984126984
+80B34A07,"Harmonic functions based semi-supervised learning for web spam detection",0.276252319109,0.259315221815
+7A7DA56D,"Fast 4D segmentation of large datasets using graph cuts",0.303463203463,0.386111111111
+7CAA7720,"3D change detection at street level using mobile laser scanning point clouds and terrestrial images",0.215986394558,0.151539016539
+75F14484,"[Paper] Inferring Segmentation Label and Color Distribution in a Unified Framework using Global Constraints",0.309920634921,0.241273849607
+8111653C,"What went where",0.277777777778,0.333333333333
+7EDF4A59,"Improving sparsely labeled text classification with data editing",0.190022675737,0.207142857143
+7B7CD3EF,"Prior class dissimilarity based linear neighborhood propagation",0.279823747681,0.295238095238
+7FE27B9A,"Co_NBM: A Semi-Supervised Categorization Algorithm Based TEF_WA Technique",0.279823747681,0.341964285714
+7DEF66E7,"Combining smooth graphs with semi-supervised learning",0.303463203463,0.453703703704
+6D5FAEC4,"Multi-label learning with millions of labels: recommending advertiser bid phrases for web pages",0.40873015873,0.351537698413
+7F340F9E,"Recovery of relative depth from a single observation using an uncalibrated (real-aperture) camera",0.218820861678,0.199511599512
+7CA88CDF,"Incremental learning with partial-supervision based on hierarchical Dirichlet process and the application for document classification",0.390873015873,0.436507936508
+75FEF388,"Shape from shading using graph cuts",0.303463203463,0.353888888889
+756C1A4A,"Texture aware image segmentation using graph cuts and active contours",0.303463203463,0.272222222222
+7E5B1A47,"What Energy Functions Can Be Minimized via Graph Cuts?",0.303463203463,0.313035113035
+76091023,"Super-connectivity of Kronecker products of split graphs, powers of cycles, powers of paths and complete graphs",0.312471655329,0.317027417027
+7DE62657,"Unsupervised Prosodic Break Detection in Mandarin Speech",0.216836734694,0.143055555556
+80C1C664,"A fast graph cut algorithm for disparity estimation",0.307034632035,0.294444444444
+77223A6A,"Minimal graph cuts on network subgraphs",0.303463203463,0.417989417989
+816177B8,"Genetic Algorithm Based Semi-feature Selection Method",0.287698412698,0.350694444444
+83B4ECA8,"Concept Similarity Based Academic Tweet Community Detection Using Label Propagation",0.28373015873,0.255555555556
+760ACEA0,"Interactive inquiry for object of interest in video playback by motion-augmented graph cut",0.303463203463,0.254449254449
+7D6CEC8C,"Manifold Regularization: A Geometric Framework for Learning from Labeled and Unlabeled Examples",0.278174603175,0.318181818182
+7D8F9B8A,"OPTIMAL ALLOCATION PROBLEM WITH QUADRATIC UTILITY FUNCTIONS AND ITS RELATIONSHIP WITH GRAPH CUT PROBLEM",0.307936507937,0.23060966811
+00DA0388,"Smooth Energy Auto-Estimation for Graph Cuts Algorithm",0.303463203463,0.400673400673
+7F144439,"Machine Learning with Labeled and Unlabeled Data",0.276252319109,0.369047619048
+7EF2C080,"When semi-supervised learning meets ensemble learning",0.288888888889,0.437037037037
+80775057,"Automatic and robust forearm segmentation using graph cuts",0.303463203463,0.324273504274
+76B62C79,"Omnistereo Video Textures without Ghosting",0.181014223871,0.236111111111
+796A4FB6,"Pertinent User Profile based on Adaptive Semi-supervised Learning",0.291558441558,0.368055555556
+7DFC8A22,"Stereo matching using iterated graph cuts and mean shift filtering",0.306349206349,0.291950113379
+7F181489,"Real-time foreground segmentation on GPUs using local online learning and global graph cut optimization",0.305050505051,0.264285714286
+7EFD0DD6,"Learning CRFs Using Graph Cuts",0.398701298701,0.611111111111
+8158D0C9,"Quantification and semi-supervised classification methods for handling changes in class distribution",0.215986394558,0.167800453515
+80C1B6DF,"The Graph Cut algorithm for realtime image segmentation and visual object tracking",0.307034632035,0.262868480726
+76956890,"Joint graph cut and relative fuzzy connectedness image segmentation algorithm",0.307034632035,0.262037037037
+812DC394,"Spatially adaptive semi‐supervised learning with Gaussian processes for hyperspectral data analysis",0.292233560091,0.358630952381
+7F0F4300,"3D occlusion recovery using few cameras",0.208225108225,0.213675213675
+5B76133A,"Unsupervised Image Categorization Using Constrained Entropy-Regularized Likelihood Learning with Pairwise Constraints",0.276252319109,0.27477324263
+7B0A59FD,"Video human segmentation based on multiple-cue integration",0.323979591837,0.4
+7E5A9C11,"Approximate Labeling via Graph Cuts Based on Linear Programming",0.402272727273,0.559027777778
+76D679A7,"Editing Object Behaviour in Video Sequences",0.181014223871,0.204861111111
+7E917DCA,"2D ultrasound image segmentation using graph cuts and local image features",0.303463203463,0.265367965368
+7FBA5097,"Multiregion Image Segmentation by Parametric Kernel Graph Cuts",0.303463203463,0.282626262626
+7ECCEA6E,"Word sense disambiguation using label propagation based semi-supervised learning",0.277272727273,0.270923520924
+76AD98CD,"A variational model and graph cuts optimization for interactive foreground extraction",0.305050505051,0.251262626263
+7D2583B8,"Shape prior segmentation of multiple objects with graph cuts",0.303463203463,0.295793650794
+7537744B,"An RSVM based two-teachers-one-student semi-supervised learning algorithm",0.275288600289,0.412037037037
+0E7C41FC,"A novel approach of lung segmentation on chest CT images using graph cuts",0.305050505051,0.223890923891
+80C4253F,"Semi-supervised learning using label mean",0.262071262071,0.474747474747
+7E40034F,"A feature point matching based approach for video objects segmentation",0.277839620697,0.254030096887
+5F503C8C,"Graph cut based segmentation of soft shadows for seamless removal and augmentation",0.412698412698,0.368542568543
+0019A1C2,"Cast shadow detection based on semi-supervised learning",0.273701298701,0.285404040404
+7EA01886,"Probabilistic Labeled Semi-supervised SVM",0.277777777778,0.25
+5CA62AE1,"An efficient graph cut algorithm for computer vision problems",0.307034632035,0.252509065009
+7E17F6F7,"Near real-time reliable stereo matching using programmable graphics hardware",0.208225108225,0.214285714286
+7F6EC53E,"Regularization on Graphs with Function-adapted Diffusion Processes",0.255498866213,0.350694444444
+8133F47F,"Robust multi-class transductive learning with graphs",0.303463203463,0.555555555556
+80808F33,"Layer-based video registration",0.147850958565,0.229166666667
+7DE594CD,"Learning based on kernel discriminant-EM algorithm for image classification",0.375963718821,0.411646224146
+58B686CD,"Improving learning in networked data by combining explicit and mined links",0.276252319109,0.298063840921
+7E8E702D,"Simulating Classic Mosaics with Graph Cuts",0.303463203463,0.348611111111
+7AFAF2C5,"Graph partition by Swendsen-Wang cuts",0.239517625232,0.400673400673
+7F79FC05,"Synergistic arc-weight estimation for interactive image segmentation using graphs",0.303463203463,0.333888888889
+7E51F583,"Graph Cuts and Efficient N-D Image Segmentation",0.303463203463,0.330555555556
+801566B3,"Semi-supervised discriminant analysis based on UDP regularization",0.277272727273,0.416666666667
+5F9B7081,"Video Coding by Texture Analysis and Synthesis Using Graph Cut",0.312471655329,0.283829365079
+812FC7C6,"Learning Document Labels from Enriched Click Graphs",0.538265306122,0.584920634921
+76A9294E,"Logistic label propagation",0.306349206349,0.5625
+622CA6D3,"Image segmentation based on weighting boundary information via graph cut",0.398701298701,0.388888888889
+801869BF,"An improved graph cut segmentation method for cervical lymph nodes on sonograms and its relationship with node's shape assessment",0.307936507937,0.199234330484
+648370D5,"A bootstrapping method for learning from heterogeneous data",0.276252319109,0.417989417989
+80902379,"Improving Hyperspectral Image Classification based on Graphs using Spatial Preprocessing",0.407709750567,0.472883597884
+786E31E8,"A semi-supervised learning framework for biomedical event extraction based on hidden topics",0.32380952381,0.285521885522
+8051CC09,"Iterative Graph Cuts for Image Segmentation with a Nonlinear Statistical Shape Prior",0.303463203463,0.289444444444
+5FC2C7FC,"Semi supervised learning for prediction of prosodic phrase boundaries in chinese TTS using conditional random fields",0.526757369615,0.428050344717
+757F8F16,"FlowBoost — Appearance learning from sparsely annotated video",0.303463203463,0.410714285714
+80EC9F67,"Locally non-negative linear structure learning for interactive image retrieval",0.271717171717,0.323611111111
+143AF1DA,"Chapter 4 - Diffusion on a Tensor Product Graph for Semi-Supervised Learning and Interactive Image Segmentation",0.303463203463,0.238157081014
+7D504608,"Automatic Lung Segmentation of Volumetric Low-Dose CT Scans Using Graph Cuts",0.305050505051,0.25770102913
+80823590,"Calibration and segmentation free 3D modelling from images based on GPU",0.287698412698,0.308888888889
+5D02C0B2,"Semi-supervised Probability Propagation on Instance-Attribute Graphs",0.254365079365,0.430555555556
+81505C6E,"Interactive graph cut based segmentation with shape priors",0.398701298701,0.403240740741
+7C75BED5,"Active Selection of Label Data for Semi-Supervised Learning Algorithm",0.3160430839,0.309126984127
+7FAB28B3,"Graph construction and b -matching for semi-supervised learning",0.243089053803,0.326884920635
+7F504E2E,"Learning appearance manifolds from video",0.303463203463,0.385714285714
+7C48BEAF,"Semi-supervised kernel learning based optical image recognition",0.366955266955,0.462626262626
+810F2961,"Object segmentation in video via graph cut built on superpixels",0.276252319109,0.358888888889
+3C64C00C,"Learning Bayesian network parameters under equivalence constraints",0.276252319109,0.290238095238
+813E71C9,"Fast graph cuts using shrink-expand reparameterization",0.303463203463,0.481481481481
+7983E9FE,"A semi-supervised classification technique based on interacting forces",0.280725623583,0.338492063492
+7D885847,"Automatic segmentation of object region using Graph Cuts based on saliency maps and AdaBoost",0.398701298701,0.354861111111
+7465C0BF,"Fast and scalable algorithms for semi-supervised link prediction on static and dynamic graphs",0.307034632035,0.335227272727
+7F4B5F51,"Graph Cut Based Point-Cloud Segmentation for Polygonal Reconstruction",0.398701298701,0.462222222222
+800B933D,"Semi-supervised feature learning from clinical text",0.26949241235,0.411255411255
+8150BAE6,"Interactive graph cuts for optimal boundary & region segmentation of objects in N-D images",0.303463203463,0.262698412698
+769D8F66,"Fast dynamic reranking in large graphs",0.303463203463,1.0
+7D3609C7,"Pruning Neighborhood Graph for Geodesic Distance Based Semi-Supervised Classification",0.407709750567,0.41335978836
+7E0C09F5,"Multi-View Budgeted Learning under Label and Feature Constraints Using Label-Guided Graph-Based Regularization",0.405158730159,0.402272727273
+754EE7C6,"LIFT: A new framework of learning from testing data for face recognition",0.285260770975,0.254091939806
+5EF2CC39,"Bayesian Out-Trees",0.277777777778,0.0
+76753048,"End-user feature labeling: Supervised and semi-supervised approaches based on locally-weighted logistic regression",0.388383838384,0.460404040404
+80E319A8,"LogCut - Efficient Graph Cut Optimization for Markov Random Fields",0.241104926819,0.326388888889
+801CF5C6,"Graph Cuts for Curvature Based Image Denoising",0.398701298701,0.469444444444
+7FE9E96B,"Graph Cut Based Optimization for MRFs with Truncated Convex Priors",0.400288600289,0.461111111111
+7FFDAAF7,"Graph cut based segmentation of convoluted objects",0.398701298701,0.470793650794
+7B638DA6,"Segmentation of anterior cruciate ligament in knee MR images using graph cuts with patient-specific shape constraints and label refinement",0.434920634921,0.270859233359
+81691C32,"A Novel Approach to Object/Background Segmentation Based on the Probabilistic Graphical Model",0.269336219336,0.325505050505
+5A0127EF,"Coronary Lumen Segmentation Using Graph Cuts and Robust Kernel Regression",0.303463203463,0.260894660895
+6A2D0EE9,"Multi-camera Scene Reconstruction via Graph Cuts",0.239517625232,0.325505050505
+7F91CC32,"Multi-classes Semi-supervised Learning on Riemannian Manifolds",0.247201336675,0.533333333333
+7DA330D7,"Compressed Locally Embedding",0.277777777778,0.183333333333
+8034AC66,"The Application and Study of Graph Cut in Motion Segmentation",0.248526077098,0.299735449735
+81511CB3,"A patch-based spatiotemporal phase unwrapping method for phase contrast MRI using graph cuts",0.305050505051,0.256613756614
+7B9BCA5B,"Multiple Features But Few Labels?: A Symbiotic Solution Exemplified for Video Analysis",0.339682539683,0.289546102046
+7698A33F,"A graph cut optimization guided by 3D-features for surface height recovery",0.320634920635,0.288095238095
+59117322,"Automated segmentation of 3D CT images based on statistical atlas and graph cuts",0.398701298701,0.340071733822
+7EF78625,"Optical Flow in Dynamic Graph Cuts",0.311507936508,0.412037037037
+7D89AA85,"Improved Signal-to-Noise Ratio in Parallel Coronary Artery Magnetic Resonance Angiography using Graph Cuts based Bayesian Reconstruction",0.400288600289,0.321075036075
+7ADC66AF,"Laplacian Support Vector Machines with Multi-Kernel Learning",0.287698412698,0.333333333333
+7DFE05DC,"Adaptive graph cuts with tissue priors for brain MRI segmentation",0.305050505051,0.226984126984
+68EF8BCF,"Tracking Endocardial Boundary and Motion via Graph Cut Distribution Matching and Multiple Model Filtering",0.303463203463,0.306637806638
+5B8FA8C0,"Landmark-based non-rigid registration via graph cuts",0.243089053803,0.412037037037
+7AE143E0,"Reducing search space for stereo correspondence with graph cuts",0.319444444444,0.307407407407
+814FEDA0,"A multilevel banded graph cuts method for fast image segmentation",0.303463203463,0.262698412698
+65820F85,"Simultaneous segmentation and filtering via reduced graph cuts",0.303463203463,0.403703703704
+7A089758,"Interactive foreground segmentation method using mean shift and graph cuts",0.306349206349,0.264285714286
+80DF1244,"Moving Object Segmentation Using Dynamic 3D Graph Cuts and GMM",0.303463203463,0.375555555556
+5F383990,"Semi-supervised Learning for Image Annotation Based on Conditional Random Fields",0.276252319109,0.289682539683
+7633123E,"Signal inpainting on graphs via total variation minimization",0.32619047619,0.437037037037
+7CB8C447,"Learning the unified kernel machines for classification",0.279138321995,0.329274891775
+7AE6FE93,"Submodularity beyond submodular energies: Coupling edges in graph cuts",0.239517625232,0.273737373737
+75DF4373,"Semi-supervised Unified Latent Factor learning with multi-view data",0.279138321995,0.417989417989
+814EA7AD,"Semi-supervised Learning with Weakly-Related Unlabeled Data : Towards Better Text Categorization",0.276252319109,0.357142857143
+78F6F492,"Manifold-preserving graph reduction for sparse semi-supervised learning",0.307034632035,0.412037037037
+75AE18CA,"Classes of Submodular Constraints Expressible by Graph Cuts",0.303463203463,0.338492063492
+5D921113,"Directed graph learning via high-order co-linkage analysis",0.402272727273,0.553977272727
+7D96BE11,"Semi-supervised Discriminant Analysis Based on Dependence Estimation",0.279823747681,0.348214285714
+77DC7934,"Question classification based on co-training style semi-supervised learning",0.288662131519,0.312698412698
+7C333D15,"Label propagation through minimax paths for scalable semi-supervised learning",0.307936507937,0.344742063492
+807FB30A,"CUDA cuts: Fast graph cuts on the GPU",0.303463203463,0.407407407407
+798A1C68,"Proper ordered meshing of complex shapes and optimal graph cuts applied to atrial-wall segmentation from DE-MRI",0.318027210884,0.273185941043
+7C7B9A3B,"Graph-cut based interactive image segmentation with texture constraints",0.273701298701,0.287222222222
+7E320D6B,"Learning with Limited Supervision by Input and Output Coding",0.293424036281,0.310238095238
+7EA5312B,"LIVE VIDEO OBJECT TRACKING AND SEGMENTATION USING GRAPH CUTS",0.305050505051,0.304535147392
+808298B7,"The iterative graph cut optical flow estimation with space term disturbance",0.321428571429,0.257936507937
+06BAD6E1,"Graph Cut Optimization for the Piecewise Constant Level Set Method Applied to Multiphase Image Segmentation",0.305050505051,0.26994047619
+586E3F98,"A Modeling Approach Using Multiple Graphs for Semi-Supervised Learning",0.305050505051,0.331111111111
+8014E25E,"Fast approximate energy minimization via graph cuts",0.305050505051,0.328282828283
+7D2A7565,"High Resolution Motion Layer Decomposition using Dual-space Graph Cuts ∗ IEEE Computer Society Conference on Computer Vision and Pattern Recognition 2008, Anchorage, Alaska. ©IEEE.",0.307936507937,0.188660298035
+7ED831FE,"Large scale semi-supervised linear SVMs",0.277777777778,0.0
+7E9F06BA,""GrabCut": interactive foreground extraction using iterated graph cuts",0.303463203463,0.327777777778
+7E6E4E24,"Visibility-driven Mesh Analysis and Visualization through Graph Cuts",0.243089053803,0.334027777778
+76872A59,"Multi-view clustering with constraint propagation for learning with an incomplete mapping between views",0.279823747681,0.274272486772
+7F19CB24,"Training Conditional Random Fields Using Transfer Learning for Gesture Recognition",0.275288600289,0.271825396825
+7E67290E,"A graph cut algorithm for generalized image deconvolution",0.307034632035,0.336805555556
+7B8B4945,"Learning Complementary Saliency Priors for Foreground Object Segmentation in Complex Scenes",0.260753532182,0.242929292929
+79D61861,"Pattern classification and clustering: A review of partially supervised learning approaches",0.306519274376,0.263498075998
+5E3EA655,"When does Co-training Work in Real Data?",0.196995464853,0.214285714286
+76E405D4,"Derivative reproducing properties for kernel methods in learning theory",0.276252319109,0.287157287157
+7AFB42E2,"Texture segmentation using independent-scale component-wise Riemannian-covariance Gaussian mixture model in KL measure based multi-scale nonlinear structure tensor space",0.284126984127,0.222424242424
+596894FC,"Automatic segmentation based on adaboost learning and graph-cuts",0.271717171717,0.403703703704
+80EDB075,"Scale Adaptation of Mean Shift Based on Graph Cuts Theory",0.401587301587,0.4132996633
+01FB64AB,"Privacy preserving semi-supervised learning for labeled graphs",0.276252319109,0.340404040404
+02855FE2,"Multi-Resolution Graph Cuts for Stereo-Motion Estimation",0.239517625232,0.412037037037
+797E93A5,"A generic framework for event detection in various video domains",0.247619047619,0.167070707071
+78AAEA15,"PhotoSketch: a sketch based image query and compositing system",0.281240981241,0.289121989122
+802345DD,"Semi-supervised multi-label image classification based on nearest neighbor editing",0.280725623583,0.323015873016
+7B0D1ABF,"Learning with partly labeled data",0.276252319109,0.464285714286
+811C1E0F,"Feature Based Binarization of Document Images Degraded by Uneven Light Condition",0.279653679654,0.30747955748
+7F85B92E,"Localized Hierarchical Graph Cuts",0.303463203463,0.555555555556
+7AA31817,"Image annotation using bi-relational graph of images and semantic labels",0.434920634921,0.449735449735
+7CE85E5B,"Relation extraction using label propagation based semi-supervised learning",0.294444444444,0.313425925926
+5DDABD43,"Learning image structures for optimizing disparity estimation",0.273701298701,0.268981481481
+764007D8,"Multi-label Depth Estimation for Graph Cuts Stereo Problems",0.239517625232,0.291666666667
+6A74EC79,"Generalized Fast Approximate Energy Minimization via Graph Cuts: Alpha-Expansion Beta-Shrink Moves",0.307034632035,0.273021885522
+78E32400,"SAR change detection based on intensity and texture changes",0.308673469388,0.308333333333
+778F9E2E,"Video semantic analysis based on structure-sensitive anisotropic manifold ranking",0.307034632035,0.327222222222
+7A4DE533,"Making the right moves: Guiding alpha-expansion using local primal-dual gaps",0.183225108225,0.228333333333
+029B847F,"Rapid interactive modelling from video with graph cuts",0.305050505051,0.388888888889
+6307C92C,"Automatic 3D Prostate MR Image Segmentation Using Graph Cuts and Level Sets with Shape Prior",0.303463203463,0.232360540694
+5F68F6E0,"Semi-supervised Robust Alternating AdaBoost",0.277777777778,0.0
+7FD3EBC8,"Transductive Learning Machine Based on the Affinity-Rule for Semi-supervised Problems and Its Algorithm",0.370526695527,0.463888888889
+0B583115,"Semi-supervised kernel minimum squared error based on manifold structure",0.289682539683,0.249891774892
+7DEB0ED6,"Exact voxel occupancy with graph cuts",0.319444444444,0.425925925926
+80651C98,"Feature‐based classification of native and non‐native protein–protein interactions: Comparing supervised and semi‐supervised learning approaches",0.311507936508,0.27380952381
+7E2CFDAA,"Robust higher order potentials for enforcing label consistency",0.312471655329,0.330793650794
+7D3F70C2,"What energy functions can be minimized via graph cuts?",0.303463203463,0.313035113035
+5F4162C0,"Discontinuity Preserving Phase Unwrapping Using Graph Cuts",0.303463203463,0.313492063492
+7DAA367C,"Activity Recognition Based on Semi-supervised Learning",0.298979591837,0.355555555556
+78DE706C,"Clustering documents with labeled and unlabeled documents using fuzzy semi-Kmeans",0.180735930736,0.208333333333
+7F1768B8,"An interactive graph cut method for brain tumor segmentation",0.303463203463,0.24707977208
+7BA5B713,"Modified localized graph cuts based active contour model for local segmentation with surrounding nearby clutter and intensity inhomogeneity",0.398701298701,0.298921028466
+764ABA21,"Transfer Metric Learning with Semi-Supervised Extension",0.275288600289,0.412037037037
+785BE45C,"Towards Making Unlabeled Data Never Hurt",0.181014223871,0.242063492063
+7E1FCCDC,"Robust Real-Time Bi-Layer Video Segmentation Using Infrared Video",0.208225108225,0.275
+7DF209A3,"Semi-supervised feature selection for graph classification",0.255498866213,0.350108225108
+7D22E53C,"Learning to Detect Moving Shadows in Dynamic Environments",0.270021645022,0.349848484848
+7DC3499B,"3D α expansion and graph cut algorithms for automatic liver segmentation from CT images",0.307034632035,0.214136904762
+7BD64613,"Learning aspect models with partially labeled data",0.276252319109,0.370941558442
+04EC2B49,"Modified self-organizing feature map neural network with semi-supervision for change detection in remotely sensed images",0.215986394558,0.170193001443
+7FB17657,"Higher-order gradient descent by fusion-move graph cut",0.247562358277,0.344742063492
+5FB5A61E,"Semi-supervised Learning Based on Label Propagation through Submanifold",0.403174603175,0.559027777778
+7F07B09E,"Automatic segmentation of the left-ventricular cavity and atrium in 3D ultrasound using graph cuts and the radial symmetry transform",0.303463203463,0.262468087468
+80CD83FF,"Ensemble Learning with Active Data Selection for Semi-Supervised Pattern Classification",0.292233560091,0.315476190476
+6772107A,"Semi-supervised support vector learning for face recognition",0.287698412698,0.290404040404
+7F0108DC,"Different labels in energy minimized via graph cuts for stereo matching",0.434920634921,0.412241462241
+7519EC0B,"Machine learning in low-level microarray analysis",0.272402597403,0.402777777778
+7E0D8880,"A Graph Cut Approach to Image Segmentation in Tensor Space",0.252380952381,0.240476190476
+7F1C459B,"Bayesian foreground segmentation and tracking using pixel-wise background model and region based foreground model",0.276252319109,0.228578643579
+7B61C103,"Ternary reversible extreme learning machines: the incremental tri-training method for semi-supervised classification",0.282709750567,0.29246031746
+7D93E5E9,"Semi-supervised marginal discriminant analysis based on QR decomposition",0.272402597403,0.397222222222
+7A66CE09,"Empirical stationary correlations for semi-supervised learning on graphs",0.303463203463,0.417989417989
+7DE6FDC6,"Graph cuts using a Riemannian metric induced by tensor voting",0.312471655329,0.311772486772
+80B8A0CF,"Learning Distance Functions using Equivalence Relations",0.276252319109,0.309193121693
+7E6F781B,"Semi-Supervised Learning with Trees",0.249233026544,0.535714285714
+76070AB6,"Image segmentation by iterated region merging with localized graph cuts",0.303463203463,0.266666666667
+80D5C856,"Spectral methods for graph clustering - A survey",0.305050505051,0.347222222222
+7E60F7A5,"Joint Learning of Labels and Distance Metric",0.307936507937,0.407407407407
+7F7D48B9,"Semi-Supervised Learning with Max-Margin Graph Cuts",0.398701298701,0.703703703704
+7FB2D324,"Graph Cut Segmentation with Nonlinear Shape Priors",0.303463203463,0.283888888889
+5E6DB292,"Graph cuts framework for kidney segmentation with prior shape constraints",0.303463203463,0.229134754135
+5D6AA501,"A Discriminative Model-Constrained Graph Cuts Approach to Fully Automated Pediatric Brain Tumor Segmentation in 3-D MRI",0.305050505051,0.24155982906
+7DF5C1E3,"Dynamic graph cuts for colon segmentation in functional cine-MRI",0.303463203463,0.320634920635
+7CFE5664,"Real-Time Object Tracking for Augmented Reality Combining Graph Cuts and Optical Flow",0.311507936508,0.284297052154
+0C03A90C,"Shape prior model for media-adventitia border segmentation in IVUS using graph cut",0.303463203463,0.263383838384
+78568D0A,"3D model retrieval and classification by semi-supervised learning with content-based similarity",0.282709750567,0.28841991342
+813D6D35,"Document re-ranking using cluster validation and label propagation",0.315873015873,0.353571428571
+7D33C38B,"SnakeCut : an Integrated Approach Based on Active Contour and GrabCut for Automatic Foreground Object Segmentation",0.277839620697,0.246995464853
+5FD8B66E,"Graph based semi-supervised learning with sharper edges",0.398701298701,0.548611111111
+7C2ED726,"Supervised and semi-supervised infant-directed speech classification for parent-infant interaction analysis",0.275793650794,0.336904761905
+7D224132,"A Note on Semi-Supervised Learning using Markov Random Fields",0.264324960754,0.385416666667
+80BBD0CD,"Reliability based graph-cuts algorithm for stereo",0.275288600289,0.326884920635
+7D656EF1,"Object Recognition Algorithm Utilizing Graph Cuts Based Image Segmentation",0.398701298701,0.395238095238
+5A5CC59A,"Measuring uncertainty in graph cut solutions – efficiently computing min-marginal energies using dynamic graph cuts",0.303463203463,0.261159211159
+7965FCEF,"Controlled islanding of power systems using label propagation",0.196490414348,0.205086580087
+7F8A567B,"Mining driving safety pattern using semi-supervised learning on time series data",0.290816326531,0.259656084656
+683BD175,"Graph Cut based Inference with Co-occurrence Statistics",0.421768707483,0.407601657602
+80F27E0A,"Learning query intent from regularized click graphs",0.413265306122,0.500793650794
+7745D25B,"Laplacian Margin Distribution Boosting for Learning from Sparsely Labeled Data",0.276252319109,0.302513227513
+80460321,"Object detection in aerial imagery based on enhanced semi-supervised learning",0.271717171717,0.327777777778
+7E85D2C0,"Efficient Video Object Segmentation by Graph-Cut",0.208225108225,0.216666666667
+39AE8019,"Automatic graph cut based segmentation of retinal optic disc by incorporating blood vessel compensation",0.398701298701,0.301234567901
+7F76B250,"Automatic Segmentation of Lung Fields from Radiographic Images of SARS Patients Using a New Graph Cuts Algorithm",0.303463203463,0.220804504138
+7B48287A,"Clothing segmentation using foreground and background estimation based on the constrained Delaunay triangulation",0.276252319109,0.22866362033
+7DD9CD7C,"Graph-cut based edge detection for kalman filter based left ventricle tracking in 3D+T echocardiography",0.273701298701,0.340625
+80E6EDEF,"Image completion based on views of large displacement",0.273304473304,0.288888888889
+79E1E20B,"Segmentation of myocardium using deformable regions and graph cuts",0.303463203463,0.287830687831
+805B9F32,"Performance of Low-Level Motion Estimation Methods for Confocal Microscopy of Plant Cells in vivo",0.224206349206,0.147222222222
+7FEBB3BF,"Learning Semi-Riemannian Metrics for Semisupervised Feature Extraction",0.264957264957,0.319735819736
+7850FBA9,"OPTIMOL: Automatic Online Picture Collection via Incremental Model Learning",0.284126984127,0.335227272727
+627B5A56,"A co-training algorithm based on modified Fisher's linear discriminant analysis",0.272402597403,0.335227272727
+7BFCAA6E,"Graph cuts with many-pixel interactions: Theory and applications to shape modelling",0.275396825397,0.268315811173
+5AAD0939,"Multiscale information fusion by graph cut through convex optimization",0.254081632653,0.313015873016
+7F5B2E1B,"Interactive Separation of Segmented Bones in CT Volumes Using Graph Cut",0.307936507937,0.270975056689
+057FC423,"3-d graph cut segmentation with Riemannian metrics to avoid the shrinking problem",0.31746031746,0.271306471306
+5B032CB9,"Total Variation Minimization and Graph Cuts for Moving Objects Segmentation",0.32619047619,0.285487528345
+785CC746,"Skull stripping using graph cuts",0.303463203463,0.353174603175
+7D1CECA0,"Semi-supervised learning based object detection in aerial imagery",0.271717171717,0.327777777778
+7D78459A,"Similarity learning for semi-supervised multi-class boosting",0.270021645022,0.5625
+811B19DA,"Collective graph identification",0.312471655329,0.571428571429
+7C261274,"Learning Layered Motion Segmentations of Video",0.303463203463,0.386666666667
+7D0A4D12,"A bridge structural health data analysis model based on semi-supervised learning",0.279823747681,0.258868446368
+4547B894,"Label propagation based on collaborative representation for face recognition",0.405158730159,0.40867003367
+02521E1A,"Semi Supervised Logistic Regression",0.425396825397,0.7
+7F928104,"Lazy texture selection based on active learning",0.289682539683,0.350694444444
+7619D18D,"A semi-supervised feature ranking method with ensemble learning",0.271717171717,0.363005050505
+80C68F05,"Unsupervised Change Detection in SAR Image using Graph Cuts",0.33843537415,0.317592592593
+80590B97,"Unsupervised Motion Layer Segmentation by Random Sampling and Energy Minimization",0.217233560091,0.146368446368
+754FDA03,"Semi-supervised learning for refining image annotation based on random walk model",0.277839620697,0.2524427953
+77BC8B1E,"Keyword spotting for self-training of BLSTM NN based handwriting recognition systems",0.264957264957,0.308975468975
+7EE07AFF,"Fast Adaptive Graph-Cuts Based Stereo Matching",0.249233026544,0.440476190476
+59D78A67,"Comparison of energy minimization algorithms for highly connected graphs",0.307034632035,0.295244107744
+7CF127AF,"A NOVEL FRAMEWORK FOR ACCURATE LUNG SEGMENTATION USING GRAPH CUTS",0.303463203463,0.285379435379
+7D757C95,"Human object segmentation using Gaussian mixture model and graph cuts",0.303463203463,0.271887239744
+796CB3E9,"A perceptual image completion approach based on a hierarchical optimization scheme",0.273304473304,0.255892255892
+80F5005C,"Adaptive human shape reconstruction via 3D head tracking for motion capture in changing environment",0.224206349206,0.19053030303
+5852A32F,"Adaptive Regularization Parameter for Graph Cut Segmentation",0.303463203463,0.283888888889
+78DAF807,"Unified and Contrasting Cuts in Multiple Graphs: Application to Medical Imaging Segmentation",0.312471655329,0.255328798186
+7E533A77,"Learning spatio-temporal dependency of local patches for complex motion segmentation",0.303463203463,0.330622710623
+7DBC0FD5,"Label set perturbation for MRF based neuroimaging segmentation",0.401587301587,0.49
+71A6F3B3,"When Semi-supervised Learning Meets Ensemble Learning",0.288888888889,0.437037037037
+781B639E,"Efficient region-aware large graph construction towards scalable multi-label propagation",0.307034632035,0.416666666667
+76571210,"Supervised Hashing Using Graph Cuts and Boosted Decision Trees",0.431519274376,0.40022675737
+603C8A8C,"Efficiently Learning Random Fields for Stereo Vision with Sparse Message Passing",0.296031746032,0.300233100233
+7F75378D,"Label propagation through linear neighborhoods",0.306349206349,0.402777777778
+7D8385AC,"Illumination-invariant tracking via graph cuts",0.276252319109,0.453703703704
+80941818,"Fast image blending using watersheds and graph cuts",0.303463203463,0.309259259259
+76D64FB3,"Learning With $\ell ^{1}$ -Graph for Image Analysis",0.275288600289,0.412037037037
+810E0BBD,"Semi-supervised Learning on Semantic Manifold for Event Analysis in Dynamic Scenes",0.22380952381,0.118737373737
+77271F84,"Motion layer extraction in the presence of occlusion using graph cuts",0.306349206349,0.278125
+7F87FD28,"Image categorization by learning with context and consistency",0.276252319109,0.301587301587
+7FB86A24,"Efficient Multi-View Reconstruction of Large-Scale Scenes using Interest Points, Delaunay Triangulation and Graph Cuts",0.303463203463,0.235128066378
+7EBDE34F,"Joint Multi-Layer Segmentation and Reconstruction for Free-Viewpoint Video Applications",0.217233560091,0.169047619048
+7E69847B,"Learning multilingual named entity recognition from Wikipedia",0.294444444444,0.377777777778
+77B804BE,"Crohn's disease tissue segmentation from abdominal MRI using semantic information and graph cuts",0.305050505051,0.234479717813
+7F324CBD,"Power watersheds: A new image segmentation framework extending graph cuts, random walker and optimal spanning forest",0.303463203463,0.205241702742
+79890047,"Multiscale fusion of wavelet-domain hidden Markov tree through graph cut",0.318027210884,0.283261183261
+805CDEA1,"Prostate Segmentation from 2-D Ultrasound Images Using Graph Cuts and Domain Knowledge",0.320578231293,0.251282051282
+7CF0F27D,"Kolmogorov and Zabih’s Graph Cuts Stereo Matching Algorithm",0.279823747681,0.371527777778
+8043C060,"Learning the Semantic Correlation: An Alternative Way to Gain from Unlabeled Text",0.276252319109,0.325714285714
+7F98C023,"Semi-supervised Classification via Low Rank Graph",0.312471655329,0.417989417989
+7E515A31,"Learning segmentation of documents with complex scripts",0.275974025974,0.352380952381
+7AB99AB5,"Volume Graph Model for 3D Facial Surface Extraction",0.307936507937,0.293737373737
+7FF1FB3E,"On Improving Space-Time Super Resolution Using a Small Set of Video Inputs",0.208225108225,0.23373015873
+7EC43CE2,"Dynamic Graph Cuts for Efficient Inference in Markov Random Fields",0.303463203463,0.321338383838
+7642BC2D,"A Co-Ranking Algorithm for Learning Listwise Ranking Functions from Unlabeled Data",0.279823747681,0.332142857143
+805270FD,"CBC: clustering based text classification requiring minimal labeled data",0.285260770975,0.299149659864
+7DF05B26,"Multi camera person tracking applying a graph-cuts based foreground segmentation in a homography framework",0.270021645022,0.282309357309
+80598A06,"Retinal blood vessel segmentation via graph cut",0.303463203463,0.278888888889
+7BE5CFBB,"Graph alignment for semi-supervised semantic role labeling",0.307034632035,0.416666666667
+5D322A91,"Exploit of Online Social Networks with Community-Based Graph Semi-Supervised Learning",0.312471655329,0.349206349206
+76D3F8F9,"Trace ratio criterion based generalized discriminative learning for semi-supervised dimensionality reduction",0.279823747681,0.246478174603
+59D0368D,"Multi Class Semi-Supervised Classification with Graph Construction Based on Adaptive Metric Learning",0.407709750567,0.420304232804
+75B58489,"Normal Estimation of a Transparent Object Using a Video",0.208225108225,0.233630952381
+7856FE0A,"Ideal regularization for learning kernels from labels",0.405158730159,0.553977272727
+8062DE9D,"Object segmentation using graph cuts based active contours",0.398701298701,0.444907407407
+5CE0F2C6,"Semi-supervised Classification Based on Clustering Ensembles",0.280725623583,0.355158730159
+7F5237D2,"Graph cut based panoramic 3D modeling and ground truth comparison with a mobile platform - The Wägele",0.400288600289,0.330208333333
+77DAD613,"Interactively multiphase image segmentation based on variational formulation and graph cuts",0.398701298701,0.402188552189
+7D6D91DA,"Weakly Supervised Classification of Objects in Images Using Soft Random Forests",0.309070294785,0.309193121693
+76D5AD7F,"A Modified Semi-Supervised Learning Algorithm on Laplacian Eigenmaps",0.272402597403,0.5625
+5BB733DA,"Iterated graph cuts for image segmentation",0.239517625232,0.330555555556
+7B7C3F82,"Segmentation of interwoven 3d tubular tree structures utilizing shape priors and graph cuts",0.303463203463,0.227267573696
+801595C3,"A TSVM Based Semi-Supervised Approach to SAR Image Segmentation",0.273304473304,0.330555555556
+7E2E0876,"A Hierarchical Visual Model for Video Object Summarization",0.217748917749,0.19696969697
+80928970,"Space-Time Super-Resolution Using Graph-Cut Optimization",0.171717171717,0.222222222222
+7D055363,"Graph-Based Active Learning Based on Label Propagation",0.403174603175,0.559027777778
+7F4C5DB0,"Efficient planar graph cuts with applications in Computer Vision",0.312471655329,0.28436008436
+7E4597B1,"Saliency-based video segmentation with graph cuts and sequentially updated priors",0.303463203463,0.325555555556
+7CA45501,"Modeling annotators: a generative approach to learning from annotator rationales",0.268037518038,0.258417508418
+80F29533,"Consecutive tracking and segmentation using adaptive mean-shift and graph cut",0.305050505051,0.331111111111
+79D24C34,"Efficient semi-supervised learning on locally informative multiple graphs",0.303463203463,0.398148148148
+5C5BD0E6,"Statistical priors for efficient combinatorial optimization via graph cuts",0.305050505051,0.326388888889
+5E800C58,"Interactive Organ Segmentation Using Graph Cuts",0.303463203463,0.386111111111
+7DA341D1,"A Movie Recommender System Based on Semi-supervised Clustering",0.289682539683,0.345643939394
+79802196,"HuPBA 8 k +: Dataset and ECOC-Graph-Cut based segmentation of human limbs",0.264957264957,0.323611111111
+5B1A01F6,"Efficient graph cuts for multiclass interactive image segmentation",0.303463203463,0.330555555556
+7D7C9919,"for Semi-Supervised Learning on Graphs",0.239517625232,0.555555555556
+03C268DC,"Hypernode Graphs for Spectral Learning on Binary Relations over Sets",0.303463203463,0.349206349206
+76CEE0FF,"Color-texture segmentation using unsupervised graph cuts",0.303463203463,0.386111111111
+801F2E93,"Silhouette extraction based on iterative spatio-temporal local color transformation and graph-cut segmentation",0.315476190476,0.291061253561
+80381019,"Intra-hepatic vessel segmentation and classification in multi-phase CT using optimized graph cuts",0.312471655329,0.263151927438
+7A20A996,"Graph cut based deformable model with statistical shape priors",0.398701298701,0.401725589226
+5D0314E4,"Using co-training and self-training in semi-supervised multiple classifier systems",0.161966604824,0.212121212121
+7E23F8F4,"Establishing Visual Correspondence from Multi-Resolution Graph Cuts for Stereo-Motion",0.303463203463,0.390277777778
+43B96798,"Semi-supervised feature selection based on local discriminative information",0.300396825397,0.364393939394
+7B41FE76,"Semi-supervised classification via kernel low-rank representation graph",0.248526077098,0.339691558442
+004DCEF4,"Fast Multilevel Transduction on Graphs",0.303463203463,0.555555555556
+7D2F58B7,"A novel method using KDE and Graph Cut in Stereo Matching",0.303463203463,0.325396825397
+7F51F0A5,"Omnidirectional 3D Modeling on a Mobile Robot using Graph Cuts",0.303463203463,0.337606837607
+82F1AF00,"Video Segmentation with Motion Smoothness",0.144279529994,0.219444444444
+7A6CBF1D,"Kidney segmentation using graph cuts and pixel connectivity",0.303463203463,0.294037444037
+7C4B02A8,"Structural annotation of em images by graph cut",0.303463203463,0.295238095238
+7DED5BC4,"Predicting purchase preferences using semi-supervised one-class SVM with graph kernels",0.312471655329,0.303511303511
+7E50E06D,"Robust path based semi-supervised dimensionality reduction",0.282709750567,0.348214285714
+6D02D485,"Integrated Graph Cuts for Brain MRI Segmentation",0.249494949495,0.262037037037
+7D7EDADE,"On the Relation Between Low Density Separation, Spectral Clustering and Graph Cuts",0.313492063492,0.279828042328
+805182BC,"Automatic bi-layer video segmentation based on sensor fusion",0.318027210884,0.331904761905
+814D6699,"Foreground segmentation for static video via multi-core and multi-modal graph cut",0.303463203463,0.325555555556
+798BF878,"Learning from weakly labeled faces and video in the wild",0.303463203463,0.385238095238
+7FEC04B2,"Extracting dense features for visual correspondence with graph cuts",0.303463203463,0.330404040404
+5C9D5300,"Learning layered pictorial structures from video",0.303463203463,0.4
+80D24E24,"Generalized Multi-Camera Scene Reconstruction Using Graph Cuts",0.303463203463,0.305892255892
+7D437B1D,"Constrained multiplicative graph cuts based active contour model for magnetic resonance brain image series segmentation",0.398701298701,0.268044077135
+7957DC06,"Graph Cuts Segmentation by Using Local Texture Features of Multiresolution Analysis",0.307034632035,0.269336219336
+75B5B656,"3D automatic anatomy segmentation based on iterative graph-cut-ASM",0.260753532182,0.388888888889
+7C79BD1D,"Semisupervised learning from different information sources",0.284415584416,0.433333333333
+77839B76,"Lung tumor segmentation in PET images using graph cuts",0.303463203463,0.236591880342
+59C99975,"PE-PUC: A Graph Based PU-Learning Approach for Text Classification",0.407709750567,0.563492063492
+7C846E1E,"Safe semi-supervised learning based on weighted likelihood",0.273701298701,0.412037037037
+7E54BAC6,"Label diagnosis through self tuning for web image search",0.236111111111,0.272757335257
+7FC4F7E1,"Self-Validated and Spatially Coherent Clustering with Net-Structured MRF and Graph Cuts",0.303463203463,0.425925925926
+7FE49FA7,"Learning based digital matting",0.3524427953,0.69696969697
+7CEA7BC8,"An Interactive Segmentation Method Using Graph Cuts for Mammographic Masses",0.307936507937,0.303703703704
+811E891E,"Simultaneous super-resolution and 3D video using graph-cuts",0.208225108225,0.333333333333
+01910C66,"Semantic Relation Extraction Based on Semi-supervised Learning",0.294444444444,0.355555555556
+7F89AF8E,"Multifrequency absolute phase estimation via graph cuts",0.303463203463,0.340277777778
+09462584,"Accurate banded graph cut segmentation of thin structures using laplacian pyramids",0.303463203463,0.271201814059
+7D6A02AF,"3D Vertebral Body Segmentation Using Shape Based Graph Cuts",0.398701298701,0.395634920635
+7F8FAC00,"Sparsity induced similarity measure for label propagation",0.265873015873,0.273484848485
+70644626,"Topology-preserving registration: a solution via graph cuts",0.243089053803,0.336805555556
+58E3711B,"Regularization and Semi-supervised Learning on Large Graphs",0.303463203463,0.412037037037
+8117EA0E,"Robust Water/Fat Separation in the Presence of Large Field Inhomogeneities Using a Graph Cut Algorithm",0.307034632035,0.255704365079
+7E0A753E,"MRF&#146;s forMRI&#146;s: Bayesian Reconstruction of MR Images via Graph Cuts",0.303463203463,0.259331409331
+81525A1A,"L-gem based co-training for CBIR with relevance feedback",0.276252319109,0.417989417989
+79AE1D30,"Semi-supervised learning combining co-training with active learning",0.271717171717,0.453703703704
+7D60D5CA,"Higher-order clique reduction in binary graph cut",0.307034632035,0.340277777778
+7DABFB67,"Regularized Learning with Networks of Features",0.276252319109,0.370941558442
+7EBED140,"EXPLOITING QUERY CLICK LOGS FOR UTTERANCE DOMAIN DETECTION IN SPOKEN LANGUAGE UNDERSTANDING Dilek Hakkani-T¨ ur Larry Heck Gokhan Tur",0.216836734694,0.182764149431
+7E4623C7,"Fast Background Subtraction Using Improved GMM and Graph Cut",0.303463203463,0.322883597884
+80544B4F,"Semi-supervised ranking on very large graphs with rich metadata",0.303463203463,0.412037037037
+7D2EB57B,"Learning for Structured Prediction Using Approximate Subgradient Descent with Working Sets",0.284297052154,0.30975572047
+8151A378,"Near Real-Time Motion Segmentation Using Graph Cuts",0.303463203463,0.375555555556
+7FC39609,"Special Effects in Film Making with Object Based Transformations",0.329931972789,0.320105820106
+7A3C9915,"Multi-scale sparse feature point correspondence by graph cuts",0.303463203463,0.297070707071
+80D19151,"Soil Erosion Remote Sensing Image Retrieval Based on Semi-Supervised Learning",0.271717171717,0.229861111111
+7DAC8DAF,"Learning from testing data: A new view of incremental semi-supervised learning",0.276252319109,0.313015873016
+7FFDE3C4,"A graph Laplacian based approach to semi-supervised feature selection for regression problems",0.414682539683,0.368542568543
+7FC37865,"Fast approximate energy minimization via graph cuts",0.305050505051,0.328282828283
+7EB2EAC1,"Graph Cuts Segmentation with Geometric Shape Priors for Medical Images",0.303463203463,0.255092592593
+78F9590C,"Learning Semantic Categories from Search Clickthrough Logs Using Laplacian Label Propagation",0.411281179138,0.408395176252
+5936D1F0,"Generalized Hard Constraints for Graph Segmentation",0.303463203463,0.35
+5D063831,"Better foreground segmentation for 3D face reconstruction using graph cuts",0.303463203463,0.259812409812
+7D3AD997,"A Framework for Learning Comprehensible Theories in XML Document Classification",0.288662131519,0.298268398268
+7A0FDB57,"Comparison of multi-label graph cuts method and Monte Carlo simulation with block-spin transformation for the piecewise constant Mumford–Shah segmentation model",0.345238095238,0.234175084175
+0624D6AB,"The segmentation of different skin colors using the combination of graph cuts and probability neural network",0.307936507937,0.239065255732
+77118411,"Semi-automatic object segmentation using colour invariance and Graph cuts",0.303463203463,0.333888888889
+79D5B66D,"Graph cuts segmentation using an elliptical shape prior",0.303463203463,0.333888888889
+7D30C88B,"Semi-supervised change detection via Gaussian processes",0.216836734694,0.172222222222
+7739C2BC,"How the result of graph clustering methods depends on the construction of the graph",0.279823747681,0.394841269841
+809D4616,"Spatially Adapted Manifold Learning for Classification of Hyperspectral Imagery with Insufficient Labeled Data",0.285260770975,0.278911564626
+7EF08654,"Fast stereo matching via graph cuts",0.303463203463,0.453703703704
+7F88D5F3,"Variational surface reconstruction based on Delaunay triangulation and graph cut",0.398701298701,0.39708994709
+8058B4F3,"Monocular Real-Time Foreground Cut Based on Multiple Cues",0.264957264957,0.323611111111
+7C922DB4,"Hippocampus segmentation in MR images using atlas registration, voxel classification, and graph cuts",0.312471655329,0.233072791406
+7FBA1A29,"Cell tracking and segmentation in electron microscopy images using graph cuts",0.305050505051,0.243121693122
+596D8DF6,"Large Graph Construction for Scalable Semi-Supervised Learning",0.307034632035,0.412037037037
+7F66A3AE,"Interactive object segmentation using kernel density estimation based graph cuts",0.398701298701,0.333690075357
+80F17CA2,"Multi-View Stereo via Graph Cuts on the Dual of an Adaptive Tetrahedral Mesh",0.303463203463,0.323412698413
+754B555B,"Can semi-supervised learning explain incorrect beliefs about categories?",0.280725623583,0.422619047619
+802ABD52,"Image and video retexturing",0.144279529994,0.222222222222
+3C748D4B,"Local voting based multi-view embedding",0.279138321995,0.436507936508
+7A6092EB,"Automatic foreground extraction by background elimination based on multiscale segmentation",0.276252319109,0.256216931217
+5E1AEAE7,"An Improved Interactive Color Image Segmentation Using Region-Based Graph Cuts",0.303463203463,0.296759259259
+801BDD0E,"Leveraging Web Query Logs to Learn User Intent Via Bayesian Discrete Latent Variable Model",0.281240981241,0.264099326599
+7D57EA52,"Spatio-Temporal Markov Random Field for Video Denoising",0.208225108225,0.208333333333
+80D45E4C,"Multiscale Wavelets on Trees, Graphs and High Dimensional Data: Theory and Applications to Semi Supervised Learning",0.3160430839,0.240594722738
+75FB5073,"Mixture model label propagation",0.245975056689,0.335227272727
+75D7FAB1,"Two-Frames Accurate Motion Segmentation Using Tensor Voting and Graph-Cuts",0.217233560091,0.227380952381
+5D471DA9,"A Graph Based Subspace Semi-supervised Learning Framework for Dimensionality Reduction",0.402272727273,0.370696763554
+75E0F8E8,"Semi-supervised extreme learning machine with manifold and pairwise constraints regularization",0.270021645022,0.25
+76630646,"Combining labeled and unlabeled data with graph embedding",0.276252319109,0.361904761905
+7E47218A,"Active Semi-Supervised Clustering Based on Multi-View Learning",0.273701298701,0.412037037037
+7F17E809,"Algorithms for the minimum partitioning problems in graphs",0.307034632035,0.329861111111
+7E8D1A6E,"Video object segmentation based on graph cut with dynamic shape prior constraint",0.398701298701,0.364037698413
+7BC67A8E,"Automatic urban modeling using volumetric reconstruction with surface graph cuts",0.303463203463,0.301851851852
+7DD40214,"Actively Illuminated Objects using Graph-Cuts",0.181014223871,0.238095238095
+7CD2102E,"A Graph Cuts Image Segmentation Method for Quantifying Barrier Permeation in Bone Tissue",0.247907647908,0.208547008547
+7FAE849D,"Predicting Protein-Peptide Binding Affinity by Learning Peptide-Peptide Distance Functions",0.276252319109,0.266458078958
+803E3471,"Joint 3D-reconstruction and background separation in multiple views using graph cuts",0.303463203463,0.306878306878
+7D9D66B2,"Detecting and Extracting the Photo Composites Using Planar Homography and Graph Cut",0.305050505051,0.314814814815
+5E92D669,"Certain object segmentation based on adaboost learning and nodes aggregation iterative graph-cuts",0.273701298701,0.334027777778
+80AD01D5,"Learning to Transform Time Series with a Few Examples",0.288265306122,0.328571428571
+5AAFBAF4,"Logistic label propagation for semi-supervised learning",0.307936507937,0.412037037037
+58B8B31B,"Watertight multi-view reconstruction based on volumetric graph-cuts",0.260753532182,0.55
+80F19426,"Learning Chinese Polarity Lexicons by Integration of Graph Models and Morphological Features",0.419217687075,0.376314162028
+585B7FAC,"Real-Time Online Video Object Silhouette Extraction Using Graph Cuts on the GPU",0.303463203463,0.30463980464
+7BCC0043,"Real-time Video Mosaicing using Non-rigid Registration",0.211796536797,0.263888888889
+7EE5C932,"A graph cut algorithm for higher-order Markov Random Fields",0.243089053803,0.282070707071
+7C461941,"Integrated graph-based semi-supervised multiple/single instance learning framework for image annotation",0.299319727891,0.279701779702
+7EF2F64A,"A Method for Inferring Label Sampling Mechanisms in Semi-Supervised Learning",0.280725623583,0.29537037037
+5BB6463F,"Exploiting propositionalization based on random relational rules for semi-supervised learning",0.271717171717,0.365277777778
+7804781E,"A novel learning approach to multiple tasks based on boosting methodology",0.377947845805,0.37941304727
+8095F3BC,"Asymmetric propagation based batch mode active learning for image retrieval",0.279823747681,0.245181405896
+7E4A9EE9,"Distributed Information Regularization on Graphs",0.259415584416,0.38125
+039CE354,"Semi-supervised clustering ensemble based on collaborative training",0.287698412698,0.444444444444
+7DB9413A,"Semi-supervised Learning for Automatic Prosodic Event Detection Using Co-training Algorithm",0.22380952381,0.173888888889
+80D20094,"Interactive Foreground/Background Segmentation Based on Graph Cut",0.398701298701,0.552777777778
+7B4A9C00,"Towards effective document clustering: A constrained K-means based approach",0.27886002886,0.302777777778
+7AD2F0C0,"A Segmentation Method for Bone Marrow Cavity Imaging Using Graph Cuts",0.303463203463,0.229664162997
+72AD0230,"Change detection based on graph cuts",0.433673469388,0.492222222222
+002A1815,"Automatic object extraction in nature scene based on visual saliency and super pixels",0.276252319109,0.220582195582
+7DFA064D,"A parcellation scheme based on von Mises-Fisher distributions and Markov random fields for segmenting brain regions using resting-state fMRI",0.271717171717,0.221313131313
+7D187881,"Model-based Graph Cut Method for Segmentation of the Left Ventricle",0.239517625232,0.249410774411
+58F132CA,"An Enhanced Semi-supervised Recommendation Model Based on Green’s Function",0.276252319109,0.344155844156
+803DC6DA,"Semi-supervised cross feature learning for semantic concept detection in videos",0.303463203463,0.28771043771
+7EBD5CDB,"Human Body Motion Capture via 3D Graph-cuts",0.224206349206,0.2
+7EA7B5DE,"Selective Sampling Based on Dynamic Certainty Propagation for Image Retrieval",0.280725623583,0.29246031746
+816EDDB6,"PresenceSense: zero-training algorithm for individual presence detection based on power monitoring",0.279823747681,0.265476190476
+5F1337DA,"Learning to Detect Objects with Minimal Supervision",0.282709750567,0.366964285714
+80457290,"Semi-supervised learning using greedy max-cut",0.5,0.666666666667
+7D69EE5F,"Spatially coherent clustering using graph cuts",0.303463203463,0.402777777778
+7EA63CDB,"Weakly Supervised Recognition of Daily Life Activities with Wearable Sensors",0.322789115646,0.303888888889
+5A81D3BC,"Combining label information and neighborhood graph for semi-supervised learning",0.407709750567,0.440740740741
+77183BB2,"Parameter Selection for Graph Cut Based Image Segmentation",0.414682539683,0.36746031746
+02515586,"Interactive Image Segmentation Based on Hierarchical Graph-Cut Optimization with Generic Shape Prior",0.275288600289,0.289444444444
+7D13E902,"Automatic trachea segmentation and evaluation from MRI data using intensity pre-clustering and graph cuts",0.319444444444,0.240167548501
+80330AD2,"Segmentation of the left ventricle in cardiac MR images using graph cuts with parametric shape priors",0.303463203463,0.226459034792
+7DF4F7C5,"A new framework for approximate labeling via graph cuts",0.303463203463,0.400673400673
+6776E1E3,"Robust Graph Hyperparameter Learning for Graph Based Semi-supervised Classification",0.502947845805,0.828571428571
+7FDB9C4A,"Interactive Foreground Extraction using graph cut",0.303463203463,0.327777777778
+7FCBB6E5,"Image segmentation through energy minimization based subspace fusion",0.290816326531,0.242692228407
+75351039,"Automated detection of buildings from single VHR multispectral images using shadow information and graph cuts",0.303463203463,0.274558080808
+5BF0D099,"A fast line segment based dense stereo algorithm using tree dynamic programming",0.277272727273,0.294312169312
+7F986BA0,"Automatic segmentation of salient objects using iterative reversible graph cut",0.303463203463,0.33746031746
+7712D0F0,"Object tracking via graph cuts",0.276252319109,0.453703703704
+6BA17283,"Machine learning approaches to text representation using unlabeled data",0.280725623583,0.299272486772
+7F8B1C00,"Semi-supervised learning using Gaussian fields and harmonic functions",0.276252319109,0.389880952381
+7E9418E0,"Edge Map-Based Texture Synthesis via Graph Cuts",0.239517625232,0.283888888889
+813D560F,"Automatic image segmentation incorporating shape priors via graph cuts",0.303463203463,0.24246031746
+8108CAEF,"Detecting disease genes based on semi-supervised learning and protein–protein interaction networks",0.292233560091,0.257709750567
+7F96B8ED,"Tracking Endocardial Motion Via Multiple Model Filtering",0.208225108225,0.224747474747
+7CF5665E,"Graph cut with ordering constraints on labels and its applications",0.370975056689,0.408994708995
+5EE2A6A3,"Cortical sulcal bank segmentation via geometric similarity based graph partition",0.398701298701,0.402651515152
+75842340,"Automatic segmentation of left and right cerebral hemispheres from MRI brain volumes using the graph cuts algorithm",0.307936507937,0.231930415264
+7E5E016C,"Semi-supervised learning with path-based similarity measure for face recognition",0.27132034632,0.285404040404
+77706174,"A Semi-Supervised Learning Algorithm Based on Modified Self-training SVM",0.275288600289,0.412037037037
+6BDF01D4,"Semi Supervised Image Spam Hunter: A Regularized Discriminant EM Approach",0.379365079365,0.357309357309
+7D541CEC,"Supervised Self-taught Learning: Actively transferring knowledge from unlabeled data",0.320578231293,0.324126984127
+7EC325F6,"Space-Time Video Montage",0.144279529994,0.205128205128
+7F50EF25,"Multi-graph Based Semi-supervised Learning for Activity Recognition",0.298979591837,0.355555555556
+7FDB40F3,"Graph theory and mean shift segmentation based classification of building facades",0.409297052154,0.326588689089
+80045894,"Multi-Object Tracking Through Clutter Using Graph Cuts",0.303463203463,0.361111111111
+809C5791,"A Co-training Approach based TEF-WA technique",0.269336219336,0.403703703704
+7753388D,"Learning user intention in relevance feedback using optimization",0.277839620697,0.301587301587
+7CFD24FD,"Improved graph cuts for patch-based texture synthesis",0.276252319109,0.317222222222
+80A33F82,"A Regularized Maximum Figure-of-Merit (rMFoM) Approach to Supervised and Semi-Supervised Learning",0.297113997114,0.407407407407
+79882B81,"Graph-based semi-supervised learning with multiple labels",0.307936507937,0.555555555556
+7A71BBA4,"Two-stage nonparametric kernel leaning: From label propagation to kernel propagation",0.306349206349,0.288181818182
+7D65DE6F,"Two-Level Image Segmentation Based on Region and Edge Integration",0.294217687075,0.262037037037
+7C9A6C29,"A multilevel approach for learning from labeled and unlabeled data on graphs",0.400288600289,0.500793650794
+5DDEB99A,"Learning with Labeled and Unlabeled Data",0.276252319109,0.464285714286
+811CDA39,"Analysis of Spectral Kernel Design based Semi-supervised Learning",0.275288600289,0.290404040404
+7B1BA60D,"Estimating and computing density based distance metrics",0.264957264957,0.275783475783
+7954FD09,"How Not to Be Seen — Object Removal from Videos of Crowded Scenes",0.209812409812,0.228114478114
+80FA6294,"Bayesian Adaptive Oil Spill Segmentation of SAR Images via Graph Cuts",0.303463203463,0.250925925926
+7E02DF65,"Motion layer extraction in the presence of occlusion using graph cut",0.306349206349,0.278125
+5B557460,"Semi-supervised learning with very few labeled training examples",0.289682539683,0.385416666667
+7E178328,"Generalized Fast Approximate Energy Minimization via Graph Cuts: -Expansion -Shrink Moves",0.307034632035,0.273021885522
+80032A46,"Hybrid digital elevation model production guided by 3D-primitives: a global optimization algorithm using graph cuts",0.333503401361,0.275946969697
+5F9F0861,"A Novel 3D Segmentation of Vertebral Bones from Volumetric CT Images Using Graph Cuts",0.303463203463,0.256916099773
+80D77D89,"Graph-Cut Transducers for Relevance Feedback in Content Based Image Retrieval",0.276252319109,0.238313274028
+78953B3D,"Deformed Kernel Based Extreme Learning Machine",0.271717171717,0.307070707071
+7EEDE661,"Learning semantic scene models by object classification and trajectory clustering",0.282709750567,0.255501443001
+7DD86F44,"Graph Cut Liver Segmentation for Interstitial Ultrasound Therapy",0.303463203463,0.245227920228
+7F1D0EDC,"Improved seam carving for video retargeting",0.181014223871,0.205357142857
+808C81D0,"Music preference learning with partial information",0.284415584416,0.377777777778
+5C1ADCA4,"An Image Segmentation Method by Combining Fuzzy C-Means Clustering and Graph Cuts Optimization for Multiphase Level Set Algorithms",0.307034632035,0.225360750361
+7F00612A,"Robust Higher Order Potentials for Enforcing Label Consistency",0.312471655329,0.330793650794
+769135F5,"Fault Tree Synthesis From a Directed Graph Model for a Power Distribution Network",0.255498866213,0.230663780664
+80A8D1B5,"Interactive object extraction using hierarchical graph cuts",0.303463203463,0.339682539683
+5C49BAD6,"A multiple graph cut based approach for stereo analysis",0.402272727273,0.469444444444
+7618E680,"The normalized graph cut and Cheeger constant: from discrete to continuous",0.276252319109,0.363005050505
+7FD8DE2F,"Image segmentation based on Fuzzy hypergraph Model",0.271717171717,0.325505050505
+09F02F3E,"Transfer learning with local smoothness regularizer",0.275288600289,0.412037037037
+79B92D12,"Random walks based modularity: application to semi-supervised learning",0.280725623583,0.34126984127
+055F550A,"Humans perform semi-supervised classification too",0.193424036281,0.214285714286
+7F7DD8B4,"Image Segmentation Based on GC-CV",0.271717171717,0.403703703704
+802C4ABE,"Video completion using tracking and fragment merging",0.209812409812,0.225555555556
+7F1AA3D9,"Semi-supervised Learning Applied to Large Data Sets with Very Few Labeled Examples",0.280725623583,0.332341269841
+7C7954FD,"An analysis of graph cut size for transductive learning",0.243089053803,0.294444444444
+76A1F367,"Learning to rank tags",0.264324960754,0.458333333333
+5A194A75,"Spectral Aggregation Based on Iterative Graph Cut for Sonographic Breast Image Segmentation",0.403174603175,0.368542568543
+762C5B41,"Markerless human motion capture by Markov random field and dynamic graph cuts with color constraints",0.319444444444,0.274206349206
+80356657,"Minimization of Monotonically Levelable Higher Order MRF Energies via Graph Cuts",0.320634920635,0.302626262626
+78E78CEB,"Semi-supervised Bayesian ARTMAP",0.277777777778,0.0
+814C93FD,"Left Ventricle Segmentation via Graph Cut Distribution Matching",0.303463203463,0.275925925926
+7E7B7DAF,"Depth Map Regeneration via Improved Graph Cuts Using a Novel Omnidirectional Stereo Sensor",0.303463203463,0.260204081633
+80B7DC97,"Video falsifying by motion interpolation and inpainting",0.153287981859,0.252380952381
+7E4FC43D,"Spectral Transformation Approaches to Semi-supervised Learning",0.218253968254,0.185185185185
+7E6AF245,"Simultaneous Segmentation and Pose Estimation of Humans Using Dynamic Graph Cuts",0.307936507937,0.306018518519
+7ED72367,"Regularized multi-class semi-supervised boosting",0.214285714286,0.25
+78EBA59A,"Obtaining depth map from segment-based stereo matching using graph cuts",0.303463203463,0.27628968254
+01AFEF57,"Visual Correspondence with Occlusions Using Graph Cuts",0.306349206349,0.351111111111
+5E43E261,"Protein-Protein interactions classification from text via local learning with class priors",0.292233560091,0.307142857143
+7E37CE61,"A semi-supervised k-nearest neighbor algorithm based on data editing",0.279823747681,0.325793650794
+80737B71,"A Low-Cost and Accurate Indoor Localization Algorithm Using Label Propagation Based Semi-supervised Learning",0.280725623583,0.34246031746
+7ADC0A52,"A Semi-Supervised Approach Based on k-Nearest Neighbor",0.270923520924,0.407407407407
+7EDA067E,"Customizable Instance-Driven Webpage Filtering Based on Semi-Supervised Learning",0.271717171717,0.344444444444
+80252FD7,"Image Thresholding Using Graph Cuts",0.303463203463,0.388888888889
+03049EBB,"Clustering-based feature selection for content based remote sensing image retrieval",0.292233560091,0.263553906411
+7FD4442A,"Energy Based Video Synthesis",0.260753532182,0.39696969697
+7E4859F8,"Nonparametric Transforms of Graph Kernels for Semi-Supervised Learning",0.303463203463,0.400673400673
+7C583144,"Iris segmentation in non-ideal images using graph cuts",0.303463203463,0.331111111111
+80100A08,"Semi-Supervised Classification of Network Data Using Very Few Labels",0.312471655329,0.352380952381
+7F1B64A2,"Non-ideal iris segmentation using graph cuts",0.303463203463,0.322222222222
+5C32FA66,"Online Semi-Supervised Learning on Quantized Graphs",0.303463203463,0.555555555556
+7BF08321,"Improve Computer-Aided Diagnosis With Machine Learning Techniques Using Undiagnosed Samples",0.275288600289,0.286111111111
+80F2D520,"Watch, Listen & Learn: Co-training on Captioned Images and Videos",0.303463203463,0.352222222222
+847A5E57,"Optimal seamline detection for multiple image mosaicking via graph cuts",0.303463203463,0.330555555556
+5E91BCA1,"Image Segmentation Using Iterated Graph Cuts Based on Multi-scale Smoothing",0.398701298701,0.442592592593
+79D5C7E4,"Prediction of Alzheimer's diagnosis using semi-supervised distance metric learning with label propagation",0.275288600289,0.297558922559
+792D2AC1,"Exhaustive family of energies minimizable exactly by a graph cut",0.303463203463,0.328282828283
+77A841AF,"Semi-supervised learning based on high density region estimation",0.273701298701,0.289444444444
+790030D2,"Document Classification based on Optimal Laprls",0.288662131519,0.436507936508
+8020A7CE,"Video Object Extraction via MRF-Based Contour Tracking",0.181014223871,0.204861111111
+757F1BEC,"EXPLOITING SUBTREES IN AUTO-PARSED DATA TO IMPROVE DEPENDENCY PARSING",0.153803339518,0.207142857143
+7BF5D977,"Interactive Removal of Shadows from a Single Image Using Hierarchical Graph Cut",0.305050505051,0.292929292929
+7A58C0EA,"Object segmentation using graph cuts based active contours",0.398701298701,0.444907407407
+80ABFEB4,"Phase Unwrapping via Graph Cuts",0.276252319109,0.371527777778
+7DE8FCFA,"Parallel and distributed graph cuts by dual decomposition",0.303463203463,0.322222222222
+7F394374,"Graph cut segmentation of neuronal structures from transmission electron micrographs",0.312471655329,0.254232804233
+7F440868,"Energy minimization via graph cuts: settling what is possible",0.305050505051,0.307744107744
+7E5186E3,"Object segmentation in hyperspectral images using active contours and graph cuts",0.303463203463,0.296759259259
+814AC548,"A Constrained Semi-supervised Learning Approach to Data Association",0.277839620697,0.344742063492
+77D6F72B,"Automatic graph-cut based segmentation of bones from knee magnetic resonance images for osteoarthritis research",0.275288600289,0.223587920016
+789986D9,"Graph cut based automatic prostate segmentation using learned semantic information",0.493939393939,0.477670940171
+811CE7C5,"Supervised land-cover classification of TerraSAR-X imagery over urban areas using extremely randomized clustering forests",0.306519274376,0.261607142857
+7C7202A1,"Background Removal of Multiview Images by Learning Shape Priors",0.277839620697,0.262235449735
+7E352B2F,"An image segmentation method for Chinese paintings by combining deformable models with graph cuts",0.303463203463,0.231395687646
+7EB55DDB,"Graph based semi-supervised approach for information extraction",0.400288600289,0.484444444444
+39E6AAE2,"Evaluation of a Framework for On-line Interactive Segmentation of Similar 3-D Images based on a Single Example",0.289682539683,0.265614478114
+589E6B75,"Anomaly intrusion detection for evolving data stream based on semi-supervised learning",0.279138321995,0.253741496599
+7EA0DEA3,"Multiple Sclerosis Lesion Segmentation Using an Automatic Multimodal Graph Cuts",0.303463203463,0.285185185185
+7BE3AD18,"Unsupervised color-texture segmentation based on multiscale quaternion Gabor filters and splitting strategy",0.26336996337,0.237878787879
+80552657,"Semi-Supervised Learning Based Color Iris Recognition",0.273701298701,0.282777777778
+5A43F705,"Improving Supervised Learning with Multiple Clusterings",0.389069264069,0.59375
+7FEDD688,"Active Graph Cuts",0.303463203463,0.555555555556
+7DAAB8BC,"A new graph cut-based multiple active contour algorithm without initial contours and seed points",0.307034632035,0.25496031746
+68FCD63F,"A purity measure based transductive learning algorithm",0.277272727273,0.292222222222
+807F0055,"Semi-supervised Kernel Based Progressive SVM",0.257204700062,0.545454545455
+5E18C785,"Graph Based Multi-class Semi-supervised Learning Using Gaussian Process",0.414682539683,0.522222222222
+01374358,"Area measurement method of paint bubble based on computer vision",0.287698412698,0.217064879565
+7C5CC249,"Protein functional class prediction with a combined graph",0.303463203463,0.411255411255
+5CD41421,"Label Propagation Algorithm Based on Non-negative Sparse Representation",0.280158730159,0.34375
+7A988EDC,"Graph-based label propagation in digital media: A Review",0.306349206349,0.326704545455
+699DC830,"Intrinsic mean for semi-metrical shape retrieval via graph cuts",0.303463203463,0.282070707071
+7EFF7A94,"Dynamic Graph Cuts and Their Applications in Computer Vision",0.312471655329,0.28436008436
+75E76329,"Video stylization for digital ambient displays of home movies",0.224206349206,0.190384615385
+8052080B,"Measure Based Regularization",0.27132034632,0.408333333333
+7DEBB1E7,"Time-Varying Mesh Generation Based on Iterative Feedback between Silhouette Extraction and Geometry Modeling",0.276252319109,0.216254578755
+763C8C7D,"Compression and denoising using l 0-norm",0.181014223871,0.238095238095
+6588482C,"Semi-supervised local discriminant embedding",0.277777777778,0.166666666667
+80982B4B,"Semi-supervised Classification with Metric Learning",0.279138321995,0.571428571429
+786DE0AB,"Interactive patent classification based on multi-classifier fusion and active learning",0.293367346939,0.307936507937
+7601FB97,"Human shape reconstruction via graph cuts for voxel-based markerless motion capture in intelligent environment",0.319444444444,0.280158730159
+755F952B,"Label Propagation through Linear Neighborhoods",0.306349206349,0.402777777778
+58CD0C0E,"Affective Classification in Video Based on Semi-supervised Learning",0.312471655329,0.396825396825
+7E77CFA2,"Computing visual correspondence with occlusions using graph cuts",0.306349206349,0.325925925926
+0A2FD814,"Efficient Approximate Energy Minimization via Graph Cuts",0.305050505051,0.328282828283
+807C1A76,"Multichannel Phase Unwrapping With Graph Cuts",0.276252319109,0.371527777778
+814D4168,"Fuzzy-rough set based semi-supervised learning",0.276252319109,0.417989417989
+7E68E6DC,"Efficiently solving dynamic Markov random fields using graph cuts",0.303463203463,0.355555555556
+7DC5BF1B,"Generating Classic Mosaics with Graph Cuts",0.303463203463,0.361111111111
+8141368E,"Participatory Learning Based Semi-Supervised Classification",0.374376417234,0.714285714286
+599345B6,"An incremental algorithm about the affinity-rule based transductive learning machine for semi-supervised problem",0.275288600289,0.286111111111
+762EB837,"Fast semi-supervised SVM classifiers using a priori metric information",0.189177489177,0.208080808081
+59412D37,"Semi-supervised learning with graphs",0.239517625232,0.555555555556
+80BB4748,"Density based breast segmentation for mammograms using graph cut techniques",0.268037518038,0.237752525253
+78AEBAD8,"Local similarity learning for pairwise constraint propagation",0.277272727273,0.3375
+8053771F,"Unsupervised Learning for Graph Matching",0.303463203463,0.555555555556
+7F888C15,"Phase unwrapping via graph cuts",0.276252319109,0.371527777778
+7B4A9545,"A semi-supervised learning based method: Laplacian support vector machine used in diabetes disease diagnosis",0.287698412698,0.231172839506
+7538D8B5,"A 3D model recognition mechanism based on deep Boltzmann machines",0.264957264957,0.246043771044
+76E53374,"A graph construction method using LBP self-representativeness for outdoor object categorization",0.307034632035,0.34246031746
+7D1187F6,"Anisotropic Manifold Ranking for Video Annotation",0.181014223871,0.231547619048
+790C0BD3,"Relative manifold based semi-supervised dimensionality reduction",0.277272727273,0.329166666667
+8010A489,"An improvement on learning with local and global consistency",0.337868480726,0.547619047619
+7F275C4E,"Voxel classification and graph cuts for automated segmentation of pathological periprosthetic hip anatomy",0.312471655329,0.253439153439
+79F0C63D,"Towards generalization of semi-supervised place classification over generalized Voronoi graph",0.312471655329,0.331547619048
+7EADEC8F,"Learning from labeled features using generalized expectation criteria",0.276252319109,0.321368446368
+7E64B817,"Synthesis of maximum margin and multiview learning using unlabeled data",0.276252319109,0.33746031746
+7F5A4C90,"A New Image Segmentation Method for Removing Background of Object Movies by Learning Shape Priors",0.292233560091,0.241490299824
+7FDBBC17,"Object Based Contour Detection by Using Graph-cut on Stereo Image",0.276252319109,0.293121693122
+79A7EA79,"Subspace learning via Locally Constrained A-optimal nonnegative projection",0.276252319109,0.334325396825
+5E7FCBA9,"Learning from Labeled and Unlabeled Data Using Random Walks",0.277839620697,0.36746031746
+7AEEFF36,"S3MKL: scalable semi-supervised multiple kernel learning for image data mining",0.276252319109,0.287157287157
+7AE06471,"Semi-supervised learning using randomized mincuts",0.5,0.5
+81029ABC,"Capacity Scaling for Graph Cuts in Vision",0.259415584416,0.302626262626
+76A58E90,"Video segmentation with motion smoothness",0.144279529994,0.219444444444
+78D1106C,"Discriminative topic modeling based on manifold learning",0.284415584416,0.308888888889
+79B7D10D,"Graph cut segmentation with a statistical shape model in cardiac MRI",0.305050505051,0.256355218855
+805251B3,"Vasculature segmentation of CT liver images using graph cuts and graph-based analysis",0.307034632035,0.24191468254
+7E0AE1E4,"Segmentation of anatomical branching structures based on texture features and graph cut",0.398701298701,0.33373466811
+588AEA75,"Interest Region-Based Image Retrieval System Based on Graph-Cut Segmentation and Feature Vectors",0.271717171717,0.206313131313
+0D37BBC5,"Semi-supervised local ridge regression for local matching based face recognition",0.264957264957,0.280404040404
+7BF1E0EB,"Multi-view video based multiple objects segmentation using graph cut and spatiotemporal projections",0.303463203463,0.300566893424
+5BC9AB96,"Investigations on Ensemble Based Semi-Supervised Acoustic Model Training",0.287698412698,0.335227272727
+816CDD09,"Monocular Video serves RADAR-based Emergency Braking",0.189058956916,0.208333333333
+08451859,"Selective Supervision: Guiding Supervised Learning with Decision-Theoretic Active Learning",0.397222222222,0.559027777778
+0601FE2E,"An Investigation into Segmenting Traffic Images Using Various Types of Graph Cuts",0.303463203463,0.258134920635
+7D7D5508,"Computing geodesics and minimal surfaces via graph cuts",0.303463203463,0.307222222222
+6778D5D4,"Segmentation of Soft Shadows Based on a Daylight- and Penumbra Model",0.26336996337,0.320454545455
+801CEE5A,"Semi-automatic 2D to 3D image conversion using a hybrid Random Walks and graph cuts based approach",0.424603174603,0.378472222222
+77550A83,"Geolocalization using skylines from omni-images",0.156297134238,0.205128205128
+7C890D80,"Personalized online video recommendation by neighborhood score propagation based global ranking",0.307034632035,0.266121031746
+7F0473B3,"Chinese coreference resolution with ensemble learning",0.27257266543,0.422619047619
+7FCE8B2E,"Stereo based obstacle detection for an unmanned air vehicle",0.26645021645,0.24246031746
+7F9595E3,"Implicit Active-Contouring with MRF",0.277777777778,0.0
+5EB91A24,"Super Resolution Using Graph-Cut",0.174254317111,0.238095238095
+77904290,"3D brain tumor segmentation in multimodal MR images based on learning population- and patient-specific feature sets",0.371490414348,0.299560316227
+79EC2011,"Change detection using a statistical model in an optimally selected color space",0.219387755102,0.187987012987
+80888587,"Graph Cuts Segmentation with Statistical Shape Priors for Medical Images",0.303463203463,0.255092592593
+7E60F341,"Circular Hough Transform and Local Circularity Measure for Weight Estimation of a Graph-Cut Based Wood Stack Measurement",0.289682539683,0.245238095238
+812FB94D,"Geodesic graph cut for interactive image segmentation",0.303463203463,0.330555555556
+7FAE4723,"Evaluating Retraining Rules for Semi-Supervised Learning in Neural Network Based Cursive Word Recognition",0.276252319109,0.237648809524
+7D6C2FFB,"Joint classification of panchromatic and multispectral images by multiresolution fusion through Markov random fields and graph cuts",0.320578231293,0.265211640212
+7CEC38B4,"A Parameter Estimation Method for Graph Based Semi-Supervised Classification",0.407709750567,0.410383597884
+7EB791D5,"Graph Based Multi-View Learning for CDL Relation Classification",0.506519274376,0.668571428571
+7ABD8F47,"Prop-cut: A mesh cutting method based on Tikhonov regularization",0.273701298701,0.359027777778
+78B6BA32,"Semi-supervised deep extreme learning machine for Wi-Fi based localization",0.282709750567,0.29246031746
+806A630A,"Learning with Local and Global Consistency",0.276252319109,0.571428571429
+7EEB9809,"GPU-friendly multi-view stereo reconstruction using surfel representation and graph cuts",0.307936507937,0.290145502646
+7C7DF51B,"A Surface Reconstruction Method Using Global Graph Cut Optimization",0.305050505051,0.266666666667
+7F17359D,"Solving Multilabel Graph Cut Problems with Multilabel Swap",0.277839620697,0.316666666667
+8132B81E,"Unsupervised classification of polarimetric SAR data using graph cut optimization",0.312471655329,0.306878306878
+5A3716D9,"A novel inductive semi-supervised SVM with graph-based self-training",0.277777777778,0.0
+80074CE5,"Video Annotation Based on Kernel Linear Neighborhood Propagation",0.307034632035,0.295905483405
+8022C94B,"A New Graph Constructor for Semi-supervised Discriminant Analysis via Group Sparsity",0.313492063492,0.301363636364
+5A94F970,"A Continuous Labeling for Multiphase Graph Cut Image Partitioning",0.303463203463,0.355555555556
+69BB8CBF,"Improving video concept detection using spatio-temporal correlation",0.208225108225,0.211772486772
+67B8D9D5,"Image segmentation using quadtree-based similarity graph and normalized cut",0.303463203463,0.296759259259
+7C5EB510,"A Self Training Approach to Automatic Modulation Classification Based on Semi-supervised Online Passive Aggressive Algorithm",0.289682539683,0.251649144506
+7AD5A92C,"Natural scene text detection with multi-layer segmentation and higher order conditional random field based analysis",0.293424036281,0.230262445887
+8006580F,"Graph cut based image segmentation with connectivity priors",0.398701298701,0.364058956916
+79D12B1D,"Human action recognition based on semi-supervised discriminant analysis with global constraint",0.298979591837,0.307222222222
+5EE46B12,"Segmentation of Touching Cell Nuclei Using a Two-Stage Graph Cut Model",0.303463203463,0.295526695527
+7F71D022,"Global Optimization for Shape Fitting",0.309920634921,0.412037037037
+7FF47AF9,"Semi-supervised Learning on Directed Graphs",0.303463203463,0.555555555556
+80402B57,"Semi-supervised hyperspectral image classification based on a Markov random field and sparse multinomial logistic regression",0.280725623583,0.28746031746
+814CA068,"Comparison of graph cuts with belief propagation for stereo, using identical MRF parameters",0.307034632035,0.262188208617
+06F0DBE3,"Automatic Multi-Model Fitting for Blood Vessel Extraction",0.306349206349,0.323611111111
+79EFD984,"Multi-Model Estimation Based Moving Object Detection for Aerial Video",0.303463203463,0.378333333333
+76079B91,"Particle competition and cooperation for semi-supervised learning with label noise",0.259183673469,0.279100529101
+7A9FB483,"A classification algorithm based on local cluster centers with a few labeled training examples",0.289682539683,0.25363327149
+800A8810,"Accurate Silhouettes for Surveillance - Improved Motion Segmentation Using Graph Cuts",0.305050505051,0.289476495726
+5BAE5B90,"Interval Fitness Interactive Genetic Algorithms with Variational Population Size Based on Semi-supervised Learning",0.279823747681,0.271494708995
+5A520865,"Data-Driven Graph Construction for Semi-Supervised Graph-Based Learning in NLP",0.243089053803,0.329861111111
+7D9CEDAB,"Tri-Training Based Learning from Positive and Unlabeled Data",0.371490414348,0.714285714286
+04068D92,"A Volumetric Reconstruction Method from Multiple Calibrated Views using Global Graph Cut Optimization",0.305050505051,0.259722222222
+7973F608,"Automatic graph cut segmentation of lesions in CT using mean shift superpixels",0.306349206349,0.258616780045
+765578E2,"Efficient multilevel image segmentation through fuzzy entropy maximization and graph cut optimization",0.305050505051,0.238492063492
+5BEE1AD3,"Graph Cut Algorithms for Binocular Stereo with Occlusions",0.309920634921,0.28373015873
+79CB973B,"Semi-supervised distance metric learning based on local linear regression for data clustering",0.371490414348,0.420105820106
+615BAC3D,"3D surface reconstruction using graph cuts with surface constraints",0.303463203463,0.263492063492
+7522D7A5,"Semi-supervised change detection using modified self-organizing feature map neural network",0.215986394558,0.190538033395
+7E5C8205,"Convex and scalable weakly labeled SVMs",0.277777777778,0.25
+755E1AAF,"Susceptibility artefact correction using dynamic graph cuts: Application to neurosurgery",0.312471655329,0.276360544218
+7BDF6050,"Graph-Cut Based Discrete-Valued Image Reconstruction",0.271717171717,0.403703703704
+8083EA7B,"Graph cuts by using local texture features of wavelet coefficient for image segmentation",0.311507936508,0.234175084175
+80C62E47,"Learning sparse representations of depth",0.278174603175,0.412037037037
+7864ABC7,"A Multimedia Retrieval Framework Based on Semi-Supervised Ranking and Relevance Feedback",0.285260770975,0.240311276026
+7FD25BED,"Concurrent SAR images denoising and segmentation based on a novel model of wavelet coefficients",0.279761904762,0.256355218855
+7075E0CF,"Joint Tracking and Segmentation of Objects Using Graph Cuts",0.305050505051,0.299735449735
+7FFBF89D,"Semi-supervised hierarchy learning using multiple-labeled data",0.276252319109,0.396825396825
+58CE9ABE,"Multitask Semi–supervised Learning with Constraints and Constraint Exceptions",0.260753532182,0.320833333333
+75E3A923,"The n-dimensional fuzzy sets and Zadeh fuzzy sets based on the finite valued fuzzy sets",0.276252319109,0.335714285714
+7CB4608C,"An Interactive Image Segmentation Algorithm Based on Graph Cut",0.402272727273,0.40787037037
+5D17E73E,"Segmentation of Dynamic N-D Data Sets via Graph Cuts Using Markov Models",0.303463203463,0.274438260153
+7B0F8FCB,"Track and cut: simultaneous tracking and segmentation of multiple objects with graph cuts",0.305050505051,0.239455782313
+7D7251D9,"Graph-Cut Based Background Subtraction Using Visual Hull in Multiveiw Images",0.271717171717,0.324273504274

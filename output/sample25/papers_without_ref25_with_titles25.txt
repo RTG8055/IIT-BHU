@@ -1,0 +1,2448 @@
+7FBA755F	A sketching interface for feature curve recovery of free-form surfaces
+77BAA6FE	A Bayesian Framework for Foreground Segmentation
+7EC1CE96	Effective semi-supervised approach towards intrusion detection system using machine learning techniques
+321D44EC	Deep Convolutional Neural Networkを用いたびまん性肺疾患画像の特徴解析 (ニューロコンピューティング)
+7E36EB8E	Automatic Extraction of Caudate and Putamen in [ $^11$ C] Raclopride PET Using Deformable Surface Models and Normalized Cuts
+77E40D88	Some new matroids on graphs: cut sets and the max cut problem
+7FFF0108	NOCHE DE COMBATE ESCÉNICO EN LA UNAM
+06378F9D	Comet to cut another 735 jobs
+7DA66ACA	New learning approach for drug design
+2414424D	Designing Various Multivariate Analysis at Will via Generalized Pairwise Expression (数理モデル化と応用 Vol.6 No.1)
+75F6B5F8	Three-Dimensional Segmentation of Fluid-Associated Abnormalities in Retinal OCT: Probability Constrained Graph-Search-Graph-Cut
+860674D1	An MRF Model for Binarization of Natural Scene Text
+79FF7E59	A new shape based segmentation framework using statistical and variational methods
+708A9ED1	EN LA CAJA NEGRA DEL CUT. VENTANAS, UNA CORRESPONDENCIA TEATRAL CON LÍBANO
+08874E3A	Halloween II (2009)
+5FBB156C	Local bi-gram model for object recognition
+77D95259	Semi-supervised active learning for urban hyperspectral image classification
+7F30FB22	Semi-supervised learning protein complexes from protein interaction networks
+5E5A9E8B	Designing Various Multivariate Analysis at Will via Generalized Pairwise Expression
+7DF3F7BF	A Novel SRAM-Cell Based Input Vector Monitoring Concurrent BIST Architecture
+86019921	An Iterative Partitioning-Based Method for Semi-Supervised Annotation Learning in Image Collections
+7942C98F	Combination of region and contour models for interactive image segmentation
+76E73012	Transfer learning for image information mining applications
+78588A98	A Semi-Supervised Approach on Using Syntactic Prior Knowledge for Construction Thai Treebank
+5CF9CAB4	A CUT e o Processo Interno de Integração do Cone Sul.
+782FAC71	Planarity-enforcing higher-order graph cut
+7A1A7789	Online discriminative learning: theory and applications
+8141843C	An improved hybrid MILP/CP algorithm framework for the job-shop scheduling
+7CAEC20A	A Semi-supervised Text Classification Method Based on Incremental EM Algorithm
+75BC8CC3	The Effect of Baffles in Shell and Tube Heat Exchangers
+75A755AF	3D surface texture synthesis using improved graph cuts
+7CB0AA25	Hierarchical image clustering for analyzing eye tracking videos
+71755574	LA CUEVA DE MONTESINOS. EN EL CUT SE PRESENTA ESTE ESPECTACULO DE JOSE RAMON ENRIQUEZ
+79ADED78	Endoscopic bladder image registration using sparse graph cuts
+594DEC93	Proof Analysis: Linear order
+7E653C0D	Classification constrained dimensionality reduction
+09B4330E	Statistical models: Nonlinear Regression Models
+80855CE3	Link based small sample learning for web spam detection
+7A32F227	Efficient inference for fully-connected CRFs with stationarity
+547683DC	An Introduction to Regge Theory & High Energy Physics: Introduction
+84D2FDBC	Noname manuscript No. (will be inserted by the editor) Using the Web as Corpus for Self-training Text Categorization
+7DA16344	Age-related changes in work ability and injury risk in underground and open-cut coal miners
+814F59A1	Research on corrosivity of narrow distillate oil of crude oil with naphthenic acid and sulfur
+03A70B89	Solving Linear Inverse Systems with Graph Cuts
+8540A883	Transductive SVM을 위한 분지-한계 알고리즘
+08B434FC	Network Information Theory: Graphical Networks
+770BC6E9	The inverse inertia problem for graphs: Cut vertices, trees, and a counterexample
+6433F57A	Programming with Higher-Order Logic: The Teyjus System
+5CC5C22B	Application of semi-supervised learning to evaluative expression classification
+7DD27C66	Learning Classifiers on a Partially Labeled Data Manifold
+5E353920	Semi-supervised learning of user-preferred travel schedules
+78E6E9ED	Image segmentation with pseudo branch and bound algorithm
+81281CD6	ΔI DDQ testing of a 12-bit recycling architecture based ADC
+7CAA0506	Unsupervised SAR Image Segmentation Based on Triplet Markov Fields With Graph Cuts
+80859415	Graph cut segmentation technique for MRI brain tumor extraction
+815AFE39	Interactive video cutout
+5DC9ADAA	Topic-Constrained Hierarchical Clustering for Document Datasets
+813DB5F3	Image search results refinement via outlier detection using deep contexts
+267987E2	Distributed Computing: Global state and snapshot recording algorithms
+7C4752AE	Isograph: Neighbourhood Graph Construction Based on Geodesic Distance for Semi-supervised Learning
+78832394	Human Atlas of the Cardiac Fiber Architecture: Study on a Healthy Population
+77AA656E	Removing shift-variant motion blur from an image using Poisson interpolation
+76F46DA4	Vesselwalker: Coronary arteries segmentation using random walks and hessian-based vesselness filter
+807E4A65	Distal‐less functions in subdividing the Drosophila thoracic limb primordium
+7895F150	A good all-around semi-supervised learning algorithm for information categorization
+76680E3E	“ShadowCut” - an unsupervised object segmentation algorithm for aerial robotic surveillance applications
+01F11EF8	African tuned percussion
+115762DE	Let's Cut and Sew with the Grainline : Clothing Leaflet 2
+79407204	On semi-supervised learning of Dirichlet Mixture Models for Web content classification
+2DD23531	Weighted fuzzy linear regression prediction
+22678FFA	COS-TRAINING : A NEW SEMI-SUPERVISED LEARNING METHOD FOR KEYPHRASE EXTRACTION BASED ON CO-TRAINING AND SMOTE
+7C1FB833	Learning deformable action templates from cluttered videos
+8145FB39	Analysis and countermeasures for highway cuts design in harmony with environment
+7AE3CA3B	Asymmetric Semi-Supervised Boosting Scheme for Interactive Image Retrieval
+774001F6	A Markovian Approach for DEM Estimation From Multiple InSAR Data With Atmospheric Contributions
+79E93286	A multiscale contextual approach to change detection in multisensor VHR remote sensing images
+7C6EE9DB	Correlation-based criterion for the most discriminative principal component selection in normalized cut segmentation
+7E401158	Semi-supervised learning with co-training for data-driven prognostics
+6A2EE313	Unsupervised and semi-supervised fuzzy clustering with multiple kernels.
+75271D9F	A note on natural exponential families with cuts
+7870218E	Adaptive semi-supervised spectral clustering based on Nyström method
+6E3E712F	Relating Things and Stuff via ObjectProperty Interactions
+7D8CB572	A new method of distance measure for graph-based semi-supervised learning
+7D64C247	A novel framework for exploring 3-D FPGAs with heterogeneous interconnect fabric
+2FBD592B	Learning the Unified Kernel Discovery and Data Mining
+77CBD3D6	Load-carrying capacities of cold-formed steel cut stub columns with lipped C-section
+77104C53	Activity recognition with the aid of unlabeled samples
+00FB9ADB	Towards Multi Label Text Classification through Label Propagation
+82BB220D	The witness properties and the semantics of the Prolog cut
+799831A8	Automated segmentation of synchrotron radiation micro-computed tomography biomedical images using Graph Cuts and neural networks
+860C8451	Convergence rate of semi-supervised gradient learning algorithms
+83B4D416	基於強健 GrabCut 與醒目區域偵測的自動化前景選取
+81646BF4	Panoramic image matching based on graph cuts algorithm
+58494B54	Multi-Object Segmentation with Coupled Deformable Models
+7C8DE47A	Automatic foreground extraction for images and videos
+77FC7157	Multi-task Semi-supervised Semantic Feature Learning for Classification
+7DDC4691	A Combination of Active Learning and Semi-supervised Learning Starting with Positive and Unlabeled Examples for Word Sense Disambiguation: An Empirical Study on Japanese Web Search Query
+7B5EAA74	A video editing system based on the depth information
+05A3EABC	Clustering of Trained Self-organizing Feature Maps based on s-t Graph Cut
+7BB0C27A	Seeing and reading red: hue and color-word correlation in images and attendant text on the WWW
+6A42DCFC	Algorytm znajdowania przekrojów w grafie o krawędziach niezorientowanych
+7E9EBB38	Transfer accuracy and precision scoring in planar bone cutting validated with ex vivo data
+7C520A62	Efficient scan-based BIST scheme for low power testing of VLSI chips
+7CEC1AD4	A Novel Semi-Supervised SVM Based on Tri-Training
+79C59534	Selecting Graph Cut Solutions via Global Graph Similarity
+55D41463	Rippling Meta-Level Guidance for Mathematical Reasoning: Productive use of failure
+80F3A134	시간과 공간의 분절(分節)형식으로서의 칸과 틀
+77C1CAD0	Semi‐supervised Eigenbasis novelty detection
+5CFFF669	Segmentation of Choroidal Boundary in Enhanced Depth Imaging OCTs Using a Multiresolution Texture Ba
+769DE530	A video synthesis method for flow patterns
+83D99BE9	Detecting and Tracking Concept Class Drift and Emergence in Non-Stationary Fast Data Streams
+5EF6821E	Semi-supervised Learning of Edge Filters for Volumetric Image Segmentation
+7596380C	The optimization of retarding regimes within the particular group of cuts
+7F5598AB	Learning Thin Junction Trees via Graph Cuts
+062B5252	Algoritma Branch And Cut Untuk Program Stokastik Biner Campuran
+7A1D674A	t -Norm based cuts of intuitionistic fuzzy sets
+7934724C	Aplicação de danos mecânicos em abacates e seus efeitos na qualidade dos frutos
+774EDD00	Multi-View Incident Ticket Clustering for Optimal Ticket Dispatching
+815CF6FC	On disconnected cuts and separators
+7A931125	Semi-supervised learning with extremely sparse labeled data on multiple semi-supervised assumptions
+01EB9151	Collaborative Object Tracking Based on Co-Training
+76678C38	Image segmentation method based on improved graph cut algorithm
+789ADF8E	Scene text detection using graph model built upon maximally stable extremal regions
+80EF1E7E	Statistical SVMs for robust detection, supervised learning, and universal classification
+7F3E5EC9	Statistical Cryptography using a Fisher-Schrodinger Model
+78E23600	A New Image Binarization Method Using Histogram and Spectral Clustering
+78F4A65D	Comparison of Fatty Acid Composition of Hanwoo Beef by Different Quality Grades and Cuts
+789F323D	Human body auto-extraction using graph cuts
+7EA9C134	A BIST TPG for Low Power Dissipation and High Fault Coverage
+077BDA32	Εικονική ανακατασκευή και ταυτοποίηση αντικειμένων στο χώρο με τεχνικές υπολογιστικής όρασης και τριδιάστατα γραφικά
+617C5650	CITEREA, ENSAYO SOBRE EL AMOR Y LA FICCIÓN. LUIS DE TAVIRA, AUTOR
+861AFA40	Interactive Transcription of Old Text Documents
+073148B5	Paisagens : imagens sob corte
+69A79C4B	EL PARQUE, EN EL CENTRO UNIVERSITARIO DE TEATRO
+7558D504	Learning-based multiview video coding
+592D2C02	Teatro del nuevo milenio
+811D3AC7	Diffeomorphic surface-based registration for MR-US fusion in prostate brachytherapy
+55840C8B	Zooarchaeology: Gathering Primary Data
+7EAFC71C	A new semi-supervised algorithm for hyperspectral image classification based on spectral unmixing concepts
+67DCCFCD	Expanding the limits of predictive methods: from supervised learning to novel sensors and massive human supervision
+7A63B11A	Stereoscopic content production of complex dynamic scenes using a wide-baseline monoscopic camera set-up
+806314F9	Language-based replay via data flow cut
+789905D8	Effect of chamfer angle on wear of PCBN cutting tool
+6545B143	Improved Interactive Medical Image Segmentation using Graph Cut and Superpixels
+7B6A673D	Video Image Segmentation and Understanding
+7DC026E5	On semi-supervised learning and sparsity
+8125A77D	Continuous graph cuts for prior-based object segmentation
+759A054F	Recurrent Clustering for Unsupervised Feature Extraction with Application to Sequence Detection
+7AB31BC6	Semi-supervised single-label text categorization using centroid-based classifiers
+7D0D984C	Evaluación de nueva tecnología para mitigar las espinas intramusculares en filetes de cachama Piaractus brachypomus (Pisces: Characidae).
+58D35AA7	Combining long-term learning and active learning with semi-supervised method for content-based image retrieval
+7F97885A	Utilização da microscopia eletrônica de varredura como ferramenta de avaliação da estrutura do tecido de abacate 'quintal' após danos mecânicos
+5B15E4B4	Combinatorial Continuous Maximal Flows
+7F5F2306	On Hilbert bases of cuts
+7C234BC7	L1 vs. L2 Regularization in Text Classification when Learning from Labeled Features
+5E7FABBA	Learning from Partial Labels with Minimum Entropy
+7CAE6C15	Laplacian adaptive context-based SVM for video concept detection
+7545AE73	Evaluation of classifiers for polarimetric SAR classification
+384E9917	Crocs are forced to lay off 180 employees
+5C85B11A	Semi-supervised Facial Expressions Annotation Using Co-Training with Fast Probabilistic Tri-Class SVMs
+7974D47A	Machining characteristics of novel-abrasion resistant iron
+7D0350BA	Separating lines of text in free-form handwritten historical documents
+7DD5C7AE	Direction field diffusion on cortical surface via graph cuts
+7BDE41F7	On statistical parsing of French with supervised and semi-supervised strategies
+794B55C6	An Image Segmentation Method Combining L1-Sparse Reconstruction with Spectral Clustering
+79CDC0FD	Active semi-supervised framework with data editing
+77B264BE	A Machine Learning Based Analytical Framework for Semantic Annotation Requirements
+7F9F0C58	Online domain adaptation of a pre-trained cascade of classifiers
+06DF9BCB	Chapter 6 - Audio Segmentation
+802BD119	Linear Transition Detection as a Unified Shot Detection Approach
+80DD123E	User intervention based segmentation of Myocardium In cardiac cine MRI images
+1BDA94C0	BC Ferries to cut customer service hours | The Hook
+5ABCBB3A	Automated internal pipe cutting device
+75B34AC0	One data preprocessing method in high-speed network Intrusion Detection
+66474D84	基於Semi-AdaBoost.MH加上 Universum Example之文件分類法
+6F2117E0	Video-Based Vehicle Detection Approach with Data-Driven Adaptive Neuro-Fuzzy Networks
+59E6DCA2	Semi-supervised Learning in Medical Image Database
+5D6606DA	Constraint factor graph cut–based active contour method for automated cellular image segmentation in RNAi screening
+7A7F2C66	New cut of a quartz resonator with a linear temperature/frequency characteristic
+7B070790	Collective Opinion Spam Detection: Bridging Review Networks and Metadata
+5F5E492B	Stock Trading by Modelling Price Trend with Dynamic Bayesian Networks
+0AA0A471	Multi-Layer Stereo Video Matting
+7A899AD5	One-class label propagation using local cone based similarity
+7A6F1342	Parametric fault diagnosis in analog circuit using genetic algorithm
+7A8559CE	Hypergraph-based inductive learning for generating implicit key phrases
+785D506E	Elastography Using Graph Cut Algorithm
+7D9C0C9E	A Kernel-Based Method for Semi-Supervised Learning
+817283C6	Probability on Graphs: Contact process
+07DA4B9C	Semi-Supervised Learning with SVM and K-Means Clustering Algorithm
+08B279CD	Link-based Classifi-cation using Labeled and Unlabeled Data
+7738DAF2	Predicting Future Customers via Ensembling Gradually Expanded Trees
+803EF072	Automated analysis of hip joint cartilage combining MR T2 and three-dimensional fast-spin-echo images.
+65279E43	EDWARD JAMES OLMOS VISITA EL CUEC Y EL CUT DE LA UNAM
+7E7C134E	Knowledge Based Lacunas Detection and Segmentation for Ancient Paintings
+7D716A3B	Human detection using multimodal and multidimensional features
+75166897	A hierarchical Naïve Bayes model for approximate identity matching
+7F3B7CA7	Transductive Multilabel Learning via Label Set Propagation
+7F38881B	Shape priors for MAP segmentation of alloy micrographs using graph cuts
+790B36D8	Semi-Supervised Learning to Classify Evaluative Expressions from Labeled and Unlabeled Texts
+6C6B3DA9	LOS ALUMNOS DEL CUT, ENTRE LOS ACTORES MAS CAPACITADOS PARA LA EXPERIENCIA TEATRAL
+78003B64	On the minimum cut separator problem
+6EF11D52	Continuum limit of total variation on point clouds
+36CD0641	Improving Classification and Attribute Clustering: An Iterative Semi-supervised Approach
+5A88150B	Benchmarking of Statistical Dependency Parsers for French
+5F6FB2BD	LOS MOCHOS, UNA BUSQUEDA EN CALLEJONES VERBALES DONDE APARECEN LA PASION Y EL PODER
+7BE0374C	Effects of inoculants and wilting on silage fermentation and nutritive characteristics of red clover–grass mixtures
+7963C0DB	A Semi-supervised Approach to Software Defect Prediction
+5CA9B4BF	Method and apparatus for monitoring the thickness of a coal rib during rib formation
+8131CD56	Consequences of Reasoning with Conflicting Obligations
+80DD8CC1	Language models learning for domain-specific natural language user interaction
+155C660B	Semi-Supervised Ligand Finding Using Formal Concept Analysis (数理モデル化と応用 Vol.5 No.2)
+7B8EB8FB	Image Segmentation Using Component Tree and Normalized Cut
+79908AF5	Global optimization for bidirectional stereo matching with occlusion handling
+18298B17	複数特徴を用いたディゾルブ,フェードを含むショット境界の高速検出 (放送技術)
+7FC1D440	Shot Boundary Detection by a Hierarchical Supervised Approach
+7F126281	Iso-charts: stretch-driven mesh parameterization using spectral analysis
+780088EF	Joint segmentation and spiculation detection for ill-defined and spiculated mammographic masses
+848D8EE1	Learning with Partially Labeled and Interdependent Data
+7F88E8C4	Association Learning in SOMs for Fuzzy-Classification
+5DC90A23	Regularized depth from defocus
+47414E8B	CELEBRÓ 15 AÑOS EL FESTIVAL NACIONAL DE TEATRO UNIVERSITARIO
+343825DC	How to Cut a Generator Frame to Install a Conversion Kit | Natural Gas Generator Conversion Kits | Natural Gas Small Engine Conversion Kits
+7953E770	A Cut Set Method for Reliability Evaluation of Systems Having s-Dependent Components
+7EF3DECF	A transductive bound for the voted classifier with an application to semi-supervised learning
+7DFFA97F	Automatic Detection of Regional Heart Rejection in USPIO-Enhanced MRI
+7807841E	1 Semi-supervised Learning based on Bayesian Networks and Optimization for Interactive Image Retrieval
+5C6B2361	Wounds: Sharp Injury
+776D9EF3	Son of Notch, a Winged‐helix Gene Involved in Boundary Formation in the Drosophila Wing
+7C43B1E4	A novel region-based approach for the fusion of combined stereo and spectral series
+5C48AF5E	Progressive transductive learning pattern classification via single sphere
+856F89F2	Application of CTU in diagnosing the Underlying Pathology of Hydronephrosis
+7FDB4DF3	Look Ma, No Hands: Analyzing the Monotonic Feature Abstraction for Text Classification
+7BC6885B	Hippocampus segmentation by optimizing the local contribution of image and prior terms, through graph cuts and multi-atlas
+79C647CD	Query-biased learning to rank for real-time twitter search
+7D1881DF	Segmentation of multispectral remote sensing images using active support vector machines
+7874AB99	A Bayesian approach to shape from coded aperture
+8046C908	3D reconstruction of indoor scenes by casting visual rays in an occupancy grid
+34B8DB91	Representing Sylvia Plath: Coming to terms with colour
+5A33AA90	Semi-Supervised Multiresolution Classification Using Adaptive Graph Filtering With Application to Indirect Bridge Structural Health Monitoring
+81F4210F	CARRO DE COMEDIAS
+79741904	Stated Analysis Technique of GO Methodology for Reliability of Fire Protection Systems
+78E2B4DB	Utilizing Unlabeled Documents in Automatic Classification with Inter-document Similarities
+77EA32AB	Truncation: all the news that fits we'll print
+7B7E24C8	Semi-supervised Learning of Alternatively Spliced Exons Using Co-training
+5CB88681	Image Matching Algorithms
+0881F963	Privacy Leakage in Multi-relational Databases via Pattern
+5FA9449E	Design of electromagnetically compatible electronics
+79EF694B	Semi-Supervised Learning with Density-Sensitive Manifold graph
+7DD5BEC2	Automatic object segmentation with salient color model
+80F44357	Cluster-Based Ensemble Classification for Hyperspectral Remote Sensing Images
+7A3F1C12	Virtual Halo Effect Using Graph-Cut Based Video Segmentation
+808A48D6	A Hybrid Test Architecture to Reduce Test Application Time in Full Scan Sequential Circuits
+7A3E2A0E	Robust Recognition-by-Parts Using Transduction and Boosting with Applications to Biometrics
+7A51906D	Video tracking and behaviour segmentation of laboratory rodents
+7B5DE6A1	Semi-supervised training of Least Squares Support Vector Machine using a multiobjective evolutionary algorithm
+77264B56	A Robust Measure of Uncertainty Importance for Use in Fault Tree System Analysis
+801D7E4F	Active learning for sequence labelling with probability re-estimation
+3145DBEC	Cut salt intake, exercise to avoid high Blood Pressure - Pravasi Herald
+79F7F88B	Solving a cut problem in bipartite graphs by linear programming: Application to a forest management problem
+6D98752D	Supplement to “Variable selection and updating in model-based discriminant analysis for high dimensional data with food authenticity applications.” DOI: 10.1214/09-AOAS279SUPP
+59924007	Online Manifold Regularization: A New Learning Setting and Empirical Study
+8439408C	Zooarchaeology: Disposal of Faunal Remains and Sample Recovery
+7E7771D8	Semi-Supervised Linear Discriminant Clustering
+73476DF1	REMIX THEORY EDUARDO NAVASA
+06BBECEC	A Bayesian Approach to Semi-Supervised Learning
+77CAFCFF	PepDist: A New Framework for Protein-Peptide Binding Prediction based on Learning Peptide Distance Functions
+78D5E2C4	Robust visual features for the multimodal identification of unregistered speakers in TV talk-shows
+5CE2966B	Image segmentation by aggregation graph-cuts
+75980CA0	Co-training on multi-view unlabelled data
+0132C954	Additive Combinatorics: Graph-theoretic methods
+5B529718	García Arteaga y el Teatro Universitario
+7B26A218	Building an Arabic Sentiment Lexicon Using Semi-supervised Learning
+772B35D0	Negative Regulation of Dorsoventral Signaling by the Homeotic Gene Ultrabithorax during Haltere Development in Drosophila
+64D4E8F4	MicroRNA miR‐7 contributes to the control of Drosophila wing growth
+5F4D18C9	A new kernel for classification of networked entities
+79246D76	Multiple Single Input Change test patterns for testing VLSI circuits
+7986B7B5	Semi-supervised learning for music artists style identification
+7EDEF48B	Model-Based Learning Using a Mixture of Mixtures of Gaussian and Uniform Distributions
+5C347BFF	Usage of Hybrid Neural Network Model MLP-ART for Navigation of Mobile Robot
+776CEDA7	Pattern Recognition with Gaussian Mixture Models of Marginal Distributions
+7BDD44DD	A global optimization approach for construction of panoramic mosaics
+7F18A4B6	Semi-supervised learning of language model using unsupervised topic model
+7AD96EBD	Unsupervised Clustering Using Graph Transduction
+7AFE5021	Self-training classifier via local learning regularization
+7697E6D6	Image Attribute Adaptation
+001FFE62	Classic Mosaics and Visual Correspondence via Graph-Cut based Energy Optimization
+7ABEB935	Super-Resolution Texture Mapping from Multiple View Images
+0C49853E	Graphcut textures: image and video texture synthesis using graph cuts
+842CFE95	몰입형 화상 회의를 위한 강건한 객체 추출 방법
+7B45BEC5	Multi-frequency Test for analog circuits
+7EBE2703	Evolutionary classifier ensembles for semi-supervised learning
+0C589ABF	Automatic training data collection for semi-supervised learning of information extraction systems
+76BEABE1	Interactive contour deformation of moving object using graph cut
+75220E7E	Finding and defining the generators of genus-n objects for constructing topological and cut graphs
+2E303593	Semi-Supervised Learning Using Kernel Estimation
+78BA01A8	Using instance-level constraints in agglomerative hierarchical clustering: theoretical and empirical results
+5E038F73	Chinese expert entity homepage recognition based on Co-EM
+593FC7D4	Co-Training Semi-Supervised Active Learning Algorithm Based on Noise Filter
+7F69BBDD	An incremental extremely random forest classifier for online learning and tracking
+6A28BD48	Spectral Energy Minimization for Semi-supervised Learning
+5FB93DB3	Postgraduate Orthopaedics: Knee oral core topics
+781DC386	Iterative graph cuts segmentation with local constraints
+77AFFB6E	InfoSuggest: A System for Automated Information Gathering: With a Real-World Case Study
+7E5FDB01	Adaptive 2D to 3D image conversion using a hybrid Graph Cuts and Random Walks approach
+7641DFBF	Comparative investigation of physiological responses of field-grown alfalfa and tall fescue to cutting under different water regimes
+794FCEF2	Graph matching with subdivision surfaces for texture synthesis on surfaces
+772C2F64	Learning from high-dimensional noisy data via projections onto multi-dimensional ellipsoids
+6D853142	Fully Automatic Lesion Segmentation in Breast MRI Using Mean-Shift and Graph-Cuts on a Region Adjacency Graph
+7FF3E546	Algorithms of Analyzing RLC Electrical Network Structure
+789DE3D1	Applying a semi-supervised learning approach to reduce noise in Thai-OCR
+5B259E37	ÉCHALE UN VISTAZO. CITEREA, DE LUIS DE TAVIRA, EN EL FORO DEL CUT
+80F08C09	Agreement Learning for Automatic Accent Annotation
+0845A3A5	Semi-supervised and transductive learning algorithms for predicting alternative splicing events in genes.
+5C3F88FC	Mixture Model Estimation with Soft Labels
+794283AB	Discriminant cuts for data clustering and analysis
+5DD01DBB	L'origine du film et la résurrection du peuple
+7E18F989	A Static Analysis of Dynamic Fault Trees with Priority-AND Gates
+03D7F4FC	Inference and parameter estimation on belief networks for image segmentation
+59481580	그래프 컷을 이용한 적응적 폐 영역 분할
+32C27C42	How to Cut a Generator Frame to Install a Conversion Kit | Propane Generator Conversion Kits | Propane Small Engine Conversion Kits
+7AF472F2	Fast on-line learning for multilingual categorization
+787E1654	Graph based SAR images change detection
+7C09C15E	A new semi-supervised approach for hyperspectral image classification with different active learning strategies
+7E140BD2	Nonlinear Multiscale Graph Theory based Segmentation of Color Images
+7C5B1844	The Classification Method Study of Two-Dimension Iteration Transductive Support Vector Machine
+7D064DEF	Learning Disambiguation of Hindi Morpheme "vaalaa' with a Sparse Corpus
+7F4C3A8F	Biomarker discovery across annotated and unannotated microarray datasets using semi-supervised learning
+807E1F27	An Algorithm of Semi-supervised Web-Page Classification Based on Fuzzy Clustering
+08B2989E	画像セグメンテーションにおけるウェーブレット係数の局所テクスチャ特徴量を用いたGraphCuts(一般セッション,パターン認識・メディア理解のための学習理論とその周辺)
+25DD1602	i.dress, exploring when fabric becomes garment
+5E40DEEF	Graph‐cut based interactive image segmentation with randomized texton searching
+08E4800D	Nightbreed, Yön kansa (1990) / Nightbreed: The Cabal Cut (2012)
+7B281ADB	Dynamic camera calibration method for free-viewpoint experience in sport videos
+7FD8C093	Spam detection in voice-over-IP calls through semi-supervised clustering
+7ECB56D7	Research on a Low Power Test Generator about Integrated Circuits
+04489E56	Développement de modèles graphiques probabilistes pour analyser et remailler les maillages triangulaires 2-variétés
+78A488E9	Insights into the cut edge corrosion of 55% Al-Zn metal coating on steel from simultaneous electrochemical polarization and localised pH sensing experiments
+76169792	Semi-supervised classification of emotional pictures based on feature combination
+81EECB05	EL TEATRO BIEN HECHO ES UN ACTO POLÍTICO: BONILLA
+7A4850A5	A FCM clustering algorithm based on Semi-supervised and Point Density Weighted
+605573A0	An Effective Intrusion Detection Algorithm Based on Improved Semi-supervised Fuzzy Clustering
+655C5C00	Dynamic textures: models and applications
+0BD999A9	Web mining based on Bayes latent semantic model
+7A49A0F7	Global Depth from Epipolar Volumes--A General Framework for Reconstructing Non-Lambertian Surfaces
+5F6D283C	UPMC/LIP6 at ImageCLEFannotation 2010
+5C348AD0	Object Categorization: Towards Integration of Different Paradigms in Modeling, Representation, and Learning of Visual Categories
+239FB34C	Hierarchical Semi-Supervised Factorization for Learning the Semantics (Selected Papers from The 6th International Conference on Soft Computing and Intelligent Systems and The 13th International Symposium on Advanced Intelligent Systems (SCIS&ISIS2012))
+38C73B8F	Forcing with Random Variables and Proof Complexity: Open comprehension and open induction
+0B3BAF1F	Joint estimation of water and fat images from magnetic resonance signals
+77BD6773	An Efficient and Reliable Segmentation Method Based on Active Contour Model
+7B89089D	L-fuzzy numbers and their properties
+5F50FC04	LABORATORIO TEATRAL ENTRE EL CUT Y EL LARK PLAY DEVELOPMENT CENTER
+82DB9638	Imaginal Discs: THE BRISTLE
+5EB2E7E0	Bayesian Segmentation of Oceanic SAR Images: Application to Oil Spill Detection
+7E056DEE	Ridge Fusion in Statistical Learning
+7874A9D8	Hearing in Drosophila: Development of Johnston's organ and emerging parallels to vertebrate ear development
+760FE9A7	Desempenho e características da carcaça de novilhos terminados em pastejo rotacionado ou em confinamento
+81765682	A Game Theoretic Data Fusion Aided Path Planning Approach for Cooperative UAV ISR
+7CA01C4F	A new stereo matching algorithm based on image segmentation
+79DE1C9F	Delamination Initiation Around Cut Holes in Symmetric Laminates: Effects of PET Film Interleaving
+62DE7491	On in-vitro and in-vivo IVUS data fusion
+75FAA6A8	Software defect prediction using semi-supervised learning with dimension reduction
+815C2DA9	Segmentation d'IRM cérébrales multidimensionnelles par coupe de graphe
+7FDF94FD	An Interactive Segmentation Method of LiDAR Data
+7D8F02F1	A Video Mining Application for Image Retrieval
+7632E987	Semi-Supervised Locality Discriminant Projection
+251E5317	切断・破壊を用いた使用済み製品の分解支援(環境適応型知的人工システム)
+75F0AE28	On the tractability of some natural packing, covering and partitioning problems
+3B18B83C	Theory construction and selection in modern physics: Glossary of technical terms (from physics and from philosophy)
+7AD22450	Semisupervised metric learning by kernel matrix adaptation
+05BDD35C	A semi-supervised learning approach for morpheme segmentation for an Arabic dialect
+710934F1	Dynamic Application Partitioning in VisualAge Generator Version 3.0
+78775AD8	Bootstrapping a spoken language identification system using unsupervised integrated sensing and processing decision trees
+7CD642F6	A Strategy for Boundary Detection Combining Region and Edge Information
+81FB0BBB	CASANOVA O LA FUGACIDAD, OBRA DIVERTIDA Y SEDUCTORA
+73815F66	Parallel and Distributed Approaches for Graph Based Semi-supervised Learning
+691C8D8B	Drug Clearance Pathway Prediction Based on Semi-supervised Learning
+006CB959	Discrete Energy Minimization with Graph Cuts
+5CF91926	Theory-Practice Interplay in Machine Learning --- Emerging Theoretical Challenges
+045DB99E	An Algorithm for Dense Disparity Mapping by Using Graph Cuts
+0380F3E2	Local Relevance Weighted Maximum Margin Criterion for Text Classification
+077CA8D7	Semi-supervised Learning of a Markovian Metric
+7DB9128E	Appearance tracking by transduction in surveillance scenarios
+68CC8558	Document Ink bleed-through removal with two hidden Markov random fields and a . . .
+7D3CAD4C	First contact: an active vision approach to segmentation
+79ED6030	The effect of postharvest treatments on flower quality and vase life of cut alstroemeria "Dancing Queen"
+75D58FE4	Automatic foreground extraction via joint CRF and online learning
+78E9BE20	The Johnson-Lindenstrauss Transform Itself Preserves Differential Privacy
+8005D037	Semi-supervised learning for classification of polarimetric SAR-data
+5E03C29F	Unsupervised Image Segmentation Based on MRFs and Graph Cuts
+792D7C6B	Symmetry Constraint for Foreground Extraction
+59974EB8	Semi-supervised generic descriptor in face recognition
+79962540	An analysis of two ground truth estimation methods
+7D7ABB67	Semi-supervised Learning Framework for Cross-Lingual Projection
+7703922D	Towards semi-supervised learning of semantic spatial concepts
+7672425F	A Computationally Efficient CFAR Algorithm Based on a Goodness-of-Fit Test for Piecewise Homogeneous Environments
+7DEABB6C	Semi-supervised nearest neighbor editing
+809793DC	Segmentation of the fetal envelope on ante-natal MRI
+81539478	Crime Pattern Detection Using Data Mining
+77AFB66E	Apply semi-supervised support vector regression for remote sensing water quality retrieving
+592DB509	Machine learning via dynamical processes on complex networks
+5A71E5A7	Spanning Trees of Bounded Degree Graphs
+5B961448	Zigzag laser with reduced optical distortion
+83997C9F	An computer generated image representing how ATLAS detects particles
+808D732A	Built-in self-diagnosis for scan-based VLSI
+7B462346	Saliency detection using maximum symmetric surround
+634EE5C8	Algorithmic Aspects of Graph Connectivity: Cactus Representations
+7BB32B7A	The hiiragi Gene Encodes a Poly(A) Polymerase, Which Controls the Formation of the Wing Margin in Drosophila melanogaster
+77FA2475	A Hypergraph-Based Reduction for Higher-Order Binary Markov Random Fields
+774EA978	An automated crime pattern detection using k-means clustering
+34346021	A Clustering-based Semi-Supervised Learning through Initial Prediction of Unlabeled Data
+7FD67BD2	Free-hand sketch grouping for video retrieval
+82ABE26A	Fuck Crazy DVD - Pornoleffa jossa nussitaan rajusti - Ei ole varastossa - Homoware - Pohjoismaiden suurin homonettikauppa
+7D7484F2	Integrating co-training and recognition for text detection
+77378EBE	Binary Shading Using Appearance and Geometry
+02C84CBE	自動ラベル付けによる情景文字画像データベースの構築(テーマセッション,文字・文書の認識と理解及びアルゴリズム・システム評価)
+79338DC2	On-line semi-supervised multiple-instance boosting
+5AC35EF9	Transfer Learning with Data Edit
+7AE43B1F	Graph cut-based fast texture synthesis with CUDA
+77AD6149	Semi-supervised learning for speech and audio processing
+79E9F0AC	Graph theory and Q-analysis
+7A45E43C	Prediction of Cut Propagation Direction of Wrinkled Thin Membrane
+816233DA	A Bayesian approach for image segmentation with shape priors
+7D37AEFF	Multi-Concept Multi-Modality Active Learning for Interactive Video Annotation
+5C9EA40F	SemiCCA: Efficient Semi-supervised Learning of Canonical Correlations
+80336981	Hierarchical coarse to fine depth estimation for realistic view interpolation
+797A7848	Extracting Pseudo-Labeled Samples for Sentiment Classification Using Emotion Keywords
+0340A66E	CLM, Treat plant pests, diseases and disorders - fact sheet/pests and diseases/treating plant pests, diseases and disorders.
+76EDD113	Combining Semi-Supervised and active learning for hyperspectral image classification
+7EABAE2E	A TV-logo classification and learning system
+7D9AEA7A	Automatic Foreground Extraction of Head Shoulder Images
+808F2502	Automated Segmentation of Torn Frames using the Graph Cuts Technique
+09A5AEB3	Semi-supervised learning for improved expression of uncertainty in discriminative classifiers
+5CE52625	Analysis of the factors creating consumer attributes of roasted beef steaks
+68CCD02F	Using German: Grammar: cases, tenses and moods
+5A6B4D6E	Constrained level-set method and its applications to image segmentation
+77760E0E	Unsupervised change detection with high-resolution SAR images by edge-preserving Markov random fields and graph-cuts
+7640E293	Event detection from evolution of click-through data
+7F7B4912	A New Cut-Set Distribution in Fuzzy Reliability Models of Mechanical Structures
+85787F13	NOMBRAMIENTOS EN LA COORDINACIÓN DE DIFUSIÓN CULTURAL
+7ED3E986	Research on Stage Classification of Flight Parameter Based on PTSVM
+79C8CBBF	Learning classifier system using both labeled and unlabeled data
+7D4E156C	Extractive summarization using supervised and semi-supervised learning
+815F3F2E	Unsupervised extraction of audio-visual objects
+7C0FC25F	Chinese question Classification using Multilevel Random Walk
+77925BBB	Mechanics and mechanism of cut resistance of protective materials
+092F6CD1	Kriging for Cut-Offs and Other Difficult Problems
+7951F2F5	Semi-Supervised Hyperspectral Subspace Learning Based on a Generalized Eigenvalue Problem for Regression and Dimensionality Reduction
+74ECA363	Verification of POI and Location Pairs via Weakly Labeled Web Data
+802B772C	Fast Image Blending using Watersheds and Graph Cuts
+79945E33	Semi-supervised discriminative random field for hyperspectral image classification
+6F0F8E68	Fully automatic extraction of salient objects from videos in near real-time
+6FCE4934	Machete Cut Marks on Bone: our Current Knowledge Base
+85FBAB20	치아 모델링을 위한 표면 메쉬와 볼륨 데이터의 결합에 관한 연구
+7F217675	Fission yeast cut mutations revisited: control of anaphase
+76F80EF9	Feature selection by using the FRiS function in the task of generalized classification
+7A5D52E4	Combining dark channel prior and color cues for road following in outdoor environments
+786A5CF2	A Unified Spectral-Domain Approach for Saliency Detection and Its Application to Automatic Object Segmentation
+7DC6000E	Graph-Based Text Segmentation Using a Selected Channel Image
+80D4D0FB	A Neural Networks-Based graph algorithm for cross-document coreference resolution
+121155E3	Scott Cordischi On Sports: To Tebow Or Not To Tebow? - GoLocalWorcester
+796E4B57	Algorithms for the Digital Restoration of Torn Films
+7CFB9555	A Modified Self-Training Semi-supervised SVM Algorithm
+80420515	THE S2-ENSEMBLE FUSION ALGORITHM
+75E517D3	Template Based Stereo Matching Using Graph-cut
+7BA93A13	Multi-class brain segmentation using atlas propagation and EM-based refinement
+0C43D081	Semi-Supervised Learning for Improving Prediction of HIV Drug Resistance
+0BA7A4EB	Ballroom reprieve (cinematic short)
+5BD9D821	Optimisation à base de flot de graphe pour l'acquisition d'informations 3D à partir de séquences d'images
+5D7335EC	ROBERTO ZUCCO Y EL AFÁN DE PURIFICAR UN MUNDO AGRESIVO
+7030E0DA	Statistical models: Models
+75C8D5B9	An iterative semi-supervised approach to software fault prediction
+8525464B	EL 75AVO, UNA VISION NO CONVENCIONAL DE LA ANCIANIDAD, LA VIDA Y LA MUERTE
+7E759C29	Constrained specification-based test stimulus generation for analog circuits using nonlinear performance prediction models
+7FFDA88F	Riverbed: A Novel User-Steered Image Segmentation Method Based on Optimum Boundary Tracking
+75E6DD88	Locality Sensitive Semi-Supervised Dimensionality Reduction on Multimodal Data
+81420967	GRAPH CUT SEGMENTATION METHOD AND ITS APPLICATION IN MEDICAL IMAGES
+7DE4E35A	Semi-supervised learning approaches for predicting semantic characteristics of lung nodules
+799F6D77	Occlusion handling in depth estimation from multiview video
+758EDA0C	Object segmentation based on watershed and graph cut
+7D498333	Query smearing: Improving classification accuracy and coverage of search results using logs
+5F64804D	Introduction to Distributed Algorithms: Snapshots
+670146EC	基於RGB-D感測器之適應性人基於RGB-D感測器之適應性人員線上學習與追蹤及其在智慧型輪椅機器人的應用員線上學習與追蹤及其在智慧型輪椅機器人的應用
+03892641	Semi-supervised learning of a POMDP model of Patient-Caregiver Interactions
+762FDAB2	Terrain classification based on structure for autonomous navigation in complex environments
+3541E073	Effective models for the single impurity Anderson and Kondo model from continuous unitary transformations
+78B227E1	Combating class imbalance problem in semi-supervised defect detection
+56342697	EL ESPÍRITU DE LA PINTORA, DEL MELODRAMA TELEVISIVO A LA IRONÍA ESCÉNICA
+7C1A363B	Optimum cut-based clustering
+83A45B84	Structural Proof Theory: CONCLUSION: DIVERSITY AND UNITY IN STRUCTURAL PROOF THEORY
+771FC22C	Automatic Discrimination between Confusing Classes with Writing Styles Verification in Arabic Handwritten Numeral Recognition
+800E32C7	A novel coarse-to-fine hair segmentation method
+78A01FB5	Electrosurgery: Principles and Practice to Reduce Risk and Maximize Efficacy
+78CA8478	A general procedure for learning mixtures of independent component analyzers
+6060E0E9	Semi-supervised spectral clustering with automatic propagation of pairwise constraints
+75F34F3E	A probabilistic model for approximate identity matching
+58D9FD91	Exploiting Class Hierarchies for Knowledge Transfer in Hyperspectral Data
+7E6C7A20	Adaptive online learning for human tracking
+6167EFDF	Practical microcomputer solutions of the cutting stock problem
+8034CA3B	Automatic 3D segmentation of multiphoton images: a key step for the quantification of human skin
+7AAE049B	Decision Forests: A Unified Framework for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning
+76AC0D79	Automatic 3D kidney segmentation based on shape constrained GC-OAAM
+76D6DDB3	Texture Based Segmentation Using Graph Cut and Gabor Filters
+5B29BE1B	Causality, Measurement Theory and the Differentiable Structure of Space-Time: Introduction to Part II
+5DAE0619	Joint channel-frequency selection for motor imagery-based BCIs using a semi-supervised SVM algorithm
+7A620075	Enhanced flux balance analysis to model metabolic networks
+72865A1E	GACETA ILUSTRADA: RADIOMETRÍA. FLAMENCO. COMPOSICIÓN. LECTURA AMBIENTAL. JURIQUILLA
+76985E4D	Multifrequency species classification of acoustic-trawl survey data using semi-supervised learning with class discovery
+3DAC67C4	Teoreticheckoe issledovanie sreza botvy sakharnojj svekly kopirno-rotornym otdelitelem
+0DF468CD	Visual Rhythm of Thriller Movies's Opening Title - Focusing on Identity
+1342759B	UNSUPERVISED SEGMENTATION OF LUNG FIELDS ON CHEST RADIOGRAPHICS IMAGES BASED ON MULTIRESOLUTION FRACTAL FEATURE VECTOR AND ACTIVE CONTOUR MODEL
+812FF4E2	Temporally consistent video matting based on bilayer segmentation
+76F982A7	Auto-segmentation based on graphcut and template
+766E47CC	Locality preserving embedding for face and handwriting digital recognition
+54DCF13C	Multiple-conclusion Logic: Multiple-conclusion calculi
+76EE9A0E	Iterated graph cuts with confident measure
+80BD149B	A customer intention aware system for document analysis
+78C41474	Semi-supervised learning via nonnegative least squares regression
+79F95692	Image and video retargeting using Graph Cuts
+7EDC34D6	Prediction and Early Warning Method for Flea Beetle Based on Semi-supervised Learning Algorithm
+584CB132	Method for laser welding ultra-thin metal foils
+0CA8D5E3	Cortical Spreading Depression: A Mathematical Model and Associated Inverse Problems
+844E1507	MOCTEZUMA II, DE SERGIO MAGAÑA, EN EL FORO DEL CUT
+2ECDFAD3	Video Object Segmentation using Kernel Density Estimation and Spatio-temporal Coherence
+7A53C8D2	Interactive contour deformation of an object using Graph cut
+07EAF62E	Efficient Active Learning with Boosting
+85DC9D91	Tabak Kiosk Online Shop (ausschliesslich online) / Cut Virginia Plug Dose
+7C7088A8	Semi-supervised Phonetic Category Learning: Does Word-level Information Enhance the Efficacy of Distributional Learning?
+5F762FAD	Finding Meaning of Clusters
+78644731	[Paper] Semantic Concept Detection based on Spatial Pyramid Matching and Semi-supervised Learning
+7D7B0B0B	Cell-based graph cut for segmentation of 2D/3D sonographic breast images
+7BD235AE	A Robust Ensemble Approach to Learn From Positive and Unlabeled Data Using SVM Base Models
+5A972A66	Single image dehazing based on maximizing local contrast
+784BCF04	Intrusion detection based on the semi-supervised Fuzzy C-Means clustering algorithm
+7E466767	Segmentation of Wood Fibres in 3D CT Images Using Graph Cuts
+800FD450	An accurate classification of native and non-native protein-protein interactions using supervised and semi-supervised learning approaches
+754DA5DE	A polyhedral graph theory approach to revenue management in the airline industry
+7F2025E2	Automatic 3D Object Segmentation in Multiple Views using Volumetric Graph-Cuts
+00C658A6	Brief Communication: Prediction of Alzheimer's diagnosis using semi-supervised distance metric learning with label propagation
+7BF59A45	3D model classification using salient features for content representation
+782C9A28	Cell Motility Dynamics: A Novel Segmentation Algorithm to Quantify Multi-Cellular Bright Field Microscopy Images
+7FC237E4	Assembly Unit Partition Based on Theory of Cut-Set
+78FF18D9	Interactive object segmentation for mono and stereo applications: Geodesic prior induced graph cut energy minimization
+5CBBDE9B	스마트폰 로봇의 위치 인식을 위한 준 지도식 학습 기법
+79BEC67B	Unsupervised segmentation of focused regions in images with low depth of field
+85ED444C	An improved multilevel banded graph cuts method for extracting colon tissue
+7715B8EE	Unlabeled Sample Reduction in Semi-supervised Graph-Based Band Selection for Hyperspectral Image Classification
+5B1962F0	Optimal linear features for content based image retrieval and applications
+002094AD	Sparse Higher Order Functions of Discrete Variables --- Representation and Optimization
+36B42F7B	Corpus-based question classification in question answering systems
+7DD9B66F	Semi-supervised learning and discovery of unkown structures among data: Application to satellite image annotation
+75F09952	Classification of heterogeneous electron microscopic projections into homogeneous subsets
+70D67685	Imaginal Discs: HOMEOSIS
+80711707	A hybrid framework of short-duration simulation and ANN-based transient stability assessment for contingency screening
+76DBDBF2	Well-founded semantics for defeasible logic
+7740BFEA	Representation of torus homeotopies by simple polyhedra with boundary
+317A3570	Re'mi Gilleron
+5A65C8A3	Semi-Supervised Training of Models for Appearance-Based Statistical Object Detection Methods
+5D472BE9	k-Means and Graph Cuts Clustering of Diffusion MRI in rat STN
+7ABDBD66	Asymmetric semi-supervised boosting for SVM active learning in CBIR
+777CE6B0	Visual tracking and segmentation using Time-of-Flight sensor
+807D8034	Fusing bottom-up and top-down pathways in neural networks for visual object recognition
+77A6AE8C	An Improved Self-Training for Face Recognition
+769DC751	Semi-supervised Bayesian network classifier learning based on inter-relation mining among attributes
+5DC4D05D	Pattern Analysis and Statistical Learning
+7E9E6C85	Cell splitting using dynamic programming
+79D2BF3C	Automatic Object Segmentation from Calibrated Images
+5BDDA854	Fat water decomposition using globally optimal surface estimation (GOOSE) algorithm
+766DF778	Semi-Supervised Palmprint Recognition Based on Similarity Projection Analysis
+79574D67	O sindicalismo, a política internacional e a CUT
+78CE0B45	Two-phase approach for multi-view object extraction
+7FC76F46	Revisiting k-means: New Algorithms via Bayesian Nonparametrics
+04D60F96	Multiregion Graph Cut Image Segmentation
+76CE5723	Semi-supervised Failure Prediction for Oil Production Wells
+7BDA2557	Image Segmentation by Pre-Labeling Based on Part-Based Model
+5C16030B	Vision-Based Motion Capture of Interacting Multiple People
+7772A54B	Non-Photorealistic Rendering and the science of art
+7FFB8114	3DTV View Generation Using Uncalibrated Cameras
+59F00518	NOMBRAMIENTOS Y TOMAS DE POSESIÓN
+596A6A95	Pumpable rockbolt method
+76EAA110	Fast concave object extraction algorithm based on graph cuts and GVF Snake: Fast concave object extraction algorithm based on graph cuts and GVF Snake
+7BF9B705	Overlapping pathways dictate termination of RNA polymerase II transcription
+7E254DA7	Learning Full Pairwise Affinities for Spectral Segmentation
+7E719395	Privately releasing conjunctions and the statistical query barrier
+7F3ACC02	A New Right Angle Corner Detection Method
+3B856D16	An iterative graph cut optimization algorithm for a double mrf prior
+7826891E	Semi-supervised learning for automatic audio events annotation using TSVM
+7F5ED0DF	Semi-Supervised Learning of Switched Dynamical Models for Classification of Human Activities in Surveillance Applications
+5BD21C11	Rhetoric and culture in Lacan: The Subject and the Symbolic Order: Historicity, Mathematics, Poetry
+044B9B03	Optimal object extraction via constrained graph - cuts
+7E16FFB0	Relational Classification for Personalized Tag Recommendation
+0F475D35	Semi-supervised learning scheme using Dirichlet process EM-algorithm (パターン認識・メディア理解)
+7CE32115	Heuristics based automatic text summarization of unstructured text
+77E245C3	Dense 3D Reconstruction Based on Photometric Stereo with Unknown Light Source via Energy Minimization Framework
+77DA3C79	Efficient approximation algorithms for semidefinite programs arising from MAX CUT and COLORING
+762C713F	Adaptive Graph-Cut Algorithm to Video Moving Objects Segmentation
+0891AD49	ÜBERKOPF | Modern Hairstyling - Claudia Just
+0858E51C	Structured laplacian support vector machines
+757B355B	A semi-supervised learning system for service robots to recognise human actions
+0BF00600	Algorithmic Aspects of Graph Connectivity: Cut Enumeration
+6B77032D	Testigo de cargo
+750BB1D5	Graph-cut based tag enrichment
+00B8FC67	Tutorial on Inductive Semi-supervised Learning Methods: with Applicability to Natural Language Processing
+772FD06E	Reliability Evaluation of Multistate Systems with Multistate Components
+7D375893	Scoring histological sections through immunohistochemistry
+7F1AFC0E	Semi-Automatic 3-D Segmentation of Anatomical Structures of Brain MRI Volumes using Graph Cuts
+77D5EF9E	Abnormal Voice Detection Algorithm Based on Semi-Supervised Co-Training Algorithm
+5A6E2745	Semi-supervised Sentiment Classification in Resource-Scarce Language : A Comparative Study (データ工学)
+791BFCD8	The bootstrapping of the Yarowsky algorithm in real corpora
+7BFDFE13	Effect of Changes in Feed Rate and Cut on Circulating Flow within Thermal Diffusion Column for Isotope Separation
+7FE81605	BIST Scheme for Low Heat Dissipation and Reduced Test Application Time
+7A546970	Data-efficient model building for financial applications: A semi-supervised learning approach
+0981BC4F	Temporal and Information Flow Based Event Detection from Social Text Streams
+76F7C739	Semi-automatic 2D to 3D image conversion using scale-space Random Walks and a graph cuts based depth prior
+7C78FA8A	Automatic Object Cosegmentation in Sparse Multiview Images
+79F091E1	Research on Water Cut of Silicon Steel Plate
+778248A2	Empirical Comparisons of Attack and Protection Algorithms for Online Social Networks
+85259DC0	GVW Call Scam Alert
+771BF15D	Semi-supervised Learning for Relevance Feedback on Image Retrieval Tasks
+7E810F45	INTEGRANTES DE L'OM IMPREBIS CHARLAN CON ALUMNOS DE TEATRO
+7ED33C1F	Visual Hull Embossment by Graph Cuts
+7B6A1A76	Permanents of graphs with cut vertices
+802BC6E4	Covariance Operator Based Dimensionality Reduction with Extension to Semi-Supervised Settings
+793F65E4	Adaptive Selective Learning for automatic identification of sub-kilometer craters
+7DF92CF5	Learning generative models of similarity matrices
+5CFEF9BC	Energy minimization in medical image analysis: Methodologies and applications
+5E62698B	Structural Proof Theory: SEQUENT CALCULUS FOR INTUITIONISTIC LOGIC
+77140C4B	Analysis of Laplacian Support Vector Machines
+79D686AF	Semi-supervised learning with kernel locality-constrained linear coding
+76A43AB9	Collective classification for spam filtering
+7D0E564A	Ethnological Studies among the North-West-Central Queensland Aborigines: THE MAINTENANCE OF LAW AND ORDER: FIGHTING, FIGHTING WEAPONS
+5AA5CF6A	VERDADES COMO PUÑOS, CREACIÓN COLECTIVA DE ALUMNOS DEL CUT
+770148EA	IR Image Segmentation using GrabCut
+80740A97	Extraction and analysis of actin networks based on Open Active Contour models
+85A1EFFA	LLEGA AL FORO DEL CUT SUEÑOS DE UNA NOCHE CUALQUIERA
+78E6B460	Using Semi-supervised Learning for Question Classification
+7FA7068C	AN iterative model-constrained graph-cut algorithm for Abdominal Aortic Aneurysm thrombus segmentation
+58AA1430	Statistical Translation with scarce resources: A South African case study
+7E9D1A36	FPGA implementation of graph cut based image thresholding
+7C86FE00	CONDITIONING IN DYNAMIC MODELS
+59A2940E	Multi-organ segmentation with a relaxed conditional hierarchical statistical shape model
+2E94C30C	Learning Locality-Preserving Discriminative Features
+5953E79B	Large Scale Scenes Reconstruction from Multiple Views
+37BB46EE	Proportion of secondary cuts in the carcass of Polish Large White and Belgian Landrace pigs and their crossbreds
+840C84F1	Supervised Hypothesis Discovery Using Syllogistic Patterns in the Biomedical Literature
+0FF841D8	Algebraic Combinatorics on Words: Unavoidable Patterns
+78B25725	In vivo heterogeneous tomographic bioluminescence imaging via a higher-order approximation forward model
+80A92F23	Filter Bank Common Spatial Pattern (FBCSP) algorithm using online adaptive and semi-supervised learning
+770A35B5	Video Object Segmentation by Hierarchical Localized Classification of Regions
+58847AC6	Graph-Based Discrete Differential Geometry for Critical Instance Filtering
+5F01FC32	Prior knowledge in Kernel methods
+5FDDC927	The Cut in Collage: Pollock, Fontana, Matta-Clark, Ono
+5A4DFA3A	A new algorithm for generating cuts set in undirected graphs representing electric systems
+7F8FD56A	Moving Cast Shadow Removal Based on Local Descriptors
+7C54DEFC	Semi-supervised Based Training Set Construction for Outlier Detection
+81F1A47B	Comparative investigation of physiological responses of field-grown alfalfa and tall fescue to cutting under different water regimes
+77B24F69	Interactive graph cut segmentation of touching neuronal structures from electron micrographs
+7C791509	Learning human pose in crowd
+7DB77F4D	SEMI-SUPERVISED ANALYSIS OF HUMAN BRAIN TUMOURS FROM PARTIALLY LABELED MRS INFORMATION, USING MANIFOLD LEARNING MODELS
+816298A1	Incorporating monolingual corpora into bilingual latent semantic analysis for crosslingual LM adaptation
+75255661	An ATPG for low power VLSI design using variable length ringcounter a LFSR
+75267C9D	Sparse representation for outliers suppression in semi-supervised image annotation
+02046A1D	Corpus Based Unsupervised Labeling of Documents
+815343CA	Applying Feature Coupling Generalization for Protein-Protein Interaction Extraction
+7ADC7D7D	The riverbed approach for user-steered image segmentation
+75314243	Semi-supervised cluster ensemble based on binary similarity matrix
+5DC3AB80	Implementing a Branch-and-bound Algorithm for Transductive Support Vector Machines
+5B80B494	Semi-Supervised Learning
+7F9553A1	Image segmentation: A survey of graph-cut methods
+7A834754	Semi‐supervised Learning
+7CF9D765	Semi-supervised Learning Algorithm Based on Simplified Association Rules Combining with k-mean and Its Application in Land Evaluation
+7F3CB328	Improving the Accuracy of Question Classification with Machine Learning
+76C39D0C	Model-based 3D human motion tracking and voxel reconstruction from sparse views
+7F3A2F64	Integrating a Discrete Motion Model into GMM Based Background Subtraction
+6D041BA5	F.: Total variation minimization and graph cuts for moving objects segmentation
+83A5E645	CONCLAT - CUT 83
+5F6C0F17	Semi-supervised Learning on Small Worlds
+76833557	Video concept detection based on spatio-temporal correlation
+7BB97A51	Image-based object recognition and dexterous hand/arm motion planning using RRTs for grasping in cluttered scene
+7CE284FE	A fast Multiple Birth and Cut algorithm using belief propagation
+83184625	EVALUATION OF RESULTED DAMAGES TO TREES ADJACENT TO LOGGING ALIGNMENT WITH SINGLE SELECTION METHOD IN SHAFAROOD FORESTS
+7DFFB909	웹 검색을 위한 확장 가능 준지도 선호도 학습
+67E0FD5A	AMPLIA OFERTA CULTURAL DE LA UNAM EN 2012
+85A66EE2	SAR image segmentation by selected principal components and kernel graph cuts ensembles
+7A258637	A novel Graph-based Selection Wrapper for learning enhancement in a semi-supervised manner
+7474B82C	Handbook of Practical Logic and Automated Reasoning: Interactive theorem proving
+268BC5FE	Minimisation multi-étiquette d'énergies markoviennes par coupe-minimum sur graphe : application à la reconstruction de la phase interférométrique en imagerie RSO
+7F212474	Improving classification with latent variable models by sequential constraint optimization
+78FCA483	Solving the Graph Cut Problem via l 1 Norm Minimization
+7DDB720A	Local-to-global semi-supervised feature selection
+7CF1B92F	Face clustering using semi-supervised Neighborhood Preserving Embedding with pairwise constraints
+7E824191	Learning action descriptors for recognition
+7E3C60A1	대용량 소셜 미디어 감성분석을 위한 반감독 학습 기법
+08418DC9	Iterated Graph Cuts by Multi-level Smoothing for Image Segmentation
+7B53B04A	Graph Cut Based Multiple View Segmentation for 3D Reconstruction
+78B35032	Breast Tissue Image Classification Based on Semi-supervised Locality Discriminant Projection with Kernels
+770FC994	Automatic ROI identification for fast liver tumor segmentation using graph-cuts
+7AABA389	Segmentation in multi-view video via color, depth and motion cues
+7FCC2CFB	Testing of LUT delay aliasing faults in SRAM based FPGAs using half-frequencies
+767EABC5	Integrating BC & GC Models In Computing Stereo Disparity As Markov Random Field
+08D61A7A	POSIT:Part-basedobjectsegmentationwithoutintensivetraining
+767B2786	Learning-based non-rigid image registration using prior joint intensity distributions with graph-cuts
+7C17A7CF	Multi-Scale Gabor Phase-Based Stereo Matching using Graph Cuts
+779FA341	SKYLINE2GPS: Localization in urban canyons using omni-skylines
+7ABE5461	Graph-based methods for language processing and information retrieval
+78918A59	The interval-valued fuzzy sets based on Flou sets
+71F43186	윤곽선 정보를 이용한 동영상에서의 객체 추출
+036AB563	Evaluation of factors affecting pyrite oxidation and subsequent pollutant generation in backfilled open cut coal mines
+07780FED	How not to be seen - Video inpainting in crowded scenes
+7A58F6EC	Context-sensitive intra-class clustering
+809F8E1C	Improved random walker algorithm for image segmentation
+061883AD	A survey of semi-supervised learning
+031B2C8A	Approximating the minimal-cost sensor-selection for discrete-event systems
+7C08286E	Literature survey of active learning in multimedia annotation and retrieval
+5CCC5364	An Information Theoretic Optimal Classifier for Semi-supervised Learning
+7E1C9C6C	Semi-supervised classification on evolutionary data
+792259D9	Research on semi-supervised Chinese relation type discovery
+2DE2FEA5	IEEE TRANSACTION ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE, MANUSCRIPT 1 Detachable Object Detection Segmentation and Depth Ordering From Short-Baseline Video
+7D534F87	Anomalous activity classification in the distributed camera network
+7DB60874	Research of mosaicing low overlapping images based on feature and color transfer
+086FADDB	Generalization and Discrimination in a Semantic Network Trained with Semi-Supervised Learning
+7FEFFB23	A computational approach to detect and segment cytoplasm in muscle fiber images
+7525EF15	On surrogate supervision multiview learning
+801507F6	Cross language text classification by model translation and semi-supervised learning
+753D41C3	Neural Network Based Foreground Segmentation with an Application to Multi-Sensor 3D Modeling
+774F5D98	Oportunidades y peligros del pluralismo sindical en el Chile post-transición
+5C835C58	MAPACo-training: a novel online learning algorithm of behavior models
+77754DDC	Influence of Rectangular Holes on Stability of Three-Layer Plates
+7873FDE8	Changes in the nutrient quality of meat in an obesity context
+0B789EEE	Hemoglobin and melanin quantification on skin images
+58D1D858	Back propagation approach for semi-supervised learning in granular computing
+7FED3742	Graph-Cut Based Iterative Constrained Clustering
+7BF286E6	Remote Sensing Image Segmentation Based on Region-Split and Graph Cut
+2FA7019C	How to Cut a Generator Frame to Install a Conversion Kit Propane and Natural Gas Generator Conversion Kits
+7A32EDCF	Long-Range Target Classification in a Cluttered Environment Using Multi-Sensor Image Sequences
+7F3BA893	Conservação de mamão 'Formosa' minimamente processado armazenado sob refrigeração
+7834837B	SybilBelief: A Semi-Supervised Learning Approach for Structure-Based Sybil Detection
+7940CA24	Ontology-Driven Mashup Auto-Completion on a Data API Network
+674D25E2	Identification Problems in a Class of Mixture Models with an Application to the LISREL Model
+5C5004C6	Incremental semi-supervised learning for anomalous trajectory detection
+02A6A395	Co-localization from labeled and unlabeled data using graph Laplacian
+6A03EE4F	Web robot detection with semi-supervised learning method
+59A201F2	Extension of rescheduling based on minimal graph cut
+7F526312	Music artist style identification by semi-supervised learning from both lyrics and content
+800123FB	Single-image shadow detection and removal using paired regions
+7777F741	Learning Multiple Level Features for Opinion Analysis
+7DF995CC	EL TEATRO, UN MEDIO PARA LA LIBERACIÓN, DIJO POL PELLETIER
+07F49D38	Learning Moving Cast Shadows for Foreground Detection
+7A14FE9D	Random Reliability Analysis of Gravity Retaining Wall Structural System
+7C502254	Interactive object segmentation using iterative adjustable graph cut
+7E171B37	Multi-Label MRF Optimization via a Least Squares s-t Cut
+75B80A1B	A New Semi-Supervised Multi-Surface Proximal Support Vector Machine Model
+074EB2C8	Business Politics and the State in Twentieth-Century Latin America: Economic Governance and Varieties of Capitalism
+59A04468	Single coil bistable, bidirectional micromechanical actuator
+71688EC6	터널 우각 꼭지점 기반 로봇 경로계획 알고리즘
+603AD2A9	ENEMIGO DE CLASE, OBRA QUE REFLEJA LA VIOLENCIA ESCOLAR
+79A7AA91	Biomedical image segmentation via constrained graph cuts and pre-segmentation
+7B040F22	An efficient multipath routing for distributed computing systems with data replication
+763087C9	Blocks and Cut Vertices of the Buneman Graph
+5C96896D	Belief Propagation and Graph Cuts for Energy Minimization
+5E2BD7C3	Variation of acoustic impedance caused by a cut in ultrasonic transducers
+777E2068	Locality Preserving Discriminative Hashing
+7CBB5316	A Novel Multi label Text Classification Model using Semi supervised learning
+7FC6E8D6	Manifold-Based Combination of Visual Features and Keyword Features for Image Retrieval
+7AED32CF	Automated classification of lymph nodes in USPIO-enhanced MR-images: a comparison of three segmentation methods
+02CF7E0A	Semi-Supervised Learning for Speech Recognition in the Context of Accent Adaptation
+3DF61CAE	classification General Terms Algorithms
+7BDF0261	A New Sub-topics Clustering Method Based on Semi-supervised Learing
+5D9F36D8	Semi-supervised Learning from Unbalanced Labeled Data – An Improvement
+7BC2D218	A Reconstruction Error Based Framework for Multi-Label and Multi-View Learning
+78861FF1	Fragile graphs with small independent cuts
+595AF2BA	Fast segmentation-based dense stereo from quasi-dense matching
+4C147624	A Study on Improvement of Renal Artery Segmentation Using Hybrid Method (医用画像)
+789370AA	On Semi-Supervised Learning Genetic-Based and Deterministic Annealing EM Algorithm for Dirichlet Mixture Models
+7CDAF188	Recognizing Biomedical Named Entities in the Absence of Human Annotated Corpora
+7AA0BE41	Object region extraction based on graph cut and application in image retrieval
+7C74274A	Flexible Edge Arrangement Templates for Object Detection
+5BCD92B7	Prediction of the O-glycosylation by support vector machines and semi-supervised learning
+80CEFA6C	Semi-supervised learning techniques: k-means clustering in OODB fragmentation
+7EB46EAE	Semi-supervised learning with Gaussian fields
+06B0F83F	A New Graph-Based Approach for Urban Image Segmentation
+78084F94	Regularization of unlabeled data for learning of classifiers based on mixture models
+86066EA5	Analysis of social media messages for disasters via semi supervised learning
+1528E3E9	The Cambridge Introduction to Sylvia Plath: Reception
+7AAFE50E	Semi-supervised Relation Extraction with Label Propagation
+857EC68F	100 REPRESENTACIONES DE LA HONESTA PERSONA DE SECHUAN
+768E5E88	Segmenting Human From Photo Images Based on a Coarse-to-Fine Scheme
+7879E7E1	Determination of Tie Sets and Cut Sets for a System Without Feedback
+807D84C2	Automatic Object Segmentation by Quantum Cuts
+5EB2E02F	Automatic image segmentation by graph cuts for bio-medical applications
+7967D97A	Detection of pelvic fractures using graph cuts and curvatures
+588754B6	Semi-supervised learning with gaussian fields
+7A40AE1A	Segmentation of depth image using graph cut
+7B2CF5A7	Distance Measurement Algorithm Based on Binocular Stereo Vision
+80043C86	Improving Generalization for Classification-Based Polyphonic Piano Transcription
+8171707F	Maximally stable Gaussian partitions with discrete applications
+5D7E643B	Dealing with Explicit Exceptions in Prolog
+000BF50B	A Linear-Time Approach for Graph-Cut Object Detection
+0357B759	Technical Section: Automatic urban modeling using volumetric reconstruction with surface graph cuts
+7E4118B6	Semi-supervised learning of partial cognates using bilingual bootstrapping
+0AFD5C6D	Soccer stinger (suspense) SFX
+789C276A	Hyperspectral subspace learning of forest phenology under order constraints
+7A8A66FF	An ANN-based multilevel classification approach using decomposed input space for transient stability assessment
+6C75BE3E	Low cost test vector compression/decompression scheme for circuits with a reconfigurable serial multiplier
+77958EB5	ACTIVE LEARNING TO DEFEND POISONING ATTACK AGAINST SEMI-SUPERVISED INTRUSION DETECTION CLASSIFIER
+5DCA01AB	German Industry and Global Enterprise: The Power of Synthesis (1900–1925)
+8380A328	Outlier/Noise-Robust Partition of Unity Implicit Surface Reconstruction
+7DAB7C85	Learning with Low-Quality Data: Multi-View Semi-Supervised Learning with Missing Views
+6987D47F	Performance Evaluation of Constraints in Graph-Based Semi-supervised Clustering
+7EFF44F0	Sparse Representation Based Face Recognition with Limited Labeled Samples
+05B844D7	ADAPTING KERNEL-BASED METHODS TO SEMI-SUPERVISED LEARNING: FROM MULTI-CLASS SVM TO SPECTRAL ANALYSIS
+7DBB0BD0	Semi-supervised Learning of Text Classification on Bacterial Protein-Protein Interaction Documents
+5C5DF108	Semi-supervised learning for image retrieval using support vector machines
+77CD48C3	Leveraging web 2.0 data for scalable semi-supervised learning of domain-specific sentiment lexicons
+0C45A85B	Communications and Control for Enhanced Autonomy in Underwater Vehicles for Deep Oceanographic Research
+7FC415EE	Scene Segmentation and Categorization Using NCuts
+635F25D0	Graph Cut based Panoramic 3D Modeling and Ground Truth Comparison with a Mobile Platform - The Wagele -
+77C7DFA4	Cooperative controls with intermittent communication
+7B8F9857	LOCALITY AND GLOBALITY DISCRIMINANT FEATURE AND ITS APPLICATION IN HYPERSPECTRAL IMAGE CLASSIFICATION
+0622ABF1	Video editing for repetition on structured flows
+77ADAE0A	Out of samples extensions for SC-LLE, new nonlinear dimensionality reduction algorithm
+5EB08D07	Automatic iceball segmentation with adapted shape priors for MRI‐guided cryoablation
+770E1282	Improving fuzzy clustering of biological data by metric learning with side information
+7E72A2DC	Improving letter-to-sound conversion performance with automatically generated new words
+0E5FF775	Motion Deblurring: Multi-sensor fusion for motion deblurring
+7B6E8B75	Object contour detection in remote sensing image
+58CAD94D	LA CONDENA AL INFRAMUNDO, EN A PUERTA CERRADA
+58896F28	Image retrieval using semi-supervised learning
+77142279	Free-viewpoint image generation from a video captured by a handheld camera
+66CF8D32	Mathematical methods in electrical engineering: Functions of a complex variable
+599E9766	¿Somos los únicos animales racionales?
+787B449B	Ranking with auxiliary data
+00C455EF	Research Paper: Enhancing Text Categorization with Semantic-enriched Representation and Training Dat
+7966752C	Foreground Object Extraction Based on Interactive Color Saliency Map
+0E15DD7F	Anordning för avlägsning av en ändförslutning
+7F2157BD	"GrabCut": interactive foreground extraction using iterated graph cuts
+78233DDF	Semi-supervised Machine Learning Algorithm in Near Infrared Spectral Calibration: A Case Study to Determine Cetane Number and Total Aromatics of Diesel Fuels
+7B0236AA	A novel, fast, and complete 3D segmentation of vertebral bones
+80E756A3	Minimum initiation interval of multi-module recurrent signal processing algorithm realization with fixed communication delay
+7B7775C1	Solving minimum K‐cardinality cut problems in planar graphs
+7513F4D6	3D medical image segmentation technique
+7DFC3EF0	On the relation of max-flow to min-cut for generalized networks
+7CB3B24C	Synthetic aperture radar image classification via mixture approaches
+5E209132	Continuous global optimization in surface reconstruction from an oriented point cloud
+7F7DA52A	Towards Semi-supervised Transcription of Handwritten Historical Weather Reports
+85935BAD	Semi-supervised discriminant analysis method for face recognition
+783BF5AD	Research on Improving Strategies of PoC Session Setup Delay Based on TD-SCDMA Network
+7B446961	Data acquisition from cemetery headstones
+7E0DB5D2	Subband filtering for time and frequency analysis of mixed-signal circuit testing
+63DD6ACF	LA SEMANA DE BERTOLT BRECHT
+033CE661	Generalising Lexical Translation Strategies for MT Using Comparable Corpora
+5A72A947	Structural Proof Theory: FROM NATURAL DEDUCTION TO SEQUENT CALCULUS
+7D64A176	Generating Cut Conjunctions in Graphs and Related Problems
+77F7B554	Approximating the Minimal Sensor Selection for Supervisory Control
+7C10D4AB	The Application of Kernel Methods for Image Classification
+77227809	Semi-Supervised Image Classification in Likelihood Space
+23227442	BC may train fewer midwives without more funding | The Hook
+2D9CAAFE	Deep Convolutional Neural Networkを用いたびまん性肺疾患画像の特徴解析 (MEとバイオサイバネティックス)
+7ED1547D	An Efficient Classification Approach for the XML Documents
+79C71073	A Novel Technique for Name Identification from Homeopathy Diagnosis Discussion Forum
+7F0755C2	Manifold regularization for structured outputs via the joint kernel
+5BA8DBB7	A Simple Topology Preserving Max-Flow Algorithm for Graph Cut Based Image Segmentation
+79A4A4A8	Confidence Based Hierarchical Online Ensemble Visual Tracking
+33EC07E8	Semi-supervised learning based edge-preserving background estimation for small target detection
+76F29E33	Graph Regularized Semi-Supervised Concept Factorization
+754992B2	Semi-Supervised Learning
+77162EC4	Multiresolution Image Fusion: Use of Compressive Sensing and Graph Cuts
+767B279E	Multiscale graph cut based classification of urban hyperspectral imagery
+0702E67B	Training, Adaptation, and Semi-Supervised Learning in a Real-World OCR System
+75C84BC2	An Approximation Algorithm for Max k-Uncut with Capacity Constraints
+7FE61375	Radius-Distance Based Semi-Supervised Algorithm
+733CA855	Identifying composite crosscutting concerns through semi‐supervised learning
+745848CA	EL TEATRO UNIVERSITARIO VUELVE A CASA DEL LAGO
+79A5CF4F	Combining latent semantic learning and reduced hypergraph learning for semi-supervised image categorization
+77213C34	Single-image super-resolution based on semi-supervised learning
+784B7CAD	SEMI-SUPERVISED CLASSIFICATION USING BRIDGING
+806B814A	An efficient test pattern generator for high fault coverage in built-in-self-test applications
+80ADC5EB	Iterative double clustering for unsupervised and semi-supervised learning
+7C6B53AF	On network coding in wireless ad-hoc networks
+760B6C30	A point cloud based pipeline for depth reconstruction from autostereoscopic sets
+587C8E86	Graph partition strategies for generalized mean field inference
+7F0F0953	The arithmetic of cuts in models of arithmetic
+597B03EF	Learning from Labeled and Unlabeled Documents: A Comparative Study on Semi-Supervised Text Classification
+5AF83929	Image segmentation using sparse logistic regression with spatial prior
+77B95109	Multi-Modality Transfer Based on Multi-Graph Optimization for Domain Adaptive Video Concept Annotation
+7E77461D	A weighted curve fitting method for result merging in federated search
+5DE39F1D	High pressure water jet mining machine
+0DC9A7F8	粘土アニメの利用による「マルチメディア制作」の授業展開
+5AE01481	UMA PRÁTICA DE EDUCAÇÃO DE ADULTOS NO MOVIMENTO SINDICAL: O PROGRAMA NACIONAL DE FORMAÇÃO EM NEGOCIAÇÃO COLETIVA DA CUT (1991-1994)
+07D828A4	Event Detection and Visualization for Social Text Streams
+5B08D97F	Wpływy stanu kwalifikacyjnego stali na efekty cięcia strugą wodno-ścierną
+7B9CC600	A sketching interface for feature curve recovery of free-form surfaces
+7C74FDA0	A novel fast liver segmentation method with graph cuts
+77A99785	Upper limits of separation factors of binary-mixture separating element as a function of cut and feed mole fraction.
+6939E3B0	Automated plane detection and extraction from airborne laser scanning data of dense urban areas
+5F2236D0	Semi-supervised self-training for sentence subjectivity classification
+7E9A4F70	Web image interpretation: semi-supervised mining annotated words
+0C1577BD	Statistical Cryptography using a Fisher-Schr\
+7548660B	On the signless Laplacian spectral radius of graphs with cut vertices
+5DB01F03	A graph cut based adaptive structured light approach for real-time range acquisition
+5BE12B25	Text classification on a grid environment
+785BA242	Temporal Partitioning Data Flow Graphs for Dynamically Reconfigurable Computing
+187DBFB4	Efficient large-context dependency parsing and correction with distributional lexical resources
+7CD88D1A	VIH et risques pour les personnels de soins
+7E98A0A0	Mobility tracking by interactive graph-cut segmentation with Bi-elliptical shape prior
+7A387FDF	Speed Enhanced Mixed Signal Design-for-Test Using Hybrid Fault Based Testing Algorithms
+0937FEF3	The reliability of the first generation infrared refractometers
+84EE8901	KNN-AdaBoost 모델과 AdaBoost-SVM 모델을 통한 준교사학습 비교
+21E67D36	A semi-supervised text clustering algorithm based on pairwise constraints
+76A235FA	Video object cosegmentation
+58CC58EE	Multidimensional search space in testing and diagnosis of analogue electronic circuits
+7CE3C786	A selective incremental approach for transductive nearest neighbor classification
+82D5AE67	준지도학습 방법을 이용한 한국어 서답형 문항 반자동 채점
+75FB4A1A	Regulation of the Drosophila distal antennal determinant spineless
+7A429B6D	Hybrid generative-discriminative classification using posterior divergence
+7F1B8360	A novel semi-feature selection method based on hybrid feature selection mechanism
+5EC429CF	A treinta años del Taller de Investigación Teatral. El Teatro y el hombre
+8078CAFB	GRAPH CUT BASED ACTIVE CONTOUR FOR AUTOMATED CELLULAR IMAGE SEGMENTATION IN HIGH THROUGHPUT RNA INTERFACE (RNAi) SCREENING
+7A9F1322	Evaluation of semi-supervised learning for classification of protein crystallization imagery
+849B8A16	spa: A Semi-Supervised R Package for Semi-Parametric Graph-Based Estimation
+7F804D78	Segmentation of Fingerprint Images Using Minimal Graph Cuts
+8497A592	Вимірювання просторового положення та орієнтація в просторі конструкцій кварцових резонаторів
+762C0293	Interactive object segmentation in video by fitting splines to graph cuts
+7B4579C0	A Multimodal and Multilevel Ranking Framework for Content-Based Video Retrieval
+62D04EC1	COMMUNICATIONS OF THE MOSCOW MATHEMATICAL SOCIETY: Minimal graph cuts on network subgraphs
+857CD557	On efficient vaccine distribution strategy to suppress pandemic using social relation
+8619C84B	Segmentação de imagens digitais combinando watershed e corte normalizado em grafos
+78DB7586	A homography-based inpainting algorithm for effective depth-image-based rendering
+813302BA	Analysis techniques for electrical and mechanical power systems
+58E10DA1	Learning Low-Density Separators
+763DD803	The septum as origin of a lordosis-inhibiting influence in female rats: Effect of neural transection
+777D41DA	Classification of Log Files with Limited Labeled Data
+59D47EF1	An improved interactive color image segmentation using region-based graph cuts
+79ECADD0	Graph cutting algorithms for distributed applications partitioning
+611C5854	Autonomy synth stinger
+7DA04D57	Learning Dynamic Event Descriptions in Image Sequences
+2FB88202	Effective Bilingual Constraints for Semi-supervised Learning of Named Entity Recognizers
+7F2DAD09	HySAD: a semi-supervised hybrid shilling attack detector for trustworthy product recommendation
+7BBA0173	Accuracy Improvement of Graph-Cut Image Segmentation by Using Watershed
+5A476942	Video shot boundary detection: A review
+5E21635B	Graph Laplacians and their convergence on random neighborhood graphs
+766DEEFF	Segmentation of ophthalmic optical coherence tomography images using graph cuts
+76AF8930	Improved 3D video synthesis combining graph cuts and chroma key technology
+3E304658	Estudio histórico comparado del enraizamiento sindical del Partido dos Trabalhadores (Brasil) y el Partido Justicialista (Argentina) en los albores del siglo XXI
+7D4E160D	Self-Tuning Semi-Supervised Spectral Clustering
+8011A464	Semi-supervised nonlinear dimensionality reduction with pairwise constraints
+7F031797	Networked Life: What's inside the cloud of iCloud?
+78F49D61	Nutrient profiles in retail cuts of bison meat
+8426F186	ALUMNOS DEL CUT PRODUCEN CALLEJÓN NO ME OLVIDES
+7DA93657	Similarity-based regularization for semi-supervised learning for handwritten digit recognition
+7F259386	Design and analysis of the WCCI 2010 active learning challenge
+7F96F99E	Retinal vessel extraction by combining radial symmetry transform and iterated graph cuts
+5A3913A2	The Effect of Unlabeled Data on Generative Classifiers, With Application to Model Selection
+80799A66	Cross-training: learning probabilistic mappings between topics
+5FD33733	Open Problems in Efficient Semi-supervised PAC Learning
+75CE43E8	SPOT demo: multi-entity device-free WLAN localization
+7831C44D	Propagating interactive segmentation of a single 3D example to similar images: An evaluation study using MR images of the prostate
+78BE4763	Automatic IVUS media-adventitia border extraction using double interface graph cut segmentation
+78511A10	Three dimensional reconstruction of neuron morphology from confocal microscopy images
+76AFDD49	Image quantization under spatial smoothness constraints
+30C46D66	Graph Algorithms: Flow in Networks
+0B042708	그래프 컷과 신뢰 확산을 이용한 스테레오 정합 분석
+80CCBE2C	A improved silhouette tracking approach integrating particle filter with graph cuts
+70622D97	Automatic Query Expansion Using Data Manifold
+7E31C3B0	Stereo Matching using Reduced-Graph Cuts
+7EE30B8F	Combining statistics and semantics via ensemble model for document clustering
+7AAC5852	Optimal reverse prediction: a unified perspective on supervised, unsupervised and semi-supervised learning
+775D24C1	Ordinal semi-supervised k-nearest neighbor algorithm for small training datasets
+7F2D3850	Fast and robust detection of near-duplicates in web video database
+600AE31C	Lo que sea de cada quien. Ascención y caída de Héctor Azar
+7F88BE3F	Parallel Imaging Problem
+7F29E5B4	Contributions to Unsupervised and Semi-Supervised Learning
+7FE03100	Semi-Supervised Clustering Algorithm for Multi-Density and Complex Shape Dataset
+7FB3C1CD	Sparse Markov chain-based semi-supervised multi-instance multi-label method for protein function prediction
+7E386973	Image segmentation with background correction using a multiplicative smoothing-spline model
+809D1D33	Semi-supervised Methods for Biomedical Hedge Classification
+808BCD83	Consistent Mesh Segmentation Using Protrusion Function and Graph Cut
+62EC400C	SE DIPLOMAN ALUMNOS DEL CUT CON UNA OBRA DE BRECHT
+812FF3E2	Unsupervised and semi-supervised learning via ℓ 1 -norm graph
+57475B1F	Algorithmic Aspects of Graph Connectivity: Introduction
+85C76CC2	Steerable semi-automatic segmentation of textured images
+5C85D22F	Elimination of Useless Neurons in Incremental Learnable Self-Organizing Map
+0A319339	Mathematical Explorations with MATLAB: Permutations
+811469E8	Margin based transductive graph cuts using linear programming
+789FB657	An approach to automated decomposition of volumetric mesh
+760B71B7	Scalable real-time object recognition and segmentation via cascaded, discriminative Markov random fields
+78DE99FF	A graph based transductive ranking algorithm
+33BC3369	テクスチャの連続性を考慮した視点依存テクスチャマッピングによる自由視点画像生成 (パターン認識・メディア理解)
+449BE749	On cerebrospinal fluid segmentation from CT brain scans using interactive graph cuts
+3D7D02AA	Algorytm znajdowania jedno- i dwuelementowych minimalnych przekrojów w grafie niezorientowanym
+80A64AA8	HIV-1 Drug Resistance Prediction and Therapy Optimization: A Case Study for the Application of Classification and Clustering Methods
+7768DADE	Using graph cut segmentation for food calorie measurement
+0043AF0D	3D Surface Reconstruction via Graph Cuts
+7F6405BB	Improving generalization for polyphonic piano transcription
+7CE840DF	Segmentation and Classification of Polarimetric SAR Data Using Spectral Graph Partitioning
+7676767D	Improving Markov Logic Network learning using unlabeled data
+7D46F7BE	Efficient Kernel Learning from Constraints and Unlabeled Data
+5A2F7C28	葉画像を用いた樹木の認識(マルチメディア通信/システム,ライフログ活用技術,IP放送/映像伝送,メディアセキュリティ,一般)
+8558F7C7	LLEGA A MÉXICO LOS ENDEBLES, DE MICHEL-MARC BOUCHARD; ACTORES UNIVERSITARIOS EN EL ELENCO
+8193992B	Synthesis of maximum margin and multiview learning using unlabeled data
+761F76F2	Region disparity estimation and object segmentation based on graph cut and combination of multiple features
+0847CFD0	An Experimental Study of EM-based Algorithms for Semi-Supervised Learning in Audio Classifi-cation
+055B7215	Speaker Identification Algorithm of Semi-Supervised Learning Mechanism
+5E2894BF	Automated segmentation of visceral and subcutaneous (deep and superficial) adipose tissues in normal and overweight men
+7D2A3E07	Mining ontological knowledge using Nyaya framework
+7D08C222	A New E-mail Agent Architecture Based on Semi-supervised Bayesian Networks
+7F9A265A	Generation of see-through baseball movie from multi-camera views
+79E70B60	SemiBoost-based Arabic character recognition method
+7643BF95	Computed Data-Geometry Based Supervised and Semi-supervised Learning in High Dimensional Data
+5ECEE249	Dramatic stage lights ON/OFF
+11BA59BE	Semantic Label Sharing for Semi-Supervised learning with large datasets
+5D3EC018	GODAC: Graph-cut based outlier detection using ant colony optimization algorithm
+7E897FFC	Using a learning mechanism in matchmaking process of agents' negotiation in multi-agent systems
+800C2541	Semi-supervised Trajectory Learning Using a Multi-Scale Key Point Based Trajectory Representation
+7D20B43F	The Random Cluster Model for robust geometric fitting
+8282045B	ALUMNOS DEL CUT ESTRENAN LA COCINA, DE ARNOLD WESKER
+7607A90F	Graph-cut-based 3D model segmentation for articulated object reconstruction
+5ECE08E0	Surrogate Learning - An Approach for Semi-Supervised Classification
+7FAADE7D	Object Recognition with Partially Labeled Examples
+7F814478	CUT: 45 AÑOS DE MARCAR EL RUMBO DEL TEATRO EN MÉXICO
+7911FD4B	Towards Model-Enhanced Real-Time Ultrasound Guided Cardiac Interventions
+86026ECA	Filtrage conjoint de la phase interférométrique et de l’amplitude en imagerie radar par champs de Markov et coupes minimales
+04B74D0D	Inférence de réseaux d'interaction protéine-protéine par apprentissage statistique
+7BA3DEDC	Stereo vision and segmentation
+7E4D2D2B	Graph cut segmentation of sparsely sampled images with application to InSAR-measured changes in elevation
+7BA5192A	Blast Performance in Small Tunnels - A Critical Evaluation in Underground Metal Mines
+757C25A8	Effect of age and cut on the nutritional content of South African beef
+7F7034C9	On separable self-complementary graphs
+5C8B0C38	Submodular approximation: sampling-based algorithms and lower bounds
+7B804190	A System of Systems Service Design for Social Media Analytics
+096B4F78	Information Retrieval Using Label Propagation Based Ranking
+75DF2E2C	The Coign automatic distributed partitioning system
+7CD5EA4A	Tibetan Language Speech Recognition Model Based on Active Learning and Semi-Supervised Learning
+72B8D530	Towards robust room structure segmentation in Manhattan-like environments from dense 2.5D data
+7D6CE93A	A Semi-Supervised Algorithm for Auto-Annotation and Unknown Structures Discovery in Satellite Image Databases
+00553EA5	Automatic Foreground Initialization for Binary Image Segmentation
+17875FDD	ステレオ画像間の視差を考慮した建物壁面の抽出 (オーディオビジュアル複合情報処理(AVM))
+78923185	Semi-supervised classification on “warm or cool” color in tongue images
+5BCF4614	Constrained Coclustering for Textual Documents
+693FE3FF	Modified test generation methods for synchronous sequential circuits
+7CEF9BFF	A guided tour of the Coign automatic distributed partitioning system
+3DD6620B	Control Techniques for Complex Networks: Routing and Resource Pooling
+78C7B95E	Using Semi-Supervised Learning to Build Bayesian Network for Personal Preference Modeling in Home Environment
+26EB293B	Amazing arp STINGER
+13CABC98	Complex Variables: Analytic Functions and Integration
+80B6C00A	Semi-supervised learning based Chinese dialect identification
+7FA9F2CE	Real-time range acquisition by adaptive structured light
+77335E30	Domain-constrained semi-supervised mining of tracking models in sensor networks
+7B1D2BEF	Audio data classification by means of new algorithms
+80E9E5BD	Grounds maintenance - Allerdale Borough Council
+78B5DFD7	Solution of very Singular N/D Equations—An Approach to Nonrenormalizable Field Theory
+84A40798	Statistics and Econometric Models: Statistical Information: Classical Approach
+762A29B4	One-sided object cutout using principal-channels
+07FE60C8	Graph Cut Based Active Contours and Statistical Shape Priors
+77F631FC	Semi-supervised bi-directional dimensionality reduction for face recognition
+79871148	Stereo-motion estimation for visual object tracking
+7F7276D7	Multi-view learning for high dimensional data classification
+7D36E205	Tubularity tracking based automatic road detection from sattelite images
+6B4DE3EE	Structural Proof Theory: BACK TO NATURAL DEDUCTION
+0A4154BB	Research on Stage Classification of Flight Parameter Based on PTSVM
+7DD3BFF5	Semi-supervised Laplacianfaces from Pairwise Constraints for Face Recognition
+08227737	A semi-supervised clustering via orthogonal projection
+7FAEECC2	Voice Activity Detection Based on an Unsupervised Learning Framework
+25CD4F88	Semi-supervised Extraction of Audio-Visual Sources
+79770383	k‐Partition‐based facets of the network design problem
+39A7F7C7	German Industry and Global Enterprise: BASF Since Its Refounding in 1952
+770C05F2	Approximate tree matching and shape similarity
+5DDB70EE	RECONOCEN PRODUCCIONES UNIVERSITARIAS EN LA 57 ENTREGA DEL ARIEL. LO MEJOR DEL CINE MEXICANO
+7F0C0429	Semi-supervised learning in a complex arm motor control task
+793B08DB	Machine learning for information retrieval
+7C4FB11B	Research on the fuzzy effect equilibrium value measurement method
+6B1C8E7B	Microfabricated instrument for tissue biopsy and analysis
+7F2A4B3A	LA CUADRATURA DEL CIRCULO. Reflexiones sobre el espacio en el proceso fotográfico
+80BBED3D	A Network-Based Approach for Protein Functions Prediction Using Locally Linear Embedding
+791CAC81	Breaking Tor Anonymity with Game Theory and Data Mining
+7114FE6B	Name Your Fetish, DVD - On stock - Homoware - The largest online gay shop in Scandinavia
+6594DA05	A graph Laplacian based approach to semi-supervised feature
+7E1375AC	CO-LDA: A Semi-supervised Approach to Audio-Visual Person Recognition
+770947F6	Analysis of power supply loss accidents in UF6 centrifuge cascade with side flows.
+0A7E4251	Segmentation process for SAR imagery based on graph cuts algorithm
+7727033C	User assisted stereo image retargetting
+76DAC3C9	Mathematical Foundations and Biomechanics of the Digestive System: Soft shells
+586CE630	Reachability in Contextual Nets
+789E094F	Robust Unsupervised and Semisupervised Bounded C-Support Vector Machines
+59A330F4	Acoustic stinger BRIGHT
+75B892B6	The Research of Video Object Segmentation Based on Shape Confidence
+7988615A	Approaches to Comparing Cut-Set Enumeration Algorithms
+3AFE40B3	• (,)-CUT OF INTUITIONISTIC FUZZY BI-IDEALS OF NEAR RINGS
+7D4DC313	An Effective BCI Speller Based on Semi-supervised Learning
+765F891D	A Semi-supervised Approach to Estimate the Number of Clusters per Class
+7B64282A	Salient object segmentation based on graph cut
+78674A63	Augmenting graph cut with TV-L 1 approach for robust stereo matching
+766AE4C7	Design of GLFSR based test processor chip
+7E6E1D67	Guessing parts-of-speech of unknown words using global information
+7536346C	Elucidating the Relations among Seeded Image Segmentation Methods and their Possible Extensions
+119CAAD5	Creating a Composite Virtual Birds-eye View at a Vehicle Intersection by Synthesizing Camera Images from Multiple Vehicles
+75E452B2	Survey of Low Power Testing of VLSI Circuits
+7B875053	ROSE: retail outlet site evaluation by learning with both sample and feature preference
+26580E1C	Keynote Address: The Final Cut- Tampering with Direct Evidence from Wearable Computers
+7C4BCCCD	Multi-view Reconstruction Using Band Graph-Cuts: Multi-view Reconstruction Using Band Graph-Cuts
+7B5A44C6	Change detection for remote sensing images with graph cuts
+09BA2227	Cloud Models: Their Construction and Employment in Automatic MRI Segmentation of the Brain
+7A057F72	Inhibitory Pathway for Female Sexual Behavior in Male Rat Brain : Effect of Medial Forebrain Bundle (MFB) Cuts
+0FAEEE16	Human Tracking and Body Silhouette Extraction System for Humanoid Robot
+5C9104D4	On Semi-supervised Learning
+3D5F91C4	Name Your Fetish, DVD - På lager - Homoware - Skandinaviens största gayshop online
+5E63C6DD	A decomposition and multistage optimization approach applied to the optimization of water distribution systems with multiple supply sources
+788E0272	Seamless stitching of stereo images for generating infinite panoramas
+7CCC4E26	Design for target classifier based on semi-supervised learning
+25DAA32D	Moving object detection based on incremental learning low rank representation and spatial constraint
+7719E63E	Human head-shoulder segmentation
+788786E0	Active Learning and Semi-Supervised Learning in Tibetan Language Speech Recognition
+7AE96ED6	Semi-supervised learning with lexical knowledge for opinion mining
+75A0CCA9	Dual form back propagation on the EM algorithm
+8053DBB8	Adaptive Graph Cut Based Binarization of Video Text Images
+78AD2807	Lack of a significant effect of deletion of the tachykinin neurokinin-1 receptor on wound healing in mouse skin
+804E1547	Cut-Sets in Zero-Divisor Graphs of Finite Commutative Rings
+7B8F3635	Discriminative Basis Selection Using Non-negative Matrix Factorization
+791A6CD4	The Cauchy–Schwarz divergence and Parzen windowing: Connections to graph theory and Mercer kernels
+5DB5A788	Label propagation via bootstrapped support vectors for semantic relation extraction between named entities
+7916A622	A novel semi-supervised feature extraction algorithm
+7BBF5801	Nonlinear dimensionality reduction of data manifolds with essential loops
+094A58F7	Μέθοδοι εξόρυξης γνώσης σε συλλογές περιεχομένου μεγάλης κλίμακας από κοινωνικά δίκτυα
+7E18E4A8	Medical Image Segmentation by Combining Graph Cuts and Oriented Active Appearance Models
+7CEAA63D	Low power Illinois scan architecture for simultaneous power and test data volume reduction
+5B726921	Attitude electronic short
+2478C452	Unsupervised Seed Selection and Stop List Construction for Bootstrapping: a Graph-based Approach
+7E7CB858	Improving the bandwidth of air coupled capacitive ultrasonic transducers using selective networks
+76DF56A0	Bayesian Classification of Hyperspectral Imagery Based on Probabilistic Sparse Representation and Markov Random Field
+79995FD8	Interactive graph cut method based on improved Gabor features for image segmentation
+8072621A	A new method for ranking fuzzy numbers based on area of a triangle
+8136EBDA	Mission Reliability Evaluation of Development System Based on BDD Method
+05D82D5D	Aprendizaje Transductivo para la Clasificaci�n de Im�genes M�dicas de Radiolog�a
+78F7B9FC	Height measurements of moving people based on single camera
+6C7080D6	Circular Hough Transform and Local Circularity Measure for Weight Estimation of a Graph-Cut based Wood Stack Measurement
+85B79920	Integrative Machine Learning augmentation
+78F13D20	Online semi-supervised growing neural gas
+0951A3E8	Oine/Realtime Trac Classication Using Semi-Supervised Learning
+75535E63	Special edition on semi-supervised learning for visual content analysis and understanding
+7CCAF6D3	A robust moving shadow detection algorithm based on semi-supervised hierarchical mixture of MLP-experts
+7929BC1F	Image Segmentation Based on Superpixels and Saliency
+5E608416	A novel voicing cut-off determination for low bit-rate harmonic speech coding
+76A84103	A Practical Approach for Super-Resolution using Photometric cue and Graph Cuts
+10549509	Non-Parametric Learning for Monocular Visual Odometry
+43C41CE1	Simplex Partitioning via Exponential Clocks and the Multiway Cut Problem [Extended Abstract]
+7E96C38C	Semi-supervised Learning for Photometric Supernova Classification
+759B622D	A new way of solid dosage form samples preparation for SEM and FTIR using microtome
+79A2FD56	One-Shot Scanning Using a Color Stripe Pattern
+755FEFD8	Text mining for product attribute extraction
+0F464B8A	Wpływ kąta zaostrzenia noża na przebieg cięcia wybranych warzyw korzeniowych
+7BE28AD3	Spam Filtering: an Active Learning Approach using Incremental Clustering
+7C84B973	Research of an improved dense matching algorithm based on graph cuts
+756F8C99	Multimodal Learning in Loosely-Organized Web Images
+7A03E124	Implementation of an interactive liver surgery planning system
+64AFC785	Object Identification with Attribute-mediated Dependences
+00F02E15	Classification of multiple observations by semi-supervised learning
+84CA6623	Symmetry Shape Prior for Object Segmentation
+7908D137	An enhanced EM method of semi-supervised classification based on Naive Bayesian
+0771000E	Multi-relational data semi-supervised K-means clustering algorithm
+014B1C5E	Semi-Supervised Learning of Geographical References within Text
+7E4195CD	Semi-Supervised Classification on Evolutionary Data
+80C25A62	Reconstructing Open Surfaces via Graph-Cuts
+5D59CCA8	Core issues in graph based perceptual organization: Spectral cut measures, learning
+7AAA9B37	Semi-Supervised Multiple Feature Analysis for Action Recognition
+7A8B32D2	A Image Segmentation Scheme
+0C14822F	Introduction to Information Retrieval: Support vector machines and machine learning on documents
+812988D1	BREVIARIO. EL FESTEJO
+5EF1C3DA	葉画像を用いた樹木の認識(マルチメディア通信/システム,ライフログ活用技術,IP放送/映像伝送,メディアセキュリティ,一般)
+1627B3DC	Early Stopping Heuristics in Pool-Based Incremental Active Learning for Least-Squares Probabilistic Classifier (情報論的学習理論と機械学習)
+37A7DBC7	Predicted progress in improvement of carcass muscling and cuts with indirect selection based on backfat thickness and loin eye area
+7D30804A	Semi-supervised Learning for Anomalous Trajectory Detection
+7D1D04BF	A Surface Reconstruction Approach with a Rotated Camera
+7EF52D94	Augmenting Historical Manuscripts with Automatic Hyperlinks
+39BFFD67	Unsupervised and Semi-Supervised Extraction of Fuzzy Clusters in Weighted Graphs
+13EE4CAB	Particle Size Distributions in Dust from Hunter Valley Open-Cut Mines
+2711B086	オプティカルフローとグラフカットに基づく架空送電線領域検出 (知覚情報 次世代産業システム合同研究会・画像処理応用および画像処理一般)
+7807D05A	Semi-supervised Discriminant Hashing
+7A93A421	A graph-cut-based method for spatio-temporal segmentation of fire from satellite observations
+01ACBB54	Selective Sampling + Semi-supervised Learning = Robust Multi-View Learning
+8369B39E	준지도 학습 기반의 자동 문서 범주화
+7C80E472	COMBINING GRAPH-CUT TECHNIQUE AND ANATOMICAL KNOWLEDGE FOR AUTOMATIC SEGMENTATION OF LUNGS AFFECTED BY DIFFUSE PARENCHYMAL DISEASE IN HRCT IMAGES
+7C4A353F	Graph-cut methods for grain boundary segmentation
+7F44E639	Semi-supervised learning of probabilistic models for ECG segmentation
+761BB69F	Histogram of confidences for person detection
+75FCC0FB	Analysis of abdominal fat tissue images acquired with continuously moving table MRI
+0E7631CE	Rapid and brief communication: Extending the relevant component analysis algorithm for metric learning using both positive and negative equivalence constraints
+7A88D9AB	Markerless video analysis for movement quantification in pediatric epilepsy monitoring
+5BECD170	IMPST :A New Interactive Self-Training Approach to Segmentation Suspicious Lesions in Breast MRI
+5E79DAA4	An Efficient Parallel Algorithm for Graph-Based Image Segmentation
+7CDBC5EB	Fast and efficient inter CU decision for high efficiency video coding
+76B5ED17	A New Image Thresholding Method Based on Graph Cuts
+816FBD21	A Probabilistic Approach for Optimizing Spectral Clustering
+7620D47F	Research on multi-classification algorithm for Semi-supervised Support Vector Data Description
+0445EFB2	Asymmetric Bayesian Learning for Image Retrieval with Relevance Feedback
+5E04382F	Ship Resistance and Propulsion: Measurement of Resistance Components
+2F6CAC13	Graph Algorithms: Trees
+5C40149F	The Heads of Religious Houses: THE AUGUSTINIAN CANONS
+7B5431B1	Classifying the bugs using multi-class semi supervised support vector machine
+7B684706	Salient object cutout using Google images
+5F65B615	Clotario Blest en la CUT : por una nueva cultura sindical y política (1953 - 1961)
+7D34531F	Learning to detect salient region of image under weak supervision
+812BCC28	Non-rigid biomedical image registration using graph cuts with a novel data term
+773739E6	A graph based approach to hierarchical image over-segmentation
+5E3F1140	Criterio de triturabilidad para la proyección de los cueles rectos triturantes con taladros de compensación
+6966A9BF	GrabCut을 이용한 IR 영상 분할
+800F1D6B	Video scene analysis in 3D wavelet transform domain
+73988E50	Comparative Evaluation of Semi-supervised Geodesic GTM
+5E8BA20A	Iterative Constructions and Private Data Release
+7D220620	Product Feature Grouping for Opinion Mining
+79115A68	A multi-view approach to semi-supervised document classification with incremental Naive Bayes
+777502EE	Cell lineage analysis of the Drosophila peripheral nervous system
+78D03B1B	A high accuracy method for semi-supervised information extraction
+809B411D	Dynamic organization of audiovisual database using a user-defined similarity measure based on low-level features
+7602DE5B	Multi-label dimensionality reduction based on semi-supervised discriminant analysis
+7A0D13CC	Text-Color-Independent Binarization for Degraded Document Image Based on MAP-MRF Approach
+5F6B1B72	Travel program cut for people with disabilities | The Hook
+7838B4A2	Hyperspectral image classification using spectral histograms and semi-supervised learning
+5FB1BDF4	Predicting Classification Decisions with Data Point Based Meta-learning
+7C439FBE	A Simple Algorithm for the Planar Multiway Cut Problem
+790CE332	Live Cell Segmentation in Fluorescence Microscopy via Graph Cut
+6C4B001F	A product named entity normalization method based on entity relations
+7DDD159C	Mean Shift 분석을 이용한 그래프 컷 기반의 자동 칼라 영상 분할
+23875221	Unsupervised and Semi-Supervised Extraction of Fuzzy Clusters in Similarity Data (ユビキタスメディアの将来展望)
+75D01074	Multi-label propagation for coherent video segmentation and artistic stylization
+77493E8A	Extraction of gene regulatory networks from biological literature
+7C2533F8	Semi-supervised learning for scalable and robust visual search
+0A3D60AE	Graph cut based image segmentation
+6CC7B96C	ROMEO Y JULIETA Y LA UNIVERSALIDAD DEL AMOR. CASA DEL LAGO
+7E4C4641	Enhancing SVM Active Learning for Image Retrieval Using Semi-supervised Bias-Ensemble
+590A25D4	Automatic passive recovery of 3D from images and video
+79C6F2D0	Object segmentation from sparse views of wide-baseline images
+5A6D794C	Learning, Information Extraction and the Web
+5875B399	Image segmentation by cooperative optimization
+7B0523D6	Efeito de injúrias mecânicas na qualidade de abobrinhas armazenadas em condição ambiente
+7668FC29	Linear Regression Method for Review Aspect Rating Prediction
+7F1A74EF	Fast localize the bioluminescent source via graph cuts
+76A72799	On the linear relaxation of the 2-node connected subgraph polytope
+7E20E7D7	ICA Based Semi-supervised Learning Algorithm for BCI Systems
+7B0D99BB	Inter-frame error concealment using graph cut technique for video transmission
+85C7573E	Semi-supervised learning by edge domination in complex networks
+5D2B69B6	Bansuri flute stinger INDIA
+7A9F79F4	Low-level processing of PolSAR images with binary partition trees
+06A49491	Control chart pattern recognition using semi-supervised learning
+5DE98594	Likelihood-based semi-supervised model selection with applications to speech processing
+7E46D2B5	Video object cut and paste
+6CDCEA56	Improved MinMax cut graph clustering with nonnegative relaxation
+0A0065B4	Business Politics and the State in Twentieth-Century Latin America: From Corporatism to Reorganized Disarticulation in Brazil
+7F655993	Automatic and Unsupervised Methods in Natural Language Processing
+7E0880CF	Semi-supervised learning for weighted LS-SVM
+121FCC2F	Insulate, Shade and Weatherproof Your House
+5C37394A	The Classification Method Study of Two-Dimension Iteration Transductive Support Vector Machine
+81026FF0	Semi-supervised Chinese contextual polarity classification with automatic feature selection
+7C4064F6	A Seed-Based Segmentation Method for Scene Text Extraction
+00DFB571	The effect of modeling errors in semi-supervised learning of mixture models: How unlabeled data can
+788DCF75	Sentiment Classification Using Supervised and Semi-Supervised Conditional Maximum Entropy Modeling
+811A4625	Data compression using mixed cascade of nonlinear logic
+7C42604A	Nonrigid Registration of CLSM Images of Physical Sections with Discontinuous Deformations
+785C7C97	Constraint-based semi-supervised dimensionality reduction with conflict detection
+849817DF	Best management practices to face degraded territories occupied by Cistus ladanifer shrublands – Portugal case study
+74C4B9E6	Score-based fusion using quality measures in a semi-supervised identity verification system
+7C0D9F30	Modeling tagged photos for automatic image annotation
+7D7B7922	Automatic behavior model selection by iterative learning and abnormality recognition
+78ABA61F	Clustering based on enhanced α-expansion move
+71D26AF7	Semi‐Supervised Learning in Inferring Mobile Device Locations
+77951AE2	A New Approach to Unsupervised Target Classification for Polarimetric SAR Images
+77F50A9B	Inverse constrained bottleneck problems under weighted l∞ norm
+78AEA2FB	Multiresolution texture models for brain tumor segmentation in MRI
+8301FE48	ReLISH: Reliable Label Inference via Smoothness Hypothesis
+7CA93F27	Data Driven Approach for Language Model Adaptation using Stepwise Relative Entropy Minimization
+70DA8407	Interpreting Graph Cuts as a Max-Product Algorithm
+7E17D7CB	Face recognition at-a-distance using texture, Sparse-Stereo, and Dense-Stereo
+13214567	Studies of Meta-Expressions in Webcomics
+85EF715E	Semi-supervised learning spectral embedding with active contours model
+79822CE0	View synthesis by the parallel use of GPU and CPU
+79F00ECF	Saliency based image segmentation
+11122137	Evolving Pathways Key Themes in Evolutionary Developmental Biology: Arthropod appendages: a prime example for the evolution of morphological diversity and innovation
+32BE5F15	Scalable semi-supervised grammar induction using cross-linguistically parameterized syntactic prototypes
+76B64D80	3D model autotagging based on semi-supervised weighted metric learning
+5F30003F	Extraction of landmarks and features from virtual colon models
+77BE433B	Semi-supervised hyperspectral band selection via sparse linear regression and hypergraph models
+805EC084	Polipectomía endoscópica de colon: efectividad y seguridad de la técnica de inyectar y cortar
+7A873F94	Visualizing regression data by supervised Generative Topographic Mapping
+7618DE1D	Fracto-mechanoluminescence from ruby and Cr doped spinel in cutting, grinding and polishing processes
+7EF5E674	Online three-dimensional dendritic spines mophological classification based on semi-supervised learning
+8144385B	SHREC’08 entry: Semi-supervised learning for semantic 3D model retrieval
+788F6680	Semi-supervised Feature Importance Evaluation with Ensemble Learning
+5D7933D5	A Content-Based Image Retrieval System for Osteo-Articular Applications
+7F5904C9	Robust Image Analysis by L1-Norm Semi-supervised Learning
+8115BEA9	Boundary smoothing for mesh segmentation
+5ACA0EB2	TRABALHO E FORMAÇÃO DO TRABALHADOR NA TRAJETÓRIA DA CUT EM TEMPOS DE GLOBALIZAÇÃO
+718FFF38	무릎 자기공명영상에서 형상 사전정보 기반의 그래프 컷을 이용한 전방십자인대 분할
+5FCC9C1F	Cambio climático y distribución potencial del bosque mesófilo de montaña en el Centro de México.
+7B95407B	Context-sensitive cut, copy, and paste
+75E2189F	Functional dissection of the Hox protein Abdominal-B in Drosophila cell culture
+0BA43456	Joint channel-frequency selection for motor imagery-based BCIs using a semi-supervised SVM algorithm
+0E791889	Semi-supervised constraints preserving hashing
+836359B1	MATHEMATICAL AND NUMERICAL MODELING ALONG WITH THE STABILITY ANALYSIS OF LIQUID PROPELLANT ROCKET ENGINE CUT-OFF VALVE
+5736A484	びまん性肺疾患識別におけるDeep Convolutional Neural Network特徴の解析 (ニューロコンピューティング)
+7BB79A81	Anomaly detection in time series radiotherapy treatment data
+78EDAA11	Particle competition and cooperation in networks for semi-supervised learning with concept drift
+5DFADF35	The Cambridge Handbook of Pragmatics: Pragmatics in the (English) lexicon
+7CDA20B9	Obtaining splits from cut sets of tight spans
+6FAB8831	Grounded Consequence for Defeasible Logic: The Logic of Defeasible Inference
+7A2E5B5A	Integrated segmentation of noisy image based on the spatial relationship
+7A4D5FB0	A graph-theoretic real-time visible surface editing technique
+786141A8	Endocardium segmentation in 3D Transesophageal Echocardiography
+7598866B	Image partitioning with kernel mapping and graph cuts
+78106A94	Learning moving cast shadows for robust foreground detection in highway scenarios
+19696C9F	Φυσικές ιδιότητες προϊόντων εκβολής
+7BF1F12C	The graph cuts technique, breast density and abnormality detection
+7F524B35	Evaluación del costo de producción para faenas de aserrío portátil
+7ABD3C64	Speaker Change Detection Based on a Graph-Partitioning Criterion
+599A02F1	Multi-image Interpolation based on Graph-Cuts and Symmetric Optic Flow
+8584654D	Data Ranking in Semi-Supervised Learning
+756D1095	Improved depth field estimation for autostereoscopic 3D-TV based on graph-cuts
+7D5E4E37	Aplikasi Pewarnaan Graf terhadap Penyusunan JadwalKaryawan di RSUP H. Adam Malik Medan
+7BA6F4B7	Parameterizing cut sets in a graph by the number of their components
+19B73A0A	新聞記事中の文が因果関係を含むか否かの判定 (自然言語処理(NL) Vol.2010-NL-197)
+7CB2C3A1	Fast mesh segmentation by using the LexicoGraph Cut algorithm
+7651376D	Multiscale Graph Theory Based Color Segmentation
+752663CD	Active Learning of Constraints for Semi-Supervised Clustering
+767AEAA4	Measurement of bitumen coverage of stones for road building, based on digital image analysis
+092E6612	Semi-supervised learning using random subspace based linear embedding repulsion graph
+5F82EA9E	Increasing the efficiency of TCAM-based packet classifiers using intelligent cut technique in geometric space
+7EE64AA3	Video face recognition with graph-based semi-supervised learning
+7D8DA7F0	A fast kernel-based multilevel algorithm for graph clustering
+07912353	Labour Unions and Economic Openness : The case of Central Unitaria de Trabajadores in Colombia
+75B57F0E	Refining hierarchical taxonomy structure via semi-supervised learning
+5DBBB799	Variations in chemical composition of grass clover mixtures over the vegetation season in different agroecological conditions
+79EC5D17	Efficient Iterative Semi-supervised Classification on Manifold
+5D3FADBE	Cutting graphs using competing ant colonies and an edge clustering heuristic
+7D13EA5D	Exploiting text content in image search by semi-supervised learning techniques
+80584985	Hierarchical Scale-Based Multiobject Recognition of 3-D Anatomical Structures
+73B2B049	Normalized cut approximations
+7BC9B238	Clustering Analysis of Gene Expression Data based on Semi-supervised Visual Clustering Algorithm
+5F323345	Flexure bearing support, with particular application to stirling machines
+77B32CF5	H3 lysine 4 di‐ and tri‐methylation deposited by cryptic transcription attenuates promoter activation
+815DC737	Semi-supervised discriminative language modeling for Turkish ASR
+76642021	Semi-supervised Feature Extraction Using Independent Factor Analysis
+7DBA6455	Decoding Brain States during Auditory Perception by Supervising Unsupervised Learning
+74A899A2	GF(2/sup p/) cellular automata as a built in self test structure
+7B49FB2A	Sparse dimensionality reduction based on compressed sensing
+77CA06B6	Fully automated 3D colon segmentation for early detection of colorectal cancer based on convex formulation of the active contour model
+6381AF75	TEXTOS DE BERTOLT BRECHT EN HISTORIAS ABOMINABLES
+7C939893	Human instance segmentation from video using locally competing 1SVMs with shape prior
+7233C518	Networked Life: How do I influence people on Facebook and Twitter?
+59EBDCA7	Semi-supervised logistic discrimination via labeled data and unlabeled data from different sampling distributions
+808581C8	Foreign Labor Trends: Brazil
+7941E0AB	Efficient penetration depth approximation using active learning
+04A56E57	On the value of u nlabeled data in semi-supervised learning based on maximum-likelihood estimation
+24F7B613	Deep learning of representations and its application to computer vision
+0914CC26	A Constrained Partition Model and K-Means Algorithm
+74BB203B	Semi-Supervised Classification Using Gaussian Processes
+83A82090	CUESTIONA DENIS MARLEAU LA PRESENCIA FÍSICA DEL ACTOR EN EL TEATRO
+797B067B	A new soft IP core for online-testing and fault-tolerant structures
+757F00DC	The possible involvement of the nonstrial pathway of the amygdala in neural control of sexual behavior in male rats
+0C3FE9A8	Graph cuts and belief propagation for stereo, using identical MRF parameters
+784512E2	Exponential random graphs as models of overlay networks
+3D985C59	Algebraic Graph Theory: Cycles and cuts
+761DD03E	Local graph cut criterion for supervised dimensionality reduction
+7B75C9F9	Camera matching based on spatiotemporal activity and conditional random field model
+777A41D8	Learning Sparse Representations of Depth
+26B1821C	SemiCCA : Efficient Semi-supervised Learning of Canonical Correlations (数理モデル化と応用 Vol.6 No.1)
+75E44FC6	Data Selection in Semi-supervised Learning for Name Tagging
+7708B15A	Location classification of lung nodules with optimized graph construction
+598745EB	Spectral Learning with Type-2 Fuzzy Numbers for Question/Answering System
+7E70C171	Methods and applications of text-driven toponym resolution with indirect supervision
+8161E037	Online Stochastic Matching: Beating 1-1/e
+7B22C379	Prostate MRI Segmentation Using Learned Semantic Knowledge and Graph Cuts
+7CE04F4C	A semi-supervised learning approach for soft labeled data
+594F15F4	Combinatorial markov random fields
+5C78FA1C	준지도 학습 및 신경망 알고리즘을 이용한 전기가격 예측
+8163713F	Sentiment Analysis of Stock Market News with Semi-supervised Learning
+73B2D4FD	Mapping, timing and tracking cortical activations with MEG and EEG: Methods and application to human vision
+01810E95	Semantic Segmentation Using Multiple Graphs with Block-Diagonal Constraints
+7CEC9816	Reassembling fractured objects by geometric matching
+793F3D60	Stab and puncture characterization of thermoplastic-impregnated aramid fabrics
+7BE4D3D3	Application of Radial Ray Based Segmentation to Cervical Lymph Nodes in CT Images
+80B19EF3	TransientBoost: On-line boosting with transient data
+750EC257	Usage of self-organizing neural networks in evaluation of consumer behaviour
+1A0932FF	HEG88-231 Carpet Selection: General
+7B78BC45	Examining the potential parallel scalability of a fuzzy semi-supervised classification algorithm
+7F517386	Self-organizing incremental neural network and its application
+75F06958	Mapping and localization by co-embedding of observation matrix
+758A39A2	Internet traffic clustering with constraints
+75B7B2AC	Generalized mixture models, semi-supervised learning, and unknown class inference
+8536293E	Κατάτμηση ιατρικών εικόνων μικροσκοπίου.
+7E81DE2D	Advances in constrained clustering
+70D0D459	Un chamán ilumina sacrificado
+7FB66298	Interactive Segmentation of Color Images Based on Color Saliency
+80B10C52	Semi-supervised learning for spoken language understanding semantic role labeling
+816E858E	Vision-Based Semi-supervised Homecare with Spatial Constraint
+0BFA6D39	Ambient short SOUNDSCAPE
+026A7501	Unsynchronized markerless motion capture with sharp illumination changes
+62780804	Maximum Entropy Semi-Supervised Inverse Reinforcement Learning
+7D7C43F8	LA HISTORIA DE LA HUMANIDAD, EN ¨A DÓNDE VAS, JEREMÍAS?
+585129FB	Reliable depth map regeneration via a novel omnidirectional stereo sensor
+788A50FF	Remote Sensing Image Segmentation Based on Human Visual System Region-Split and Graph Cut
+7E25D01C	Failure Analysis of a Complex Learning Framework Incorporating Multi-modal and Semi-supervised Learning
+808D35D3	Dataflow model for handling cut in the LOGFLOW parallel prolog machine
+63AEE26D	Sistemas de clasificación de preguntas basados en corpus para la búsqueda de respuestas
+7DA04BCD	An on-chip transfer function characterization system for analog built-in testing
+75BAA9A4	Combining regional and global features for automatic image annotation based on VQ
+00FEB690	Classification with Positive and Negative Constraints: Theory, Computation and Cognition
+6C31DB53	特徴点群抽出とグラフ分割を用いた車両追跡法 (交通における計測,一般(電気系3学会ITS合同研究会))
+5C9BDF8B	Automated anatomical landmark detection ondistal femur surface using convolutional neural network
+81741530	Detecting Violent Scenes in Movies by Auditory and Visual Cues
+01FA2725	A Graph Theoretic Approach to Quantifying Grey Matter Volume in Neuroimaging
+803741C5	Improving the Classification Accuracy Using Unlabeled Data: A Naive Bayesian Case
+6D57372A	Co-Training on Handwritten Digit Recognition
+7B75451D	Unsupervised Multiclass Region Cosegmentation via Ensemble Clustering and Energy Minimization
+797A0A0B	BestCut: a graph algorithm for coreference resolution
+7BB8AF1A	Compressive Mahalanobis classifiers
+7935A9D3	Stereo Matching Using Sub-segmentation and Robust Higher-Order Graph Cut
+78C32535	Image retrieval algorithm based on enhanced relational graph
+75E8C9D9	Semi-supervised learning for detecting text-lines in noisy document images
+808D54F9	Unsupervised Learning, Recognition, and Generation of Time-series Patterns Based on Self-Organizing Segmentation
+7C78AFF2	Interactive visualization in multiclass learning: integrating the SASSC algorithm with KLIMT
+7B0131F3	A new topic-bridged model for transfer learning
+5DD5D381	Acquiring IE Patterns through Distributional Lexical Semantic Models
+7E54C556	Expanding Recognizable Distorted Characters Using Self-Corrective Recognition
+5F970185	Equipping believers to explain in a clear and culturally appropriate way the New Testament meaning of saving grace to a Roman Catholic Cajun in a short conversation
+76CB42BB	Image-based planar reconstruction for dense robotic mapping
+0B1A5E43	Semi-supervised Learning by Seeding
+7655999D	Improving X!Tandem on Peptide Identification from Mass Spectrometry by Self-Boosted Percolator
+05F9E004	Margin Semi-Supervised Learning for Structured Variables
+777C51FC	A Semi-Supervised Regression Algorithm Based on Co-Training with SVR - KNN
+5C492F9F	Ave 02 DREAMY RELIGIOUS
+7A5E42FF	“MRI brain extraction using a graph cut based active contour model”
+7B6DE964	Automated detection of pelvic fractures from volumetric CT images
+7C3694D4	3D non-rigid deformable surface estimation without feature correspondence
+816E2783	Fully Automatic Segmentations of Liver and Hepatic Tumors From 3-D Computed Tomography Abdominal Images: Comparative Evaluation of Two Automatic Methods
+8010B3FA	Prediction of Partially Observed Dynamical Processes Over Networks via Dictionary Learning
+763712AB	Semi-Supervised Learning (Chapelle, O. et al., Eds.; 2006) [Book reviews]
+7FAB1202	Adaptive semi-supervised recursive tree partitioning: The ART towards large scale patient indexing in personalized healthcare
+802E2BE9	Fast and Adaptive Pairwise Similarities for Graph Cuts-based Image Segmentation
+802C46F9	One-Shot Learning with a Hierarchical Nonparametric Bayesian Model
+74D04FAF	Analysis of structure and movement of neural growth cone
+7C51EA0A	A comparitive study of compression decompression scheme using Huffman and selective Huffman techniques
+07F84F06	A Semi-Supervised Learning Approach for Prediction of DNA-Binding Residues in Protein Sequences
+7DE97D16	A Local Outlier Detection Approach Based on Graph-Cut
+7CE2E000	Efficiency of oscillation-based BIST in 90nm CMOS active analog filters
+8127C8A3	Multi-View Semi-Supervised Learning for Dialog Act Segmentation of Speech
+779C446A	Linear layouts measuring neighbourhoods in graphs
+7738E60A	Using Interacting Forces to Perform Semi-supervised Learning
+082A86C4	High-performance music information retrieval system for song genre classification
+081B85B3	Semi-supervised Learning Method Based on Kernel Strategy
+79432B78	Semidynamic approaches to node clustering for sensor networks
+5885809A	Polarization entanglement in a crystal with threefold symmetry
+777EC902	A semi-supervised style method for haplotype assembly problem based on MEC model
+78C9BC17	Accurate multi-view depth reconstruction with occlusions handling
+7753FC40	Analyzing Training Information From Random Forests for Improved Image Segmentation
+75A214E8	Fuzziness in Covering Generalized Rough Sets
+7644C155	Graph Cut Based Segmentatioln Of Multimodal Images
+7EFA3C95	Combined clinical and genomic signatures for the prognosis of early stage non-small cell lung cancer based on gene copy number alterations
+0782E6C9	Effect of waxing on the water balance and keeping qualities of cut anthuriums
+08A2BD86	Graphcut-based interactive segmentation using colour and depth cues
+75DFB036	Automatic 3D graph cuts for brain cortex segmentation in patients with focal cortical dysplasia
+7F9F4AF0	Image Restoration Using Graph Cuts with Adaptive Smoothing
+5C32CC90	Statistics and Econometric Models: Maximum Likelihood Estimation
+8295C5BB	Structural Proof Theory: VARIANTS OF SEQUENT CALCULI
+5E81C387	Semi-supervised learning for image classification
+79544F9F	Training Sample Selection for Space-Time Adaptive Processing in Heterogeneous Environments
+302654D4	Cuts and Frames as the Segmented Formation of Time and Space : From Prehistory Picture to Hypertext
+109CD1CD	Decision Forests for Classication, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning
+39288855	Analiza niezawodności sieci sensorowych i akcyjnych
+7F3BEF07	Bloodied and beaten, Cavs star LeBron James looks like he could use a little rest | NBA | SPIN.PH
+7DCF1166	Reinforcement Learning Approach to AIBO Robot's Decision Making Process in Robosoccer's Goal Keeper Problem
+5C304BF9	Manifold denoising as preprocessing for finding natural representations of data
+77C61E3C	Effect of nitrogen fertiliser supply and winter cutting on morphological composition and herbage digestibility of a Dactylis glomerata L sward in spring
+8458DF73	문헌간 유사도를 이용한 자동분류에서 미분류 문헌의 활용에 관한 연구
+7EC82AB4	A Semi-supervised Ensemble Approach for Mining Data Streams
+75B9C55F	Graph Cut segmentation with automatic editing for Industrial images
+75E7F09E	BILBO-friendly hybrid BIST architecture with asymmetric polynomial reseeding
+79FED2C8	Bayesian MRF Modeling and Graph Cuts for Phase Unwrapping with Discontinuity Phase Flaws：A Comparative Study
+791CCFDE	Image segmentation and registration techniques for MR-Guided Liver Cancer Surgery
+7DB90027	Laplacian Regularized Least Squares Regression and its Dynamic Parameter Optimization for Near Infrared Spectroscopy Modeling
+48FEA3B5	Laying and cutting specialty fabrics
+63CD864E	DEL OTRO LADO DE LA PUERTA, UNA MET FORA DEL CAMBIO DE IDENTIDAD
+7ADCE0AA	Research of Classification Algorithm Based on Local Coordination
+7ED535CC	Complementarity of experimental and numerical methods for determining residual stress states
+79E3C195	Medical Image Retrieval Based on Semi-Supervised Learning
+59FBBC59	An incremental intrusion detection system using a new semi‐supervised stream classification method
+79C69E06	Generating omnifocus images using graph cuts and a new focus measure
+7BEC3B74	Image Segmentation and Reconstruction Using Graph Cuts and Texton Mask
+22F2BE50	Semi-supervised learning for acoustic and prosodic modeling in speech applications
+7BCDB6E4	pox‐neuro is required for development of chemosensory bristles in Drosophila
+3CD753C1	3‐D Surface Reconstruction from Stereo Scanning Electron Microscopy Images
+5A0EA7F9	Agitate (plastic short)
+7C63A785	Wingless activity in the precursor cells specifies neuronal migratory behavior in the Drosophila nerve cord
+06155C14	A method of dunhuang frescos segmentation based on Markov random field and Graph cut
+0243F6B7	Contour Detection Using PSO and Graph Cut
+5AB69A63	Epistemic Logic for AI and Computer Science: DEFAULT REASONING BY EPISTEMIC LOGIC
+781FFC86	Building Facades Extraction from on-Vehicle Camera Images in a Graph-Cut-Based Optimization Framework
+7A4641BD	Electrostatic field framework for supervised and semi-supervised learning from incomplete data
+15E9C014	Probabilistic Risk Analysis: Fault and event trees
+79DD46A0	Large-scale adaptive semi-supervised learning via unified inductive and transductive model
+7FEB5C3A	Aedes Hartwellianae: CHAPTER IV
+755F75AB	Energy minimization via graph cuts for semantic place labeling
+76B438CC	Semi-supervised model adaptation for statistical machine translation
+80114CDE	Reconstruction of neuronal morphologies from electron microscopy images using graph cuts.
+78CFE187	Toward economic machine learning and utility-based data mining
+186C105E	半教師付き学習と転移学習を用いる次元削減(機械学習・データマイニング, 人工知能分野における博士論文)
+6CB4D5D4	A Novel Fuzzy Kernel C-Means Algorithm for Document Clustering
+7CA7AA14	Automatic clustering of white matter fibers based on symbolic sequence analysis
+6ADEF3ED	ABSTRACT Exploiting Unlabeled Data in Ensemble Methods
+12306D8D	Combining Long-Term Learning andActive Learning withSemi-Supervised Method forContent-Based Image Retrieval
+792496F5	RRE Task: The Task of Recognition of Requisite Part and Effectuation Part in Law Sentences
+7D285845	Note: Minimization of circuit registers: Retiming revisited
+7B1E5522	Automatic cardiac RV segmentation using semantic information with graph cuts
+7FFC2CA0	A new approach for semi-supervised clustering based on Fuzzy C-Means
+75D2FB90	Semi-supervised Ensemble Learning Using Label Propagation
+7577C0A3	Deriving backtracking monad transformers
+58B8F0D1	Exploring the power of heterogeneous information sources
+7EF60CD4	BIST scheme for RF VCOs allowing the self-correction of the cut
+778299DC	Multi-view stereo reconstruction via voxel clustering and optimization of parallel volumetric graph cuts
+3A71C0F5	Ten Years' Digging in Egypt: HAWARA
+6E6B25FC	小野洋子 中的「世界內部空間」與幻奇毀滅性
+7C4B4E3A	A distribution-matching approach to MRI brain tumor segmentation
+73B52B1E	High Dimensional Nonlinear Learning using Local Coordinate Coding
+846EB17E	Semi-Supervised Learning with Manifold Fitted Graphs
+7AD82EBC	Transduction of Semi-supervised Regression Targets in Survival Analysis for Medical Prognosis
+7815ADDD	Laplacian Coordinates for Seeded Image Segmentation
+75554AFE	A conditional random field model for 3D reconstruction in image sequences
+76EB41A8	Detachable Object Detection: Segmentation and Depth Ordering from Short-Baseline Video
+74E8810E	A Semi-Automatic Depth Estimation Method for FTV
+05E31182	Semi-supervised classification using sparse Gaussian process regression
+80DD5DD5	Multiple Depth Maps Integration for 3D Reconstruction Using Geodesic Graph Cuts
+5F924393	Representing Sylvia Plath: Confession, contrition and concealment: evoking Plath in Ted Hughes’s Howls & Whispers
+77667168	A randomized algorithm for learning Mahalanobis metrics : application to classification and regression of biological data
+85A37886	Semi-supervised learning for cyberbullying detection in social networks
+7C0D3263	The Implementation of Parallel Speed up Stereo Matching Based on Reduced Graph Cuts
+7F1099C4	Prediction of analog performance parameters using oscillation based test
+7B86090D	What defines an intruder? An intelligent approach
+814F5AFF	Automated class testing: methods and experience
+30936443	Semi-supervised Heteroscedastic Linear Discriminant Analysis
+7E507D4D	Automatic Video Object Segmentation using Graph Cut
+7E89BFAA	A Graph-Based Consensus Maximization Approach for Combining Multiple Supervised and Unsupervised Models
+241BED6B	Algorithmic Aspects of Graph Connectivity: Maximum Adjacency Ordering and Forest Decompositions
+7E827B03	Generating a Time Shrunk Lecture Video by Event Detection
+5E77F32C	Universal ripper miner
+819F572F	Structural models in anthropology: Networks
+786ACDCE	Semi-Supervised Feature Selection with Universum Based on Linked Social Media Data
+052CE7E7	Ave (piano and vocal) DREAMY
+7A8FF304	On the conditions for the existence of ancillary statistics in a curved exponential family
+7E366CBE	Cux1 and Cux2 selectively target basal and apical dendritic compartments of layer II‐III cortical neurons
+83EE03B7	XVI FESTIVAL NACIONAL DE TEATRO UNIVERSITARIO
+7FCDB91B	Image Filtering With Associative Markov Networks for ECT With Distinctive Phase Origins
+7EC02C56	Tikhonov regularization and semi-supervised learning on large graphs
+7824331A	Accuracy of non-rigid registration for local analysis of elasticity restrictions of the lungs
+26FED796	Semi-Supervised Learning for Quantitative Structure-Activity Modeling
+8580A38A	DIFUSION CULTURAL TEATRO
+586616D2	Immunochemical and enzymatic analyses of extracts of the house dust mite Dermatophagoides pteronyssinus
+240AB9CD	確率アトラスで重みを付けたグラフカットによる腹部CT画像からの膵臓の対話的抽出手法の基礎的検討 (マルチメディア・仮想環境基礎)
+788CD967	Do stab-cuts reflect the weapon which made them?
+549E79EF	Combination of supervised and semi-supervised regression models for improved unbiased estimation
+6323075F	Shock Waves of Political Risk on the Stock Market
+850EF3EC	Geometry decomposition algorithms for the Nitsche method on unfitted geometries
+75D481AE	Automated detection of microaneurysms using scale-adapted blob analysis and semi-supervised learning
+7A9B01E0	A fast video frame segmentation scheme
+39C6264C	Advanced Mathematics for Applications: Analytic Functions
+78C8EF26	Use Minimum Graph Cut Based On Hybrid Algorithm For Motion Segmentation
+5EFD49CC	Notice of Violation of IEEE Publication Principles Power reduction in scan based BIST using BS-LFSR and scan-chain ordering
+76D0F5F7	CE-Stream : Evaluation-based technique for stream clustering with constraints
+75CE6FA5	Predicting Protein Function by Multi-Label Correlated Semi-Supervised Learning
+79F68523	A Novel Symbolic OBDD Algorithm for Generating Mechanical Assembly Sequences Using Decomposition Approach
+78B7B999	Isomorphic Manifold Inference for hair segmentation
+798565BC	A new segment-based stereo matching using graph cuts
+7A8BD5C2	Saliency based natural image understanding
+58925B49	Multi-layer graph model based SAR image segmentation with geometric interaction prior
+5DF3D979	Unsupervised classification of remote sensing data using graph cut-based initialization
+7BC89748	A Novel Semi-Supervised Learning for Collaborative Image Retrieval
+39B543CB	Pomeron Physics and QCD: Regge poles
+7BDE0020	A Novel Approach for Finding a Shortest Path in a Mixed Fuzzy Network
+7616E7DB	Graph cut video object segmentation using histogram of oriented gradients
+7B153314	New data model for graph-cut segmentation: Application to automatic melanoma delineation
+7A3E1428	Urban road extraction via graph cuts based probability propagation
+0C08FF46	Sample Scoring through Immunohistochemistry
+6E6405BA	Community Detection in Networks: The Leader-Follower Algorithm
+7E6B6B13	Automatic Detection of Tram Tracks on HRCT Images
+7B849621	Automatic Classification of Unstructured Blog Text
+76CB1F58	Facial expression recognition based on Hessian regularized support vector machine
+3239EBDE	Cut, sindicato orgânico e reforma da estrutura sindical
+7CEC0EDA	Concept detection in longitudinal brain MR images using multi-modal cues
+7FFE9ECE	Probabilistic Motion Diffusion of Labeling Priors for Coherent Video Segmentation
+5E91B469	A safe semi-supervised kernel minimum squared error algorithm
+8263AFBF	Hierarchical Bottom-Up Safe Semi-Supervised Support Vector Machines for Multi-Class Transductive Learning
+78F9B5AA	Extracting spatially and spectrally coherent regions from images
+7C032C3E	Texture synthesis based on the neighboring triangulated surfaces
+7C6BF033	Weighted order statistic and fuzzy rules CFAR detector for Weibull clutter
+774278E8	Unilateral semi-supervised learning of extended hidden vector state for Persian Language Understanding
+7F34BBCD	Smart tool holder
+783322C3	Isometric-path numbers of block graphs
+788E8AF2	Mixing Loss in a Step Cascade
+7CBDDF69	Object segmentation using Graph Cuts for the H.264 compressed video with moving background
+7AF62AA7	Semi-supervised learning for the identification of syn-expressed genes from fused microarray and in situ image data.
+6F054C66	The Selection and Measurement of Physical Properties for Characterization of Chemical Protective Clothing Materials
+5AEE13F6	Game Theory: The core
+044B0780	Region Selection based on Evidence Confidence for Localized Content-Based Image Retrieval
+7F9CF2DD	SAR image superpixels by minimizing a statistical model and ratio of mean intensity based energy
+307A81C0	Protein degradability in the rumen and intestinal digestibility of ensiled whole-crop oat cut at different stages of maturity
+45A185F1	Al Lewis: Companies Can Always Cut More | Fox Business
+753F2A7E	Cutting a Method Call Graph for Supporting Feature Location
+730DC247	Cut-set Theorems for Multi-state Networks
+79CCB21E	Mobile cloud based food calorie measurement
+7A4B87CA	Image segmentation based on modified graph-cut algorithm
+7C3973C4	3-D Stent Detection in Intravascular OCT Using a Bayesian Network and Graph Search
+79178FA9	Intrusion Detection Algorithm Based on Semi-supervised Learning
+7E569596	An improved segmentation algorithm of color image in complex background based on graph cuts
+7F83ADA5	Two-layer contractive encodings for learning stable nonlinear features
+75872037	The Chvátal closure of generalized stable sets in bidirected graphs
+80D5753D	Detection of the tear meniscus shape using asymmetric graph-cuts
+7FE8307E	Automatically detecting lung nodules based on shape descriptor and semi-supervised learning
+04B641C0	Image segmentation and pose estimation of humans in video
+794FB3EF	On-line versus off-line accelerated kernel feature analysis: Application to computer-aided detection of polyps in CT colonography
+18339DC6	Tetrahedral Mesh Segmentation
+7FDCE21A	Updating a Name Tagger Using Contemporary Unlabeled Data
+796BA19C	Modeling vagueness by nonstandardness
+0B9A9408	Improving Translation of Unknown Proper Names Using a Hybrid Translation Extraction Method
+7E31C75B	File allocation algorithms to minimize data transmission time in distributed computing systems
+7B140E4A	Optimal Image Blending for Underwater Mosaics
+5DBDBFC3	INICIÓ LA TEMPORADA DE FINAL DE PARTIDA
+769C37EA	A semi-supervised learning approach for RNA secondary structure prediction
+7C91F256	Semi-Supervised Image Classification by Nonnegative Sparse Neighborhood Propagation
+7A33CEC5	Online road segmentation for urban complex environments
+36DF98A5	Longevity of Sparaxis tricolor cut flowers
+3DE9E432	Hierarchical Logcut : A Fast And Efficient Way Of Energy Minimization Via Graph Cuts
+80F9A53D	Region-based image segmentation via graph cuts
+19A8CFA8	Fast communication: Modified localized graph cuts based active contour model for local segmentation with surrounding nearby clutter and intensity inhomogeneity
+80D13D42	Normalized graph cuts for visual SLAM
+118DB31A	遺伝子発現データに基づく予測と推定:言いたいことと言えること (特集 予測と発見)
+7BE21253	Bounding the gap between extremal Laplacian eigenvalues of graphs
+13F3CB5F	Computer Vision for Visual Effects: Image Matting
+7B72E958	View-consistent multi-view depth estimation for three-dimensional video generation
+80B21EC5	Semi-Supervised Semantic Role Labeling via Structural Alignment
+330BA282	Hillslope Hydrology and Stability: Stress field based stability analysis
+77814DF4	New SDP models for protein homology detection with semi-supervised SVM
+847C3C07	Estimation of Yarn Hairiness using Image Processing
+0B55C3A8	Review article: Multilabel partition moves for MRF optimization
+5F2A079F	Semi-Supervised Learning for Web Text Clustering
+060DA36B	Estimation of Monotone Treatment Effects in Network Experiments
+62E8B398	Vyhotovení základní mapy lomu na ložisku dolomitu Biela Púť
+59D88EA8	Cyberspace Security Using Adversarial Learning and Conformal Prediction
+5ED5584B	Scaling Up Machine Learning: Scaling Up Machine Learning: Introduction
+7AA7D27D	Generative Manifold Learning for the Exploration of Partially Labeled Data
+5833B29C	Privately Releasing Conjunctions and the Statistical Query Barrier
+718D3F0C	Foreground Segmentation via Segments Tracking
+02F59CAE	Variable Selection and Updating In Model-Based Discriminant Analysis for High-Dimensional Data1
+7A0B19D8	A Two Level Algorithm for Text Detection in Natural Scene Images
+75D4993E	Semi-Supervised Learning Based Social Image Semantic Mining Algorithm
+593B65B9	Notice of Retraction Semi-Supervised short text categorization based on Random Subspace
+5B7491BA	EL NUEVO ROSTRO DEL MAESTRO DE ACTUACIÓN
+2D995056	基於Constrained-Nonnegative Matrix Factorization之半監督式分群法
+79582FD0	Region substitution in video using graph cuts
+8101BD54	On multivariate calibration with unlabeled data
+78CB982C	A Prototype Patterns Selection Algorithm Based on Semi-supervised Learning
+7C43C8EB	Dense and refined microstructure 3D measurement method based on an optical microscope and varying illuminations
+00584E10	Semi-Supervised, Dimensionality Reduction via Canonical Correlation Analysis
+76F62FF7	Quantitative analysis of airway abnormalities in CT
+7F0726DD	Locally Self-Adjusting Tree Networks
+78428AC8	Automatic Refinement of Foreground Regions for Robot Trail Following
+599FF8DD	Feature selection for semisupervised learning applied to image retrieval
+765CC062	Semi-global depth estimation algorithm for mobile 3-D video applications
+794E04E0	Plenary talk solving linear inverse systems with graphcuts
+5BC2D905	Portable cutting apparatus
+6B6E2028	Classification and saliency detection by semi-supervised low-rank representation
+5D171264	Teatro. La mirada reveladora de Strindberg
+80D1E949	ON THE CENTER OF ZERO-DIVISOR AND IDEAL-DIVISOR GRAPHS OF FINITE COMMUTATIVE RINGS
+7BB54196	Urban area detection using multiple Kernel Learning and graph cut
+5A1C3FF9	DTI connectivity by segmentation
+7ABD7844	Spike sorting based on noise-assisted semi-supervised learning methodologies
+843A19BD	On the optimal usage of labelled examples in semi-supervised multi-class classification problems
+7F37E504	Concurrent Core Test for SOC Using Shared Test Set and Scan Chain Disable
+79CA9532	Surface Reconstruction from Unorganized Points Using Graph Cut
+800AAE75	Demonstration of segmentation with interactive graph cuts
+7731EC06	Finding centuries-old hyperlinks with a novel semi-supervised learning technique
+22E804F8	Squared-loss Mutual Information Regularization (情報論的学習理論と機械学習)
+26C2BEE8	Semantic photo synthesis - art. no. 64920X
+26C7C0B4	Mesh Cutout(Interactive Systems, Machine Vision Applications)
+7BBBB92F	Semi-Supervised Learning via Geodesic Weighted Sparse Representation
+78D1E254	A new way of using semidefinite programming with applications to linear equations mod p
+7815A14D	Batch-Mode Active Learning with Semi-supervised Cluster Tree for Text Classification
+779456BB	Enhancing Web Page Classification via Local Co-training
+7DE1194B	Learning from Multiple Outlooks
+8167AEE0	An experimental comparison of semi-supervised ARTMAP architectures, GCS and GNG classifiers
+79786319	A new global energy optimization framework for stereo disparity estimation
+7C65B732	Semi-supervised and Interactive Semantic Concept Learning for Scene Recognition
+094C7B73	Estimation of tangent planes for neighborhood graph correction
+7CC6EAA1	A Bayesian Framework For Reconstruction Of Accelerated MRI Using Graph Cuts
+6CF82D02	Scaling Up Machine Learning: Parallel Graph-Based Semi-Supervised Learning
+75A48201	Should we discard sparse or incomplete videos?
+83D837C9	Protein-protein interaction network inference with semi-supervised Output Kernel Regression
+809E439A	Towards self-exploring discriminating features for visual learning
+77FCAE5A	A SILENT SELF-STABILIZING ALGORITHM FOR FINDING CUT-NODES AND BRIDGES
+7849E314	Block-based Kernel Semi-supervised Discriminant Projection
+5DABE2EA	An objective function based on Bayesian likelihoods of necessity and sufficiency for concept learning in the absence of labeled counter-examples
+7D011F9D	Semi-Supervised Outlier Detection with Only Positive and Unlabeled Data Based on Fuzzy Clustering
+7FAD6D8C	Leaves Of Cut Rose Flower Convert Exogenously Applied Glucose To Sucrose And Translocate It To Petals
+23172D3F	Semi-supervised learning scheme using Dirichlet process EM-algorithm (コンピュータビジョンとイメージメディア)
+5D203A7A	Consistent Mesh Segmentation Using Protrusion Function and Graph Cut
+78C889FC	101 EFFICIENCY AND REPRODUCIBILITY OF SEGMENTATION OF KNEE CARTILAGES ON MR IMAGES FROM OSTEOARTHRITIS INITIATIVE (OAI) – COMPARISON OF SEMI-AUTOMATED GRAPH-CUTS AND MANUAL DELINEATION METHODS
+78040892	Different similarity measures in semi-supervised text classification
+7C951969	Aerial 3D Building Detection and Modeling From Airborne LiDAR Point Clouds
+7D1BE586	Efficient Semi-supervised Spectral Co-clustering with Constraints
+01398ACD	Perturbation Learning for Shot Boundary Detection
+5D7BEAA9	Multi-organ segmentation from multi-phase abdominal CT via 4D graphs using enhancement, shape and location optimization
+79B2991D	Three-dimensional labeling of vulnerable regions in carotid plaques using Graph-Cuts
+5F24F8E0	Exploring the Corporate Ecosystem with a Semi-Supervised Entity Graph
+7C29872C	An advanced semi-supervised SVM classifier for the analysis of hyperspectral remote sensing data
+12F1C5F4	POINCARE, SAUSSURE, AND STATIONARY LINGUISTIC SYSTEMS
+80F44DC8	Unsupervised Identification of Points of Interest for Semi-Supervised Learning
+7B08DA64	Sparse Label-Indicator Optimization Methods for Image Classification
+78FF4147	Phenotypic and genetic correlations between backfat thickness and loin eye area measurements and tissue composition of half-carcass and its cuts.
+7D6BF4B9	Semi-supervised outlier detection with only positive and unlabeled data based on fuzzy clustering
+05877DEB	Influence of Noisy and High-Dimensional Data on Semi-Supervised Learning
+85AAF7E4	ViBe with Adaptive Threshold Based on Energy Minimization
+0D25FDEC	パターン認識のためのサポートベクトルマシン入門-VI : 最近のトピックス
+08D801BC	Football Stinger SFX
+772EB69D	The multifractal spectra of certain planar recurrence sets in the continued fraction dynamical system
+0DE8138D	Cut Detection Algorithm Using the Characteristic Of Wavelet Coefficients in Each Subband
+5948A6CF	ACUERDO DE CREACION DEL CENTRO UNIVERSITARIO DE TEATRO DE LA UNAM
+095B3163	Object Detection in Nonstationary Scenes Based on Background Modeling
+76E3678D	Semi-supervised classification for hyperspectral remote sensing image based on PCA and kernel FCM algorithm
+7AB9E722	Semi-supervised Coupled Dictionary Learning for Cross-modal Retrieval in Internet Images and Texts
+802894BB	Semi-Supervised Heterogeneous Fusionfor Multimedia Data Co-Clustering
+2E91AA92	Centre for Vision, Speech and Signal Processing,
+169D6AE3	多数決型アルゴリズムによる非線形伸縮時系列パターン認識 (コンピュータビジョンとイメージメディア(CVIM)) -- (テーマセッション)
+22D38183	A Binary Decision Diagram based on-line testing of digital VLSI circuits for feedback bridging faults
+7D6BA814	Performance evaluation of detecting moving objects using graph cut segmentation
+7775966E	Extracting fuzzy classification rules from partially labeled data
+75845352	Exploring the corporate ecosystem with a semi-supervised entity graph
+807312A6	Complex fault tree analysis based on BDD route-based rules
+614BE57C	The influence of alignment-free sequence representations on the semi-supervised classification of class C G protein-coupled receptors
+8179C31A	Bio Named Entity Recognition Based on Co-training Algorithm
+7F7B48E9	Let web spammers expose themselves
+7F80E282	Kernel Dimensionality Reduction evaluation on various dimensions of effective subspaces for cancer patient survival analysis
+5F2F0642	Graph Cut Approaches for Materials Segmentation Preserving Shape, Appearance, and Topology
+75A54E23	Optimal semi-supervised metric learning for image retrieval
+01C83DA3	Os custos unitários de trabalho e competitividade : um estudo aplicado a Portugal
+7589EFB7	A Weakly 1-Stable Limiting Distribution for the Number of Random Records and Cuttings in Split Trees
+782428F1	Pagination: it's what you say, not how long it takes to say it
+24660B18	Ｅｓｐｒｅｓｓｏ 型ブートストラッピング法における意味ドリフトのグラフ理論に基づく分析 語義曖昧性解消における評価:語義曖昧性解消における評価
+7662A39A	Applications of cut polyhedra — I
+8150E15F	Learning New Parts for Landmark Localization in Whole-Body CT Scans
+5D3E0311	Investigation of BPNN & RBFN in text classification by Active search
+5A849C5F	Classifying evolving data streams with partially labeled data
+75A9F704	A multi-label, semi-supervised classification approach applied to personality prediction in social media
+7CADAE93	Construction of panoramic image mosaics based on affine transform and graph cut
+779F5531	Resolution enhancement for binocular stereo
+80113756	Image Segmentation Scheme Based on Graph-Cut for the Paint Bubbles
+7BD5FE32	Global Model for Failure Prediction for Rod Pump Artificial Lift Systems
+7EDDD8A2	A semi-supervised learning approach to online audio background detection
+6B2789FD	Exemplar-based pattern recognition via semi-supervised learning
+77467F83	Batch-mode semi-supervised active learning for statistical machine translation
+7563DD15	Flower recognition system based on image processing
+7BB38D47	Exact discrete minimization for TV+L0 image decomposition models
+7A0FBD2C	Semantic video scene segmentation and transfer
+789E1071	Approximability of the Firefighter Problem: Computing Cuts over Time
+103ACFDA	A note on cut(n)-spaces and related conclusions
+7968770E	Image segmentation approach of combining fuzzy clustering and graph cuts: Image segmentation approach of combining fuzzy clustering and graph cuts
+5DFCBF86	Track and Cut: Simultaneous Tracking and Segmentation of Multiple ObjectS with Graph Cuts
+7CC00041	Qualitative Analysis in Reliability & Safety Studies
+8118E42A	Constraint Based Dimension Correlation and Distance Divergence for Clustering High-Dimensional Data
+7E67E851	Proactive Failure Management by Integrated Unsupervised and Semi-Supervised Learning for Dependable Cloud Systems
+6788DE00	Submodular Optimization for Efficient Semi-supervised Support Vector Machines
+7B6113FC	Optimal Sequential and Parallel Algorithms to Compute All Cut Vertices on Trapezoid Graphs
+329E34D6	Landslide Ecology: Physical causes and consequences
+620053F1	"LAS CRIADAS", UNA FRENETICA REBELION EN CONTRA DE LA MORAL TRADICIONAL
+7A62E5D2	On the Theoretical and Computational Analysis between SDA and Lap-LDA
+84DE9C17	Branch-and-Cut algorithm for the connected-cut problem
+754FAE8B	Ammonium and proline accumulation in senescing cut leaves of Zantedeschia
+7824879D	Co-training based algorithm for datasets without the natural feature split
+73C4803D	眼位検査 (特集 斜視診療のコツ)
+7618D219	Adaptive detection of point-like targets in environment with orthogonal rejection
+7BE321EE	A learning-based automatic clinical organ segmentation in medical images
+44E88368	EL TEATRO ESTUDIANTIL DE LA UNIVERSIDAD DE MEXICO
+7D7B3BC6	Semi-supervised based active class selection for automatic identification of sub-kilometer craters
+755BB7DD	Semi-supervised lexicon mining from parenthetical expressions in monolingual web pages
+7F32439A	Likelihood-Based Semi-Supervised Model Selection With Applications to Speech Processing
+83180C13	모바일 비전 시스템에서의 이동 물체 추출
+7E2B9BD2	Semi-Supervised template attack
+76C0F08C	Co-EM Support Vector Machine Based Text Classification from Positive and Unlabeled Examples
+7C6230C7	Triangular-Patch Based Texture Synthesis over Arbitrary Surfaces
+7513D5E2	Energy-based binary segmentation of snow microtomographic images
+04AA4D13	Multi-view reconstruction : Surface model, optimization, and analysis
+6E66C55C	Matroids: A Geometric Introduction: Graphic matroids
+12CDE47B	Dynamic Programming for Ultrasound Image Analysis of Atherosclerosis
+0B016F97	Segmentierung mit Graph-Cut-Methoden
+78426BC2	Arbitrary Waveform Generator Response Shaping Method to Enable ADC Linearity Testing on Very Low Cost Automatic Test Equipment
+7FF80491	Improving Semi-Supervised Acquisition of Relation Extraction Patterns
+7EDFE617	A Classification Tree Based Approach for the Development of Minimal Cut and Path Vectors of a Capacitated Network
+315448BA	A Branch-and-Bound Algorithm for Finding an Optimal Solution of Transductive Support Vector Machines
+7F215868	Active learning for on-road vehicle detection: a comparative study
+70ABC125	밝기 변화량의 신뢰도에 기반한 역광 비디오 영상의 보정 알고리듬
+798D5C5A	The box-TDI system associated with 2-edge connected spanning subgraphs
+5D0D4E0A	ATM Curve Construction
+5F4ADA38	Learning large scale common sense models of everyday life
+7BFAAE3B	Intelligent Biometric Information Management
+7D0120D0	Localized Sliced Inverse Regression
+7663C707	Semi-Supervised Learning for Classification of Protein Sequence Data
+7C580AFB	Region-based image segmentation via graph cuts
+8413A8C2	Action Semantics: Basic
+5DD45111	ACTIVIDADES DEL CENTRO UNIVERSITARIO DE TEATRO
+7871A0B2	Fault scanning and repairing in processor based system using dynamic reconfiguration
+86122F2B	Biologia reprodutiva, desenvolvimento e produção de sementes de Adesmia tristis vogel
+1107D54A	歪んだ文字の認識と自動ラベル付け : 大規模データベースの構築を目指して(テーマセッション,実世界文字認識と理解)
+7ABABBBB	Object Segmentation based on Saliency Extraction and Bounding Box
+7BC80E0C	Improving Relevance Feedback for Image Retrieval with Asymmetric Sampling
+75295811	Combining Color and Texture for a Robust Interactive Segmentation Algorithm
+761D9EDE	A fast method for global depth-map extraction from natural images
+5E7B9A37	Image retrieval using semi-supervised learning
+7B44BD98	Asymmetrical Semi-Supervised Learning and Prediction of Disulfide Connectivity in Proteins
+5BECF5C3	Machine Learning in Multimedia
+5AAC3147	Markerless human body motion capture using multiple cameras
+5C349A8A	A new generic texture synthesis approach for enhanced H.264/MPEG4-AVC video coding
+7CAD6F2F	Probabilistic reliability based view synthesis for FTV
+19269D71	ステレオビジョン用GPUグラフカットグラフデータの配置に関する検討 (パターン認識・メディア理解)
+7DF4C079	Semi-supervised induction of fuzzy rules applied to image segmentation
+7B207152	Learning naïve bayes transfer classifier throughclass-wise test distribution estimation
+59B47247	CURSO DE COMBATE ESCÉNICO PARA ALUMNOS DEL CUT
+79151196	Causality, Measurement Theory and the Differentiable Structure of Space-Time: Von Neumann's theory of measurement
+7CB8A66A	Low power scan by partitioning and scan hold
+81575A92	Clutter Nulling Performance of SMI in Amplitude Heterogeneous Clutter Environments
+71F9548B	A novel, robust method of measuring IMT(intima-media thickness) using graph cut and snake model in ultrasound imaging
+79A51296	Efficient handling of high-dimensional feature spaces by randomized classifier ensembles
+76653871	Fast semi-supervised classification based on bisecting clustering
+7EB63C56	Segmenting Point Sets
+77173371	Automatic differential segmentation of the prostate in 3-D MRI using Random Forest classification and graph-cuts optimization
+7F98E536	Combining Regions and Patches for Object Class Localization
+76710898	Learning probabilistic discriminative models of grasp affordances under limited supervision
+7F6A0EC0	Semi-supervised training for conditional random fields with pseudo auxiliary task
+7842E3A6	Segmentation in noisy medical images using PCA model based particle filtering
+75414DE0	Intermediate view synthesis in wide-baseline stereoscopic video for immersive telepresence
+7F2D78B1	A Novel Method for Semi-automatic 2D to 3D Video Conversion
+7925529D	CT Image Segmentation based on Clustering and Graph-Cuts
+739D350C	Intersection cuts—standard versus restricted
+75A408FE	Taking total control of voting systems: firmware manipulations on an optical scan voting terminal
+7F3BB6D5	Graph-based ground segmentation of 3D LIDAR in rough area
+7DF97595	Optimal Dynamic-Priority Real-Time Scheduling Algorithms for Uniform Multiprocessors
+7B99FD90	Multimodal kernel learning for image retrieval
+54100FBE	Correlations between backfat thickness and loin eye area measurements and fatness and muscling of cuts in line 990 x Pietrain pigs
+4A53B5A3	Wykorzystanie algorytmu PSO w diagnostyce analogowych układów elektronicznych
+814FCB84	A Semi-Supervised Approach to Perceived Age Prediction from Face Images
+81714B49	Patients and practitioners: Piety and the patient: Medicine and religion in eighteenth century Bristol
+754AEA47	Minimum Cuts of A Time-Varying Background
+6C33EB62	TEATRO EN EL CUT QUE REFLEJA A LA SOCIEDAD BRASILEÑA ACTUAL
+79DD0B48	Discriminative Deep Belief Networks for image classification
+2FACE4F6	A Study on the Voxel Coloring using Multi-variable Thresholding
+754159C8	An Improved Stereo Matching Algorithm Based on Graph Cuts: An Improved Stereo Matching Algorithm Based on Graph Cuts
+7C884AB5	Human Intention Modeling and Interactive Computer Vision
+008C6142	l 1 -Rigid Graphs
+7959A19A	SSGL: a semi-supervised grammar learner
+7C0BCDA7	Segmentation of Synchrotron Radiation X-Ray µCT images using energy minimization via Graph Cuts for quantitative analysis
+5DA0B655	Automated segmentation of drosophila RNAi fluorescence cellular images using graph cuts
+76CAB34A	A color image analysis approach using fusion of Markov random fields in different color spaces
+7871FE98	A new framework for automated segmentation of left ventricle wall from contrast enhanced cardiac magnetic resonance images
+74F0DEFE	Leveraging User Ratings for Resource-poor Sentiment Classification
+80AD2A8C	Enhancing the stability and efficiency of spectral ordering with partial supervision and feature selection
+7ABE47E9	Stereo disparity calculation in real-world scenes with Informative Image Partitioning
+7F721758	Active learning for reducing bias and variance of a classifier using Jensen-Shannon divergence
+7A8D1CC2	Semi-supervised remote sensing image classification via maximum entropy
+765B73F2	A Dynamic Assembly Modeling Method for Satellite Final Assembly Sequence Planning
+7FBA3DDA	Research on Multi-View Semi-Supervised Learning Algorithm Based on Co-Learning
+5CA2557F	Control mecánico y químico de Eryngium horridum Malme “caraguatá” en un campo natural bajo clausura
+7B64C4DD	Active volume models for 3D medical image segmentation
+7FDACF5C	DCPE co-training: Co-training based on diversity of class probability estimation
+77B43E97	A Semi-Supervised IDS Alert Classification Model Based on Alert Context
+8138E179	Feature-preserving thumbnail generation based on graph cuts
+7D02E7E3	Coupled problem computation of 3-D multiply connected magnetic circuits and electrical circuits
+5A0F9716	그래프 컷을 이용한 학습된 자기 조직화 맵의 자동 군집화
+82D869C1	Réduction de la dimension multi-vue pour la biométrie multimodale
+7C39E307	Phase unwrapping via diversity and graph cuts
+76AAB3BD	Automated extraction of digital images features of three kinds of cotton leaf diseases
+79861614	Local semi-supervised regression for single-image super-resolution
+5C7F76D5	EL CUT, CUNA DE PROFESORES DE TEATRO DE MÉXICO Y EUROPA
+683BE012	Tumor Segmentation on 18F FDG-PET Images Using Graph Cut and Local Spatial Information
+7F1D24B4	Exploring DCT coefficient quantization effect for image tampering localization
+76E40287	Local binary fitting energy solution by graph cuts for MRI segmentation
+7B19D275	Improving the Prediction of Kinase Binding Affinity Using Homology Models
+5B076E69	Public servant fellows: the advances in the public sector unionism of CUT
+7C642315	An effective rule miner for instance matching in a web of data
+0EF4DB1F	EXPLOITING QUERY CLICK LOGS FOR UTTERANCE DOMAIN DETECTION IN SPOKEN LANGUAGE UNDERSTANDING Dilek Hakkani-T¨ ur Larry Heck Gokhan Tur
+43996008	The Morphology of English Dialects: Introduction
+82485AEE	A 3D semi-automated co-segmentation method for improved tumor target delineation in 3D PET/CT imaging
+756F18E7	A Co-Training Based Semi-Supervised Human Action Recognition Algorithm
+7B1609B1	Experimental comparison of semi-supervised learning method based on kernels strategy
+75DC2DD5	GRAPH BASED MULTI-VIEW LEARNING FOR SEMANTIC RELATION EXTRACTION
+7A49C18F	Semi-supervised genetic programming for classification
+754BFBA0	Paired Regions for Shadow Detection and Removal
+798FB5B1	Salient Object Detection using concavity context
+76082A5A	Interactive region-based MRF image segmentation
+543CCC00	Name Your Fetish, DVD - Fod fetish - På lager - Homoware - Danmarks eneste MrB shop-in-shop
+5ABF2888	EL CUT COLABORAR PARA UNA ENCICLOPEDIA MUNDIAL ESC‚NICA
+76BF2DAE	View synthesis based on Conditional Random Fields and graph cuts
+64969357	Research on Uncertainty of Rough Fuzzy Sets in Different Knowledge Granularity Levels
+72775B90	A New Digital Electrosurgical Unit With High Frequency Electrical Waves
+65F17300	Electricidad en endocirugía
+7D49803A	Multiresolutional graph cuts for brain extraction from MR images
+7B284123	Automatic sulcal basins segmentation using hill climbing based on cortical surface principal curvature
+7C8954C3	Efficient Learning to Label Images
+69524401	Automatic Plant Annotation Using 3D Computer Vision
+1241A44C	部分教師付き多峰性low rank生成モデル学習手法の提案 (バイオメトリクス)
+7A4F05C5	An Active Co-Training Algorithm for Biomedical Named-Entity Recognition
+77C1A130	Ranking on semantic manifold for shape-based 3d model retrieval
+75E5F399	Skin Segmentation Based on Graph Cuts
+76061062	Problems of synthesis of connected networks with respect to isomorphic subgraphs
+80AAA183	Reconstructing patient-specific cardiac models from contours via Delaunay triangulation and graph-cuts
+5615E6A1	Programming with Higher-Order Logic: First-Order Hereditary Harrop Formulas
+78857E73	Diminished Reality Via Multiple Hand-Held CAMERAS
+7E9B9FFA	A Context-Sensitive Clustering Technique Based on Graph-Cut Initialization and Expectation-Maximization Algorithm
+741DD4B8	Simulated evolution algorithm for multiobjective VLSI netlist bi-partitioning
+6A8C34F5	Structural Proof Theory: STRUCTURAL PROOF ANALYSIS OF AXIOMATIC THEORIES
+7F13E1FD	Comment on: "Comment on computer-aided synthesis of fault-trees
+7626B243	3D scene's object detection and recognition using depth layers and SIFT-based machine learning
+754D89D3	Context-free pairs of groups II - Cuts, tree sets, and random walks.
+7D626E9E	A novel graph cuts based liver segmentation method
+7E5E5641	Multiple-Core under Test Architecture for HOY Wireless Testing Platform
+6D03D7E2	Semi-supervised and unsupervised kernel-based novelty detection with application to remote sensing images
+5891A9C4	Characterizing the Discussion of Antibiotics in the Twittersphere: What is the Bigger Picture?
+81C2B59B	Unbalanced JPEG image steganalysis via multiview data match
+7BC335A9	1 Automatic video segmentation using spatiotemporal T-junctions
+77F4B306	A novel shadow elimination algorithm for moving object segmentation
+772B0858	Robust moving object segmentation with two-stage optimization
+7DC34808	Planar segmentation of range images
+75359459	New heuristic method for data discretization based on rough set theory
+1D2E0296	Subject Guides. Online Job Search and Application Basics. Copy, Cut, and Paste.
+7727DEEE	A Multi-view Approach to Semi-supervised Document Classification with Incremental Naïve Bayes
+57D81D0E	Fuck Crazy DVD - Lækre fyre - Ikke på lager - Homoware - Danmarks bedste service
+7521A823	On survivable network polyhedra
+7DC939FD	A semi-supervised efficient learning approach to extract biological relationships from web-based biomedical digital library
+7BF17602	Video Annotation by Active Learning and Semi-Supervised Ensembling
+7A1C13EF	Polyhedral results for the bipartite induced subgraph problem
+59386C17	TENNESSEE EN CUERPO Y ALMA, DIVERTIMENTO TEATRAL
+77F621FF	Ensemble manifold regularization
+785A86A6	Semi-Supervised Recursive Learning of Discriminative Mixture Models for Time-Series Classification
+782DA856	Network anomaly detection with the restricted Boltzmann machine
+75E76367	Protein function prediction with high-throughput data
+7D205722	A Novel Classification Algorithm Based on Incremental Semi-Supervised Support Vector Machine
+592A0C0D	Matrix Methods in the Design Analysis of Mechanisms and Multibody Systems: Topology and Kinematic Architecture
+7C7078BB	3D Environment Capture from Monocular Video and Inertial Data
+7E8D391B	Soft Word Sense Disambiguation
+80F5412D	Text classification with enhanced semi-supervised fuzzy clustering
+0048F47B	FDVQ based keyword spotter which incorporates a semi-supervised learning for primary processing
+7966C8C7	An improved learning with local and global consistency
+764C23BA	Particle Competition and Cooperation in Networks for Semi-Supervised Learning
+7DD89949	WeightLOFCC: A Heuristic Weight-Setting Strategy of LOF Applied to Outlier Detection in Time Series Data
+7B4A6515	Multi-label energy minimization for object class segmentation
+08745B50	Inferno in diretta, Kuvaa ja pakene! (1985)
+849CA278	Multi-image interpolation based on graph-cuts and symmetric optical flow
+815978E5	Fighting WebSpam: Detecting Spam on the Graph Via Content and Link Features
+5744B0DC	A Course in Mathematical Analysis: Number systems
+5A7CFA13	An Introduction to Regge Theory & High Energy Physics: Regge cuts
+7FC7A47A	Multi-Modal Video Concept Extraction Using Co-Training
+7898C1C0	Adaptive co-training SVM for sentiment classification on tweets
+7D4161CE	Using collective information in semi-supervised learning for speech recognition
+7AF80E80	Projective Surface Refinement for Free-Viewpoint Video
+75567534	Incorporating fuzzy clusters in semi-supervised text categorization
+7E7F0176	Training Set Expansion: An Approach to Improving the Reconstruction of Biological Networks from Limited and Uneven Reliable Interactions
+7FA01EB7	Mitral Annulus Segmentation From 3D Ultrasound Using Graph Cuts
+5B67BD9E	Dense nuclei segmentation based on graph cut and convexity–concavity analysis
+8012EAFC	SVM Based Shot Boundary Detection Using Block Motion Feature Based on Statistical Moments
+07EF3605	A Hybrid Semi-supervised Classification Scheme for Mining Multisource Geospatial Data
+7E100D96	EL CUT, ABREVADERO DONDE SE CULTIVA LA RAZÓN: QUINTANILLA
+77102460	Tracking with Occlusions via Graph Cuts
+77279FD4	Object tracking in real environments
+777D16BE	Batch-invariant nuclear segmentation in whole mount histology sections
+46767920	Collaborative Representation Graph for Semi-Supervised Image Classification
+0331B400	Using Quadtrees for Energy Minimization Via Graph Cuts
+7BCD9345	A generative semi-supervised model for multi-view learning when some views are label-free
+05D720A6	Active Learning for Semi-supervised Classification Based on Information Entropy
+80E3A542	Prediction of hot spot residues at protein-protein interfaces by combining machine learning and energy-based methods
+7697C90D	Improving handwritten keyword spotting with self-training
+7E56646E	Nelson [New Zealand]
+75742CD2	Improved depth estimation algorithm for preserving depth edge and temporal consistency
+02F96412	Behavior Modeling and Abnormality Detection Based on Semi-Supervised Learning Method
+774506DC	An optimized in vivo multiple-baseline stereo imaging system for skin wrinkles
+15D28325	Abstract Automatic building texture completion
+7806469C	Imputation of missing values for semi-supervised data using the proximity in random forests
+25BC531C	ステレオビジョン用グラフカットに対するGPU実装のHIPR,BKとの性能比較 (パターン認識・メディア理解)
+7A6514BC	Stereo matching with adaptive support-weight correlation and Graph Cuts
+756D9358	Multiresolution SAR data fusion for unsupervised change detection
+79C66A87	Efficient Approximate Semi-supervised Support Vector Machines through Submodular Optimization
+7B8263DA	Stereo matching: performance study of two global algorithms
+7D14D11D	Spatio-temporal video object segmentation using moving detection and graph cut methods
+78200CD3	An algorithm of the method of difference potentials for domains with cuts
+84D2E9EB	Testing of Digital Systems: Fault models
+5AE1E39E	Color based tracking by adaptive modeling
+8084D504	Solution Path for Semi-Supervised Classification with Manifold Regularization
+7D9F1865	Enhanced classification approach with semi-supervised learning for reliability-based system design
+75EC56D1	Generating compact meshes under planar constraints: An automatic approach for modeling buildings from aerial LiDAR
+84A58451	Boundary Smoothing for Mesh Segmentation
+22A3BECE	J1201-1-5 現物ベースシミュレーションのための測定メッシュ上の溶接部境界分割法(解析・設計の高度化・最適化I)
+5A0949A5	FORMAÇÃO SINDICAL: UM ESTUDO COMPARATIVO ENTRE AS COMISIONES OBRERAS (CCOO) DA ESPANHA E A CENTRAL ÚNICA DOS TRABALHADORES (CUT) DO BRASIL / Union formation: a comparative study between the spanish Comisiones Obreras (ccoo) and the brazilian Central...
+7C2A5094	Cell nuclei segmentation for histopathological image analysis
+78C2694B	Half-integral flows in a planar graph with four holes
+80BE9FB9	Agreement/disagreement classification: exploiting unlabeled data using contrast classifiers
+13DDE130	Image seafloor mosaics: Acquisition, processing and role on deep-sea observatory planning and implementation
+7AD45784	Identification of non-functional requirements in textual specifications: a semi-supervised learning approach
+7AE67B2E	A learning-based automatic spinal MRI segmentation
+7A6D9755	Online semi-supervised learning: Application to dynamic learning from RADAR data
+579BA8BE	E. Côme A
+7996065B	Delving deeper into the whorl of flower segmentation
+7510BE93	Mixture model with multiple centralized retrieval algorithms for result merging in federated search
+592771C2	A mathematical framework for automated bug localization
+796A74A9	Unsupervised cosegmentation based on superpixel matching and Fastgrabcut
+7CA1E878	Vascular network segmentation: An unsupervised approach
+78E5DA1A	Existence of some sparse sets of nonstandard natural numbers
+75AAFDCC	Noise Detection and Learning Based on Current Information
+7618304C	3-D Segmentation of Articular Cartilages by Graph Cuts Using Knee MR Images from the Osteoarthritis Initiative
+60E209A2	Backward chaining rule induction
+5E3EBF8A	People Tracking Based on Predictions and Graph-Cuts Segmentation
+5CADBFCC	Live video object tracking and segmentation using graph cuts
+38109E64	3 Easy Ways To Refresh Your Look - GoLocalWorcester
+75525452	Active Learning from Positive and Unlabeled Data
+24452BF1	GPUダイナミックパラレリズムを使用したグラフカットPushRelabel処理の高速化 (パターン認識・メディア理解)
+7A8D6A34	Using Short Dependency Relations from Auto-Parsed Data for Chinese Dependency Parsing
+25E42FE9	TEXT CLASSIFICATION USING WIKIPEDIA KNOWLEDGE
+67129825	Susceptibility Artefact Correction by Combining B0 Field Maps and Non-Rigid Registration using Graph Cuts
+8170A46B	A Method to Find the Membership Functions of Maximum and Minimum of Fuzzy Numbers
+7926A789	Simultaneous image de-noising and registration using graph cuts: Application to corrupted medical images
+057485C2	The news we lose when we cut local newspapers
+7C60D472	Generalized fuzzy ideals in semigroups
+0B46F06D	Co-Training by Committee: A Generalized Framework for Semi-Supervised Learning with Committees
+7D82F6D9	Graph-Based Semi-supervised Learning for Fault Detection and Classification in Solar Photovoltaic Arrays
+801621B5	Measuring atrophy by simultaneous segmentation of serial MR images using 4-D graph-cuts
+7A410E91	Anomaly Detection in Healthcare: Detecting Erroneous Treatment Plans in Time Series Radiotherapy Data
+76509F1A	Multi-stage feature point detection for 3D human data
+73F0B191	휴머노이드 로봇을 위한 사람 검출, 추적 및 실루엣 추출 시스템
+75DBE494	Electricity Price Prediction Based on Semi-Supervised Learning and Neural Network Algorithms
+763E3ED4	Bi-layer inpainting for novel view synthesis
+3D3CAA36	Generator par testowych dla uszkodzeń opóźnieniowych
+7ED0B1C9	Learning Low Density Separators
+81F74EBA	Biomarker Discovery Across Annotated and Unannotated Microarray Datasets Using Semi-Supervised Learning
+77468FD4	On one maximum multiflow problem and related metrics
+78B6F13B	Generation of Building Facade from Sequential Urban Images for Polygonal Buildings on 3D Map
+7DE2E25E	Sentiment Classification with Polarity Shifting Detection
+771EFB6F	A graph cuts based human shadow extraction using entropy-expressed texture and color features
+77A64F5D	Simultaneous 3D segmentation of three bone compartments on high resolution knee MR images from osteoarthritis initiative (OAI) using graph cuts
+5BB024C1	i Wed: An Integrated Multigraph Cut-Based Approach for Detecting Events from a Website
+6F13420F	Combining ILP with Semi-supervised Learning for Web Page Categorization
+778E92F4	Insufficient allure: the luxurious art and cost of creative pattern cutting
+773863EB	Scattering properties of paramagnetic ground states in the three-dimensional random-field Ising model
+76C1C161	Semi-supervised Hopfield-Type Neural Network for change detection in remotely sensed images
+76CF28BE	The downtime distribution after a failure of a system with multistate independent components
+5A10B7F2	Finding Speaker Face Region by Audiovisual Correlation
+780DA939	Semi-supervised event detection using higher order statistics for multidimensional time series accelerometer data
+2DAA00B1	Draft transport route of digger K800/54 - a solution for the future use in DP SLATINICE
+7ACF0526	Algorithm for computational liver resection planning
+7B715977	Robust MRF-based object tracking and graph-cut-based contour refinement for high quality 2D to 3D video conversion
+801E193B	Exact and approximate improvement to the throughput of a stochastic network
+39A6574D	基于半监督学习的黄萎病互作基因对的预测 The Prediction of Interaction Gene for Greensickness Based on Semi-Supervised Learning
+6BE6096E	Forward modelling for subsurface measurements in open-cut coal mine using a drill bit source
+765AD824	An Improved Moving Object Tracking Method Based on Graph Cuts
+0E972D3F	Proof Analysis: Modal logic
+6FDFF173	Design for target classifier based on semi-supervised learning
+76965620	Graph-cut based antialiasing for Doppler ultrasound color flow medical imaging
+833CD93C	Estudio sobre la implantación de una máquina de corte por láser de fibra, y simulación del efecto que supone en el sistema productivo de la empresa Teru (Peralta)
+77933A3D	DYNAMIC GRAPH MERGING FOR IMAGE SEGMENTATION
+5D3F5F0E	Universal Seed Skin Segmentation
+7FF764DE	Power Pole Detection Based on Graph Cut
+5B45E8EF	A Semi-supervised Clustering Algorithm Based on Must-Link Set
+302CFECD	Reveling in constraints
+5C80F776	Template Update Methods in Adaptive Biometric Systems: A Critical Review
+77A8DEF5	Labels vs. Pairwise Constraints: A Unified View of Label Propagation and Constrained Spectral Clustering
+80EDE0F4	Segmentation of breast cancer masses in ultrasound using radio-frequency signal derived parameters and strain estimates
+78977371	Key object-based static video summarization
+7E177867	Image Classification with Segmentation Graph Kernels
+80960CC8	Efficient Semi-Supervised Feature Selection: Constraint, Relevance, and Redundancy
+7A2BD8A6	Community detection-based features for sequence classification
+7CF8CC0B	A boosted semi-supervised learning framework for web page filtering
+8039468C	Semi-supervised Learning of Domain-Specific Language Models from General Domain Data
+7C82090E	Segmentations of Liver and Hepatic Tumors from 3D Computed Tomography Abdominal Images
+5E4FF7F3	Pomeron Physics and QCD: Properties of the S -matrix
+5CEED268	Approaches to Semi-supervised Learning of Fuzzy Classifiers
+7BC30863	Counting Problems Associated With Steiner Trees In Graphs
+3AE78A39	Evaluating Learning Algorithms: Machine Learning and Statistics Overview
+8334DE53	A label fusion method using conditional random fields with higher-order potentials
+755F569E	An operator method for semi-supervised learning
+8060744D	SEMI-SUPERVISED LEARNING OF K-NEAREST NEIGHBORS USING A NEAREST-NEIGHBOR SELF-CONTAINED CRITERION IN FOR MOBILE-AWARE SERVICE
+79036979	Co_NBM: A Semi-Supervised Categorization Algorithm Based TEF_WA Technique
+7E313DDD	Semi-supervised Learning for SVM-KNN
+1468C07B	EC98-1562 Corn Insects: Quick Reference
+763A84DD	Semi- and Weakly- Supervised Semantic Segmentation with Deep Convolutional Neural Networks
+76A29FF0	Scalable scene understanding using saliency-guided object localization
+732DCEDA	Clustering of Questionnaire Based on Feature Extracted by Geometric Algebra
+8038C1F6	암의 예후 예측을 위한 그래프 기반의 준지도 학습 방법
+08507468	Semi-supervised learning using similarity and dissimilarity
+5BD0887F	Visibility Algorithms in the Plane: Visibility Graph Theory
+76CB408C	Hot keyword identification for extracting web public opinion
+76DA0B48	Interactive segmentation method with graph cut and SVMs
+850A0EAD	EN EL CENTRO UNIVERSITARIO DE TEATRO, LA CONFERENCIA MULTIMEDIA EL MEXTERMINATOR
+76F556C3	An MRF Model for Binarization of Natural Scene Text
+7AFF9F2A	Balanced energy for content-aware image resizing
+7723B898	Depth Based View Synthesis Using Graph Cuts for 3DTV
+7D445EF7	Time period identification of events in text
+5C2BD4DB	A Novel Spike Sorting Method Based on Semi-supervised Learning
+7A221221	Semi-supervised detection of collective anomalies with an application in high energy particle physics
+389D0D8E	Bounded Arithmetic, Propositional Logic, and Complexity Theory: Preliminaries
+7C496EEA	The G+/GraphLog Visual Query System
+344C4ACE	Apresentação: dossiê trabalho e sindicato
+7D259531	EL CONTACTO CON SU YO, PRIORITARIO PARA EL ACTOR
+76FD7BA7	Improving text classification accuracy using topic modeling over an additional corpus
+0526C036	Angel drops stinger
+76651C81	Transmission grid vulnerability assessment by eigen-sensitivity and cut-set screening
+7EFBA04C	Unsupervised Learning of Boosted Tree Classifier using Graph Cuts for Hand Pose Recognition
+7CF03D3E	A Novel K-Means Clustering Algorithm Based on Positive Examples and Careful Seeding
+82F444CE	Structural Geology: Faults
+3DCE5781	Programming with Higher-Order Logic: Implementing Proof Systems
+82095121	James Scott Memorial Skate Park re-opening
+040D7C86	ELECTRIC NETWORK CLASSIFIERS FOR SEMI-SUPERVISED LEARNING ON GRAPHS
+79D17C95	ESCAF&#2013A New and Cheap System for Complex Reliability Analysis and Computation
+7FB922AE	Adaptive Wireless Communications: Ad hoc networks
+7D6BA50B	Understanding user intent in community question answering
+802C6DCC	Combination of rough set theory and artificial neural networks for transient stability assessment
+860678BF	Identification problems in a class of mixture models with an application to the LISREL model
+7DE236B8	Facets for the cut cone II: Clique-web inequalities
+7890E6FE	Update Summarization using Semi-Supervised Learning Based on Hellinger Distance
+764986D1	Fast and Robust Graph-based Transductive Learning via Minimum Tree Cut
+7716FEE8	A semi-supervised learning method to classify grant support zone in web-based medical articles
+7F0C51CB	Enabling neuro-fuzzy classification to learn from partially labeled data
+5ED4E89D	Semi-supervised learning for musical instrument recognition
+5A3F68FF	Arroyo cut and fill record from Kanab Creek, southern Utah
+5A1E6684	IMPLEMENTASI ALGORITMA SEQUENTIAL COLORING UNTUK MELAKUKAN PEWARNAAN GRAF (STUDI KASUS: PETA KOTA MEDAN)
+7ECDBE7C	AN EFFICIENT DECOMPOSITION ALGORITHM FOR A WEIGHED PROCESS
+7DCA3874	A Semantic Bayesian Network for Web Mashup Network Construction
+5F8B41C7	Thin film photovoltaic device and process of manufacture
+0476ACD6	Large scale sparse semi-supervised learning
+7EE00B1D	A Novel Semi-Supervised Learning Methods Using Support Vector Domain Description
+74DE46F7	Theory construction and selection in modern physics: Origin of the S matrix: Heisenberg's program as a background to dispersion theory
+0291B06F	On the Feasibility of Heterogeneous Analysis of Large Scale Biological Data
+6D7454C6	How to Cut a Generator Frame to Install a Conversion Kit
+73E206B3	SE REFLEJA EL BRILLO DEL ARIEL EN EGRESADOS DE LA UNAM
+22EA84A1	Boundary Smoothing of Scanned Mesh Segmentation based on Graph Cut
+7BD75D3F	EFEITO DE INJÚRIAS MECÂNICAS NO PROCESSO RESPIRATÓRIO E NOS PARÂMETROS QUÍMICOS DE GOIABAS 'PALUMA' E 'PEDRO SATO'
+778FC938	Active semi-supervised framework with data editing
+5A7281C3	Guided informative image partitioning
+77EE11FD	Equivalence of the cut sets-based decomposition theorems and representation theorems on intuitionistic fuzzy sets and interval-valued fuzzy sets
+7FDCD437	Unsynchronized markerless motion capture with sharp illumination changes
+5B51DFD2	Entrevista con Antonio Crestani: Nuevas creaciones del CUT
+80AFC219	A Novel Metric Learning Method and Its Application
+61212E3D	EL EN CUT, TEATRO CON BASE EN EL MOVIMIENTO CORPORAL
+81DDC52C	CALCULATION OF THE FUZZY RELIABILITY IN NEISHABOUR TRAIN DISASTER; A CASE STUDY
+7CBCF7A0	An automated vertebra identification and segmentation in CT images
+01F5E7E5	TPN 2 : Using positive-only learning to deal with the heterogeneity of labeled and unlabeled data
+59D83561	Optimization of Feature-Opinion Pairs in Chinese Customer Reviews
+6207FB7D	PREMIO EN CHINA A LA ACTUACIÓN DE ÉRSULA PRUNEDA, ACADÉMICA DEL CUT. C LIZ DE ORO
+7CDC6107	Semi-supervised learning by disagreement
+02A57D94	New heuristics for the minimum fundamental cut basis problem
+763041DF	Laser Cutting of Ceramic and Thermal Efficiency Analysis
+5B241040	Finite Ordered Sets: Chains and antichains
+02F7C7A7	Dirichlet Process Mixture Models for Verb Clustering
+5E5FEEFE	强噪声背景下基于非网格MRF 的SAR 图像快速分割方法
+74B9BFDF	LA DAMA Y EL MORIBUNDO
+418DFABC	びまん性肺疾患識別におけるDeep Convolutional Neural Network特徴の解析 (情報論的学習理論と機械学習)
+4928B6CC	Análisis de las soluciones constructivas de los taludes del tramo : La Franca-Unquera P.K. 8+900 a 11+300 de la Autovía del Cantábrico A-8
+80D884BA	Hot item mining and summarization from multiple auction Web sites
+5C2052AD	Accurate silhouettes for surveillance : improved motion segmentation using graph cuts
+769E4623	Feature based semi-supervised product clustering using weighted word
+7B3B11C8	Mixture Models for Web Page Classification
+05B2C2FA	Why not cut aid? Let us count the ethical reasons, just for a start
+466A2CB1	Name Your Fetish, DVD - Laadukasta pervoa pornoa homoille - Varastossa - Homoware - Pohjoismaiden suurin homonettikauppa
+85A4EA4B	Character-Level Dependency Model for Joint Word Segmentation, POS Tagging, and Dependency Parsing in Chinese
+7C468B74	Enlarge the Training Data for Activity Recognition
+7FE5C92C	Clustering for DNA Microarray Data Analysis with a Graph Cut Based Algorithm
+77DDD8C6	Issues and Empirical Results for Improving Text Classification
+75997206	Babinski reflex and the CUT reflex ‐ a comparative study
+5B2AFDAC	Ave (with synth lead) DREAMY RELIGIOUS
+7B1CE1F5	Semi-Supervised Life-Long Learning with Application to Sensing
+734004EA	Application of supercritical carbon dioxide for leather processing
+7CD9AF94	A novel semi-supervised learning approach to analyzing metagenomic reads
+7E5F4736	Submodular feature selection for high-dimensional acoustic score spaces
+80202423	Extracting spatially and spectrally coherent regions from multispectral images
+7A6DF0B7	A co-Gaussian Process based framework for remote sensing image change detection
+7E14987C	Global Optimized Multiscale Tobacco Leaves Inspection through Graph Cut
+04FCCAD2	A human action recognition algorithm based on semi-supervised kmeans clustering
+1C5FBEB5	CTV British Columbia fires general manager, news director | The Hook
+75EB960B	Robust people counting using sparse representation and random projection
+758AA2FD	Classification by Clusters Analysis - An Ensemble Technique in a Semi-supervised Classification
+5E8432E1	ALUMNA DEL CUT PRESENTA SU POEMARIO PRIMIGENIO
+78EBA4BE	Query expansion using random walk models
+7DD5BE03	Multi-entity device-free WLAN localization
+5C8F456D	Ambient CINEMATIC SHORT
+78A143CF	Semi-Supervised short text categorization based on Random Subspace
+80D97426	A taxonomy of local search: semi-supervised query classification driven by information needs
+7C343BFA	3D spatio-temporal graph cuts for video objects segmentation
+7F85C0E3	Semantic video analysis for psychological research on violence in computer games
+32757E28	Under consideration for publication in Knowledge and Information Systems Semi-Supervised Learning by Disagreement
+7E6E91C4	Co-labeling: A New Multi-view Learning Approach for Ambiguous Problems
+826D5283	A robust method for interactive segmentation of Circle of Willis
+7795330A	Semi-supervised learning for text-line detection
+59AFE362	Semi-supervised learning on closed set lattices
+7955A889	3D automatic anatomy segmentation based on graph cut-oriented active appearance models
+7D331678	Indicative Support Vector Clustering with Its Application on Anomaly Detection
+81117B79	Generic object recognition using automatic region extraction and dimensional feature integration utilizing multiple kernel learning
+5FD23A1E	Cięcie struną zbrojoną materiałów trudnoobrabialnych
+672F53E4	A multi-layer Naïve bayes model for approximate identity matching
+7B622A11	A Semi-supervised Learning Method for Vietnamese Part-of-Speech Tagging
+77A1A9C0	Node connectivity and arc connectivity of a fuzzy graph
+5D8D1398	An Efficient Method to Estimate Labelled Sample Size for Transductive LDA(QDA/MDA) Based on Bayes Risk
+7C9828F3	Upsampling range camera depth maps using high-resolution vision camera and pixel-level confidence classification
+7B4B7211	A semi‐supervised active learning algorithm for information extraction from textual data
+02F9C480	Method and apparatus for preventing cyclotron breakdown in partially evacuated waveguide
+783271D7	A graph cut based active contour without edges with relaxed homogeneity constraint
+7F79E344	Upper Approximation Fuzzy Rough Communication Model at a Threshold Value
+5BE62E3F	Semi-supervised Learning of Caricature Pattern from Manifold Regularization
+75D5B312	Land Evaluation Based on Semi-supervised Learning Algorithm
+5D5BBAAB	Active and Semi-supervised Data Domain Description
+081F73C0	A Spin-Glass Model for Semi-Supervised Community Detection
+786D579E	Manifold regularization for semi-supervised sequential learning
+7093B543	Apparatus and process for removing a predetermined portion of reflective material from mirror
+5B700025	An algorithm proposed for Semi-Supervised learning in cancer detection
+7BE9E0CC	Exact solutions for constrained two-dimensional cutting problems
+758EC5E3	Real-Time Occlusion Handling in Augmented Reality Based on an Object Tracking Approach
+7F1C156A	Design and Implementation of a Missile Fault Diagnosis System Based on Fault-Tree Analysis
+75E32502	Information cut for clustering using a gradient descent approach
+2CF0E9F5	Econometric Modeling and Inference: Statistical Models
+7D533B85	Face Identification by a Cascade of Rejection Classifiers
+801DCCED	A Label Extended Semi-supervised Learning Method for Drug-target Interaction Prediction
+60626F33	Switching and Finite Automata Theory: Logic design
+85A735E0	SUICIDO EN SI BEMOL
+76B0C58A	Subspace selection using semi-supervised harmonic mean of Kullback-Leibler divergences
+5D5507F4	Discovering Authoritative News Sources and Top News Stories
+77B6DA39	The theory of intuitionistic fuzzy sets based on the intuitionistic fuzzy special sets
+82EB021A	Matrix Completion Discriminant Analysis.
+74767FE7	Optimization of computing systems multiprocessor architecture with designing real time systems
+00D06E81	RADAR INTERFEROMETRY: 2D PHASE UNWRAPPING VIA GRAPH CUTS
+7A5EF5C6	The impact of the assimilation of Aquarius sea surface salinity data in the GEOS ocean data assimilation system
+1D157B98	Government curtails child and youth rep's right to know | The Hook
+773763B5	A liver segmentation approach in contrast-enhanced CT images with patient-specific knowledge
+76019D97	3D Mesh Segmentation Based on Markov Random Fields and Graph Cuts
+77FDB469	Using Laplacian eigenmaps latent variable model and manifold learning to improve speech recognition accuracy
+7D1A72F0	Underwater swimmer segmentation
+78E1855F	An Interactive Video Foreground Segmentation System Based on Modeling and Dynamic Graph Cut Algorithm
+7AF34ED7	Collective prediction of ultimate tensile strength in high-precision foundries
+7C21ACE6	Modified low power STUMPS architecture
+7BA55E0F	Multiview Semi-Supervised Learning with Consensus
+79207521	3D shape recursive decomposition by Poisson equation
+76977B12	Maximum Margin Clustering for State Decomposition of Metastable Systems
+7F26873B	Matching Substrate Provision and use to Power Cut Oncogenesis
+76B1CF7D	Adaptive neuro-fuzzy inference system for recognition of cotton leaf diseases
+71714A37	SE PUSO EN ESCENA "MATA A TU PROJIMO COMO A TI MISMO"
+83597721	Bounded Arithmetic, Propositional Logic, and Complexity Theory: Witnessing theorems
+0B104DD1	Semi-Supervised Learning for Personalized Web Recommender System
+690766D6	Learning Features for Text Classification
+7FBABF94	A Static Linear Behavior Analog Fault Model for Switched-Capacitor Circuits
+78D66AA6	PKFCM - Proximity based kernel fuzzy c-means for semi-supervised data clustering
+85FF03B0	Image Classification with Semi-Supervised One-Class Support Vector Machine
+7A049AAC	A comparison study: Support vector machines for binary classification in machine learning
+5BF189E4	A Semi-supervised Learning Approach for Robust Indoor-outdoor Detection with Smartphones
+773A53F6	Representative Sets and Irrelevant Vertices: New Tools for Kernelization
+80A699A0	Analysis of classification learning based on estimation of distribution algorithms
+6B6D45FA	그래프 컷을 이용한 강인한 인체 실루엣 추출
+78A0B331	The mammalian Cut homeodomain protein functions as a cell‐cycle‐dependent transcriptional repressor which downmodulates p21WAF1/CIP1/SDI1 in S phase
+25DB560D	G89-947 Buying Meat by the Serving
+244DB7DA	映像作家にとってのデジタルコンテンツと文化 (特集 デジタルコンテンツの時代)
+7AB6F010	Object-based vectorization for interactive image editing
+1793D2AE	単一画像からの学習なし自動物体抽出に関する研究 (電気通信大学 IS(大学院情報システム学研究科)シンポジウム 第16回「Sensing and Perception」)
+7E1CA9E0	Semi-supervised learning in initially labeled non-stationary environments with gradual drift
+7F1A1016	A family of cuts for production systems
+0FD17DB0	部分教師付き多峰性low rank生成モデル学習手法の提案 (パターン認識・メディア理解)
+6D54A9D7	Detection Of Connected But A Cut Occurred Somewhere (Ccos) In Wireless Sensor Networks
+7C9FCC90	Presegmentation-based adaptive CFAR detection for HFSWR
+80134EBB	Bicycles and left-right tours in locally finite graphs
+5FB27B68	Local features classification for adaptive tracking
+7E26EFBE	Particle competition and cooperation for uncovering network overlap community structure
+013846D4	Computational models for stuctural analysis of retinal images
+7956F40D	Maximum a posteriori X-ray computed tomography using graph cuts
+75CD03B4	A novel planar layered representation for 3DTV and freeview TV applications
+77546EC5	Segmentation of carotid arteries by graph-cuts using centerline models
+78DA28B8	Consistent sulcal parcellation of longitudinal cortical surfaces
+778D8752	Atomics Simulation of Cutting Velocity Dependency in AFM-Based Nanomachining Process
+7D5028F2	Comparison of the cut and tetrazolium tests for assessing seed viability: a study using Australian native Leucopogon species
+5F838827	Accurate silhouette segmentation using motion detection and graph cuts
+7A3FACF0	Automatic people segmentation with a template-driven graph cut
+7EBF33A4	Learning the Threshold in Hierarchical Agglomerative Clustering
+76268732	Learning to Generate a Table-of-Contents with Supportive Knowledge
+76C9146F	Robust segmentation of lung tissue in chest CT scanning
+00930225	Semi-Supervised Learning by Olivier Chapelle, Bernhard Sch�lkopf, and Alexander Zien (Review)
+7E4F6360	Forgery Authentication in Extreme Wide-Angle Lens Using Distortion Cue and Fake Saliency Map
+7FE40E62	Triangulation based technique for efficient stereo computation in infrared images
+7DC1C312	Early stopping Heuristics in Pool-Based Incremental Active Learning for Least-Squares Probabilistic Classifier
+7F200672	Simplex partitioning via exponential clocks and the multiway cut problem
+034FFF88	Fast support vector regression based on cut
+084B01F5	ΜΙΑ ΠΡΟΤΑΣΗ ΓΙΑ ΝΕΕΣ ΠΡΟΔΙΑΓΡΑΦΕΣ ΜΕΛΕΤΗΣ ΔΑΣΙΚΩΝ ΔΡΟΜΩΝ
+7885B9E4	Video object tracking using graph cuts and location-dependent appearance models
+7980A6F5	An efficient cut-based algorithm on minimizing the number of L-shaped channels for safe routing ordering
+75F62315	Comparison modeling of system reliability for future NASA projects
+152E57AC	Automatic building texture completion
+7DA8544C	Segmentation of strain-encoded magnetic resonance images using graph-cuts
+7CFD5E4A	Hardware-based Reliability Tree (HRT) for fault tree analysis
+5F2975F8	Mesh Cutout*This paper was supported in part by National Natural Science Foundation of China (Grant No. 60373070).
+8208B56B	Fused Feature Representation Discovery for High-Dimensional and Sparse Data
+7729CE4C	Unveiling clusters of events for alert and incident management in large-scale enterprise it
+77DE139F	Adaptive graph-cut algorithm to video moving objects segmentation based on Euler's Elastica Model
+7947C6DA	Hierarchical Subquery Evaluation for Active Learning on a Graph
+7A2B95A9	Semi-supervised sequence classification using abstraction augmented Markov models
+07F6D60F	Chapter 4 : Anomaly Detection
+7EFF2BC4	Learning from positive and unlabeled examples
+787E5224	A method of dunhuang frescos segmentation based on Markov random field and Graph cut
+846D8E01	Comparison of Video Shot Boundary Detection
+757D7EA2	Bounding-Box Based Segmentation with Single Min-cut Using Distant Pixel Similarity
+5497025C	EL TEATRO EN LA UNAM
+7CB478DB	Semi-Supervised Learning Classifier System Based on Bayes
+72A72881	EL TEATRO, UN DIÁLOGO CON EL ESPECTADOR
+02C536AE	Automatic Nuchal Translucency Measurement from Ultrasonography
+6D6F6028	Multi-view semi-supervised discriminant analysis: A new approach to audio-visual person recognition
+7BAFBB8E	Image segmentation and registration for the analysis of joint motion from 3D MRI
+790375E0	Improved graph cut segmentation by learning a contrast model on the fly
+834A0AEE	A semi-supervised learning system for service robots to recognise human actions
+76917D73	DETERMINATION OF BRAKING OPTIMAL MODE OF CONTROLLED CUT OF DESIGN GROUP
+85DE0787	Semi-supervised learning for cyberbullying detection in social networks
+7ACB68B9	Multiresolution median filtering based video temporal segmentation
+7BF36A83	Unsupervised co-segmentation based on a new global GMM constraint in MRF
+8036AB24	Semi-Supervised Detrended Correspondence Analysis Algorithm
+80977524	Automatic cardiac LV segmentation in MRI using modified graph cuts with smoothness and interslice constraints
+7BD31C0B	Non-Negative Matrix Factorization with Auxiliary Information on Overlapping Groups
+7C7055A6	About retraining rule in multi–expert intelligent system for semi–supervised learning using SVM classifiers
+816E8973	Automatic generation of privacy-protected videos using background estimation
+5C0FCCD5	Finding combinatorial histone code by semi-supervised biclustering
+7EE2BA89	State transition-based for cooperative Shot Boundary Detection
+809B4BA9	Bayesian detection in partially homogeneous environment with orthogonal rejection
+7A609465	The normal intuitionistic fuzzy subgroups
+7BF622F6	A cooperative learning strategy for interactive video search
+777C8AD6	Classification of Hyperspectral Data Based on Semi-Supervised Tri-Training Learning Framework
+7B8B7B1A	Localized Sliced Inverse Regression
+5AAA509A	Iterative semi-supervised learning: helping the user to find the right records
+5875A1FF	Combate escénico. Visita de los maestros de la London Academy of Music and Dramatic Art al CUT
+62F1EDA1	Intervalos de corte e doses de potássio no rendimento e qualidade da forragem do capim-tanzânia
+7F8D08CA	Covariate shift adaptation for semi-supervised speaker identification
+816D8E2D	PyMix--the python mixture package--a tool for clustering of heterogeneous biological data.
+769164C0	Semi-supervised text categorization with only a few positive and unlabeled documents
+7AC24B73	EFEITO DE INJÚRIAS MECÂNICAS NA FIRMEZA E COLORAÇÃO DE GOIABAS DAS CULTIVARES PALUMA E PEDRO SATO
+63ADC479	QUINTANILLA MATIELLA CONTINUARA EN LA DIRECCION DEL CUT
+5D182856	Graph cut: application to Bayesian emission tomography reconstruction
+77689D9F	An experimental comparison of modern methods of segmentation
+39C936DC	Representing Sylvia Plath: Plath and torture: cultural contexts for Plath’s imagery of the Holocaust
+71BBE533	A new architecture of signature analyzers for multiple-output circuits
+7ACC3AA1	Interactive tracking-based pedestrian segmentation in dynamic scenes
+66074785	LOS CONJURADOS, REF LEXIÓN SOBRE REBELIÓN Y POLÍTICA
+71F5BA40	A submodular optimization framework for never-ending learning : semi-supervised, online, and active learning.
+5CA10CFF	SETTING GRAPH CUT WEIGHTS FOR AUTOMATIC FOREGROUND EXTRACTION IN WOOD LOG IMAGES
+07F81467	Learning context-free grammars to extract relations from text
+2E27BBC5	Detection of Video Cut Using Autocorrelation Function and Edge Histogram
+3CD8BFA8	Modern Irish: The semi-vowel and consonant systems
+7EDEC763	Intersection types and computational effects
+802B8FA1	CUT : Combining stochastic ordering and censoring to bound steady-state rewards and first passage time
+8450EEBE	Hypernode Graphs for Learning from Binary Relations between Groups in Networks
+7F6027CF	O absurdo da interpretação econômica do "fato gerador". Direito e sua autonomia - o paradoxo da interdisciplinariedade
+7CA1281A	Relations Expansion: Extracting Relationship Instances from the Web
+25D00A9F	SUMBMISSION TO TPAMI: OOI EXTRACTION BY LOCAL-GLOBAL ENERGY MINIMIZATION 1 Iterative
+7A9DEF09	Analysis of Spare Capacity Ratio in Optical Internet using Cut-Set
+81180EF8	EN EL CUT. LA OVEJA NEGRA, ESPECTACULO ANTISOLEMNE BASADO EN LA OBRA DE TITO MONTERROSO
+7A390C5C	Constrained Anisotropic Diffusion and some Applications
+7A05E0AA	Retarding senescence of cut leaves of Hosta plantaginea by growth regulators
+5ABAF92B	SE ESTRENA EL MALEFICIO DE LA MARIPOSA, GRITO PRIMIGENIO DE FEDERICO GARCÍA LORCA
+3C9DAE58	Bounded Arithmetic, Propositional Logic, and Complexity Theory: Strength of bounded arithmetic
+7D233D3A	Fusion of aerial images and sensor data from a ground vehicle for improved semantic mapping
+1C47A6C0	Gaming grant cut to Victoria anti-poverty group | The Hook
+811E0F96	How to Mine Information from Each Instance to Extract an Abbreviated and Credible Logical Rule
+7ECDEC54	Apparatus for loading a band saw blade
+7EF5BBAD	Combining classifier and cluster ensembles for semi-supervised and transfer learning
+799A961E	Exploring concept drift using interactive simulations
+3D3EEC21	Frequency and outage duration in electric power systems
+7CAB66AC	Quantic molecular resonance scalpel and its potential applications in oral surgery
+763D9407	An MRF framework for joint registration and segmentation of natural and perfusion images
+7F5E9956	Using graph cuts in GPUs for color based human skin segmentation
+805302E2	Enhancing facility locating via a novel hybrid model
+764B9DA1	Facilitatory Effect of Ventral Cut of Dorsal Raphe Nucleus on Lordosis in Female Rats
+7D27EE24	Tri-factorization learning of sub-word units with application to vocabulary acquisition
+751EFFCA	Efficient piecewise learning for conditional random fields
+848507DC	Hyper-parameter optimization for manifold regularization learning = : Otimização de hiperparâmetros para aprendizado do computador por regularização em variedades
+75DE6649	A graph cut strategy for transmission path problems in statistical energy analysis
+755CDF8C	A Global Stereo Matching Algorithm Based on Adaptive Support-Weight and Graph Cut
+012437B6	Modeling the power requirements of a rotary feeding and cutting system
+7537647A	Cross Domain Random Walk for Query Intent Pattern Mining from Search Engine Log
+85A4CF05	Multiple Birth and Cut Algorithm for Multiple Object Detection
+5B28A772	Semi-supervised Metric Learning for Image Classification
+7C8981B9	Graph based construction of textured large field of view mosaics for bladder cancer diagnosis
+6F3E9693	Link Propagation: A Fast Semi-supervised Learning Algorithm for Link Prediction
+764D10F8	Short Text Classification: A Survey
+7E20126F	SSL-EDA: semi-supervised learning algorithm based on estimation of distribution algorithm
+22727113	Équipes-Projets Maestro
+796428EA	A survey on graph partitioning approach to spectral clustering
+7D6D5EBF	Random Forests for Prediction of DNA-Binding Residues in Protein Sequences Using Evolutionary Information
+71882A53	Micro-text classification between small and big data
+19C413FD	相互 k -近傍グラフを用いた半教師あり分類
+7C3CEAC9	Optimum Feed Point for Isotope Separating Thermal Diffusion Column
+69CF2A5E	Segmentation of Dermoscopic Images by the Fusion of Type-2 Fuzziness Measure in Graph Cuts Image Binarization
+5B0E3427	P2P Traffic Classification Using Semi-Supervised Learning
+6D74E75E	CLOSE RANGE DIGITAL PHOTOGRAMMETRY AND SOFTWARE APPLICATION DEVELOPMENT FOR PLANAR PATTERNS COMPUTATION
+23D05EF3	確率アトラスで重みを付けたグラフカットによる腹部CT画像からの膵臓の対話的抽出手法の基礎的検討 (パターン認識・メディア理解)
+77860708	Efficient semi-supervised annotation with Proxy-based Local Consistency Propagation
+80DFF08D	A computational method for fuzzy arithmetic operations
+77B7D280	Mixture weight influence on kernel entropy component analysis and semi-supervised learning using the Lasso
+7EE7DDE0	Satellite image retrieval using semi-supervised learning
+0CAD3DB2	Register for Email Rate Notices
+5747A921	Fuck Crazy DVD - Fuck Crazy - Inte på lager - Homoware - Skandinaviens största gayshop online
+7A9DF08C	Improved Parallel Implementations of Gusfield's Cut Tree Algorithm
+788099C9	Semi-Supervised Nonparametric Discriminant Analysis
+80D2C911	Open-set semi-supervised audio-visual speaker recognition using co-training LDA and Sparse Representation Classifiers
+764BFA07	On Computational Issues of Semi-Supervised Local Fisher Discriminant Analysis
+7BA9AAAD	Dirichlet mixtures of graph diffusions for semi supervised learning
+773B1FAA	Topology preserving brain tissue segmentation using graph cuts
+781569E8	Statistical modelling of analog circuits for test metrics computation
+0B0655EE	Serologic Survey for HTLV-I in Kanagawa Prefecture
+7D772D40	Exemplar-Based Image Inpainting Using Multiscale Graph Cuts
+7DE99472	High-confidence near-duplicate image detection
+0BFEC2FB	Decomposition of EEG Signals for Multichannel Neural Activity Analysis in Animal Experiments
+06ED24DB	Effective Algorithms for Human Action Recognition
+7FDCED02	Measuring Variation in Use of the WHO Surgical Safety Checklist in the Operating Room: A Multicenter Prospective Cross-Sectional Study
+7C8560DF	The Extended Co-learning Framework for Robust Object Tracking
+7E71DA17	Multimedia file allocation on VC networks using multipath routing
+7529F918	Dense stereo matching using kernel maximum likelihood estimation
+843D549D	Graph-based Classification on Heterogeneous Information Networks
+7F912139	The Application Layer Protocol Identification Method Based on Semisupervised Learning
+3CED4E6A	Bounded Arithmetic, Propositional Logic, and Complexity Theory: Basic bounded arithmetic
+7F188945	Malicious web page detection based on on-line learning algorithm
+76631F29	Very simple methods for all pairs network flow analysis
+319A7730	Women and the State in Modern Indonesia: Violence
+7668B742	Graph Cuts based image segmentation using local color and texture
+78300521	Some results concerning the ends of minimal cuts of simple graphs
+74746209	웹코믹스의 메타표현에 관한 연구
+7B1DD597	Multilabel Region Classification and Semantic Linking for Colon Segmentation in CT Colonography
+189F5CEF	セグメンテーションと事前形状の同時最適化のための一手法の提案と膵臓セグメンテーションヘの応用 (医用画像) -- (医用画像解析における統計数理的手法)
+80A93B62	An Interactive Video Annotation Frameowrk with Multiple Modalities
+78C35982	A Method for P2P Traffic Identification Based on Semi-Supervised Learning
+21FA5E8A	自由視点画像合成の高品質化のための奥行き推定誤差抑制の一検討 (メディア工学・コンシューマエレクトロニクス)
+7B55DA14	Graph Cuts-Based Automatic Color Image Segmentation
+80E21C8A	Real-World Semi-Supervised Learning of POS-Taggers for Low-Resource Languages
+58EA89FB	RAUL QUINTANILLA, NUEVO DIRECTOR DEL CUT
+775C097E	Study on Sub Topic Clustering of Multi-Documents Based on Semi-Supervised Learning
+7707A92D	Identifying functional connectivity in large-scale neural ensemble recordings: A multiscale data mining approach
+79091A5D	Semi-supervised learning of geographical gazetteers from the internet
+21D0DCDA	Aplikace 3D modelů jako předloh sestav výrobních celků
+5EBD6232	Shot boundary detection using frame transition parameters and edge strength scatter
+75CBD920	Classification with cooperative semi-supervised learning using bridge structural health data
+7BC7C53C	Multilingual Sentiment Analysis Using Emoticons and Keywords
+7D1FB91B	Unconstrained Object Segmentation Using GrabCut Based on Automatic Generation of Initial Boundary
+7AF65CE3	A semi-supervised clustering algorithm based on local scaling graph and label propagation
+786B4D29	MuralCut: Automatic character segmentation from mural images
+7977FC04	Monocular depth cue fusion for image segmentation and grouping in outdoor navigation
+750B0132	Spectral Graph Optimization for Instance Reduction
+7829D5F4	Anchoring Graph Cuts Towards Accurate Depth Estimation in Integral Images
+808DB6FC	Injúrias mecânicas e seus efeitos na qualidade de melancias armazenadas em condição ambiente
+7CEBB3C8	Automatic Content-Based Image Retrieval Using Hierarchical Clustering Algorithms
+79689747	AR-Tri-Training: Tri-Training with Assistant Strategy
+806B3742	The Activity of β-Hexosaminidase (uHex) and y-Glutamyi-transferase (uGGT) in Urine as Non-Invasive Markers of Chronic Alcohol Abuse: II. Opiate-Dependent Subjects Receiving Methadone Substitution
+1A0BC69A	100 Things I Want To Do Before I Turn 24
