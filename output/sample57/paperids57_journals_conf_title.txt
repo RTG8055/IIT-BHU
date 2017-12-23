@@ -1,0 +1,55 @@
+770EB885	Journal of Complexity<--Elastic-net regularization in learning theory
+7CEE7EDE	International Conference on Pattern Recognition<--A Hybrid HMM-Based Speech Recognizer Using Kernel-Based Discriminants as Acoustic Models
+7F8F53F9	International Journal for Numerical Methods in Engineering<--The method of fundamental solutions for inverse boundary value problems associated with the steady‐state heat conduction in anisotropic media
+7EC39EA2	Information not present<--A study on hidden Markov model's generalization capability for speech recognition
+7DE37037	International Conference on Acoustics, Speech, and Signal Processing<--Discrete mixture HMM
+8068D18D	IEEE-RAS International Conference on Humanoid Robots<--Robust hands-free Automatic Speech Recognition for human-machine interaction
+7B0C0D3F	Physics Reports<--Chiral Lagrangians and Nambu-Jona-Lasinio like models
+7D4E550B	International Journal of Solids and Structures<--Numerical solution of the Cauchy problem for steady-state heat transfer in two-dimensional functionally graded materials
+7ECE76F2	IEEE Transactions on Biomedical Engineering<--Model Estimation of Cerebral Hemodynamics Between Blood Flow and Volume Changes: A Data-Based Modeling Approach
+7E7C9F6F	EURASIP Journal on Advances in Signal Processing<--The effects of noise on speech recognition in cochlear implant subjects: predictions and analysis using acoustic models
+8113BCCD	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Eigenfeature Regularization and Extraction in Face Recognition
+7881B8BF	Neurocomputing<--Regularized locality preserving discriminant analysis for face recognition
+79F8471E	Journal of Statistical Computation and Simulation<--Regularized proportional odds models
+24D39B30	Ieice Transactions<--Genetic Algorithm Based Optimization of Partly-Hidden Markov Model Structure Using Discriminative Criterion(Speech Recognition, Statistical Modeling for Speech Processing)
+79F1432A	Journal of Computational and Graphical Statistics<--Clustering Curves on a Reduced Subspace
+80794964	IEEE Transactions on Signal Processing<--A General Framework for Sparsity-Based Denoising and Inversion
+76EDAF16	International Conference on Acoustics, Speech, and Signal Processing<--Subspace Gaussian mixture model with state-dependent subspace dimensions
+80F92BE9	Journal of High Energy Physics<--The r-matrix of the Alday-Arutyunov-Frolov model
+24B0DA44	Information not present<--Statistical Acoustic Model Adaptation for Robust Speech Recognition in Noisy Reverberant Environments
+79DB33C5	Electronics and Communications in Japan Part Ii-electronics<--Acoustic models of the elderly for large‐vocabulary continuous speech recognition
+269F5F58	Information not present<--Automatic Model Generation for Speech Recognition
+8118E97E	IEEE Transactions on Image Processing<--Geodesic Active Fields—A Geometric Framework for Image Registration
+828B43F4	International Journal of Heat and Mass Transfer<--An invariant method of fundamental solutions for two-dimensional steady-state anisotropic heat conduction problems
+7DCE018B	Advances in Computational Mathematics<--Regularization networks and support vector machines
+79F45FF9	Information Theory and Applications<--Discriminative Models for Speech Recognition
+804433CC	International Conference on Pattern Recognition<--A Bayesian framework for regularization
+7AA5BE88	Annals of Statistics<--Piecewise linear regularized solution paths
+7CC97970	Information Sciences<--Radial Basis Function network learning using localized generalization error bound
+7B1AA3CE	Information not present<--A Spatial Regularization of LDA for Face Recognition
+815F61B2	Computer Speech & Language<--Acoustic model adaptation using in-domain background models for dysarthric speech recognition
+79AAFCF5	Applied Mathematics and Computation<--A meshless method for the numerical solution of the Cauchy problem associated with three-dimensional Helmholtz-type equations
+7F8267B3	Foundations of Computational Mathematics<--Adaptive Kernel Methods Using the Balancing Principle
+7EC21E0B	Information not present<--Large Vocabulary Mandarin Continuous Speech Recognition under Noisy Environment
+7D3C2BD7	Journal of The Royal Statistical Society Series B-statistical Methodology<--L1‐regularization path algorithm for generalized linear models
+7FC0C78E	Pattern Recognition Letters<--Regularization studies of linear discriminant analysis in small sample size scenarios with application to face recognition
+806602FC	International Conference on Acoustics, Speech, and Signal Processing<--Acoustic model training for non-audible murmur recognition using transformed normal speech data
+7B37D69B	Journal of the American Statistical Association<--Efficient Global Approximation of Generalized Nonlinear â„“1-Regularized Solution Paths and Its Applications
+7C47C98D	International Conference on Acoustics, Speech, and Signal Processing<--Model-based dereverberation in the logmelspec domain for robust distant-talking speech recognition
+81717C8A	Information not present<--Improving of Acoustic Model for the Mongolian Speech Recognition System
+7AB5539E	Signal Processing<--Sparse deconvolution using adaptive mixed-Gaussian models
+7FCB9B29	International Conference on Acoustics, Speech, and Signal Processing<--Bayesian sensing hidden Markov models for speech recognition
+7FD65373	Journal of Machine Learning Research<--Learning Multiple Tasks with Kernel Methods
+7EB6E8D3	Information not present<--Some Properties of a Recursive Procedure for High Dimensional Parameter Estimation in Linear Model with Regularization
+84349968	Information not present<--Weight-decay regularization in reproducing Kernel Hilbert spaces by variable-basis schemes
+7D7B6717	IEEE Transactions on Automatic Control<--Identification of stable models in subspace identification by using regularization
+1881F04A	Ieice Transactions<--Using Hybrid HMM/BN Acoustic Models : Design and Implementation Issues(Speech Recognition, Statistical Modeling for Speech Processing)
+7C888888	Annals of Statistics<--Penalized Discriminant Analysis
+7BD96528	Information Sciences<--Embedded local feature selection within mixture of experts
+7B2D3282	Speech Communication<--Measuring information provided by language model and acoustic model in probabilistic speech recognition: Theory and experimental results
+7DA92E38	Pattern Recognition Letters<--Regularized discriminant analysis for the small sample size problem in face recognition
+7B1E0639	Computers & Structures<--The method of fundamental solutions for the Cauchy problem associated with two-dimensional Helmholtz-type equations
+799E0C6C	Neural Computing and Applications<--Multimedia event detection with ℓ2-regularized logistic Gaussian mixture regression
+75C78FFC	Expert Systems With Applications<--A unified framework for recommending items, groups and friends in social media environment via mutual resource fusion
+2526A3A8	Ieice Transactions<--Acoustic Model Adaptation Using First-Order Linear Prediction for Reverberant Speech (Speech Recognition, Statistical Modeling for Speech Processing)
+7BD64644	Journal of Complexity<--Discrepancy based model selection in statistical inverse problems

@@ -1,0 +1,52 @@
+8119272D	Automatica<--A small gain framework for networked cooperative force-reflecting teleoperation
+7E1BD1FB	Information not present<--System-Level Black-Box Dc-to-Dc Converter Models
+7EA313D3	International Conference on Acoustics, Speech, and Signal Processing<--Frame-wise HMM adaptation using state-dependent reverberation estimates
+7F5E409B	IEEE Transactions on Audio, Speech, and Language Processing<--Speech Dereverberation Based on Maximum-Likelihood Estimation With Time-Varying Gaussian Source Model
+7E62BB1F	Conference on Decision and Control<--H 2 gain scheduling control for rational LPV systems using the descriptor framework
+7EF7F8EF	Conference on Decision and Control<--Design of a modified repetitive control system using state feedback based on two-dimensional hybrid model
+684788E1	International Symposium on Circuits and Systems<--A ΔΣ ADC using an LSB-first SAR quantizer
+5A4C26A5	Proceedings of The International Astronomical Union<--Finally a Double-Mode RR Lyrae Model?
+81160F9A	International Conference on Acoustics, Speech, and Signal Processing<--Blind Dereverberation based on Estimates of Signal Transmission Channels without Precise Information of Channel Order
+5D8F6C5F	Information not present<--Asymmetric stability property of a sagittal-plane model with a compliant leg and Rolling contact
+7D2B0237	Journal of Mathematical Biology<--A generalized model of the repressilator
+63413671	Information not present<--A Higher Order Upwind Scheme for Three-Dimensional Finite Difference Model of Conservative Pollutants Transport
+7CBCE1D4	Physics of Fluids<--On the Rayleigh-Bénard problem in the continuum limit: Effects of temperature differences and model of interaction
+7D052E08	International Conference on Acoustics, Speech, and Signal Processing<--Recognizing reverberant speech with RASTA-PLP
+78325576	Physical Review B<--Thermodynamic properties of the infinite-range Ashkin-Teller model
+765F037A	IEEE Software<--Using and Abusing XML
+7E5AC86C	Robotics and Biomimetics<--Stability of coupled oscillators using Frenkel-Kontorova model
+7D790564	International Symposium on Circuits and Systems<--Robust blind dereverberation of speech signals based on characteristics of short-time speech segments
+76C7F9B8	IEEE Signal Processing Letters<--Weight-Space Viterbi Decoding Based Spectral Subtraction for Reverberant Speech Recognition
+7D8AF82F	IEEE Transactions on Audio, Speech, and Language Processing<--Robust Speech Recognition Based on Dereverberation Parameter Optimization Using Acoustic Model Likelihood
+7EF3FC6E	IEEE Transactions on Electron Devices<--Investigation of Cell Stability and Write Ability of FinFET Subthreshold SRAM Using Analytical SNM Model
+7F371D2F	Information not present<--On some properties of diagonally stable polytopic systems
+774D2E7B	Robotics and Biomimetics<--Adaptive control for piezoelectric actuator using discrete-time Bouc-Wen model
+5D25E596	Information not present<--Convex gain-scheduled control of an LFT model
+7D5977B1	Information not present<--A Unified Speed Estimation Design Framework for Sensorless AC Motor Drives Based on Positive-Real Property
+7D0A41E4	Computer Vision and Pattern Recognition<--Stability effects of finite difference methods on a mathematical tumor growth model
+7C28A993	Conference on Decision and Control<--On the swing-up of the Pendubot using virtual holonomic constrains
+77E84575	Information not present<--A Small Gain Framework for Networked Cooperative Teleoperation
+7EA6DAB7	Information not present<--Passive hypersonic boundary layer transition control using an ultrasonically absorptive coating with random microstructure:Computational analysis based on the ultrasonic absorption properties of carbon-carbon
+7DFB72A7	American Control Conference<--Performance analysis of recoverable flight control systems using hybrid dynamical models
+2285CC00	Information not present<--THE MACROECONOMIC FRAMEWORK
+80970C93	International Conference on Intelligent Computing<--The Global Stability for a Vector-Host Epidemic Model
+7F1704A1	International Conference on Acoustics, Speech, and Signal Processing<--Spectral Subtraction Steered by Multi-Step Forward Linear Prediction For Single Channel Speech Dereverberation
+7FF00F66	International Conference on Acoustics, Speech, and Signal Processing<--Fast estimation of a precise dereverberation filter based on speech harmonicity
+032C4ECC	Information not present<--Equations of fluid flow, finite difference approximations and basic mathematical properties of each
+7F968833	International Conference on Acoustics, Speech, and Signal Processing<--Blind speech dereverberation with multi-channel linear prediction based on short time fourier transform representation
+7EC2976E	International Conference on Acoustics, Speech, and Signal Processing<--Blind dereverberation of single channel speech signal based on harmonic structure
+800171EF	Canadian Geotechnical Journal<--Finite element analysis of the stability of a vertical cut using an anisotropic soil model
+76F43CE7	General Relativity and Gravitation<--Tachyonization of the $\La$CDM cosmological model
+8004D3FA	IEEE Transactions on Industrial Electronics<--Partial internal model control
+7E21FF68	Workshop on Applications of Signal Processing to Audio and Acoustics<--Importance of Energy and Spectral Features in Gaussian Source Model for Speech Dereverberation
+779626F1	IEEE-RAS International Conference on Humanoid Robots<--Mitigating the effects of reverberation for effective human-robot interaction in the real world
+801597A0	IEEE Transactions on Audio, Speech, and Language Processing<--Reverberation Model-Based Decoding in the Logmelspec Domain for Robust Distant-Talking Speech Recognition
+5EA578DE	Information not present<--Dynamic associative memory by using chaos of a simple associative memory model with Euler's finite difference scheme
+59FD9774	Information not present<--Physicochemical Properties of Nanostructured Perfluoropolyether Films
+7DA9AFC8	Information not present<--Explicit Finite Difference Methods and its Stability on Black-Scholes Model
+7E1541D0	International Conference on Robot Communication and Coordination<--Formation control of omnidirectional mobile robots using distributed model predictive control
+7612EFDC	IEEE Translation Journal on Magnetics in Japan<--Soft Magnetic Properties of FeSiN/Ceramics Multi-Layers
+7752272C	IEEE Transactions on Systems, Man, and Cybernetics<--A new prey-predator model
+8169EC25	World Congress on Computational Intelligence<--A stability analysis of fuzzy control system using a generalized fuzzy Petri net model
+7F9C9248	Information not present<--Modeling and Simulation of an Active Vibration Control System for a Flexible Structure Using Finite Difference Method
+7C68239C	Mathematics and Computers in Simulation<--Qualitative properties of a niche-model

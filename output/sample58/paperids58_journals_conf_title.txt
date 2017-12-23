@@ -1,0 +1,49 @@
+7EA313D3	International Conference on Acoustics, Speech, and Signal Processing<--Frame-wise HMM adaptation using state-dependent reverberation estimates
+7F5E409B	IEEE Transactions on Audio, Speech, and Language Processing<--Speech Dereverberation Based on Maximum-Likelihood Estimation With Time-Varying Gaussian Source Model
+80E14FD9	IEEE Transactions on Biomedical Engineering<--Identification of Time-Varying Intrinsic and Reflex Joint Stiffness
+762C123D	International Conference on Acoustics, Speech, and Signal Processing<--Robust speaker identification in noisy and reverberant conditions
+81160F9A	International Conference on Acoustics, Speech, and Signal Processing<--Blind Dereverberation based on Estimates of Signal Transmission Channels without Precise Information of Channel Order
+784358DD	IEEE Geoscience and Remote Sensing Letters<--Hyperspectral Subspace Identification Using SURE
+7C037874	International Conference on Image Processing<--Robust learning-based super-resolution
+779236C5	Information not present<--“Good-but-Imperfect” electromagnetic reverberation in a VIRC
+5B91FE8D	Information not present<--Robust sidelobe canceller against DOA mismatch
+76E8ECB3	Information not present<--Vision-based robust localization for vehicles
+7D052E08	International Conference on Acoustics, Speech, and Signal Processing<--Recognizing reverberant speech with RASTA-PLP
+80B8BE55	IEEE Transactions on Biomedical Engineering<--SNR-Adaptive Stream Weighting for Audio-MES ASR
+8038EDA0	IEEE Transactions on Wireless Communications<--Robust Ultra-Wideband Signal Acquisition
+783093ED	Information not present<--Blind spectral weighting for robust speaker identification under reverberation mismatch
+78C2C88B	Global Communications Conference<--Robust indoor localization based on hybrid Bayesian graphical models
+7D48EFBF	Advanced Robotics and its Social Impacts<--Verification of sound source localization in reverberation room and its real time adaptation using visual information
+5F55D9C7	International Conference on Acoustics, Speech, and Signal Processing<--A robust region-based near-field beamformer
+16E86574	Information not present<--Shallow-Water Acoustic Reverberation
+7D9E8BB7	Information not present<--Identification and Estimation of Dynamic Games when Players' Beliefs Are Not in Equilibrium
+7D790564	International Symposium on Circuits and Systems<--Robust blind dereverberation of speech signals based on characteristics of short-time speech segments
+76C7F9B8	IEEE Signal Processing Letters<--Weight-Space Viterbi Decoding Based Spectral Subtraction for Reverberant Speech Recognition
+7D8AF82F	IEEE Transactions on Audio, Speech, and Language Processing<--Robust Speech Recognition Based on Dereverberation Parameter Optimization Using Acoustic Model Likelihood
+0189BE75	Information not present<--Environmentally Adaptive Reverberation Nulling
+67A8F1E7	Information not present<--Distant-talking speaker identification using a reverberation model with various artificial room impulse responses
+80E23B58	International Conference on Acoustics, Speech, and Signal Processing<--A comparison of front-end compensation strategies for robust LVCSR under room reverberation and increased vocal effort
+4377D34F	Acoustical Science and Technology<--Comparison of consonant identification improvements by steady-state suppression via a loudspeaker system between with and without natural sounds from a talker in reverberation( Commemoration of the Japan-China Joint Conference on Acoustics 2007 (JCA2007))
+7F725D0F	Information not present<--Determination of reverberation distance using frequency and time domain
+793F7FB3	Automatica<--Worst-case control-relevant identification
+78BBB3FB	Workshop on Applications of Signal Processing to Audio and Acoustics<--Coherent spectral estimation for a robust solution of the permutation problem
+5F60A43F	Information not present<--Identification d'images dégradées par un bruit additif ou multiplicatif
+7F1704A1	International Conference on Acoustics, Speech, and Signal Processing<--Spectral Subtraction Steered by Multi-Step Forward Linear Prediction For Single Channel Speech Dereverberation
+7FF00F66	International Conference on Acoustics, Speech, and Signal Processing<--Fast estimation of a precise dereverberation filter based on speech harmonicity
+7375F18E	Information not present<--Multi-objective Weighted Sampling
+7F433A10	Information not present<--Algorithms for robust signal subspace identification in hyperspectral images: A comparative analysis
+7F968833	International Conference on Acoustics, Speech, and Signal Processing<--Blind speech dereverberation with multi-channel linear prediction based on short time fourier transform representation
+7EC2976E	International Conference on Acoustics, Speech, and Signal Processing<--Blind dereverberation of single channel speech signal based on harmonic structure
+5ED02184	Information not present<--Shallow-Water Reverberation
+808EFF34	International Conference on Acoustics, Speech, and Signal Processing<--Blind reverberation mitigation for robust speaker identification
+8417C059	Information not present<--Errors-in-variables identification of noisy moving average models
+78F75DBA	Workshop on Image Analysis for Multimedia Interactive Services<--Robust localization and tracking of multiple speakers in real environments for binaural robot audition
+762FD639	International Conference on Acoustics, Speech, and Signal Processing<--Hands-free speaker identification based on spectral subtraction using a multi-channel least mean square approach
+7E21FF68	Workshop on Applications of Signal Processing to Audio and Acoustics<--Importance of Energy and Spectral Features in Gaussian Source Model for Speech Dereverberation
+779626F1	IEEE-RAS International Conference on Humanoid Robots<--Mitigating the effects of reverberation for effective human-robot interaction in the real world
+801597A0	IEEE Transactions on Audio, Speech, and Language Processing<--Reverberation Model-Based Decoding in the Logmelspec Domain for Robust Distant-Talking Speech Recognition
+5B25222B	Information not present<--Re‐envoicements and Reverberations in Almodóvarós Macro‐Melodrama
+7685C69E	Active Media Technology<--Robust adaptive beamforming based on jointly estimating
+792B8379	Intelligent RObots and Systems<--Robust positioning using relaxed constraint-propagation
+802985F6	International Conference on Acoustics, Speech, and Signal Processing<--Blind system identification for speech dereverberation with Forced Spectral Diversity
+780B9201	Information not present<--Joint robust beamformer of space-frequency-polarization

@@ -1,0 +1,67 @@
+7722C102	Information not present<--Query-by-example spoken term detection using frequency domain linear prediction and non-segmental dynamic time warping
+7EE0AE0C	IEEE Transactions on Acoustics, Speech, and Signal Processing<--Suppression of acoustic noise in speech using spectral subtraction
+8319BFE4	Information Sciences<--Fuzzy clustering of time series in the frequency domain
+7D564E4F	Information not present<--Blind reverberation time estimation based on Laplace distribution
+7CA89D80	Journal of the Acoustical Society of America<--YIN, a fundamental frequency estimator for speech and music
+7776875F	International Conference on Multimedia and Expo<--ROBUST detection of infant crying in adverse environments using weighted segmental two-dimensional linear frequency cepstral coefficients
+75377BCA	Information not present<--Characterizing glottal activity from speech using Empirical Mode Decomposition
+76E152D6	International Conference on Acoustics, Speech, and Signal Processing<--ARCH and GARCH parameter estimation in presence of additive noise using particle methods
+7FDB6778	Information not present<--Re-estimation of linear predictive parameters in sparse linear prediction
+7ED41F05	Canadian Conference on Electrical and Computer Engineering<--Comparison of voice activity detection algorithms for wireless personal communications systems
+7EA7521D	Information not present<--Improved voice activity detection for speech recognition system
+7DAA7F69	Information not present<--On over-determined frequency domain BSS
+0AE7B73F	Information not present<--Password secured speaker recognition using time and frequency domain features
+80BCCB77	IEEE Signal Processing Letters<--Voice Activity Detection Based on Conditional MAP Criterion
+8123CF86	IEEE Transactions on Speech and Audio Processing<--An improved voice activity detection using higher order statistics
+754B0F91	Information not present<--Detection of chorus from an audio clip using dynamic time warping algorithm
+805E033C	International Symposium on Computers and Communications<--Comparison of voice activity detection algorithms for VoIP
+7B3D178B	IEEE Signal Processing Letters<--Optimal Constraint-Based Loop-Shaping in the Cepstral Domain
+7D1784A0	IEEE Transactions on Industrial Electronics<--Fault Detection in a Microphone Array by Intercorrelation of Features in Voice Activity Detection
+7E3F7F89	International Symposium on Chinese Spoken Language Processing<--Predicting and Tagging Dialog-Act Using MDP and SVM
+7DFD48D8	IEEE Signal Processing Letters<--Voiced/Nonvoiced Detection Based on Robustness of Voiced Epochs
+79B93C7D	Information not present<--Entropy-based false detection filtering in spoken term detection tasks
+80363C7A	International Conference on Acoustics, Speech, and Signal Processing<--Inter-channel decorrelation by sub-band resampling in frequency domain
+7F31EB2F	IEEE Transactions on Acoustics, Speech, and Signal Processing<--An efficient Fourier transform algorithm for frequency domains of several decades using logarithmically spaced time samples
+804D91B7	International Conference on Acoustics, Speech, and Signal Processing<--Blind estimation of reverberation time based on the distribution of signal decay rates
+7C0324A9	Information not present<--Pitch detection in time and frequency domain
+7E92D003	International Conference on Acoustics, Speech, and Signal Processing<--Detection of human speech in structured noise
+7241BD4C	International Conference on Acoustics, Speech, and Signal Processing<--Harmonics tracking and pitch extraction based on instantaneous frequency
+7B40D0BB	IEEE Transactions on Signal Processing<--Nonuniform M-band wavepackets for transient signal detection
+7EEDE9E5	IEEE Transactions on Speech and Audio Processing<--Use of temporal information: detection of periodicity, aperiodicity, and pitch in speech
+8096C0E7	IEEE Transactions on Speech and Audio Processing<--Voice activity detection in nonstationary noise
+806D7F45	International Conference on Acoustics, Speech, and Signal Processing<--Effective Speech/Pause Discrimination Using an Integrated Bispectrum Likelihood Ratio Test
+7E1B495B	Speech Communication<--Efficient voice activity detection algorithms using long-term speech information
+7D10FBFF	IEEE Signal Processing Letters<--Statistical voice activity detection using a multiple observation likelihood ratio test
+799A17C8	International Conference on Acoustics, Speech, and Signal Processing<--Zero-resource spoken term detection using hierarchical graph-based similarity search
+7F5323F7	IEEE Transactions on Audio, Speech, and Language Processing<--AR-GARCH in Presence of Noise: Parameter Estimation and Its Application to Voice Activity Detection
+805FB923	IEEE Transactions on Acoustics, Speech, and Signal Processing<--Statistical performance of single sinusoid frequency estimation in white noise using state-variable balancing and linear prediction
+76DFEEE9	Speech Communication<--Hard C-means clustering for voice activity detection
+76747C20	Iet Signal Processing<--Likelihood ratio sign test for voice activity detection
+5A27DE9B	Journal of the ACM<--Single- and multi-microphone speech dereverberation using spectral enhancement
+7F5ADE63	Information not present<--Effect of Low Bit Rate Speech Coding on Epoch Extraction
+7FAB1884	Information not present<--Solving global permutation ambiguity of time domain BSS using speaker specific features of speech signals
+81671F57	Information not present<--Query-by-example spoken term detection using phonetic posteriorgram templates
+0426E102	Information not present<--Fast and accurate phonetic spoken term detection
+7E03062D	International Conference on Acoustics, Speech, and Signal Processing<--Noise-robust dynamic time warping using PLCA features
+79610B07	International Conference on Acoustics, Speech, and Signal Processing<--Filter-bank optimization for Frequency Domain Linear Prediction
+809B1E40	International Conference on Acoustics, Speech, and Signal Processing<--On the Use of Lime Dereverberation Algorithm in an Acoustic Environment With a Noise Source
+7CF2FA20	International Conference on Acoustics, Speech, and Signal Processing<--Fast spoken query detection using lower-bound Dynamic Time Warping on Graphical Processing Units
+7F66E47F	IEEE Transactions on Audio, Speech, and Language Processing<--A Soft Voice Activity Detection Using GARCH Filter and Variance Gamma Distribution
+804AF37B	IEEE Transactions on Audio, Speech, and Language Processing<--Statistical Voice Activity Detection Using Low-Variance Spectrum Estimation and an Adaptive Threshold
+7DE86889	International Conference on Acoustics, Speech, and Signal Processing<--Time varying linear prediction using sparsity constraints
+7CF8DE0F	International Symposium on Circuits and Systems<--Linear prediction using homomorphic deconvolution in the autocorrelation domain
+7B5F66BD	Electronics Letters<--Improved MO-LRT VAD based on bispectra Gaussian model
+785CCF61	IEEE Transactions on Acoustics, Speech, and Signal Processing<--On amplitude-weighted instantaneous frequencies
+7EC5F6F0	Information not present<--Using DEDICOM for completely unsupervised part-of-speech tagging
+812847EE	Information not present<--Speech dereverberation using backward estimation of the late reverberant spectral variance
+7FF54DF3	Information not present<--Blind separation of speech target sources using ICA in the frequency domain
+75280E8A	Iee Proceedings I Communications, Speech and Vision<--Voice activity detection using a periodicity measure
+76D3AB89	Information not present<--Audio-Visual Voice Activity Detection Using Diffusion Maps
+815E3783	Information not present<--Human Whistle Detection and Frequency Estimation
+7DF1BE3C	International Conference on Acoustics, Speech, and Signal Processing<--Improved voice activity detection based on a smoothed statistical likelihood ratio
+78881FBC	Speech Communication<--Noise robust voice activity detection based on periodic to aperiodic component ratio
+7AB9A301	Information not present<--Multi-Microphone Speech Dereverberation and Noise Reduction Using Relative Early Transfer Functions
+79E74BEE	Spoken Language Technology Workshop<--Using rhythmic features for Japanese spoken term detection
+7C4CBB47	Information not present<--Robust spectral representation using group delay function and stabilized weighted linear prediction for additive noise degradations
+7B245CA0	Speech Communication<--Improved likelihood ratio test based voice activity detector applied to speech recognition
+7DC2486E	International Conference on Acoustics, Speech, and Signal Processing<--Robust pitch estimation at very low SNR exploiting time and frequency domain cues

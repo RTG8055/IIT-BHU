@@ -1,0 +1,66 @@
+7F7FCC83	International Conference on Acoustics, Speech, and Signal Processing<--Recognition of multilingual speech in mobile applications
+7D6812CD	Information not present<--JANUS-II: towards spontaneous Spanish speech recognition
+800458B9	IEEE Transactions on Audio, Speech, and Language Processing<--Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition
+7EDFCD19	Information not present<--Study of the Design and Implementation of Speech Keyword Recognition System based on Streaming Media
+7E8C6BD1	IEEE Journal of Selected Topics in Signal Processing<--Sequential Labeling Using Deep-Structured Conditional Random Fields
+7D1C079F	International Joint Conference on Neural Network<--Neural Network-Based Robust Adaptive Beamforming
+0B91B818	Information not present<--Morphological Tagging Based on Averaged Perceptron
+0889039D	Information not present<--Soft state-tying for HMM-based speech recognition
+80118637	Conference of the International Speech Communication Association<--Deep-Structured Hidden Conditional Random Fields for Phonetic Recognition
+7F41B798	International Conference on Acoustics, Speech, and Signal Processing<--Language recognition using deep-structured conditional random fields
+8068D18D	IEEE-RAS International Conference on Humanoid Robots<--Robust hands-free Automatic Speech Recognition for human-machine interaction
+5BB77197	Information not present<--The acoustic-modeling problem in automatic speech recognition
+82F9BBC3	Information not present<--Boosting Contextual Information for Deep Neural Network Based Voice Activity Detection
+5B7FD1FC	International Symposium on Neural Networks<--Chinese speech recognition based on a hybrid SVM and HMM architecture
+79D85EBA	International Conference on Acoustics, Speech, and Signal Processing<--The general use of tying in phoneme-based HMM speech recognisers
+7B96DDC7	Intelligent Information Hiding and Multimedia Signal Processing<--HMM Based Eyebrow Recognition
+7F41FEA4	International Conference on Acoustics, Speech, and Signal Processing<--A model structure integration based on a Bayesian framework for speech recognition
+7DEC73B6	Information not present<--Statistical multimodal integration for intelligent HCI
+7D373DBB	Proceedings of the IEEE<--Neural networks for statistical recognition of continuous speech
+7DB61D52	Information not present<--A probabilistic principal component analysis based hidden Markov model for audio-visual speech recognition
+5E672001	Computer Analysis of Images and Patterns<--A new manifold representation for visual speech recognition
+8029ACB7	Information not present<--A speech recognition method based clustering neural network integration
+5950EF37	International Symposium on Neural Networks<--Rosenblatt perceptrons for handwritten digit recognition
+7CEF18CC	Journal of the Acoustical Society of America<--Graphical Models and Automatic Speech Recognition
+805520A4	International Conference on Acoustics, Speech, and Signal Processing<--Structurally discriminative graphical models for automatic speech recognition - results from the 2001 Johns Hopkins Summer Workshop
+80BD42AB	Information not present<--Neuro-automata based controlling
+7649B1CF	International Conference on Acoustics, Speech, and Signal Processing<--Recent advances in deep learning for speech research at Microsoft
+659F446A	Information not present<--Speech recognition using an enhanced FVQ based on a codeword dependent distribution normalization and codeword weighting by fuzzy objective function
+7A9757AC	International Conference on Acoustics, Speech, and Signal Processing<--Singular value decomposition based low-footprint speaker adaptation and personalization for deep neural network
+0000AB99	Conference of the International Speech Communication Association<--Speech recognition based on the integration of FSVQ and neural network
+0D759238	Information not present<--Robust P1 TrackingStrategy forOutput ProbabilityDistributions Based on Uncertain B-SplineNeuralNetworks
+623973B2	International Symposium on Neural Networks<--Integration of articulatory knowledge and voicing features based on DNN/HMM for Mandarin speech recognition
+7CA8BC1E	International Conference on Acoustics, Speech, and Signal Processing<--New types of deep neural network learning for speech recognition and related applications: an overview
+5E976DF6	Information not present<--Synthetic visual speech driven from auditory speech
+7FD6EED9	Information not present<--Conversational Speech Transcription Using Context-Dependent Deep Neural Networks
+7D658A7A	IEEE Transactions on Biomedical Engineering<--Improved Phoneme-Based Myoelectric Speech Recognition
+7EB7A5C2	International Conference on Acoustics, Speech, and Signal Processing<--Large vocabulary continuous speech recognition with context-dependent DBN-HMMS
+78B6132A	International Conference on Acoustics, Speech, and Signal Processing<--Cross-language knowledge transfer using multilingual deep neural network with shared hidden layers
+80C3AB1B	Information not present<--Feature engineering in Context-Dependent Deep Neural Networks for conversational speech transcription
+7ECCA8AC	Spoken Language Technology Workshop<--Topic dependent class based language model evaluation on automatic speech recognition
+795E9930	International Conference on Acoustics, Speech, and Signal Processing<--A deep convolutional neural network using heterogeneous pooling for trading acoustic invariance with phonetic confusion
+79B47D09	Information not present<--An Improved Method In Speech Signal Input Representation Based On DTW Technique For NN Speech Recognition System
+78DF895A	IEEE Transactions on Audio, Speech, and Language Processing<--Structured speech modeling
+5E0BE9BB	Information not present<--HMM Based Eyebrow Recognition
+71BFFE83	Information not present<--Improved Automatic Speech Recognition system by using compressed sensing signal reconstruction based on L0 and L1 estimation algorithms
+7940F51A	Information not present<--Neural Network Based Pitch Tracking in Very Noisy Speech
+803D11F1	International Conference on Acoustics, Speech, and Signal Processing<--Buried Markov models for speech recognition
+80B76035	Speech Communication<--A dynamic, feature-based approach to the interface between phonology and phonetics for speech modeling and recognition
+7BD8C65F	IEEE Transactions on Acoustics, Speech, and Signal Processing<--Speaker-independent phone recognition using hidden Markov models
+7E7B962F	International Conference on Acoustics, Speech, and Signal Processing<--Large vocabulary continuous speech recognition using HTK
+7DC4D8A8	International Conference on Multimedia and Expo<--Hidden Markov model-based speech emotion recognition
+7E2CA5B4	International Conference on Acoustics, Speech, and Signal Processing<--HMM/ANN based spectral peak location estimation for noise robust speech recognition
+7D5D90EF	IEEE Transactions on Audio, Speech, and Language Processing<--A bidirectional target-filtering model of speech coarticulation and reduction: two-stage implementation for phonetic recognition
+0A18E4E8	Information not present<--Text independent neural network/rule based hybrid, continuous speech recognition
+698BA2FC	International Conference on Acoustics, Speech, and Signal Processing<--Investigating online low-footprint speaker adaptation using generalized linear regression and click-through data
+2FCF3633	Information not present<--DSP Based 精密非圓切削強韌控制
+7D030924	Information not present<--Neural Network Based Hausa Language Speech Recognition
+7EF2B2E3	Information not present<--A hybrid neural network based speech recognition system for pervasive environments
+7F4B2665	IEEE Transactions on Biomedical Engineering<--Myoelectric Signal Classification for Phoneme-Based Speech Recognition
+7843D7EA	Granular Computing<--ANN-modeled-classification based on Pi-calculus
+5B5286A0	International Conference on Artificial Neural Networks<--Handwritten Digit Recognition with Binary Optical Perceptron
+7C2E106F	IEEE Transactions on Speech and Audio Processing<--From HMM's to segment models: a unified view of stochastic modeling for speech recognition
+8179B46E	Information not present<--Robust continuous speech recognition
+12F4604F	Ieice Transactions<--Speaker-Consistent Parsing for Speaker-Independent Continuous Speech Recognition
+72C1B620	Information not present<--SAR ATR based on dividing CNN into CAE and SNN
+6FE97501	International Conference on Acoustics, Speech, and Signal Processing<--Maximum mutual information estimation of hidden Markov model parameters for speech recognition

@@ -1,0 +1,100 @@
+7D6DFE9C	Information not present<--Multi-agent segmentation for 3D medical images
+63E4FB93	Information not present<--A Method for Sonar Image Segmentation Based on Combination of MRF and Region Growing
+754B3DE9	IEEE Transactions on Circuits and Systems Ii: Analog and Digital Signal Processing<--Time-referenced single-path multi-bit ΔΣ ADC using a VCO-based quantizer
+7588D026	International Conference on Image Processing<--Segment-based image classifcaton using Layered-SOM
+7D53354D	Computer Vision and Pattern Recognition<--Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation
+762A7933	Information not present<--Segmentation of image using watershed and wavelet transform
+7F5D2A41	Information not present<--Interactive walkthroughs using "morphable 3D-mosaics"
+7B088908	Information not present<--An image segmentation algorithm using genetic strategy
+75802528	Information not present<--A region-specific QIM-based watermarking scheme for digital images
+58B34D41	Journal of Machine Vision and Applications<--Probabilistically Semantic Labeling of IR Image for UAV
+77F59E87	Journal of the Acoustical Society of America<--Ultrasonic harmonic image segmentation
+75958369	Pattern Recognition<--Image segmentation using laser radar data
+783112DD	International Conference on Computer Vision<--Geodesic active regions for supervised texture segmentation
+7F2121D0	Information not present<--Semiautomatic 3D-segmentation of live-3D echocardiographic images
+808E9FB4	International Conference on Image Processing<--Fast and accurate texture-based image segmentation
+78AF2E9C	Expert Systems With Applications<--Modified artificial bee colony based computationally efficient multilevel thresholding for satellite image segmentation using Kapur’s, Otsu and Tsallis functions
+7D66ECD1	Computer Vision and Pattern Recognition<--Recognition using regions
+7A17AE87	Measurement Science and Technology<--Yarn image segmentation using the region growing algorithm
+7D92ECD1	IEEE Transactions on Medical Imaging<--Deformable boundary finding in medical images by integrating gradient and region information
+5E07E2EE	International Conference on Robotics and Automation<--Sensor fusion for semantic segmentation of urban scenes
+7E8AFD39	IEEE Transactions on Geoscience and Remote Sensing<--A MRF model-based segmentation approach to classification for multispectral imagery
+76BE721F	International Journal of Computer Vision<--Kernel Density Estimation and Intrinsic Alignment for Shape Priors in Level Set Segmentation
+716C42F4	International Conference on Image Processing<--Digital watermarking using shuffling
+80DD9E38	Rundbrief Der Gi-fachgruppe 5.10 Informationssystem-architekturen<--Gradient Threshold Based Image Transition Region Extraction and Segmentation
+76070AB6	Pattern Recognition<--Image segmentation by iterated region merging with localized graph cuts
+70B302A3	European Conference on Computer Vision<--Star Shape Prior for Graph-Cut Image Segmentation
+8006580F	Computer Vision and Pattern Recognition<--Graph cut based image segmentation with connectivity priors
+8064C0D7	Computer Vision and Pattern Recognition<--Connected Segmentation Tree — A joint representation of region layout and hierarchy
+5BB4E9F2	Information not present<--Satellite image segmentation based on different objective functions using genetic algorithm: A comparative study
+811B4BD1	Information not present<--A Low-Power Strategy for Delta-Sigma Modulators
+7D2A29EF	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Hidden Markov measure field models for image segmentation
+76854C77	Journal of Machine Vision and Applications<--The interpretation of laser radar images by a knowledge-based system
+72286762	Computer Vision and Pattern Recognition<--Towards unified depth and semantic prediction from a single image
+8220B77E	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Region-Based Convolutional Networks for Accurate Object Detection and Segmentation
+7E204DC5	Computer Vision and Pattern Recognition<--From contours to regions: An empirical evaluation
+7E5B25FF	Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing<--Image segmentation in pyramids
+814ED62B	Information not present<--Hybrid Image Segmentation Using RPCCL Clustering and Region Merging
+81482B20	IEEE Transactions on Image Processing<--A simple unsupervised MRF model based image segmentation approach
+7B781C61	Pattern Recognition<--A survey of graph theoretical approaches to image segmentation
+7674D351	IEEE Transactions on Communications<--Full-Diversity Achieving Precoding for Asymmetric MIMO Using Partial CSIT
+7C1006EF	International Journal of Computer Vision<--A Multiphase Dynamic Labeling Model for Variational Recognition-driven Image Segmentation
+79E0D29E	Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing<--Image Segmentation as an Estimation Problem
+7F0CAE4C	International Solid-State Circuits Conference<--A third-order DT ΔΣ modulator using noise-shaped bidirectional single-slope quantizer
+7E397560	Computational Intelligence<--Multiscale windowed denoising and segmentation of hyperspectral images
+79B511DF	Information not present<--Joint Segmentation of Multi-View Images by Region Correspondence
+5BB733DA	Asian Conference on Computer Vision<--Iterated graph cuts for image segmentation
+7A19A32A	IEEE Journal of Solid-state Circuits<--A Third-Order DT $\Delta\Sigma$ Modulator Using Noise-Shaped Bi-Directional Single-Slope Quantizer
+7E040242	International Geoscience and Remote Sensing Symposium<--Hierarchical segmentation of polarimetric SAR images
+684788E1	International Symposium on Circuits and Systems<--A ΔΣ ADC using an LSB-first SAR quantizer
+811A0FC5	Vehicular Technology Conference<--Generating UWB-OFDM signal using sigma-delta modulator
+7E7DADAE	Image and Vision Computing<--Segmentation of MR images with intensity inhomogeneities
+74074C72	International Conference on Acoustics, Speech, and Signal Processing<--Deep convolutional activation features for large scale Brain Tumor histopathology image classification and segmentation
+7D9F3E81	IEEE Transactions on Image Processing<--A tree-structured Markov random field model for Bayesian image segmentation
+7617B343	International Journal of Computer Vision<--Natural Image Statistics for Natural Image Segmentation
+80EB4710	International Conference of the IEEE Engineering in Medicine and Biology Society<--Multi-scale Segmentation Of Retinal Images
+7E4F7C77	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Free-Form Region Description with Second-Order Pooling
+7D1D8D7A	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Segmentation through variable-order surface fitting
+7E3786A0	International Conference on Pattern Recognition<--Layer-based binarization for textual images
+7E663631	Expert Systems With Applications<--Cuckoo search algorithm and wind driven optimization based study of satellite image segmentation for multilevel thresholding using Kapur's entropy
+795EDA89	IEEE Transactions on Systems, Man, and Cybernetics<--Segmentation and Estimation of Image Region Properties through Cooperative Hierarchial Computation
+766406D1	Pattern Recognition<--Some experiments in image segmentation by clustering of local feature values
+77C2BC61	Information not present<--Image segmentation with a white light optical correlator
+80D36529	International Conference on Computer Vision<--Efficient, high-quality image contour detection
+77D078A3	Image and Vision Computing<--Advances in image segmentation
+7F96DE07	International Conference on Acoustics, Speech, and Signal Processing<--Unsupervised textured image segmentation
+763D50E9	Pattern Recognition<--Unsupervised image segmentation using a distributed genetic algorithm
+80B5F3F2	IEEE Transactions on Pattern Analysis and Machine Intelligence<--The integration of image segmentation maps using region and edge information
+7FD6645C	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Unsupervised segmentation of Markov random field modeled textured images using selectionist relaxation
+7C680F0E	Computer Vision and Image Understanding<--Topology cuts: A novel min-cut/max-flow algorithm for topology preserving segmentation in N-D images
+7E12A1BA	Computer Vision and Pattern Recognition<--Semantic segmentation using regions and parts
+5C3EB232	Information not present<--Parallel Algorithms for Image Enhancement and Segmentation by Region Growing with an Experimental Study (Extended Abstract)
+7E907330	Information not present<--Kernel Density Estimation and Intrinsic Alignment for Knowledge-Driven Segmentation: Teaching Level Sets to Walk
+75EF76FB	Proceedings of the IEEE<--Image segmentation by clustering
+5A8BF9CF	International Symposium on Biomedical Imaging<--Region segmentation in histopathological breast cancer images using deep convolutional neural network
+7B8D1094	Information not present<--Fast template matching with partial skipping using sub-template
+7DF6E3D8	IEEE Transactions on Medical Imaging<--Unsupervised vector image segmentation by a tree structure-ICM algorithm
+7D6A2FF8	Computer Vision and Image Understanding<--Interpretation of complex scenes using dynamic tree-structure Bayesian networks
+7046E954	European Conference on Computer Vision<--Coupled Geodesic Active Regions for Image Segmentation: A Level Set Approach
+7CA2BEFD	International Conference on Image Processing<--Joint source-channel decoding of motion-information using maximum-a-posteriori
+83F0A4FA	Information not present<--Live-Wires Using Path-Graphs
+7DC6766A	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Contour Detection and Hierarchical Image Segmentation
+7DFCBC61	Information not present<--Automatic Region of Interest Based Medical Image Segmentation using Spatial Fuzzy K Clustering Method 1
+7B2EC90E	IEEE Transactions on Systems, Man, and Cybernetics<--Thresholding Using the Isodata Clustering Algorithm
+763D12D3	Pattern Recognition<--Iterative methods in image analysis
+7F47189C	IEEE Transactions on Medical Imaging<--An accurate and efficient Bayesian method for automatic segmentation of brain MRI
+5A16827E	European Conference on Computer Vision<--Multiphase Dynamic Labeling for Variational Recognition-Driven Image Segmentation
+7B97D449	Pattern Recognition<--CONSTRAINT SATISFACTION NEURAL NETWORKS FOR IMAGE SEGMENTATION
+80536573	Information not present<--Multi-sensor image interpretation using laser radar and thermal images
+7CF618D4	IEEE Transactions on Nuclear Science<--Medical image segmentation by a constraint satisfaction neural network
+729C792D	Information not present<--Image Segmentation by Region Based and Watershed Algorithms
+7AA89257	Information not present<--Hyper-cube watermarking scheme
+59F2E2C1	Information not present<--Document Image Segmentation Using Recursive Top-Down Approach and Region Type Identification
+7FAF78B0	Computational Intelligence and Security<--An Adaptive Multi-objective Image Watermarking Scheme for QIM Using NSGA-II
+81167D77	International Journal of Computer Vision<--A Multiphase Level Set Framework for Image Segmentation Using the Mumford and Shah Model
+7EB30A18	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Dynamic trees for unsupervised segmentation and matching of image regions
+793A15A9	Pattern Recognition<--A survey on image segmentation
+7532C61B	IEEE Transactions on Circuits and Systems for Video Technology<--Segmentation Over Detection via Optimal Sparse Reconstructions
+7E51F583	International Journal of Computer Vision<--Graph Cuts and Efficient N-D Image Segmentation
+7FB1ABBD	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Unsupervised Category Modeling, Recognition, and Segmentation in Images
+7E6EDD5E	Information not present<--An integrated approach for surface finding in medical images

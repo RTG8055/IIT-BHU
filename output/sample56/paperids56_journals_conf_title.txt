@@ -1,0 +1,73 @@
+58D5DB9C	International Conference on Acoustics, Speech, and Signal Processing<--An efficient block-matching algorithm for motion-compensated coding
+7F19B44E	IEEE Transactions on Consumer Electronics<--A New Object Motion Estimation Technique For Video Images, Based On A Genetic Algorithm
+814D5E6A	International Conference on Image Processing<--Video coding with MC-EZBC and redundant-wavelet multihypothesis
+785F285C	IEEE Journal of Selected Topics in Signal Processing<--Cost and Coding Efficient Motion Estimation Design Considerations for High Efficiency Video Coding (HEVC) Standard
+811DAE93	IEEE Transactions on Circuits and Systems for Video Technology<--Optimization of fast block motion estimation algorithms
+7C6AFD8C	IEEE Signal Processing Letters<--Multiplication-Free One-Bit Transform for Low-Complexity Block-Based Motion Estimation
+0BE47B0F	Visual Communications and Image Processing<--A Novel Computationally Scalable Algoritm for Motion Estimation
+778575D0	IEEE Transactions on Multimedia<--A New Fast Encoding Algorithm Based on an Efficient Motion Estimation Process for the Scalable Video Coding Standard
+7E2C2125	IEEE Transactions on Circuits and Systems for Video Technology<--A novel all-binary motion estimation (ABME) with optimized hardware architectures
+5B26EB0A	International Symposium on Computer and Information Sciences<--Fast sub-pixel motion estimation by means of one-bit transform
+76E47CFF	IEEE Transactions on Circuits and Systems for Video Technology<--A novel four-step search algorithm for fast block motion estimation
+806C82D4	IEEE Transactions on Consumer Electronics<--Early Termination Scheme for Binary Block Motion Estimation
+79993A43	IEEE Transactions on Consumer Electronics<--Real-time video coding
+7A08C2AC	IEEE Transactions on Multimedia<--Improved Normalized Partial Distortion Search With Dual-Halfway-Stop for Rapid Block Motion Estimation
+7D376C35	IEEE Transactions on Circuits and Systems for Video Technology<--New fast algorithms for the estimation of block motion vectors
+7ED51841	Information not present<--Multi-scale based motion estimation for high quality video coding
+7D94F61E	IEEE Signal Processing Letters<--Efficient Hardware Implementations of Low Bit Depth Motion Estimation Algorithms
+813C6DA3	IEEE Transactions on Circuits and Systems for Video Technology<--DCT-based adaptive thresholding algorithm for binary motion estimation
+7DC45A92	IEEE Transactions on Circuits and Systems for Video Technology<--Two-bit transform for binary block motion estimation
+7DE7EAF9	International Conference on Multimedia and Expo<--An Arbitrary Frame-Skipping Video Transcoder
+805B6083	Information not present<--High performance hardware architecture for constrained one-bit transform based motion estimation
+7EA690CD	International Conference on Acoustics, Speech, and Signal Processing<--Sub-optimal quarter-pixel inter-prediction algorithm (SQIA)
+7E02C748	Journal of The American College of Surgeons<--A New Object Motion Estimation Technique For Video Images, Based On A Genetic Algorithm
+7D66B455	International Journal of Signal and Imaging Systems Engineering<--A proficient wavelet–based video encoder through the motion estimation algorithm
+7D1E18F2	IEEE Transactions on Circuits and Systems for Video Technology<--Hexagon-based search pattern for fast block motion estimation
+80383EF2	IEEE Transactions on Consumer Electronics<--Bit plane matching based variable block size motion estimation method and its hardware architecture
+8009AFA1	Journal of The Optical Society of America A-optics Image Science and Vision<--Robust and computationally efficient superresolution algorithm
+7813AFF6	Information not present<--New video shot change detection algorithm based on accurate motion and illumination estimation
+7E204220	IEEE Transactions on Circuits and Systems for Video Technology<--Fast motion vector estimation using multiresolution-spatio-temporal correlations
+7D6AA12C	Optical Engineering<--Adaptive quarter-pel motion estimation and motion vector coding algorithm for the H.264/AVC standard
+7F3349B6	Information not present<--Fast motion estimation mode decision algorithm for H.264/AVC video coding standard
+7FEE278F	International Conference on Image Processing<--Self-calibration of a stereo-camera by pure translational motion
+78DB1C7A	Applied Soft Computing<--Block matching algorithm for motion estimation based on Artificial Bee Colony (ABC)
+75BCD53A	Designs, Codes and Cryptography<--Video Encoding without Integer-Pel Motion Estimation
+7DC38EE9	Information not present<--Motion detection based motion estimation algorithm for video surveillance application
+76899030	Pattern Recognition Letters<--Content adaptive fast motion estimation based on spatio-temporal homogeneity analysis and motion classification
+5A2B3A00	European Conference on Computer Vision<--A high-quality video denoising algorithm based on reliable motion estimation
+5F72D6F8	International Conference on Image Processing<--Uniform motion-compensated 5/3 filterbank for subband video coding
+6AB77B98	Information not present<--An efficient motion estimation algorithm for real-time MPEG-4 video encoding on multimedia processors
+787CD4CB	Electronics Letters<--Motion adaptive intra refresh for MPEG-4
+7F6330A0	Intelligent Information Technology Application<--An Efficient Fast Mode Decision Algorithm Based on Motion Cost for H.264 Inter Prediction
+80619D3E	International Conference on Multimedia and Expo<--Fast integer motion estimation for H.264 video coding standard
+7FE10E4E	Computational Intelligence in Robotics and Automation<--Articulated-model based upper-limb pose estimation
+8124B098	IEEE Transactions on Communications<--The cross-search algorithm for motion estimation
+75C8DB1C	Visual Communications and Image Processing<--Rate-constrained motion estimation
+7DDFC6DB	Information not present<--An Efficient Block-Matching Motion Estimation Algorithm for H.264 Video Coding Standard
+7F568FCB	International Conference on Image Processing<--Frame-free video
+7DD42915	IEEE Transactions on Signal Processing<--Fast full search motion estimation algorithm using early detection of impossible candidate vectors
+7AC9CBBA	Journal of Signal Processing Systems<--An Adaptive Motion Estimation Architecture for H.264/AVC
+7D2C98AF	IEEE Transactions on Circuits and Systems for Video Technology<--Modified one-bit transform for motion estimation
+78F36E7F	Information not present<--A Fast Adaptive Motion Estimation Algorithm
+6E8D4190	International Conference on Image Processing<--Efficient fine granular scalable video coding
+7F899BA8	International Conference on Image Processing<--Contourless region-based video coding for very low bit-rates
+79B9874E	Journal of Electronic Imaging<--Constrained one-bit transform-based motion estimation using predictive hexagonal pattern
+7DE7EE49	Information not present<--Low complexity truncated Gray-coded bit plane matching based multiple candidate motion estimation
+81723710	Intelligent Information Hiding and Multimedia Signal Processing<--Fast Video Encoding Algorithm Based on Motion Estimation for H.264/AVC
+7DC8035D	International Symposium on Circuits and Systems<--Rapid block-matching motion estimation using modified diamond search algorithm
+7EE25013	International Conference on Image Processing<--An efficient motion estimation algorithm based on tracing techniques on large search windows
+7FC9DA3B	IEEE Transactions on Circuits and Systems for Video Technology<--Constrained One-Bit Transform for Low Complexity Block Motion Estimation
+7DA81842	Information not present<--A new algorithm for motion estimation from straight-line optical flow based on ant colony algorithm
+7013E392	Signal Processing-image Communication<--A novel Cooperative Motion Estimation Algorithm based on Particle Swarm Optimization and its multicore implementation
+7F3728BE	Intelligent Information Technology Application<--A Dynamic Features Selection Based Algorithm for 3D Objects Motion Estimation
+7FC33271	IEEE Transactions on Circuits and Systems for Video Technology<--A novel unrestricted center-biased diamond search algorithm for block motion estimation
+7D994902	IEEE Transactions on Circuits and Systems for Video Technology<--A fast full-search motion-estimation algorithm using representative pixels and adaptive matching scan
+7EDF3670	IEEE Transactions on Consumer Electronics<--An all binary sub-pixel motion estimation approach and its hardware architecture
+717E07E2	Information not present<--An efficient FPGA architecture for hardware realization of hexagonal based motion estimation algorithm
+586F5F00	Information not present<--A model based motion estimation algorithm for very low bit rate video coding
+81290EA3	IEEE Transactions on Circuits and Systems for Video Technology<--Context Adaptive Lagrange Multiplier (CALM) for Rate-Distortion Optimal Motion Estimation in Video Coding
+7CF047FE	Information not present<--Fast Global Motion Estimation
+7A14B919	Information Sciences<--Employing a novel cross-diamond search in a modified hierarchical search motion estimation algorithm for video compression
+8029D552	International Conference on Image Processing<--A Fast Inter-Mode Decision Algorithm Based on Macro-Block Tracking for P Slices in the H.264/AVC Video Standard
+7F825942	Information not present<--Block-Matched Based Scalable Video Coding
+7DC79DBA	IEEE Transactions on Circuits and Systems for Video Technology<--New sorting-based lossless motion estimation algorithms and a partial distortion elimination performance analysis

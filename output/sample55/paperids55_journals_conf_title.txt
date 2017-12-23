@@ -1,0 +1,90 @@
+7E6DD7FD	IEEE-ASME Transactions on Mechatronics<--An optimal and adaptive design of the feedforward motion controller
+7DE41CC7	IEEE Journal of Solid-state Circuits<--I.McIC: a single-chip MPEG-2 video encoder for storage
+7FE0E917	IEEE Transactions on Industrial Electronics<--Optimal Synchronization Control of High-Precision Motion Systems
+80598FD9	Information not present<--The parametrization of all disturbance observers for plants with input disturbance
+71BA0DCD	Information not present<--Design of a H.261 video codec with 12 Xilinx LCAs
+756222C7	Information not present<--A design method for control system to attenuate periodic input disturbances using disturbance observers for time-delay plants
+7E9BDB91	Intelligent RObots and Systems<--Predictive constrained gain scheduling for UGV path tracking in a networked control system
+8105DF98	Information not present<--Energy saving elevator group supervisory control system with Idle Cage Assignment using Genetic Network Programming
+75D22B44	Journal of Pediatric Oncology Nursing<--A video system to help children cooperate with motion control for radiation treatment without sedation
+7F84C700	Ai Magazine<--Formulating a Laplace domain approach for tuning motion profiles
+76087296	ACM Transactions on Graphics<--Video-based hand manipulation capture through composite motion control
+7E7D0801	IEEE Transactions on Industrial Electronics<--Precision Control and Compensation of Servomotors and Machine Tools via the Disturbance Observer
+7DC92338	Computer Graphics Forum<--A Dynamic Motion Control Technique for Human‐like Articulated Figures
+7D2827B3	IEEE Transactions on Consumer Electronics<--Robust motion-compensated video upconversion
+7B6C0AD0	Conference on Decision and Control<--Natural motion for robot arms
+7E808B59	International Symposium on Computers and Communications<--Fuzzy Logic-based Cross-layer Controller for Wireless Video Transmission
+77F37071	Automatica<--Adaptive critic motion control design of autonomous wheeled mobile robot by dual heuristic programming.
+7D18C437	Automatica<--Output feedback adaptive robust precision motion control of linear motors
+7D5A3C38	IEEE Transactions on Industrial Electronics<--High-Acceleration Precision Point-to-Point Motion Control With Look-Ahead Properties
+816F417B	Information not present<--Design of a wireless hybrid in-pipe microrobot with 3 DOFs
+7FC87A7B	IEEE-ASME Transactions on Mechatronics<--Motion Profile Design to Reduce Residual Vibration of High-Speed Positioning Stages
+7FF95DB7	IEEE Transactions on Industrial Electronics<--Design of a Distributed Multiaxis Motion Control System Using the IEEE-1394 Bus
+7F636B38	International Conference on Image Processing<--Rate-constrained multi-hypothesis motion-compensated prediction for video coding
+7FDFF62E	Information not present<--Controlled Bacterial Micro-actuation
+7F6F0AE7	American Control Conference<--Active disturbance rejection control: a paradigm shift in feedback control system design
+81486F5E	IEEE Transactions on Industrial Electronics<--PID-Like Neural Network Nonlinear Adaptive Control for Uncertain Multivariable Motion Control Systems
+7E863340	IEEE-ASME Transactions on Mechatronics<--Linear motor motion control using a learning feedforward controller
+78CF8D25	Information not present<--Controller Design for Reproduction of Grasping/Manipulation Motion of Grasping Objects with Different Diameters
+7B01D6F1	International Symposium on Robotics<--A performance evaluation and task scheduling of EtherCAT networked soft motion control system (ISR 2013)
+7F5B567A	Information not present<--The parameterization of all disturbance observers for time-delay plants with any input and output disturbances
+7EB88694	Computer Vision and Pattern Recognition<--Physical simulation for probabilistic motion tracking
+8115D397	IEEE Transactions on Automatic Control<--Avoiding stick-slip through PD control
+7BC98C56	ACM Transactions on Graphics<--Terrain runner: control, parameterization, composition, and planning for highly dynamic motions
+7EBB3587	Computer Vision and Pattern Recognition<--Human motion synthesis from 3D video
+81D6B65F	IEEE Transactions on Industrial Electronics<--An Analysis of Parameter Variations of Disturbance Observer for Motion Control
+7CF35A1A	IEEE-ASME Transactions on Mechatronics<--Motion control for advanced mechatronics
+80FA8238	Information not present<--On the compensation of friction forces in precision motion control
+7DC6401A	IEEE Transactions on Robotics and Automation<--Exact robot navigation using artificial potential functions
+7DBFFFF6	Symposium on Applied Computational Intelligence and Informatics<--Distant human motion programming of hexapods with the help of stereoscopic visualization
+7C0645A8	IEEE Transactions on Industrial Electronics<--Robust motion controller design for high-accuracy positioning systems
+7DAF24B9	IEEE Transactions on Industrial Electronics<--Design and Performance Tuning of Sliding-Mode Controller for High-Speed and High-Accuracy Positioning Systems in Disturbance Observer Framework
+80B301CB	IEEE Transactions on Information Forensics and Security<--Digital Video Watermarking in P-Frames With Controlled Video Bit-Rate Increase
+7E7C74D3	Information not present<--The real-time video stabilization for the rescue robot
+75743E64	International Conference on Computer Graphics and Interactive Techniques<--Efficient generation of motion transitions using spacetime constraints
+7E346C88	Robot and Human Interactive Communication<--Motion capture and classification for real-time interaction with a bipedal robot using on-body, fully wireless, motion capture specknets
+7A0A57F6	Advanced Robotics and its Social Impacts<--Gesture motion programming by applying robot motion hierarchy structure for the educational/entertainment robot Engkey
+7D2E4346	IEEE Transactions on Control Systems and Technology<--Disturbance-rejection high-precision motion control of a Stewart platform
+7D999423	Information not present<--An Integrated Internet-Based Package for Teaching Motion Control: Content and Testing Results
+7EE215BB	International Symposium on Neural Networks<--Self-learning path-tracking control of autonomous vehicles using kernel-based approximate dynamic programming
+80A15418	Conference on Computational Complexity<--Active disturbance rejection approach with application to precision motion control
+8000BAFF	IEEE Transactions on Control Systems and Technology<--Analysis and design of integrated control for multi-axis motion systems
+7CF3BBE4	IEEE-ASME Transactions on Mechatronics<--High-speed and high-precision motion control with an optimal hybrid feedforward controller
+77A48E06	International Conference on Computer Graphics and Interactive Techniques<--Adapting simulated behaviors for new characters
+7E1D9DFE	Information not present<--A novel sliding mode assist disturbance observer
+7FDCAA77	IEEE Transactions on Industrial Electronics<--A Closed-Form Solution to Asymmetric Motion Profile Allowing Acceleration Manipulation
+813EE6E7	IEEE Transactions on Multimedia<--Content-Aware Playout and Packet Scheduling for Video Streaming Over Wireless Links
+803CD316	IEEE Transactions on Control Systems and Technology<--Analysis and design of the integrated controller for precise motion systems
+8158ED0D	International Conference on Robotics and Automation<--A model-reference adaptive motion controller for a differential-drive mobile robot
+7EEDC068	International Conference on Acoustics, Speech, and Signal Processing<--Audio-based nonlinear video diffusion
+7D683D03	Asian Journal of Control<--An Active Disturbance Rejection Based Approach to Vibration Suppression in Two‐Inertia Systems
+76AB37EE	ACM Transactions on Graphics<--Sampling-based contact-rich motion control
+78E1A850	Nuclear Instruments & Methods in Physics Research Section A-accelerators Spectrometers Detectors and Associated Equipment<--Graphical object-oriented programming with LabVIEW
+6E8D4190	International Conference on Image Processing<--Efficient fine granular scalable video coding
+7F3DBE5E	Information not present<--A rolling motion control or acrobot composed of rounded links
+7FDF1554	IEEE Transactions on Industrial Electronics<--Semiautonomous Wheelchair Based on Quarry of Environmental Information
+80BB980F	Information not present<--On Estimation of Plant Dynamics and Disturbance from Input-Output Data in Real Time
+8048EA2F	Ai Magazine<--Laser scanner-based navigation and motion planning for truck-trailer combinations
+7E60084C	International Conference on Robotics and Automation<--Real-time motion scheduling for a SMALL workcell
+761A235C	Journal of Dynamic Systems Measurement and Control-transactions of The Asme<--Motion Control Analysis of a Mobile Robot
+7F7A4161	IEEE Transactions on Industrial Electronics<--Point-to-Point Motion Control for a High-Acceleration Positioning Table via Cascaded Learning Schemes
+8096E24F	Conference on Decision and Control<--Network abstract linear programming with application to minimum-time formation control
+7B8BB252	Information not present<--Evaluating performance benefits of head tracking in modern video games
+7FC41A02	IEEE Transactions on Automatic Control<--Stick slip and control in low-speed motion
+80F79A33	Virtual Reality Software and Technology<--Animating reactive motions for biped locomotion
+7B3CFEFE	ACM Transactions on Graphics<--Dynamic response for motion capture animation
+77453B84	Applied Mechanics and Materials<--Coupled Motion Control and Adjustment in Automatic Programming System of CNC Hobbing Machines
+7C2DE318	International Conference on Computer Graphics and Interactive Techniques<--Motion signal processing
+7A8312C6	Computer Animation and Virtual Worlds<--Angular momentum guided motion concatenation
+814F7917	American Control Conference<--Benchmark tests of Active Disturbance Rejection Control on an industrial motion control platform
+5C639134	Computer Animation and Virtual Worlds<--Interactive motion synthesis with optimal blending
+75380138	Mechatronics<--Adaptive robust motion control of linear motors for precision manufacturing
+81208EA3	IEEE-ASME Transactions on Mechatronics<--Adaptive robust precision motion control of linear motors with negligible electrical dynamics: theory and experiments
+7633366B	Information not present<--Wireless magnetic-based control of paramagnetic microparticles
+7F1C8423	Information not present<--Reconfiguring a modular robot into a humanoid formation: A multi-body dynamic perspective on motion scheduling for modules and their assemblies
+6554AACA	Internet Measurement Conference<--New navigation function utilizing hydrodynamic potential for mobile robot
+761D052C	Mechatronics<--Simple rotary crane dynamics modeling and open-loop control for residual load sway suppression by only horizontal boom motion
+8124AEB6	IEEE Transactions on Industrial Electronics<--Robust Composite Nonlinear Feedback Control With Application to a Servo Positioning System
+816956E0	IEEE Transactions on Industrial Electronics<--Dexterous Manipulation in Constrained Bilateral Teleoperation Using Controlled Supporting Point
+7913CAD9	Information not present<--Path Planning of Lunar Rover Group Based on Theory of Dynamic Programming and Multi-objective Optimization
+7D68075E	IEEE-ASME Transactions on Mechatronics<--Modified Preview Control for a Wireless Tracking Control System With Packet Loss

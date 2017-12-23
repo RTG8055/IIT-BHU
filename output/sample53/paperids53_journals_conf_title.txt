@@ -1,0 +1,62 @@
+80A1F632	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Integrating Motion, Illumination, and Structure in Video Sequences with Applications in Illumination-Invariant Tracking
+7FDC9A31	Computer Vision and Pattern Recognition<--Efficient Appearance-Based Tracking
+70678280	Workshop on Applications of Computer Vision<--Video occupant detection for airbag deployment
+80AE788F	Computer Vision and Pattern Recognition<--Robust visual tracking via multi-task sparse learning
+788A8E2C	IEEE Transactions on Circuits and Systems for Video Technology<--Object Tracking With Joint Optimization of Representation and Classification
+5C4051F5	Information not present<--The examination of the image correction of the moving-object detection for low illumination video image
+5AD94ACA	Information not present<--An illumination-robust algorithm based on visual background extractor for moving object detection
+7FF0C0FE	International Conference on Computer Vision<--Real-time feature tracking and outlier rejection with changes in illumination
+769D105E	IEEE Transactions on Intelligent Transportation Systems<--A Learning Approach Towards Detection and Tracking of Lane Markings
+75A72BF2	Fire Safety Journal<--Video image fire detection for shipboard use
+816C1AA9	Digital Image Computing: Techniques and Applications<--Re-texturing by Intrinsic Video
+80DC8ED6	Computer Vision and Pattern Recognition<--On the dimensionality of video bricks under varying illumination
+7D5CF113	Computer Vision and Pattern Recognition<--Real-time tracking of image regions with changes in geometry and illumination
+7B405416	Information not present<--A Self-Adjusting Approach to Change Detection Based on Background Word Consensus
+793127B8	IEEE Transactions on Circuits and Systems for Video Technology<--Binary Descriptor Based Nonparametric Background Modeling for Foreground Extraction by Using Detection Theory
+8075F3AF	Computer Vision and Pattern Recognition<--Moving cast shadow detection from a Gaussian mixture shadow model
+80550AB9	International Conference on Image Processing<--Optimal detection and tracking of feature points using mutual information
+7FDBF311	IEEE Transactions on Multimedia<--Graph-Based Multiplayer Detection and Tracking in Broadcast Soccer Videos
+803B72DE	IEEE Transactions on Multimedia<--Shot Change Detection via Local Keypoint Matching
+8151AE60	IEEE Transactions on Circuits and Systems for Video Technology<--Active Lighting for Video Conferencing
+80D8263D	IEEE Transactions on Circuits and Systems for Video Technology<--Robust segmentation and tracking of colored objects in video
+832DB991	Information not present<--Novel approach for real time detection and classification based on template matching in video
+80DF8849	Journal of Experimental Psychology: Human Perception and Performance<--Detection of Counter-Changing Contrast: Second-Order Apparent Motion Without Postrectification Motion-Energy Analysis or Salience Mapping/Feature Tracking.
+7712B85C	Information not present<--Automatic categorization-based multi-stage pedestrian detection
+7F50262E	International Conference on Multimedia and Expo<--An adaptive real-time background subtraction and moving shadows detection
+75974390	International Conference on Pattern Recognition<--Relightning of Facial Video
+75FE8C79	Information not present<--An improved motion detection and tracking of active blob for video surveillance
+7EF0AE42	Computer Science and Information Engineering<--Real-Time Face Detection and Recognition for Video Surveillance Applications
+7E3F3BFE	Computer Vision and Pattern Recognition<--Moving cast shadow detection using physics-based features
+7F020A02	International Conference on Computer Vision<--Shape and motion under varying illumination: unifying structure from motion, photometric stereo, and multiview stereo
+7B385CCE	Information not present<--Using infrared illumination to improve eye & face tracking in low quality video images
+801C8D0A	IEEE Transactions on Multimedia<--Efficient Background Subtraction and Shadow Removal for Monochromatic Video Sequences
+7D19FB73	Computer Vision and Pattern Recognition<--Visual tracking decomposition
+7D5EE484	International Conference on Image and Graphics<--A Double-Layer Model for Foreground Detection from Video Sequence
+7EC9B65A	Information not present<--Detection and classification of object movement - an application for video surveillance system
+81790792	Computer Vision and Pattern Recognition<--Drift-free tracking of rigid and articulated objects
+81592FB1	International Conference on Image Processing<--Modeling Time-Varying Illumination Patterns in Video
+5973B101	Information not present<--Robust matching in real-time 3D model-based tracking
+816A1DCF	International Conference on Computer Vision<--Quantitative comparison of metrics for change detection in video patrolling applications
+7E7285EB	Computer Vision and Pattern Recognition<--Kernel-based learning of cast shadows from a physical model of light sources and surfaces for low-level segmentation
+7F4EC590	International Conference on Acoustics, Speech, and Signal Processing<--Simultaneous tracking and recognition of human faces from video
+76B40489	International Conference on Image Processing<--Pose invariant facial component-landmark detection
+7DB09023	Filtration Industry Analyst<--Shot detection with multi-measures
+7EC8840E	IEEE Transactions on Image Processing<--ViBe: A Universal Background Subtraction Algorithm for Video Sequences
+7A5166CB	Information not present<--Robust real time face detection automatically from video sequence based on Haar features
+7FAD2C94	Computer Vision and Pattern Recognition<--Learning a geometry integrated image appearance manifold from a small training set
+7DA8D19C	Computer Vision and Pattern Recognition<--Visual Tracking via Locality Sensitive Histograms
+7D3B6BBC	International Conference on Pattern Recognition<--Superresolution and blind deconvolution of video
+7EB39671	International Conference on Image Processing<--Efficient motion estimation under varying illumination
+7F7F452D	International Journal of Computer Vision<--Incremental Learning for Robust Visual Tracking
+7E3ADA9F	Information not present<--GPU-based high-speed and high-precision visual tracking
+7F224147	IEEE Transactions on Multimedia<--Detection of moving cast shadows for object segmentation
+7EA28D97	International Conference on Image Processing<--Head detection for video surveillance based on categorical hair and skin colour models
+7D394E2F	IEEE Transactions on Image Processing<--Accurate Moving Cast Shadow Suppression Based on Local Color Constancy Detection
+80D7C0B1	International Conference on Multimedia and Expo<--3D Haar-Like Features for Pedestrian Detection
+80039747	Canadian Conference on Computer and Robot Vision<--Detection and Tracking of Multiple Moving Objects in Real-World Scenarios using Attributed Relational Graph
+7E49514F	Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing<--A study of pupil detection and tracking by image processing techniques for a human eye-computer interaction system
+76E3B663	IEEE Transactions on Image Processing<--SuBSENSE: A Universal Change Detection Method With Local Adaptive Sensitivity
+78D0A0EB	IEEE Transactions on Multimedia<--Moving Cast Shadows Detection Using Ratio Edge
+7DF2F63C	Information Systems Management<--Local Normalization with Optimal Adaptive Correlation for Automatic and Robust Face Detection on Video Sequences
+7F4FBA42	Computer Vision and Pattern Recognition<--Class-specific Hough forests for object detection
+7EEF571E	Information not present<--Real-Time Eye Detection in Video Streams
