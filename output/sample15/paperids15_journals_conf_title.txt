@@ -1,0 +1,74 @@
+7DAEB614	Knowledge Discovery and Data Mining<--Learning nonstationary models of normal network traffic for detecting novel attacks
+039509B3	Information not present<--Model-based intrusion detection
+812B3FA2	Information not present<--A Multi-Mutation Pattern Immune Network for Intrusion Detection
+7566A357	Computers & Security<--Detecting intrusion with rule-based integration of multiple models
+7F957A8D	Information not present<--Hybrid network Intrusion Detection
+74ACBB92	Information not present<--A large signal nonlinear MODFET model from small signal S-parameters
+7FACBDE4	Fuzzy Systems and Knowledge Discovery<--Multi Relational Mining in Network Intrusion Detection
+7732B134	Information not present<--Automatic creation of models for network intrusion detection
+7E7969F7	Annual Computer Security Applications Conference<--Penetration state transition analysis: A rule-based intrusion detection approach
+5E698AE6	Information not present<--Data mining approaches for intrusion detection
+7DCBAD4B	Information Technology<--Intelligent agents for intrusion detection
+5C2490E0	International Symposium on Neural Networks<--A Modified RBF Neural Network for Network Anomaly Detection
+799240E1	Information not present<--A distributed network-sensor based intrusion detection framework in enterprise networks
+69FD6E67	Information not present<--Statistical model applied to netflow for network intrusion detection
+7A4C6C59	International Conference on Information Technology: New Generations<--Scalable Intrusion Detection with Recurrent Neural Networks
+71937775	Information not present<--An immunity-based model for network intrusion detection
+7E0DD16C	Pattern Recognition<--Genetic-fuzzy rule mining approach and evaluation of feature selection techniques for anomaly intrusion detection
+712BEE74	Information not present<--Intrusion Detection In Mobile Adhoc Network
+75F2DC32	ACM Transactions on Modeling and Computer Simulation<--A Decision Support System for Placement of Intrusion Detection and Prevention Devices in Large-Scale Networks
+800528C9	Information not present<--Hybrid Model Based on Artificial Immune System and PCA Neural Networks for Intrusion Detection
+5E9BC107	Information not present<--Learning Patterns from Unix Process Execution Traces for Intrusion Detection
+7D83A406	Computers & Security<--Feature deduction and ensemble design of intrusion detection systems
+7D240933	Information not present<--Wireless sensor network for community intrusion detection system based on classify support vector machine
+7B75FDC9	Procedia Computer Science<--An Efficient Formal Framework for Intrusion Detection Systems
+75E4D15B	Information not present<--Intrusion detections systems – an outmoded network protection model
+5DBD1386	Information not present<--NIDH - Network Intrusion Detection Hierarchy: A model for gathering attack intelligence
+720ABC2A	Information not present<--Knowledge-based intrusion detection
+5DFEF799	Information not present<--Case‐Based Multi‐Sensor Intrusion Detection
+7ED7AE7B	Applied Soft Computing<--Alert correlation in collaborative intelligent intrusion detection systems—A survey
+8194356C	Information not present<--Moderator-free neutron detection
+7BAE61AD	Applied Mechanics and Materials<--The Simulation and Analysis of the Large-Scale Intrusion Detection Model in Shuffle Networks
+788D804C	Advanced Materials Research<--A Hybrid FCM Clustering- Neural Network Model for Intrusion Detection
+7CF348FB	Information not present<--An Application of Pattern Matching in Intrusion Detection
+75F80375	Expert Systems With Applications<--Efficient classification using parallel and scalable compressed model and its application on intrusion detection
+772CD65D	Computer Networks<--The 1999 DARPA off-line intrusion detection evaluation
+7FB7CDBD	International Conference on Machine Learning and Cybernetics<--Hybrid Hierarchical Network Intrusion Detection
+81524C3F	Information not present<--Vide, “Evolutionary design of intrusion detection programs
+5896A774	Information not present<--STAT -- A State Transition Analysis Tool For Intrusion Detection
+7E496032	Educational Data Mining<--A large signal model of GaAs MESFET
+814D173D	Information not present<--Intrusion Detection Scheme against Sinkhole Attacks in Directed Diffusion Based Sensor Networks
+7FD6F716	Information not present<--ANOMALY NETWORK INTRUSION DETECTION METHOD IN NETWORK SECURITY BASED ON PRINCIPLE COMPONENT ANALYSIS
+5BCE3A64	Clinical Orthopaedics and Related Research<--Application of Data Mining to Network Intrusion Detection: Classifier Selection Model
+5EE55E01	Information not present<--Learning program behavior profiles for intrusion detection
+7F88C3B5	Applied Soft Computing<--Review: The use of computational intelligence in intrusion detection systems: A review
+601A82F7	Information not present<--Automated Audit Trail Analysis and Intrusion Detection: A Survey
+806DB361	Information not present<--A Distributed Communication Model of Intrusion Detection System in Active Network
+588E052B	Information not present<--Intrusion Detection System (IDS) for Wireless Ad-hoc Networks using Evolution Identification on Streaming Network Data for Detecting Unknown Network Attacks
+7EF318D2	Scientific Programming<--Detecting intrusions using system calls: alternative data models
+77CCBE06	Expert Systems With Applications<--A novel intrusion detection system based on feature generation with visualization strategy
+7D9C83BB	IEEE Transactions on Software Engineering<--State transition analysis: a rule-based intrusion detection approach
+7FFD6B99	IEEE Software<--A software platform for testing intrusion detection systems
+7A1333F9	Applied Mechanics and Materials<--A Cellular Intrusion Detection Framework for Packet Dropping Attacks in Wireless Sensor Networks
+7E30D3CD	International Conference on E-Business and E-Government<--The application of Hybrid Neural Network Algorithms in Intrusion Detection System
+7D488C1C	Information not present<--A FRAMEWORK FOR SIGNAL STRENGTH BASED INTRUSION DETECTION SYSTEM FOR LINK LAYER ATTACKS IN WIRELESS NETWORK
+80F36919	Information not present<--Wireless Intrusion Detection Sytem
+5B7700D1	Int'l J. of Communications, Network and System Sciences<--Using Bayesian Game Model for Intrusion Detection in Wireless Ad Hoc Networks
+79406BD7	Computers & Security<--Swarm intelligence in intrusion detection: A survey
+78FC71D4	Journal of Network and Computer Applications<--Intrusion detection system: A comprehensive review
+7054D090	Scientific Programming<--A data mining framework for building intrusion detection models
+7A1919E6	Computer and Communications Security<--The base-rate fallacy and its implications for the difficulty of intrusion detection
+028BE359	SIAM International Conference on Data Mining<--A Comparative Study of Anomaly Detection Schemes in Network Intrusion Detection
+61E164F2	Information Systems Security<--Artificial Neural Networks for Misuse Detection
+7D1C3914	Information not present<--VNIDS: A virtual machine-based network intrusion detection system
+0387871E	Information not present<--A BAYESIAN CLASSIFICATION MODEL FOR REAL TIME COMPUTER NETWORK INTRUSION DETECTION SYSTEMS
+78EEC707	IEEE Transactions on Electron Devices<--A simple and continuous MOSFET model
+02A41264	Information not present<--PHAD: Packet Header Anomaly Detection for Identifying Hostile Network Traffic
+7518A3AF	Computers & Security<--A survey of intrusion detection techniques
+789B8A91	Information not present<--Using extreme learning machine for intrusion detection in a big data environment
+774336A5	Information not present<--The Incremental Probabilistic Neural Network
+5BFAA32B	Information not present<--State of the Practice of Intrusion Detection Technologies
+8042453A	IEEE Transactions on Software Engineering<--A methodology for testing intrusion detection systems
+7C8F7EE3	Applied Mechanics and Materials<--Intrusion Detection Model Based on Improved Genetic Algorithm Neural Network in Computer Integrated Process System
+81798164	Information not present<--Research of Agent_based Intrusion Detection Model of NDP
+811F9DC4	IEEE Symposium on Security and Privacy<--USTAT: a real-time intrusion detection system for UNIX

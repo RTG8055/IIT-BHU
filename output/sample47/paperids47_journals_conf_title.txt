@@ -1,0 +1,58 @@
+﻿761A6464	IEEE Transactions on Computational Intelligence and Ai in Games<--Player Preference and Style in a Leading Mobile Card Game
+7A3CAFFC	Robotics and Autonomous Systems<--Integrating behavioral, perceptual, and world knowledge in reactive navigation
+5DF09841	Journal of Information Science and Engineering<--Network tournament pedagogical approach involving game playing in artificial intelligence
+8592E419	Lecture Notes in Computer Science<--The Multi-interval Ulam-Rényi Game
+81060467	International Conference on Innovative Computing, Information and Control<--Applying Reinforcement Learning for Game AI in a Tank-Battle Game
+7BCB7705	Computational Intelligence and Games<--Learning to play fighting game using massive play data
+640E635F	Clinical Orthopaedics and Related Research<--On Using Unsatisfiability for Solving Maximum Satisfiability
+791CE782	Computers in Industry<--A learning reactive scheduler using CBR/L
+7AFE5DB2	Synthesis Lectures on Artificial Intelligence and Machine Learning<--General Game Playing
+765C5ADD	Artificial Intelligence<--A world-championship-level Othello program
+7E64BC71	Information not present<--Fuzzy neural modeling via clustering and support vector machines
+7D9EA8FF	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Expected-outcome: a general model of static evaluation
+75D6F8E1	Information not present<--Modeling and designing of machine learning procedures as applied to game playing using artificial intelligence
+7ECBDEA2	IEEE Transactions on Systems, Man, and Cybernetics<--Rapid, safe, and incremental learning of navigation strategies
+59ACF6B9	Advances in Computer Games<--Creating an upper-confidence-tree program for havannah
+80B16C7A	IEEE Transactions on Neural Networks<--Neuro-fuzzy rule generation: survey in soft computing framework
+7AA410BA	Computational and Mathematical Methods in Medicine<--Reliable RANSAC Using a Novel Preprocessing Model
+25F426F6	Information not present<--Neutrocontroll using continuous CMAC
+752E19F8	Information not present<--Lensfree holographic cytometry using plasmonic nanoparticles
+5E0CB5E5	Information not present<--A self-learning neural-network LSI using neuron MOSFETs
+783F2E58	Conference on Decision and Control<--Special multimodality in renju game
+7986A229	Genetic and Evolutionary Computation Conference<--Using coevolution to understand and validate game balance in continuous games
+808AC5BF	Symbolic and Numeric Algorithms for Scientific Computing<--Using Excel as a front-end for MLF
+5B14EB95	Advances in Computer Games<--A lock-free multithreaded monte-carlo tree search algorithm
+7C5096E9	Information not present<--Adaptive LASSO hyperspectral unmixing using ADMM
+7636FDD8	International Conference on Intelligent Computing<--Lightning Forecasting Using Ann-BP and Radiosonde
+633C1E93	Conference on Computational Complexity<--Multi-agent differential graphical games
+826382AD	Adaptive Agents and Multi-Agents Systems<--Online Monte Carlo Counterfactual Regret Minimization for Search in Imperfect Information Games
+7BAAD65C	Soft Computing<--Implementation of the chess game artificial intelligent using mobile robots
+5DC974BD	Computers & Graphics<--Parallel Monte-Carlo Tree Search
+7F96DA91	Information not present<--Adaptive fuzzy apporach to background modeling using PSO and KLMS
+8025D261	IEEE Transactions on Systems, Man, and Cybernetics<--NeuroFAST: on-line neuro-fuzzy ART-based structure and parameter learning TSK model
+7DF54FD2	IEEE Transactions on Computational Intelligence and Ai in Games<--Information Set Monte Carlo Tree Search
+7E219278	Information not present<--Telemanipulator neurocontrol using multiple RBF networks
+7DA1591F	Journal of Artificial Intelligence Research<--Reinforcement learning: a survey
+7E1A2F16	IEEE Transactions on Systems, Man, and Cybernetics<--Fuzzy inference system learning by reinforcement methods
+7E7B544D	International Conference on Acoustics, Speech, and Signal Processing<--Learning a discriminative visual codebook using homonym scheme
+814FC0FA	IEEE Transactions on Computational Intelligence and Ai in Games<--CadiaPlayer : A Simulation-Based General Game Player
+662CC8CF	Computers & Graphics<--Efficient selectivity and backup operators in Monte-Carlo tree search
+7E18DF77	Information not present<--A Method for Generating Emergent Behaviors Using Machine Learning to Strategy Games
+5A53E63D	Principles and Practice of Constraint Programming<--Solving Over-Constrained CSPs Using Weighted OBDDs
+7E71B409	Computer Vision and Pattern Recognition<--Learning Multiple Non-linear Sub-spaces Using K-RBMs
+80B93A3F	Information not present<--Emotion-Based Synthetic Characters in Games
+5856016D	International Semantic Web Conference<--Applying KAoS Services to Ensure Policy Compliance for Semantic Web Services Workflow Composition and Enactment
+7FE9C903	Information not present<--Using Dependency Tracking to Provide Explanations for Policy Management
+717F35F8	Information not present<--Self-Assembling Games
+77C70C3D	Artificial Intelligence<--Learning to act using real-time dynamic programming
+7ED6D936	Conference on Decision and Control<--Two-layer piecewise deterministic games
+5F1925FD	Information not present<--Reinforcement learning for robots using neural networks
+775D7C28	Conference of the European Chapter of the Association for Computational Linguistics<--Frolog: an accommodating text-adventure game
+7F785279	Information not present<--Parallel Monte-Carlo Tree Search with Simulation Servers
+8045FD94	Requirements Engineering<--Emotional Requirements in Video Games
+7714A1B4	Artificial Intelligence<--Monte-Carlo tree search and rapid action value estimation in computer Go
+7EF58F8A	Computer Vision and Pattern Recognition<--Dense Non-rigid Point-Matching Using Random Projections
+7EF20A17	Information not present<--On-line identification of thermal process using a modified ts-type neuro-fuzzy system
+7D3C4469	IEEE Transactions on Computational Intelligence and Ai in Games<--Fuego—An Open-Source Framework for Board Games and Go Engine Based on Monte Carlo Tree Search
+7FA26BB1	Brazilian Symposium on Neural Networks<--Speeding up autonomous learning by using state-independent option policies and termination improvement
+784475F8	ACM Sigcse Bulletin<--Using the game cube-4 as an example in an introductory artificial intelligence course

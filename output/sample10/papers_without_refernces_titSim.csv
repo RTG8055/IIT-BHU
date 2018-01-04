@@ -1,0 +1,736 @@
+Paper ID,Title,Sim1,Sim2
+238D0B83,"Efficient variable block size motion estimation architecture for real-time rate distortion optimization of H. 264/AVC encoder (Special issue on nonlinear circuits and signal processing)",0.50119047619,0.372766627312
+76236562,"JAVA implemented MSE optimal bit-rate allocation applied to 3-D hyperspectral imagery using JPEG2000 compression",0.133134920635,0.203741496599
+8001A90B,"Rate-distortion optimal tree algorithms for piecewise polynomials",0.130555555556,0.116666666667
+7F11205B,"Hard-decision quantization with adaptive reconstruction levels for High Efficiency Video Coding",0.386698717949,0.433333333333
+5DAF7981,"The computation model of code error distortion based on the rate-distortion theory",0.259764194139,0.278751803752
+7615669B,"Recent progress on perceptual video coding",0.368097527473,0.694444444444
+7E57A3A9,"Encoding DCT coefficients in H.263 based on rate-distortion measurement",0.119791666667,0.192361111111
+79245EA5,"Rate-distortion optimal downsampling of H.264 compressed video using full-resolution information",0.263930860806,0.433333333333
+7E628B8E,"Opening the Laplacian pyramid for video coding",0.265319749695,0.392361111111
+790F613D,"Design of energy-aware video codec-based system",0.262648809524,0.433333333333
+30B4D409,"一個使用多層串流技術之轉碼器架構設計於精細可調層次式到MPEG-1/2/4單一層次式的位元流轉碼應用",0,0
+77312E59,"Efficient mode selection with extreme value detection based pre-processing algorithm for H.264/AVC fast intra mode decision",0.141311813187,0.148263888889
+7CAB313E,"Rate-distortion optimization between the hierarchical variable block size motion estimation and motion sequence coding",0.27876984127,0.343456890332
+5F9749FB,"Sliding-window packetization for unequal loss protection based multiple description coding",0.142609126984,0.180555555556
+0138FE99,"A Fast Selection Algorithm for Multiple Reference Frames in H.264/AVC",0.133283730159,0.119742063492
+8122354B,"Dynamic Sliding Window Width Selection Strategies for Rate-Distortion Optimal Vertex-Based Shape Coding Algorithms",0.240079365079,0.252839620697
+80C8AAB1,"An improved algorithm for rate distortion optimization in JPEG2000 and its integrated circuit implementation",0.368005952381,0.417003367003
+7584078F,"Motion Compensation Complexity Model for Decoder-Friendly H.264 System Design",0.278273809524,0.290151515152
+0142CC2B,"特異 값 分解에 基盤한 3次元 메쉬 시퀀스의 階層 符號化 技法",0,0
+7BDB964A,"Mesh-based scalable image coding with rate-distortion optimization",0.307407407407,0.550505050505
+7FB0133B,"Conditional entropy coding of VQ indexes for image compression",0.132192460317,0.125
+80BB694C,"Motion mapping and mode decision for MPEG-2 to H.264/AVC transcoding",0.261004273504,0.369444444444
+06ABE934,"A fast intramode decision algorithm for H.264/AVC",0.112231691919,0.105555555556
+7546BFD7,"Fast intra mode decision for HEVC intra coding",0.243742368742,0.425925925926
+7F4403A7,"A Binary Markov Model for the Quantized Wavelet Coefficients of Images and Its Rate/Distortion Optimization",0.124107142857,0.106301106301
+60A0B200,"Enhanced Mode Selection Algorithm for H.264 encoder for Application in Low Computational power devices",0.151728479853,0.140013227513
+7E9CFFF8,"High performance wavelet-based stereo image coding",0.23125,0.340277777778
+75BE0B42,"A Joint Optimized Transmission Scheme Based on M-QAM and UEP for Wireless Scalable Video",0.352292768959,0.443392255892
+7D79DC40,"Image Authentication and Recovery through Optimal Selection of Block Types",0.145436507937,0.132605820106
+7F20074C,"EBCOT using energy efficient wavelet transform",0.118002830503,0.189033189033
+7FBA94CD,"Rate-distortion optimization of parametrized quantization matrix for MPEG-2 encoding",0.104919733045,0.0998106060606
+807B1134,"Rate-Distortion Based Piecewise Planar 3D Scene Geometry Representation",0.127683080808,0.156541375291
+6FA649D3,"A rate-distortion optimal scalable vertex based shape coding algorithm",0.317328042328,0.44126984127
+7F7525EC,"Optimal resource allocation for video transmission over DS-CDMA channels with multirate detection",0.130456349206,0.126349206349
+08337B57,"Rate-distortion optimized streaming over di serv networks",0.230200702076,0.411255411255
+5A13C2BD,"Mode decision for high-quality H.264/AVC video downscaling transcoding",0.253861416361,0.425925925926
+7D1B9E43,"JPEG2000 compliant lossless coding of floating point data",0.12841498779,0.146825396825
+7BD97A8B,"An Efficient Mode Decision Algorithm Based on Dynamic Grouping and Adaptive Adjustment for H.264/AVC",0.169696969697,0.17962962963
+7F76F96B,"A standard-based system for robust video transmission over the Internet",0.280704365079,0.359027777778
+652814BE,"Sliding-window packetization for forward error correction based multiple description transcoding",0.137400793651,0.178977272727
+7F9DFFA7,"Joint rate distortion optimal shape and texture coding",0.354853479853,0.479365079365
+5B106998,"A Feedback Buffer Control Algorithm for H.264 Video Coding",0.372276334776,0.42037037037
+5D9D3CA6,"Multi-source multi-path video streaming over wireless mesh networks",0.263930860806,0.411255411255
+7EF132FE,"Efficient mode decision for H.264/AVC frame-skipping transcoding",0.139575702076,0.138888888889
+80C963D0,"A Superior Low Complexity Rate Control Algorithm",0.255746336996,0.3875
+76C6CBFE,"A Fast Inter-frame Prediction Algorithm for H.264/AVC",0.106027183601,0.0954545454545
+81029CB8,"Forward Error Correction-Based 2-D Layered Multiple Description Coding for Error-Resilient H.264 SVC Video Transmission",0.369486416361,0.569444444444
+7E423606,"Distortion estimation for optimized delivery of JPEG2000 compressed video with motion",0.449347527473,0.569318181818
+5CF091B6,"An embedded still image code algorithm with rate-distortion optimization",0.151430860806,0.150505050505
+7681C6D9,"Motion Based Perceptual Distortion and Rate Optimization for Video Coding",0.566907051282,0.647907647908
+08FB5DE6,"Rate-distortion optimal tree based coding algorithms for piecewise polynomials",0.234722222222,0.336666666667
+7BF93DCE,"Subset Selection in Type-II Hybrid ARQ/FEC for Video Multicast",0.267055860806,0.5625
+0319D9B8,"Rate-Distortion optimized video coding with frameskip",0.361153083028,1.0
+778E5D5B,"Joint Source and Channel Coding for 3-D Scene Databases Using Vector Quantization and Embedded Parity Objects",0.152728174603,0.139433293979
+7EF30FFB,"A Novel Fast Intra Prediction Algorithm Applied in H.264/AVC",0.106027183601,0.153787878788
+0A5B5B84,"Rate-distortion optimized low--latency video streaming using channel-adaptive bitstream assembly",0.383482142857,0.479365079365
+789DF65C,"Rate-distortion optimization of the image compression algorithm based on the warped discrete cosine transform",0.128968253968,0.15747955748
+835E166F,"CSI with Quantizer Selection for Video Coding",0.250389194139,0.412037037037
+7AF95575,"An Effective Global RD Formulation Based Mode Selection Algorithm for Wireless H.264 Communications",0.147321428571,0.151587301587
+7D1DF000,"A non-parametric method for fast joint rate-distortion optimization of motion estimation and DFD coding",0.265319749695,0.287626262626
+7E88CEF7,"Rate-distortion optimal contour prediction for a region-based coder",0.118560606061,0.105303030303
+7EEF47EB,"A fast H.264-based picture-in-picture (PIP) transcoder",0.0916707067442,0.0769230769231
+8042EE59,"An HVS-based adaptive computational complexity reduction scheme for H.264/AVC video encoder using prognostic early mode exclusion",0.279555860806,0.297680890538
+7B12FC93,"An Adaptive CU Depth Selection Mechanism Based on Visual Sensitivity for HEVC Inter Coding",0.230902777778,0.272619047619
+7955BA8A,"Rate-distortion development for optimal truncation in JPEG2000 imagery",0.11084280303,0.0969696969697
+7AA319FE,"Enhanced Low Complex Cost Function for H.264/AVC Intra Mode Decision",0.146718559219,0.142308802309
+5F87859E,"Rate-distortion optimization for VBR environments using a motion compensated wavelet coder",0.273268398268,0.278973407545
+5D926515,"Quantization using Compressive Sensing",0.109706439394,0.172222222222
+79FBF34A,"Research on scalable coding technology application in video compression based on H.264 standard",0.445716320716,0.476388888889
+7AAAF3BD,"Efficient wavelet packet basis selection in JPEG2000",0.145478479853,0.152678571429
+59597774,"Fast adaptive inter-prediction mode decision method for H.264 based on spatial correlation",0.146718559219,0.184444444444
+78ED3A51,"A fast CABAC rate estimator for H.264/AVC mode decision",0.248466810967,0.344444444444
+7AFE9EC1,"A joint coding method of video plus depth based on H.264",0.121180555556,0.170138888889
+5BC74636,"Selective encryption and scalable speech coding for voice communications over multi-hop wireless links",0.317901234568,0.365873015873
+83FFE8A0,"H.264/AVC 고속 매크로블록 모드 결정 알고리즘",0,0
+812557F9,"MMSE design of modulated and tree-structured filter banks for efficient tradeoffs between rate, distortion, and decoder complexity",0.389880952381,0.363541666667
+817945CA,"Rate-distortion optimization for the SPIHT encoder",0.0758401320901,0.0909090909091
+7F724870,"Entropy coding of composite sources modeled by infinite Gaussian mixture distributions",0.134027777778,0.130092592593
+814E9249,"Rate-distortion optimized reference picture selection",0.114186507937,0.130952380952
+58D37996,"MPEG-2 to H.264/AVC Intra Frame Transcoding",0.0773332570208,0.111111111111
+7FE11B91,"Synthesis-in-the-loop for video texture coding",0.223913239538,0.571428571429
+76D4E46A,"Block based Rate-Distortion analysis for quality improvement of synthesized views",0.191666666667,0.207407407407
+8028FB1E,"Efficient inter mode decision for H.263 to H.264 video transcoding using support vector machines",0.293898809524,0.295634920635
+049234CF,"End-to-end rate distortion optimization for H.264/AVC in error prone environment",0.354853479853,0.471753246753
+710CE7D2,"New results on rate control in JPEG2000",0.251244588745,0.437037037037
+7745CC99,"Depth perceptual video coding for free viewpoint video based on H.264/AVC",0.368097527473,0.594907407407
+606E84DA,"JPEG-compliant image coding with adaptive pre-/post-filtering",0.220833333333,0.555555555556
+7A7CA94F,"Network Distributed Quantization",0.122561813187,0.142063492063
+80FED0F2,"A CSI and Rate-Distortion Based Packet Loss Recovery Algorithm for VoIP",0.144288003663,0.181904761905
+79455688,"JPEG XR optimization with graph-based soft decision quantization",0.112231691919,0.0951178451178
+13659315,"Improved algorithm for RDO in JPEG2000 encoder and its IC design 1 1 This project was supported by the National “863” High Technology Program of China (2002AA1Z1420).",0.139484126984,0.168455988456
+7E6B6A7A,"Power-Rate-Distortion Optimization for Multi-Source Video Streaming under Energy Constraints over Ad Hoc Networks",0.253514194139,0.25749330035
+7F2E09CB,"Deadzone Based Rate Allocation for JPEG XR",0.240121336996,0.492063492063
+811C1AD7,"A simplified algorithm of JPEG2000 rate control for VLSI implementation",0.250885225885,0.352777777778
+7F8D4A0C,"Rate-Distortion Curve Evaluation for Cross-Layer Optimization in Multimedia Transmission",0.112012987013,0.116197691198
+7D240DA3,"Signal processing techniques for haptic data compression in teleoperation systems",0.156696428571,0.146904761905
+797F8CFC,"Joint Source Coding and Data Rate Adaptation for Multi-User Wireless Video Transmission",0.378472222222,0.344593253968
+75F91C1A,"Rate-distortion optimized color quantization for compound image compression",0.233382936508,0.265812890813
+75984D8E,"QP refinement according to Lagrange multiplier for High Efficiency Video Coding",0.383722527473,0.452976190476
+7F65E128,"Maximum a Posteriori Based (MAP-Based) Video Denoising VIA Rate Distortion Optimization",0.483573717949,0.59154040404
+7E8FC7D9,"Quality versus intelligibility: Studying human preferences for american sign language video",0.295138888889,0.340646258503
+75FCF958,"Adaptive Multi-Resolution Coding for 3D Scenes using Vector Quantization",0.115782828283,0.140404040404
+5A66D403,"P2P video broadcast with latency and utility optimization",0.247264194139,0.304935064935
+7E7D6FE8,"Rate-distortion optimization for arbitrarily-shaped object coding",0.132192460317,0.114959114959
+79E79742,"Computational complexity reduction algorithm for inter mode prediction in video coding",0.280944749695,0.259812409812
+7AE52DDC,"Wavelet-based Fine Granularity Scalable video coding",0.438308913309,0.777777777778
+7FF6149F,"Fast Intra Mode Decision Algorithm Based on Texture Feature for H.264/AVC",0.139575702076,0.15747955748
+78949056,"A slice-length selection algorithm based on the frame-level RDO",0.119791666667,0.186111111111
+81647FF6,"A significant motion vector protection-based error-resilient scheme in H.264",0.263930860806,0.391414141414
+7EDC9157,"Efficient and Rate-Distortion Optimal Wavelet Packet Basis Selection in JPEG2000",0.145478479853,0.152678571429
+754B8BA5,"Transcoding from H.264/AVC to SVC with CGS Layers",0.108143939394,0.138888888889
+800AFBC7,"Optimal Wavelet Packets Decomposition Based on a Rate-Distortion Optimality Criterion",0.138335622711,0.190476190476
+5B996ADE,"Direct mode coding for bi-predictive pictures in the JVT standard",0.248363095238,0.358630952381
+79141236,"A macroblock-based perceptually adaptive bit allocation for H264 rate control",0.249496336996,0.366964285714
+7E18A032,"Sender-based rate-distortion optimized streaming of 3-D wavelet video with low latency",0.37345467033,0.475324675325
+7C3F21DB,"Improved Estimation of Transmission Distortion for Error-Resilient Video Coding",0.394288003663,0.446759259259
+7D4351F1,"Rate-Distortion Optimized Progressive 3D Reconstruction from Multi-view Images",0.220833333333,0.403703703704
+7B324574,"Adaptive intra mode skipping algorithm for inter frame coding of H.264/AVC",0.143849206349,0.147777777778
+7FEC0F94,"Video coding for wireless varying bit-rate communications based on area of interest and region representation",0.373759920635,0.355864197531
+753636B1,"Rate-distortion optimized multimedia delivery via orthogonal frequency division multiplexing (OFDM)",0.172123015873,0.198232323232
+80F8006E,"Distortion/decoding time tradeoffs in software DCT-based image coding",0.107638888889,0.127777777778
+7F8137C8,"Research and Realization of Improved Algorithm for H.264/AVC Oriented to Video Conference under the RTI Framework",0.116666666667,0.115488215488
+8168848D,"Intra Prediction via Edge-Based Inpainting",0.0801343264579,0.0909090909091
+03510265,"Rate-Distortion Optimized Embedding",0.6,0.6
+79BE3140,"A multi-level dynamic complexity reduction scheme for multiview video coding",0.383722527473,0.488181818182
+79B41FD3,"Joint optimization of the perceptual core and lossless compression layers in scalable audio coding",0.259391534392,0.265764790765
+7B39143F,"Quality versus intelligibility: Evaluating the coding trade-offs for American Sign Language video",0.401041666667,0.406398809524
+7D4AE445,"Transforms and Quantization in the High-Throughput H.264/AVC Encoder Based on Advanced Mode Selection",0.141311813187,0.177083333333
+79B66029,"A novel fast intermode decision algorithm with rate-distortion optimization for H.264/AVC",0.112231691919,0.0982323232323
+7BF4135E,"JPEG2000: Quality Scalability and Windows of Interest Transmission",0.239583333333,0.328888888889
+7ADADFDF,"Multistage mode decision for intraprediction in H.264 codec",0.122909035409,0.134259259259
+7C500EB4,"Rate-Distortion Optimization for depth map coding with distortion estimation of synthesized view",0.340277777778,0.368145743146
+6FA8F5E0,"A simplified rate-distortion optimization procedure relying on statistical subband and noise modelling",0.125,0.123268398268
+7D40A57A,"Remote Interactive Browsing of Video Surveillance Content Based on JPEG 2000",0.132978479853,0.164502164502
+7AAF2F81,"Maximum Likelihood Rate Estimation: With Applications in Image and Video Compression",0.388782051282,0.387698412698
+78E4942A,"Rate distortion optimization for bidirectional scalable motion model",0.540954415954,0.69696969697
+7E058AC3,"Improved Method to Select the Lagrange Multiplier for Rate-Distortion Based Motion Estimation in Video Coding",0.369486416361,0.376543209877
+85439510,"Analysis of the depth-shift distortion as an estimator for view synthesis distortion",0.213257575758,0.401851851852
+76F68664,"New image coding scheme with hierarchical representation and adaptive interpolation",0.252819749695,0.305404040404
+7D675EEB,"Constrained wavelet packets for tree-structured video coding algorithms",0.366510225885,0.416137566138
+784FCCE5,"Progressive Technique for Rate Distortion Optimization in JPEG2000",0.352621336996,0.547727272727
+7E20717F,"Fast mode decision for H.264/AVC based on macroblock correlation",0.141510225885,0.214814814815
+80F936C3,"Improving Computation of Zero-Blocks for Zero-Block Mode Decision Using Prediction Motion Vector",0.291361416361,0.278724747475
+753E7C9F,"Rate-distortion optimal mesh simplification for communications",0.123466810967,0.121428571429
+7AF985B8,"VLSI Architecture of 1.264 Block Size Decision based on Rate-Distortion Optimization",0.141121031746,0.161646224146
+7F0BC3DE,"Fast multiple reference frame selection method for motion estimation in JVT/H.264",0.271329365079,0.26917989418
+7EA2819F,"A Fast Mode Decision Method Based on Motion Cost and Intra Prediction Cost for H.264/AVC",0.270528083028,0.262355699856
+591D1690,"Rate distortion optimized mode decision in the scalable video coding",0.72613960114,0.873015873016
+774CEFC1,"Adaptive Interpolation Filter with Flexible Symmetry for Coding High Resolution High Quality Video",0.420138888889,0.43843537415
+7B048731,"A Method for Fast Rough Mode Decision in HEVC",0.139575702076,0.12962962963
+7B83749E,"Shaping for video with frame dependency",0.262996031746,0.369444444444
+121759BA,"Rate Distortion Optimized Coding Mode Selection for H.264/AVC in Wireless Environments(Multimedia Systems)",0.470436507937,0.46994047619
+807E4B66,"Disparity Compensated View Filtering Wavelet Based Multiview Image Code Using Lagrangian Optimization",0.15782967033,0.179884559885
+5A73A336,"3-D subband video coding technique using adaptive wavelet packet bases",0.379464285714,0.406292517007
+5E8E9F90,"Rate-distortion optimizations for region and object based wavelet video coding",0.381696428571,0.403009688724
+75B5F1C1,"Inter prediction using lapped transforms for advanced video coding",0.368097527473,0.524848484848
+801D1780,"Computation-Aware Intra-mode Decision for H.264 Coding and Transcoding",0.0897957944833,0.111111111111
+77A198D6,"Spatial Constant Quantization in JPEG XR is Nearly Optimal",0.0964370059765,0.208333333333
+78552F04,"A hardware-friendly method for rate-distortion optimization of HEVC intra coding",0.213888888889,0.400673400673
+680AB084,"Rate-Distortion Optimization For Image Compression Using Warped",0.125,0.173737373737
+7F3F8AC7,"Key Frame Extraction in 3D Video by Rate-Distortion Optimization",0.268204365079,0.328282828283
+81121067,"A Fast and Efficient Intra Mode Decision Algorithm for H.264/AVC",0.139575702076,0.125925925926
+759F3545,"A simple direction detection algorithm for Fast H.264 intra prediction",0.114393939394,0.0954545454545
+773065B3,"B-picture coding with motion-compensated frame rate upconversion",0.341617063492,0.703703703704
+7F839825,"VBR rate control for perceptually consistent video quality",0.399305555556,0.633333333333
+7952E5FE,"Fast multi-symmetry adaptive loop filter algorithm",0.129924242424,0.172222222222
+768803C7,"Motion and disparity field estimation using rate-distortion optimization",0.26994047619,0.299873737374
+79E3DF67,"Efficient rate-distortion optimized mode selection of H.264/AVC intra coding",0.328125,0.708333333333
+7BC7A05D,"Motion vector coding with decoder selectable PMV",0.362901334776,0.545833333333
+77CACE4B,"Wavelet-based Entropy Measure for Rate-Distortion Optimization in Image Coding",0.106308621934,0.104292929293
+79D7A8DA,"Fast algorithm for intra-prediction mode selection in H.264/AVC based on pan algorithm",0.14558531746,0.156018518519
+7D8D30F5,"Alternative Transform Based on the Correlation of the Residual Signal",0.171329365079,0.261111111111
+81D2D955,"?-domain rate-distortion optimal rate control for DCT-based video coders",0.382196969697,0.575
+81E2B7CB,"Adaptive Search Range Decision for Fast Intra- and Inter-prediction Mode Decision in H.264/AVC",0.141311813187,0.127777777778
+7E908624,"Channel-Adaptive Multiple Description Coding for Wireless Video Streaming",0.368097527473,0.591666666667
+7F7A2FBB,"Detection from hyperspectral images compressed using rate distortion and optimization techniques under JPEG2000 part 2",0.361607142857,0.353928170595
+7C294BA6,"Rate distortion optimized slicing over bit error channels",0.449843559219,0.552172364672
+7A2C1E6F,"Rate-distortion optimization for scalable multi-view video coding",0.346950888618,0.550505050505
+7B2AD942,"Rate-distortion Optimized Trellis-Coded Quantization",0.193659228199,0.541666666667
+7687FE2D,"High-definition video coding with super-macroblocks",0.361153083028,1.0
+5F2C8529,"Document image segmentation and compression",0.125157828283,0.136111111111
+7870E33D,"SSIM-Inspired Perceptual Video Coding for HEVC",0.368097527473,1.0
+792BAE55,"Fast Rate-Distortion Optimal Packetization of Embedded Bitstreams into Independent Source Packets",0.135863095238,0.121428571429
+58AC5AC0,"Stereoscopic video coding based on global displacement compensated prediction",0.368097527473,0.443001443001
+7E2B833A,"Optimized Rate Allocation of Hyperspectral Images in Compressed Domain Under JPEG 2000 Part 2",0.354662698413,0.438161375661
+813E09A3,"A wavelet packet based block-partitioning image coding algorithm with rate-distortion optimization",0.242502289377,0.303511303511
+74586C52,"Wavelet image compression based on significance clustering and rate distortion optimization",0.354853479853,0.345859387526
+5AC0C457,"A rate-distortion optimized real time intra-update method for packet video transmission",0.272264194139,0.306349206349
+7C77DC9D,"Lossy coding improvement of EBCOT design for onboard JPEG2000 image compression",0.233333333333,0.315555555556
+763D2BE4,"Slice-level rate-distortion optimized multiple description coding for H.264/AVC",0.237306096681,0.583333333333
+7D212D35,"Analysis of the Decoding-Complexity of Compressed Image-Based Scene Representations",0.127683080808,0.105303030303
+7FC2548B,"An Efficient Progressive Bitstream Transmission System for Hybrid Channels With Memory",0.134722222222,0.133333333333
+787F27B2,"Region-of-interest coding based on rate-distortion optimization: Region-of-interest coding based on rate-distortion optimization",0.216398358586,0.326599326599
+784F7F39,"Analysis of bit allocation of temporal scalability using hierarchical B frames",0.242162698413,0.270804988662
+7C8501B9,"Spatial quantization via local texture masking",0.129216269841,0.112433862434
+77BFC888,"Data hiding of intra prediction information in chroma samples for video compression",0.255597527473,0.245193001443
+086261EE,"ON THE DEPENDENCIES OF MEDIA PACKET SCHEDULES IN A RATE-DISTORTION OPTIMIZED FRAMEWORK",0.250793650794,0.283405483405
+59686F30,"Fast HEVC Intra Mode Decision Based on Edge Detection and SATD Costs Classification",0.140376984127,0.14126984127
+656ECA98,"Rate distortion optimized document coding using resolution enhanced rendering",0.566907051282,0.553968253968
+765587F7,"Joint rate-distortion optimization for H.264/AVC intra coding based on cluster computing",0.226889430014,0.349848484848
+76743B11,"A fast luminance intra 4×4 prediction mode decision method by statistical analysis of residual data in H.264/AVC",0.139575702076,0.123644609359
+80DFA02C,"Off-Line Motion Description for Fast Video Stream Generation in MPEG-4 AVC/H.264",0.349012445887,0.484126984127
+7CED9A6D,"Feature Tracking for Mobile Augmented Reality Using Video Coder Motion Vectors",0.265679112554,0.251066217733
+7DF1CF35,"Estimation-quantization geometry coding using normal meshes",0.21875,0.380341880342
+7E7AC30E,"Rate distortion efficiency of subband coding with crossband prediction",0.449843559219,0.668181818182
+835F10E8,"Fast and efficient basis selection methods for embedded wavelet packet image coding",0.24964514652,0.261848072562
+7A2685FC,"Fast inter-mode decision in multi-view video plus depth coding",0.265319749695,0.336805555556
+7C0A12EA,"Compression of 2D and 3D navigation video sequences using skip mode masking of static areas",0.280357142857,0.261111111111
+7DD277BC,"An MPEG-2 to H.264 Video Transcoder in the Baseline Profile",0.247264194139,0.458333333333
+799C7737,"Structural similarity-based synthesized view distortion estimation for depth map coding",0.347222222222,0.373015873016
+75E09117,"Fast mode selection for H.264/AVC based on MB motion characteristics",0.267055860806,0.387310606061
+76857E2B,"Error-resilient video coding using multiple reference frames",0.372371031746,0.51746031746
+7EA9B6B1,"Optimal buffer-constrained bit allocation using marginal analysis",0.126091269841,0.175297619048
+5894E269,"Rate-distortion optimized bit allocation for wireless video coding",0.368097527473,0.566964285714
+71D796CB,"Rate-distorsion efficiency of zerotree coders",0.121843434343,0.175
+58AFA38A,"Cost-based region growing for fractal image compression",0.124603174603,0.159722222222
+7C9D5272,"Rate-distortion based mode selection for video coding over wireless networkswith burst losses",0.278273809524,0.260763888889
+2CD48A45,"一個具有R-D最佳化內部更新的容錯MPEG-4編碼器",0,0
+7D2971F7,"Rate-Distortion Optimized Progressive Geometry Compression",0.218527183601,0.41452991453
+7E36E167,"Homogeneity and distortion-based intra mode decision architecture for H.264/AVC",0.128918650794,0.136408730159
+764FE2B2,"Structural similarity optimal MB layer rate control for H.264",0.249496336996,0.377777777778
+7FF8FC42,"Error-Resilient Scheme for Wavelet Video Codec Using Automatic ROI Detection and Wyner-Ziv Coding Over Packet Erasure Channel",0.293097527473,0.249051226551
+7ACAA543,"A Novel Header Bits Estimation Scheme for H.264/AVC Standard",0.132978479853,0.117469336219
+7613F545,"Error Resilient Video Coding Using Redundant Pictures",0.377232142857,0.516666666667
+71D729DC,"Low-complexity rate-distortion optimal transcoding from MPEG-2 to MPEG-1 in DCT-domain",0.166666666667,0
+801B59F1,"Distributed Rate-Distortion Optimization for Rateless Coded Scalable Video in Mobile Ad Hoc Networks",0.438308913309,0.514347557205
+773AD0F5,"A complexity reduction scheme with adaptive search direction and mode elimination for multiview video coding",0.388595779221,0.32297979798
+80D39DB5,"Fast mode decision algorithm in H.264/AVC base on statistical feature",0.120044191919,0.106755050505
+79ADCA91,"UWB interference mitigation technique on UMTS terminal in non-cooperative scenario",0.101333041958,0.102467532468
+775AA1D8,"Rate-distortion optimized spatial scalability for DCT-based video coding",0.478861416361,0.777777777778
+7F91C497,"Fast wavelet packet basis selection for block-partitioning image coding",0.145478479853,0.138822751323
+7F1C7C0C,"High performance scalable image compression with EBCOT",0.222222222222,0.350694444444
+5A6D57A0,"A fast algorithm and hardware implementation for rate-distortion optimization in JPEG2000",0.125252525253,0.117171717172
+7B74424D,"Fast inter mode selection for H.264/AVC using large block and zero motion consistency history",0.283482142857,0.300170068027
+7F2023FD,"Lagrangian multiplier optimization using correlations in residues",0.143005952381,0.187310606061
+77C13AFC,"Fast rate distortion optimization for the emerging HEVC standard",0.352621336996,0.496753246753
+80B62AC5,"Low complexity algorithm for Spatially Varying Transforms",0.148603479853,0.227777777778
+75ADC59E,"Rate-distortion optimized reference picture selection",0.114186507937,0.130952380952
+7A3B6D15,"Rate Estimation, Using Forward Adaptive Quantization: H.264 Fast Intra Mode Selection at High Data Rates",0.24845467033,0.260912698413
+7D92E052,"Rate-distortion optimized multipass video encoding with application to MPEG-4",0.260111416361,0.437037037037
+810D47CD,"A binary Markov model for the quantized images and its rate/distortion optimization",0.11875,0.0959595959596
+8129D85C,"Robust Video Transmission With Distributed Source Coded Auxiliary Channel",0.372371031746,0.42037037037
+79F16611,"Coding and optimization of a fully scalable motion model",0.346950888618,0.458585858586
+5ADBF9DA,"Rate-distortion optimal joint macroblock mode selection and motion estimation for MPEG-like video coders",0.357345779221,0.37380952381
+7E350D88,"A novel image/video coding method based on Compressed Sensing theory",0.220833333333,0.327070707071
+7DE4A389,"Minimum Rate Distortion Based Scheduling over UDP for Single Nested Streaming Media",0.368005952381,0.45404040404
+7535E2D4,"A new convex optimization-based two-pass rate control method for object coding in AVS",0.250885225885,0.304444444444
+7F0252E4,"Multistreaming of 3-D Scenes With Optimized Transmission and Rendering Scalability",0.21985479798,0.328282828283
+7BD5936D,"JPEG2000 ROI coding through component priority for digital mammography",0.251736111111,0.329848484848
+73617FBE,"An efficient fast mode selection for intra prediction",0.141311813187,0.118371212121
+811E516A,"Unequal authenticity protection (UAP) for rate-distortion-optimized secure streaming of multimedia over wireless networks",0.151488095238,0.13247955748
+76049B82,"Fast intra-mode decision using inter-frame correlation for H.264/AVC",0.141510225885,0.214814814815
+7ED126F1,"H.264/AVC의 인터 예측 부호화를 위한 고속 율왜곡 최적화 알고리즘",0,0
+7E310ED1,"Fast mode decision algorithm based on thread-level parallelization and thread slipstreaming in H.264 video coding",0.369486416361,0.508888888889
+7DEBA9AE,"Syntax-constrained encoder optimization using adaptive quantization thresholding for JPEG/MPEG coders",0.113257575758,0.151893939394
+7F862E3E,"Rate-distortion optimized tree based coding algorithms",0.317424242424,0.503333333333
+76E967E0,"Linear Rate Estimation Model for HEVC RDO Using Binary Classification Based Regression",0.241510225885,0.300685425685
+00D1E5ED,"Adaptive disparity estimation for stereoscopic video coding",0.373305860806,0.572916666667
+7C794C4D,"A flexible and high-performance hardware video encoder architecture",0.275148809524,0.430555555556
+5AA247AA,"Layered scalable and low complexity video encoding: New approaches and theoretic analysis",0.359605209605,0.401082251082
+7356B033,"블록 크기 활동도를 이용한 H.264/AVC 부호화 고속 모드 결정",0,0
+7BD36A86,"Optimization of H.264 encoder using adaptive mode decision and SIMD instructions",0.139575702076,0.15468975469
+59626598,"Rate-distortion optimized region-based video coder",0.362901334776,0.7
+5C300189,"Dual frame video encoding with feedback",0.268204365079,0.355555555556
+7D3C7C2B,"Progressive Transmission Of Pointtexture 3-D Images",0.118055555556,0.111111111111
+757632E4,"Motion vector prediction in multiview video coding",0.444486416361,0.634848484848
+75CFCE28,"A motion compensation technique using sliced blocks and its application to hybrid video coding",0.464037698413,0.476388888889
+593CDBD5,"Research on the computation model of macro block coding based on the rate-distortion optimization",0.229419191919,0.270418470418
+79DB515C,"Design of a highly efficient wavelet-based video coding scheme",0.368097527473,0.547727272727
+7997D7FC,"Wavelet-based contourlet packet coding using an EBCOT-like algorithm",0.23714514652,0.394047619048
+7D2BD419,"A motion compensation technique using sliced blocks in hybrid video coding",0.462648809524,0.528571428571
+7E4D2D75,"Improved B-slices DIRECT mode coding using motion side information",0.280357142857,0.355555555556
+7199F9AF,"Complexity-regularized image denoising",0.0958333333333,0.111111111111
+7B654F50,"Rate-Distortion Optimized Vector Spiht Forwavelet Image Coding",0.213888888889,0.398148148148
+79852E0A,"A Fast and Efficient Multi-View Depth Image Coding Method Based on Temporal and Inter-View Correlations of Texture Images",0.24652014652,0.26681547619
+75419CC0,"Robust H.263 video communication over mobile channels",0.269288003663,0.417989417989
+7B89273C,"Improving hybrid coding via control of quantization errors in the spatial and frequency domains",0.309970238095,0.338095238095
+7C11B910,"A rate-distortion optimization model for SVC inter-layer encoding and bitstream extraction",0.10303030303,0.0982323232323
+59713068,"Efficient intra refreshment and synchronization algorithms for robust transmission of video over wireless networks",0.278472222222,0.250841618699
+7E915BC1,"On the optimal Lagrangian parameter for motion estimation: A low-cost and effective method for improving video coding performance",0.475389194139,0.472222222222
+80E11618,"Temporal inconsistency measure for video quality assessment",0.295138888889,0.336666666667
+75611CE9,"Two-pass rate-distortion optimized rate control technique for H.264/AVC video",0.363782051282,0.575
+75968BCB,"Rate-Distortion Optimization in HTTP Streaming",0.096925990676,0.102272727273
+80E4175E,"A Simple and Robust Direction Detection Algorithm for Fast H.264 Intra Prediction",0.114393939394,0.0954545454545
+7775298F,"Global and local rate-distortion optimization for Lapped Biorthogonal Transform coding",0.112231691919,0.10101010101
+75F8B184,"Optimal joint power-rate adaptation for error resilient video coding",0.371222527473,0.572916666667
+769D4085,"Fast skip mode decision with rate-distortion optimization for High Efficiency Video Coding",0.388087606838,0.436447811448
+7B312819,"Rate-Distortion Optimal Video Transport Over IP with Bit Errors",0.28244047619,0.308181818182
+8134AF32,"Rate Estimation of RD Optimization for Intra Mode Decision of H.264/AVC",0.224843559219,0.331755050505
+78FA5BB2,"Optimal Mode Selection of Disparity-Compensated Wavelet Lifting for Multi-View Image Coding",0.143543956044,0.151124338624
+77FA4597,"A generalization of quad-trees applied to lossy image coding",0.118055555556,0.159722222222
+77FEA401,"Spatio-temporal rate allocation for hybrid video coding",0.475240384615,0.785714285714
+72A84C29,"Rate-distortion optimization of macroblock-based progressive fine granularity scalable video codec",0.345716320716,0.550505050505
+80EB856C,"Using Rate-Distortion Metrics for Real-Time Internet Video Streaming with TCP",0.26994047619,0.310042735043
+7E89F206,"The bit allocation and RDO mode based rate control algorithm",0.249496336996,0.295408163265
+79C16F8E,"SSIM-based adaptive quantization in HEVC",0.0964370059765,0.0833333333333
+7EE1ADA0,"Optimal compression plane (OCP) — A new framework for H.264 video coding",0.37931547619,0.471515151515
+7645A43F,"EEM quantization revisited: asymptotic optimality for variable rate coding",0.241510225885,0.348611111111
+805D9D54,"A Unified LZ and Hybrid Coding for Compound Image Partial-Lossless Compression",0.125,0.119949494949
+7B9DCB96,"Fast Rate Distortion Optimized Quantization for H.264/AVC",0.456788003663,0.770833333333
+79CF698C,"Region of Interest Extraction Method Using Wavelets",0.127579365079,0.151587301587
+7738E8D4,"Rate‐distortion optimized intra update for error resilience in MPEG‐4 video coding",0.475389194139,0.565476190476
+78DD6FC5,"Algorithm-level Optimization for Real-time H.264/AVC Encoder",0.10084013209,0.0909090909091
+7796C175,"Fast Distortion Measurement Using Chord-Length Parameterization Within the Vertex-Based Rate-Distortion Optimal Shape Coding Framework",0.344494047619,0.448683261183
+7BFE518A,"Rate-Distortion Optimization for Internet Video Summarization and Transmission",0.254662698413,0.285404040404
+7DAFB6D2,"RD Optimal Temporal Noise Shaping for Transform Audio Coding",0.155597527473,0.169444444444
+78BBA9CB,"Fast partitioning algorithm for HEVC Intra frame coding using machine learning",0.24375,0.300793650794
+5FDE410B,"Object-based video coding using a dynamic coding approach",0.369486416361,0.507070707071
+78EC38F1,"Wavelet image coding using rate-distortion optimized backward adaptive classification",0.330357142857,0.449735449735
+7DAB4134,"MSE optimal bit rate allocation in the application of JPEG2000 part 2 to meteorological data",0.250496031746,0.295304232804
+7B433943,"Combined data partitioning and fine granularity scalability for channel adaptive video transmission",0.374694749695,0.35119047619
+7FC9257F,"A Two-Level Classification-Based Approach to Inter Mode Decision in H.264/AVC",0.0983428030303,0.122895622896
+793F604E,"Rate-distortion optimization and adaptation of intra prediction filter parameters",0.136521464646,0.136363636364
+80276C0B,"Chroma Coding Efficiency Improvement with Context Adaptive Lagrange Multiplier (CALM)",0.257886904762,0.304166666667
+6D5DFD27,"Rate-distortion optimized motion smoothing for MPEG-2 encoding",0.253514194139,0.433333333333
+76A027F6,"Rate-distortion optimization with adaptive weighted distortion in high Efficiency Video Coding",0.493990384615,0.668181818182
+7A4090D5,"A Pixel-Level Rate Control Algorithm for the Optimal Prediction Residual",0.249496336996,0.318181818182
+7B011E40,"Algorithm for JPEG2000 rate control based on number of coding passes",0.355051892552,0.409920634921
+63A74928,"Multi-Client Video Streaming Over Wireless Local Area Networks",0.26681547619,0.333441558442
+09637918,"Architectures of incorporating MPEG-4 AVC into three-dimensional wavelet video coding",0.379464285714,0.486904761905
+7B05C96D,"A novel rate-distortion optimization method of H.264/AVC intra coder",0.119696969697,0.100673400673
+7D2B3FDC,"A fast intra prediction mode decision method based on high correlation of video sequences",0.277670940171,0.26553030303
+7739D203,"A Fast Intra-Mode Decision Algorithm for P-Slices in H.264/AVC Video Coding",0.369486416361,0.552777777778
+843347C1,"Research on scalable coding technology application in video compression based on H.264 standard",0.445716320716,0.476388888889
+764EE908,"Rate distortion optimization for efficient watermarking in the DCT domain",0.352621336996,0.553977272727
+7EF4704B,"Rate-distortion optimized DCT-domain video transcoder for bit-rate reduction of MPEG videos",0.361153083028,0.636666666667
+7FBB303A,"Space-frequency quantization for a space-varying wavelet packet image coder",0.123417207792,0.116031746032
+790AD103,"Fast mode decision algorithm for intra prediction in H.264/AVC with integer transform and adaptive threshold",0.125248015873,0.110404040404
+7EC020BF,"Rate-distortion snake: a tool for optimal shape coding",0.242762445887,0.345238095238
+0A95DB13,"Efficient Motion Compensation Architecture with Rate-Distortion Optimization for H.264/AVC",0.26994047619,0.328977272727
+809F9FAD,"Difference detection with encoder adaptability for low complexity surveillance video compression",0.287889194139,0.293939393939
+6222B296,"An architecture for rate-distortion optimized motion estimation",0.367162698413,0.5625
+80669F68,"Rate-distortion optimization of spatial filters for motion-compensated video coding",0.286954365079,0.363005050505
+81505552,"Intra-distance Derived Weighted distortion for error resilience",0.232291666667,0.3625
+5EC58D50,"Optimal refinement/significance map tradeoffs in SPIHT-based image compression",0.132291666667,0.131944444444
+7D09F187,"An adaptive down-sampling based video coding with hybrid super-resolution method",0.368097527473,0.611111111111
+701BA1DF,"低計算複雜度之H.264/AVC視訊編碼",0,0
+80B1EC43,"Inter-layer prediction for backwards compatible high dynamic range video coding with SVC",0.368097527473,0.553977272727
+7B6F1C4C,"Motion vector prediction with reference frame consideration",0.251537698413,0.254701779702
+7EFFBB8C,"Fast Mode Decision for H.264/AVC Encoding of Tunnel Surveillance Video",0.269593253968,0.282626262626
+21D70499,"H.264 High Profileを拡張した量子化/逆量子化方式に関する一検討",0.166666666667,0
+802BC3E3,"Low-complexity rate-distortion optimal macroblock mode selection for MPEG-like video coders",0.274012445887,0.347916666667
+77CBC247,"A highly efficient mode decision algorithm and architecture for AVS HD Video Encoder",0.276537698413,0.300555555556
+7E32FBF1,"Fast intra/inter coding mode selection for H.264 encoder",0.245478479853,0.430555555556
+7ADFE8CD,"Quantization using compressive sensing",0.109706439394,0.172222222222
+78B71541,"A wavelet packet based block-partitioning image coding algorithm with rate-distortion optimization",0.242502289377,0.303511303511
+7CC011D6,"Wavelet-based highly efficient scalable video coding",0.438308913309,1.0
+7F3D9A4E,"Rate-distortion based temporal filtering for video compression",0.272264194139,0.5
+77D06415,"Motion‐compensated video coding using sliced blocks",0.37931547619,0.625
+7CD13E6D,"A low-complexity hardware-oriented mode decision scheme based on rate-distoration estimation",0.139575702076,0.165404040404
+7DEA3F33,"SAR Image Compression Using Wavelet Packets",0.141311813187,0.179365079365
+76DDB9F0,"Embedded wavelet packet image coder with fast rate-distortion optimized decomposition",0.248417207792,0.251927437642
+7B95859A,"AN efficient algorithm for joint QP and quantization optimization for H.264/AVC",0.106027183601,0.0914141414141
+59CA2A46,"Statistical rate-distortion estimation for H.264/AVC coders",0.117759324009,0.1125
+82CFB602,"H.264 的適應性區塊編碼模式選擇策略",0,0
+2FA3F904,"位元率-失真最佳化網路視訊串流技術─H.264可調視訊編碼於實時傳輸協定進行接收端驅動重傳",0,0
+763C25DD,"Pareto-Optimal Macroblock Classification for Fast Mode Decision in H.264",0.139575702076,0.12962962963
+7DD68F7D,"Spatial-temporal correlation based mode decision algorithm for H.264/AVC",0.141510225885,0.186111111111
+766D304B,"Fast inter-frames pattern chosen algorithm based on H.264",0.125248015873,0.236111111111
+778A5500,"Fast intra-prediction mode decision algorithm for high efficieny video coding",0.374694749695,0.475555555556
+750C03F9,"Unbalanced quantized multiple description video transmission using path diversity",0.265319749695,0.30787037037
+7708504A,"A background proportion adaptive Lagrange multiplier selection method for surveillance video on HEVC",0.279407051282,0.259812409812
+7AE810C7,"An extension of direct macroblock coding in Predictive (P) slices of the H.264 standard",0.135168650794,0.130158730159
+7AC57170,"Depth map compression via edge-based inpainting",0.107291666667,0.145833333333
+7FE3308D,"Content-Aware Distortion-Fair Video Streaming in Networks",0.253514194139,0.447619047619
+7D99AC4D,"Image compression using DC coefficient restoration and optimal AC coefficient thresholding",0.131051587302,0.160846560847
+5B74FE6C,"A Joint Source-Channel Rate-Distortion Optimization Algorithm for H.264 Codec in Wireless Networks",0.138988095238,0.114691558442
+7E87E7E0,"Packet scheduling for multiple description video streaming in multipoint-to-point networks",0.263930860806,0.30873015873
+773B8F8A,"Joint Data Partition and Rate-Distortion Optimized Mode Selection for H.264 Error-Resilient Coding",0.149553571429,0.137698412698
+5ACFBCDA,"Research on The Application of Wireless Video Information Mining for the Multi- encoding Mode and Trans-coding Optimization Algorithm",0.270528083028,0.216891133558
+79350A07,"Fast coding of bidirectional frame for H264 standard",0.138640873016,0.121693121693
+7ADDB5A8,"Scalable video transmission over Rayleigh fading channels using LDPC codes",0.353123728124,0.41746031746
+7C479A2D,"SSIM-inspired divisive normalization for perceptual video coding",0.371222527473,0.708333333333
+6F64E551,"A BER model for turbo codes on AWGN channel",0.131986416361,0.134006734007
+7DC9B1A0,"Globally Optimal Uneven Erasure-Protected Multi-Group Packetization of Scalable Codes",0.242012617013,0.6
+79123DE8,"Non-integer bit estimation for rate-distortion optimized video coding",0.472264194139,0.65
+064BFB3E,"Transmitting video surveillance sequences based on JPEG 2000 conditional replenishment",0.263930860806,0.304377104377
+7C3F6AE5,"Rate-Distortion Optimized Cross-Layer Rate Control in Wireless Video Communication",0.489972527473,0.668571428571
+7FE82335,"Rate-distortion optimization based skip mode early detection in H.264",0.138186813187,0.172727272727
+7A0A00F5,"Algorithm and Hardware Design of a Fast Intra Frame Mode Decision Module for H.264/AVC Encoders",0.137152777778,0.118981481481
+80407F44,"Perceptually-friendly H.264/AVC video coding",0.361153083028,1.0
+798E0704,"Efficient Algorithms for Optimal Uneven Protection of Single and Multiple Scalable Code Streams Against Packet Erasures",0.246344396344,0.257709750567
+7F7D8B3F,"Progressive rendering from RDTC optimized streams",0.225252525253,0.407407407407
+77238BC0,"New rate control Scheme based on Cauchy Rate-Distortion Optimization Model for H.264 Video Coding",0.484615384615,0.475757575758
+79CD0167,"A novel rate-control scheme for H.264 video coding using adaptive quantization parameter",0.368097527473,0.431818181818
+7A6D0F34,"Analysis of quadratic R-D model in H.264/AVC video coding",0.368097527473,0.547727272727
+76783007,"Multiple description video coding based on Lagrangian rate allocation and JPEG2000",0.475240384615,0.607142857143
+80BD3AC2,"Combined Prediction Mode for AVS",0.132234432234,0.151893939394
+76071AFF,"Rate-distortion optimal thresholding in SNR scalability based on 2D dynamic programming",0.234970238095,0.477777777778
+7FDFF32D,"Cauchy based Rate-Distortion Optimization Model for H.264 Rate Control",0.249496336996,0.34303030303
+762FC860,"Informative State-Based Video Communication",0.269288003663,0.571428571429
+78637973,"Algorithm and Software Optimization of Variable Block Size Motion Estimation for H.264/AVC on a VLIW---SIMD DSP",0.277380952381,0.250061842919
+8002306B,"Performance optimization for motion compensated 2D wavelet video compression techniques",0.342055860806,0.346036255411
+80227905,"A Fast Rate-Distortion Optimization Algorithm for H.264/AVC",0.106027183601,0.0954545454545
+7C62A31E,"Adaptive loop filter with temporal prediction",0.127840909091,0.169191919192
+7A3CA93D,"A Novel Distortion Model and Lagrangian Multiplier for Depth Maps Coding",0.348958333333,0.410984848485
+80AF946C,"A scalable encryption scheme for CCSDS image data compression standard",0.236721611722,0.250628736343
+7EFBCA11,"Rate Distortion Optimization for Mesh-Based P2P Video Streaming",0.473157051282,0.658181818182
+3160C9C9,"Optimal Packet Scheduling and Rate Control for Video Streaming",0.380448717949,0.422294372294
+7E097074,"Hierarchical Disparity Estimation Using Spatial Correlation",0.14532967033,0.20625
+78971355,"A novel fast inter-prediction mode decision for H.264/AVC",0.139575702076,0.138888888889
+81493848,"Viewpoint switching in multiview video streaming",0.253514194139,0.377777777778
+7EACDFA1,"Video encoding with the original picture as the reference picture",0.26994047619,0.318571428571
+7A29564A,"Bidirectional Scalable Motion for Scalable Video Coding",0.512382987383,1.0
+7DDF35B1,"Video Coding Focusing on Block Partitioning and Occlusion",0.379464285714,0.4375
+75CFA4A9,"Statistical motion prediction with drift",0.263930860806,0.391414141414
+59D1A0E8,"Rate distortion optimal adaptive quantization and qoefficient thresholding for MPEG coding",0.352621336996,0.455555555556
+7A7D5F87,"Online smoothing for scalable media stream delivery",0.22861952862,0.320404040404
+84226DBE,"JPEG2000 ROI coding through component priority for digital mammography",0.251736111111,0.329848484848
+80BB87B8,"DCT-Based Image Codec Embedded Cubic Spline Interpolation with Optimal Quantization",0.151430860806,0.148611111111
+21747000,"Rate-Distortion Optimized Selection of Motion Vectors for Video Transmission over Packet-Loss Channels(Multimedia Systems for Communications)",0.265773809524,0.247222222222
+8048EDA2,"Low-complexity frame-level joint source-channel distortion optimal, adaptive intra refresh",0.22334280303,1.0
+800A713F,"Rate-Distortion Optimal Depth Maps in the Wavelet Domain for Free-Viewpoint Rendering",0.13244047619,0.125793650794
+766FF0E1,"Overlapping Interval Differences-Based Fast Intra Mode Decision for H.264/AVC",0.125686813187,0.133838383838
+5CD39646,"Rate-distortion optimized video coding with stopping rules: quality and complexity",0.399305555556,0.502777777778
+693B3E6B,"Rate-distortion-optimal parameter choice in a wavelet image communications system",0.117857142857,0.122883597884
+75859718,"Synthesized View Distortion Based 3D Video Coding for Extrapolation and Interpolation of Views",0.480597527473,0.440432098765
+6F105BB1,"A rate-distortion optimal video pre-processing algorithm",0.263930860806,0.55
+7157EDEA,"Improving scene cut quality for real-time video decoding",0.316919191919,0.333405483405
+7E8EE428,"Rate-distortion optimized client side rate control for adaptive media streaming",0.264880952381,0.3
+7EE45B7A,"Wavelet-based space-frequency compression of ultrasound images",0.104166666667,0.138888888889
+7F7F4AEE,"Tree structured hybrid intra prediction",0.103943850267,0.116883116883
+7B1DA31A,"An Improved Rate Control Method Based on Modification at Scene Change for H.264",0.280411255411,0.3113997114
+80FA3640,"Rate-Distortion Optimized Image Compression Using Generalized Principal Component Analysis",0.125,0.167003367003
+59FC7C2A,"Prediction and search techniques for RD-optimized motion estimation in a very low bit rate video coding framework",0.561698717949,0.465681818182
+76017F3E,"A Fast Mode Decision Algorithm for Inter-Frame in H.264/AVC",0.139575702076,0.125925925926
+7675DF57,"Quality Improvement of Video Codec by Rate-Distortion Optimized Quantization",0.403472222222,0.523333333333
+7B116452,"View synthesis prediction for multiview video coding",0.361954365079,0.460404040404
+69EFC25A,"Packetized wavelet video coding and error control for receiver-driven layered multicast: an integrated approach",0.278663003663,0.278312890813
+795A8C07,"Rate-distortion optimized low-delay 3D video communications",0.361153083028,0.7
+7B997505,"On dead-zone plus uniform threshold scalar quantization",0.122722763348,0.104166666667
+8164745D,"Drift-free multiple description video coding with redundancy rate-distortion optimization",0.368097527473,0.480086580087
+7E9F8A10,"Effective bandwidth based scheduling for streaming media",0.138794191919,0.211666666667
+7E18343D,"An Efficient Region Based Intra Prediction Algorithm for H.264/Advanced Video Coding",0.372371031746,0.439225589226
+8080E6F8,"Cost-effective scenarios of CABAC in H.264/AVC codec",0.114208187646,0.125
+802C1382,"Macroblock mode decision for H.264",0.122909035409,0.138888888889
+7CE93454,"Fast Block Mode Decision for H.264/AVC on a Programmable Digital Signal Processor",0.180555555556,0.158888888889
+76BB378C,"High definition video intra-only coding based on node-cell macroblock pixel structure and 2-D interleaved DCT",0.138492063492,0.170793650794
+7EB00C67,"Threshold-free pattern-based low bit rate video coding",0.475240384615,0.78125
+7CE60ED4,"An adaptive selection algorithm of macroblock coding candidate modes",0.246279761905,0.296515151515
+7C41BA36,"Fractal image coding using rate-distortion optimized matching pursuit",0.325,0.508888888889
+7CA25DAA,"Progressive compression and transmission of PointTexture images",0.125,0.12962962963
+124CA582,"Rate Distortion Improved Mode Decision Method for H.264 Intra Coding",0.477621336996,0.592592592593
+7E6067D9,"Dense disparity estimation in multiview video coding",0.366361416361,0.572916666667
+7BADDB8E,"Adaptive intra modes reduction by clustering for H.264/AVC",0.138186813187,0.144444444444
+7D519163,"Context-conditioned composite coding of 3D meshes based on wavelets on surfaces",0.134523809524,0.173015873016
+7DCE01E1,"Rate-constrained motion estimation algorithm for video coding",0.331986416361,0.467222222222
+7E6DC77F,"Conversational Video Communication of H.264/AVC with Region-of-Interest Concern",0.269288003663,0.411255411255
+7F979162,"Coding efficient improvement by adaptive search center definition",0.2443001443,0.311753246753
+7D14410E,"Rate-distortion optimization of hierarchical displacement fields",0.103511072261,0.0883838383838
+7534CC54,"Scalable complexity-distortion model for fast motion estimation",0.345716320716,0.553977272727
+800CD972,"Concealment aware mode selection for power-rate-distortion optimized H.264/AVC encoder",0.245478479853,0.354166666667
+3D6081C1,"On the techniques for 3-D geometry representaion and compression",0.0967402389277,0.11452991453
+801AA2BC,"Fast block size selection for H.264 video-downsizing transcoding",0.142857142857,0.144841269841
+59498152,"A novel fast intermode decision algorithm with rate-distortion optimization for H.264/AVC",0.112231691919,0.0982323232323
+797943A0,"An Efficient Mode Selection Algorithm for H.264 Encoder for Application in Low Computational Power Devices",0.151728479853,0.143981481481
+7627BE62,"The Key Algorithm Implementation of XAVS",0.112231691919,0.111111111111
+7762E558,"Fast Mode Decision for H.264/AVG using Mode and RD Cost Prediction",0.139575702076,0.168975468975
+78F36093,"Combined Error Concealment and Error Correction in Rate-Distortion Analysis for Multiple Substream Transmissions",0.122916666667,0.132431457431
+7517C1BC,"Multi-Streaming of Visual Scenes with Scalable Partial Reliability",0.218434343434,0.405303030303
+75374F35,"Image coding using concentration and dilution based on seam carving with hierarchical search",0.251488095238,0.276234567901
+7C03C4A0,"Rate-distortion optimized bit rate control scheme for a wavelet video coder",0.370887445887,0.379823747681
+814C4B24,"Best wavelet packet bases in a JPEG2000 rate-distortion sense: The impact of header data",0.147321428571,0.131751185323
+7DB51E7D,"Matching-pursuit video coding .II. Operational models for rate and distortion",0.587740384615,0.818181818182
+7FB94C2E,"Rate-Distortion Optimized Adaptive Scanning Order for Bitplane Image Coding Engines",0.338888888889,0.416666666667
+7ADC6B40,"Speeding up the optimization of the rate distortion performance in MPEG-2 video coding through quantizer loop parameterization",0.598958333333,0.579071969697
+751361EA,"Fast rate‐distortion optimized coding mode decision for H.264",0.347909035409,0.569444444444
+086CC2BB,"Fast Rate Distortion Optimization Algorithm for Inter Predictive Coding of H.264/AVC",0.352621336996,0.460404040404
+7CCDFB2E,"Performance and complexity analysis of rate-constrained motion estimation in MPEG-4",0.266014194139,0.32
+145DA6CF,"A Fast Distortion Measurement Using Chord-Length Parameterisation within the Vertex- Based Operational Rate-Distortion Optimal Shape Coding Framework",0.344494047619,0.432204700062
+7C675825,"Error-resilient video coding using long-term memory prediction and feedback channel",0.37123466811,0.393939393939
+0E6B8BCD,"Spatial and Temporal Resolution Selection for Bit Stream Extraction in H.264 Scalable Video Coding",0.442640692641,0.500566893424
+8152AA42,"Minmax optimal shape coding using skeleton decomposition",0.230857683983,0.385714285714
+77E3ED81,"Source Distortion Temporal Propagation Model for Motion Compensated Video Coding Optimization",0.56681547619,0.502741702742
+7C4F6A6E,"Robust Motion-Compensated Orthogonal Video Coding Using EBCOT",0.368097527473,0.777777777778
+810D716A,"A Hierarchical Framework for Fast Macroblock Prediction Mode Decision in H.264",0.139575702076,0.114898989899
+7983124B,"Real-Time Optimization of Video Transmission in a Network of AAVs",0.134367368742,0.114959114959
+5F68895E,"Rate-distortion optimized bit allocation for error resilient video transcoding",0.267055860806,0.348214285714
+76E8BC03,"A Fast Motion Estimation Algorithm Based on the Adaptive Reference Frame and the Spatial and Temporal Correlations for H.264",0.275347222222,0.287471655329
+767D7F77,"A Low Complexity Fast Intra Mode Decision Algorithm for H.264/AVC",0.149992368742,0.156944444444
+7BA44C5F,"Rate control scheme for H.264/AVC video encoding",0.375240384615,0.498181818182
+78994BD6,"Adaptive Selection of Motion Estimation Block Size for Rate-Distortion Optimization",0.280505952381,0.275072150072
+7F9A56E5,"Enhancement of H.264/AVC for higher coding efficiency using motion estimation between reference frames",0.282986111111,0.270540223665
+78708008,"Wireless Video Streaming with Collaborative Admission Control for Home Networks",0.27931547619,0.263540031397
+09C7AABC,"Unbalanced multipled description video coding based on a rate-distortion optimization",0.368097527473,0.518181818182
+7F598D68,"Rate-distortion optimized data partitioning for video using backward adaptation",0.368097527473,0.47380952381
+81296697,"Quality-biased rate allocation for compound image coding with block classification",0.349950396825,0.374665017522
+38AAC024,"AVS quick mode selection algorithm based on adaptive threshold",0.141311813187,0.158333333333
+80070C3A,"Efficient anisotropic wavelet packet basis selection in JPEG2000",0.145478479853,0.152678571429
+089225F3,"A Wavelet Codec Using 3-D ESCOT",0.116199945887,0.238095238095
+76785D05,"Optimized State-Distortion Extraction for Scalable Extension of H.264/AVC",0.308249158249,0.555555555556
+121B7C3C,"Fast Inter/Intra Mode Decision Algorithm in H.264/AVC Considering Coding Efficiency",0.257135225885,0.299074074074
+811190EA,"Bandwidth-rate-distortion optimized motion estimation",0.247264194139,0.5625
+80E4705B,"Rate-distortion optimal wavelet packet transform for low bit rate video coding",0.480597527473,0.568452380952
+7EA8CA4F,"JPEG compliant efficient progressive image coding",0.118055555556,0.111111111111
+5C658BA0,"A low-complexity rate-distortion model for motion estimation in H.263",0.247264194139,0.405303030303
+811183D8,"Improved min-cost flow scheduler for mesh-based P2P streaming system",0.151244588745,0.171601731602
+75AE7E67,"AVS Quick Mode Selection Algorithm Based on Adaptive Threshold",0.141311813187,0.158333333333
+7674B00A,"Adaptive dynamic programming for auto-resilient video streaming",0.263930860806,0.39696969697
+73C5C5D6,"An efficient SNR scalability coding framework hybrid open-close loop FGS coding",0.34990530303,0.791666666667
+764E3831,"Rate distortion optimized transform for intra block coding for HEVC",0.572172619048,0.833333333333
+59576F5A,"Robust H.264/AVC transmission with optimal mode selection and data partitioning",0.141311813187,0.125793650794
+0EC46A96,"On the techniques for 3-D pointtexture image and sequence compression",0.104166666667,0.122222222222
+5ADB6F30,"Improvement and Implementation on UMHexagonS Algorithm in H.264 Reference Software",0.11626984127,0.144742063492
+7CF4C604,"Viterbi-like joint optimization of stereo extraction for on-line rate adaptation in scalable multiview video coding",0.535101010101,0.624098124098
+79859101,"An improved partial SPIHT with classified weighted rate-distortion optimization for interferential multispectral image compression",0.125,0.122895622896
+144F1A8E,"FAST INTRA MODE DECISION ALGORITHM FOR H.264lAVC VIDEO CODING F. Pon. X. Lin. S Ko/iordja. K. P. Liin. Z. G. Li. D. Wzi. S. Wti Institute for Itifoconim Rcsearch",0.375496031746,0.338099747475
+7FC42A78,"Rate-distortion optimized image compression using wedgelets",0.125,0.203703703704
+767083D6,"Video Streaming to Multiple Clients Overwireless Local Area Networks",0.26681547619,0.308571428571
+7E74C8DA,"RD Optimized Bandwidth Efficient Motion Estimation and Its Hardware Design With On-Demand Data Access",0.37931547619,0.373979591837
+5A330191,"Proxy-driven ratedistortion optimized video streaming over wireless network using asynchronous clocks",0.368097527473,0.457936507937
+80B0B21D,"Multilayer document compression algorithm",0.123669733045,0.144444444444
+7E4CA788,"Most probable mode-based fast 4 × 4 intra-prediction in H.264/AVC",0.10084013209,0.0909090909091
+6F716813,"Rate-distortion-efficient video compression using a 3-D head model",0.272264194139,0.336363636364
+59AF51F8,"A simplified algorithm of JPEG2000 rate control for VLSI implementation",0.250885225885,0.352777777778
+76496D38,"A fast intra mode decision algorithm for AVS",0.139575702076,0.119444444444
+6E2EB324,"Region of interest determined by perceptual-quality and rate-distortion optimization in JPEG 2000",0.121085858586,0.158838383838
+7ADDE8A9,"Error Resilient Video Transcoding Based on Layered Rate Distortion Optimization: Error Resilient Video Transcoding Based on Layered Rate Distortion Optimization",0.483573717949,0.59154040404
+78418748,"Rate distortion optimized quantization for H.264/AVC based on dynamic programming",0.456788003663,0.586111111111
+80061C9A,"A Novel Rate-Quantization Source Modeling Framework for H.264/AVC",0.115972222222,0.100673400673
+8176FC7D,"Efficient dictionary based video coding with reduced side information",0.370982142857,0.451709401709
+7B9B13DA,"Joint quantizer optimization for scalable coding",0.210872615039,0.400673400673
+5DD3DB7C,"A New Algorithm of Fast Intra Prediction Mode Decision in H.264/AVC",0.139575702076,0.117171717172
+7015F29A,"A real-time encoding/decoding system (REDS) for HDTV editing",0.149210858586,0.147222222222
+80EBB84C,"Coupled pre-/post-processing filters for predictive video coding",0.389732142857,0.6125
+07AD1BB1,"A Novel Region-of-Interest Coding Based on Rate-Distortion Optimization",0.205006798757,0.474747474747
+795FCA89,"Improvements to the Intra-Coding Modes Offered by H.264",0.136797924298,0.177777777778
+7560F517,"Satellite image compression by post-transforms in the wavelet domain",0.128125,0.136408730159
+7B2ED4B1,"A rate control scheme for H.264 video under low bandwidth channel",0.381837606838,0.42117003367
+5864E183,"Improved algorithm for RDO in JPEG2000 encoder and its IC design",0.123884326458,0.156060606061
+7E71F061,"Joint space-frequency segmentation, entropy coding and the compression of ultrasound images",0.133680555556,0.122777777778
+7765125A,"Fast Reference Frame Selection with Adaptive Motion Search Using RD Cost",0.271329365079,0.282879818594
+7E740993,"Rate-distortion optimized zerotree image coding using wavelet transforms",0.330357142857,0.51746031746
+314EC8B7,"位元率-失真度最佳化網路影像串流技術─可調變式編碼多點傳播",0,0
+7968D54A,"Fast Intra-Prediction Mode Decision in H.264 Advanced Video Coding",0.270528083028,0.327777777778
+6EAFBAC7,"Improving the performance of hierarchical vector quantization using segmentation",0.142708333333,0.176388888889
+78DB8AD0,"Layer coder for hierarchical rate-distortion optimal coding of images",0.130555555556,0.122222222222
+81722D32,"Fast mode decision for adaptive prediction error coding",0.223958333333,0.331755050505
+790408B7,"Transrating-assisted MPEG-4 video resizing with rate-distortion optimization",0.250041971917,0.419191919192
+7BB353C6,"A low cost hardware oriented motion estimation algorithm for HDTV",0.275148809524,0.263662131519
+7B13C4D2,"Fast Inter-Mode Decision Algorithm for P Slices in H.264/AVC Video Standard",0.266121031746,0.27328042328
+5D94337F,"Rate-distortion optimized image coding via least square estimation quantization (LS-EQ)",0.224305555556,0.329861111111
+7BAE1EE6,"Three-dimensional subband scalable video coding embedded with H.264/AVC codec",0.438308913309,0.8
+75AA08BD,"Bit Depth Scalable Coding",0.222442680776,0.412037037037
+795B6489,"Dependent R/D Modeling Techniques and Joint T-Q Layer Bit Allocation for H.264/SVC",0.13685966811,0.140238095238
+5CAB48CC,"MINMAX frame rate control using a rate-distortion optimized wavelet coder",0.256601731602,0.355238095238
+7F0945DB,"Low-complexity lossy compression of hyperspectral images via informed quantization",0.125,0.12037037037
+7D192F81,"A novel hybrid technique for discrete rate-distortion optimization with applications to fast codebook search for SVQ",0.119791666667,0.135404040404
+7DCC062D,"Efficient Rate–Distortion Optimal Packetization of Embedded Bitstreams Into Independent Source Packets",0.135863095238,0.121428571429
+7637848B,"A perceptually reweighted mixed-norm method for sparse approximation of audio signals",0.167162698413,0.148148148148
+7E588277,"81MS/s JPEG2000 single-chip encoder with rate-distortion optimization",0.0758401320901,0.0909090909091
+815C9E2A,"Implementation of H.264 integer motion estimation using simple square patterns",0.265319749695,0.272907647908
+7C6E95E5,"Improved video coding using long-term global motion compensation",0.472264194139,0.627777777778
+09D79F4C,"A Perceptual Rate-Distortion Based Quantization Level Adjustment Algorithm",0.14652014652,0.17
+7A5AA28E,"Depth map coding based on a optimal hierarchical region representation",0.237847222222,0.303240740741
+823D1EDF,"Fast intra/inter frame coding algorithm for H.264/AVC",0.21672979798,0.403703703704
+8084FC98,"Optimal block boundary pre/post-filtering for wavelet-based image and video compression",0.283482142857,0.361111111111
+817525B8,"Rate-complexity-distortion evaluation for hybrid video coding",0.371222527473,0.708333333333
+81569F97,"Error protection for scalable image over 3G-IP network",0.232091982092,0.300793650794
+77B72226,"An Efficient Rate-Distorsion Optimization Scheme for JPEG2000",0.104890819964,0.0909090909091
+763805E7,"SSIM-based rate-distortion optimization in H.264",0.0758401320901,0.0909090909091
+7EF01429,"On rate-constrained distributed estimation in unreliable sensor networks",0.154613095238,0.172619047619
+79EE8C4B,"Adaptive disparity and motion estimation for Multiview Video Coding",0.456639194139,0.658333333333
+79D2E431,"Scalable video coding using Symmetric Residue Pyramid and rate-distortion optimization",0.438308913309,0.59154040404
+79B404C1,"Multiple global affine motion model for H.264 video coding with low bit rate",0.559375,0.61525974026
+7899D61F,"Efficient macroblock pipeline structure in high definition AVS video encoder VLSI architecture",0.275148809524,0.305086580087
+7FE3CD2C,"An efficient fast intra mode decision method based on orthogonal modes elimination",0.139575702076,0.151875901876
+7F355E1C,"Rateless scalable video coding for overlay multisource streaming in MANETs",0.443650793651,0.568055555556
+7D3E9FFD,"Fast rate-distortion optimization in H.264/AVC video coding",0.368097527473,0.69696969697
+7B77FFC3,"Rate-distortion-optimized predictive compression of dynamic 3D mesh sequences",0.125,0.138888888889
+8044B2DE,"Fast macroblock mode decision in H.264",0.139575702076,0.138888888889
+7D89ACE9,"Rate-Distortion Optimized Streaming of Authenticated Video",0.368097527473,0.69696969697
+7E2C415F,"On rate distortion optimization using SSIM",0.352621336996,0.606060606061
+5F5D7D97,"Rate-distortion motion compensated noise filtering for low bit rate video coding",0.558573717949,0.633503401361
+0ACBB26D,"Resource allocation for H.264 video encoder: Sequence-level controller",0.251041666667,0.350108225108
+7C5BA7F8,"Spatially adaptive bases in wavelet-based coding of semi-regular meshes",0.125347222222,0.115740740741
+7FD307FB,"Rate-distortion adaptive vector quantization for wavelet image coding",0.22619047619,0.284126984127
+7623FFEC,"Layer Selection Algorithms of H.264/SVC Streams for Network Congestion Control",0.140029761905,0.135090702948
+64C82BC1,"A novel substream extraction for Scalable Video Coding over P2P networks",0.348504890172,0.473015873016
+101289A9,"Summarization of 3D Video by Rate-Distortion Trade-off(Image Processing and Video Processing)",0.256051587302,0.369444444444
+7D3D7547,"MPEG-2에서 H.264로 변환하기 위한 고속 모드 결정 기법",0,0
+7D0962C6,"An inter block mode decision method based on gradient and RDO",0.157936507937,0.181481481481
+838B9CD1,"A NOVEL RATE CONTROL ALGORITHM for H.264/AVC",0.249496336996,0.433333333333
+5C406C78,"Rate distortion optimized design of quantized bandpass filters",0.478422619048,0.67
+7E246861,"Adaptive FMO selection strategy for error resilient H.264 coding",0.223958333333,0.335227272727
+80F0368A,"Unconstrained motion compensated temporal filtering (UMCTF) for efficient and flexible interframe wa",0.263930860806,0.404761904762
+5BBA0691,"Hybrid video coding using bi-dimensional matching pursuit",0.368097527473,0.608333333333
+788E56CE,"Rate—distortion optimal fast thresholding for MPEG—2 image sequence coding",0.220833333333,0.407407407407
+7B46F44F,"Screen image sequence compression method utilizing adaptive block size coding and hierarchical GOP structure",0.14806547619,0.153174603175
+5EB137F7,"Wavelet Domain Steganography for JPEG2000",0.10431547619,0.126322751323
+66AB49A5,"Design and Analysis of H.264 Intra-Prediction and Mode-Decision Architecture Using Rate-Distortion Optimization",0.114299242424,0.149848484848
+7513E9ED,"Model-based hierarchical motion compensation technique",0.263930860806,0.4
+64B7EA5A,"The design of AVS encoder XAVS",0.0822176597912,0.1
+76971812,"MSE optimal bit-rate allocation in JPEG2000 Part 2 compression applied to a 3D data set",0.16369047619,0.196428571429
+75ACEFE2,"Rate-Distortion Optimized Selection of Motion Vectors for Video Transmission over Packet-Loss Channels",0.250389194139,0.286111111111
+2E00D2BF,"Fast Mode Decision for MPEG-2 to H.264 Transcoding",0.112231691919,0.111111111111
+7F8E7B87,"Reconstruction error in transform/subband coding",0.0989583333333,0.112037037037
+7E48AE9F,"3-D wavelet video coding with rate-distortion optimizization [optimizization read optimization]",0.368246336996,0.486753246753
+7FAC3A05,"Simultaneous MAP-Based Video Denoising and Rate-Distortion Optimized Video Encoding",0.263930860806,0.733333333333
+7A033A63,"Complexity-constrained rate-distortion optimization of Wyner-Ziv video coding",0.248653083028,0.400673400673
+7F6C9B54,"Efficient block type decision algorithm for H.264/AVC intra-prediction",0.125252525253,0.115277777778
+7E54DEDE,"A hierarchical variable-sized block transform coding scheme for coding efficiency improvement on H.264/AVC",0.268055555556,0.451262626263
+67993347,"A new encryption-then-compression algorithm using the rate–distortion optimization",0.106027183601,0.174747474747
+81137E63,"Scalable multiview video coding using wavelet",0.443070818071,0.695238095238
+83517A16,"JPEG2000 ROI coding with fine-grain accuracy through rate-distortion optimization techniques",0.269635225885,0.354848484848
+7F98E3FE,"Model-based optimal rate control algorithm for real-time hybrid video encoder",0.380448717949,0.575
+7C4711E1,"One-Sided $\rho$ -GGD Source Modeling and Rate-Distortion Optimization in Scalable Wavelet Video Coder",0.353042328042,0.363553906411
+7DA566CF,"Fast and Efficient Intra Mode Selection for H.264/AVC",0.141311813187,0.145833333333
+5D1B798C,"Multi-path content delivery",0.116311813187,0.116883116883
+7D910CB8,"An Efficient Context-Based BPGC Scalable Image Coder",0.217508417508,0.403703703704
+7AD4F4B1,"Syntax-constrained rate-distortion optimization for DCT-based image encoding methods",0.111458333333,0.128282828283
+766C474D,"Adaptive EZW coding using a rate-distortion criterion",0.23714514652,0.492063492063
+756979A9,"A two-pass video encoder by fixed lagrange multipliers",0.263930860806,0.5625
+77E5CD0C,"Error-resilient video coding using long-term memory motion-compensated prediction over feedback channel",0.37123466811,0.393939393939
+7ADE78FF,"An optimized context-based adaptive binary arithmetic coding algorithm in progressive H.264 encoder",0.210193850267,0.55
+79094D8A,"Rate-Distortion Optimized Transmission Power Adaptation for Video Streaming over Wireless Channels",0.384176587302,0.356849747475
+7E5B3594,"Flicker Suppression in JPEG2000 using Segmentation-Based Adjustment of Block Truncation Lengths",0.154761904762,0.168027210884
+78DC4B55,"Fast rate allocation based on distortion estimation modeling in scalable video coding",0.633547008547,0.640873015873
+08E9BB5E,"Using Structure and Texture Filling-in of Missing H.264 Image Blocks in Fading Channel Transmission",0.130555555556,0.184523809524
+0352FA79,"Fast intra mode SKIP detection algorithm based on adaptive thresholding in H.264/AVC video coding",0.373305860806,0.396703296703
+7EDE5EC0,"Channel-aware rate-distortion optimized leaky motion prediction",0.368097527473,0.69696969697
+7E255177,"Rate-distortion optimized dynamic bitstream switching for scalable video streaming",0.345716320716,0.6
+7D88DB01,"Rate-distortion optimized video coding considering frameskip",0.361153083028,0.722222222222
+7A5CB0CB,"Coding Visual Features Extracted From Video Sequences",0.368097527473,0.490404040404
+7769FF62,"A study on iterative video coding rate–distortion optimization and its rate control",0.484615384615,0.563636363636
+5957ACA0,"Content-dependent Frequency Domain based RDO Mode Decision",0.184218559219,0.247222222222
+7E19F574,"Adaptation of vision model based distortion metrics to perceptual image coding",0.246775793651,0.24762043512
+7E8C7BD9,"Piecewise-Planar 3D Reconstruction in Rate-Distortion Sense",0.0863235722611,0.0954545454545
+75A92B9A,"A New Algorithm of Fast Intra Prediction Mode Decision in H.264/AVC",0.139575702076,0.117171717172
+7BEDFCB5,"Rate-Distortion-Optimized Video Transmission Using Pyramid Vector Quantization",0.265319749695,0.322222222222
+7768AF45,"Research on H.264 intra prediction mode algorithm",0.12152014652,0.114393939394
+7CC511C0,"Rate-distortion Optimization for MP3 Audio Coding with Complete Decoder Compatibility",0.253179112554,0.303181818182
+7E9976BD,"Distributed Distortion Optimization for Correlated Sources with Network Coding",0.352529761905,0.422294372294
+7A071EED,"Compressive sensing in block based image/video coding",0.226893939394,0.4
+7BACB232,"Combined SNR and Temporal Scalability for H.264/AVC using Requantization Transcoding and Hierarchical B Pictures",0.24053030303,0.358333333333
+7DBC38E1,"Wyner-Ziv coding of video using compressive sensing without feedback channel",0.267068001443,0.294444444444
+75280CB3,"RDOES: a rate-distortion optimized encoding and streaming framework for live video transmission",0.369486416361,0.398821548822
+7AA06252,"Improved fast intra prediction algorithm of H.264/AVC",0.126860516934,0.174747474747
+76317665,"Flicker Reduction in Intra Coded Frames of H.264/AVC",0.227777777778,0.344444444444
+7B45948E,"Content-adaptive motion estimation for efficient video compression",0.355597527473,0.572916666667
+5ABD732E,"A Fast Block-Matching Motion Estimation Algorithm For H.264/AVC",0.263930860806,0.408333333333
+74278107,"Motion estimation for frame-rate reduction in H.264 transcoding",0.247264194139,0.408333333333
+77234A68,"A Single-Pass-Based Localized Adaptive Interpolation Filter for Video Coding",0.286954365079,0.390277777778
+7AAB19CD,"Motion Estimation Without Integer-Pel Search",0.250389194139,0.416666666667
+5AED0729,"Performance improvement of wavelet-based scalable video coder based on pre-decoder side rate-distortion optimization",0.359391534392,0.36865530303
+7EE54468,"A Fast Mode Decision Scheme with Variable Block Sizes in H.264/AVC",0.150793650794,0.135642135642
+7D713D2B,"Low-complexity predictive lossy compression of hyperspectral and ultraspectral images",0.125,0.138888888889
+7CC4BCCA,"JPEG2000 ROI coding method with perfect fine-grain accuracy and lossless recovery",0.284913003663,0.372222222222
+782D8B64,"Industry track: adaptive wireless video streaming proxy for home entertainment networks",0.271329365079,0.214757156424
+02A823D5,"Rate-distortion optimizations for motion estimation in low-bit-rate video coding (extended abstract)",0.343444749695,0.375288600289
+5A417C59,"Fast Prediction Mode Decision Algorithm for H.264 Based on Hierarchical Mode Classification Framework",0.139575702076,0.146338383838
+5C7F9BE9,"Rate distortion optimization in the scalable video coding",0.633547008547,0.848484848485
+79923902,"Fast Transform and Quantization Architecture with All-Zero Detection and Bit Estimation for H. 264/AVC",0.129419191919,0.111666666667
+7B18AC84,"Rate-distortion optimized 3D wavelet video coder",0.368258477633,0.560714285714
+7F3B6DFE,"Rate-distortion optimal boundary encoding using an area distortion measure",0.22803030303,0.343333333333
+777470AD,"Audio coding based on rate distortion and perceptual optimization",0.471073717949,0.60404040404
+7646D4A9,"Rate-distortion optimized 3D reconstruction from noise-corrupted multiview depth videos",0.361153083028,0.55625
+7E556501,"Low Bit Rate Vector Quantization of Outlier Contaminated Data Based on Shells of Golay Codes",0.262648809524,0.240162337662
+7F2ECA63,"Rate-distortion optimized compression and view-dependent transmission of 3-D normal meshes",0.229166666667,0.347222222222
+7863155B,"Compression of ultrasound images using wavelet-based space-frequency partitions",0.134523809524,0.188492063492
+0069378B,"Context-based rate distortion estimation and its application to wavelet image coding",0.449843559219,0.55787037037
+6A0897AC,"Optimal Design of Multiple Description Lattice Vector Quantizers",0.134275793651,0.115277777778
+7624C006,"Novel rate distortion optimized region of interest video coding for embedded video SOCs",0.696180555556,0.712345679012
+7AAAF555,"Efficient Rate-Distortion Optimized Media Streaming for Tree-Structured Packet Dependencies",0.153571428571,0.177380952381
+7F1A6F85,"Fast intra prediction mode decision using parallel processing",0.14246031746,0.165404040404
+802B7761,"Flexible bi-directional triadic MCTF with multi-hypothesis update",0.12251984127,0.142857142857
+7DD32CDB,"A Fast Downsizing Video Transcoder for H.264/AVC with Rate-Distortion Optimal Mode Decision",0.270528083028,0.347222222222
+75F77E78,"Rate-constrained video coding using a flexible representation of motion",0.452819749695,0.691666666667
+83F07F57,"H.264 인트라 프레임의 Rate Distortion 성능 향상을 위한 모드 결정 기법",0.33595467033,1.0
+79ABB63C,"Mosaic-guided video retargeting for video adaptation",0.247264194139,0.722222222222
+07175C3F,"An im-proved H. 263-codec using rate-distortion optimization",0.10084013209,0.212121212121
+5D2AA80D,"Rate distortion optimal contour compression using cubic B-splines",0.352621336996,0.625
+5C5D9BD3,"Fast PCRD-Opt computation in JPEG2000",0.112231691919,0.111111111111
+7C6369B5,"Advanced motion threading for 3D wavelet video coding",0.456788003663,0.678571428571
+7F6DB31B,"Error robust scalable audio streaming over wireless IP networks",0.232091982092,0.289935064935
+58CA5A3E,"Enhancement of direct mode selection in B pictures for bit rate reduction of compressed video sequences",0.385416666667,0.292702020202
+7D6BEC87,"MOTION COMPENSATED TRANSFORM CODING OF VIDEO USING OPTIMIZATION HIERARCHICAL DISPLACEMENT FIELD AND GLOBAL RATE-DISTORTION",0.349454365079,0.394506287363
+76DC3FAC,"The design of AVS encoder XAVS",0.0822176597912,0.1
+7E1EB7B1,"Distribution Preserving Quantization With Dithering and Transformation",0.129464285714,0.178888888889
+78B5B44D,"Fast intra-mode decision in H.264 video coding using simple directional masks",0.377728174603,0.51746031746
+76B35E6A,"An Optimized Rate Control Algorithm for H.264 Under Low Delay Constraint",0.249496336996,0.307222222222
+75BFCDBD,"A Fast Full Search Scheme for Rate-Distortion Optimization of Variable Block Size and Multi-frame Motion Estimation",0.280505952381,0.24876314162
+7DFF2101,"Rate-distortion optimization for tree-structured source coding with multi-way node decisions",0.230009920635,0.288975468975
+7A3F0F88,"Improvements on MB-layer Rate Control Scheme for H.264 video Using complexity estimation",0.399198717949,0.39990530303
+7B871DB0,"An integrated rate control method joint with error resilience for H.264 over packet loss channel",0.253422619048,0.231305114638
+7D9F1BC8,"Partition-level adaptive interpolation filter for video coding",0.286954365079,0.390277777778
+77A17A01,"R-D based quantization in H.264",0.0964370059765,0.208333333333
+76E5A6B2,"Adaptive disparity estimation for stereoscopic video coding",0.373305860806,0.572916666667
+0EC80811,"A Fast Inter Prediction Encoding Technique for Real-time Compression of H.264/AVC",0.119176136364,0.139393939394
+7B6D9683,"Direct macroblock coding for predictive (P) pictures in the H.264 standard",0.237946428571,0.363095238095
+7BA6FA78,"An improved intra mode decision method for x264 video encoding based on hybrid distortion discriminated criteria",0.381639194139,0.359082892416
+7DAC5F2B,"Coding Gain and Tuning for Parametrized Visual Quality Metrics",0.274305555556,0.350622710623
+806522A7,"New Prediction Modes for Parallel Processing of H.264/AVC",0.141071428571,0.127525252525
+7F20C62E,"Multiple description image coding with redundant expansions and optimal quantization",0.238442460317,0.290404040404
+7E10E6FF,"Low complexity hardware implementation of reciprocal fractional motion estimation for H.264/AVC in mobile applications",0.292162698413,0.293981481481
+787E3B66,"Rate-distortion optimized media streaming with adaptive rate control",0.264880952381,0.4
+7567DDE5,"Improvement and Implementation on UMHexagonS Algorithm in H.264 Reference Software",0.11626984127,0.144742063492
+7D50F31E,"Efficient intra-4×4 mode decision based on bit-rate estimation in H.264/AVC",0.139575702076,0.184027777778
+07AD8725,"Fast H.264 Intra-prediction mode selection using joint spatial and transform domain features",0.141311813187,0.168181818182
+76ED9C3E,"Rate-Distortion Optimization in Dynamic Mesh Compression",0.114360516934,0.128787878788
+7739D42B,"A block-adaptive skip mode for inter prediction based on parametric motion models",0.269139194139,0.293123543124
+7C68B755,"Markov system for image vector quantization coding",0.230555555556,0.261447811448
+803980D8,"Successive refinement of information",0.149496336996,0.171428571429
+7AB3A7FE,"Visual attention guided bit allocation in SSIM based video coding",0.368097527473,0.423185941043
+80B90FF0,"Compress compound images in H.264/MPEG-4 AVC by fully exploiting spatial correlation",0.14439484127,0.152626262626
+7DD42EB8,"Rate-distortion optimized layered stereoscopic video streaming with raptor codes",0.368097527473,0.495384615385
+597957EC,"Rate-Distortion Evaluation for Two-Layer Coding Systems",0.115625,0.14537037037
+7709365D,"Adaptive Fast Inter Mode Decision for Wireless Video Applications Using H.264/AVC",0.270528083028,0.302188552189
+7F516A29,"New Dynamic Enhancements to the Vertex-Based Rate-Distortion Optimal Shape Coding Framework",0.230857683983,0.331168831169
+72ADD475,"Multivariable feedforward plus feedback control for adapting MPEG video streams to variable channel bandwidth",0.276443001443,0.272619047619
+7C415BA8,"Summarization of 3D Video by Rate-Distortion Trade-off",0.250389194139,0.408333333333
+7AAAA308,"Optimal variable-rate mean-gain-shape vector quantization for image coding",0.118055555556,0.0972222222222
+5F2241E5,"Dense motion field reduction for motion estimation",0.264732142857,0.461666666667
+8131A1B6,"Conducting Rate-Distortion Optimization in Data-Driven P2P Video Streaming",0.253514194139,0.372727272727
+79A3BA0E,"H.264/AVC error detection scheme using fragile, rate-distortion optimized watermarking",0.223958333333,0.329848484848
+7A9AB398,"Joint Optimization of Base and Enhancement Layers in Scalable Audio Coding",0.253218694885,0.282281144781
+7C05020D,"Design and Implementation of JPEG 2000 Codec with Bit-Plane Scalable Architecture",0.217817059484,0.334027777778
+75E87F92,"Adaptive fast block mode decision algorithm for H.264/AVC",0.150793650794,0.127070707071
+7CEAA85B,"A Novel Fast Inter Mode Decision Algorithm in H.264/AVC for Forest Fire Prevention Surveillance",0.150686813187,0.126370851371
+0045F8AD,"Rate-distortion Optimized Streaming of Compressed Light Fields with Multiple Representations",0.230101495726,0.324810606061
+76B5B141,"Optimal packet scheduling and rate control for video streaming",0.380448717949,0.422294372294
+799E7CF0,"Motion-compensated transform coding of video using adaptive displacement fields",0.265319749695,0.323737373737
+80699D67,"A GOP-Adaptive Priority-Based Rate-Distortion Optimization Bitstream Extraction Algorithm for Scalable Video Coding",0.439862914863,0.550336700337
+751D0E76,"A Low Complexity Fast Inter Prediction Algorithm for H.264/AVC",0.148603479853,0.14696969697
+5F4F5FC8,"Few decoders in the encoder: a low complexity encoding strategy for H.26L",0.150351731602,0.160227272727
+7E85A0AC,"Efficient Motion Re-Estimation With Rate-Distortion Optimization for MPEG-2 to H.264/AVC Transcoding",0.263930860806,0.545454545455
+31E57B8F,"次微瓦適H.264/AVC之極高編碼效能位移估測研究",0,0
+7A8D91C7,"Rate estimation for CABAC with low complexity",0.255746336996,0.458333333333
+7DF9DF36,"Managing privacy data in pervasive camera networks",0.141220238095,0.155714285714
+83B17DA3,"부호화 효율을 고려한 고속 인터/인트라 모드 결정 알고리즘",0,0
+80F01DE4,"Quadtree structured region-wise motion compensation for video compression",0.338930860806,0.481904761905
+7F1BDB7F,"On SOT coefficient ordering of a SPIHT coder and its fast analysis method",0.134726731602,0.113015873016
+7EB67D31,"Look-ahead coding considering rate/distortion-optimization",0.555555555556,0.583333333333
+80545A9F,"Efficient scalable DCT-based video coding",0.346950888618,0.703703703704
+800AB9E4,"Buffer constraints for rate-distortion optimization in mobile video communications",0.263930860806,0.282626262626

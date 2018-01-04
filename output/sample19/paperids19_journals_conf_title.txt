@@ -1,0 +1,74 @@
+786EFAD1	IEEE Transactions on Mobile Computing<--Adaptive Physical Carrier Sense in Topology-Controlled Wireless Networks
+5D9DE319	Information not present<--The Physical Layer
+80354C35	International Conference on Communications<--A Novel Algorithm for Decapsulation and Decoding of DVB-H Link Layer Forward Error Correction
+7F5E7F1A	Personal, Indoor and Mobile Radio Communications<--Comparison of DVB-H Link Layer FEC Decoding Strategies in a Mobile Fading Channel
+7DDC0035	Information not present<--Advanced infrared (AIr): physical layer for reliable transmission and medium access
+7ED2DC68	ACM/IEEE International Conference on Mobile Computing and Networking<--Physical layer driven protocol and algorithm design for energy-efficient wireless sensor networks
+8120A938	IEEE Transactions on Vehicular Technology<--Two-Transmitter Two-Receiver Cooperative MAC Protocol: Cross-Layer Design and Performance Analysis
+7E9BEAFD	IEEE Transactions on Vehicular Technology<--Performance Analysis of Transmitter-Side Cooperation–Receiver-Side-Relaying Schemes for Heterogeneous Sensor Networks
+80C20C54	IEEE Transactions on Broadcasting<--The Performance Analysis of MPE-FEC Decoding Methods at the DVB-H Link Layer for Efficient IP Packet Retrieval
+0709851D	International Conference on Communications<--Performance analysis of the WIMAX-D physical layer blocks on a next generation baseband processor platform
+7B940595	Information not present<--Performance analysis of RLS based channel estimation in UWB OFDM system
+7E25943D	International Conference on Control and Automation<--Performance analysis of powerline communication for local area networking
+09CABB3B	Information not present<--Performance Analysis of DCF Access Schemes over IEEE 802.11A Physical Layer
+7527093B	Information not present<--Benchmarking Comparison of Physical Layer Performance for Various Implementations of OFDM Access Networks
+6B8BE51F	Mobile Networks and Applications<--Performance study of access control in wireless LANs—IEEE 802.11 DFWMAC and ETSI RES 10 Hiperlan
+5BABC1A7	Information not present<--Performance comparison of Intelligent Jamming in RF (Physical) Layer with WLAN Ethernet Router and WLAN Ethernet Bridge
+7AD82EBB	Pacific-Asia Conference on Circuits, Communications and Systems<--Performance analysis of random access system with monitoring function
+7F7C1367	IEEE Transactions on Vehicular Technology<--Performance Analysis of Multichannel Medium Access Control Algorithms for Opportunistic Spectrum Access
+7D38D4A6	Wireless Communications and Networking Conference<--Bandwidth-on-demand layer 1.5 protocols for enhanced broadband wireless access system performance
+80514545	Global Communications Conference<--An Efficient Model of 802.11 Ad Hoc Networks under a Block-Fading Rayleigh Channel with Physical Layer Capture
+7F3654A5	International Symposium on Wireless Communication Systems<--Experiments on IP and physical layer packet throughput performance in evolved UTRA uplink using SC-FDMA radio access
+7EF3746B	Rapid System Prototyping<--Rapid prototyping and performance analysis for cdma2000
+72BA6FA1	Personal, Indoor and Mobile Radio Communications<--Performance evaluation and enhancement of the CSMA/CA MAC protocol for 802.11 wireless LANs
+5DE6B7FC	Personal, Indoor and Mobile Radio Communications<--Collision detection for carrier sense multiple access in wireless networks
+79EBFACE	Consumer Communications and Networking Conference<--Performance analysis of VoIP codecs over multi-rate EDCA
+76B29BE8	Information not present<--Joint Design and Separation Principle for Opportunistic Spectrum Access
+0479D37E	Information not present<--Physical Layer Signaling for the Next Generation Mobile TV Standard DVB-NGH
+7D5F5469	IEEE Transactions on Broadcasting<--Analysis of Physical Layer Signaling Transmission in DVB-T2 Systems
+80724902	Information not present<--Analysis of performance degradation in Radio-over-Fiber systems based on IEEE 802.16 protocol
+7D03FC5F	Wireless Communications and Networking Conference<--MIMO OFDM Physical Layer Real-Time Prototyping
+7E0B6053	Collaborative Computing<--Physical layer performance analysis of a peer to peer communication system based on standard IEEE 802.11g
+7858F0C0	ACM/IEEE International Conference on Mobile Computing and Networking<--Opportunistic media access for multirate ad hoc networks
+7CFB6749	International Conference on Wireless Communications and Mobile Computing<--A joint model for IEEE 802.15.4 physical and medium access control layers
+7FB8D4D2	IEEE Journal on Selected Areas in Communications<--Decentralized cognitive MAC for opportunistic spectrum access in ad hoc networks: A POMDP framework
+80E6A3A9	IEEE Journal on Selected Areas in Communications<--Performance analysis of the IEEE 802.11 distributed coordination function
+76C83B25	Information not present<--A new packet scheduling scheme and performance analysis of high speed packet data access
+758DFA07	Ieice Transactions<--Robust Physical Layer Signaling Transmission over OFDM Systems
+7D59456C	IEEE\/ACM Transactions on Networking<--Error control in wireless sensor networks: a cross layer analysis
+399C9C40	Information not present<--DISTI | VIJESTI - Media konverteri
+7CAFF678	Telecommunication Systems<--Performance analysis of unslotted CSMA/CA in wireless networks
+80A369F3	International Conference on Communications<--Performance analysis of multiband OFDM for UWB communication
+7EFC6772	IEEE Transactions on Wireless Communications<--Performance Analysis of Slotted Carrier Sense IEEE 802.15.4 Medium Access Layer
+7B2E3C69	IEEE Photonics Technology Letters<--All-Optical Physical Layer NACK in AWGR-Based Optical Interconnects
+7F429BAA	Archives Des Maladies Professionnelles Et De L Environnement<--Performance of N-tone sigma-delta modulators for UWB-OFDM
+09E94982	Information not present<--Spectrum Virtualization Layer
+7FA6810E	IEEE Transactions on Instrumentation and Measurement<--Cross-Layer Measurement for the Analysis of DVB-T System Performance
+8125DF25	International Conference on Networking, Sensing and Control<--Analytical model of multihop IEEE 802.15.4 for lossy medium
+8091D53F	ACM/IEEE International Conference on Mobile Computing and Networking<--A scalable model for channel access protocols in multihop ad hoc networks
+7EF60F7C	Vehicular Technology Conference<--Structure and performance of the HIPERLAN/2 physical layer
+7D7987B7	IEEE Communications Magazine<--Outdoor Mobile Broadband Access with 802.11
+59ABFAFB	Information not present<--The Physical Layer
+7F988C6B	IEEE Transactions on Mobile Computing<--rDCF: A Relay-Enabled Medium Access Control Protocol for Wireless Ad Hoc Networks
+813FF46C	Computer Networks<--Wireless sensor networks: a survey
+7FB038C4	Mobile Networks and Applications<--On improving the performance of IEEE 802.11 with relay-enabled PCF
+8141530F	IEEE Transactions on Vehicular Technology<--Throughput and Collision Analysis of Multichannel Multistage Spectrum Sensing Algorithms
+802C7836	Information not present<--Performance Analysis of OFDM-Based WAVE System Using Coefficient Tracking Synchronization Algorithm
+806C9646	Information not present<--Optically cross-braced hypercube: A reconfigurable physical layer for interconnects and server-centric datacenters
+7A4E2B8F	Wireless Sensor Network<--On the Development of Realistic Cross Layer Communication Protocol for Wireless Sensor Networks
+834DE613	Information not present<--IEEE 802.11N Physical Layer
+7EACF57F	Information not present<--The cross-layer optimation research on wireless sensor networks
+7EA72B4F	Wireless Communications and Networking Conference<--Performance Analysis of Slotted Carrier Sense IEEE 802.15.4 Acknowledged Uplink Transmissions
+809D5C4D	Information not present<--Multi-channel multi-stage spectrum sensing: Link layer performance and energy consumption
+7E50DCEF	International Conference on Communications<--Performance analysis and comparison of HARQ schemes in cross layer design
+75B2AEF5	Optics Communications<--Analysis of physical layer performance of hybrid optical–wireless access network
+8179AE97	Information not present<--Performance Analysis for Coefficient Tracking Synchronization Algorithm of OFDM Based Vehicle Communication System in Intelligent Transportation System Environment
+7DCE7A47	IEEE Transactions on Wireless Communications<--Service differentiation in broadband wireless access networks with scheduling and connection admission control: a unified analysis
+810C99BE	IEEE Wireless Communications<--On the adaptive DVB-S2 physical layer: design and performance
+7623A3F2	Modeling Analysis and Simulation of Wireless and Mobile Systems<--Performance investigation of IEEE 802.11 MAC in multihop wireless networks
+8017FC6D	IEEE Transactions on Broadcasting<--DVB-T/H and T-DMB: Physical Layer Performance Comparison in Fast Mobile Channels
+7D357751	IEEE Transactions on Vehicular Technology<--Measurement-Based Performance Evaluation of MIMO HSDPA
+5DCA4BD7	Mobile Networks and Applications<--Combined Tuning of RF Power and Medium Access Control for WLANs
+7F7C7FDE	Information not present<--Impact of physical layer design on the deployment of a sensor network with correlated observations
+7DBC4C98	IEEE Transactions on Vehicular Technology<--A Cross-Layer Investigation for the Throughput Performance of CSMA/CA-Based WLANs With Directional Antennas and Capture Effect
+8098D85E	Asia and South Pacific Design Automation Conference<--IEEE 1394a_2000 Physical Layer ASIC

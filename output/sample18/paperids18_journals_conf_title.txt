@@ -1,0 +1,89 @@
+7C699632	Computer Networks<--A framework for opportunistic scheduling in wireless networks
+81356C6B	International Parallel and Distributed Processing Symposium<--Power-aware localized routing in wireless networks
+76EB1EDF	IEEE\/ACM Transactions on Networking<--Understanding the capacity region of the Greedy maximal scheduling algorithm in multihop wireless networks
+7EB0BE7B	Mobile Ad Hoc Networking and Computing<--A refined performance characterization of longest-queue-first policy in wireless networks
+7D515829	Information Processing in Sensor Networks<--Routing without routes: the backpressure collection protocol
+78FA01ED	IEEE Transactions on Communications<--Throughput Analysis in Multihop CSMA Packet Radio Networks
+7EDA77E7	Global Communications Conference<--Selective reject frequency-hopped spread-spectrum networks
+811701D0	International Conference on Computer Communications<--Dynamic power allocation and routing for time varying wireless networks
+7D457EC1	Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks<--Macrocell batch resource allocation for a closed access femto-macro cellular wireless network
+7D7BB755	IEEE Transactions on Wireless Communications<--Bidirectional Buffer-Aided Relay Networks With Fixed Rate Transmission—Part I: Delay-Unconstrained Case
+7E980A8C	IEEE Journal on Selected Areas in Communications<--A tutorial on cross-layer optimization in wireless networks
+7FFBE37A	International Conference on Computer Communications<--Low-Complexity Distributed Scheduling Algorithms for Wireless Networks
+778BBF72	IEEE\/ACM Transactions on Networking<--Receiver-Based Flow Control for Networks in Overload
+33727B43	Computer Communications<--Load-adaptive networking for energy-efficient wireless access
+764D7EB8	IEEE Journal on Selected Areas in Communications<--Slotted Random Access Spread-Spectrum Networks: An Analytical Framework
+7FF3E7C1	Computational Intelligence<--Joint Radio Resource Management for HSDPA and WiMAX Networks
+80E1FCF8	International Performance, Computing, and Communications Conference<--Performance evaluation for penalty-based resource management: an adaptive QoS scheme for service differentiation and adaptation in heterogeneous wireless networks
+80E51D22	Pacific Rim International Symposium on Dependable Computing<--ARQ in optical networks
+8144B318	Information not present<--Optimal joint radio resource management to improve connection-level QoS in next generation wireless networks
+76C9F780	Information not present<--Two timescale dynamic node-selfishness management in wireless networks
+5BFF077F	Embedded and Ubiquitous Computing<--Semi-soft FMIPv6 for 802.11 network
+8141E17F	IEEE Transactions on Mobile Computing<--Common Radio Resource Management Algorithms for Multimedia Heterogeneous Wireless Networks
+7ECDC590	International Conference on Computer Communications<--Controlled multimedia wireless link sharing via enhanced class-based queuing with channel-state-dependent packet scheduling
+5DB5E480	Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks<--Optimized cross-layer adaptation for improved resource management in wireless networks
+71A6D3AB	International Conference on Distributed Computing Systems<--Adaptive routing in mesh-connected networks
+7ACBCD1A	IEEE Transactions on Wireless Communications<--Adaptive Cross-Network Cross-Layer Design in Heterogeneous Wireless Networks
+77B4E4F9	ACM Multimedia<--Optimal resource management in OFDMA wireless networks to support multimedia traffic
+802287F8	IEEE\/ACM Transactions on Networking<--On combining shortest-path and back-pressure routing over multihop wireless networks
+7FB79996	Personal, Indoor and Mobile Radio Communications<--Adaptive Radio Resource Management for Multi-Operator WCDMA Based Cellular Wireless Networks with Heterogeneous Traffic
+7BE9F342	IEEE Transactions on Wireless Communications<--Throughput–Delay Tradeoff in Interference-Free Wireless Networks With Guaranteed Energy Efficiency
+7F079ED5	IEEE Transactions on Communications<--Transmission Range Control in Multihop Packet Radio Networks
+7D380FCB	Information not present<--UWB in heterogeneous access networks
+818F5929	IEEE\/ACM Transactions on Networking<--Fair resource allocation in wireless networks using queue-length-based scheduling and congestion control
+7BA2A546	Information not present<--Virtual Public Networks
+8076ED7B	IEEE\/ACM Transactions on Networking<--User-level performance of channel-aware scheduling algorithms in wireless data networks
+7E61E273	IEEE\/ACM Transactions on Networking<--Fairness and optimal stochastic control for heterogeneous networks
+7DDBDFFF	Canadian Conference on Electrical and Computer Engineering<--A QoS-sensitive SDTM-TDMA access in fixed broadband wireless networks
+7E49DBFF	Broadband Communications, Networks and Systems<--Duplicate-aware opportunistic routing for multi-hop wireless networks
+7F7E7443	Foundations and Trends in Networking<--Resource allocation and cross-layer control in wireless networks
+79A55F35	IEEE Journal on Selected Areas in Communications<--Dynamic Wireless Network Coding With Overhearing and Variable Channel Rates
+7D2E77FB	International Conference on Computer Communications<--Optimal Traffic-Oblivious Energy-Aware Routing for Multihop Wireless Networks
+7D285C30	Mobile Ad Hoc Networking and Computing<--Improved bounds on the throughput efficiency of greedy maximal scheduling in wireless networks
+802732A6	IEEE Wireless Communications<--Energy concerns in wireless networks
+824DC70D	Personal, Indoor and Mobile Radio Communications<--Energy-efficient concurrent media streaming over time-varying wireless networks
+629F68B4	IEEE Sensors Journal<--Energy Aware Media Access Algorithm at the Presence of Channel State Information Error in Wireless Sensor Networks
+8079E235	IEEE Transactions on Communications<--Topology control for multihop packet radio networks
+712F5424	Information not present<--The front-pruned 3D-tree fault-tolerant networks
+7DD2645E	IEEE Transactions on Communications<--Performance Analysis of Random Access Packet-Switched Code Division Multiple Access Systems
+6C8A5880	Vehicular Technology Conference<--Medium access control and radio resource management for packet data services over IS-136 channels
+60C826AC	Proceedings of the IEEE<--Reconfigurable Wireless Networks
+7E96A5A1	IEEE Personal Communications<--SWAN: a mobile multimedia wireless network
+811AD901	Information not present<--Highly Deployable Wireless Networks
+783B00BD	IEEE Transactions on Mobile Computing<--Distributed Channel Probing for Efficient Transmission Scheduling in Wireless Networks
+7D2589D0	Information not present<--DDPRMA: A dynamic distributed PRMA for distributed wireless networks
+7AEE3A54	Information not present<--A QoE-based resource allocation scheme for multi-radio access in heterogeneous wireless network
+7B963C19	ACM/IEEE International Conference on Mobile Computing and Networking<--Adapting packet fair queueing algorithms to wireless networks
+80F4E80C	IEEE Journal on Selected Areas in Communications<--Adaptive clustering for mobile wireless networks
+7DFC1EE1	International Conference on Communications<--Max-min fairness based radio resource management in fourth generation heterogeneous networks
+75F5A346	Personal, Indoor and Mobile Radio Communications<--Enabling technologies and strategies for radio resource management in decentralized heterogeneous wireless networks
+75FE3C90	International Conference on Networks<--Radio Resource Management with Dynamic Behavior for 3G and Beyond Wireless Networks with Heterogeneous Traffic
+80FB59A4	IEEE Journal on Selected Areas in Communications<--QoS routing in ad hoc wireless networks
+801082CA	IEEE Transactions on Communications<--Optimal Transmission Ranges for Randomly Distributed Packet Radio Terminals
+7F625A8B	Synthesis Lectures on Communication Networks<--Stochastic network optimization with application to communication and queueing systems
+7D18D398	IEEE Transactions on Wireless Communications<--Cross-layer optimization of wireless networks using nonlinear column generation
+80B74467	IEEE Journal on Selected Areas in Communications<--Super-fast delay tradeoffs for utility optimal fair scheduling in wireless networks
+7C080174	Information not present<--Utility-Maximizing Data Dissemination in Socially Selfish Cognitive Radio Networks
+805A983E	Proceedings of the IEEE<--Scheduling algorithms in broadband wireless networks
+7E299C34	International Conference on Computer Communications<--Type-of-service routing in dynamic datagram networks
+7E5DF49A	IEEE\/ACM Transactions on Networking<--Fair scheduling in wireless packet networks
+7CC75938	IEEE Journal on Selected Areas in Communications<--ATM-based transport architecture for multiservices wireless personal communication networks
+7E8C5350	Information not present<--A Novel Scheme and Access Architecture for Joint Radio Resource Management in Heterogeneous Networks
+779B9598	IEEE Communications Magazine<--Book reviews [reviews of "Fundamentals of Resource Allocation in Wireless Networks: Theory and Algorithms" (Stanczak, S. et al; 2009) and "Dynamic Spectrum Access and Management in Cognitive Radio Networks" (Hossain, E., et al; 2009)]
+7DCD3875	International Conference on Computer Communications<--Joint scheduling and power control for wireless ad-hoc networks
+7738217B	ACM Transactions on Modeling and Computer Simulation<--Joint congestion control and distributed scheduling for throughput guarantees in wireless networks
+7FCFBAB1	International Conference on Computer Communications<--Performance of Random Access Scheduling Schemes in Multi-Hop Wireless Networks
+815D2B25	Modeling and Optimization in Mobile, Ad-Hoc and Wireless Networks<--Biobjective optimization of radio access technology selection and resource allocation in heterogeneous wireless networks
+7EDA7C70	Mobile Ad Hoc Networking and Computing<--Cross-layer rate control for end-to-end proportional fairness in wireless networks with random access
+7553FCD7	IEEE Communications Magazine<--Wireless network access for personal communications
+8123F129	International Conference on Computer Communications<--A novel topology control for multihop packet radio networks
+8494A4DA	Modeling Analysis and Simulation of Wireless and Mobile Systems<--Resource management in broadband wireless access networks
+7FB4C906	Conference on Communication Networks and Services Research<--Angle-of-Departure-Aided Opportunistic Space-Division Multiple Access
+7CFE91B3	IEEE\/ACM Transactions on Networking<--A distributed CSMA algorithm for throughput and utility maximization in wireless networks
+7F07DB8B	International Conference on Mobile Multimedia Communications<--Situation-aware radio resource management for multi-rate MC-CDMA wireless networks targeted at multimedia data exchanges in local areas
+7BDB4E96	Journal of Hospital Librarianship<--Does Providing Onsite Immediate Access to Electronic Resources Using a Laptop and Wireless Network Improve Resident Participation in Morning Report?
+803DE035	Conference on Information Sciences and Systems<--A Stochastic Primal-Dual Algorithm for Joint Flow Control and MAC Design in Multi-hop Wireless Networks
+5A9A6D9C	Information not present<--A Study on Network Sharing and Radio Resource Management in 3G and Beyond Mobiles Wireless Networks Supporting Heterogeneous Traffic
+7874EDFB	IEEE\/ACM Transactions on Networking<--Throughput-Optimal Scheduling Design With Regular Service Guarantees in Wireless Networks
+7E30BE72	Hawaii International Conference on System Sciences<--Time-division optical micro-area networks
+7DB38461	IEEE Transactions on Consumer Electronics<--Improved and optimal dual circular 32-QAM for MB-OFDM

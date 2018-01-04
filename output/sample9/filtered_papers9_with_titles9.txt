@@ -1,0 +1,2040 @@
+77D18CE3	OFDM system implementation using compatible SSB modulation with a dual-electrode MZM
+7F1A1204	Active mitigation of induced phase distortion in a GSM SoC
+7672BD29	Performance optimization of directly modulated FM-SCM systems with optical discriminator
+5D73BE80	Spectrally smoothed polynomial fourier transform for time-frequency characterization at low SNR
+5974FE6A	Broadband interference excision in spread spectrum communication systems via fractional Fourier transform
+7F20F477	Parameter estimation of linear frequency-modulated signals using integrated cubic phase function
+7EB72EEB	Noise-Modulated optomechatronic distance-measuring system
+7658BE17	Abrupt phase reversal in frequency‐modulated external‐cavity semiconductor lasers
+7E9A9E02	Image reconstruction of local shear and viscosity moduli for a finite-amplitude acoustic modulated radiation force
+7DA7F0D3	Reconfigurable high frequency class S power amplifier demonstrator
+80659B31	A digitally-programmable zero external components FM radio receiver with 1/spl mu/V sensitivity
+77D2EF8A	Flax meal supplementation on the activity of antioxidant enzymes and the expression of oxidative stress- and lipogenic-related genes in dairy cows infused with sunflower oil in the abomasum
+7DE1C03F	Effect of Mach-Zehnder modulator DC extinction ratio on single sideband modulation radio over fiber link
+80220D15	High-speed frequency modulation and switching of tunable distributed feedback lasers with two active segments
+7E18AE27	Mode partition noise of nearly single-mode semiconductor lasers modulated at GHz rates
+81125569	Integrated Active Pulsed Reflector for an Indoor Local Positioning System
+7E24E343	Full-Wave Simulation of Time Modulated Linear Antenna Arrays in Frequency Domain
+8126EB32	Coherent modulation spectral filtering for single-channel music source separation
+7F20C5DB	A system for finding speech formants and modulations via energy separation
+78FC75A6	Real-time low-complexity automatic modulation classifier for pulsed radar signals
+5CB09E70	Uncertain chaotic behaviours of chaotic-based frequency- and phase-modulated signals
+7F3FD626	Digitized speech transmission at VHF using existing FM mobile radios
+765F7541	Spectro-temporal receptive fields of midbrain auditory neurons in the rat obtained with frequency modulated stimulation
+80703000	Ultra-wide bandwidth laser communications: Part II&#8212;An operating laboratory system
+7D255104	F.M. click rates: a simple derivation
+7EA9699B	Precoded Modulo-Precanceling Systems for Simulcasting Analog FM and Digital Data
+80C886EE	A multipurpose digital modulator
+7544FE6C	Performance analysis of millimeter wave FMCW InSAR for UAS indoor operations
+7FFE48FC	History of modulation spectrum in ASR
+7CF051F8	Normalization of Modulation Features for Speaker Recognition
+808B1DF5	Information Transmission by Means of Chaos-Based Frequency Modulation and Adaptive Identification
+7B053309	Frequency-modulated v.h.f. transmitter technique, with particular reference to the B.B.C. United Kingdom service
+7DFD5EC7	A wireless FM multi-channel microsystem for biomedical neural recording applications
+804A4A23	Effect of laser-diode power change on optical heterodyne interferometry
+7F860ACB	Stress-location measurement along an optical fiber by synthesis of triangle-shaped optical coherence function
+7EDB62AB	Static and dynamic characteristics of McKibben pneumatic actuator for realization of stable robot motions
+7DF6E6B1	Distortion in angle-modulated links induced by ripple in fiber-Bragg-grating reflectance and delay characteristics
+7D68980F	Compact support kernels based time-frequency distributions: Performance evaluation
+79D5A9B6	Simulation of FM/FDM blocks for interference and intermodulation calculations
+7CF3A009	Broadband RF front-end based on the six-port network architecture for software defined radio
+7D9BDD0D	Error rates for narrow-band digital FM with discriminator detection in mobile radio systems
+7BF3DAF2	Initial-boundary value problems of warped MPDAEs including minimisation criteria
+810D4D59	An improved method for nonstationary signals components extraction based on the ICI rule
+7F99C6CA	Stereoscopic ranging by matching image modulations
+80AD29C3	Experimental method based on wavelength-modulation spectroscopy for the characterization of semiconductor lasers under direct modulation
+7E9583C6	Target Doppler estimation using wideband frequency modulated signals
+813A9991	Small-signal analysis for the time-averaged AM and FM noise power spectra of a directly modulated semiconductor laser
+7B783913	Asymptotic evaluation of the ambiguity functions of high-gain FM matched filter sonar systems
+7D8AEF45	Encoding frequency Modulation to improve cochlear implant performance in noise
+7629F160	A multicarrier QAM modulator for WCDMA base-station with on-chip D/A converter
+8373042D	A High-Order Phase Correction Approach for Focusing HS-SAR Small-Aperture Data of High-Speed Moving Platforms
+80E18AA5	Tunable Diode-Laser Spectroscopy With Wavelength Modulation: A Calibration-Free Approach to the Recovery of Absolute Gas Absorption Line Shapes
+7EBA71E7	Specification Driven Design of Phase Locked Loops
+7D2E244C	Tomographic time-frequency analysis and its application toward time-varying filtering and adaptive kernel design for multicomponent linear-FM signals
+7EF155D8	Linear, Low Noise Microwave Photonic Systems using Phase and Frequency Modulation
+7515C4D9	A time-frequency distribution concentrated along the instantaneous frequency
+7CF09AC8	A new digital FM demodulator for VCRs
+80D75B61	Harmonized strategy for breaking the striations in the fluorescent lamp
+806AD5CC	Semiconductor Laser Diode Model Implementation Including Optical Back-Reflection
+7C306A5F	Rapidly Tunable Quantum Cascade Lasers
+800A8249	Designing Waveforms for Temporal Encoding Using a Frequency Sampling Method
+7E5EC9D8	Chirp Characteristics of Silicon Mach–Zehnder Modulator Under Small-Signal Modulation
+7D9C5A05	Effects of Push-to-Talk (PTT) Delays on Throughput Performance of CSMA/CA Based Distributed Digital Radios (DDR) for Land Mobile Radio (LMR) Networks
+78D9B413	FM differential equation
+7ED9E5C1	A spread spectrum clock generator with spread ratio error reduction scheme for DisplayPort main link
+7D84050A	An information-theoretic perspective on feature selection in speaker recognition
+7CCD27CD	Characteristic comparison of reduced switch converter based energy conversion systems
+8014EA84	A Tempo Feature via Modulation Spectrum Analysis and its Application to Music Emotion Classification
+7E45F15F	Extension of the heart timing signal to the HRV analysis in the presence of ectopic beats
+7E3CF831	An Undersampling Digital Microphone
+7F5993D3	Multiple differential detection of continuous phase modulation signals
+7F25CEF5	Multifunctional Reference Cells for Multistandard RFID Transponders
+813FFC20	Feature extraction using an AM-FM model for gait pattern classification
+5DF87F99	Continuous Monitoring of Formaldehyde Photolysis Products by THz Spectroscopy
+772E759D	Experimental studies, line-shape analysis and semi-empirical calculations of broadening coefficients for CH 3 35 Cl–CO 2 submillimeter transitions
+79E4CEB9	A 60 GHz 2.5 Gbps OOK Modulator with Data-Dependent Impedance Cell for Enhanced ON/OFF Isolation in 0.18 $\mu$ m BiCMOS Process
+75FA2C48	Optimum Pre-Emphasis Network for Satellite Transmission of an FM TV Signal near or at Threshold
+802F5CCF	Recurrent lobes reduction of stepped-frequency LFM pulse train using ambiguity function
+7D3E2A82	The Impact of Mismatch on the Performance of Coded Narrow-Band FM with Limiter/Discriminator Detection
+5DFAEE26	Chaos-Based Generation of PWM-Like Signals for Low-EMI Induction Motor Drives : Analysis and Experimental Results
+7F49AA36	Bat Chirps With Good Properties: Zak Space Construction of Perfect Polyphase Sequences
+7786EDB4	Operation of Naturally Sampled Current Regulators in the Transition Mode
+7E6B3D43	AM-FM image filters
+7F4325B1	The performance of a CPFSK trellis code in non-Gaussian noise
+7E99AABF	Generalized energy demodulation for large frequency deviations and wideband signals
+7B205A19	Electrophysiological evidence implicates automatic low-level feature detectors in perceptual asymmetry
+7DE243D4	Time-domain ABCD matrix formalism for laser mode-locking and optical pulse transmission
+7F4654CA	Frequency modulation on single sideband using controlled dynamics of an optically injected semiconductor laser
+7E904677	Implementation of a smart antenna system with an improved NCMA algorithm
+7DB8DCCC	Squarewave frequency modulation techniques
+7D79B7C9	Low-IF topologies for high-performance analog front ends of fully integrated receivers
+7F79D34C	Subcarrier multiplexing for lightwave networks and video distribution systems
+761B5EE9	Controller area network (CAN) schedulability analysis for messages with arbitrary deadlines in FIFO and work-conserving queues
+7B25FFF8	Toward automatic phenotyping of retinal images from genetically determined mono- and dizygotic twins using amplitude modulation-frequency modulation methods
+7D7C8361	Wireless Transmission of IGBT Driver Control
+7E20D0B7	A new switching frequency modulation scheme for EMI reduction in multiconverter topology
+7E089ECA	Long-Distance Demonstration and Modeling of Low-Power Silicon Microdisk Modulators
+7D34A441	A 3 GHz Spread Spectrum Clock Generator for SATA applications using chaotic PAM modulation
+7DFE0F48	Addressed multifrequency data transmission using an optical fiber
+7DCF81BF	Equivalence of FM Threshold Extension Receivers
+842F1012	Frequency-Division-Multiplex-Based Quantum Efficiency Determination of Solar Cells
+816632BC	Interference to DTV reception from FM radio signals
+80EE12DB	PBR activity at INFOCOM: Adaptive processing techniques and experimental results
+7F95F180	Coherent FMCW reflectometry using a temperature tuned Nd:YAG ring laser
+7CAD41EB	Microbial Protein Synthesis and Flows of Nitrogen Fractions to the Duodenum of Dairy Cows1
+7DCF5156	Electromagnetic interference mitigation by using a spread-spectrum approach
+7D5C4461	P2D-9 A Frequency-Compensated Coded-Excitation Pulse to Improve Axial Resolution of Ultrasonic System
+7D04BFEE	Analyzing oscillators using multitime PDEs
+76CFBCD8	Instrumental CWLFM High-Range Resolution Radar in Millimeter Waveband for ISAR Imaging
+7ECE43E6	Oriented texture completion by AM-FM reaction-diffusion
+7ED999C2	A sum-of-products model for effective coherent modulation filtering
+7D7392F1	Direction of arrival estimation for multi-frequency FM-based Passive Bistatic Radar
+7F9BB074	Antenna diversity in mobile communications
+80FD1000	A theoretical model for the dependency of heart rate on gradual vagal blockade by atropine
+766C9C46	Effect of combinations of fish meal and feather meal on milk fatty acid content and nitrogen utilization in dairy cows
+7DA5CE84	Dynamic P-I and P-V Curves for Semiconductor Lasers and Modulators
+7FE8CB83	A New Adaptive Frequency and Amplitude Modulation Encoding in Multi Channel Cochlear Implant
+7535A2AD	Demonstration of multilevel multichannel optical frequency shift keying (FSK) with cleaved-coupled-cavity (C3) semiconductor lasers
+80EDED35	A Hybrid Approach to Modulation Recognition for Intentional Modulation on Pulse (IMOP) Applications
+80291BD7	1.5 /spl mu/m InGaAsP/InP multi-gain-levered-MQW-DFB-LD with high efficiency and large bandwidth FM response
+79CCC7F1	Acoustic Parameters Critical for an Appropriate Vibrato
+7E699F0D	An all digital spread spectrum clock generator with programmable spread ratio for SoC applications
+7D82439A	Dynamics of spatial hole burning effects in DFB lasers
+80063509	A Digital Envelope Combiner for Switching Power Amplifier Linearization
+731310A5	A frequency modulated PLL for EMI reduction in embedded application
+7DBB4634	Single channel speech separation with a frame-based pitch range estimation method in modulation frequency
+77E6A74D	Dielectric Properties and Electro-optic Characteristics of TN-LCDs Doped with Metal Nanoparticles Exhibiting Frequency Modulation Response Accompanying Fast Response
+810E68B1	Coherent optical frequency domain reflectometry for a long single-mode optical fiber using a coherent lightwave source and an external phase modulator
+816E6963	Instantaneous frequency estimation of FM signals by Ψ B -energy operator
+802F2D77	Design of periodic signals using FM sweeps and amplitude modulation for ocean acoustic travel-time measurements
+80183E34	An integrated error correction and detection system for digital audio broadcasting
+7E6729BE	Performance of DS/SFH-SSMA system with overlapping BFSK in the presence of both MTJ and MAI
+8148C6B9	Plant acoustic density profile model of CTFM ultrasonic sensing
+7DDC10C1	Jamming mitigation based on coded message-driven frequency hopping
+8147F2DB	Nonharmonic large amplitude modulation of a semiconductor laser in a self-homodyne interferometric optical system
+7FEF78B6	Left auditory cortex is involved in pairwise comparisons of the direction of frequency modulated tones.
+8174026A	Direct modulation of semiconductor lasers
+7A9D79E8	Extraction of FM components from speech signals using all-pole model
+7E5360B8	Spectral subtraction on real and imaginary modulation spectra
+7AA7A2FF	Optimized NLFM pulse compression waveforms for high-sensitivity radar observations
+7E7B7E3A	Carrier Transmission of Binary Data in a Restricted Band
+7F759F52	Flat Magnets in Surface-Mounted Permanent Magnet Machines
+7DA557E2	Effects of the intensity difference of two laser fields on coherent population trapping clocks
+7A728258	Over-modulated AM-FM decomposition
+7F3544BE	Passive Bistatic Radar (PBR) using FM radio illuminators of opportunity
+6B27814B	System architectures and digital signal processing algorithms for enhancing the output audio quality of stereo FM broadcast receivers
+7E6359C5	Experimental verification that a metamaterial wedge supports the propagation of a bandlimted modulated signal
+7E46D2A2	A Low-Power and High-Precision Spread Spectrum Clock Generator for Serial Advanced Technology Attachment Applications Using Two-Point Modulation
+7D26409D	Spatial averaging of time-frequency distributions for signal recovery in uniform linear arrays
+78FDE0C7	Allan Variance - Stability of Diode-Laser Spectrometer for Monitoring of Gas Concentrations
+7F5F4BE4	Modulation-scale analysis for content identification
+7C1F7F9E	Study of the Wavelet Basis Selections
+7DA344BB	Speech formant frequency and bandwidth tracking using multiband energy demodulation
+799C189D	1.1-GHz Continuous-Wave EPR Spectroscopy with a Frequency Modulation Method
+7E5F44D5	1.3-/spl mu/m strained MQW-DFB lasers with extremely low intermodulation distortion for high-speed analog transmission
+7E675612	On Normalized MSE Analysis of Speech Fundamental Frequency in the Cochlear Implant-Like Spectrally Reduced Speech
+7F06AE1A	Diversity On-Glass Antennas for Maximized Channel Capacity for FM Radio Reception in Vehicles
+80863F28	Necessary bandwidth for high-index FM
+80F8B4C0	FMP: a new digital FM scheme with optimized noncoherent detectability and inherent insensitivity to fadings
+7DA0258F	Comments on the interpretation of instantaneous frequency
+80083B7F	Photonic-enabled microwave and terahertz communication systems
+7F3709F7	A monolithically integrated optical heterodyne receiver
+7F00534E	Packet radio performance of inhibit sense multiple access with capture
+786F4E16	Efficient Wideband Parameter Estimation Using Arbitrary Enveloped LFM Signals via Hermite Decompositions
+7C2DECA0	A TDC-Free Mostly-Digital FDC-PLL Frequency Synthesizer With a 2.8–3.5 GHz DCO
+77DB2185	Age-related temporal processing speed deterioration in auditory cortex
+5B4979B3	Breast cancer detection in mammogram with AM-FM modeling and Gabor filtering
+7E8B43ED	A digitally calibrated CT quadrature bandpass ΣΔ ADC for Wimax/LTE
+804F2E0E	A Multistage Processing Algorithm for Disturbance Removal and Target Detection in Passive Bistatic Radar
+7E429C47	Direction finding of nonstationary signals using a time-frequency Hough transform
+7D6526CB	Nonlinear IF Estimation Based on the Pseudo WVD Adapted Using the Improved Sliding Pairwise ICI Rule
+7D1E361D	FM and IM intermodulation distortions in directly modulated single-mode semiconductor lasers
+7D00610E	Improved Vowel Onset and offset points detection using bessel features
+7A59CB66	Yield Response of Lactating Holstein Dairy Cows to Dietary Fish Meal or Meat and Bone Meal1
+7AEC8C03	Exploration of instantaneous amplitude and frequency features for epileptic seizure prediction
+7EFF4323	Curse of digital polar transmission: Precise delay alignment in amplitude and phase modulation paths
+776A59B4	Recent advances in communication technologies for smart grid application: A review
+7F24E257	Short-time instantaneous frequency and bandwidth features for speech recognition
+7F30ECF2	Instantaneous frequency estimation of quadratic and cubic FM signals using the cross polynomial Wigner-Ville distribution
+809354E5	Instantaneous frequency estimation from FM signals and its use in continuous phase modulation receivers
+7F39CED3	A microscopic model for the static and dynamic lineshape of semiconductor lasers
+7D45FC29	The Separated Speech Signals Combined the Hybrid Adaptive Algorithms by Using Power Spectral Density and Total Harmonic Distortion
+817A8882	Pure frequency modulation or intensity modulation with suppressed frequency chirp using active Bragg reflector integrated laser
+793A7805	Maximum-Likelihood Estimation for Frequency-Modulated Continuous-Wave Laser Ranging using Photon-Counting Detectors
+7E8AC433	FM characteristics and compact modules for coherent semiconductor lasers coupled to an external cavity
+81335332	Narrow linewidth fiber laser for 100-km optical frequency domain reflectometry
+8135BEE4	Time-Frequency Coherent Modulation Filtering of Nonstationary Signals
+81B83C49	Reconfigurable Periodic Bifrequency DPWM With Custom Harmonic Reduction in DC–DC Converters
+7DBD499A	Tracking model of an adaptive lattice filter for a linear chirp FM signal in noise
+832436FE	Noise radar using random phase and frequency modulation
+7CD85656	Design and implementation of frequency-modulated electronic ballast for metal-halide lamps
+80DBCB4B	Multidimensional AM-FM models and methods for biomedical image computing
+80F6BF89	Bayesian analysis of generalized frequency-modulated signals
+7E2D2958	Multiband perceptual modulation analysis, processing and synthesis of audio signals
+81749936	A compensation method for dispersion-induced third-order intermodulation distortion using an etalon
+7F1E434D	Differential Space-Frequency Modulation and Fast 2-D Multiple-Symbol Differential Detection for MIMO-OFDM
+7F2229EC	Simulation of DFB semiconductor lasers incorporating thermal effects
+8198CFB3	A 3 GHz spread-spectrum clock generator with a self-calibration technique
+800BD1EF	Complex bandpass ΔΣAD modulator with noise-coupled image rejection
+80EF3250	Commercially deployed coherent system for video distribution
+80CB81FA	Optical-feedback-induced chaos and its control in multimode semiconductor lasers
+7D85E851	A quadrature baseband approach to direct digital FM synthesis
+7C43AED7	Theory and Design of a Quadrature Analog-to-Information Converter for Energy-Efficient Wideband Spectrum Sensing
+7D518F01	Transcranial Shear-Mode Ultrasound: Assessment of Imaging Performance and Excitation Techniques
+80EACCF7	Voltage harmonics generated by voltage-fed inverters using PWM natural sampling
+7D1F2251	Reduction of cosite interference for digital FM frequency hopping radios
+7E8738C3	Amplitude Weighting of Linear Frequency Modulated Chirp Signals
+7D64C255	Measuring fine structure in speech: application to speaker identification
+80CE0C79	New Parameter Estimation and Detection Algorithm for High Speed Small Target
+76EF455C	A novel OFDMA-PON architecture based on all-optical waveform and flat frequency comb generation for 100 Gb/s optical access
+76D225B4	Association of Physical Fitness With Fibromyalgia Severity in Women: The al-Ándalus Project
+7DD8B4EF	A Bilayer Sensor System for Measuring Air Flow
+80F6FB6E	Robust AM-FM features for speech recognition
+7F0D03C0	An Electromagnetic Interference (EMI) Reduced High-Efficiency Switching Power Amplifier
+8023783C	On pilot symbol assisted detection of MSK and GTFM in fast fading channels
+77BE6B8F	Multigigahertz bandwidth FM response of frequency tunable two-electrode DFB lasers
+7FB2FD6C	Modulation and codification of ultrasonic signals with EMFI transducers
+80AB8598	Error floors of digital FM in simulcast and Rayleigh fading
+7EC68488	Derivation of the frequency mismatch probability in linear FMCW radar based on target distribution
+7ADC859E	An Efficient Algorithm for Spectral Analysis of Heart Rate Variability
+7B6598FE	Intra-body data transmission for the personal area network
+80A76E41	Optimal noise shaping in Δ∑ Modulators via generalized KYP lemma
+80B74958	Very-low-frequency modulation of QRS slopes in patients with angina pectoris
+7FB3CD09	An analog compensation method for asymmetric IMD characteristics of a power amplifier
+7661E73D	A novel digital FM receiver for mobile and personal communications
+7DACB06B	Interference Cancellation in Broadband Wireless Systems Utilizing Phase-Aligned Injection-Locked Oscillators
+81002674	Interference with a frequency-modulated semiconductor laser
+7F25C396	A 30–60GHz CMOS sub-harmonic IQ de/modulator for high data-rate communication system applications
+7E6B19EA	Anti-jamming performance simulation and analysis of Tactical Data Link Communication System
+7F9638CB	A W-band single-chip transceiver for FMCW radar
+5FCAB8B4	Adaptive array beamforming for frequency hoppping modulation
+7CE9C153	HF antennas for NVIS applications mounted to helicopters with tandem main rotor blades
+7FD4B8E9	Wavelength-controlled photonic true time delay for wide-band applications
+7CEEC3D2	Type-2 fuzzy functional inference method
+7F88C1DD	Time-frequency analysis compensating missing data for Atrial Fibrillation ECG assessment
+7916DA1D	A WCDMA/WLAN Digital Polar Transmitter With Low-Noise ADPLL, Wideband PM/AM Modulator, and Linearized PA
+7E5523A0	Fingerprint classification using an AM-FM model
+80AB3EFE	Quantitative Performance Analysis of Scalogram as Instantaneous Frequency Estimator
+7C46EA3D	Optical frequency modulation and intensity modulation suppression in a master-slave semiconductor laser system with direct modulation of the master laser
+81495C30	Performance implications of the thermal-induced frequency drift in fast wavelength switched systems with heterodyne detection
+809A0870	Characterization of Zak Space Support of a Discrete Chirp
+778C1DF5	AM-FM energy detection and separation in noise using multiband energy operators
+7CFD9AAC	Analysis of the Internal Stability of Two Different Control Implementations of the Phase-Shifted Full-Bridge Resonant Converter
+7E480C80	A digital SECAM decoder for fixed rate sampled video
+7E95B857	Optimal PWM design for high power three-level inverter through comparative studies
+79AD20CA	Explicit form of f.m. distortion products with white-noise modulation
+7F1FF1F0	Experimental investigation of current modulation in a planar Cs-Ba tacitron
+80D2A242	Modeling of the static and dynamic responses of an integrated laser Mac-Zehnder modulator and comparison with an integrated laser EA modulator
+7D2763EB	A New Approach of Extended Chirp Scaling Algorithm for High Squint Missile-Borne SAR Data Processing
+7DE856CD	Time of flight and FMCW catheter localization
+7E47FE95	Non-Destructive Evaluation of Elastic Targets Using Acousto-Electromagnetic Wave Interaction and Time Reversal Focusing
+7A6CC636	Some experiments on the use of frequency modulation in electrical measurements
+75879387	The Effects of 12 Weeks of Resistance Exercise Training on Disease Severity and Autonomic Modulation at Rest and After Acute Leg Resistance Exercise in Women with Fibromyalgia
+7D96EF85	A pipelined 3-level bandpass delta-sigma modulator for class-S power amplifiers
+80813E95	80-GHz pulse generation from a repetition-rate-doubled FM mode-locking fiber laser
+7C084EC0	Design Considerations in the Development of High Quality Stereo Multiplex Receivers with Integral Multiplex Circuits and a ``Multiplexer'' for Use with Monaural FM Receivers
+812F02CE	Speech formant frequency and pitch estimation using instantaneous complex frequency
+791FFEE7	Paretic Upper Extremity Movement Gains Are Retained 3 Months After Training With an Electrical Stimulation Neuroprosthesis
+7E5EB731	Dynamic Range of Frequency Modulated Direct-Detection Analog Fiber Optic Links
+7EEE4719	A chaotic PWM motor drive for electric propulsion
+758605DD	Bandwidth of FM video signals
+7C77A82D	Fatty acid profile and nutritive value of quinoa ( Chenopodium quinoa Willd.) seeds and plants at different growth stages
+80D424DA	A Resonant Micromachined Electrostatic Charge Sensor
+7AF52D4D	Modification of a commercial atomic force microscopy for low-noise, high-resolution frequency-modulation imaging in liquid environment
+7D84D73B	A Single-Stage Solid-State Transformer for PWM AC Drive With Source-Based Commutation of Leakage Energy
+7F225823	Compressive sensing based separation of LFM signals
+8079EBD8	Effects of Pulse Shaping and Soft Decisions on the Performance of Digital FM with Discriminator Detection
+77232BCC	Complementary frequency shifter based on polarization modulator used for generation of a high-quality frequency-locked multicarrier
+7D337E73	Small-Signal Analysis of Cold Cathode Fluorescent Lamp Ballasts
+7FBF9F49	Properties of an optically pumped cesium-beam frequency standard with Φ=π between the two oscillatory fields
+7CEA1985	Amplitude-locked loop separation and encryption system analysis combined cognitive radio
+5B0AA697	3 Gbps, 5000 ppm spread spectrum SerDes PHY with frequency tracking phase interpolator for serial ATA
+80B914F7	An Undersampling Digital Microphone Utilising Second Order Noise Shaping
+7F0E87A2	Double Rayleigh scattering noise in Raman amplifiers using pump time-division-multiplexing schemes
+8161D3D2	Nyquist folding analog-to-information receiver: Autonomous information recovery using quadrature mirror filtering
+7878967F	Pulse stabilisation in harmonically FM modelocked erbium fibre ring laser with DFBLD
+80B7662C	Local positioning with passive UHF RFID transponders
+7DF9BC24	Laser range imaging using the self-mixing effect in a laser diode
+755C5D9B	Nuclear size of c-Fos expression at the auditory brainstem is related to the time-varying nature of the acoustic stimuli
+79853326	Giant linewidth enhancement factor and purely frequency modulated emission from quantum dot laser
+7F152A18	A delta-sigma PLL for 14-b, 50 kSample/s frequency-to-digital conversion of a 10 MHz FM signal
+815418AB	Conceptual Flow-Based Modeling of Agents
+75868128	An SD Card Flash-Memory-Based Implementation of a Multioptimal Three-Phase PWM Generator
+7E68BD42	Differential space-frequency modulation via smooth logical channel for broadband wireless communications
+7E39E01D	Annular slot windshield antenna
+61B30658	Induction machine bearing faults detection based on Hilbert-Huang transform
+59A3ADE6	Bend Resistant Large Mode Area Fiber With Multi-Trench in the Core
+7D310C5A	Distance measurement by an ultrasonic system based on a digital polarity correlator
+7847CB1B	Performance evaluation of FM-DCSK modulation in multipath environments
+814903EB	Method to reduce the optical kerr-effect induced bias in an optical passive ring-resonator gyro
+7EF800B3	The shape of low excursions of the envelope of a signal plus noise
+76312D87	Low-complexity fractional-spaced equalization approach in the frequency domain for CPM
+7D1D13C2	Generation and transmission of millimeter-wave data-modulated optical signals using an optical injection phase-lock loop
+7DEEF4CC	Improved transmission of chirped signals from semiconductor optical devices by pulse reshaping using a fiber Bragg grating filter
+7A3570B9	Energy-restricted diet benefits body composition but degrades bone integrity in middle-aged obese female rats
+7553CC0C	Bidirectional Cooperative Relay Strategies for Transmitted Reference Pulse Cluster UWB Systems
+7E76F3A2	Multi-objective differential evolution based on the summation of normalized objectives and improved selection method
+6A56C5E4	Frequency of Dietary Recalls, Nutritional Assessment, and Body Composition Assessment in Men With Chronic Spinal Cord Injury
+804B6B62	A characteristic analysis of the laser range finder with various modulation frequencies
+76CCB3A6	Digital generation of high time-bandwidth product linear FM waveforms for radar altimeters
+7D3F96F2	A Mixed-Signal Synchronous/Asynchronous Control for High-Frequency DC-DC Boost Converters
+6695C60E	An improved energy demodulation algorithm using splines
+80C0C541	Theoretical modeling of FM mode locking in Er,Ti:LiNbO/sub 3/ waveguide lasers
+7F9367C6	Auto-term representation by the reduced interference distributions: a procedure for kernel design
+7DCE4A51	Maximizing the Transmission Performance of Adaptively Modulated Optical OFDM Signals in Multimode-Fiber Links by Optimizing Analog-to-Digital Converters
+814320D2	Multi-scale AM-FM for lesion phenotyping on age-related macular degeneration
+7BC59A71	Modulation domain blind speech separation in noisy environments
+7F3A330B	Modulated electro-mechanical continuous-time lowpass sigma-delta-modulator for micromachined gyroscopes
+7F8AF822	Microembolic signal characterization using adaptive chirplet expansion
+812063DE	An analytic technique to separate cochannel FM signals
+5B6C245A	Methods of wideband chirp signal generation using FPGA
+808626F1	Single-mode amplification in Yb-doped rod-type photonic crystal fibers for high brilliance lasers
+7E7784B7	Green noise digital halftoning
+7EFFDD9F	Multiple-target frequency-modulated continuous-wave ranging by evaluation of the impulse response phase
+7E5722E1	Instantaneous bandwidth for signals and spectrogram
+758F9518	Multielement synthetic transmit aperture imaging using temporal encoding
+7D6C58D4	Antinoise and ECCM performances of Multi-Segment chaos-based FM radar signals
+8038C4D0	Fractional-Rate FM-to-Digital Δ-Σ Converters
+7E4DEAE7	Systematic HDL Design of a S-? Fractional-N Phase-Locked Loop for Wireless Applications
+79B32703	Characterizing social networks based on interior processes of nodes
+78AE3474	Single-End-Access Correlation-Domain Distributed Fiber-Optic Sensor Based on Stimulated Brillouin Scattering
+820E8133	An Analog-Mode Impulse Radio System for Ultra-Low Power Short-Range Audio Streaming
+813A9531	Efficient wideband signal parameter estimation using a radon-ambiguity transform slice
+80DE4A72	Passive FM locking and pulse generation from 980-nm strained-quantum-well Fabry-Perot lasers
+8160A962	Modulator frequency detuning effects in the FM mode-locked laser
+80B11AE4	Amplitude Noise Limiting Amplifier for Phase Encoded Signals Using Injection Locking in Semiconductor Lasers
+8140B302	The Origins of Spread-Spectrum Communications
+7F77F0DD	A Frequency Modulation Based System Using Bilayer Thin-Film Displacement Sensors
+7E4B9BA5	False-Alarm Reduction for Low-Frequency Active Sonar With BPSK Pulses: Experimental Results
+753DB911	Performance of Digital FM Systems in a Fading Environment
+803534D7	Performance limitations and error calculations for parameter estimation
+7EC6EAD6	Actively mode-locked strained-InGaAsP multiquantum-well lasers integrated with electroabsorption modulators and distributed Bragg reflectors
+7F19ABC0	A zero crossing avoidance predistortion technique for polar transmitters
+5EF88CEC	Am-fm modulation features for music instrument signal analysis and recognition
+60816984	Viterbi Detection for Compressively Sampled FHSS-GFSK Signals
+773F1E71	Direct frequency modulation of a semiconductor laser by acoustic waves
+79C77A3E	Fundamental and harmonic distortion of waves, frequency-modulated with a single tone
+83B00920	Linear-Mode Gain-Modulated Avalanche Photodiode Image Sensor for Time-of-Flight Optical Ranging
+7D6A2894	Generic error probabilities
+8156D116	A GMSK modulator using a ΔΣ frequency discriminator-based synthesizer
+812ED71A	Threshold Analysis of Phase-Locked-Loop Demodulators Using Most Likely Noise
+7E00167B	Random modulation: A review
+7774605D	New ideas in FM radar
+7FAE29E6	1.5-/spl mu/m strained-layer MQW-DFB lasers with high relaxation-oscillation frequency and low-chirp characteristics
+8314B6B7	A Construction of Permutation Codes From Rational Function Fields and Improvement to the Gilbert–Varshamov Bound
+7F1F0B8D	Bandwidth measurements of ultrahigh-frequency optical detectors using the interferometric FM sideband technique
+807C3446	Use of modulated excitation signals in medical ultrasound. Part II: design and performance for medical imaging applications
+80B271FB	Threshold characteristics of FM signals demodulated by an FM discriminator
+804DAC26	Real-time optical image processing by synthesis of the coherence function using real-time holography
+7DE78B29	FM-FDM optical CATV transmission experiment and system design for MUSE HDTV signals
+80A159A6	Linear Receivers for Correlatively Coded MSK
+7F31E952	Music and vocal separation using multiband modulation based features
+7F2852D0	Real-Time Video Multicast in WiMAX Networks
+791E7228	On separating amplitude from frequency modulations using energy operators
+7E2838E2	Response of an FM discriminator in the presence of noise and a cochannel interference
+810688CF	AM-FM separation using auditory-motivated filters
+7D9271AE	Multiuser OFDM with adaptive subcarrier, bit, and power allocation
+7BD88E4E	Characterisation of frequency response of 1.5 μm InGaAsP DFB laser diode and InGaAs PIN photodiode by heterodyne measurement technique
+7EDA81CE	30-gb/s signal transmission over 40-km directly modulated DFB-laser-based single-mode-fiber links without optical amplification and dispersion compensation
+773E1A4E	Responses to exponential frequency modulations in the rat inferior colliculus
+80B6B113	Quantification of chaotic spectrum and EMI suppression in converters
+7F29984E	The effect of trajectory on the auditory motion aftereffect
+7B094F24	Novel insights of dietary polyphenols and obesity
+7DE95943	Spin-polarized electron transport processes at the ferromagnet/semiconductor interface
+7FFFB427	Parallel transmission of vehicle mirror control signals by a single optical fiber
+8137455F	Tuning radio resource in an overlay cognitive radio network for TCP: Greed isn't good
+7E237C84	A digital FM signal processing system for VCRs
+7CA1CDC8	Theoretical and experimental analysis of influence of phase-to-intensity noise conversion in interferometric systems
+755B1D00	Use of the Wigner-Ville distribution to compensate for ionospheric layer movement in high-frequency sky-wave radar systems
+78EE8CDE	Time-Varying and Multiresolution Envelope Analysis and Discriminative Feature Analysis for Bearing Fault Diagnosis
+7F347605	High-Linearity Uni-Traveling-Carrier Photodiodes
+79FF4BB9	Instantaneous frequency and bandwidth estimation using filterbank arrays
+809F140D	Error probabilities in binary angle modulation
+7D04DA83	A hybrid localization method in wireless sensor networks
+7DC84EA8	Dimming Electronic Ballasts Without Striations
+7D0FC5BB	A Novel Sine Wave Inverter with PWM DC Link
+7C50C352	GMPLS Control Plane With Distributed Multipath RMSA for Elastic Optical Networks
+7EDCD4B3	A 3-GHz Serial ATA Spread-Spectrum Clock Generator Employing a Chaotic PAM Modulation
+8003C7DE	Optimal modulation technique for multilevel cascaded converters
+770DC35E	Receiver structure and estimation of the modulation index for tamed frequency modulated (TFM) signals
+5C28F625	Oscillator phase noise: A 50-year retrospective
+80E1D5A3	A New Doppler Parameters Estimation Algorithm for SAR Processing
+7EAAAC91	A Non-Intrusive Quality and Intelligibility Measure of Reverberant and Dereverberated Speech
+81369B7E	Efficient compensation for frequency-dependent errors in analog reconstruction filters used in IQ modulators
+7DA72EAF	Multiplexing of fiber Bragg grating sensors using a FMCW technique
+7D697007	FPGA realization of space-vector PWM control IC for three-phase PWM inverters
+812ACB4B	Degradation behavior of narrow-spectral-linewidth DFB lasers for super-wide-band FM conversion
+7AB6ADFB	Multiuser demodulation and iterative decoding for frequency-hopped networks
+81203571	Improved High Range Resolution Profiling using synthetic spectrum processing and stepped-frequency LFM waveforms
+77E880D3	Correcting for spatial-resolution degradation mechanisms in OFDR via inline auxiliary points
+76F3F2AC	Validity of first-order f.m. distortion theory as applied to trunk radio systems
+80D3FE6E	Fiber Optic Intermodulation Distortion
+7F7ABEA1	Noise considerations for wideband true time delay photonic beamformers
+8111BB4C	Fractional convolution and correlation via operator methods and an application to detection of linear FM signals
+7F4B9569	Phase-modulated resonances modeled as self-similar processes with application to turbulent sounds
+7BBD3F8A	A dynamic analysis of the LO noise transfer mechanism in a Rb-cell frequency standard
+7ABCCE72	Improved multi-channel multi-carrier generation using gain-independent multi-channel frequency shifting recirculating loop
+813AEC92	Finding speech formants and modulations via energy separation: with application to a vocoder
+8108C769	Characteristics of demodulated narrowband SSB-FM signals
+7DBC49ED	Wavelength conversion for frequency-modulated light using optical modulation to oscillation frequency of a DFB laser diode
+7A16F7F1	On the Wigner distribution of discrete-time noisy signals with application to the study of quantization effects
+7CF803AC	Electrically forced thickness-shear vibration of a crystal plate under time-dependent biasing deformations
+803D3B20	Noise analysis for position-sensitive detectors
+7D92A523	All-optical clock recovery for both RZ and NRZ data
+7E8F3107	Spectral Analysis of Randomized Switching Frequency Modulation Scheme with a Triangular Distribution for DC-DC Converters
+7DC034B1	A new frequency synthesis method based on "flying-adder" architecture
+8176881E	Complementary envelope estimation for frequency-modulated random signals
+811F8931	A Super Wideband Optical FM Modulation Scheme for Video Transmission Systems
+80F6F4E1	Spatial representation of frequency-modulated tones in gerbil auditory cortex revealed by epidural electrocorticography
+7EC93AB4	Modeling of time varying AR process using nonlinear energy operator
+7D53F054	Minimization of baseband electrical memory effects in GaN HEMTs using active IF load-pull
+7BE1B087	Optically induced modulation in FM sideband injection-locked laser diodes
+7E233756	Microwave receivers with direct digitization
+7F870908	Coherent optical fiber transmission
+8096731D	Orthogonally multiplexed orthogonal amplitude modulation family
+7A193B52	Eliminating ghost images in high-range resolution profiles for stepped-frequency train of linear frequency modulation pulses
+7D2F46A5	Influence of intensity modulation produced by LD direct modulation on transmission characteristics of CPFSK differential detection system
+79B9CE1C	Modeling of the response of midbrain auditory neurons in the rat to their vocalization sounds based on FM sensitivities
+7DF73F98	Linear FM Signal Detection Performance from Discrete-Time Observations
+7FB4219E	A multi-probe setup for the measurement of angular vibrations in a rotating shaft
+810A45B3	Direct measurement of the frequency-modulation characteristics of a coupled-cavity laser
+80816E58	A Correlation-Based Background Error Estimation Technique for Bandpass Delta–Sigma ADC DACs
+7FAEC5CC	Waveform-Agile Sensing for Tracking Multiple Targets in Clutter
+7FB8364D	FM interference mitigation in a finitely correlated environment using a decorrelating time-varying autoregressive model
+7D9F5CCB	Precise all-digital frequency detector for high frequency signals
+7FE4D0DA	Signal representation based on instantaneous amplitude models with application to speech synthesis
+7CE9366E	Passive fibre-loop architecture providing both switched and broadcast transport
+7E39126F	A 1.5GHz-modulation-range 10ms-modulation-period 180kHz rms -frequency-error 26MHz-reference mixed-mode FMCW synthesizer for mm-wave radar application
+7DE42226	Improving Auditory Steady-State Response Detection Using Independent Component Analysis on Multichannel EEG Data
+58F55A22	Low-complexity velocity estimation in high-speed optical Doppler tomography systems
+804ECD25	Technical advances in digital audio radio broadcasting
+7D712204	New AM-FM analysis methods for retinal image characterization
+8178B389	Analysis of multicomponent LFM signals by a combined Wigner-Hough transform
+80435B54	FM noise reduction and subkilohertz linewidth of an AlGaAs laser by negative electrical feedback
+81171B7F	Monolithically integrated quantum-confined stark effect tuned laser with uniform frequency modulation response
+80B9704F	On the Analytic Wavelet Transform
+7F3824B2	Investigation of challenges towards achieving sub-millimeter accuracy for UWB localization
+80D494B1	Frequency-output fiber-optic voltage sensor for high-voltage lines
+741F6671	Analysis of the Modal Content Into Large-Mode-Area Photonic Crystal Fibers Under Heat Load
+7F763233	Correlative Phase Shift Keying--A Class of Constant Envelope Modulation Techniques
+7CF5FDBE	Suppression of influence of homowavelength crosstalk in an optical add/drop multiplexing system by modulating LD light frequency
+7F4FBB6B	A Numerical Method for Evaluating the Distortion of Angle-Modulated Signals in a Time Domain
+772E9389	Frequency noise in frequency modulation atomic force microscopy
+79CFC086	Analytical Design, Analysis, and Optimization of Raman Fiber Amplifiers With TDM Pumps
+80D4AAD2	An oversampling delta-sigma frequency discriminator
+7E6562AE	Segmented motion compensation for complementary coded ultrasonic imaging
+821F5B21	Delta-Modulated AC–AC Converter for PM WECS
+807A2C03	Increased frame rate for linear array imaging using novel frequency modulation scheme
+75D0DBC3	Generation and transmission of FM and /spl pi//4 DQPSK signals at microwave frequencies using harmonic generation and optoelectronic mixing in Mach-Zehnder modulators
+7F87B7D8	Range-dependent path-loss model in residential areas for the VHF and UHF bands
+77A074BC	Chirp Manipulation of Harmonically Mode-Locked Weak-Resonant-Cavity Colorless Laser Diode With External Fiber Ring
+80CFB9C0	An SIMO FM-DCSK UWB scheme for low-rate WPAN applications
+80BE7AA5	Design and Analysis of a Chaotic PWM Inverter for Electric Vehicles
+79A9A65D	Power spectrum of directly modulated single-mode semiconductor lasers: Chirp-induced fine structure
+804BFFB4	Local Polynomial Fourier Transform Receiver for Nonstationary Interference Excision in DSSS Communications
+7F6CC01B	A 900 MHz 2.2 mW spread spectrum clock generator based on direct frequency synthesis and harmonic injection locking
+5B3CB39B	Simultaneous Occupational Exposure to FM and UHF Transmitters
+80AF80BA	Bit error rate performance and power spectral density of a noncoherent hybrid frequency-phase modulation system
+8153B13A	Operator based multicomponent AM-FM signal separation approach
+80A4106F	Defect and variation tolerance logic mapping for crossbar nanoarchitectures as a multi-objective problem
+80E5E6E3	High power laser diode driver based on power converter technology
+7E257E1B	Experimental verification of enhanced electromagnetic compatibility in chaotic FM clock signals
+7BF9B385	IF estimation of FM signals based on time-frequency image
+77EDDE00	Acoustooptical approaches to radar signal processing
+841FA398	Vital-Sign Extraction Using Bootstrap-Based Generalized Warblet Transform in Heart and Respiration Monitoring Radar System
+7E5BFEFE	Diagnosis of Induction Motor Faults in Time-Varying Conditions Using the Polynomial-Phase Transform of the Current
+7E0D4A85	Effect of the Atom Transit Time on the Frequency Stability of Cesium Beam Frequency Standards
+7C142F25	A high-precision spread spectrum clock generator based on a fractional-N phase locked loop
+804A0F53	A band monitor for a cubesat-type satellite
+7FA2858C	Power Line Communication in Digitally Controlled DC–DC Converters Using Switching Frequency Modulation
+7A341660	Design of X-band complementary metal-oxide semiconductor-based frequency-modulation continuous-wave sensor
+7EAE3F16	A time-frequency application with the Stokes-Woodward technique
+7DC67C57	FM noise and spectral linewidth reduction by incoherent optical negative feedback
+7FE4B7E8	A Fourier Series Approach to Analyze Pump Modulation Induced Noise in Raman Amplifiers With TDM Pumps
+7F2C9097	Extracting essential modulated image structure
+76A07738	New monopulse tracking radar
+804C647A	A low-power fully integrated RF locked loop for Miniature Atomic Clock
+75D7A657	Optically tunable long wavelength infrared quantum cascade laser operated at room temperature
+7AC954C7	76–81-GHz CMOS Transmitter With a Phase-Locked-Loop-Based Multichirp Modulator for Automotive Radar
+7FB278C7	Frequency-Independent Phase Noise in a Dual-Wavelength Brillouin Fiber Laser
+7F6D18CC	A Practical Step Forward Toward Software-Defined Radio Transmitters
+813C1C9E	On the use of high order ambiguity function for multicomponent polynomial phase signals
+7F18ACFD	Continuous Phase-Modulated Halftones
+81738CFD	A subspace-based rejection method for detecting bearing fault in asynchronous motor
+812E2474	A 27-mW CMOS fractional-N synthesizer using digital compensation for 2.5-Mb/s GFSK modulation
+5B88865A	Five-level H-bridge flying capacitor converter voltage balance dynamics analysis
+7A93D1AE	Effect of Fading on FM Reception with Cochannel Interference
+7DC7CBE2	Delta-sigma modulators using frequency-modulated intermediate values
+5E57F85D	A fuzzy fusion approach for improved urban area detection in multi-resolution SAR data
+78337BD4	Complex signal processing is not complex
+7EC4E2D8	Loopback DFT for Low-Cost Test of Single-VCO-Based Wireless Transceivers
+81776EAF	High-rate amplitude and frequency modulation of semiconductor lasers
+7E36D21A	Power-pattern synthesis in time modulated semicircular arrays
+7E7F614B	Robust DFT based on adaptive censored estimate for FM signal processing in non-Gaussian noise environment
+7A245EB6	A 0.65V 1.2mW 2.4GHz/400MHz dual-mode phase modulator for mobile healthcare applications
+7CF84C19	Communication Systems and Techniques
+80F4C77D	The phase of a vector perturbed by Gaussian noise and differentially coherent receivers
+7EBE29F4	Performance degradation of analog FM system due to spread spectrum overlay
+7F1617CC	AM-FM separation using shunting neural networks
+7F3DC913	Fepstrum representation of speech signal
+7D1B3340	Particle filter algorithm for tracking manoeuvring target using FM signal
+76ECA666	Common-Mode Injection PWM for Parallel Converters
+7ACFF8D8	Demodulation of Amplitude Modulated Noise: A Mathematical Evaluation of a Demodulator for Pathological Tremor EMG's
+76FABF0F	IoT enabled communication device with mixer less low complex QPSK based transmitter architecture for low frequency applications
+7FB445B3	Programmable Multi-Granular Optical Router: Modular Architecture and Testing
+79C6B397	Distributed Temperature Sensing System Based on Rayleigh Scattering BOTDA
+7B5F4FDF	60-channel FM video subcarrier multiplexed optical communication system
+80877BE4	Digital audio broadcasting in the FM band by means of contiguous band insertion and precanceling techniques
+80C85AA4	Applications of signal analysis using autoregressive models for amplitude modulation
+7DE24B2B	Improved performance of coded digital FM
+7726936D	Speech nonlinearities, modulations, and energy operators
+80890062	Optimal and suboptimal micro-Doppler estimation schemes using carrier diverse Doppler radars
+7F0F3D06	Optical-fiber data-word transmission system for use with microcomputer controller
+7DD34C5B	Pulse width modulation of multilevel delta-sigma output for class S power amplifier
+7DF88B32	Lasing characteristics for four-section MQW-DBR laser
+80184E12	Chirped Microwave Pulse Compression Using a Photonic Microwave Filter With a Nonlinear Phase Response
+75155BE9	Reply to “Comments on `Quantization Noise as Superposition of Frequency Modulated Sinusoids' ”
+8165CB32	Shaping the spectra of the line-to-line voltage using signal injection in the common mode voltage
+7FD0B035	Penalty free biphase linecoding for pattern independent FSK coherent transmission systems
+7D29BCDA	Resolution measure criteria for the objective assessment of the performance of quadratic time-frequency distributions
+75CF5868	Microwave frequency modulation in CW EPR at W -band using a loop-gap resonator
+80656869	A low complexity Ultra-Wideband, Orthogonal Frequency Division Multiplexing communication system
+7FE2EFEC	An FM subcarrier data broadcast on bus transportation status indication system
+77550119	Hyperbolic frequency modulation for multiple users in underwater acoustic communications
+80B3246C	Amplitude noise and linewidth reduction of an Ar/sup +/ laser
+7718EC1B	Effect of Mechanical Processing and Fat Removal on the Nutritive Value of Cottonseed for Lactating Dairy Cows1
+7EEA6C6E	Wideband frequency excursions in computed AM-FM image models
+685B7758	450-nm GaN laser diode enables high-speed visible light communication with 9-Gbps QAM-OFDM
+7FCE5E42	Effects of addition of food by-products on the fermentation quality of a total mixed ration with whole crop rice and its digestibility, preference, and rumen fermentation in sheep
+60F08E05	Equalization in aeronautical telemetry using multiple transmit antennas
+7EF121A0	An Extremely Large Mode Area Microstructured Core Leakage Channel Fiber With Low Bending Loss
+760C6B8D	Response of an All Digital Phase-Locked Loop
+7AA3ECBD	Lineshape Analysis of the Beat Signal Between Optical Carrier and Delayed Sidebands
+76D9A662	Separation of semiconductor laser intrinsic linewidth and 1/f noise using multiple fiber lengths with the delayed self-heterodyne method
+793C4DF0	Simple model for frequency modulation characteristics of semiconductor lasers
+7D70C3F3	Temporal coherence properties of picosecond pulses generated by GaAlAs semiconductor lasers for directly modulated and frequency stabilized optical communication systems
+81020342	Optimal design of Δ∑ modulators via generalized KYP lemma
+772991CF	A simple frequency up-conversion scheme for a 60 GHz RoF system with remodulation
+77CE9949	A 5.2–11.8MHz octa-phase relaxation oscillator for 8-PSK FM-UWB transceiver systems
+80C6645C	Analysis and measurement of FM click rate in fast Rician fading channel
+8011F7A2	Small-target detection in sea clutter based on the Radon Transform
+7E6D4068	Adaptive spectrogram for time-frequency signal analysis
+7ED031E2	An All-optical Metro-Access Interface for a PON System Based on NRZ to FSK Format Conversion
+7E3A5596	Analyzing Image Structure by Multidimensional Frequency Modulation
+7EFC539B	Instantaneous Microwave Frequency Measurement Based on Phase-Modulated Links With Interferometric Detection
+799281E8	Linear FM signal parameter estimation from discrete-time observations
+7F4931BD	A fiber optic/millimeter-wave radio transmission link using HBT as direct photodetector and an optoelectronic upconverter
+8139CBF3	Space-Frequency Decision Feedback Equalizer
+7E5CEBC5	Refinements to the theory of error rates for narrow-band digital FM
+781E2B5F	An AM-FM model for Motion Estimation in Atherosclerotic Plaque Videos
+7F0BBA06	Performance of one-hop/symbol FHMA for cellular mobile communications
+729A6F44	Switching frequency modulation for GaN-based power converters
+7B6ED028	Pulsed terahertz time-domain communication
+7D838FB0	Sensitivity penalty for AMI coded CPFSK in heterodyne delay demodulation receiver
+7BCB7CF4	Extended-range FMCW reflectometry using an optical loop with a frequency shifter
+7814F380	A low-cost, portable alternative for a digital Lock-In Amplifier using TMS320C5535 DSP
+799931C1	Dominant spatio-temporal modulations and energy tracking in videos: Application to interest point detection for action recognition
+7EB1164B	Adaptive instantaneous frequency estimation of multicomponent FM signals using quadratic time-frequency distributions
+7A26D6AF	Spectrum Sensing and AM-FM Decomposition through Synchrosqueezing
+7E58B1A6	Mode-partition noise in microwave subcarrier transmission systems
+7E9D7D6B	Multi-component target detecting of SAR based on improved WVD-HT for frequency-modulation jamming
+5E24820E	Range autofocusing for FMCW radars using time warping and a spectral concentration measure
+809A169F	Quasi-analytical spectrum of PWM signals with dead-time for multiple sinusoidal input
+7D0EB207	Impact of Periodic Switching Frequency Modulation control to reduce conducted EMI in Power Factor Converters
+7D43E135	Resolution of sidebands in a semiconductor laser frequency modulated by ultrasonic waves
+7CEF7457	Joint frequency spectral lag representation for cross-frequency modulation analysis in the brain
+5A801F59	Narrowband interference suppression in Long Term Evolution systems
+80BF4A83	Application of the Kenschaft model to the analysis of the rubidium gas cell frequency standard
+7FCA65F5	Effects of increasing switching frequency in frequency modulated power converters
+7F483E21	Unified SPICE compatible model for large and small-signal envelope simulation of linear circuits excited by modulated signals
+7F6DAD69	Non-stationary signal classification using joint frequency analysis
+7F7D3EC9	Multiwavelength Operation of Erbium-Doped Fiber Lasers by Periodic Filtering and Phase Modulation
+7EFCC486	Multidimensional quasi-eigenfunction approximations and multicomponent AM-FM models
+8143F89A	Nonlinear distortion study of FM transmission systems composed by a VCO-PLL association
+80C7AD2F	A method for detecting of the target echo in reverberation noise
+7D50D8CA	EMI reduction in switched power converters using frequency Modulation techniques
+75B87F82	Detection of transient signals using the energy operator
+7F17912F	Random modulation techniques with fixed switching frequency for three-phase power converters
+80F03C50	Parameter Estimation for Locally Linear FM Signals Using a Time-Frequency Hough Transform
+80875BCC	Multi-component AM-FM image models and wavelet-based demodulation with component tracking
+7D78546C	Time frequency signal analysis and processing toolbox update 6.2: An enhanced research platform with new advanced high-resolution TFDs
+632AA24E	Simulating Future GPS Clock Scenarios with Two Composite Clock Algorithms
+7BC428C6	Differential detection of correlative encoded continuous phase modulation schemes using decision feedback
+7D52A741	Study of Side Lobes Suppression for Using Pulse Compression in Weather Radar
+7E0071F2	Analog direct-modulation behavior of semiconductor laser transmitters using optical FM demodulation
+7EB75BBF	Further Notes and Anecdotes on Spread-Spectrum Origins
+771C94E2	Low-biased microwave-photonic link using optical frequency or phase modulation and fiber-Bragg-grating discriminator
+7C5C17A2	A Real-Time Zero-Crossing Demodulation Concept
+7FF88184	Custom spectral shaping for EMI reduction in electronic ballasts
+80D93C96	A Short Range, Low Data Rate, 7.2 GHz-7.7 GHz FM-UWB Receiver Front-End
+7F39AE41	Analytical Study of RIN Transfer in Pulse-Pumped Raman Amplifiers
+76B6EB09	Passive FM locking in InGaAsP semiconductor lasers
+7D78AE60	Dynamic flicker frequency modulation and noise instability of oscillators
+802E19C7	Sidelobe reduction with nonlinear frequency modulated waveforms
+781F2411	Phase noise limited resolution of coherent LIDAR using widely tunable laser diodes
+8141DD1E	Relativistic theory of frequency blue-shift of an intense ionizing laser beam in a plasma
+7D23BF70	Driving Requirements for Wavelength Shifting in Colorless ONU With Dual-Arm Modulator
+7E555196	A formula for an FM signal under Rayleigh fading
+80897052	Removing autocorrelation sidelobes by overlaying orthogonal coding on any train of identical pulses
+7445CB23	Small-signal equivalent circuit model of series resonant converter
+752A030C	A simple photonic generation of linearly chirped microwave pulse with large time-bandwidth product and high compression ratio
+7D3BF260	A Two-Level FH-CDMA Scheme for Wireless Communication Systems over Fading Channels
+80BF9078	Parameter estimation of short-time multi-component signals using damped-amplitude & polynomial-frequency model
+7978159C	Nonequivalent spectra of unpaired electrons in field and frequency modulation
+7E132526	Use of modulated excitation signals in medical ultrasound. Part III: high frame rate imaging
+7E6726FA	Performance of BICM-OFDM systems in UWB interference
+7BD4BD3A	Spurious-Free Time-to-Digital Conversion in an ADPLL Using Short Dithering Sequences
+80331D2A	A discrete-time method of demodulating large deviation FM signals
+7A79BF90	Superconductivity transition dependence of the thermal crosstalk in YBa/sub 2/Cu/sub 3/O/sub 7-x/ edge-transition bolometer arrays
+7E1DD868	A hybrid coherent-incoherent method of modulation filtering for Single Channel Speech Separation
+7531E58D	A Spur Suppression Technique Using an Edge-Interpolator for a Charge-Pump PLL
+7DC4F770	Normalizing the Speech Modulation Spectrum for Robust Speech Recognition
+8085439D	Blind equalization of constant modulus signals using an adaptive observer approach
+74AB8EEA	Carrier multi-modulation used for the common-mode voltage suppression in a three-phase inverter
+78DE10E9	Multielectrode DBR laser diode for wide bandwidth and flat FM response
+7E852ECE	A multitime-frequency approach for detection and classification of noisy frequency modulations
+8165E628	Joint blind estimation of carrier phase and frequency offset for QAM signals using circular harmonic decomposition
+80CE5D1B	Iterative Multiuser Detection for Single-Carrier Transmission With SFBC
+7B04B774	Dynamic range of coherent analog fiber-optic links
+7F7954CB	Analyzing Current Ripple in Variable-Frequency Boost Converter
+7E0A3D09	SPECSweb multistatic tracking on a truth-blind simulated scenario of the MSTWG
+7F341928	Amplitude modulated signal generation using a third-order delta-sigma oscillator
+7E0BAE6D	Enhanced direct modulation efficiency by FM to IM conversion
+809864F8	New optical microwave up-conversion solution in radio-over-fiber networks for 60-GHz wireless applications
+813BE3D7	Broadband amplitude and phase sonar calibration using LFM pulses for high-resolution study of hard and soft acoustic targets
+7F254C75	Microwave photonic photorefractive smart filters
+7DC4E7F6	A combined Wigner-Ville and Hough transform for cross-terms suppression and optimal detection and parameter estimation
+80E398B7	Investigations on delta modulated inverter
+7A68663D	Instantaneous frequency estimation using linear prediction with comparisons to the DESAs
+80FDFDF6	Application of a PLL and ALL noise reduction process in optical sensing systems
+816D5A21	A spread-spectrum clock generator with dual-voltage controlled oscillator
+8450775C	A Modified Bend-Resistant Multitrench Fiber With Two Gaps
+7EDBB52C	Decision feedback postprocessor for zero-crossing digital FM demodulator
+78C0B07E	Fiber Dispersion and Nonlinearity Influences on Transmissions of AM and FM Data Modulation Signals in Radio-Over-Fiber System
+7D64C4C7	Microwave circuit design for chirp or intensity fluctuation suppression in multielectrode DFB lasers
+7812F81D	Perfect Reconstruction AM-FM Image Models
+5C945EE9	Scalable and progressive audio codec
+7620E0D9	Current/frequency-modulation characteristics for directly optical frequency-modulated injection lasers at 830 nm and 1.3 Â¿m
+7D2C61ED	Simulation of a laser modulator driven by NRZ pulses
+7E321FCE	On optimal detection of non-coherent trellis coded continuous phase modulation signals: discriminator detection
+7FE9E5AA	Tuning methods for uncooled low-cost tunable lasers in WDM-PON
+7FA24C25	Performance analysis of narrowband digital PM demodulator with zero-crossing postprocessors
+58601F57	Analytic Study of the Modulation Response of Reflective Semiconductor Optical Amplifiers
+80BC3AD8	Optical information processing by synthesis of the coherence function
+81E5CDC8	A time-interleaved multi-mode ΔΣ RF-DAC for direct digital-to-RF synthesis
+7FF0422C	Double Symbol Error Rates for Differential Detection of Narrow-Band FM
+7F4026A4	Spread spectrum clock Generator with delay cell array to reduce electromagnetic interference
+7E623329	Performance of a frequency-hopped differentially modulated spread-spectrum receiver in a Rayleigh fading channel
+7EB79F54	On the analytic signal, the Teager-Kaiser energy algorithm, and other methods for defining amplitude and frequency
+80E19417	Integrated Cubic Phase Function for Linear FM Signal Analysis
+751836E8	Reflectometric singlemode elliptical-core fibre strain sensor with remote interrogation
+760215B8	Uterine, Ovarian, and Production Responses of Lactating Dairy Cows to Increasing Dietary Concentrations of Menhaden Fish Meal
+7B81ACCA	Dietary essential amino acids are highly anabolic in pediatric patients with cystic fibrosis
+81159D39	Reduction of EMI by combining interleaving and modulation techniques in multiconverter topology
+5B09D95B	Stochastic analysis of random frequency modulated waveforms for noise radar systems
+7FC0574E	Subspace array processing for the suppression of FM jamming in GPS receivers
+77D637D7	Resting energy expenditure is not increased in prepubertal children with Alagille syndrome
+7D2CA957	Transfer-matrix theory of the modulation and noise of multielement semiconductor lasers
+80F3B8A2	Adaptive Instantaneous Frequency Estimation Based on EMD and TKEO
+7F4E25A0	Advanced analysis of FM-reception systems with antenna diversity
+7E3E4616	Algorithm for decomposing an analytic signal into AM and positive FM components
+80E2BA30	An all-digital built-in self-test technique for transfer function characterization of RF PLLs
+7DC55D18	The Hybrid Transmission Scheme of a 900 MHz Digital Land Mobile Radio System
+7E25C18F	On the implementation of optimal receivers for LFM signals using fractional Fourier transform
+7DDAF383	Performance of single-electrode 1.5- mu m DFB lasers in noncoherent FSK transmission
+807B7C51	Research and simulation of frequency jitter technique in restraining conducted EMI
+7F01EF1D	Computation-Based Phase Measurement of RF Power-Amplifier Intermodulation Products
+81E044AB	OFDM-MIMO radar time-domain synthetic bandwidth method
+76736D0F	Optimization of mediastinal staging in potential candidates for stereotactic radiosurgery of the chest
+80A5E9A6	Performance of an SIMO FM-DCSK Communication System
+7EFCB5CC	Frequency Modulation of a Nano-Oxide Layer-Based Spin-Torque Oscillator With FeCo Nanocontacts
+7F2922D2	Si-RFIC technologies for multi-band multi-mode wireless terminals
+80C6C66F	Design of ADPLL for both large lock-in range and good tracking performance
+735D723A	Direct modeling of envelope dynamics in resonant inverters
+7DC27EDB	AM-FM analysis over spatially bounded domains for applications in medical imaging
+81281674	Pulse density modulated soft-switching single-phase cycloconverter
+80FD3120	Instantaneous frequency rate estimation for high-order polynomial-phase signal
+8177785D	Synthetic aperture FM-CW radar applied to the detection of objects buried in snowpack
+5FA41D1A	Wideband Modulation and Tuning of Semiconductor Lasers Using Novel Quantum Well Structures
+81503867	All-Fiber Chirped Microwave Pulses Generation Based on Spectral Shaping and Wavelength-to-Time Conversion
+7EEEC719	Enhancing time-stamp counter phase modulation measurements
+7ECA9911	Natural synthesis of North Indian musical instruments
+79184A17	Evaluation of Ruminally Protected Methionine and Lysine or Blood Meal and Fish Meal as Protein Sources for Lactating Holsteins1,2
+7DF6FEB6	Comments on "Digital Transmission Capabilities of a Transportable Troposcatter System."
+7A415910	An Improved AM–FM-Based Approach for Reconstructing Fingerprints from Minutiae
+58FA73D9	Filter Design Masks for C37.118.1a-Compliant Frequency-Tracking and Fixed-Filter M-Class Phasor Measurement Units
+7FD6718F	A 5-MHz IF digital FM demodulator
+7FBB2B5E	A Spline-Based Framework for Perfect Reconstruction AM-FM Models
+7AF337A1	Nonlinear frequency modulation by noise
+7FCE9FAF	A Comparison of Frequency-Domain Block MIMO Transmission Systems
+7EE36117	Symbol timing tracking for continuous phase modulation over fast flat-fading channels
+7F64F383	A Novel Approach Using Time–Frequency Analysis of Pulse-Oximeter Data to Detect Progressive Hypovolemia in Spontaneously Breathing Healthy Subjects
+7FBF1E0B	Low thermal resistance high-speed top-emitting 980-nm VCSELs
+7A3F3927	Microwave signal generation with injection-locked laser diodes
+7497B7C7	QPSK Vector Signal Generation Based on Photonic Heterodyne Beating and Optical Carrier Suppression
+7C8FBD5D	Feeding Fish Meal and Extruded Soybeans Enhances the Conjugated Linoleic Acid (CLA) Content of Milk1
+8074C8C3	Classification of surface electromyographic signals using AM-FM features
+7E35271A	TRIAC dimming electronic ballast for compact fluorescent lamps
+80CC5795	A Short-Range Low Data-Rate Regenerative FM-UWB Receiver
+7F88D100	Simulation of frequency modulated continuous wave ground penetrating radar using Advanced Design System (ADS)
+7F22C482	Static and dynamic characteristics of DFB lasers with longitudinal nonuniformity
+7EFC98DF	New algorithms for fast and accurate AM-FM demodulation of digital images
+79367149	High FM bandwidth of DBR laser including butt-jointed electro-optical wavelength tuning sections
+8062AFB1	The Digital Phase-Locked Loop as a Near-Optimum FM Demodulator
+746C91BE	Doppler Shift and Height Detection of Obstacle Based on FMCW Radar Sensor
+7CF5C2F4	Optimum Subcarrier Grouping and Rotation Matrix for Coded OFDM with Modulation Diversity
+7DD5F930	Quasi-Distributed Absorption Sensing System Based on a Coherent Multiplexing Technique
+80006C31	Postcorrection of Pipelined Analog–Digital Converters Based on Input-Dependent Integral Nonlinearity Modeling
+7D09D4BE	Electromagnetic interference of switching mode power regulator with chaotic frequency modulation
+77CA39E4	Chaotic signals for wideband radar imaging
+7B6DA2E0	System Frequency as Information Carrier in AC Power Systems
+5910A634	Sweep time variation algorithm for high accuracy FMCW radar measurements
+8011D909	High endurance, micro aerial surveillance and reconnaisance robot
+804F1CEB	Submicrosecond Scan-Angle Switching Photonic Beamformer With Flat RF Response in the C and X Bands
+8163E1A6	Characteristics of two-electrode DFB lasers
+7E22BBC3	High-performance RF signals transmission in SCM/WDMA radio-on-fiber bus link using optical FM method in presence of optical beat interference
+805E181F	Mobile digital communications using phase conjugating arrays
+7FF37879	Phase algorithm for blocking artifact reduction in reconstructions from analysis-only AM-FM models
+800936B0	Equivalent Complex Baseband Representations of Linear Time-Variant Systems and Signals
+7F0D82C8	Periodic signal extraction with frequency-selective amplitude modulation and global time-warping for music signal decomposition
+7ECC7FC1	Design and analysis on reduced switching frequency current mode control isolated power converters for light load efficiency
+8109C7F0	New hybrid control methods based on multi-carrier PWM techniques and charge balance control methods for cascaded multilevel converters
+80CAEAEB	Theory of FM clicks with Brownian motion phase noise
+80F7E328	Envelopes and pre-envelopes of real waveforms
+7C83B562	Digestibility, methane production and nitrogen balance in sheep fed ensiled or fresh mixtures of sorghum–soybean forage
+8016438E	Coded Phase/Frequency Modulation
+7DD74354	Characterization of signals by the ridges of their wavelet transforms
+751DD9D0	Analysis of the stability and optimizing operation of the single-side-band modulator based on re-circulating frequency shifter used for the T-bit/s optical communication transmission
+8059D28C	A limit to the frequency stability of passive frequency standards due to an intermodulation effect
+7E1A7213	The Effect of Switching Frequency Modulation on the Differential-Mode Conducted Interference of the Boost Power-Factor Correction Converter
+8008848B	Design of a uniform amplitude time modulated linear array with optimized time sequences
+768663BD	Dynamics of cortical theta activity correlates with stages of auditory avoidance strategy formation in a shuttle-box
+77FCF33F	FASE: finding amplitude-modulated side-channel emanations
+7DB4AB2F	On the realization of the polynomial Wigner-Ville distribution for multicomponent signals
+7CED593F	Recovery of Absolute Gas Absorption Line Shapes Using Tunable Diode Laser Spectroscopy With Wavelength Modulation—Part 2: Experimental Investigation
+78895ABF	Modulation induced transient chirping in single frequency lasers
+7D9AF705	Nonlinear distortion model for VCO-PLL FM transmission systems
+78176CD0	Minimum variance time-frequency distribution kernels for signals in additive noise
+80B899C9	Extraction of Breathing Signal and Suppression of Its Effects in Oscillometric Blood Pressure Measurement
+5FC041F1	Micro-Doppler Features Analysis and Extraction of Vibrating Target in FMCW SAR Based on Slow Time Envelope Signatures
+7D774BA9	A Pseudorandom Carrier Modulation Scheme
+795A2979	High-Speed Frequency Modulated DBR Lasers for Long-Reach Transmission
+79EC27DE	Multi time scale differential equations for simulating frequency modulated signals
+7FE66D23	Asymptotic spectral behavior of spectrally precoded OFDM signal with arbitrary input statistics
+7E86C64B	On Antijamming in General CDMA Systems-Part II: Antijamming Performance of Coded Multicarrier Frequency-Hopping Spread Spectrum Systems
+82537C78	Parametric excitations and lock-in of flexible hydrofoils in two-phase flows
+80AD02B7	FPGA Implementation of a Digital FM Modem
+806EF020	Millimeter-wave fiber optics systems for personal radio communication
+7EDAA728	Diagnosis of Three-Phase Electrical Machines Using Multidimensional Demodulation Techniques
+7E762830	Multi reader/multi-tag SAW RFID systems combining tagging, sensing, and ranging for industrial applications
+7EBE7D41	All-digital transmitter based on ADPLL and phase synchronized delta sigma modulator
+7D4DD19B	Maximizing precision over extended unambiguous range for TOF range imaging systems
+63145806	Photonic Microwave Generation With Frequency Octupling Based on a DP-QPSK Modulator
+782E6197	Output bandwidth enhancement of a pulsed ultrasound system using a flat envelope and compensated frequency-modulated input signal: Theory and experimental applications
+7DBB445A	A 140-GHz double-sideband transceiver with amplitude and frequency modulation operating over a few meters
+798EA346	Electrical and optical gain lever effects in InGaAs double quantum-well diode lasers
+8165B83E	Yb-doped rod-type photonic crystal fibers for single-mode amplification
+7FD01837	Dual-polarization frequency-modulated laser source
+76DC3E05	Demodulation analysis for exact rotor faults detection under changing parameters
+7F9E4F32	The interaction of heart rate and blood pressure variations for av dissociation illustrated by a closed-loop heart rate control model
+801DD49F	Multichannel single-sideband SCM/DWDM transmission systems
+7B506135	Multi-scale AM–FM analysis for the classification of surface electromyographic signals
+77560308	Role of Intervention Strategies for At-risk Preterm Infants
+80A5C9D9	Stop classification using DESA-1 high resolution formant tracking
+76FB6D3F	Steady-state auditory evoked responses to pulsed frequency modulations in children
+8172BA6F	Effects of switching frequency modulation on EMI performance of a converter using spread spectrum approach
+7CFAF41A	Distribution of the phase angle between two vectors perturbed by Gaussian noise II
+804601CA	Analytical and Micromagnetic Study of Nonlinear Amplitude Modulation in Spintronic Modulators
+7F4037D9	A digital controlled electronic ballast using high frequency modulation method for the metal halide lamp
+7E31CC69	A novel frequency-domain small-signal analysis of resonant power converters
+7899FC3A	Statistical backscatter suppression technique for a wideband hybrid lidar-radar ranging system
+803933EB	A Framework for Access Control and Management in Dynamic Cooperative and Federated Environments
+7D2B9F04	Dynamic resource allocation with beamforming for MIMO OFDM systems: performance and effects of imperfect CSI
+7F8D51F9	Analysis of frequency modulated signals in multiplicative noise
+7E0FC5AA	A Randomized Wrapped-Around Pulse Position Modulation Scheme for DC–DC Converters
+76EC0419	Growth, nutritional status, body composition, and energy expenditure in prepubertal children with Alagille syndrome
+808736E0	Temperature and pressure monitoring of a whipped cream device
+7F2EC101	The hardware platform design for DRFM system
+8165F9C8	Rigorous assessment of small-signal analysis for linear and dispersive optical communication systems operating near zero-dispersion wavelength
+76B75D73	Synthesis of arbitrary shapes of optical coherence function using phase modulation
+7EBFDF26	Beneficial Effects of Electrostimulation Contingencies on Sustained Attention and Electrocortical Activity
+76DA8FCF	Signal processing efficiency of Doppler global velocimetry with laser frequency modulation
+7720E844	Inverse relationship between "a body shape index" (ABSI) and fat-free mass in women and men: Insights into mechanisms of sarcopenic obesity.
+7E7A8B7D	High-frequency modulation of 1.52 μm vapour-phase-transported InGaAsP lasers
+75A4C010	Coherent Integration for Maneuvering Target Detection Based on Radon-Lv’s Distribution
+793E1EDE	Multiple trellis coded frequency and phase modulation
+7628C1DE	Blood Amino Acids and Milk Composition from Cows Fed Soybean Meal, Fish Meal, or Both
+753BC82C	Temporal AM–FM combination for robust speech recognition
+7F16FC4D	A non-uniform sampling tangent type FM demodulation
+7F864DEF	A method of reducing disturbances in radio signaling by a system of frequency modulation
+7F745807	Radar Signature of a Helicopter Illuminated by a Long LFM Signal
+73F3612F	Instantaneous non-linear operators for tracking multicomponent signal parameters
+7CF38497	Application of different imaging modalities for diagnosis of Diabetic Macular Edema: A review
+7EF1F36A	Data-Aided Timing Synchronization for FM-DCSK UWB Communication Systems
+7DB6BC86	Use of modulation spectra for representation and classification of acoustic transients from sniper fire
+8079CF54	Warped linear prediction (WLP) in speech and audio processing
+80EFA4C6	Analysis of FM and AM responses of a tunable three-electrode DBR laser diode
+7E8AD114	Analysis of FM signals affected by Gaussian AM using the reduced Wigner-Ville trispectrum
+7DB8CCC8	Theory of Noise and Transfer Properties of IMPATT Diode Amplifiers
+7F31C463	Experimental band monitor for PSAT satellite
+80C32757	Statistical analysis of a time-varying amplitude polynomial phase signal
+7DD55DBE	Design and Operation of 64-Fold Variable Single-Flux-Quantum Pulse-Number Multiplier
+8029D3AB	A Technique to Reduce Phase/Frequency Modulation Bandwidth in a Polar RF Transmitter
+7DD34D0B	Discriminator Response to an FM Signal in a Fading Channel
+7E014982	MIMO Power Control for High-Density Servers in an Enclosure
+76DA4BB1	Direct DPSK modulation of chirp-managed laser as cost-effective downstream transmitter for symmetrical 10-Gbit/s WDM PONs
+7EF67535	85 Rb D1-line CPT atomic clock with low power consumption
+77C3987D	Extension of wavelength-modulation spectroscopy to large modulation depth for diode laser absorption measurements in high-pressure gases
+8071F0FD	Frequency-hopped spread-spectrum transmission with band-efficient modulations and simplified noncoherent sequence estimation
+7C0775A7	Bidirectional 60 GHz RoF system with two millimeter-wave signals generated by a novel generation scheme
+60981E97	Effect of ensiling pumpkin (Cucurbita maxima D.) with dried sugar beet pulp on the content of bioactive compounds in silage and its antioxidant potential
+7E47138C	Fiber-optic microcellular communication system using frequency modulated LD and optical discriminator and its nonlinear distortion suppression
+7CC83DA2	A procedure to determine the optimum imaging parameters for atomic/molecular resolution frequency modulation atomic force microscopy
+80F1BA12	Direct-conversion transmitter with resistance to local oscillator pulling in non-constant envelope modulation systems
+7E6DFF74	High frequency carrier digital PWM for Non-Sinusoidal modulating waveforms
+6CFA52B8	Green tea supplementation benefits body composition and improves bone properties in obese female rats fed with high-fat diet and caloric restricted diet
+793FE7E2	Influence of the device parameters in ICRBD on SSB-OOFDM signal with reduced guard band
+7EE68AF5	A high-performance RF-lightwave transmitter for analog fiber links
+7EB2F500	Indoor positioning utilizing fractional-N PLL synthesizer and multi-channel base stations
+7DDF3C8E	Linear FM Signal Formats for Beacon and Communication Systems
+8027A40C	Digestion of Feed Amino Acids in the Rumen and Intestine of Steers Measured Using a Mobile Nylon Bag Technique
+5863EC57	Detection, enumeration, and estimation of multiple co-channel signals
+81B50977	A 10 GHz delay line frequency discriminator and PD/CP based CMOS phase noise measurement circuit with −138.6 dBc/Hz sensitivity at 1 MHz offset
+79A00D5F	The Fundamental Principles of Frequency Modulation
+80203769	List Viterbi algorithms for continuous transmission
+7E4029FA	Generation of 50 Stable Frequency-Locked Optical Carriers for Tb/s Multicarrier Optical Transmission Using a Recirculating Frequency Shifter
+7D3CD232	Adaptive Rayleigh fading compensation for coherent GMSK signals in digital mobile communications
+734D37E0	On the use of time-modulated arrays for smart wireless power transmission
+77008E7C	Subharmonic Microwave Modulation Stabilization of Tunable Photonic Microwave Generated by Period-One Nonlinear Dynamics of an Optically Injected Semiconductor Laser
+7EC46A3A	A 1.27 GHz, All-Digital Spread Spectrum Clock Generator/Synthesizer in 65 nm CMOS
+7E97F033	Software efficient implementation of GMSK modem for an automatic identification system transceiver
+7C3A80EF	All-digital PLL and transmitter for mobile phones
+7F374D53	Retrieval and classification of pneumoconiosis chest radiograph images using multiscale AM-FM methods
+626BDCDD	Multi-Standard Hybrid PLL With Low Phase-Noise Characteristics for GSM/EDGE and LTE Applications
+7CD1C572	Stable Optical Frequency-Locked Multicarriers Generation by Double Recirculating Frequency Shifter Loops for Tb/s Communication
+7B6EFD1D	Variable switching frequency PWM technique for induction motor drive to spread acoustic noise spectrum with reduced current ripple
+7FFF48E5	Weighted sum-rate maximization for downlink OFDMA systems
+7D5315A3	PLL FM demodulator performance under Gaussian modulation
+7712387F	AM-FM texture segmentation in electron microscopic muscle imaging
+7B22640E	Use of body mass index percentile to identify fat-free mass depletion in children with cystic fibrosis
+7E8DF7E1	Error Performance Analysis for Narrow-Band Duobinary FM with Discriminator Detection
+7D10E28C	Automatic speech recognition based on cepstral coefficients and a mel-based discrete energy operator
+7DB78262	Multiscale AM-FM Demodulation and Image Reconstruction Methods With Improved Accuracy
+807A9376	Transponder with undersampling method
+7720628D	Body composition by dual-energy X-ray spectrometry and bioelectrical impedance spectroscopy in a healthy population at age 75 and 80
+76AA689E	Integrated optical SSB modulator/frequency shifter
+5CCD62A8	Cognitive radios for aeronautical telemetry
+827D025C	Investigation into distortion control in OFDM radar by spectral avoidance
+7B8D55FA	Time–frequency distribution of neuronal activity in the gerbil inferior colliculus responding to auditory stimuli
+7B400B11	Correction to "Closed-Loop Regulation of a Physiological Parameter by an IPFM/SDC (Integral Pulse Frequency Modulated/Smith Delay Compensator) Controller"
+80C121CA	Estimating the Amplitude Reduction of Clock Harmonics Due to Frequency Modulation
+7C59E44E	Low noise optical multi-carrier generation using optical-FIR filter for ASE noise suppression in re-circulating frequency shifter loop
+7E64DE58	Transmit-Signal Design and Processing Strategies for Sonar Target Phase Measurement
+79D0D4B4	Modeling frequency modulated responses of midbrain auditory neurons based on trigger features and artificial neural networks
+80B01B7A	Tracking of non-stationary signals with periodic instantaneous frequencies using extended Kalman filters
+7E8C1362	Modeling and simulation of FM detection by zero-crossing in the presence of noise and FH interference
+80393109	Performance optimization of a square wave operation in an indirect matrix converter with a reactor free DC boost converter
+7FDD2FF3	Programmable spread spectrum clock generation based on successive phase selection technique
+768A6D6C	Modulation frequency characteristics of directly optical frequency modulated AlGaAs semiconductor laser
+76F55E3A	FM demodulation of a speech signal using an extended Kalman filter with a third-order message model
+73404F75	A quasi zero-current-switching DC/DC Modular-Multilevel Converter (MMC) with LCL circuit for DC grids
+7D0B2174	Wide-locking bandwidth optically injection-locked oscillators: S-parameter design and modulation effects
+776D20B9	Effects of Calcium Salts of Fatty Acids and Protein Source on Ruminal Fermentation and Nutrient Flow to Duodenum of Cows1
+7FA8C8FF	Improvement of Electromagnetic Compatibility of Motor Drives Using Hybrid Chaotic Pulse Width Modulation
+7F1C5D16	Electrical Design of High-Speed Electro-Optically Modulated Coupled-Cavity VCSELs
+7E6AB6F7	Doppler estimation and timing synchronization of underwater acoustic communication based on hyperbolic frequency modulation signal
+80ED7715	Automatic calibration of modulated frequency synthesizers
+803D5520	Sampling and generalized almost periodic extension of functions
+7D3F0056	Hybrid FM-polynomial phase signal modeling: parameter estimation and Cramer-Rao bounds
+7531E361	Spectro-temporal analysis of speech affected by depression and psychomotor retardation
+7E5F357C	A FET transceiver suitable for FMCW radars
+802C9968	Properties for modulation spectral filtering
+800C79FC	Novel optical frequency discriminator with "perfect" linearity
+78BB440D	Frequency-modulation characteristics of semiconductor lasers: deviation from theoretical prediction by rate equation analysis
+7D1F1F2B	Parametric signal analysis using the polynomial phase transform
+7D9A31AB	Multitime frequency classifiers for neighboring modulations in a multiplicative noise environment
+7B5431A6	Extracting and Selecting Distinctive EEG Features for Efficient Epileptic Seizure Prediction
+763125E7	Blind Identification of SM and Alamouti STBC-OFDM Signals
+58D011BC	Far-field power transmission by exploiting time-modulation in linear arrays
+7D1B23CA	Frequency and intensity modulation characteristics of GaAs lasers in an external cavity
+807FDBA9	Efficient, low parasitics 1.3 mu m InGaAsP electroabsorption waveguide modulators on semi-insulating substrate
+76F1ACF9	A 10.7-MHz self-calibrated switched-capacitor-based multibit second-order bandpass /spl Sigma//spl Delta/ modulator with on-chip switched buffer
+7ABC72DE	Fishmeal supplementation to grazing dairy cows in early lactation.
+7E12C80A	In-service dispersion monitoring in 32/spl times/10.7 Gbps WDM transmission system over transatlantic distance using optical frequency-modulation method
+7B21755A	Narrowband Gaussian noise: variance of the number of zero crossings
+77A204BB	The effect of reactive loads on the frequency-modulation characteristics of reflex klystrons
+80522229	Non-linear FM waveform design using Marginal Fisher's Information within the CPM framework
+7FAB93E3	A meothod for multi-target range and velocity detection in automotive FMCW radar
+7E41EE84	Performance analysis of parameter estimation algorithm for LFM signals using quadratic phase function
+80F6637A	All-digital TX frequency synthesizer and discrete-time receiver for Bluetooth radio in 130-nm CMOS
+81279F7A	Unified analysis of postdetection diversity for binary digital FM mobile radio
+7F1824DF	The quasi-stationary response of linear systems to modulated waveforms
+8033D1A9	Generalized Tamed Frequency Modulation and Its Application for Mobile Radio Communications
+7D0DE192	Effect of gain compression on the FM nonlinear distortion in semiconductor lasers
+10F4241D	Fine Frequency-Modulation Trigger Features of Midbrain Auditory Neurons Extracted by the Progressive Thresholding Method - A Preliminary Study
+7F51DBA9	Enhanced Empirical Mode Decomposition using a Novel Sifting-Based Interpolation Points Detection
+7606A7EF	A class of nonlinear FM pulse compression signals
+7D481549	A synthetic aperture sonar system capable of operating at high speed and in turbulent media
+810F536C	Analysis and spectral characteristics of a spread-spectrum technique for conducted EMI suppression
+804A9F15	Instantaneous frequency and conditional moments in the time-frequency plane
+80C24613	Measurement and Modeling of a High-Linearity Modified Uni-Traveling Carrier Photodiode
+752E1767	Accurate simulation of Raman amplified lightwave synthesized frequency sweeper
+81644309	Vector quantization analysis of ΣΔ modulation
+7E939D69	Iodine-stabilized diode laser at 633 nm: effects of optical feedback
+7930B808	SPUMIC: Simultaneous phase unwrapping and multipath interference cancellation in time-of-flight cameras using spectral methods
+7317BC43	Improving the Spatial Resolution of an OFDR Based on Recirculating Frequency Shifter
+80BF4D34	A Michelson interferometer with balanced detection for the characterization of modulation and noise properties of semiconductor lasers
+7D9229FD	Digital FM double errors
+80E89E58	A Power Spectral Density Analysis for Digital FM
+7FD01653	Autoregressive Models of Amplitude Modulations in Audio Compression
+77A14A83	Resonant tunnelling delta sigma modulator suitable for high-speed operation
+7DCC08F0	Photonic Millimeter-wave generation and transmission system applicable to the high-frequency radio interferometers
+823329EC	Performance analysis of Z-source inverter operating under random PWM
+5F5110E7	Time-frequency ESPRIT for direction-of-arrival estimation of chirp signals
+7FF26A0C	A 77 GHz 90 nm CMOS transceiver for FMCW radar applications
+7EE363CB	Performance of differential space-frequency modulation under time-varying frequency-selective fading channels
+7D2847BF	Analysis of discretization errors in if estimation of polynomial phase signals
+78767BC5	Frequency-locked multicarrier generator based on a complementary frequency shifter with double recirculating frequency-shifting loops
+765CF862	DESIGN TRADE-OFFS FOR THE SUBCARRIER TRAFFIC INFORMATION CHANNEL WAVEFORM
+7EAB830C	Small-signal analysis of semiconductor lasers modulated at frequencies on the order of the beat frequency
+813FAD1B	A 1.5 GHz All-Digital Spread-Spectrum Clock Generator
+7D36B8DA	Recognition of plants with CTFM ultrasonic range data using a neural network
+7D25B4D7	A method for generation of optical FM signal through injection locking
+7F54C0DA	AM-FM Demodulation Methods for Reconstruction, Analysis and Motion Estimation in Video signals
+8038BAF1	A 1.48-mW low-phase-noise analog frequency modulator for wireless biotelemetry
+740DBC6F	Recognition of time-varying signals in the time-frequency domain by means of the Wigner distribution
+7F0DDE7E	A two-dimensional finite-element analysis of reverberation chambers
+7D1C4BDD	"Rational harmonic mode-locking" in a phase-modulated fiber laser
+7D399FAF	Estimating the parameters of general frequency modulated signals
+8019E2A9	Digital RDS demodulation in FM subcarrier systems
+8062162A	Silicon bipolar circuits for wideband FM CATV transmission
+7EA577EE	Matched-filter Theory for Doppler-Invariant Pulse Compression
+75F61A30	Measurement of direct frequency modulation characteristics of DFB-LD by delayed self-homodyne technique
+7D4F2D2E	Wavelength selection for gigabits-per-second data transmission using out-of-band RF modulation
+81FE5AC7	A 77 GHz 90 nm CMOS Transceiver for FMCW Radar Applications
+59DFAA4E	Supply-Modulated Radar Transmitters With Amplitude-Modulated Pulses
+805023A0	Gigahertz-Wide Optically Reconfigurable Filters Using Stimulated Brillouin Scattering
+80212AB8	Self-phase modulation induced transmission penalty reduction in a 5 Gbit/s FM/AM conversion system experiment over 205 km of standard fiber
+8101FAE8	Reconfigurable Processor LSI Based on ALU Array with Limitations of Connections of ALUs for Software Radio
+7F599CDC	An Ultra-Broadband Direct Demodulator for Microwave FM Receivers
+802BD1A9	P2F-6 Designing Non-Linear Frequency Modulated Signals for Medical Ultrasound Imaging
+81164217	Temporal compression of light
+7ECE0455	Large Mode Area Multi-Trench Fiber With Delocalization of Higher Order Modes
+777189BB	Architectural hardware design of modulator and demodulator for galvanic coupling intra-body communication
+80DEA309	Managing Imprecise Worst Case Execution Times on DVFS Platforms
+8062A27A	Post Mixer Spectra of Periodic FM Altimeters with Area Target Returns
+806A3BCD	Distortion and crosstalk of linearly filtered, angle-modulated signals
+7D9EEFDB	A novel approach using modulation features for multiphone-based speech recognition
+7F098E12	Indicator for bearing fault detection in asynchronous motors using stator current spectral analysis
+80847A02	Out-of-Band Power Suppression in OFDM
+7FC41CB0	The Performance Analysis of AFH_OFDM System Based on Simulink
+7D354E45	Novel Scheme for Joint Estimation of SNR, Doppler, and Carrier Frequency Offset in Double-Selective Wireless Channels
+802672CD	Multifunctional fiber-optic microwave links based on remote heterodyne detection
+75454181	Theoretical and experimental study on generation of stable and high-quality multi-carrier source based on re-circulating frequency shifter used for Tb/s optical transmission
+7988897E	Novel FMCW radar system concept with adaptive compensation of phase errors
+80426F7B	The Integral Pulse Frequency Modulation Model With Time-Varying Threshold: Application to Heart Rate Variability Analysis During Exercise Stress Testing
+7E3DFCEE	On the instantaneous frequencies of multicomponent AM-FM signals
+81340E40	Noisy speech recognition using temporal AM-FM combination
+7F9A7A1A	Space Vector based Spread Spectrum Modulation scheme for three-level inverters
+80790422	Spectral distortion properties of the integral pulse frequency modulation model
+773632A4	Digital Signal Processing in Video Tape Recorders
+7EBB3C57	Synthesizer concepts for FMCW based locatable wireless sensor nodes
+7E8F1FD8	Optimal phase parameter estimation of random amplitude linear FM signals using cyclic moments
+7541DD80	10 GHz, 2ps regeneratively and harmonically FM mode-locked erbium fibre ring laser
+7A6E535A	Effects of Feeding Fish Meal to Cows on Digestibility, Milk Production, and Milk Composition1
+79C58BD2	On Optimum Sampled-Data FM Demodulation
+7B25D644	On the amplitude and phase computation of the AM-FM image model
+7F5AD715	High Dynamic Range Microwave Photonic Links for RF Signal Transport and RF-IF Conversion
+7F6747BF	Semiconductor Optical Amplifier-Enabled Intensity Modulation of Adaptively Modulated Optical OFDM Signals in SMF-Based IMDD Systems
+8140BA91	Coupled-cavity effects in FM semiconductor lasers
+7F2266F9	Frequency offset compensation of pilot symbol assisted modulation in frequency flat fading
+80A964F8	Approximate FM Demodulation Using Zero Crossings
+805408EF	Theorems for discrete filtered modulated signals
+7C76F153	Sensitivity of human auditory cortex to rapid frequency modulation revealed by multivariate representational similarity analysis
+791148B4	Multi-Hypothesis Tracking and fusion techniques for multistatic active sonar systems
+7D247746	Squint LFMCW SAR Data Processing Using Doppler-Centroid-Dependent Frequency Scaling Algorithm
+789F0F7F	Measurement of the fundamental modulation response of a semiconductor laser to millimeter wave frequencies by active-layer photomixing
+79D3B07B	Distortion of the frequency modulation spectra of semiconductor lasers by weak optical feedback
+7E8DBBC6	A digital FM demodulator for FM, TV, and wireless
+80B490EB	Impact of a Frequency Modulated Pulsewidth Modulation (PWM) Switching Converter on the Input Power System Quality
+7F83169A	Noise robust AM_FM demodulation using least- squares truncated power series approximation
+7D840A70	Application of Hilbert-Huang transform to MMW Doppler radar
+7D57BB06	A Simple Method of Jitter Evaluation for Designing Phase-Locked Loops for Optical Communication Systems
+7F1CF41A	Error Rates for Digital Signals Demodulated by an FM Discriminator
+7D255B12	Recovery of Absolute Gas Absorption Line Shapes Using Tunable Diode Laser Spectroscopy With Wavelength Modulation—Part I: Theoretical Analysis
+80EA30D9	Simultaneous broadcasting of analog FM and digital audio signals by means of adaptive precanceling techniques
+7F051B22	Modulation Transfer Noise Effects from TDMA Carriers to FDM/FM Carriers in Memoryless Nonlinear Devices
+7DBB38D3	Multicarrier Light Source With Flattened Spectrum Using Phase Modulators and Dispersion Medium
+81942201	An all-digital ΔΣ envelope modulator for EER-based transmitters based on CMOS standard cell design
+7F93EE0E	Space–Time Coding MIMO-OFDM SAR for High-Resolution Imaging
+7D0055FE	Tamed Frequency Modulation, A Novel Method to Achieve Spectrum Economy in Digital Transmission
+7E5DCF20	Recursive simulation models of the semiconductor laser modulation characteristics for accurate performance evaluation of coherent optical CPFSK systems
+80EE0904	Performance of quadratic time-frequency distributions as instantaneous frequency estimators
+7D387BCC	Maximum a posteriori probability line tracking for nonstationary processes
+7FED3C00	The noise elimination system using the amplitude-locked loop with cochannel FM interference
+7D6B4C94	FPGA Implementation of a Switching Frequency Modulation Circuit for EMI Reduction in Resonant Inverters for Induction Heating Appliances
+80F83C55	HB-based CAD-oriented dynamic stability analysis of circuits and devices: Application to the assessment of thermal instabilities in multifinger HBTs
+7A1DC277	Detection of Acute Hypotensive Episodes via Empirical Mode Decomposition and Genetic Programming
+7D8AB05F	Motion reproduction system of manipulating and grasping motion for grasping objects of unknown size
+7DD853D5	High-Speed Microscale Optical Tracking Using Digital Frequency-Domain Multiplexing
+7E8F3524	Noise reduction in fractional-N frequency synthesizers with multiphase VCO
+8012230F	Chirp signal matching and signal power optimization in pulse-echo mode ultrasonic nondestructive testing
+7F90E2F1	Demodulation of discrete multicomponent AM-FM signals using periodic algebraic separation and energy demodulation
+7E692AF9	Analysis, computation, and mitigation of the interference to a remote receiver from two collocated vehicular transceivers
+8005DF6E	Performance analysis of a direct detection receiver for AMI-coded CPFSK signals
+7A0AC3FF	R.F. spectra of waves frequency modulated with white noise
+7DF8C5B2	Dispersion-Tuned Harmonically Mode-Locked Fiber-Optical Parametric Oscillator
+7C53526C	Time-frequency signature reconstruction from random observations using multiple measurement vectors
+5C059478	Delayed-RF based test development for FM transceivers using signature analysis
+7D8382F6	BER Based Performance Evaluation by Pulse Shaping in OFDM
+7EE0A30B	Comparative Performance Studies of Interfered Low Data Rate Ultra Wideband Systems in Multipath Channel
+7F95D579	Interference potential of PC noises on MB-OFDM UWB systems
+817782B3	FM-based indoor localization
+7D8C8BB0	Bias current dependence of FM efficiency in tunable three-electrode DFB lasers
+77CDC2CE	Hilbert-Huang transform based classification of sleep and wake EEG signals using fuzzy c-means algorithm
+80C9F33A	A 7.2 – 7.7 GHz FM-UWB transceiver prototype
+7D116991	Analytical comparison between time- and frequency-domain techniques for phase-noise analysis
+7E7AA954	One-cycle Control of induction machine traction drive for high speed railway part II: Square wave modulation region
+7B232DAE	Theoretical study of the Dick effect in a continuously operated Ramsey resonator
+7FB279E7	A new method for phase synchronization and automatic gain control of linearly modulated signals on frequency-flat fading channels
+75FA730E	Frequency modulation of a Gunn-effect oscillator by magnetic tuning
+7D4E96CF	Nonlinear dynamics of microwave synthesizers-stability and noise
+80433969	A new measurement method for group delay of frequency-translating devices based on software defined radio technology
+75C24D30	Dispersion Effects in a Circular Phased Array
+7C2D45CB	Pulse compression by means of linear-period modulation
+80F59FCD	Effects of levetiracetam on spike and wave discharges in WAG/Rij rats
+812EC6FA	Microwave frequency modulation in continuous-wave far-infrared ESR utilizing a quasi-optical reflection bridge
+7F46EB4D	Intermodulation distortions of broad-band modulated laser diodes
+7F296017	Measuring amplitude and frequency modulations in noise using multiband energy operators
+732317C4	Design of an FMCW Radar Altimeter for Wide-Range and Low Measurement Error
+80309001	A channel estimation technique for OFDM systems in dispersive time-varying channels
+7DC9982B	Transmission and multiplexing of uncompressed video and ancillary signals over a new multimedia frame
+786B632E	Two-dimensional ISAR model and image reconstruction with stepped frequency-modulated signal
+80EE6081	Performance and modeling of resonantly enhanced LiNbO/sub 3/ modulators for low-loss analog fiber-optic links
+8124A5C2	The Range-Doppler Chaotic Behavior of the Chaos-Based FM signal
+7F1BCB50	The Wigner-Ville trispectrum: definition and application
+5ED026F7	Novel method to reduce the estimation variance of DCSK
+7FF9AD67	Harmonic minimization in delta modulated inverters using tuned filters
+7DACE9FA	Performance analysis of an autocorrelation based frequency tracker for LFM and QFM signals
+787D91CD	Optical phase modulation in an injection locked AlGaAs semiconductor laser
+78060576	Relative Value of Fish Meal Versus Solvent Soybean Meal for Lactating Dairy Cows Fed Alfalfa Silage as Sole Forage1
+7DB4D642	On-Line Speech/Music Segmentation for Broadcast News Domain
+78874188	Effect of 1/f-type FM noise on semiconductor-laser linewidth residual in high-power limit
+81508636	AM-FM analysis of a chirp multicomponent signal employing MWL criterion
+7E5A6838	Class-B Microwave-Photonic Link Using Optical Frequency Modulation and Linear Frequency Discriminators
+7D5635CA	Spectral properties of chaos-based FM signals: theory and simulation results
+7FEDC839	Unitary Space-Time Modulation for Single-Carrier Transmission Over Frequency-Selective Channels
+7DBDD491	Soft selection combining for terrestrial digital audio broadcasting in the FM band
+81797D8E	Frequency-Dependent Linewidth Enhancement Factor of Quantum-Dot Lasers
+7DC76A93	Trellis termination of Multi-h CPM and the Diophantine Frobenius Problem
+5CE09182	High-speed optical frequency modulation in a monolithically integrated widely-tunable laser-phase modulator
+7E19B5BE	Solving Demodulation as an Optimization Problem
+814E8BEA	Safe evolution patterns for software product lines
+808CC8B1	Using a van-mounted FM-CW radar to detect corner-reflector road-boundary markers
+812C1FB4	Smoothly wavelength-tunable picosecond pulse generation using a harmonically mode-locked fiber ring laser
+8066FF05	Microwave pulse compression using a helically corrugated waveguide
+8058A2A1	Combined Frequency-Amplitude Nonlinear Modulation: Theory and Applications
+5B0CD7FB	Out-of-resonance measurement scheme for ring resonator gyroscopes
+80AA34CE	Transition to pulsed operation in short external-cavity FM semiconductor lasers
+77A82425	Processing of sinusoidally amplitude modulated signals in the nuclei of the lateral lemniscus of the big brown bat, Eptesicus fuscus
+7FB7A6FD	Propagation-medium matched direct-sequence (PM-MDS) spread-spectrum signals
+7EA4B8AD	Statistical AM-FM models, extended Kalman filter demodulation, Cramer-Rao bounds, and speech analysis
+80696232	Matched frequency-hopping (MFH) signals for slowly fading dispersive channels
+7EE586FC	A 0.13µm CMOS 2.5Gb/s FSK demodulator using injection-locked technique
+7E49E181	Time-Varying Autoregressive (TVAR) Models for Multiple Radar Observations
+7B777A20	Simple model for a distributed feedback laser integrated with a Mach-Zehnder modulator
+81546256	Estimating and interpreting the instantaneous frequency of a signal. II. Algorithms and applications
+7E421AD9	Envelope simulation by SPICE-compatible models of electric circuits driven by modulated signals
+8145A590	Differential detection of quadrature frequency/phase modulated signals
+7F11D392	An Over-1-Gb/s Transceiver Core for Integration Into Large System-on-Chips for Consumer Electronics
+803EF6C7	Origin of clock-frequency components in NRZ-formatted optical signals
+7F9810FC	A sound projector for acoustic tomography and global ocean monitoring
+7E54579B	X-band sea-clutter nonstationarity: influence of long waves
+800FFE9E	Analysis and resynthesis of musical instrument sounds using energy separation
+7FF49DC2	A single-stage symmetrical-output-voltage push-pull boost converter with a notch filter for input-current-shaping
+7F5AD94E	Trellis coding of quadrature frequency/phase modulated signals
+7C6053A7	Design of low-sidelobe pulse compression waveforms
+77FDEDA9	Dynamic properties of push-pull DFB semiconductor lasers
+806890D7	RF Peak Power Calibration of Modulated Signals
+7E6A8585	Bandwidth dependence of CW ranging to UHF RFID tags in severe multipath environments
+758A1C30	Discrete-time demodulation of continuous-time signals
+7E24527F	Filling a curriculum gap: A course in RF to baseband systems engineering for Radio Receiver Design
+7EE9DD25	FM and AM mode locking of the homogeneous laser - Part I: Theory
+7F3C1DAD	A cascaded correction method to reduce the contamination of ionospheric frequency modulation for HF skywave radars
+7B5F170A	Multimode analysis of self locked FM operation in laser diodes
+81617EA1	PAM approach to weak CPM and its application to flight termination receivers
+7D209617	Non-stationary interference mitigation in continuous phase modulated signals using estimation subtraction
+7CEA5E99	A survey of interference problems and applications to geostationary satellite networks
+7639FED2	Modulation of the Chopping Frequency in DC Choppers and PWM Inverters Having Current-Hysteresis Controllers
+7E089A45	Improved instantaneous frequency estimation using an adaptive short-time Fourier transform
+0D753599	A study on the effect of synchronization by an angle modulated signal in a single loop optoelectronic oscillator
+79E5A86F	Fundamental deficits of auditory perception in Wernicke's aphasia
+7CDC4FAB	A Low-Cost Low-Power All-Digital Spread-Spectrum Clock Generator
+7A254166	Multifactorial models to assess responses to sorghum proportion, molasses and bacterial inoculant on in vitro quality of sorghum–soybean silages
+812ACBDB	Design and optimization of strained-layer-multiquantum-well lasers for high-speed analog communications
+807FA8AA	Modulated Oscillations in Three Dimensions
+798D63C1	An Integrated ISFETs Instrumentation System in Standard CMOS Technology
+7D08732E	Analysis and simulation of gain-coupled distributed feedback semiconductor lasers
+7D15F9BA	Convergence analysis of the least squares constant modulus algorithm in interference cancellation applications
+78EE344B	Improved direct-modulation characteristics of a semiconductor laser by FM/IM conversion through an interferometer
+7D6CBE41	Impact of frequency offsets on zero crossing demodulation based receivers
+7FC0C991	High-speed tuning in vertical-cavity surface-emitting lasers
+801BFF91	Analysis of Doppler measurements of ground vehicles
+7DE29E60	Fine structure features for speaker identification
+7D515472	On the predictability of phase noise modeled as flicker FM plus white FM
+7D98AB4E	A non-uniform modulation transform for audio coding with increased time resolution
+80AB87F8	2-D DOA Estimation of Wideband LFM Signal in Fractional Fourier Domain
+7D274A54	Reduction in harmonic distortion through use of aperiodic timing in frequency demodulation
+80442A32	Design and Implementation of a Single-Stage High-Frequency HID Lamp Electronic Ballast
+7E81CDC7	A high accuracy microwave ranging system for industrial applications
+80FF8E79	EMG-Based Characterization of Pathological Tremor Using the Iterated Hilbert Transform
+7FB42927	Hardcopy image barcodes via block-error diffusion
+7EB29A41	Adaptive Maximum Windowed Likelihood Multicomponent AM-FM Signal Decomposition
+7E414E27	Modeling of the glottal flow derivative waveform with application to speaker identification
+830A8914	Interception of the triangular FM waveform via self-convolution
+77BD4EE4	Adaptive Array Behavior with Periodic Envelope Modulated Interference
+80831AAF	Analysis of heart rate variability in the presence of ectopic beats using the heart timing signal
+80A27905	Fiber-optic microcell radio systems with a spectrum delivery scheme
+7F9890B0	Time-Frequency-Modulation Representation of Stochastic Signals
+7DBAD192	Conducted emi mitigation in switched mode dc-dc converters by spread spectrum techniques
+7B239D8B	Performance Analysis of Delta Modulated PWM Inverters
+7EE5B284	Pitch estimation using a modulation model of speech
+7D275165	Spurious free time-to-digital conversion in an ADPLL using short dithering sequences
+803AF238	The frequency modulated auditory evoked response (FMAER), a technical advance for study of childhood language disorders: cortical source localization and selected case studies
+81086F76	Multichannel dual domain infrared target tracking for highly evolutionary target signatures
+7AB8CABD	Positive associations between physical and cognitive performance measures in fibromyalgia.
+7FB8A135	Zero knowledge protocol in a radio over fiber network
+7DF8CB62	A neural architecture for computing acoustic-phonetic invariants
+75EF7F4B	Cat's behavioral sensitivity and cortical spatiotemporal responses to the sweep direction of frequency-modulated tones
+80E5C939	Mathematical modelling of sinusoidal pulse width modulated signal and its implementation on microcontroller based embedded system
+7F25F1ED	Large signal modeling of quasi-resonant buck converter using regulated unified model
+8104502F	A five-bar finger mechanism involving redundant actuators: analysis and its applications
+816CA2B8	Small signal analysis of optical FM signal amplification by an injection-locked type semiconductor laser amplifier
+7FF964F9	Examination of influence of periodic switching frequency modulation in dc/dc converters on power quality on a load
+8071963B	Array processing for nonstationary interference suppression in DS/SS communications using subspace projection techniques
+7D9DDD20	Shaping the Noise Spectrum in Power Electronic Converters
+7853DE57	Wavelength conversion with self wavelength selection using Mach-Zehnder filter and DFB-LD
+7E3CD279	Multiple wavelet analysis of amplitude/frequency modulated images
+791982E1	Spectral Analysis of Analog Video and Phase-Shift-Keying Data Transmitted by FM
+7F8C77FF	An EMI Reduction Technique for Digitally Controlled SMPS
+8016F8B2	Multiscale AM-FM Methods for Diabetic Retinopathy Lesion Detection
+81202C33	All-Digital RF Phase-Locked Loops Exploiting Phase Prediction
+80A907BB	A smart repeater for weapon location radars based on time-frequency analysis
+7D0D3544	An Accurate Algorithm for Fast Frequency Warping
+7D46EF09	Mechanism for Modulation Response Improvement in Mutually Injection-Locked Semiconductor Lasers
+78E6789A	Influence of formic acid and dry matter on protein degradation in the tanniniferous legume sainfoin
+80B472EC	High-Frequency Soft-Switching AC Conversion Circuit With Dual-Mode PWM/PDM Control Strategy for High-Power IH Applications
+7DF281E3	Rapid version of a formant-modulation method of speech intelligibility estimation
+757B03A7	Very Large-Mode-Area, Symmetry-Reduced, Neodymium-Doped Silicate Glass All-Solid Large-Pitch Fiber
+7AAED4CD	Modelocking and multimode instability in laser intracavity frequency modulation
+5A489D1B	Active contour segmentation guided by AM-FM dominant component analysis
+7FEDA2C1	Intensity modulation technique using a directly frequency-modulated semiconductor laser and an interferometer
+75587B02	The relationship of phonological ability, speech perception, and auditory perception in adults with dyslexia
+61BE72AA	Sparse channelizer for FPGA-based simultaneous multichannel DRM30 receiver
+7FEE20FB	Pulse-Width Modulated CMOS Power Amplifiers
+80983C0F	Volterra functional series expansions for noise in semiconductor lasers
+7D3B04EC	Frequency Modulation Noise Characteristics
+7E10860B	On the comparison between OFDM and single carrier modulation with a DFE using a frequency-domain feedforward filter
+80E3E91B	An IF-to-Baseband Modulator for AM/FM/IBOC Radio Receivers With a 118 dB Dynamic Range
+80093CC7	CI/FSK: bandwidth-efficient multicarrier FSK for high performance, high throughput, and enhanced applicability
+810C4B37	A novel voltage controlled crystal oscillator circuit
+7AF18DD4	Spatiotemporal reconstruction of the auditory steady-state response to frequency modulation using magnetoencephalography
+7F606CFF	A Fully Integrated Spread-Spectrum Clock Generator by Using Direct VCO Modulation
+7D04770B	Just-in-time gain estimation of an RF digitally-controlled oscillator for digital direct frequency modulation
+7E5A57BB	An architecture for realization of the cross-terms free polynomial Wigner-Ville distribution
+80EFC398	Dual-loop direct VCO modulation for spread spectrum clock generation
+7FD478BE	First Results in Perceptually-Based AM-FM Image Filtering
+7CB9B11F	Proteolysis During Ensilage of Forages Varying in Soluble Sugar Content
+7E2C12E4	Low-frequency components in the switch currents of Matrix Converter
+76E425A0	Discriminator distortion in frequency-modulation systems
+809ED6D5	Contribution to conducted EMI reduction in multiconverter topology
+7EB5D421	Threshold direct synthesis structure for digital delta-sigma modulators
+7D8520B2	Cramer-Rao bounds in the parametric estimation of fading radiotransmission channels
+7D7EA0FC	Parameter estimation of hybrid hyperbolic FM and polynomial phase signals using the multi-lag high-order ambiguity function
+782366CC	Computationally efficient frame-averaged FM feature extraction for speaker recognition
+8002E66D	A 4.6mW 6.25–8.25 GHz RF transmitter IC for FM-UWB applications
+7779200F	Frequency-Modulated Lorentz Force Magnetometer With Enhanced Sensitivity via Mechanical Amplification
+7AC86115	All-optical regeneration of 40 Gb/s NRZ-DPSK signals in a single SOA
+8076984F	A Spread Spectrum Clock Generator for DisplayPort Main Link
+836A7DF8	Emission reduction in Class D audio amplifiers by optimizing spread spectrum modulation
+782B6550	Continuous-wave far-infrared ESR spectrometer for high-pressure measurements
+80A73A9F	An explorative study into changes in circle drawing after gravity compensation training in chronic stroke patients
+7F24D3BF	A perception-based processing strategy for cochlear implants and speech coding
+7D8D96DC	On polynomial phase signals with time-varying amplitudes
+7580FB9F	On the Rice model of noise in FM receivers
+79C50B79	Multiband analysis for colored amplitude-modulated ship noise
+7F359F25	Instantaneous Visualization of K-Band Electric Near-Fields by a Live Electrooptic Imaging System Based on Double Sideband Suppressed Carrier Modulation
+7C8715BF	Interferometric conversion of laser chirp to IM: effect of the interferometer free spectral range on the output nonlinear distortion
+7CF491D6	The high-speed limit of FM response in semiconductor lasers
+7DC67C21	Ranging of UHF RFID Tag Using Stepped Frequency Read-Out
+7D9F8878	AM and FM Noise of BARITT Oscillators
+78DE9D6E	Multielectrode distributed feedback laser for pure frequency modulation and chirping suppressed amplitude modulation
+809425E3	Radon-fractional ambiguity function-based detection method of low-observable maneuvering target
+802406E3	A fast-locking all-digital phase-locked loop with a novel counter-based mode switching controller
+7D889813	A digital frequency synthesizer for cognitive radio spectrum sensing applications
+802CF959	Introduction of an NTSC compatible HDTV system-HDS/NA
+7DA6D9B3	Post-War Developments in Continuous-Wave and Frequency-Modulated Radar
+8137CEE6	High-speed modulation of vertical-cavity surface-emitting lasers
+7EAF5371	Digital frequency synthesizer/modulator for continuous phase modulations with slow frequency hopping
+5B36A999	Time Resolved Chirp Measurement Based on a Polarization-Maintaining Fiber
+7E6207DB	Stereo disparity from multiscale processing of local image phase
+8053C36F	External-cavity semiconductor laser with 1000 GHz continuous piezoelectric tuning range
+807146A3	Concepts for circular deflection modulated tubes and frequency multiplying millimeter wave sources
+7C089C2B	Comparative Study of Square and Sine-Wave Excitation Methods for the Measurement of Aerosol Particles Charge and Size Distribution Using Phase Doppler Anemometry
+798C9E59	Circuit modeling of the effect of diffusion on damping in a narrow-stripe semiconductor laser
+76D9D174	Measuring instantaneous frequency of local field potential oscillations using the Kalman smoother.
+801D41B5	Digital signal processing for home VCR circuitry
+7C849E88	The Delta Modulation Technique in Static PWM Inverters
+790E7DAB	Statistical Analysis of the Phase-Locking Value
+81415EBB	Effects of Switching Frequency Modulation on the Power Converter's Output Voltage
+7EEF2193	Passive Arm Filters in I and Q Receivers for MSK-Type Continuous Phase Modulations
+802DD019	Analysis and measurement of FM click rate in slow Rician fading
+725CD5B5	Sinusoidal Frequency Modulation Sparse Recovery for Precession Rate Estimation Using Low-Frequency Long-Range Radar
+782CEAB6	Principles and limitations of ultra-wideband FM communications systems
+7F268394	Modeling and processing speech with sums of AM-FM formant models
+811A640A	A measurement method of the DTMB modulator
+75EF06C3	Generation of coherent and frequency-lock multi-carriers using cascaded phase modulators and recirculating frequency shifter for Tb/s optical communication
+83B2C9D8	Excitation Waveform Design for Lamb Wave Pulse Compression
+80D03A71	Ground based high data rate DVB-S2 demodulator for high data rate AISR transport
+7F6AD6C9	Higher order FM mode locking for pulse-repetition-rate enhancement in actively mode-locked lasers: theory and experiment
+7A37ED1F	Modulation-domain particle filter for template tracking
+8107859F	Impact of electromagnetic noise from PCs on performance of multiband-OFDM UWB systems
+812C10CD	Compact linearized optical FM discriminator
+8063CE60	Study on optical frequency domain reflectometry based on tunable semiconductor laser
+7B36E26C	An easy way to calculate power spectra for digital FM
+7ED5D87A	Sidelobe suppression algorithm for chaotic FM signal based on neural network
+7E6CE52A	Analysis of filter-based non-coherent detection of UWB FSK with antenna and multipath effects
+80E8BD09	Improving the noise performance of communication systems: 1930s to early 1940s
+7F165D0A	Experimental demonstration of a fiber-optic gas sensor network addressed by FMCW
+5FA8FD81	Considerations for high-speed configurable-bandwidth time-interleaved digital delta-sigma modulators and synthesis in 28 nm UTBB FDSOI
+7EE2F093	Radar signal design using chaotic signals
+7F154A1D	SHIP: A Scalable Hierarchical Power Control Architecture for Large-Scale Data Centers
+80E6F6D5	A 2-MHz bi-directional wireless transceiver system for implantable glucose sensors
+7F095408	Utilizing Nonlinearity in a Superconducting NbN Stripline Resonator for Radiation Detection
+7E2F32B7	Output intensity noise of lightwave transmitters employing chirp demodulation
+79AC6C43	Laser Dynamics of a 10 GHz 0.55 ps Asynchronously Harmonic Modelocked Er-Doped Fiber Soliton Laser
+8062CA0C	Bearing Faults Diagnosis Based on Teager Energy Operator Demodulation Technique
+7D34C6D9	Frequency estimation algorithm for an extended FMCW radar system with additional phase evaluation
+7A526199	Comparative yield and chemical composition of two varieties of narrow-leafed lupin (Lupinus angustifolius) when harvested as whole-crop, moist grain and dry grain
+7B4A4942	Wigner distribution and FM radar signal design
+81013CFC	Correlative Encoded Digital FM
+77F1F8BB	Mechanisms regulating the activity of facial nucleus motoneurons—IV. Influences from the brainstem structures
+80E956D7	Mechanism of wavelength tuning and frequency modulation in three-electrode DFB lasers
+7E1851BC	Frequency modulated (FM) radio band audio interference pre-compliance test
+7E7E36AD	Mixed-signal map-configurable integrated chaos generator for chaotic communications
+79051805	Analysis of the performance of optical frequency comb based on recirculating frequency shifter influenced by an Er-doped fiber amplifier
+7FD37C29	Postcanceling techniques for simultaneous broadcasting of analog FM and digital data
+827DEF18	The performance of SC-FDMA systems with rotated constellation in the presence of phase noise and channel estimation error
+7CD06408	ROCS: Exploiting FM Radio Data System for Clock Calibration in Sensor Networks
+72D95090	Beatless control in over-modulation range for permanent magnet synchronous motor drives
+7F996C0E	Tracking of unknown nonstationary chirp signals using unsupervised clustering in the Wigner distribution space
+7F19C6E7	Low phase-noise VCO utilizing NMOS symmetric load for Frequency-based Delta-Sigma Modulators
+7DDCB125	Complex wavelet based modulation analysis
+7D4A8A1E	Uncovering nonlinear dynamics-the case study of sea clutter
+802E9893	Optical control of period doubling in a gain-switched Fabry-Perot laser diode and its application in all-optical clock division
+81359ED6	Super-wide-band optical FM modulation scheme and its application to multichannel AM video transmission systems
+7DB9E3EB	Detection of marine target with quadratic modulated frequency micromotion signature via Morphological Component Analysis
+7DCDBE3D	An architecture of high-performance frequency and phase synthesis
+7B480FB8	Unified Three-Terminal Switch Model for Current Mode Controls
+7E9DCFD4	Texture modulation-constrained image decomposition
+7FE59BED	FMCW-LIDAR with tunable twin-guide laser diode
+80691B2F	A frequency modulated envelope delay FSCW radar for multiple-target applications
+7E13AFBD	A regularized optimization approach for AM-FM reconstructions
+83B52E7A	Time-Varying Frequency-Modulated Component Extraction Based on Parameterized Demodulation and Singular Value Decomposition
+7CFF85A7	The analytic image
+7E60FD15	Design of Sequences with Specified Autocorrelation and Cross Correlation
+7FF6025F	Homomorphic modulation spectra
+7E97F799	Optical fiber two way FM video signal transmission for video conferencing applications
+7F42F873	Novel approach to AM-FM decomposition with applications to speech and music analysis
+7996E752	“Inverted” gain-levered long-wavelength MQW optical transmitter with enhanced FM efficiency and suppressed AM
+7B3B173B	Gain Compression and Linewidth Enhancement Factor in Mid-IR Quantum Cascade Lasers
+7D6BB32F	Raman–Ramsey Interaction for Coherent Population Trapping Cs Clock
+7EBEC8C5	Exploitation of First-Order Cyclostationarity for Joint Signal Detection and Classification in Cognitive Radio
+6C7F84C8	Homodyne FMCW radar range resolution effects with sinusoidal nonlinearities in the frequency sweep
+59534F70	Real-time pulse compression radar waveform generation and digital matched filtering
+7D9351D6	Demodulators for AM-FM models of speech signals: a comparison
+7D7D4DD6	Image decomposition into structure and texture subcomponents with multifrequency modulation constraints
+5E944ED2	Enhancement of the Modulation Dynamics of an Optically Injection-Locked Semiconductor Laser Using Gain Lever
+755751F8	High dynamic range linearized FM photonic link
+7A344356	Effect of Type of Protein Supplementation on Duodenal Amino Acid Flow and Absorption in Lactating Dairy Cows
+5B70DC22	On higher-order representations of Polyphase-Coded FM radar waveforms
+7D38D0BF	Combined application of interleaving and modulation techniques in multiconverter topology
+7F8E95B4	Adaptive time-varying cancellation of wideband interferences in spread-spectrum communications based on time-frequency distributions
+7E9F9696	Combined Pulse Compression and Adaptive Beamforming in Coded Excitation Ultrasound Medical Imaging
+77F6A79A	A New Microcomputer Controlled Modulator for PWM Inverters
+5B648AA5	Removing autocorrelation function sidelobes by overlaying orthogonal coding on any train of identical pulses
+7FF05E31	OFDM/FM frame synchronization for mobile radio data communication
+80796469	The capture effect in frequency-hop spread-spectrum multiple-access communications over fading channels with near/far problem
+80F58F77	An IQ-modulator based heterodyne 77-GHz FMCW radar
+82394B9E	Rate Equation Analysis of Q -Modulated Strongly Injection-Locked Whistle-Geometry Ring Lasers
+7F9FD0A9	Linear signal synthesis using the Radon-Wigner transform
+7F8BA7D2	FM/PWM control scheme in class DE inverter
+7996779D	A Novel RF Sensing Circuit Using Injection Locking and Frequency Demodulation for Cognitive Radio Applications
+7BB6F674	E-band receiver and transmitter for high speed wireless communication
+7FAFC079	Bivariate Instantaneous Frequency and Bandwidth
+8009E1F0	A Wireless Sensor Interrogator Design for Passive Resonant Frequency Sensors Using Frequency Modulation Spectroscopy
+7D171BA8	Performance of asynchronous FHSS-MA networks under Rayleigh fading and tone jamming
+7DC935B8	Performance of fast-frequency-hopping spread-spectrum multiple-access for indoor wireless communications
+7FCAD029	Digital Pulsewidth Modulation Technique for a Synchronous Buck DC/DC Converter to Reduce Switching Frequency
+810539E3	Wideband Linear Frequency Modulated Waveform Compensation Using System Predistortion and Phase Coefficients Extraction Method
+7F933A5F	Predictive Direct Power Control of Three-Phase Pulsewidth Modulation (PWM) Rectifier Using Space-Vector Modulation (SVM)
+7887A8B4	Generating analogue FM pulses using a 1 bit digital technique
+7E28AB87	Amplitude and frequency modulation characteristics of widely tunable GCSR lasers
+7F8770E4	Crosstalk in a two channel coherent fiber optic FSK system using a semiconductor laser amplifier
+7FF4E768	An Approach to Using Amplitude Probability Distribution for Emission Limits to Protect Digital Radio Receivers Using Error-Correction Codes
+78BEB7A5	Influence of systematic frequency-sweep non-linearity on object distance estimation in FMCW/FSCW radar systems
+7F78760B	A Hybrid Magnetic Sensor System for Measuring Dynamic Forces
+811E94C1	Linear frequency-modulated signal detection using Radon-ambiguity transform
+8124DEDC	Performance improvement of CMA based FM multipath cancelling system in automobile application
+79D28336	Effect of Supplemental Fish Meal on the Lactation and Reproductive Performance of Dairy Cows1
+79601A43	12 GHz FM bandwidth for a 1530 nm DFB laser
+80650B5C	A novel technique for high resolution ultrasound imaging super resolution FM-Chirp correlation Method (SCM)
+7D3FE0B9	Subcarrier multiplexed coherent lightwave systems for video distribution
+7BD8D47B	Conjugated Linoleic Acid and Other Beneficial Fatty Acids in Milk Fat from Cows Fed Soybean Meal, Fish Meal, or Both1
+7FA6B367	An ultra low power GFSK demodulator for wireless body area network
+7DEFD507	Improved intrinsic dynamic distortions in directly modulated semiconductor lasers by optical injection locking
+588BC8D5	A tunable optoelectronic oscillator based on single sideband modulation and stimulated Brillouin scattering
+8152C5DA	Phase-sensitive interrogation of fiber Bragg grating resonators for sensing applications
+7D1ADD05	Combining Abstract Interpretation with Model Checking for Timing Analysis of Multicore Software
+5D83991F	Qualitative Microwave Imaging With Scattering Parameters Measurements
+7D5D0F1A	Self-differential joint frequency and phase modulation for long-range underwater acoustic communications
+7F0A0F48	Measurement of laser parameters for simulation of high-speed fiberoptic systems
+806559F5	A unified SPICE compatible model for large and small signal envelope simulation of linear circuits excited by modulated signals
+8160F0AA	Performance of linecoded optical heterodyne FSK systems with nonuniform laser FM response
+76677C8F	Fully photonics-based radar demonstrator: Concept and field trials
+808B9784	Estimation for rotational processes with one degree of freedom--Part III: Implementation
+7F8DA852	Video event detection and summarization using audio, visual and text saliency
+7F5A13DF	Analysis of frequency offset in the frequency stabilization of semiconductor laser based on frequency dithering technique
+80E0291B	Modulation of Individual and Mutually Synchronized Nanocontact-Based Spin Torque Oscillators
+7D790F19	A spread spectrum clock generation PLL with dual-tone modulation profile
+7DE656E9	The homomorphic analytic signal
+7DB74D5F	Ultra-wide-band SAW RFID/sensors
+5E71007B	A sigma-delta based open-loop frequency modulator
+7EEAD5E4	Digital audio broadcasting in the FM band
+76118E38	An extended analysis of echo distortion in the F.M. transmission of frequency-division multiplex
+7E6917BE	Interference Suppression for Next Generation Wireless Systems
+7EB6CD99	An iterative algorithm for estimation of linear frequency modulated signal parameters
+7F2992F5	YBCO mid-infrared bolometer arrays
+7FEC60A4	Covariant estimators of time-frequency descriptors for nonstationary random processes
+7E543CFD	Multiscale Amplitude-Modulation Frequency-Modulation (AM–FM) Texture Analysis of Multiple Sclerosis in Brain MRI Images
+7A86207C	Input-Output Analysis of an IPFM Neural Model: Effects of Spike Regularity and Record Length
+7F75255D	Spread spectrum clock generation for the reduction of radiated emissions
+7DC97B24	Parametric AM/FM decomposition for speech and audio coding
+811FCF2B	Nonuniform injection current induced unusual chirp behavior of a four-electrode bistable distributed Bragg reflector laser
+7F9392E0	Body channel communication for low energy BSN/BAN
+79791C90	An Approach to Time-Frequency Analysis With Ridges of the Continuous Chirplet Transform
+7D9D5EB9	Estimation of carrier and sampling frequency offset for Ultra Wide Band multiband OFDM systems
+7E131B21	Application of correlation-based continuous-wave technique for fiber Brillouin sensing to measurement of strain distribution on a small size material
+81703B53	Correntropy-based nonlinearity test applied to patients with chronic heart failure
+7EF98CF4	High-Resolution FMCW Reflectometry Using a Single-Mode Vertical-Cavity Surface-Emitting Laser
+8000711F	Multiscale AM-FM analysis of pneumoconiosis x-ray images
+634DD666	Organic egg production. I: Effects of different dietary protein contents and forage material on organic egg production, nitrogen and mineral retention and total tract digestibility of nutrients of two hen genotypes
+7E7ED676	A CMOS spectrum sensor using injection locking of two voltage-controlled oscillators for cognitive radio system
+78EF73D0	A narrowband active noise control system with frequency mismatch compensation
+7D832775	An Ameliorated Phase Generated Carrier Demodulation Algorithm With Low Harmonic Distortion and High Stability
+7F4E7E87	Low complexity linear MMSE equalization, channel decoding and estimation for frequency selective fast fading channels
+7D08BCCC	Low-cost, signed online chromatic dispersion detection scheme applied to a 2 x 10 Gb/s RZ-DQPSK optical transmission system
+5E6DE469	AM-FM expansions for images
+773DBBA8	Measurement of nonlinear gain from FM modulation index of InGaAsP lasers
+7F7B3C62	Noise analysis of subcarrier-multiplexed coherent optical video transmission systems using direct frequency modulation of semiconductor lasers
+5D972459	Dithered multi-bit sigma-delta modulator based DPWM for DC-DC converters
+802870F7	Field Tests of Digital Audio Broadcasting in the FM Band Based on Continuous Phase Modulation
+7E992ADD	Chirp parameter estimation from a sample covariance matrix
+803513D0	A model for power spectrum estimation of the heart rate signal
+81579C3A	Instantaneous frequency estimation of polynomial FM signals using the peak of the PWVD: statistical performance in the presence of additive gaussian noise
+7DECE1F6	Theory of lightwave synthetic noise generation
+7B969CDD	Analysis of chromatic dispersion-induced second-harmonic distortions including laser dynamics to the second order
+7D231AF3	EMI reduction in switched power converters by means of spread spectrum modulation techniques
+7D1C92F7	Shunting networks for multi-band AM-FM-decomposition
+79FBFFE0	Energy management based on AM/FM/GIS for phase balancing application on distribution systems
+8037FFFC	Field-Oriented Control and Direct Torque Control for Paralleled VSIs Fed PMSM Drives With Variable Switching Frequencies
+7E35CC7C	A Novel Approach in Studying the Effects of Subharmonics on Ultrahigh-Speed AC Motor Drives
+80043B0A	Gaussian and Click Noise in an FM/FM Multiplex Receiver
+7ED98D08	Chaos control and noise suppression in external-cavity semiconductor lasers
+7EF46199	Sidelobe reduction in pulse-compression radar using the stationary phase technique: An extended comparative study
+81184C40	ICFHR 2010 Handwriting Segmentation Contest
+76A44F7E	F.M. systems of exceptional bandwidth
+7FFACFCB	Evaluation of modulation frequency features for speaker verification and identification
+798FB846	Go/No-Go Testing of VCO Modulation RF Transceivers Through the Delayed-RF Setup
+7D41397C	An improved Viterbi decoder for the differential detection of continuous phase modulation schemes
+7D0B5537	Frequency tracking performance of adaptive lattice filters
+7B922D6A	Nonparametric Detection of FM Signals Using Time-Frequency Ridge Energy
+59CC3F21	M-ary chirp modulation for coherent and non-coherent data transmission
+7E0D7BB5	ISAR imaging of targets with moving parts using micro-doppler detection on the range profile image
+7D45442B	An EM approach to multiple-access interference mitigation in asynchronous slow FHSS systems
+7E6C0FF1	Advances in texture analysis: energy dominant component & multiple hypothesis testing
+7C51C329	Adjustable, Broadband, Selective Excitation with Uniform Phase
+76C18C2A	Dry Matter Intake, Milk Yield and Composition, and Nitrogen Use in Holstein Cows Fed Soybean, Fish, or Corn Gluten Meals1
+7DC2C2B5	AM-FM image segmentation
+7FEA0CFB	Experimental demonstration of in-service dispersion monitoring in 960-km WDM transmission system using optical frequency-modulation method
+7F084EEC	FM response of narrow-linewidth, multielectrode lambda /4 shift DFB laser
+80DDB2C0	A fully-integrated 5 MHz-IF digital FM demodulator
+8125DA97	Skewed 2D Hilbert transforms and computed AM-FM models
+7E59DBAB	Nullifying ACF grating lobes in stepped-frequency train of LFM pulses
+7F64F221	A multiscale error diffusion algorithm for green noise digital halftoning
+7E8764E3	Auditory event-related potentials differ in dyslexics even when auditory psychophysical performance is normal.
+7F1EC156	Modulation Bandwidth and Linewidth Enhancement Factor of High-Speed 1.55- $\mu$ m Quantum-Dash Lasers
+80113767	Multicomponent AM–FM Representations: An Asymptotically Exact Approach
+78052C1C	Demodulation Procedure for Very Wide-Band FM
+7DE8CE08	FM mode-locked fiber lasers operating in the autosoliton regime
+7D7F659F	Multi-target signal processing in FMCW radar system with antenna array
+81163283	Developmental Learning With Behavioral Mode Tuning by Carrier-Frequency Modulation in Coherent Neural Networks
+7EA6B6D7	Time-varying higher-order cumulant spectra: application to the analysis of composite FM signals in multiplicative and additive noise
+810628EE	Determination of water vapor by microwave spectroscopy with application to quality control of natural gas
+6049FEF1	Design of defined controller for modular multilevel converter based on CPS-SPWM in PSCAD
+7D0D80EE	Modulation domain image segmentation
+7EA213E8	Dynamic and noise properties of tunable multielectrode semiconductor lasers including spatial hole burning and nonlinear gain
+7C7D5135	Sampled-Data Modeling of Switched- Capacitor Voltage Regulator With Frequency-Modulation Control
+809138D8	On amplitude and frequency demodulation using energy operators
+7F629F28	Design rules for a low-chirp integrated DFB laser with an electroabsorption modulator
+81623AEC	Design considerations and implementation of a DSP-based car-radio IF Processor
+7EB0FF84	A 5-GHz Direct Digital Frequency Synthesizer Using an Analog-Sine-Mapping Technique in 0.35- $\mu$ m SiGe BiCMOS
+80530010	A wide-tuning quasi-type-I PLL with voltage-mode frequency acquisition aid
+7F761476	Generalized concatenation of encoded tamed frequency modulation
+78D944AF	Optical pulse compression reflectometry: proposal and proof-of-concept experiment
+80BEBDB1	Effect of Protein Source on Amino Acid Supply, Milk Production, and Metabolism of Plasma Nutrients in Dairy Cows Fed Grass Silage
+7A1E32E4	Right auditory cortex lesion in Mongolian gerbils impairs discrimination of rising and falling frequency-modulated tones
+782B6DFC	An arctangent type wideband PM/FM demodulator with improved performance
+758DA26F	A 900-MHz Direct Delta-Sigma Receiver in 65-nm CMOS
+8169EF80	Achieving arbitrary passband profiles and high stopband attenuation in microwave photonic filters
+80086C18	Digital color halftoning with generalized error diffusion and multichannel green-noise masks
+8025232A	Opposition-based shuffled PSO with passive congregation applied to FM matching synthesis
+766C9944	Unified Equivalent Circuit Model and Optimal Design of $V^{2}$ Controlled Buck Converters
+77629E6C	Comparison of plasma-effect in different InP-based VCSELs
+80270380	Concatenated eIRA Codes for Tamed Frequency Modulation
+7FC3337C	Side effects evaluation of switching frequency modulation in power converters
+7F58DFF2	A Modified LFM Signal in Coded Ultrasound
+7F677E5B	Serially concatenated codes for aeronautical telemetry
+8120CB49	A lookup method for power system flicker source detection using direction of propagation
+75815AFD	Analysis of the carrier-induced FM response of DFB lasers: theoretical and experimental case studies
+7E456CA1	Modulation Spectral Features for Robust Far-Field Speaker Identification
+7DD10CD4	Equi-ripple design of quadratic-phase RF pulses
+83872632	Generation of UWB Doublet Pulse Based on Directly Modulated Laser and Chromatic Dispersion
+7F0CF954	An advanced spread spectrum architecture to improve EMI emissions in Class D amplifier
+7EB10C6C	Linear frequency modulation of voltage-controlled oscillator using delay-line feedback
+8096B70F	Structure-dependence of the chirp-to-power ratio spectrum for GaAs external cavity lasers
+7564D5E8	Reduction of frequency noise and frequency shift by phase shifting elements in frequency modulation atomic force microscopy.
+7D9ED4CF	Modeling of a Transfer Function for Frequency Controlled Resonant Inverters
+7EB61EE1	An interference suppression algorithm based on a novel MDCFT method for DSSS system
+7F730BE3	Is FM a RF-Based Positioning Solution in a Metropolitan-Scale Environment? A Probabilistic Approach With Radio Measurements Analysis
+81564DC5	Research on Characteristic Extraction of Human Gait
+7DC0AA3D	A 40-GHz 850-fs regeneratively FM mode-locked polarization-maintaining erbium fiber ring laser
+78754B1F	Compromised Peak Bone Mass in Patients with Inflammatory Bowel Disease–A Prospective Study
+812E55AD	Realization Using the Fornasini-Marchesini Model for Implementations in Distributed Grid Sensor Networks
+7EECD34E	Sidelobe reduction for matched filter range processing
+7E711F85	Improved estimation of hyperbolic frequency modulated chirp signals
+7ED23DE7	Temporal Dynamics for Blind Measurement of Room Acoustical Parameters
+815F5146	A Time-Domain Oscillator Envelope Tracking Algorithm Employing Dual Phase Conditions
+7F7A6D78	Frequency Quadrupling and Upconversion in a Radio Over Fiber Link
+75F12B5B	A signal cancellation method based on multiple parameters estimation
+6AA842C0	High Quality Factor Resonant MEMS Accelerometer With Continuous Thermal Compensation
+81606F83	Phoneme recognition using spectral envelope and modulation frequency features
+7D0710BB	Median Filter Based FM Interference Suppression for PRC-CW Radar
+76779008	Effects of Dietary Fat and Protein on Fatty Acid Flow to the Duodenum and in Milk Produced by Dairy Cows1
+76633FE3	Synthesis Concepts of Signals With High Spectral Purity for the Use in Impulse Radar Systems
+7E0CD452	Determination of Sweep Linearity Requirements in FMCW Radar Systems Based on Simple Voltage-Controlled Oscillator Sources
+79B32B94	IF digital generation of FMCW waveforms for wideband channel characterisation
+8150F0F1	Analysis of a true time delay photonic beamformer for transmission of a linear frequency-modulated waveform
+7E3CD1ED	A Synchronization-Free Spread Spectrum Clock Generation Technique for Automotive Applications
+7F517AB5	A multitime-frequency approach for detection and classification of neighboring instantaneous frequency laws in a noisy environment
+7D781860	Phase noise considerations in coherent optical FMCW reflectometry
+7FE0863F	Design of UWB waveforms for narrowband interferences suppression
+5BB3E0B9	Do Bounded Signals Have Bounded Amplitudes?
+7E8A32DD	Joint time-frequency resolution of signal analysis using Gabor transform
+811EBD58	High-speed THz biochip reader system
+7EA0BAA3	Statistical analysis of amplitude modulation in speech signals using an AM-FM model
+7E0B6784	Study on the Identification Method of Wavelet Packet Modulation Signals
+81365A3A	Novel close-range microwave radar measurement technique
+7E5D779D	Comments on "Analysis and measurement of FM click rate in slow Rician fading"
+7FC452FE	Texture segmentation using modulated wavelet transform
+7EB6A539	A Multi-Level Pulse Modulated Polar Transmitter Using Digital Pulse-Width Modulation
+7E6430F6	AM-FM Demodulation of Spectrograms using Localized 2D Max-Gabor Analysis
+778C71E3	Bayesian segmentation of AM-FM texture images
+7CA61355	Growth hormone and body composition in children younger than 2 years with Prader-Willi syndrome
+7951EE18	An improved non-intrusive intelligibility metric for noisy and reverberant speech
+8009D7E0	Experimental demonstration of intermodulation effects in a continuous cesium fountain microwave frequency standard
+77CCF7E8	Error rates for biternary frequency modulation
+81468085	Reverberation Suppression Using Wideband Doppler-Sensitive Pulses
+8122E0EE	A new simple design model for FM demodulators using soft-limiters for click noise suppression
+7793348B	Nonlinear frequency modulation chirps for active sonar
+806BF592	Movie summarization based on audiovisual saliency detection
+762CFDB5	Categorical discrimination of direction in frequency-modulated tones by Mongolian gerbils
+7D3D5A93	Polynomial Wigner-Ville distributions and their relationship to time-varying higher order spectra
+812A500E	DCT-based processing of dynamic features for robust speech recognition
+7D12F90B	Empirical mode decomposition as a filter bank
+77F8C0FA	Design of an integrated demodulator for a 13.56 MHz RFID reader
+8002E6FF	Fault Detection in a Multistage Gearbox by Demodulation of Motor Current Waveform
+80890BC9	Characteristic Analysis for Multisampled Digital Implementation of Fixed-Switching-Frequency Closed-Loop Modulation of Voltage-Source Inverter
+7F2ACCA5	Frequency response of a Fabry-Perot interferometer used as a frequency discriminator
+7ED251A4	Limit properties of folded sums of chaotic trajectories
+770F3389	Single-stage high-power-factor electronic ballast with complex frequency modulation for hid lamps
+7FE56683	Channel efficiency in digital cellular communication systems
+8054F17B	A practical bearing fault diagnoser
+8022124F	Optimal Ternary Constant-Composition Codes of Weight Four and Distance Five
+7D37F85A	Frequency offset compensation loop for 16-QAM optical coherent systems
+7ECCA5A3	Wideband time-varying interference suppression using matched signal transforms
+7C52ABB3	Coherence of frequency modulation is encoded by cochlear-generated distortion
+834683AB	A Simplified Equivalent Circuit Model of Series Resonant Converter
+7F63B4E2	A battery-powered 8-channel wireless FM IC for biopotential recording applications
+81489B28	A performance comparison of the Teager-Kaiser operator and an adaptive notch filter
+7AFA754A	Near-threshold recordings of amplitude modulation following responses (AMFR) in children of different ages
+7E4861AE	Matched NLFM pulse compression method with ultra-low sidelobes
+7EFE6BAD	On the crossing statistics of phase processes and random FM noise in Nakagami-q mobile fading channels
+789D6E5D	Detection of electron paramagnetic resonance absorption using frequency modulation
+7AE6BFA9	Exploiting polarimetric diversity in FM-based PCL
+814223DB	An accurate indoor ranging system based on FMCW radar
+730E122A	Full inverter characterization of PWM algorithms implemented with a very large flash memory SD card
+80F33E0C	Reducing local oscillator phase noise limitations on the frequency stability of passive frequency standards: tests of a new concept
+7CFC54F3	Electrically injection-locked intermodal oscillation in a long optical cavity laser diode
+8178CDFB	The Impact of Vehicle Structural Components on Radiation Patterns of a Window Glass Embedded FM Antenna
+7F3F20D5	Generalized instantaneous parameters and window matching in the time-frequency plane
+7DFF412D	High frequency sensing interrogation system using Fiber Bragg grating based microwave photonic filtering
+80F788EF	Theoretical study of an actively mode-locked fiber laser stabilized by an intracavity Fabry-Perot etalon: linear regime
+7DFE5C36	Experimental performance evaluation of a low-EMI chaos-based current-programmed DC/DC boost converter
+7D9C5E01	A self-resonant frequency-modulated micromachined passive pressure transensor
+7AC817BB	Direct frequency modulation in AlGaAs semiconductor lasers
+8021251A	Instantaneous frequency estimation of received signals in flat fading digital communication systems
+7ED2527C	Implementation of parallel transmit beamforming using orthogonal frequency division multiplexing-achievable resolution and interbeam interference
+7E5F00B4	Synchronization of Single-Frequency Simulcast Networks Using Network Time Protocol
+80CA96C7	Dual domain auxiliary particle filter with integrated target signature update
+7EDCDDCC	Transmitters for two-tier optical data-packet labelling in advanced IP networks
+7EA1FE2D	A new equalization method for dispersion effects in optical links
+5DC9FC66	M-mode echocardiography image and video segmentation based on am-fm demodulation techniques
+7F35E25A	Evaluation of 16 kbit/s digital voice transmission for mobile radio
+7E126867	The influence of nonlinear capacitance and responsivity on the linearity of a modified uni-traveling carrier photodiode
+7D5D1AEB	Extraction and Analysis of Multiple Periodic Motions in Video Sequences
+7F334780	Nested modulator and feedback FM matching of instrument tones
+7EAD2C6A	Error Probabilities for Slow-Frequency-Hopped Spread-Spectrum Multiple-Access Communications Over Fading Channels
+81366FBD	FM interference suppression in spread spectrum communications using time-varying autoregressive model based instantaneous frequency estimation
+841570E0	Dynamic nuclear polarization by frequency modulation of a tunable gyrotron of 260 GHz
+803FAC14	Group-Delay Measurement of Frequency-Converting Devices Using a Comb Generator
+771D9B9E	Feasibility of Single Channel Speaker Separation Based on Modulation Frequency Analysis
+7E4A7E88	Implementation of a 900 MHz transmitter system using highly integrated ASIC
+7D35D00E	A new compound modulation technique for multichannel analog video transmission on fiber
+7F01CA03	Built-in Test of Frequency Modulated RF Transmitters Using Embedded Low-Pass Filters
+801716C0	On the performance of pulsed frequency modulated UWB local positioning systems
+8034614B	Robust quadratic time-frequency distributions for the analysis of mulicomponent FM signals in heavy-tailed noise
+760792E0	Adjacent-channel interference in frequency-hopping ad hoc networks
+80C503C2	Digital quadrature mixing of lowpass sigma-delta modulators for switch-mode power amplifiers
+776A3FD0	Spectral Analysis of Pulse Frequency Modulation in the Nervous Systems
+7F44D4D3	RF BIST for ADPLL-based polar transmitters with wide-band DCO gain calibration
+813A207E	A survey on stability of 2-D discrete systems described by Fornasini-Marchesini first model
+813FFC63	Limits on discrete modulated signals
+7F8DC007	The Viterbi Receiver for Correlative Encoded MSK Signals
+8040645D	A New Hybrid Random PWM Scheme
+77533F72	Validation of skinfold measurements and bioelectrical impedance analysis in children with severe cerebral palsy: A review
+7DD7621D	Noise and modulation performance of Fabry-Perot and DFB semiconductor lasers with arbitrary external optical feedback
+7C5EC7E5	Digital Signal Processing Type Stereo FM Receiver
+7E9CE1AE	Bearing fault detection and diagnosis based on order tracking and Teager-Huang transform
+77E1F2EA	Subthreshold Parallel FM-to-Digital $\Delta$ – $\Sigma$ Converter With Output-Bit-Stream Addition by Interleaving
+7FBA0F45	Discrete quasi-eigenfunction approximation for AM-FM image analysis
+7DCD3297	A compressive phase-locked loop
+7E343C58	Improved Chirp Modulation Spread Spectrum Receiver Based on Fractional Fourier Transform for Multiple Access
+75B53A02	Validation of forward modeling target detection approach on a new hyperspectral data set featuring an urban scenario and variable illumination conditions
+7DD5723E	Frequency measurement of an Ar/sup +/ laser stabilized on narrow lines of molecular iodine at 501.7 nm
+7849CD81	Nonlinear dynamics of a laser diode with optical feedback systems subject to modulation
+7DF78330	Suppression of adjacent-channel and cochannel FM interference via extended Kalman filtering
+7D237A61	Broadband Electromagnetic Radiation Modulated by Dual Memristors
+7ECD994B	Analysis of Errors in ToF Range Imaging With Dual-Frequency Modulation
+7D917BEE	Green Noise Digital Halftoning With Multiscale Error Diffusion
+805EA5C2	Indoor radio communications for factories of the future
+80D99E90	Focus Improvement of Highly Squinted Data Based on Azimuth Nonlinear Scaling
+75BAB1F1	A DBTV System for Optimum Bandwidth Efficiency
+7F70827E	FM Noise With Fading Channels and Diversity
+81214578	Spline-Kernelled Chirplet Transform for the Analysis of Signals With Time-Varying Frequency and Its Application
+7DC49CF8	Multicast Queueing Delay: Performance Limits and Order-Optimality of Random Linear Coding
+7FFEC956	MMN and P300 are both modulated by the featured/featureless nature of deviant stimuli
+7CEC80D8	Frequency specific ultrasound attenuation is sensitive to trabecular bone structure.
+811CD703	Performance evaluation of nonlinear frequency modulated signals in ultrasound harmonic imaging
+7EA93704	A 1Mb/s 3.2–4.4GHz reconfigurable FM-UWB transmitter in 0.18µm CMOS
+794C4B58	Modified CCPLL for demodulation of two FM signals with overlapping spectra
+5B5BA2E7	Triangular Modulation Using Switched-Capacitor Scheme for Spread-Spectrum Clocking
+76AFAB35	A Blend of Animal and Cereal Protein or Fish Meal as Partial Replacement for Soybean Meal in the Diets of Lactating Holstein Cows1
+812557FE	Detection and phenotyping of retinal disease using AM-FM processing for feature extraction
+80B40507	Frequency-sweep linearization for FMCW sensors with high measurement rate
+7E52F8AD	Detection and parameter estimation of multicomponent LFM signals based on Hilbert-Huang Hough transform
+76F2CF4F	Simple signal-to-signal beat interference cancellation receiver based on balanced detection for a single-sideband optical OFDM signal with a reduced guard band
+7E4D184D	Analysis of Instantaneous Amplitude and Frequency of Intracranial EEG signal to Characterize Epileptic Seizure Stages
+7EA2CC65	Reduction of power supply EMI emission by switching frequency modulation
+7FC99093	Speaker Identification Based on Robust AM-FM Features
+8110898C	40-GHz transform-limited pulse generation from FM oscillation fiber laser with external cavity chirp compensation
+7DD8CC3C	Amplitude modulated sinusoidal modeling using least-square infinite series approximation with applications to timbre analysis
+79B73EB8	Performance analysis of digital FM demodulators for fading channels in the threshold region
+8101D85F	Synthesis of complex subband Hybrid Filter Banks A/D converters using adaptive filters
+79C1BE63	Analog Filtering Method for Sensorless AC Machine Control With Carrier-Frequency Signal Injection
+7D5A0549	Design of higher order polynomial Wigner-Ville distributions
+75E2F393	Optimized discrete multitone communication over polymer optical fiber
+7A18C192	Focusing of Medium-Earth-Orbit SAR With Advanced Nonlinear Chirp Scaling Algorithm
+7F664FD3	Impact of narrowband interference on unambiguous acquisition approaches in Galileo
+7A0A787E	Increased whole body hydroxyproline production as assessed by a new stable isotope technique is associated with hip and spine bone mineral loss in cystic fibrosis
+80C908A7	Digital ground bounce reduction by supply current shaping and clock frequency Modulation
+7AF96288	Amplitude and frequency modulation torsional resonance mode atomic force microscopy of a mineral surface
+7DA0CC68	Estimation of the end-to-end phase shift without beam reversal in Cs beam frequency standards
+7D068D7B	Cascaded external optical modulation link for radio distribution
+82666B22	FMCW ramp non-linearity effects and measurement technique for cooperative radar
+733A63B9	HHT Sifting and Adaptive Filtering
+7FBCB207	Optical frequency domain reflectometry: A review
+7869E204	Polarization-Resolved Modulation Response of Single-Transverse-Mode Vertical-Cavity Surface-Emitting Lasers
+7BF241F0	A 56 mW Continuous-Time Quadrature Cascaded $\Sigma\Delta$ Modulator With 77 dB DR in a Near Zero-IF 20 MHz Band
+7F1ECCFC	Realization of high-speed distributed sensing based on Brillouin optical correlation domain analysis
+7F9A3FF8	Micro-doppler signal estimation for vibrating and rotating targets
+7DF1BB7B	Chaos-based FM signals: application and implementation issues
+802CD692	PrEsto: An FPGA-accelerated Power Estimation Methodology for Complex Systems
+7FD51DCA	Sweep linearization of a microwave FMCW Doppler sensor by an ultrasonic reference
+8079198E	On the optimality of the Wigner distribution for detection
+807F1083	Effects on commutation elements in inductor commutation soft-switched PWM inverter and its design equations
+7C0C1D0D	Evaluating Effects of Fish Meal on Milk Fat Yield of Dairy Cows
+7EEAAC75	Responses of neurons in the inferior colliculus of the rat to AM and FM tones
+78151B26	A 2.2 mW, 40 dB Automatic Gain Controllable Low Noise Amplifier for FM Receiver
+7FFA4CDC	Noise and Interference in Power Line channels
+808EA69A	Near Optimal Common Detection Techniques for Shaped Offset QPSK and Feher's QPSK
+7D86C101	Effect of a modulated source on a multimode cavity
+760F6A86	Second-Order Synchrosqueezing Transform or Invertible Reassignment? Towards Ideal Time-Frequency Representations
+7E85BE1A	Chaos from phase-locked loops
+7EE661E2	Influence of adjacent channel interference on the frequency-modulated WDM optical communication system
+7B8BA943	Spectral hyperacuity in the cat: neural response to frequency modulated tone pairs
+7F6A7133	A model for optimization of the performance of frequency-Modulated DFB semiconductor laser
+842D0A45	FM based indoor localization and mapping system with real-time implementation on FPGA
+7EBC8E91	FPGA-Based Spread-Spectrum Schemes for Conducted-Noise Mitigation in DC–DC Power Converters: Design, Implementation, and Experimental Investigation
+7D32257B	An analytical method for determining the optimal modulating waveform for dithered clock generation
+7EB8EB54	Amplitude modulation spectrogram based features for robust speech recognition in noisy and reverberant environments
+802C48A5	Precoded modulo-precanceling for simultaneous analog FM and digital data
+77E240F7	Inverse synthetic aperture radar imaging of three-dimensional rotation target based on two-order match Fourier transform
+7756CB60	Optimum modulation frequency for FM seeded FSF laser ranging
+7F7DEEFF	Delay Based Frequency Modulation
+70CCB7A2	Nonsinusoidal TMA basis functions and the DVOR
+7CF4212D	Normalized Power Spectra for FDM/FM Signals and Noise Power Ratio Calculations
+777BA10C	Preliminary Evidence of Pre-Attentive Distinctions of Frequency-Modulated Tones that Convey Affect
+7A7A05E8	The Analytic Signal Representation of Modulated Waveforms
+7E96517D	Radial-modulation chirp imaging for high-resolution contrast detection
+7E0366FC	Extended chirp scaling algorithm for air- and spaceborne SAR data processing in stripmap and ScanSAR imaging modes
+803A8BD5	Adaptive Modulation for Limited Diversity Fading Channels
+80FA07CC	Bearing Fault Detection Using Envelope Spectrum Based on EMD and TKEO
+807438AB	Click modulation: an off-line implementation
+82F12787	Complementary code pairs that share the same bandwidth via symmetrical linear FM chips
+7FD15A01	Spread spectrum clock generation for reduced electro-magnetic interference in consumer electronics devices
+7889507D	Generation of Multi-Gigabit-per-Second MQAM/MPSK-Modulated Millimeter-Wave Carriers Employing Photonic Vector Modulator Techniques
+7CF0C82D	Dielectric spectroscopy of metal nanoparticle doped liquid crystal displays exhibiting frequency modulation response
+66BDE8B4	Effectiveness of Repeat Jamming using Linear FM Interference Signal in Monopulse receivers
+800D554D	The multicomponent AM-FM image representation
+805DC89F	Optically coherent direct modulated FM analog link with phase noise canceling circuit
+8108F8BD	Multidimensional orthogonal FM transforms
+5A423B12	Frequency modulation and linewidth of gain-levered 2-section single quantum well lasers
+71127E2A	The modulation spectrum in the automatic recognition of speech
+75C857A8	Frequency rate estimation at high SNR
+7F07B301	Modulation Transfer Spectroscopy of ${}^{127}I_{2}$ Hyperfine Structure at 561 nm
+80EDB88B	Maximum Rate of Frequency Scanning for Distortionless Signal Generation in Electromagnetic Reverberation Chambers
+7B2512C5	Chromatic dispersion induced distortion of modulated monochromatic light employing direct detection
+7E6D9212	Frequency stabilization of a diode-pumped Nd:Yag laser at 532 nm to iodine by using third-harmonic technique
+81443FE6	A Frequency-Doubling Optoelectronic Oscillator Based on a Dual-Parallel Mach–Zehnder Modulator and a Chirped Fiber Bragg Grating
+8022C562	Evaluation of RASTA approach with modified parameters for speech enhancement in communication systems
+7DF937D9	Joint Acoustic-Modulation Frequency for Speaker Recognition
+7638AC33	Continuous phase modulation
+7F59B7B9	Performance analysis of a multi-frequency FM based Passive Bistatic Radar
+80196D8E	Sensitivity enhancement using coherent heterodyne detection
+79A7E5B3	Generation of full C-band coherent and frequency-lock multi-carriers by using recirculating frequency shifter loops based on phase modulator with external injection
+77EFE4DA	In Vivo and In Vitro Gastric Emptying of Milk Replacers Containing Soybean Proteins1,2
+80240984	Novel Bluetooth Receiver Structure Deploying Improved Zero-Crossing Detection
+7EC9E890	Estimation of modulation based on FM-to-AM transduction: two-sinusoid case
+81701DAE	A pseudo-heterodyne fiber optical gyro, using integrated optics
+814D3F4B	A $Ka$ -Band FMCW Radar Front-End With Adaptive Leakage Cancellation
+7FF238B6	5 Gbit/s direct optical DPSK modulation of a 1530-nm DFB laser
+78C41436	Effects of Ruminal Versus Duodenal Dosing of Fish Meal on Ruminal Fermentation and Milk Composition1
+7DF258A4	Frequency division transmission imaging and synthetic aperture reconstruction
+7DA317D4	A high bandwidth analog heterodyne RF optical link with high dynamic range and low noise figure
+7E7C992A	A narrow band high-resolution synthesizer using a direct digital synthesizer followed by repeated dividing and mixing
+7D23C38F	An accurate rate-equation description for DFB lasers and some interesting solutions
+77BBE264	Higher order Teager-Kaiser operators for image analysis: Part I - A monocomponent image demodulation
+80B7AE93	Elliptical-Tukey Chirp Signal for High-Resolution, Air-Coupled Ultrasonic Imaging
+7DA124FA	Coherent FM-SCM system using DFB lasers and a phase noise cancellation circuit
+7714B1BC	Evaluation of chemical and physical properties of feeds that affect protein metabolism in the rumen.
+7DA312D1	A method to correct HF skywave backscattered signals for ionospheric frequency modulation
+76D751A7	Adaptive AM–FM Signal Decomposition With Application to Speech Analysis
+772A3191	Chemical composition, nutritive value, fatty acid and amino acid contents of Galega officinalis L. during its growth stage and in regrowth
+7DC27736	Development of EMD-Based Denoising Methods Inspired by Wavelet Thresholding
+78A9D48E	Phonetic processing areas revealed by sinewave speech and acoustically similar non-speech
+7E84C3E6	An Improved Staggered Modulation Method of 8-VSB
+7E18D3B8	Harmonic analysis of hysteresis controlled grid-connected inverters
+80CFA490	Pilot symbol assisted modulation in frequency selective fading wireless channels
+7FC2F779	New EMC-testing-method for smart sensors during for IC-design-process
+811BE764	Investigation and Performance Enhancement of the Empirical Mode Decomposition Method Based on a Heuristic Search Optimization Approach
+813F8CA8	A 0.65-V 2.5-GHz Fractional-N Synthesizer With Two-Point 2-Mb/s GFSK Data Modulation
+7CF46779	Photonically assisted generation of arbitrary millimeter-wave and microwave electromagnetic waveforms via direct space-to-time optical pulse shaping
+7DD1EE5F	Communication on Power Lines Using Frequency and Duty-Cycle Modulation in digitally Controlled dc-dc Converters
+7CDC98F2	Formulas for direct frequency modulation response of two-electrode diode lasers: proposals for improvement
+7EC6A295	Multiple pitch identification using cochlear-like frequency capture and harmonic grouping
+7DEC790E	New Universal All-Digital CPM Modulator
+7FBB1A5F	Modulation domain reference point detection for fingerprint recognition
+75A2B07D	Optimization of Matched Chaotic Frequency Modulation Excitation Sequences for Multichannel Simultaneously Triggered Ultrasonic Ranging System
+810F5D34	'Modulation-Rate' Distortion in Frequency Modulators
+7BAD9AF2	Frequency-Modulated Charge Pumping With Extremely High Gate Leakage
+598589C8	Improving the nutritive value, in vitro digestibility and aerobic stability of Hedychium gardnerianum silage through application of additives at ensiling time
+7AAF4DE3	Reducing the power consumption in high-speed ΣΔ bandpass modulators
+808F255E	Suppression of spurious intensity modulation in frequency-modulated semiconductor lasers
+7AD54399	Applications of the bi-layer thin film sensor system for registering cardio-respiratory activity
+799A177C	Theory of self-locking FM operation in semiconductor lasers
+811CB931	Frequency Reassignment for Coherent Modulation Filtering
+80A9418D	Use of modulated excitation signals in medical ultrasound. Part I: basic concepts and expected benefits
+76F5D54C	Subspace analysis of spatial time-frequency distribution matrices
+7DE24168	Differential Versus Limiter--Discriminator Detection of Narrow-Band FM
+78A68A01	Dynamic Single-Phase Synchronized Phase and Frequency Estimation at the Distribution Level
+7E093593	Temporal envelope subtraction for robust speech recognition using modulation spectrum
+7CAAB093	Kernel design for time-frequency signal analysis using the Radon transform
+80B36D10	On the bias noise to phase noise conversion in harmonic oscillators using Groszkowski theory
+80C7D97B	Static frequency chirping in lambda /4-phase-shifted distributed-feedback semiconductor lasers: influence of carrier-density nonuniformity due to spatial hole burning
+1350F2E6	Frequency-Modulated Microwave Photonic Links with Direct Detection: Review and Theory
+7D329563	Decreasing the threshold in FM by frequency feedback
+7F040759	FMCW multiplexing of fiber Bragg grating sensors
+6344CDB5	Hybrid carrier based space vector modulation for PV fed asymmetric cascaded multilevel inverter
+7FCD0939	Digital RF processing techniques for SoC radios (invited)
+7D7DD03F	Doppler effect on bathymetry using frequency modulated multibeam echo sounders
+7F2C319D	Real time FPGA implementation of an automatic modulation classifier for electronic warfare applications
+79E26A34	Applications of traveling-wave laser amplifiers in subcarrier multiplexed lightwave systems
+79E19203	A 0.1 mm $^{2}$ , Wide Bandwidth Continuous-Time $\Sigma\Delta$ ADC Based on a Time Encoding Quantizer in 0.13 $\mu$ m CMOS
+7B394BE5	Stimulated Nitric Oxide Production and Arginine Deficiency in Children with Cystic Fibrosis with Nutritional Failure
+76BC5571	GMSK Modulation for Digital Mobile Radio Telephony
+7F6E6809	Detection of Narrow-Band Signals Through the FFT and Polyphase FFT Filter Banks: Noncoherent Versus Coherent Integration
+7625AE32	Estimation of Intracellular Potentials from Evoked Neural Pulse Trains
+8127B690	Intensity modulation and chirp of 1.55-/spl mu/m multiple-quantum-well laser diodes: modeling and experimental verification
+81DA87D6	RF-Powered Transceiver With an Energy- and Spectral-Efficient IF-Based Quadrature Backscattering Transmitter
+7DE2BE9C	Wavelet denoising the signal of the quartz flexural gravitational sensor
+7D2262AE	A low power 20 GHz 1.5 Gb/s CMOS injection-pulling FSK modulator and frequency discriminator for 60GHz links
+7D2A2975	Modification of respiratory sinus arrhythmia by mean heart rate
+5F31CBAB	Multiband Passive Bistatic Radar coherent range and Doppler-walk compensation
+7ED03991	A synchronization technique for static delta-modulated PWM inverters
+7DACF967	Degradation of modulation and noise characteristics of semiconductor lasers after propagation in optical fiber due to a phase shift induced by stimulated Brillouin scattering
+8366DBB7	Asymptotic normality of cyclic autocorrelation estimate with estimated cycle frequency
+807C7BA8	Rolling bearings fault diagnosis based on energy operator demodulation approach
+815BBC66	Constructing memory-polynomial models from frequency-dependent AM/AM and AM/PM measurements
+7D9FBFA6	Energy-efficient resonant BFSK MICS transmitter with fast-settling dual-loop adaptive frequency locking
+7DAE9282	Energy demodulation of two-component AM-FM signal mixtures
+7D89BA62	Characterization of the modulation and noise properties of a three-electrode DFB laser
+7FE91C89	Estimation of parameters of a polynomial phase model using the warped complex time distributions
+780406C4	Theoretical studies on the polarization-modulator-based single-side-band modulator used for generation of optical multicarrier
+7CF6E4FD	Globally optimum ML estimation of timing and frequency offset in OFDM systems
+77603730	Large‐scale analysis of frequency modulation in birdsong data bases
+7D3C01A0	Three-phase unity-power-factor star-connected switch (VIENNA) rectifier with unified constant-frequency integration control
+814025B6	20-km transmission of 40-Gb/s signal using frequency modulated DBR laser
+751BFC7E	Dynamic Phasor Model-Based Synchrophasor Estimation Algorithm for M-Class PMU
+7F8E33E0	Frequency chirping in external modulators
+7ED1A4E8	A new approach for evaluating the phase noise requirements of STALO in a Doppler radar
+80CA2080	Custom spectral shaping for EMI reduction in high-frequency inverters and ballasts
+7E74FF95	Biorthogonal frequency-varying modulated lapped transform
+7ABD12BE	Separate Influences of Acoustic AM and FM Sensitivity on the Phonological Decoding Skills of Impaired and Normal Readers
+7FBF830C	On a Sturm-Liouville framework for continuous and discrete frequency modulation
+75802672	On the relative importance of various components of the modulation spectrum for automatic speech recognition
+7EEE350B	A 0.77 ps RMS Jitter 6-GHz Spread-Spectrum Clock Generator Using a Compensated Phase-Rotating Technique
+7A04EF49	Error rate in a multiple-frequency-shift system
+7A0FA174	Limiter-Discriminator Detection Performance of Manchester and NRZ Coded FSK
+7F9C1E04	Fepstrum and Carrier Signal Decomposition of Speech Signals Through Homomorphic Filtering
+7E7668C6	Frequency Modulated Continuous Wave System for Optical Fiber Intensity Sensors With Optical Amplification
+827DCFC1	Optimized carrier-based pulse width modulation technique with double switching frequencies for three-phase inverters
+7DA96A7B	On pulse compression in dispersive media
+7DAF26C1	Synchronous–Asynchronous Digital Voltage-Mode Control for DC–DC Converters
+7E217630	Non-data-aided wide-range frequency offset estimator for QAM optical coherent receivers
+7FEA3B55	Experimental investigation of the subharmonic emission from microbubbles using linear and nonlinear frequency modulated signals
+80D479F5	FM filters for modulation domain image processing
+7F49F675	High performance and highly reliable lambda /4 shifted MQW-DFB-DC-PBH-LDs for Gb/s coherent optical communication systems
+7A26D0C3	Fatty acids, chemical composition and organic matter digestibility of seeds and vegetative parts of false flax (Camelina sativa L.) after different lengths of growth
+7EAB0CD5	Nonparametric detection of frequency modulated signals using fractional Fourier transform
+75D66DE3	Power-controlled multiple access with a queue-dependent backoff threshold
+7ED198AA	A Low-Power 2.4-GHz CMOS GFSK Transceiver With a Digital Demodulator Using Time-to-Digital Conversion
+816C7FD6	Heart rate turbulence detection using mean shape information
+7E0F0009	Optical frequency modulation links: Theory and experiments
+7D91670D	Improved Periodogram-Based spectrum sensing technique for FM wireless microphone signals
+757AE1AF	Sideband Radiation Level Suppression in Time-Modulated Array by Nonuniform Period Modulation
+762B74FF	Measurement of frequency response of photoreceivers using self-homodyne method
+7DE00540	Spectrum Assignment for Flexible Rate Cognitive OFDM Systems
+80386830	A fiber-optic current sensor with frequency-codified output for high-voltage systems
+7EDE292D	Generalized Phase-Crossing Rate and Random FM Noise for $\alpha{-}\mu$ Fading Channels
+7FBEACEA	Continuous-time, frequency translating, bandpass delta-sigma modulator
+802DCC36	Nonlinear modeling and processing of speech based on sums of AM-FM formant models
+7ED7AD27	Design of FMCW radar transceiver at 24 GHz
+816935D0	Conducted EMI Reduction in Power Converters by Means of Periodic Switching Frequency Modulation
+804D7E83	A new speech enhancement technique with application to speaker identification
+7D44F3C9	A novel fiber length measurement technology based on an asymmetric interferometer incorporating an electron-optic modulator
+80B6ED7D	Design of Delta-Modulated Generalized Frequency Converter
+80C4A5E9	Error rate performance of digital FM mobile radio with postdetection diversity
+7FD93945	Transmission of block turbo coded digital audio over FM-SCA
+7ECBB23C	Point target imaging simulation using chaotic signals
+81712D2F	A Systematic Design Method of On-Glass Antennas Using Mesh-Grid Structures
+7FBB6F7B	Application of hybrid PWM and passive resonant snubber for grid-connected CSI
+778ADB92	Improved WLS-TF algorithm for dynamic synchronized angle and frequency estimation
+75D97044	Effect of combined ensiling of sorghum and soybean with or without molasses and lactobacilli on silage quality and in vitro rumen fermentation
+8108230D	Ultimate linewidth reduction of a semiconductor laser frequency-stabilized to a Fabry-Perot interferometer
+7E0AB55A	Fourier theory of jumps applied to converter harmonic analysis
+8053E395	Robust Q Features for Speaker Identification
+80B684B3	Definition and properties of smoothed pseudo polynomial Wigner-Ville distribution
+7E24C0C9	Analysis and Design of Voltage Regulator With Adaptive FET Modulation Scheme and Improved Efficiency
+81F697D9	An amplitude Modulation detector for fault diagnosis in rolling element bearings
+7E14EE94	Theoretical BER evaluation for slow FH/NBFM systems in non-Gaussian-noise environment
+804C902B	Hybrid discriminative/class-specific classifiers for narrowband signals
+7707FD5A	Precision time domain reflectometry in optical fiber systems using a frequency modulated continuous wave ranging technique
+815EEA1E	Wavelet-Based Performance Evaluation of Power Converters Operating With Modulated Switching Frequency
+7F7F5C0A	Effect of nonuniform laser FM response on the performance of multichannel heterodyne FSK systems using optical amplifiers
+7D1212A8	Optical pulse train generation using modulator cascades
+7F47C1E3	Interleaving Controlled Three-Leg Electronic Ballast for Dual-HID-Lamps
+7DAF05AC	An evaluation of the spectral characteristics of switching converters with chaotic carrier-frequency modulation
+7FCE5778	Dynamic optical frequency domain reflectometry
+7F8458B5	An FM Detector for Low S/N
+5C6BF047	Real time AM-FM analysis of ultrasound video
+7EE2DF45	Instantaneous Frequency Estimation Using the ${\rm S}$ -Transform
+78521C16	Cortical processing of temporal modulations
+76B5624B	Effects of Supplementation of Energy or Ruminally Undegraded Protein to Lactating Cows Fed Alfalfa Hay or Silage1
+7ECF9B75	Auditory motivated level-crossing approach to instantaneous frequency estimation
+7C7259F9	High-frequency Direct Digital Frequency Synthesizer design with non-uniform sine-weighted Digital-to-Analog Convertor
+78C40493	Performance assessment of FM broadcast subcarrier-multiplexed optical systems
+7EC981F4	Spur-Free Multirate All-Digital PLL for Mobile Phones in 65 nm CMOS
+81063446	Modeling frequency fluctuations and noise thermometry using an R-SQUID noise thermometer
+7F83D241	Spectrum of counts computation for HRV analysis
+804064E1	Design of $X$ -Band RF CMOS Transceiver for FMCW Monopulse Radar
+7BF8E344	An efficient procedure to design passive LCL -filters for active power filters
+816C63C8	Orthogonal frequency division multiplexing in distributed radar apertures
+7DC824C4	The use of optically coherent detection techniques for true-time delay phased array and systems
+7FA7E07C	Model-Based Detection of Heart Rate Turbulence Using Mean Shape Information
+7FC11C3D	Fundamental Study of Influence of Ripple Noise From DC–DC Converter on Spurious Noise of Wireless Portable Equipment
+79CACB2D	Performance of quasi-optimum digital FM demodulators for fading channels
+7E1C7A4C	Wavelet ridge estimation of jointly modulated multivariate oscillations
+7FB01640	Pulsed frequency modulation techniques for high-precision ultra wideband ranging and positioning
+80C28853	New charge pump power-factor-correction electronic ballast with a wide range of line input voltage
+7ECA8AF9	Utility of multifrequency bioelectrical impedance compared with dual-energy x-ray absorptiometry for assessment of total and regional body composition varies between men and women
+7FE1636B	Multiplexing of Fiber Bragg Grating Sensors: Time windowed improved C-PFM reading technique. An experimental validation
+7F601B8A	FM subcarrier fiber optical transmission system design and its application in next-generation wireless access
+8020A60B	Estimation of Fm Parameters Using a Time-Frequency Hough Transform
+8170F463	A new method for blood velocity measurements using ultrasound FMCW signals
+7D239DA4	Fiber optic distribution system for wideband, high performance video
+7D9A75F4	Coherent envelope detection for modulation filtering of speech
+800D0DF9	Comments on “Quantization Noise as Superposition of Frequency-Modulated Sinusoids”
+7DE104AC	Reduction of electromagnetic interference in DC-DC converter using chaos
+7F29BC69	Modeling and Analysis of Microring Resonator Modulators With Feedback Waveguide Coupling
+60914149	Modulation Characteristics Enhancement of Monolithically Integrated Laser Diodes Under Mutual Injection Locking
+7F7AFF0D	Tunable Diode Laser Spectroscopy for Industrial Process Applications: System Characterization in Conventional and New Approaches
+5EDA491E	Enhanced Optical Comb Generation by Gain-Switching a Single-Mode Semiconductor Laser Close to Its Relaxation Oscillation Frequency
+7DBAA1AD	A spread spectrum clock generator for SATA-II
+8051364E	Frequency discriminator based on ring-assisted fiber sagnac filter
+7E4DDACA	A VCO with wide tuning range and output switch for pulsed frequency modulated UWB signal generation
+7DAF6C11	Time domain analysis of transmission line using FDTD excited by modulated signal
+7DF6AA30	Sonar echo ranging using signals with nonlinear time-frequency characteristics
+5F63275D	A Pulse Compression Waveform for Weather Radars With Solid-State Transmitters
+8000B4CA	Design of Discrete Time Demodulators of AM- and FM-Harmonic Signals Using Energy Operators
+7C724086	20 GHz all-optical clock recovery based on fibre laser mode-locking with fibre nonlinear loop mirror as variable intensity/phase modulator
+800083A8	Signal Processing for FMCW SAR
+7E407968	A 405-MHz All-Digital Fractional- Frequency-Locked Loop for ISM Band Applications
+8071FBF5	A Power-Efficient Tunable Narrow-Band Digital Front End for Bandpass Sigma–Delta ADCs in Digital FM Receivers
+76C1B7F6	Milk Yield and Composition of Lactating Cows Fed Steam-Flaked Sorghum and Graded Concentrations of Ruminally Degradable Protein
+7D7D70AA	Looking Inside Modern Receivers
+75BA67A4	Effects of supplementation of flax meal and flax oil on mammary gene expression and activity of antioxidant enzymes in mammary tissue, plasma and erythrocytes of dairy cows
+7D659533	Multistream hybrid in band on channel FM systems for digital audio broadcasting
+76EF4AD6	Analogue intensity modulation schemes for optical fibre HDTV transmission
+720112E1	Modulation Rate Study in a Spin-Torque Oscillator-Based Wireless Communication System
+030495D3	Applications of analytic function theory to analysis of single-sideband angle-modulated systems
+7E0927CA	SoC with an integrated DSP and a 2.4-GHz RF transmitter
+7E4F1595	Frequency domain analysis of an optical FM discriminator
+8389DB17	A Spread Spectrum Clock Generator Using a Programmable Linear Frequency Modulator for Multipurpose Electronic Devices
+7E34E5E5	Error rate analysis of broadband binary FM in an indoor channel
+80962722	Combined Huffman code, row and column array code and phase/frequency modulation
+80EB4E08	Intermodulation Distortion of a Phase Locked Loop Demodulator
+7E39EBB2	Integrated Test for Silicon Front Ends
+8088A656	A method for time-frequency analysis
+7D8026C5	Cyclostationary-Based Architectures for Spectrum Sensing in IEEE 802.22 WRAN
+7A0AC8D3	Temporal modulation transfer functions for AM and FM stimuli in cat auditory cortex. Effects of carrier type, modulating waveform and intensity
+7B04BE60	A theoretical and experimental analysis of modulated laser fields and power spectra
+7FEFA932	Cross-mode bioelectrical impedance analysis in a standing position for estimating fat-free mass validated against dual-energy x-ray absorptiometry
+73144FB5	Speech enhancement based on temporal processing
+8094300C	Analysis of a Class-B Microwave-Photonic Link Using Optical Frequency Modulation
+80D209E5	A wideband compressive radio receiver
+7FECE0F2	FM click statistics in the presence of phase noise
+77F690EA	Physical and Processing Properties of Milk, Butter, and Cheddar Cheese from Cows Fed Supplemental Fish Meal
+80F6A6F3	Method to suppress multipath in radio receivers
+7912BD62	A belief propagation based hierarchical approach for capacitated network decomposition
+7F4F12E7	Performance of the cross-correlator receiver for binary digital frequency modulation
+7B2956C9	A digital-to-frequency synthesizer with clock dithering
+78B8CBE1	Power spectra of digital FM signals with complex signalling pulse shapes
+5886E075	FM-DCSK: a novel method for chaotic communications
+75FB92FE	Robust FM demodulation of discrete-time signals using least squares differential ratio
+812C92A2	Analysis of Radio Paging Errors in Multitransmitter Mobile Systems
+7FF56AD9	Local oscillator limited frequency stability for passive atomic frequency standards using square wave frequency modulation
+7E573691	Lv's Distribution: Principle, Implementation, Properties, and Performance
+7D2D510C	Estimation of time-varying velocities of moving objects by time-frequency representations
+7E1FB855	Airborne SAR processing of highly squinted data using a chirp scaling approach with integrated motion compensation
+76525C5E	Temperate forages ensiled with molasses or fresh cheese whey: Effects on conservation quality, effluent losses and ruminal degradation
+816F894A	Least-Squares Channel Estimation for Mobile OFDM Communication on Time-Varying Frequency-Selective Fading Channels
+806882E6	An Optimized Frequency Locking Loop Employing FM Spectroscopy for a CPT Based Atomic Clock
+778C66B6	Acoustic Noise Characterization of Space-Vector Modulated Induction Motor Drives—An Experimental Approach
+80E7E2D1	The influence of adjacent channel interference on FM communication system
+8162FC7F	Bandwidth Enhancement by Master Modulation of Optical Injection-Locked Lasers
+8113B978	Electrical wavelength-tunable actively mode-locked fiber ring laser with a linearly chirped fiber Bragg grating
+7DA6185D	Subcarrier multiplexed lightwave networks for broadband distribution
+736FEBC4	Wideband Interference Mitigation in High-Resolution Airborne Synthetic Aperture Radar Data
+83A9BA0F	Iterative Time-Frequency Filtering of Sinusoidal Signals With Updated Frequency Estimation
+7F76D50B	Effect of monotone interference on the performance of the combined active-passive microwave discriminator
+78FA8A29	Effort to formulate voltage modulation constraints in ship-electrical systems with pulsed loads
+7FC582FE	Multiple-Tap, Tunable Microwave Photonic Interference Mitigation Filter
+7FDB86E0	Code diversity transmission in a slow-frequency-hopped spread spectrum multiple-access communication system
+7FC2B447	Frequency noise and modulation of a four-section DBR laser
+77EA6D50	Green tea polyphenols benefits body composition and improves bone quality in long-term high-fat diet–induced obese rats
+7F8D8901	Mitigation of periodic interferers in GPS receivers using subspace projection techniques
+7F00CC43	A study of oscillator jitter due to supply and substrate noise
+812DFBBF	Static and dynamic analysis of tunable two-section high-speed distributed feedback laser utilizing the gain lever effect
+7F4D5DA6	The effect of varying stimulus phase between frequency and amplitude modulation on auditory steady-state responses in neonates
+7FCA1BF6	Discrete-time instantaneous frequency and its computation
+774C4DD1	Intermodulation and a.m./p.m. distortion in f.m./f.d.m. radio systems during 2-path propagation
+7A5D1B4D	Should recognizers have ears?
+58E55D58	AM-FM methods for image and video processing
+7ABD9C76	Variable-Bandwidth Superchannels Using Synchronized Colorless Transceivers
+7FBCB667	OFDM for data communication over mobile radio FM channels. I. Analysis and experimental results
+813B167D	Efficiency improvement of optical fiber wavelength converter without spectral spread using synchronous phase/frequency modulations
+7DFEBE86	Performance of an FMCW radar sensor
+7FFDD0CD	All-fiber video distribution (AFVD) systems using SCM and EDFA techniques
+758916EF	Design of frequency-modulated correlation delay shift keying chaotic communication system
+6CC322D7	SFM signal detection and parameter estimation based on pulse-repetition-interval transform
+7F174084	Conditions for positivity of an energy operator
+7763A14E	The Influence of Substrate Stiffness on the Performance of a Magnetoelastic Bilayer Gas Flow Sensor
+7E3AD479	Blind GPS receiver with a modified despreader for interference suppression
+7D70117B	Coherence addressing of quasi-distributed absorption sensors by the FMCW method
+0506AA10	Application of Numerical Methods to Elasticity Imaging
+7D2235FC	FPGA implementation of a digital FM modem for SDR architecture
+80C4DE5B	Noise in FM receivers with negative frequency feedback
+7F17E3DE	Generation of nyquist sinc pulses using intensity modulators
+7AE53CA8	Digital Phase Lock for Optimum Demodulation
+7F884997	Co-channel signal separation using coupled digital phase-locked loops
+78514444	Evidence for a dual versus single origin of the MMNs evoked by cued versus cueless deviants
+5F771741	Detection of wireless signals in broadband cognitive PLC using the modified 2-D LAD ACC algorithm
+77A95895	Effects of Rumen-Undegradable Protein on Dairy Cow Performance: A 12-Year Literature Review1
+800E0FC0	Pulse compression inside an actively AM mode-locked ND:YAG laser using a liquid Kerr cell
+80BAD82A	Measurement technique for characterizing memory effects in RF power amplifiers
+7E1290DB	EMI improvements using the switching frequency modulation in a resonant inverter for domestic induction heating appliances
+77BE765E	Separable TFM signal and its equivalence principle
+808ACCC0	Estimation of the time-varying frequency of a signal: the Cramer-Rao bound and the application of Wigner distribution
+7E203A6A	A new approach to VHF/FM broadcast receiver using digital signal processing techniques
+7F9F090E	Digital channelized receiver based on time-frequency analysis for signal interception
+7F6A882D	A 3D self-positioning method for wireless sensor nodes based on linear FMCW and TFDA
+807693B0	Estimation of spontaneous respiratory rate from photoplethysmography by cross time-frequency analysis
+800F0905	A new approach to multipath correction of constant modulus signals
+80733300	Correlation based speech-video synchronization
+7DC8CB34	Reconstruction from the multi-component AM-FM image representation
+805E187D	Design of a Scalable and Programmable Sound Synthesizer
+7914A0A6	Multicomponent AM-FM demodulation via periodicity-based algebraic separation and energy-based demodulation
+7EAB139A	A Linear Approximation of GMSK Modulation for GSM/EDGE Mobile Communications
+7F781F59	An orthogonal set of frequency and amplitude modulated (FAM) functions for variable resolution signal analysis
+81372590	First-order sideband pulling in atomic frequency standards
+7F2FC8F0	Extended robust semiconductor laser modeling for analog optical link simulations
+7E0524F2	The Spectrum of a High-Index FM Waveform: Woodward's Theorem Revisited
+814365C1	Higher order differential energy operators
+80B5CDFC	Applicability and Test-Retest Reliability of Isokinetic Shoulder Abduction and Adduction in Women Fibromyalgia Patients
+7F6530BD	Microwave Oscillator Noise Reduction by a Transmission Stabilizing Cavity
+80570365	Direct frequency modulation of an ADPLL for bluetooth/GSM with injection pulling elimination
+8022B987	Multiband Modulation Energy Tracking for Noisy Speech Detection
+7F834915	Target Detecting Based on Improved WVD-HT for Radio Frequency Interference to UWB-SAR
+7B8786AE	Low current density, inverted polarity, high-speed, top-emitting 850 nm vertical-cavity surface-emitting lasers
+7F5C86D2	High power and narrow spectral linewidth 1.5 mu m MQW-DFB-LDs with low FM dip frequency
+5433799D	Going beyond 4 Gbps data rate by employing RGB laser diodes for visible light communication
+805FE64F	Nonlinear frequency modulated signal detection based on time-frequency tiling
+7F4814D3	Waveform design and doppler sensitivity analysis for nonlinear FM chirp pulses
+8022B34D	Optical Single Sideband Modulation Using Strong Optical Injection-Locked Semiconductor Lasers
+7ECF8C95	Terahertz operation of quantum-well intersubband hot-electron phototransistors
+76D769CB	Combining multi-objective search and constraint solving for configuring large software product lines
+7D125250	Signal enhancement by time-frequency peak filtering
+7D31503D	Error performance analysis for narrow-band duobinary FM with discriminator detection and soft decision decoding
+7E09476E	Energy separation in signal modulations with application to speech analysis
+7CF22EFA	AM-FM separation using auditory-motivated filters
+7637EDF3	Multi-channel multi-carrier generation using multi-wavelength frequency shifting recirculating loop
+7A656283	Photonics-Assisted Serial Channelized Radio-Frequency Measurement System With Nyquist-Bandwidth Detection
+7FFE950C	Improvement on High Frame Rate Ultrasonic Imaging System Based-on Linear Frequency-Modulated Signal
+7EDF7183	Definitions of "total" estimators of common time-domain variances
+7F9C126A	Broad-band absolute frequency synthesis of pulsed coherent lightwaves by use of a phase-modulation amplified optical ring
+7D75D877	A tunable SC bandpass delta-sigma modulator for multi-standard applications
+80627D22	Chirp Managed Laser and Applications
+7C595121	Ruminal Degradation, Amino Acid Composition, and Estimated Intestinal Digestibilities of Four Protein Supplements1
+804AD110	Adaptive Loading Algorithm Implemented in AMOOFDM for NG-PON System Integrating Cost-Effective and Low-Bandwidth Optical Devices
+80459FA3	Peak-to-average power ratio in high-order OFDM
+7C2E5D6B	Single user detection of continuous phase modulated multiuser systems
+7FA085F6	A Novel Broadband Photonic RF Phase Shifter
+80E3FB0B	Projection-based adaptive AM-FM chirp components signal decomposition
+7EDAABCF	Optimum Angle Demodulation with Saturation Nonlinearity in the Modulator
+7D24DA62	Surface shape measurement for a multilayered object by synthesis of optical coherence function
+7EED9FB1	Generalisation of the Dick effect to continuous beam frequency standards
+816F0990	Instantaneous frequency estimation of nonlinear frequency-modulated signals in the presence of multiplicative and additive noise
+7E45658E	Noncoherent Detection of Tamed Frequency Modulation
+7E50951F	An adaptive coding scheme with code combining for mobile radio systems
+7FFF9A2B	Reducing Acoustic Noise Radiated by Inverter-Fed Induction Motors Controlled by a New PWM Strategy
+7FA74492	The selection of the low frequency for radial modulation imaging at 20 MHz
+7FFE9676	A new method for the integration of modulation and channel coding in an ARQ protocol
+84016087	Spin-Transfer Torque Devices for Logic and Memory: Prospects and Perspectives
+5F55C927	Respiratory frequency estimation from heart rate variability signals in non-stationary conditions based on the Wigner-Ville distribution
+8009A917	Optimum system parameters for multigigabit CPFSK optical heterodyne detection systems
+8163497B	A new high SNR Sigma-Delta Modulator for fractional-N frequency synthesizers
+7F27DB7F	4 $\,\times\,$ 25 Gb/s Frequency-Modulated DBR Laser Array for 100-GbE 40-km Reach Application
+7ED86BE7	Pure frequency modulation of a multielectrode distributed-Bragg-reflector (DBR) laser diode
+7E1E7E8E	77 GHz ACC radar simulation platform
+75E24CE9	Effect of ensiling technology on protein degradation during ensilage
+7F58FE02	Spectral line profiles generated by deterministic frequency modulation
+7F6B7949	Error Analysis and Improvement Design of Auto-digital Phasometer (II)
+7AC8EA2B	A Highly Digital VCO-Based ADC Architecture for Current Sensing Applications
+808FA833	Frequency offset compensator for land mobile zero-crossing digital FM receiver
+7AD67C39	FM-based indoor localization via automatic fingerprint DB construction and matching
+78A9D741	Multichannel optical frequency-locked multicarrier source generation based on multichannel recirculation frequency shifter loop
+78300C87	Scalable High-CW-Power High-Speed 980-nm VCSEL Arrays
+7D92A305	Multiscale Amplitude-Modulation Frequency-Modulation (AM–FM) Texture Analysis of Ultrasound Images of the Intima and Media Layers of the Carotid Artery
+77CED042	Use of distiller's dried grains with solubles (DDGS) in rainbow trout feeds
+7E8BEB04	Phase jitter dynamics of first-order digital phase-locked loops with frequency-modulated input
+80BCDECD	Theoretical investigation of the second-order harmonic distortion in the AM response of 1.55 mu m F-P and DFB lasers
+7EA0FB6E	Measurement of Angular Vibrations in Rotating Shafts: Effects of the Measurement Setup Nonidealities
+7D51D7BC	Analysis of random nonlinear water waves: the Stokes–Woodward technique
+8127EB81	Design, fabrication, and application of precise SAW delay lines used in an FMCW radar system
+7FD6A7B5	Cramer-Rao bounds for wavelet transform-based instantaneous frequency estimates
+5F2624E7	On-chip jitter tolerance measurement technique for CDR circuits
+73C3D0C7	Fast single-frequency time-of-flight range imaging
+8151DC93	Laser Optimization Guidelines for Dispersion Supported Transmission Systems Operating at Arbitrary Bit Rates
+7E9E60E1	High-spectral purity RF beat note generated by a two-frequency solid-state laser in a dual thermooptic and electrooptic phase-locked loop
+7DA6B4F9	Analog Neural Network Implementation for a Real-Time Surface Classification Application
+7FA94F6C	On instantaneous amplitude and phase of signals
+8121C04F	Investigation of Bias Current and Modulation Frequency Dependences of Detectivity of YBCO TES and the Effects of Coating of Cu–C Composite Absorber Layer
+7EB780CF	Non-stationarity analysis of real X-Band clutter data at different resolutions
+7E519400	Charge control for zero-voltage-switching multiresonant converter
+7D9E2920	A New Color Filter Array With Optimal Properties for Noiseless and Noisy Color Image Acquisition
+7F7A9C22	Capacity Theorem for Finite Duration Symbols
+7D032BBA	Design of FM-QACSK chaotic communication system
+8082CC25	All-digital transmitter architecture based on bandpass delta-sigma modulator
+5CB7E18F	Instantaneous frequency estimation using level-crossing information
+77799DFE	Monaural speech/music source separation using discrete energy separation algorithm
+7B0E9014	Direction-of-arrival estimation of nonstationary signals exploiting signal characteristics
+812EB1F8	Real-time signal processing system for high resolution CWLFM millimeter-wave radars
+766DA774	Small-Signal Modeling of Uniformly Sampled Phase-Shift Modulators
+7D8DFDDB	A sixth-order continuous-time bandpass sigma-delta modulator for digital radio IF
+7DA13E98	A Comparative Investigation of Several Frequency Modulation Profiles for Programmed Switching Controllers Targeted Conducted-Noise Reduction in DC-DC Converters
+77C42D0D	Interstitial Cystitis/Painful Bladder Syndrome and Associated Medical Conditions With an Emphasis on Irritable Bowel Syndrome, Fibromyalgia and Chronic Fatigue Syndrome
+8020E57A	Differential modulation and cyclic delay diversity in orthogonal frequency-division multiplex
+7F933245	Calculating combined amplitude and phase modulated power signal parameters
+792BFF84	Different analysis of frequency and amplitude modulations of a continuous tone in the human auditory cortex: A neuromagnetic study
+79D3AE3B	Exact analytical solutions and their applications for interacting waves in quadratic nonlinear medium
+604D235F	A unity power factor electronic ballast for metal halide lamps
+7FEA24F4	Block error probability of narrowband digital FM with frequency detection in land mobile radio
+807A47FF	MEMS-based all-digital frequency synthesis for ultralow-power radio for WBAN and WSN applications
+7F0D0231	A high-resolution quadratic time-frequency distribution for multicomponent signals analysis
+8159F319	Space/spatial-frequency analysis based filtering
+59DA981B	Modulation domain texture retrieval for CBIR in digital libraries
+7C19FBC7	Comparison of Robotics, Functional Electrical Stimulation, and Motor Learning Methods for Treatment of Persistent Upper Extremity Dysfunction After Stroke: A Randomized Controlled Trial
+7FA0D615	A novel speech-processing strategy incorporating tonal information for cochlear implants
+787DDBC6	Study on Frequency Coherence Properties of Light Beams

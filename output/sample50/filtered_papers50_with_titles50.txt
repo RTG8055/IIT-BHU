@@ -1,0 +1,1182 @@
+810C904A	Spectral analysis of alignment in manifold learning
+5F25758C	Self-organized Locally Linear Embedding for Nonlinear Dimensionality Reduction
+75ADE9A2	Spectral Connectivity Analysis
+589CBE41	Nonlinear dimensionality reduction for face recognition
+7F5C3812	Energy Map: Mining Wireless Sensor Network Data
+80A2F317	Estimating Human Age by Manifold Analysis of Face Pictures and Regression on Aging Features
+816B8DC1	Electricity Price Curve Modeling and Forecasting by Manifold Learning
+052CBEF3	Uncorrelated neighborhood preserving projections for face recognition
+7D051ECD	Multiresolution manifold learning for classification of hyperspectral data
+79AFCFF2	Evolutionary kernel density regression
+04330461	Incremental Manifold Learning Via Tangent Space Alignment
+7E416DF5	Nonlinear Dimensionality Reduction of Data Lying on the Multicluster Manifold
+7DA330D7	Compressed Locally Embedding
+7A371178	Robust non-linear dimensionality reduction using successive 1-dimensional Laplacian Eigenmaps
+7647B04A	Supervised kernel neighborhood preserving projections for radar target recognition
+7FB06433	3D CAD model search: A regularized manifold learning approach
+7F37947E	A method based on manifold learning and Bagging for text classification
+5EE2A94B	Learning Manifolds for Bankruptcy Analysis
+79E5723D	Discriminant non-negative graph embedding for face recognition
+81293DDF	A new dimensionality analysis algorithm for hyperspectral imagery
+7E0A6E71	Graph-based methods for unsupervised and semi-supervised learning
+7DFE4D6C	Biased Discriminant Euclidean Embedding for Content-Based Image Retrieval
+78857CD6	Tracking feature extraction based on manifold learning framework
+8165530D	Revealing biogeographical patterns by nonlinear ordinations and derived anisotropic spatial filters
+759EC429	Nonlinear Shape-Texture Manifold Learning
+812D5A6F	Manifold Integration with Markov Random Walks
+7FC9553F	Analyzing fMRI data with graph-based visualizations of self-organizing maps
+7C759A18	Locally affine patch mapping and global refinement for image super-resolution
+78BFA79B	Silhouette analysis for human action recognition based on maximum spatio-temporal dissimilarity embedding
+7D45364D	Target Detection With Semisupervised Kernel Orthogonal Subspace Projection
+7D0A6DA7	Distributed distance estimation for manifold learning and dimensionality reduction
+7ED7C9BB	Learning a Manifold as an Atlas
+80EE3EDF	Proximity Graphs for Clustering and Manifold Learning
+77541EA1	Dimensionality reduced cortical features and their use in predicting longitudinal changes in Alzheimer's disease
+7D015327	Active Learning via Multi-View and Local Proximity Co-Regularization for Hyperspectral Image Classification
+815E9381	Kernel Laplacian Eigenmaps for Visualization of Non-vectorial Data
+7A1F14F1	Kernel class-wise locality preserving projection
+78B448C3	Nonlinear dimensionality reduction algorithm and application to hospital performance evaluation: Nonlinear dimensionality reduction algorithm and application to hospital performance evaluation
+59D48116	Pre-image as Karcher Mean Using Diffusion Maps: Application to Shape and Image Denoising
+7DCD319D	Manifold-Manifold Distance with application to face recognition based on image set
+5F5AC444	Topology Preservation Measures in the Visualization of Manifold-Type Multidimensional Data
+7D700FB2	Curve Profiling Feature: Novel Compact Representation for Drosophila Embryonic Gene Expression Pattern Mining
+794238CE	Gait analysis for human identification through manifold learning and HMM
+7D315814	Uncorrelated Discriminant Locality Preserving Projections
+7DA194ED	A Model of Selecting the Parameters Based on the Variance of Distance Ratios for Manifold Learning Algorithms
+7A799560	Reliable Representation of Data on Manifolds
+7C934014	Acoustic Space Learning for Sound Source Separation and Localization on Binaural Manifolds
+7991A670	A manifold learning-based reduced order model for springback shape characterization and optimization in sheet metal forming
+5DCB0BEE	Video Analysis Via Nonlinear Dimensionality Reduction
+7A64C7B3	Neighborhood discriminant projection for face recognition
+8508E196	Laplacian Auto-Encoders
+76FBCB90	Spatially Coherent Nonlinear Dimensionality Reduction and Segmentation of Hyperspectral Images
+80C70084	Gaussian process for human motion modeling: A comparative study
+763E7292	Manifold learning for image-based breathing gating in ultrasound and MRI
+7E3E6C72	Estimating Local Intrinsic Dimension with k-Nearest Neighbor Graphs
+7A1D67FC	Natural facial expression recognition using differential-AAM and manifold learning
+7F35830D	Synchronized Submanifold Embedding for Person-Independent Pose Estimation and Beyond
+82A86AC9	Phone classification via manifold learning based dimensionality reduction algorithms
+8148E9AC	Recognizing Human Activities from Silhouettes: Motion Subspace and Factorial Discriminative Graphical Model
+7669BEE8	Image retrieval based on augmented relational graph representation
+7E8C1A6C	Discriminative Orthogonal Neighborhood-Preserving Projections for Classification
+75151BAB	Kernel-based nonlinear dimensionality reduction for electrocardiogram recognition
+0693BF81	Learning a ground object manifold for interpreting high-resolution sensor image
+7AA2D4C7	Multi-scale similarities in stochastic neighbour embedding: Reducing dimensionality while preserving both local and global structure
+7BB31FC6	Clustered Nyström Method for Large Scale Manifold Learning and Dimension Reduction
+812A13F9	Face Recognition Based on Kernel Schur-Orthogonal Neighborhood Preserving Discriminant Embedding
+7E9963AF	An Adaptive Manifold Learning Algorithm Based on ISOMAP
+7CFD2D74	An outlier-insensitive Linear Pursuit Embedding algorithm
+712559D5	Face recognition with weighted locally linear embedding
+753D4638	Semi-Supervised Learning on Riemannian Manifolds
+79C1C45E	An enhanced 3D data transfer method for fluid–structure interface by ISOMAP nonlinear space dimension reduction
+5CF42687	Manifold alpha-integration
+7BEC40DD	Topological obstructions in the way of data-driven collective variables
+79A8FAD8	Similar handwritten Chinese character recognition by kernel discriminative locality alignment
+76242746	An automatic patient-specific seizure onset detection method in intracranial EEG based on incremental nonlinear dimensionalityreduction
+7EF58F8A	Dense Non-rigid Point-Matching Using Random Projections
+5F7D8B94	View invariant activity recognition with manifold learning
+80865609	Global versus local methods in nonlinear dimensionality reduction
+07D9CFBD	Chapter 6 - Data Dimensionality Reduction in Materials Science
+3F308A66	Making nonlinear manifold learning models interpretable: The manifold grand tour
+7EE149A9	Intrinsic Dimensionality Estimation with Neighborhood Convex Hull
+7A1554AE	A Natural Feature Representation for Unstructured Environments
+7E3AB378	3D caricature generation by manifold learning
+7D4CE260	Incremental Embedding and Learning in the Local Discriminant Subspace With Application to Face Recognition
+7D61AC80	Regularized Kernel Local Linear Embedding on Dimensionality Reduction for Non-vectorial Data
+77CBB268	Noisy manifold learning using neighborhood smoothing embedding
+80F3D009	Locally Multidimensional Scaling for Nonlinear Dimensionality Reduction
+7C454396	Intrinsic dimension estimation of manifolds by incising balls
+810FDB61	Pre-image Problem in Manifold Learning and Dimensional Reduction Methods
+7E517556	An Evaluated Model Based on the Variance of Distance Ratios for Nonlinear Dimensionality Reduction Algorithms
+815D9182	A Novel Two-Stage Cancer Classification Method for Microarray Data Based on Supervised Manifold Learning
+8035E91F	Support Vector Machines Based on Spread Directions of Manifold
+78220CD4	Super-resolution of human face image using canonical correlation analysis
+764B9265	Event monitoring via local motion abnormality detection in non-linear subspace
+7C8D375F	Graph visualization with latent variable models
+7C19129D	Learning orthogonal projections for Isomap
+7BE393AC	Analysis of an alignment algorithm for nonlinear dimensionality reduction
+7F7F0E41	Manifold learning for premature ventricular contraction detection
+7E653C0D	Classification constrained dimensionality reduction
+7F592AFE	On the Role and Impact of the Metaparameters in t-distributed Stochastic Neighbor Embedding
+7FB83F0B	Manifold-Based Learning and Synthesis
+7F9D30FA	On Climate Reconstruction Using Bivalve Shells : Three Methods To Interpret the Chemical Signature of a Shell
+776CF7C2	Stable locality sensitive discriminant analysis for image recognition
+7F530368	Manifold Learning by Graduated Optimization
+7FD2A783	An experimental comparison of preprocessing methods for age classification
+7B5123B6	Discriminative human action recognition in the learned hierarchical manifold space
+76066D52	Self-taught dimensionality reduction on the high-dimensional small-sized data
+76F74B0C	Gene Classification Using Parameter-Free Semi-Supervised Manifold Learning
+79149766	Li-ion battery capacity estimation: A geometrical approach
+7E3EC557	Manifold alignment for multitemporal hyperspectral image classification
+7811CEF2	Local margin based semi-supervised discriminant embedding for visual recognition
+7D0157AF	Manifold elastic net for sparse learning
+7DA66788	A Natural Facial Expression Recognition Using Differential-AAM and k-NNS
+21D5EA60	Learning Non-linear Structures with Gaussian Markov Random Fields
+07268F9A	Nonlinear Manifold Learning for Data Stream
+7DE4D2F6	Charting a Manifold
+7EE37835	Image denoising through locally linear embedding
+787C57AE	Manifold Reconstruction Using Tangential Delaunay Complexes
+7E1FCB98	Quality assessment of nonlinear dimensionality reduction based on K-ary neighborhoods
+7E5331FD	Tensor Voting: A Perceptual Organization Approach to Computer Vision and Machine Learning
+7D6FA1BA	Manifold-Based Supervised Feature Extraction and Face Recognition
+802B14C8	On Analyzing Diffusion Tensor Images by Identifying Manifold Structure Using Isomaps
+5E360F2B	Tangent space learning and generalization
+80FB23EE	Covariate-dependent dictionary learning and sparse coding
+7AA0673D	LEAP: Learning embeddings for atlas propagation
+5F13CBF2	Principal Manifolds and Nonlinear Dimension Reduction via Local Tangent Space Alignment
+7BF37801	Integrating nonlinear graph based dimensionality reduction schemes with SVMs for credit rating forecasting
+812C2B2B	Spectral methods for semi-supervised manifold learning
+751A8D84	Supervised sparse manifold regression for head pose estimation in 3D space
+58C71723	k/K-Nearest Neighborhood Criterion for Improvement of Locally Linear Embedding
+80FC59A6	A Unifying Theorem for Spectral Embedding and Clustering
+7E00939B	Monitoring High-Dimensional Data for Failure Detection and Localization in Large-Scale Computing Systems
+7D0FD3D7	ManifoldBoost: stagewise function approximation for fully-, semi- and un-supervised learning
+7EAE40F5	Dimensionality reduction of scene and enemy information in Mario
+856832FF	Locally learning heterogeneous manifolds for phonetic classification
+58C855D1	Extensions of Manifold Learning Algorithms in Kernel Feature Space
+07E29504	Supervised Spectral Latent Variable Models
+5E94B5F1	Face recognition based on gabor enhanced marginal fisher model and error correction SVM
+79BBF480	Eigenvalue bounds for an alignment matrix in manifold learning
+75D5D9D7	The effect of handedness on the shape of the central sulcus
+7EDCC8F1	Local Marginal Projection and Its Applications
+80DF96F7	A unifying framework for spectral analysis based dimensionality reduction
+76C3AC15	Kernel flexible manifold embedding for pattern classification
+806D82C9	Dual Gait Generative Models for Human Motion Estimation From a Single Camera
+7BB3F291	Manifold optimal experimental design via dependence maximization for active learning
+59454288	An improved body action recognition method based on manifold learning
+5D22AD5A	Multiple Manifolds Learning Framework Based on Hierarchical Mixture Density Model
+09CDD739	Discriminant Analysis on Embedded Manifold
+5AFBA445	Learning an Efficient Texture Model by Supervised Nonlinear Dimensionality Reduction Methods
+7B14BE42	A supervised manifold learning method
+751FBADC	Sample based 3D face reconstruction from a single frontal image by adaptive locally linear embedding
+7C324AE9	Multi-view ensemble manifold regularization for 3D object recognition
+7FC6576E	Face recognition based on manifold learning and Rényi entropy
+7B6BF23F	A Metric Multidimensional Scaling-Based Nonlinear Manifold Learning Approach for Unsupervised Data Reduction
+7AFE7DD0	Feature extraction based on semi-supervised kernel Marginal Fisher analysis and its application in bearing fault diagnosis
+84C10F5D	Complete Lattice Learning for Multivariate Mathematical Morphology
+7EC3C932	Learning the 2-D Topology of Images
+7EA0F5C2	On Local Intrinsic Dimension Estimation and Its Applications
+66187E4C	Metric Learning for Regression Problems and Human Age Estimation
+79F2ABAD	A semi-supervised approach for dimensionality reduction with distributional similarity
+8064BFA4	Classification of potential nuclei in prostate histology images using shape manifold learning
+7D41B9EC	Segmentation informed by manifold learning
+7EE6FC87	Analysis and Visualization of Gene Expression Data via a Framework of Geometric Representation
+783278E6	Nonlinear dimensionality reduction approaches applied to music and textural sounds
+59FE7313	Distortion-Free Nonlinear Dimensionality Reduction
+76ACC639	Spectral Properties of the Alignment Matrices in Manifold Learning
+7BD858B0	Principal Manifolds and Nonlinear Dimensionality Reduction via Tangent Space Alignment
+7BE46FEE	Towards manifold learning for gamebot behavior modeling
+5D54CAB5	High-throughput prostate cancer gland detection, segmentation, and classification from digitized needle core biopsies
+7B44D5DF	Proximal support vector machine using local information
+7F10400F	Hierarchical Structuring of Data on Manifolds
+59761DCA	Spectral clustering on manifolds with statistical and geometrical similarity
+5B1A80F0	Manifold Learning for Multi-classifier Systems via Ensembles
+7CF8D974	Tensor Distance Based Multilinear Locality-Preserved Maximum Information Embedding
+80DCC281	Nonlinear Dimensionality Reduction by Locally Linear Inlaying
+803C2D32	Learning a Metric Space for Neighbourhood Topology Estimation: Application to Manifold Learning
+78B407CA	A Survey of Manifold Learning for Images
+791D1424	An intelligent fault diagnosis method of rolling bearings based on regularized kernel Marginal Fisher analysis
+80C15C84	A Complex Biometric System for Person Verification and Identification through Face, Fingerprint and Voice Recognition
+7B3BF418	Machinery fault diagnosis using supervised manifold learning
+76AD72F7	Supervised locally linear embedding projection (SLLEP) for machinery fault diagnosis
+7B850BA0	Effective multiplicative updates for non-negative discriminative learning in multimodal dimensionality reduction
+7B886EF8	Sequential manifold learning for efficient churn prediction
+7A71B1B2	Statistical and computational analysis of locality preserving projection
+77C1A130	Ranking on semantic manifold for shape-based 3d model retrieval
+7C65BD90	Nonlinear dimensionality reduction with relative distance comparison
+7D3535F1	Steganalysis for JPEG images based on manifold learning
+76921F75	Dimensionality reduction-based spoken emotion recognition
+80373A73	Perception-Based Visualization of Manifold-Valued Medical Images Using Distance-Preserving Dimensionality Reduction
+5CFF6C5C	Topographic feature mapping for head pose estimation with application to facial gesture interfaces
+7DA771DF	Clustering-based Locally Linear Embedding
+7C112C7C	Building k-edge-connected neighborhood graph for distance-based data projection
+7E0F9892	Alternative robust local embedding
+7C81042D	Prediction-oriented dimensionality reduction of industrial data sets
+7E6513F6	A Version of Isomap with Explicit Mapping
+7EC29AEB	An Experimental and Computational Investigation of Spontaneous Lasso Formation in Microcin J25
+7FC09A1B	Selecting Landmark Points for Sparse Manifold Learning
+788099C9	Semi-Supervised Nonparametric Discriminant Analysis
+7C63C4B4	Fault diagnosis for a wind turbine transmission system based on manifold learning and Shannon wavelet support vector machine
+7E580F98	Nonlinear Dimensionality Reduction and Data Visualization： A Review
+69048986	Simbed: Similarity-Based Embedding
+816A2B50	Kernel Based Nonlinear Dimensionality Reduction and Classification for Genomic Microarray.
+754CFB7E	Uncorrelated discriminant simplex analysis for view-invariant gait signal computing
+78D1106C	Discriminative topic modeling based on manifold learning
+7DF5AED3	Unsupervised Regression with Applications to Nonlinear System Identification
+795AF71E	Neighborhood preserving regression for image retrieval
+79F67CD8	Gene expression data classification using locally linear discriminant embedding
+59EFA5B3	Image Classification Approach Based on Manifold Learning in Web Image Mining
+8144385B	SHREC’08 entry: Semi-supervised learning for semantic 3D model retrieval
+5A9CAA99	Trajectory based behavior analysis for user verification
+80BA4E52	Adaptive Neighborhood-Preserving Discriminant Projection Method for HRRP-Based Radar Target Recognition
+805EFECE	Human Action Recognition Using Manifold Learning and Hidden Conditional Random Fields
+7EA1A872	Principal Polynomial Analysis
+7D44358F	Manifold Learning Applied on EEG Signal of the Epileptic Patients for Detection of Normal and Pre-Seizure States
+7DA67B7C	Isomap Based on the Image Euclidean Distance
+7F76954A	Unsupervised Learning of Image Manifolds by Semidefinite Programming
+78C4D2BE	Putting local features on a manifold
+7858CCF1	A novel cache size optimization scheme based on manifold learning in Content Centric Networking
+6C6BDE1C	Out-of-Plane Motion Compensation in Cine-MRI
+5B3CE477	Combining morphological information in a manifold learning framework: application to neonatal MRI
+697B78DF	Face Recognition Based on Gabor-Enhanced Manifold Learning and SVM
+803ACB73	Biased isomap projections for interactive reranking
+7E0E1620	Reliable segmentation of pedestrians in moving scenes
+76A8DF44	Automatic fault diagnosis of rotating machines by time-scale manifold ridge analysis
+81718572	Inductive Hashing on Manifolds
+809A024D	Fast manifold learning based on Riemannian normal coordinates
+5E9F4113	Supervised Locally Linear Embedding for Plant Leaf Image Feature Extraction
+798E6501	Discriminant diffusion maps analysis: A robust manifold learner for dimensionality reduction and its applications in machine condition monitoring and fault diagnosis
+7FF85308	Manifold modeling for brain population analysis.
+814EB673	Learning a Locality Preserving Subspace for ISAR Target Recognition
+7CEA21B9	Sensor Map Discovery for Developing Robots
+78E70853	A framework for optimal kernel-based manifold embedding of medical image data
+5F1C2DF7	Manifold learning for image-based gating of intravascular ultrasound(IVUS) pullback sequences
+7DC80A99	Dimension Reduction in Intrusion Detection Using Manifold Learning
+80BC6E27	A Novel Algorithm to Multi-manifolds Data Sets Classification
+72728C8F	Stability of dimensionality reduction methods applied on artificial hyperspectral images
+80757554	Retrieval Based Cartoon Synthesis via Heterogeneous Features Learning
+8062AD92	A Volume-Based Heat-Diffusion Classifier
+5B2846DA	Endoscopic Video Manifolds
+7DB21491	Parallel vector field embedding
+76FD2C4F	Transfer learning for pedestrian detection
+7E46387A	Histogram-Based Fisher Information Embedding for Manifolds Clustering and Visualization
+8014BB6E	A super-resolution method for low-quality face image through RBF-PLS regression and neighbor embedding
+7C272BBC	A methodology to compare Dimensionality Reduction algorithms in terms of loss of quality
+5D4F232D	Learning of highly-filtered data manifold using spectral methods
+6A0E6C0D	Groupwise simultaneous manifold alignment for high-resolution dynamic MR imaging of respiratory motion
+79D44D7B	Linear versus nonlinear dimensionality reduction for banks’ credit rating prediction
+7541A866	Discriminative structure discovery via dimensionality reduction for facial image manifold
+816BC093	Passive millimeter-wave metal target recognition based on manifold learning
+7ADFA9E0	A new embedding quality assessment method for manifold learning
+79F039E4	UL-Isomap based nonlinear dimensionality reduction for hyperspectral imagery classification
+7EB935A4	Global Sparse Representation Projections for Feature Extraction and Classification
+7CA9D4F9	Nonlinear dimensionality reduction with hybrid distance for trajectory representation of dynamic texture
+8107683A	A COMPUTATIONAL AND THEORETICAL ANALYSIS OF LOCAL NULL SPACE DISCRIMINANT METHOD FOR PATTERN CLASSIFICATION
+709132F8	Incremental Manifold Learning Algorithm Using PCA on Overlapping Local Neighborhoods for Dimensionality Reduction
+80CCF2AE	Synergetic method of traffic state recognition based on manifold learning
+7F8A62D7	Out-of-sample extrapolation using semi-supervised manifold learning (OSE-SSL): Content-based image retrieval for prostate histology grading
+7CC43B90	A new quality assessment criterion for nonlinear dimensionality reduction
+77FFED57	Model-Driven Domain Adaptation on Product Manifolds for Unconstrained Face Recognition
+7514A06A	Dynamic Textures Synthesis as Nonlinear Manifold Learning and Traversing
+7EB75E94	Adaptive mesh compression in 3D computer graphics using multiscale manifold learning
+7746FE50	A Global Geometric Framework for Nonlinear Dimensionality Reduction
+7B8F0CFC	Cartogram visualization for nonlinear manifold learning models
+7A1EC176	Incremental manifold learning by spectral embedding methods
+79B10C8C	Localization algorithm in wireless sensor networks based on semi-supervised manifold learning and its application
+081D013B	Manifold learning for visualization of vibrational states of a rotating machine
+7EDD2C28	Manifold learning with local geometry preserving and global affine transformation
+7972D42D	Information retrieval approach to meta-visualization
+5A99524E	Orthogonal locally discriminant projection for palmprint recognition
+79F51204	Manifold parametrizations by eigenfunctions of the Laplacian and heat kernels
+7E1361D8	Nonlinear dimensionality reduction methods for pattern recognition
+7F53754B	Text Data Mining: Theory and Methods
+80E0A1D6	Brushing of Attribute Clouds for the Visualization of Multivariate Data
+7E6A6BF6	Principal tangent data reduction
+7D145A24	Multimodal preserving embedding for face recognition
+7CC932E2	Plant leaf roughness analysis by texture classification with generalized Fourier descriptors in a dimensionality reduction context
+7AD5A725	Learning image manifold via local tensor subspace alignment
+7607CDE8	An improved local tangent space alignment method for manifold learning
+7A97D25F	Bidirectional-isomorphic manifold learning at image semantic understanding & representation
+7D4B252B	Multi-view face recognition based on tensor subspace analysis and view manifold modeling
+7B0AE691	Triangulating Smooth Submanifolds with Light Scaffolding
+80BF9A9C	Two manifold learning techniques for sensor localization
+7E4CBB2B	Unsupervised Nonlinear Dimensionality Reduction Based on Tensor Tangent Space Alignment
+7521AB1E	Dimensionality Reduction on Multi-Dimensional Transfer Functions for Multi-Channel Volume Data Sets.
+791AF84C	Integrating Nonlinear Dimensionality Reduction with Random Forests for Financial Distress Prediction
+76A43694	Exploring the structure of supervised data by Discriminant Isometric Mapping
+7FDC5B0D	Nonnegative Embeddings and Projections for Dimensionality Reduction and Information Visualization
+7A72BAF4	Real-time removal of ocular artifacts from EEG based on independent component analysis and manifold learning
+5A9A75DC	Orthogonal Centroid Locally Linear Embedding for Classification
+80E6CD96	Cross-media manifold learning for image retrieval & annotation
+7F3C165A	Manifold Learning Algorithms and Their Mathematical Foundations
+801BD0F8	UNCORRELATED LOCAL FISHER DISCRIMINANT ANALYSIS FOR FACE RECOGNITION
+0527542E	Classifying ayurvedic pulse signals via consensus locally linear embedding
+63B40197	An incremental nonlinear dimensionality reduction algorithm based on ISOMAP
+7FAB73E7	A Min–Max Optimization Framework for Designing Learners: Theory and Hardware
+7F918E87	Graph Regularized Sparse Coding for Image Representation
+5C0597EA	Multilinear Maximum Distance Embedding Via L1-Norm Optimization
+7FA87504	Efficient Large Deformation Registration via Geodesics on a Learned Manifold of Images
+7F70FAFA	Manifold denoising with Gaussian Process Latent Variable Models
+5EAC43A9	Isometric Embedding and Continuum ISOMAP
+5D753D8F	Local Metric Learning on Manifolds with Application to Query–Based Operations
+6FCF090C	Low-Dimensional Data Representation in Data Analysis
+7FDAE0ED	Finding Minimal Parameterizations of Cylindrical Image Manifolds
+764EFF1E	Semi-supervised learning with varifold Laplacians
+7FFCDEE5	Image-Based Human Age Estimation by Manifold Learning and Locally Adjusted Robust Regression
+7E50E06D	Robust path based semi-supervised dimensionality reduction
+750AA9C8	Active sample-selecting and manifold learning-based relevance feedback method for synthetic aperture radar image retrieval
+77221A03	Nonlinear manifold learning for model reduction in finite elastodynamics
+7D69EDAC	Clustering Based on Pairwise Distances When the Data is of Mixed Dimensions
+80399C06	Tracking People on a Torus
+7FB52B29	Re-thinking non-rigid structure from motion
+7979D82B	Autonomic failure prediction based on manifold learning for large-scale distributed systems
+79729888	Linear-projection diffusion on smooth Euclidean submanifolds
+7D99C445	Semi-supervised Pattern Classification: Application to Structural MRI of Alzheimer's Disease
+8031AB6B	Large-scale manifold learning
+59A8A303	Clustering-Based Nonlinear Dimensionality Reduction on Manifold
+5F8AEEA9	Semi-supervised Classification by Local Coordination
+798B1212	Maximum Simplex Volume based Landmark Selection for Isomap
+76A4E361	Dimensionality reduction: An interpretation from manifold regularization perspective
+5C707E34	Supervised Isomap with Dissimilarity Measures in Embedding Learning
+7B902112	Principal manifold learning by sparse grids
+5DFFA852	Improving visualization, scalability and performance of multiclass problems with SVM manifold learning
+5D0DB1EC	Classifying faces with discriminant isometric feature mapping
+78294A73	The dynamical neighborhood selection based on the sampling density and manifold curvature for isometric data embedding
+76143DFC	Discriminative sparsity preserving projections for image recognition
+7F872AD0	Emotional state classification from EEG data using machine learning approach
+5E7BC097	Continuous Hand Gesture Recognition in the Learned Hierarchical Latent Variable Space
+7EE4245C	A New Method for Intrusion Detection using Manifold Learning Algorithm
+7F95E70F	ISO-Container Projection for feature extraction
+7EF218E5	Nonlinear projection with curvilinear distances: Isomap versus curvilinear distance analysis
+7E76DC81	Visualization and synthesis of data using manifold learning based on Locally Linear Embedding
+77280BCD	DLANet: A manifold-learning-based discriminative feature learning network for scene classification
+7FD671EF	Neuroevolution with manifold learning for playing Mario
+8055D025	Graph-based semi-supervised learning with manifold preprocessing for image classification
+7B5FFF44	Tracking articulated objects by learning intrinsic structure of motion
+75F2BD67	Dimensionality reduction for heterogeneous dataset in rushes editing
+7F64419D	Seeing through water
+7DA00431	Geodesic Discriminant Analysis on Curved Riemannian Manifold
+7C816F79	Infrared moving target detection and tracking based on tensor locality preserving projection
+81358A08	Nonlinear Dimensionality Reduction by Topologically Constrained Isometric Embedding
+7C9D3B93	Local procrustes for manifold embedding: a measure of embedding quality and embedding algorithms
+7D6DBD17	Scale-independent quality criteria for dimensionality reduction
+778FEDE6	Data embedding techniques and applications
+76D062D8	Classification by semi-supervised discriminative regularization
+79FBD62C	Multi-scale gist feature manifold for building recognition
+7D684582	Web document retrieval using manifold learning and ACO algorithm
+7DF5A424	From Laplacian Eigenmaps to Kernel Locality Preserving Projections: Equivalence or Improvement?
+7E719832	Intrinsic dimension estimation based on maximum likelihood estimator and reverse k nearest neighbors
+763AAF19	Double adjacency graphs-based discriminant neighborhood embedding
+80D240FD	2D-ONPP: Two Dimensional Extension of Orthogonal Neighborhood Preserving Projections for Face Recognition
+7D7486EB	Local Temporal Common Spatial Patterns for Robust Single-Trial EEG Classification
+59BE3DCA	Motion retrieval based on an efficient index method for large-scale mocap database
+7DFDADBC	Parallel Projections for Manifold Learning
+7B2CF584	Local Linear Embedding Algorithm with Adaptively Determining Neighborhood
+7F81B1D2	Dimensionality reduction-based phoneme recognition
+7CDBD857	Manifold Learning for Multi-Modal Image Registration
+811CB14D	A learning framework for generic sensory-motor maps
+7D98A22F	Manifold Learning and Application on Classification of Leukemia Cells Based on Raman Spectroscopy
+81276FCF	Enhanced supervised neighborhood preserving embedding for radar target recognition
+7FBCCBFD	Enhanced Locality Preserving Projections
+755E6432	Grassmannian Sparse Representations and Motion Depth Surfaces for 3D Action Recognition
+7621CFD1	Multiscale envelope manifold for enhanced fault diagnosis of rotating machines
+7DE6B3E1	ENSO dynamics in current climate models: an investigation using nonlinear dimensionality reduction
+619665B7	Two-dimensional discriminant multi-manifolds locality preserving projection for facial expression recognition
+6266E370	Monitoring and fault diagnosis for industrial process
+80072BC4	Linear and nonlinear dimensionality reduction for face recognition
+77444142	Incremental Laplacian eigenmaps by preserving adjacent information between data points
+7D83AFFB	Global structure constrained local shape prior estimation for medical image segmentation
+6BD0E83D	A-Optimal Non-negative Projection with Hessian regularization
+7D64D2A6	Approximate geodesic distances reveal biologically relevant structures in microarray data
+7A6D5398	Nonlinear manifold representations for functional data
+753FAA2D	Local and global principal component analysis for process monitoring
+815B3144	Learning to Traverse Image Manifolds
+5B441AAB	Riemannian manifold learning for nonlinear dimensionality reduction
+77B63F82	Improve local tangent space alignment using various dimensional local coordinates
+7600D19E	Kernel based nonlinear dimensionality reduction for microarray gene expression data analysis
+7D11C414	Compressive Sensing on Manifolds Using a Nonparametric Mixture of Factor Analyzers: Algorithm and Performance Bounds
+7AE9BF5A	Toward a Unified Theory of Sparse Dimensionality Reduction in Euclidean Space
+7D84C995	Edge detection on hyperspectral imagery via Manifold techniques
+7FAEAAEA	Localization from incomplete noisy distance measurements
+7F5164FB	Graph Embedding and Extensions: A General Framework for Dimensionality Reduction
+5C7E9C96	Shape retrieval based on manifold learning by fusion of dissimilarity measures
+8127236D	Robust Nonlinear Dimensionality Reduction for Manifold Learning
+7F5B5359	Object Tracking Using Globally Coordinated Nonlinear Manifolds
+76711435	Matrix perturbation analysis of local tangent space alignment
+7AA0BCB2	Multiview Hessian regularized logistic regression for action recognition
+7F347E63	Relative Transformation with CamNN Applied to Isometric Embedding
+7E94B881	On Detecting Subtle Pathology via Tissue Clustering of Multi-parametric Data using Affinity Propagation
+817760A5	Learning the Dynamical System Behind Sensory Data
+7BD61715	An adaptively weighted sub-pattern locality preserving projection for face recognition
+7B47D58E	ISOLLE: LLE with geodesic distance
+7E5BCEEF	A semi-supervised framework for mapping data to the intrinsic manifold
+80219604	Automatic dimensionality selection from the scree plot via the use of profile likelihood
+80742D3E	A data-dependent distance measure for transductive instance-based learning
+789776CA	Manifold Based Local Classifiers: Linear and Non Linear Approaches
+80BD1172	Improved Manifold Coordinate Representations of Large-Scale Hyperspectral Scenes
+80EC6AC0	Manifold learning using robust Graph Laplacian for interactive image search
+7D4F42CB	Diffusion-based kernel methods on Euclidean metric measure spaces
+5E8760F2	Morphological classification: application to cardiac MRI of tetralogy of fallot
+75EB5739	Sparse concept coding for visual analysis
+0847C2B9	Discovering Shared Structure in Manifold Learning
+7DEB2D19	Feature Extraction Methods for Fault Classification of Rolling Element Bearing Based on Nonlinear Dimensionality Reduction and SVMs
+794B84FA	Statistical shape model for manifold regularization: Gleason grading of prostate histology
+7D09B6DB	Applying Manifold Learning to Plotting Approximate Contour Trees
+78072F2F	Type 1 and 2 mixtures of Kullback–Leibler divergences as cost functions in dimensionality reduction based on similarity preservation
+77107358	Facial age estimation based on label-sensitive learning and age-oriented regression
+7A3A386F	Consensus of k-NNs for Robust Neighborhood Selection on Graph-Based Manifolds
+80C1D67E	Vibrotactile rendering of head gestures for controlling electric wheelchair
+7B0708EB	Locally linear embedding-based seismic attribute extraction and applications
+7BB84009	A modified update rule for stochastic proximity embedding
+5C275142	Adaptive neighborhoods for manifold learning-based sensor localization
+75684130	Formulating LLE using alignment technique
+5E38FE36	Improved LLE algorithm for motion analysis
+7F30A0FA	Maximal Linear Embedding for Dimensionality Reduction
+7F996264	Face Recognition Using Kernel-Based NPE
+7846CC00	Linear discriminant projection embedding based on patches alignment
+7B65AA7D	Interpolation-based reduced-order modelling for steady transonic flows via manifold learning
+7E357740	Novel Machine Learning for Hand Gesture Recognition Using Multiple View
+80DB9B85	Self-organizing map learning nonlinearly embedded manifolds
+81685A6B	An efficient regularized neighborhood discriminant analysis through QR decomposition
+8078D55C	A duality view of spectral methods for dimensionality reduction
+80EA5837	Image Hallucination Using Neighbor Embedding over Visual Primitive Manifolds
+80D1CCF2	Supervised Isomap with Explicit Mapping
+75AFCD34	Discriminatively regularized least-squares classification
+63F05F28	A New Orthogonal Discriminant Projection Based Prediction Method for Bioinformatic Data
+7F1ACCC7	Combining Nonlinear Dimensionality Reduction with Wavelet Network to Solve EEG Inverse Problem
+83FCEA59	Goal-Oriented Euclidean Heuristics with Manifold Learning
+7C3C601F	On the regularized Laplacian eigenmaps
+42F9C908	Discriminant sparse local spline embedding with application to face recognition
+7BBF5801	Nonlinear dimensionality reduction of data manifolds with essential loops
+7669BEDB	Nonlinear dimensionality reduction: Alternative ordination approaches for extracting and visualizing biodiversity patterns in tropical montane forest vegetation data
+7CC54A80	Nonlinearities and adaptation of color vision from sequential principal curves analysis
+79B32AC5	Letters: Linear local tangent space alignment and application to face recognition
+7E46299D	Supervised nonlinear dimensionality reduction for visualization and classification
+7E8E2BF2	Relative Distance-Based Laplacian Eigenmaps
+808D2EFD	Exploring Image Context for Semantic Understanding and Retrieval
+80E4FAA8	A robust generalization of isomap for new data
+7611CCD7	Maximal local interclass embedding with application to face recognition
+804A5ABF	Action recognition using graph embedding and the co-occurrence matrices descriptor
+7C8491FB	A non-linear dimension reduction methodology for generating data-driven stochastic input models
+7B182E55	Face image super-resolution via nearest feature line
+7F0B01BB	Nonlinear Dimension Reduction and Activation Detection for fMRI Dataset
+7D6945C3	Efficient Silhouette Extraction with Dynamic Viewpoint
+07FA57A0	Manifold learning-based feature transformation for phone classification
+7D7A49F6	Orthogonal Neighborhood Preserving Embedding for Face Recognition
+7F23C852	Learning High Dimensional Correspondences Based on Maximum Variance Unfolding
+80A9D597	The Geometry of Visual Perception: Retinotopic and Nonretinotopic Representations in the Human Visual System
+7FD88861	An effective framework for supervised dimension reduction
+80CE564D	Orthogonal Neighborhood Preserving Discriminant Projections for Face Recognition
+80D83656	Dimensionality reduction techniques for data exploration
+5F72246E	Cross System Personalization and Collaborative Filtering by Learning Manifold Alignments
+7F2E7F3B	Continuous nonlinear dimensionality reduction by kernel eigenmaps
+7048A1C8	Computer-aided detection of polyps in CT colonography with pixel-based machine learning techniques
+760AC64F	Relative transformation-based neighborhood optimization for isometric embedding
+7A1EB28B	Improved discriminant sparsity neighborhood preserving embedding for hyperspectral image classification
+79E68044	Multimanifold analysis with adaptive neighborhood in DCT domain for face recognition using single sample per person
+801BC7FF	Kernel PCA of HOG features for posture detection
+7BFB0F68	Clustering Analysis of Stocks of CSI 300 Index Based on Manifold Learning
+75838456	Diffusion maps for changing data
+7FCE94C7	Learning One-to-Many Mapping With Locally Linear Maps Based on Manifold Structure
+75BF63AB	A survey on feature extraction for pattern recognition
+7C5D7389	Kernel maximum likelihood scaled locally linear embedding for night vision images
+7ED71CCF	Local maximal margin discriminant embedding for face recognition
+7DE58248	Harmonizing Hierarchical Manifolds for Multimedia Document Semantics Understanding and Cross-Media Retrieval
+77B9190C	Using Gaussian Process Annealing Particle Filter for 3D Human Tracking
+769B2960	An improved incremental nonlinear dimensionality reduction for isometric data embedding
+77599537	Sparse representation with multi-manifold analysis for texture classification from few training images
+7DB174F9	A novel unsupervised feature extraction based on image matrix
+7BAC2815	Unsupervised learning from a corpus for shape-based 3D model retrieval
+754D29C3	Persistent Cohomology and Circular Coordinates
+81065011	A Multi-class Classifying Algorithm Based on Nonlinear Dimensionality Reduction and Support Vector Machines
+5AB67627	Robust Local Tangent Space Alignment
+0862CBE1	Automatic hand gesture recognition using manifold learning
+5BD42EB3	Unsupervised Riemannian Clustering of Probability Density Functions
+7ECC074E	Temporally Local Maximum Signal Fraction Analysis for Artifact Removal From Biomedical Signals
+822A2F98	KERNEL NEIGHBORHOOD PRESERVING EMBEDDING FOR CLASSIFICATION
+7D4ECE13	Neighborhood Discriminant Projection for Face Recognition
+7DAA4F0C	Generalized Locally Linear Embedding Based on Local Reconstruction Similarity
+7C702CDC	Comparison of visualization methods for an atlas of gene expression data sets
+811D5A27	Research on Supervised Manifold Learning for SAR target classification
+5FC37B11	Learning manifolds in forensic data
+7FAA43C9	Learning Gradients: Predictive Models that Infer Geometry and Statistical Dependence
+7E076907	A New Nonlinear Dimensionality Reduction Technique for Pose and Lighting Invariant Face Recognition
+5AB16669	Dynamic Neighborhood Selection for Nonlinear Dimensionality Reduction
+75B2A1F5	Diffusion-on-Manifold Aggregation of Local Features for Shape-based 3D Model Retrieval
+81084AA5	Regularized Minimum Volume Ellipsoid Metric for Query-Based Learning
+781BDAC7	Morphological mapping for non-linear dimensionality reduction
+58EADB99	Face Recognition Using Sparse Representations and Manifold Learning
+7EB02C22	Manifold based Morphometry applied to schizophrenia
+80E2ECAF	Adaptive nonlinear manifolds and their applications to pattern recognition
+7E6E38EF	Face Recognition Using Principal Geodesic Analysis and Manifold Learning
+5C1D831C	The meaning of action: a review on action recognition and mapping
+78957272	Neighborhood preserving ordinal regression
+809D4616	Spatially Adapted Manifold Learning for Classification of Hyperspectral Imagery with Insufficient Labeled Data
+5C41F635	Using graph algebra to optimize neighborhood for isometric mapping
+77DB0DEA	A stochastic multiscale framework for modeling flow through random heterogeneous porous media
+7B68EC06	Semantic manifold learning for image retrieval
+5E1279DB	Multi-view ear recognition based on moving least square pose interpolation
+6D213A1C	Statistical Analysis of Metric Graph Reconstruction
+7E614EE3	On the estimation of geodesic paths on sampled manifolds under random projections
+7DDC4CB8	Locally Linear Embedding for Markerless Human Motion Capture Using Multiple Cameras
+7F6C8A64	An adaptive distributed localisation in wireless sensor network
+7E51E520	Predicting human immunodeficiency virus protease cleavage sites in nonlinear projection space
+812766C8	Joint Manifolds for Data Fusion
+7DABFB67	Regularized Learning with Networks of Features
+76630646	Combining labeled and unlabeled data with graph embedding
+80E3A42F	Distance metric learning and support vector machines for classification of mass spectrometry proteomics data
+7FF1784A	"Non-locality" Preserving Projection and Its Application to Palmprint Recognition
+7E62D17F	Discriminative Gaussian process latent variable model for classification
+8099053B	A Combined Manifold Learning Analysis of Shape and Appearance to Characterize Neonatal Brain Development
+779095C4	Mapping the mental space of game genres
+7DE60EDF	Robust and Stable Locally Linear Embedding
+78273E01	Continuum Isomap for manifold learnings
+7A332AB4	Head pose estimation by nonlinear manifold learning
+5E107E73	Think globally, fit locally: unsupervised l earning of non-linear manifolds
+5AFEA02E	Parameterless isomap with adaptive neighborhood selection
+7C46A294	Multi-manifold LLE learning in pattern recognition
+80E7BBF6	Gait Analysis For Human Identification Through Manifold Learning and HMM
+7BC23933	Vector diffusion maps and the connection Laplacian
+7E1C5EF4	Manifold Learning using Growing Locally Linear Embedding
+5E91521C	A Transductive Learning Method for Interactive Image Segmentation
+7F8BD773	Supervised nonlinear dimensionality reduction by Neighbor Retrieval
+7E05410A	Map building without localization by dimensionality reduction techniques
+7C0245F1	Supervised manifold learning for image and video classification
+81466415	Differential Evolutionary CLARANS on Manifold
+7E568B3B	Kernel Neighborhood Preserving Embedding and its Essence Analysis
+809F12D6	Non-Linear Approaches for the Classification of Facial Expressions at Varying Degrees of Intensity
+83CAB1A1	Optimal Neighborhood Preserving Visualization by Maximum Satisfiability
+7E55BE4B	Global Coordination of Local Linear Models
+8119A350	Learning graph neighborhood topological order for image and manifold morphological processing
+7900CB0E	Two-dimensional supervised local similarity and diversity projection
+7A089392	Analysis of Commute Time Embedding Based on Spectral Graph
+777F3CFF	Horseshoes in multidimensional scaling and local kernel methods
+775A9806	Discriminative information preservation for face recognition
+80BEF68B	Dimensionality Estimation, Manifold Learning and Function Approximation using Tensor Voting
+81712958	An adaptive learning method for face hallucination using Locality Preserving Projections
+5B92616C	Fast ISOMAP based on minimum set coverage
+7F0A764A	LOCALLY LINEAR EMBEDDING: A REVIEW
+6C32BE3A	Self-organizing isometric embedding based on statistical criterions
+77DB8D60	SLLE for predicting membrane protein types
+7B9EF07B	Nonlinear embedding preserving multiple local-linearities
+7CBFD502	A hierarchical spectral clustering and nonlinear dimensionality reduction scheme for detection of prostate cancer from magnetic resonance spectroscopy (MRS).
+77971E06	Time–frequency manifold for nonlinear feature extraction in machinery fault diagnosis
+760074F3	Discover latent discriminant information for dimensionality reduction: Non-negative Sparseness Preserving Embedding
+7EA4CA42	Distance Approximating Dimension Reduction of Riemannian Manifolds
+7CF3D78E	Approximation of pattern transformation manifolds with parametric dictionaries
+7F95B633	Supervised semi-definite embedding for image manifolds
+7DE4E4E6	A learning approach for single-frame face super-resolution
+5D685FBC	Twin Kernel Embedding with Relaxed Constraints on Dimensionality Reduction for Structured Data
+7D09458A	Anomaly detection on ITS data via view association
+765A98AF	Learning smooth shapes by probing
+7E3B5F99	A New Algorithm for Robust Pedestrian Tracking Based on Manifold Learning and Feature Selection
+7738EBF9	Seismic Target Classification Using a Wavelet Packet Manifold in Unattended Ground Sensors Systems
+774EBBFB	Multi-Method Analysis of MRI Images in Early Diagnostics of Alzheimer's Disease
+77407801	Minimum-maximum local structure information for feature selection
+809D03EB	Human Object Inpainting Using Manifold Learning-Based Posture Sequence Estimation
+7E77C9C1	Manifold Learning for Image Denoising
+7DFD300E	Learning on varifolds
+803972A0	Trajectory analysis for user verification and recognition
+7BA2EEC6	New face recognition algorithm based on nonlinear dimensionality reduction: New face recognition algorithm based on nonlinear dimensionality reduction
+7B21BCDE	Human action segmentation and classification based on the Isomap algorithm
+783C3937	An adaptive per-application storage management scheme based on manifold learning in information centric networks
+7646F218	Multi-View Visual Classification via a Mixed-Norm Regularizer
+7B0EC211	Finger vein recognition with manifold learning
+8164AD12	Local discriminant embedding and its variants
+593E5155	Modified Locally Linear Embedding based on Neighborhood Radius
+5EF60354	Spline Embedding for Nonlinear Dimensionality Reduction
+77E2891F	The embedding dimension of Laplacian eigenfunction maps
+75B0BE45	Intelligent information extraction to aid science decision making in autonomous space exploration
+5C2BD4DB	A Novel Spike Sorting Method Based on Semi-supervised Learning
+5DFAE716	Orthogonal projection analysis
+76952237	From outliers to prototypes: Ordering data
+7F1EF402	Dimensionality Reduction of Hyperspectral Data Based on ISOMAP Algorithm
+7CC213E0	Discriminative Hessian Eigenmaps for face recognition
+0B965A0E	Fast communication: Gabor feature-based face recognition using supervised locality preserving projection
+7DA822C3	An Intrinsic Graphical Signature Based on Alert Correlation Analysis for Intrusion Detection
+78E77204	Evolutionary Cross-Domain Discriminative Hessian Eigenmaps
+8101258F	Face Recognition Based on Nonlinear Feature Approach
+80DD6388	Machine Learning: The State of the Art
+7E9B47FB	Tangent-corrected embedding
+7ACD17C3	Nonlinear dimensionality reduction in molecular simulation: The diffusion map approach
+797D9DDF	A template-based isomap algorithm for real-time removal of ocular artifacts from EEG signals
+78A6C0F5	Supervised optimal locality preserving projection
+7E00AF0C	Local Discriminant Space Alignment
+7CB1E5AE	Extended local tangent space alignment for classification
+7F289FC9	Locality-Preserved Maximum Information Projection
+5B95A12D	A more topologically stable locally linear embedding algorithm based on R*-tree
+7AA8998E	High-resolution dynamic MR imaging of the thorax for respiratory motion correction of PET using groupwise manifold alignment
+8054948C	Dynamic Appearance Modeling for Human Tracking
+7F6873AB	Colorization Based on Image Manifold Learning
+7C424007	Learning a locality discriminating projection for classification
+7AD83342	Variants of unsupervised kernel regression: General cost functions
+80DDC735	Recognition of Low-Dimensional Patterns in Radio Access Network Data
+807751D3	Extension of Mutual Subspace Method for Low Dimensional Feature Projection
+7CE23F3D	Atlas compatibility transformation: A normal manifold learning algorithm
+5B4743C9	Application of Wavelet Network Combined with Nonlinear Dimensionality Reduction on the Neural Dipole Localization
+7FCDAAB0	Fuzzy Local Discriminant Embedding (FLDE) For Face Recognition
+7A2000BA	An effective double-bounded tree-connected Isomap algorithm for microarray data classification
+759E6457	Variational inference with graph regularization for image annotation
+79F84BB8	Efficient multi-modal fusion on supergraph for scalable image annotation
+7568D277	GRAM: A framework for geodesic registration on anatomical manifolds.
+7E7CF9B8	SELECTION OF THE NUMBER OF NEIGHBOURS OF EACH DATA POINT FOR THE LOCALLY LINEAR EMBEDDING ALGORITHM
+6D8022B4	Learning video manifold for segmenting crowd events and abnormality detection
+7F941798	A kernel view of manifold analysis for face images
+5CDED3D1	Using Hierarchical Models for 3D Human Body-Part Tracking
+7E3C0882	FULLY AUTOMATIC SEGMENTATION OF LEFT VENTRICLE IN A SEQUENCE OF ECHOCARDIOGRAPHY IMAGES OF ONE CARDIAC CYCLE BY DYNAMIC DIRECTIONAL VECTOR FIELD CONVOLUTION (DDVFC) METHOD AND MANIFOLD LEARNING
+584BFA41	Experimental analysis of the effect of dimensionality reduction on instance-based policy optimization
+795AC0B1	Analysis and extension of spectral methods for nonlinear dimensionality reduction
+80B99166	Two-dimensional locality sensitive discriminant analysis
+7D0135B5	Principal Curve Algorithms for Partitioning High-Dimensional Data Spaces
+7F6A10A5	Localization of wireless sensors using compressive sensing for manifold learning
+80F87C03	Hand gesture recognition and tracking based on distributed locally linear embedding
+551F64DA	Learning representations from multiple manifolds
+6B50DE1D	Manifold Learning for Video-to-Video Face Recognition
+76BC49A3	Biologically Inspired Tensor Features
+80292D28	Representative Template Set Generation Method for Pedestrian Detection
+7ACC33AD	Computer-aided prognosis: Predicting patient and disease outcome via multi-modal image analysis
+7DA32911	Improved Nonlinear Manifold Learning for Land Cover Classification via Intelligent Landmark Selection
+7E27842F	Local block representation for face recognition
+7D792A0D	Similarity Preserving Principal Curve: An Optimal 1-D Feature Extractor for Data Representation
+7FF8DF35	Incremental Alignment Manifold Learning
+76C2E023	Support Vector Machines with Manifold Learning and Probabilistic Space Projection for Tourist Expenditure Analysis
+7EAAFEF7	Improved classifier for computer-aided polyp detection in CT Colonography by nonlinear dimensionality reduction
+01852F83	Feature dimensionality reduction by manifold learning in brain-computer interface design
+75A1AADB	Locally Linear Embedding by Linear Programming
+7E8C2B2D	Regularized Locality Preserving Projections and Its Extensions for Face Recognition
+768656AD	Inverting Nonlinear Dimensionality Reduction with Scale-Free Radial Basis Function Interpolation
+5D3ED42B	Nonlinear Dimensionality Reduction as Information Retrieval
+80AAA000	Approximately harmonic projection: Theoretical analysis and an algorithm
+7A61221C	Nonlinear Dimensionality Reduction by Locally Linear Embedding
+5B2DAD52	Classification with the hybrid of manifold learning and gabor wavelet
+79CB5AE9	Computing mechanical response variability of polycrystalline microstructures through dimensionality reduction techniques
+58348337	Kernel-based manifold learning for statistical analysis of diffusion tensor images
+8048E982	Face Recognition Using Modular Locality Preserving Projections
+7E3C0C37	Learning the Intrinsic Dimensions of the Timit Speech Database with Maximum Variance Unfolding
+7D8B85B0	Bathymetric Retrieval From Hyperspectral Imagery Using Manifold Coordinate Representations
+802AFB68	Manifold learning for 4D CT reconstruction of the lung
+7BF8A6AA	Hessian Eigenmaps: new locally linear embedding techniques for high-dimensional data
+59288AAD	Text Classification on Embedded Manifolds
+7DD7E810	Accelerated learning of Generalized Sammon Mappings
+591DCB0C	Functional near infrared spectroscopy in novice and expert surgeons: a manifold embedding approach
+7B1B3FBF	Hessian sparse coding
+7FBD2B42	Comments on "Globally Maximizing, Locally Minimizing: Unsupervised Discriminant Projection with Application to Face and Palm Biometrics"
+7DACB66B	Locality pursuit embedding
+7BDBE44B	A multi-modal prostate segmentation scheme by combining spectral clustering and active shape models
+7E46D5C7	Text Classification Based on Nonlinear Dimensionality Reduction Techniques and Support Vector Machines
+77DAE868	Spectral regression: a unified subspace learning framework for content-based image retrieval
+5D263636	An Incremental Manifold Learning Algorithm Based on the Small World Model
+7FD2F53A	Hierarchical Local Maps for Robust Approximate Nearest Neighbor Computation
+7CA2D607	Non-linear book manifolds: learning from associations the dynamic geometry of digital libraries
+77D621C7	Refining Gaussian mixture model based on enhanced manifold learning
+7E8FED1F	A Comparative Study of Linear and Nonlinear Dimensionality Reduction for Speaker Identification
+7BA025F3	Nonlinear dimensionality reduction using a temporal coherence principle
+80C8874A	Visualizing Image Collections Using High-Entropy Layout Distributions
+59E4203C	Embedding New Data Points for Manifold Learning Via Coordinate Propagation
+80F5A262	Convergence of Laplacian Eigenmaps
+5BA6059A	Learning nonlinear manifolds from time series
+7622EC4A	A multi-manifold discriminant analysis method for image feature extraction
+770D3457	Feature extraction using two-dimensional neighborhood margin and variation embedding
+7F8340E6	Multi-view face recognition by nonlinear dimensionality reduction and generalized linear models
+7D5B2714	Using Diffusion Geometric Coordinates for Hyperspectral Imagery Representation
+80342FF6	Segmenting Motions of Different Types by Unsupervised Manifold Clustering
+7E1AEC6B	Combining automated and interactive visual analysis of biomechanical motion data
+7EAB7916	A new nonlinear dimensionality reduction method with application to hyperspectral image analysis
+7E97F57D	Investigating the Efficacy of Nonlinear Dimensionality Reduction Schemes in Classifying Gene and Protein Expression Studies
+7B8AC148	Flexible orthogonal semisupervised learning for dimension reduction with image classification
+799ACD13	Integrating diffusion maps with umbrella sampling: Application to alanine dipeptide
+8064713C	Representations of Streetscape Perceptions Through Manifold Learning in the Space of Hough Arrays
+7AAAC93E	Stochastic neighbor projection on manifold for feature extraction
+7E70E20F	A Nonlinear Multi-Proxy Model Based on Manifold Learning to Reconstruct Water Temperature from High Resolution Trace Element Profiles in Biogenic Carbonates
+7A1644F9	Using the nonlinear dimensionality reduction method for the prediction of subcellular localization of Gram-negative bacterial proteins
+77752D3F	Continuous character control with low-dimensional embeddings
+76580D66	Image feature optimization based on nonlinear dimensionality reduction
+80977A9F	Real-Time Monitoring of High-Intensity Focused Ultrasound Thermal Therapy Using the Manifold Learning Method
+5C619D28	Compressive video classification in a low-dimensional manifold with learned distance metric
+01982607	Manifold Learning for Gender Classification from Face Sequences
+62686488	Nonlinear Dimensionality Reduction by Semidefinite Programming and Kernel Matrix Factorization
+75661F42	Orthogonal local spline discriminant projection with application to face recognition
+7DDC1184	Digital Imaging in Pathology: Whole-Slide Imaging and Beyond
+770DBC8A	Reconstruction and analysis of multi-pose face images based on nonlinear dimensionality reduction
+7EA8FC35	Riemannian Manifold Learning
+594D42C1	Gender from body: a biologically-inspired approach with manifold learning
+794046B9	An Improved Method to Detect Remote Sensing Image Targets Captured by Sensor Network
+7CF79FC1	Dynamic network data exploration through semi-supervised functional embedding
+813D6B07	De-Biasing for Intrinsic Dimension Estimation
+5FCE3B88	Local multidimensional scaling with controlled tradeoff between trustworthiness and continuity
+7D66F996	Nearest manifold approach for face recognition
+7A96D07D	A scale-based approach to finding effective dimensionality in manifold learning
+7626337C	Robust manifold learning with CycleCut
+7A955805	Hybrid structure for robust dimensionality reduction
+7D9902FF	Random Projections for Manifold Learning
+06C85B42	Large-scale SVD and manifold learning
+7F16AD6A	Building k edge-disjoint spanning trees of minimum total length for isometric data embedding
+6C6BE515	Manifold learning-based subspace distance for machinery damage assessment
+787ADC6C	A document clustering algorithm based on improved landmark semidefinite embedding
+7982E7F0	Weighted locally linear embedding for dimension reduction
+5A609005	Adaptively Incremental Self-organizing Isometric Embedding
+7DB89D55	Unsupervised analysis of human behavior based on manifold learning
+76A512A4	Stable local dimensionality reduction approaches
+7D8A17FF	Nonlinear Discriminant Analysis on Embedded Manifold
+7EDC3E43	Local Maximal Marginal Embedding with Application to Face Recognition
+7901DFD2	Approximately-isometric diffusion maps
+7FAD5F06	Apply nonlinear dimensionality reduction method to large-scale communication network traffic analysis
+7DCA961D	An Adaptive Neighborhood Choosing of the Local Sensitive DiscriminantAnalysis Algorithm
+7E2D1036	Image Clustering Using Visual and Text Keywords
+7D5D2EEA	Face Recognition Based on Extended Locally Linear Embedding
+79D970CF	Eigenvalues of an alignment matrix in nonlinear manifold learning
+7CFE3F14	Image Tangent Space for Image Retrieval
+79C5E3D9	Topological methods for exploring low-density states in biomolecular folding pathways
+7632E987	Semi-Supervised Locality Discriminant Projection
+78936C27	Combining local and global information for nonlinear dimensionality reduction
+7DC7261F	Graph-Based Variability Estimation in Single-Trial Event-Related Neural Responses
+7F78B45F	Neighborhood issue in single-frame image super-resolution
+8055C8E0	Performance Comparison of Nonlinear Dimensionality Reduction Methods for Image Data Using Different Distance Measures
+7BD2CAC3	Low-dimensional, free-energy landscapes of protein-folding reactions by nonlinear dimensionality reduction
+7EA064A7	Isomap Approach to EEG-Based Assessment of Neurophysiological Changes During Anesthesia
+80F3D4A2	Morphological image distances for hyperspectral dimensionality exploration using Kernel-PCA and ISOMAP
+7D027A0D	Constrained Maximum Variance Mapping for Tumor Classification
+04371FF5	Fast communication: Supervised kernel neighborhood preserving projections for radar target recognition
+7BB09606	A general framework for evolutionary multiobjective optimization via manifold learning
+59C1D04F	Unsupervised dimensionality estimation and manifold learning in high-dimensional spaces by tensor voting
+7EE81399	A SOM-Based Method for Manifold Learning and Visualization
+7F142127	A study on automatic age estimation using a large database
+6E25DEDE	A feature space alignment learning algorithm
+7959B858	Transductive Bayesian regression via manifold learning of prior data structure
+7C8E7A58	Bidirectional visible neighborhood preserving embedding
+78134B29	Shape dimension and intrinsic metric from samples of manifolds with high co-dimension
+80CC01C1	The effect of noise and sample size on an unsupervised feature selection method for manifold learning
+7E592FE9	Diffusion map kernel analysis for target classification
+7C8661F2	Hyperspectral unmixing based on ISOMAP and spatial information
+80AEAC28	A Domain Decomposition Method for Fast Manifold Learning
+7AD89FC9	Latent semantic learning with structured sparse representation for human action recognition
+8104607D	2D Subspaces for Sparse Control of High-DOF Robots
+790EFA52	Curvature analysis of frequency modulated manifolds in dimensionality reduction
+809E4896	Manifold Learning Techniques in Image Analysis of High-dimensional Diffusion Tensor Magnetic Resonance Images
+5B0C9327	Video-Based Face Recognition Using Bayesian Inference Model
+78460D58	Building k-connected neighborhood graphs for isometric data embedding
+7B1BAC2B	Locally linear embedding: a survey
+811533B8	Manifold Coordinates Repairing of Boundary Points with PLS for Isomap Nonlinear Dimensionality Reduction of Hyperspectral Image
+63DDC141	Bearing Fault Diagnosis Based on Statistical Locally Linear Embedding
+7D64FC23	Manifold learning visualization of network traffic data
+7E040C2A	How to solve classification and regression problems on high-dimensional data with a supervised extension of slow feature analysis
+7B38A84B	k-means discriminant maps for data visualization and classification
+81392D23	Aircraft Pose Recognition Using Locally Linear Embedding
+5C9C2751	Face recognition using null space-based local discriminant embedding
+81228EB5	ANALYSIS AND CONTROL OF FACIAL EXPRESSIONS USING DECOMPOSABLE NONLINEAR GENERATIVE MODELS
+768DA843	Generalized orthogonal locality preserving projections for nonlinear fault detection and diagnosis
+05BB5252	Chapter 19 - Manifold Learning for the Shape-Based Recognition of Historical Arabic Documents
+75479D53	Improved discriminant locality preserving projections for face and palmprint recognition
+7F197171	Local and Global Structures Preserving Projection
+5E546E39	Locally adaptive nonlinear dimensionality reduction
+0AF4AB16	MANIFOLD LEARNING-BASED PHASE SPACE RECONSTRUCTION FOR FINANCIAL TIME SERIES
+5F2AD263	Analyzing Magnification Factors and Principal Spread Directions in Manifold Learning
+804ACF9F	Inferring 3D body pose from silhouettes using activity manifold learning
+782E33DD	Feature extraction using constrained maximum variance mapping
+59C628E6	Active-Contour-Based Image Segmentation Using Machine Learning Techniques
+79A05253	Translated Poisson Mixture Model for Stratification Learning
+7FFCCF17	Nonlinear Dimensionality Reduction with Local Spline Embedding
+7F9B7B8D	Learning an affine transformation for non-linear dimensionality reduction
+79C66E20	Boundary compensated k-NN graphs
+7F766AF3	Unfolding Kernel embeddings of graphs: Enhancing class separation through manifold learning
+78C40178	Unsupervised manifold learning based on multiple feature spaces
+5BA95F07	Video Semantic Concept Detection Using Multi-modality Subspace Correlation Propagation
+7E2DCE66	Manifold Learning: The Price of Normalization
+5A66ABC2	An improved super-resolution with manifold learning and histogram matching
+5F61ECE1	A hierarchical unsupervised spectral clustering scheme for detection of prostate cancer from magnetic resonance spectroscopy (MRS).
+59381342	Comparison of Dimension Reduction Methods for Database-Adaptive 3D Model Retrieval
+7F504E2E	Learning appearance manifolds from video
+789F4BED	Learning semantic categories for 3D model retrieval
+763AC2F3	Locally Linear Diffeomorphic Metric Embedding (LLDME) for surface-based anatomical shape modeling
+786FCA43	Supervised locality discriminant manifold learning for head pose estimation
+7DBED9E7	On the convergence and applications of mean shift type algorithms
+7FFB5A8B	THE HUFFMAN-LIKE ALIGNMENT IN MANIFOLD LEARNING
+7F4AB2E7	On the non-uniform complexity of brain connectivity
+76A94B60	Self-organizing adaptive map: Autonomous learning of curves and surfaces from point samples
+7814161D	Incremental locally linear embedding
+7B77AE37	Modified orthogonal discriminant projection for classification
+80AD01D5	Learning to Transform Time Series with a Few Examples
+7FC27A7D	Uncorrelated Locality Preserving Projections
+5E81245D	Separating Pose and Expression in Face Images: A Manifold Learning Approach
+78835777	Nonlinear manifold learning for dynamic shape and dynamic appearance
+8342A5A2	Kernel learning over the manifold of symmetric positive definite matrices for dimensionality reduction in a BCI application
+7EBFC6AD	Face recognition based on neighbourhood discriminant preserving embedding
+79AFBBED	A two-step framework for highly nonlinear data unfolding
+5FC6CBE9	Orthogonal Discriminant Local Tangent Space Alignment
+7D6B07D0	Local Discriminant Analysis
+8118BDA0	A study of using locality preserving projections for feature extraction in speech recognition
+7C8E2993	Explicit shape descriptors: novel morphologic features for histopathology classification.
+777D0965	Facial expression recognition on multiple manifolds
+7E6127FF	Nonlinear dimensionality reduction for efficient and effective audio similarity searching
+5E9F6B8D	A Supervised Subspace Learning Algorithm: Supervised Neighborhood Preserving Embedding
+7F6A21A4	Tongue verification with manifold learning
+77FDB469	Using Laplacian eigenmaps latent variable model and manifold learning to improve speech recognition accuracy
+7D60B2EF	Manifold learning combining imaging with non-imaging information
+7C2828FC	Dimensionality reduction using a Gaussian Process Annealed Particle Filter for tracking and classification of articulated body motions
+76DA741D	Image registration by normalized mapping
+7EDA7656	Estimating patient-specific shape prior for medical image segmentation
+7D2ED55D	Robust locally linear embedding
+76FE7606	Identifying multiple spatiotemporal patterns: A refined view on terrestrial photosynthetic activity
+77959D56	Semi-supervised manifold ordinal regression for image ranking
+5F4E2204	Posed face image synthesis using nonlinear manifold learning
+786EC0BA	Local relative transformation with application to isometric embedding
+7E6C95DC	Dynamic Manifold Warping for view invariant action recognition
+80FCA1D6	Kernel ridge regression for out-of-sample mapping in supervised manifold learning
+58D8D376	Unified locally linear embedding and linear discriminant analysis algorithm (ULLELDA) for face recognition
+7C7EE11A	Manifold embedding for shape analysis
+83732527	컴뮤트 타임 기반의 다양체 임베딩을 이용한 파형 신호 인식에 관한 연구
+84B0B2F0	High Dimensional Data Fusion via Joint Manifold Learning
+6BFCDE79	What Regularized Auto-Encoders Learn from the Data-Generating Distribution
+78B42E18	A novel technique for sketch to photo synthesis
+7F02B313	Manifold learning, a promised land or work in progress?
+7A26E698	Learning nonlinear manifolds based on mixtures of localized linear manifolds under a self-organizing framework
+0BD0F9AA	An introduction to nonlinear dimensionality reduction by maximum variance unfolding
+7B706749	DANCo: An intrinsic dimensionality estimator exploiting angle and norm concentration
+766B3325	Random Projections of Smooth Manifolds
+5F0EF27F	Human motion recognition using Isomap and dynamic time warping
+800FC890	Dimensionality reduction for text using LLE
+7F3C5DE8	An Improved Manifold Learning Algorithm for Data Visualization
+772D3FE2	Orthogonal locally discriminant spline embedding for plant leaf recognition
+5853B148	Facial Expression Recognition Based on Emotion Dimensions on Manifold Learning
+801F7135	Adaptive Manifold Learning
+7905846B	Letters: Improving the discriminant ability of local margin based learning method by incorporating the global between-class separability criterion
+8024BA3D	Facial expression recognition based on ISOMAP
+6CEF97AA	Understanding Multimedia Document Semantics for Cross-Media Retrieval
+051FE7B1	Hessian eigenmaps: new tools for nonlinear dimensionality reduction
+75ACE3B4	Modified locally linear discriminant embedding for plant leaf recognition
+7B88CD87	Recognizing multiple human activities and tracking full-body pose in unconstrained environments
+5A33A405	Retracted: Human Age Estimation by Metric Learning for Regression Problems
+75BECA49	A GENERAL FRAMEWORK FOR MANIFOLD RECONSTRUCTION FROM DIMENSIONALITY REDUCTION
+81182961	DD-HDS: A Method for Visualization and Exploration of High-Dimensional Data
+7CD64D54	Image clustering based on sparse patch alignment framework
+7F1EF766	BIASED MANIFOLD LEARNING FOR VIEW INVARIANT BODY POSE ESTIMATION
+771EDA92	Improved Isomap Algorithm for Motion Analysis
+7AEB5596	Improving geodesic distance estimation based on locally linear assumption
+78F3A8D4	Biologically inspired feature manifold for gait recognition
+7D125CAF	Lipreading by Locality Discriminant Graph
+74022069	Gesture Recognition Based on Manifold Learning
+807F44F1	LLE on System Calls for Host Based Intrusion Detection
+00A0A57B	Patch-based data analysis using linear-projection diffusion
+756270D5	Manifold Learning for ToF-based Human Body Tracking and Activity Recognition
+78569B93	Using nonlinear dimensionality reduction in 3D figure animation
+80DA6342	Proto-value Functions: A Laplacian Framework for Learning Representation and Control in Markov Decision Processes
+7BE1807D	Randomized anisotropic transform for nonlinear dimensionality reduction
+75E34D86	Discriminative Topic Modeling Based on Manifold Learning
+805545F3	Distance preserving embeddings for general n-dimensional manifolds
+5E33BBC0	Manifold Learning with Geodesic Minimal Spanning Trees
+78E7E3DE	Local and global mappings of topology representing networks
+805C35C0	Reweighting recognition using kernel method
+7CFAD7F6	Euclidean Embedding of Co-occurrence Data
+80D350FF	Sparse Manifold Learning with Applications to SAR Image Classification
+7FE66F0D	Biased Manifold Embedding: A Framework for Person-Independent Head Pose Estimation
+7DAA0265	Demographic classification from face videos using manifold learning
+7DE594C0	Latent process model for manifold learning
+80B7E963	Learning an Intrinsic-Variable Preserving Manifold for Dynamic Visual Tracking
+78468BED	Robust frontal view search using extended manifold learning
+771A995F	Multi-output regression on the output manifold
+7753FE7E	Noise reduction method for nonlinear signal based on maximum variance unfolding and its application to fault diagnosis
+02FF146E	Analysis of High-Dimensional Signal Data by Manifold Learning and Convolution Transforms
+7D9EABB4	IMD-Isomap for Data Visualization and Classification
+7D79F3B7	Nonlinear Dimensionality Reduction by Isomap and MLEdim as Applied to Amino-Acid Distribution in Yeast ORFs
+7F0CF0F2	Face recognition using KFD-Isomap
+7F30F991	Shift-invariant similarities circumvent distance concentration in stochastic neighbor embedding and variants
+78D1844D	Supervised Discriminant Projection with Its Application to Face Recognition
+76513763	Learning a data-dependent kernel function for KPCA-based nonlinear process monitoring
+7F5A81B4	Biologically Inspired Feature Manifold for Scene Classification
+7DAFD379	View-invariant dynamic texture recognition using a bag of dynamical systems
+7639585B	Stochastic Proximity Embedding: Methods and Applications
+7B64E55B	Label Image Constrained Multiatlas Selection
+80485356	Building Connected Neighborhood Graphs for Locally Linear Embedding
+5A478599	Weighted Kernel Isomap for Data Visualization and Pattern Classification
+68441B75	Nonlinear dimensionality reduction using circuit models
+7AAE22B4	Locally linear discriminant embedding: An efficient method for face recognition
+7E1DFB8F	Manifold learning approach to facial expression recognition on local binary pattern features
+7C9A92D9	Discriminative Multimanifold Analysis for Face Recognition from a Single Training Sample per Person
+76255186	Patch-to-tensor embedding
+78FA97C2	Hashing Cross-Modal Manifold for Scalable Sketch-Based 3D Model Retrieval
+79C77308	Constraints on the Neighborhood Size in LLE
+7DED040B	Robust local tangent space alignment via iterative weighted PCA
+808D9243	Incremental nonlinear dimensionality reduction by manifold learning
+7F3A964B	Position-based face hallucination method
+7DEDCFD7	Manifold elastic net: a unified framework for sparse dimension reduction
+80D91CAA	A Novel Tracking and Recognition Algorithm Using "Continuous Autoencoder" Network
+80A39706	Nonlinear process monitoring based on maximum variance unfolding projections
+76EFD27F	Sparsity Preserving Embedding with Manifold Learning and Discriminant Analysis
+7581D3A4	Regularized regression on image manifold for retrieval
+7FDA40F6	Improved Manifold Learning Algorithm for Data Dimension Reduction Based on KNN
+7D26D77E	DST Feature Based Locality Preserving Projections for Face Recognition
+76B53658	Nonlinear process monitoring and fault isolation using extended maximum variance unfolding
+6BA4D5E8	Learning neighborhood discriminative manifolds for video-based face recognition
+5833B2C8	LLE based gait analysis and recognition
+774BFF57	Facial Expression Synthesis Using Manifold Learning and Belief Propagation
+6AE2B39A	Extending Kernel Fisher Discriminant Analysis with the Weighted Pairwise Chernoff Criterion
+80ADB238	Non-Local Manifold Tangent Learning
+7996209F	Multi-resolutive sparse approximations of d-dimensional data
+789659BC	Exploiting the entire feature space with sparsity for automatic image annotation
+051F39A5	Spatio-temporal LTSA and its application to motion decomposition
+770236C1	Guided Locally Linear Embedding
+5F5E0D27	A local tangent space alignment based transductive classification algorithm
+6C6A5387	An empirical comparison of dimensionality reduction methods for classifying gene and protein expression datasets
+5E4321AC	Learning Nonlinear Manifolds of Dynamic Textures
+7E0A9C0F	Locality Preserving Projection in Orthogonal Domain
+81590B63	Supervised Laplacian Eigenmaps for Machinery Fault Classification
+7EB902BE	Beyond FCM: Graph-theoretic post-processing algorithms for learning and representing the data structure
+78C23DD0	Manifold reconstruction using tangential Delaunay complexes
+8117DD5B	A Semi-supervised SVM for Manifold Learning
+7F6B19B6	Non-rigid Structure from Motion with Diffusion Maps Prior
+5BB919C3	Extraction of discriminative manifold for face recognition
+7D9B1B9A	Graph Based Representations of Density Distribution and Distances for Self-Organizing Maps
+5A3D09E0	A Manifolded AdaBoost for Face Recognition
+7C411D0E	A fast minimum spanning tree algorithm based on K -means
+7BB73571	Active learning for semi-supervised clustering based on locally linear propagation reconstruction
+7F5B9BE2	Sorting 4DCT Images Based on Manifold Learning
+7739B53C	Super-Resolution for Facial Images Based on Local Similarity Preserving
+7D10F478	Local smoothing for manifold learning
+7B8385D0	Calculation of the Free Energy and Cooperativity of Protein Folding
+7EBC281D	Analysis of Car Crash Simulation Data with Nonlinear Machine Learning Methods
+7B05D85D	Visual gaze analysis of robotic pedestrians moving in urban space
+79FA7B8F	Variable Bandwidth Diffusion Kernels
+6DDC773B	Method of Motion Data Processing Based on Manifold Learning
+780E14A0	Distinguishing variance embedding
+78DD5211	SIFT on manifold: An intrinsic description
+7CF17661	Research on TOD Based on Isomap and K-means Clustering Algorithm
+7CBC89D6	The use of hybrid manifold learning and support vector machines in the prediction of business failure
+5A50CC42	Manifold Learning for Biomarker Discovery in MR Imaging
+7DFAD41A	Flexible Manifold Embedding: A Framework for Semi-Supervised and Unsupervised Dimension Reduction
+6686D9D8	Rank-based quality assessment of nonlinear dimensionality reduction
+7E2A0B26	Sparse Subspace Denoising for Image Manifolds
+5B462F9E	Multiple-Activity Human Body Tracking in Unconstrained Environments
+7D8F49C7	Local Context Finder (LCF) reveals multidimensional relationships among mRNA expression profiles of Arabidopsis responding to pathogen infection.
+04846F3D	Letters: Two-dimensional margin, similarity and variation embedding
+770497A6	Joint trajectory tracking and recognition based on bi-directional nonlinear learning
+805411B3	Discriminant Locally Linear Embedding With High-Order Tensor Data
+6E726AA3	Data Complexity Analysis: Linkage between Context and Solution in Classification
+7D40DDB2	Locality Preserving Embedding
+0418F3CE	Manifold analysis of spectral munsell colors
+7575B139	Estimating Local Intrinsic Dimensionality
+5CB6B8E7	Interactive Learning using Manifold Geometry
+78AAE03E	Enhanced supervised locally linear embedding
+7C30BD26	Finding representative landmarks of data on manifolds
+79A2B351	Combining regional metrics for disease-related brain population analysis
+7CCA7457	Theoretical Analysis of LLE Based on Its Weighting Step
+7F3EA88D	A Bernoulli relational model for nonlinear embedding
+6C9C2C92	Manifold Learning for Image-Based Breathing Gating with Application to 4D Ultrasound
+8152C873	Extended dot product representations of graphs with application to radar image segmentation
+7F9E2CC5	3D ultrasound tracking of the left ventricle using one-step forward prediction and data fusion of collaborative trackers
+755A2A8C	Face image super-resolution through locality-induced support regression
+5FDB4ADE	Incremental Locally Linear Embedding Algorithm
+81697201	Local Manifold Learning-Based $k$ -Nearest-Neighbor for Hyperspectral Image Classification
+7D086B2B	Ensemble Manifold Regularization
+752502E4	Nonlinear dimensionality reduction combining MR imaging with non-imaging information
+7E26CCC5	Boundary Constrained Manifold Unfolding
+76E0CA10	Robust kernel Isomap
+779B4E1D	Estimating manifold dimension by inversion error
+58BF8D6A	Adaptive nonlinear auto-associative modeling through manifold learning
+7DBCF17C	Discriminative locality preserving dimensionality reduction based on must-link constraints
+752D549A	SSPS: A Semi-Supervised Pattern Shift for Classification
+7FEF4103	Diagnosis of breast cancer tumor based on manifold learning and Support Vector Machine
+75455906	Multimodal Manifold Analysis by Simultaneous Diagonalization of Laplacians
+5F3B57F2	Automatic Choice of the Number of Nearest Neighbors in Locally Linear Embedding
+5C54D7F1	Some Progress of Supervised Learning
+76EFED63	Think Globally, Fit Locally: Unsupervised Learning of Low Dimensional Manifold
+7F8C4BC2	On Characterizing and Analyzing Diffusion Tensor Images by Learning their Underlying Manifold Structure
+7DA6DC05	Combined delay and graph embedding of epileptic discharges in EEG reveals complex and recurrent nonlinear dynamics
+7E467363	A New Two-Directional Two-Dimensional Feature Extraction Based on Manifold Learning
+8081F9E6	Game Bot Detection via Avatar Trajectory Analysis
+7B43B8B4	Using locally estimated geodesic distance to optimize neighborhood graph for isometric data embedding
+7FE23628	The application of intrinsic variable preserving manifold learning method to tracking multiple people with occlusion reasoning
+7F59E033	Research on the Method of Nonlinear Dimensionality Reduction for the Text of Laws and Regulations of Construction
+7514C2B3	A variational Bayesian approach for the robust analysis of the cortical silent period from EMG recordings of brain stroke patients
+8133023C	Manifold learning-based phoneme recognition
+7D20CF35	How to Train a Classifier Based on the Huge Face Database?
+75F842CC	Commute time guided transformation for feature extraction
+78BBDEBE	Dependence of locally linear embedding on the regularization parameter
+7F16A8DF	Variational Gaussian Process Dynamical Systems
+7BE5AFA3	Fault detection via local and nonlocal embedding
+7B3AA31B	An improved set covering problem for Isomap supervised landmark selection
+786F28DE	Manifold‐based canonical correlation analysis for wireless sensor network localization
+7D0880EB	Estimating Cluster Overlap on Manifolds and its Application to Neuropsychiatric Disorders
+7FA02CA3	Face Recognition Using Marginal Manifold Learning and SVM
+5C0F3478	Maximum Variance Sparse Mapping
+7F784438	Normalized Laplacian based Optimal Locality Preserving Projection
+7E25BD2C	Geodesic entropic graphs for dimension and entropy estimation in manifold learning
+8028CA13	The isometric self-organizing map for 3D hand pose estimation
+7BFA92B4	Manifold Learning in Protein Interactomes
+7D70D27B	Mathematical Methods for Diffusion MRI Processing
+7D967393	Image distance functions for manifold learning
+803E8F89	Research on the Neural Dipole Localization Using a Method Combining SVM with Nonlinear Dimensionality Reduction
+78CEDFDA	Passage method for nonlinear dimensionality reduction of data on multi-cluster manifolds
+7D5D0C71	Neighborhood preserving embedding
+7DB397BF	Statistical Prediction of ENSO from Subsurface Sea Temperature Using a Nonlinear Dimensionality Reduction
+7E4CD0F8	Super-resolution through neighbor embedding
+7B4A6C2D	Low Bias Local Intrinsic Dimension Estimation from Expected Simplex Skewness
+76BEC289	Morphological changes of aging brain structure in MRI analysis
+59F1325D	Exploring Topology Preservation of SOMs with a Graph Based Visualization
+765AFE92	Predicting expression-related features of chromosomal domain organization with network-structured analysis of gene expression and chromosomal location
+7CC8B224	Transferring Colours to Grayscale Images by Locally Linear Embedding
+7CB6EE6C	Map Building By Non-linear Dimensionality Reduction of Historical Visibility Data
+7819048B	Coupled Visual and Kinematic Manifold Models for Tracking
+09921FC3	IDEA: intrinsic dimension estimation algorithm
+7E535F2E	On affine rigidity
+5BCEF0BB	Nonlinear Dimension Reduction via Local Tangent Space Alignment
+7CF3F6AD	Trajectory generation for dynamic bipedal walking through qualitative model based manifold learning
+80885E25	(2D)2UDP: A New Two-Directional Two-Dimensional Unsupervised Discriminant Projection for Face Recognition
+7C8A55D0	Video analysis based on Multi-Kernel Representation with automatic parameter choice
+80CFE3A3	Entropic graphs for intrinsic dimension estimation in manifold learning
+5CC34BEC	Manifold learning for object tracking with multiple motion dynamics
+7D4D344F	Universal manifold embedding for geometric deformations estimation
+79CD758F	Local multidimensional scaling
+0B9367B6	Human action recognition based on random spectral regression
+7AF023AD	LOCAL COORDINATES ALIGNMENT (LCA): A NOVEL MANIFOLD LEARNING APPROACH
+77B360AC	Letters: Face recognition based on orthogonal discriminant locality preserving projections
+7D7A6299	Extending Manifold Leaning Algorithms by Neural Networks
+55D7C022	Multiple-domain manifold for feature extraction in machinery fault diagnosis
+7841F3D6	Learning a kernel matrix for nonlinear dimensionality reduction
+7F8F2D06	Texture Classification with Generalized Fourier Descriptors in Dimensionality Reduction Context: An Overview Exploration
+78EBACE5	LF-EME: Local features with elastic manifold embedding for human action recognition
+80424EBE	Neighborhood Discriminative Manifold Projection for face recognition in video
+7E562A5B	Game bot identification based on manifold learning
+0B9F4554	A sparse-grid-based out-of-sample extension for dimensionality reduction and clustering with laplacian eigenmaps
+7FC6490B	Building connected neighborhood graphs for isometric data embedding
+462D4884	Manifold learning in local tangent space via extreme learning machine
+774ABD65	Manifold contraction for semi-supervised classification
+77458903	Unsupervised transfer learning for target detection from hyperspectral images
+753546B1	Kernel approximately harmonic projection
+7E2F6F8B	Local Two-Dimensional Canonical Correlation Analysis
+7C2573EC	Constrained manifold learning for the characterization of pathological deviations from normality
+7D0262BA	Laplacian Eigenmaps for dimensionality reduction and data representation
+80A30E7B	k/K-Nearest Neighborhood Criterion for Improving Locally Linear Embedding
+80442B58	Embedding new data points for manifold learning via coordinate propagation
+81560F32	Manifold Learning Based Cross-media Retrieval: A Solution to Media Object Complementary Nature
+7E45F1B6	An Effective Way of 3D Model Representation in Recognition System
+809F985F	A Novel Visual Perception Framework
+7F9131AF	Information Retrieval Perspective to Nonlinear Dimensionality Reduction for Data Visualization
+5C4697AC	On Mesh Editing, Manifold Learning, and Diffusion Wavelets
+6DA8FE01	A Supervised Locality Preserving Projections Based Local Matching Algorithm for Face Recognition
+7F29C6C1	Kernel Non-Locality Preserving Projection and Its Application to Face Recognition
+80A0C329	Visualizing the quality of dimensionality reduction
+802CF800	Segmentation by transduction
+6EE0770D	Ensemble-Based discriminant manifold learning for face recognition
+77672BDD	A circuit framework for robust manifold learning
+815E41A5	Local Fisher Discriminant Analysis with Maximum Margin Criterion for Image Recognition
+7C581992	Semi-supervised geodesic Generative Topographic Mapping
+7ECEC655	HYPERSPECTRAL IMAGE CLASSIFICATION USING LOCAL SPECTRAL ANGLE-BASED MANIFOLD LEARNING
+5D47CBA4	Similarity-Based Sparse Feature Extraction Using Local Manifold Learning
+5C162F97	Non-linear Dimensionality Reduction by Locally Linear Isomaps
+7EE40913	Unsupervised feature selection for multi-cluster data
+80CF8F5B	Regularized Discrete Optimal Transport
+7F2B212D	Efficient simplicial reconstructions of manifolds from their samples
+75577204	Multilevel manifold learning with application to spectral clustering
+7D661E1D	Multi-view tracking of articulated human motion in silhouette and pose manifolds
+79D233FC	Sparse control for high-DOF assistive robots
+79387CB4	Algorithmic dimensionality reduction for molecular structure analysis
+7BE8BDF0	Nonlinear dimensionality reduction of gene expression data for visualization and clustering analysis of cancer tissue samples
+804A3386	Face recognition with 3D real-time face imaging system based on LOGMAP
+804D1721	Time-frequency manifold for gear fault signature analysis
+79BF2819	Kernel-view based discriminant approach for embedded feature extraction in high-dimensional space
+7ECB0FE3	Multimodal search and retrieval using manifold learning and query formulation
+814E779D	Motion Retrieval Based on Multiple Instance Learning by Isomap and RBF
+7D921386	Temporal nonlinear dimensionality reduction
+776586E7	Two-layer dual gait generative models for human motion estimation from a single camera
+75125D9E	A unified semi-supervised dimensionality reduction framework for manifold learning
+7B36E7F3	Real local-linearity preserving embedding
+816C355A	A linear maximum variance unfolding algorithm and its application in image recognition
+80ED740D	Example-based human motion extrapolation based on manifold learning
+5F2781BD	Adaptive Neighborhood Select Based on Local Linearity for Nonlinear Dimensionality Reduction
+7DE749F7	Manifold learning-based automatic signal identification in cognitive radio networks
+7DBD380E	Uncorrelated Maximum Locality Preserving Projections
+5E1DBC57	Manifold learning of vector fields
+788C5783	Local structure based supervised feature extraction
+5DFD1C69	Analyzing Facial Expression by Fusing Manifolds
+79B2A5A6	Out-of-Sample Extrapolation of Learned Manifolds
+812DDF7D	Semi-supervised nonlinear dimensionality reduction
+7CCF21F5	An efficient high-dimensional indexing method for content-based retrieval in large image databases
+813F5678	Locality preserving discriminant projections
+78D97015	Fault diagnosis method based on incremental enhanced supervised locally linear embedding and adaptive nearest neighbor classifier
+773BA972	A new nonlinear feature extraction method for face recognition
+79C5411A	Generalized Autoencoder: A Neural Network Framework for Dimensionality Reduction
+83E62DA6	Discriminative Orthogonal Elastic Preserving Projections for Classification
+7527649E	Inductive manifold learning using structured support vector machine
+6CEB8404	Evolving Insight into High-Dimensional Data
+812DAD33	Modeling Correspondences for Multi-Camera Tracking Using Nonlinear Manifold Learning and Target Dynamics
+7ECAA43E	Event Detection Using Quantized Binary Code and Spatial-Temporal Locality Preserving Projections
+80E75B1F	An Incremental Algorithm Based on K Nearest Neighbor Projection for Nonlinear Dimensionality Reduction
+807076C0	LLE-BASED CLASSIFICATION ALGORITHM FOR MMW RADAR TARGET RECOGNITION
+752B9F05	Tensor Rank One Discriminant Analysis-A convergent method for discriminative multilinear subspace selection
+7EFE7A73	Regression on manifolds using kernel dimension reduction
+59402F9B	Learning compact representation for image with tensor manifold perspective
+80B8221E	Computerized Image-Based Detection and Grading of Lymphocytic Infiltration in HER2+ Breast Cancer Histopathology
+795B6D9B	Unsupervised shape clustering of vertebra shapes using simulated annealing and nonlinear dimensionality reduction
+7A814631	Selection of the optimal parameter value for the Isomap algorithm
+7DB4FF3F	Unsupervised Nonlinear Manifold Learning
+7EA66A76	Constrained many-objective optimization: A way forward
+5CF70671	Applications of Average Geodesic Distance in Manifold Learning
+7FA320B9	Persistent cohomology and circular coordinates
+75175D06	Nonlinear data projection on non-Euclidean manifolds with controlled trade-off between trustworthiness and continuity
+75B6D042	Ear recognition based on uncorrelated local Fisher discriminant analysis
+7A28CC90	Robust Positive semidefinite L-Isomap Ensemble
+78C32535	Image retrieval algorithm based on enhanced relational graph
+80B212D6	3D face tracking and expression inference from a 2D sequence using manifold learning
+7CFD9862	Dimensionality reduction and principal surfaces via Kernel Map Manifolds
+7690301F	Nonlinear Dimensionality Reduction for Data on Manifold with Rings: Nonlinear Dimensionality Reduction for Data on Manifold with Rings
+76B63EAA	A manifold learning method to detect respiratory signal from liver ultrasound images
+5D2D7D43	Recognising Facial Expressions Using Spherical Harmonics
+762162DB	On the Relation of Slow Feature Analysis and Laplacian Eigenmaps
+80C9ECC9	Manifold learning and its application in form processing
+7D8847EC	Neighborhood Balance Embedding for Unsupervised Dimensionality Reduction
+77763E33	Manifold learning by preserving distance orders
+830944ED	Time series analysis of microbiome data regularized by local linear manifold
+6C921C82	Identification of moving vehicle trajectory using manifold learning
+7F9E3809	Shape Priors using Manifold Learning Techniques
+7838CA05	A spectral clustering technique for studying post-transplant kidney functions
+7A926BFD	Two-dimensional margin, similarity and variation embedding
+5C015EE8	Segmenting cardiopulmonary images using manifold learning with level sets
+75F5E67A	Local linear transformation embedding
+80B262A8	Mapping a manifold of perceptual observations
+7FD938D7	Two-Dimensional Neighborhood Structure Preserving Projection
+766E47CC	Locality preserving embedding for face and handwriting digital recognition
+7F65DF0E	Uncorrelated multilinear geometry preserving projections for multimodal biometrics recognition
+7C604C29	Manifold learning for face recognition under changing illumination
+812C79F7	Learning colours from textures by sparse manifold embedding
+7CA95703	Face feature extraction and recognition based on discriminant subclass-center manifold preserving projection
+7C300835	Multiple kernel local Fisher discriminant analysis for face recognition
+7D7C5E17	Connecting spectral and spring methods for manifold learning
+7C23F1C2	Dimensionality reduction techniques for blog visualization
+7EE44903	Connecting the Out-of-Sample and Pre-Image Problems in Kernel Methods
+09A27507	Rapid and Brief communication: Formulating LLE using alignment technique
+777A3124	Joint Target Tracking, Recognition and Segmentation for Infrared Imagery Using a Shape Manifold-Based Level Set
+7AFBB843	A new approach to discover interlacing data structures in high-dimensional space
+7728F2B3	Supervised locally linear embedding with probability-based distance for classification
+5F351407	Learning image manifold using web data
+8000451D	Latent spaces for dynamic movement primitives
+8147A07B	Learning an image manifold for retrieval
+820CAE7D	Chapter One - Homeomorphic Manifold Analysis (HMA): Untangling Complex Manifolds
+7D08D005	Image classification based on Laplacian PCA
+7AF28D34	Feature extraction using local structure preserving discriminant analysis
+80DC5CC5	Nonlinear Dimensionality Reduction using Approximate Nearest Neighbors
+7BC9519D	Local Linear Regression on Manifolds and its Geometric Interpretation
+7F3CEFDC	Efficient manifold learning for 3D model retrieval by using clustering-based training sample reduction
+80353364	Integrated diagnostics: a conceptual framework with examples
+5A7CA0C3	Tracking and Classifying of Human Motions with Gaussian Process Annealed Particle Filter
+58CAE824	Performing locally linear embedding with adaptable neighborhood size on manifold
+7DFF6772	Linearization of Isomap
+7F1292B5	Adaptive neighborhood selection for manifold learning
+7BA50A3C	Detection of weak transient signals based on wavelet packet transform and manifold learning for rolling element bearing fault diagnosis
+59CC08D9	Local Coordinates Alignment and Its Linearization
+7B88661B	Image classification with manifold learning for out-of-sample data
+80E15896	Nonlinear dimensionality reduction in climate data
+80EC51B1	Laplacian PCA and Its Applications
+76737A33	High-entropy layouts for content-based browsing and retrieval
+7EC44341	Multiple view human articulated tracking using charting and particle swarm optimisation
+7E638D24	Manifold Discriminant Analysis
+7CF78E68	Canine left ventricular Purkinje fiber network construction using manifold learning
+6D390515	Learning a Self-organizing Map Model on a Riemannian Manifold
+7FC7A266	Remote Sensing Image Processing
+6690E1D6	On the Manifold Structure of the Space of Brain Images
+76E204CC	Mining interlacing manifolds in high dimensional spaces
+7F684D03	A fast and accurate tracking algorithm of left ventricles in 3D echocardiography
+76E02898	Subspace manifold learning with sample weights
+75F486D4	Locally linear embedding based on correntropy measure for visualization and classification
+839A1756	Manifold Spanning Graphs
+7CEEC3C5	Non-isometric manifold learning: analysis and an algorithm
+7C842757	LPP solution schemes for use with face recognition
+81021538	A New Robust Manifold Learning Algorithm Based on Self-Organizing Map
+7F2865FF	Automated Estimation of Spectral Neighborhood Size in Manifold Coordinate Representations of Hyperspectral Imagery: Implications for Anomaly Finding, Bathymetry Retrieval, and Land Applications
+7EE1E958	MDS-Based Multiresolution Nonlinear Dimensionality Reduction Model for Color Image Segmentation
+7DE913F6	Transferring of Speech Movements from Video to 3D Face Space
+75B14C50	Effective human age estimation using a two-stage approach based on Lie Algebrized Gaussians feature
+7FDCBC0C	A comparative study of nonlinear manifold learning methods for cancer microarray data classification
+7CBB95B1	Subspace learning-based dimensionality reduction in building recognition
+5E4B35A7	Robust Pose Estimation Using the SwissRanger SR-3000 Camera
+796D84AD	Detecting Local Manifold Structure for Unsupervised Feature Selection
+7C19C237	Class dependent factor analysis and its application to face recognition
+7D16CF9D	Stratification learning: Detecting mixed density and dimensionality in high dimensional point clouds
+752057BF	Tropical cyclone event sequence similarity search via dimensionality reduction and metric learning
+82E4F303	Discriminant structure embedding for image recognition
+7AD7D2FD	Semi-supervised locally discriminant projection for classification and recognition
+7E19C405	Application of nonlinear dimensionality reduction to characterize the conformational landscape of small peptides
+6C8C8445	Supervised locally linear embedding
+7D08A443	Feature extraction based on fuzzy local discriminant embedding with applications to face recognition
+789F7C36	Intrinsic modeling of stochastic dynamical systems using empirical geometry
+7ED611CF	Clustering-based locally linear embedding
+79D07DDA	A BOOSTED MANIFOLD LEARNING FOR AUTOMATIC FACE RECOGNITION

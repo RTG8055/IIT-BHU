@@ -1,0 +1,1396 @@
+0B67DFE0,"Fuzzy Logic Anomaly Detection Scheme for Directed Diffusion Based Sensor Networks",0.314285714286,0.253526334776
+7BB72859,"A DDoS Attack Test, Analysis and Mitigation Method in Real Networks",0.305826118326,0.274272486772
+5E9C2956,"Identifying the Attack Source by IP Traceback",0.282142857143,0.373214285714
+7EDA4226,"Towards DoS attack prevention based on clustering architecture in mobile IP communication",0.306216931217,0.303273809524
+5B75D7C3,"Denial of Service Attacks Against 802.11 DCF",0.251709401709,0.455555555556
+80DED878,"A Divide-and-Conquer Strategy for Thwarting Distributed Denial-of-Service Attacks",0.273484848485,0.3875
+070C6081,"The dos project's "trinoo" distributed denial of service attack tool",0.266524216524,0.27380952381
+03A45A00,"802.11 disassociation DoS attack simulation using Verilog",0.402056277056,0.471666666667
+79F9381A,"A Cross-layer Approach to Detect Jamming Attacks in Wireless Ad hoc Networks",0.294963369963,0.278571428571
+7524A17D,"Data preprocessing for anomaly based network intrusion detection: A review",0.300396825397,0.283673469388
+5AF323A2,"A Security Proposal Based on a Real Time Agent to Protect Web Services Against DoS Attack",0.331074481074,0.279938271605
+5DE11984,"MANETs performance analysis with dos attack at different routing protocols",0.303561253561,0.315
+7FA83BCC,"Application of artificial neural network in detection of DOS attacks",0.450396825397,0.481904761905
+75D25F13,"Dynamic Binary User-Splits to Protect Cloud Servers from DDoS Attacks",0.282611832612,0.427777777778
+80294B24,"Robust Detection of MAC Layer Denial-of-Service Attacks in CSMA/CA Wireless Networks",0.450396825397,0.553571428571
+7F5906F5,"Distinguishing DDoS Attacks from Flash Crowds Using Probability Metrics",0.574074074074,0.519217687075
+7DDD4A52,"Enhancing the security of corporate Wi-Fi networks using DAIR",0.26043956044,0.349206349206
+02344AF4,"A framework for defending application layer DDoS attacks using an AI approach",0.398484848485,0.347077922078
+7548FEF0,"One-way queuing delay measurement and its application on detecting DDoS attack",0.293376068376,0.355
+75A6004A,"Collaborative Peer to Peer Defense Mechanism for DDoS Attacks",0.288746438746,0.320793650794
+7F0973DF,"Novel defense mechanism against data flooding attacks in wireless ad hoc networks",0.294963369963,0.241666666667
+6900FBE5,"Defending Browsers against Drive-by Downloads: Mitigating Heap-Spraying Code Injection Attacks",0.277106227106,0.275998075998
+58F5226A,"Effective Packet Marking Approach to Defend against DDoS Attack",0.299328449328,0.325714285714
+7F043E7E,"PacketScore: a statistics-based packet filtering scheme against distributed denial-of-service attacks",0.279437229437,0.321904761905
+7C40A70D,"Change trend of averaged Hurst parameter of traffic under DDOS flood attacks",0.270502645503,0.258477633478
+7617C4C5,"Evaluation on multivariate correlation analysis based denial-of-service attack detection system",0.459920634921,0.422510822511
+5D3CF132,"Modelling denial of service attacks on JFK with Meadows's cost-based framework",0.2632996633,0.259410430839
+7A31EACF,"Distributed mechanism in detecting and defending against the low-rate TCP attack",0.271500721501,0.301587301587
+5ADAF158,"Mitigating route request flooding attacks in mobile ad hoc networks",0.331074481074,0.305328798186
+7D634E67,"An Efficient Scheme to Prevent DDoS Flooding Attacks in Mobile Ad-Hoc Network (MANET)",0.301659451659,0.309920634921
+7D46DAAF,"A source address filtering firewall to defend against denial-of-service attacks",0.259000721501,0.279563492063
+8045E0A4,"Statistical Analysis of Self-Similar Session Initiation Protocol (SIP) Messages for Anomaly Detection",0.333333333333,0.276587301587
+81067F49,"An analysis of using reflectors for distributed denial-of-service attacks",0.393722943723,0.5625
+766FB872,"DDoS flooding attack detection scheme based on F-divergence",0.437373737374,0.526666666667
+7DBA78C7,"Research on Counter Bandwidth Depletion DDoS Attacks Based on Genetic Algorithm",0.290945165945,0.282029478458
+5D1A0E17,"DDoS detection and analysis in SDN-based environment using support vector machine classifier",0.430555555556,0.350852272727
+5CCB8988,"A taxonomy of ddos attacks and defense mechanisms",0.254024216524,0.335714285714
+75CFE317,"Using equivalence-checking to verify robustness to denial of service",0.271153846154,0.348333333333
+804D77BD,"Mitigating Distributed Denial of Service Attacks in Multiparty Applications in the Presence of Clock Drifts",0.271153846154,0.239197530864
+812D01A0,"Detection of Jamming Attacks in Wireless Ad Hoc Networks Using Error Distribution",0.580627705628,0.433201058201
+76D4D088,"Mitigating control-channel jamming attacks in multi-channel ad hoc networks",0.28543956044,0.323015873016
+78E3A6BA,"An efficient analytical solution to thwart DDoS attacks in public domain",0.291606541607,0.375992063492
+79EA0C8D,"Detection of various denial of service and Distributed Denial of Service attacks using RNN ensemble",0.550925925926,0.533333333333
+8178A621,"Fast Deployment of Botnet Detection with Traffic Monitoring",0.317063492063,0.366964285714
+7B747BB2,"Defeating DDoS attacks by fixing the incentive chain",0.296296296296,0.353888888889
+599534D9,"A Probe Detection Model Using the Analysis of the Fuzzy Cognitive Maps",0.409595959596,0.410185185185
+7E7F8020,"Jamming sensor networks: attack and defense strategies",0.269913419913,0.268650793651
+8055A705,"O2-DN: An Overlay-based Distributed Rate Limit Framework to Defeat DDoS Attacks",0.444516594517,0.508888888889
+7E410D88,"Distack -- A Framework for Anomaly-Based Large-Scale Attack Detection",0.437373737374,0.7
+7E749369,"Misusing Unstructured P2P Systems to Perform DoS Attacks: The Network That Never Forgets",0.327106227106,0.41341991342
+048E1152,"OverDoSe: A Generic DDoS Protection Service Using an Overlay Network",0.28543956044,0.335238095238
+80EA2C14,"Real time detection and classification of DDoS attacks using enhanced SVM with string kernels",0.550925925926,0.455262445887
+00AB094C,"PTrace: Pushback/SVM Based ICMP Traceback Mechanism against DDoS Attack",0.282611832612,0.477777777778
+6B650F7E,"Lightweight Privacy Preserving Authentication for RFID Using a Stream Cipher",0.269963369963,0.299146224146
+7CFD61E9,"An Outlier Detection Based DDoS Defense Method",0.29822029822,0.400297619048
+5C4B3F7C,"Packet Marking Based Cooperative Attack Response Service for Effectively Handling Suspicious Traffic",0.299328449328,0.296130952381
+5EBF5719,"On-Line Detection of Distributed Attacks from Space-Time Network Flow Patterns",0.453174603175,0.479365079365
+5A4FE3A5,"A System for in-Network Anomaly Detection",0.247558922559,0.39696969697
+5898B56A,"Proactively Detecting Distributed Denial of Service Attacks Using Source IP Address Monitoring",0.413161375661,0.325952380952
+59355ED5,"Disaster Recovery Sites as a Tool of Managing Extreme Attacks",0.282611832612,0.287373737374
+03CDD4F7,"Security Management against DDOS attack in Medical Systems Architecture",0.288746438746,0.285642135642
+5B76A18E,"Combining Cross-Correlation and Fuzzy Classification to Detect Distributed Denial-of-Service Attacks",0.282611832612,0.37
+8007B681,"On the effect of router buffer sizes on low-rate denial of service attacks",0.266524216524,0.268542568543
+7DCF4BCD,"Design and implementation of SIP-aware DDoS attack detection system",0.399074074074,0.476515151515
+796AF333,"Understanding when location-hiding using overlay networks is feasible",0.26043956044,0.378571428571
+7E888A6D,"HAWK: Halting Anomalies with Weighted Choking to Rescue Well-Behaved TCP Sessions from Shrew DDoS Attacks",0.282611832612,0.289903846154
+5F4687A1,"Detecting and Preventing IP-spoofed Distributed DoS Attacks",0.282611832612,0.385714285714
+7EA7EC08,"Botnet Detection Based on Analysis of Mail Flow",0.321031746032,0.362222222222
+770199C2,"A queueing analysis for the denial of service (DoS) attacks in computer networks",0.267582417582,0.259968602826
+5862159C,"Probabilistic packet filtering model to protect web server from DDoS attacks",0.301659451659,0.282142857143
+7FDCD3E8,"Identification of Repeated Denial of Service Attacks",0.254024216524,0.326904761905
+7AE1321B,"Network intrusion detection and classification with Decision Tree and rule based approaches",0.319841269841,0.249382716049
+7FDCED3F,"Analysis of a denial of service attack on TCP",0.260968660969,0.34
+77343255,"Comparative Analysis of Detection of DDoS Attacks in IEEE 802.15.4 Low Rate Wireless Personal Area Network",0.651360544218,0.560119047619
+7F8C973D,"The Optimistic Schemes of Cluster Analysis and k-NN Classifier Method in Detecting and Counteracting Learned DDoS Attack",0.299873737374,0.265656565657
+5C423840,"A new DDoS detection model using multiple SVMs and TRA",0.483116883117,0.775
+58AF3783,"WebSOS: protecting web servers from DDoS attacks",0.263167388167,0.402777777778
+7EE8841C,"An information flow method to detect denial of service vulnerabilities",0.293127705628,0.273412698413
+0C1E4E40,"An Implementation of IP Traceback in IPv6 Using Probabilistic Packet Marking",0.264606227106,0.366964285714
+7A64541F,"Defense techniques for low-rate DoS attacks against application servers",0.25462962963,0.267328042328
+7E3EE2F9,"DDoS detection and traceback with decision tree and grey relational analysis",0.297222222222,0.345238095238
+7A2C669D,"On the detection of desynchronisation attacks against security protocols that use dynamic shared secrets",0.630555555556,0.519246031746
+58EB5269,"Simulation of internet DDoS attacks and defense",0.251709401709,0.345238095238
+80D3EBA7,"Using whitelisting to mitigate DDoS attacks on critical Internet sites",0.393722943723,0.453174603175
+80FFEEEE,"Change-point monitoring for the detection of DoS attacks",0.397222222222,0.547916666667
+80CF890C,"A Novel Model for Detecting Application Layer DDoS Attacks",0.287373737374,0.32
+7E93297F,"Proactive detection of distributed denial of service attacks using MIB traffic variables-a feasibility study",0.561507936508,0.430511463845
+78108BD6,"Comparison of different fusion approaches for network intrusion detection using ensemble of RBFNN",0.418650793651,0.379081632653
+755F2BB3,"Model-based adaptive DoS attack mitigation",0.282611832612,0.392592592593
+7E82249B,"Denial of Service Attack Simulation Based-on CASL",0.251709401709,0.383333333333
+7DDD2E1D,"DDoS attacks detection model and its application",0.398484848485,0.575
+77951631,"DDoS Attack Tolerant Network using Hierarchical Overlay",0.41043956044,0.556547619048
+7FF3C1A9,"Using Bytecode Instruction Counting as Portable CPU Consumption Metric",0.303296703297,0.338181818182
+8131E8E2,"A Fair Solution to DNS Amplification Attacks",0.291606541607,0.414285714286
+7EDFD965,"Low-rate TCP-targeted denial of service attacks and counter strategies",0.25404040404,0.307619047619
+80AEAB7E,"The protection of QoS for multimedia transmission against denial of service attacks",0.251709401709,0.351904761905
+7FBF2B91,"A new marking scheme to defend against distributed denial of service attacks",0.392352092352,0.401360544218
+58A5CD2E,"Detecting DNS amplification attacks",0.26038961039,0.433333333333
+7C894730,"Preventing DoS attacks in peer-to-peer media streaming systems",0.282611832612,0.29696969697
+7DD6DA19,"Denial of Service Attacks in Cognitive Radio Networks through Channel Eviction Triggering",0.299328449328,0.254166666667
+800C5B01,"Web Forms and Untraceable DDoS Attacks",0.293921356421,0.422619047619
+745E70FD,"SDSNM: A Software-Defined Security Networking Mechanism to Defend against DDoS Attacks",0.258537758538,0.304126984127
+026FE6CE,"Correlation Based Approach with a Sliding Window Model to Detect and Mitigate Ddos Attacks",0.311183261183,0.262691629358
+5AB5FE64,"Detecting SYN Flooding Attacks Near Innocent Side",0.282611832612,0.375
+7FD7107A,"A P2P-Based Distributed Detection Scheme against DDoS Attack",0.437373737374,0.7
+5A37BEAA,"A Cost Estimation Calculus for Analyzing the Resistance to Denial-of-Service Attack",0.296352258852,0.309794372294
+807E68FF,"Genetic-fuzzy association rules for network intrusion detection systems",0.271428571429,0.261646224146
+77DC38AE,"POSTER: Reflected attacks abusing honeypots",0.308852258852,0.357291666667
+5D2F9F3F,"Denial of service via algorithmic complexity attacks",0.299328449328,0.377380952381
+7E3891AC,"Distributed denial of service attacks",0.266524216524,0.391666666667
+640585F0,"Efficient Trapdoor-Based Client Puzzle Against DoS Attacks",0.293722943723,0.333333333333
+80572762,"A Hybrid Agent-based Classification Mechanism to Detect Denial of Service Attacks",0.288746438746,0.311111111111
+7852B946,"Fast, memory efficient flow rate estimation using runs",0.415013227513,0.410185185185
+7E2818F4,"Increasing QoS and Security in 4G Networks Using Cognitive Intelligence",0.27328042328,0.319365079365
+7F7EE094,"Filtering of shrew DDoS attacks in frequency domain",0.318722943723,0.423611111111
+7F593504,"HIDMN: A Host and Network-Based Intrusion Detection for Mobile Networks",0.300396825397,0.335714285714
+7EF608EC,"A simulation study of the proactive server roaming for mitigating denial of service attacks",0.288746438746,0.265079365079
+58F0AD96,"Counteracting TCP SYN DDoS attacks using automated model",0.409595959596,0.461111111111
+7E1039B1,"Defend Against Denial of Service Attack with VMM",0.251709401709,0.455555555556
+7D1CF979,"DoS-resistant broadcast authentication protocol with low end-to-end delay",0.279016221873,0.333571428571
+7D979A9B,"New approaches to mitigate network denial-of-service problems",0.276975405547,0.301587301587
+5ABD493D,"Internet denial of service : attack and defense mechanisms",0.254024216524,0.321904761905
+8172E06F,"IP traceback: a new denial-of-service deterrent?",0.267352092352,0.5625
+800CDE1E,"Rogue Access Point Based DoS Attacks against 802.11 WLANs",0.284595959596,0.316363636364
+028D43FC,"Protection against DDoS Attacks Based on Traffic Level Measurements",0.299328449328,0.353174603175
+1490A4AD,"Pushback: router-based defense against ddos attacks",0.251709401709,0.571428571429
+7F53C29E,"Controlling CPU Usage for Processes with Execution Resource for Mitigating CPU DoS Attack",0.300320512821,0.264421997755
+7F23BF2A,"Autonomous dynamic honeypot routing mechanism for mitigating DDoS attacks in DMZ",0.282611832612,0.255197811448
+7D68E7AE,"Dpraodv: A Dyanamic Learning System Against Blackhole Attack in Aodv Based Manet",0.316077441077,0.351515151515
+5907FD12,"A Hybrid Network Model for Intrusion Detection Based on Session Patterns and Rate of False Errors",0.457142857143,0.345634920635
+77719032,"A microscopic competition model and its dynamics analysis on network attacks",0.280952380952,0.284920634921
+80234EE0,"A cross-layer based intrusion detection approach for wireless ad hoc networks",0.325396825397,0.291496598639
+80AEA9CE,"Design of Traceback Methods for Tracking DoS Attacks",0.281355218855,0.321666666667
+7D3D8352,"The Accountability Problem of Flooding Attacks in Service-Oriented Architectures",0.264093314093,0.301111111111
+791110EF,"Effects of Wi-Fi and Bluetooth Battery Exhaustion Attacks on Mobile Devices",0.300535113035,0.29246031746
+0914F61E,"The "tribe flood network" distributed denial of service attack tool",0.277106227106,0.253327922078
+5AC03295,"Defence against 802.11 dos attacks using artificial immune system",0.415476190476,0.401924001924
+77F51255,"New directions in traffic measurement and accounting: Focusing on the elephants, ignoring the mice",0.300444793302,0.22978666214
+80531E40,"Collaborative Change Detection of DDoS Attacks on Community and ISP Networks",0.450396825397,0.482142857143
+7F8A0305,"An Anomaly Detection and Analysis Method for Network Traffic Based on Correlation Coefficient Matrix",0.322294372294,0.260758377425
+120F51DB,"A novel approach to detection of "denial-of-service" attacks via adaptive sequential and batch-sequential change-point detection methods",0.441077441077,0.653571428571
+7E500D3C,"A Defense System against DDoS Attacks by Large-Scale IP Traceback",0.299735449735,0.344155844156
+0DED8D1D,"DDoS Attack Detection Using Fast Entropy Approach on Flow- Based Network Traffic",0.561507936508,0.537414965986
+77DA2EF1,"StackPi: New Packet Marking and Filtering Mechanisms for DDoS and IP Spoofing Defense",0.289795918367,0.28253968254
+7E04B87F,"Statistical traffic modeling for network intrusion detection",0.300396825397,0.310476190476
+815F262F,"A Ratio-Based Control Algorithm for Defense of DDoS Attacks",0.258653846154,0.358630952381
+5ACB9ABB,"Real-time detection of distributed denial-of-service attacks using RBF networks and statistical features",0.562770562771,0.648571428571
+7F3A6EFF,"An Analytical Model for DDoS Attacks and Defense",0.291077441077,0.414285714286
+6D7D09B9,"PPF Model with CTNT to Defend Web Server from DDoS Attack",0.255627705628,0.331547619048
+7BB3F1E7,"Perimeter-based defense against high bandwidth DDoS attacks",0.293376068376,0.422619047619
+7FD846C5,"Channel switch and quiet attack: New DoS attacks exploiting the 802.11 standard",0.423233908948,0.490476190476
+63AEE007,"Unified defense against DDoS attacks",0.288746438746,0.571428571429
+814D173D,"Intrusion Detection Scheme against Sinkhole Attacks in Directed Diffusion Based Sensor Networks",0.451659451659,0.329060445727
+793E381D,"Puppetnets: misusing web browsers as a distributed attack infrastructure",0.290945165945,0.331755050505
+7B1E82E9,"Protecting web applications from DDoS attacks by an active distributed defense system",0.293376068376,0.279823747681
+7DB4B85D,"Mitigating denial of service attack using proof of work and Token Bucket Algorithm",0.406355218855,0.344040835708
+77A87FD4,"An in-depth analysis on traffic flooding attacks detection and system using data mining techniques",0.561507936508,0.394531024531
+7E18558A,"DoS and DDoS Attack's Possibility Verification on Streaming Media Application",0.268518518519,0.254256854257
+75151327,"Traffic dispersion graph based anomaly detection",0.309920634921,0.355238095238
+7E31F5D7,"A case study: Using architectural features to improve sophisticated denial-of-service attack detections",0.556818181818,0.519387755102
+5B82CA96,"Using routing and tunneling to combat DoS attacks",0.393722943723,0.447222222222
+7E765F1B,"Decentralized multi-dimensional alert correlation for collaborative intrusion detection",0.309920634921,0.3875
+7A6EFF3B,"A proposal of an extended method of IP trace‐back for distributed denial of service attacks using a dynamic marking scheme",0.448683261183,0.386458333333
+7D782A27,"MODELING DISTRIBUTED DENIAL OF SERVICE ATTACKS AND DEFENSES",0.266524216524,0.312698412698
+6E6E6B15,"SVM approach with CTNT to detect DDoS attacks in grid computing",0.28167989418,0.322142857143
+7CD98B3D,"Using Cloud Computing to Implement a Security Overlay Network",0.26043956044,0.304030096887
+80C15FDE,"Deciding Optimal Entropic Thresholds to Calibrate the Detection Mechanism for Variable Rate DDoS Attacks in ISP Domain",0.593253968254,0.483680555556
+7B084B39,"A Survey on DoS Attacks and Detection Schemes in Wireless Mesh Networks",0.419913419913,0.329365079365
+7A61EB20,"Towards multisensor data fusion for DoS detection",0.272817460317,0.422619047619
+79FBC052,"Security Techniques for Counteracting Attacks in Mobile Healthcare Services",0.277777777778,0.270923520924
+7FA76C22,"On the efficiency of using space-filling curves in network traffic representation",0.295304232804,0.300595238095
+7D98FEF6,"Regional-based authentication against dos attacks in wireless networks",0.267582417582,0.284761904762
+7E458A82,"Baseline Profile Stability for Network Anomaly Detection",0.272619047619,0.306904761905
+7EAAE13E,"A new method to construct DoS attack oriented to Attack Resistance Test",0.395923520924,0.386458333333
+77D60345,"Containing denial-of-service attacks in broadcast authentication in sensor networks",0.294963369963,0.303174603175
+7FD679BF,"Extracting benefit from harm: using malware pollution to analyze the impact of political and geophysical events on the internet",0.296031746032,0.254765913099
+80EBA57B,"Anti-jamming broadcast communication using uncoordinated spread spectrum techniques",0.28955026455,0.291203703704
+7EE83DCA,"Identification of effective network features to detect Smurf attacks",0.301659451659,0.317142857143
+02E397F8,"Using admissible interference to detect denial of service vulnerabilities",0.266524216524,0.294781144781
+75C6A81E,"Compiling network traffic into rules using soft computing methods for the detection of flooding attacks",0.564285714286,0.408849206349
+803A49CE,"Steps to defend against DoS attacks",0.250865800866,0.323214285714
+5C044150,"Traffic Engineering Based Attack Detection in Active Networks",0.450396825397,0.464285714286
+7F10F77A,"Record path header for triangle routing attacks in IPv6 networks",0.275518925519,0.261451247166
+7CB95B9D,"Denial of service detection and analysis using idiotypic networks paradigm",0.428174603175,0.446031746032
+7E79B13A,"Application of anomaly detection algorithms for detecting SYN flooding attacks",0.413888888889,0.442929292929
+809994C1,"Testing a distributed denial of service defence mechanism using red teaming",0.282142857143,0.301587301587
+780F7E37,"TCP Ack storm DoS attacks",0.243722943723,0.383333333333
+68A8159C,"Detecting Shrew HTTP Flood Attacks for Flash Crowds",0.274074074074,0.311753246753
+5D2253F3,"Topology-Based Detection of Anomalous BGP Messages",0.324074074074,0.625
+7EF2F878,"Protecting routing infrastructures from denial of service using cooperative intrusion detection",0.417592592593,0.368055555556
+5BC9DE77,"Collaborative Anomaly-Based Attack Detection",0.436111111111,1.0
+7F66F452,"Towards user-centric metrics for denial-of-service measurement",0.280555555556,0.625
+7D730E44,"A taxonomy of DDoS attack and DDoS defense mechanisms",0.254024216524,0.335714285714
+7DD8FA07,"Smurf-based Distributed Denial of Service (DDoS) Attack Amplification in Internet",0.266524216524,0.289682539683
+7FE4A828,"Scalable Hierarchical Traceback",0.333333333333,0.0
+7D599C20,"Detection of Denial-of-Service Attacks Based on Computer Vision Techniques",0.436111111111,0.448005698006
+809E400F,"Mobile multimedia broadcasting vulnerability threats, attacks and security solutions",0.291606541607,0.249149659864
+5E51600E,"TCP Based Denial-of-Service Attacks to Edge Network: Analysis and Detection",0.454365079365,0.429931972789
+80840968,"Exposing and eliminating vulnerabilities to denial of service attacks in secure gossip-based multicast",0.286315536316,0.335555555556
+7D353648,"Denial of Service Attacks Using Internet Key Exchange Protocol",0.414672364672,0.389857761286
+8165C049,"Proactive server roaming for mitigating denial-of-service attacks",0.282611832612,0.361111111111
+7E66B8AE,"A feedback control defense strategy for denial of service computer attacks",0.263961038961,0.240319749695
+7A852E9F,"Understanding the impact of denial of service attacks on virtual machines",0.288746438746,0.318055555556
+801BEFF5,"A simulation platform for evaluating DoS attacks in wireless sensor networks",0.277106227106,0.226785714286
+7FE54E86,"A Proactive Test Based Differentiation Technique to Mitigate Low Rate DoS Attacks",0.537074829932,0.435802469136
+5A02D6AF,"Remote Algorithmic Complexity Attacks against Randomized Hash Tables",0.299328449328,0.303571428571
+7FADDCD7,"Denial-of-Service in Wireless Sensor Networks: Attacks and Defenses",0.267582417582,0.288095238095
+5DCE7AF3,"RCS: A Distributed Mechanism Against Link Flooding DDoS Attacks",0.29788961039,0.366666666667
+7D8F52B1,"A Heuristic DDoS Flooding Attack Detection Mechanism Analyses based on the Relationship between Input and Output Traffic Volumes",0.477777777778,0.331168831169
+01C5665C,"A survey of VoIP DoS attacks and their solutions",0.256884319384,0.338095238095
+80D23BF6,"Analyzing interaction between Denial of Service (DoS) attacks and threats",0.288746438746,0.292063492063
+7CAB528D,"DoS attacks exploiting signaling in UMTS and IMS",0.31038961039,0.433333333333
+0BDA30B8,"Managing the threat of denial-of-service attacks",0.272426647427,0.453703703704
+7B67418A,"Pollution attacks and defenses for Internet caching systems",0.274857549858,0.277717652718
+78BB7574,"TrueIP: prevention of IP spoofing attacks using identity-based cryptography",0.410846560847,0.43253968254
+7ED0AEF8,"Towards lightweight and efficient DDOS attacks detection for web server",0.444444444444,0.458333333333
+596F3CFB,"Network intrusion detection",0.268650793651,0.414285714286
+7DE8A893,"DoS packet filter using DNS information",0.403296703297,0.458571428571
+58EE0BDB,"Flooding attack and defence in Ad hoc networks",0.305952380952,0.347142857143
+7CCBC352,"An intelligent method for real-time detection of DDoS attack based on fuzzy logic",0.453703703704,0.525
+7FFFD4CB,"Simulation of DDOS Attacks on P2P Networks",0.267582417582,0.436507936508
+790255A1,"Computer security and intrusion detection",0.252777777778,0.322008547009
+7E403089,"FOSeL: Filtering by Helping an Overlay Security Layer to Mitigate DoS Attacks",0.272426647427,0.273148148148
+0171CC06,"Countering targeted file attacks using locationguard",0.402717652718,0.490476190476
+80A298F7,"New Detection of Peer-to-Peer Controlled Bots on the Host",0.386796536797,0.502051282051
+754763FE,"Protecting web servers from distributed denial of service attacks",0.266524216524,0.308333333333
+74F2F265,"A survey on real world botnets and detection mechanisms",0.293253968254,0.335714285714
+5F786AA0,"Mitigating Denial of Service Attacks in Delay-and Disruption-Tolerant Networks",0.267582417582,0.324126984127
+7D6E5DF4,"Detection of Attackers in Services Using Anomalous Host Behavior Based on Traffic Flow Statistics",0.441137566138,0.330598845599
+78F9418D,"LOT: A Defense Against IP Spoofing and Flooding Attacks",0.258653846154,0.339691558442
+8103BB9D,"Analysis of Coordinated Denial-of-Service Attacks in IEEE 802.22 Networks",0.299328449328,0.436507936508
+7F390B2E,"Accuracy improvement of multi-stage change-point detection scheme by weighting alerts based on false-positive rate",0.446368446368,0.376537698413
+7598D46A,"Detection and defense of application-layer DDoS attacks in backbone web traffic",0.422619047619,0.418452380952
+7E5ED5F5,"Trace Flooding Attack in Mobile Ad Hoc Networks",0.317185592186,0.343571428571
+7BA72B10,"Detection of distributed denial of service attacks using an ensemble of adaptive and hybrid neuro-fuzzy systems",0.550925925926,0.509812409812
+8052DF86,"Honeypot Based Routing to Mitigate DDoS Attacks on Servers at ISP Level",0.299328449328,0.271400226757
+5DAC3BA2,"Providing elasticity to intrusion detection systems in virtualized Software Defined Networks",0.286507936508,0.276252319109
+04275A00,"A Cloud Tracing and Filtering Framework for Defensing Against Denial of Service Attacks",0.25404040404,0.283405483405
+7DE1EE48,"D-WARD: a source-end defense against flooding denial-of-service attacks",0.266524216524,0.447619047619
+7C4EB8D8,"Detecting anomalies in network traffic using maximum entropy estimation",0.26043956044,0.285119047619
+7EE6F614,"On the Design and Performance of an Adaptive, Global Strategy for Detecting and Mitigating Distributed DoS Attacks in GRID and Collaborative Workflow Environments",0.299873737374,0.224368686869
+80C4A4C3,"Detection & study of DDoS attacks via entropy in data network models",0.419913419913,0.379081632653
+7E2DDE7D,"Enhancing DNS Resilience against Denial of Service Attacks",0.257000407,0.324126984127
+8114B900,"Robust and efficient detection of DDoS attacks for large-scale internet",0.436111111111,0.690476190476
+0BC9F5C6,"Mitigating denial of service attacks: a tutorial",0.251709401709,0.317777777778
+5D4AE157,"Denial of Service Detection with Hybrid Fuzzy Set Based Feed Forward Neural Network",0.317063492063,0.34880952381
+0B1A2599,"Queuing algorithms performance against buffer size and attack intensities in DDOS attacks",0.265598290598,0.378968253968
+7EA11DAE,"Using Mobile Agents to Detect and Recover from Node Compromise in Path-based DoS Attacks in Wireless Sensor Networks",0.41043956044,0.308214285714
+7DA980DD,"Network attack detection at flow level",0.418650793651,0.571428571429
+7F318A31,"Space-time encoding scheme for DDoS attack traceback",0.265151515152,0.433333333333
+7DF46993,"A Defensive Mechanism to Defend against DoS / DDoS Attacks by IP Traceback with DPM",0.282611832612,0.414285714286
+07D9F805,"Cooperative Defense against Network Attacks",0.299328449328,0.428571428571
+7E4C383F,"The modeling and comparison of wireless network denial of service attacks",0.267582417582,0.260544217687
+7F7C052D,"Filtering Shrew DDoS Attacks Using A New Frequency-Domain Approach",0.480333951763,0.661904761905
+7CEF7F33,"A Stateless Traceback Technique for Identifying the Origin of Attacks from a Single Packet",0.302248677249,0.320793650794
+6A831314,"Protecting Web Services from DoS Attacks by SOAP Message Validation",0.301851851852,0.282204700062
+7F3B63D9,"Parametric Differences between a Real-world Distributed Denial-of-Service Attack and a Flash Event",0.318253968254,0.385714285714
+7A542BEC,"Mitigating DNS DoS attacks",0.245574795575,0.392592592593
+7D404140,"Clustered Adaptive Rate Limiting: Defeating Denial-of-Sleep Attacks in Wireless Sensor Networks",0.442185592186,0.370535714286
+7A6A4537,"A Novel DDoS Attack Defending Framework with Minimized Bilateral Damages",0.287373737374,0.333441558442
+5BA0B2A7,"A survey of attacks on web services",0.263167388167,0.358630952381
+81403C41,"An approach to reliably identifying signs of DDOS flood attacks based on LRD traffic pattern recognition",0.310317460317,0.261864678531
+7EB53F6A,"Scalable network-layer defense against internet bandwidth-flooding attacks",0.288746438746,0.571428571429
+7D598D09,"An overlay protection layer against Denial-of-Service attacks",0.254024216524,0.358333333333
+792C83A3,"Design and implementation of a lightweight security model to prevent IEEE 802.11 wireless DoS attacks.",0.291077441077,0.246775793651
+81596BB7,"Energy-efficient link-layer jamming attacks against wireless sensor network MAC protocols",0.277106227106,0.238747165533
+8003AAF2,"A Puzzle-Based Defense Strategy Against Flooding Attacks Using Game Theory",0.406355218855,0.402551020408
+7D9D0871,"A Modified Version of IKEv2 for Using in Client-Server Environments",0.257485569986,0.430555555556
+76C81B49,"Analyzing the Effectiveness of DoS Attacks on Tor",0.290945165945,0.323181818182
+053C8127,"The Causality Analysis of Protocol Measures for Detection of Attacks Based on Network",0.477777777778,0.399107142857
+7D84C0C3,"A Prediction Model of DoS Attack's Distribution Discrete Probability",0.285984848485,0.303333333333
+589AD793,"Defending DDoS Attacks Using Network Traffic Analysis and Probabilistic Packet Drop",0.41043956044,0.356150793651
+7C16AAC2,"Mitigating denial of capability attacks using sink tree based quota allocation",0.407463369963,0.350044091711
+62D5D2B6,"Analyzing Performance Vulnerability due to Resource Denial-of-Service Attack on Chip Multiprocessors",0.288746438746,0.289351851852
+5A858F0C,"Low-rate tcp-targeted dos attack disrupts internet routing",0.254834054834,0.411111111111
+7ECA3356,"Defending Against Meek DDoS Attacks By IP Traceback-based Rate Limiting",0.442185592186,0.577380952381
+7D02AA57,"Mitigating DoS attack through selective bin verification",0.287962962963,0.326388888889
+7F9071A7,"An optimal probabilistic solution for information confinement, privacy, and security in RFID systems",0.292185592186,0.255964405964
+5E539DC9,"Distributed detection of flooding and gray hole attacks in Wireless Sensor Network",0.450396825397,0.336066017316
+7DA94F94,"Secure Data Collection in Wireless Sensor Networks Using Randomized Dispersive Routes",0.273148148148,0.24387755102
+7A4D5C76,"Denial-of-service attack resilience dynamic group key agreement for heterogeneous networks",0.333207070707,0.340793650794
+7DBC0BD3,"Analysis of Network Communication Attacks",0.270502645503,0.377380952381
+7E886D79,"Countermeasures Against Distributed Denial of Service Attacks",0.266524216524,0.331515151515
+80B9C13E,"A SIP-TRW algorithm for DDoS attack detection in SIP environments",0.409722222222,0.475
+809D3894,"Misusing Kademlia Protocol to Perform DDoS Attacks",0.328908128908,0.508333333333
+7F39CE97,"Provider-based deterministic packet marking against distributed DoS attacks",0.299328449328,0.321904761905
+63D89019,"Using client puzzles to protect TLS",0.251335470085,0.318333333333
+75247105,"An effective defense mechanism against DoS/DDoS attacks in flow-based routers",0.288746438746,0.333441558442
+5953E0AB,"Performance Evaluation of Non-parallelizable Client Puzzles for Defeating DoS Attacks in Authentication Protocols",0.303561253561,0.255687830688
+5E9A83DE,"Intrusion detection with CUSUM for TCP-Based DDoS",0.247222222222,0.55
+7AD4603B,"A Forensic Mechanism to Trace the Master of Distributed Denial-of-Service Attack",0.282611832612,0.360227272727
+7B9CFDFC,"A router-based technique to mitigate reduction of quality (RoQ) attacks",0.282407407407,0.302777777778
+8030F6C4,"Server-Side Prediction of Source IP Addresses Using Density Estimation",0.262698412698,0.251360544218
+79773C7B,"Thwarting DDoS attacks in grid using information divergence",0.553296703297,0.672222222222
+7FF84769,"On Improving an Algebraic Marking Scheme for Detecting DDoS Attacks",0.302651515152,0.343333333333
+5C70BA56,"Distributed defense against distributed denial-of-service attacks",0.266524216524,0.385714285714
+805EBCD3,"Quick Detection of Stealthy SIP Flooding Attacks in VoIP Networks",0.450396825397,0.485238095238
+7A594DF9,"Effective approach toward Intrusion Detection System using data mining techniques",0.418650793651,0.33483044733
+02BC4212,"Proactively Detecting DDoS Attack Using Source IP Address Monitoring",0.41130952381,0.384693877551
+820A3D5D,"Distributed Denial of Service attack on cloud: Detection and prevention",0.417592592593,0.403463203463
+7FEA9BC8,"DoS/DDoS Detection Scheme Using Statistical Method Based on the Destination Port Number",0.402188552189,0.355460858586
+5ADF8E01,"MULTOPS: a data-structure for bandwidth attack detection",0.397222222222,1.0
+806DA5E1,"Detection of distributed denial of service attacks in cloud computing by identifying spoofed IP",0.449735449735,0.374161255411
+7F33C88E,"Detecting low-rate periodic events in Internet traffic using renewal theory",0.296031746032,0.261456400742
+7EE3D387,"Multi Layer Approach to Defend DDoS Attacks Caused by Spam",0.268722943723,0.28543956044
+58B6C02B,"Impact of Identifier-Locator Split Mechanism on DDoS Attacks",0.254024216524,0.33125
+7ACBBE0A,"Losing control of the internet: using the data plane to attack the control plane",0.26043956044,0.241402116402
+7D39AC17,"MAFIC: adaptive packet dropping for cutting malicious flows to push back DDoS attacks",0.299328449328,0.325661375661
+5832E9C5,"A robust feature normalization scheme and an optimized clustering method for anomaly-based intrusion detection system",0.30284992785,0.222970779221
+80939B0A,"Denial-of-service attacks rip the internet",0.254834054834,0.412698412698
+5E36A154,"Safeguard information infrastructure against DDoS attacks: experiments and modeling",0.414407814408,0.480555555556
+7F0CE723,"Survivability Evaluation of Wireless Sensor Network under DDoS Attack",0.267582417582,0.292857142857
+753709FE,"An Experimental Study of the Performance Impact of Path-Based DoS Attacks in Wireless Mesh Networks",0.299328449328,0.223115079365
+06AD557C,"Trends in denial of service attack technology",0.251709401709,0.323333333333
+7D57DCB7,"DDoS detection based on feature space modeling",0.311447811448,0.34
+7F119714,"A Parameter Selection Approach for Mixtures of Kernels Using Immune Evolutionary Algorithm and its Application to IDSs",0.279166666667,0.253084415584
+5F8EA78C,"Detecting DDoS attacks based on multi-stream fused HMM in source-end network",0.299328449328,0.375238095238
+7B0DB4DC,"Detection of neighbor solicitation and advertisement spoofing in IPv6 neighbor discovery protocol",0.297222222222,0.285317460317
+80807B07,"Detection SYN Flooding Attacks Using Fuzzy Logic",0.561111111111,0.673333333333
+7BC7BF4F,"Launching denial-of-service jamming attacks in underwater sensor networks",0.28543956044,0.31746031746
+7F6B55A0,"Defending against DoS attacks on 3G cellular networks via randomization method",0.305826118326,0.279563492063
+76E347A8,"A Novel Solution to Handle DDOS Attack in MANET",0.291606541607,0.369047619048
+4959052B,"A proposal for new marking scheme with its performance evaluation for IP traceback",0.309585652443,0.320833333333
+7CDA32C8,"Detection workload in a dynamic grid-based intrusion detection environment",0.305555555556,0.478333333333
+767333BF,"Exploiting P2P systems for DDoS attacks",0.31038961039,0.530303030303
+7BBCC861,"An efficient sketch-based framework to identify multiple heavy-hitters and its application in DoS detection",0.30404040404,0.3875
+75BED25E,"Mitigating bandwidth-exhaustion attacks using congestion puzzles",0.410185185185,0.477777777778
+7CEDB5F5,"Secure SIP: A Scalable Prevention Mechanism for DoS Attacks on SIP Based VoIP Systems",0.288746438746,0.24053030303
+7B1C7642,"Defending against Distributed Denial of Service Attacks: Issues and Challenges",0.28630952381,0.282482993197
+804CFED9,"Multi-Core Defense System (MSDS) for Protecting Computer Infrastructure against DDoS Attacks",0.266524216524,0.2703000703
+7E93EE04,"Do Low Rate DoS Attacks Affect QoS Sensitive VoIP Traffic?",0.521873364731,0.541836734694
+7C4500BB,"Defending against flooding-based distributed denial-of-service attacks: a tutorial",0.284463684464,0.417989417989
+80DA970D,"More Accurate and Fast SYN Flood Detection",0.284595959596,0.545454545455
+6D3DA662,"Vulnerabilities of underwater acoustic networks to denial‐of‐service jamming attacks",0.299328449328,0.34126984127
+79D9602D,"DETERIORATING DISTRIBUTED DENIAL OF SERVICE ATTACK BY RECOVERING ZOMBIES USING PENALTY SCHEME",0.402188552189,0.335952380952
+6DA51A7B,"Detecting Ringing-Based DoS Attacks on VoIP Proxy Servers",0.26038961039,0.285384615385
+7FD4575B,"A Distributed Approach using Entropy to Detect DDoS Attacks in ISP Domain",0.402056277056,0.429828042328
+802290D3,"Coarse Grained Retrenchment and the Mondex Denial of Service Attacks",0.266524216524,0.327619047619
+818077C9,"A localised clustering scheme to detect attacks in wireless sensor network",0.301659451659,0.246088435374
+8096CAF1,"A covariance analysis model for DDoS attack detection",0.398484848485,0.471515151515
+812B6C73,"Classifying different denial-of-service attacks in cloud computing using rule-based learning",0.427188552189,0.451262626263
+7B2B3546,"An abnormal-based approach to effectively detect DDOS attacks",0.282611832612,0.447619047619
+7D16909D,"FVBA: A combined statistical approach for low rate degrading and high bandwidth disruptive DDoS attacks detection in ISP domain",0.651360544218,0.625566893424
+798EA880,"Deciding optimal entropic thresholds to calibrate the detection mechanism for variable rate DDoS attacks in ISP domain: honeypot based approach",0.593253968254,0.40073953824
+8046D4A4,"The detection of low-rate denial-of-service attack based on feature extraction and analysis at congestion times",0.445707070707,0.368402777778
+7FF7C352,"A Pollution Attack Resistant Multicast Authentication Scheme Tolerant to Packet Loss",0.305627705628,0.304126984127
+75F3DA93,"Distributed denial of service attack detection using an ensemble of neural classifier",0.550925925926,0.471085858586
+7582790C,"Jamming in underwater sensor networks: detection and mitigation",0.302248677249,0.289682539683
+59F3B776,"Analysis of DDoS Attacks and an Introduction of a Hybrid Statistical Model to Detect DDoS Attacks on Cloud Computing Environment",0.304365079365,0.326282667949
+7F3A84B7,"A Secure Intrusion Detection System with Authentication in Mobile Ad hoc Network",0.318253968254,0.287770562771
+811091E6,"A Proxy Network Topology and Reconfiguration Algorithm for Resistance to DoS Attacks",0.301659451659,0.316738816739
+780179CF,"Detection of HTTP flooding attacks in multiple scenarios",0.447222222222,0.498333333333
+7F8F9E86,"Protecting Information Systems from DDoS Attack Using Multicore Methodology",0.564285714286,0.572294372294
+7D04AD43,"Adaptive response system for distributed denial-of-service attacks",0.282611832612,0.347727272727
+5908F900,"IP traceback algorithm for DoS/DDoS attack",0.243722943723,0.583333333333
+80D6CB83,"Evaluation and demonstration of the usage of a virtual honeynet for monitoring and recording online attacks",0.288746438746,0.308531746032
+816493DB,"SOS: an architecture for mitigating DDoS attacks",0.263167388167,0.340277777778
+6D2A025E,"Queueing Analysis for Networks Under DoS Attack",0.271550671551,0.308571428571
+7DB4CA22,"Design and Validation of PATRICIA for the Mitigation of Network Flooding Attacks",0.267582417582,0.275733525734
+7F0F96BD,"Cognitive security protocol for sensor based VANET using swarm intelligence",0.279828042328,0.311772486772
+7F8FF93C,"Denial-of-service attacks on battery-powered mobile computers",0.282611832612,0.538461538462
+7B2081B4,"From high-availability to collapse: quantitative analysis of Cloud-Droplet-Freezing attack threats to virtual machine migration in cloud computing",0.299735449735,0.225401334776
+809C64EE,"An efficient filter for denial-of-service bandwidth attacks",0.290945165945,0.402777777778
+7E121322,"A Control Theoretical Approach for Flow Control to Mitigate Bandwidth Attacks",0.290945165945,0.271494708995
+5BCA5AEA,"A Mechanism for Detection and Prevention of Distributed Denial of Service Attacks",0.439814814815,0.438888888889
+7E5EF103,"PISA*: A System for Control of DDoS Attacks",0.256222943723,0.405303030303
+75752CAC,"Countering jamming attacks against an authentication and key agreement protocol for mobile satellite communications",0.331018518519,0.269047619048
+80A5934D,"Thwarting Timing Attacks Using ATM Networks",0.41043956044,0.438161375661
+7FDDE811,"An Early Stage Detecting Method against SYN Flooding Attack",0.299873737374,0.308181818182
+7D2ABF14,"Entropy clustering approach for improving forecasting in DDoS attacks",0.29788961039,0.322420634921
+7F9A4542,"Fast Algorithms for Heavy Distinct Hitters using Associative Memories",0.270833333333,0.34375
+813BB4C3,"A novel approach for a Distributed Denial of Service Detection Engine",0.306481481481,0.31619047619
+77FE090C,"Wavelet based Denial-of-Service detection",0.287962962963,0.481481481481
+7DB20E5C,"Experimental Evaluation of Energy-Based Denial-of Service Attacks in Wireless Networks",0.299328449328,0.31619047619
+5C54C9C2,"Preventing DDoS Attacks Based on Credit Model for P2P Streaming System",0.31654040404,0.314069264069
+7F0CE0C9,"Using merkle tree to mitigate cooperative black-hole attack in Wireless Mesh Networks",0.41043956044,0.406084656085
+7DA7CF4A,"Low rate dos attack to monoprocess servers",0.393301936159,0.48
+5AEC5C5F,"Lightweight wireless intrusion detection systems against DDoS attack",0.436111111111,0.452467532468
+7F02AD42,"Defending Web Services against Denial of Service Attacks Using Client Puzzles",0.411431623932,0.340873015873
+010B8B4B,"Remote Denial of Service Attacks and Countermeasures",0.288746438746,0.364393939394
+7F50D98D,"Discriminating DDoS Flows from Flash Crowds Using Information Distance",0.405148555149,0.424272486772
+7764EADC,"A PROFICIENT TRACEBACK APPROACH USING PROVINCIAL LOCALITY ASPECTS TO ELIMINATE DENIAL OF SERVICE ATTACKS",0.400925925926,0.360470779221
+761EECFE,"Efficient Defence against Misbehaving TCP Receiver DoS Attacks",0.304365079365,0.30619047619
+58546494,"A survey of bots used for distributed denial of service attacks",0.399857549858,0.431074481074
+7DC6D216,"IP spoofing attack and its countermeasures",0.264285714286,0.344155844156
+80779CC0,"Protecting SIP Proxy Servers from Ringing-Based Denial-of-Service Attacks",0.26038961039,0.341666666667
+80EBB8DA,"A Simple Attack on a Recently Introduced Hash-based Strong-password Authentication Scheme",0.296368446368,0.346428571429
+7656889F,"Flash crowds and denial of service attacks: characterization and implications for CDNs and web sites",0.281018518519,0.239329805996
+7ECB62E1,"Defending Grid Web Services from XDoS attacks by SOTA",0.272095959596,0.311904761905
+7D04BBC4,"Some upper and lower bounds on the coupon collector problem",0.25753968254,0.287626262626
+7F1D94F6,"MAC games for distributed wireless network security with incomplete information of selfish and malicious user types",0.318253968254,0.229989628427
+810687AC,"Mitigating DDoS Attacks Using Protection Nodes in Mobile Ad Hoc Networks",0.428296703297,0.411281179138
+79E6CA97,"Defending against denial of service attacks in Scout",0.257000407,0.317289377289
+7743DC2D,"An Enhanced SYN Cookie Defence Method for TCP DDoS Attack",0.304365079365,0.337797619048
+79436681,"A discussion on ‘Detection of intrusions in information systems by sequential change-point methods’ by Tartakovsky, Rozovskii, Blažek, and Kim",0.303296703297,0.339393939394
+7BF66AC4,"Security enhancement on an improvement on two remote user authentication schemes using smart cards",0.274146224146,0.253741496599
+05B1B8A1,"AEGIS: An Active-Network-Powered Defense Mechanism against DDoS Attacks",0.254024216524,0.346428571429
+769335E3,"Specification-based anomaly detection: a new approach for detecting network intrusions",0.406462585034,0.430952380952
+779602CE,"Analyzing well-known countermeasures against distributed denial of service attacks",0.288746438746,0.331818181818
+7CF679ED,"A Robust Remote User Authentication Scheme Using Smart Card",0.257016594517,0.260383597884
+7F3F9821,"On the Impact of DoS Attacks on Secure Service Discovery",0.261574074074,0.318333333333
+5C6271E4,"A new simple authenticated key agreement and protected password change protocol",0.304138321995,0.301247165533
+7DAAA170,"Using conservation of flow as a security mechanism in network protocols",0.271815221815,0.252154195011
+8102A685,"A second-order statistical detection approach with application to Internet anomaly detection",0.302777777778,0.585714285714
+80846653,"An Entropy Algorithm to Improve the Performance and Protection from Denial-of-Service Attacks in NIDS",0.279487179487,0.319444444444
+7EFE3172,"Attacks and solutions on Aydos-Savas-Koc's wireless authentication protocol",0.306421356421,0.371428571429
+7D647945,"Mark-aided distributed filtering by using neural network for DDoS defense",0.267582417582,0.371428571429
+7FE257D2,"Empirical analysis of Denial of Service attack against SMTP servers",0.288746438746,0.323333333333
+80DE5401,"Discriminating DDoS attack traffic from flash crowd through packet arrival patterns",0.28253968254,0.250744047619
+7CA5CB6A,"Distinguishing between single and multi-source attacks using signal processing",0.402056277056,0.58125
+7EA51703,"RFID Protocol Enabling Ownership Transfer to Protect against Traceability and DoS Attacks",0.315740740741,0.29880952381
+7CEA6FFD,"Sustaining availability of Web services under distributed denial of service attacks",0.293376068376,0.281349206349
+59F062FF,"Feasibility of DDos Attacks with P2P Systems and Prevention Through Robust Membership Management",0.293376068376,0.272757335257
+7DCEA7E8,"Mitigating attacks on open functionality in SMS-capable cellular networks",0.299328449328,0.34126984127
+8066C0BF,"Performance analysis of TCP/AQM under denial-of-service attacks",0.251709401709,0.430555555556
+0AE2961E,"Detecting Novel Attacks by Identifying Anomalous Network Packet Headers",0.299328449328,0.307804232804
+8070953D,"Detecting DDoS Attacks by Analyzing Client Response Patterns",0.304365079365,0.312698412698
+7D01DBF8,"A Coordinated Detection and Response Scheme for Distributed Denial-of-Service Attacks",0.437373737374,0.48
+80848688,"Software based Low Rate DoS Attack Detection Mechanism",0.522789115646,0.484375
+7B9FAF07,"Modified method of detecting DDoS attacks based on entropy: Modified method of detecting DDoS attacks based on entropy",0.299873737374,0.338888888889
+7D932B1B,"Monitoring the macroscopic effect of DDoS flooding attacks",0.286315536316,0.350505050505
+81EDE1E2,"A Proposal of an Extended Method of IP Trace-Back for Distributed Denial of Service Attacks Using Dynamic Marking Scheme",0.448683261183,0.417857142857
+7FF1BB21,"Countering denial-of-service attacks using congestion triggered packet sampling and filtering",0.41335978836,0.390022675737
+7E5DA37B,"Active internet traffic filtering: real-time response to denial-of-service attacks",0.299328449328,0.328571428571
+7A45C6BD,"AN APPROACH OF DEFENDING AGAINST DDOS ATTACK",0.250865800866,0.428571428571
+59F45461,"Signaling-Oriented DoS Attacks in UMTS Networks",0.267582417582,0.403174603175
+7CB1312B,"The detection and defence of DoS attack for wireless sensor network",0.421428571429,0.406746031746
+7BDBF457,"Adaptive intrusion detection & prevention of denial of service attacks in MANETs",0.439814814815,0.388095238095
+81224E55,"Pulse: a dynamic deadlock detection mechanism using speculative execution",0.399074074074,0.403703703704
+62FBE163,"Dynamic multimedia scheduling against Motion based DoS attacks",0.308852258852,0.32380952381
+7D991BD2,"JUST-Google: A Search Engine-Based Defense Against Botnet-Based DDoS Attacks",0.251709401709,0.464285714286
+01DB3F19,"A countermeasure againstDDOS attacks using active networks technologies",0.41043956044,0.480086580087
+7DFBFFA3,"A combined approach for distinguishing different types of jamming attacks against wireless networks",0.300396825397,0.255844155844
+80DE0E91,"Combining Adaptive Filtering and IF Flows to Detect DDoS Attacks within a Router",0.282611832612,0.330404040404
+8029A7A8,"Packetscore: statistics-based overload control against distributed denial-of-service attacks",0.268722943723,0.352083333333
+81418E8B,"DDoS Defense Using TCP_IP Header Analysis and Proactive Tests",0.260968660969,0.304126984127
+7E885F7B,"Mitigating Denial-of-Service Flooding Attacks with Source Authentication",0.256884319384,0.288975468975
+7F5FE49B,"Spectral Analysis of TCP Flows for Defense Against Reduction-of-Quality Attacks",0.298005698006,0.31746031746
+7813E36E,"A lab implementation of SYN flood attack and defense",0.251709401709,0.339691558442
+7DC1AD34,"Evaluating the Vulnerability of Network Mechanisms to Sophisticated DDoS Attacks",0.299328449328,0.310793650794
+7FBF6F2C,"A taxonomy for denial of service attacks in content-based publish/subscribe systems",0.251709401709,0.311515151515
+7E71BD11,"A packet filter placement problem with application to defense against spoofed denial of service attacks",0.277106227106,0.249647266314
+7C197DE6,"Reducing DDoS attacks impact using a hybrid cloud-based firewalling architecture",0.393722943723,0.496666666667
+7751D811,"Survey of low rate DoS attack detection mechanisms",0.528911564626,0.508503401361
+77F44A39,"A lightweight web server anomaly detection method based on transductive scheme and genetic algorithms",0.306818181818,0.27619047619
+7B6AA4A6,"A game theoretic defence framework against DoS/DDoS cyber attacks",0.304365079365,0.373214285714
+5A9A67F0,"Implementing Pushback: Router-Based Defense Against DDoS Attacks",0.316524216524,0.547619047619
+815EC1D1,"On the (in)Effectiveness of Probabilistic Marking for IP Traceback Under DDoS Attacks",0.29788961039,0.430555555556
+7E4A9118,"Reduction of Quality (RoQ) Attacks on Dynamic Load Balancers: Vulnerability Assessment and Design Tradeoffs",0.325,0.231838223505
+5AB597BC,"DDoS attacks and defense mechanisms: a classification",0.254024216524,0.360714285714
+5A11504F,"Botnets and Distributed Denial of Service Attacks",0.266524216524,0.391666666667
+7EA2A92B,"A large-scale hidden semi-Markov model for anomaly detection on user browsing behaviors",0.316077441077,0.317222222222
+7FB40917,"Fusion of Detection, Traffic Control and Traceback Technique for DDoS attacks r",0.418650793651,0.417328042328
+7DCAC2EE,"A Graph-Theoretic Algorithm for Detection of Multiple Wormhole Attacks in Mobile Ad Hoc Networks",0.468253968254,0.511904761905
+7F6EE539,"A new border filtering scheme against DDoS attacks",0.389177489177,0.47
+7FFE912E,"A scheme for preventing denial of service attacks on wireless sensor networks",0.301659451659,0.262202380952
+7543038F,"A collaborative defense mechanism against SYN flooding attacks in IP networks",0.310317460317,0.288095238095
+7B460D96,"Detecting DDoS attacks at the source using multiscaling analysis",0.393722943723,0.493333333333
+7EC80F1E,"Adaptive and dynamic intrusion detection by means of idiotypic networks paradigm",0.311507936508,0.352380952381
+70C060AF,"Proactive intrusion detection and SNMP-based security management: new experiments and validation",0.397392290249,0.374546485261
+77BBEBC2,"Jamming detection mechanisms for wireless sensor networks",0.268650793651,0.256746031746
+7062FDD9,"Automated Immunization Against Denial-of-Service Attacks Featuring Stochastic Packet Inspection",0.299328449328,0.344841269841
+7E8A72AF,"Detection of low-rate attacks in computer networks",0.418650793651,0.554945054945
+7E6C0457,"Defending against traffic analysis attacks with link padding for bursty traffics",0.271550671551,0.267573696145
+7FCF0235,"Novel hybrid schemes employing packet marking and logging for IP traceback",0.283405483405,0.321904761905
+5DB56912,"Integrated notification architecture based on overlay against DDoS attacks on convergence network",0.302248677249,0.261904761905
+7CF0DB67,"Sketch-Based SIP Flooding Detection Using Hellinger Distance",0.404701779702,0.485238095238
+042BAA1A,"Detecting Grid-Abuse Attacks by Source-based Monitoring",0.26038961039,0.441666666667
+79B8FE8E,"Evaluation of a low-rate DoS attack against iterative servers",0.288746438746,0.329166666667
+81173141,"Tracing cyber attacks from the practical perspective",0.295244107744,0.458333333333
+7EC1F267,"A Chain Reaction DoS Attack on 3G Networks: Analysis and Defenses",0.299328449328,0.285260770975
+7B777ED2,"How well can congestion pricing neutralize denial of service attacks?",0.288746438746,0.404166666667
+81367CFD,"Detection of Radio Interference Attacks in VANET",0.397222222222,0.540584415584
+5F7891BD,"Effective Filtering Scheme against RREQ Flooding Attack in Mobile Ad Hoc Networks",0.319516594517,0.309920634921
+05495D5A,"Autograph: toward automated, distributed worm signature detection",0.288961038961,0.306074481074
+7D08F8E6,"IP traceback-based intelligent packet filtering: a novel technique for defending against Internet DDoS attacks",0.270502645503,0.265542328042
+7FFCC6BF,"Enforcing security for prevention of DoS attack in wireless sensor networks using economical modeling",0.41043956044,0.319488536155
+7D910172,"On the effectiveness of probabilistic packet marking for IP traceback under denial of service attack",0.299328449328,0.305753968254
+7DFA41E5,"An intrusion detection framework for sensor networks using ant colony",0.412770562771,0.364455782313
+767B0C3A,"Fidelity of network simulation and emulation: A case study of TCP-targeted denial of service attacks",0.270502645503,0.242989417989
+7AF7A6BD,"Dynamic Approach to Defend Against Distributed Denial of Service Attacks Using an Adaptive Spin Lock Rate Control Mechanism",0.553296703297,0.368073593074
+7D1512FE,"A Lightweight Mechanism to Mitigate Application Layer DDoS Attacks",0.282611832612,0.302222222222
+7D4E0CE8,"Experimental analysis of attacks against intradomain routing protocols",0.30113035113,0.455555555556
+80F7209C,"DDoS Attacks Detection Using GA Based Optimized Traffic Matrix",0.561507936508,0.5274427953
+6395C90D,"Analysis of DoS attacks at MAC Layer in mobile adhoc networks",0.299328449328,0.256448412698
+766217E1,"A prediction-based detection algorithm against distributed denial-of-service attacks",0.413888888889,0.591666666667
+781FE5DE,"A Coding-Based Incremental Traceback Scheme against DDoS Attacks in MANET",0.287373737374,0.394444444444
+03648E73,"Detecting And Visualizing Denial-of-Service And Network Probe Attacks Using Principal Component Analysis",0.414622414622,0.35376984127
+7F3FFF27,"Byzantine attacks against network coding in peer to peer distributed storage",0.28543956044,0.2630501443
+7D26FCF7,"P2P-AIS: A P2P Artificial Immune Systems architecture for detecting DDoS flooding attacks",0.286315536316,0.26271043771
+71EC330F,"A Defense Mechanism for Distributed Denial of Service Attack in Software-Defined Networks",0.299328449328,0.292063492063
+58CFFD55,"Insertion, Evasion, and Denial of Service: Eluding Network Intrusion Detection",0.317063492063,0.27931547619
+7E5CBD1C,"Integrating grid with intrusion detection",0.2632996633,0.347916666667
+7911714F,"Five Basic Types of Insider DoS Attacks of Code Dissemination in Wireless Sensor Networks",0.309920634921,0.20772005772
+7EC5F1A9,"Proactive surge protection: a defense mechanism for bandwidth-based attacks",0.288746438746,0.318571428571
+58D6EC87,"Detecting distributed denial of service attacks by sharing distributed beliefs",0.28630952381,0.281547619048
+75FF743D,"Application of anomaly detection algorithms for detecting SYN flooding attacks",0.413888888889,0.442929292929
+5E239515,"Denial of Service Detection in Mobile Agent Systems with Dependencies in Computations",0.317063492063,0.275061842919
+751C5D14,"Network intrusion and fault detection: a statistical anomaly approach",0.311507936508,0.275396825397
+8035B2A1,"Detecting and Tracing DDoS Attacks by Intelligent Decision Prototype",0.290740740741,0.329365079365
+7B26CE69,"An anti-DoS attack architecture for wireless IT Infrastructure",0.249278499278,0.316468253968
+80A9F891,"Secure Data Forwarding against Denial of Service Attack Using Trust Based Evolutionary Game",0.414407814408,0.384391534392
+77ADF8E8,"POSTER: How Distributed Are Today's DDoS Attacks?",0.308852258852,0.371666666667
+7E77C510,"Distributed Divide-and-Conquer Techniques for Effective DDoS Attack Defenses",0.291666666667,0.363492063492
+7E93C7DA,"CLIQUE clustering approach to detect denial-of-service attacks",0.268722943723,0.326904761905
+0D2CB0AD,"Using randomized association ID to detect and prevent spoofed PS-Poll based denial of service attacks in IEEE 802.11 WLANs",0.404487179487,0.333008658009
+79FA9F3D,"Distributed packet pairing for reflector based DDoS attack mitigation",0.299328449328,0.295804988662
+7C67A394,"Timing considerations in detecting resource starvation attacks using statistical profiles",0.426587301587,0.361512445887
+7E362A33,"Self Protection through Collaboration Using D-CAF: A Distributed Context-Aware Firewall",0.274857549858,0.325324675325
+7530572E,"Access points vulnerabilities to DoS attacks in 802.11 networks",0.300396825397,0.294853294853
+7DDB2771,"Early statistical anomaly intrusion detection of DOS attacks using MIB traffic parameters",0.561507936508,0.401282667949
+7D190848,"An active detecting method against SYN flooding attack",0.295244107744,0.339691558442
+7FA86111,"802.11 network intrusion detection using genetic programming",0.422619047619,0.481904761905
+802D346F,"A DDoS Attack Defending Scheme Based on Network Processor",0.301659451659,0.303174603175
+7D707EF9,"The Early Detection of DDoS Based on the Persistent Increment Feature of the Traffic Volume",0.311447811448,0.348571428571
+7FCDE5D5,"A cross-AS traceback method based on flexible fragmentation of path information",0.305826118326,0.340238095238
+80B35F38,"Detecting Primary User Emulation Attacks in Dynamic Spectrum Access Networks",0.300396825397,0.306753246753
+5D9B09D2,"A comprehensive categorization of DDoS attack and DDoS defense techniques",0.302248677249,0.349206349206
+593B55FD,"Enhancing the Resistence of a Provably Secure Key Agreement Protocol to a Denial-of-Service Attack",0.311778499278,0.398214285714
+5DD2E1DA,"Identifying DOS attacks using data pattern analysis",0.421428571429,0.395578231293
+7D25D38B,"NetShield: Protocol Anomaly Detection with Datamining Against DDoS Attacks",0.417592592593,0.733333333333
+6D2E2A25,"Computational intelligent techniques for detecting denial of service attacks",0.291666666667,0.335555555556
+7CA1BF73,"Blocking attacks on SIP VoIP proxies caused by external processing",0.290945165945,0.283653846154
+7FCEEA28,"Mathematical Model for Low-Rate DoS Attacks Against Application Servers",0.287373737374,0.29
+59EEA1F9,"Using Incentives to Reduce Active Network Privacy Threats and Vulnerabilities",0.265211640212,0.254426922284
+6A376BFE,"Protecting Web Services against DoS Attacks: A Case-Based Reasoning Approach",0.279365079365,0.29623015873
+7C40400E,"Feature evaluation for web crawler detection with data mining techniques",0.312770562771,0.277839620697
+78571D64,"Energy-oriented denial of service attacks: an emerging menace for large cloud infrastructures",0.288746438746,0.275685425685
+7FDF3547,"Effectiveness of advanced and authenticated packet marking scheme for traceback of denial of service attacks",0.301659451659,0.276360544218
+76E9EC90,"SyMon: A practical approach to defend large structured P2P systems against Sybil Attack",0.282611832612,0.344155844156
+08F26DF0,"Preventing DoS Attacks in Wireless Sensor Networks: A Repeated Game Theory Approach",0.303495115995,0.246164021164
+8070C7FE,"A Survey of Botnet and Botnet Detection",0.254365079365,0.571428571429
+0D85985A,"Some improvements to the cost-based framework for analyzing denial of service attacks",0.291077441077,0.318518518519
+8050558B,"Performance Sensitivities of Wireless Mesh Networks Under Path-Based DoS Attacks",0.270502645503,0.252843915344
+778376A3,"Risk-sensitive control under a Markov modulated Denial-of-Service attack model",0.267929292929,0.296515151515
+748EAD6E,"Random flow network modeling and simulations for DDoS attack mitigation",0.271550671551,0.283068783069
+80C22066,"On the impact of DoS attacks on Internet traffic characteristics and QoS",0.269913419913,0.250992063492
+7E4339D1,"Using Adaptive Bandwidth Allocation Approach to Defend DDoS Attacks",0.405032467532,0.425595238095
+7E69541C,"A Comprehensive Mechanism to reduce the detection time of SYN Flooding Attack",0.439814814815,0.419318181818
+7CF89FA2,"Analysis of denial-of-service attacks on denial-of-service defensive measures",0.282611832612,0.422222222222
+7F3B61CC,"DDoS-shield: DDoS-resilient scheduling to counter application layer attacks",0.254834054834,0.326666666667
+80140B47,"A Comprehensive Survey of Distributed Defense Techniques against DDoS Attacks",0.291666666667,0.349206349206
+02894B18,"Cross-layer designs for mitigating range attacks in ad hoc networks",0.28543956044,0.296957671958
+74A1E879,"Effective and efficient malware detection at the end host",0.284595959596,0.39696969697
+80576E81,"A Behavior-Based Detection Approach to Mass-Mailing Host",0.256216931217,0.414285714286
+7AE66A7A,"IP Packet Size Entropy-Based Scheme for Detection of DoS/DDoS Attacks",0.428571428571,0.418452380952
+5E64CEC0,"Space-Economical Reassembly for Intrusion Detection System",0.249074074074,0.320454545455
+8164E986,"Monitoring the application-layer DDoS attacks for popular websites",0.282611832612,0.42380952381
+5AFDA492,"Protection from distributed denial of service attacks using history-based IP filtering",0.410846560847,0.422789115646
+768C0617,"Fast detection and visualization of network attacks on parallel coordinates",0.453174603175,0.415013227513
+8016D3F7,"Probabilistic Route Selection Algorithm to Trace DDoS Attack Traffic Source",0.299328449328,0.275170068027
+7B8C9330,"WebSOS: an overlay-based system for protecting web servers from denial of service attacks",0.266524216524,0.290151515152
+7DB5C24C,"Intrusion Detection System for IP Multimedia Subsystem using K-Nearest Neighbor classifier",0.418650793651,0.33483044733
+78BE9402,"An Intrusion Detection System Based on Network Processor",0.300396825397,0.294516594517
+7855FFCE,"Detection of DDoS attacks using optimized traffic matrix",0.561507936508,0.653571428571
+7F4E55F7,"EFFECTIVENESS OF RATE-LIMITING IN MITIGATING FLOODING DOS ATTACKS",0.268722943723,0.300555555556
+8039C083,"A framework for countering denial of service attacks",0.2632996633,0.326666666667
+108CEB35,"Performance studies of the server-side access control for syn-flooding distributed denial of service attacks using real systems",0.405555555556,0.314134199134
+75D8C94F,"New directions in traffic measurement and accounting",0.300444793302,0.336753246753
+7F865160,"Defending Against TCP SYN Flooding Attacks Under Different Types of IP Spoofing",0.296031746032,0.315324675325
+7D20A49C,"Defense against Routing Disruption Attacks in Mobile Ad Hoc Networks",0.317185592186,0.30753968254
+806F43D5,"Is it congestion or a DDoS attack?",0.287962962963,0.481481481481
+0C44F537,"MAC Layer DoS Attacks in Wireless Sensor Networks: A Survey",0.267582417582,0.208705357143
+77AA0432,"Energy-efficient link-layer jamming attacks against wireless sensor network MAC protocols",0.277106227106,0.238747165533
+763F7E0D,"A Host-Based Intrusion Detection System Using Architectural Features to Improve Sophisticated Denial-of-Service Attack Detections",0.548484848485,0.567613636364
+7DA4554A,"Mitigating DoS Using Handlers for Global SOA",0.230583142348,0.317171717172
+595AAA30,"Reflector Attack Traceback System with Pushback Based iTrace Mechanism",0.282611832612,0.321515151515
+7D4C15CA,"Adaptive sinkhole detection on wireless ad hoc networks",0.318253968254,0.366071428571
+7E1D1962,"Using Random Bit Authentication to Defend IEEE 802.11 DoS Attacks",0.405032467532,0.412896825397
+815FD37E,"The Impact of Flooding Attacks on Network-based Services",0.266524216524,0.372916666667
+773A8D72,"Distributed denial of service attacks in software-defined networking with cloud computing",0.266524216524,0.309595959596
+70317E65,"Cooperative routers against DoS attacks",0.282611832612,0.385858585859
+5CBDA036,"Improved Technique of IP Address Fragmentation Strategies for DoS Attack Traceback",0.275336700337,0.312222222222
+7CFDFA07,"A Novel Algorithm for Defending Path-Based Denial of Service Attacks in Sensor Networks",0.299328449328,0.271768707483
+78693A1A,"Observing Internet Worm and Virus Attacks with a Small Network Telescope",0.299328449328,0.236839351125
+5C1C8EE8,"Stealth-MITM DoS Attacks on Secure Channels",0.243722943723,0.403174603175
+772CD65D,"The 1999 DARPA off-line intrusion detection evaluation",0.300925925926,0.339393939394
+7E2EB56B,"Use Double Check Priority Queue to Alleviate Malicious Packet Flows from Distributed DoS Attacks",0.299328449328,0.243174603175
+7ED88ABC,"Adaptive Early Packet Filtering for Defending Firewalls Against DoS Attacks",0.299328449328,0.276984126984
+042C2B86,"Switch's CAM table poisoning attack: hands-on lab exercises for network security education",0.299328449328,0.22174963925
+7FEA10F4,"Entropy-based profiling of network traffic for detection of security attack",0.418650793651,0.42328042328
+79E91A4E,"A novel approach to detecting DDoS Attacks at an Early Stage",0.290945165945,0.366964285714
+5F5DB449,"Allergy Attack Against Automatic Signature Generation",0.299328449328,0.428571428571
+80E16F7B,"ContagAlert: Using Contagion Theory for Adaptive, Distributed Alert Propagation",0.251456876457,0.304285714286
+02E7833D,"Common Denial of Service Attacks",0.288746438746,0.455555555556
+8081C236,"Consensus extraction from heterogeneous detectors to improve performance over network traffic anomaly detection",0.304563492063,0.228350970018
+0B360179,"Empirical study of tolerating denial-of-service attacks with a proxy network",0.299328449328,0.301098901099
+597B8C3E,"A Novel Rate Limit Algorithm Against Meek DDoS Attacks",0.442185592186,0.569444444444
+5B20B878,"Analysis of attacks on routing protocols in MANETs",0.273352573353,0.323333333333
+7EEBBE50,"A Deployable Architecture against Application-level DDoS Attacks",0.243722943723,0.541666666667
+805946F1,"Chaos theory based detection against network mimicking DDoS attacks",0.450396825397,0.411281179138
+7D70EB29,"Accountable File Indexing against DDoS Attacks in Peer-to-Peer Networks",0.299328449328,0.349206349206
+7AE0ECEB,"Exposing and eliminating vulnerabilities to denial of service attacks in secure gossip-based multicast",0.286315536316,0.335555555556
+5BB0021F,"A Dynamic Path Identification Mechanism to Defend Against DDoS Attacks",0.282611832612,0.305714285714
+7F1091F1,"A Novel Packet Marketing Method in DDoS Attack Detection",0.419913419913,0.419642857143
+7CFEF9D6,"A multilevel thrust filtration defending mechanism against DDoS attacks in cloud computing environment",0.272619047619,0.224508477633
+5D00AE7C,"DDoS attack detection algorithms based on entropy computing",0.454365079365,0.46130952381
+7B214038,"Distributed response to network intrusions using multiagent reinforcement learning",0.326659451659,0.303741496599
+7EEC0EA4,"E-CAP: An Extended Capability Based Mechanism to Limit Distributed Denial of Service Attacks",0.293376068376,0.292857142857
+7E3749F6,"A new form of DOS attack in a cloud and its avoidance mechanism",0.394889237746,0.416738816739
+805C1313,"A hybrid defense mechanism for DDoS attacks using cluster analysis in MANET",0.404487179487,0.373979591837
+804ACE79,"A hybrid defense technique for ISP against the distributed denial of service attacks",0.291666666667,0.324126984127
+7F55E861,"Lightweight Detection of DoS Attacks",0.436111111111,0.688888888889
+78AE0FC6,"Detection of malicious and non-malicious website visitors using unsupervised neural network learning",0.411507936508,0.44126984127
+7D8669B2,"An Entropy-Based Countermeasure against Intelligent DoS Attacks Targeting Firewalls",0.282611832612,0.288658008658
+5F21976F,"Ensuring basic security and preventing replay attack in a query processing application domain in WSN",0.290945165945,0.272222222222
+80E19BEA,"Increasing the DoS attack resiliency in military ad hoc networks",0.317185592186,0.295105820106
+803DA47F,"Joint Application and Network Defense against DDoS Flooding Attacks in the Future Internet",0.299328449328,0.271428571429
+80B88823,"Optimizing the pulsing denial-of-service attacks",0.26038961039,0.455555555556
+5EC3AFB3,"A Proactive Approach to Distributed DoS Prevention Using Route-Based Packet Filtering",0.271550671551,0.286507936508
+7FBFC768,"A Pattern Recognition Scheme for Distributed Denial of Service (DDoS) Attacks in Wireless Sensor Networks",0.310317460317,0.224250440917
+78FA34C1,"A secure user authentication scheme using hash functions",0.272294372294,0.310793650794
+777D0D5C,"A Black-Box Approach to Detect Vulnerabilities in Web Services Using Penetration Testing",0.318722943723,0.305704365079
+07F75948,"Denying Denial-of-Service Attacks: A Router Based Solution",0.291606541607,0.35341991342
+793FCFF7,"Challenges and Limitations in Current Botnet Detection",0.294191919192,0.408333333333
+80D047CE,"Preventing Denial of Service Attacks in Government E-Services Using a New Efficient Packet Filtering Technique",0.49716553288,0.451675485009
+8104D8FC,"Applying Data Fusion in Collaborative Alerts Correlation",0.27413003663,0.318571428571
+7EEC08DA,"The LoSS Technique for Detecting New Denial of Service Attacks",0.402777777778,0.406349206349
+813EFAEB,"Accurate network anomaly classification with generalized entropy metrics",0.319841269841,0.366964285714
+58BEE326,"Preventing Denial-of-Service Attacks in Shared CMP Caches",0.282611832612,0.388278388278
+7A5780F7,"Protecting TCP services from denial of service attacks",0.275783475783,0.316666666667
+7B4A3479,"Tolerating denial-of-service attacks using overlay networks: impact of topology",0.412770562771,0.369279529994
+8140081E,"MF (minority first) scheme for defeating distributed denial of service attacks",0.319516594517,0.313265306122
+809BB5F7,"Transport-aware IP routers: a built-in protection mechanism to counter DDoS attacks",0.299735449735,0.291738816739
+7EEB7149,"Robust Spectrum Decision Protocol against Primary User Emulation Attacks in Dynamic Spectrum Access Networks",0.309920634921,0.257374768089
+804B4EB7,"An efficient and reliable DDoS attack detection using a fast entropy computation method",0.556818181818,0.575
+80CD4EAC,"A Game-Theoretic Framework for Bandwidth Attacks and Statistical Defenses",0.295707070707,0.341964285714
+7747FEF1,"Effective metric for detecting distributed denial-of-service attacks based on information divergence",0.442185592186,0.474074074074
+809E53AC,"Mitigate DDoS attack using TTL buckets and host threatening index",0.242592592593,0.322008547009
+7F05D1F8,"A confidence-based filtering method for DDoS attack defense in cloud environment",0.265151515152,0.296753246753
+5FE03F40,"The Feature Selection and Intrusion Detection Problems",0.265151515152,0.295555555556
+7D94EA4D,"DiDDeM: a system for early detection of TCP SYN flood attacks",0.447222222222,0.469696969697
+8057B633,"IP Traceback Methodology Using Markov Chain and Bloom Filter in 802.16e",0.255291005291,0.256553631554
+0108D64D,"Hardware Supports for Network Traffic Anomaly Detection",0.293650793651,0.286507936508
+812D4A74,"On the Detection of DDoS Attackers for Large-Scale Networks",0.300396825397,0.411255411255
+5FB4B3C6,"Protecting Internet Services from Low-Rate DoS Attacks",0.26038961039,0.300952380952
+7E31C893,"Efficient traceback of DoS attacks using small worlds in MANET",0.393722943723,0.45
+7DEA7952,"Comprehensive test mechanism to detect attack on Web Services",0.29246031746,0.281944444444
+7D774AFC,"Stasis Trap: Cross-Layer Stealthy Attacks in Wireless Ad Hoc Networks *",0.28543956044,0.271825396825
+80173038,"An Aggregative Approach for Scalable Detection of DoS Attacks",0.436111111111,0.552380952381
+76FB7A58,"Real-time CBR-agent with a mixture of experts in the reuse stage to classify and detect DoS attacks",0.29788961039,0.262301587302
+7CFAD5E9,"Mitigation of DoS attacks through QoS regulation",0.264093314093,0.344444444444
+7EDB6549,"Detecting Bandwidth DDoS Attack with Control Charts",0.28663003663,0.38125
+75C3CCD8,"PSO-SFDD: Defense against SYN flooding DoS attacks by employing PSO algorithm",0.399857549858,0.429365079365
+7F331593,"Defeating distributed denial-of-service attack with deterministic bit marking",0.290945165945,0.371666666667
+7B6649EB,"Rushing attacks and defense in wireless ad hoc network routing protocols",0.303296703297,0.29387755102
+7A0D5510,"Multi-stage change-point detection scheme for large-scale simultaneous events",0.327777777778,0.433333333333
+59B0066C,"MIPv6 Binding Update Protocol Secure Against Both Redirect and DoS Attacks",0.273352573353,0.455555555556
+7DA32C14,"HIDDEN: Hausdorff Distance Based Intrusion Detection Approach DEdicated to Networks",0.335317460317,0.337414965986
+77A435D5,"Detecting Denial-of-Service attacks using the wavelet transform",0.393722943723,0.577777777778
+8146731C,"A Distributed-Log-based IP Traceback Scheme to Defeat DDoS Attacks",0.296031746032,0.394047619048
+7A652F84,"Defeating distributed denial of service attacks",0.288746438746,0.38
+5AFD4596,"Multi-agent framework for simulation of adaptive cooperative defense against internet attacks",0.291077441077,0.29619047619
+80AC754E,"A new perspective in defending against DDoS",0.267352092352,0.422619047619
+7F98BC29,"Cross Layer Denial of Service Attacks in Wireless Sensor Network Using Swarm Intelligence",0.421428571429,0.282651187197
+5C241793,"Temporal Lensing and Its Application in Pulsing Denial-of-Service Attacks",0.282611832612,0.466666666667
+7E86A06C,"A 10 Gb/s wire-speed firewall system using reconfigurable processors",0.250865800866,0.333441558442
+5870632B,"Memory-efficient IP filtering for countering DDoS attacks",0.268253968254,0.369047619048
+804442E9,"Ensemble-based DDoS detection and mitigation model",0.250336700337,0.403703703704
+5CCA910D,"One step ahead to multisensor data fusion for DDoS detection",0.304563492063,0.341964285714
+7D8232A0,"Network security model for analyzing network-based control systems under denial of service attacks",0.301659451659,0.252208593875
+7E506AB5,"A Case-Based Framework for Meta Intrusion Detection",0.248484848485,0.4
+7FF9F762,"Modified Deterministic Packet Marking for DDoS Attack Traceback in IPv6 Network",0.299328449328,0.347142857143
+6ED90D7A,"Evaluation of the diagnostic capabilities of commercial intrusion detection systems",0.305555555556,0.296515151515
+7EB7B40E,"Visualization of network components for attack analysis",0.27328042328,0.304126984127
+75ADB8BA,"Using graphic turing tests to counter automated DDoS attacks against web servers",0.403571428571,0.389285714286
+59E8CB66,"Tracing sources of DOS and DDOS attack: evidential recovery",0.282611832612,0.303333333333
+7D8B0732,"Optimal Placement of Detection Nodes against Distributed Denial of Service Attack",0.459920634921,0.413095238095
+7E50D7D3,"Low-Rate DDoS Attacks Detection and Traceback by Using New Information Metrics",0.877551020408,1.0
+80380C57,"Stochastic Security Performance of Active Cache Based Defense against DoS Attacks in Wireless Mesh Network",0.299328449328,0.234957943291
+7FE8A357,"DCA for bot detection",0.245707070707,0.538461538462
+7D008D77,"Detecting distributed denial-of-service attacks by analyzing TCP SYN packets statistically",0.299328449328,0.375238095238
+7696FDFA,"Optimal specifications for a protective framework against HTTP-based DoS and DDoS attacks",0.305892255892,0.341666666667
+7D277B74,"4-Way Handshake Solutions to Avoid Denial of Service Attack in Ultra Wideband Networks",0.317185592186,0.319387755102
+7DE4A21D,"On scalable attack detection in the network",0.450396825397,0.714285714286
+7F68CD44,"On optimizing load balancing of intrusion detection and prevention systems",0.273148148148,0.254545454545
+7EA45029,"Design of detection system against the denial of service attack in 3G1x system",0.402777777778,0.387878787879
+7EF5CFDA,"Denial of Service Attacks in Networks with Tiny Buffers",0.299328449328,0.324126984127
+7DDB03E8,"Denial of service attacks targeting a SIP VoIP infrastructure: attack scenarios and prevention mechanisms",0.259315221815,0.309563492063
+812C2369,"Mitigating selective forwarding attacks with a channel-aware approach in WMNS",0.282611832612,0.344742063492
+7D564DBC,"A Hash-Based Path Identification Scheme for DDoS Attacks Defense",0.25404040404,0.305714285714
+7DC7390E,"A real-time traceback scheme for DDoS attacks",0.287373737374,0.55
+7F495543,"Detecting DoS attacks on SIP systems",0.26038961039,0.288181818182
+7E4B84E2,"SIFF: a stateless Internet flow filter to mitigate DDoS flooding attacks",0.282611832612,0.262830687831
+625571AC,"CNoA: Challenging Number Approach for uncovering TCP SYN flooding using SYN spoofing attack",0.397426647427,0.406689342404
+80EC4C12,"A Survey of Defense Mechanisms Against Distributed Denial of Service (DDoS) Flooding Attacks",0.266524216524,0.255411255411
+760B4FDB,"An approach to mitigate denial of service attacks in ieee 802.11 networks",0.267582417582,0.293915343915
+7EAB13AC,"Detection of Resource-Drained Attacks on SIP-Based Wireless VoIP Networks",0.418650793651,0.553571428571
+7EA5FB21,"On the Detection of Signaling DoS Attacks on 3G Wireless Networks",0.422619047619,0.47619047619
+8063CC2C,"IP-traceback based attacker tracking: a probabilistic technique for detecting Internet attacks using the concept of hidden Markov models",0.409722222222,0.293982028073
+808124B9,"Prevention of Man-in-the-Middle Attacks Using ID Based Signatures",0.405148555149,0.452380952381
+7F0586BA,"Detecting incoming and outgoing DDoS attacks at the edge using a single set of network characteristics",0.412770562771,0.334656084656
+7D595CD7,"On localization attacks to Internet Threat Monitors: An information-theoretic framework",0.259331409331,0.28746031746
+816F55D7,"OPERA: An open-source extensible router architecture for adding new network services and protocols",0.288540031397,0.249161255411
+5DDD762B,"A Detection and Filter System for Use Against Large-Scale DDoS Attacks in the Internet Backbone",0.439814814815,0.370810142239
+5DE8CBB4,"Fast Classification, Calibration, and Visualization of Network Attacks on Backbone Links",0.305026455026,0.268698761556
+7DA026D8,"DDoSniffer: Detecting DDoS attack at the source agents",0.263167388167,0.341964285714
+7F755D1D,"Filtering spoofed traffic at source end for defending against DoS / DDoS attacks",0.271550671551,0.273881673882
+80C80981,"Using an identity-based dynamic access control filter (IDF) to defend against DoS attacks",0.40404040404,0.326095779221
+7CF3E247,"Attack Source Traceback Based on Stable Topology in MANET",0.285858585859,0.321515151515
+7E7D31DD,"Real-time detection and containment of network attacks using QoS regulation",0.571031746032,0.572294372294
+77867BA5,"Experimental analysis of denial-of-service attacks on teleoperated robotic systems",0.282611832612,0.419191919192
+7CC68B3D,"Detection of DDoS attack and defense against IP spoofing",0.412698412698,0.571428571429
+7E768027,"A Novel Gray Hole Attack Detection Scheme for Mobile Ad-Hoc Networks",0.451659451659,0.468571428571
+7E3710E4,"Analysis of Defenses against Distributed Denial of Service Attacks",0.266524216524,0.312698412698
+7DE9FABC,"A game theoretic defending model with puzzle controller for distributed dos attack prevention",0.291077441077,0.291738816739
+7F1DE811,"Towards characterizing the effectiveness of random mobility against actuation attacks",0.302248677249,0.343571428571
+79F44EF1,"A Survey on DDoS Attack and Defense Strategies: From Traditional Schemes to Current Techniques",0.292929292929,0.266137566138
+5E90F29D,"Research on the Detection of Distributed Denial of Service Attacks Based on the Characteristics of IP Flow",0.449735449735,0.357848324515
+5D0D3A44,"An extensible and flexible system for network anomaly detection",0.300396825397,0.411255411255
+75F53EC5,"Characterization of defense mechanisms against distributed denial of service attacks",0.281339031339,0.287074829932
+7FAAB16B,"A Distributed Defense Framework for Flooding-Based DDoS Attacks",0.291077441077,0.414285714286
+59EF8891,"Probability principle of a reliable approach to detect signs of DDOS flood attacks",0.312962962963,0.264914450629
+808DB14E,"Sentinel: Hardware-Accelerated Mitigation of Bot-Based DDoS Attacks",0.243722943723,0.396011396011
+7F2A603A,"A Dynamic Countermeasure Method for Large-Scale Network Attacks",0.305826118326,0.339691558442
+804C60B4,"A Random Packet Destruction DoS Attack for Wireless Networks",0.299328449328,0.300264550265
+7FC7154C,"Defending against path-based DoS attacks in wireless sensor networks",0.267582417582,0.25119047619
+7D5DAE1E,"Cryptanalysis of a Remote User Authentication Scheme Using Smart Cards",0.282804232804,0.282804232804
+5F42BBD5,"Distributed denial of service detection using TCP/IP header and traffic measurement analysis",0.436507936508,0.359700176367
+761FF9EB,"Detecting pulsing denial-of-service attacks with nondeterministic attack intervals",0.287962962963,0.513333333333
+093EADB3,"Detecting Distributed Denial of Service Attacks Using Source IP Address Monitoring",0.413161375661,0.325952380952
+807D468A,"Preventing SYN flood DoS attacks (Abstract) An improvement to SYN cookies",0.290740740741,0.256637806638
+5C45C570,"An Optimizing Technique for MDGT Using DRSA Algorithm Association with IP Traceback Strategies",0.257154882155,0.334027777778
+79D5C2F7,"A novel approach in securing DDoS attack",0.282611832612,0.447619047619
+7FFAA0D7,"Game Theoretic Modeling of Jamming Attacks in Ad hoc Networks",0.317185592186,0.314285714286
+812D8FC9,"An adaptive control mechanism for mitigating DDoS attacks",0.290945165945,0.334027777778
+7EF70BAE,"A comprehensive taxonomy of DDOS attacks and defense mechanism applying in a smart classification",0.399857549858,0.42380952381
+7A15F6C5,"Limiting DoS attacks during multihop data delivery in wireless sensor networks",0.267582417582,0.217906746032
+814B3265,"A composable approach to design of newer techniques for large-scale denial-of-service attack attribution",0.402380952381,0.442328042328
+7F3C3CA5,"Security Protocol Testing Using Attack Trees",0.412241462241,0.430423280423
+8022AC6B,"Detection of DoS and DDoS attacks in NGMN using frequency domain analysis",0.618055555556,0.549206349206
+801A957D,"Game theory-based defense mechanisms against DDoS attacks on TCP/TCP-friendly flows",0.288746438746,0.320793650794
+7DFD98D9,"Defending Application DDoS with Constraint Random Request Attacks",0.299328449328,0.355238095238
+7A36F97A,"Defending against false-endorsement-based dos attacks in wireless sensor networks",0.267582417582,0.25119047619
+8029B2DB,"Distributed change-point detection of DDoS attacks: experimental results on DETER testbed",0.439814814815,0.577777777778
+7ECF063B,"Extension and Evaluation of IP Traceback Method Using Departure Stamp in Edge Router",0.277651515152,0.237752525253
+80002853,"MULTOPS: a data structure for denial-of-service attack detection",0.418650793651,0.560714285714
+80227FD7,"Traffic-adaptive packet filtering of denial of service attacks",0.267582417582,0.377380952381
+7F259CD1,"A multi-channel defense against jamming attacks in wireless sensor networks",0.267582417582,0.263888888889
+028ED134,"Endpoint Mitigation of DDoS Attacks Based on Dynamic Thresholding",0.282611832612,0.481481481481
+7CFE136D,"Denial of Service Attacks in Wireless Networks: The Case of Jammers",0.302248677249,0.286507936508
+7EAC475F,"P2P network-targeted DDoS attacks",0.243722943723,1.0
+800818D7,"Collaborative detection and filtering of shrew DDoS attacks using spectral analysis",0.547222222222,0.65
+7CBB91E9,"Mitigating DoS attacks against broadcast authentication in wireless sensor networks",0.277106227106,0.227281746032
+7D38402F,"Detecting reflector attacks by sharing beliefs",0.28630952381,0.31380952381
+76773C12,"DENIAL OF SERVICE ATTACK IN DISTRIBUTED WIRELESS NETWORK BY DISTRIBUTED JAMMER NETWORK: A BIRTH-DEATH RANDOM PROCESS ANALYSIS",0.299328449328,0.240714285714
+7ADA64C9,"Taming the 800 Pound Gorilla: The Rise and Decline of NTP DDoS Attacks",0.272426647427,0.27037037037
+6EDA8045,"LoRDAS: a low-rate dos attack against application servers",0.243722943723,0.3375
+7DC4A91B,"On the feasibility of exploiting P2P systems to launch DDoS attacks",0.314093314093,0.390404040404
+7F9080A2,"Intrusion Detection System Based on Payoff Matrix for Wireless Sensor Networks",0.300396825397,0.22866362033
+7F3A7ECB,"An autonomous defense against SYN flooding attacks: Detect and throttle attacks at the victim side independently",0.288746438746,0.488571428571
+5F9E4A42,"A novel technique for detecting DDoS attacks at its early stage",0.296296296296,0.312222222222
+7F2B50CF,"Detection of Spoofing Attacks Using Intrusive Filters For DDoS",0.547222222222,0.645238095238
+5A455896,"DDoS Attack Defense Architecture Using Active Network Technology",0.41043956044,0.422619047619
+7DF15389,"Available bandwidth estimation and its application in detection of DDoS attacks",0.440277777778,0.58125
+80095233,"Neighbor stranger discrimination: a new defense mechanism against Internet DDOS attacks",0.390354090354,0.332395382395
+811F6C1A,"On Secure Spectrum Sensing in Cognitive Radio Networks Using Emitters Electromagnetic Signature",0.26043956044,0.257653061224
+7FD13F3C,"The impact of indirect trust information exchange on network performance and energy consumption in Wireless Sensor Networks",0.300320512821,0.194451003542
+7D9B08FF,"Review of Detection and Prevention Policies for Distributed Denial of Service Attack in MANET",0.441077441077,0.360416666667
+756C5F26,"Multiagent simulation of protection of information resources in internet",0.289407814408,0.330952380952
+8163EF49,"Collaborative Detection of DDoS Attacks over Multiple Network Domains",0.450396825397,0.563492063492
+7FB1D264,"Attacks and Solutions of Yang et al.'s Protected Password Changing Scheme",0.333405483405,0.304931972789
+7D8813CF,"Fast Traceback against Large-Scale DDoS Attack in High-Speed Internet",0.282611832612,0.535714285714
+5A33C2DC,"Intrusion Detection of DoS/DDoS and Probing Attacks for Web Services",0.422222222222,0.431944444444
+7E8D746C,"Non-intrusive IP traceback for DDoS attacks",0.257142857143,0.571428571429
+7EE78C74,"Scalable multicast based filtering and tracing framework for defeating distributed DoS attacks",0.287373737374,0.310884353741
+7F02405E,"Detection and Honeypot Based Redirection to Counter DDoS Attacks in ISP Domain",0.439814814815,0.445601851852
+7EF220F5,"Controlling incoming connections using certificates and distributed hash tables",0.287037037037,0.304931972789
+7F0BF8BF,"Fast and accurate traffic matrix measurement using adaptive cardinality counting",0.28543956044,0.301587301587
+7F0FB05D,"Low-cost attacks against packet delivery, localization and time synchronization services in under-water sensor networks",0.308852258852,0.234964726631
+80839EE3,"Denial of Service Attacks on Inter-Vehicle Communication Networks",0.270502645503,0.341904761905
+811A2ED5,"Low rate TCP denial-of-service attack detection at edge routers",0.654761904762,0.62012987013
+80280DFA,"Cryptographic Salt: A Countermeasure against Denial-of-Service Attacks",0.284463684464,0.400673400673
+793BB4ED,"Anomaly Detection in Electronic Shelf Label Systems",0.293253968254,0.327672327672
+773F5BA2,"IP Traceback through modified Probabilistic Packet Marking algorithm using Chinese Remainder Theorem",0.290476190476,0.305102040816
+80F8458A,"Reducing the Impact of DoS Attacks on Endpoint IP Security",0.277513227513,0.246995464853
+80A47C8B,"A performance-based grid intrusion detection system",0.249074074074,0.39696969697
+764DB3DE,"Real-time detection of traffic anomalies in wireless mesh networks",0.300396825397,0.261375661376
+7CF7E280,"Machine Learning for Automatic Defence Against Distributed Denial of Service Attacks",0.304365079365,0.303741496599
+5DD017F0,"A MAC Layer Based Defense Architecture for Reduction of Quality (RoQ) Attacks in Wireless LAN",0.310185185185,0.215654761905
+7C72E17A,"Low-power DoS attacks in data wireless LANs and countermeasures",0.267582417582,0.240548340548
+7E166A4B,"Detecting malicious packet dropping using statistically regular traffic patterns in multihop wireless networks that are not bandwidth limited",0.27328042328,0.269576719577
+7F53B36B,"A New and Comprehensive Taxonomy of DDoS Attacks and Defense Mechanism",0.390354090354,0.468571428571
+5E18C522,"Victim-Assisted mitigation technique for TCP-Based reflector DDoS attacks",0.249074074074,0.326388888889
+76196692,"Struggling against selfishness and black hole attacks in MANETs",0.290945165945,0.301666666667
+8039BBAF,"Wireless Network Behavior under ICMP Ping Flood DoS Attack and Mitigation Techniques",0.270502645503,0.214999198333
+80CDFECA,"Autonomic Response to Distributed Denial of Service Attacks",0.288746438746,0.333333333333
+77E83A9F,"Protecting electronic commerce from distributed denial-of-service attacks",0.288746438746,0.385714285714
+77426C3F,"Dual-Level Attack Detection, Characterization and Response for Networks Under DDoS Attacks",0.428174603175,0.57380952381
+80802D68,"DDoS attacks and defense mechanisms: classification and state-of-the-art",0.254024216524,0.360714285714
+7E4C1F9D,"Intrusion detection testing and benchmarking methodologies",0.27380952381,0.360714285714
+7FEE54DC,"Inputs of Coma: Static Detection of Denial-of-Service Vulnerabilities",0.309920634921,0.350505050505
+78E473B5,"Robust and Fast Pattern Matching for Intrusion Detection",0.299074074074,0.373214285714
+7DD6BB75,"Detecting and Mitigating DoS Attacks in Wireless Networks without Affecting the Normal Behaving Nodes",0.299328449328,0.238740079365
+7DD896B1,"Using graph to detect network traffic anomaly",0.269963369963,0.297619047619
+0A44D83E,"Detecting DDoS Attacks on ISP Networks",0.277106227106,0.447619047619
+7D79AAD4,"Design and analysis of a replicated elusive server scheme for mitigating denial of service attacks",0.291077441077,0.249305555556
+7D377F9D,"Efficient detection of DDoS attacks with important attributes",0.438888888889,0.703703703704
+8064CB39,"Specification-Based Denial-of-Service Detection for SIP Voice-over-IP Networks",0.268650793651,0.571428571429
+8136F588,"Beacon Frame Spoofing Attack Detection in IEEE 802.11 Networks",0.272619047619,0.305860805861
+81699B69,"NS-2 based IP traceback simulation against reflector based DDoS attack",0.282611832612,0.383333333333
+80FBA2DC,"Denial of service attacks and challenges in broadband wireless networks",0.267582417582,0.284325396825
+5F8A63D2,"Supporting Security against SYN Flooding Attack in Distributed DoS Via Measuring IPFIX-Based Traffic",0.299328449328,0.300566893424
+7F7900FD,"Accurate ICMP TraceBack Model under DoS/DDoS Attack",0.287373737374,0.55
+7D23E6E7,"FAPA: flooding attack protection architecture in a cloud system",0.251709401709,0.30303030303
+5BDE60EE,"BotTorrent: misusing BitTorrent to launch DDoS attacks",0.268722943723,0.625
+7DA39DA8,"Intrusion Detection of Packet Dropping Attacks in Mobile Ad Hoc Networks",0.468253968254,0.412244897959
+80CDBA4A,"Performance Analysis of Disable IP Broadcast Technique for Prevention of Flooding-Based DDoS Attack in MANET",0.280026455026,0.264682539683
+76D3C8CB,"Counteract SYN flooding using second chance packet filtering",0.26043956044,0.324126984127
+7B0C1D5D,"Distributed Management Architecture for Cooperative Detection and Reaction to DDoS Attacks",0.439814814815,0.421031746032
+7E8063C2,"Decentralized Alerts Correlation Approach for DDoS Intrusion Detection",0.303174603175,0.302976190476
+5B41181D,"Mathematical foundations for the design of a low-rate dos attack to iterative servers (short paper)",0.324074074074,0.284920634921
+5F9A2F2D,"An implementation of LoSS detection with second order statistical model",0.309794372294,0.306904761905
+80BF6987,"Extraction of Characteristics of Anomaly Accessed IP Packets Using Chi-square Method",0.266937229437,0.254138321995
+003AEA2F,"New Security Problem in RFID Systems “Tag Killing”",0.255555555556,0.328282828283
+7F12FAAD,"SPREAD: Foiling Smart Jammers Using Multi-Layer Agility",0.245574795575,0.319444444444
+7FCB524D,"Design and implementation of artificial immune system for detecting flooding attacks",0.286315536316,0.254942279942
+75D4D289,"Tracers placement for IP traceback against DDoS attacks",0.277106227106,0.42380952381
+7F3C1329,"High-speed router filter for blocking TCP flooding under DDoS attack",0.282611832612,0.308181818182
+7F5969F5,"Design and Development of Proactive Models for Mitigating Denial-of-Service and Distributed Denial-of-Service Attacks",0.287373737374,0.281481481481
+779C6F0C,"Construction of low false alarm and high precision RBFNN for detecting flooding based denial of service attacks using stochastic sensitivity measure",0.488095238095,0.360683760684
+8147100F,"An autonomous level defense for DoS/DDoS attacks",0.299328449328,0.428571428571
+5A5E9CD8,"A Cost-Optimized Detection System Location Scheme for DDoS Attack",0.417929292929,0.463181818182
+7E35E661,"Analysis of Spoofed IP Traffic Using Time-to-Live and Identification Fields in IP Headers",0.28253968254,0.241567460317
+7FB95027,"A novel approach to detection of intrusions in computer networks via adaptive sequential and batch-sequential change-point detection methods",0.308802308802,0.369662480377
+7E90C0FD,"Efficiency of using mobile agents to trace multiple sources of attack",0.42288961039,0.454166666667
+81348E89,"RAD: Reflector Attack Defense Using Message Authentication Codes",0.435185185185,0.364880952381
+8134FC0B,"DDoS-Resilient Scheduling to Counter Application Layer Attacks Under Imperfect Detection",0.436111111111,0.438888888889
+75496A9E,"Dual-level defense for networks under DDoS attacks",0.267582417582,0.428571428571
+7EA507B9,"Experimental Evaluation of Flooding Attacks in Mobile Ad Hoc Networks",0.317185592186,0.351904761905
+779F70A3,"Detecting DDoS Attacks Against DNS Servers Using Time Series Analysis",0.404487179487,0.385714285714
+76976BB1,"Performance comparison of defense mechanisms against TCP SYN flood DDoS attack",0.263283475783,0.252612863327
+814E4B4B,"Assessment of a vulnerability in iterative servers enabling low-rate dos attacks",0.306481481481,0.285185185185
+806BD283,"Dimensionality reduction for denial of service detection problems using RBFNN output sensitivity",0.422222222222,0.324691358025
+7C70CB82,"Botz-4-sale: surviving organized DDoS attacks that mimic flash crowds",0.282407407407,0.336904761905
+80843370,"Fast Detection of Denial-of-Service Attacks on IP Telephony",0.446031746032,0.554945054945
+80E28007,"A covariance matrix based approach to internet anomaly detection",0.301587301587,0.33841991342
+7F18F835,"EC: an edge-based architecture against DDoS attacks and malware spread",0.243722943723,0.323611111111
+7E12D9C3,"Genetic algorithms applied to cellular call admission: local policies",0.256565656566,0.347916666667
+7877D719,"Resource-competitive analysis: a new perspective on attack-resistant distributed computing",0.284297052154,0.326904761905
+812E68BB,"Implementing filtering and traceback mechanism for packet-marking IP-traceback schemes against DDoS attacks",0.315151515152,0.425
+7F59A8D3,"A secure hash-based strong-password authentication protocol using one-time public-key cryptography",0.272883597884,0.371428571429
+80AEE995,"A New Approach for Detecting DDoS Attacks Based on Wavelet Analysis",0.385095856524,0.421995464853
+8003BFA7,"QoSoDoS: If you can't beat them, join them!",0.333333333333,0.291666666667
+7C0E66B3,"On the detection of signaling DoS attacks on 3G/WiMax wireless networks",0.422619047619,0.47619047619
+5A2E94FD,"Efficient and beneficial defense against DDoS direct attack and reflector attack",0.288746438746,0.556547619048
+75989A21,"Blocking DoS Attack Traffic in Network with Locator/Identifier Separation",0.271550671551,0.319047619048
+78E2837D,"DNSSEC and its potential for DDoS attacks: a comprehensive measurement study",0.288746438746,0.375992063492
+807AE9DE,"Multiplayer game for DDoS attacks resilience in ad hoc networks",0.28543956044,0.350793650794
+7EC8163D,"Detection of Multicast Video Flooding Attack using the Pattern of Bandwidth Provisioning Efficiency",0.591666666667,0.489732142857
+7DD4D6B9,"An Efficient and Practical Defense Method Against DDoS Attack at the Source-End",0.295244107744,0.422619047619
+7C721E5F,"Defense against spoofed IP traffic using hop-count filtering",0.278571428571,0.357142857143
+7932773A,"On scalable attack detection in the network",0.450396825397,0.714285714286
+03A7AFD7,"Abnormal traffic detection system of VoIP based on SIP",0.300396825397,0.330086580087
+7DF28ABD,"Defending DoS Attacks on Broadcast Authentication in Wireless Sensor Networks",0.277106227106,0.23125
+7B9583CF,"Securing cloud infrastructure against co-resident DoS attacks using game theoretic defense mechanisms",0.399857549858,0.358829365079
+8223FEFE,"An Entropy-Based Distributed DDoS Detection Mechanism in Software-Defined Networking",0.284595959596,0.55
+7F799FC7,"Network domain entrypoint/path determination for DDoS attacks",0.267582417582,0.355158730159
+7F33687E,"Network anomaly detection with incomplete audit data",0.300396825397,0.352678571429
+7D06679C,"Device fingerprinting to enhance wireless security using nonparametric Bayesian method",0.256355218855,0.278312890813
+7F571107,"A Peer-to-Peer Architecture to collaboratively Propagate and Traceback DDoS Attack information using DST",0.553296703297,0.65
+7B68F914,"Using mobile agents to recover from node and database compromise in path-based DoS attacks in wireless sensor networks",0.469963369963,0.318831168831
+7D06C2E5,"Preventing DDoS attacks on internet servers exploiting P2P systems",0.31038961039,0.346500721501
+7ADED3E9,"A new concentric-circle visualization of multi-dimensional data and its application in network security",0.290022675737,0.284656084656
+7FA26694,"DG-Based DDoS Detection Using Hybrid Strategy",0.39696969697,0.7
+788F2D7B,"Research on a Denial of Service (DoS) Detection System Based on Global Interdependent Behaviors in a Sensor Network Environment",0.325396825397,0.238675718221
+58EDF678,"Distributed defence against denial of service attacks: a practical view",0.304365079365,0.305753968254
+7FEC400B,"Statistical approaches to DDoS attack detection and response",0.436111111111,0.560714285714
+8163A1DB,"DDoS Attack Detection Method Based on Linear Prediction Model",0.441077441077,0.447222222222
+7A240080,"Empirical Analysis of Virtual Carrier Sense Flooding Attacks Over Wireless Local Area Network",0.303495115995,0.246490414348
+7CD54735,"On modeling and simulation of game theory-based defense mechanisms against DoS and DDoS attacks",0.288746438746,0.260884353741
+7EC46DA2,"Game Theoretic Resistance to Denial of Service Attacks Using Hidden Difficulty Puzzles",0.409116809117,0.386607142857
+69D824D4,"BotMiner: clustering analysis of network traffic for protocol- and structure-independent botnet detection",0.279761904762,0.315476190476
+7CB7E251,"New client puzzle outsourcing techniques for DoS resistance",0.281746031746,0.253968253968
+005B0E4C,"Enhanced TCP SYN Attack Detection",0.404365079365,0.714285714286
+76A76128,"Real-time anomaly detection systems for Denial-of-Service attacks by weighted k-nearest-neighbor classifiers",0.436111111111,0.545454545455
+7FE6E844,"Proactive model for Mitigating Internet Denial-of-Service Attacks",0.287373737374,0.403703703704
+5E9D2B6A,"Privacy-preserving collaborative anomaly detection",0.284595959596,0.55
+780B6628,"Protecting mobile devices from TCP flooding attacks",0.304503367003,0.316515151515
+809783C7,"Cossack: coordinated suppression of simultaneous attacks",0.282611832612,0.4
+6F73B883,"The Coremelt Attack",0.243722943723,1.0
+7B632BB0,"Improving reliability of a heterogeneous grid-based intrusion detection platform using levels of redundancies",0.411507936508,0.35376984127
+7EE3479E,"Covariance-Matrix Modeling and Detecting Various Flooding Attacks",0.282611832612,0.375
+7EFB9F4A,"Early DoS Attack Detection using Smoothened Time-Series andWavelet Analysis",0.547222222222,0.673333333333
+6E3C0CFA,"Protection Against Spam Using Pre-Challenges",0.274857549858,0.625
+7FF3411C,"Differentiating Malicious DDoS Attack Traffic from Normal TCP Flows by Proactive Tests",0.303296703297,0.286772486772
+5932FE9B,"Detection of distributed denial of service attacks using statistical pre-processor and unsupervised neural networks",0.561507936508,0.584920634921
+72737645,"Intrusion Detection System to Detect DDoS Attack in Gnutella Hybrid P2P Network",0.428174603175,0.382374768089
+7A8FBD1E,"LAN attack detection using Discrete Event Systems",0.572222222222,0.658181818182
+808381A6,"A Novel Traceback Approach for Direct and Reflected ICMP Attacks",0.282611832612,0.422619047619
+79BFBA30,"Hands-on lab exercises implementation of DoS and MiM attacks using ARP cache poisoning",0.397426647427,0.370379273504
+135CA817,"Puppet attack: A denial of service attack in advanced metering infrastructure network",0.299328449328,0.436772486772
+7EAE8532,"Attack source identification at router level in real time using marking algorithm deployed in programmable routers",0.41043956044,0.32981000481
+816D69D6,"Detecting VoIP-specific Denial-of-Service using change-point method",0.256355218855,0.441666666667
+802525FF,"Detailed DoS attacks in wireless networks and countermeasures",0.299328449328,0.274372294372
+7DAB7F9E,"A Novel Two-Step Traceback Scheme for DDoS Attacks",0.287373737374,0.55
+78F07A59,"An empirical evaluation of information metrics for low-rate and high-rate DDoS attack detection",0.746031746032,0.833333333333
+760CEFDB,"Using selective, short‐term memory to improve resilience against DDoS exhaustion attacks",0.409722222222,0.43287037037
+7E06B6DC,"Mitigating Denial-of-Service Attacks on the Chord Overlay Network: A Location Hiding Approach",0.271550671551,0.245783730159
+807219EC,"Swing - A Novel Mechanism Inspired by Shim6 Address-Switch Conception to Limit the Effectiveness of DoS Attacks",0.303240740741,0.244791666667
+80F6FDC8,"Mitigation of DDoS Attacks through Pushback and Resource Regulation",0.275667388167,0.369444444444
+7D10EA8C,"Fine-Grained DDoS Detection Scheme Based on Bidirectional Count Sketch",0.294191919192,0.327051282051
+730B3398,"Conversation exchange dynamics for real-time network monitoring and anomaly detection",0.31130952381,0.270905483405
+7F5C4BAD,"Access points vulnerabilities to DoS attacks in 802.11 networks",0.300396825397,0.294853294853
+7F10433A,"IPv6 Traceback Using Policy Based Management System",0.259331409331,0.33341991342
+7CE4F04D,"Hadoop Based Defense Solution to Handle Distributed Denial of Service (DDoS) Attacks",0.294037444037,0.319387755102
+7E89154F,"Evaluating the Functionality of the Token Filtering Technique in Filtering Denial of Service Packets Using a New Formal Evaluation Model",0.383962069676,0.305916305916
+7E39ABE0,"Defending against denial-of-service attacks with puzzle auctions",0.261976911977,0.363095238095
+7E880D10,"Understanding the Threat of Denial-of-Service Attacks in Society Today",0.299328449328,0.34246031746
+839D0DB5,"Autonomous Agent for DDoS Attack Detection and Defense in an Experimental Testbed",0.444444444444,0.566964285714
+771985B1,"Detecting DRDoS attacks by a simple response packet confirmation mechanism",0.302248677249,0.275661375661
+7F88F977,"Using Client Puzzles to Mitigate Distributed Denial of Service Attacks in the Tor Anonymous Routing Environment",0.411431623932,0.312702020202
+7511286A,"Game-based Simulation of Distributed Denial of Service (DDoS) Attack and Defense Mechanisms of Critical Infrastructures",0.288746438746,0.269614512472
+7CEA3277,"Survival Architecture for Distributed Intrusion Detection System (dIDS) using Mobile Agent.",0.405555555556,0.399873737374
+7E9D14A2,"On Sliding Window Based Change Point Detection for Hybrid SIP DoS Attack",0.444444444444,0.332669182669
+79605C96,"Intrusion detection in wireless ad-hoc networks",0.300396825397,0.414285714286
+09AB0516,"Cooperative Mechanism Against DDoS Attacks",0.282611832612,0.55
+8131EE7B,"Defending against Denial of Service Attacks using a Modified Priority Queue: Bouncer",0.399857549858,0.351884920635
+7F8AF231,"An active defense model for Web Accessing DoS attacks",0.291077441077,0.301904761905
+0396E8F2,"Handling Failures and DOS Attacks Using Network Device Groups",0.435984848485,0.364637445887
+7EDBFD4F,"Classifying DDoS Attacks by Hierarchical Clustering Based on Similarity",0.290945165945,0.35
+7E088041,"Preventing ARP Attacks Using a Fuzzy-Based Stateful ARP Cache",0.393722943723,0.432012432012
+684BE069,"Detecting DDoS attacks with passive measurement based heuristics",0.288746438746,0.39
+7995A103,"Intrusion Detection System for Denial-of-Service flooding attacks in SIP communication networks",0.418650793651,0.374953617811
+5C4514BA,"A Novel DDoS Attack Detecting Algorithm Based on the Continuous Wavelet Transform",0.282611832612,0.362222222222
+800B9AA3,"Impact of Feature Reduction on the Efficiency of Wireless Intrusion Detection Systems",0.320707070707,0.255844155844
+5CF7D9FA,"Recursive replication: a survival solution for structured P2P information systems to denial of service attacks",0.442185592186,0.429437229437
+796D3BBC,"A data mining based approach towards detection of low rate DoS attack",0.651360544218,0.530735930736
+5D2D505C,"Characteristics of Denial of Service Attacks on Internet Using AGURI",0.402188552189,0.423015873016
+7BA6F18A,"RTP-miner: a real-time security framework for RTP fuzzing attacks",0.291077441077,0.403703703704
+7F0AA174,"Detecting TCP-based DDoS attacks by linear regression analysis",0.282611832612,0.366666666667
+7F32EEE4,"Simulating and Improving Probabilistic Packet Marking Schemes Using Ns2",0.262770562771,0.315476190476
+7F601AF4,"Jamming-resistant rate adaptation in Wi-Fi networks",0.264407814408,0.436507936508
+7E688080,"A novel DoS detection mechanism",0.284595959596,0.388888888889
+7EF0610B,"A Cross-Layer Approach for Mitigating Denial of Service Attacks: Device-Driver Packet Filter and Remote Firewalling",0.267582417582,0.263832199546
+5D886245,"Empirical Study on Fusion Methods Using Ensemble of RBFNN for Network Intrusion Detection",0.419913419913,0.343353174603
+08980F8D,"Taxonomies of Distributed Denial of Service Networks, Attacks, Tools, and Countermeasures",0.299328449328,0.254823747681
+5A8DE225,"Optimal Filtering for DDoS Attacks",0.282611832612,1.0
+802822AA,"Denial of service attacks on network-based control systems: impact and mitigation",0.258653846154,0.259812409812
+7B45F377,"Utilizing bloom filters for detecting flooding attacks against SIP based services",0.397426647427,0.353086419753
+79317C34,"DNS authentication as a service: preventing amplification attacks",0.25456950457,0.360714285714
+78ACCCF3,"Remote detection of bottleneck links using spectral and statistical methods",0.402188552189,0.460384615385
+7E9137D9,"A Client-Transparent Approach to Defend Against Denial of Service Attacks",0.257000407,0.330476190476
+5FE2C514,"Proactive Intrusion Detection and Distributed Denial of Service Attacks—A Case Study in Security Management",0.311111111111,0.250793650794
+7EBBA94D,"MDIDS: Multiphase Distributed Intrusion Detection in Virtual Network Systems",0.300396825397,0.306753246753
+717EC8D3,"Ensemble fuzzy belief intrusion detection design",0.3125,0.352380952381
+80C0F1FC,"Detecting DoS and DDoS Attacks by Using an Intrusion Detection and Remote Prevention System",0.550925925926,0.45303030303
+80AC635B,"Prevention of DoS Attacks Based on Light Weight Dynamic Key Mechanism in Hierarchical Wireless Sensor Networks",0.299328449328,0.245535714286
+7EA9B835,"A source identification scheme against DDoS attacks in cluster interconnects",0.260984848485,0.293571428571
+80060507,"DDoS Attack Detection Using IP Address Feature Interaction",0.552188552189,0.653333333333
+793BC7F0,"Real-time detection of distributed denial-of-service attacks using RBF networks and statistical features",0.562770562771,0.648571428571
+761E7290,"Evaluation of QoS-compliant overlays under denial of service attacks",0.251709401709,0.323333333333
+80849C99,"DDoS Attack Detection Algorithm Using IP Address Features",0.552651515152,0.645
+8002F748,"A Novel Embedded Accelerator for Online Detection of Shrew DDoS Attacks",0.440277777778,0.406944444444
+7CA3662E,"Detection of intrusions in information systems by sequential change-point methods",0.444516594517,0.463181818182
+802ECF08,"Enhanced Availability and Security by Rate Control Using Extended Policy Framework in SELinux",0.405627705628,0.363888888889
+5E0752CA,"Defending DDoS attacks using hidden Markov models and cooperative reinforcement learning",0.427188552189,0.416728509586
+7E4F37AA,"Defending against distributed denial-of-service attacks with max-min fair server-centric router throttles",0.282611832612,0.300086580087
+7AC99BB6,"Mitigating congestion based DoS attacks with an enhanced AQM technique",0.287962962963,0.288888888889
+81320CD7,"Link-layer jamming attacks on S-MAC",0.243722943723,0.555555555556
+80D24F5A,"Multifaceted Defense Against Distributed Denial of Service Attacks: Prevention, Detection, Mitigation",0.417592592593,0.373412698413
+841205EC,"Detection of application layer DDoS attack by modeling user behavior using logistic regression",0.550925925926,0.477083333333
+44AD878D,"Detection of known and unknown DDoS attacks using Artificial Neural Networks",0.561507936508,0.695238095238
+59C76947,"Robust Secret Key Based Authentication Scheme Using Smart Cards",0.335984848485,0.337074829932
+7D444DC7,"Toward Sound-Assisted Intrusion Detection Systems",0.249074074074,0.39696969697
+78D6D283,"Analysis of area-congestion-based DDoS attacks in ad hoc networks",0.28543956044,0.389880952381
+1406BE56,"Resistance Is Not Futile: Detecting DDoS Attacks without Packet Inspection",0.299328449328,0.321428571429
+81738491,"On the defense of the distributed denial of service attacks: an on-off feedback control approach",0.293376068376,0.269784580499
+7DE9B18C,"Detection and prevention of botnets and malware in an enterprise network",0.279761904762,0.369047619048
+7C42E02C,"An adaptive learning routing protocol for the prevention of distributed denial of service attacks in wireless mesh networks",0.336183261183,0.24753968254
+7CEA9C71,"Investigation of pushback based detection and prevention of network bandwidth attacks",0.450396825397,0.411281179138
+779B33B7,"Interconnecting Federated Clouds by Using Publish-Subscribe Service",0.26038961039,0.336753246753
+595A9ACD,"Analysis of the Propagation Pattern of a Worm with Random Scanning Strategy Based on Usage Rate of Network Bandwidth",0.314285714286,0.246263736264
+795FCE83,"Supporting security against SYN flooding attacks in distributed denial-of-service via measuring internet protocol flow information export-based traffic",0.442185592186,0.367636684303
+7D1B4792,"A Lightweight Solution for Defending Against Deauthentication/Disassociation Attacks on 802.11 Networks",0.299328449328,0.357142857143
+7FBC8D8B,"On the (im)possibility of denial of service attacks exploiting authentication overhead in WSNs",0.327513227513,0.318820861678
+753613C9,"Intra-domain IP traceback using OSPF",0.251334776335,0.571428571429
+7D3DDE9E,"An Adaptive Approach for Defending against DDoS Attacks",0.282611832612,0.428571428571
+7DE39856,"A system approach to network modeling for DDoS detection using a Naìve Bayesian classifier",0.418650793651,0.376314162028
+7FC9B19B,"Performance Analysis of Dynamic Spectrum Access Networks under Primary User Emulation Attacks",0.300396825397,0.270905483405
+7DF1EBF4,"Protecting SIP server from CPU-based DoS attacks using history-based IP filtering",0.407142857143,0.368027210884
+59798F2E,"Detecting Service Violations and DoS Attacks",0.26038961039,0.321904761905
+7D90DC18,"DynaBone: dynamic defense using multi-layer Internet overlays",0.257000407,0.324404761905
+5A6397D9,"Adaptive Alert Throttling for Intrusion Detection Systems",0.294444444444,0.288181818182
+7B1F656C,"Enhancing GridFTP performance using intelligent gateways",0.254024216524,0.336195054945
+7EAAB93F,"On remote exploitation of TCP sender for low-rate flooding denial-of-service attack",0.282611832612,0.433333333333
+7CCD19AB,"Network Topology Against Distributed Denial of Service Attacks",0.279437229437,0.300072150072
+7CD6F01C,"A Robust IP Packets Filtering Mechanism for Protecting Web Server from DDoS Attacks",0.310317460317,0.262244897959
+7D9BD188,"Modeling Human Behavior for Defense Against Flash-Crowd Attacks",0.288746438746,0.389880952381
+7898657E,"Characterization, Detection and Mitigation of Low-Rate DoS attack",0.417592592593,0.475555555556
+6D1DC25A,"Detecting SYN flooding attacks based on traffic prediction",0.303495115995,0.333531746032
+7983C375,"Authenticated multicast immune to denial-of-service attack",0.251593314093,0.407407407407
+7323EC0E,"Defending against distributed denial-of-service attacks with max-min fair server-centric router throttles",0.282611832612,0.300086580087
+7E0E4ED5,"Impact of denial of service attacks on ad hoc networks",0.28543956044,0.314087301587
+8060A72B,"A More Practical Approach for Single-Packet IP Traceback using Packet Logging and Marking",0.292063492063,0.299206349206
+7DE8DF71,"The Improving of IKE with PSK for Using in Mobile Computing Environments",0.250541125541,0.349107142857
+771D4456,"A new multistage approach to detect subtle DDoS attacks",0.392238713667,0.493571428571
+7FDE43C2,"Adaptive defense against various network attacks",0.299328449328,0.428571428571
+7FF69B0E,"IDR: an intrusion detection router for defending against distributed denial-of-service (DDoS) attacks",0.413888888889,0.422294372294
+7FBFBDAC,"Visualization of complex attacks and state of attacked network",0.305026455026,0.334325396825
+766FE76D,"IP traceback-based intelligent packet filtering: a novel technique for defending against Internet DDoS attacks",0.270502645503,0.265542328042
+77FC85B2,"A hash-based strong-password authentication scheme without using smart cards",0.274146224146,0.360714285714
+7B6568BE,"The dark side of the Internet: Attacks, costs and responses",0.282611832612,0.270952380952
+5C93088D,"Distinguishing between FE and DDoS Using Randomness Check",0.240224358974,0.35625
+7A284906,"Cooperative detection and protection against network attacks using decentralized information sharing",0.704365079365,0.598214285714
+808052EE,"Early detection and prevention of denial-of-service attacks: a novel mechanism with propagated traced-back attack blocking",0.439814814815,0.561111111111
+81514162,"Path Analysis: Detection of Triangle Routing Attacks in IPv6",0.408333333333,0.429365079365
+7E4EEDCF,"Portcullis: protecting connection setup from denial-of-capability attacks",0.324074074074,0.35
+7E811AA0,"Protecting content distribution networks from denial of service attacks",0.305826118326,0.305753968254
+7E916FA4,"New directions in traffic measurement and accounting",0.300444793302,0.336753246753
+7E2EFB12,"Detection and prevention of MAC layer misbehavior in ad hoc networks",0.297619047619,0.287003968254
+625CD97C,"X-Vine: Secure and Pseudonymous Routing Using Social Networks",0.26043956044,0.436507936508
+7CC40867,"Measuring the impact of denial-of-service attacks on wireless sensor networks",0.28543956044,0.27876984127
+59BFF487,"Distributed denial-of-service attack detection scheme-based joint-entropy",0.413888888889,0.733333333333
+66B91AA4,"Design of a Cooperative Distributed Intrusion Detection System for AODV",0.297222222222,0.311515151515
+7F202C37,"Jamming games in wireless networks with incomplete information",0.317185592186,0.321428571429
+7D10F6E9,"TCP Flow Analysis for Defense against Shrew DDoS Attacks",0.260968660969,0.31746031746
+80F407F6,"H 2 BSAP: A hop-by-hop Broadcast Source Authentication Protocol for WSN to mitigate DoS attacks",0.277106227106,0.245436507937
+7F7B2ECF,"Mitigation of Application Traffic DDOS Attacks with Trust and Am Based Hmm Models",0.305627705628,0.298412698413
+76D89E8B,"Apple's Leopard Versus Microsoft's Windows XP: Experimental Evaluation of Apple's Leopard Operating System with Windows XP-SP2 under Distributed Denial of Service Security Attacks",0.288746438746,0.199357208448
+7317959C,"Stable availability under denial of service attacks through formal patterns",0.304365079365,0.324126984127
+7FCEAFB7,"Client Puzzles Based on Quasi Partial Collisions Against DoS Attacks in UMTS",0.298005698006,0.298611111111
+0084AC04,"The "stacheldraht" distributed denial of service attack tool",0.266524216524,0.33
+751172D9,"Real-time analysis of intrusion detection alerts via correlation",0.321031746032,0.318333333333
+37DF41C0,"A Firegroup Mechanism to Provide Intrusion Detection and Prevention System Against DDos Attack in Collaborative Clustered Networks",0.450396825397,0.329677729678
+7B16A6F6,"Mitigate DoS and DDoS Attack in Mobile Ad Hoc Networks",0.317185592186,0.364880952381
+7C2C0817,"Active router approach to defeating denial-of-service attacks in networks",0.299328449328,0.341991341991
+80663BAD,"Staggered TESLA: a multicast authentication scheme resistant to DoS attacks",0.296368446368,0.312698412698
+7B6B143D,"A novel IPv6 traceback architecture using COPS protocol",0.257407407407,0.340064102564
+75738C80,"A framework for generating realistic traffic for Distributed Denial-of-Service attacks and Flash Events",0.318253968254,0.315476190476
+7F7F85FA,"Ripple-Stream: Safeguarding P2P Streaming Against Dos Attacks",0.26038961039,0.422222222222
+78837FEB,"Analysis of the false-positive error rate of tagged fragment marking scheme",0.305627705628,0.290740740741
+7D9E1C37,"A collaborative peer-to-peer architecture to defend against DDoS attacks",0.282611832612,0.40873015873
+7800C99E,"CluB: a cluster based framework for mitigating distributed denial of service attacks",0.295707070707,0.265877525253
+7FF88A7B,"An Effective Priority Queue-Based Scheme to Alleviate Malicious Packet Flows from Distributed DoS Attacks",0.301659451659,0.258829365079
+7E128EBA,"Detecting Pulsing Denial-of-Service Attacks Based on the Bandwidth Usage Condition",0.299328449328,0.375238095238
+80FE76CF,"Adaptive distributed mechanism against flooding network attacks based on machine learning",0.326659451659,0.28869047619
+7EBA45C4,"An IP traceback mechanism for reflective DoS attacks",0.282611832612,0.388888888889
+7F0937B3,"Multivariate statistical analysis for network attacks detection",0.450396825397,0.577380952381
+5A413E6D,"A secure on-demand source routing scheme using hierarchical clustering in mobile ad hoc networks",0.280627705628,0.269217687075
+5ADF7587,"A Hybrid, Stateful and Cross-Protocol Intrusion Detection System for Converged Applications",0.311772486772,0.311183261183
+808927A8,"Mitigation of Control Channel Jamming under Node Capture Attacks",0.26163003663,0.281415343915
+8139352D,"Bluetooth Network-Based Misuse Detection",0.263888888889,0.6
+80C9FCE7,"Intrusion detection method based on nonlinear correlation measure",0.311183261183,0.309722222222
+5CBB35FD,"A Real-Time and Reliable Approach to Detecting Traffic Variations at Abnormally High and Low Rates",0.276975405547,0.286970899471
+7E8A045A,"An IP traceback technique against denial-of-service attacks",0.249074074074,0.555555555556
+8019B301,"An Enhanced Scheme to Defend against False-Endorsement-Based DoS Attacks in WSNs",0.287373737374,0.327380952381
+7D717563,"Cooperative Defence Against DDoS Attacks",0.304365079365,0.571428571429
+81151FFE,"Intrusion Detection Routers: Design, Implementation and Evaluation Using an Experimental Testbed",0.412037037037,0.378463203463
+7E8D4717,"Detecting Coordinated Distributed Multiple Attacks",0.284595959596,0.364393939394
+81061EC6,"Protecting SIP against Very Large Flooding DoS Attacks",0.282611832612,0.31
+5C37ACDC,"A Novel Mechanism to Defend Against Low-Rate Denial-of-Service Attacks",0.282611832612,0.414285714286
+5A7E3470,"Tracing the true source of an IPv6 datagram using policy based management system",0.259331409331,0.288157081014
+7DAC703B,"DDoS attacks traffic and Flash Crowds traffic simulation with a hardware test center platform",0.270502645503,0.221608946609
+5A5244CA,"Mitigating Distributed Denial of Service Attacks Using a Proportional-Integral-Derivative Controller",0.399857549858,0.395526695527
+7BBCAA2A,"Two simple attacks on Lin-Shen-Hwang's strong-password authentication protocol",0.30113035113,0.447619047619
+764820AF,"Practical real-time intrusion detection using machine learning approaches",0.409331409331,0.429365079365
+7E06240D,"Reconfigurable Peer-to-Peer Connectivity Overlays for Information Assurance Applications",0.308852258852,0.35341991342
+7B86B79B,"Autonomous system based traceback mechanism for DDoS attack",0.282611832612,0.381060606061
+76B83D0E,"Experimental analysis of attacks against web services and countermeasures",0.290945165945,0.309848484848
+7DEE630D,"Detection and Protection against Distributed Denial of Service Attacks in Accountable Grid Computing Systems",0.439814814815,0.388446969697
+8096B6C0,"Self-Routing Denial-of-Service Resistant Capabilities Using In-packet Bloom Filters",0.250541125541,0.329861111111
+80B454C0,"Honeypots for distributed denial-of-service attacks",0.282611832612,0.53125
+773677C8,"Mitigating DoS Attacks Using Performance Model-Driven Adaptive Algorithms",0.399857549858,0.411574074074
+7F1510C2,"Anomaly Intrusion Detection by Internet Datamining of Traffic Episodes",0.275793650794,0.346428571429
+7E74F5CE,"Detecting jamming attacks in Ubiquitous Sensor Networks",0.299328449328,0.31380952381
+7D18BED6,"Hammer Model Threat Assessment of Cognitive Radio Denial of Service Attacks",0.307744107744,0.239484126984
+807E5024,"P2P attack taxonomy and relationship analysis",0.296296296296,0.379166666667
+7EB115DA,"A novel client-based approach for signing and checking web forms by using XML against DoS attacks",0.405032467532,0.358779761905
+7DADFAEF,"Real-time visualization of network attacks on high-speed links",0.305026455026,0.332722832723
+5B7CEFED,"An Ant Based Framework for Preventing DDoS Attack in Wireless Sensor Networks",0.301659451659,0.265848214286
+7E28DFB6,"DoS Attacks on Real-Time Media through Indirect Contention-in-Hosts",0.282611832612,0.385858585859
+5DBFE609,"Defending wireless infrastructure against the challenge of DDoS attacks",0.290945165945,0.344742063492
+7A98702A,"PING attack – How bad is it?",0.282611832612,0.511111111111
+7E7D82D2,"Beyond the perimeter: the need for early detection of denial of service attacks",0.444444444444,0.433796296296
+77321BAE,"Using honeynodes for defense against jamming attacks in wireless infrastructure-based networks",0.41043956044,0.485714285714
+06E8685D,"Protocol engineering for protection against denial-of-service attacks",0.266524216524,0.404166666667
+58EA4CE6,"Mitigating Denial-of-Service Attacks on VoIP Environment",0.256222943723,0.412037037037
+81350FB5,"Preventing DoS attack in sensor networks: a game theoretic approach",0.299328449328,0.325396825397
+842D2DA2,"A Detection Algorithm for DoS Attack in the Cloud Environment",0.409722222222,0.476515151515
+7086C19E,"Combating Spam and Denial-of-Service Attacks with Trusted Puzzle Solvers",0.293722943723,0.3168997669
+7DFCDD0F,"Design and implementation of an intrusion detection system for wireless sensor networks",0.279761904762,0.222524350649
+753D3E9E,"Denial of service attack and prevention on SIP VoIP infrastructures using DNS flooding",0.399857549858,0.402380952381
+7F9A9727,"Packet Level Simulation of Cooperative Distributed Defense against Internet Attacks",0.299328449328,0.266666666667
+7D558947,"Defending Battery Exhaustion Attacks on Mobile Systems",0.286315536316,0.285642135642
+7A30AAC7,"Constructing detection knowledge for DDoS intrusion tolerance",0.308531746032,0.332222222222
+8173DB19,"Analyzing the secure overlay services architecture under intelligent DDoS attacks",0.282611832612,0.333333333333
+81230D34,"GA-Based Filtering Algorithm to Defend against DDoS Attack in High Speed Network",0.358852258852,0.353174603175
+7EF16B63,"Enhancing Base Station Security Against DoS Attacks in Wireless Sensor Networks",0.267582417582,0.199166265833
+80329761,"Distributed actuation attacks in wireless sensor networks: implications and countermeasures",0.280026455026,0.237454906205
+8019A97E,"WDA: A Web farm Distributed Denial Of Service attack attenuator",0.266524216524,0.287820512821
+7ADE7296,"Preserving quality of service for normal users against DDoS attacks by using Double Check Priority Queues",0.421296296296,0.338888888889
+7E947913,"Spoof Detection for Preventing DoS Attacks against DNS Servers",0.436111111111,0.604166666667
+7DDBA7F7,"Reducing the scope of denial of service attacks in QoS routing",0.266524216524,0.335555555556
+7DBA3566,"Using Mobile Agents to Detect Node Compromise in Path-Based DoS Attacks on Wireless Sensor Networks",0.41043956044,0.314682539683
+7D2743FF,"Wireless Intrusion Detection System Using a Lightweight Agent",0.405555555556,0.463181818182
+7DBE8EA5,"An Improvement on Precision in DDoS Source-End Detection with Multi-stream Combined HMM",0.277777777778,0.368055555556
+7E7B3773,"Modeling Source Authentication Protocols in Wireless Sensor Networks Using HLPSL",0.269963369963,0.238392857143
+811317A6,"An approach to intrusion detection by means of idiotypic networks paradigm",0.279761904762,0.363095238095
+80A40178,"The "Evil Bit" Revisited: Blocking DDoS Attacks with AS-Based Accountability",0.290945165945,0.320555555556
+59D93160,"DoS attack mining in sensor node replacement",0.256222943723,0.284848484848
+7E63E4CC,"Flexible Deterministic Packet Marking: An IP Traceback System to Find the Real Source of Attacks",0.314285714286,0.282374768089
+80FC84AD,"Finding DDoS attack sources: Searchlight localization algorithm for network tomography",0.299328449328,0.293197278912
+7E3B170E,"Browsing behavior mimicking attacks on popular web sites for large botnets",0.293376068376,0.3125
+7DC0E00F,"Analysis of DDoS Attack Effect and Protection Scheme in Wireless Mobile Ad-hoc Network",0.269913419913,0.263151927438
+7D7C370B,"LDoS attack in ad-hoc network",0.267582417582,0.571428571429
+812DCAED,"Secure Health Monitoring Network against Denial-Of-Service Attacks Using Cognitive Intelligence",0.421428571429,0.415674603175
+80D1A6DC,"Analysis of low-rate TCP DoS attack against FAST TCP",0.254834054834,0.328571428571
+5B0050CF,"802.11 denial-of-service attacks: real vulnerabilities and practical solutions",0.291606541607,0.417989417989
+7981B612,"Distributed Denial of Service (DDoS) detection by traffic pattern analysis",0.297619047619,0.28843537415
+7E52F4EF,"Detecting Flooding-Based DDoS Attacks",0.26038961039,0.6
+7EEBB0FD,"Risk-sensitive control under a class of denial-of-service attack models",0.269913419913,0.341964285714
+810A5CCD,"A Method Based on AMHI for DDoS Attacks Detection and Defense",0.441077441077,0.520238095238
+5A90A652,"A Distributed Detecting Method for SYN Flood Attacks and Its Implementation Using Mobile Agents",0.410984848485,0.372680890538
+7F2A947F,"Detection of malicious packet dropping in wireless ad hoc networks based on privacy-preserving public auditing",0.318253968254,0.312925170068
+7FEA4D1E,"Two Types of Attacks against Cognitive Radio Network MAC Protocols",0.309920634921,0.261282467532
+5F59D20A,"Detecting DDoS Attacks Using Dispersible Traffic Matrix and Weighted Moving Average",0.41335978836,0.389037698413
+5D38D45E,"Inter-domain security management to protect legitimate user access from DDoS attacks",0.289814814815,0.308975468975
+7D434DD8,"Specification-Based Intrusion Detection in WLANs",0.247222222222,0.388888888889
+80279F48,"Methodologies for evaluating game theoretic defense against DDoS attacks",0.299735449735,0.347142857143
+62AC03AD,"gore : routing-assisted defense against DDoS attacks",0.251709401709,0.403174603175
+7FF16A35,"Detection Method Based on Reverse Proxy against Web Flooding Attacks",0.461183261183,0.368895687646
+5EC1136E,"Detection of DDoS attacks via an artificial immune system-inspired multiobjective evolutionary algorithm",0.436111111111,0.722222222222
+7EF28FD5,"Deployment of Distributed Defense against DDoS Attacks in ISP Domain",0.288746438746,0.363492063492
+80B3D542,"Countering DDoS and XDoS Attacks against Web Services",0.263167388167,0.364583333333
+80764A06,"Practical study of a defense against low-rate TCP-targeted DoS attack",0.288746438746,0.338095238095
+5B02E22D,"A Practical Cryptographic Denial of Service Attack against 802.11i TKIP and CCMP",0.288746438746,0.455555555556
+7B4F6FA9,"DDoS attack detection method using cluster analysis",0.552188552189,0.658333333333
+80EC5526,"On the Impact of Low-Rate Attacks",0.251709401709,0.5625
+59EFB8CC,"On a new class of pulsing denial-of-service attacks and the defense",0.399424385139,0.497142857143
+813CDA35,"Botnet Detection by Monitoring Group Activities in DNS Traffic",0.337373737374,0.375238095238
+780903A3,"A dependable architecture to mitigate distributed denial of service attacks on network-based control systems",0.293376068376,0.25386002886
+77706C67,"Traffic deflection method for dos attack defense using a location-based routing protocol in the sensor network",0.426461038961,0.325312650313
+80DD734D,"On the effectiveness of secure overlay forwarding systems under intelligent distributed DoS attacks",0.268722943723,0.252272727273
+5B84A89F,"Securing MANET Multicast Using DIPLOMA",0.240224358974,0.352083333333
+80488393,"Detection of DDoS and IDS Evasion Attacks in a High-Speed Networks Environment",0.454365079365,0.417658730159
+7FDCD1CA,"Comparison and Improvement of Metrics for Selecting Intrusion Response Measures against DoS Attacks 1",0.423484848485,0.318959435626
+7DB9AE08,"Puppetnets: Misusing Web Browsers as a Distributed Attack Infrastructure (Extended Version ∗",0.29788961039,0.298737373737
+7A91E4E0,"Network Anomaly Detection Based on R/S Pox Diagram",0.300396825397,0.323122710623
+7E37E773,"A marking scheme using Huffman codes for IP traceback",0.272294372294,0.433333333333
+7F7E1924,"A Proactive Statistical Defense Solution for DDOS Attacks in Active Networks",0.299328449328,0.357142857143
+7902E6B4,"A New Defense against DDoS Attacks using Reputation",0.485592185592,0.648571428571
+75A57706,"Fine-grained capabilities for flooding DDoS defense using client reputations",0.26163003663,0.277976190476
+806E337E,"A queue-based analysis for Denial of Service attacks on Voice over IP proxies",0.251709401709,0.286894586895
+7698A133,"Inferring distributed reflection denial of service attacks from darknet",0.270690883191,0.315277777778
+7CD876A7,"Mitigating denial of service attack using CAPTCHA mechanism",0.399857549858,0.42962962963
+7EFFE8CC,"securing hybrid wired/mobile IP networks from TCP-flooding based denial-of-service attacks",0.310317460317,0.36380952381
+7F79C506,"Advanced Flooding Attack on a SIP Server",0.282611832612,0.341666666667
+79AF06E1,"ICMP based IP traceback with negligible overhead for highly distributed reflector attack using bloom filters",0.397426647427,0.365277777778
+5A741CFA,"Evaluation of Attack Countermeasures to Improve the DoS Robustness of RSerPool Systems by Simulations and Measurements",0.279487179487,0.245202020202
+7BA92AC9,"On MAC-layer denial of service attacks in IEEE 802.11 ad hoc networks: analysis and counter measures",0.28543956044,0.262202380952
+6AEC7C52,"A cascade architecture for DoS attacks detection based on the wavelet transform",0.436111111111,0.384920634921
+6F4B82C4,"Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing",0.421428571429,0.316233766234
+7F702631,"Reactive jamming attacks in multi-radio wireless sensor networks: an efficient mitigating measure by identifying trigger nodes",0.299328449328,0.217239858907
+7B7196E9,"Evaluation of a low-rate DoS attack against application servers",0.251709401709,0.303333333333
+78E4A26F,"Practical Attacks on Mobile Cellular Networks and Possible Countermeasures",0.299328449328,0.411255411255
+7E525D11,"Maintaining useful server throughput under load attacks using active NIC portals",0.393722943723,0.380203130203
+79A5E65F,"Using Network Processor to Establish Trustworthy Agent Scheme for AODV Routing Protocol",0.272294372294,0.29880952381
+58DF6BE2,"Entropy Based Detection of DDoS Attacks in Packet Switching Network Models",0.451659451659,0.373363095238
+807B7B13,"Secure Transport Protocols for DDoS Attack Resistant Communication",0.308796296296,0.372727272727
+7FDF4221,"Control of low-rate denial-of-service attacks on web servers and TCP flows",0.270111832612,0.268518518519
+7A7939FA,"Improvements on the WTLS protocol to avoid denial of service attacks",0.303561253561,0.335185185185
+5C8B8EE0,"Effective worm detection for various scan techniques",0.284595959596,0.396011396011
+5EC7001E,"Denial of service attacks at the MAC layer in wireless ad hoc networks",0.28543956044,0.249181547619
+785D7887,"Provider-based deterministic packet marking against distributed DoS attacks",0.299328449328,0.321904761905
+778ADCF0,"Adaptive Timer-Based Countermeasures against TCP SYN Flood Attacks",0.293722943723,0.337121212121
+80F27E8C,"Lightweight DDoS flooding attack detection using NOX/OpenFlow",0.547222222222,0.8
+706CEE06,"A New Holistic Security Approach for Government Critical Systems: Flooding Prevention",0.271306471306,0.244794887652
+7E117501,"Packet-Hiding Methods for Preventing Selective Jamming Attacks",0.295244107744,0.392361111111
+77B4E92A,"An Inline Detection and Prevention Framework for Distributed Denial of Service Attacks",0.441077441077,0.438888888889
+7E2A9E7F,"Proactively defeating distributed denial of service attacks",0.288746438746,0.38
+7EFCF8A3,"Traffic flooding attack detection with SNMP MIB using SVM",0.561507936508,0.575661375661
+7F03F283,"Defense against Bandwidth Attacks with Traffic Resource Management",0.271550671551,0.319047619048
+7E71D33C,"A Traffic Analysis Using Cardinalities and Header Information",0.414407814408,0.424272486772
+5912D8FC,"A middleware system for protecting against application level denial of service attacks",0.277106227106,0.285776128633
+7D45BBBE,"Detecting DoS attacks using packet size distribution",0.416937229437,0.379931972789
+5DF3DA87,"Quantitative Evaluation of Intrusion Tolerant Systems Subject to DoS Attacks Via Semi-Markov Cost Models",0.296368446368,0.276252319109
+5C4DD9D8,"D-ward: source-end defense against distributed denial-of-service attacks",0.266524216524,0.447619047619
+7FB4296F,"Performance Evaluation for Linux under SYN Flooding Attacks",0.251709401709,0.294696969697
+5D793733,"Detection of Unknown DoS Attacks by Kolmogorov-Complexity Fluctuation",0.436111111111,0.544444444444
+5E495711,"A multiagent solution to adaptively classify SOAP message and protect against dos attack",0.296296296296,0.330086580087
+587CAD24,"Detection and defense mechanisms against DDoS attacks: A review",0.405092592593,0.481904761905
+8018825F,"Mitigating performance degradation of network-based control systems under denial of service attacks",0.258653846154,0.242960858586
+7D065C47,"Locating network domain entry and exit point/path for DDoS attack traffic",0.277106227106,0.258962069676
+78F98700,"Temporal bounded reasoning for context-based information fusion in DoS attack detection",0.593253968254,0.604166666667
+7EF5DAB8,"Distributed Denial of Service Attacks Detection Method Based on Conditional Random Fields",0.441077441077,0.388541666667
+7D7AA8A7,"SANALDA: A Source Authenticating Network Architecture Limiting DoS Attacks",0.267582417582,0.232709750567
+59A5ED43,"Memory performance attacks: denial of memory service in multi-core systems",0.261574074074,0.261796536797
+59734247,"A Novel Architecture for Detecting and Defending Against Flooding-Based DDoS Attacks",0.282611832612,0.356547619048
+5F1CC9BE,"An attack classification mechanism based on multiple support vector machines",0.289814814815,0.293939393939
+590CA80E,"Design of network security projects using honeypots",0.277106227106,0.280522486772
+73C5648B,"Detection of Denial of Service Attacks against Domain Name System Using Neural Networks",0.565476190476,0.430912297579
+7DCF4125,"CPU-based DoS attacks against SIP servers",0.243722943723,0.308333333333
+7DAB5641,"The Software Environment for Multi-agent Simulation of Defense Mechanisms against DDoS Attacks",0.258653846154,0.276587301587
+7D878EAB,"Evaluating DoS Attacks against Sip-Based VoIP Systems",0.26038961039,0.339393939394
+7F9B9D5B,"Exploration of Attacks on Current Generation Smartphones",0.299328449328,0.411255411255
+7D75ED3E,"A Method for Enhancing Timely-Delivery and Security Using IGPT in Content-Centric Networking",0.256355218855,0.344742063492
+768A7648,"RotoRouter: Router support for endpoint-authorized decentralized traffic filtering to prevent DoS attacks",0.299328449328,0.292918985776
+758EF851,"Packet track and traceback mechanism against denial of service attacks",0.267582417582,0.284920634921
+7DAA8898,"Hierarchical Defense Structure for Mitigating DoS Attacks",0.288746438746,0.284126984127
+7F028C17,"Streaming Algorithms for Robust, Real-Time Detection of DDoS Attacks",0.436111111111,0.591666666667
+7F438CEE,"Roaming honeypots for mitigating service-level denial-of-service attacks",0.268722943723,0.355902777778
+805AD29E,"On the application of anomaly detection in Reliable Server Pooling systems for improved robustness against denial of service attacks",0.444444444444,0.355471380471
+80542EFA,"Using Web-Referral Architectures to Mitigate Denial-of-Service Threats",0.242592592593,0.326388888889
+7BE262F7,"DoSTRACK: a system for defending against DoS attacks",0.250865800866,0.325108225108
+7CCF0818,"Survey of network security systems to counter SIP-based denial-of-service attacks",0.271550671551,0.275733525734
+8019EEA8,"A Probabilistic Approach for Network Intrusion Detection",0.30753968254,0.346428571429
+78CF7FF1,"Puppetnets: Misusing Web Browsers as a Distributed Attack Infrastructure",0.290945165945,0.331755050505
+5DBEEBBE,"Exploiting the transients of adaptation for RoQ attacks on Internet resources",0.332611832612,0.334126984127
+8079DC48,"Formal modelling and automatic detection of resource exhaustion attacks",0.46130952381,0.484126984127
+7EE57BBA,"Analyze and Determine the IP Spoofing Attacks Using Stackpath Identification Marking and Filtering Mechanism",0.422420634921,0.378571428571
+76B649BC,"Correlation-based load balancing for network intrusion detection and prevention systems",0.279761904762,0.251144094001
+0031B6E5,"An Analysis of Network Traffic on DDoS Attacks against Web Servers",0.271550671551,0.276785714286
+081239D6,"The �mstream� distributed denial of service attack tool",0.266524216524,0.33
+7DC336D3,"Intrusion Detection in Dos Attacks",0.397222222222,0.541666666667
+7FA111AB,"StackPi : a new defense mechanism against IP spoofing and DDoS attacks",0.390354090354,0.560714285714
+015161C6,"Towards Improving an Algebraic Marking Scheme for Tracing DDoS Attacks",0.302651515152,0.353333333333
+7D329C72,"Epiphany: A location hiding architecture for protecting critical services from DDoS attacks",0.293376068376,0.276587301587
+5D5026BA,"On Robustness and Countermeasures of Reliable Server Pooling Systems Against Denial of Service Attacks",0.293376068376,0.261268939394
+7CABE3C3,"Detecting DDoS attacks with Hadoop",0.26038961039,0.6
+78731F46,"Denial-of-Service attacks and countermeasures in IEEE 802.11 wireless networks",0.267582417582,0.326298701299
+7F38BF22,"A novel method for detecting attacks towards the SIP protocol",0.310058922559,0.321666666667
+7E9DF48A,"The feasibility of launching and detecting jamming attacks in wireless networks",0.277106227106,0.262131519274
+7FBCAD36,"Distributed port recall (DPR) attacks and its detection",0.413888888889,0.486753246753
+7EBD6296,"CoDe — An collaborative detection algorithm for DDoS attacks",0.459920634921,0.591666666667
+7F94DB37,"Exception triggered DoS attacks on wireless networks",0.278693528694,0.304761904762
+80D1B451,"Performance Evaluation of a Flooding Detection Mechanism for VoIP Networks",0.279761904762,0.306904761905
+780582DC,"A survey of coordinated attacks and collaborative intrusion detection",0.436111111111,0.560714285714
+7EF432D3,"Deployable overlay network for defense against distributed SYN flood attacks",0.277106227106,0.276659451659
+7C3606A8,"IP Traceback using header compression",0.238636363636,0.55
+754DDFF9,"The NADIA: A Network Acceleration System with Defense against Network Invasion and Attack",0.267582417582,0.282544836116
+77B67239,"Information sharing for distributed intrusion detection systems",0.421031746032,0.422294372294
+7F822BDC,"Framework for statistical filtering against DDoS attacks in MANETs",0.287373737374,0.394444444444
+5958631F,"Scheme of defending against DDoS attacks in large-scale ISP networks",0.301659451659,0.346428571429
+7F8E4501,"Broadcast Authentication Protocol Scheme Based on DBP-MSP and Safe Routing in WSN against DDoS Attacks",0.311183261183,0.329365079365
+7F1FDC6E,"A Bidirectional-Based DDoS Detection Mechanism",0.249873737374,0.55
+0384D87A,"LADS: large-scale automated DDOS detection system",0.284595959596,0.39696969697
+7D069649,"Evaluation of a Distributed Detecting Method for SYN Flood Attacks Using a Real Internet Trace",0.410984848485,0.340232683983
+7EB8BDBB,"Web botnet detection based on flow information",0.443253968254,0.777777777778
+7FC99AD1,"Countering DoS attacks with stateless multipath overlays",0.282611832612,0.329166666667
+5A979C36,"A new security model to prevent denial-of-service attacks and violation of availability in wireless networks",0.401422387137,0.334744268078
+722F8524,"Seclusiveness jamming attacks using Packet hiding Method",0.416937229437,0.443452380952
+7D189BAF,"Mitigation of TCP-SYN Attacks with Microsoft's Windows XP Service Pack2 (SP2) Software",0.24788961039,0.307222222222
+5F30E8C6,"A Hypothesis Testing Based Scalable TCP Scan Detection",0.313762626263,0.445833333333
+831B5314,"Multiagent Router Throttling: Decentralized Coordinated Response Against DDoS Attacks",0.282611832612,0.306363636364
+78AEBDEB,"Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks",0.26038961039,0.303293650794
+7BFB8736,"Cloud security defence to protect cloud computing against HTTP-DoS and XML-DoS attacks",0.282142857143,0.330793650794
+80842FDD,"A Comparison of SYN Flood Detection Algorithms",0.260185185185,0.350108225108
+5C00C81D,"Future of DDoS Attacks Mitigation in Software Defined Networks",0.28543956044,0.295304232804
+585B75E3,"A prevention model for algorithmic complexity attacks",0.301659451659,0.352380952381
+7F1AE597,"Design and analysis of an adaptive, global strategy for detecting and mitigating distributed DoS attacks in grid environments",0.295707070707,0.258680555556
+017665BB,"A Study on Recent Approaches in Handling DDoS Attacks",0.282611832612,0.383928571429
+7FE3DB06,"A Scalable Set-Union Counting Approach to Pushing Back DDoS Attacks",0.282611832612,0.410714285714
+7EACA796,"A novel tuneable low-intensity adversarial attack",0.282611832612,1.0
+62C578B4,"A practical method to counteract denial of service attacks",0.295244107744,0.348333333333
+612B461B,"Botnet tracking: exploring a root-cause methodology to prevent distributed denial-of-service attacks",0.294516594517,0.35746031746
+7E2A71A5,"A Study of the TKIP Cryptographic DoS Attack",0.282611832612,0.403174603175
+5B992488,"Real-Time IP Checking and Packet Marking for Preventing ND-DoS Attack Employing Fake Source IP in IPv6 LAN",0.425396825397,0.344444444444
+760FDB3F,"Using Identity-Based Privacy-Protected Access Control Filter (IPACF) to against denial of service attacks and protect user privacy",0.405555555556,0.328535353535
+7EB13818,"Comparing Chord, CAN, and Pastry overlay networks for resistance to DoS attacks",0.299328449328,0.301778083028
+7EF93515,"Insider DoS Attacks on Epidemic Propagation Strategies of Network Reprogramming in Wireless Sensor Networks",0.301659451659,0.200396825397
+7F96F07B,"On a New Type of Denial of Service Attack in Wireless Networks: The Distributed Jammer Network",0.400340136054,0.320153920154
+7FA97E7A,"Visual analytics for intrusion detection in spam emails",0.290277777778,0.325480769231
+0077F7A5,"Detecting DDoS Attack towards DNS Server Using a Neural Network Classifier",0.41043956044,0.486753246753
+7D54B902,"Improving Availability with Adaptive Roaming Replicas in Presence of Determined DoS Attacks",0.290945165945,0.268528693529
+802319B1,"Queue-based analysis of DoS attacks",0.243722943723,0.411111111111
+5EF54CA1,"Effective DDoS Attacks Detection Using Generalized Entropy Metric",0.555555555556,0.665
+7E286E4A,"Improvement for Congestion Control Algorithms under DDoS Attacks",0.261574074074,0.302777777778
+5C38C864,"Lightweight Traffic Monitoring and Analysis Using Video Compression Techniques",0.274470899471,0.274272486772
+80F8F87A,"A Fuzzy Rule Based Forensic Analysis of DDoS Attack in MANET",0.290740740741,0.338888888889
+816E40E8,"An Intrusion Surveillance System to Detect IRC-based DDoS Attacks",0.26038961039,0.306753246753
+81B25B07,"IRIS: A Robust Information System Against Insider DoS Attacks",0.442185592186,0.382611832612
+5BB56813,"Construction of High Precision RBFNN with Low False Alarm for Detecting Flooding Based Denial of Service Attacks Using Stochastic Sensitivity Measure",0.488095238095,0.360683760684
+597E9CF8,"A Distributed Intrusion Detection System Based on Bayesian Alarm Networks",0.300396825397,0.294516594517
+7CD03521,"Scheme for preventing low-level denial-of-service attacks on wireless sensor network-based home automation systems",0.287373737374,0.235115925741
+6DAD7895,"Engineering of a global defense infrastructure for DDoS attacks",0.288746438746,0.355158730159
+7D2DB6BF,"A SOA Approach to Counter DDoS Attacks",0.254834054834,0.436507936508
+7777FE4F,"A study on stable web server system using virtualization technology against attacks",0.402056277056,0.372680890538
+5CAF57E6,"Simulation of dynamic honeypot based redirection to counter service level DDoS attacks",0.299328449328,0.296003401361
+802CE8FE,"Statistical Signatures for Early Detection of Flooding Denial-of-Service Attacks",0.445105820106,0.585714285714
+7AE1DE23,"MCA 2 : multi-core architecture for mitigating complexity attacks",0.267582417582,0.334325396825
+7B55777A,"Mining Web User Behaviors to Detect Application Layer DDoS Attacks",0.266524216524,0.27886002886
+8115000C,"Denial of service attacks and defenses in decentralized trust management",0.300320512821,0.303174603175
+7FCE3642,"Botnet master detection using a mashup-based approach",0.404365079365,0.558441558442
+7F8BD1C5,"RRED: robust RED algorithm to counter low-rate denial-of-service attacks",0.282611832612,0.444444444444
+8014FCB6,"Entropy-Based Collaborative Detection of DDOS Attacks on Community Networks",0.450396825397,0.566964285714
+7F6EB342,"A Study of Defense DDoS Attacks Using IP Traceback",0.399857549858,0.571428571429
+7BF75AD0,"Deceiving entropy based DoS detection",0.292929292929,0.395833333333
+7B0DB9B9,"An effective Denial of Service Attack Detection Method in Wireless Mesh Networks",0.451659451659,0.352132936508
+7D874385,"DDoS Detection and Traceback with Decision Tree and Grey Relational Analysis",0.297222222222,0.345238095238
+811D6575,"Attack diagnosis: throttling distributed denial-of-service attacks close to the attack sources",0.282611832612,0.502272727273
+7C621333,"Defensive programming: using an annotation toolkit to build DoS-resistant software",0.271296296296,0.348333333333
+77881439,"Detecting Distributed Denial-of-Service Attacks Using Kolmogorov Complexity Metrics",0.564285714286,0.590476190476
+767906BB,"Detecting VoIP based DoS attacks at the public safety answering point",0.292929292929,0.287987012987
+7FDF0F48,"Anomaly-Based Identification of Large-Scale Attacks",0.282611832612,0.571428571429
+5F98774E,"Cooperative Security Management Enhancing Survivability Against DDoS Attacks",0.288746438746,0.349206349206
+8027B3A7,"A DoS-resilient information system for dynamic data management",0.299328449328,0.344155844156
+80F3CC00,"Efficacy of Coordinated Distributed Multiple Attacks (A Proactive Approach to Cyber Defense)",0.288746438746,0.312698412698
+62381E87,"Trust-Based Security Level Evaluation Using Bayesian Belief Networks",0.286706349206,0.284391534392
+7D4BE8C8,"Detecting flooding attacks against IP Multimedia Subsystem (IMS) networks",0.277106227106,0.304761904762
+5A8B7B19,"Multiple Classifier System with Feature Grouping for Intrusion Detection: Mutual Information Approach",0.451659451659,0.333441558442
+79B13CF0,"Stateful DDoS attacks and targeted filtering",0.250865800866,0.571428571429
+80806BC4,"Detecting identity-based attacks in wireless networks using signalprints",0.41043956044,0.482857142857
+7E0481D7,"Spatial correlation detection of DDoS attack",0.459920634921,0.733333333333
+58B977C8,"A Novel Marking Probability Distribution Using Probability Propagation in Hierarchical WSN",0.27904040404,0.291666666667
+80E867EC,"Implementation of neural networks for intrusion detection in manet",0.304563492063,0.290238095238
+5D26B4D3,"On the effectiveness of DDoS attacks on statistical filtering",0.290945165945,0.5625
+7E58B7F7,"Proactive control of distributed denial of service attacks with source router preferential dropping",0.293376068376,0.276082251082
+7DA9C070,"DDoS Attack Detection Based on RLT Features",0.437373737374,0.608333333333
+5E71F1A8,"A new active DDoS defense system based on automatic learning",0.291331684189,0.36341991342
+80A8BFCD,"Pseudo Random Number Based authentication to counter denial of service attacks on 802.11",0.294037444037,0.275496031746
+7E051F06,"A new way to detect DDoS attacks within single router",0.399424385139,0.486753246753
+80A2095F,"VoIP Denial of service attacks classification and implementation",0.251709401709,0.338333333333
+7F3E6945,"Biologically Inspired Anomaly Detection and Security Control Frameworks for Complex Heterogeneous Networks",0.300396825397,0.309126984127
+6721FF46,"Detection of botnet collusion by degree distribution of domains",0.25404040404,0.336805555556
+80D4A796,"Emulation versus simulation: a case study of TCP-targeted denial of service attacks",0.261574074074,0.274149659864
+81589114,"Information theory based detection against network behavior mimicking DDoS attacks",0.593253968254,0.502232142857
+67469404,"DDoS defense mechanisms: a new taxonomy",0.267905110762,0.335714285714
+7848A426,"Analyzing large DDoS attacks using multiple data sources",0.41043956044,0.515238095238
+7594D90E,"Prevention of flooding attacks in mobile ad hoc networks",0.317185592186,0.351904761905
+80A7B694,"Detecting and Preventing IP-spoofed DDoS Attacks by Encrypted Marking Based Detection and Filtering (EMDAF)",0.451388888889,0.448979591837
+7749E351,"Implementation Of DDoS Botnet Detection System On Local Area Network",0.304563492063,0.291753246753
+5F0C8AE2,"Preventing Denial of Service attacks in Wireless Sensor Networks",0.299328449328,0.28537414966
+78681938,"A Flow Monitoring Scheme to Defend Reduction-of-Quality (RoQ) Attacks in Mobile Ad-hoc Networks",0.301659451659,0.302142857143
+7D530A47,"Review of DDoS and Flooding Attacks in MANET",0.273931623932,0.3625
+805E7DD8,"A Hybrid Model of Defense Techniques against Base Station Jamming Attack in Wireless Sensor Networks",0.303511303511,0.196868686869
+7A78A832,"A Wireless Distributed Intrusion Detection System and a New Attack Model",0.517748917749,0.445292207792
+7FB49085,"On Complexity and Approximability of Optimal DoS Attacks on Multiple-Tree P2P Streaming Topologies",0.301659451659,0.300086580087
+780E402B,"Mitigating attacks on open functionality in SMS-capable cellular networks",0.299328449328,0.34126984127
+7B351C49,"Security against DOS attack in mobile IP communication",0.306216931217,0.363492063492
+5F99A7BB,"One-Time Password Authentication Scheme Using Smart Cards Providing User Anonymity",0.305892255892,0.296598639456
+7DFAE31B,"Flooding attacks detection and victim identification over high speed networks",0.509920634921,0.440816326531
+80DF889E,"On the effectiveness of route-based packet filtering for distributed DoS attack prevention in power-law internets",0.277106227106,0.267517006803
+7DF4158D,"Key Distribution Scheme Using Matched Filter Resistant against DoS Attack",0.406355218855,0.426388888889
+7E8CBC08,"Defending against packet injection attacks unreliable ad hoc networks",0.317185592186,0.29828042328
+036916A5,"Secure IP Telephony using Multi-layered Protection",0.285846560847,0.367445054945
+7C690FDD,"Counteracting DDoS attacks in WLAN",0.268722943723,0.438888888889
+7B9C3C57,"IRIS: a robust information system against insider dos-attacks",0.292185592186,0.307251082251
+7E65D80D,"An IP-Traceback-based Packet Filtering Scheme for Eliminating DDoS Attacks",0.279437229437,0.321904761905
+7585EE08,"Application of evolutionary algorithms in detection of SIP based flooding attacks",0.436111111111,0.410606060606
+7FA854C2,"Efficient Client Puzzle Schemes to Mitigate DoS Attacks",0.298484848485,0.257407407407
+808365EA,"Adaptive distributed traffic control service for DDoS attack mitigation",0.299328449328,0.296494708995
+5EA1BB4B,"An Architecture for Wireless Intrusion Detection Systems Using Artificial Neural Networks",0.411507936508,0.40284992785
+620889CF,"Attacks on Bluetooth Security Architecture and Its Countermeasures",0.249278499278,0.321338383838
+7FA28652,"Adaptive DDoS Detector Design Using Fast Entropy Computation Method",0.273021885522,0.315
+77753015,"Janus: A dual-purpose analytical model for understanding, characterizing and countermining multi-stage collusive attacks in enterprise networks",0.301659451659,0.270470006184
+0ABEDC5C,"On the Design of a Low-Rate DoS Attack Against Iterative Servers",0.282611832612,0.329166666667
+77929FCF,"A game-theoretic analysis of denial of service attacks in wireless random access",0.252777777778,0.282611832612
+7E56868B,"Detecting Application Denial-of-Service Attacks: A Group-Testing-Based Approach",0.26038961039,0.385714285714
+778DEFB4,"Critical security review and study of DDoS attacks on LTE mobile network",0.31043956044,0.275733525734
+80AABE54,"Distributed Denial of Service: Taxonomies of Attacks, Tools, and Countermeasures",0.266524216524,0.262987012987
+7FDCFCD0,"A proxy-network based overlay topology resistant to DoS attacks and partitioning",0.285858585859,0.391515151515
+6EDD5A3C,"Reduction of quality (RoQ) attacks on Internet end-systems",0.282407407407,0.340773809524
+7F9AD555,"Early virus detection for Windows Mobile",0.284595959596,0.4
+78AABAEC,"A hybrid artificial immune system and Self Organising Map for network intrusion detection",0.300396825397,0.223223304473
+7CFC4A09,"A Feedback Mechanism for Mitigating Denial of Service Attacks against Differentiated Services Clients",0.266524216524,0.23950617284
+7F0C464A,"iLOC: An invisible LOCalization Attack to Internet Threat Monitoring Systems",0.286315536316,0.308975468975
+81729249,"Sequence number-based MAC address spoof detection",0.266077441077,0.299722222222
+8101D39F,"Modeling and evaluating targeted attacks in large scale dynamic systems",0.282611832612,0.39696969697
+7B2B969B,"Defending against spoofed DDoS attacks with path fingerprint",0.266143578644,0.319047619048
+7E1502F0,"ARM-CPD: Detecting SYN flooding attack by traffic prediction",0.281272893773,0.322142857143
+804621AF,"A solution to spoofed PS-poll based denial of service attacks in IEEE 802.11 WLANs",0.294037444037,0.293197278912
+8004458C,"Thwarting inside jamming attacks on wireless broadcast communications",0.311772486772,0.305158730159
+7F4FC0EA,"Analytical and Simulation Based Evaluation of Wireless-to-Wireline TCP-SYN Attacks",0.288746438746,0.416666666667
+7F27B6A0,"Traceback-Based Bloomfilter IPS in Defending SYN Flooding Attack",0.264285714286,0.344155844156
+5A733E45,"Backtracking performance analysis of Internet protocol for DDoS flooding detection",0.293518518519,0.264857761286
+7F0675E9,"A Detective Method for SYN Flood Attacks",0.258207070707,0.405303030303
+80B22E01,"A framework for classifying denial of service attacks",0.2632996633,0.326666666667
+7C09FEA7,"Mitigating application-level denial of service attacks on Web servers: A client-transparent approach",0.265598290598,0.261281179138
+808C7C03,"Intrusion Detection: Supervised Machine Learning",0.286111111111,0.336666666667
+0B38CD52,"Analysis of Denial of Service Attacks in IEEE 802.11s Wireless Mesh Networks",0.267582417582,0.265532879819
+7F6B4362,"Distributed Denial of Service Attacks and Anonymous Group Authentication on the Internet",0.324873737374,0.282993197279
+7F48A655,"Modified AODV protocol for prevention of denial of service attacks in wireless ad hoc networks",0.303296703297,0.271957671958
+7D8C35FE,"Active Cache Based Defense against DoS Attacks in Wireless Mesh Network",0.299328449328,0.268358625501
+813EE6DB,"A detection scheme for flooding attack on application layer based on semantic concept",0.444444444444,0.382291666667
+8044DD69,"Fast and automated generation of attack signatures: a basis for building self-protecting servers",0.308852258852,0.303174603175
+80A78A1A,"SCIDIVE: a stateful and cross protocol intrusion detection architecture for voice-over-IP environments",0.272222222222,0.26654040404
+5EC5323A,"Unified rate limiting in broadband access networks for defeating internet worms and DDoS attacks",0.443253968254,0.360264735265
+80AA7BA4,"Query-flood DoS attacks in gnutella",0.243722943723,0.533333333333
+7953D3EE,"Flow level detection and filtering of low-rate DDoS",0.268650793651,0.571428571429
+76C1FD92,"Detection of networks blocks used by the Storm Worm botnet",0.411507936508,0.400518925519
+801027A4,"A Detection and Offense Mechanism to Defend Against Application Layer DDoS Attacks",0.404365079365,0.391836734694
+0703FE2F,"Comparison of various passive distributed denial of service attack in mobile adhoc networks",0.299328449328,0.30873015873
+5A25FB7D,"A sophisticated solution for revealing attacks on wireless LAN",0.291606541607,0.307142857143
+5D8E8497,"Detection and Identification Mechanism against Spoofed Traffic Using Distributed Agents",0.418650793651,0.387244897959
+7D860425,"Parametric methods for anomaly detection in aggregate traffic",0.301659451659,0.344742063492
+5BD56B74,"Use of spectral analysis in defense against DoS attacks",0.288746438746,0.325238095238
+80AF9A00,"A Detection and Recovery Architecture Against DoS and Worm Attacks in NGMN",0.397222222222,0.387820512821
+7A129BBC,"Mitigating denial of service attacks in hierarchical wireless sensor networks",0.299328449328,0.253628117914
+06186E06,"A Principle of a Data Synthesizer for Performance Test of Anti-DDOS Flood Attacks",0.27328042328,0.238553906411
+5E6B2000,"A CPU Usage Control Mechanism for Processes with Execution Resource for Mitigating CPU DoS Attack",0.265598290598,0.242283950617
+58AC6BA0,"Mitigating distributed denial of service attacks with dynamic resource pricing",0.307463369963,0.283900226757
+795F12BD,"A new protocol to counter online dictionary attacks",0.400968872397,0.591666666667
+7F54F216,"Simulation of Dynamic Mobile Agent Model to Prevent Denial of Service Attack using CPNS",0.406818181818,0.386458333333
+7D5484FD,"Real-time protection against DDoS attacks using active gateways",0.399857549858,0.581730769231
+5E28F226,"Reactive Network Monitor for DDoS Attacks",0.299328449328,0.40873015873

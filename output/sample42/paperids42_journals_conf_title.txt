@@ -1,0 +1,64 @@
+﻿7E42B2FA	Computational Intelligence<--Face detection and facial feature extraction in color image
+5B5A6EB8	European Conference on Computer Vision<--A Probabilistic Framework for Matching Temporal Trajectories: CONDENSATION-Based Recognition of Gestures and Expressions
+5F3038AE	Systems, Man and Cybernetics<--Facial gesture recognition in face image sequences: a study on facial gestures typical for speech articulation
+75F43DFE	Intelligent Systems Design and Applications<--Neutral-independent geometric features for facial expression recognition
+76E2F827	International Journal of Intelligent Systems Technologies and Applications<--A facial feature tracker for human-computer interaction based on 3D Time-Of-Flight cameras
+81206858	Information not present<--Detection of Face and Facial Features in digital Images and Video Frames
+7DE3EAB8	International Conference on Genetic and Evolutionary Computing<--Intelligent Projector System Based on Computer Vision
+7EC2D89D	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Visual interpretation of hand gestures for human-computer interaction: a review
+8167E95F	Applied Soft Computing<--Low cost remote gaze gesture recognition in real time
+3765E8E4	Information not present<--Real-time Hand Gesture Detection and Recognition for Human Computer Interaction
+790FB066	International Journal on Document Analysis and Recognition<--Recognition and retrieval of mathematical expressions
+7FB0C49F	Systems, Man and Cybernetics<--Multi-view Facial Expression Recognition Using Parametric Kernel Eigenspace Method Based on Class Features
+0FD7E6B2	Information not present<--Lärande och flow : Den optimala lärandeupplevelsen
+813F0A9B	IEEE Transactions on Systems, Man, and Cybernetics<--Gesture Recognition: A Survey
+7D124D47	Systems, Man and Cybernetics<--Real time hand gesture recognition using 3D prediction model
+77F6FFE7	Information not present<--Automatic recognition of facial expressions in image sequences: A review
+802F34E9	Information not present<--Real-time tracking of multiple fingertips and gesture recognition for augmented desk interface systems
+7D6D6948	Computer Vision and Pattern Recognition<--Assisting the autistic with improved facial expression recognition from mixed expressions
+7BB0EAD2	Information not present<--Facial expression recognition with facial parts based sparse representation classifier
+7FD994B5	Information not present<--A Novel Bilingual OCR System Based on Column-Stochastic Features and SVM Classifier for the Specially Enabled
+7F8C9C65	IEEE Transactions on Instrumentation and Measurement<--Dynamic Gesture Recognition
+7D36A809	Affective Computing and Intelligent Interaction<--Rapport and facial expression
+7B46D7DA	International Conference on Multimodal Interfaces<--Automatic recognition of sign language subwords based on portable accelerometer and EMG sensors
+80AFFD0F	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Automatic analysis of facial expressions: the state of the art
+7D8BBA9A	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Face detection in color images
+7D3A313E	International Conference on Pattern Recognition<--Real time facial expression recognition with AdaBoost
+752B1D60	IEEE Transactions on Instrumentation and Measurement<--Dynamic Sign Language Recognition for Smart Home Interactive Application Using Stochastic Linear Formal Grammar
+81355EE7	Autonomic and Trusted Computing<--Facial expression recognition over FFT-OFDM
+7EC18FB1	Information not present<--Natural interactions: an application for gestural hands recognition
+7B4BEE05	Intelligent Systems Design and Applications<--Facial Expression Recognition Based on Selective Feature Extraction
+7F1D3472	Information not present<--Feature selection for facial expression recognition
+7BFCA253	Multimedia Tools and Applications<--Hand tracking and gesture recognition system for human-computer interaction using low-cost hardware
+814C78DF	Information not present<--An OPS Hand Tracking Algorithm Based on Optical Flow
+43EF534C	Information not present<--An Imitation-Learning based Agentplaying Super Mario
+79467A7F	ACM Multimedia<--Bimodal expression of emotion by face and voice
+7DA855CE	Human Factors in Computing Systems<--Making muscle-computer interfaces more practical
+5D39EE53	Information not present<--Tracking of Multi-state Hand Models Using Particle Filtering and a Hierarchy of Multi-scale Image Features
+7F1416FB	IEEE Transactions on Instrumentation and Measurement<--Hand Gesture Recognition Using Haar-Like Features and a Stochastic Context-Free Grammar
+7B0AD55A	Information not present<--Audio-visual affective expression recognition
+7D56B5C0	IEEE Transactions on Affective Computing<--Real-Time Recognition of Affective States from Nonverbal Features of Speech and Its Application for Public Speaking Skill Analysis
+7705FB2F	International Conference on Image Processing<--Fast TV-L 1 optical flow for interactivity
+7ED6DC30	Information not present<--Hand gesture recognition using multi-scale colour features, hierarchical models and particle filtering
+787FC895	Journal of Intelligent and Robotic Systems<--Generic System for Human-Computer Gesture Interaction: Applications on Sign Language Recognition and Robotic Soccer Refereeing
+3D3070E9	Information not present<--Facial Expression Recognition based on Affine Moment Invariants
+5FD34F9C	International Symposium on Neural Networks<--Facial Expression Recognition Based on BoostingTree
+75FCFB03	Soft Computing and Pattern Recognition<--Integration of geometric and dynamic features for facial expression recognition in color image sequences
+7938E9FF	Pattern Recognition<--Automatic Facial Expression Analysis: A Survey
+7740A0D5	Information not present<--Facial expression recognition by analyzing features of conceptual regions
+7E57644A	IEEE Transactions on Instrumentation and Measurement<--Real-Time Hand Gesture Detection and Recognition Using Bag-of-Features and Support Vector Machine Techniques
+7E39E4B4	Information not present<--Compliant Human-Robot Cooperation Based on Intention Recognition
+7809F49C	International Journal of Learning Technology<--Modelling affect expression and recognition in an interactive learning environment
+7823847F	Image and Vision Computing<--A graphical model based solution to the facial feature point tracking problem
+81F534C6	Intelligent Human Computer Interaction<--sEMG based human computer interface for robotic wheel
+5A2C693D	Information not present<--CBR: fuzzified case retrieval approach for facial expression recognition
+747B8A26	Information not present<--Effective sensor-bridging with visual preattentive features
+5EDFDBDD	Intelligent Data Engineering and Automated Learning<--Real-time nose detection and tracking based on AdaBoost and optical flow algorithms
+76C912FC	Intelligent User Interfaces<--Hand gesture recognition and virtual game control based on 3D accelerometer and EMG sensors
+797B0B76	Image and Vision Computing<--Face detection and facial feature localization without considering the appearance of image context
+5CFA90DD	North American Chapter of the Association for Computational Linguistics<--Acknowledgments in human-computer interaction
+7FDA4BDA	Information not present<--Automated facial expression recognition based on FACS action units
+7F4C6BB3	Computer Vision and Pattern Recognition<--Gesture + Play Exploring Full-Body Navigation for Virtual Environments
+7DA3BA41	Intelligent RObots and Systems<--A realistic facial animation suitable for human-robot interfacing
+7A726687	Information not present<--Real Time Gesture Recognition System for Interaction in Dynamic Environment
+8087B8EA	Information not present<--Fuzzy Based Facial Expression Recognition

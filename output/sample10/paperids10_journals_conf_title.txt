@@ -1,0 +1,61 @@
+7D7D5BA3	IEEE Transactions on Circuits and Systems for Video Technology<--Analysis of Packet Loss for Compressed Video: Effect of Burst Losses and Correlation Between Error Frames
+7FA170FD	IEEE Transactions on Multimedia<--Error control for receiver-driven layered multicast of audio and video
+7FE46870	IEEE Transactions on Circuits and Systems for Video Technology<--Network-adaptive low-latency video communication over best-effort networks
+773F1213	Visual Communications and Image Processing<--Rate-distortion optimized video streaming with rich acknowledgments
+8123EE44	IEEE Transactions on Multimedia<--Rate-distortion optimized streaming of packetized media
+764E3831	Visual Communications and Image Processing<--Rate distortion optimized transform for intra block coding for HEVC
+78CFB32A	Advances in Multimedia<--Rate-distortion optimized frame dropping for multiuser streaming and conversational videos
+0319D9B8	Information not present<--Rate-Distortion optimized video coding with frameskip
+7EA6573E	International Conference on Image Processing<--Bidirectional scalable motion for scalable video coding
+7859BE15	International Conference on Acoustics, Speech, and Signal Processing<--Application layer error correction coding for rate-distortion optimized streaming to wireless clients
+591D1690	International Conference on Image Processing<--Rate distortion optimized mode decision in the scalable video coding
+808A4297	IEEE Journal on Selected Areas in Communications<--Optimal mode selection and synchronization for robust video communications over error-prone networks
+80EF36FE	IEEE Transactions on Circuits and Systems for Video Technology<--A scalable wavelet-based video distortion metric and applications
+8048EDA2	Multimedia Signal Processing<--Low-complexity frame-level joint source-channel distortion optimal, adaptive intra refresh
+81235551	International Conference on Acoustics, Speech, and Signal Processing<--Backward Drift Estimation with Application to Quality Layer Assignment in H.264/AVC Based Scalable Video Coding
+7FB93FC8	Multimedia Signal Processing<--Rate-distortion optimized streaming from the edge of the network
+7FEDFE11	IEEE Transactions on Circuits and Systems for Video Technology<--Rate Distortion Data Hiding of Motion Vector Competition Information in Chroma and Luma Samples for Video Compression
+779C3AFF	International Conference on Image Processing<--Adaptive Lagrange multiplier selection model in rate distortion optimization for 3D wavelet-based scalable video coding
+7E0721E4	IEEE Transactions on Circuits and Systems for Video Technology<--Video Coding With Rate-Distortion Optimized Transform
+7870E33D	International Conference on Multimedia and Expo<--SSIM-Inspired Perceptual Video Coding for HEVC
+7ADC6B40	Information not present<--Speeding up the optimization of the rate distortion performance in MPEG-2 video coding through quantizer loop parameterization
+5C7F9BE9	International Symposium on Circuits and Systems<--Rate distortion optimization in the scalable video coding
+656ECA98	International Conference on Image Processing<--Rate distortion optimized document coding using resolution enhanced rendering
+80A44F9B	IEEE Transactions on Circuits and Systems for Video Technology<--Rate-distortion optimized layered coding with unequal error protection for robust Internet video
+8015072B	International Conference on Image Processing<--Rate distortion optimized curve determination for curved wavelet image coding
+7EC2A91B	IEEE Transactions on Communications<--Application layer error-correction coding for rate-distortion optimized streaming to wireless clients
+7DEE704C	Information not present<--Proactive optimization of real-time video
+7D8084CF	IEEE Transactions on Circuits and Systems for Video Technology<--Rate-distortion optimized mode selection for very low bit rate video coding and the emerging H.263 standard
+7A7264D5	IEEE Transactions on Image Processing<--Rate-Distortion Optimal Video Transport Over IP Allowing Packets With Bit Errors
+7DE54C8A	Workshop on Applications of Signal Processing to Audio and Acoustics<--Rate-distortion optimized hybrid sound coding
+7FC42BEF	Designs, Codes and Cryptography<--Rate-distortion optimized slicing, packetization and coding for error resilient video transmission
+7EAD214E	International Conference on Acoustics, Speech, and Signal Processing<--One-pass multi-layer rate-distortion optimization for quality scalable video coding
+06F0B7DE	Advances in Multimedia<--Spatio-temporal visual distortion and rate optimization for video coding
+7624C006	Information not present<--Novel rate distortion optimized region of interest video coding for embedded video SOCs
+7DDF5EAE	IEEE Transactions on Circuits and Systems for Video Technology<--On Lagrange multiplier and quantizer adjustment for H.264 frame-layer video rate control
+03510265	Information not present<--Rate-Distortion Optimized Embedding
+7F721715	International Conference on Multimedia and Expo<--SATD-based intramode decision for H.264/AVC video coding
+78DC4B55	Information not present<--Fast rate allocation based on distortion estimation modeling in scalable video coding
+80407F44	International Conference on Image Processing<--Perceptually-friendly H.264/AVC video coding
+7D687567	IEEE Transactions on Circuits and Systems for Video Technology<--SSIM-Motivated Rate-Distortion Optimization for Video Coding
+80DEF79C	IEEE Transactions on Circuits and Systems for Video Technology<--Laplace Distribution Based Lagrangian Rate Distortion Optimization for Hybrid Video Coding
+7FDADB2D	IEEE Transactions on Circuits and Systems for Video Technology<--Rate control in DCT video coding for low-delay communications
+75114DD2	Signal Processing-image Communication<--SSIM-based error-resilient rate-distortion optimization of H.264/AVC video coding for wireless streaming
+7D5A3CAD	International Conference on Multimedia and Expo<--Rate-Distortion Optimized Video Streaming for Scalable H.264
+7DB51E7D	IEEE Transactions on Circuits and Systems for Video Technology<--Matching-pursuit video coding .II. Operational models for rate and distortion
+7975585E	Signal Processing-image Communication<--Optimal intra coding of blocks for robust video communication over the Internet
+7FBEDB6E	International Conference on Acoustics, Speech, and Signal Processing<--Rate-SSIM optimization for video coding
+81538A7C	IEEE Transactions on Circuits and Systems for Video Technology<--Scalable rate control for MPEG-4 video
+597EB3E2	Network and Parallel Computing<--Real-Time Video over Programmable Networked Devices
+7F421F6E	International Conference on Acoustics, Speech, and Signal Processing<--Two-Stage Mode Selection of H.264/AVC Video Encoding with Rate Distortion Optimization
+7681C6D9	International Conference on Multimedia and Expo<--Motion Based Perceptual Distortion and Rate Optimization for Video Coding
+83F07F57	Information not present<--H.264 인트라 프레임의 Rate Distortion 성능 향상을 위한 모드 결정 기법
+814AC5B0	IEEE Signal Processing Magazine<--Rate-distortion optimization for video compression
+7F8DB94E	Multimedia Signal Processing<--Error resilient transcoding of Scalable Video bitstreams
+80D8FBD0	International Conference on Image Processing<--Rate-distortion optimal joint source/channel coding for robust and efficient low bit rate packet video communications
+7CC011D6	Proceedings of SPIE<--Wavelet-based highly efficient scalable video coding
+7EF88D59	IEEE Transactions on Image Processing<--FAST Rate Allocation Through Steepest Descent for JPEG2000 Video Transmission
+7687FE2D	Visual Communications and Image Processing<--High-definition video coding with super-macroblocks
+7FF29D73	International Conference on Acoustics, Speech, and Signal Processing<--Rate-distortion optimized bitstream extractor for motion scalability in scalable video coding
+811D8DB5	International Conference on Image Processing<--Robust Low-Delay Video Transmission using H.264/AVC Redundant Slices and Flexible Macroblock Ordering
+7A29564A	IEEE Transactions on Image Processing<--Bidirectional Scalable Motion for Scalable Video Coding

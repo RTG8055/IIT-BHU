@@ -1,0 +1,59 @@
+7FD617C5	Journal of The Australian Mathematical Society<--Multidimensional Hausdorff operators on the real Hardy space
+815A60F5	International Geoscience and Remote Sensing Symposium<--Fast robust perspective transform estimation for automatic image registration in disaster response applications
+756A1F27	Optics and Laser Technology<--A simple phase unwrapping approach based on filtering by windowed Fourier transform: A note on the threshold selection
+7B49C500	Optics and Lasers in Engineering<--Single fringe projection profilometry based on sinusoidal intensity normalization and subpixel fitting
+7B2C59D3	Water Resources Research<--Using the method of moments to analyze three‐dimensional diffusion‐limited solute transport from temporal and spatial perspectives
+76585B5F	Optics and Lasers in Engineering<--On window size selection in the windowed Fourier ridges algorithm: Addendum
+7B1590F9	Integral Transforms and Special Functions<--A new space for fourier transform
+7ABA40AB	Applied Optics<--Two-dimensional fringe-pattern analysis
+7ADFCAC0	Optics and Lasers in Engineering<--Accelerating fast Fourier transform and filtering operations in Fourier fringe analysis for accurate measurement of three-dimensional surfaces
+7A19C102	IEEE Signal Processing Magazine<--Linear and quadratic time-frequency signal representations
+7C104D8B	Applied Optics<--Spatial carrier-fringe pattern analysis by means of wavelet transform: wavelet transform profilometry
+5E61A48A	Three-Dimensional Image Processing (3DIP) and Applications<--View subspaces for indexing and retrieval of 3D models
+766273F7	Applied Optics<--Wavelet analysis of speckle patterns with a temporal carrier
+799AF997	IEEE Signal Processing Letters<--On the relationship between the Fourier and fractional Fourier transforms
+7A06C360	Optics and Lasers in Engineering<--Comparison of Fourier transform, windowed Fourier transform, and wavelet transform methods for phase calculation at discontinuities in fringe projection proﬁlometry
+8126D1C9	IEEE Transactions on Signal Processing<--Generalized Prolate Spheroidal Wave Functions Associated With Linear Canonical Transform
+78268DE2	Nuclear Instruments & Methods in Physics Research Section B-beam Interactions With Materials and Atoms<--Spectral analysis of the IntCal98 calibration curve: a Bayesian view
+7923F773	Scandinavian Journal of Statistics<--Logspline Deconvolution in Besov Space
+7C2E7FFD	Proceedings of the American Mathematical Society<--Fourier transform of anisotropic Hardy spaces
+79B907AC	Applied Optics<--Fringe-pattern analysis using a 2-D Fourier transform
+7BE1A8CD	Journal of Applied Physics<--Relationship between oxygen defects and the photoluminescence property of ZnO nanoparticles: A spectroscopic view
+7A7D4306	Applied Optics<--Windowed Fourier transform for fringe pattern analysis: theoretical analyses
+75B60CD2	Optics and Lasers in Engineering<--Window size selection in windowed Fourier transform for phase retrieval
+7C3CA7A1	Journal of the Optical Society of America<--Fourier-transform method of fringe-pattern analysis for computer-based topography and interferometry
+7812FC67	Applied Optics<--Interferogram analysis using Fourier transform techniques
+7CC2F05A	Optical Engineering<--Comparison of carrier removal methods in the analysis of TV holography fringes by the Fourier transform method
+7CECEF00	Optical Engineering<--Novel temporal Fourier transform speckle pattern shearing interferometer
+63A16A48	Clinical Orthopaedics and Related Research<--Super-wavelets versus poly-Bergman spaces
+767F8E44	Chemical Physics Letters<--Microwave spectrum of Ne:HBr: structural perspectives on Rg:HX, Rg=Ne, Ar, Kr; X=F, Cl, Br, I
+76304D99	Integral Transforms and Special Functions<--Convolution and Fourier transform over the spaces
+0BBECEFB	Geometriae Dedicata<--Fourier transforms on a semisimple symmetric space
+7856AE9C	Optics Communications<--Automatic window size selection in Windowed Fourier Transform for 3D reconstruction using adapted mother wavelets
+7525E64B	Optics Express<--3D numerical model for a focal plane view in case of mosaic grating compressor for high energy CPA chain
+7CB31B6E	Mathematische Nachrichten<--An Exotic Minimal Banach Space of Functions
+8145DF2D	IEEE Transactions on Signal Processing<--On Uncertainty Principle for the Linear Canonical Transform of Complex Signals
+7DC50563	IEEE Transactions on Signal Processing<--The fractional Fourier transform and time-frequency representations
+5E635609	Journal of Systems Engineering and Electronics<--View synthesis based on the serial images from camera lengthways motion
+7593BE46	Journal of Electron Spectroscopy and Related Phenomena<--Angle-resolved photoemission: From reciprocal space to real space
+76781512	Optics and Lasers in Engineering<--Comparison of Fourier transform, windowed Fourier transform, and wavelet transform methods for phase extraction from a single fringe pattern in fringe projection profilometry
+7DF2C44F	IEEE Transactions on Signal Processing<--Uncertainty Principles for Linear Canonical Transform
+79206ED2	Signal Processing<--New sampling formulae related to linear canonical transform
+7AF189EC	Transportation Research Part C-emerging Technologies<--Optimal subwork zone length and project start time for short-term daytime work zones from the contractor’s perspective
+776EE54F	Applied Mathematics-a Journal of Chinese Universities Series B<--A DISTRIBUTION SPACE FOR FOURIER TRANSFORM
+7B5CEA0A	Optics and Laser Technology<--A simple phase unwrapping approach based on filtering by windowed Fourier transform: The phase near edges
+75DD3DF9	Signal Processing<--Sampling of linear canonical transformed signals
+76A746CD	Applied Optics<--Fourier fringe analysis with improved spatial resolution
+7ADECF60	Optics and Lasers in Engineering<--Sensitivity analysis applied to an improved Fourier-transform profilometry
+7623715C	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Identification of Space Curves from Two-Dimensional Perspective Views
+7A91AA01	American Control Conference<--On closed-loop identification with a tailor-made parametrization
+79CF69D5	Integral Equations and Operator Theory<--Super-Wavelets Versus Poly-Bergman Spaces
+75DA2D38	Optik<--A novel color fringe projection based Fourier transform 3D shape measurement method
+759B6964	IEEE Transactions on Acoustics, Speech, and Signal Processing<--Time-frequency representation of digital signals and systems based on short-time Fourier analysis
+7D72E466	IEEE Transactions on Signal Processing<--Uncertainty Principle for Real Signals in the Linear Canonical Transform Domains
+7C82C962	Optics and Lasers in Engineering<--Two-dimensional windowed Fourier transform for fringe pattern analysis: Principles, applications and implementationsPHYSICAL INQUIRY
+7A71595A	Applied Optics<--Two-dimensional complex Fourier-transform via the radon-transform
+77D48DA0	Applied Optics<--Phase measurement in temporal speckle pattern interferometry: comparison between the phase-shifting and the Fourier transform methods
+79DD880A	Iet Signal Processing<--Ambiguity function based on the linear canonical transform
+8131FBD3	Applied Optics<--Fourier transform profilometry for the automatic measurement of 3-D object shapes
+75C6E3A5	Journal of The London Mathematical Society-second Series<--Fourier Transforms on Lipschitz Spaces and Littlewood-Paley Spaces

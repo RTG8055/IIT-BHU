@@ -1,0 +1,516 @@
+7538AFB4	A region-based subband coding scheme
+06F0B7DE	Spatio-temporal visual distortion and rate optimization for video coding
+80A34107	Correlation-Aware Packet Scheduling in Multi-Camera Networks
+5EE7F56F	Rate-distortion optimized interactive browsing of JPEG2000 images
+75CADB5A	Optimal resource allocation for Medium Grain Scalable video transmission over MIMO channels
+80D28E3A	SKIP Prediction for Fast Rate Distortion Optimization in H.264
+7ACCEBDC	Rate control algorithm based on quality factor optimization for Dirac video codec
+7FEDFE11	Rate Distortion Data Hiding of Motion Vector Competition Information in Chroma and Luma Samples for Video Compression
+763752CA	Scalable fast rate-distortion optimization for H.264/AVC
+790F38A0	Region-based fractal image compression
+7D2A4479	Model-Based Joint Bit Allocation Between Texture Videos and Depth Maps for 3-D Video Coding
+7F15CC5C	Rate-distortion analysis for H.264/AVC video coding and its application to rate control
+004D1BC7	RATE-DISTORTION OPTIMIZED VIDEO FRAME DROPPING ON ACTIVE NETWORK NODES
+807CDF54	Fast Decision of Block Size, Prediction Mode, and Intra Block for H.264 Intra Prediction
+7975585E	Optimal intra coding of blocks for robust video communication over the Internet
+7E3A3DB6	Multiple Distortion Measures for Packetized Scalable Media
+7E10CD53	Light field compression using disparity-compensated lifting and shape adaptation
+771410B3	Efficient Algorithm for H.264/AVC Intra Frame Video Coding
+7D687567	SSIM-Motivated Rate-Distortion Optimization for Video Coding
+7D67B757	Adaptive Redundant Picture for Error Resilient Video Coding
+7DDDDB0A	Adaptive Nonseparable Interpolation for Image Compression With Directional Wavelet Transform
+5FA8EA07	Scalable resource allocation for H.264 video encoder: Frame-level controller
+81754AFB	Rate-distortion optimal video summary generation
+7CEF2645	Iterative Rate-Distortion Optimization of H.264 With Constant Bit Rate Constraint
+7E6B729C	A new joint Rate-distortion Optimization model based on texture and mean-error factors
+7C5C6893	An improved intra-prediction algorithm for H.264
+7F71A568	RATE SHAPING FOR VIDEO WITH FRAME DEPENDENCY
+7CF6DA13	Rainbow Network Flow of Multiple Description Codes
+80AD8E7E	Joint rate-distortion optimization of transform coefficients for spatial Scalable Video Coding using SVC
+7FD95E53	Rate-Distortion Optimized Frame Dropping Based on Dynamic Frame Concealment
+7E53B329	A posteriori quantization of progressive matching pursuit streams
+7FA761EB	Optimum End-to-End Distortion Estimation for Error Resilient Video Coding
+7DE345C6	Frame skipping minimization in low bit-rate video coding
+5992357C	Hybrid Multiple Description Video Coding Using SD/MD Switching
+7F7AAFCE	Iterative R-D optimization of H.264
+815E1990	Intelligent Multimedia Delivery? It’s a question of semantics
+7EAE06B6	Rate-distortion optimized H.264/MVc video communications over QoS-enabled networks
+7BB882C9	Fast mode-decision for H.264/AVC based on inter-frame correlations
+7D06A3B3	Rate-Distortion Optimized Bitstream Extractor for Motion Scalability in Wavelet-Based Scalable Video Coding
+80F4D271	A rate-distortion optimal hybrid scalable/multiple-description video codec
+7AE5E68E	Adaptive rate control for H.264
+76168D1E	On performance gains in MPEG-2 video coding via a rate-distortion optimal route
+7FF8841C	Rate-distortion optimal motion estimation algorithm for video coding
+80DF8F19	Transform-Domain Fast Sum of the Squared Difference Computation for H.264/AVC Rate-Distortion Optimization
+7E6B6DF1	A joint source and channel coding algorithm for error-resilient SPIHT-coded video bitstreams
+7D56D770	Rate-distortion optimized motion compensation for video compression using fixed or variable size blocks
+7D3F56B3	Channel Aware Joint Optimization of Latency and Distortion for Image Communications
+807809AC	Optimum bit allocation and rate control for H.264/AVC
+7675D2AD	Depth and depth-color coding using shape-adaptive wavelets
+7EF88D59	FAST Rate Allocation Through Steepest Descent for JPEG2000 Video Transmission
+7E5FE29C	Complexity-Rate-Distortion Optimization for Real-Time H.264/AVC Encoding
+80967306	Rate-distortion optimized network coding for cooperative video stream repair in wireless peer-to-peer networks
+766A14C0	Fast sum of absolute transformed difference based 4×4 intra-mode decision of H.264/AVC video coding standard
+7CC3B2C0	Rate-distortion optimization for stereoscopic video streaming with unequal error protection
+812615CC	Fast Mode Decision Algorithm Using Efficient Block Skip Techniques for H.264 P Slices
+78CFB32A	Rate-distortion optimized frame dropping for multiuser streaming and conversational videos
+7E2203D9	Subjective Quality Optimized Intra Mode Selection for H.264 I Frame Coding Based on SSIM
+7D947B7C	A fast and efficient topological coding algorithm for compound images
+83F4C4B7	Low Complexity Encoder Optimization for HEVC
+781507C1	Perception-oriented video coding based on image analysis and completion: A review
+8077BECC	Efficient MPEG-2 to H.264/AVC intra transcoding in transform-domain
+7E91D802	MultiStage: A MINMAX Bit Allocation Algorithm for Video Coders
+7B3A9ED6	A fast intra optimization algorithm for HEVC
+7DF3844E	Multidimensional signal compression using multiscale recurrent patterns
+81245FCA	A model-based rate allocation mechanism for wavelet-based embedded image and video coding
+7D434E0D	Fast mode selection scheme for H.264/AVC inter prediction based on statistical learning method
+7E18156D	Complexity scalable rate-distortion optimization for H.264/AVC
+79B82F07	Complexity scalable control for H.264 motion estimation and mode decision under energy constraints
+79B0CC17	Rate-distortion optimization of scalable video codecs
+7D963663	Novel Fast Mode Decision Algorithm for P-Slices in H.264/AVC
+810612B3	In-Network Packet Scheduling and Rate Allocation: A Content Delivery Perspective
+7DA00395	Rate-distortion optimal high-resolution differential quantisation for sinusoidal coding of audio and speech
+7D14FB94	Constructing Dependency Trees for Rate-Distortion Optimized Media Streaming
+7DEDB5C8	Rate-Distortion Optimized Video Transmission Over DS-CDMA Channels with Auxiliary Vector Filter Single-User Multirate Detection
+7FC42BEF	Rate-distortion optimized slicing, packetization and coding for error resilient video transmission
+7C46C233	Low-complexity rate-distortion optimal transcoding of MPEG I-frames
+7FD67DB4	Lagrange multiplier selection for video coding with varying quantization
+7FEE8452	Interferential Multispectral Image Compression with Classified Weighted Rate-Distortion Optimization and Adaptive Coding Depth Control
+7DBFD023	Cross-Layer Optimization for Video Transmission Over Multirate GMC-CDMA Wireless Links
+80F6AB0D	Can Lower Resolution Be Better?
+7E100EC3	A bit-allocation model using on-line rate-distortion optimization in MPEG-4 rate control
+801A7486	End-to-end rate-distortion optimized MD mode selection for multiple description video coding
+7FCDE00C	Rate-distortion optimal bit allocation for object-based video coding
+7F7CB52C	Soft Decision Quantization for H.264 With Main Profile Compatibility
+803D357B	An Estimation-Theoretic Interpretation of Video Rate Distortion Optimization with Lagrangian Formulation
+597EB3E2	Real-Time Video over Programmable Networked Devices
+812FBA06	3-D wavelet compression and progressive inverse wavelet synthesis rendering of concentric mosaic
+7E1743DE	Dependent Packet Transmission Policies in Rate-Distortion Optimized Media Scheduling
+80FFFAF1	Perceptual Color Image Coding With JPEG2000
+77BB76F5	Rate-distortion optimal motion estimation algorithms for motion-compensated transform video coding
+7E770161	Rate-distortion optimal fast thresholding with complete JPEG/MPEG decoder compatibility
+7F706720	Loss-aware rate-distortion optimization for redundant picture allocation in H.264/AVC
+80BD8838	Reduced-complexity rate-distortion optimization of multiresolution motion field and prediction residual
+792CF47B	Encoding of multispectral and hyperspectral image data using wavelet transform and gain shape vector quantization
+7F4DF064	Mismatch Impact on Per-Pixel End-to-End Distortion Estimation and Coding Mode Selection
+7B098CC1	A rate-distortion analysis on motion prediction efficiency and mode decision for scalable wavelet video coding
+7FA0EC05	Fast Inter Mode Decision Using Spatial Property of Motion Field
+799A038F	Adaptive P2P video streaming via packet labeling
+7EDEC2C2	Energy Minimization of Portable Video Communication Devices Based on Power-Rate-Distortion Optimization
+7E85EC0E	Novel Inter-Mode Decision Algorithm Based on Macroblock (MB) Tracking for the P-Slice in H.264/AVC Video Coding
+8053E486	A region and data hiding based error concealment scheme for images
+75E76D2B	Energy-efficient video streaming from high-speed trains
+8094E8BB	Efficient rate-distortion estimation for H.264/AVC coders
+7E1C4966	Geometric-structure-based error concealment with novel applications in block-based low-bit-rate coding
+7E0721E4	Video Coding With Rate-Distortion Optimized Transform
+810CC7B4	Fast mode decision for H.264
+81144284	Rate distortion optimized joint ARQ-FEC scheme for real-time wireless multimedia
+7F35BBF6	Perceptual Rate-Distortion Optimization Using Structural Similarity Index as Quality Metric
+79876BB9	Encoding DCT Coefficients Based on Rate–Distortion Measurement
+80DCC7BB	An application specific architecture for rate-distortion optimized motion compensation
+5E444A27	Calculation of Speech Quality by Aggregating the Impacts of Individual Frame Losses
+7D2DB78D	Rate-distortion optimal motion estimation algorithms for motion-compensated transform video coding
+8094E74B	Low-complexity rate-distortion optimal macroblock mode selection and motion estimation for MPEG-like video coders
+7D653137	Low complexity rate-distortion optimized time-segmentation for audio coding
+7F721715	SATD-based intramode decision for H.264/AVC video coding
+8048C190	Frame level rate control for H.264/AVC with novel Rate-Quantization model
+7D5349FB	Fast spatial Direct mode decision for B slice based on temporal information in H.264 standard
+7D21550F	Rate-distortion-complexity modeling for network and receiver aware adaptation
+7F1DDE61	A New Partial Codeword Updating Scheme Based on Rate-Distortion Optimization for Adaptive Vector Quantization
+5E45DF8F	Efficient intra prediction mode decision for h.264 video
+80F8FCEE	Adaptive Lagrange Multiplier Selection for Intra-Frame Video Coding
+0939432C	Receiver- and Channel-adaptive Compression for Remote Browsing of Image- Based Scene Representations
+7EA830B7	Adaptive fast DIRECT mode decision algorithm using mode and Lagrangian cost prediction for B frame in H.264/AVC
+7FE46870	Network-adaptive low-latency video communication over best-effort networks
+81563CB9	Optimized transmission of H.26L/JVT coded video over packet-lossy networks
+7E781190	Coding structure optimization for interactive multiview streaming in virtual world observation
+7A7626A9	Fine-grained rate shaping for video streaming over wireless networks
+76356359	Fast H.264/AVC FRExt Intra Coding Using Belief Propagation
+7D4D6C64	Perceptual image compression via adaptive block- based super-resolution directed down-sampling
+6D9430DC	A New Error Resilient Coding Scheme for H.263 Video Transmission
+7D160287	Rate-distortion optimized unequal loss protection for FGS compressed video
+7FDC719D	Complexity-constrained rate-distortion optimization for h.264/avc video coding
+7E85DE5B	Improved H.264/AVC Requantization Transcoding using Low-Complexity Interpolation Filters for 1/4-Pixel Motion Compensation
+7DF60B1C	An Improved ROI-Based Rate Control Algorithm for H.264/AVC
+7F13641D	Efficient Block Size Decision Algorithm for Intra Mode Decision in H.264/AVC Encoder
+8013EBB4	A two-layered trellis approach to audio encoding
+7A7264D5	Rate-Distortion Optimal Video Transport Over IP Allowing Packets With Bit Errors
+7DE54C8A	Rate-distortion optimized hybrid sound coding
+80889469	MINMAX Optimal Video Summarization and Coding with Frame Skip Constraint
+810A7876	Rate-Distortion Optimized I-Slice Selection for Low Delay Video Transmission
+812C235F	VSHAPER: an efficient method of serving video streams shaped for diverse wireless communication conditions
+804F0436	Direct mode coding for bipredictive slices in the H.264 standard
+7D0CCA34	Balanced multiple description video coding using optimal partitioning of the DCT coefficients
+797EB81E	Dependent Quantization for Scalable Video Coding
+80B14D5D	Rate-distortion optimized JPEG2000-based scalable interactive video (JSIV) with motion and quantization bin side-information
+7FBEDB6E	Rate-SSIM optimization for video coding
+7E01F070	A New Gradient-Based Mode Selection of Intra Prediction for 4×4 block in H.264/AVC
+7999991B	Inpainting with image patches for compression
+802B9970	RDO Transform Selection for a Multi-Transform Video Encoder
+7DD768C8	Simultaneous RD-optimized rate control and video de-noising
+773F1213	Rate-distortion optimized video streaming with rich acknowledgments
+8111CE92	Error Resilient Video Coding using Redundant Pictures
+7C522CCC	Fast Inter-Mode Selection in the H.264/AVC Standard Using a Hierarchical Decision Process
+7F1ACE61	Document compression using rate-distortion optimized segmentation
+80AE5D6B	On bit allocation and Lagrange Multiplier adjustment for rate-distortion optimized H.264 rate control
+787A4A9E	Robust digital video watermarking scheme for H.264 advanced video coding standard
+7D655378	Drift Characterization of Intra Prediction and Quantization in H.264
+7DCC2CA9	Complexity reduction for SOPC-based H.264/AVC coder via sum of absolute difference
+80F04A48	Low-latency video transmission over lossy packet networks using rate-distortion optimized reference picture selection
+7FF6452B	Embedded image compression using a classified multistage VQ in wavelet domain
+7ADB00FE	MINMAX rate control with a perceived distortion metric
+7E2EC742	Highly Accurate Distortion Estimation for JPEG2000 through PDF-Based Estimators
+7FD0D470	Edge-adaptive transforms for efficient depth map coding
+7F0D7CEA	A directional field based fast intra mode decision algorithm for H.264 video coding
+7FAE3722	Optimum Rate-Distortion Dictionary Selection for Compression of Atomic Decompositions of Electric Disturbance Signals
+81375AAA	A New Low-Complexity Integer Distortion Estimation Method for H.264/AVC Encoder
+811298B5	Comparing the streaming of FGS encoded video at different aggregation levels: frame, GoP, and scene
+806C173D	SHBS: A heuristic for fast inter mode decision of H.264/AVC standard targeting VLSI design
+7E109276	Adaptive multiple description video streaming over multiple channels with active probing
+58A06EC7	On Parallelizing H.264/AVC Rate-Distortion Optimization Baseline Profile Encoder *
+77DB2C63	Fast Mode Decision for H.264/AVC P Slices Using Classification of SKIP Mode Distortion
+7E41E511	Modified Steepest-Descent for Bit Allocation in Strongly Dependent Video Coding
+7939E575	Network-Adaptive Video Communication Using Packet Path Diversity and Rate-Distortion Optimized Reference Picture Selection
+7E46C994	Semantic-aware delivery of multimedia
+805335D7	Fast Selective Intra-Mode Search Algorithm Based on Adaptive Thresholding Scheme for H.264/AVC Encoding
+7E7294BC	Optimized Atom Position and Coefficient Coding for Matching Pursuit-Based Image Compression
+816F9F13	Fast inter-mode decision and selective quarter-pel refinement in H.264 video coding
+7E962A77	Generalized rate-distortion optimization for motion-compensated video coders
+5F90D98A	Rate-Distortion Optimal Time-Frequency Decompositions for MDCT-based Audio Coding
+7E205819	Cascaded mode decision for MPEG-2 to H.264/AVC intra frame transcoding
+7D342A27	Efficient MB and prediction mode decisions for intra prediction of H.264 High Profile
+7F65BBA0	Rate-distortion optimized video peer-to-peer multicast streaming
+7F4C51BD	Rate-Distortion Optimized Video Coding Using Automatic Sprites
+7F44842C	On the Performance Improvement of H. 264 Through Foreground and Background Analyses
+8112EA9D	A rate distortion optimal ECG coding algorithm
+591EDB47	Compression of point-based 3D models by shape-adaptive wavelet coding of multi-height fields
+7D8084CF	Rate-distortion optimized mode selection for very low bit rate video coding and the emerging H.263 standard
+7D3D1B32	Dynamic programming algorithm for rate-distortion optimized media streaming
+7787FED5	New rate-distortion modeling and efficient rate control for H.264/AVC video coding
+80E083DA	Motion-vector optimization of control grid interpolation and overlapped block motion compensation using iterated dynamic programming
+8002A927	Harwdware assisted rate distortion optimization with embedded CABAC accelerator for the H.264 advanced video codec
+7859BE15	Application layer error correction coding for rate-distortion optimized streaming to wireless clients
+78CC1755	An efficient intra-mode selection algorithm for H.264 based on edge classification and rate-distortion estimation
+7DE02EE8	Image compression using an edge adapted redundant dictionary and wavelets
+801106E7	JBEAM: multiscale curve coding via beamlets
+808AD5F4	Error Resilient Coding and Error Concealment in Scalable Video Coding
+75F0BBE4	Rate-Distortion Optimized Scheduling for Redundant Video Representations
+807F24F9	Error Resilient Motion Estimation and Mode Decision for Robust H.264/AVC Video Transmission
+7E5F9449	A CABAC Encoder Design of H.264/AVC with RDO Support
+7543C6FA	Integer-based, post-compression rate-distortion optimization computation in JPEG2000 compression
+80EF36FE	A scalable wavelet-based video distortion metric and applications
+59C66E25	Reduction of Mode Decision Complexity in H.264/AVC Using Adaptive Selection of Reference Frame and Intra Prediction Mode
+5DDF8728	Fast Intra Mode Decision for H.264/AVC Based on Directional Information of I4MB
+7704C6FF	Rate-distortion based real-time wireless video streaming
+7F627677	An Efficient Intermode Decision Algorithm Based on Motion Homogeneity for H.264/AVC
+7F11ADF3	Fast adaptive inter mode decision method for P slices in H.264
+7E12D07F	RaDiO edge: rate-distortion optimized proxy-driven streaming from the network edge
+7D518E0F	A fast intra mode skip decision algorithm based on adaptive motion vector map
+75BBD88E	Rate-distortion optimized layered coding of high dynamic range videos
+7F45E9EA	Fast Intra Mode Decision Algorithm Using Directional Gradients for H.264
+800E6FE1	Algorithm analysis and architecture design for rate distortion optimized mode decision in high definition AVS video encoder
+76F83BC3	Rate-distortion optimized frame dropping and scheduling for multi-user conversational and streaming video
+80E11B11	A rate-distortion optimal alternative to matching pursuit
+76FA6E0B	A fuzzy logic based fast inter mode selection algorithm in H.264/AVC
+768ADD52	Compress Compound Images in H.264/MPGE-4 AVC by Exploiting Spatial Correlation
+7E67E024	A frequency-domain video transcoder for dynamic bit-rate reduction of MPEG-2 bit streams
+7D9C22BB	Fast mode decision for H.264 based on correlation between macroblocks
+7DC9F8F0	A Novel Fast Inter-mode Decision Algorithm for H.264/AVC Based on Motion Estimation Residual
+7CFF48E1	Computing rate-distortion optimized policies for streaming media with rich acknowledgments
+814AC5B0	Rate-distortion optimization for video compression
+7E9DD29A	Proxy-based transmission strategies for wireless video streaming
+7C5466B1	Joint optimization coding for level and map information in H.264/AVC
+80582868	Structured network coding and cooperative local peer-to-peer repair for MBMS video streaming
+803C950B	Efficient Fast Intra Mode Decision and Classified Block Type Algorithms for H.264/AVC Encoder
+7F6330A0	An Efficient Fast Mode Decision Algorithm Based on Motion Cost for H.264 Inter Prediction
+7D112DEF	Rate control for scalable video model
+031B95EE	A rate control scheme for H.264/AVC CBR transmission
+76EC9F91	Compression of concentric mosaic scenery with alignment and 3D wavelet transform
+7DD9CD06	Fast inter-frame coding with intra skip strategy in H.264 video coding
+79387A35	Enabling adaptive live streaming in P2P multipath networks
+7AF5019E	Rate-distortion estimation for fast JPEG2000 compression at low bit-rates
+7E79B787	Adaptive frame layer rate control for H.264
+7F1B0372	A spatio-temporal competing scheme for the rate-distortion optimized selection and coding of motion vectors
+7EC2A91B	Application layer error-correction coding for rate-distortion optimized streaming to wireless clients
+7F2D3CDE	A Macroblock-Level Rate Control Algorithm for H.264/AVC Video Coding with Context-Adaptive MAD Prediction Model
+7B87A7EE	Server-Aided Adaptive Live Video Streaming Over P2P Networks
+7E8F06C1	Rate-Distortion Optimized Joint Source/Channel Coding of WWAN Multicast Video for a Cooperative Peer-to-Peer Collective
+7E1652DD	A NMR Optimized Bitrate Transcoder for MPEG-2/4 LC-AAC
+804CCC86	Low-complexity rate-distortion optimization for robust H.264 video coding
+7D19A94C	Rate-distortion-optimal subband coding without perfect-reconstruction constraints
+7E5AD5E3	Coding Order Decision of B Frames for Rate-Distortion Performance Improvement in Single-View Video and Multiview Video Coding
+79FBD40A	Constant Bit-Rate Multi-Stage Rate Control for Rate-Distortion Optimized H.264/AVC Encoders
+7EBD8A84	Rate-distortion optimized delivery of JPEG2000 compressed video with hierarchical motion side information
+7E096B7B	Fine-Granular Motion Matching for Inter-View Motion Skip Mode in Multiview Video Coding
+7ECD3091	Open loop rate-distortion optimized audio coding
+7D1A6688	Rate-Distortion Optimized Packet Scheduling Over Bottleneck Links
+7DFAB2D6	Fast mode decision algorithm for intraprediction in H.264/AVC video coding
+80D21304	Efficient parametric coding of transients
+7FDADB2D	Rate control in DCT video coding for low-delay communications
+80AAC7BE	An efficient bit allocation for compressing normal meshes with an error-driven quantization
+7FD91636	Channel-adaptive video streaming using packet path diversity and rate-distortion optimized reference picture selection
+7E5D5C0B	Rate-distortion optimal time-segmentation and redundancy selection for VoIP
+802E600E	Efficient Selection of Candidates for Fast Inter Mode Decision in H.264
+719924D1	Rate-distortion optimization in a robust video transmission based on unbalanced multiple description coding
+7E5C1640	Adaptive Mode- and Diversity-Control for Video Transmission on MIMO Wireless Channels
+814A0B75	Rate-Distortion Optimization of Rate Control for H.264 With Adaptive Initial Quantization Parameter Determination
+7ED577BB	A block type decision algorithm for H.264/AVC intra prediction based on entropy feature
+7DB53C71	End-to-end rate distortion optimization for H.264/AVC in error prone environment
+80D27A79	Rate-distortion optimized hybrid error control for real-time packetized video transmission
+7F8DB94E	Error resilient transcoding of Scalable Video bitstreams
+812CDD80	Rate control for VBR video over ATM: simplification and implementation
+7D7D5BA3	Analysis of Packet Loss for Compressed Video: Effect of Burst Losses and Correlation Between Error Frames
+7FA170FD	Error control for receiver-driven layered multicast of audio and video
+7F212083	Quad-Tree Motion Modeling With Leaf Merging
+81691345	Sinusoidal modeling using psychoacoustic-adaptive matching pursuits
+7A489006	Joint QoS control for video streaming over wireless multihop networks: A cross-layer approach
+7F9DCE9D	A fast direction predictor of inter frame prediction for multi-view video coding
+71523A69	SSIM-Based error resilient video coding over packet-switched networks
+7E8BF143	Multidimensional SVC bitstream adaptation and extraction for rate-distortion optimized heterogeneous multicasting and playback
+795B5E1C	Rate-distortion-optimized content-adaptive coding for immersive networked experience of sports events
+7F6DA497	Adaptive Rate-Distortion Optimal In-Loop Quantization for Matching Pursuit
+7E2DE418	A Fast Inter Frame Prediction Algorithm for Multi-View Video Coding
+7D10567B	A trellis-based optimal parameter value selection for audio coding
+815191CF	Fast Coding Mode Selection With Rate-Distortion Optimization for MPEG-4 Part-10 AVC/H.264
+78CD2B25	Key-frame reference selection for non-feedback video communication
+7BE6FC3E	A fast and low complexity approach for H.264/AVC intra mode decision
+7FA576F8	Dynamic FEC Algorithms for TFRC Flows
+7EE8D83C	An embedded still image coder with rate-distortion optimization
+7E05C71A	Fast H.264/MPEG-4 AVC Transcoding Using Power-Spectrum Based Rate-Distortion Optimization
+810716BF	Bandwidth-constrained motion estimation for real-time mobile video application
+7F01106D	Performance Analysis of SVC
+780E9EBB	SNR and temporal scalable coding of 3-D mesh sequences using singular value decomposition
+80B73289	A Stochastic Framework for Rate-Distortion Optimized Video Coding Over Error-Prone Networks
+81538A7C	Scalable rate control for MPEG-4 video
+7E134998	A Low Complexity Fast Intra Mode Decision Algorithm for H.264/AVC
+7E2BBDC5	SATD-Based Intra Mode Decision for H.264/AVC Video Coding
+812ECEC9	A Hardware-Efficient Multi-Resolution Block Matching Algorithm and its VLSI Architecture for High Definition MPEG-Like Video Encoders
+7D6F3FED	Low complexity RDO mode decision based on a fast coding-bits estimation model for H.264/AVC
+790520FE	Advanced Lagrange Multiplier Selection for Hybrid Video Coding
+8123EE44	Rate-distortion optimized streaming of packetized media
+77E25A18	H.264/AVC standard: A proposal for selective intra- and optimized inter-prediction
+5EACA831	Rate-distortion optimized on-demand media streaming with server diversity
+7CB94763	Rate-distortion optimized mode selection method for multiple description video coding
+778DEACE	Motion and texture rate-allocation for prediction-based scalable motion-vector coding
+7CF7F3E7	A single-pass based adaptive interpolation filtering algorithm for video coding
+79145BA4	Efficient one-pass frame level rate control for H.264/AVC
+7F672C92	A highly efficient pipeline architecture of RDO-based mode decision design for AVS HD video encoder
+7ED1C332	A New Coding Mode for Hybrid Video Coders Based on Quantized Motion Vectors
+7E831947	JPEG2000 ROI Coding With Fine-Grain Accuracy Through Rate-Distortion Optimization Techniques
+80F7820D	Fast and efficient intraprediction method for H.264/AVC
+7FD3BF6B	Low complexity algorithm for inter-layer residual prediction of H.264/SVC
+7EDCB5DA	A Novel Partial Prediction Algorithm for Fast 4x4 Intra Prediction Mode Decision in H.264/AVC
+780B05F1	Dominant edge direction based fast intra mode decision in the H.264/AVC encoder
+7FB3E652	A fast Intra prediction mode decision algorithm for H.264/AVC
+7BD9CC25	Rate-distortion optimized streaming of fine-grained scalable video sequences
+24B10BCC	Simplified algorithms for rate-distortion optimization in high efficiency video coding
+7C1C47BC	An improved R-D optimized motion estimation method for video coding
+8086102D	Enhanced Quality Scalability for JPEG2000 Code-Streams by the Characterization of the Rate-Distortion Slope
+8105FBD2	LOW-COMPLEXITY MODE SELECTION FOR RATE-DISTORTION OPTIMAL VIDEO CODING
+75AA0065	Block-based graph-cut rate allocation for subband image compression and transmission over wireless networks
+7D42FF9D	Full RDO-Support Power-Aware CABAC Encoder With Efficient Context Access
+7FD545C4	Receiver-driven rate-distortion optimized streaming of light fields
+79D296E2	PRE-Processing for Video Coduing with Rate-Distortion Optimization Decision
+7EA31C0A	R-D optimized media streaming enhanced with adaptive media playout
+7D93C532	An inter mode decision method with motion correlation adaptation for H.264/AVC
+811736F4	Adaptive Single-Multiple Prediction for H.264/AVC Intra Coding
+7C12EA1E	Rate Control for H.264 Video With Enhanced Rate and Distortion Models
+7CE0F083	H.264/AVC entropy decoder complexity analysis and its applications
+781F4AA7	Multi-path content delivery: Efficiency analysis and optimization algorithms
+7E4FD715	Compression of atomic decompositions using R-D optimum dictionary selection
+7D7D047E	A perceptually enhanced Scalable-to-Lossless audio coding scheme and a trellis-based approach for its optimization
+767D8853	A fast intra prediction mode decision using DCT and quantization for H.264/AVC
+5DA8A8CA	Predicting the Perceptual Service Quality Using a Trace of VoIP Packets
+7D137B40	Distortion Estimators for Bitplane Image Coding
+5B04B18A	An Efficient Mode Decision Algorithm for Combined Scalable Video Coding
+7F780B3E	Cliff effect suppression through multiple-descriptions with split personality
+7F1E487C	Fast Coding Mode Selection for Rate-Distortion Optimization in H.264/AVC
+7D62FA82	Rate-distortion model for motion prediction efficiency in scalable wavelet video coding
+7FDED804	Error resilient video coding via weighted distortion
+812FF6A7	Fast rate-distortion optimized transform for Intra coding
+71975229	RD-optimization of hierarchical structured adaptive vector quantization for video coding
+80A9D744	Region-of-interest based H.264 encoder for videophone with a hardware macroblock level face detector
+64D9B537	Rate-distortion optimized sender-driven streaming over best-effort networks
+8015072B	Rate distortion optimized curve determination for curved wavelet image coding
+7D067465	Sorting Rates in Video Encoding Process for Complexity Reduction
+7DD67434	Adaptive rate estimation for H.264/AVC intra mode decision
+7E8CCD14	Generating H.264/AVC Compliant Bitstreams for Lightweight Decoding Operation Suitable for Mobile Multimedia Systems
+7DEF3D73	A novel FPGA-based H.264/AVC intra prediction
+7D8472F3	Buffer-constrained R-D model-based rate control for H.264/AVC
+7EA7B8DA	Low Complexity JPEG2000 Rate Control Through Reverse Subband Scanning Order and Coding Passes Concatenation
+7ED38307	A rate-distortion optimal coding alternative to matching pursuit
+7D4F5479	A Unitary-Optimized Operation for Wireless Live Streaming
+80415620	A belief-propagation based fast Intra coding algorithm for the H.264/AVC FRExt coder
+7CFC6F77	Distributed video coding with adaptive selection of hash functions
+7F794B37	Rate-distortion optimized packet scheduling and routing for media streaming with path diversity
+7DCEA472	An adaptive algorithm for fast inter mode decision in the H.264/AVC video coding standard
+80389417	Dynamic rate control in multipoint video transcoding
+80FCF668	Efficient CABAC Rate Estimation for H.264/AVC Mode Decision
+80D8FBD0	Rate-distortion optimal joint source/channel coding for robust and efficient low bit rate packet video communications
+80EDC73B	An optimized Multiple Description video codec for lossy packet networks
+75B99CD0	Rate control using linear rate-rho model for H.264
+80E1E9F5	Rate-distortion optimization for automatic sprite video coding using H.264/AVC
+7D745193	Jointly optimal time segmentation, component selection and quantization for sinusoidal coding of audio and speech
+7EA6573E	Bidirectional scalable motion for scalable video coding
+7F8D7C59	Rate-Distortion Optimized Pixel-Based Motion Vector Concatenation for Reference Picture Selection
+7F8858C6	Fast intra skip method in H.264/AVC by using fuzzy logic
+7FCB5132	A New Rotation Search for Dependent Rate-Distortion Optimization in Video Coding
+756EE248	Hash-Based Block Matching for Screen Content Coding
+7869A387	An evaluation of TCP-based rate-control algorithms for adaptive internet streaming of H.264/SVC
+7EAD214E	One-pass multi-layer rate-distortion optimization for quality scalable video coding
+7DFA2B1E	Perceptual Video Coding with H.264
+80A23350	Fast intermode decision in H.264/AVC video coding
+779C3AFF	Adaptive Lagrange multiplier selection model in rate distortion optimization for 3D wavelet-based scalable video coding
+7DD75C7D	An Efficient Fast Inter Mode Decision Algorithm for H.264/AVC
+8104C12F	Mode Selection and Optimal Rate Control for Video Coding using an and-or Tree Representation
+80202B55	Bit-rate control using piecewise approximated rate-distortion characteristics
+807D9234	Temporal scalable video transmission using multi-reference prediction chain coding
+7F43747E	Frame Complexity Guided Lagrange Multiplier Selection for H.264 Intra-Frame Coding
+7F8E3000	An efficient rate-distortion optimal shape coding approach utilizing a skeleton-based decomposition
+80DEF79C	Laplace Distribution Based Lagrangian Rate Distortion Optimization for Hybrid Video Coding
+78F70218	A joint encoder–decoder error control framework for stereoscopic video coding
+75114DD2	SSIM-based error-resilient rate-distortion optimization of H.264/AVC video coding for wireless streaming
+81289126	Joint Source-Channel Rate-Distortion Optimization for H.264 Video Coding Over Error-Prone Networks
+7D5A3CAD	Rate-Distortion Optimized Video Streaming for Scalable H.264
+0388AFB0	Rate-distortion optimized receiver-driven streaming over best-effort networks
+7EC72215	New Coding Schemes for the Symmetric $K$ -Description Problem
+58A5C43C	The Coefficient Based Rate Distortion Model for the Low Bit Rate Video Coding
+7E3E8340	SSIM-Based Perceptual Rate Control for Video Coding
+7606D085	Transactions letters. A rate-distortion optimal hybrid scalable/multipledescription video codec
+80B10C2D	Error resilience video coding in H.264 encoder with potential distortion tracking
+7F880F93	Fast mode decision based on RDO for AVS high definition video encoder
+80EE9E53	Effective Subblock-Based and Pixel-Based Fast Direction Detections for H.264 Intra Prediction
+7D9E3551	Improved Resilience for Video Over Packet Loss Networks With MDC and Optimized Packetization
+5F7ADA9C	A New Rate-Distortion Optimization Using Structural Information in H.264 I-Frame Encoder
+7DD67C1E	JPEG2000 Quality Scalability Without Quality Layers
+7B0F8F9C	Multiple Description Image Coding Based on Lagrangian Rate Allocation
+7EB102DD	Fast Intra Mode Decision Using DCT Coefficient Distribution in H.264/AVC
+81235551	Backward Drift Estimation with Application to Quality Layer Assignment in H.264/AVC Based Scalable Video Coding
+80CE8D38	An efficient fast mode decision algorithm for H.264/AVC intra/inter predictions
+7FB93FC8	Rate-distortion optimized streaming from the edge of the network
+7912A5E3	Probable mode prediction for H.264 advanced video coding P slices using removable SKIP mode distortion estimation
+7CE8F7CA	JPEG2000 Arbitrary ROI Coding through Rate-Distortion Optimization Techniques
+7F4829BD	On multirate optimality of JPEG2000 code stream
+7E5C026B	Real-time smoothing for network adaptive video streaming
+7CAC30FA	Adaptive Directional Lifting-Based Wavelet Transform for Image Coding
+7E0F280A	A fast mode decision method for intra prediction in AVS-M video coding
+7E4C4D07	Adaptive Fast Inter Mode Decision Algorithm Using Dynamic Threshold Technique for H.264/AVC P Slices
+77494C9D	Adaptive measurement rate allocation for block-based compressed sensing of depth maps
+816FF201	On the complexity of rate-distortion optimal streaming of packetized media
+7A98F071	Unconstrained motion compensated temporal filtering (UMCTF) for efficient and flexible interframe wavelet video coding.
+7DB2A0F4	Rate-distortion optimization of H.264/AVC rate control with novel distortion prediction equation
+781198F6	FGS enhancement layer truncation with reduced intra-frame quality variation
+764AED62	A novel distortion model for depth coding in 3D-HEVC
+5EE398B7	A Novel Macroblock-Level Rate-Distortion Optimization Scheme for H.264/AVC
+75E87259	A New Just-Noticeable-Distortion Model Combined with the Depth Information and its Application in Multi-view Video Coding
+382293F6	Rate/distortion optimization in multiple description video coding
+7ACDD5E1	Adaptive receiver-driven approach in P2P live streaming networks
+8024E18E	Rate-distortion optimized distributed packet scheduling of multiple video streams over shared communication resources
+7D0DD43C	Bit-Rate Allocation for Multiple Video Streams Using a Pricing-Based Mechanism
+7D9C596A	Rate-distortion optimized video streaming with smooth quality constraint
+71A7E0E9	Computing rate-distortion optimized policies for streaming media to wireless clients
+5AD940B6	A Fast Hybrid Decision Algorithm for H.264/AVC Intra Prediction Based on Entropy Theory
+5C1532E6	Optimal priority packetization with multi-layer UEP for video streaming over wireless network
+7D0F00F6	A Fully Scalable Motion Model for Scalable Video Coding
+79AB634B	Rate Distortion Optimization for H.264 Interframe Coding: A General Framework and Algorithms
+81156A8B	Complexity reduced mode selection of H.264/AVC intra coding
+7D465823	Temporal and inter-view skip modes for multi-view video coding
+7F71FB18	Rate-distortion optimized multi-stage rate control algorithm for H.264/AVC video coding
+7F71E437	A new unequal error protection scheme based on FMO
+8020E1E9	Edge-Oriented Uniform Intra Prediction
+7F9FDE26	Adaptive Lagrange Multiplier Selection Using Classification-Maximization and Its Application to Chroma QP Offset Decision
+7767CA43	Level Lines Selection with Variational Models for Segmentation and Encoding
+77F34C6C	MPEG-2 stereoscopic video coding technique using adaptive bandwidth control
+7FAFF65F	Advances in channel-adaptive video streaming
+7FF05A76	Efficient mode selection with BMA based pre-processing algorithms for H.264/AVC fast intra mode decision
+782302EA	Improved H.264 rate control by enhanced MAD-based frame complexity prediction
+80952260	Modified rate distortion optimization using inter-block dependence for H.264/AVC intra coding
+80F70DE6	Intra prediction mode selection for flicker reduction in H.264/AVC
+77022F3D	Error concealment aware rate shaping for wireless video transport
+7FF524DF	An efficient VLSI architecture for rate disdortion optimization in AVS video encoder
+809A1CA3	A frame-layer bit allocation for H.263+
+7E688CC1	A Two-Stage Rate Control Mechanism for RDO-Based H.264/AVC Encoders
+7E7903AA	Rate-distortion optimized bitstream switching for peer-to-peer live streaming
+8027C4E4	Low Complexity Rate Distortion Optimization for HEVC
+80280910	Rate-Distortion Optimized Interactive Light Field Streaming
+7F684A1E	Rate control using enhanced frame complexity measure for H.264 video
+814DB031	Rate-distortion optimized network communication using general MDC
+7CF3D159	Precompression Quality-Control Algorithm for JPEG 2000
+7D6008B2	Compression of 3-D Point Visual Data Using Vector Quantization and Rate-Distortion Optimization
+7B28FB41	RDTC Optimized Streaming for Remote Browsing in Image-Based Scene Representations
+7E4A5F1C	Complexity Modeling of Spatial and Temporal Compensations in H.264/AVC Decoding
+7EA5080C	Wavelet-Based Joint Estimation and Encoding of Depth-Image-Based Representations for Free-Viewpoint Rendering
+7F421F6E	Two-Stage Mode Selection of H.264/AVC Video Encoding with Rate Distortion Optimization
+806055A3	Predictive RD optimized motion estimation for very low bit-rate video coding
+7FC7311B	Fast Bit Rate Estimation for Mode Decision of H.264/AVC
+7A76E578	Full rate distortion optimizaton of MPEG-2 video coding
+7E02D333	Unbalanced Multiple-Description Video Coding with Rate-Distortion Optimization
+7FC98AB9	A Flexible Multiple Description Coding Framework for Adaptive Peer-to-Peer Video Streaming
+81155B40	A New Rate Control Algorithm for H.264
+7CFB1CBA	Optimal multidimensional bit-rate control for video communication
+7FEB2EE0	Distributed Collaboration for Enhanced Sender-Driven Video Streaming
+7DD4A386	Rate-Distortion Optimized Motion-Compensated Prediction for Packet Loss Resilient Video Coding
+7587EA31	Motion estimation for depth maps coding based on rendered view distortion
+77DC56B0	A Direct Inter-Mode Selection Algorithm for P-Frames in Fast H.264/AVC Transcoding
+808A4297	Optimal mode selection and synchronization for robust video communications over error-prone networks
+7DFD90A3	Rate control for robust video transmission over burst-error wireless channels
+7D8C9B4A	Video streaming with diversity
+752C5C44	Intra/Inter Macroblock Mode Decision for Error-Resilient Transcoding
+5E0500F9	Feature-based intra-prediction mode decision for H.264
+593CF03E	Fast H.264 mode selection using depth information for distributed game viewing
+80A44F9B	Rate-distortion optimized layered coding with unequal error protection for robust Internet video
+7E8CDDE5	Efficient Inter Mode Prediction Based on Model Selection and Rate Feedback for H.264/AVC
+7EB01D91	Inter-View Direct Mode for Multiview Video Coding
+7E27F6E5	Low cost architecture for JPEG2000 encoder without code-block memory
+7DEE704C	Proactive optimization of real-time video
+815FDFC1	An efficient inter-frame coding with intra skip decision in H.264/AVC
+7870A32E	Compression of 3-D triangle mesh sequences based on vertex-wise motion vector prediction
+7D8F9EBF	Fast Inter Mode Decision Algorithm Based on Macroblock Tracking in H.264/AVC Video
+58FAA979	Rate distortion optimal signal compression using second order polynomial approximation
+003BB491	Depth Map Compression for Depth-Image-Based Rendering
+7D4A0994	Rate-distortion optimized motion estimation for error resilient video coding
+7DDF5EAE	On Lagrange multiplier and quantizer adjustment for H.264 frame-layer video rate control
+7DD6A5FF	Rate-distortion optimized video summary generation and transmission over packet lossy networks
+70F095F2	A fast rate-distortion optimization algorithm for motion-compensated video coding
+75C153E9	Layered coding vs. multiple descriptions for video streaming over multiple paths
+7DAEF3C8	A Novel Inter-frame Mode Decision Prediction Algorithm for H.264/AVC
+8177236F	High-Throughput Architecture for H.264/AVC CABAC Compression System
+7F29B18B	Rate-distortion optimized quantization in multistage audio coding
+7745BAD6	Fast rate-distortion optimization in the H.264/AVC standard
+5DBAE95F	A Study on Motion Prediction and Coding for In-Band Motion Compensated Temporal Filtering
+7E580C55	Applications of Video Distortion Estimation Algorithms for Efficient Video Streaming
+80CF73C3	Adaptive Rate-Distortion Optimization for H.264
+7FF29D73	Rate-distortion optimized bitstream extractor for motion scalability in scalable video coding
+81290EA3	Context Adaptive Lagrange Multiplier (CALM) for Rate-Distortion Optimal Motion Estimation in Video Coding
+811D8DB5	Robust Low-Delay Video Transmission using H.264/AVC Redundant Slices and Flexible Macroblock Ordering
+754171E4	A Scalable Information Security Technique: Joint Authentication-Coding Mechanism for Multimedia over Heterogeneous Wireless Networks
+7D82B7D9	A model for entropy coding in matching pursuit
+7E7DA49A	Novel Statistical Modeling, Analysis and Implementation of Rate-Distortion Estimation for H.264/AVC Coders
+7E1C9035	Rate-Distortion Cost Estimation for H.264/AVC
+7E0EFA49	Video encoder optimization for efficient video analysis in resource-limited systems
+7ED2AD5B	Block INTER mode decision for fast encoding of H.264
+595D067C	LA-RDO based error resilient coding using multi-layer Lagrange multiplier selection in SVC
+809871CB	Rate-distortion optimized frame level rate control for H.264/AVC
+7D056771	Perceptually-Friendly H.264/AVC Video Coding Based on Foveated Just-Noticeable-Distortion Model
+7DE4B63B	The Virtue of Patience in Low-Complexity Scheduling of Packetized Media With Feedback
+7CF3F3F3	Rate-distortion optimized video streaming over Internet packet traces
+80B2BF1C	Advanced inpainting-based macroblock prediction with regularized structure propagation in video compression
+777C115B	A Fast Intra Skip Detection Algorithm for H.264/AVC Video Encoding
+805E5CEA	Branch and bound algorithms for rate-distortion optimized media streaming
+5E22AA9B	JPEG2000 low complexity allocation method of quality layers
+7D40802E	Complexity constrained rate-distortion optimization of sign language video using an objective intelligibility metric
+7D5D8AB5	Convex Programming Formulations for Rate Allocation in Video Coding
+682D2184	Wavelet-Based Video Compression Using Long-Term Memory Motion-Compensated Prediction and Context-Based Adaptive Arithmetic Coding
+7D9D27A6	A Rate-Distortion Optimization Algorithm for Rate Control in H.264
+7CFD6498	On fast coding tree block and mode decision for high-Efficiency Video Coding (HEVC)
+6A6B0DCF	Optimized Packet Scheduling in Multiview Video Navigation Systems
+78B25355	Rate-distortion optimized tree-structured compression algorithms for piecewise polynomial images
+76293C61	SSIM based perceptual distortion rate optimization coding
+807F2586	Trellis-Based Approaches to Rate-Distortion Optimized Audio Encoding
+776C571A	Rate-distortion optimized rate-allocation for motion-compensated predictive video codecs using PixelRank
+7F20CFF2	Intra/inter algorithm for B frame processing in H.264/AVC encoder
+8161680E	A block based encoding algorithm for matching pursuit image coding
+7DB63858	Real-time and rate-distortion optimized video streaming with TCP
+5C6988A2	Pruned Mode Decision based on Variable Block Sizes Motion Compensation for H.264
+8000110E	Error resilience of video transmission by rate-distortion optimization and adaptive packetization
+8111AABF	Highly Parallel Rate-Distortion Optimized Intra-Mode Decision on Multicore Graphics Processors

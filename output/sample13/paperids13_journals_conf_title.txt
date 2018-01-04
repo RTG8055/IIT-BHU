@@ -1,0 +1,65 @@
+685518E3	International Journal of Electronic Security and Digital Forensics<--Network layer intrusion detection in mobile ad hoc network using on-demand attack detection protocol
+768EECA4	Information not present<--Detection of jamming attacks in IEEE 802.15.4 low rate wireless personal area network using fuzzy systems
+01DB3F19	Annales Des Télécommunications<--A countermeasure againstDDOS attacks using active networks technologies
+80FFEEEE	IEEE Transactions on Dependable and Secure Computing<--Change-point monitoring for the detection of DoS attacks
+80EC4C12	IEEE Communications Surveys and Tutorials<--A Survey of Defense Mechanisms Against Distributed Denial of Service (DDoS) Flooding Attacks
+8139352D	Annual Computer Security Applications Conference<--Bluetooth Network-Based Misuse Detection
+80802D68	Computer Networks<--DDoS attacks and defense mechanisms: classification and state-of-the-art
+754763FE	World Wide Web<--Protecting web servers from distributed denial of service attacks
+7D1512FE	Scalable Information Systems<--A Lightweight Mechanism to Mitigate Application Layer DDoS Attacks
+5DE36B0E	International Conference on Information and Communication Security<--Denial-of-Service attacks on host-based generic unpackers
+753525DC	International Joint Conference on Neural Network<--Attack Characterization and Intrusion Detection using an Ensemble of Self-Organizing Maps
+8163EF49	IEEE Transactions on Parallel and Distributed Systems<--Collaborative Detection of DDoS Attacks over Multiple Network Domains
+7E50D7D3	IEEE Transactions on Information Forensics and Security<--Low-Rate DDoS Attacks Detection and Traceback by Using New Information Metrics
+252C6489	Ieice Transactions<--Collaborative Defense Mechanism Using Statistical Detection Method against DDoS Attacks( New Challenge for Internet Technology and its Architecture)
+5C00C81D	Autonomous Infrastructure, Management and Security<--Future of DDoS Attacks Mitigation in Software Defined Networks
+84FA0082	Information not present<--Statistical Anomaly Detection of DDoS Attacks Using K-Nearest Neighbour
+840BB524	Information not present<--BcN 상에서의 DDoS에 대한 Anomaly Detection 연구
+5B1C9A58	Information not present<--Denial‐of‐Service Attacks
+8066C0BF	Modeling, Analysis, and Simulation On Computer and Telecommunication Systems<--Performance analysis of TCP/AQM under denial-of-service attacks
+5D2253F3	Recent Advances in Intrusion Detection<--Topology-Based Detection of Anomalous BGP Messages
+7B55777A	Journal of Software<--Mining Web User Behaviors to Detect Application Layer DDoS Attacks
+7AB78090	Information not present<--Detection of Low Intensity DoS Attacks using Fuzzy Based Intrusion Detection System
+0406BB81	Information not present<--A Hybrid Approach to Efficient Detection of Distributed Denial-of-Service Attacks
+7ED0AEF8	World Wide Web<--Towards lightweight and efficient DDOS attacks detection for web server
+8010F0E4	International Performance, Computing, and Communications Conference<--Resource-misuse attack detection in delay-tolerant networks
+7E768027	Network and Parallel Computing<--A Novel Gray Hole Attack Detection Scheme for Mobile Ad-Hoc Networks
+80B22E01	ACM Special Interest Group on Data Communication<--A framework for classifying denial of service attacks
+81EDE1E2	Ieej Transactions on Electronics, Information and Systems<--A Proposal of an Extended Method of IP Trace-Back for Distributed Denial of Service Attacks Using Dynamic Marking Scheme
+80B88823	Dependable Systems and Networks<--Optimizing the pulsing denial-of-service attacks
+79E6CA97	Operating Systems Design and Implementation<--Defending against denial of service attacks in Scout
+7F390B2E	Information not present<--Accuracy improvement of multi-stage change-point detection scheme by weighting alerts based on false-positive rate
+7A652F84	It Professional<--Defeating distributed denial of service attacks
+7FDCED3F	Scientific Programming<--Analysis of a denial of service attack on TCP
+7E0481D7	International Conference on Communications<--Spatial correlation detection of DDoS attack
+070C6081	Information not present<--The dos project's "trinoo" distributed denial of service attack tool
+80939B0A	IEEE Computer<--Denial-of-service attacks rip the internet
+5E539DC9	Information not present<--Distributed detection of flooding and gray hole attacks in Wireless Sensor Network
+83EDD498	Information not present<--• Novel Survey on Detection of DDoS Attack Using Traceback Technique in VoIP Networks
+0914F61E	Information not present<--The "tribe flood network" distributed denial of service attack tool
+7DC336D3	International Journal of Computer Applications<--Intrusion Detection in Dos Attacks
+80DF889E	Computer Communication Review<--On the effectiveness of route-based packet filtering for distributed DoS attack prevention in power-law internets
+77C76779	Information not present<--Detecting Denial of Service Attacks using Cross Layer based Intrusion Detection System in Wireless Ad Hoc Networks
+80B9C13E	International Conference on Ubiquitous Information Management and Communication<--A SIP-TRW algorithm for DDoS attack detection in SIP environments
+5A8DE225	Clinical Orthopaedics and Related Research<--Optimal Filtering for DDoS Attacks
+5EC1136E	Information not present<--Detection of DDoS attacks via an artificial immune system-inspired multiobjective evolutionary algorithm
+778A3BAF	Information Security Journal: A Global Perspective<--Collaborative Framework for Detection, Prevention, and Traceback of Flooding Attacks Using Marking and Filtering
+77CD7D9A	IEEE Computer<--Denial-of-Service Attacks to UMTS
+8223FEFE	Information not present<--An Entropy-Based Distributed DDoS Detection Mechanism in Software-Defined Networking
+7A3E7C84	Information not present<--Real time multi stage unsupervised intelligent engine for NIDS to enhance detection rate of unknown attacks
+80531E40	Information not present<--Collaborative Change Detection of DDoS Attacks on Community and ISP Networks
+800818D7	Journal of Parallel and Distributed Computing<--Collaborative detection and filtering of shrew DDoS attacks using spectral analysis
+0084AC04	Information not present<--The "stacheldraht" distributed denial of service attack tool
+795F12BD	Computers & Security<--A new protocol to counter online dictionary attacks
+779E461E	Information not present<--Detection of Low-rate DDoS Attack Based on Self-Similarity
+7B0DB9B9	Physics Procedia<--An effective Denial of Service Attack Detection Method in Wireless Mesh Networks
+76C0F2C7	Procedia Computer Science<--A Four-StepTechnique forTackling DDoS Attacks
+08AE0E17	Information not present<--DDoS Attacks using P2P Networks
+7FA83BCC	Security of Information and Networks<--Application of artificial neural network in detection of DOS attacks
+7AC99BB6	Computer Communications<--Mitigating congestion based DoS attacks with an enhanced AQM technique
+7A6EFF3B	Electronics and Communications in Japan<--A proposal of an extended method of IP trace‐back for distributed denial of service attacks using a dynamic marking scheme
+809783C7	Information not present<--Cossack: coordinated suppression of simultaneous attacks
+08980F8D	Information not present<--Taxonomies of Distributed Denial of Service Networks, Attacks, Tools, and Countermeasures
+8046D4A4	Information not present<--The detection of low-rate denial-of-service attack based on feature extraction and analysis at congestion times
+12A33609	Information Security and Cryptology<--An Effective Feature Generation Method for Distributed Denial of Service Attack Detection using Entropy
+7953D3EE	Computer Networks<--Flow level detection and filtering of low-rate DDoS

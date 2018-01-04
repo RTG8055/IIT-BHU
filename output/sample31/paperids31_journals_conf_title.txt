@@ -1,0 +1,57 @@
+80B654FF	Databases, Knowledge, and Data Applications<--Towards a Discovering Knowledge Comprehensible and Exploitable by the End-User
+2D376D32	Knowledge Based Systems<--CCSpan: Mining closed contiguous sequential patterns
+79C4E44B	Robotics and Applications<--Creating a knowledge discovery model using MOEX's examination database for in-depth analysis and reporting
+81060968	Fuzzy Systems and Knowledge Discovery<--Parallel Spatial-Temporal Knowledge Discovery Model
+7A657229	Parallel and Distributed Computing: Applications and Technologies<--Intelligent Web Mining Model to Enhance Knowledge Discovery on the Web
+7B02A7D4	Sigkdd Explorations<--Web usage mining: discovery and applications of usage patterns from Web data
+790FF0D6	Knowledge Based Systems<--Learning task models in ill-defined domain using an hybrid knowledge discovery framework
+812C5464	IEEE Transactions on Information Technology in Biomedicine<--DBMap: a space-conscious data visualization and knowledge discovery framework for biomedical data warehouse
+78871A73	ACM Transactions on Internet Technology<--The use of web structure and content to identify subjectively interesting web usage patterns
+5C3CF326	The Florida AI Research Society<--Interactive Knowledge Frontier Discovery with COBWEB-KFD
+5A808252	Intelligent Data Analysis<--Knowledge discovery in ontologies
+7DB8F2F8	Knowledge Discovery and Data Mining<--Using General Impressions to Analyze Discovered Classification Rules
+7802FC5C	Information Systems<--Mining frequent closed patterns in pointset databases
+813BA016	IEEE Transactions on Microwave Theory and Techniques<--An efficient CAD-oriented large-signal MOSFET model
+77DCB86E	Engineering Applications of Artificial Intelligence<--CCAR: An efficient method for mining class association rules with itemset constraints
+80F5E4C0	Ai Magazine<--From Data Mining to Knowledge Discovery in Databases
+7AACDAF1	Knowledge Discovery and Data Mining<--Event detection from time series data
+77120743	Engineering With Computers<--A Knowledge Discovery Framework for Civil Infrastructure: A Case Study of the Intelligent Workplace
+80398B87	International Conference on Multimedia Information Networking and Security<--Adaptively Up-Sampling Point-Sampled Modelsdiscovery and data mining techniques to detect and respond to worm infection by integrating incident response, security metrics and apoptosis
+787582D2	Data and Knowledge Engineering<--An efficient algorithm for mining closed inter-transaction itemsets
+77CA5E6E	Computer Science and Software Engineering<--Code name Tiberius or developing and digging into a financial case-based reasoning system from scratch with respect to conservative adaptation and association models driven by knowledge discovery
+808258D2	Data Mining and Knowledge Discovery<--Discovery of Frequent Episodes in Event Sequences
+7BCA4F38	Data and Knowledge Engineering<--Mining frequent tree-like patterns in large datasets
+77C7BCC5	Information Reuse and Integration<--Inventing the future of neurology: Integrated wavelet-chaos-neural network models for knowledge discovery and automated EEG-based diagnosis of neurological disorders
+7E53066B	International Conference on Data Mining<--Mining mutually dependent patterns
+5D9C2125	Formal Methods<--Workflow construction for service-oriented knowledge discovery
+5CBBA2FB	International Conference on Pattern Recognition<--Connectionist model binarization
+75C37E77	Knowledge Based Systems<--Mining lossless closed frequent patterns with weight constraints
+78B158A8	Data and Knowledge Engineering<--Mining interesting knowledge from weblogs: a survey
+765160C5	Knowledge Based Systems<--An efficient mining algorithm for maximal weighted frequent patterns in transactional databases
+810D69B8	International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems<--An Efficient Approach for Mining Weighted Approximate Closed Frequent Patterns Considering Noise Constraints
+7BD7D76E	IEEE Intelligent Systems<--Adversarial Knowledge Discovery
+84E92DCA	Future Generation Computer Systems<--Sliding window based weighted erasable stream pattern mining for stream data applications
+670E0EB6	International Conference on Data Mining<--CoMine: efficient mining of correlated patterns
+7DA8EA64	Fuzzy Systems and Knowledge Discovery<--The Research and Application on Process Planning Knowledge Discovery Technology Based on Knowledge Model in Discrete Manufacturing Enterprise
+80800A93	Expert Systems With Applications<--Single-pass incremental and interactive mining for weighted frequent patterns
+7A458339	Expert Systems With Applications<--Mining association rules for the quality improvement of the production process
+7B30A114	International Journal of Information Technology and Decision Making<--DISCOVERING IMPORTANT SEQUENTIAL PATTERNS WITH LENGTH-DECREASING WEIGHTED SUPPORT CONSTRAINTS
+7BC102B3	Data and Knowledge Engineering<--Mining closed patterns in multi-sequence time-series databases
+7EA3843B	International Symposium on Computational Intelligence and Design<--Power Load Forecasting Model Based on Knowledge Discovery for Heilongjiang Province
+80F0DDB9	Systems, Man and Cybernetics<--A new geospatial data model to facilitate geographic data mining and knowledge discovery
+7F78735A	International Conference on Software Maintenance<--The squale model — A practice-based industrial quality model
+7F75B508	Knowledge Discovery and Data Mining<--A Belief-Driven Method for Discovering Unexpected Patterns
+053EE57B	Knowledge Discovery and Data Mining<--An Overview of Issues in Developing Industrial Data Mining and Knowledge Discovery Applications
+7ED3D362	Knowledge Discovery and Data Mining<--KDD for Science Data Analysis: Issues and Examples
+79434C2B	Hawaii International Conference on System Sciences<--An alternative view of knowledge discovery
+5ACB9C10	Knowledge Discovery and Data Mining<--From data mining to knowledge discovery: an overview
+5AA6818E	Database and Expert Systems Applications<--Knowledge Discovery with the Associative Memory Modell Neunet
+7E8AE671	Expert Systems With Applications<--Mining inter-sequence patterns
+60B46E6E	Knowledge Discovery and Data Mining<--Discovery of Interesting Usage Patterns from Web Data
+5F1CC22B	Journal of Information Processing Systems<--A Knowledge Discovery Framework for Spatiotemporal Data Mining
+7CA3DCF8	Etri Journal<--WIS: Weighted Interesting Sequential Pattern Mining with a Similar Level of Support and/or Weight
+7DA6A13C	IEEE Transactions on Knowledge and Data Engineering<--Mining asynchronous periodic patterns in time series data
+77EA2674	Information Sciences<--Efficient mining of weighted interesting patterns with a strong weight and/or support affinity
+800ABE98	Knowledge Based Systems<--A new framework for detecting weighted sequential patterns in large sequence databases
+7A24714F	Expert Systems With Applications<--An improved algorithm for mining class association rules using the difference of Obidsets
+5EF499A6	Data Mining and Knowledge Discovery<--Discovery and Evaluation of Aggregate Usage Profiles for Web Personalization

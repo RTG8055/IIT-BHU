@@ -1,0 +1,66 @@
+0C630554	International Joint Conference on Artificial Intelligence<--Multi-Objective Learning via Genetic Algorithms
+79C5C29E	Intelligence\/sigart Bulletin<--Cognitive systems based on adaptive algorithms
+7636FDD8	International Conference on Intelligent Computing<--Lightning Forecasting Using Ann-BP and Radiosonde
+78648343	Energy & Fuels<--Optimization of Catalyst for Methanol Synthesis by a Combinatorial Approach Using a Parallel Activity Test and Genetic Algorithm Assisted by a Neural Network
+77EEB4C5	Chemometrics and Intelligent Laboratory Systems<--Understanding and using genetic algorithms Part 1. Concepts, properties and context
+76FFC211	Top<--Biased random-key genetic algorithms with applications in telecommunications
+7C3BB847	Reliability Engineering & System Safety<--Alternatives and challenges in optimizing industrial safety using genetic algorithms
+79BD7FEA	Computational Materials Science<--Analyzing Fe–Zn system using molecular dynamics, evolutionary neural nets and multi-objective genetic algorithms
+7EFC1E32	IEEE Transactions on Image Processing<--A Run-Based Two-Scan Labeling Algorithm
+78E95136	Journal of The Japan Petroleum Institute<--Design of Cu-Zn-Al-Sc Oxide Catalyst for Methanol Synthesis Using Genetic Algorithm Based on Radial Basis Function Network as the Evaluation Function
+7A0B5D01	International Transactions in Operational Research<--A biased random‐key genetic algorithm for OSPF and DEFT routing to minimize network congestion
+7D8B599C	Annals of Mathematics and Artificial Intelligence<--Satisfiability-Based Algorithms for Boolean Optimization
+79CB94C3	Reliability Engineering & System Safety<--Constrained optimization of test intervals using a steady-state genetic algorithm
+777C9324	Computational Biology and Chemistry<--Gates towards evolutionary large-scale optimization: A software-oriented approach to genetic algorithms—I. General perspective
+5F773089	International Symposium on Circuits and Systems<--Fully adaptive evaluation of sub-band DFT
+76CA1DC0	Reliability Engineering & System Safety<--Joint redundancy and maintenance optimization for multistate series–parallel systems
+7C25E7FF	Analytica Chimica Acta<--The quality of optimisation by genetic algorithms
+7A2B4F00	Steel Research International<--Analyzing the Fluid Flow in Continuous Casting through Evolutionary Neural Nets and Multi‐Objective Genetic Algorithms
+78CFA66B	Materials and Manufacturing Processes<--Determination of Anisotropic Yield Coefficients by a Data-Driven Multiobjective Evolutionary and Genetic Algorithm
+7FF72937	International Conference on Tools with Artificial Intelligence<--Preprocessing for Point-Based Algorithms of POMDPs
+776258EF	Energy Sources Part A-recovery Utilization and Environmental Effects<--The Development of Techniques for the Optimization of Water-flooding Processes in Petroleum Reservoirs Using a Genetic Algorithm and Surrogate Modeling Approach
+81479695	Systems, Man and Cybernetics<--A hybrid MGA-BP algorithm for RBFNs self-generate
+78E98478	IEEE Transactions on Systems, Man, and Cybernetics<--Optimization of Control Parameters for Genetic Algorithms
+804AEDD5	Reliability Engineering & System Safety<--RAMS+C informed decision-making with application to multi-objective optimization of technical specifications and maintenance using genetic algorithms
+79E21140	Reliability Engineering & System Safety<--Multiobjective optimization by genetic algorithms: application to safety systems
+7AD291F4	Journal of Optimization Theory and Applications<--On variable-metric algorithms
+77A98334	International Conference on Frontiers in Handwriting Recognition<--Fast Keyword Searching Using 'BoostMap' Based Embedding
+805B30B0	Optimization Methods & Software<--A C++application programming interface for biased random-key genetic algorithms
+79A7DF84	Chemometrics and Intelligent Laboratory Systems<--Application of a genetic algorithm: near optimal estimation of the rate and equilibrium constants of complex reaction mechanisms
+7BA966A6	Optimization Letters<--A biased random-key genetic algorithm for road congestion minimization
+7E71B409	Computer Vision and Pattern Recognition<--Learning Multiple Non-linear Sub-spaces Using K-RBMs
+7736D534	Reliability Engineering & System Safety<--Genetic algorithms in optimizing surveillance and maintenance of components
+7FB9CBDA	Computational Intelligence and Security<--A Novel Evolutionary Algorithm for Function Optimization Using MEC
+76E129A8	Medical Physics<--SU‐GG‐T‐121: Multiobjective Optimization for IMRT Using Genetic Algorithm
+784D4850	Chemometrics and Intelligent Laboratory Systems<--Understanding and using genetic algorithms Part 2. Representation, configuration and hybridization
+7603A7B5	Foundations of Genetic Algorithms<--Deceptiveness and Genetic Algorithm Dynamics
+78FF6AF0	Reliability Engineering & System Safety<--Availability allocation to repairable systems with genetic algorithms: a multi-objective formulation
+7BB98A23	Applied Soft Computing<--A biased random-key genetic algorithm for wireless backhaul network design
+76AE35C9	International Conference on Intelligent Computing<--Adaptive genetic algorithm for multiple QoS anycast routing
+771E04C4	Annals of Operations Research<--Genetic algorithms: foundations and applications
+7D617148	Artificial Intelligence<--Classifier systems and genetic algorithms
+806FC3B2	IEEE Transactions on Neural Networks<--An introduction to simulated evolutionary optimization
+768B59FD	Journal of Shanghai University (english Edition)<--Optimization of Membership Function for Fuzzy Control Based on Genetic Algorithm and Its Applications
+8163BB31	Journal of Chemometrics<--Genetic algorithms in chemometrics and chemistry: a review
+7C7ED8B4	Materials and Manufacturing Processes<--Genetic Algorithms, a Nature-Inspired Tool: Survey of Applications in Materials Science and Related Fields
+75D3A5F4	Nature and Biologically Inspired Computing<--Local optimization in global multi-objective optimization algorithms
+767ECDB5	Steel Research International<--Data‐Driven Pareto Optimization for Microalloyed Steels Using Genetic Algorithms
+75557614	Reliability Engineering & System Safety<--Multi-objective optimization using genetic algorithms: A tutorial
+7E31CE09	Journal of Mechanical Design<--An Improved Kriging-Assisted Multi-Objective Genetic Algorithm
+7FD51D08	Proceedings of SPIE<--Herd male genetic algorithm
+815DCEA4	Computational Intelligence and Security<--An Effective Genetic Algorithm for Self-Inverse S-Boxes
+7526716D	Applied Catalysis A-general<--Evaluation of catalyst library optimization algorithms: Comparison of the Holographic Research Strategy and the Genetic Algorithm in virtual catalytic experiments
+75A992E0	Evolutionary Computation<--Biased Random-Key Genetic Algorithms for the Winner Determination Problem in Combinatorial Auctions
+7B8BCD07	Journal of Computer-aided Molecular Design<--Evolutionary algorithms in computer-aided molecular design
+808AC5BF	Symbolic and Numeric Algorithms for Scientific Computing<--Using Excel as a front-end for MLF
+24218884	Applied Mathematics and Computation<--Metadomotic optimization using genetic algorithms
+791959EA	Computational Biology and Chemistry<--Gates towards evolutionary large-scale optimization: A software-oriented approach to genetic algorithms—II. Toolbox description
+7451C92B	International Symposium on Robotics<--Self-adaptive hybrid genetic algorithm using an ant-based algorithm
+7978C166	International Conference on Genetic and Evolutionary Computing<--Modified 2-D Cepstrum Using Soft-Computing
+7541CB5B	Hydrometallurgy<--Cu―Zn separation by supported liquid membrane analyzed through Multi-objective Genetic Algorithms
+80062A92	Steel Research International<--Multi‐Objective Genetic Algorithm to Optimize Variable Drawbead Geometry for Tailor Welded Blanks Made of Dissimilar Steels
+76F366A0	Machine Learning<--Credit Assignment in Rule Discovery Systems Based on Genetic Algorithms
+5AB66849	Artificial Intelligence and the Simulation of Behaviour<--Restricted Evaluation Genetic Algorithms with Tabu Search for Optimising Boolean Functions als Multi-level AND-EXOR Networks
+67A9CE1A	IEEE Transactions on Systems, Man, and Cybernetics<--—A Memory-Bounded Anytime Heuristic-Search Algorithm
+790B5DF8	Steel Research International<--Multi‐Objective Genetic Algorithms and Genetic Programming Models for Minimizing Input Carbon Rates in a Blast Furnace Compared with a Conventional Analytic Approach
+7D964556	Przegląd Elektrotechniczny<--Optimization of Lighting Systems with the use of the Parallelized Genetic Algorithm on Multi-Core Processors using the .NET Technology

@@ -1,0 +1,58 @@
+0A7B0D45	The Florida AI Research Society<--Active LeZi: An Incremental Parsing Algorithm for Sequential Prediction
+75C9738A	BMC Bioinformatics<--FITBAR: a web tool for the robust prediction of prokaryotic regulons
+7E8549A3	PharmacoEconomics<--An introduction to Markov modelling for economic evaluation.
+7D5544BA	The Florida AI Research Society<--Improving the Performance of Action Prediction through Identification of Abstract Tasks
+5C2535CD	Asia Information Retrieval Symposium<--An Integrated Deterministic and Nondeterministic Inference Algorithm for Sequential Labeling
+7D89C765	Computational Intelligence<--A web usage mining based recommendation model for learning management systems
+07027B17	International Joint Conference on Artificial Intelligence<--Context-driven predictions
+7E5073A1	International Conference on Image Processing<--Extended Texture Prediction for H.264/AVC Intra Coding
+7E714964	International Conference on Data Engineering<--Online Anomaly Prediction for Robust Cluster Systems
+769C66A6	Wirtschaftsinformatik \/ Angewandte Informatik<--Full-Coverage Web Prediction based on Web Usage Mining and Site Topology
+7E17B5B5	Population Health Metrics<--Describing the longitudinal course of major depression using Markov models: Data integration across three national surveys
+80846A31	Knowledge and Systems Engineering<--Conditional Random Fields Feature Subset Selection Based on Genetic Algorithms for Phosphorylation Site Prediction
+5D7D351E	Information not present<--An effective approach to verbose queries using a limited dependencies language model
+772EDB8B	Molecular Biology and Evolution<--Detecting the Coevolution of Biosequences – An Example of RNA Interaction Prediction
+7F8D3B50	British Machine Vision Conference<--Learning Behaviour Models of Human Activities
+5B14A4B4	Information not present<--Prediction Algorithms for User Actions
+7FDEABB6	World Wide Web<--Executing incoherency bounded continuous queries at web data aggregators
+00BA8AB5	International Symposium/Conference on Music Information Retrieval<--MUSART: Music Retrieval Via Aural Queries
+78B9FFFA	PharmacoEconomics<--Comparing Three Software Tools for Implementing Markov Models for Health Economic Evaluations
+7E61B32A	Cost Effectiveness and Resource Allocation<--Can discrete event simulation be of use in modelling major depression?
+7DC8E808	IEEE Journal on Selected Areas in Communications<--Performance Enhancement of On-Board Communication Networks Using Outage Prediction
+7EAB152E	Journal of Climate<--Long-lead prediction of Pacific SSTs via Bayesian dynamic modeling
+7A42DD4C	Information not present<--Towards a standard for SQL-based spatial query languages
+7F5443CD	IEEE Transactions on Vehicular Technology<--ARQ error control for fading mobile radio channels
+7E4DC75A	IEEE Transactions on Image Processing<--Prediction for human motion tracking failures
+7E33249D	Expert Review of Pharmacoeconomics & Outcomes Research<--A systematic review of quality and cost–effectiveness derived from Markov models evaluating smoking cessation interventions in patients with chronic obstructive pulmonary disease
+7F603AAF	The Computer Journal<--Data compression using dynamic Markov modelling
+7F5E056C	European Conference on Artificial Intelligence<--Modeling Interaction Using Learnt Qualitative Spatio-Temporal Relations and Variable Length Markov Models
+7E030AE4	Information not present<--Utilization of Markov Model and Non-Parametric Belief Propagation for Activity-Based Indoor Mobility Prediction in Wireless Networks
+7ABB00FC	Applied Mathematical Modelling<--Error prediction in Markov models of building/HVAC systems
+81507EC1	International Conference on Computer Vision<--Real-time Body Tracking Using a Gaussian Process Latent Variable Model
+802AF8D6	IEEE Transactions on Communications<--Error statistics in data transmission over fading channels
+78744637	British Machine Vision Conference<--Real-Time 3-D Human Body Tracking using Variable Length Markov Models
+80105513	International Conference on Acoustics, Speech, and Signal Processing<--Resource usage prediction for groups of dynamic image-processing tasks using Markov modeling
+793EC21A	Communications in Statistics-theory and Methods<--Linear Prediction Sufficiency for New Observations in the General Gauss–Markov Model
+80739C5A	IEEE Signal Processing Letters<--A Joint PHY-MAC Spectrum Sensing Algorithm Exploiting Sequential Detection
+80B4014C	Proteins<--SAM‐T04: What is new in protein–structure prediction for CASP6
+7D9B3729	Medical Decision Making<--Refining Estimates of Major Depression Incidence and Episode Duration in Canada Using a Monte Carlo Markov Model
+810600AC	Medical Decision Making<--Markov Models in Medical Decision Making A Practical Guide
+7BCB90E0	Information not present<--Performance Evolution in Satellite Communication Networks Along with Markovian Channel Prediction
+7CBB23DF	PharmacoEconomics<--A Lifetime Markov Model for the Economic Evaluation of Chronic Obstructive Pulmonary Disease
+80D7D606	IEEE Transactions on Communications<--Data Compression Using Adaptive Coding and Partial String Matching
+78AD17F6	Aeu-international Journal of Electronics and Communications<--Exact bit error probabilities and packet error statistics for SVD transmission over time-varying dual-branch MIMO systems obtained by a Markov model
+7EA1B380	IEEE Transactions on Communications<--The throughput efficiency of the go-back-N ARQ scheme under Markov and related error structures
+7DBF6696	Information not present<--Prediction of student actions using weighted Markov models
+81018323	IEEE Transactions on Semiconductor Manufacturing<--A study on failure prediction in a plasma reactor
+7D1020E8	IEEE Transactions on Communications<--On the use of renewal theory in the analysis of ARQ protocols
+80567ABE	International Journal on Artificial Intelligence Tools<--Active LeZi: An Incremental Parsing Algorithm for Sequential Prediction
+762DB3E0	Journal of Neuroscience Methods<--Linear prediction and single-channel recording
+797DF42C	International Conference on Acoustics, Speech, and Signal Processing<--Towards jointly optimal spatial prediction and adaptive transform in video/image coding
+804AD709	Clinical Practice & Epidemiology in Mental Health<--Markov models of major depression for linking psychiatric epidemiology to clinical practice
+7FD11145	IEEE Transactions on Communications<--On the relationship between the block error and channel-state Markov models in transmissions over slow-fading channels
+799E3C70	Wuhan University Journal of Natural Sciences<--Performance Prediction of Packet Mobile Communication through Wireless Multipath Fading Channel Modeling
+7852BB29	Neural Networks<--A speech recognition method based on the sequential multi-layer perceptrons
+7559C9A4	IEEE Transactions on Systems, Man, and Cybernetics<--SPEED: An Inhabitant Activity Prediction Algorithm for Smart Homes
+7C7C2B02	PharmacoEconomics<--Pharmacoeconomic Analyses Using Discrete Event Simulation
+5E05220A	International Colloquium on Grammatical Inference<--Discrete sequence prediction with commented Markov models
+7F79AB85	IEEE Transactions on Communications<--Generalized Markov modeling for flat fading

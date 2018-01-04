@@ -1,0 +1,66 @@
+78E95A6F	Journal of Mechanics in Medicine and Biology<--APPLICATION OF AN EVOLUTIONARY ACTOR–CRITIC REINFORCEMENT LEARNING METHOD FOR THE CONTROL OF A THREE-LINK MUSCULOSKELETAL ARM DURING A REACHING MOVEMENT
+81601B48	Intelligent RObots and Systems<--Hopping height control of an active suspension type leg module based on reinforcement learning and a neural network
+8061BD25	Artificial Intelligence<--Framing reinforcement learning from human reward: Reward positivity, temporal discounting, episodicity, and performance
+77734AA3	IEEE Transactions on Smart Grid<--Reinforcement Learning Based Real-Time Wide-Area Stabilizing Control Agents to Enhance Power System Stability
+5BD1BADE	International Conference on Neural Information Processing<--Vague Neural Network Based Reinforcement Learning Control System for Inverted Pendulum
+7DC6C462	Fuzzy Sets and Systems<--Perspectives of fuzzy systems and control
+801563B6	IEEE Transactions on Fuzzy Systems<--A Survey on Analysis and Design of Model-Based Fuzzy Control Systems
+5CA11DB0	Pacific Rim Knowledge Acquisition Workshop<--Improvement of air handling unit control performance using reinforcement learning
+7D752A1A	IEEE Transactions on Systems, Man, and Cybernetics<--A reinforcement learning neural network for adaptive control of Markov chains
+7E14100A	Conference on Decision and Control<--Matrix Expression of Logic and Fuzzy Control
+80EF5C14	World Congress on Computational Intelligence<--Introducing shape-dependent relaxed conditions in fuzzy control of nonlinear systems in Takagi-Sugeno form
+7DFFC28A	Machine Learning<--Reinforcement learning with replacing eligibility traces
+779E2A18	IEEE Transactions on Computational Intelligence and Ai in Games<--Bayesian-Game-Based Fuzzy Reinforcement Learning Control for Decentralized POMDPs
+24D2E0E1	Ieice Transactions<--Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning( Concurrent/Hybrid Systems : Theory and Applications)
+79F5B21B	IEEE Transactions on Fuzzy Systems<--Stabilization and Separation Principle of Networked Control Systems Using the T–S Fuzzy Model Approach
+755905FC	International Conference on Machine Learning<--Using relative novelty to identify useful temporal abstractions in reinforcement learning
+7E79B63B	Conference on Decision and Control<--Refinement of robot motor skills through reinforcement learning
+77CFD07E	Automatica<--A novel approach to output feedback control of fuzzy stochastic systems
+7C9F6684	Ieice Transactions<--Decentralized Supervisory Control of Discrete Event Systems Based on Reinforcement Learning
+7E04A1A7	IEEE Transactions on Fuzzy Systems<--Polynomial Fuzzy-Model-Based Control Systems: Stability Analysis Via Piecewise-Linear Membership Functions
+7D66A0FD	IEEE Transactions on Fuzzy Systems<--Stability of fuzzy control systems with bounded uncertain delays
+7DC88153	European Conference on Principles of Data Mining and Knowledge Discovery<--Transferring Instances for Model-Based Reinforcement Learning
+58AAC56D	Machine Learning<--Module-Based Reinforcement Learning: Experiments with a Real Robot
+7D037EB2	Journal of Machine Learning Research<--Transfer Learning for Reinforcement Learning Domains: A Survey
+774A06D0	Automatica<--Fuzzy control of the activated sludge wastewater treatment process
+807C7AAF	IEEE Control Systems Magazine<--Fuzzy logic for control of roll and moment for a flexible wing aircraft
+7DC2AC91	Artificial Intelligence<--Between MDPs and semi-MDPs: a framework for temporal abstraction in reinforcement learning
+7ACB133A	Conference on Decision and Control<--Reinforcement learning with reference tracking control in continuous state spaces
+805865FC	IEEE Transactions on Systems, Man, and Cybernetics<--Extensions to “Stability Analysis of Fuzzy Control Systems Subject to Uncertain Grades of Membership”
+091BDE56	Transactions of The Japanese Society for Artificial Intelligence<--Using Concept Learning for Restructuring Control Policy in Reinforcement Learning
+809C4962	Intelligent User Interfaces<--Learning non-myopically from human-generated reward
+7D526539	IEEE Transactions on Fuzzy Systems<--Output feedback robust H ∞ control of uncertain fuzzy dynamic systems with time-varying delay
+7B9C9D36	Revista Iberoamericana De Automatica E Informatica Industrial<--Control difuso para el seguimiento de guiñada del AUV Cormorán
+7C95773B	International Conference on Machine Learning<--Identifying useful subgoals in reinforcement learning by local graph partitioning
+7616B8B5	International Journal of Human-computer Studies \/ International Journal of Man-machine Studies<--Analysis of fuzzy control algorithms using the relation matrix
+7FC23B53	International Conference on Machine Learning<--Automatic Discovery of Subgoals in Reinforcement Learning using Diverse Density
+7F239E95	Journal of Machine Learning Research<--Transfer Learning via Inter-Task Mappings for Temporal Difference Learning
+63E81DBB	Brazilian Symposium on Neural Networks<--Improving reinforcement learning control via online bilinear action interpolation
+7D4D87E8	International Conference on Robotics and Automation<--Evolutionary fuzzy control of a flexible-link
+7919B344	Autonomous Agents and Multi-Agent Systems<--Probabilistic policy reuse in a reinforcement learning agent
+7F65C381	Adaptive Agents and Multi-Agents Systems<--Integrating reinforcement learning with human demonstrations of varying ability
+7C544A25	IEEE Transactions on Fuzzy Systems<--Two-Step Stability Analysis for General Polynomial-Fuzzy-Model-Based Control Systems
+7DA1591F	Journal of Artificial Intelligence Research<--Reinforcement learning: a survey
+7F68B703	IEEE Communications Magazine<--Neural-style microsystems that learn
+7769F1C6	Korean Journal of Chemical Engineering<--Double-command fuzzy control of a nonlinear CSTR
+7BA2C2AF	Automatica<--The application of fuzzy control systems to industrial processes
+775D0DE4	Iet Control Theory and Applications<--Fuzzy control of non-linear systems using parameter-dependent polynomial fuzzy model
+75345268	Information Sciences<--AN INTRODUCTORY SURVEY OF FUZZY CONTROL
+7F673B7C	IEEE Transactions on Automatic Control<--Learning control systems--Review and outlook
+76FDBE68	IEEE Transactions on Fuzzy Systems<--Stable adaptive fuzzy control of nonlinear systems
+03C5C081	National Conference on Artificial Intelligence<--PAC Optimal Planning for Invasive Species Management: Improved Exploration for Reinforcement Learning from Simulator-Defined MDPs
+7D003953	IEEE Transactions on Fuzzy Systems<--Polynomial Fuzzy Models for Nonlinear Control: A Taylor Series Approach
+7A6AF114	IEEE Transactions on Fuzzy Systems<--Stable adaptive control using fuzzy systems and neural networks
+7DD3B0E7	IEEE Transactions on Fuzzy Systems<--Participatory Learning With Granular Observations
+7EB479C6	European Physical Journal-special Topics<--Learning and control with large dynamic neural networks
+7FA59B5D	Machine Learning<--Self-Improving Reactive Agents Based on Reinforcement Learning, Planning and Teaching
+76192604	IEEE Transactions on Fuzzy Systems<--Fuzzy-Model-Based Quantized Guaranteed Cost Control of Nonlinear Networked Systems
+7D142A8F	Frontiers in Integrative Neuroscience<--Reinforcement learning modulates the stability of cognitive control settings for object selection.
+8066365F	IEEE Transactions on Fuzzy Systems<--Fuzzy model based control: stability, robustness, and performance issues
+80A2C1E3	Adaptive Agents and Multi-Agents Systems<--Autonomous transfer for reinforcement learning
+7C962231	Fuzzy Sets and Systems<--Modern fuzzy control
+7F0B94A0	IEEE Transactions on Fuzzy Systems<--Robustness design of nonlinear dynamic systems via fuzzy linear control
+5E0782CB	Electronic Notes in Theoretical Computer Science<--Reinforcement Learning for Relational MDPs
+7ABD25B4	Fuzzy Sets and Systems<--Fuzzy control in Duisburg
+7A50D4B3	Machine Learning<--Learning to Perceive and Act by Trial and Error
+7AE4E1F1	Automatica<--A control engineering review of fuzzy systems

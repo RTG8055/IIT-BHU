@@ -1,0 +1,56 @@
+761A6464	IEEE Transactions on Computational Intelligence and Ai in Games<--Player Preference and Style in a Leading Mobile Card Game
+7A3CAFFC	Robotics and Autonomous Systems<--Integrating behavioral, perceptual, and world knowledge in reactive navigation
+81539B6B	IEEE Transactions on Computational Intelligence and Ai in Games<--Modeling Player Experience for Content Creation
+633C1E93	Conference on Computational Complexity<--Multi-agent differential graphical games
+7FCE5B98	Computational Intelligence and Games<--An experiment in automatic game design
+7E3D3A30	IEEE Transactions on Systems, Man, and Cybernetics<--Quantum Reinforcement Learning
+7A5C8DAA	IEEE Transactions on Computational Intelligence and Ai in Games<--A Panorama of Artificial and Computational Intelligence in Games
+796DEA1C	Computational Intelligence and Games<--Adaptive game level creation through rank-based interactive evolution
+7D65C922	Information not present<--Collaborative filtering by multi-task learning
+77EC4D4C	IEEE Transactions on Systems, Man, and Cybernetics<--Fusing Visual and Behavioral Cues for Modeling User Experience in Games
+7F22EB71	Information not present<--Reinforcement learning in the game of Othello: Learning against a fixed opponent and learning from self-play
+7EBBA383	Information not present<--A multi-agent adaptive traffic signal control system using swarm intelligence and neuro-fuzzy reinforcement learning
+806F5667	Information not present<--NEFRL: A New Neuro-Fuzzy System for Episodic Reinforcement Learning Tasks
+7739CAF2	Computer Games<--DRE-Bot: A hierarchical First Person Shooter bot using multiple Sarsa(λ) reinforcement learners
+75A72F45	Computer Vision and Pattern Recognition<--Separable Dictionary Learning
+7ED6D936	Conference on Decision and Control<--Two-layer piecewise deterministic games
+7ECBDEA2	IEEE Transactions on Systems, Man, and Cybernetics<--Rapid, safe, and incremental learning of navigation strategies
+5E5CD462	International Conference on Intelligent Computing<--Conflict-free incremental learning
+7CFF69C3	Journal of Artificial Intelligence Research<--Accelerating reinforcement learning through implicit imitation
+7C42DF48	Information not present<--Reinforcement learning in power control games for internetwork interference mitigation in Wireless Body Area Networks
+7ACFCB1B	Computer Games<--Evolving the Behavior of Autonomous Agents in Strategic Combat Scenarios via SARSA Reinforcement Learning
+79AA9C17	Information not present<--Game AI revisited
+7E1F94AD	Information not present<--Regularization-based learning of the Choquet integral
+6081206F	Information not present<--Learning by α-divergence
+7F98460E	IEEE Transactions on Evolutionary Computation<--Real-time neuroevolution in the NERO video game
+69271ADD	Information not present<--Evolving visibly intelligent behavior for embedded game agents
+7A5654F9	Information not present<--Rotation invariant texture recognition by using Neighbor Discriminant Feature Transform and reinforcement learning
+768B06CC	International Conference on Machine Learning and Cybernetics<--Active learning for person re-identification
+8129B174	Computational Intelligence and Games<--Learning to intercept opponents in first person shooter games
+7D46B46D	International Symposium on Neural Networks<--Self-enhancement learning: Self-supervised and target-creating learning
+7CBED1AA	Computational Intelligence and Security<--Dynamic Fuzzy Semisupervised Multitask Learning
+7DA1591F	Journal of Artificial Intelligence Research<--Reinforcement learning: a survey
+7FEAB69B	Information not present<--Intelligent systems based on reinforcement learning and fuzzy logic approaches, "Application to mobile robotic"
+76393999	Filtration & Separation<--A double layered state space construction method for reinforcement learning agents
+813D20A7	International Multiconference on Computer Science and Information Technology<--EVM: Lifelong reinforcement and self-learning
+79879ED3	Information not present<--Application of reinforcement learning to the card game Wizard
+7A87E660	Congress on Evolutionary Computation<--Controlling bots in a First Person Shooter game using genetic algorithms
+7D11376A	Information not present<--Traffic Signal Control Agent Interaction Model Based on Game Theory and Reinforcement Learning
+54941CF5	Information not present<--EFFICIENT USE OF REINFORCEMENT LEARNING IN A COMPUTER GAME
+7D2CED69	Wirtschaftsinformatik \/ Angewandte Informatik<--Reinforcement Learning in RoboCup KeepAway with Partial Observability
+7F33D26E	IEEE Transactions on Systems, Man, and Cybernetics<--Generative and Discriminative Learning by CL-Net
+76331AE0	Computational Intelligence and Games<--Modular Reinforcement Learning architectures for artificially intelligent agents in complex game environments
+02E8D5A1	Information not present<--Towards Open-Text Semantic Parsing via Multi-Task Learning of Structured Embeddings
+801D18DD	IEEE Transactions on Computational Intelligence and Ai in Games<--Real-Time Game Adaptation for Optimizing Player Satisfaction
+7E69F95D	Information not present<--Falling avoidance control of acrobat robot by reinforcement learning
+7C36AE69	IEEE Transactions on Computational Intelligence and Ai in Games<--Adaptive Shooting for Bots in First Person Shooter Games Using Reinforcement Learning
+7F9EA83D	Computational Intelligence and Games<--Modeling player experience in Super Mario Bros
+7CFD6D48	Computational Intelligence<--AntNet with Reward-Penalty Reinforcement Learning
+811E80EC	National Conference on Artificial Intelligence<--Acquiring visibly intelligent behavior with example-guided neuroevolution
+816F54E5	Intelligent RObots and Systems<--Reinforcement learning and co-operation in a simulated multi-agent system
+7C21D5BD	Ieej Transactions on Electronics, Information and Systems<--Elevator Group Supervisory Control System Using Genetic Network Programming with Macro Nodes and Reinforcement Learning
+80A0D729	International Conference on Machine Learning and Cybernetics<--Research on electronic commerce automated negotiation in multi-agent system based on reinforcement learning
+80DBB141	International Conference on Acoustics, Speech, and Signal Processing<--Co-adaptation: Adaptive co-training for semi-supervised learning
+8155AF62	International Conference on Pattern Recognition<--Correspondence-free Associative Learning
+7869F722	Information not present<--Linguistic reward-oriented Takagi-Sugeno fuzzy reinforcement learning
+7919ABFB	International Conference on Image Processing<--pLSA-based zero-shot learning

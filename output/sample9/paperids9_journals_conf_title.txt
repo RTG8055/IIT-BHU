@@ -1,0 +1,45 @@
+7CEE4E59	International Conference on Acoustics, Speech, and Signal Processing<--'Perfect reconstruction' time-scaling filterbanks
+73F3612F	Information not present<--Instantaneous non-linear operators for tracking multicomponent signal parameters
+8120CB49	Information not present<--A lookup method for power system flicker source detection using direction of propagation
+5C270BFF	Information not present<--Low power method for demodulation of continuous phase modulated (CPM) waveforms
+77B78231	International Conference on Image Processing<--Multiscale directional AM-FM demodulation of images using a 2D optimized method
+5E0FA19E	Information not present<--歯車の偏心誤差と騒音スペクトル(第2報):高次の変調波によるFM・AM
+7EDAABCF	IEEE Transactions on Aerospace and Electronic Systems<--Optimum Angle Demodulation with Saturation Nonlinearity in the Modulator
+7E9A9E02	Information not present<--Image reconstruction of local shear and viscosity moduli for a finite-amplitude acoustic modulated radiation force
+7BB04FC7	IEEE Transactions on Broadcasting<--A Measurement Method of the DTMB Modulator
+7E3A5596	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Analyzing Image Structure by Multidimensional Frequency Modulation
+7CEEC3D2	Information not present<--Type-2 fuzzy functional inference method
+7FB42927	IEEE Transactions on Image Processing<--Hardcopy image barcodes via block-error diffusion
+752793FB	Information not present<--A new phase generated carrier demodulation method based on fixed phase delay
+791E7228	International Conference on Acoustics, Speech, and Signal Processing<--On separating amplitude from frequency modulations using energy operators
+8019E2A9	Asia Pacific Conference on Circuits and Systems<--Digital RDS demodulation in FM subcarrier systems
+7746879F	Information not present<--A method for elimination of phase jitter in software signal demodulation
+80433969	Information not present<--A new measurement method for group delay of frequency-translating devices based on software defined radio technology
+811A640A	International Conference on Conceptual Structures<--A measurement method of the DTMB modulator
+7F884997	IEEE Transactions on Communications<--Co-channel signal separation using coupled digital phase-locked loops
+80F9FEF7	IEEE Transactions on Medical Imaging<--Spatial Resolution Properties of Motion-Compensated Tomographic Image Reconstruction Methods
+7DAE9282	IEEE Signal Processing Letters<--Energy demodulation of two-component AM-FM signal mixtures
+7F374D53	Information not present<--Retrieval and classification of pneumoconiosis chest radiograph images using multiscale AM-FM methods
+809138D8	IEEE Transactions on Signal Processing<--On amplitude and frequency demodulation using energy operators
+7EFC98DF	International Conference on Image Processing<--New algorithms for fast and accurate AM-FM demodulation of digital images
+786B632E	Iet Signal Processing<--Two-dimensional ISAR model and image reconstruction with stepped frequency-modulated signal
+7870F50A	Information not present<--A fault diagnosis method for rolling bearing based on empirical mode decomposition and homomorphic filtering demodulation
+79EBCADB	Vehicular Technology Conference<--An Improved Spectral Precoding Technique for Constant-Envelope OFDM
+7DD853D5	IEEE Transactions on Instrumentation and Measurement<--High-Speed Microscale Optical Tracking Using Digital Frequency-Domain Multiplexing
+75EB8088	Information not present<--An initial phase error elimination in a laser scanner with a multiple phase demodulation method
+7F6A882D	Systems, Man and Cybernetics<--A 3D self-positioning method for wireless sensor nodes based on linear FMCW and TFDA
+807A9376	Information not present<--Transponder with undersampling method
+7E99AABF	IEEE Signal Processing Letters<--Generalized energy demodulation for large frequency deviations and wideband signals
+7FFE99D0	Information not present<--Beam-modulation methods in quantitative and flow visualization holographic interferometry
+7EE520BE	International Conference on Networking<--Fast digital watermarking techniques for still images
+7F90E2F1	International Conference on Acoustics, Speech, and Signal Processing<--Demodulation of discrete multicomponent AM-FM signals using periodic algebraic separation and energy demodulation
+7E84C3E6	Communications and Mobile Computing<--An Improved Staggered Modulation Method of 8-VSB
+78962906	Information not present<--An improved PGC demodulation method to suppress the impact of laser intensity modulation
+8000711F	International Conference on Image Processing<--Multiscale AM-FM analysis of pneumoconiosis x-ray images
+7ABD9C76	Journal of Lightwave Technology<--Variable-Bandwidth Superchannels Using Synchronized Colorless Transceivers
+7D0C33EE	Electro/Information Technology<--Real -Time adaptive Digital Image Watermarking
+7D712204	Information not present<--New AM-FM analysis methods for retinal image characterization
+7D04DA83	International Conference on Networking, Sensing and Control<--A hybrid localization method in wireless sensor networks
+7914A0A6	IEEE Transactions on Communications<--Multicomponent AM-FM demodulation via periodicity-based algebraic separation and energy-based demodulation
+7BB885C7	Information not present<--An improved empirical AM/FM demodulation method
+805A8377	European Conference on Circuit Theory and Design<--Enhanced multivariate steady-state time-domain method

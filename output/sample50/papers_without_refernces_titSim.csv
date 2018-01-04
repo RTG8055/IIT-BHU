@@ -1,0 +1,764 @@
+Paper ID,Title,Sim1,Sim2
+775E5558,"Alternatively Constrained Dictionary Learning For Image Superresolution",0.121356421356,0.147222222222
+7F847FB9,"Incorporating state space constraints into a neural network",0.107626262626,0.0987373737374
+76478DD5,"Improved Isomap Algorithm Based on Supervision",0.115471195471,0.138492063492
+7E9D408B,"Generative Topographic Mapping (GTM): Universal Tool for Data Visualization, Structure‐Activity Modeling and Dataset Comparison",0.142222222222,0.127777777778
+79FF3469,"Head motion animation using avatar gaze space",0.291197691198,0.241439909297
+5AF05B86,"Missing Value Imputation With Unsupervised Backpropagation",0.0759199134199,0.0929810929811
+69862792,"Multiscale Manifold Alignment",0.0884149184149,0.0884615384615
+7D7B3606,"Real-time image annotation by manifold-based biased Fisher discriminant analysis",0.315,0.345643939394
+81128F7E,"The Neighbors Voting Algorithm and Its Applications",0.171515151515,0.197727272727
+7E1BDE1D,"Coarse-to-fine manifold learning [image processing example]",0.128566433566,0.137137862138
+7A477090,"An improved locally linear embedding for sparse data sets",0.0970707070707,0.101388888889
+7CAB3255,"Locality-Constrained Multi-Task Joint Sparse Representation for Image Classification",0.152308802309,0.157242063492
+590C8078,"A Method of Nonlinear Manifold Classification using ISOMAP",0.139285714286,0.162037037037
+58FC7E52,"Manifold analysis in reconstructed state space for nonlinear signal classification",0.312626262626,0.366477272727
+6757971B,"Adaptive critic design with graph Laplacian for online learning control of nonlinear systems",0.138571428571,0.133333333333
+8447B8FA,"從單張人臉影像中估測三維外形、表情變化、照?與光源",0,0
+58BAB373,"Improved Fuzzy based Kernel PCA",0.0818925518926,0.107407407407
+768F43E1,"Study of Fault Diagnosis Based on Manifold Learning",0.170952380952,0.171815221815
+7C44EB01,"Effective Semi-supervised Nonlinear Dimensionality Reduction for Wood Defects Recognition",0.105642135642,0.106753246753
+7A95E5A8,"Fault Diagnosis of Rolling Bearings Based on LLE_KFDA",0.122137862138,0.128975468975
+5BE54C6B,"Isometric Correction for Manifold Learning",0.125952380952,0.150641025641
+7C31276A,"SELECTION OF MULTIPLE COMBINATION STRATEGIES FOR RISK ASSESSMENT",0.161904761905,0.155555555556
+78C8AE10,"Contourlet-based Manifold Learning for Face Recognition",0.127070707071,0.129458041958
+764F0FFF,"Extraction of Features From LIDAR Waveform Data for Characterizing Forest Structure",0.115,0.109920634921
+09159BA4,"GABAY: An e-Learning Filipino Sign Language Tutorial Using Manifold Learning and Dynamic Time Warpin",0.158975468975,0.153312890813
+7A7DAC83,"Manifold learning for analysis of low-order nonlinear dynamics in high-dimensional electrocardiographic signals",0.330404040404,0.305769230769
+7C9775A1,"Fisher Information Embedding for Video Indexing and Retrieval",0.126753246753,0.119292929293
+7DB2EE13,"Estimating geodesic distances on locally linear patches",0.0827006327006,0.0883838383838
+77DD1915,"Tangent space discriminant analysis for feature extraction",0.312222222222,0.3375
+76193829,"Exploitation of hyperspectral imagery using adaptive resonance networks",0.193333333333,0.184444444444
+0233D687,"Kernel Fisher Discriminant for Texture Classication",0.0937373737374,0.105555555556
+75F2DDE9,"Parallel implementation of nonlinear dimensionality reduction methods applied in object segmentation using CUDA in GPU",0.120238095238,0.120578231293
+7D4420A4,"Globally-Preserving Based Locally Linear Embedding",0,0.0972222222222
+7602DE5B,"Multi-label dimensionality reduction based on semi-supervised discriminant analysis",0.291748251748,0.338492063492
+82A9C48A,"Semi-supervised behavioral learning and its application",0.164285714286,0.25
+7980C415,"Local Tangent Distances for Classification Problems",0.132467532468,0.130681818182
+78E56FC9,"Low-Rank Matrix Approximation with Manifold Regularization",0.0924553224553,0.103703703704
+58DDF412,"Face Recognition by LLE Dimensionality Reduction",0.105642135642,0.108441558442
+817908E5,"Automatic object segmentation from large scale 3D urban point clouds through manifold embedded mode seeking",0.143737373737,0.12111715445
+62F18A74,"Model Free Techniques for Reduction of High-Dimensional Dynamics",0.101733821734,0.107722832723
+7C25FDDB,"Efficient manifold learning for speech recognition using locality sensitive hashing",0.152137862138,0.136642061642
+16F85D54,"ビデオゲームのシーン情報に対する多様体学習法適用の検討 (システム研究会 確率的最適化技術と機械学習技術の共進化)",0,0
+77047D2E,"Human Action Recognition Using Temporal Sequence Alignment",0.139121989122,0.128585858586
+5993DB99,"Two-Dimensional Neighborhood Structure Preserving Projection",0.0963564213564,0.106755050505
+779DB552,"Local linear regression classifier for image recognition",0.115404040404,0.116477272727
+76964EEC,"Multiscale online tracking of manifolds",0.0882692307692,0.100961538462
+75F8EB9F,"Learning Out-Of Sample Mapping in Non-Vectorial Data Reduction using Constrained Twin Kernel Embedding",0.114682539683,0.10815696649
+77768FC9,"Using Manifold Learning and Minimax Probability Machine for Face Recognition",0.135404040404,0.129503367003
+7FA8C9E6,"Relevance feedback exploiting query-specific document manifolds",0.110404040404,0.102606837607
+5853B8E0,"Building connected neighborhood graphs for isometric data embedding",0.0992929292929,0.103114478114
+7E8C449C,"Color VQ-Based Image Compression by Manifold Learning",0.12397047397,0.132606837607
+79D686AF,"Semi-supervised learning with kernel locality-constrained linear coding",0.172222222222,0.203703703704
+7BE1D2F0,"Graph-based morphological processing of multivariate microscopy images and data bases",0.165476190476,0.145793650794
+8011A464,"Semi-supervised nonlinear dimensionality reduction with pairwise constraints",0.102541902542,0.10873015873
+7A3D81C7,"Neonatal brain segmentation using 4-D fuzzy object model",0.118737373737,0.11595959596
+7AE1D48E,"Supervised Locally Linear Embedding for Fault Diagnosis",0.119523809524,0.127380952381
+7CB7A603,"A Pivot-Based Distributed Pseudo Facial Image Retrieval in Manifold Spaces: An Efficiency Study",0.155086580087,0.138961038961
+61D67A30,"Exploring EO Vehicle Recognition Performance using Manifolds as a Function of Lighting Condition Variability",0.10746031746,0.102584082584
+5F52867B,"Boundary Constrained Manifold Unfolding",0.100233100233,0.0958333333333
+0B4BBC54,"Detection of Copy-Move Forgery based on one improved LLE method",0.271356421356,0.283888888889
+7C9E510E,"A new method of distance estimation for robot localization in real environment based on manifold learning",0.1418997669,0.125492909868
+22BB59C8,"THE SPECTRUM SENSING ALGORITHM IN COGNITIVE NETWORK VIA MANIFOLD LEARNING AND RANDOM FOREST",0.155238095238,0.134004884005
+77869BB1,"Learning deformable shape manifolds",0.0884149184149,0.0960113960114
+799AD3F2,"A novel method of feature extraction based on local scatter and nonlocal scatter",0.115404040404,0.10462962963
+78D29CE2,"Automatic Removal of Ocular Artifacts from EEG Signals",0.115793650794,0.123214285714
+7F34C9E3,"Facial Expression Recognition of Various Internal States via Manifold Learning",0.12397047397,0.11993006993
+81708EDC,"Outlier detection via localized p-value estimation",0.265384615385,0.391414141414
+78A29D1A,"Visualization of hyperspectral imagery based on manifold learning",0.121356421356,0.149829059829
+77479B25,"Face recognition with manifold-based kernel discriminant analysis",0.295555555556,0.325505050505
+7E8AC541,"Nonlinear Dimensionality Reduction for Cluster Identification in Metagenomic Samples",0.1168997669,0.126904761905
+71F5273D,"Relative transfer function identification on manifolds for supervised GSC beamformers",0.115,0.124389499389
+78CA349C,"Clustering Based Fast Low-Rank Approximation for Large-Scale Graph",0.0992929292929,0.104166666667
+8101A52A,"Human Robot Interaction using Face Pose Recognition",0.125238095238,0.118585858586
+77E178A2,"Shannon sampling and nonlinear dynamics on graphs for representation, regularization and visualization of complex data",0.145086580087,0.127472527473
+7FD76F46,"Nonlinear spectral unmixing using manifold learning",0.121356421356,0.180555555556
+76050ECB,"Information Theoretic Mean Shift Algorithm",0.125238095238,0.130555555556
+7778C580,"Gene Expression Data Classification Using Locality Preserving Projections",0.142222222222,0.121212121212
+7F5A9310,"A new approach for intrusion detection based on Local Linear Embedding algorithm",0.297289377289,0.278703703704
+7F6426FF,"Online logistic regression on manifolds",0.0750549450549,0.0801282051282
+0707F1CB,"Ανάπτυξη και εφαρμογή αλγορίθμων νευροπληροφορικής για την ανάλυση βιοηλεκτρικών σημάτων",0,0
+7B7813DA,"Manifold learning for shape guided segmentation of Cardiac boundaries: Application to 3D+t Cardiac MRI",0.177777777778,0.144337606838
+76AFF483,"Dynamic Building Tracking from UAVs Based on Image Manifold Learning",0.121356421356,0.127172364672
+7B000D59,"Discovering thematic structure in political datasets",0.0895188145188,0.107954545455
+7B56068F,"Face Recognition Based on Geodesic Preserving Projection Algorithm with 3D Morphable Model",0.12746031746,0.116161616162
+7A4B19C2,"Subspace Semi-supervised Fisher Discriminant Analysis",0.31,0.425925925926
+7B0A5070,"Rice growth state estimation by hyperspectral manifold learning",0.140404040404,0.119512432012
+7876140A,"Using dimensionality reduction to exploit constraints in reinforcement learning",0.1668997669,0.148185941043
+76867A8A,"Kernel orthogonal local fisher discrimination for rotor fault diagnosis",0.138571428571,0.143121693122
+810DD493,"Face Recognition Using Local Variation",0.10746031746,0.111219336219
+76A49D4B,"Multiview Face Recognition: From TensorFace to V-TensorFace and K-TensorFace",0.0868997668998,0.0954545454545
+7A0C815B,"An efficient augmented Lagrangian algorithm for graph regularized sparse coding in clustering",0.14,0.148888888889
+7FA075A8,"Graphic analysis of population structure on genome-wide rheumatoid arthritis data",0.303181818182,0.281944444444
+80D6F89E,"Image Retrieval Based on Manifold Learning and Incorporate Clustering",0.126767676768,0.125657213157
+496EB317,"A review on non-linear feature extraction methods",0.123737373737,0.129166666667
+598458CB,"Visual category recognition using Spectral Regression and Kernel Discriminant Analysis",0.298888888889,0.251262626263
+8324F007,"Thinking Outside the Euclidean Box: Riemannian Geometry and Inter-Temporal Decision-Making",0.0807692307692,0.0914141414141
+7B9EE462,"A novel dimensional reduction approach for structural damage diagnosis using feature similarity",0.1118997669,0.12947845805
+7A6C24C9,"GLLE: An improved nonlinear manifold learning method with global topological preservation",0.139285714286,0.140758547009
+7F3AD1EB,"Neighborhood denoising for learning high-dimensional grasping manifolds",0.0921328671329,0.100985819736
+5AF0ADF9,"Nonlinear manifold learning based fault classification method",0.164285714286,0.168839031339
+5DDBEC22,"Manifold learning for robust classification of hyperspectral data",0.17,0.172008547009
+72A87366,"Spike Sorting based on Dominant-Sets clustering",0.0918997668998,0.102588383838
+773BD0C5,"Functional data representation using correntropy locally linear embedding",0.110238095238,0.112103174603
+771DF247,"New approach of intelligent fault diagnosis based on LLE algorithm",0.119523809524,0.164126984127
+7DF691BD,"Human Motion Synthesis by Motion Manifold Learning and Motion Primitive Segmentation",0.134848484848,0.126068376068
+7BF6D13E,"Unsupervised Learning of Manifolds via Linear Approximations",0.121356421356,0.146011396011
+8121AF58,"Euclidean Embedding of Co-Occurrence Data",0.117222222222,0.138888888889
+7929E496,"Efficient Parallel Algorithm for Nonlinear Dimensionality Reduction on GPU",0.12031968032,0.147619047619
+76E65983,"Clustering Data on Manifold with Local and Global Consistency",0.0970707070707,0.0956196581197
+7B2EE214,"Correction to "Pairwise Data Clustering By Deterministic Annealing" [Errata]",0.101666666667,0.111111111111
+78BCAC2C,"Special Issue on Subspace and Manifold Learning for Image and Video Indexing and Search",0.193333333333,0.168791971917
+79FB857A,"A novel fault classification approach using manifold learning algorithm",0.164285714286,0.196296296296
+7E4164C5,"Putting poses on manifold for action recognition",0.139121989122,0.121748251748
+81AD03CC,"Dynamic Building Tracking from UAVs Based on Image Manifold Learning",0.121356421356,0.127172364672
+7E54E7B8,"Relevance Units Latent Variable Model and Nonlinear Dimensionality Reduction",0.10746031746,0.113015873016
+861CEDA6,"Spectators' Synchronization Detection based on Manifold Representation of Physiological Signals: Application to Movie Highlights Detection",0.341515151515,0.318293650794
+77F6A601,"A Curvature-based Manifold Learning Algorithm",0.149523809524,0.175641025641
+7D8C8B8E,"Fast and regularized local metric for query-based operations",0.109285714286,0.133333333333
+5B5D92DC,"Building Connected Neighborhood Graphs for Locally Linear Embedding",0.0992929292929,0.101515151515
+7E460BFD,"Extensions of principal component analysis for nonlinear feature extraction",0.31,0.283181818182
+585A0042,"FINE: Fisher Information Non-parametric Embedding",0.0970707070707,0.0912698412698
+75F08754,"Local Sensitive Frontier Analysis based facial expression recognition",0.287619047619,0.323232323232
+80FCB318,"Improving pose manifold and virtual images using bidirectional neural networks in face recognition using single image per person",0.154292929293,0.12844988345
+5BCEA6EC,"Codimensional matrix pairing perspective of BYY harmony learning: hierarchy of bilinear systems, joint decomposition of data-covariance, and applications of network biology",0.172222222222,0.12497376361
+7E39A165,"Sketch Recognition Based on Manifold Learning",0.122871572872,0.12397047397
+6D03D7E2,"Semi-supervised and unsupervised kernel-based novelty detection with application to remote sensing images",0.3168997669,0.495
+76BF19F2,"Face hallucination via re-identified K-nearest neighbors embedding",0.120233100233,0.129166666667
+785A8166,"Feature Selection based on manifold-learning with dynamic constraint handling differential evolution",0.145714285714,0.122883597884
+790C5093,"Probabilistic Classification of Hyperspectral Images by Learning Nonlinear Dimensionality Reduction Mapping",0.145,0.140013227513
+8259A8D5,"Orthogonal matching pursuit-based incremental locally linear embedding algorithm",0.112023809524,0.127777777778
+0899411B,"A comparison of linear and nonlinear dimensionality reduction methods applied to synthetic speech",0.148566433566,0.154828042328
+0A5C6325,"Manifold Learning Based Locomotion Analysis and Synthesis",0.334444444444,0.274857549858
+75E519BB,"SAR target configuration recognition using Locality Preserving Projections",0.0924553224553,0.10101010101
+70ACDB40,"Discriminative object categorization with external semantic knowledge",0.138737373737,0.155555555556
+7C961E4B,"Regularized Discrete Optimal Transport",0.0818925518926,0.105555555556
+5B5793F3,"Modern Machine Learning Techniques",0.125788655789,0.153703703704
+78959173,"Application of data mining based on clinical medicine database",0.14,0.123342398342
+7898C9D7,"Manifold learning for dimensionality reduction and clustering of skin spectroscopy data",0.181904761905,0.159174952032
+76D703C4,"ISAR target recognition based on manifold learning",0.121356421356,0.12397047397
+7CAC5C8D,"Efficient Single Image Super-Resolution via Graph Embedding",0.102070707071,0.106481481481
+78870510,"New method of fault feature extraction based on supervised LLE",0.143571428571,0.132222222222
+79B8F50C,"Error analysis for transduction on manifold learning",0.34,0.330384615385
+5B093755,"Nonlinear manifold learning based fault classification method",0.164285714286,0.168839031339
+803991A8,"Face Image Super-Resolution Using Two-dimensional Locality Preserving Projection",0.102070707071,0.106355218855
+7E7AC384,"Multiclass probabilistic kernel discriminant analysis",0.295555555556,0.555555555556
+8116001A,"Neighborhood Preserving Non-negative Tensor Factorization for image representation",0.107137862138,0.106764069264
+7A9F95C5,"Detection of strong convective weather based on manifold learning",0.298585858586,0.327606837607
+7F2DBBC4,"Gait analysis using ISOMAP",0.291748251748,0.403703703704
+79BB3CBE,"Registration of unseen images based on the generative manifold modeling of variations of appearance and anatomical shape in brain population",0.11246031746,0.109521312021
+7C0A9FA6,"Local linear approximation of principal curve projections",0.0924553224553,0.107407407407
+75EBB23D,"Exploratory tongue color analysis with manifold learning",0.326666666667,0.305384615385
+7A0C0B84,"Supervised Imagery Classification Based on Hierarchical Macro Manifold",0.152051282051,0.133048433048
+5E49D56F,"Manifold learning based spectral unmixing of hyperspectral remote sensing data",0.127070707071,0.124857549858
+7BBF3543,"Pose estimation using facial feature points and manifold learning",0.121356421356,0.118712768713
+82633B56,"Mining gold in senior executives' pockets: An online automatically trading strategy",0.11474969475,0.104437229437
+77BFB880,"An application study of manifold learning-ranking techniques in face recognition",0.158888888889,0.160404040404
+76803457,"Color image quality assessment with biologically inspired feature and machine learning",0.135404040404,0.135416666667
+795C29A3,"Sparse linearized iterative coherence estimation (SLICE) and risk assessment in image analysis",0.333333333333,0.230965909091
+7901FE76,"DISCRIMINATIVE NONLINEAR DIMENSIONALITY REDUCTION FOR IMPROVED CLASSIFICATION",0.135081585082,0.164285714286
+7DEF4353,"Video-to-Shot Tag Propagation by Graph Sparse Group Lasso",0.120793650794,0.113095238095
+7A6B3BD3,"A New Strategy for Protein Interface Identification Using Manifold Learning Method",0.145,0.13373015873
+7EA7B765,"A New Supervised Dimensionality Reduction Method for Image Data Using Evolutionary Strategy",0.11246031746,0.116439909297
+69AF9BC4,"Isometric Multi-Manifolds Learning",0,0.111111111111
+81752E0F,"Head Pose Recognition Based on 2-D KPCA",0.0868997668998,0.100505050505
+7E81AEF6,"Search and Retrieval of Rich Media Objects Supporting Multiple Multimodal Queries",0.185,0.159331409331
+79BEBD98,"Data Reduction for Network Forensics Using Manifold Learning",0.17,0.150444793302
+7AE8B1BA,"Feature Extraction Based on Class Mean Embedding (CME)",0.110404040404,0.105092592593
+77C4DFD7,"Incremental mixtures of factor analysers",0.103585858586,0.109006734007
+7F062646,"Hierarchical Manifold Learning With Applications to Supervised Classification for High-Resolution Remotely Sensed Images",0.139285714286,0.154503367003
+7C8359D6,"Intrinsic dimensionality estimation and dimensionality reduction through scale space filtering",0.11341991342,0.110238095238
+7789AA25,"Quantum filter reduction for measurement-feedback control via unsupervised manifold learning",0.136178266178,0.128296703297
+770CD004,"Manifold Learning for Object Tracking With Multiple Nonlinear Models",0.121356421356,0.131730769231
+309150F2,"Joint optimization of manifold learning and sparse representations for face and gesture analysis",0.326666666667,0.262519623234
+60235FF5,"Intelligent data mining systems by generalized multiple kernel machines on graph based subspace",0.0992929292929,0.107196969697
+7ADC372F,"3D Body-part tracking of two persons using a hierarchical body model",0.153888888889,0.158888888889
+7BF7C4AC,"Supervised local sparsity preserving projection for face feature extraction",0.105788655789,0.102172364672
+7CDFF5CF,"Diffusion maps and radar data analysis",0.31,0.283888888889
+84B25DB3,"Nonlinear Feature Extraction for Hyperspectral Images",0.115404040404,0.116666666667
+7C499CC9,"Enhanced prediction of protein cellular localization sites with genetic algorithm optimal kernel projection analysis",0.303888888889,0.220191228525
+7783DE82,"Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning by Alan Julian Izenman",0.164285714286,0.157070707071
+7A152453,"On the coordination system for the dimensionality-reduced inputs of mario",0.0992929292929,0.107407407407
+85CFD939,"Optimize parameter K in locally linear embedding based on spatial distributions",0.0963564213564,0.0974326599327
+620B0B39,"Manifold learning techniques and model reduction applied to dissipative PDEs",0.101733821734,0.115238095238
+85949B02,"Statistical atlases of cardiac motion and deformation for the characterization of CRT responders",0.123181818182,0.114546102046
+5F21CE28,"A Computational Framework for Nonlinear Dimensionality Reduction of Large Data Sets: The Exploratory Inspection Machine (XIM)",0.14,0.130725623583
+7EF08970,"MedVir: 3D visual interface applied to gene profile analysis",0.291748251748,0.275555555556
+782CFA35,"Manifold regularized sparse support regression for single image super-resolution",0.162619047619,0.160416666667
+5965D75C,"Manifold Learning for Robot Navigation",0.151038961039,0.154458041958
+22DD1ECB,"SOM Canonicaへの試み : 多様なモデル集合を扱う学習基盤を目指して (バイオ情報学(BIO) Vol.2010-BIO-21)",0,0
+7FC6E8D6,"Manifold-Based Combination of Visual Features and Keyword Features for Image Retrieval",0.103585858586,0.105404040404
+7607E6A5,"Robust classification using support vector machine in low-dimensional manifold space for automatic target recognition",0.169292929293,0.149021464646
+5DD0EB33,"An improved Local Tangent Space Alignment Algorithm Based on Max Linear Patch Partition and its application in multi-pose ear recognition",0.14595959596,0.123714416896
+841E1BAA,"SELECTION OF MULTIPLE COMBINATION STRATEGIES FOR RISK ASSESSMENT",0.161904761905,0.155555555556
+7711B624,"Robust head pose estimation via semi-supervised manifold learning with ℓ 1 -graph regularization",0.0915151515152,0.0942735042735
+7C2B08D9,"Accelerating hyperspectral manifold learning using graphical processing units",0.0970707070707,0.0963480963481
+5ABD6E1A,"Manifold learning using geodesic entropic graphs",0.0970707070707,0.102564102564
+789ECD02,"Linear basis-function t-SNE for fast nonlinear dimensionality reduction",0.102541902542,0.121428571429
+80D62BD7,"Selecting Examples in Manifold Reduced Feature Space for Active Learning",0.135404040404,0.130948218448
+7C4C179A,"Keynote I: High dimensional data analysis in Computer Vision",0.313737373737,0.2632996633
+756C5275,"Multi-pose face recognition combining tensor face and manifold learning",0.127070707071,0.119638694639
+095290B5,"Dynamic Textures Using Non-Linear Dimensionality Reduction",0.102541902542,0.113492063492
+7AB60BAC,"Dynamic facial expression recognition using Laplacian Eigenmaps-based manifold learning",0.121356421356,0.12397047397
+786EBF99,"Quantitative Analysis of Nonlinear Embedding",0.283452380952,0.541666666667
+78C56D6C,"Neighborhood smoothing embedding for noisy manifold learning",0.12397047397,0.118414918415
+7660FBF0,"Time-scale manifold and its ridge analysis for machine fault diagnosis",0.300404040404,0.271815221815
+8120AAEF,"Semi-Supervised Learning by Local Behavioral Searching Strategy",0.121356421356,0.175
+79C61AA8,"Tracking Hand Rotation and Grasping from an IR Camera Using Cylindrical Manifold Embedding",0.104126984127,0.101588689089
+7A326C69,"A novel improved sampling algorithm",0.115471195471,0.1375
+752015A4,"Manifold feature extraction for video based on locally linear embedding",0.110404040404,0.106111111111
+7557AF95,"Multi-view face recognition based on manifold learning and multilinear representation",0.131666666667,0.128633403633
+7BC1887C,"Graph-Based Semi-Supervised Learning",0.121356421356,0.25
+77DEC1FC,"Cliffor Manifold Learning Using Neighbor Graphs",0.130404040404,0.132051282051
+80CD3667,"Feature selection of manifold learning using principal component analysis in brain MR image",0.298566433566,0.210219718553
+782B0344,"Incoherent training of deep neural networks to de-correlate bottleneck features for speech recognition",0.163333333333,0.153114478114
+7E71BC81,"A Non-linear Manifold Strategy for SHM Approaches",0.106217948718,0.11452991453
+80A3897C,"Regularizing ad hoc retrieval scores",0.0912121212121,0.0977272727273
+78B26B7B,"Enhanced semi-supervised local fisher discriminant analysis for gene expression data classification",0.32,0.254134754135
+7B68E5FF,"Research on Supervised Manifold Learning for SAR target classification",0.197619047619,0.200233100233
+72494D7D,"Local operator estimation for single-image super-resolution",0.0884149184149,0.0916666666667
+808A33D3,"Parameter Estimation for Manifold Learning, Through Density Estimation",0.121356421356,0.111305361305
+7A77306C,"Information-Geometric Dimensionality Reduction",0.102541902542,0.121428571429
+7C606307,"Nonlinear data description with Principal Polynomial Analysis",0.296666666667,0.403703703704
+5C01B656,"A Convex Formulation for Spectral Shrunk Clustering",0.0884149184149,0.0954545454545
+79674BA2,"Color image super-resolution reconstruction based on IMED",0.0989704739705,0.104861111111
+806681C4,"Robust fitting of multiple structures: The statistical learning approach",0.151515151515,0.163194444444
+776032AC,"Maximum Generialized Fisher Criterion",0.0970707070707,0.111111111111
+76BEEDA1,"Information Technology in an Improved Supervised Locally Linear Embedding for Recognizing Speech Emotion",0.125238095238,0.123015873016
+7C8DF6BE,"Image Mining by Data Compactness and Manifold Learning",0.127070707071,0.125657213157
+76B502A8,"Anomaly Detection on Collective Moving Patterns: Manifold Learning Based Analysis of Traffic Streams",0.485,0.325345950346
+7E11C648,"Learning Non-linear Dynamical Systems by Alignment of Local Linear Models",0.0955555555556,0.105555555556
+7ACDE07C,"Manifold based Sparse Representation for robust expression recognition without neutral subtraction",0.112931512932,0.109261109261
+5AB73214,"Mixtures of Probabilistic Principal Component Analyzers for Anomaly Detection",0.281666666667,0.328977272727
+5D20EF5A,"Embedding graphs under centrality constraints",0.0970707070707,0.0972222222222
+77A48789,"Using k-MST, k-EC, and k-VC neighbor graphs construction methods with spatial coherent distance for manifold learning in hyperspectral image processing",0.197142857143,0.148291153291
+75910D88,"A new Outlier detection algorithm based on Manifold Learning",0.299523809524,0.327606837607
+7D93DDD6,"Robust unsupervised motion pattern inference from video and applications",0.148571428571,0.148015873016
+77256A00,"Top-Down Segmentation of Non-rigid Visual Objects Using Derivative-Based Search on Sparse Manifolds",0.185,0.159829059829
+836DDBE7,"Multimodality Imaging Population Analysis using Manifold Learning",0.326666666667,0.311111111111
+7DC7B40C,"Gait recognition using dynamic gait energy and PCA+LPP method",0.135404040404,0.129503367003
+77838D86,"Weighted Linear Embedding and Its Applications to Finger-Knuckle-Print and Palmprint Recognition",0.132467532468,0.170454545455
+7EF2A942,"A sub-symbolic model of the cognitive processes of re-representation and insight",0.168804528805,0.192063492063
+85ED187A,"Local and global regressive mapping for manifold learning with out-of-sample extrapolation",0.0992929292929,0.111111111111
+7C6BF0E9,"A subspace learning approach to evaluating the performance of image fusion algorithms",0.130238095238,0.136314033189
+7745A8F7,"Automatic inline defect detection for a thin film transistor?liquid crystal display array process using locally linear embedding and support vector data description",0.351666666667,0.210930735931
+813CD405,"Gait Analysis for Human Identification through Manifold Learning and HMM",0.323566433566,0.318717948718
+71C50318,"Detection of strong convective weather based on manifold learning",0.298585858586,0.327606837607
+2273023A,"could affect the content, and all legal disclaimers that apply to the journal pertain",0.10746031746,0.113015873016
+84299948,"Pseudo-Increasing frame rates of echocardiography images using Manifold Learning",0.151038961039,0.132980907981
+78D56D8D,"Manifold learning for compression and generalization of Euclidean invariant signatures of surface shapes",0.133585858586,0.128114345971
+7D7DF058,"Parameter Set-mapping using Kernel-based PCA for Linear Parameter Varying Systems",0.0880230880231,0.10303030303
+75EFCEC8,"Image denoising using local tangent space alignment",0.110404040404,0.110404040404
+5BBA1A16,"Building k-edge-connected neighborhood graph for distance-based data projection",0.0992929292929,0.104848484848
+830123F4,"Object tracking using 2DLPP manifold learning",0.148737373737,0.156944444444
+5936CC6A,"Facial expression recognition using facial features andmanifold learning",0.0845188145188,0.100808080808
+7DDCFBE7,"Geometry constrained sparse coding for single image super-resolution",0.139285714286,0.13125
+8491C06F,"Multi-Class Manifold Preserving Isomap Using Sammon’s Projection",0.0810592185592,0.0997863247863
+77D88A0C,"The application of manifold learning in dimensionality analysis for hyperspectral imagery",0.333566433566,0.312820512821
+7BAF4321,"Approximate Sampling Method for Locally Linear Embedding",0.114285714286,0.125
+07772020,"Face recognition based on Riemannian manifold learning",0.127070707071,0.125788655789
+758FACFF,"Fuzzy maximal marginal embedding and its application",0.130233100233,0.25
+77B2F726,"Supervised Non-Linear Dimensionality Reduction Techniques for Classification in Intrusion Detection",0.3168997669,0.256916099773
+7F82EC94,"Locality-constraint iterative neighbor embedding for face hallucination",0.120233100233,0.129166666667
+77F245FF,"Failure Mode Recognition Clustering Algorithm Based on Manifold Learning",0.155238095238,0.140423465423
+799105FC,"Facial Expression Hallucination",0.0811854811855,0.0871212121212
+7679EBCC,"Anomaly Detection in Hyperspectral Imagery Based on Spectral Gradient and LLE",0.277070707071,0.355555555556
+7EE7A9FF,"Diffusion Maps for Signal Processing: A Deeper Look at Manifold-Learning Techniques Based on Kernels and Graphs",0.119769119769,0.112901334776
+79B5221B,"Optimized intrinsic dimension estimator using nearest neighbor graphs",0.130404040404,0.142592592593
+7CAF8CE3,"Using wearable inertial sensors for posture and position tracking in unconstrained environments through learned translation manifolds",0.103585858586,0.102065527066
+756003BA,"Maximum Margin Subspace Projections for Face Recognition",0.0992929292929,0.100808080808
+7C6A78BF,"Linear versus Nonlinear Dimensionality Reduction of High-Dimensional Dynamical Systems",0.107864357864,0.117989417989
+77ADAE0A,"Out of samples extensions for SC-LLE, new nonlinear dimensionality reduction algorithm",0.127137862138,0.131753246753
+7C11D8CF,"Spectral clustering with the probabilistic cluster kernel",0.0937373737374,0.0981481481481
+7A97FD37,"Graph embedding based feature selection",0.125238095238,0.121111111111
+8072775D,"Fine: Information embedding for document classification",0.14,0.123174603175
+766927C8,"An improved clonal selection algorithm for articulated human motion tracking",0.125238095238,0.159027777778
+7554D117,"The application research of speech feature extraction based on the manifold learning",0.216666666667,0.178052503053
+2DCB216C,"Advancing the Effectiveness of Non-Linear Dimensionality Reduction Techniques",0.106582306582,0.110793650794
+77CD1478,"Sensorimotor learning of sound localization from an auditory evoked behavior",0.187619047619,0.2125
+7E19B3EA,"Manifold learning using Euclidean k-nearest neighbor graphs [image processing examples]",0.152142857143,0.133871336996
+5D1CA160,"Manifold Learning From Time Series",0.10436008436,0.117989417989
+77418EAB,"Natural Nearest Neighbor for Isomap Algorithm without Free-Parameter",0.155238095238,0.225
+783EB02A,"Dimensionality reduction on hyperspectral images: A comparative review based on artificial datas",0.120793650794,0.126124338624
+77716159,"Optimal Locality Regularized Least Squares Support Vector Machine via Alternating Optimization",0.0985664335664,0.096892393321
+0466D2FB,"MANIFOLD LEARNING USING EUCLIDEAN -NEAREST NEIGHBOR GRAPHS",0.130404040404,0.132051282051
+78494359,"Target-oriented shape modeling with structure constraint for image segmentation",0.112626262626,0.10462962963
+78F6C64D,"Manifold Learning and Recognition of Human Activity Using Body-Area Sensors",0.235384615385,0.188157213157
+7565BF43,"Outlier Detection in the Framework of Dimensionality Reduction",0.28436008436,0.335714285714
+758C7D94,"Manifold estimation and singular deconvolution under Hausdorff loss",0.0884149184149,0.0916666666667
+5C77D5FF,"Image matching for weld seam tracking based on nonlinear dimensionality reduction method Isomap",0.10936008436,0.110912698413
+7B94103F,"1 A Sparse Embedding and Least Variance Encoding Approach to Hashing",0.101785714286,0.111402486402
+76D6BBBC,"Bilateral tangent projection for manifold smoothing",0.086741036741,0.0929810929811
+78B1656A,"Supervised linear manifold learning feature extraction for hyperspectral image classification",0.183333333333,0.144322344322
+77FAB531,"Local conditions for critical and principal manifolds",0.0750549450549,0.0801282051282
+7E34C9CC,"Reconstruction of isometrically deformable flat surfaces in 3D from multiple camera images",0.108585858586,0.106060606061
+77E5E193,"A novel borderline preserving embedding manifold learning algorithm",0.152137862138,0.144848484848
+5ACE6507,"A convex programming approach to the trace quotient problem",0.110081585082,0.108181818182
+7E970951,"Machinery Fault Diagnosis Based on Supervised Locally Linear Embedding",0.121038961039,0.118590668591
+7B4BA661,"An unsupervised kernel optimization in dimensional reduction",0.106349206349,0.126322751323
+05380328,"Energy Functions for Efficient Nonlinear Dimensionality Reduction by Multi Layer Perceptrons",0.145793650794,0.145793650794
+784D375F,"Ordinary Preserving Manifold Analysis for Human Age and Head Pose Estimation",0.296666666667,0.245227920228
+642FEA30,"Persistent homology for random fields and complexes",0.0975224775225,0.111255411255
+766F71C1,"View Invariant Body Pose Estimation Based on Biased Manifold Learning",0.133585858586,0.128561253561
+78AA7451,"Image Retrieval of Self-Adapt Distance Measure Based on SLLE",0.101767676768,0.105808080808
+5E339A09,"Image data mining of fruitfly gene expression patterns",0.110238095238,0.108868446368
+79EF694B,"Semi-Supervised Learning with Density-Sensitive Manifold graph",0.0970707070707,0.0997150997151
+08EF5585,"Robust Head Pose Estimation Using Supervised Manifold Learning",0.127070707071,0.11745014245
+5F333D90,"Image Matting via LLE/iLLE Manifold Learning",0.121356421356,0.133814102564
+0E42045B,"Visual interpretation of class C GPCR subtype overlapping from the nonlinear mapping of transformed primary sequences",0.102070707071,0.1007996633
+75E55562,"Forecasting of subjective comfort in tram using ordinal logistic regression and manifold learning",0.125788655789,0.117338217338
+7E5758DD,"Denoising Algorithm for Jacquard Image Using Beltrami Manifold Technique",0.143571428571,0.131801994302
+810CEA79,"Facial Expression Recognition Based on Incremental Isomap with Expression Weighted Distance",0.0811854811855,0.0942760942761
+6E205300,"Manifold learning based ECG‐free free‐breathing cardiac CINE MRI",0.139285714286,0.151175213675
+77D45914,"Stepped Frequency Radar Target Recognition Using Locality Preserving Projections",0.0924553224553,0.0968975468975
+79FF68D5,"Optimal Classification of Hypersonic Inlet Start/Unstart Based on Manifold Learning",0.178333333333,0.162606837607
+00A8D538,"Integrating Spatial Proximity with Manifold Learning for Hyperspectral Data",0.0970707070707,0.0956196581197
+7EE4800B,"Face recognition based on sparse representation and error correction SVM",0.13380952381,0.128312890813
+7F9CD56C,"Feature extraction of hyperspectral images based on preserving neighborhood discriminant embedding",0.115404040404,0.105050505051
+75D6BD6D,"Gene Selection Using Locality Sensitive Laplacian Score",0.130709290709,0.125642135642
+78FA6B7D,"Learning a joint manifold with global-local preservation for multitemporal hyperspectral image classification",0.139285714286,0.162606837607
+78F7980A,"Using Pressure Map Sequences for Recognition of On Bed Rehabilitation Exercises",0.153333333333,0.124116161616
+802782EE,"Incorporating State Space Constraints Into a Neural",0.107626262626,0.0956439393939
+6B4AAB7E,"An improved Local Tangent Space Alignment Algorithm Based on Max Linear Patch Partition and its application in multi-pose ear recognition",0.14595959596,0.123714416896
+7C6AAF7B,"Multiple kernel interpolation for inverting non-linear dimensionality reduction and dimension estimation",0.109682539683,0.106916099773
+7994AE1F,"Incremental Construction of Neighborhood Graphs for Nonlinear Dimensionality Reduction",0.125238095238,0.128975468975
+7090DD75,"Learning techniques for multi-modal facial analysis",0.29094017094,0.407407407407
+5FD2CFE4,"Face recognition by SVMs classification and manifold learning of 2D and 3D radial geodesic distances",0.17,0.156363636364
+77021FAC,"Schroedinger Eigenmaps for the Analysis of Bio-Medical Data",0.296666666667,0.555555555556
+04B9DBF1,"NONLINEAR DIMENSIONALITY REDUCTION TECHNIQUES AND THEIR APPLICATIONS",0.139121989122,0.150992063492
+823B6800,"多様体を介した自動カテゴリー形状復元に関する研究 (パターン認識・メディア理解)",0,0
+7E97216B,"Polarimetric SAR image classification-exploiting optimal variables derived from multiple-image datasets",0.116197691198,0.119588744589
+77E803CE,"Improved Fuzzy FCM-LI Algorithm",0.112023809524,0.15
+69AE3425,"Building a Job Lanscape from Directional Transition Data",0.163333333333,0.171825396825
+7F5E7D96,"Pattern lattice traversal by selective jumps",0.100952380952,0.12037037037
+109CD1CD,"Decision Forests for Classication, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning",0.1418997669,0.138446969697
+15308459,"Fault detection CVA algorithm of chemical process based on ISOMAP",0.347070707071,0.295238095238
+7600FBC8,"Novel similarity measure-based nonlinear dimensionality reduction methods for hyperspectral imgery",0.10936008436,0.116964285714
+77D8FA01,"Dimension reduction by Manifold Learning for Evolutionary Learning with redundant sensory inputs",0.13746031746,0.155148555149
+80BE94AA,"Locally Smooth Metric Learning with Application to Image Retrieval",0.144696969697,0.144255050505
+76657E58,"Learning pattern transformation manifolds for classification",0.134285714286,0.145222832723
+086D2A7D,"Semi-supervised sequence modeling with syntactic topic models",0.0970707070707,0.0963383838384
+76A2A883,"Synchronized Submanifold Embedding for Robust and Real-Time Capable Head Pose Detection Based on Range Images",0.277070707071,0.231132756133
+7AFE5021,"Self-training classifier via local learning regularization",0.104848484848,0.125925925926
+79773339,"Feature Extraction Based on Sparsity Embedding with Manifold Information for Face Recognition",0.110404040404,0.0997984654235
+7A5BFCA7,"Estimating cloudmaps from outdoor image sequences",0.0963564213564,0.0997474747475
+7F0EDE8D,"RKHS Bayes Discriminant: A Subspace Constrained Nonlinear Feature Projection for Signal Detection",0.290404040404,0.259259259259
+7510791D,"Distance Penalization Embedding for unsupervised dimensionality reduction",0.1118997669,0.116753246753
+7B164A57,"Self-Regulation of Neighborhood Parameter for Locally Linear Embedding",0.0827006327006,0.0883838383838
+7D1E1504,"Left Ventricle Segmentation Using Diffusion Wavelets and Boosting",0.113181818182,0.109006734007
+7FA45496,"Variance reduction with neighborhood smoothing for local intrinsic dimension estimation",0.102541902542,0.103186628187
+5EC97FC4,"On Motion Parameterizations in Image Sequences from Fixed Viewpoints",0.102070707071,0.108585858586
+785411E9,"Laplacian Eigenmaps-Based Polarimetric Dimensionality Reduction for SAR Image Classification",0.1418997669,0.154464285714
+7C5F9C67,"Learning Non-linear Dynamical Systems by Alignment of Local Linear Models",0.0955555555556,0.105555555556
+2D12151C,"Example-Based Super-Resolution using Locally Linear Embedding",0,0.0972222222222
+7ADCE0AA,"Research of Classification Algorithm Based on Local Coordination",0.168414918415,0.198888888889
+7FE31AB6,"Nonlinear Dimensionality Reduction by John A. Lee, Michel Verleysen",0.112931512932,0.119155844156
+7714E3AF,"Understanding and characterizing Olfactory responses [A manifold learning approach based on optical recordings]",0.137698412698,0.12032967033
+7C8A6BD1,"A Novel Hybrid Model for Image Classification",0.139285714286,0.158333333333
+8502A936,"대용량 컴뮤트 타임 임베딩을 위한 연산 속도 개선 방식 제안",0,0
+025C889A,"Feature Extraction for Image Interpretation",0.115404040404,0.11875
+7FFEC2DA,"Boosted Spectral Embedding (BoSE): Applications to content-based image retrieval of histopathology",0.144696969697,0.139204545455
+7BE8EE79,"Manifold Learning Method for Large Scale Dataset Based on Gradient Descent",0.128566433566,0.131339031339
+62CF5C9C,"Similar Tensor Arrays : A Framework for Storage of Tensor Array Data",0.115,0.115151515152
+759E9FC4,"Combining imaging and clinical data in manifold learning: Distance-based and graph-based extensions of Laplacian Eigenmaps",0.127070707071,0.150404040404
+5C8024C9,"Using wearable inertial sensors for posture and position tracking in unconstrained environments through learned translation manifolds",0.103585858586,0.102065527066
+790C2F01,"A Face Recognition Method on Mobile Terminals Based on Manifold Learning",0.127070707071,0.119242909868
+2E94C30C,"Learning Locality-Preserving Discriminative Features",0.0803521478521,0.105555555556
+786E8AF9,"Visual Tracking via Online Nonnegative Matrix Factorization",0.0967482517483,0.105303030303
+7C57DDCF,"SVM LEARNING AND Lp APPROXIMATION BY GAUSSIANS ON RIEMANNIAN MANIFOLDS",0.121356421356,0.146011396011
+793F452F,"Discriminant Component Analysis and Self-Organized Manifold Mapping for Exploring and Understanding Image Face Spaces",0.305404040404,0.216117909868
+5C172E9E,"Nonlinear dimensionality reduction of gene expression data",0.10746031746,0.105642135642
+307A52A1,"Probabilistic Graphical Models for Prognosis and Diagnosis of Breast Cancer",0.10746031746,0.0985179526356
+75780D50,"Motion Key-Frames Extraction Based on Locally Linear Embedding",0.110404040404,0.107638888889
+7D52AD84,"Research of pattern feature extraction and selection",0.176666666667,0.189583333333
+79CB0D58,"Super-Resolution Using Manifold Learning",0.121356421356,0.180555555556
+75A02227,"Appearance-based face recognition using a supervised manifold learning framework",0.127070707071,0.121490546491
+7C74F71C,"Application of Polynomial Fuzzy Matching Based on Three Rulers in Face Recognition",0.171515151515,0.150336700337
+7B7AEC77,"Manifold Adaptive Kernel Local Fisher Discriminant Analysis for Face Recognition",0.306666666667,0.293737373737
+76CE3033,"ANDRomeda: adaptive nonlinear dimensionality reduction",0.106582306582,0.117989417989
+7FAFBFBD,"Tangent space estimation for smooth embeddings of Riemannian manifolds",0.107626262626,0.0950854700855
+5B92D5BA,"Model-Based Acquisition for Compressive Sensing & Imaging",0.299523809524,0.466666666667
+80AC8C93,"Speech Emotion Recognition Using an Enhanced Kernel Isomap for Human-Robot Interaction",0.12746031746,0.135521885522
+7D442597,"Automated recognition of human gait pattern using manifold learning algorithm",0.152137862138,0.142125334982
+7855345C,"Trace Ratio Optimization-Based Semi-Supervised Nonlinear Dimensionality Reduction for Marginal Manifold Visualization",0.106582306582,0.106178266178
+78687D52,"Hybrid Face Recognition with Locally Discriminating Projection",0.0924553224553,0.0963383838384
+778A61A9,"Boundary Compactness for Data of 3D or Higher Dimensions",0.0970707070707,0.100673400673
+7105B219,"Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning",0.164285714286,0.154273504274
+58B757A3,"Manifold learning based on multi-feature for road-sign recognition",0.0811854811855,0.0975135975136
+794C640D,"Kernel spectral regression of perceived age from hybrid facial features",0.0992929292929,0.101388888889
+59244EBD,"A Computational Framework for Nonlinear Dimensionality Reduction and Clustering",0.10436008436,0.110714285714
+7CB3E2A5,"Face recognition based on Two-Dimensional Discriminant Locality Preserving Projection",0.0924553224553,0.100673400673
+7936E4DA,"MV-MAP: multiresolution video visualization and summarization on MAPs",0.109682539683,0.11626984127
+7ACBC783,"2DPCA-based two-dimensional marginal sample discriminant embedding for SAR ATR",0.0963564213564,0.104166666667
+8061DE4A,"Copy-move forgery detection in digital images based on local dimension estimation",0.27397047397,0.250462962963
+7838F83F,"Vibration Fault Diagnosis for Wind Turbine Based on Enhanced Supervised Locally Linear Embedding",0.138571428571,0.12408234127
+8151F61A,"Manifold preprocessing for laser‐induced breakdown spectroscopy under Mars conditions",0.14309024309,0.146124708625
+7E6AABAA,"Nonlinear dimensionality reduction of electroencephalogram (EEG) for Brain Computer interfaces",0.102541902542,0.101144094001
+76450630,"A novel frontal view synthesis method based on Neighbor Embedding",0.137626262626,0.134259259259
+83969D17,"Online process monitoring based on incremental LPP",0.157619047619,0.195767195767
+7547A06B,"Correlation preserved dictionary learning for sparse representation",0.131666666667,0.150992063492
+7C01022E,"Using Hessian Locally Linear Embedding for autonomic failure prediction",0.124523809524,0.129861111111
+7EBD02F9,"Learning 3D Face Models for shape based retrieval",0.0948484848485,0.102188552189
+76D49DC7,"Joint optimization of manifold learning and sparse representations",0.128566433566,0.148695054945
+7D06FE69,"An operator theoretic framework for analysis of large-scale quadratic programming",0.293566433566,0.35
+7CEE6709,"Transferring Localization Models Across Space",0.12095959596,0.120643939394
+76DB69CD,"Semi-supervised Local Linear Embed Algorithm Based on Side-information",0.112023809524,0.131481481481
+75DBA070,"An Action Classification Algorithm Based on MEI and LPP",0.139121989122,0.178888888889
+7FE1A45C,"Semi-supervised Learning by Entropy Minimization",0.128566433566,0.158333333333
+79785332,"Density based clustering on manifolds with applications to creative design",0.130233100233,0.134116809117
+7C607C5D,"Two-layer generative models for estimating unknown gait kinematics",0.0902331002331,0.0900641025641
+5E4C1921,"Dimensionality Reduction of Hyperspectral Data Based on ISOMAP Algorithm",0.125238095238,0.133015873016
+793C5034,"Signal diffusion features for automatic target recognition in synthetic aperture sonar",0.103566433566,0.0945124320124
+75470D49,"Semi-Supervised Classification Based on Robust Path Regularization",0.135081585082,0.156944444444
+5A823B72,"Analysing periodic phenomena by circular PCA",0.12341991342,0.155555555556
+5B56002A,"Fuzzy Adaptive Resonance Theory, Diffusion Maps and their applications to Clustering and Biclustering",0.183333333333,0.155555555556
+7AD547AF,"Image denoising via Graph regularized K-SVD",0.102070707071,0.112037037037
+5FB68AC1,"A novel method of feature extraction based on local scatter and nonlocal scatter",0.115404040404,0.10462962963
+7B3A518B,"Laplacian object: One-shot object detection by locality preserving projection",0.298737373737,0.293737373737
+80AFC219,"A Novel Metric Learning Method and Its Application",0.139285714286,0.162037037037
+7ED718A6,"PerTurbo Manifold Learning Algorithm for Weakly Labeled Hyperspectral Image Classification",0.139285714286,0.153181818182
+7A2BB526,"Approximation Analysis of Margin-Based Ranking Algorithm",0.293174603175,0.350505050505
+77D5CD55,"Orthogonal Discriminant Neighborhood Preserving Embedding for facial expression recognition",0.0837995337995,0.0912121212121
+7FA68D6E,"Nearest-Manifold Classification with Gaussian Processes",0.157619047619,0.291666666667
+7092160F,"Behavior of Graph Laplacians on Manifolds with Boundary",0.163333333333,0.173789173789
+77065B40,"Nonlinear Dynamic Projection for Noise Reduction of Dispersed Manifolds",0.1009004884,0.110297110297
+753E464B,"Face Recognition Method Based on FLPP",0.102070707071,0.106755050505
+5A6B5DD1,"On the Improvement of the Mapping Trustworthiness and Continuity of a Manifold Learning Model",0.131666666667,0.122496947497
+7D949008,"A neighborhood selection algorithm for manifold learning",0.152137862138,0.163566433566
+6CAD8FA7,"Minimax Manifold Estimation",0.0750549450549,0.0833333333333
+7BD4022F,"Visual trackingand dynamic learning on the Grassmann manifold with inference from a Bayesian framework and state space models",0.135404040404,0.123976023976
+09D976B2,"Simplicial complexes in manifold learning",0.121356421356,0.142307692308
+7F39D894,"Orthogonal subspace based nonlinear correlation learning for supervised dimensionality reduction",0.10746031746,0.110090702948
+786C82BD,"Research and application of manifold learning to fault diagnosis of reciprocating compressor",0.197619047619,0.167055860806
+7B53437E,"Time and order estimation of paintings based on visual features and expert priors",0.122289377289,0.119676355391
+85A6B0F9,"Regression on manifolds using kernel dimension reduction",0.107864357864,0.104222629223
+7999CA30,"Automated clustering of histology slide texture using co-occurrence based grayscale image features and manifold learning",0.143717948718,0.116942663818
+6DA5728B,"Multi-Objective Genetic Programming Projection Pursuit for Exploratory Data Modeling",0.12746031746,0.129682539683
+60B5659A,"Nonlinear Dimensionality Reduction Methods in Climate Data Analysis",0.301666666667,0.261646224146
+7818A6F8,"Nonlinear dimensionality reduction method with the use of reference nodes for analysis of digital image collections",0.332070707071,0.238011063011
+70989D91,"k 근접 이웃 그래프 기반 매니폴드 학습에서의 k 의 선택",0.0811854811855,0.0909090909091
+7B2B2159,"Putting images on a manifold for atlas-based image segmentation",0.109848484848,0.107606837607
+7CCF3C91,"Utilization of dimensionality reduction in stacked generalization architecture",0.170622710623,0.16380952381
+7A773CA9,"Analysis and Visualization of Gene Expression Data via a Framework of Geometric Representation",0.305238095238,0.234188827046
+75447487,"Patterns classification of nonlinear multi-dimensional time series based on manifold learning",0.1668997669,0.153392639107
+6D22BFC8,"Human motion tracking with monocular video by introducing a graph structure into gaussian process dynamical models",0.169848484848,0.133573717949
+7B924A8A,"Phoneme classification based on supervised manifold learning",0.164285714286,0.155788655789
+78FDBD96,"Human Motion Capture Data Segmentation Based on LLE Algorithm",0.133015873016,0.140740740741
+80DC3230,"A Tutorial on Energy-Based Learning",0.121356421356,0.25
+7DF96BBB,"A novel image classification method based on manifold learning and Gaussian mixture model",0.178333333333,0.145379273504
+0FF0604A,"Isomapを用いたNeuroevolutionによるMarioエージェントの構成 (システム研究会 確率的最適化技術と機械学習技術の共進化)",0,0
+7681D8C7,"Manifold Learning and Missing Data Recovery through Unsupervised Regression",0.127070707071,0.123931623932
+5E022274,"Locally Linear Discriminant Embedding for Tumor Classification",0.130233100233,0.133333333333
+583583B9,"2DUDP: Novel method of feature extraction based on image matrix",0.115404040404,0.114351851852
+5B4B4289,"Spacecraft telemetry data monitoring by dimensionality reduction techniques",0.142222222222,0.135549371264
+7C500B87,"Detecting Intrinsic Loops Underlying Data Manifold",0.0970707070707,0.0924553224553
+7875FB32,"New Measure Based Manifold Algorithm and Application in Anomaly Detection of Hyperspectral Imagery",0.312051282051,0.312037037037
+7F77C18A,"Face recognition using curvilinear component analysis",0.296666666667,0.280404040404
+781BF1EA,"Endoscopic Video Manifolds for Targeted Optical Biopsy",0.10746031746,0.110297110297
+77F64F53,"Comparison of graph-based methods for non-linear dimensionality reduction",0.1418997669,0.154464285714
+7A8381E5,"Marginal and Nonlocal Discriminant Embedding for Face Recognition",0.0868997668998,0.0914141414141
+827D1DF8,"Towards simultaneous meta-modeling for both the output and input spaces in the context of design shape optimization using asynchronous high-performance computing",0.131197691198,0.118125701459
+78029B8E,"Fusion of Local Manifold Learning Methods",0.131746031746,0.148695054945
+75642BC1,"Study on the Low-Dimensional Embedding and the Embedding Dimensionality of Manifold of High-Dimensional Data",0.14,0.124273504274
+7AE4A3BB,"Fiber Tract Clustering on Manifolds With Dual Rooted-Graphs",0.0906371406371,0.0928418803419
+80F62A24,"PCA and KPCA for Predicting Membrane Protein Types",0.0880230880231,0.0947358197358
+7B7A8441,"Selecting Key Poses on Manifold for Pairwise Action Recognition",0.139121989122,0.121748251748
+7E1445C5,"Through Biometric Card in Romania: Person Identification by Face, Fingerprint and Voice Recognition",0.165404040404,0.132342657343
+5E077B8A,"Web document retrieval using manifold learning and ACO algorithm",0.154935064935,0.150404040404
+803CA596,"Understanding city dynamics by manifold learning correlation analysis",0.296666666667,0.224358974359
+78FB2C13,"Improved LLE Algorithm Based on Supervision",0.115471195471,0.138492063492
+76CB1F58,"Facial expression recognition based on Hessian regularized support vector machine",0.162051282051,0.131024531025
+75BFB67F,"Tracking Multiple Moving Vehicles in Low Frame Rate Videos Based on Trajectory Information",0.280404040404,0.205162738496
+771577B8,"A Semi-Definite Programming Embedding Framework for Local Preserving Manifold Learning",0.149523809524,0.142051282051
+58420EFC,"Does Dimensionality Reduction Improve the Quality of Motion Interpolation?",0.11341991342,0.114455782313
+787E18EF,"Dimensionality reduction of hyperspectral imaging data using local principal components transforms",0.10746031746,0.108068783069
+7D84723E,"Semi-Supervised Discriminant Analysis using robust path-based similarity",0.291748251748,0.403703703704
+7B21E953,"A Multi-Class Multi-Manifold Learning Algorithm Based on ISOMAP",0.112023809524,0.140740740741
+77902045,"The Research of Visualization Data Mining in Industrial Data",0.165555555556,0.153333333333
+093E54E7,"The maximized discriminative subspace for manifold learning problem",0.127070707071,0.132235819736
+77460AAD,"Falling and slipping detection for pedestrians using a manifold learning approach",0.316515151515,0.250587606838
+02A1B8D5,"Face Recognition Using Topological Manifolds Learning",0.0868997668998,0.0980108780109
+7CC4B369,"Linear low-rank approximation and nonlinear dimensionality reduction",0.106582306582,0.117989417989
+75C074B1,"AN IMPROVED LOCALLY LINEAR EMBEDDING FOR SPARSE DATA SETS",0.0970707070707,0.101388888889
+5D0FE752,"Distance-Preserving Projection of High-Dimensional Data for Nonlinear Dimensionality Reduction",0.109682539683,0.11626984127
+755F5EAD,"A Bicriteria-Optimization-Approach-Based Dimensionality-Reduction Model for the Color Display of Hyperspectral Images",0.0989704739705,0.10625
+79471B76,"An Online Manifold Learning Approach for Model Reduction of Dynamical Systems",0.117222222222,0.118111518112
+7CC66167,"New feature selection for neighbor embedding based super-resolution",0.158571428571,0.148888888889
+01403EA6,"Learning a simplicial structure using sparsity",0.0895188145188,0.106036324786
+7A5F605E,"Manifold based kernel optimization for KPCA",0.0992735042735,0.106036324786
+7969AF28,"Sub-manifold distance based object recognition in clutter",0.0811854811855,0.0959595959596
+031DEB2F,"Two-Stage Clustering of a Human Brain Tumour Dataset using Manifold Learning Models",0.12397047397,0.119781144781
+7C7F2343,"Data Classification on Multiple Manifolds",0.14,0.146011396011
+75636190,"The Geometry of Nonparametric Filament Estimation",0.0842857142857,0.0888888888889
+7FE22B08,"Notice of Retraction Maximum Generialized Fisher Criterion",0.10746031746,0.111219336219
+78955F1B,"Anthropometric-based customization of head-related transfer functions using Isomap in the horizontal plane",0.10746031746,0.109126984127
+0721C7AC,"Nonlinear Dimensionality Reduction by Multi Layer Perceptron Using Superposed Energy",0.143975468975,0.136646224146
+78F13B16,"Texture based image recognition in microscopy images of diffuse gliomas with multi-class gentle boosting mechanism",0.152777777778,0.121494355318
+7C8568F0,"Tropical cyclones similarity analysis based on manifold learning",0.336753246753,0.280148555149
+80ACBD33,"On-bed monitoring for range of motion exercises with a pressure sensitive bedsheet",0.156666666667,0.152308802309
+7B2913EE,"Automatic modeling of nonlinear signal source variations in hyperspectral data",0.111197691198,0.112103174603
+7656814D,"Metrics of the Laplace-Beltrami eigenfunctions for 2D shape matching",0.0884149184149,0.0916666666667
+7B8B041A,"Approximate spectral clustering with utilized similarity information using geodesic based hybrid distance measures",0.0970707070707,0.10266955267
+7F1BEA6D,"Min(d)ing the small details: discovery of critical knowledge through precision manifold learning, and application to onboard decision support",0.197070707071,0.173843328389
+7D18D6E9,"Conformal self-organizing map on curved seamless surface",0.0895188145188,0.1125
+73988E50,"Comparative Evaluation of Semi-supervised Geodesic GTM",0.119523809524,0.2
+7F4E56EE,"A Novel Image Classification Method Based on Double Manifold Learning",0.164285714286,0.156339031339
+79C3E1CC,"The Estimation Algorithm of Laplacian Eigenvalues for the Tangent Bundle",0.125238095238,0.113737373737
+23CC19EA,"A Hybrid Business Failure Prediction Model Using Locally Linear Embedding And Support Vector Machines",0.167051282051,0.143907828283
+799935AD,"Noise reduction of echocardiography images using Isomap algorithm",0.124523809524,0.155793650794
+7E8CE959,"Learning shape statistics for hierarchical 3D medical image segmentation",0.109848484848,0.106111111111
+85D71A44,"Nonlinear dimensionality reduction using circuit models",0.10436008436,0.108975468975
+7C8D59E7,"Robust face recognition with class dependent factor analysis",0.296666666667,0.282626262626
+0BF26A9E,"Διαχείριση γραφημάτων μεγάλης κλίμακας για δεδομένα του παγκόσμιου ιστού",0,0
+7539F523,"Human detection in MOUT scenarios using covariance descriptors and supervised manifold learning",0.271356421356,0.223314879565
+7AD3DB3A,"Nonlinear barycentric dimensionality reduction",0.102541902542,0.121428571429
+7A00D578,"Mahalanobis Distance Metric Based Laplacian Mapping for Image Recognition",0.102070707071,0.105808080808
+8158BD17,"Method of Laplacian Eigenmap-Based Pattern Recognition and Diagnosis for Incipient Fault of Pipelines",0.130709290709,0.137770562771
+7A3B1593,"Robust Super-Resolution of Face Images by Iterative Compensating Neighborhood Relationships",0.110404040404,0.103566433566
+7C5C73EF,"Grassmannian locality preserving discriminant analysis to view invariant gait recognition with image sets",0.301666666667,0.212657828283
+78F8565F,"Spatio-temporal modeling of grasping actions",0.139121989122,0.144444444444
+7555EB30,"Multivariate discretization for Bayesian Network structure learning in robot grasping",0.133585858586,0.140404040404
+781B951C,"Algorithm for Riemannian manifold learning",0.149523809524,0.175641025641
+78181210,"Locality preserving projections as a new manifold analysis approach for robust face super-resolution",0.298888888889,0.235087135087
+7F969F57,"Multi-view face recognition based on manifold learning and multilinear representation",0.131666666667,0.128633403633
+80281C4D,"Locality Constrained Dictionary Learning for Nonlinear Dimensionality Reduction",0.13436008436,0.130086580087
+76625C79,"A live multimedia stream querying system",0.121515151515,0.118551587302
+7977C92C,"A Dynamic Neighborhood Selection Approach for Locally Linear Embedding",0.122137862138,0.135227272727
+78DA968D,"An Improved Noise Reduction Algorithm Based on Manifold Learning and Its Application to Signal Noise Reduction",0.164285714286,0.15427960928
+5A63E10F,"Data Reduction for Network Forensics Using Manifold Learning",0.17,0.150444793302
+7C7831F9,"Discriminant Pairwise Local Embeddings",0,0
+7CA3AC6A,"Content-based image retrieval utilizing explicit shape descriptors: applications to breast MRI and prostate histopathology",0.144696969697,0.124214365881
+5E7DC18C,"Modeling of high dimensional blast furnace system by manifold learning",0.139682539683,0.124592999593
+7AF64FE0,"Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning by IZENMAN, A. J",0.164285714286,0.146043771044
+26BC252A,"Multiple-activity human body tracking in unconstrained environments. Articulated Motion and Deformable Objects (AMDO",0.118737373737,0.114351851852
+7EADE305,"Analysis of linear and nonlinear dimensionality reduction methods for gender classification of face images",0.311666666667,0.241720779221
+8125F543,"Graph embedding based feature selection",0.125238095238,0.121111111111
+7566F48E,"Action classification algorithm based on EGEI and LPP",0.139121989122,0.202777777778
+7D1FBE35,"Joint Super-Resolution and Shadow Removing",0.0697893772894,0.0769230769231
+78924BCA,"An algorithm of multi-structure based on Riemannian manifold learning",0.149523809524,0.159508547009
+7E4E44F3,"Spectral learning of latent semantics for action recognition",0.1668997669,0.170454545455
+792D37D2,"Learning Geodesic Metric for Out-of-Sample Extension of Isometric Embedding",0.0811854811855,0.0951178451178
+7E747E08,"Class-specific factor analysis for object recognition",0.287619047619,0.400673400673
+76E575A2,"Human action recognition from silhouettes using manifold learning and MDA",0.1668997669,0.157070707071
+770D41C3,"Study Speech Recognition System Based on Manifold Learning",0.178888888889,0.155722055722
+785AB902,"A manifold based methodology for color constancy",0.0884149184149,0.0942735042735
+7A01BDE5,"Optimal Locality Preserving Projection",0.086741036741,0.100673400673
+7E47C6F7,"A stochastic model for natural feature representation",0.107137862138,0.114285714286
+79F7F133,"Learning gradients on manifolds",0.0970707070707,0.0997150997151
+85A59A67,"A content-based image retrieval method based on manifold learning",0.126767676768,0.129823879824
+79F1365F,"Selecting Protein Families for Environmental Features Based on Manifold Regularization",0.0933333333333,0.100336700337
+104304DC,"Graphs and Combinatorial Representations of Stochastic Processes",0.171904761905,0.195767195767
+6FDBFF6A,"An Explicit Nonlinear Mapping for Manifold Learning",0.127070707071,0.146011396011
+7B72D534,"Speech emotion recognition based on supervised locally linear embedding",0.122137862138,0.111447811448
+0B555C7E,"Manifold knowledge extraction and target recognition",0.148333333333,0.116748251748
+806D70D9,"Discriminating classes collapsing for Globality and Locality Preserving Projections",0.0992929292929,0.0992929292929
+7B83D482,"Perceptual nearest neighbors for classification",0.171515151515,0.25
+7B0FB225,"Manifold learning for simultaneous pose and facial expression recognition",0.121356421356,0.11993006993
+7B6C364C,"Regional Manifold Learning for Disease Classification",0.164285714286,0.162087912088
+79B669D7,"A Bayesian Approach to Face Hallucination Using DLPP and KRR",0.102435897436,0.113005050505
+83535254,"Learning Surfaces by Probing",0.0895188145188,0.109006734007
+803BE309,"From Local Similarity to Global Coding: An Application to Image Classification",0.1418997669,0.195
+7DED033C,"Integrating Local and Global Manifold structures for unsupervised dimensionality reduction",0.112157287157,0.105622710623
+8022D685,"Manifold Modeling with Learned Distance in Random Projection Space for Face Recognition",0.107626262626,0.0968836718837
+814378DE,"Informative representations of unstructured environments",0.107137862138,0.121428571429
+7B778051,"Local Coordinates Alignment With Global Preservation for Dimensionality Reduction",0.135081585082,0.148214285714
+7FC9E919,"Learning Shape Manifolds using Diffusion Maps",0.104848484848,0.104024216524
+77360EE3,"Face recognition on Lorentzian manifold",0.0868997668998,0.0892773892774
+777F2254,"Detection of Salient Image Points Using Principal Subspace Manifold Structure",0.283585858586,0.234293484293
+7AA6B3D3,"Tangent space intrinsic manifold regularization for data representation",0.113975468975,0.119742063492
+77E17BDD,"Exploiting spectral-spatial proximity for classification of hyperspectral data on manifolds",0.14,0.122991452991
+79069034,"Evaluating perceptual maps of asymmetries for gait symmetry quantification and pathology detection",0.272051282051,0.207342657343
+7951F2F5,"Semi-Supervised Hyperspectral Subspace Learning Based on a Generalized Eigenvalue Problem for Regression and Dimensionality Reduction",0.10746031746,0.104220779221
+7BCF515F,"Robust Face Pose Estimation from Insufficient Data",0.0970707070707,0.0981481481481
+78B3708A,"Using density invariant graph Laplacian to resolve unobservable parameters for three-dimensional optical bio-imaging",0.0970707070707,0.0974747474747
+7E3C1856,"Towards Semi-supervised Manifold Learning: UKR with Structural Hints",0.121356421356,0.170454545455
+796248EE,"An Error Bound for Eigenvalues of Graph Laplacian with Bounded Kernel Function",0.12746031746,0.119444444444
+768FC484,"Graph-based denoising and classification of hyperspectral imagery using nonlocal operators",0.1568997669,0.165277777778
+78F2946E,"Research of Face Recognition Based on Locally Linear Embedding",0.16,0.143737373737
+5F3B620D,"Random walks for interactive alpha-matting",0.0854826546003,0.125
+5C601786,"3D model classification using salient features for content representation",0.145471195471,0.140793650794
+7FBF97DB,"Person Reidentification by Kernel PCA Based Appearance Learning",0.149292929293,0.155555555556
+790E80BF,"Iterative Hyperplane Merging: A Framework for Manfiold Learning",0.121356421356,0.153703703704
+7AD9AD9C,"Human Age Estimation by Metric Learning for Regression Problems",0.0970707070707,0.0959595959596
+7A86B63C,"Learning Manifold from Incomplete Image Set",0.102070707071,0.106036324786
+7C3A892E,"Face recognition via adaptive image combination",0.102070707071,0.106755050505
+78F68697,"A novel fingerprint recognition algorithm based on VK-LLE",0.12031968032,0.125505050505
+759F7D92,"Ensemble-Based Manifold Learning Methods for Localization in Wireless Sensor Networks",0.145,0.130433455433
+7F5E57E0,"An image matrix compression based supervised locality preserving projections for face recognition",0.102070707071,0.105018939394
+712D3AA2,"A research overview of manifold-learning-based multiobjective evolutionary algorithm",0.154285714286,0.208080808081
+267A8E74,"Manifold Learning in Computational Biology",0.121356421356,0.136752136752
+6E53D712,"Alan Julian Izenman (2008): Modern Multivariate Statistical Techniques: Regression, Classification and Manifold Learning",0.164285714286,0.154273504274
+7606C5FB,"Nonlinear Dimensionality Reduction on 3-D Protein Image Analysis",0.301666666667,0.293571428571
+7813F5D8,"Time-frequency manifold for demodulation with application to gearbox fault detection",0.314285714286,0.320769230769
+79B9F63B,"Video manifold modelling: finding the right parameter settings for anomaly detection",0.295,0.237373737374
+73C0FEF7,"Manifold Learning and Visualization Based on Dynamic Self-Organizing Map",0.125788655789,0.129829059829
+05FBD223,"Οργάνωση και διαχείριση βάσεων εικόνων βασισμένη σε τεχνικές εκμάθησης δεδομένων πολυσχιδούς δομής",0,0
+8503F70B,"LEFT VENTRICULAR SEGMENTATION IN ECHOCARDIOGRAPHY IMAGES BY MANIFOLD LEARNING AND DYNAMIC DIRECTED VECTOR FIELD CONVOLUTION",0.163015873016,0.134880050505
+76F96E3F,"An integrated framework for analyzing three-dimensional shape differences: Evaluating prostate morphometry",0.0970707070707,0.0994107744108
+7D355D42,"Two-directional two-dimensional discriminant locality preserving projections for image recognition",0.0989704739705,0.103585858586
+7C2CD04E,"LTSA Algorithm for Dimension Reduction of Microarray Data",0.125238095238,0.138492063492
+7855BAF0,"Learning and Recognition of Object Manipulation Actions Using Linear and Nonlinear Dimensionality Reduction",0.1668997669,0.158792001649
+85C69BE6,"IMPROVING THE NONLINEAR MANIFOLD SEPARATOR MODEL TO THE FACE RECOGNITION BY A SINGLE IMAGE OF PER PERSON",0.154292929293,0.127134324009
+75A1CEFB,"Mixtures of Local Dictionaries for Unsupervised Speech Enhancement",0.133571428571,0.129166666667
+7B2C17EA,"A novel feature extraction algorithm of acoustic targets based on locality preserving discriminant projections",0.140793650794,0.116130050505
+7F3F7EA5,"Tracking a moving target in cluttered environments with ranging radios",0.0884149184149,0.0975589225589
+7AAE049B,"Decision Forests: A Unified Framework for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning",0.1668997669,0.145757575758
+76EDD548,"Phase-field modeling of fracture in linear thin shells",0.0788045288045,0.0818903318903
+60710E58,"Méthodes mathématiques d’analyse d’image pour les études de population transversales et longitudinales",0.0970707070707,0.0868055555556
+7C4778E4,"Image matching for weld seam tracking based on nonlinear dimensionality reduction method Isomap",0.10936008436,0.110912698413
+75191080,"Synthesis of Data-Parallel Algorithms for Programmable Logic Devices",0.138015873016,0.14537037037
+0F6F8AFC,"Multi-perspective, Multi-modal Image Registration and Fusion",0.106746031746,0.136904761905
+7A6389A6,"Image Matting via Local Tangent Space Alignment",0.110404040404,0.104848484848
+79C42A8E,"Improving face recognition from a single image per person via virtual images produced by a bidirectional network",0.154292929293,0.135669191919
+55AD1695,"Article Kernel Based Nonlinear Dimensionality Reduction and",0.107864357864,0.113015873016
+7D85164B,"Wisdom of Crowds: Single Image Super-resolution from the Web",0.124365079365,0.127678571429
+75EB3D74,"Nonlinear feature extraction applied to ISAR images of targets for classification",0.158333333333,0.13367003367
+5CB87C18,"Data embedding techniques and applications",0.142222222222,0.138888888889
+8445AE4D,"A Convex Programming Approach to the Trace Quotient Problem",0.110081585082,0.108181818182
+7E93BD16,"Face recognition using a kernel fractional-step discriminant analysis algorithm",0.295555555556,0.268855218855
+807E324B,"Far-field acoustic source localization and bearing estimation using ΣΔ learners",0.146515151515,0.137037037037
+587792E5,"Discriminant Improved Local Tangent Space Alignment with adaptively weighted complex wavelet for face recognition",0.107626262626,0.102840909091
+254197EB,"Large-Scale Methods for Nonlinear Manifold Learning",0.121356421356,0.150641025641
+8320640C,"Curvilinear component analysis for nonlinear dimensionality reduction of hyperspectral images",0.298566433566,0.293571428571
+08290B47,"Multivariate Analysis and Classification of Large Astronomical Databases",0.301748251748,0.45
+8045D003,"Dual clustering for categorization of action sequences",0.142222222222,0.138005050505
+760AF4C7,"Estimating manifold dimension with nearest neighbor graphs",0.130404040404,0.136111111111
+8107D5DF,"Surveillance face hallucination via variable selection and manifold learning",0.176666666667,0.160042735043
+7F4A81A2,"Ear recognition using LLE and IDLLE algorithm",0.11619047619,0.134006734007
+7CD6F4BC,"Minimax distance metric-based neighborhood selection algorithm for Isomap",0.122137862138,0.145454545455
+027C921D,"Manifold Inspired feature extraction for hyperspectral image",0.115404040404,0.116666666667
+80DBD236,"A neural network that explains as well as predicts financial market behavior",0.163333333333,0.213675213675
+773F7CFE,"Supervised Locally Linear Embedding based dimension reduction for hyperspectral image classification",0.1418997669,0.127947845805
+717CB9BD,"Feature extraction of urban traffic network data based on Local Tangent Space Alignment",0.117222222222,0.10948372615
+78D95DF1,"Nonlinear Dimensionality Reduction by LEE, J. A. and VERLEYSEN, M.",0.112931512932,0.117261904762
+5B6541EB,"Geodesic Generative Topographic Mapping",0.0970707070707,0.111111111111
+7D6C5CEF,"Manifold Learning for Visualizing and Analyzing High-Dimensional Data",0.127070707071,0.126495726496
+7841EFE8,"Evolving artificial neural networks for nonlinear feature construction",0.125238095238,0.125505050505
+7D54B3E4,"A moments-based approach to estimation and data interpolation for a class of Wiener systems",0.128333333333,0.123015873016
+03B8FC73,"Online Co-Localization in Indoor Wireless Networks by Dimension Reduction",0.10746031746,0.109325396825
+7D25CDC7,"Subspace Learning from Image Gradient Orientations",0.145,0.141666666667
+0BBE6F54,"Laplacian eigenmaps manifold learning for landmark localization in brain MR images",0.12,0.108788433788
+133D077C,"Non-linearity's in proxy space: Three methods to deal with the non-linear behavior of proxies in calcareous marine skeletons",0.17841991342,0.143514223871
+58A1B005,"Kernel Neighborhood Preserving Embedding and its Essence Analysis",0.30746031746,0.338492063492
+7B783B9E,"Manifold learning for automatically predicting articular cartilage morphology in the knee with data from the osteoarthritis initiative (OAI)",0.127070707071,0.102771810615
+5CA06E01,"Nonlinear Manifold Learning for Visual Speech Recognition",0.149523809524,0.154458041958
+79BF80EE,"Extended ISOMAP Based on Neighborhood Sets Relation",0.120793650794,0.113997113997
+7AB4A581,"Investigating the Effects of Multiple Factors Towards More Accurate 3-D Object Retrieval",0.118737373737,0.111919191919
+7E3D480B,"A new feature extraction method for image recognition using structural two-dimensional locality preserving projections",0.115404040404,0.109880050505
+7850BEE2,"Approaches to identification of nonlinear systems",0.115404040404,0.148148148148
+7BEF0487,"Signal Denoise Method Based on the Higher Order Cumulant and Local Tangent Space Mean Reconstruction",0.123737373737,0.114574314574
+76CAAF56,"Adaptive Edge Weights for Supervised Graph Embedding",0.0970707070707,0.0963383838384
+5E03280D,"편향된 다양체 학습 기반 시점 변화에 강인한 인체 포즈 추정",0,0
+72821798,"Spanifold: spanning tree flattening onto lower dimension",0.0952331002331,0.105303030303
+75B59378,"Local Neighborhood Embedding for Unsupervised Nonlinear Dimension Reduction",0.102541902542,0.104274891775
+78EFE31E,"An Incremental Locally Linear Embedding Algorithm with Non-Negative Constraints of the Weights",0.12031968032,0.116666666667
+7D0F1D3E,"Levenberg-Marquardt algorithm for nonlinear principal component analysis neural network through inputs training",0.296666666667,0.265608465608
+7EAADBB4,"Face Recognition Based on Polynomial Fuzzy Matching",0.0868997668998,0.100673400673
+7F37579E,"Predicting Membrane Protein Types with Dimensionality Reduction and Kernel Method",0.114682539683,0.107238941614
+006BAB8C,"Fast Nonlinear Dimensionality Reduction With Topology Preserving Networks",0.10746031746,0.105079365079
+80871418,"Prediction of Protein Quaternary Structure by a Novel Manifold Learning Algorithm",0.161753246753,0.155384615385
+770FF3A6,"A New Multivariate Statistical Model for Change Detection in Images Acquired by Homogeneous and Heterogeneous Sensors",0.293717948718,0.26712962963
+76385043,"The Image Matting Method with Regularized Matte",0.105808080808,0.111111111111
+06324FAB,"Directional Two-dimensional Neighborhood Preserving Projection for Face Recognition",0.0924553224553,0.0985858585859
+6D5EB2F3,"Online process monitoring based on incremental LPP",0.157619047619,0.195767195767
+7B3CBE5A,"Fusion of Manifold Learning and Spectral Clustering Algorithmwith Applications to Fault Diagnosis",0.1668997669,0.15180533752
+5ECE04D0,"Face Recognition Using Marginal Discriminant Linear Local Tangent Space Alignment",0.107626262626,0.102988215488
+08330311,"Dimensionality Reduction and Data Visualisation",0.109682539683,0.11626984127
+782B1957,"KIsomap-based feature extraction for spoken emotion recognition",0.106666666667,0.103977272727
+79D61343,"Hashing on Nonlinear Manifolds",0.0612867481676,0.0769230769231
+7C0B74B4,"Improved outlier identification in hyperspectral imaging via nonlinear dimensionality reduction",0.1318997669,0.141904761905
+768F44C2,"Manifold synthesis: Predicting a manifold from one sample",0.109848484848,0.0974893162393
+779B269E,"Geometric Manifold Learning",0.121356421356,0.163461538462
+01897967,"Spatial context driven manifold learning for hyperspectral image classification",0.139285714286,0.124142061642
+7C6AAFB1,"High Resolution Range Profile Recognition Using Robust Kernel Neighborhood Preserving Projection",0.0977777777778,0.0996632996633
+7916A622,"A novel semi-supervised feature extraction algorithm",0.138571428571,0.141666666667
+7BF808D4,"Face Recognition Based on Supervised Kernel Isomap",0.089121989122,0.103282828283
+78F132A8,"Exploiting Visual Quasi-periodicity for Automated Chewing Event Detection Using Active Appearance Models and Support Vector Machines",0.347070707071,0.226789321789
+75AD79FD,"A framework for high dimensional data reduction in the microarray domain",0.10746031746,0.111219336219
+858E1D79,"Multi-view visual classification via a mixed-norm regularizer",0.130233100233,0.25
+7FC08E70,"Face image retrieval by using Haar features",0.103585858586,0.105404040404
+2C96BB1F,"A manifold learning approach to target detection in high-resolution hyperspectral imagery",0.287051282051,0.271937321937
+02E825D3,"Reweighting recognition using kernel method",0.104292929293,0.109532828283
+5D6F773F,"Perceptual nearest neighbors for classification",0.171515151515,0.25
+7A7D4F40,"Ensemble-Based Manifold Learning for Visualization",0.121356421356,0.146011396011
+7D397951,"Automated Nonlinear Feature Generation and Classification of Foot Pressure Lesions",0.173333333333,0.14708994709
+77FD9645,"Applying manifold learning techniques to the CAESAR database",0.102844932845,0.115238095238
+787DF885,"Hand-Based Feature Level Fusion for Single Sample Biometrics Recognition",0.11246031746,0.108868446368
+7F641D11,"Tail Deviation’s Predictive Control of the Tandem Rolling Strip Based on Manifold Learning",0.135404040404,0.119242909868
+75CBCC88,"2DUDP: Novel method of feature extraction based on image matrix",0.115404040404,0.114351851852
+7A72EEFA,"Supervised manifold learning based on biased distance for view invariant body pose estimation",0.108585858586,0.10084013209
+772BED11,"A LTSA and artificial immune based early fault detection for reciprocating compressor",0.306666666667,0.308888888889
+230ABEE0,"Méthodes de démélange non-linéaires pour l'imagerie hyperspectrale",0,0.1
+76CA2915,"Categorizing Dynamic Textures Using a Bag of Dynamical Systems",0.0937373737374,0.102626262626
+7722E3FB,"Laplacian support vector machine for hyperspectral image classification by using manifold learning algorithms",0.192051282051,0.182544191919
+80BA7AA3,"Optimized ISOMAP algorithm using similarity matrix",0.12031968032,0.118888888889
+7B5795F4,"Semi-supervised Laplacian eigenmaps for dimensionality reduction",0.102541902542,0.121428571429
+7C8FB54C,"LGE-KSVD: Robust Sparse Representation Classification",0.145471195471,0.196428571429
+79746BD3,"Locality preserving KSVD for nonlinear manifold learning",0.12397047397,0.129458041958
+763B5AE7,"A manifold learning based feature extraction method for hyperspectral classification",0.183333333333,0.148290598291
+7A14AFFE,"SU‐EE‐A3‐05: Real Time Tumor Motion Monitoring during IGRT Based on Manifold Learning and Dynamic Registration between 4DCT and Fluoroscopy",0.13746031746,0.130547924298
+12D6FD05,"Information Visualization, Nonlinear Dimensionality Reduction and Sampling for Large and Complex Data Sets",0.109682539683,0.112471655329
+018A315B,"Manifold learning based feature extraction for classification of hyper-spectral data",0.183333333333,0.146306471306
+13323798,"Improved Neural Network Based Manifold Learning Method for Face Recognition with Less Face Images Per Individual",0.154292929293,0.125863530409
+58567389,"Flexible editing of human motion by three‐way decomposition",0.0970707070707,0.0941798941799
+5AFC08D9,"Building k-Connected Neighborhood Graphs for Isometric Data Embedding",0.0970707070707,0.0992929292929
+7B860F22,"Learning Smooth Pattern Transformation Manifolds",0.101746031746,0.110297110297
+7D538A39,"An adaptive inspection-method for industrial welding seam based on ISOMAP algorithm and the modification of BP ANN",0.116753246753,0.134444444444
+7D8CFE86,"A Novel Nonlinear Dimensionality Reduction Method for Robust Wood Image Recognition",0.11246031746,0.113961038961
+7B6B4F71,"Research on Status of Loss-of-Coolant Accident of Reactor Based on Manifold Learning",0.193333333333,0.154928404928
+779B3A45,"Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning",0.164285714286,0.157070707071
+711F6773,"Visual Characterization of Misclassified Class C GPCRs through Manifold-based Machine Learning Methods",0.127070707071,0.126725589226
+59D9510F,"Locally Multidimensional Scaling for Nonlinear Dimensionality Reduction",0.12031968032,0.147619047619
+7BF59A45,"3D model classification using salient features for content representation",0.145471195471,0.140793650794
+7AC1326C,"H-APF: Using hierarchical representation of human body for 3-D articulated tracking and action classification",0.155086580087,0.167328042328
+77BD3AE4,"Artificial Neural Network Based Intrusion Detection Method Combined with Manifold Learning Algorithm",0.305238095238,0.251041666667
+7B0C5F52,"Voting Among Virtually Generated Versions of a Classification Problem",0.132467532468,0.147727272727
+7B73231F,"Lip contour tracking using multiple dynamic models on a manifold",0.0822843822844,0.0942735042735
+6DD267DC,"Coarse-to-fine manifold learning",0.121356421356,0.163461538462
+7FA54565,"Multi-pose Ear Recognition Based on Improved Locally Linear Embedding",0.0837995337995,0.0952525252525
+7C0BC473,"ISOMAP Algorithm-Based Feature Extraction for Electromechanical Equipment Fault Prediction",0.143571428571,0.132222222222
+7C766872,"Detection of Copy-Move Forgery based on one improved LLE method",0.271356421356,0.283888888889
+82A45E5E,"Exploratory visualization of misclassified GPCRs from their transformed unaligned sequences using manifold learning techniques",0.121356421356,0.12904040404
+7554FEE1,"Features extraction in spatial hearing based on nonlinear manifold learning algorithm",0.149523809524,0.146815221815
+7E7144F4,"Bangla Hand Written digit recognition using supervised locally linear embedding algorithm and Support Vector Machine",0.162051282051,0.127474747475
+7D31CBAA,"Local manifold learning for multiatlas segmentation: application to hippocampal segmentation in healthy population and Alzheimer's disease",0.177777777778,0.140240711669
+7C36040D,"Multi-Channel Transfer Function with Dimensionality Reduction",0.10746031746,0.124206349206
+7557F344,"Nonnegative Matrix Factorization With Regularizations",0.0884149184149,0.0969696969697
+772B3E40,"Graph-Based Supervised Automatic Target Detection",0.267619047619,0.391414141414
+7EBF04F2,"Schroedinger Eigenmaps for the Analysis of Biomedical Data",0.296666666667,0.555555555556
+7E4195CD,"Semi-Supervised Classification on Evolutionary Data",0.14,0.180555555556
+790C1F5B,"Supervised Manifold Learning and Kernel Independent Component Analysis Applied to the Face Image Recognition",0.326666666667,0.21525295692
+7C42ED06,"Motion planning and reactive control on learnt skill manifolds",0.148571428571,0.136178266178
+650DB290,"A manifold learning framework for both clustering and classification",0.1668997669,0.155384615385
+7C39395A,"A Research for Face Recognition Based on Locally Linear Embedding Algorithm",0.16,0.153114478114
+7AA5D7A8,"SU‐GG‐I‐107: Unsupervised Nonlinear Dimensionality Reduction for Multiparametric Oncological Image Segmentation",0.120238095238,0.119742063492
+5DAE3757,"A Model for Machine Perception in Natural Environments",0.100788655789,0.10625
+7BC5EAB5,"Facial Feature Alignment by Manifold Learning of Active Appearance Model",0.127070707071,0.132222222222
+5DE7E34F,"Improvement of Supervised Isomap Algorithm and Its Application to Visualization and Categorization of Web Chinese Text",0.142222222222,0.148021885522
+7A15F6FD,"LPP-HOG: A New Local Image Descriptor for Fast Human Detection",0.271356421356,0.405303030303
+7AC1316A,"A fuzzy neural network prediction model based on manifold learning to reduce dimensions for typhoon intensity",0.135404040404,0.119005439005
+5BCAB92A,"3D surface parameterization using manifold learning for medial shape representation",0.138181818182,0.145793650794
+7012B791,"Visual Tracking Based on Extreme Learning Machine and Sparse Representation",0.130384615385,0.145793650794
+7B88284E,"Semisupervised kernel orthonormalized partial least squares",0.0818925518926,0.0912698412698
+68020419,"Manifold-based feature point matching for multi-modal image registration.",0.106746031746,0.111753246753
+7B7A1C50,"K-means clustering with manifold",0.0612867481676,0.0801282051282
+7ABDABB8,"A nonlinear manifold learning framework for real-time motion estimation using low-cost sensors",0.127070707071,0.118925518926
+26EEFB7A,"Visualizing Data using t-SNE Laurens van der Maaten MICC-IKAT",0.105642135642,0.112103174603
+7C04153D,"Cage-Based Motion Recovery Using Manifold Learning",0.127070707071,0.145833333333
+75D4D9E6,"Directional Two-dimensional Neighborhood Preserving Projection for Face Recognition",0.0924553224553,0.0985858585859
+3DE4A17E,"A note on metric properties of some divergence measures: The Gaussian case",0.117222222222,0.119444444444
+8148E224,"Speaker Recognition Based on i-Vector and Improved Local Preserving Projection",0.105788655789,0.119949494949
+77FC0CA3,"Spectral embedding based active contour (SEAC): application to breast lesion segmentation on DCE-MRI",0.14595959596,0.115759637188
+82F63BC0,"New statistical modeling of multi-sensor images with application to change detection",0.314285714286,0.313888888889
+7DBBE251,"Landmark-based segmentation of lungs while handling partial correspondences using sparse graph-based priors",0.111197691198,0.109920634921
+7F6C3203,"Face Feature Extraction Based on Uncorrelated Locality Information Projection",0.112626262626,0.107034632035
+7D0F9C02,"A Nonrigid Kernel-Based Framework for 2D-3D Pose Estimation and 2D Image Segmentation",0.109848484848,0.104861111111
+7B930449,"Skew-Radial Basis Function Expansions for Empirical Modeling",0.101666666667,0.107638888889
+04BDBE39,"Learning pattern transformation manifolds with parametric atom selection",0.133571428571,0.131178266178
+08A422CF,"Distinguishing variance embedding",0.0838564213564,0.0951178451178
+5C91B8A9,"Nonlinear Visualization of Incomplete Data Sets",0.0992929292929,0.111111111111
+63A12147,"EDITORIAL: Focus on Quantum Control",0.0902331002331,0.0977272727273
+6DF173E4,"A Dimension Reduction Framework for HSI Classification Using Fuzzy and Kernel NFLE Transformation",0.1368997669,0.141137566138
+75C13C10,"A New Supervised Manifold Learning Method",0.0963564213564,0.0990918803419
+7D0A47B6,"Visual category recognition using Spectral Regression and Kernel Discriminant Analysis",0.298888888889,0.251262626263

@@ -1,0 +1,67 @@
+810C904A	International Conference on Acoustics, Speech, and Signal Processing<--Spectral analysis of alignment in manifold learning
+6FCF090C	Artificial Neural Networks in Pattern Recognition<--Low-Dimensional Data Representation in Data Analysis
+7E6E38EF	Iberian Conference on Pattern Recognition and Image Analysis<--Face Recognition Using Principal Geodesic Analysis and Manifold Learning
+7B8AC148	Neurocomputing<--Flexible orthogonal semisupervised learning for dimension reduction with image classification
+7745A8F7	Measurement Science and Technology<--Automatic inline defect detection for a thin film transistor?liquid crystal display array process using locally linear embedding and support vector data description
+0A5C6325	Information Sciences<--Manifold Learning Based Locomotion Analysis and Synthesis
+7DA822C3	Technologies and Applications of Artificial Intelligence (TAAI), 2010 International Conference on. IEEE<--An Intrinsic Graphical Signature Based on Alert Correlation Analysis for Intrusion Detection
+76C2E023	International Journal of Computational Intelligence Systems<--Support Vector Machines with Manifold Learning and Probabilistic Space Projection for Tourist Expenditure Analysis
+7C46A294	Pattern Recognition<--Multi-manifold LLE learning in pattern recognition
+77021FAC	Clinical Orthopaedics and Related Research<--Schroedinger Eigenmaps for the Analysis of Bio-Medical Data
+79B32AC5	Neurocomputing<--Letters: Linear local tangent space alignment and application to face recognition
+7C300835	Signal Processing<--Multiple kernel local Fisher discriminant analysis for face recognition
+6C921C82	International Conference on Neural Information Processing<--Identification of moving vehicle trajectory using manifold learning
+7BE46FEE	Proceedings of the 2005 ACM SIGCHI International Conference on Advances in computer entertainment technology. ACM<--Towards manifold learning for gamebot behavior modeling
+5D54CAB5	Medical Image Computing and Computer-Assisted Intervention<--High-throughput prostate cancer gland detection, segmentation, and classification from digitized needle core biopsies
+79E68044	International Conference on E-Business and E-Government<--Multimanifold analysis with adaptive neighborhood in DCT domain for face recognition using single sample per person
+7EA8FC35	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Riemannian Manifold Learning
+15308459	Conference on Computational Complexity<--Fault detection CVA algorithm of chemical process based on ISOMAP
+788099C9	Ieice Transactions<--Semi-Supervised Nonparametric Discriminant Analysis
+804ACF9F	Computer Vision and Pattern Recognition<--Inferring 3D body pose from silhouettes using activity manifold learning
+795AC0B1	International Conference on Machine Learning<--Analysis and extension of spectral methods for nonlinear dimensionality reduction
+7E2F6F8B	IEEE Signal Processing Letters<--Local Two-Dimensional Canonical Correlation Analysis
+79A05253	International Journal of Computer Vision<--Translated Poisson Mixture Model for Stratification Learning
+78F132A8	International Conference on Pattern Recognition<--Exploiting Visual Quasi-periodicity for Automated Chewing Event Detection Using Active Appearance Models and Support Vector Machines
+7A71B1B2	International Conference on Machine Learning<--Statistical and computational analysis of locality preserving projection
+75EB5739	Computer Vision and Pattern Recognition<--Sparse concept coding for visual analysis
+77599537	Image and Vision Computing<--Sparse representation with multi-manifold analysis for texture classification from few training images
+7CBFD502	Medical Physics<--A hierarchical spectral clustering and nonlinear dimensionality reduction scheme for detection of prostate cancer from magnetic resonance spectroscopy (MRS).
+76B502A8	IEEE Third Inernational Conference on Social Computing <--Anomaly Detection on Collective Moving Patterns: Manifold Learning Based Analysis of Traffic Streams
+7EBC281D	Procedia Computer Science<--Analysis of Car Crash Simulation Data with Nonlinear Machine Learning Methods
+7090DD75	Information not present<--Learning techniques for multi-modal facial analysis
+7FBD2B42	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Comments on "Globally Maximizing, Locally Minimizing: Unsupervised Discriminant Projection with Application to Face and Palm Biometrics"
+80EC51B1	International Conference on Computer Vision<--Laplacian PCA and Its Applications
+76FD2C4F	Neurocomputing<--Transfer learning for pedestrian detection
+795C29A3	Applied Imagery Pattern Recognition Workshop (AIPR)<--Sparse linearized iterative coherence estimation (SLICE) and risk assessment in image analysis
+786EBF99	IEEE Transactions on Neural Networks<--Quantitative Analysis of Nonlinear Embedding
+7C8568F0	International Geoscience and Remote Sensing Symposium<--Tropical cyclones similarity analysis based on manifold learning
+7A15F6FD	Knowledge Acquisition and Modeling Workshop<--LPP-HOG: A New Local Image Descriptor for Fast Human Detection
+08290B47	Statistical Challenges in Modern Astronomy. Springer<--Multivariate Analysis and Classification of Large Astronomical Databases
+861CEDA6	Proceedings of the 2015 ACM on International Conference on Multimodal Interaction. ACM<--Spectators' Synchronization Detection based on Manifold Representation of Physiological Signals: Application to Movie Highlights Detection
+7E638D24	Computer Vision and Pattern Recognition<--Manifold Discriminant Analysis
+803972A0	Knowledge Based Systems<--Trajectory analysis for user verification and recognition
+80AAA000	Pattern Recognition<--Approximately harmonic projection: Theoretical analysis and an algorithm
+0418F3CE	International Conference on Neural Information Processing<--Manifold analysis of spectral munsell colors
+77D88A0C	Remote Sensing, Environment and Transportation Engineering (RSETE)<--The application of manifold learning in dimensionality analysis for hyperspectral imagery
+79B8F50C	Computer Science and Education (ICCSE)<--Error analysis for transduction on manifold learning
+5A9CAA99	Intelligent Data Engineering and Automated Learning<--Trajectory based behavior analysis for user verification
+78B407CA	Ipsj Transactions on Computer Vision and Applications<--A Survey of Manifold Learning for Images
+7EA1A872	International Journal of Neural Systems<--Principal Polynomial Analysis
+7E562A5B	Network and System Support for Games<--Game bot identification based on manifold learning
+7AF023AD	International Journal of Pattern Recognition and Artificial Intelligence<--LOCAL COORDINATES ALIGNMENT (LCA): A NOVEL MANIFOLD LEARNING APPROACH
+7D6B07D0	International Conference on Pattern Recognition<--Local Discriminant Analysis
+7F76954A	International Journal of Computer Vision<--Unsupervised Learning of Image Manifolds by Semidefinite Programming
+7E8C1A6C	IEEE Transactions on Systems, Man, and Cybernetics<--Discriminative Orthogonal Neighborhood-Preserving Projections for Classification
+7A4B19C2	Acta Automatica Sinica<--Subspace Semi-supervised Fisher Discriminant Analysis
+80DF96F7	International Symposium on Neural Networks<--A unifying framework for spectral analysis based dimensionality reduction
+8081F9E6	IEEE Transactions on Computational Intelligence and Ai in Games<--Game Bot Detection via Avatar Trajectory Analysis
+59C1D04F	International Joint Conference on Artificial Intelligence<--Unsupervised dimensionality estimation and manifold learning in high-dimensional spaces by tensor voting
+7A72BAF4	Neural Computing and Applications<--Real-time removal of ocular artifacts from EEG based on independent component analysis and manifold learning
+6D213A1C	Journal of Machine Learning Research<--Statistical Analysis of Metric Graph Reconstruction
+6D03D7E2	Information not present<--Semi-supervised and unsupervised kernel-based novelty detection with application to remote sensing images
+7DB89D55	International Symposium on Circuits and Systems<--Unsupervised analysis of human behavior based on manifold learning
+5F7D8B94	International Symposium on Visual Computing<--View invariant activity recognition with manifold learning
+5B92D5BA	Information not present<--Model-Based Acquisition for Compressive Sensing & Imaging
+7EBF04F2	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Schroedinger Eigenmaps for the Analysis of Biomedical Data
+7C9A92D9	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Discriminative Multimanifold Analysis for Face Recognition from a Single Training Sample per Person
+7E7AC384	International Joint Conference on Artificial Intelligence<--Multiclass probabilistic kernel discriminant analysis

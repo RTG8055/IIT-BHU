@@ -1,0 +1,65 @@
+uJ8103666D	IEEE Transactions on Vehicular Technology<--Rate and Power Adaptation for Analog Network Coding
+7E594DD8	IEEE Transactions on Computers<--Distributed assignment algorithms for multihop packet radio networks
+7E77B808	International Geoscience and Remote Sensing Symposium<--A novel method to integrate spatial data mining and geographic information system
+7C89944B	Future Generation Computer Systems<--A grid-based approach for enterprise-scale data mining
+8090C66C	Database and Expert Systems Applications<--Mobility Extensions for Knowledge Discovery Workflows in Data Mining Grids
+789B9B09	Mobile Data Management<--Mobility, Data Mining and Privacy Understanding Human Movement Patterns from Trajectory Data
+7E7B3601	IEEE Transactions on Communications<--Distributed Algorithms for Generating Loop-Free Routes in Networks with Frequently Changing Topology
+771237C7	Advanced Materials Research<--Knowledge Discovery in Plastic Cards Transactions by Using Data Mining
+805EEF3A	Artificial Intelligence and Computational Intelligence<--Neuro-computing Method for Data Mining
+7FBA7DB8	International Conference on Computer Communications<--Topology control of multihop wireless networks using transmit power adjustment
+8026E43B	IEEE\/ACM Transactions on Networking<--An optimal topology-transparent scheduling method in multihop packet radio networks
+5AFF3D73	International Conference of Distributed Computing and Networking<--Finding Facilities Fast
+78EFA0D7	Fuzzy Systems and Knowledge Discovery<--Using count prediction techniques for mining frequent patterns in transactional data streams
+7CEE2B50	IEEE Transactions on Computers<--The t/k-diagnosability of the BC graphs
+80161299	International Symposium on Circuits and Systems<--Frame-level data reuse for motion-compensated temporal filtering
+7CC75938	IEEE Journal on Selected Areas in Communications<--ATM-based transport architecture for multiservices wireless personal communication networks
+7F65E553	IEEE Transactions on Communications<--Cellular packet communications
+78139965	ACM/IEEE International Conference on Mobile Computing and Networking<--The broadcast storm problem in a mobile ad hoc network
+8079E235	IEEE Transactions on Communications<--Topology control for multihop packet radio networks
+78FA01ED	IEEE Transactions on Communications<--Throughput Analysis in Multihop CSMA Packet Radio Networks
+7E59AC25	Conference on Information Sciences and Systems<--Information Exchange in Wireless Networks with Network Coding and Physical-layer Broadcast
+78C8A8A6	The Journal of Supercomputing<--Distributed fault tolerant computation of weakly connected dominating set in ad hoc networksgraph
+6D9CA6C8	IEEE Transactions on Information Theory<--Tracking mobile users in wireless networks
+8102D666	IEEE Journal on Selected Areas in Communications<--Network planning in wireless ad hoc networks: a cross-Layer approach
+804A0F2C	Computer, Information, and Systems Sciences, and Engineering<--First level text prediction using data mining and letter matching in IEEE 802.11 mobile devices
+786B2910	Discrete Applied Mathematics<--λ-coloring matrogenic graphs
+7A0F3638	International Conference on Communications<--Fault-tolerant routing on Borel Cayley graph
+7A1EDE82	Mobile Networks and Applications<--A survey of routing techniques for mobile communications networks
+76203543	International Conference on Digital Information Management<--Pattern mining for query answering in marine sensor data
+0C9FD40E	Telecommunication Systems<--Connectivity Based k-Hop Clustering in Wireless Networks
+7644BE12	Wireless Networks<--Mobile users: to update or not to update?
+804E5E61	Mobile Ad Hoc Networking and Computing<--Constructing minimum-energy broadcast trees in wireless ad hoc networks
+75404B33	Computer Networks<--Network coding-based reliable multicast in wireless networks
+76680B18	IEEE\/ACM Transactions on Networking<--Making transmission schedules immune to topology changes in multi-hop packet radio networks
+802572AC	Hawaii International Conference on System Sciences<--Knowledge Creation Opportunities in the Data Mining Process
+7E8C2D6A	IEEE Transactions on Parallel and Distributed Systems<--Power-aware localized routing in wireless networks
+7F2680EC	Computer Systems: Science & Engineering<--Data Mining Algorithmic Research and Application Based on Information Entropy
+800CE6CE	IEEE Communications Magazine<--Optical data networking
+7C8833E3	Sigkdd Explorations<--Statistical methods for joint data mining of gene expression and DNA sequence database
+7D138CD8	Soft Computing<--Scientific data mining with StripMiner TMNetherlands
+804C7F35	Computer Communication Review<--Embracing wireless interference: analog network coding
+80F4E80C	IEEE Journal on Selected Areas in Communications<--Adaptive clustering for mobile wireless networks
+7EE075FD	IEEE Transactions on Information Theory<--On the Broadcast Capacity of Wireless Networks With Cooperative Relays
+8123F129	International Conference on Computer Communications<--A novel topology control for multihop packet radio networks
+7E77B268	IEEE Wireless Communications<--Cooperative wireless networks based on physical layer network coding
+786FD9F9	International Journal of Geographical Information Science<--Mobility data mining: discovering movement patterns from trajectory data
+7A66F6FC	Journal of Parallel and Distributed Computing<--Clustering wireless ad hoc networks with weakly connected dominating set
+7F7D8DAF	IEEE Transactions on Information Theory<--Minimum-energy multicast in mobile ad hoc networks using network coding
+8166BB05	International Conference on Computer Communications<--A rule-based system for packet radio network design
+65F95C01	International Conference on Software Engineering<--Mining time series data: Case of predicting consumption patterns in steel industry
+75B99EDB	ACM/IEEE International Conference on Mobile Computing and Networking<--Hot topic: physical-layer network coding
+75DA820F	ACM/IEEE International Conference on Mobile Computing and Networking<--The shadow cluster concept for resource allocation and call admission in ATM-based wireless networks
+7C58EDA7	Discrete Applied Mathematics<--Self-spanner graphs
+756C37EC	Mobile Ad Hoc Networking and Computing<--Distributed low-cost backbone formation for wireless ad hoc networks
+80FB59A4	IEEE Journal on Selected Areas in Communications<--QoS routing in ad hoc wireless networks
+61B3C555	International Conference on Intelligent Computing<--Privacy Preserving Sequential Pattern Mining in Data Stream
+7A9ADAC1	It Professional<--Big Data and Predictive Analytics: What's New?
+7B5278BA	Catalysis Today<--Data mining in catalysis: Separating knowledge from garbage
+811F90CF	Hawaii International Conference on System Sciences<--New distributed algorithm for connected dominating set in wireless ad hoc networks
+810F7CE3	IEEE Transactions on Parallel and Distributed Systems<--Dominating sets and neighbor elimination-based broadcasting algorithms in wireless networks
+7E58378D	ACM/IEEE International Conference on Mobile Computing and Networking<--Location-aided routing (LAR) in mobile ad hoc networks
+7E8E1A2F	International Conference on Intelligent Computing<--Mining network traffic data
+7D1742E5	IEEE Transactions on Wireless Communications<--Cooperative Protocol for Analog Network Coding in Distributed Wireless Networks
+7F402B9B	IEEE Transactions on Wireless Communications<--A Novel Collaboration Scheme for Multi-Channel/Interface Network Coding
+7EBFB2F3	IEEE Journal on Selected Areas in Communications<--Modeling throughput gain of network coding in multi-channel multi-radio wireless ad hoc networks

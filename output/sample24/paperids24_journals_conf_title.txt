@@ -1,0 +1,56 @@
+803AD671	IEEE Transactions on Evolutionary Computation<--Stochastic ranking for constrained evolutionary optimization
+7D50A3D9	IEEE Transactions on Neural Networks<--A two-phase optimization neural network
+7F0F35CE	IEEE Transactions on Magnetics<--Efficient genetic algorithms for solving hard constrained optimization problems
+76A6758D	Journal of Petroleum Science and Engineering<--Well pattern optimization using NEWUOA algorithm
+7F162F29	Information not present<--Genetic algorithm and universal generating function technique for solving problems of power system reliability optimization
+80C1A3F1	International Conference on Machine Learning and Cybernetics<--A complex-genetic algorithm for solving constrained optimization problems
+764E6F4F	Congress on Evolutionary Computation<--Multiobjective optimization algorithm for solving constrained single objective problems
+7DF987AF	Computational Intelligence and Security<--Global Optimization Method Based on the Statistical Genetic Algorithm for Solving Nonlinear Bilevel Programming Problems
+7BE93B72	Optimization Methods & Software<--Second-order adjoints for solving PDE-constrained optimization problems
+7CA2D4BC	Information not present<--Optimization of QoS Routing
+756FEDB0	Congress on Evolutionary Computation<--Interval Robust Multi-Objective Evolutionary Algorithm
+7AAEFF33	Structural and Multidisciplinary Optimization<--An intelligent moving object optimization algorithm for design problems with mixed variables, mixed constraints and multiple objectives
+80CE94A2	Congress on Evolutionary Computation<--A dynamical evolutionary algorithm for constrained optimization problems
+7933BEEC	Applied Mechanics and Materials<--Chaotic Artificial Bee Colony Constrained Optimization Algorithm with Hybrid Discrete Variables and its Application to Mechanical Optimization
+76AFCB1F	Advances in Engineering Software<--A parameter free Continuous Ant Colony Optimization Algorithm for the optimal design of storm sewer networks: Constrained and unconstrained approach
+7FB9CE4E	International Conference on Robotics and Automation<--A geometric algorithm for hybrid localization/inspection/machinability problem
+7D27E632	Journal of Machine Learning Research<--Greedy sparsity-constrained optimization
+805BE90F	Computer Supported Cooperative Work in Design<--An architecture-aware routing optimization via satisfiabilty for hierarchical FPGA
+76DE3510	Future Generation Computer Systems<--On the l1 Procrustes problem
+7583761A	Journal of Computers<--A Hybrid Co-evolutionary Particle Swarm Optimization Algorithm for Solving Constrained Engineering Design Problems
+75E3F2F2	Information Sciences<--Constrained optimization based on modified differential evolution algorithm
+7DF3B624	IEEE Transactions on Evolutionary Computation<--An Adaptive Tradeoff Model for Constrained Evolutionary Optimization
+78E2DDEC	International Conference on Intelligent Computing<--An improved Constrained Optimization Genetic Algorithm
+80950C3E	IEEE Transactions on Evolutionary Computation<--Constrained optimization by applying the /spl alpha/ constrained method to the nonlinear simplex method with mutations
+7CC85D5E	Simulation<--Constrained Optimization Via Genetic Algorithms
+7EACE9C0	IEEE Transactions on Signal Processing<--A New Robust Variable Step-Size NLMS Algorithm
+06E4889F	Information not present<--Improved artificial bee colony algorithm for constrained problems
+7C48D3D1	Engineering Optimization<--Global optimization of NURBs-based metamodels
+7BFB8D91	Advanced Materials Research<--A New Particle Swarm Algorithm for Solving Constrained Optimization Problems
+597EDC43	Information not present<--Hybridizing an immune artificial algorithm with simulated annealing for solving constrained optimization problems
+8036643A	IEEE Transactions on Systems, Man, and Cybernetics<--An Alternative Recurrent Neural Network for Solving Variational Inequalities and Related Optimization Problems
+7D12ED2B	IEEE Transactions on Evolutionary Computation<--A Multiobjective Optimization-Based Evolutionary Algorithm for Constrained Optimization
+7A24356F	IEEE Transactions on Computers<--Efficient Approximate Wordlength Optimization
+6847DC12	Congress on Evolutionary Computation<--A scouting-inspired evolutionary algorithm
+7D5A1501	IEEE Transactions on Systems, Man, and Cybernetics<--Multiobjective Optimization and Hybrid Evolutionary Algorithm to Solve Constrained Optimization Problems
+7D9D105C	Conference on Decision and Control<--A hybrid genetic/interval algorithm for semi-infinite optimization
+7D2766AC	International Symposium on Neural Networks<--Solving convex optimization problems using recurrent neural networks in finite time
+802C3D01	Structural and Multidisciplinary Optimization<--Constrained optimization based on hybrid evolutionary algorithm and adaptive constraint-handling technique
+7B2FB487	Neural Computing and Applications<--Crossover-based artificial bee colony algorithm for constrained optimization problems
+7CBCC9CE	Information Sciences<--Differential evolution in constrained numerical optimization: An empirical study
+815CBE33	IEEE Transactions on Evolutionary Computation<--A generic framework for constrained optimization using genetic algorithms
+7781EAC6	Applied Soft Computing<--Constrained differential evolution with multiobjective sorting mutation operators for constrained optimization
+8063B609	Information not present<--Adaptive error-constrained backpropagation algorithm
+7863E9A7	Computer Methods in Applied Mechanics and Engineering<--Engineering optimization by means of an improved constrained differential evolution
+7CFA7D24	Local Computer Networks<--Solving the MCOP problem optimally
+7F458CEE	IEEE Transactions on Power Systems<--A fast algorithm for power system optimization problems using an interior point method
+7CFC5C89	Conference on Decision and Control<--Optimization methods for solving bang-bang control problems with state constraints and the verification of sufficient conditions
+78783172	Computational Intelligence<--Improved Genetic Algorithms to Solving Constrained Optimization Problems
+80CEAFD2	IEEE Transactions on Evolutionary Computation<--Self-adaptive fitness formulation for constrained optimization
+798378E4	Evolutionary Computation<--Evolutionary algorithms, homomorphous mappings, and constrained parameter optimization
+59DBE1B5	Parallel Problem Solving from Nature<--Genetic algorithms with multi-parent recombination
+7787F07D	Parallel Algorithms and Applications<--PARALLEL MULTISPLITTINGS FOR CONSTRAINED OPTIMIZATION
+7D18498C	Information not present<--Honey Bee Colony Optimization to solve economic dispatch problem with generator constraints
+7935478F	Parallel Computing<--State-of-the-art in parallel nonlinear optimization
+13FA6519	International Conference on Informatics in Control, Automation and Robotics<--Feeding a Genetic Algorithm with an Ant Colony for Constrained Optimization - An Application to the Unit Commitment Problem
+7C462E67	Journal of Optimization Theory and Applications<--Optimization Problem Coupled with Differential Equations: A Numerical Algorithm Mixing an Interior-Point Method and Event Detection

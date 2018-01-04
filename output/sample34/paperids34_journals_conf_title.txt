@@ -1,0 +1,67 @@
+7DB6B9EE	Journal of Bioinformatics and Computational Biology<--DYNAMIC BAYESIAN CLUSTERING
+783FB036	Systems, Man and Cybernetics<--Pseudo-Hierarchical Ant-Based Clustering
+77B1E9C6	Expert Systems With Applications<--Proximity-based k -partitions clustering with ranking for document categorization and analysis
+7DA603AE	IEEE Transactions on Evolutionary Computation<--An Evolutionary Approach to Multiobjective Clustering
+7D2F4231	IEEE Transactions on Neural Networks<--Fully automatic clustering system
+7C91B3BF	IEEE Transactions on Computers<--Clustering Using a Similarity Measure Based on Shared Near Neighbors
+7E341299	IEEE Transactions on Evolutionary Computation<--Clustering with a genetically optimized approach
+7A47CD8E	Pattern Recognition<--Bootstrap technique in cluster analysis
+7E118482	IEEE Transactions on Fuzzy Systems<--Robust clustering methods: a unified view
+7C0CAEF9	Pattern Recognition<--Validity studies in clustering methodologies
+76FA8332	IEEE Transactions on Computers<--An Algorithm for Detecting Unimodal Fuzzy Sets and Its Application as a Clustering Technique
+7D143B43	Applied Soft Computing<--A novel clustering approach: Artificial Bee Colony (ABC) algorithm
+76C1E847	ACM Computing Surveys<--Data clustering: a review
+8045ACA4	International Conference on Database Theory<--On Horn Axiomatizations for Sequential Data
+7AE5B59D	Biometrics<--A method for cluster analysis
+7DA40E23	IEEE Transactions on Pattern Analysis and Machine Intelligence<--A robust competitive clustering algorithm with applications in computer vision
+80ECF443	Design, Automation, and Test in Europe<--Time-Constrained Clustering for DSE of Clustered VLIW-ASP
+76B1BBBB	Cancer Letters<--Clustering using firefly algorithm: Performance study
+80CA7E45	International Journal on Artificial Intelligence Tools<--HIERARCHICAL CLUSTERING FOR COMPLEX DATA
+7B47D356	BioMedical Engineering and Informatics<--Clustering by CP-QR
+0364F566	International Conference on Artificial Neural Networks<--Pairwise clustering with t-PLSI
+7D4D4E68	Expert Systems With Applications<--A hybrid approach for data clustering based on modified cohort intelligence and K-means
+77EF8A66	Information Sciences, Signal Processing and their Applications<--Improving X-means clustering with MNDL
+78B6BEE1	IEEE Transactions on Fuzzy Systems<--Validity-guided (re)clustering with applications to image segmentation
+7DBBBE71	Engineering Applications of Artificial Intelligence<--An efficient hybrid algorithm based on modified imperialist competitive algorithm and K-means for data clustering
+8057BAB5	IEEE Transactions on Neural Networks<--Survey of clustering algorithms
+7253E23A	Rough Sets and Knowledge Technology<--Application of gravitational search algorithm on data clustering
+8020B0E2	Management Science<--Cluster Analysis in Test Market Selection
+7F02386E	International Conference on Pattern Recognition<--Data clustering using evidence accumulation
+7FED3742	Wirtschaftsinformatik \/ Angewandte Informatik<--Graph-Cut Based Iterative Constrained Clustering
+77E33E25	Information Sciences<--GAKREM: A novel hybrid clustering algorithm
+7E672365	IEEE Transactions on Fuzzy Systems<--A possibilistic approach to clustering
+799A946E	International Conference on Computer Graphics and Interactive Techniques<--Clustered deferred and forward shading
+808A14C1	Molecular Ecology Notes<--fastruct: model‐based clustering made faster
+78158877	Expert Systems With Applications<--Cluster analysis using optimization algorithms with newly designed objective functions
+78A3708F	Electronics & Communication Engineering Journal<--Compression of colour image data using histogram analysis and clustering techniques
+7D078885	Journal of Machine Learning Research<--Cluster ensembles --- a knowledge reuse framework for combining multiple partitions
+7F498871	IEEE Transactions on Systems, Man, and Cybernetics<--A stochastic connectionist approach for global optimization with application to pattern clustering
+7DDC24D9	Fractals<--LACUNARITY ANALYSES OF MULTIFRACTAL AND NATURAL GRAYSCALE PATTERNS
+77CA0781	Pattern Recognition Letters<--In search of optimal centroids on data clustering using a binary search algorithm
+74F1CFCD	Sealing Technology<--Fuzzy c-mean clustering using evolutionary self-organizing
+7F1C2084	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Statistical pattern recognition: a review
+7F370479	IEEE Transactions on Computers<--A Nonlinear Mapping for Data Structure Analysis
+761B88C7	IEEE Transactions on Computers<--Interactive Use of Problem Knowledge for Clustering and Decision Making
+752824BD	International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems<--Hierarchical spherical clustering
+7CD7B2EF	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Unsupervised optimal fuzzy clustering
+79100F75	PLOS ONE<--Genome-Wide Analysis of Promoters: Clustering by Alignment and Analysis of Regular Patterns
+77B57104	Applied Clay Science<--Multiple data clustering algorithms applied in search of patterns of clay minerals in soils close to an abandoned manganese oxide mine
+7C4BE256	IEEE Transactions on Computers<--A Nonparametric Valley-Seeking Technique for Cluster Analysis
+75991EF3	IEEE Transactions on Computers<--Graph-Theoretical Methods for Detecting and Describing Gestalt Clusters
+7F0D6257	Intelligent Information Hiding and Multimedia Signal Processing<--IGSOM: Incremental Clustering Based on Self-Organizing-Mapping
+677AC518	IEEE Transactions on Computers<--A Graph-Theoretic Approach to Nonparametric Cluster Analysis
+7A987394	Information Sciences<--Black hole: A new heuristic optimization approach for data clustering
+756EB0D4	Operational Research<--A hybrid stochastic genetic–GRASP algorithm for clustering analysis
+7DAC82B3	IEEE Transactions on Fuzzy Systems<--Switching regression models and fuzzy clustering
+764D562E	Applied Soft Computing<--An efficient hybrid approach based on PSO, ACO and k-means for cluster analysis
+7B2F6CD1	Pattern Recognition<--A formalization of cluster analysis
+79A186D1	Expert Systems With Applications<--A hybridized approach to data clustering
+816C2152	IEEE Transactions on Pattern Analysis and Machine Intelligence<--A two-stage linear discriminant analysis via QR-decomposition
+7D1222C0	Eurasip Journal on Information Security<--Privacy-preserving distributed clustering
+805E15C9	IEEE Transactions on Fuzzy Systems<--Fuzzy and possibilistic shell clustering algorithms and their application to boundary detection and surface approximation. II
+7E15A156	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Clustering ensembles: models of consensus and weak partitions
+7FE78FD2	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Detection and separation of ring-shaped clusters using fuzzy clustering
+8045B11A	International Symposium on Circuits and Systems<--Floorplanning with performance-based clustering
+7D5ADE7F	IEEE Transactions on Neural Networks<--Constructive feedforward ART clustering networks. II
+79513265	Information Sciences<--An evolutionary technique based on K-means algorithm for optimal clustering in R N
+790F7F31	High Performance Computing<--Reengineering High-throughput Molecular Datasets for Scalable Clustering Using MapReduce

@@ -1,0 +1,61 @@
+7F29961A	ACM Computing Surveys<--Decision Trees and Diagrams
+7EE9E0F7	Machine Learning<--Compiling pattern matching to good decision trees
+5BA42D2D	Fundamenta Informaticae<--From Optimal Hyperplanes to Optimal Decision Trees
+5CD2CA3D	Information not present<--Arboles de decision
+753DB472	ACM Transactions on Programming Languages and Systems<--The Activity of a Variable and Its Relation to Decision Trees
+7B468C32	Computer Speech & Language<--A combination of data mining method with decision trees building for Speech/Music discrimination
+0F61B145	Information not present<--ルーチン胃X線検査における Decision Tree を用いた腹臥位二重造影の画質向上の検討
+7CA4D089	Applied Immunohistochemistry & Molecular Morphology<--The WHO classification of lymphomas: cost-effective immunohistochemistry using a deductive reasoning "decision tree" approach: part II: the decision tree approach: diffuse patterns of proliferation in lymph nodes.
+7DB968DA	Meeting of the Association for Computational Linguistics<--Using decision trees to construct a practical parser
+0B89C91B	IEEE Transactions on Computers<--An Algorithm for Constructing Optimal Binary Decision Trees
+7CBC26A4	Molecular Nutrition & Food Research<--Evaluation of the potential allergenicity of the enzyme microbial transglutaminase using the 2001 FAO/WHO Decision Tree
+5C09EBCE	Genetic and Evolutionary Computation Conference<--Building decision tree software quality classification models using genetic programming
+8079A985	International Conference on Digital Information Management<--Pattern-based decision tree construction
+7CB41D25	Information not present<--Design of a binary decision tree using the genetic algorithm and K-means algorithm for recognition of the defect patterns of cold mill strip
+03089401	Information not present<--Finding Patterns of Attrition using Decision Trees: A Preliminary Study
+80C07367	Information not present<--A decision tree using CUDA GPUs
+801CB0AF	IEEE Transactions on Knowledge and Data Engineering<--Constrained cascade generalization of decision trees
+78EDF66D	Machine Learning<--Efficient incremental induction of decision trees
+7DFA28C0	International Conference on Machine Learning<--An incremental method for finding multivariate splits for decision trees
+7B676FBF	Decision Support Systems<--A multi-objective genetic programming approach to developing Pareto optimal decision trees
+7AED9476	Information Sciences<--Evolutionary model trees for handling continuous classes in machine learning
+756CF312	Information Processing Letters<--Constructing optimal binary decision trees is NP-complete
+7D9256B9	Information Technology Interfaces<--Data-mining by probability-based patterns
+03FE9B06	Information not present<--Quantum decision trees and semide nite program-ming
+76E9B0F8	Human Factors in Computing Systems<--Non-parametric decision trees and online HCI
+81620FC4	Information not present<--Building decision trees using functional dependencies
+5F64476A	Information not present<--Post-processing Evolved Decision Trees
+7776D503	International Journal of Bio-inspired Computation<--Lexicographic multi-objective evolutionary induction of decision trees
+800F0CB7	IEEE Transactions on Systems, Man, and Cybernetics<--An efficient algorithm for generating generalized decision forests
+77FF541F	Web Search and Data Mining<--Adaptive bootstrapping of recommender systems using decision trees
+772EAA54	Information not present<--Predicting software maintenance effort through evolutionary-based decision trees
+6A823642	Clinical Orthopaedics and Related Research<--Odds-On Trees
+5C799391	Soft Computing<--Using of a matrix method of building of nonbinary decision trees for determining of stability of fixation of a tibia fracture
+7A269D68	Information not present<--LEGAL-tree: a lexicographic multi-objective genetic algorithm for decision tree induction
+2DD3568F	Information not present<--Design of a binary decision tree using genetic algorithm for recognition of the defect patterns of cold mill strip
+80E8E893	International Conference on Machine Learning and Cybernetics<--Constructing decision tree with continuous attributes for binary classification
+5F87D343	Information not present<--Pronoun Resolution in Turkish Using Decision Tree and Rule-Based Learning Algorithms
+5C165CA1	European Conference on Genetic Programming<--Application of Genetic Programming to Induction of Linear Classification Trees
+7920FF9A	IEEE Transactions on Computers<--Criteria for selecting a variable in the construction of efficient decision trees
+762A9646	Clinical Risk<--The Incident Decision Tree
+7A725891	International Journal of Intelligent Systems<--An evolutionary algorithm for constructing a decision forest: Combining the classification of disjoints decision trees
+72BE2358	Information not present<--Using rough sets to construct sense type decision trees for text categorization
+78C47905	Information Sciences<--Using decision tree, particle swarm optimization, and support vector regression to design a median-type filter with a 2-level impulse detector for image enhancement
+7D5B4500	Information not present<--Decision trees for probabilistic top-down and bottom-up integration
+7A3C8E5F	Applied Soft Computing<--The use of vicinal-risk minimization for training decision trees
+707DCFB4	Information not present<--Classification of ECG patterns using fuzzy rules derived from ID3-induced decision trees
+7A8E7E5E	Information Sciences<--Evolving decision trees with beam search-based initialization and lexicographic multi-objective evaluation
+7EE2F400	International Conference on Machine Learning and Cybernetics<--Using BP-network to construct fuzzy decision tree with composite attributes
+7F288280	Proceedings of SPIE<--High-performance OCR preclassification trees
+812CDE0E	Information not present<--Risk-management by probability-based patterns in data-mining
+7DF1E102	IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing<--Mapping Tropical Dry Forest Succession With CHRIS/PROBA Hyperspectral Images Using Nonparametric Decision Trees
+7612C724	Information not present<--Pattern based network security using decision trees and support vector machine
+756FDCD7	Journal of Economic Theory<--Subjective probability over a subjective decision tree
+835CB3D9	Information not present<--Sentiment classification of Roman-Urdu opinions using Naïve Bayesian, Decision Tree and KNN classification techniques
+7F2CA464	Machine Learning<--Decision Tree Induction Based on Efficient Tree Restructuring
+7B8672EB	Pattern Recognition<--Design of multicategory multifeature split decision trees using perceptron learning
+6A1B7A68	Data Mining and Knowledge Discovery<--Automatic Construction of Decision Trees from Data: A Multi-Disciplinary Survey
+7D22C14D	IEEE Transactions on Pattern Analysis and Machine Intelligence<--A statistical-heuristic feature selection criterion for decision tree induction
+5F4B9926	Information not present<--Applying Decision Trees
+80438687	Information not present<--Simulated annealing in the construction of near-optimal decision trees
+7F628E43	Information not present<--Pemilihan Diet Nutrien bagi Penderita Hipertensi Menggunakan Metode Klasifikasi Decision Tree (Studi Kasus : RSUD Syarifah Ambami Rato Ebu Bangkalan)

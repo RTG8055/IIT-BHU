@@ -1,0 +1,64 @@
+﻿783EFDAA	Conference on Information and Knowledge Management<--Efficient parallel data mining for association rules
+7928B626	International Symposium on Distributed Computing<--A Novel Fuzzy Positive and Negative Association Rules Algorithm
+5EBD43BF	Workshop de Investigadores en Ciencias de la Computación<--Formalización de Web Mining como conocimiento estructurado
+7F39395E	International Journal of General Systems<--Sporadic fuzzy temporal associations
+75D77997	Expert Systems With Applications<--PrePost + : An efficient N-lists-based algorithm for mining frequent itemsets via Children–Parent Equivalence pruning
+7C76EEAD	National Conference on Information Technology and Computer Science. Atlantis Press<--SeqARM: An Association Rule Mining Algorithm Based on Sequence Constraint
+758386E7	Electronic and Mechanical Engineering and Information Technology<--Fast Mining Algorithm of Association Rules Base on Cloud Computing
+803958B8	Information Science and Engineering (ICISE)<--Improvement and realization of association rules mining algorithm based on FP-tree
+7DB00C37	Information Science and Engineering(ISISE)<--An Algorithm of Association Rules Mining Based on Restricted Conditional Probability Distribution
+7FBED1F0	Computer Sciences and Convergence Information Technology<--Rules for Mining Comparative Online Opinions
+3904875F	AIP Conference Proceedings<--AN IMPROVED APRIORI FOR MINING ASSOCIATION RULES ″ APRIORI + ″
+7625CC46	Expert Systems With Applications<--Autonomous classifiers with understandable rule using multi-objective genetic algorithms
+75DAF306	Expert Systems With Applications<--CAR-Miner: An efficient algorithm for mining class-association rules
+7E1605C9	Food Chemistry<--Pattern Discovery Using Association Rules
+786FC6C6	Artificial Intelligence and Computational Intelligence<--Mining Efficacious Association Rules Under Length-Decreasing Support Constraint
+77DCB86E	Engineering Applications of Artificial Intelligence<--CCAR: An efficient method for mining class association rules with itemset constraints
+7B021E65	Expert Systems With Applications<--Classification based on association rules: A lattice-based approach
+7F0793EE	Intelligent Networks and Intelligent Systems<--Study on Association Rules Mining Based Chinese Text Representation
+125C2D50	Journal of Information, Technology and Society<--Applying AI Technology and Rough Set Theory for Mining Association Rules to Support Crime Management and Fire-Fighting Resources Allocation
+77CF6D31	Natural Computation (ICNC)<--An algorithm of multi-level fuzzy association rules mining with multiple minimum supports in network faults diagnosis
+58C99660	Data Mining and Knowledge Discovery<--Constraint-Based Rule Mining in Large, Dense Databases
+75691E95	International Conference on Tools with Artificial Intelligence<--Mining Fuzzy Association Rules from Heterogeneous Probabilistic Datasets
+7FC4817A	Audio Language and Image Processing (ICALIP)<--Mining association rules based on an improved Apriori Algorithm
+7AF1A138	Advanced Materials Research<--A Study of Association Rules Mining Algorithms Based on Adaptive Support
+75BAACB0	Computer and Information Science (ICIS)<--Mining rare association rules in a distributed environment using multiple minimum supports
+80DA7A1A	Multitopic Conference 2009 INMIC<--Service discovery in Mobile Ad hoc networks using Association Rules Mining
+7CF35707	Knowledge Discovery and Data Mining<--Efficient search for association rules
+7B422C76	Expert Systems With Applications<--An efficient and effective algorithm for mining top-rank- k frequent patterns
+799A5A1E	Sigmod Record<--Association rules over interval data
+5B374230	NAFIPS International Conference<--Linguistic association rules
+59C818AC	The Vldb Journal<--Fast Algorithms for Mining Association Rules in Large Databases
+7A8305D1	Cognitive Informatics<--An Algorithm Research for Distributed Association Rules Mining with Constraints Based on Sampling
+7CDEC4FC	Knowledge Discovery and Data Mining<--Generating non-redundant association rules
+7FD11787	Fuzzy Systems and Knowledge Discovery<--An Optimal Association Rule Mining Algorithm Based on Knowledge Grid
+7B217281	Information Sciences<--Multi-objective rule mining using genetic algorithms
+7E1FA517	Nucleic Acids Research<--Mining regulatory 5′UTRs from cDNA deep sequencing datasets
+77EDEA18	International Conference on Data Mining<--FTCluster: Efficient Mining Fault-Tolerant Biclusters in Microarray Dataset
+79F0ACED	Knowledge Discovery and Data Mining<--Pruning and summarizing the discovered associations
+580F7540	Information not present<--Heterogeneous Association Rules Mining
+773CCE57	Sigmod Record<--Mining quantitative association rules in large relational tables
+812313D9	Sigmod Record<--Mining association rules between sets of items in large databases
+77E03AE8	Mining Software Repositories<--Mining energy-aware commits
+7F1292EE	International Conference on E-Business and E-Government<--Mining generalized fuzzy association rules via determining minimum supports
+0A78AC76	Information not present<--Multirelational Association Rule Mining
+741F28C3	International Conference on Data Engineering<--Set-oriented mining for association rules in relational databases
+790E2232	Sigmod Record<--An effective hash-based algorithm for mining association rules
+75F1376C	BioMedical Engineering and Informatics<--An improved algorithm with key attributes constraints for mining interesting association rules in network log
+7628F265	Expert Systems With Applications<--Efficient strategies for parallel mining class association rules
+774A3058	Expert Systems With Applications<--An N-list-based algorithm for mining frequent closed patterns
+80DE0766	Knowledge Discovery and Data Mining<--CLOSET+: searching for the best strategies for mining frequent closed itemsets
+5A9FB7CC	Knowledge Discovery and Data Mining<--Parallel Branch-and-Bound Graph Search for Correlated Association Rules
+76B731B9	International Conference on Software Engineering<--Research and application of association rule mining algorithm based on multidimensional sets
+5F32BFFF	The Vldb Journal<--An Efficient Algorithm for Mining Association Rules in Large Databases
+75A391A8	Information Engineering and Computer Science<--Spatial Constraint Topology Association Rules Mining Based on Apriori
+6F7242A2	Knowledge and Data Engineering Exchange<--Mining quantitative association rules under inequality constraints
+80D95C72	Computer Science and Information Engineering<--Efficient Mining of Weighted Temporal Association Rules
+77E4CEC3	The Kips Transactions:partd<--An Efficient Algorithm For Mining Association Rules In Main Memory Systems
+789DDF24	Knowledge Discovery and Data Mining<--Real world performance of association rule algorithms
+801AD66D	SOUTHEASTCON IEEE<--Mining probabilistic association rules from uncertain databases with pruning
+7C504F77	Sigmod Record<--Exploratory mining and pruning optimizations of constrained associations rules
+036E7725	International Conference on Artificial Intelligence<--Using a Distributed Deductive Database for Mining Association Rules
+7A24714F	Expert Systems With Applications<--An improved algorithm for mining class association rules using the difference of Obidsets
+815FD885	International Conference on Data Mining<--Mining the Future: Predicting Itemsets' Support of Association Rules Mining
+76957503	Future Generation Computer Systems<--Mining generalized association rules

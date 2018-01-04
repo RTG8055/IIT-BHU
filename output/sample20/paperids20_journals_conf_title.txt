@@ -1,0 +1,56 @@
+8150059F	International Conference on Communications<--An Analysis of Opportunistic Routing in Wireless Mesh Network
+7D1CC71C	Computer Networks<--Stability region adaptation using transmission power control for transport capacity optimization in IEEE 802.16 wireless mesh networks
+64AEAC89	Information not present<--RSSI-based Cross Layer Link Quality Management for Layer 3 wireless mesh networks
+80F46248	New Technologies, Mobility and Security<--Stateful Firewalling for Wireless Mesh Networks
+77FE1037	Wireless Communications and Networking Conference<--Channel quality and load aware routing in wireless mesh network
+80144584	Global Communications Conference<--WLC30-2: Channel Assignment and Routing for Multi-Channel Wireless Mesh Networks Using Simulated Annealing
+7D6996B3	Information not present<--Implementation and Experiment of Publish/Subscribe System on Wireless Mesh Networks - Word-Mouth Information Distribution Service
+80D2279A	Global Communications Conference<--CogMesh: Cognitive Wireless Mesh Networks
+7B9007C7	Wireless Communications and Mobile Computing<--Channel assignment for multicast in multi‐channel multi‐radio wireless mesh networks
+7FD8D490	ACM/IEEE International Conference on Mobile Computing and Networking<--Joint channel assignment and routing for throughput optimization in multi-radio wireless mesh networks
+803BA6C5	Sensor, Mesh and Ad Hoc Communications and Networks<--Minimum Interference Channel Assignment in Multi-Radio Wireless Mesh Networks
+7F563842	Wireless Communications and Networking Conference<--Interface Placement in Constructing Widest Spanning Tree for Multi-Channel Multi-Interface Wireless Mesh Networks
+025275D1	Information not present<--A Realizable Cross-Layer Architecture for Wireless Mesh Networks
+810C6314	Global Communications Conference<--WSN16-4: Logical Topology Design and Interface Assignment for Multi-Channel Wireless Mesh Networks
+80AA2D4A	Information not present<--WIRELESS MESH NETWORKING
+7874FE7B	Information not present<--An Enhanced-WCETT Routing Metric based on Available Bandwidth and Traffic Load in Wireless Mesh Networks
+7AE97969	International Conference on Sensor Networks<--A Cross Layer Routing Metric to Recognize Traffic Interference in Wireless Mesh Networks
+7E5FF848	Networked Computing and Advanced Information Management<--Dynamic Load Balanced Hop Selection Algorithm in Wireless Mesh Network
+7E7E62A6	IEEE Transactions on Wireless Communications<--Maximizing Multicast Call Acceptance Rate in Multi-Channel Multi-Interface Wireless Mesh Networks
+808FB9CB	Real Time Technology and Applications Symposium<--Reliable and Real-Time Communication in Industrial Wireless Mesh Networks
+7E0A4DFE	International Conference on Wireless Communications and Mobile Computing<--Minimum Interference Channel Assignment for Multicast in Multi-Radio Wireless Mesh Networks
+7F5872E7	Information not present<--QoE and QoS in wireless mesh networks
+7C8431A5	Wireless Networks<--Design and implementation of multicasting for multi-channel multi-interface wireless mesh networks
+7A435E40	Information not present<--Load balancing based channel assignment in multicast wireless mesh network
+75ACA8E2	Mobile Adhoc and Sensor Systems<--Almost optimal distributed M2M multicasting in Wireless Mesh Networks
+751C45DB	Information not present<--A load aware hybrid channel assignment for Multi-radio Wireless Mesh Network
+7D65E10A	Broadband Communications, Networks and Systems<--A multi-radio unification protocol for IEEE 802.11 wireless networks
+7B00D7C6	Information not present<--Cross layer Neighbourhood Load Routing for Wireless Mesh Networks
+7562C959	Iet Communications<--MAC-layer Channel Utilisation Enhancements for Wireless Mesh Networks
+7D66224D	Modeling Analysis and Simulation of Wireless and Mobile Systems<--Binary waypoint geographical routing in wireless mesh networks
+7C190B1C	Broadband Communications, Networks and Systems<--Bandwidth-satisfied multicast routing in wireless mesh networks
+7E957EA9	International Conference on Communications<--Bandwidth-Guaranteed Multicast in Multi-Channel Multi-Interface Wireless Mesh Networks
+799AA6C4	International Symposium on Computers and Communications<--MaxOPP: A novel Opportunistic Routing for wireless mesh networks
+75D6C2E4	ACM/IEEE International Conference on Mobile Computing and Networking<--The meshDVNet wireless mesh network test-bed
+7C8FBBD5	Information not present<--AFC: An Effective Metric for Reliable Routing in Wireless Mesh Networks
+80FC5601	International Conference on Networks and Communications<--K Bipartite Partitioning Algorithm for Channel Allocation Problem in Wireless Mesh Networks
+81F9E893	Information not present<--Fast And Accurate Autonomous Network Self-Configuration In Wireless Mesh
+7D467E1D	ACM/IEEE International Conference on Mobile Computing and Networking<--Routing in multi-radio, multi-hop wireless mesh networks
+78180515	Eurasip Journal on Wireless Communications and Networking<--Challenges in Second-Generation Wireless Mesh Networks
+7D795FA8	Global Communications Conference<--Rapidly-Deployable Mesh Network Testbed
+7F6EF5C0	Computer Networks<--Wireless mesh and optical burst switching convergence for a novel metropolitan area network architecture
+7AFA5C2B	Computer Communications<--Realizing and benchmarking broadcast algorithms in wireless mesh networks
+79FF1ABB	Frontier of Computer Science and Technology<--OM: Opportunistic Multicast Routing for Wireless Mesh Networks
+7E573DF5	Local Computer Networks<--Analysis ofWiMedia-based UWB Mesh Networks
+7E4F1DED	International Conference on Computer Communications<--Joint Channel Allocation, Interface Assignment and MAC Design for Multi-Channel Wireless Mesh Networks
+77F022E9	Wireless Communications and Networking Conference<--A Transport Layer Mechanism for Fair TCP Throughput over 802.11 Multi-Hop Wireless Mesh Networks
+7E1A2B83	Testbeds and Research Infrastructures for the DEvelopment of NeTworks and COMmunities<--Characterizing User Behavior and Network Load on a Large-Scale Wireless Mesh Network
+7FB4A589	International Conference on Communications<--Joint Routing and Channel Assignment in Multi-Radio Wireless Mesh Networks
+5E47F37F	Information not present<--IMPLEMENTASI WIRELESS MESH NODE PADA MINI-ITX
+77ED44DC	Information not present<--A cross layer routing metric for gateway aware routing in wireless mesh network
+7FBDEA4E	Global Communications Conference<--Maximizing Broadcast Load in Multi-Channel Multi-Interface Wireless Mesh Networks
+81378282	Wireless Communications and Networking Conference<--Widest Spanning Tree for Multi-Channel Multi-Interface Wireless Mesh Networks
+7CB9329E	ACM/IEEE International Conference on Mobile Computing and Networking<--Characterizing the capacity region in multi-radio multi-channel wireless mesh networks
+7A188697	Computer Networks<--A link layer adaptive pacing scheme for improving throughput of transport protocols in wireless mesh networks
+7BD108B1	Information not present<--Interference minimizing channel assignment using partially overlapped channels in multi-radio multi-channel wireless mesh networks (non-refereed)
+7C811F0E	Information not present<--Efficient multicasting for multi-channel multi-interface wireless mesh networks

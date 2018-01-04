@@ -1,0 +1,2343 @@
+0B67DFE0	Fuzzy Logic Anomaly Detection Scheme for Directed Diffusion Based Sensor Networks
+7BB72859	A DDoS Attack Test, Analysis and Mitigation Method in Real Networks
+5B52E736	The impact of elimination of the most critical node on Wireless Sensor Network lifetime
+7D67050A	Tracing Mobile Attackers in Wireless Ad-Hoc Network
+7ED993E7	Impact of denial of service solutions on network quality of service
+807E330E	Evaluation of a statistical technique to mitigate malicious control packets in ad hoc networks
+5E9C2956	Identifying the Attack Source by IP Traceback
+7EDA4226	Towards DoS attack prevention based on clustering architecture in mobile IP communication
+7D9CBC78	Towards Stateless Single-Packet IP Traceback
+80F8E53F	Just fast keying: Key agreement in a hostile internet
+5B75D7C3	Denial of Service Attacks Against 802.11 DCF
+7EDFC8B7	Steps towards a DoS-resistant internet architecture
+80DED878	A Divide-and-Conquer Strategy for Thwarting Distributed Denial-of-Service Attacks
+070C6081	The dos project's "trinoo" distributed denial of service attack tool
+5ADB968D	The Power of Evil Choices in Bloom Filters
+03A45A00	802.11 disassociation DoS attack simulation using Verilog
+79F9381A	A Cross-layer Approach to Detect Jamming Attacks in Wireless Ad hoc Networks
+7524A17D	Data preprocessing for anomaly based network intrusion detection: A review
+7D7A64F1	Session-based overload control in QoS-aware Web servers
+5AF323A2	A Security Proposal Based on a Real Time Agent to Protect Web Services Against DoS Attack
+04813B5E	DDoS Incidents and their Impact: A Review
+810C839E	An empirical analysis of target-resident DoS filters
+5DE11984	MANETs performance analysis with dos attack at different routing protocols
+7FA83BCC	Application of artificial neural network in detection of DOS attacks
+7FF25EDB	An algorithmic approach to verification of intransitive non-interference in security policies
+75D25F13	Dynamic Binary User-Splits to Protect Cloud Servers from DDoS Attacks
+80294B24	Robust Detection of MAC Layer Denial-of-Service Attacks in CSMA/CA Wireless Networks
+7F5906F5	Distinguishing DDoS Attacks from Flash Crowds Using Probability Metrics
+7DDD4A52	Enhancing the security of corporate Wi-Fi networks using DAIR
+02344AF4	A framework for defending application layer DDoS attacks using an AI approach
+80BF945A	User-level management of kernel memory
+594D12CE	Security threats of wireless networks: A survey
+8038E693	AID: A global anti-DoS service
+7548FEF0	One-way queuing delay measurement and its application on detecting DDoS attack
+75A6004A	Collaborative Peer to Peer Defense Mechanism for DDoS Attacks
+7F0973DF	Novel defense mechanism against data flooding attacks in wireless ad hoc networks
+6900FBE5	Defending Browsers against Drive-by Downloads: Mitigating Heap-Spraying Code Injection Attacks
+7FD4B62E	An Efficient and Secured Internet Key Exchange Protocol Design
+5D765239	Enlisting Hardware Architecture to Thwart Malicious Code Injection
+58F5226A	Effective Packet Marking Approach to Defend against DDoS Attack
+7F043E7E	PacketScore: a statistics-based packet filtering scheme against distributed denial-of-service attacks
+7E1067B9	Trust Integrated Cooperation Architecture for Mobile Ad-hoc Networks
+7C40A70D	Change trend of averaged Hurst parameter of traffic under DDOS flood attacks
+7617C4C5	Evaluation on multivariate correlation analysis based denial-of-service attack detection system
+6C9A1347	An Evaluation of Different IP Traceback Approaches
+5D3CF132	Modelling denial of service attacks on JFK with Meadows's cost-based framework
+7A31EACF	Distributed mechanism in detecting and defending against the low-rate TCP attack
+5ADAF158	Mitigating route request flooding attacks in mobile ad hoc networks
+7D634E67	An Efficient Scheme to Prevent DDoS Flooding Attacks in Mobile Ad-Hoc Network (MANET)
+7D46DAAF	A source address filtering firewall to defend against denial-of-service attacks
+8045E0A4	Statistical Analysis of Self-Similar Session Initiation Protocol (SIP) Messages for Anomaly Detection
+7D13BE28	Multicast receiver and sender access control and its applicability to mobile IP environments: a survey
+81067F49	An analysis of using reflectors for distributed denial-of-service attacks
+7DA1DD9B	Fast and robust TCP session lookup by digest hash
+5D3FE523	Security log time synchronization for high-availability systems
+7E88DC4A	A scalable method to protect from IP spoofing
+766FB872	DDoS flooding attack detection scheme based on F-divergence
+7DBA78C7	Research on Counter Bandwidth Depletion DDoS Attacks Based on Genetic Algorithm
+7A42C2DE	Cost-effective quality assurance of wireless network security
+6B543870	Towards Network Denial of Service Resistant Protocols
+800890F2	Provider Provisioned Overlay Networks and Their Utility in DoS Defense
+5D1A0E17	DDoS detection and analysis in SDN-based environment using support vector machine classifier
+7FC43204	Keeping Denial-of-Service Attackers in the Dark
+80DEAF3D	An attack-resistant hashing scheme
+5CCB8988	A taxonomy of ddos attacks and defense mechanisms
+75CFE317	Using equivalence-checking to verify robustness to denial of service
+804D77BD	Mitigating Distributed Denial of Service Attacks in Multiparty Applications in the Presence of Clock Drifts
+812D01A0	Detection of Jamming Attacks in Wireless Ad Hoc Networks Using Error Distribution
+76D4D088	Mitigating control-channel jamming attacks in multi-channel ad hoc networks
+78E3A6BA	An efficient analytical solution to thwart DDoS attacks in public domain
+7B466825	Improving secure server performance by re-balancing SSL/TLS handshakes
+79EA0C8D	Detection of various denial of service and Distributed Denial of Service attacks using RNN ensemble
+8178A621	Fast Deployment of Botnet Detection with Traffic Monitoring
+7B747BB2	Defeating DDoS attacks by fixing the incentive chain
+599534D9	A Probe Detection Model Using the Analysis of the Fuzzy Cognitive Maps
+7882CD84	Reconstruction of malicious internet flows
+752BDE3C	Assessing denial of service vulnerabilities in DOCSIS
+7E7F8020	Jamming sensor networks: attack and defense strategies
+7D1CD87B	The Resurrecting Duckling: Security Issues for Ad-hoc Wireless Networks
+5CAE4271	Immediate data authentication for multicast in resource constrained network
+7A4C7862	IEEE 802.11 Wireless LAN Control Frame Protection
+785762B8	Survey of network-based defense mechanisms countering the DoS and DDoS problems
+7DFF692D	SWAT: small world-based attacker traceback in ad-hoc networks
+0171CC06	Countering targeted file attacks using locationguard
+7DC4A91B	On the feasibility of exploiting P2P systems to launch DDoS attacks
+5858144C	Cross-layer approach to detect data packet droppers in mobile ad-hoc networks
+8055A705	O2-DN: An Overlay-based Distributed Rate Limit Framework to Defeat DDoS Attacks
+7E410D88	Distack -- A Framework for Anomaly-Based Large-Scale Attack Detection
+7E749369	Misusing Unstructured P2P Systems to Perform DoS Attacks: The Network That Never Forgets
+7940FE38	Bitmap algorithms for counting active flows on high speed links
+80EA2C14	Real time detection and classification of DDoS attacks using enhanced SVM with string kernels
+00AB094C	PTrace: Pushback/SVM Based ICMP Traceback Mechanism against DDoS Attack
+78E1740B	CATCH: A protocol framework for cross-layer attacker traceback in mobile multi-hop networks
+6B650F7E	Lightweight Privacy Preserving Authentication for RFID Using a Stream Cipher
+7CFD61E9	An Outlier Detection Based DDoS Defense Method
+5C4B3F7C	Packet Marking Based Cooperative Attack Response Service for Effectively Handling Suspicious Traffic
+5EBF5719	On-Line Detection of Distributed Attacks from Space-Time Network Flow Patterns
+7FC22B8F	Evaluating Attack Amplification in Online Social Networks
+65E74783	Practical Network Applications on a Lightweight Active Management Environment
+7DEEFFAD	ANonce encryption in 802.11i 4-way handshake protocol
+5A4FE3A5	A System for in-Network Anomaly Detection
+5898B56A	Proactively Detecting Distributed Denial of Service Attacks Using Source IP Address Monitoring
+59355ED5	Disaster Recovery Sites as a Tool of Managing Extreme Attacks
+7733987B	Power to the people: securing the internet one edge at a time
+03CDD4F7	Security Management against DDOS attack in Medical Systems Architecture
+7951FBC7	Tiered incentives for integrity based queuing
+5B76A18E	Combining Cross-Correlation and Fuzzy Classification to Detect Distributed Denial-of-Service Attacks
+8004C081	Analysis and design of an intrusion tolerance node for application in traffic shaping
+7B5D3C8A	Weakness and solution of Yang et al.’s protected password changing scheme
+8007B681	On the effect of router buffer sizes on low-rate denial of service attacks
+7DCF4BCD	Design and implementation of SIP-aware DDoS attack detection system
+796AF333	Understanding when location-hiding using overlay networks is feasible
+8044F080	Layer-4 service differentiation and resource isolation
+7B9965EF	Modeling and analysis of internet key exchange protocolv2 and a proposal for its variant
+5F4687A1	Detecting and Preventing IP-spoofed Distributed DoS Attacks
+7EA7EC08	Botnet Detection Based on Analysis of Mail Flow
+770199C2	A queueing analysis for the denial of service (DoS) attacks in computer networks
+7D67C5B6	Efficient DoS Resistant Multicast Authentication Schemes
+809EED18	A Traffic Monitoring Method for High Speed Networks
+5862159C	Probabilistic packet filtering model to protect web server from DDoS attacks
+7E4915C8	Protecting web services with Service Oriented Traceback Architecture
+7FDCD3E8	Identification of Repeated Denial of Service Attacks
+7AE1321B	Network intrusion detection and classification with Decision Tree and rule based approaches
+7CF6CF0A	Survey of security vulnerabilities in session initiation protocol
+7FDCED3F	Analysis of a denial of service attack on TCP
+77343255	Comparative Analysis of Detection of DDoS Attacks in IEEE 802.15.4 Low Rate Wireless Personal Area Network
+7D2E11AD	Towards an efficient implementation of traceback mechanisms in autonomous systems
+7F8C973D	The Optimistic Schemes of Cluster Analysis and k-NN Classifier Method in Detecting and Counteracting Learned DDoS Attack
+5C423840	A new DDoS detection model using multiple SVMs and TRA
+7E790AC4	Research on defending DDoS attack - an expert system approach
+58D3863B	Denial of Service: Another Example
+58AF3783	WebSOS: protecting web servers from DDoS attacks
+7EFB2AC1	Evaluation of secure peer-to-peer overlay routing for survivable SCADA systems
+08E575C9	Global Internet Routing Forensics: Validation of BGP Paths Using ICMP Traceback
+7EE8841C	An information flow method to detect denial of service vulnerabilities
+75B9D6A1	A Comprehensive Survey of Voice over IP Security Research
+7E882406	Enhancing the security of the AODV-S routing protocol
+0C1E4E40	An Implementation of IP Traceback in IPv6 Using Probabilistic Packet Marking
+7E34EF1D	Group Oriented Secure Routing Protocol of Mobile Agents
+7D5920EF	The time element in proactive network defense systems
+8023A74D	A reliable key authentication schema for secure multicast communications
+74C8D44E	FIT: fast Internet traceback
+7A64541F	Defense techniques for low-rate DoS attacks against application servers
+77DF2915	Denial of service attack-resistant flooding authentication in wireless sensor networks
+5AFDA492	Protection from distributed denial of service attacks using history-based IP filtering
+7A2C669D	On the detection of desynchronisation attacks against security protocols that use dynamic shared secrets
+58EB5269	Simulation of internet DDoS attacks and defense
+143CF981	Depth-in-defense approach against DDoS
+806F43D5	Is it congestion or a DDoS attack?
+5AECC7F1	Requirements for a general framework for response to distributed denial-of-service
+80A6F9F8	An Extensible Platform for Evaluating Security Protocols
+80CF890C	A Novel Model for Detecting Application Layer DDoS Attacks
+7F5225F5	Topology based packet marking
+7E93297F	Proactive detection of distributed denial of service attacks using MIB traffic variables-a feasibility study
+78108BD6	Comparison of different fusion approaches for network intrusion detection using ensemble of RBFNN
+755F2BB3	Model-based adaptive DoS attack mitigation
+7E82249B	Denial of Service Attack Simulation Based-on CASL
+7DDD2E1D	DDoS attacks detection model and its application
+7E10C079	A Game-Based Intrusion Tolerant Mechanism for Grid Service
+7A36BD93	Potential cognitive radio denial-of-service vulnerabilities and protection countermeasures: a multi-dimensional analysis and assessment
+77951631	DDoS Attack Tolerant Network using Hierarchical Overlay
+7FF3C1A9	Using Bytecode Instruction Counting as Portable CPU Consumption Metric
+7BCD81A2	Exploring potential vulnerabilities in data center network
+8131E8E2	A Fair Solution to DNS Amplification Attacks
+7EDFD965	Low-rate TCP-targeted denial of service attacks and counter strategies
+80AEAB7E	The protection of QoS for multimedia transmission against denial of service attacks
+7FBF2B91	A new marking scheme to defend against distributed denial of service attacks
+7EEBB0FD	Risk-sensitive control under a class of denial-of-service attack models
+58A722D7	SVM based packet marking technique for traceback on malicious DDoS traffic
+7C894730	Preventing DoS attacks in peer-to-peer media streaming systems
+79252CEE	Multi-vendor penetration testing in the advanced metering infrastructure
+7B9B3707	On investigating ARP spoofing security solutions
+7E563AA4	Simulation Study of Flood Attacking of DDOS
+58DDE710	Analysis of traceback techniques
+800C5B01	Web Forms and Untraceable DDoS Attacks
+745E70FD	SDSNM: A Software-Defined Security Networking Mechanism to Defend against DDoS Attacks
+7C2E5DF8	A multi-layer framework for puzzle-based denial-of-service defense
+026FE6CE	Correlation Based Approach with a Sliding Window Model to Detect and Mitigate Ddos Attacks
+78671201	Robustness of a TETRA Base Station Receiver Against Intentional EMI
+7FE1CE4A	A lightweight authentication scheme for Session Initiation Protocol
+5AB5FE64	Detecting SYN Flooding Attacks Near Innocent Side
+7FD7107A	A P2P-Based Distributed Detection Scheme against DDoS Attack
+5A37BEAA	A Cost Estimation Calculus for Analyzing the Resistance to Denial-of-Service Attack
+7E04EDA5	Live Baiting for Service-Level DoS Attackers
+807E68FF	Genetic-fuzzy association rules for network intrusion detection systems
+32F35BA5	A calculus of quality for robustness against unreliable communication
+77DC38AE	POSTER: Reflected attacks abusing honeypots
+5D2F9F3F	Denial of service via algorithmic complexity attacks
+7C86EC73	Topology-assisted deterministic packet marking for IP traceback
+7E3891AC	Distributed denial of service attacks
+774E4A64	An algebraic approach to IP traceback
+640585F0	Efficient Trapdoor-Based Client Puzzle Against DoS Attacks
+80572762	A Hybrid Agent-based Classification Mechanism to Detect Denial of Service Attacks
+5BEE7FC5	Adjusted Probabilistic Packet Marking for IP Traceback
+62381E87	Trust-Based Security Level Evaluation Using Bayesian Belief Networks
+7E2818F4	Increasing QoS and Security in 4G Networks Using Cognitive Intelligence
+6C2514C8	IP traceback based on Chinese Remainder Theorem
+7F7EE094	Filtering of shrew DDoS attacks in frequency domain
+764164A0	A novel user’s authentication scheme for pervasive on-line media services
+7E18F46C	SIPFIX: A scheme for distributed SIP monitoring
+7F593504	HIDMN: A Host and Network-Based Intrusion Detection for Mobile Networks
+8001EEA3	Vulnerability analysis of IP traceback schemes
+8140D427	Fatih: detecting and isolating malicious routers
+5CA4EE11	Security analysis and improvements for IEEE 802.11i
+7EF608EC	A simulation study of the proactive server roaming for mitigating denial of service attacks
+58F0AD96	Counteracting TCP SYN DDoS attacks using automated model
+7E1039B1	Defend Against Denial of Service Attack with VMM
+7D1CF979	DoS-resistant broadcast authentication protocol with low end-to-end delay
+7D979A9B	New approaches to mitigate network denial-of-service problems
+5ABD493D	Internet denial of service : attack and defense mechanisms
+8172E06F	IP traceback: a new denial-of-service deterrent?
+800CDE1E	Rogue Access Point Based DoS Attacks against 802.11 WLANs
+7E0E482B	Building accountability into the future Internet
+5DC9C3EE	Markov Chain Modelling of the Probabilistic Packet Marking Algorithm
+5DCC93BB	Contrasting Malicious Applets by Modifying the Java Virtual Machine
+5B0EBDD2	Quantifying Network Denial of Service: A Location Service Case Study
+7537200A	An advanced persistent threat in 3G networks: Attacking the home network from roaming networks
+1490A4AD	Pushback: router-based defense against ddos attacks
+7F53C29E	Controlling CPU Usage for Processes with Execution Resource for Mitigating CPU DoS Attack
+75F7992F	Security enforcement in wireless sensor networks: A framework based on non-cooperative games
+782B12B8	NetQuery: a knowledge plane for reasoning about network properties
+7F23BF2A	Autonomous dynamic honeypot routing mechanism for mitigating DDoS attacks in DMZ
+7D68E7AE	Dpraodv: A Dyanamic Learning System Against Blackhole Attack in Aodv Based Manet
+77719032	A microscopic competition model and its dynamics analysis on network attacks
+80234EE0	A cross-layer based intrusion detection approach for wireless ad hoc networks
+80AEA9CE	Design of Traceback Methods for Tracking DoS Attacks
+5A8596DE	A Fault-Tolerant Key-Distribution Scheme for Securing Wireless Ad Hoc Networks
+7D3D8352	The Accountability Problem of Flooding Attacks in Service-Oriented Architectures
+804F70D8	Multiobjective classification with moGEP: an application in the network traffic domain
+791110EF	Effects of Wi-Fi and Bluetooth Battery Exhaustion Attacks on Mobile Devices
+7BE6EF31	Security enhanced user authentication scheme for wireless sensor network
+0914F61E	The "tribe flood network" distributed denial of service attack tool
+5AC03295	Defence against 802.11 dos attacks using artificial immune system
+7E9F3D86	Network Forensic Evidence Acquisition (NFEA) with Packet Marking
+77F51255	New directions in traffic measurement and accounting: Focusing on the elephants, ignoring the mice
+80531E40	Collaborative Change Detection of DDoS Attacks on Community and ISP Networks
+7F8A0305	An Anomaly Detection and Analysis Method for Network Traffic Based on Correlation Coefficient Matrix
+7EB0490B	Anycast-aware transport for content delivery networks
+7E5FEEB4	A framework for SIP intrusion detection and response systems
+7A681DF2	Grid Computing Security: A Taxonomy
+7E500D3C	A Defense System against DDoS Attacks by Large-Scale IP Traceback
+5D36B489	Lessons for Autonomic Services from the Design of an Anonymous DoS Protection Overlay
+8173FAB5	Fragmentation Considered Vulnerable
+0DED8D1D	DDoS Attack Detection Using Fast Entropy Approach on Flow- Based Network Traffic
+77DA2EF1	StackPi: New Packet Marking and Filtering Mechanisms for DDoS and IP Spoofing Defense
+7E04B87F	Statistical traffic modeling for network intrusion detection
+5B455923	dfence: transparent network-based denial of service mitigation
+803E237D	A2M: Access-Assured Mobile Desktop Computing
+815F262F	A Ratio-Based Control Algorithm for Defense of DDoS Attacks
+68D1108A	GOSSIB vs. IP traceback rumors
+77101A40	A secure packet marking scheme for IP traceback in IPv6
+5ACB9ABB	Real-time detection of distributed denial-of-service attacks using RBF networks and statistical features
+7F3A6EFF	An Analytical Model for DDoS Attacks and Defense
+6D7D09B9	PPF Model with CTNT to Defend Web Server from DDoS Attack
+7BB3F1E7	Perimeter-based defense against high bandwidth DDoS attacks
+80261FA0	Security analysis for Delay/Disruption Tolerant satellite and sensor networks
+7FD846C5	Channel switch and quiet attack: New DoS attacks exploiting the 802.11 standard
+7F1F95BC	Tabu marking scheme for IP traceback
+63AEE007	Unified defense against DDoS attacks
+814D173D	Intrusion Detection Scheme against Sinkhole Attacks in Directed Diffusion Based Sensor Networks
+793E381D	Puppetnets: misusing web browsers as a distributed attack infrastructure
+7B1E82E9	Protecting web applications from DDoS attacks by an active distributed defense system
+80E7FBC7	A formal framework and evaluation method for network denial of service
+7DB4B85D	Mitigating denial of service attack using proof of work and Token Bucket Algorithm
+78039F53	Weaknesses and improvement of Wang et al.'s remote user password authentication scheme for resource-limited environments
+77A87FD4	An in-depth analysis on traffic flooding attacks detection and system using data mining techniques
+7E18558A	DoS and DDoS Attack's Possibility Verification on Streaming Media Application
+75151327	Traffic dispersion graph based anomaly detection
+7E31F5D7	A case study: Using architectural features to improve sophisticated denial-of-service attack detections
+5B82CA96	Using routing and tunneling to combat DoS attacks
+08E1B1D5	Distributed Denial-of-Service Characterization
+7D25FA67	Classifying DDoS packets in high-speed networks
+7E765F1B	Decentralized multi-dimensional alert correlation for collaborative intrusion detection
+7A6EFF3B	A proposal of an extended method of IP trace‐back for distributed denial of service attacks using a dynamic marking scheme
+7F51436F	Denial of service in sensor networks
+7D782A27	MODELING DISTRIBUTED DENIAL OF SERVICE ATTACKS AND DEFENSES
+6E6E6B15	SVM approach with CTNT to detect DDoS attacks in grid computing
+7CD98B3D	Using Cloud Computing to Implement a Security Overlay Network
+7B9F0574	Exploitation and threat analysis of open mobile devices
+80C15FDE	Deciding Optimal Entropic Thresholds to Calibrate the Detection Mechanism for Variable Rate DDoS Attacks in ISP Domain
+7B084B39	A Survey on DoS Attacks and Detection Schemes in Wireless Mesh Networks
+7A61EB20	Towards multisensor data fusion for DoS detection
+79FBC052	Security Techniques for Counteracting Attacks in Mobile Healthcare Services
+7FA76C22	On the efficiency of using space-filling curves in network traffic representation
+7D98FEF6	Regional-based authentication against dos attacks in wireless networks
+7E458A82	Baseline Profile Stability for Network Anomaly Detection
+7EAAE13E	A new method to construct DoS attack oriented to Attack Resistance Test
+7AF7D36A	Disarming offense to facilitate defense
+7FC2FF33	Agent Teams in Cyberspace: Security Guards in the Global Internet
+805DE996	A Method of Detecting Network Anomalies in Cyclic Traffic
+7F0D0E7B	Malicious packet dropping: how it might impact the TCP performance and how we can detect it
+77D60345	Containing denial-of-service attacks in broadcast authentication in sensor networks
+7FD679BF	Extracting benefit from harm: using malware pollution to analyze the impact of political and geophysical events on the internet
+7FE9990C	DoS analysis of reservation based MAC protocols
+80EBA57B	Anti-jamming broadcast communication using uncoordinated spread spectrum techniques
+7EE83DCA	Identification of effective network features to detect Smurf attacks
+02E397F8	Using admissible interference to detect denial of service vulnerabilities
+75C6A81E	Compiling network traffic into rules using soft computing methods for the detection of flooding attacks
+7C0EFF52	Inferring Internet denial-of-service activity
+09D915A7	MotusNet: A Content Network
+5B43F1B1	Secure Ubiquitous Health Monitoring System
+803A49CE	Steps to defend against DoS attacks
+814782A4	Quality-of-protection (QoP)-an online monitoring and self-protection mechanism
+7DA94F94	Secure Data Collection in Wireless Sensor Networks Using Randomized Dispersive Routes
+8106903B	Hash tables for efficient flow monitoring: vulnerabilities and countermeasures
+7EF4B69A	Vulnerabilities in distance-indexed IP traceback schemes
+7F10F77A	Record path header for triangle routing attacks in IPv6 networks
+7CB95B9D	Denial of service detection and analysis using idiotypic networks paradigm
+7D2999A3	A DDoS-Aware IDS Model Based on Danger Theory and Mobile Agents
+7E79B13A	Application of anomaly detection algorithms for detecting SYN flooding attacks
+809994C1	Testing a distributed denial of service defence mechanism using red teaming
+77A4762A	Ant-based IP traceback
+7E9DF93F	Wormhole-Based Antijamming Techniques in Sensor Networks
+81572F08	An efficient and easily deployable method for dealing with DoS in SIP services
+780F7E37	TCP Ack storm DoS attacks
+68A8159C	Detecting Shrew HTTP Flood Attacks for Flash Crowds
+77BCD330	Security Approaches in IEEE 802.11 MANET—Performance Evaluation of USM and RAS
+5D2253F3	Topology-Based Detection of Anomalous BGP Messages
+7EF2F878	Protecting routing infrastructures from denial of service using cooperative intrusion detection
+5BC9DE77	Collaborative Anomaly-Based Attack Detection
+808B555B	High performance distributed Denial-of-Service resilient web cluster architecture
+7F66F452	Towards user-centric metrics for denial-of-service measurement
+7D730E44	A taxonomy of DDoS attack and DDoS defense mechanisms
+7DD8FA07	Smurf-based Distributed Denial of Service (DDoS) Attack Amplification in Internet
+7E956F24	Authenticated autonomous system traceback
+79238F10	Attacker traceback with cross-layer monitoring in wireless multi-hop networks
+80B08CA5	Is early warning of an imminent worm epidemic possible?
+7FE4A828	Scalable Hierarchical Traceback
+7D599C20	Detection of Denial-of-Service Attacks Based on Computer Vision Techniques
+7F68CD44	On optimizing load balancing of intrusion detection and prevention systems
+809E400F	Mobile multimedia broadcasting vulnerability threats, attacks and security solutions
+5E51600E	TCP Based Denial-of-Service Attacks to Edge Network: Analysis and Detection
+80840968	Exposing and eliminating vulnerabilities to denial of service attacks in secure gossip-based multicast
+7FD93234	A Multi-user DoS-Containment Broadcast Authentication Scheme for Wireless Sensor Networks
+7D353648	Denial of Service Attacks Using Internet Key Exchange Protocol
+8165C049	Proactive server roaming for mitigating denial-of-service attacks
+7A3C652E	AntBot: Anti-pollution peer-to-peer botnets
+022EF78C	Cryptographic protocols for third generation mobile communication systems
+7E66B8AE	A feedback control defense strategy for denial of service computer attacks
+7D5E0392	A cost-based framework for analysis of denial of service in networks
+8042CED8	Authenticated Access to Reserved Network Resources
+7ED1D364	Examining the dos resistance of HIP
+7FE54E86	A Proactive Test Based Differentiation Technique to Mitigate Low Rate DoS Attacks
+5A02D6AF	Remote Algorithmic Complexity Attacks against Randomized Hash Tables
+7FADDCD7	Denial-of-Service in Wireless Sensor Networks: Attacks and Defenses
+7B2B969B	Defending against spoofed DDoS attacks with path fingerprint
+5DCE7AF3	RCS: A Distributed Mechanism Against Link Flooding DDoS Attacks
+75F8AD56	Denial-of-service resistant quality-of-service signaling for mobile ad hoc networks
+7D8F52B1	A Heuristic DDoS Flooding Attack Detection Mechanism Analyses based on the Relationship between Input and Output Traffic Volumes
+7F02316F	Geographical Division Traceback for Distributed Denial of Service
+01C5665C	A survey of VoIP DoS attacks and their solutions
+80D23BF6	Analyzing interaction between Denial of Service (DoS) attacks and threats
+7E21EAD4	Research on the Active DDoS Filtering Algorithm Based on IP Flow
+7E9E4C98	TrustGuard: A flow-level reputation-based DDoS defense system
+7CAB528D	DoS attacks exploiting signaling in UMTS and IMS
+0BDA30B8	Managing the threat of denial-of-service attacks
+8147D28A	A Device-Independent Router Model
+7B67418A	Pollution attacks and defenses for Internet caching systems
+7E43F540	Jammer Localization in Wireless Sensor Networks
+7EB69430	Formal methods for cryptographic protocol analysis: emerging issues and trends
+78BB7574	TrueIP: prevention of IP spoofing attacks using identity-based cryptography
+7ED0AEF8	Towards lightweight and efficient DDOS attacks detection for web server
+78387832	Design and Implementation of Secure Area Expansion Scheme for Public Wireless LAN Services
+596F3CFB	Network intrusion detection
+776DD66E	System of Systems for Quality-of-Service Observation and Response in Cloud Computing Environments
+7A2C5ED8	On scalability properties of the Hi3 control plane
+7D29667B	Edge-to-edge measurement-based distributed network monitoring
+58EE0BDB	Flooding attack and defence in Ad hoc networks
+7F97128B	Framework for botnet emulation and analysis
+7CCBC352	An intelligent method for real-time detection of DDoS attack based on fuzzy logic
+7DEC37B2	Cryptographic Versus Trust-based Methods for MANET Routing Security
+80ED482F	A framework for malicious workload generation
+7FFFD4CB	Simulation of DDOS Attacks on P2P Networks
+790255A1	Computer security and intrusion detection
+7E403089	FOSeL: Filtering by Helping an Overlay Security Layer to Mitigate DoS Attacks
+7ECBDD38	A Framework for a Collaborative DDoS Defense
+7DF46993	A Defensive Mechanism to Defend against DoS / DDoS Attacks by IP Traceback with DPM
+80A298F7	New Detection of Peer-to-Peer Controlled Bots on the Host
+754763FE	Protecting web servers from distributed denial of service attacks
+74F2F265	A survey on real world botnets and detection mechanisms
+5F786AA0	Mitigating Denial of Service Attacks in Delay-and Disruption-Tolerant Networks
+807B026F	A Principal Components Analysis-Based Robust DDoS Defense System
+7D6E5DF4	Detection of Attackers in Services Using Anomalous Host Behavior Based on Traffic Flow Statistics
+7E888A6D	HAWK: Halting Anomalies with Weighted Choking to Rescue Well-Behaved TCP Sessions from Shrew DDoS Attacks
+8091CFD0	Authentication and Key Establishment Scheme Based on Token for Mobile Commerce
+5C9055D2	Practical Client Puzzle from Repeated Squaring
+5C282E4F	The Internet Motion Sensor: A Distributed Blackhole Monitoring System
+7F24357E	A Novel Cookie-Based DDoS Protection Scheme and its Performance Analysis
+78F9418D	LOT: A Defense Against IP Spoofing and Flooding Attacks
+7D056BAA	Deterministic packet marking based on redundant decomposition for IP traceback
+7D6C9A18	Does open source improve system security?
+8103BB9D	Analysis of Coordinated Denial-of-Service Attacks in IEEE 802.22 Networks
+7F390B2E	Accuracy improvement of multi-stage change-point detection scheme by weighting alerts based on false-positive rate
+7598D46A	Detection and defense of application-layer DDoS attacks in backbone web traffic
+7E5ED5F5	Trace Flooding Attack in Mobile Ad Hoc Networks
+7FAB4C60	Detecting network events via T-entropy
+80E7CBA4	An auto-responsive honeypot architecture for dynamic resource allocation and QoS adaptation in DDoS attacked networks
+72138EDD	All-in-one binary word solution for IP traceback in Wireless Mesh Network
+7BA72B10	Detection of distributed denial of service attacks using an ensemble of adaptive and hybrid neuro-fuzzy systems
+8052DF86	Honeypot Based Routing to Mitigate DDoS Attacks on Servers at ISP Level
+7FE6F251	Re-traffic Pricing for Fighting against DDoS
+5DAC3BA2	Providing elasticity to intrusion detection systems in virtualized Software Defined Networks
+04275A00	A Cloud Tracing and Filtering Framework for Defensing Against Denial of Service Attacks
+806B71D8	Estimating the number of users behind ip addresses for combating abusive traffic
+5D1653F5	Phalanx: withstanding multimillion-node botnets
+7E10BDA0	On cellular botnets: measuring the impact of malicious devices on a cellular network core
+7DE1EE48	D-WARD: a source-end defense against flooding denial-of-service attacks
+7C4EB8D8	Detecting anomalies in network traffic using maximum entropy estimation
+7EE6F614	On the Design and Performance of an Adaptive, Global Strategy for Detecting and Mitigating Distributed DoS Attacks in GRID and Collaborative Workflow Environments
+0A48B5B7	Intelligent jamming in wireless networks with applications to 802.11b and other networks
+7B9A0ECC	Evaluating the partial deployment of an AS-level IP traceback system
+0BE8F3B4	Developing security services for network architectures
+80C4A4C3	Detection & study of DDoS attacks via entropy in data network models
+7E2DDE7D	Enhancing DNS Resilience against Denial of Service Attacks
+85651660	스마트카드 기반 Tsai et al. 인증기법의 안전성 분석과 새로운 보안기법 연구
+6B6470D9	Resisting Malicious Packet Dropping in Wireless Ad Hoc Networks
+8114B900	Robust and efficient detection of DDoS attacks for large-scale internet
+7E90BF1C	Survey of Security Issues in Cognitive Radio Networks
+7AC555B4	DDoS avoidance strategy for service availability
+7BE69391	A survivable DoS-resistant overlay network
+5C044150	Traffic Engineering Based Attack Detection in Active Networks
+5D4AE157	Denial of Service Detection with Hybrid Fuzzy Set Based Feed Forward Neural Network
+0B1A2599	Queuing algorithms performance against buffer size and attack intensities in DDOS attacks
+7EA11DAE	Using Mobile Agents to Detect and Recover from Node Compromise in Path-based DoS Attacks in Wireless Sensor Networks
+801BEFF5	A simulation platform for evaluating DoS attacks in wireless sensor networks
+768A73AD	Securing network access in wireless sensor networks
+7F318A31	Space-time encoding scheme for DDoS attack traceback
+71470098	Botnet Forensics Framework: Is Your System a Bot
+7DE8A893	DoS packet filter using DNS information
+07D9F805	Cooperative Defense against Network Attacks
+7E868227	Core: a collaborative reputation mechanism to enforce node cooperation in mobile ad hoc networks
+7E4C383F	The modeling and comparison of wireless network denial of service attacks
+805C3DCC	Monitoring and controlling QoS network domains
+7F88B4BA	Resisting SYN flood DoS attacks with a SYN cache
+7709AFDA	Denial of service against the Domain Name System
+7CEF7F33	A Stateless Traceback Technique for Identifying the Origin of Attacks from a Single Packet
+6A831314	Protecting Web Services from DoS Attacks by SOAP Message Validation
+7F3B63D9	Parametric Differences between a Real-world Distributed Denial-of-Service Attack and a Flash Event
+7A542BEC	Mitigating DNS DoS attacks
+7D404140	Clustered Adaptive Rate Limiting: Defeating Denial-of-Sleep Attacks in Wireless Sensor Networks
+7A6A4537	A Novel DDoS Attack Defending Framework with Minimized Bilateral Damages
+7DDFD9D9	Marking Technique to Isolate Boundary Router and Attacker
+814809C9	NetSecu: A Collaborative Network Security Platform for In-network Security
+7F3AB306	On the Effectiveness of Flexible Deterministic Packet Marking for DDoS Defense
+5BA0B2A7	A survey of attacks on web services
+81403C41	An approach to reliably identifying signs of DDOS flood attacks based on LRD traffic pattern recognition
+7EB53F6A	Scalable network-layer defense against internet bandwidth-flooding attacks
+7D598D09	An overlay protection layer against Denial-of-Service attacks
+7F6F1017	Arcanum: a secure and efficient key exchange protocol for the Internet
+792C83A3	Design and implementation of a lightweight security model to prevent IEEE 802.11 wireless DoS attacks.
+81596BB7	Energy-efficient link-layer jamming attacks against wireless sensor network MAC protocols
+815EA6EE	On the Dependencies between Source Neighbors in Optimally DoS-stable P2P Streaming Topologies
+8003AAF2	A Puzzle-Based Defense Strategy Against Flooding Attacks Using Game Theory
+7D7ECCF8	A Power-Preserving Broadcast Protocol for WSNs with DoS Resistance
+5B2CF290	Streams, Security and Scalability
+7D9D0871	A Modified Version of IKEv2 for Using in Client-Server Environments
+773C43F9	Multi-defense Mechanism against DDoS in SDN Based CDNi
+76C81B49	Analyzing the Effectiveness of DoS Attacks on Tor
+053C8127	The Causality Analysis of Protocol Measures for Detection of Attacks Based on Network
+7D84C0C3	A Prediction Model of DoS Attack's Distribution Discrete Probability
+75867C23	A practical and robust inter-domain marking scheme for IP traceback
+7BA88497	Improving address space randomization with a dynamic offset randomization technique
+589AD793	Defending DDoS Attacks Using Network Traffic Analysis and Probabilistic Packet Drop
+7C16AAC2	Mitigating denial of capability attacks using sink tree based quota allocation
+7F5EAA3E	An optimization on requesting and authorization for capabilities architecture
+7866DD5E	Size-based scheduling: a recipe for DDOS?
+5A858F0C	Low-rate tcp-targeted dos attack disrupts internet routing
+7ECA3356	Defending Against Meek DDoS Attacks By IP Traceback-based Rate Limiting
+7D02AA57	Mitigating DoS attack through selective bin verification
+7DEF6FB0	An Efficient Anonymous Routing Protocol for Mobile Ad Hoc Networks
+7E697030	A Memory Efficient Anti-Spoofing Method
+7F9071A7	An optimal probabilistic solution for information confinement, privacy, and security in RFID systems
+5E539DC9	Distributed detection of flooding and gray hole attacks in Wireless Sensor Network
+7A4D5C76	Denial-of-service attack resilience dynamic group key agreement for heterogeneous networks
+7DBC0BD3	Analysis of Network Communication Attacks
+7E886D79	Countermeasures Against Distributed Denial of Service Attacks
+056AA10F	Denial-of-Service & Distributed Denial-of-Service on The Internet
+80B9C13E	A SIP-TRW algorithm for DDoS attack detection in SIP environments
+809D3894	Misusing Kademlia Protocol to Perform DDoS Attacks
+813CD55F	An Empirical Study of Denial of Service Mitigation Techniques
+7FF07DF4	Denial-of-service attack-detection techniques
+7F99C2E5	Increasing security and availability of an Internet voting system
+7F39CE97	Provider-based deterministic packet marking against distributed DoS attacks
+63D89019	Using client puzzles to protect TLS
+7E8298F5	Hop integrity in computer networks
+75247105	An effective defense mechanism against DoS/DDoS attacks in flow-based routers
+5953E0AB	Performance Evaluation of Non-parallelizable Client Puzzles for Defeating DoS Attacks in Authentication Protocols
+8163631D	SCTP with an improved cookie mechanism for mobile ad-hoc networks
+5E9A83DE	Intrusion detection with CUSUM for TCP-Based DDoS
+7D17FC0C	A Queuing Analysis of Tolerating for Denial-of-Service (DoS) Attacks with a Proxy Network
+7B9CFDFC	A router-based technique to mitigate reduction of quality (RoQ) attacks
+8030F6C4	Server-Side Prediction of Source IP Addresses Using Density Estimation
+79773C7B	Thwarting DDoS attacks in grid using information divergence
+7FF84769	On Improving an Algebraic Marking Scheme for Detecting DDoS Attacks
+5C70BA56	Distributed defense against distributed denial-of-service attacks
+805EBCD3	Quick Detection of Stealthy SIP Flooding Attacks in VoIP Networks
+7A594DF9	Effective approach toward Intrusion Detection System using data mining techniques
+02BC4212	Proactively Detecting DDoS Attack Using Source IP Address Monitoring
+820A3D5D	Distributed Denial of Service attack on cloud: Detection and prevention
+7FEA9BC8	DoS/DDoS Detection Scheme Using Statistical Method Based on the Destination Port Number
+5DCA9CBF	Detecting IEEE 802.11 MAC layer misbehavior in ad hoc networks: Robust strategies against individual and colluding attackers
+5ADF8E01	MULTOPS: a data-structure for bandwidth attack detection
+806DA5E1	Detection of distributed denial of service attacks in cloud computing by identifying spoofed IP
+7F33C88E	Detecting low-rate periodic events in Internet traffic using renewal theory
+7EE3D387	Multi Layer Approach to Defend DDoS Attacks Caused by Spam
+58B6C02B	Impact of Identifier-Locator Split Mechanism on DDoS Attacks
+7ACBBE0A	Losing control of the internet: using the data plane to attack the control plane
+7EC4207D	Internet infrastructure security: a taxonomy
+7EC42FFC	Less harm, less worry or how to improve network security by bounding system offensiveness
+7D39AC17	MAFIC: adaptive packet dropping for cutting malicious flows to push back DDoS attacks
+5832E9C5	A robust feature normalization scheme and an optimized clustering method for anomaly-based intrusion detection system
+7FC530A4	Efficient packet marking for large-scale IP traceback
+80939B0A	Denial-of-service attacks rip the internet
+7D94D1D9	Intrusion tolerance and anti-traffic analysis strategies for wireless sensor networks
+5E36A154	Safeguard information infrastructure against DDoS attacks: experiments and modeling
+7F0CE723	Survivability Evaluation of Wireless Sensor Network under DDoS Attack
+753709FE	An Experimental Study of the Performance Impact of Path-Based DoS Attacks in Wireless Mesh Networks
+62B2C199	Holistic approach for critical system security: Flooding prevention
+756D06A6	Cost management based security framework in mobile ad hoc networks
+06AD557C	Trends in denial of service attack technology
+7D57DCB7	DDoS detection based on feature space modeling
+5B52E67A	Session key agreement protocol for end-to-end security in MANET
+7F119714	A Parameter Selection Approach for Mixtures of Kernels Using Immune Evolutionary Algorithm and its Application to IDSs
+5F8EA78C	Detecting DDoS attacks based on multi-stream fused HMM in source-end network
+7D4C24E1	Controlling IP Spoofing through Interdomain Packet Filters
+7B0DB4DC	Detection of neighbor solicitation and advertisement spoofing in IPv6 neighbor discovery protocol
+80FF74D5	Two layer Denial of Service prevention on SIP VoIP infrastructures
+7BC7BF4F	Launching denial-of-service jamming attacks in underwater sensor networks
+7F6B55A0	Defending against DoS attacks on 3G cellular networks via randomization method
+7E6F7523	Localization Attacks to Internet Threat Monitors: Modeling and Countermeasures
+80464F3B	Efficient, DoS-Resistant, Secure Key Exchange for Internet Protocols
+7DDA1786	Detecting and Isolating Malicious Routers
+76E347A8	A Novel Solution to Handle DDOS Attack in MANET
+038005EB	Distributed denial of service (DDoS) attacks/tools
+4959052B	A proposal for new marking scheme with its performance evaluation for IP traceback
+7B693572	On Securing MANET Routing Protocol Against Control Packet Dropping
+7CDA32C8	Detection workload in a dynamic grid-based intrusion detection environment
+22F70F78	Conception d'une architecture Pair-à-Pair orientée opérateur de services
+767333BF	Exploiting P2P systems for DDoS attacks
+7BBCC861	An efficient sketch-based framework to identify multiple heavy-hitters and its application in DoS detection
+75BED25E	Mitigating bandwidth-exhaustion attacks using congestion puzzles
+7DCE8ABF	A methodology to evaluate rate-based intrusion prevention system against distributed denial-of-service (DDoS).
+7CEDB5F5	Secure SIP: A Scalable Prevention Mechanism for DoS Attacks on SIP Based VoIP Systems
+7B1C7642	Defending against Distributed Denial of Service Attacks: Issues and Challenges
+804CFED9	Multi-Core Defense System (MSDS) for Protecting Computer Infrastructure against DDoS Attacks
+7E93EE04	Do Low Rate DoS Attacks Affect QoS Sensitive VoIP Traffic?
+7C4500BB	Defending against flooding-based distributed denial-of-service attacks: a tutorial
+7800F336	The case for TCP/IP puzzles
+77AB39C2	Towards automatic security management: a model-based approach
+80DA970D	More Accurate and Fast SYN Flood Detection
+6D3DA662	Vulnerabilities of underwater acoustic networks to denial‐of‐service jamming attacks
+7F47F149	JAM: a jammed-area mapping service for sensor networks
+79D9602D	DETERIORATING DISTRIBUTED DENIAL OF SERVICE ATTACK BY RECOVERING ZOMBIES USING PENALTY SCHEME
+6DA51A7B	Detecting Ringing-Based DoS Attacks on VoIP Proxy Servers
+7FD4575B	A Distributed Approach using Entropy to Detect DDoS Attacks in ISP Domain
+802290D3	Coarse Grained Retrenchment and the Mondex Denial of Service Attacks
+7C836BCA	Securing RFID systems conforming to EPC Class 1 Generation 2 standard
+818077C9	A localised clustering scheme to detect attacks in wireless sensor network
+8096CAF1	A covariance analysis model for DDoS attack detection
+812B6C73	Classifying different denial-of-service attacks in cloud computing using rule-based learning
+5F32B196	Intelligent DDoS packet filtering in high-speed networks
+7B2B3546	An abnormal-based approach to effectively detect DDOS attacks
+7E1DDEC4	Accurately Measuring Denial of Service in Simulation and Testbed Experiments
+7EC43254	A Reliable Component-Based Architecture for E-Mail Filtering
+7D16909D	FVBA: A combined statistical approach for low rate degrading and high bandwidth disruptive DDoS attacks detection in ISP domain
+798EA880	Deciding optimal entropic thresholds to calibrate the detection mechanism for variable rate DDoS attacks in ISP domain: honeypot based approach
+7FBBED1C	Routing Bottlenecks in the Internet: Causes, Exploits, and Countermeasures
+8046D4A4	The detection of low-rate denial-of-service attack based on feature extraction and analysis at congestion times
+7FF7C352	A Pollution Attack Resistant Multicast Authentication Scheme Tolerant to Packet Loss
+7F4E3849	A Probabilistic Attacker Model for Quantitative Verification of DoS Security Threats
+75F3DA93	Distributed denial of service attack detection using an ensemble of neural classifier
+7ADCB9F2	Multilevel μTESLA: Broadcast authentication for distributed sensor networks
+7582790C	Jamming in underwater sensor networks: detection and mitigation
+7D66644A	Modeling and Analysis of Connectivity in Mobile Ad Hoc Networks with Misbehaving Nodes
+7D06DE1D	To filter or to authorize: network-layer DoS defense against multimillion-node botnets
+59F3B776	Analysis of DDoS Attacks and an Introduction of a Hybrid Statistical Model to Detect DDoS Attacks on Cloud Computing Environment
+7F3A84B7	A Secure Intrusion Detection System with Authentication in Mobile Ad hoc Network
+811091E6	A Proxy Network Topology and Reconfiguration Algorithm for Resistance to DoS Attacks
+780179CF	Detection of HTTP flooding attacks in multiple scenarios
+80CC8BFA	You can run, but you can't hide: an effective methodology to traceback DDoS attackers
+7F8F9E86	Protecting Information Systems from DDoS Attack Using Multicore Methodology
+80875783	Apply data mining to defense-in-depth network security system
+7EBFABAA	Spread-Identity mechanisms for DOS resilience and Security.
+5F5C6367	A Pay-per-Use DoS Protection Mechanism for the Web
+7EB1E44C	Packet Filtering Based on Source Router Marking and Hop-Count
+62D5D2B6	Analyzing Performance Vulnerability due to Resource Denial-of-Service Attack on Chip Multiprocessors
+7D04AD43	Adaptive response system for distributed denial-of-service attacks
+7A3935CC	A DoS and fault-tolerant authentication protocol for group communications in ad hoc networks
+5908F900	IP traceback algorithm for DoS/DDoS attack
+80D6CB83	Evaluation and demonstration of the usage of a virtual honeynet for monitoring and recording online attacks
+7DD00280	A novel SYN Cookie method for TCP layer DDoS attack
+816493DB	SOS: an architecture for mitigating DDoS attacks
+5D725342	Software Environment for Simulation and Evaluation of a Security Operation Center
+6D2A025E	Queueing Analysis for Networks Under DoS Attack
+7AC6BC3F	Preventing drive-by download via inter-module communication monitoring
+7DB4CA22	Design and Validation of PATRICIA for the Mitigation of Network Flooding Attacks
+7F0F96BD	Cognitive security protocol for sensor based VANET using swarm intelligence
+5A3B13EA	On the Security and Vulnerability of PING
+7F8FF93C	Denial-of-service attacks on battery-powered mobile computers
+7B2081B4	From high-availability to collapse: quantitative analysis of Cloud-Droplet-Freezing attack threats to virtual machine migration in cloud computing
+809C64EE	An efficient filter for denial-of-service bandwidth attacks
+7E121322	A Control Theoretical Approach for Flow Control to Mitigate Bandwidth Attacks
+80465C8D	Secure and Efficient Broadcast Authentication in Wireless Sensor Networks
+5BCA5AEA	A Mechanism for Detection and Prevention of Distributed Denial of Service Attacks
+7E5EF103	PISA*: A System for Control of DDoS Attacks
+7EEE950F	Fibered Guard - A Hybrid Intelligent Approach to Denial of Service Prevention
+80A7708D	EFFICIENT AND SECURE AUTONOMOUS SYSTEM BASED TRACEBACK
+78C3ACBF	Short paper: security evaluation of IEEE 802.11w specification
+75752CAC	Countering jamming attacks against an authentication and key agreement protocol for mobile satellite communications
+80A5934D	Thwarting Timing Attacks Using ATM Networks
+0D4B2733	Denial of service in public key protocols
+7FDDE811	An Early Stage Detecting Method against SYN Flooding Attack
+7BD3E8CD	Time-division secret key protocol for wireless sensor networking
+7D2ABF14	Entropy clustering approach for improving forecasting in DDoS attacks
+7F9A4542	Fast Algorithms for Heavy Distinct Hitters using Associative Memories
+813BB4C3	A novel approach for a Distributed Denial of Service Detection Engine
+7FF589F1	Non-cryptographic methods of MAC spoof detection in wireless LAN
+77FE090C	Wavelet based Denial-of-Service detection
+7DB20E5C	Experimental Evaluation of Energy-Based Denial-of Service Attacks in Wireless Networks
+5C54C9C2	Preventing DDoS Attacks Based on Credit Model for P2P Streaming System
+79B3293A	On IP traceback
+7F0CE0C9	Using merkle tree to mitigate cooperative black-hole attack in Wireless Mesh Networks
+80D66EC0	A Priority-based Feedback Flow Control System for Bandwidth Control
+5BB2CF61	Trace IP packets by flexible deterministic packet marking (FDPM)
+7FE610E3	Analysis of adjusted probabilistic packet marking
+7DB10A4F	Zombie Identification Port
+7DA7CF4A	Low rate dos attack to monoprocess servers
+804E0A1A	A Secure Protocol Based on a Sedentary Agent for Mobile Agent Environments
+5AEC5C5F	Lightweight wireless intrusion detection systems against DDoS attack
+7F02AD42	Defending Web Services against Denial of Service Attacks Using Client Puzzles
+010B8B4B	Remote Denial of Service Attacks and Countermeasures
+78AEBDEB	Honeypot back-propagation for mitigating spoofing distributed Denial-of-Service attacks
+6E84B43F	DoS protection for a pragmatic multiservice network based on programmable networks
+807BFB68	A Collaborative Network Security Management System in Metropolitan Area Network
+7764EADC	A PROFICIENT TRACEBACK APPROACH USING PROVINCIAL LOCALITY ASPECTS TO ELIMINATE DENIAL OF SERVICE ATTACKS
+761EECFE	Efficient Defence against Misbehaving TCP Receiver DoS Attacks
+8095883C	Ariadne: a secure on-demand routing protocol for ad hoc networks
+58546494	A survey of bots used for distributed denial of service attacks
+7DC6D216	IP spoofing attack and its countermeasures
+80779CC0	Protecting SIP Proxy Servers from Ringing-Based Denial-of-Service Attacks
+7A507082	Security flaws of remote user access over insecure networks
+80EBB8DA	A Simple Attack on a Recently Introduced Hash-based Strong-password Authentication Scheme
+7656889F	Flash crowds and denial of service attacks: characterization and implications for CDNs and web sites
+7751945B	Simulation and Analysis of DDoS in Active Defense Environment
+7D04BBC4	Some upper and lower bounds on the coupon collector problem
+7F1D94F6	MAC games for distributed wireless network security with incomplete information of selfish and malicious user types
+7F1C2C64	Slander-resistant forwarding isolation in ad hoc networks
+8066266A	Controlling high bandwidth aggregates in the network
+810687AC	Mitigating DDoS Attacks Using Protection Nodes in Mobile Ad Hoc Networks
+79E6CA97	Defending against denial of service attacks in Scout
+7743DC2D	An Enhanced SYN Cookie Defence Method for TCP DDoS Attack
+79436681	A discussion on ‘Detection of intrusions in information systems by sequential change-point methods’ by Tartakovsky, Rozovskii, Blažek, and Kim
+7BF66AC4	Security enhancement on an improvement on two remote user authentication schemes using smart cards
+7FE1BDD9	Availability enforcement by obligations and aspects identification
+806DF748	Detecting SYN Flooding Agents under Any Type of IP Spoofing
+7B622FE8	DDoS: design, implementation and analysis of automated model
+7B47BFBF	S-MAS: An adaptive hierarchical distributed multi-agent architecture for blocking malicious SOAP messages within Web Services environments
+5A54C50F	The Economic Incentives of Providing Network Security Services on the Internet Infrastructure
+05B1B8A1	AEGIS: An Active-Network-Powered Defense Mechanism against DDoS Attacks
+7FBD859B	Packet Marking Scheme and Deployment Issues
+769335E3	Specification-based anomaly detection: a new approach for detecting network intrusions
+779602CE	Analyzing well-known countermeasures against distributed denial of service attacks
+7CF679ED	A Robust Remote User Authentication Scheme Using Smart Card
+7F3F9821	On the Impact of DoS Attacks on Secure Service Discovery
+78A2928C	Single packet IP traceback in AS-level partial deployment scenario
+5C6271E4	A new simple authenticated key agreement and protected password change protocol
+7FA62211	Content delivery networks: protection or threat?
+7EA9DD6F	A Hash-based Strong Password Authentication Protocol with User Anonymity
+7DAAA170	Using conservation of flow as a security mechanism in network protocols
+7E15CFD3	A DDoS-Oriented Distributed Defense Framework Based on Edge Router Feedbacks in Autonomous Systems
+8102A685	A second-order statistical detection approach with application to Internet anomaly detection
+80846653	An Entropy Algorithm to Improve the Performance and Protection from Denial-of-Service Attacks in NIDS
+7EFE3172	Attacks and solutions on Aydos-Savas-Koc's wireless authentication protocol
+7D647945	Mark-aided distributed filtering by using neural network for DDoS defense
+7F436467	RT-POD: A Framework for Real-Time Systems Participation in Own Defense
+7C34123B	Brief announcement: spoofing prevention method
+77921342	The denial-of-service dance
+7FE257D2	Empirical analysis of Denial of Service attack against SMTP servers
+80DE5401	Discriminating DDoS attack traffic from flash crowd through packet arrival patterns
+7CA5CB6A	Distinguishing between single and multi-source attacks using signal processing
+7EA51703	RFID Protocol Enabling Ownership Transfer to Protect against Traceability and DoS Attacks
+7CEA6FFD	Sustaining availability of Web services under distributed denial of service attacks
+59F062FF	Feasibility of DDos Attacks with P2P Systems and Prevention Through Robust Membership Management
+7ECFFCCB	DDoS tolerant networks
+7DCEA7E8	Mitigating attacks on open functionality in SMS-capable cellular networks
+8066C0BF	Performance analysis of TCP/AQM under denial-of-service attacks
+81C68B1D	Users and services in intelligent networks
+5D41FDA7	Queue Management as a DoS Counter-Measure?
+0AE2961E	Detecting Novel Attacks by Identifying Anomalous Network Packet Headers
+7D5B2409	Eavesdropping Minimization via Transmission Power Control in Ad-Hoc Wireless Networks
+8070953D	Detecting DDoS Attacks by Analyzing Client Response Patterns
+7D01DBF8	A Coordinated Detection and Response Scheme for Distributed Denial-of-Service Attacks
+80848688	Software based Low Rate DoS Attack Detection Mechanism
+0384D87A	LADS: large-scale automated DDOS detection system
+7B9FAF07	Modified method of detecting DDoS attacks based on entropy: Modified method of detecting DDoS attacks based on entropy
+0375739E	Trust-based application grouping for cloud datacenters : improving security in shared infrastructures
+7D932B1B	Monitoring the macroscopic effect of DDoS flooding attacks
+81EDE1E2	A Proposal of an Extended Method of IP Trace-Back for Distributed Denial of Service Attacks Using Dynamic Marking Scheme
+0BC9F5C6	Mitigating denial of service attacks: a tutorial
+5FB53AE2	A Lightweight IP Traceback Mechanism on IPv6
+7FF1BB21	Countering denial-of-service attacks using congestion triggered packet sampling and filtering
+7E5DA37B	Active internet traffic filtering: real-time response to denial-of-service attacks
+7A45C6BD	AN APPROACH OF DEFENDING AGAINST DDOS ATTACK
+80DBD539	Multifunctioal ICMP messages for e-commerce
+59F45461	Signaling-Oriented DoS Attacks in UMTS Networks
+7F6F8BA8	A Hidden Markov Model based approach to detect Rogue Access Points
+7D65177D	DDoS Mitigation in Non-cooperative Environments
+7E2D7EAF	Semi-randomised propagation for secure routing in Wireless Sensor Networks
+7CB1312B	The detection and defence of DoS attack for wireless sensor network
+7FD20B0C	Mobile agent based real time IP traceback
+7BDBF457	Adaptive intrusion detection & prevention of denial of service attacks in MANETs
+81224E55	Pulse: a dynamic deadlock detection mechanism using speculative execution
+78C53480	A packet marking with fair probability distribution function for minimizing the convergence time in wireless sensor networks
+814B95AC	Exploiting the Human–Machine Gap in Image Recognition for Designing CAPTCHAs
+7EFE1F67	Low-rate TCP-targeted denial of service attacks: the shrew vs. the mice and elephants
+78839E22	Security considerations in ad hoc sensor networks
+62FBE163	Dynamic multimedia scheduling against Motion based DoS attacks
+7D991BD2	JUST-Google: A Search Engine-Based Defense Against Botnet-Based DDoS Attacks
+01DB3F19	A countermeasure againstDDOS attacks using active networks technologies
+5A2AA22A	Characterizing the IRC-based Botnet Phenomenon
+7DFBFFA3	A combined approach for distinguishing different types of jamming attacks against wireless networks
+7F2BCD4E	Security-Aware Topology Control for Wireless Ad-Hoc Networks
+7C6A08EE	Misuse patterns in VoIP
+7AABAF6C	A Defense Framework against DDoS in a Multipath Network Environment
+80DE0E91	Combining Adaptive Filtering and IF Flows to Detect DDoS Attacks within a Router
+8029A7A8	Packetscore: statistics-based overload control against distributed denial-of-service attacks
+777C4FAD	Throttling spoofed SYN flooding traffic at the source
+81418E8B	DDoS Defense Using TCP_IP Header Analysis and Proactive Tests
+7E885F7B	Mitigating Denial-of-Service Flooding Attacks with Source Authentication
+7F5FE49B	Spectral Analysis of TCP Flows for Defense Against Reduction-of-Quality Attacks
+8142C973	A Fast Deterministic Packet Marking Scheme for IP Traceback
+7813E36E	A lab implementation of SYN flood attack and defense
+7DC1AD34	Evaluating the Vulnerability of Network Mechanisms to Sophisticated DDoS Attacks
+7C656E54	"Reminder: please update your details": Phishing Trends
+7FBF6F2C	A taxonomy for denial of service attacks in content-based publish/subscribe systems
+7E71BD11	A packet filter placement problem with application to defense against spoofed denial of service attacks
+7C197DE6	Reducing DDoS attacks impact using a hybrid cloud-based firewalling architecture
+76EFC882	Benchmarks for DDOS Defense Evaluation
+7D2CF473	An early warning system against malicious activities for smart grid communications
+7751D811	Survey of low rate DoS attack detection mechanisms
+75B2D15E	ZSBT: a novel algorithm for tracing DoS attackers in MANETs
+77F44A39	A lightweight web server anomaly detection method based on transductive scheme and genetic algorithms
+7B6AA4A6	A game theoretic defence framework against DoS/DDoS cyber attacks
+5A9A67F0	Implementing Pushback: Router-Based Defense Against DDoS Attacks
+815EC1D1	On the (in)Effectiveness of Probabilistic Marking for IP Traceback Under DDoS Attacks
+7F15AE29	A measurement study of persistent forwarding loops on the Internet
+7E4A9118	Reduction of Quality (RoQ) Attacks on Dynamic Load Balancers: Vulnerability Assessment and Design Tradeoffs
+7B443D7C	Towards asymptotic optimality in probabilistic packet marking
+7CECAC1E	Minimizing collateral damage by proactive surge protection
+7D9B08FF	Review of Detection and Prevention Policies for Distributed Denial of Service Attack in MANET
+5AB597BC	DDoS attacks and defense mechanisms: a classification
+5A11504F	Botnets and Distributed Denial of Service Attacks
+7EA2A92B	A large-scale hidden semi-Markov model for anomaly detection on user browsing behaviors
+7FB40917	Fusion of Detection, Traffic Control and Traceback Technique for DDoS attacks r
+7DCAC2EE	A Graph-Theoretic Algorithm for Detection of Multiple Wormhole Attacks in Mobile Ad Hoc Networks
+7D2C6605	Measuring denial Of service
+7F6EE539	A new border filtering scheme against DDoS attacks
+7FFE912E	A scheme for preventing denial of service attacks on wireless sensor networks
+7543038F	A collaborative defense mechanism against SYN flooding attacks in IP networks
+76960267	Fast autonomous system traceback
+7B460D96	Detecting DDoS attacks at the source using multiscaling analysis
+7EC80F1E	Adaptive and dynamic intrusion detection by means of idiotypic networks paradigm
+70C060AF	Proactive intrusion detection and SNMP-based security management: new experiments and validation
+77BBEBC2	Jamming detection mechanisms for wireless sensor networks
+800297B0	A robust system for accurate real-time summaries of internet traffic
+7062FDD9	Automated Immunization Against Denial-of-Service Attacks Featuring Stochastic Packet Inspection
+7E8A72AF	Detection of low-rate attacks in computer networks
+7E6C0457	Defending against traffic analysis attacks with link padding for bursty traffics
+7FCF0235	Novel hybrid schemes employing packet marking and logging for IP traceback
+7DFAB538	Adaptive Selective Verification
+5DB56912	Integrated notification architecture based on overlay against DDoS attacks on convergence network
+7CF0DB67	Sketch-Based SIP Flooding Detection Using Hellinger Distance
+7D4CDE25	Optimal Filtering of Source Address Prefixes: Models and Algorithms
+042BAA1A	Detecting Grid-Abuse Attacks by Source-based Monitoring
+7C1DED3B	A survey on automatic configuration of virtual private networks
+815FF508	The automatic peer-to-peer signature for source address validation
+7CB83287	Denial-of-service resistance in key establishment
+79B8FE8E	Evaluation of a low-rate DoS attack against iterative servers
+81173141	Tracing cyber attacks from the practical perspective
+7EC1F267	A Chain Reaction DoS Attack on 3G Networks: Analysis and Defenses
+802F03DA	Securing peer-to-peer media streaming systems from selfish and malicious behavior
+7B777ED2	How well can congestion pricing neutralize denial of service attacks?
+81367CFD	Detection of Radio Interference Attacks in VANET
+07806F84	Maximizing the Availability of Distributed Software Services
+5F7891BD	Effective Filtering Scheme against RREQ Flooding Attack in Mobile Ad Hoc Networks
+05495D5A	Autograph: toward automated, distributed worm signature detection
+7D08F8E6	IP traceback-based intelligent packet filtering: a novel technique for defending against Internet DDoS attacks
+7FFCC6BF	Enforcing security for prevention of DoS attack in wireless sensor networks using economical modeling
+807D468A	Preventing SYN flood DoS attacks (Abstract) An improvement to SYN cookies
+7D910172	On the effectiveness of probabilistic packet marking for IP traceback under denial of service attack
+7DFA41E5	An intrusion detection framework for sensor networks using ant colony
+767B0C3A	Fidelity of network simulation and emulation: A case study of TCP-targeted denial of service attacks
+7AF7A6BD	Dynamic Approach to Defend Against Distributed Denial of Service Attacks Using an Adaptive Spin Lock Rate Control Mechanism
+7D315F9A	A Router-based Technique to Detect and Defend against Low-rate Denial of Service
+812C24A2	A Comprehensive Framework for Enhancing Security in InfiniBand Architecture
+80FFEEEE	Change-point monitoring for the detection of DoS attacks
+594E592D	ICMP Traceback with Cumulative Path, An Efficient Solution for IP Traceback
+77A3A7C3	Parallelizing weighted frequency counting in high-speed network monitoring
+7D1512FE	A Lightweight Mechanism to Mitigate Application Layer DDoS Attacks
+7D4E0CE8	Experimental analysis of attacks against intradomain routing protocols
+5AFD2866	Valet Services: Improving Hidden Servers with a Personal Touch
+80F7209C	DDoS Attacks Detection Using GA Based Optimized Traffic Matrix
+6395C90D	Analysis of DoS attacks at MAC Layer in mobile adhoc networks
+766217E1	A prediction-based detection algorithm against distributed denial-of-service attacks
+7C2A77F2	The design and implementation of a next generation name service for the internet
+7D120AE7	Preventing Internet denial-of-service with capabilities
+7DCB3C02	Understanding the behavior of malicious applications in social networks
+781FE5DE	A Coding-Based Incremental Traceback Scheme against DDoS Attacks in MANET
+00A51847	Web timeouts and their implications
+03648E73	Detecting And Visualizing Denial-of-Service And Network Probe Attacks Using Principal Component Analysis
+7F550250	A Measurement Study of the Structured Overlay Network in P2P File-Sharing Applications
+7D54820C	Proposal for and Evaluation of Improved Method of Hash-Based IP Traceback System
+7F3FFF27	Byzantine attacks against network coding in peer to peer distributed storage
+7D93B075	A resource allocation model for denial of service
+7D26FCF7	P2P-AIS: A P2P Artificial Immune Systems architecture for detecting DDoS flooding attacks
+71EC330F	A Defense Mechanism for Distributed Denial of Service Attack in Software-Defined Networks
+80C459DD	Hardware Containers for Software Components: A Trusted Platform for COTS-Based Systems
+7A103F59	DRAP: a Robust Authentication protocol to ensure survivability of computational RFID networks
+58CFFD55	Insertion, Evasion, and Denial of Service: Eluding Network Intrusion Detection
+7F96B5DF	Synmon Architecture for Source-based SYN-flooding Defense on Network Processor
+0AE8CA77	Building secure embedded kernels with the Think architecture
+7AF5470C	IP v6 secure tunneling mechanism
+7D9C81D6	Complementary Scheme of Remote User Access over Insecure Networks
+7D7E25AA	A Stateful Web Service Firewall for BPEL
+7A75683D	6LoWPAN security: adding compromise resilience to the 802.15.4 security sublayer
+7E5CBD1C	Integrating grid with intrusion detection
+585AA55D	Tracing attackers with deterministic edge router marking (DERM)
+7911714F	Five Basic Types of Insider DoS Attacks of Code Dissemination in Wireless Sensor Networks
+7EC5F1A9	Proactive surge protection: a defense mechanism for bandwidth-based attacks
+58D6EC87	Detecting distributed denial of service attacks by sharing distributed beliefs
+75FF743D	Application of anomaly detection algorithms for detecting SYN flooding attacks
+5E239515	Denial of Service Detection in Mobile Agent Systems with Dependencies in Computations
+751C5D14	Network intrusion and fault detection: a statistical anomaly approach
+8035B2A1	Detecting and Tracing DDoS Attacks by Intelligent Decision Prototype
+7B26CE69	An anti-DoS attack architecture for wireless IT Infrastructure
+797CA95E	Tabu marking scheme to speedup IP traceback
+80A9F891	Secure Data Forwarding against Denial of Service Attack Using Trust Based Evolutionary Game
+77ADF8E8	POSTER: How Distributed Are Today's DDoS Attacks?
+7E77C510	Distributed Divide-and-Conquer Techniques for Effective DDoS Attack Defenses
+7F7C052D	Filtering Shrew DDoS Attacks Using A New Frequency-Domain Approach
+7E93C7DA	CLIQUE clustering approach to detect denial-of-service attacks
+0D2CB0AD	Using randomized association ID to detect and prevent spoofed PS-Poll based denial of service attacks in IEEE 802.11 WLANs
+7D2023F7	A confidential and DoS-resistant multi-hop code dissemination protocol for wireless sensor networks
+79FA9F3D	Distributed packet pairing for reflector based DDoS attack mitigation
+7C67A394	Timing considerations in detecting resource starvation attacks using statistical profiles
+7E362A33	Self Protection through Collaboration Using D-CAF: A Distributed Context-Aware Firewall
+7530572E	Access points vulnerabilities to DoS attacks in 802.11 networks
+763F813A	Scalable visualization of propagating internet phenomena
+7DDB2771	Early statistical anomaly intrusion detection of DOS attacks using MIB traffic parameters
+7D190848	An active detecting method against SYN flooding attack
+7FA86111	802.11 network intrusion detection using genetic programming
+802D346F	A DDoS Attack Defending Scheme Based on Network Processor
+7D707EF9	The Early Detection of DDoS Based on the Persistent Increment Feature of the Traffic Volume
+7E0775FA	A Precise Termination Condition of the Probabilistic Packet Marking Algorithm
+7FCDE5D5	A cross-AS traceback method based on flexible fragmentation of path information
+80B35F38	Detecting Primary User Emulation Attacks in Dynamic Spectrum Access Networks
+5D9B09D2	A comprehensive categorization of DDoS attack and DDoS defense techniques
+593B55FD	Enhancing the Resistence of a Provably Secure Key Agreement Protocol to a Denial-of-Service Attack
+5DD2E1DA	Identifying DOS attacks using data pattern analysis
+7D25D38B	NetShield: Protocol Anomaly Detection with Datamining Against DDoS Attacks
+6D2E2A25	Computational intelligent techniques for detecting denial of service attacks
+7DEAC944	Max-Min Fair Scheduling in Input-Queued Switches
+7CEA3F44	TTL Based Packet Marking for IP Traceback
+7CA1BF73	Blocking attacks on SIP VoIP proxies caused by external processing
+7FC887FC	On achieving fairness in the joint allocation of processing and bandwidth resources: principles and algorithms
+7FCEEA28	Mathematical Model for Low-Rate DoS Attacks Against Application Servers
+59EEA1F9	Using Incentives to Reduce Active Network Privacy Threats and Vulnerabilities
+6A376BFE	Protecting Web Services against DoS Attacks: A Case-Based Reasoning Approach
+7C40400E	Feature evaluation for web crawler detection with data mining techniques
+78571D64	Energy-oriented denial of service attacks: an emerging menace for large cloud infrastructures
+7FDF3547	Effectiveness of advanced and authenticated packet marking scheme for traceback of denial of service attacks
+7E259E4F	A Method of Bandwidth Allocation Mechanism in ForCES Transport Mapping Layer
+8164E986	Monitoring the application-layer DDoS attacks for popular websites
+80443F08	Portable Resource Control in Java: Application to Mobile Agent Security
+801516CC	Enhanced ICMP traceback with cumulative path
+76E9EC90	SyMon: A practical approach to defend large structured P2P systems against Sybil Attack
+08F26DF0	Preventing DoS Attacks in Wireless Sensor Networks: A Repeated Game Theory Approach
+7C53C113	On Order Gain of Backoff Misbehaving Nodes in CSMA/CA-based Wireless Networks
+80B61AF1	Botnet Command and Control Mechanisms
+8070C7FE	A Survey of Botnet and Botnet Detection
+800DD882	The Efficient Dual Receiver Cryptosystem and Its Applications
+8129A397	Provision of Quality of Service with Router Support
+75989A21	Blocking DoS Attack Traffic in Network with Locator/Identifier Separation
+0D85985A	Some improvements to the cost-based framework for analyzing denial of service attacks
+7D3F249B	Design and analysis of a denial-of-service-resistant quality-of-service signaling protocol for MANETs
+8050558B	Performance Sensitivities of Wireless Mesh Networks Under Path-Based DoS Attacks
+09CB5217	Experimental Analysis of the Arcanum Key Exchange Protocol
+813EAB99	OSASMAC: Opportunistic Secure Adaptive Sensor MAC Protocol
+778376A3	Risk-sensitive control under a Markov modulated Denial-of-Service attack model
+748EAD6E	Random flow network modeling and simulations for DDoS attack mitigation
+80C22066	On the impact of DoS attacks on Internet traffic characteristics and QoS
+7839DE31	Protecting bursty applications against traffic aggressiveness
+5A9D4B9F	Analysis of EAP-GPSK authentication protocol
+7E4339D1	Using Adaptive Bandwidth Allocation Approach to Defend DDoS Attacks
+7E69541C	A Comprehensive Mechanism to reduce the detection time of SYN Flooding Attack
+7CF89FA2	Analysis of denial-of-service attacks on denial-of-service defensive measures
+7F3B61CC	DDoS-shield: DDoS-resilient scheduling to counter application layer attacks
+80140B47	A Comprehensive Survey of Distributed Defense Techniques against DDoS Attacks
+817A2C60	COCA: a secure distributed online certification authority
+804D5A34	Single packet IP traceback in AS-level partial deployment scenario
+02894B18	Cross-layer designs for mitigating range attacks in ad hoc networks
+74A1E879	Effective and efficient malware detection at the end host
+80576E81	A Behavior-Based Detection Approach to Mass-Mailing Host
+7AE66A7A	IP Packet Size Entropy-Based Scheme for Detection of DoS/DDoS Attacks
+7E3EE2F9	DDoS detection and traceback with decision tree and grey relational analysis
+5E64CEC0	Space-Economical Reassembly for Intrusion Detection System
+7842DEA6	A general model of probabilistic packet marking for IP traceback
+7FAC2591	Defending Against High-Bandwidth Traffic Aggregates
+768C0617	Fast detection and visualization of network attacks on parallel coordinates
+8016D3F7	Probabilistic Route Selection Algorithm to Trace DDoS Attack Traffic Source
+7FAA2ED8	Heat stroke: power-density-based denial of service in SMT
+7B8C9330	WebSOS: an overlay-based system for protecting web servers from denial of service attacks
+7DB5C24C	Intrusion Detection System for IP Multimedia Subsystem using K-Nearest Neighbor classifier
+7EEA4030	Exploiting open functionality in SMS-capable cellular networks
+7FA70E2D	A Service Provider's Approach for Improving Performance of Aggregate Voice-over-IP Traffic
+5DE27A87	Pushback for Overlay Networks: Protecting Against Malicious Insiders
+78BE9402	An Intrusion Detection System Based on Network Processor
+7FBA5A08	FANFARE for the common flow
+7855FFCE	Detection of DDoS attacks using optimized traffic matrix
+7F4E55F7	EFFECTIVENESS OF RATE-LIMITING IN MITIGATING FLOODING DOS ATTACKS
+8039C083	A framework for countering denial of service attacks
+108CEB35	Performance studies of the server-side access control for syn-flooding distributed denial of service attacks using real systems
+75D8C94F	New directions in traffic measurement and accounting
+7F865160	Defending Against TCP SYN Flooding Attacks Under Different Types of IP Spoofing
+7D20A49C	Defense against Routing Disruption Attacks in Mobile Ad Hoc Networks
+80D3EBA7	Using whitelisting to mitigate DDoS attacks on critical Internet sites
+0C44F537	MAC Layer DoS Attacks in Wireless Sensor Networks: A Survey
+80DD7FE9	A Novel Cooperation Mechanism to Enforce Security in Wireless Sensor Networks
+77AA0432	Energy-efficient link-layer jamming attacks against wireless sensor network MAC protocols
+763F7E0D	A Host-Based Intrusion Detection System Using Architectural Features to Improve Sophisticated Denial-of-Service Attack Detections
+7F377BCC	LEDS: Providing Location-Aware End-to-End Data Security in Wireless Sensor Networks
+7DA4554A	Mitigating DoS Using Handlers for Global SOA
+595AAA30	Reflector Attack Traceback System with Pushback Based iTrace Mechanism
+7D4C15CA	Adaptive sinkhole detection on wireless ad hoc networks
+7E1D1962	Using Random Bit Authentication to Defend IEEE 802.11 DoS Attacks
+80EEC776	An edge-to-edge filtering architecture against DoS
+7FB11724	An efficient authentication protocol based on congruence for Wireless Sensor networks
+815FD37E	The Impact of Flooding Attacks on Network-based Services
+773A8D72	Distributed denial of service attacks in software-defined networking with cloud computing
+7A564ACC	A Link Signature Based DDoS Attacker Tracing Algorithm under IPv6
+70317E65	Cooperative routers against DoS attacks
+5CBDA036	Improved Technique of IP Address Fragmentation Strategies for DoS Attack Traceback
+7CFDFA07	A Novel Algorithm for Defending Path-Based Denial of Service Attacks in Sensor Networks
+78693A1A	Observing Internet Worm and Virus Attacks with a Small Network Telescope
+0425E59C	A Cryptographic Approach to Defend against IP Spoofing
+5C1C8EE8	Stealth-MITM DoS Attacks on Secure Channels
+7903EBD2	Black-box approach for testing quality of service in case of security incidents on the example of a SIP-based VoIP service: work in progress
+7FADE15D	A DOS-resilient design for delay tolerant networks
+7FB26E73	An Active DDoS Defense Model Based on Packet Marking
+7D9C0857	An autonomic approach to denial of service defence
+772CD65D	The 1999 DARPA off-line intrusion detection evaluation
+59081C4E	IP traceback for wireless ad-hoc networks
+7E2DB16D	RIM: Router Interface Marking for IP Traceback
+7E2C7356	Garbage collector memory accounting in language-based systems
+7E2EB56B	Use Double Check Priority Queue to Alleviate Malicious Packet Flows from Distributed DoS Attacks
+6E13B930	An Adaptive Edge Marking Based Hierarchical IP Traceback System
+7E4EDCAB	An Efficient Probabilistic Packet Marking Scheme for IP Traceback
+7D9EEB14	Scalable IP Multicast Sender Access Control for Bi-directional Trees
+01CD9CAE	The Internet Motion Sensor: A distributed global scoped Internet threat monitoring system
+815C5B05	Collaborative Internet worm containment
+5ED2F2E9	Pervasive random beacon in the internet for covert coordination
+71D5CF00	Denial of service mitigation approach for IPv6-enabled smart object networks
+7ED88ABC	Adaptive Early Packet Filtering for Defending Firewalls Against DoS Attacks
+765CCDB0	Towards scalable and robust distributed intrusion alert fusion with good load balancing
+7F3CE7A4	Probabilistic packet marking for large-scale IP traceback
+7F9C84C7	The design of the en-route filtering mechanism with immediately lightweight authentication for wireless sensor networks
+811484B8	Extraction of Characteristics of Anomaly Accessed IP Packets by the Entropy-Based Analysis
+7FE0F509	FAST: Fast Autonomous System Traceback
+7FEA10F4	Entropy-based profiling of network traffic for detection of security attack
+79E91A4E	A novel approach to detecting DDoS Attacks at an Early Stage
+7B0D1707	Two-way Handshake protocol for improved security in IEEE 802.11 wireless LANs
+5F5DB449	Allergy Attack Against Automatic Signature Generation
+7E6DCFD9	Constrained Function-Based Message Authentication for Sensor Networks
+80E16F7B	ContagAlert: Using Contagion Theory for Adaptive, Distributed Alert Propagation
+7DB89C92	PSAT: proactive signaling architecture for IP traceback
+02E7833D	Common Denial of Service Attacks
+80349914	PDoS-Resilient Push Protocols for Sensor Networks
+7653613B	Detecting and mitigating the impact of wideband jammers in IEEE 802.11 WLANs
+8081C236	Consensus extraction from heterogeneous detectors to improve performance over network traffic anomaly detection
+0B360179	Empirical study of tolerating denial-of-service attacks with a proxy network
+597B8C3E	A Novel Rate Limit Algorithm Against Meek DDoS Attacks
+5B20B878	Analysis of attacks on routing protocols in MANETs
+7EEBBE50	A Deployable Architecture against Application-level DDoS Attacks
+8068963B	SAVE: source address validity enforcement protocol
+805946F1	Chaos theory based detection against network mimicking DDoS attacks
+80120830	Fit a Spread Estimator in Small Memory
+7D70EB29	Accountable File Indexing against DDoS Attacks in Peer-to-Peer Networks
+7AE1FD03	Compromise-resilient anti-jamming communication in wireless sensor networks
+7FA3CD0C	Finding hierarchical heavy hitters in data streams
+5BE2E3F9	A secure global state routing for mobile ad hoc networks
+5A7D34A5	An Algebraic Approach to IP Traceback
+7AE0ECEB	Exposing and eliminating vulnerabilities to denial of service attacks in secure gossip-based multicast
+5BB0021F	A Dynamic Path Identification Mechanism to Defend Against DDoS Attacks
+802DAF8E	Drive-By Pharming
+7F1091F1	A Novel Packet Marketing Method in DDoS Attack Detection
+7CFEF9D6	A multilevel thrust filtration defending mechanism against DDoS attacks in cloud computing environment
+5D00AE7C	DDoS attack detection algorithms based on entropy computing
+77C3D242	Simulation for intrusion-resilient, DDoS-resistant authentication system (IDAS)
+7B214038	Distributed response to network intrusions using multiagent reinforcement learning
+7EEC0EA4	E-CAP: An Extended Capability Based Mechanism to Limit Distributed Denial of Service Attacks
+7E97ED48	Client-controlled slow TCP and denial of service
+7F995038	Bayes Optimal DDoS Mitigation by Adaptive History-Based IP Filtering
+75C70BB1	Load-balanced agent activation for value-added network services
+7E3749F6	A new form of DOS attack in a cloud and its avoidance mechanism
+771EF96F	Realistic Large-Scale Online Network Simulation
+805C1313	A hybrid defense mechanism for DDoS attacks using cluster analysis in MANET
+804ACE79	A hybrid defense technique for ISP against the distributed denial of service attacks
+7F55E861	Lightweight Detection of DoS Attacks
+80DA4257	Defending P2Ps from Overlay Flooding-based DDoS
+7DDA80D0	Game-based analysis of denial-of-service prevention protocols
+78AE0FC6	Detection of malicious and non-malicious website visitors using unsupervised neural network learning
+7D8669B2	An Entropy-Based Countermeasure against Intelligent DoS Attacks Targeting Firewalls
+5F21976F	Ensuring basic security and preventing replay attack in a query processing application domain in WSN
+7AADFF5E	A scalable sampling scheme for clustering in network traffic analysis
+7DC0F6F3	Pong-cache poisoning in GUESS
+80E19BEA	Increasing the DoS attack resiliency in military ad hoc networks
+80EAE3E7	Accurate Real-time Identification of IP Prefix Hijacking
+80542EFA	Using Web-Referral Architectures to Mitigate Denial-of-Service Threats
+7ECB62E1	Defending Grid Web Services from XDoS attacks by SOTA
+80B88823	Optimizing the pulsing denial-of-service attacks
+7E1EF57C	Denial-of-service in automation systems
+7D459593	WRAPS: Denial-of-Service Defense through Web Referrals
+5EC3AFB3	A Proactive Approach to Distributed DoS Prevention Using Route-Based Packet Filtering
+7FBFC768	A Pattern Recognition Scheme for Distributed Denial of Service (DDoS) Attacks in Wireless Sensor Networks
+7ECE908C	Dynamic connectivity management with an intelligent route service control point
+78FA34C1	A secure user authentication scheme using hash functions
+7EC374CA	The Fail-Heterogeneous Architectural Model
+777D0D5C	A Black-Box Approach to Detect Vulnerabilities in Web Services Using Penetration Testing
+07F75948	Denying Denial-of-Service Attacks: A Router Based Solution
+598DF7C8	Building a reactive immune system for software services
+7AD4603B	A Forensic Mechanism to Trace the Master of Distributed Denial-of-Service Attack
+80390C6C	TARP: Ticket-based address resolution protocol
+793FCFF7	Challenges and Limitations in Current Botnet Detection
+80CC39BD	Secure rateless deluge: pollution-resistant reprogramming and data dissemination for wireless sensor networks
+80D047CE	Preventing Denial of Service Attacks in Government E-Services Using a New Efficient Packet Filtering Technique
+8104D8FC	Applying Data Fusion in Collaborative Alerts Correlation
+7EEC08DA	The LoSS Technique for Detecting New Denial of Service Attacks
+7A9566E7	ACCEL-RATE: a faster mechanism for memory efficient per-flow traffic estimation
+813EFAEB	Accurate network anomaly classification with generalized entropy metrics
+5BABC1A7	Performance comparison of Intelligent Jamming in RF (Physical) Layer with WLAN Ethernet Router and WLAN Ethernet Bridge
+091F1AA4	Advantages and vulnerabilities of pull-based email-delivery
+814C06F9	DHT-based security infrastructure for trusted internet and grid computing
+58BEE326	Preventing Denial-of-Service Attacks in Shared CMP Caches
+7DD2D49A	Detecting compromised routers via packet forwarding behavior
+7A5780F7	Protecting TCP services from denial of service attacks
+7B4A3479	Tolerating denial-of-service attacks using overlay networks: impact of topology
+58A5CD2E	Detecting DNS amplification attacks
+8140081E	MF (minority first) scheme for defeating distributed denial of service attacks
+7E95A336	A Framework for Secure Anycast Group Management
+809BB5F7	Transport-aware IP routers: a built-in protection mechanism to counter DDoS attacks
+59847E8F	An Efficient Domain Based Marking Scheme for IP Traceback
+0B974E7E	INTERNET WORMS AS INTERNET-WIDE THREAT
+7EEB7149	Robust Spectrum Decision Protocol against Primary User Emulation Attacks in Dynamic Spectrum Access Networks
+804B4EB7	An efficient and reliable DDoS attack detection using a fast entropy computation method
+80CD4EAC	A Game-Theoretic Framework for Bandwidth Attacks and Statistical Defenses
+7E1629A7	Autonomous System-Based Marking Scheme for Internet Traceback
+7747FEF1	Effective metric for detecting distributed denial-of-service attacks based on information divergence
+809E53AC	Mitigate DDoS attack using TTL buckets and host threatening index
+7F05D1F8	A confidence-based filtering method for DDoS attack defense in cloud environment
+5FD4F4D9	An authenticated key exchange mechanism using one-time shared key
+755C5075	A survey on the design, applications, and enhancements of application-layer overlay networks
+7E51915E	Potential thermal security risks
+5FE03F40	The Feature Selection and Intrusion Detection Problems
+7D94EA4D	DiDDeM: a system for early detection of TCP SYN flood attacks
+7DD6DA19	Denial of Service Attacks in Cognitive Radio Networks through Channel Eviction Triggering
+8057B633	IP Traceback Methodology Using Markov Chain and Bloom Filter in 802.16e
+58DDEDED	Secure computation with partial message loss
+0108D64D	Hardware Supports for Network Traffic Anomaly Detection
+79C50BBD	A posteriori defensive programming: an annotation toolkit for DoS-resistant component-based architectures
+7FB900C2	Collaborative jamming and collaborative defense in Cognitive Radio Networks
+812D4A74	On the Detection of DDoS Attackers for Large-Scale Networks
+7F0F917A	Xen and the art of virtualization
+5FB4B3C6	Protecting Internet Services from Low-Rate DoS Attacks
+7E31C893	Efficient traceback of DoS attacks using small worlds in MANET
+7DEA7952	Comprehensive test mechanism to detect attack on Web Services
+7D774AFC	Stasis Trap: Cross-Layer Stealthy Attacks in Wireless Ad Hoc Networks *
+80173038	An Aggregative Approach for Scalable Detection of DoS Attacks
+7D125738	Visual Clustering of Spam Emails for DDoS Analysis
+76FB7A58	Real-time CBR-agent with a mixture of experts in the reuse stage to classify and detect DoS attacks
+7CFAD5E9	Mitigation of DoS attacks through QoS regulation
+7EDB6549	Detecting Bandwidth DDoS Attack with Control Charts
+7FF98870	Communities of Interest for Internet Traffic Prioritization
+75C3CCD8	PSO-SFDD: Defense against SYN flooding DoS attacks by employing PSO algorithm
+814426F5	Survivability evaluation of SIGMA and mobile IP
+7F331593	Defeating distributed denial-of-service attack with deterministic bit marking
+7B6649EB	Rushing attacks and defense in wireless ad hoc network routing protocols
+814D7F19	Increased availability and scalability for clustered services via the wait time calculation, trust based filtering and redirection of TCP connection requests
+7A0D5510	Multi-stage change-point detection scheme for large-scale simultaneous events
+59B0066C	MIPv6 Binding Update Protocol Secure Against Both Redirect and DoS Attacks
+7DA32C14	HIDDEN: Hausdorff Distance Based Intrusion Detection Approach DEdicated to Networks
+77A435D5	Detecting Denial-of-Service attacks using the wavelet transform
+8146731C	A Distributed-Log-based IP Traceback Scheme to Defeat DDoS Attacks
+7D99214F	An untold story of middleboxes in cellular networks
+5E4617DC	A Study on Marking Bit Size for Path Identification Method: Deploying the Pi Filter at the End Host
+7279AEDA	A novel packet marking scheme for IP traceback
+7A652F84	Defeating distributed denial of service attacks
+80C59E98	Denial-of-service resistant multicast authentication protocol with prediction hashing and one-way key chain
+7EC4F4F6	Simulation Based Assessment of Energy Consumption Optimization in 3G Mobiles
+5AFD4596	Multi-agent framework for simulation of adaptive cooperative defense against internet attacks
+813107ED	Anti-DDoS Virtualized Operating System
+7A284906	Cooperative detection and protection against network attacks using decentralized information sharing
+7F98BC29	Cross Layer Denial of Service Attacks in Wireless Sensor Network Using Swarm Intelligence
+5C241793	Temporal Lensing and Its Application in Pulsing Denial-of-Service Attacks
+7E86A06C	A 10 Gb/s wire-speed firewall system using reconfigurable processors
+5870632B	Memory-efficient IP filtering for countering DDoS attacks
+80E987E0	Towards a resource-safe Erlang
+804442E9	Ensemble-based DDoS detection and mitigation model
+5CCA910D	One step ahead to multisensor data fusion for DDoS detection
+7D8232A0	Network security model for analyzing network-based control systems under denial of service attacks
+7E506AB5	A Case-Based Framework for Meta Intrusion Detection
+7E983A0C	Security Analysis and Enhancement of Tsai et al.'s Smart-Card Based Authentication Scheme
+7FF9F762	Modified Deterministic Packet Marking for DDoS Attack Traceback in IPv6 Network
+7DCA63F7	An adaptive security model for mobile agents in wireless networks
+7D31316D	SIGF: a family of configurable, secure routing protocols for wireless sensor networks
+0A15D069	QGuard: Protecting Internet Servers from Overload
+6ED90D7A	Evaluation of the diagnostic capabilities of commercial intrusion detection systems
+7EB7B40E	Visualization of network components for attack analysis
+75ADB8BA	Using graphic turing tests to counter automated DDoS attacks against web servers
+7E699926	A delay-based probing technique for the discovery of a firewall's accept rules
+7AF71859	Efficient, DoS-resistant, secure key exchange for internet protocols
+59E8CB66	Tracing sources of DOS and DDOS attack: evidential recovery
+7D8B0732	Optimal Placement of Detection Nodes against Distributed Denial of Service Attack
+7E50D7D3	Low-Rate DDoS Attacks Detection and Traceback by Using New Information Metrics
+7F519D1D	Securing the Internet routing infrastructure
+80380C57	Stochastic Security Performance of Active Cache Based Defense against DoS Attacks in Wireless Mesh Network
+7E33E66F	Algebraic geometric code based IP traceback
+7FE8A357	DCA for bot detection
+7D008D77	Detecting distributed denial-of-service attacks by analyzing TCP SYN packets statistically
+7696FDFA	Optimal specifications for a protective framework against HTTP-based DoS and DDoS attacks
+7E2A5D4D	Implementing and testing dynamic timeout adjustment as a dos counter-measure
+7D277B74	4-Way Handshake Solutions to Avoid Denial of Service Attack in Ultra Wideband Networks
+7DE4A21D	On scalable attack detection in the network
+7BD49A12	DDoS defense system for web services in a cloud environment
+7EA45029	Design of detection system against the denial of service attack in 3G1x system
+7EF5CFDA	Denial of Service Attacks in Networks with Tiny Buffers
+7DDB03E8	Denial of service attacks targeting a SIP VoIP infrastructure: attack scenarios and prevention mechanisms
+7E9F1688	Correlation Analysis between Spamming Botnets and Malware Infected Hosts
+812C2369	Mitigating selective forwarding attacks with a channel-aware approach in WMNS
+7D564DBC	A Hash-Based Path Identification Scheme for DDoS Attacks Defense
+5E1B0B28	SIP Extension and Some Approaches for Establishment of a Secure Large-Scale Conference
+7DC7390E	A real-time traceback scheme for DDoS attacks
+7E0ACDD4	Intentional electromagnetic interference through saturation of the RF front end
+80816D99	Sensors and wireless communication for medical care
+7B874706	SEAD: secure efficient distance vector routing for mobile wireless ad hoc networks
+7F6AA83D	A Testbed Implementation of Monitoring Assisted Local Route Recovery Scheme for Wireless Mesh Networks
+7F495543	Detecting DoS attacks on SIP systems
+782BE371	Just fast keying in the pi calculus
+7E4B84E2	SIFF: a stateless Internet flow filter to mitigate DDoS flooding attacks
+625571AC	CNoA: Challenging Number Approach for uncovering TCP SYN flooding using SYN spoofing attack
+6C5A5728	On the inference and prediction of DDoS campaigns
+624709F8	Mitigation of Random Query String DoS via Gossip
+80EC4C12	A Survey of Defense Mechanisms Against Distributed Denial of Service (DDoS) Flooding Attacks
+76C66662	Botnets: A survey
+5AB29F67	Compromise-resilient anti-jamming for wireless sensor networks
+7FC45D20	Passive Listening and Intrusion Management in Commodity Wi-Fi Networks
+813ABA15	LEDS: Providing Location-Aware End-to-End Data Security in Wireless Sensor Networks
+760B4FDB	An approach to mitigate denial of service attacks in ieee 802.11 networks
+5A19D2C2	Enhanced and Authenticated Deterministic Packet Marking for IP Traceback
+7EAB13AC	Detection of Resource-Drained Attacks on SIP-Based Wireless VoIP Networks
+0A44D83E	Detecting DDoS Attacks on ISP Networks
+8063CC2C	IP-traceback based attacker tracking: a probabilistic technique for detecting Internet attacks using the concept of hidden Markov models
+808124B9	Prevention of Man-in-the-Middle Attacks Using ID Based Signatures
+7F0586BA	Detecting incoming and outgoing DDoS attacks at the edge using a single set of network characteristics
+7D5D2C89	SCTP in battlefield networks
+7D595CD7	On localization attacks to Internet Threat Monitors: An information-theoretic framework
+805C560E	Crossbow: a vertically integrated QoS stack
+816F55D7	OPERA: An open-source extensible router architecture for adding new network services and protocols
+5DDD762B	A Detection and Filter System for Use Against Large-Scale DDoS Attacks in the Internet Backbone
+5DE8CBB4	Fast Classification, Calibration, and Visualization of Network Attacks on Backbone Links
+7DA026D8	DDoSniffer: Detecting DDoS attack at the source agents
+7F755D1D	Filtering spoofed traffic at source end for defending against DoS / DDoS attacks
+814207D1	Further Analysis and Improvement of Yoon et al.'s Hash-Based User Authentication Scheme
+78BCAC69	DDoS: Flood vs. Shrew
+80C80981	Using an identity-based dynamic access control filter (IDF) to defend against DoS attacks
+00141700	DoS Defense in Structured Peer-to-Peer Networks
+7E934E32	ALPi: A DDoS Defense System for High-Speed Networks
+7CF3E247	Attack Source Traceback Based on Stable Topology in MANET
+762F725A	Portable resource control in Java
+7D3180F2	Automatic Vulnerability Checking of IEEE 802.16 WiMAX Protocols through TLA+
+7E7D31DD	Real-time detection and containment of network attacks using QoS regulation
+77867BA5	Experimental analysis of denial-of-service attacks on teleoperated robotic systems
+7CC68B3D	Detection of DDoS attack and defense against IP spoofing
+7F5671C8	Source-end DDoS defense
+7A22EB55	Alliance formation for DDoS defense
+7E768027	A Novel Gray Hole Attack Detection Scheme for Mobile Ad-Hoc Networks
+7643C917	Packet forwarding with source verification
+7FBA2601	A Robust Session Key Distribution in 802.11i
+7E3710E4	Analysis of Defenses against Distributed Denial of Service Attacks
+7ED334B0	Research on the comparison of Flood DDoS and Low-rate DDoS
+7DE9FABC	A game theoretic defending model with puzzle controller for distributed dos attack prevention
+809C03FF	Protecting resources with resource control lists
+7FD1EBF4	Counter-Flooding: DoS Protection for Public Key Handshakes in LANs
+7F1DE811	Towards characterizing the effectiveness of random mobility against actuation attacks
+7E411DF0	Efficient Broadcast Authentication in Wireless Sensor Networks
+5E90F29D	Research on the Detection of Distributed Denial of Service Attacks Based on the Characteristics of IP Flow
+5D0D3A44	An extensible and flexible system for network anomaly detection
+7F5BAED5	RBWA: an efficient random-bit window-based authentication protocol
+75F53EC5	Characterization of defense mechanisms against distributed denial of service attacks
+7F73177D	A Guided Tour Puzzle for Denial of Service Prevention
+7FAAB16B	A Distributed Defense Framework for Flooding-Based DDoS Attacks
+59EF8891	Probability principle of a reliable approach to detect signs of DDOS flood attacks
+808DB14E	Sentinel: Hardware-Accelerated Mitigation of Bot-Based DDoS Attacks
+7F2A603A	A Dynamic Countermeasure Method for Large-Scale Network Attacks
+804C60B4	A Random Packet Destruction DoS Attack for Wireless Networks
+7FC7154C	Defending against path-based DoS attacks in wireless sensor networks
+7F3C7F52	Secure quality of service handling: SQoSH
+7D5DAE1E	Cryptanalysis of a Remote User Authentication Scheme Using Smart Cards
+5F42BBD5	Distributed denial of service detection using TCP/IP header and traffic measurement analysis
+7E651286	An Efficient Remote User Authentication Scheme with Strong Anonymity
+761FF9EB	Detecting pulsing denial-of-service attacks with nondeterministic attack intervals
+7BE31C01	On the fairness of flow aggregation for denial-of-service resistant QoS in MANETs
+093EADB3	Detecting Distributed Denial of Service Attacks Using Source IP Address Monitoring
+7EC022F0	Flexible Flow Aggregation for Adaptive Network Monitoring
+5C45C570	An Optimizing Technique for MDGT Using DRSA Algorithm Association with IP Traceback Strategies
+7EC3ABAF	Improved Algorithms for Large-Scale Topology Discovery
+7E097A9F	IP Traceback Based Probabilistic Packet Marking and Randomized Network Coding
+79D5C2F7	A novel approach in securing DDoS attack
+7FFAA0D7	Game Theoretic Modeling of Jamming Attacks in Ad hoc Networks
+812D8FC9	An adaptive control mechanism for mitigating DDoS attacks
+7EF70BAE	A comprehensive taxonomy of DDOS attacks and defense mechanism applying in a smart classification
+7A15F6C5	Limiting DoS attacks during multihop data delivery in wireless sensor networks
+7DA980DD	Network attack detection at flow level
+814B3265	A composable approach to design of newer techniques for large-scale denial-of-service attack attribution
+7F3C3CA5	Security Protocol Testing Using Attack Trees
+8022AC6B	Detection of DoS and DDoS attacks in NGMN using frequency domain analysis
+801A957D	Game theory-based defense mechanisms against DDoS attacks on TCP/TCP-friendly flows
+7DFD98D9	Defending Application DDoS with Constraint Random Request Attacks
+7A36F97A	Defending against false-endorsement-based dos attacks in wireless sensor networks
+8029B2DB	Distributed change-point detection of DDoS attacks: experimental results on DETER testbed
+7ECF063B	Extension and Evaluation of IP Traceback Method Using Departure Stamp in Edge Router
+80002853	MULTOPS: a data structure for denial-of-service attack detection
+7576970F	Achieving robust message authentication in sensor networks: a public-key based approach
+80227FD7	Traffic-adaptive packet filtering of denial of service attacks
+803DA47F	Joint Application and Network Defense against DDoS Flooding Attacks in the Future Internet
+7F259CD1	A multi-channel defense against jamming attacks in wireless sensor networks
+028ED134	Endpoint Mitigation of DDoS Attacks Based on Dynamic Thresholding
+7CFE136D	Denial of Service Attacks in Wireless Networks: The Case of Jammers
+7EAC475F	P2P network-targeted DDoS attacks
+800818D7	Collaborative detection and filtering of shrew DDoS attacks using spectral analysis
+7CBB91E9	Mitigating DoS attacks against broadcast authentication in wireless sensor networks
+7D38402F	Detecting reflector attacks by sharing beliefs
+76773C12	DENIAL OF SERVICE ATTACK IN DISTRIBUTED WIRELESS NETWORK BY DISTRIBUTED JAMMER NETWORK: A BIRTH-DEATH RANDOM PROCESS ANALYSIS
+7ADA64C9	Taming the 800 Pound Gorilla: The Rise and Decline of NTP DDoS Attacks
+6EDA8045	LoRDAS: a low-rate dos attack against application servers
+5AF2D01F	LIPS: Lightweight Internet Permit System for Stopping Unwanted Packets
+7F9080A2	Intrusion Detection System Based on Payoff Matrix for Wireless Sensor Networks
+3DE566EF	Ataki DDoS - przegląd zagrożeń i środków zaradczych
+5ADF7587	A Hybrid, Stateful and Cross-Protocol Intrusion Detection System for Converged Applications
+7F3A7ECB	An autonomous defense against SYN flooding attacks: Detect and throttle attacks at the victim side independently
+5F9E4A42	A novel technique for detecting DDoS attacks at its early stage
+7ED33D22	Advanced Packet Marking Mechanism with Pushback for IP Traceback
+7F2B50CF	Detection of Spoofing Attacks Using Intrusive Filters For DDoS
+5A455896	DDoS Attack Defense Architecture Using Active Network Technology
+7DF15389	Available bandwidth estimation and its application in detection of DDoS attacks
+584189C9	Modular Preservation of Safety Properties by Cookie-Based DoS-Protection Wrappers
+80095233	Neighbor stranger discrimination: a new defense mechanism against Internet DDOS attacks
+811F6C1A	On Secure Spectrum Sensing in Cognitive Radio Networks Using Emitters Electromagnetic Signature
+7FD13F3C	The impact of indirect trust information exchange on network performance and energy consumption in Wireless Sensor Networks
+80807B07	Detection SYN Flooding Attacks Using Fuzzy Logic
+756C5F26	Multiagent simulation of protection of information resources in internet
+8163EF49	Collaborative Detection of DDoS Attacks over Multiple Network Domains
+7F878469	Network security approach for digital forensics analysis
+7E01C7E7	Mitigating IP Spoofing by Validating BGP Routes Updates
+7FB1D264	Attacks and Solutions of Yang et al.'s Protected Password Changing Scheme
+7852B946	Fast, memory efficient flow rate estimation using runs
+7DB01883	Secure RFID Authentication with Efficient Key-Lookup
+7DCF1575	Enhanced probabilistic packet marking for IP traceback
+5D2A66C2	Effect of Malicious Synchronization
+7D8813CF	Fast Traceback against Large-Scale DDoS Attack in High-Speed Internet
+8154CD8B	Impact of Denial-of-Service in security protocols
+7EDFA166	Pre-authentication filters: providing dos resistance for signature-based broadcast authentication in sensor networks
+5A33C2DC	Intrusion Detection of DoS/DDoS and Probing Attacks for Web Services
+76E5F693	Design and Realization of Software for Guard Against DDoS Based on Self-Similar and Optimization Filter
+7E186712	LEAP++: A Robust Key Establishment Scheme for Wireless Sensor Networks
+5BDE60EE	BotTorrent: misusing BitTorrent to launch DDoS attacks
+7EE78C74	Scalable multicast based filtering and tracing framework for defeating distributed DoS attacks
+80E19547	RateGuard: A Robust Distributed Denial of Service (DDoS) Defense System
+7F02405E	Detection and Honeypot Based Redirection to Counter DDoS Attacks in ISP Domain
+7EF220F5	Controlling incoming connections using certificates and distributed hash tables
+7F0BF8BF	Fast and accurate traffic matrix measurement using adaptive cardinality counting
+7F225970	Large-scale IP traceback in high-speed Internet: practical techniques and theoretical foundation
+7F0FB05D	Low-cost attacks against packet delivery, localization and time synchronization services in under-water sensor networks
+80839EE3	Denial of Service Attacks on Inter-Vehicle Communication Networks
+811A2ED5	Low rate TCP denial-of-service attack detection at edge routers
+80D90642	SReD: A Secure REputation-based Dynamic Window Scheme for disruption-tolerant networks
+0A6E7F6E	Model-Checking DoS Amplification for VoIP Session Initiation
+7E7F2617	"Takeover Suggestion" - A Registrar Redundancy Handling Optimization for Reliable Server Pooling Systems
+7E654005	Practical security scheme design for resource-constrained wireless networks
+80280DFA	Cryptographic Salt: A Countermeasure against Denial-of-Service Attacks
+7B032D2A	ECC Based IKE Protocol Design for Internet Applications
+7E4F8AE0	Non-Parallelizable and Non-Interactive Client Puzzles from Modular Square Roots
+793BB4ED	Anomaly Detection in Electronic Shelf Label Systems
+7E527F99	MABS: Multicast Authentication Based on Batch Signature
+773F5BA2	IP Traceback through modified Probabilistic Packet Marking algorithm using Chinese Remainder Theorem
+80F8458A	Reducing the Impact of DoS Attacks on Endpoint IP Security
+7B4ABDB7	Garlic: A Distributed Botnets Suppression System
+80A47C8B	A performance-based grid intrusion detection system
+764DB3DE	Real-time detection of traffic anomalies in wireless mesh networks
+7CF7E280	Machine Learning for Automatic Defence Against Distributed Denial of Service Attacks
+5DD017F0	A MAC Layer Based Defense Architecture for Reduction of Quality (RoQ) Attacks in Wireless LAN
+028D43FC	Protection against DDoS Attacks Based on Traffic Level Measurements
+7C43CB29	Dynamic window based multihop authentication for WSN
+7C72E17A	Low-power DoS attacks in data wireless LANs and countermeasures
+7C87D2F1	A Note on Denial-of-Service in Operating Systems
+59A099EC	A Novel Design and Implementation of DoS-Resistant Authentication and Seamless Handoff Scheme for Enterprise WLANs
+7E166A4B	Detecting malicious packet dropping using statistically regular traffic patterns in multihop wireless networks that are not bandwidth limited
+7F53B36B	A New and Comprehensive Taxonomy of DDoS Attacks and Defense Mechanism
+5E18C522	Victim-Assisted mitigation technique for TCP-Based reflector DDoS attacks
+76196692	Struggling against selfishness and black hole attacks in MANETs
+7D1BE72D	ASTVA: Traffic Validation Architecture Based on Autonomous Systems
+8039BBAF	Wireless Network Behavior under ICMP Ping Flood DoS Attack and Mitigation Techniques
+80CDFECA	Autonomic Response to Distributed Denial of Service Attacks
+77E83A9F	Protecting electronic commerce from distributed denial-of-service attacks
+62F9FF5F	On design and evaluation of "intention-driven" ICMP traceback
+7C09457C	A password authentication scheme with secure password updating
+05BC6665	Modelling client puzzles and denial-of-service resistant protocols
+7E035C3F	Signaling oriented denial of service on LTE networks
+77426C3F	Dual-Level Attack Detection, Characterization and Response for Networks Under DDoS Attacks
+80802D68	DDoS attacks and defense mechanisms: classification and state-of-the-art
+7E4C1F9D	Intrusion detection testing and benchmarking methodologies
+7F2228B7	An Enhanced Password Authentication Scheme Providing Password Updating without Smart Cards
+7FEE54DC	Inputs of Coma: Static Detection of Denial-of-Service Vulnerabilities
+78E473B5	Robust and Fast Pattern Matching for Intrusion Detection
+58633A67	A Note on the Denial-of-Service Problem
+7DD6BB75	Detecting and Mitigating DoS Attacks in Wireless Networks without Affecting the Normal Behaving Nodes
+79A0FF4B	A novel user identification scheme with key distribution preserving user anonymity for distributed computer networks
+7DD896B1	Using graph to detect network traffic anomaly
+7EA5FB21	On the Detection of Signaling DoS Attacks on 3G Wireless Networks
+7D79AAD4	Design and analysis of a replicated elusive server scheme for mitigating denial of service attacks
+7EB55522	Defence against packet injection in ad hoc networks
+7D98C6D2	Adversarial exploits of end-systems adaptation dynamics
+79F44EF1	A Survey on DDoS Attack and Defense Strategies: From Traditional Schemes to Current Techniques
+7D377F9D	Efficient detection of DDoS attacks with important attributes
+5ECBE961	Robust and Simple Authentication Protocol for Secure Communication on the Web
+8064CB39	Specification-Based Denial-of-Service Detection for SIP Voice-over-IP Networks
+048E1152	OverDoSe: A Generic DDoS Protection Service Using an Overlay Network
+7FE41430	Sender Access Control in IP Multicast
+7D023E94	QuIT: Quantitative IP Traceback
+7DF93722	NetFence: preventing internet denial of service from inside out
+8136F588	Beacon Frame Spoofing Attack Detection in IEEE 802.11 Networks
+8127D33E	Network security management with traffic pattern clustering
+81699B69	NS-2 based IP traceback simulation against reflector based DDoS attack
+80FBA2DC	Denial of service attacks and challenges in broadband wireless networks
+5F8A63D2	Supporting Security against SYN Flooding Attack in Distributed DoS Via Measuring IPFIX-Based Traffic
+7F7900FD	Accurate ICMP TraceBack Model under DoS/DDoS Attack
+7D23E6E7	FAPA: flooding attack protection architecture in a cloud system
+7E8D746C	Non-intrusive IP traceback for DDoS attacks
+7DA39DA8	Intrusion Detection of Packet Dropping Attacks in Mobile Ad Hoc Networks
+78808E91	Collaborative scheme for VoIP traceback
+80CDBA4A	Performance Analysis of Disable IP Broadcast Technique for Prevention of Flooding-Based DDoS Attack in MANET
+76D3C8CB	Counteract SYN flooding using second chance packet filtering
+5952991E	How to Own the Internet in Your Spare Time
+7B0C1D5D	Distributed Management Architecture for Cooperative Detection and Reaction to DDoS Attacks
+78FA574C	Multi-Pass Malware Sandbox Analysis with Controlled Internet Connection
+80BF6987	Extraction of Characteristics of Anomaly Accessed IP Packets Using Chi-square Method
+6DF6927C	Denial of Sleeping: Performance Analysis and Counteracting Strategy
+80AC754E	A new perspective in defending against DDoS
+7E8063C2	Decentralized Alerts Correlation Approach for DDoS Intrusion Detection
+5B41181D	Mathematical foundations for the design of a low-rate dos attack to iterative servers (short paper)
+8074D83D	TVA: a DoS-limiting network architecture
+5F9A2F2D	An implementation of LoSS detection with second order statistical model
+7F61E0F4	Efficient and secure password authentication schemes for low-power devices
+60DB0F47	Robust control tools for traffic monitoring in TCP networks
+003AEA2F	New Security Problem in RFID Systems “Tag Killing”
+7F12FAAD	SPREAD: Foiling Smart Jammers Using Multi-Layer Agility
+5BF22519	A proposal of extension of FMS-Based mechanism to find attack paths
+7FCB524D	Design and implementation of artificial immune system for detecting flooding attacks
+7F274ED4	Channel surfing and spatial retreats: defenses against wireless denial of service
+75D4D289	Tracers placement for IP traceback against DDoS attacks
+8171BEF8	Towards Denial-of-Service-Resilient Key Agreement Protocols
+7F3C1329	High-speed router filter for blocking TCP flooding under DDoS attack
+7F5969F5	Design and Development of Proactive Models for Mitigating Denial-of-Service and Distributed Denial-of-Service Attacks
+779C6F0C	Construction of low false alarm and high precision RBFNN for detecting flooding based denial of service attacks using stochastic sensitivity measure
+8147100F	An autonomous level defense for DoS/DDoS attacks
+5A5E9CD8	A Cost-Optimized Detection System Location Scheme for DDoS Attack
+8123596B	Increasing SIP firewall performance by ruleset size limitation
+7F7B5396	Stopping Internet Epidemics
+7E35E661	Analysis of Spoofed IP Traffic Using Time-to-Live and Identification Fields in IP Headers
+7A016F94	On eliminating packet droppers in MANET: A modular solution
+80DF5597	A Real-Time Network Traffic Profiling System
+7FB95027	A novel approach to detection of intrusions in computer networks via adaptive sequential and batch-sequential change-point detection methods
+7F7E895B	An efficient and feasible solution to ARP Spoof problem
+7E90C0FD	Efficiency of using mobile agents to trace multiple sources of attack
+809775B7	Multi Directional Geographical Traceback with n Directions Generalization
+6FAD9880	Time-Delayed Broadcasting for Defeating Inside Jammers
+75432988	Preventing Service Oriented Denial of Service (PreSODoS): A Proposed Approach
+5F669BE5	Denial of Service: A Perspective
+81348E89	RAD: Reflector Attack Defense Using Message Authentication Codes
+75DD2778	Fast Filtered Sampling
+8134FC0B	DDoS-Resilient Scheduling to Counter Application Layer Attacks Under Imperfect Detection
+75496A9E	Dual-level defense for networks under DDoS attacks
+770A6475	A Mutual Authentication Protocol with Resynchronisation Capability for Mobile Satellite Communications
+7EA507B9	Experimental Evaluation of Flooding Attacks in Mobile Ad Hoc Networks
+815B4C5A	A denial-of-service resistant public-key authentication and key establishment protocol
+779F70A3	Detecting DDoS Attacks Against DNS Servers Using Time Series Analysis
+76976BB1	Performance comparison of defense mechanisms against TCP SYN flood DDoS attack
+7E885E88	On the Survivability of Wireless Ad Hoc Networks with Node Misbehaviors and Failures
+79712B69	Design and Implementation of Sinkhole Router based IP Tracing System
+814E4B4B	Assessment of a vulnerability in iterative servers enabling low-rate dos attacks
+806BD283	Dimensionality reduction for denial of service detection problems using RBFNN output sensitivity
+7BEFE1EE	Denial of service: an example
+7E2E008E	A DoS-resilient en-route filtering scheme for sensor networks
+7C70CB82	Botz-4-sale: surviving organized DDoS attacks that mimic flash crowds
+60B59652	Controlling High Bandwidth Aggregates in the Network (Extended Version)
+80843370	Fast Detection of Denial-of-Service Attacks on IP Telephony
+80E28007	A covariance matrix based approach to internet anomaly detection
+803EE0D4	An Autonomous Architecture for Inter-Domain Traceback across the Borders of Network Operation
+7F002D7D	An Efficient Distributed Algorithm to Identify and Traceback DDoS Traffic
+7F18F835	EC: an edge-based architecture against DDoS attacks and malware spread
+7E12D9C3	Genetic algorithms applied to cellular call admission: local policies
+7CFC91BD	A novel classification scheme for 802.11 WLAN active attacking traffic patterns
+7877D719	Resource-competitive analysis: a new perspective on attack-resistant distributed computing
+812E68BB	Implementing filtering and traceback mechanism for packet-marking IP-traceback schemes against DDoS attacks
+7F59A8D3	A secure hash-based strong-password authentication protocol using one-time public-key cryptography
+80AEE995	A New Approach for Detecting DDoS Attacks Based on Wavelet Analysis
+7F8B97AC	Mitigating Denial of Capability with An Notification Mechanism
+8003BFA7	QoSoDoS: If you can't beat them, join them!
+7C0E66B3	On the detection of signaling DoS attacks on 3G/WiMax wireless networks
+5A2E94FD	Efficient and beneficial defense against DDoS direct attack and reflector attack
+7F37E516	Tackling congestion to address distributed denial of service: a push-forward mechanism
+78E2837D	DNSSEC and its potential for DDoS attacks: a comprehensive measurement study
+807AE9DE	Multiplayer game for DDoS attacks resilience in ad hoc networks
+7EC8163D	Detection of Multicast Video Flooding Attack using the Pattern of Bandwidth Provisioning Efficiency
+7D58DD37	Research of Secure Anycast Group Management
+7AD3676A	Transparent Probabilistic Packet Marking
+7FE3DB06	A Scalable Set-Union Counting Approach to Pushing Back DDoS Attacks
+7DD4D6B9	An Efficient and Practical Defense Method Against DDoS Attack at the Source-End
+81414EF1	Detecting fraudulent use of cloud resources
+7C721E5F	Defense against spoofed IP traffic using hop-count filtering
+7932773A	On scalable attack detection in the network
+03A7AFD7	Abnormal traffic detection system of VoIP based on SIP
+5E3874A8	Designing the Mobile IPv6 Security Protocol
+7DF28ABD	Defending DoS Attacks on Broadcast Authentication in Wireless Sensor Networks
+794596BD	Towards Risk Evaluation of Denial-of-Service Vulnerabilities in Security Protocols
+814F8C31	Quality of service and denial of service
+7F83D06C	ARSA: An Attack-Resilient Security Architecture for Multihop Wireless Mesh Networks
+7B9583CF	Securing cloud infrastructure against co-resident DoS attacks using game theoretic defense mechanisms
+8223FEFE	An Entropy-Based Distributed DDoS Detection Mechanism in Software-Defined Networking
+7F799FC7	Network domain entrypoint/path determination for DDoS attacks
+79D47310	Analysis and Implementation of an Open Programmable Router Based on Forwarding and Control Element Separation
+7F33687E	Network anomaly detection with incomplete audit data
+7D06679C	Device fingerprinting to enhance wireless security using nonparametric Bayesian method
+7F571107	A Peer-to-Peer Architecture to collaboratively Propagate and Traceback DDoS Attack information using DST
+7D0F1D90	Attrition defenses for a peer-to-peer digital preservation system
+7B68F914	Using mobile agents to recover from node and database compromise in path-based DoS attacks in wireless sensor networks
+7D06C2E5	Preventing DDoS attacks on internet servers exploiting P2P systems
+804A48F0	Maintaining implicated statistics in constrained environments
+7ADED3E9	A new concentric-circle visualization of multi-dimensional data and its application in network security
+7FF3411C	Differentiating Malicious DDoS Attack Traffic from Normal TCP Flows by Proactive Tests
+7FA26694	DG-Based DDoS Detection Using Hybrid Strategy
+03477CEE	Reval: A Tool for Real-time Evaluation of DDoS Mitigation Strategies
+788F2D7B	Research on a Denial of Service (DoS) Detection System Based on Global Interdependent Behaviors in a Sensor Network Environment
+58EDF678	Distributed defence against denial of service attacks: a practical view
+7DACC2D4	Re 3 : relay reliability reputation for anonymity systems
+7FEC400B	Statistical approaches to DDoS attack detection and response
+7E29099B	Non-Gaussian and Long Memory Statistical Characterizations for Internet Traffic with Anomalies
+5CBC30D0	Security services provided by the IEEE Wireless Access in Vehicular Environments standards: Limitations and implications for intelligent cooperative driving and autonomous connected vehicles
+7897AB6F	Security Analysis and Improvements on WLANs
+8163A1DB	DDoS Attack Detection Method Based on Linear Prediction Model
+7A240080	Empirical Analysis of Virtual Carrier Sense Flooding Attacks Over Wireless Local Area Network
+7CD54735	On modeling and simulation of game theory-based defense mechanisms against DoS and DDoS attacks
+7EC46DA2	Game Theoretic Resistance to Denial of Service Attacks Using Hidden Difficulty Puzzles
+8003E58F	Game-Theoretical Effectiveness Evaluation of DDoS Defense
+796470D7	Architecture-based self-protection: composing and reasoning about denial-of-service mitigations
+69D824D4	BotMiner: clustering analysis of network traffic for protocol- and structure-independent botnet detection
+7FFC8E61	Security issues for Internet appliances
+5AA4F76F	Antisocial Networks: Turning a Social Network into a Botnet
+7F697219	Active network based DDoS defense
+7D7EA7B9	Protecting grid data transfer services with active network interfaces
+7CF3F79B	Resource-aware multi-format network security data storage
+7CB7E251	New client puzzle outsourcing techniques for DoS resistance
+7E451A8F	Detecting MAC Layer Back-off Timer Violations in Mobile Ad Hoc Networks
+7A852E9F	Understanding the impact of denial of service attacks on virtual machines
+120F51DB	A novel approach to detection of "denial-of-service" attacks via adaptive sequential and batch-sequential change-point detection methods
+76A76128	Real-time anomaly detection systems for Denial-of-Service attacks by weighted k-nearest-neighbor classifiers
+7FE6E844	Proactive model for Mitigating Internet Denial-of-Service Attacks
+79AA384A	A moving target DDoS defense mechanism
+04F92301	Towards a More Functional and Secure Network Infrastructure
+7A1D8890	Securing quality-of-service route discovery in on-demand routing for ad hoc networks
+7DC18B64	Security protection based on mission criticality
+5E9D2B6A	Privacy-preserving collaborative anomaly detection
+815FA714	Detecting Distributed Denial of Service (DDoS) Attacks through Inductive Learning
+780B6628	Protecting mobile devices from TCP flooding attacks
+809783C7	Cossack: coordinated suppression of simultaneous attacks
+6F73B883	The Coremelt Attack
+7B632BB0	Improving reliability of a heterogeneous grid-based intrusion detection platform using levels of redundancies
+7EE3479E	Covariance-Matrix Modeling and Detecting Various Flooding Attacks
+79B120CF	Trade-offs in probabilistic packet marking for IP traceback
+7EFB9F4A	Early DoS Attack Detection using Smoothened Time-Series andWavelet Analysis
+6E3C0CFA	Protection Against Spam Using Pre-Challenges
+795F3419	On the robustness of router-based denial-of-service (DoS) defense systems
+80A7B694	Detecting and Preventing IP-spoofed DDoS Attacks by Encrypted Marking Based Detection and Filtering (EMDAF)
+0689CFF2	DoS: Fighting Fire with Fire
+7BAAB1DE	DoS-resilient secure aggregation queries in sensor networks
+5D1B6D1D	Wormulator: Simulator for Rapidly Spreading Malware
+7F8FEEF3	Network Traffic Analysis and SCADA Security
+5932FE9B	Detection of distributed denial of service attacks using statistical pre-processor and unsupervised neural networks
+5AC7AEA3	Dynamic Probabilistic Packet Marking with Partial Non-Preemption
+72737645	Intrusion Detection System to Detect DDoS Attack in Gnutella Hybrid P2P Network
+7A8FBD1E	LAN attack detection using Discrete Event Systems
+808381A6	A Novel Traceback Approach for Direct and Reflected ICMP Attacks
+79BFBA30	Hands-on lab exercises implementation of DoS and MiM attacks using ARP cache poisoning
+135CA817	Puppet attack: A denial of service attack in advanced metering infrastructure network
+7EAE8532	Attack source identification at router level in real time using marking algorithm deployed in programmable routers
+816D69D6	Detecting VoIP-specific Denial-of-Service using change-point method
+802525FF	Detailed DoS attacks in wireless networks and countermeasures
+7DAB7F9E	A Novel Two-Step Traceback Scheme for DDoS Attacks
+7E71F80D	A Multi-Layer Mandatory Access Control Mechanism for Mobile Devices Based on Virtualization
+78F07A59	An empirical evaluation of information metrics for low-rate and high-rate DDoS attack detection
+760CEFDB	Using selective, short‐term memory to improve resilience against DDoS exhaustion attacks
+80EB8D67	Aspects of availability: Enforcing timed properties to prevent denial of service
+7DFD58CC	Can you infect me now?: malware propagation in mobile phone networks
+7E06B6DC	Mitigating Denial-of-Service Attacks on the Chord Overlay Network: A Location Hiding Approach
+807219EC	Swing - A Novel Mechanism Inspired by Shim6 Address-Switch Conception to Limit the Effectiveness of DoS Attacks
+81289FEC	Generalized neuron based secure media access control protocol for wireless sensor networks
+80F6FDC8	Mitigation of DDoS Attacks through Pushback and Resource Regulation
+7EE2F407	Coloring the Internet: IP traceback
+7E2DD682	Protecting with Sensor Networks: Attention and Response
+7D10EA8C	Fine-Grained DDoS Detection Scheme Based on Bidirectional Count Sketch
+730B3398	Conversation exchange dynamics for real-time network monitoring and anomaly detection
+7F5C4BAD	Access points vulnerabilities to DoS attacks in 802.11 networks
+7F10433A	IPv6 Traceback Using Policy Based Management System
+7966BE00	HEAP: A packet authentication scheme for mobile ad hoc networks
+7CE4F04D	Hadoop Based Defense Solution to Handle Distributed Denial of Service (DDoS) Attacks
+7E89154F	Evaluating the Functionality of the Token Filtering Technique in Filtering Denial of Service Packets Using a New Formal Evaluation Model
+7E39ABE0	Defending against denial-of-service attacks with puzzle auctions
+7E880D10	Understanding the Threat of Denial-of-Service Attacks in Society Today
+839D0DB5	Autonomous Agent for DDoS Attack Detection and Defense in an Experimental Testbed
+6B9679CE	A performance evaluation of intrusion-tolerant routing in wireless sensor networks
+7E1A3F78	Re-thinking Security in IP Based Micro-Mobility
+771985B1	Detecting DRDoS attacks by a simple response packet confirmation mechanism
+5C4B5274	Stronger difficulty notions for client puzzles and denial-of-service-resistant protocols
+80D5AF4F	Null Data Frame: A Double-Edged Sword in IEEE 802.11 WLANs
+7F88F977	Using Client Puzzles to Mitigate Distributed Denial of Service Attacks in the Tor Anonymous Routing Environment
+7511286A	Game-based Simulation of Distributed Denial of Service (DDoS) Attack and Defense Mechanisms of Critical Infrastructures
+5E897CF9	Event extent estimation
+7CEA3277	Survival Architecture for Distributed Intrusion Detection System (dIDS) using Mobile Agent.
+7E9D14A2	On Sliding Window Based Change Point Detection for Hybrid SIP DoS Attack
+7DA1F580	Overfort: Combating DDoS with peer-to-peer DDoS puzzle
+79605C96	Intrusion detection in wireless ad-hoc networks
+09AB0516	Cooperative Mechanism Against DDoS Attacks
+8131EE7B	Defending against Denial of Service Attacks using a Modified Priority Queue: Bouncer
+7F8AF231	An active defense model for Web Accessing DoS attacks
+80EF0EE3	An IP Traceback Scheme Integrating DPM and PPM
+0396E8F2	Handling Failures and DOS Attacks Using Network Device Groups
+7E36A7D4	Mirror hopping approach for selective denial of service prevention
+7D0EA9B4	Research on DDoS Filtering Algorithm Based on Bloom Filter WhiteList
+7D1C1727	Formal modelling of a robust Wireless Sensor Network routing protocol
+7EDBFD4F	Classifying DDoS Attacks by Hierarchical Clustering Based on Similarity
+7D86B896	An enhanced ultralightweight RFID authentication protocol
+7E088041	Preventing ARP Attacks Using a Fuzzy-Based Stateful ARP Cache
+7FA589A5	ID-Based PPM for IP Traceback
+684BE069	Detecting DDoS attacks with passive measurement based heuristics
+7D82F59F	Evaluation and Optimization of the Registrar Redundancy Handling in Reliable Server Pooling Systems
+7995A103	Intrusion Detection System for Denial-of-Service flooding attacks in SIP communication networks
+5C4514BA	A Novel DDoS Attack Detecting Algorithm Based on the Continuous Wavelet Transform
+58CD76B6	CASPER: Compiler-Assisted Securing of Programs at Runtime
+7FC1077D	Hi3: An efficient and secure networking architecture for mobile hosts
+800B9AA3	Impact of Feature Reduction on the Efficiency of Wireless Intrusion Detection Systems
+8146F353	Distributed-log-based scheme for IP traceback
+5CF7D9FA	Recursive replication: a survival solution for structured P2P information systems to denial of service attacks
+594B0F28	Re-visited: Denial of Service Resilient Access Control for Wireless Sensor Networks
+7E1622EE	Statistical techniques for detecting traffic anomalies through packet header data
+796D3BBC	A data mining based approach towards detection of low rate DoS attack
+5D2D505C	Characteristics of Denial of Service Attacks on Internet Using AGURI
+7FD088A3	Internet Forensics Framework Based-on Clustering
+7BA6F18A	RTP-miner: a real-time security framework for RTP fuzzing attacks
+5AE97BCB	An Authentication Based Source Address Spoofing Prevention Method Deployed in IPv6 Edge Network
+7F0AA174	Detecting TCP-based DDoS attacks by linear regression analysis
+7DD702C7	Improved marking model ERPPM tracing back to DDoS attacker
+7F32EEE4	Simulating and Improving Probabilistic Packet Marking Schemes Using Ns2
+80AE90B9	Securing ad hoc networks
+7D258129	Securing Grid Data Transfer Services with Active Network Portals
+7F50D98D	Discriminating DDoS Flows from Flash Crowds Using Information Distance
+7F601AF4	Jamming-resistant rate adaptation in Wi-Fi networks
+7E688080	A novel DoS detection mechanism
+7EF0610B	A Cross-Layer Approach for Mitigating Denial of Service Attacks: Device-Driver Packet Filter and Remote Firewalling
+5D886245	Empirical Study on Fusion Methods Using Ensemble of RBFNN for Network Intrusion Detection
+08980F8D	Taxonomies of Distributed Denial of Service Networks, Attacks, Tools, and Countermeasures
+5A8DE225	Optimal Filtering for DDoS Attacks
+802822AA	Denial of service attacks on network-based control systems: impact and mitigation
+7B32642F	Identifying heavy hitters in high-speed network monitoring
+817761BE	Practical Darknet Measurement
+7DE1A5DD	A proxy base station based authentication protocol for IEEE 802.16e
+7B45F377	Utilizing bloom filters for detecting flooding attacks against SIP based services
+8059B7FD	Network Security Situation Assessment Based on Data Fusion
+7CF8087C	Adaptive Threshold Puzzles
+79317C34	DNS authentication as a service: preventing amplification attacks
+78ACCCF3	Remote detection of bottleneck links using spectral and statistical methods
+8000A089	A dynamic en-route filtering scheme for data reporting in wireless sensor networks
+8013B635	ASA: Agent-based secure ARP cache management
+7E9137D9	A Client-Transparent Approach to Defend Against Denial of Service Attacks
+5FE2C514	Proactive Intrusion Detection and Distributed Denial of Service Attacks—A Case Study in Security Management
+7EED31F4	P2P DDoS: Challenges and Countermeasures
+7EBBA94D	MDIDS: Multiphase Distributed Intrusion Detection in Virtual Network Systems
+717EC8D3	Ensemble fuzzy belief intrusion detection design
+80C0F1FC	Detecting DoS and DDoS Attacks by Using an Intrusion Detection and Remote Prevention System
+7F4C548D	Single-packet IP traceback
+80A42478	Dynamic probabilistic packet marking for efficient IP traceback
+7CF20052	On the issues of IP traceback for IPv6 and mobile IPv6
+5ACE4FDD	An approach in identifying and tracing back spoofed IP packets to their sources
+75D1B86D	An efficient and DoS-resistant user authentication scheme for two-tiered wireless sensor networks
+80AC635B	Prevention of DoS Attacks Based on Light Weight Dynamic Key Mechanism in Hierarchical Wireless Sensor Networks
+7EA9B835	A source identification scheme against DDoS attacks in cluster interconnects
+80060507	DDoS Attack Detection Using IP Address Feature Interaction
+0BF20FC7	The XenoService { A Distributed Defeat for Distributed Denial of Service
+793BC7F0	Real-time detection of distributed denial-of-service attacks using RBF networks and statistical features
+761E7290	Evaluation of QoS-compliant overlays under denial of service attacks
+80849C99	DDoS Attack Detection Algorithm Using IP Address Features
+8038E32D	Gothic: a group access control architecture for secure multicast and anycast
+59613360	Tracing multiple attackers with deterministic packet marking (DPM)
+8002F748	A Novel Embedded Accelerator for Online Detection of Shrew DDoS Attacks
+7CA3662E	Detection of intrusions in information systems by sequential change-point methods
+802ECF08	Enhanced Availability and Security by Rate Control Using Extended Policy Framework in SELinux
+5E0752CA	Defending DDoS attacks using hidden Markov models and cooperative reinforcement learning
+7F7231C8	Keeping up with the jammers: Observe-and-adapt algorithms for studying mutually adaptive opponents
+7E4F37AA	Defending against distributed denial-of-service attacks with max-min fair server-centric router throttles
+7E4375A5	An aspect-oriented approach to bypassing middleware layers
+80A5148C	On the verification of intransitive noninterference in mulitlevel security
+7AC99BB6	Mitigating congestion based DoS attacks with an enhanced AQM technique
+81320CD7	Link-layer jamming attacks on S-MAC
+7B3D498D	A stateless approach to connection-oriented protocols
+7D75A97D	A Defending Mechanism against DDoS Based on Registration and Authentication
+7FE6C474	Multi-Layer Traceback under the Hierarchical Tracers Deployment
+80D24F5A	Multifaceted Defense Against Distributed Denial of Service Attacks: Prevention, Detection, Mitigation
+841205EC	Detection of application layer DDoS attack by modeling user behavior using logistic regression
+44AD878D	Detection of known and unknown DDoS attacks using Artificial Neural Networks
+59C76947	Robust Secret Key Based Authentication Scheme Using Smart Cards
+7D444DC7	Toward Sound-Assisted Intrusion Detection Systems
+78D6D283	Analysis of area-congestion-based DDoS attacks in ad hoc networks
+1406BE56	Resistance Is Not Futile: Detecting DDoS Attacks without Packet Inspection
+81738491	On the defense of the distributed denial of service attacks: an on-off feedback control approach
+80E70A47	An Efficient RFID Authentication Protocol for Low-Cost Tags
+5F3E3949	Mitigating network denial-of-service through diversity-based traffic management
+7DE9B18C	Detection and prevention of botnets and malware in an enterprise network
+7C42E02C	An adaptive learning routing protocol for the prevention of distributed denial of service attacks in wireless mesh networks
+7D7A4F11	Packet Marking with Distance Based Probabilities for IP Traceback
+7CEA9C71	Investigation of pushback based detection and prevention of network bandwidth attacks
+779B33B7	Interconnecting Federated Clouds by Using Publish-Subscribe Service
+595A9ACD	Analysis of the Propagation Pattern of a Worm with Random Scanning Strategy Based on Usage Rate of Network Bandwidth
+76F19AA8	Distributed Security Scheme for Mobile Ad Hoc Networks
+079616E0	Design of the host guard firewall for network protection
+795FCE83	Supporting security against SYN flooding attacks in distributed denial-of-service via measuring internet protocol flow information export-based traffic
+7D755117	A3RP : Anonymous and Authenticated Ad Hoc Routing Protocol
+09EBFF17	Event-Based SOAP Message Validation for WS-SecurityPolicy-Enriched Web Services
+7ED7EFF3	On the functional validity of the worm-killing worm
+7D1B4792	A Lightweight Solution for Defending Against Deauthentication/Disassociation Attacks on 802.11 Networks
+7B29E466	Tracing DDoS Floods: An Automated Approach
+7F5D5921	A mitigation model for TCP SYN flooding with IP spoofing
+7FBC8D8B	On the (im)possibility of denial of service attacks exploiting authentication overhead in WSNs
+7FAD5126	Migratory TCP: connection migration for service continuity in the Internet
+753613C9	Intra-domain IP traceback using OSPF
+5F24E74A	Exploiting open functionality in SMS-capable cellular networks
+7D3DDE9E	An Adaptive Approach for Defending against DDoS Attacks
+7FD92372	Characterization of network-wide anomalies in traffic flows
+7DE39856	A system approach to network modeling for DDoS detection using a Naìve Bayesian classifier
+7FC9B19B	Performance Analysis of Dynamic Spectrum Access Networks under Primary User Emulation Attacks
+7DF1EBF4	Protecting SIP server from CPU-based DoS attacks using history-based IP filtering
+59798F2E	Detecting Service Violations and DoS Attacks
+7D90DC18	DynaBone: dynamic defense using multi-layer Internet overlays
+5A6397D9	Adaptive Alert Throttling for Intrusion Detection Systems
+7B1F656C	Enhancing GridFTP performance using intelligent gateways
+7EAAB93F	On remote exploitation of TCP sender for low-rate flooding denial-of-service attack
+787B7C7B	Extensions to the source path isolation engine for precise and efficient log-based IP traceback
+7CCD19AB	Network Topology Against Distributed Denial of Service Attacks
+5DEFB276	Towards an adaptive packet marking scheme for IP traceback
+7E3A77E0	Improving Transaction Server Performance under Heavy Loads with Differentiated Service and Active Network Interfaces
+7CD6F01C	A Robust IP Packets Filtering Mechanism for Protecting Web Server from DDoS Attacks
+77674714	Performance Enhanced AODV Routing Protocol Security in Mobile Ad-Hoc Networks
+80F0DEC2	Securing Wireless Sensor Networks: Security Architectures
+80908564	DOS-Resistant Authentication with Client Puzzles
+7D9BD188	Modeling Human Behavior for Defense Against Flash-Crowd Attacks
+7898657E	Characterization, Detection and Mitigation of Low-Rate DoS attack
+6D1DC25A	Detecting SYN flooding attacks based on traffic prediction
+8046C53E	Analyzing single-server network inhibition
+8111BBFB	Three Dimensional Multidirectional Geographical IP Traceback: Direction Ratio Sampling Algorithm
+7A689BCF	GONE: an infrastructure overlay for resilient, DoS-limiting networking
+7983C375	Authenticated multicast immune to denial-of-service attack
+7323EC0E	Defending against distributed denial-of-service attacks with max-min fair server-centric router throttles
+7FDB5D45	Tactical bandwidth exhaustion in ad hoc networks
+7E0E4ED5	Impact of denial of service attacks on ad hoc networks
+5F94E3D0	On the generation of fast verifiable IPv6 addresses
+7B2C824B	Automated tools to implement and test Internet systems in reconfigurable hardware
+7F312958	Keeping Denial-of-Service Attackers in the Dark
+7DACEB26	Tracing denial of service origin: ant colony approach
+8060A72B	A More Practical Approach for Single-Packet IP Traceback using Packet Logging and Marking
+815C4CB0	A Secure Remote User Authentication Scheme
+7DE8DF71	The Improving of IKE with PSK for Using in Mobile Computing Environments
+7F1BEEBD	Outsourcing home network security
+771D4456	A new multistage approach to detect subtle DDoS attacks
+7FDE43C2	Adaptive defense against various network attacks
+7B73FA86	THINK: a secure distributed systems architecture
+7FF69B0E	IDR: an intrusion detection router for defending against distributed denial-of-service (DDoS) attacks
+7FBFBDAC	Visualization of complex attacks and state of attacked network
+766FE76D	IP traceback-based intelligent packet filtering: a novel technique for defending against Internet DDoS attacks
+77FC85B2	A hash-based strong-password authentication scheme without using smart cards
+80CE3283	A formal specification and verification method for the prevention of denial of service
+7B6568BE	The dark side of the Internet: Attacks, costs and responses
+5C93088D	Distinguishing between FE and DDoS Using Randomness Check
+584721A1	A secure routing protocol for wireless sensor networks
+808052EE	Early detection and prevention of denial-of-service attacks: a novel mechanism with propagated traced-back attack blocking
+81514162	Path Analysis: Detection of Triangle Routing Attacks in IPv6
+7FA2DE0F	A monitoring system for detecting repeated packets with applications to computer worms
+80F75608	SAS-3: A polynomial based strong password authentication protocol
+7E4EEDCF	Portcullis: protecting connection setup from denial-of-capability attacks
+7E811AA0	Protecting content distribution networks from denial of service attacks
+7E916FA4	New directions in traffic measurement and accounting
+7E2EFB12	Detection and prevention of MAC layer misbehavior in ad hoc networks
+625CD97C	X-Vine: Secure and Pseudonymous Routing Using Social Networks
+7CC40867	Measuring the impact of denial-of-service attacks on wireless sensor networks
+5B02E22D	A Practical Cryptographic Denial of Service Attack against 802.11i TKIP and CCMP
+59BFF487	Distributed denial-of-service attack detection scheme-based joint-entropy
+7E23345F	Accountable internet protocol (aip)
+66B91AA4	Design of a Cooperative Distributed Intrusion Detection System for AODV
+7E063EDD	Network maps beyond connectivity
+7F202C37	Jamming games in wireless networks with incomplete information
+78F4B6DC	An empirical study of bogon route advertisements
+7D10F6E9	TCP Flow Analysis for Defense against Shrew DDoS Attacks
+7DEFF88A	Internet Cache Pollution Attacks and Countermeasures
+80F407F6	H 2 BSAP: A hop-by-hop Broadcast Source Authentication Protocol for WSN to mitigate DoS attacks
+7E090BE4	A confidential and DoS-resistant multi-hop code dissemination protocol for wireless sensor networks
+7FEA4D1E	Two Types of Attacks against Cognitive Radio Network MAC Protocols
+7FE945F3	Analysis of the 802.11i 4-way handshake
+7F7B2ECF	Mitigation of Application Traffic DDOS Attacks with Trust and Am Based Hmm Models
+76D89E8B	Apple's Leopard Versus Microsoft's Windows XP: Experimental Evaluation of Apple's Leopard Operating System with Windows XP-SP2 under Distributed Denial of Service Security Attacks
+7D6E33B4	IP traceback methodologies
+7317959C	Stable availability under denial of service attacks through formal patterns
+7DED5DC6	Mutual Authentication for SIP: A Semantic Meaning for the SIP Opaque Values
+7FCEAFB7	Client Puzzles Based on Quasi Partial Collisions Against DoS Attacks in UMTS
+0084AC04	The "stacheldraht" distributed denial of service attack tool
+7E382CDE	Efficient Mining of the Multidimensional Traffic Cluster Hierarchy for Digesting, Visualization, and Anomaly Identification
+751172D9	Real-time analysis of intrusion detection alerts via correlation
+7FCEBA15	Scalable traceback against distributed denial of service
+37DF41C0	A Firegroup Mechanism to Provide Intrusion Detection and Prevention System Against DDos Attack in Collaborative Clustered Networks
+7B16A6F6	Mitigate DoS and DDoS Attack in Mobile Ad Hoc Networks
+7C2C0817	Active router approach to defeating denial-of-service attacks in networks
+80663BAD	Staggered TESLA: a multicast authentication scheme resistant to DoS attacks
+7B6B143D	A novel IPv6 traceback architecture using COPS protocol
+75738C80	A framework for generating realistic traffic for Distributed Denial-of-Service attacks and Flash Events
+7F7F85FA	Ripple-Stream: Safeguarding P2P Streaming Against Dos Attacks
+78837FEB	Analysis of the false-positive error rate of tagged fragment marking scheme
+5B911343	Mathematical Models of IP Traceback Methods and Their Verification
+7D9E1C37	A collaborative peer-to-peer architecture to defend against DDoS attacks
+7800C99E	CluB: a cluster based framework for mitigating distributed denial of service attacks
+7FF88A7B	An Effective Priority Queue-Based Scheme to Alleviate Malicious Packet Flows from Distributed DoS Attacks
+75DDC15E	On deterministic packet marking
+7B48F7BF	Sender access and data distribution control for inter-domain multicast groups
+7E128EBA	Detecting Pulsing Denial-of-Service Attacks Based on the Bandwidth Usage Condition
+758F556E	Suppressing bot traffic with accurate human attestation
+80FE76CF	Adaptive distributed mechanism against flooding network attacks based on machine learning
+7DB6EDD8	A specification and verification method for preventing denial of service
+7EBA45C4	An IP traceback mechanism for reflective DoS attacks
+7F0937B3	Multivariate statistical analysis for network attacks detection
+7E17BBAD	Review and evaluation of security threats on the communication networks in the smart grid
+6CF9C0E1	Denial of Service Protection for Optimized and QoS-aware Handover Based on Localized Cookies
+5A413E6D	A secure on-demand source routing scheme using hierarchical clustering in mobile ad hoc networks
+7CE241CF	COCA: A secure distributed online certification authority
+76232D87	One-time Session Key based HTTP DDoS Defense Mechanisms
+808927A8	Mitigation of Control Channel Jamming under Node Capture Attacks
+8139352D	Bluetooth Network-Based Misuse Detection
+80C9FCE7	Intrusion detection method based on nonlinear correlation measure
+7D2AA97F	SIPp-DD: SIP DDoS Flood-Attack Simulation Tool
+5CBB35FD	A Real-Time and Reliable Approach to Detecting Traffic Variations at Abnormally High and Low Rates
+7E8A045A	An IP traceback technique against denial-of-service attacks
+80752AB9	DDoS: Survey of Traceback Methods
+7F1D1590	Combining Speak-Up with DefCOM for Improved DDoS Defense
+8019B301	An Enhanced Scheme to Defend against False-Endorsement-Based DoS Attacks in WSNs
+7D717563	Cooperative Defence Against DDoS Attacks
+81151FFE	Intrusion Detection Routers: Design, Implementation and Evaluation Using an Experimental Testbed
+7E8D4717	Detecting Coordinated Distributed Multiple Attacks
+81061EC6	Protecting SIP against Very Large Flooding DoS Attacks
+0C49D265	Centertrack: an IP overlay network for tracking DoS floods
+5C37ACDC	A Novel Mechanism to Defend Against Low-Rate Denial-of-Service Attacks
+5A7E3470	Tracing the true source of an IPv6 datagram using policy based management system
+7DAC703B	DDoS attacks traffic and Flash Crowds traffic simulation with a hardware test center platform
+5A5244CA	Mitigating Distributed Denial of Service Attacks Using a Proportional-Integral-Derivative Controller
+7BBCAA2A	Two simple attacks on Lin-Shen-Hwang's strong-password authentication protocol
+764820AF	Practical real-time intrusion detection using machine learning approaches
+7F744470	Fit a compact spread estimator in small high-speed memory
+7E06240D	Reconfigurable Peer-to-Peer Connectivity Overlays for Information Assurance Applications
+7B86B79B	Autonomous system based traceback mechanism for DDoS attack
+80924952	Streaming Solutions for Fine-Grained Network Traffic Measurements and Analysis
+7A9B9AA3	Interactive Informatics on Internet Infrastructure
+76B83D0E	Experimental analysis of attacks against web services and countermeasures
+7F798215	Building Dependable Intrusion Prevention Systems
+7DEE630D	Detection and Protection against Distributed Denial of Service Attacks in Accountable Grid Computing Systems
+8096B6C0	Self-Routing Denial-of-Service Resistant Capabilities Using In-packet Bloom Filters
+58FD50D6	Security Notions and Generic Constructions for Client Puzzles
+8116775C	A security framework for protecting traffic between collaborative domains
+80B454C0	Honeypots for distributed denial-of-service attacks
+773677C8	Mitigating DoS Attacks Using Performance Model-Driven Adaptive Algorithms
+7B584B6D	Portable Resource Control in Java
+80E99C7A	Davis Social Links or: How I Learned to Stop Worrying and Love the Net
+7F1510C2	Anomaly Intrusion Detection by Internet Datamining of Traffic Episodes
+815FCF7D	A MONITORING SYSTEM FOR MITIGATING FAST PROPAGATING WORMS IN THE NETWORK INFRASTRUCTURE
+5F12E253	Broadening the Scope of Fault Tolerance within Secure Services
+7E74F5CE	Detecting jamming attacks in Ubiquitous Sensor Networks
+5C00C81D	Future of DDoS Attacks Mitigation in Software Defined Networks
+7E0395F6	Aspects of availability
+8115C927	Towards A Security Model for Computational Puzzle Schemes
+7775B638	Jamming and anti–jamming techniques in wireless networks: a survey
+7D18BED6	Hammer Model Threat Assessment of Cognitive Radio Denial of Service Attacks
+807E5024	P2P attack taxonomy and relationship analysis
+7EB115DA	A novel client-based approach for signing and checking web forms by using XML against DoS attacks
+7DADFAEF	Real-time visualization of network attacks on high-speed links
+5B7CEFED	An Ant Based Framework for Preventing DDoS Attack in Wireless Sensor Networks
+7E28DFB6	DoS Attacks on Real-Time Media through Indirect Contention-in-Hosts
+5DBFE609	Defending wireless infrastructure against the challenge of DDoS attacks
+80793967	A robust packet-filtering method for high-bandwidth aggregates
+7A98702A	PING attack – How bad is it?
+81635656	Network support for IP traceback
+7F3AB0FB	Testing a Collaborative DDoS Defense In a Red Team/Blue Team Exercise
+7E7D82D2	Beyond the perimeter: the need for early detection of denial of service attacks
+77321BAE	Using honeynodes for defense against jamming attacks in wireless infrastructure-based networks
+06E8685D	Protocol engineering for protection against denial-of-service attacks
+7F355B4B	Protocol aware shot-noise based radio frequency jamming method in 802.11 networks
+7F15BAE9	Self-securing ad hoc wireless networks
+58EA4CE6	Mitigating Denial-of-Service Attacks on VoIP Environment
+81350FB5	Preventing DoS attack in sensor networks: a game theoretic approach
+842D2DA2	A Detection Algorithm for DoS Attack in the Cloud Environment
+7086C19E	Combating Spam and Denial-of-Service Attacks with Trusted Puzzle Solvers
+79BCB731	Analysis of security threats to MPLS virtual private networks
+7DFCDD0F	Design and implementation of an intrusion detection system for wireless sensor networks
+753D3E9E	Denial of service attack and prevention on SIP VoIP infrastructures using DNS flooding
+81214EA7	An anonymous and failure resilient fair-exchange e-commerce protocol
+7650AFF6	OverCourt: DDoS mitigation through credit-based traffic segregation and path migration
+7F9A9727	Packet Level Simulation of Cooperative Distributed Defense against Internet Attacks
+7D558947	Defending Battery Exhaustion Attacks on Mobile Systems
+7A30AAC7	Constructing detection knowledge for DDoS intrusion tolerance
+8173DB19	Analyzing the secure overlay services architecture under intelligent DDoS attacks
+81230D34	GA-Based Filtering Algorithm to Defend against DDoS Attack in High Speed Network
+7EF16B63	Enhancing Base Station Security Against DoS Attacks in Wireless Sensor Networks
+80329761	Distributed actuation attacks in wireless sensor networks: implications and countermeasures
+8019A97E	WDA: A Web farm Distributed Denial Of Service attack attenuator
+68B177D9	Extending standard java runtime systems for resource management
+7ADE7296	Preserving quality of service for normal users against DDoS attacks by using Double Check Priority Queues
+7E947913	Spoof Detection for Preventing DoS Attacks against DNS Servers
+7DDBA7F7	Reducing the scope of denial of service attacks in QoS routing
+7DBA3566	Using Mobile Agents to Detect Node Compromise in Path-Based DoS Attacks on Wireless Sensor Networks
+7D2743FF	Wireless Intrusion Detection System Using a Lightweight Agent
+7DBE8EA5	An Improvement on Precision in DDoS Source-End Detection with Multi-stream Combined HMM
+7E7B3773	Modeling Source Authentication Protocols in Wireless Sensor Networks Using HLPSL
+811317A6	An approach to intrusion detection by means of idiotypic networks paradigm
+7F7C32A0	Toward understanding distributed blackhole placement
+78D67511	Distributed reinforcement learning for adaptive and robust network intrusion response
+7DC8F137	DaaS: DDoS Mitigation-as-a-Service
+80A40178	The "Evil Bit" Revisited: Blocking DDoS Attacks with AS-Based Accountability
+59D93160	DoS attack mining in sensor node replacement
+8066CD0F	Optimal control of DDoS defense with multi-resource max-min fairness
+7E63E4CC	Flexible Deterministic Packet Marking: An IP Traceback System to Find the Real Source of Attacks
+7A0A95E3	The Violence Triad and Common Single Precipitants to Psychiatric Patient Assaults on Staff: 16-Year Analysis of the Assaulted Staff Action Program
+80FC84AD	Finding DDoS attack sources: Searchlight localization algorithm for network tomography
+80E4DFFF	AC-Suffix-Tree: Buffer Free String Matching on Out-of-Sequence Packets
+7E3B170E	Browsing behavior mimicking attacks on popular web sites for large botnets
+7EB0C50F	Attacking DDoS at the source
+7DC0E00F	Analysis of DDoS Attack Effect and Protection Scheme in Wireless Mobile Ad-hoc Network
+5DFF6735	Evaluation of a Large-Scale Topology Discovery Algorithm
+7D7C370B	LDoS attack in ad-hoc network
+812DCAED	Secure Health Monitoring Network against Denial-Of-Service Attacks Using Cognitive Intelligence
+80D1A6DC	Analysis of low-rate TCP DoS attack against FAST TCP
+5B0050CF	802.11 denial-of-service attacks: real vulnerabilities and practical solutions
+7981B612	Distributed Denial of Service (DDoS) detection by traffic pattern analysis
+7E52F4EF	Detecting Flooding-Based DDoS Attacks
+5F9DBF82	콘텐츠 중심 네트워킹에서 IGPT를 이용한 적시성 및 보안성 향상 방안
+810A5CCD	A Method Based on AMHI for DDoS Attacks Detection and Defense
+5A90A652	A Distributed Detecting Method for SYN Flood Attacks and Its Implementation Using Mobile Agents
+7F2A947F	Detection of malicious packet dropping in wireless ad hoc networks based on privacy-preserving public auditing
+5F59D20A	Detecting DDoS Attacks Using Dispersible Traffic Matrix and Weighted Moving Average
+7C80A9DD	Inter-domain and DoS-resistant call establishment protocol (IDDR-CEP): work in progress
+812C2481	A study of mass-mailing worms
+5D38D45E	Inter-domain security management to protect legitimate user access from DDoS attacks
+7D434DD8	Specification-Based Intrusion Detection in WLANs
+5D8076F1	An economical model for the risk evaluation of DoS vulnerabilities in cryptography protocols
+80A7814A	Coopertive Routing in Mobile Ad-hoc Networks: Current Efforts Against Malice and Selfishness
+806E36B1	Towards behavioral control in multi-player network games
+80279F48	Methodologies for evaluating game theoretic defense against DDoS attacks
+62AC03AD	gore : routing-assisted defense against DDoS attacks
+6DE20A1C	ANALYSIS OF BGP SECURITY VULNERABILITIES
+092FA554	A proposal for DoS-defensive internet key exchange
+6DD50E18	Analyzing Distributed Denial of Service Tools: The Shaft Case
+7FF16A35	Detection Method Based on Reverse Proxy against Web Flooding Attacks
+5EC1136E	Detection of DDoS attacks via an artificial immune system-inspired multiobjective evolutionary algorithm
+7EF28FD5	Deployment of Distributed Defense against DDoS Attacks in ISP Domain
+7E33C095	Probabilistic packet marking with non-preemptive compensation
+80F377D3	Computation, Memory and Bandwidth Efficient Distillation Codes to Mitigate DoS in Multicast
+80B3D542	Countering DDoS and XDoS Attacks against Web Services
+74F1A9E0	Spoofing prevention method
+80764A06	Practical study of a defense against low-rate TCP-targeted DoS attack
+768A7648	RotoRouter: Router support for endpoint-authorized decentralized traffic filtering to prevent DoS attacks
+7B4F6FA9	DDoS attack detection method using cluster analysis
+80EC5526	On the Impact of Low-Rate Attacks
+80C99380	Signaling Architecture for Network Traffic Authorization
+8173392C	On detecting service violations and bandwidth theft in QoS network domains
+59EFB8CC	On a new class of pulsing denial-of-service attacks and the defense
+813CDA35	Botnet Detection by Monitoring Group Activities in DNS Traffic
+7FDC097F	A Secure System-Wide Process Scheduler across Virtual Machines
+780903A3	A dependable architecture to mitigate distributed denial of service attacks on network-based control systems
+77706C67	Traffic deflection method for dos attack defense using a location-based routing protocol in the sensor network
+80DD734D	On the effectiveness of secure overlay forwarding systems under intelligent distributed DoS attacks
+5B84A89F	Securing MANET Multicast Using DIPLOMA
+804E08AE	F-HB: An Efficient Forward Private Protocol
+80510274	Wireless client puzzles in IEEE 802.11 networks: security by wireless
+80488393	Detection of DDoS and IDS Evasion Attacks in a High-Speed Networks Environment
+7FDCD1CA	Comparison and Improvement of Metrics for Selecting Intrusion Response Measures against DoS Attacks 1
+7F80E5F0	SOS: secure overlay services
+7DB9AE08	Puppetnets: Misusing Web Browsers as a Distributed Attack Infrastructure (Extended Version ∗
+7A91E4E0	Network Anomaly Detection Based on R/S Pox Diagram
+7E37E773	A marking scheme using Huffman codes for IP traceback
+7F7E1924	A Proactive Statistical Defense Solution for DDOS Attacks in Active Networks
+7898B3ED	A cooperative SIP infrastructure for highly reliable telecommunication services
+7902E6B4	A New Defense against DDoS Attacks using Reputation
+75A57706	Fine-grained capabilities for flooding DDoS defense using client reputations
+806E337E	A queue-based analysis for Denial of Service attacks on Voice over IP proxies
+7698A133	Inferring distributed reflection denial of service attacks from darknet
+7CD876A7	Mitigating denial of service attack using CAPTCHA mechanism
+5B929973	Secure Neighbor Discovery in Wireless Sensor Networks
+7EFFE8CC	securing hybrid wired/mobile IP networks from TCP-flooding based denial-of-service attacks
+5B1644BB	Experimenting With Early Opportunistic Key Agreement
+7F79C506	Advanced Flooding Attack on a SIP Server
+7D1FE718	Towards a Denial-of-Service Resilient Design of Complex IPsec Overlays
+7D8B6D9A	SecureMR: A Service Integrity Assurance Framework for MapReduce
+7F2662BE	Overloading vulnerability of VoIP networks
+7DF2FA61	Effects of mobility and multihoming on transport-protocol security
+7F073C46	Dynamic Binary Tree for Hierarchical Clustering of IP Traffic
+0BFEB297	A Network Coding-Based Approach to Probabilistic Packet Marking
+80FBBA79	Seluge: Secure and DoS-Resistant Code Dissemination in Wireless Sensor Networks
+7F27B6A0	Traceback-Based Bloomfilter IPS in Defending SYN Flooding Attack
+7D9A1D84	A Nitpicker&#146;s guide to a minimal-complexity secure GUI
+7FCD74DF	A dynamic quarantine scheme for controlling unresponsive TCP sessions
+7DA5C967	32-bit as Number Based IP Traceback
+79AF06E1	ICMP based IP traceback with negligible overhead for highly distributed reflector attack using bloom filters
+8108FAE7	A Formal Rule-Based Scheme for Digital Investigation in Wireless Ad-hoc Networks
+5A741CFA	Evaluation of Attack Countermeasures to Improve the DoS Robustness of RSerPool Systems by Simulations and Measurements
+7BA92AC9	On MAC-layer denial of service attacks in IEEE 802.11 ad hoc networks: analysis and counter measures
+6AEC7C52	A cascade architecture for DoS attacks detection based on the wavelet transform
+6F4B82C4	Network Ingress Filtering: Defeating Denial of Service Attacks which employ IP Source Address Spoofing
+7F702631	Reactive jamming attacks in multi-radio wireless sensor networks: an efficient mitigating measure by identifying trigger nodes
+7B7196E9	Evaluation of a low-rate DoS attack against application servers
+78E4A26F	Practical Attacks on Mobile Cellular Networks and Possible Countermeasures
+7A4095DA	Crypto-based identifiers (CBIDs): Concepts and applications
+7E525D11	Maintaining useful server throughput under load attacks using active NIC portals
+79A5E65F	Using Network Processor to Establish Trustworthy Agent Scheme for AODV Routing Protocol
+58DF6BE2	Entropy Based Detection of DDoS Attacks in Packet Switching Network Models
+81199D09	Denial of service protection the nozzle
+807B7B13	Secure Transport Protocols for DDoS Attack Resistant Communication
+0C30D955	One Cell is Enough to Break Tor's Anonymity
+754C87CA	Practical network support for IP traceback
+7FDF4221	Control of low-rate denial-of-service attacks on web servers and TCP flows
+5E07FCE8	Mayday: distributed filtering for internet services
+5EE1B480	Data structures with unpredictable timing
+7A7939FA	Improvements on the WTLS protocol to avoid denial of service attacks
+5C8B8EE0	Effective worm detection for various scan techniques
+80454240	A Router Anomaly Traffic Filter Algorithm Based on Character Aggregation
+5EC7001E	Denial of service attacks at the MAC layer in wireless ad hoc networks
+785D7887	Provider-based deterministic packet marking against distributed DoS attacks
+778ADCF0	Adaptive Timer-Based Countermeasures against TCP SYN Flood Attacks
+80F27E8C	Lightweight DDoS flooding attack detection using NOX/OpenFlow
+706CEE06	A New Holistic Security Approach for Government Critical Systems: Flooding Prevention
+7D57EB27	Detecting Heavy Change in the Heavy Hitter distribution of network traffic
+7E117501	Packet-Hiding Methods for Preventing Selective Jamming Attacks
+77B4E92A	An Inline Detection and Prevention Framework for Distributed Denial of Service Attacks
+7E2A9E7F	Proactively defeating distributed denial of service attacks
+7EFCF8A3	Traffic flooding attack detection with SNMP MIB using SVM
+7F03F283	Defense against Bandwidth Attacks with Traffic Resource Management
+7E71D33C	A Traffic Analysis Using Cardinalities and Header Information
+5912D8FC	A middleware system for protecting against application level denial of service attacks
+80B755CA	Balancing security against performance in wireless ad hoc and sensor networks
+7D45BBBE	Detecting DoS attacks using packet size distribution
+75C294CB	Authenticated IGMP for Controlling Access to Multicast Distribution Tree
+5DF3DA87	Quantitative Evaluation of Intrusion Tolerant Systems Subject to DoS Attacks Via Semi-Markov Cost Models
+80CB8B0D	A Protocol for Secure Electronic Remote Voting
+5C4DD9D8	D-ward: source-end defense against distributed denial-of-service attacks
+7FB4296F	Performance Evaluation for Linux under SYN Flooding Attacks
+5D793733	Detection of Unknown DoS Attacks by Kolmogorov-Complexity Fluctuation
+7C74BC9C	Enhancing broadcast authentication in sensor networks
+7E864837	On Broadcast Authentication in Wireless Sensor Networks
+80485958	Analysis of Jamming Effects on IEEE 802.11 Wireless Networks
+5E495711	A multiagent solution to adaptively classify SOAP message and protect against dos attack
+814CAE24	Side effects of identity management in SIP VoIP environment
+587CAD24	Detection and defense mechanisms against DDoS attacks: A review
+8018825F	Mitigating performance degradation of network-based control systems under denial of service attacks
+7D065C47	Locating network domain entry and exit point/path for DDoS attack traffic
+5F1D01B3	Port and Address Hopping for Active Cyber-Defense
+78F98700	Temporal bounded reasoning for context-based information fusion in DoS attack detection
+7EF5DAB8	Distributed Denial of Service Attacks Detection Method Based on Conditional Random Fields
+7D7AA8A7	SANALDA: A Source Authenticating Network Architecture Limiting DoS Attacks
+59A5ED43	Memory performance attacks: denial of memory service in multi-core systems
+59734247	A Novel Architecture for Detecting and Defending Against Flooding-Based DDoS Attacks
+5F1CC9BE	An attack classification mechanism based on multiple support vector machines
+7D6324F8	A denial-of-service resistant quality-of-service signaling protocol for mobile ad hoc networks
+7EEB044C	A flexible router platform for next generation network services
+590CA80E	Design of network security projects using honeypots
+7E1F356E	Pulsing RoQ DDoS Attacking and Defense Scheme in Mobile Ad Hoc Networks
+7F191254	Fighting Spam with the NeighborhoodWatch DHT
+73C5648B	Detection of Denial of Service Attacks against Domain Name System Using Neural Networks
+5A3D5E8B	A Packet Marking Scheme for IP Traceback
+7DCF4125	CPU-based DoS attacks against SIP servers
+7DAB5641	The Software Environment for Multi-agent Simulation of Defense Mechanisms against DDoS Attacks
+79B42655	Optimal source-based filtering of malicious traffic
+821F45DC	DDOS Mitigation Cloud-Based Service
+7D878EAB	Evaluating DoS Attacks against Sip-Based VoIP Systems
+7645BF5B	Cryptanalysis of an EPC Class-1 Generation-2 standard compliant authentication protocol
+75749DD8	Unsupervised Clustering of Web Sessions to Detect Malicious and Non-malicious Website Users
+7F9B9D5B	Exploration of Attacks on Current Generation Smartphones
+7F0D8FC4	SEAD: secure efficient distance vector routing for mobile wireless ad hoc networks
+7D75ED3E	A Method for Enhancing Timely-Delivery and Security Using IGPT in Content-Centric Networking
+7D3F0484	An Enhanced Remote User Authentication Scheme Providing Mutual Authentication and Key Agreement with Smart Cards
+7DFDBB35	Constructing Inter-Domain Packet Filters to Control IP Spoofing Based on BGP Updates
+7E9DD7C1	Receiver-centric congestion control with a misbehaving receiver: Vulnerabilities and end-point solutions
+758EF851	Packet track and traceback mechanism against denial of service attacks
+7B636965	Maneuvering Around Clouds: Bypassing Cloud-based Security Providers
+813B18D6	Cooperative Work Systems for the Security of Digital Computing Infrastructure
+7DAA8898	Hierarchical Defense Structure for Mitigating DoS Attacks
+7F028C17	Streaming Algorithms for Robust, Real-Time Detection of DDoS Attacks
+7F438CEE	Roaming honeypots for mitigating service-level denial-of-service attacks
+805AD29E	On the application of anomaly detection in Reliable Server Pooling systems for improved robustness against denial of service attacks
+8029E27D	Advanced and authenticated marking schemes for IP traceback
+66550252	An (almost) constant-effort solution-verification proof-of-work protocol based on Merkle trees
+80A66DE1	A Probabilistic Packet Marking Scheme with LT Code for IP Traceback
+80DE078E	Practical broadcast authentication in sensor networks
+7BE262F7	DoSTRACK: a system for defending against DoS attacks
+7E6678A0	Automating Intrusion Response via Virtualization for Realizing Uninterruptible Web Services
+02680F8F	E-commerce concerns: do we need to change some systems?
+7CCF0818	Survey of network security systems to counter SIP-based denial-of-service attacks
+8019EEA8	A Probabilistic Approach for Network Intrusion Detection
+59BC88DF	Analysis of the HIP Base Exchange Protocol
+7D28AC6F	Efficient and Secure Source Authentication for Multicast
+78CF7FF1	Puppetnets: Misusing Web Browsers as a Distributed Attack Infrastructure
+5DBEEBBE	Exploiting the transients of adaptation for RoQ attacks on Internet resources
+8079DC48	Formal modelling and automatic detection of resource exhaustion attacks
+7EE57BBA	Analyze and Determine the IP Spoofing Attacks Using Stackpath Identification Marking and Filtering Mechanism
+0C3ABA6C	AS-based accountability as a cost-effective DDoS defense
+76B649BC	Correlation-based load balancing for network intrusion detection and prevention systems
+7D5F4CB0	DDoS defense by offense
+790945CB	A DoS-limiting network architecture
+0031B6E5	An Analysis of Network Traffic on DDoS Attacks against Web Servers
+7A110614	Application of contract-based security assertion monitoring framework for telecommunications software engineering
+7D1D6229	HARD-DNS: Highly-Available Redundantly-Distributed DNS
+77DF4E23	Efficient and secure password authentication schemes for low-power devices
+7E458F4C	NetBouncer: client-legitimacy-based high-performance DDoS filtering
+081239D6	The �mstream� distributed denial of service attack tool
+773F0319	DEMO: An IDS framework for internet of things empowered by 6LoWPAN
+77539CA9	Hop-count filtering: an effective defense against spoofed DDoS traffic
+7FFEC2DB	PRIMED: community-of-interest-based DDoS mitigation
+7DC336D3	Intrusion Detection in Dos Attacks
+7D2BC4B2	Fault and intrusion tolerance in wireless ad hoc networks
+7FA111AB	StackPi : a new defense mechanism against IP spoofing and DDoS attacks
+5E7A5915	Towards Provable Security for Ubiquitous Applications
+015161C6	Towards Improving an Algebraic Marking Scheme for Tracing DDoS Attacks
+7D329C72	Epiphany: A location hiding architecture for protecting critical services from DDoS attacks
+5D5026BA	On Robustness and Countermeasures of Reliable Server Pooling Systems Against Denial of Service Attacks
+7CABE3C3	Detecting DDoS attacks with Hadoop
+78731F46	Denial-of-Service attacks and countermeasures in IEEE 802.11 wireless networks
+7F8747E6	Multilayer perceptron based secure media access control protocol for wireless sensor networks
+812CF45A	Intrusion Recovery Framework for Tactical Mobile Ad hoc Networks
+7F38BF22	A novel method for detecting attacks towards the SIP protocol
+7E9DF48A	The feasibility of launching and detecting jamming attacks in wireless networks
+7FBCAD36	Distributed port recall (DPR) attacks and its detection
+8136A9F3	Vulnerabilities of the Real-Time Transport (RTP) Protocol for Voice over IP (VoIP) Traffic
+7EBD6296	CoDe — An collaborative detection algorithm for DDoS attacks
+7F94DB37	Exception triggered DoS attacks on wireless networks
+04716B4C	Double SSO – A Prudent and Lightweight SSO Scheme
+7AAB01C9	A DDOS defence scheme based on two-stage traffic flow control
+80D1B451	Performance Evaluation of a Flooding Detection Mechanism for VoIP Networks
+7B45D1CB	Probabilistic model checking for the quantification of DoS security threats
+780582DC	A survey of coordinated attacks and collaborative intrusion detection
+7E7C993D	In-network server-directed client authentication and packet classification
+7EF432D3	Deployable overlay network for defense against distributed SYN flood attacks
+7C3606A8	IP Traceback using header compression
+754DDFF9	The NADIA: A Network Acceleration System with Defense against Network Invasion and Attack
+7E8B05ED	HOURS: achieving DoS resilience in an open service hierarchy
+77B67239	Information sharing for distributed intrusion detection systems
+7F822BDC	Framework for statistical filtering against DDoS attacks in MANETs
+7BA12B04	Authentication schemes with no verification table
+5958631F	Scheme of defending against DDoS attacks in large-scale ISP networks
+7F8E4501	Broadcast Authentication Protocol Scheme Based on DBP-MSP and Safe Routing in WSN against DDoS Attacks
+7F1FDC6E	A Bidirectional-Based DDoS Detection Mechanism
+7EFF2140	Design and analysis of an IP-Layer anonymizing infrastructure
+79A580DC	SigSpot: mining significant anomalous regions from time-evolving networks (abstract only)
+7D069649	Evaluation of a Distributed Detecting Method for SYN Flood Attacks Using a Real Internet Trace
+7EB8BDBB	Web botnet detection based on flow information
+7FC99AD1	Countering DoS attacks with stateless multipath overlays
+5A979C36	A new security model to prevent denial-of-service attacks and violation of availability in wireless networks
+722F8524	Seclusiveness jamming attacks using Packet hiding Method
+7D189BAF	Mitigation of TCP-SYN Attacks with Microsoft's Windows XP Service Pack2 (SP2) Software
+5F30E8C6	A Hypothesis Testing Based Scalable TCP Scan Detection
+7E87CFA0	The Blocking Option in Routing Protocols
+831B5314	Multiagent Router Throttling: Decentralized Coordinated Response Against DDoS Attacks
+7C0B81F3	An AS-level IP traceback system
+5907FD12	A Hybrid Network Model for Intrusion Detection Based on Session Patterns and Rate of False Errors
+7BFB8736	Cloud security defence to protect cloud computing against HTTP-DoS and XML-DoS attacks
+80842FDD	A Comparison of SYN Flood Detection Algorithms
+0A34249C	Enhancing Base Station Security in Wireless Sensor Networks
+7CCBDFA4	Lightweight IP Traceback Mechanism
+7ED62D85	Inferring undesirable behavior from P2P traffic analysis
+7932DEBD	Identifying High-Rate Flows Based on Sequential Sampling
+01ACE515	Vulnerabilities of passive internet threat monitors
+7EE56479	Congestion targeted reduction of quality of service DDoS attacking and defense scheme in mobile ad hoc networks
+7DCD743A	Two Security Problems of RFID Security Method with Ownership Transfer
+585B75E3	A prevention model for algorithmic complexity attacks
+7F1AE597	Design and analysis of an adaptive, global strategy for detecting and mitigating distributed DoS attacks in grid environments
+017665BB	A Study on Recent Approaches in Handling DDoS Attacks
+7D423BF3	Network-aware behavior clustering of Internet end hosts
+005B0E4C	Enhanced TCP SYN Attack Detection
+7EACA796	A novel tuneable low-intensity adversarial attack
+7CED701C	Chained puzzles: a novel framework for IP-layer client puzzles
+7E1A9DA1	Taxonomical approach to the deployment of traceback mechanisms
+62C578B4	A practical method to counteract denial of service attacks
+612B461B	Botnet tracking: exploring a root-cause methodology to prevent distributed denial-of-service attacks
+78B77BF4	Secured operating regions of Slotted ALOHA in the presence of interfering signals from other networks and DoS attacking signals
+7E2A71A5	A Study of the TKIP Cryptographic DoS Attack
+5B992488	Real-Time IP Checking and Packet Marking for Preventing ND-DoS Attack Employing Fake Source IP in IPv6 LAN
+760FDB3F	Using Identity-Based Privacy-Protected Access Control Filter (IPACF) to against denial of service attacks and protect user privacy
+7D51AA39	IFTS: intrusion forecast and traceback based on union defense environment
+7EB13818	Comparing Chord, CAN, and Pastry overlay networks for resistance to DoS attacks
+7F498AEF	PISA: Automatic Extraction of Traffic Signatures
+8128FB24	Neural network based secure media access control protocol for wireless sensor networks
+7EF93515	Insider DoS Attacks on Epidemic Propagation Strategies of Network Reprogramming in Wireless Sensor Networks
+7E96FF25	Impact of high-mobility radio jamming in large-scale wireless sensor networks
+8015F391	Security in wireless sensor networks
+7F96F07B	On a New Type of Denial of Service Attack in Wireless Networks: The Distributed Jammer Network
+7EDF8DC2	You can run, but you can't hide: an effective statistical methodology to trace back DDoS attackers
+7FA97E7A	Visual analytics for intrusion detection in spam emails
+0077F7A5	Detecting DDoS Attack towards DNS Server Using a Neural Network Classifier
+7E15CE13	Availability of ARINC 629 Avionic Data Bus
+7648C081	DDoS defense by offense
+0994464C	Detecting Disruptive Routers in Wireless Sensor Networks
+781F22EE	Denial of service resilience in ad hoc networks
+7D54B902	Improving Availability with Adaptive Roaming Replicas in Presence of Determined DoS Attacks
+802319B1	Queue-based analysis of DoS attacks
+0BCC9B72	Distillation Codes and Applications to DoS Resistant Multicast Authentication
+81418094	TLS protocol: Secure protocol with Client Puzzles
+5EF54CA1	Effective DDoS Attacks Detection Using Generalized Entropy Metric
+7E286E4A	Improvement for Congestion Control Algorithms under DDoS Attacks
+5C38C864	Lightweight Traffic Monitoring and Analysis Using Video Compression Techniques
+80F8F87A	A Fuzzy Rule Based Forensic Analysis of DDoS Attack in MANET
+816E40E8	An Intrusion Surveillance System to Detect IRC-based DDoS Attacks
+81B25B07	IRIS: A Robust Information System Against Insider DoS Attacks
+5BB56813	Construction of High Precision RBFNN with Low False Alarm for Detecting Flooding Based Denial of Service Attacks Using Stochastic Sensitivity Measure
+597E9CF8	A Distributed Intrusion Detection System Based on Bayesian Alarm Networks
+7CD03521	Scheme for preventing low-level denial-of-service attacks on wireless sensor network-based home automation systems
+6DAD7895	Engineering of a global defense infrastructure for DDoS attacks
+7D2DB6BF	A SOA Approach to Counter DDoS Attacks
+7777FE4F	A study on stable web server system using virtualization technology against attacks
+5CAF57E6	Simulation of dynamic honeypot based redirection to counter service level DDoS attacks
+802CE8FE	Statistical Signatures for Early Detection of Flooding Denial-of-Service Attacks
+0110BAD0	Shim6: Reference Implementation and Optimization
+7F28512A	Large-scale IP traceback in high-speed internet: practical techniques and information-theoretic foundation
+7AE1DE23	MCA 2 : multi-core architecture for mitigating complexity attacks
+7FDD6E98	Queuing Analysis of Network Firewalls
+7B55777A	Mining Web User Behaviors to Detect Application Layer DDoS Attacks
+8115000C	Denial of service attacks and defenses in decentralized trust management
+7644A0D9	Availability constraints for avionic data buses
+7FCE3642	Botnet master detection using a mashup-based approach
+7F8BD1C5	RRED: robust RED algorithm to counter low-rate denial-of-service attacks
+8014FCB6	Entropy-Based Collaborative Detection of DDOS Attacks on Community Networks
+7F6EB342	A Study of Defense DDoS Attacks Using IP Traceback
+7BF75AD0	Deceiving entropy based DoS detection
+7B0DB9B9	An effective Denial of Service Attack Detection Method in Wireless Mesh Networks
+7D874385	DDoS Detection and Traceback with Decision Tree and Grey Relational Analysis
+811D6575	Attack diagnosis: throttling distributed denial-of-service attacks close to the attack sources
+7C621333	Defensive programming: using an annotation toolkit to build DoS-resistant software
+7DEDD998	An Attack-Resilent Sampling Mechanism for Integrated IP Flow Monitors
+8135A911	Identifying and tracking suspicious activities through IP gray space analysis
+7D8FF561	Conflict on a communication channel
+77881439	Detecting Distributed Denial-of-Service Attacks Using Kolmogorov Complexity Metrics
+767906BB	Detecting VoIP based DoS attacks at the public safety answering point
+80201E28	Security Issues of IEEE-802.11 Wireless Networks
+7FDF0F48	Anomaly-Based Identification of Large-Scale Attacks
+816E6907	FPAC: fast, fixed-cost authentication for access to reserved resources
+5F98774E	Cooperative Security Management Enhancing Survivability Against DDoS Attacks
+59AAFD9C	A Method to Implement a Denial of Service Protection Base
+8027B3A7	A DoS-resilient information system for dynamic data management
+591DB86F	Security in Programmable Network Infrastructures: The Integration of Network and Application Solutions
+80F3CC00	Efficacy of Coordinated Distributed Multiple Attacks (A Proactive Approach to Cyber Defense)
+03BFECEC	A Framework for Classifying Denial of Service Attacks-Extended
+7D4BE8C8	Detecting flooding attacks against IP Multimedia Subsystem (IMS) networks
+78E2DBD2	Distributed capabilities-based DDoS defense
+5A8B7B19	Multiple Classifier System with Feature Grouping for Intrusion Detection: Mutual Information Approach
+79B13CF0	Stateful DDoS attacks and targeted filtering
+80806BC4	Detecting identity-based attacks in wireless networks using signalprints
+7E0481D7	Spatial correlation detection of DDoS attack
+58B977C8	A Novel Marking Probability Distribution Using Probability Propagation in Hierarchical WSN
+80E867EC	Implementation of neural networks for intrusion detection in manet
+810D9090	SBAC: Service Based Access Control
+5D26B4D3	On the effectiveness of DDoS attacks on statistical filtering
+7E58B7F7	Proactive control of distributed denial of service attacks with source router preferential dropping
+7DA9C070	DDoS Attack Detection Based on RLT Features
+7E3189D1	Ingress Filtering for Multihomed Networks
+7F1437B8	Probabilistic Route Selection Algorithm for IP Traceback
+5E71F1A8	A new active DDoS defense system based on automatic learning
+7814372F	SAFERPHP: finding semantic vulnerabilities in PHP applications
+80A8BFCD	Pseudo Random Number Based authentication to counter denial of service attacks on 802.11
+7C4C51B8	Improvement of Fixing Problems in Lin et al.`s OSPA Protocol
+7E051F06	A new way to detect DDoS attacks within single router
+80A2095F	VoIP Denial of service attacks classification and implementation
+59E27147	Resource requirement analysis for a predictive-hashing based multicast authentication protocol
+7F3E6945	Biologically Inspired Anomaly Detection and Security Control Frameworks for Complex Heterogeneous Networks
+6721FF46	Detection of botnet collusion by degree distribution of domains
+80D4A796	Emulation versus simulation: a case study of TCP-targeted denial of service attacks
+81589114	Information theory based detection against network behavior mimicking DDoS attacks
+7E1B6125	Simulation Research on DoS Attacks and Defenses Mechanisms
+67469404	DDoS defense mechanisms: a new taxonomy
+7EDAFF43	Reducing delay and enhancing DoS resistance in multicast authentication through multigrade security
+7848A426	Analyzing large DDoS attacks using multiple data sources
+80243452	DAAODV: A Secure Ad Hoc Routing Protocol Based on Direct Anonymous Attestation
+7594D90E	Prevention of flooding attacks in mobile ad hoc networks
+7749E351	Implementation Of DDoS Botnet Detection System On Local Area Network
+5F0C8AE2	Preventing Denial of Service attacks in Wireless Sensor Networks
+7EBD9705	An enhanced NPA protocol for secure communications in GSM network
+78681938	A Flow Monitoring Scheme to Defend Reduction-of-Quality (RoQ) Attacks in Mobile Ad-hoc Networks
+7D530A47	Review of DDoS and Flooding Attacks in MANET
+805E7DD8	A Hybrid Model of Defense Techniques against Base Station Jamming Attack in Wireless Sensor Networks
+7A78A832	A Wireless Distributed Intrusion Detection System and a New Attack Model
+7FB49085	On Complexity and Approximability of Optimal DoS Attacks on Multiple-Tree P2P Streaming Topologies
+80434A5C	Agent-based simulation of cooperative defence against botnets
+804AC8D9	An Anonymous DoS-Resistant Password-Based Authentication, Key Exchange and Pseudonym Delivery Protocol for Vehicular Networks
+76089F7B	Botnets: threats and responses
+078955F5	Formal Specifications of Traceback Marking Protocols
+780E402B	Mitigating attacks on open functionality in SMS-capable cellular networks
+7B351C49	Security against DOS attack in mobile IP communication
+5F99A7BB	One-Time Password Authentication Scheme Using Smart Cards Providing User Anonymity
+7FD760B9	MI: Cross-Layer Malleable Identity
+5D93973C	Exploiting the Structure in DHT Overlays for DoS Protection
+7DFAE31B	Flooding attacks detection and victim identification over high speed networks
+80DF889E	On the effectiveness of route-based packet filtering for distributed DoS attack prevention in power-law internets
+790152D4	Authenticated wireless roaming via tunnels: making mobile guests feel at home
+80FDEACE	A Distributed Throttling Approach for Handling High Bandwidth Aggregates
+7DF4158D	Key Distribution Scheme Using Matched Filter Resistant against DoS Attack
+7E8CBC08	Defending against packet injection attacks unreliable ad hoc networks
+036916A5	Secure IP Telephony using Multi-layered Protection
+77B5C79D	An architecture for adaptive intrusion‐tolerant applications
+7C690FDD	Counteracting DDoS attacks in WLAN
+7B9C3C57	IRIS: a robust information system against insider dos-attacks
+7E65D80D	An IP-Traceback-based Packet Filtering Scheme for Eliminating DDoS Attacks
+7F280F60	An Identity Based Secure and Fast Authentication Protocol in Wireless Mobile Networks
+7585EE08	Application of evolutionary algorithms in detection of SIP based flooding attacks
+5F742FEC	Broadcast, Denial-of-Service, and Secure Communication
+5F6F5CD6	MULAN: Multi-Level Adaptive Network Filter
+7FA854C2	Efficient Client Puzzle Schemes to Mitigate DoS Attacks
+808365EA	Adaptive distributed traffic control service for DDoS attack mitigation
+5C4998E0	Fragility of the Robust Security Network: 802.11 Denial of Service
+7D6E6FB1	Performance analysis of a denial of service protection scheme for optimized and QoS-aware handover
+5EA1BB4B	An Architecture for Wireless Intrusion Detection Systems Using Artificial Neural Networks
+620889CF	Attacks on Bluetooth Security Architecture and Its Countermeasures
+7CEBBF86	Access Log Generator for Analyzing Malicious Website Browsing Behaviors
+7F54C791	Pi: a path identification mechanism to defend against DDoS attacks
+7FA28652	Adaptive DDoS Detector Design Using Fast Entropy Computation Method
+77753015	Janus: A dual-purpose analytical model for understanding, characterizing and countermining multi-stage collusive attacks in enterprise networks
+588610C3	A network mitigation system against distributed denial of service: a linux-based prototype
+0ABEDC5C	On the Design of a Low-Rate DoS Attack Against Iterative Servers
+77929FCF	A game-theoretic analysis of denial of service attacks in wireless random access
+7BA365F5	A network pump
+7E56868B	Detecting Application Denial-of-Service Attacks: A Group-Testing-Based Approach
+8150DAD4	Time-Stamping Authority Grid
+5D708D1F	MOVE: An End-to-End Solution To Network Denial of Service
+778DEFB4	Critical security review and study of DDoS attacks on LTE mobile network
+7E31E794	Resource-aware self-adaptive security provisioning in mobile ad hoc networks
+80AABE54	Distributed Denial of Service: Taxonomies of Attacks, Tools, and Countermeasures
+7D2319EF	Detecting P2P botnets through network behavior analysis and machine learning
+7FDCFCD0	A proxy-network based overlay topology resistant to DoS attacks and partitioning
+6EDD5A3C	Reduction of quality (RoQ) attacks on Internet end-systems
+5F06D34D	Cost Management Based Secure Framework in Mobile Ad Hoc Networks
+7F9AD555	Early virus detection for Windows Mobile
+5E46A04A	Weaknesses and Improvements of Yang-Chang-Hwang's Password Authentication Scheme
+78AABAEC	A hybrid artificial immune system and Self Organising Map for network intrusion detection
+5D90B3C2	Secure Name Service: A Framework for Protecting Critical Internet Resources
+7AC8C6EF	Characterizing Intelligence Gathering and Control on an Edge Network
+7CFC4A09	A Feedback Mechanism for Mitigating Denial of Service Attacks against Differentiated Services Clients
+7E61F00C	IEEE 802.11 Wireless LAN Security Overview
+7F0C464A	iLOC: An invisible LOCalization Attack to Internet Threat Monitoring Systems
+08733477	TCP SYN Flooding Defense
+81729249	Sequence number-based MAC address spoof detection
+0AF9DD16	DoS Protection for Reliably Authenticated Broadcast
+7AA63D59	Performance analysis of probabilistic packet marking in IPv6
+80F48174	A holistic approach to service survivability
+8101D39F	Modeling and evaluating targeted attacks in large scale dynamic systems
+5CF3FD46	A denial-of-service-resistant IP traceback approach
+7E1502F0	ARM-CPD: Detecting SYN flooding attack by traffic prediction
+802799F0	ABSR: An Agent Based Self-Recovery Model for Wireless Sensor Network
+804621AF	A solution to spoofed PS-poll based denial of service attacks in IEEE 802.11 WLANs
+8004458C	Thwarting inside jamming attacks on wireless broadcast communications
+5A765F9E	A Fast Defense Mechanism Against IP Spoofing Traffic in a NEMO Environment
+7F4FC0EA	Analytical and Simulation Based Evaluation of Wireless-to-Wireline TCP-SYN Attacks
+5ED15A0E	A protected password change protocol
+042C2B86	Switch's CAM table poisoning attack: hands-on lab exercises for network security education
+5A733E45	Backtracking performance analysis of Internet protocol for DDoS flooding detection
+7F0675E9	A Detective Method for SYN Flood Attacks
+7E145D96	Securing group management in IPv6 with cryptographically generated addresses
+80B22E01	A framework for classifying denial of service attacks
+7FDEB41E	Security Analysis and Authentication Improvement for IEEE 802.11i Specification
+72F420A5	Low-cost client puzzles based on modular exponentiation
+5D76029B	CTCP: a transparent centralized TCP/IP architecture for network security
+7C09FEA7	Mitigating application-level denial of service attacks on Web servers: A client-transparent approach
+808C7C03	Intrusion Detection: Supervised Machine Learning
+7DDDA81B	Bitmap algorithms for counting active flows on high-speed links
+8086D01B	Denial of service flaws in SDI software-an initial assessment
+0B38CD52	Analysis of Denial of Service Attacks in IEEE 802.11s Wireless Mesh Networks
+7EA2338F	TCP vs. TCP: a systematic study of adverse impact of short-lived TCP flows on long-lived TCP flows
+7F13261B	Denial-of-service resilience password-based group key agreement for wireless networks
+7F6B4362	Distributed Denial of Service Attacks and Anonymous Group Authentication on the Internet
+7F48A655	Modified AODV protocol for prevention of denial of service attacks in wireless ad hoc networks
+7D8C35FE	Active Cache Based Defense against DoS Attacks in Wireless Mesh Network
+813EE6DB	A detection scheme for flooding attack on application layer based on semantic concept
+8044DD69	Fast and automated generation of attack signatures: a basis for building self-protecting servers
+7FDE906E	Online identification of multi-attribute high-volume traffic aggregates through sampling
+7A2C9646	Enhanced Internet security by a distributed traffic control service based on traffic ownership
+80A78A1A	SCIDIVE: a stateful and cross protocol intrusion detection architecture for voice-over-IP environments
+5EC5323A	Unified rate limiting in broadband access networks for defeating internet worms and DDoS attacks
+76EF7A8B	A self-aware approach to denial of service defence
+5F79BFA7	Passport: secure and adoptable source authentication
+80AA7BA4	Query-flood DoS attacks in gnutella
+7953D3EE	Flow level detection and filtering of low-rate DDoS
+7DB07746	Misbehaving TCP receivers can cause internet-wide congestion collapse
+794FF6F8	Tor instead of IP
+7B1966E0	On the exploitation of CDF based wireless scheduling
+75831E0D	Improvement of Hölbl et al. user authentication protocol and password change protocol
+76C1FD92	Detection of networks blocks used by the Storm Worm botnet
+592F47DE	Design, Implementation, and Evaluation of Fritrace
+801027A4	A Detection and Offense Mechanism to Defend Against Application Layer DDoS Attacks
+0703FE2F	Comparison of various passive distributed denial of service attack in mobile adhoc networks
+5A25FB7D	A sophisticated solution for revealing attacks on wireless LAN
+5D8E8497	Detection and Identification Mechanism against Spoofed Traffic Using Distributed Agents
+7FA51BD7	EKMP: An enhanced key management protocol for IEEE 802.16m
+5D2A6E2C	Inferring internet denial-of-service activity
+7D860425	Parametric methods for anomaly detection in aggregate traffic
+7EC980CE	Balancing the shadows
+5BD56B74	Use of spectral analysis in defense against DoS attacks
+7E37FBF1	A Poisoning-Resilient TCP Stack
+80AF9A00	A Detection and Recovery Architecture Against DoS and Worm Attacks in NGMN
+7A129BBC	Mitigating denial of service attacks in hierarchical wireless sensor networks
+06186E06	A Principle of a Data Synthesizer for Performance Test of Anti-DDOS Flood Attacks
+80CF5B7C	Ad hoc network security with geographical aids
+5E6B2000	A CPU Usage Control Mechanism for Processes with Execution Resource for Mitigating CPU DoS Attack
+58AC6BA0	Mitigating distributed denial of service attacks with dynamic resource pricing
+795F12BD	A new protocol to counter online dictionary attacks
+7F54F216	Simulation of Dynamic Mobile Agent Model to Prevent Denial of Service Attack using CPNS
+7EB1D4EF	Security analysis and improvement of an anonymous DoS-resistant access control protocol
+7D5484FD	Real-time protection against DDoS attacks using active gateways
+8091C04F	BASE: an incrementally deployable mechanism for viable IP spoofing prevention
+7685F0EC	FBT: an efficient traceback scheme in hierarchical wireless sensor network
+5E28F226	Reactive Network Monitor for DDoS Attacks
+7ED72F79	Army of Botnets

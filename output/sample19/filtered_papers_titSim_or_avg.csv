@@ -1,0 +1,843 @@
+7D21F315,"The infrared physical layer of the IEEE 802.11 standard for wireless local area networks",0.239741161616,0.34126984127
+7E0D4FC0,"Dynamic Channel Scheduling for UWB-Based WPAN",0.141941391941,0.3125
+7E1BC2AE,"Joint application and physical layer adaptation for improved performance in wireless networks",0.360321969697,0.437962962963
+5E6647C8,"Effect of realistic physical layer on energy efficient broadcast protocols for wireless ad hoc networks",0.239741161616,0.236016414141
+7C2CDC03,"Cooperative Routing for Maximizing Network Performance of Wireless Networks",0.24310966811,0.319444444444
+8043F8A8,"Physical layer assisted security for mobile OFDM networks",0.239741161616,0.336219336219
+7E92EB18,"Cross-layer resource allocation for downlink access using instantaneous fading and queue length information",0.218813131313,0.241558441558
+7E6568AA,"A Near Optimal Antenna Assignment for MIMO Systems with Low Complexity",0.168308080808,0.211111111111
+7FA172F5,"Link-oriented power allocation in multicast systems with physical layer network coding",0.250157828283,0.292929292929
+80776E8A,"TCP performance in wireless access with adaptive modulation and coding",0.333479020979,0.5625
+7CA81628,"Maximizing the Delivery of MPR Broadcasting Under Realistic Physical Layer Assumptions",0.234970238095,0.278333333333
+83059CBD,"To avoid or not to avoid CSI leakage in physical layer secret communication systems",0.26865530303,0.322222222222
+7DFFD754,"Optimal Cooperative ALOHA Multiple Access in Fading Channels",0.220643939394,0.334027777778
+815819E1,"Exploiting physical layer detection techniques to mitigate starvation in CSMA/CA wireless networks",0.244949494949,0.236153083028
+7FE32F8A,"Physical Layer Network Coding Schemes over Finite and Infinite Fields",0.247181637807,0.298015873016
+7FC09EC2,"Analysis and optimization of a rateless coded joint relay system",0.265071733822,0.325555555556
+78B48A50,"A Power Consumption Analysis for IP-Over-WDM Core Network Architectures",0.232891414141,0.272222222222
+7EB67168,"Performance of Trellis-Coded-Modulation for a Multi-Gigabit Millimeter-Wave WPAN System in the Presence of Hardware Impairments",0.258838383838,0.365238095238
+7D6A8AE3,"Cross Layer Multirate Adaptation Using Physical Capture",0.250202922078,0.331904761905
+806DA094,"Physical layer security with artificial noise: Secrecy capacity and optimal power allocation",0.24623466811,0.232385075242
+813FF46C,"Wireless sensor networks: a survey",0.148169191919,0.215277777778
+7DFD11A5,"Security overhead and performance for aggregation with fragment retransmission (AFR) in very high-speed wireless 802.11 LANs",0.246581890332,0.284916472416
+809997ED,"Random Beamforming OFDMA for Future Generation Cellular Communication Systems",0.173169191919,0.203703703704
+7F164C52,"Performance Evaluation of IEEE802.16 Using a Modified Reservation Scheme Under Different Loading Conditions",0.260818001443,0.268424036281
+7F047D4A,"Resource Allocation and Quality of Service Evaluation for Wireless Communication Systems Using Fluid Models",0.193055555556,0.171344396344
+81115913,"XLRP: Cross Layer Routing Protocol for Wireless Sensor Networks",0.232796717172,0.294733044733
+8024B2A0,"On the coding-spreading trade-off in downlink and uplink MC-CDMA systems",0.15248466811,0.238095238095
+7E6FC9E1,"Realization of MAC layer functions of ZigBee protocol stack in FPGA",0.245044191919,0.268855218855
+7F652636,"Influence of Routing Protocols in Performance of Wireless Mobile Adhoc Network",0.236165223665,0.251875901876
+7E020786,"Broadband packet wireless access incorporating high-speed IP packet transmission",0.224810606061,0.259722222222
+804D67DE,"Performance Analysis of the IEEE 802.15.4a UWB System",0.369002525253,0.777777777778
+79D04947,"Practical Physical Layer Network Coding in Multi-Sources Relay Channels via the Compute-and-Forward",0.245738636364,0.286111111111
+7EDE17DD,"A comprehensive analysis of low-power operation for beacon-enabled IEEE 802.15.4 wireless networks",0.24310966811,0.365277777778
+7D357751,"Measurement-Based Performance Evaluation of MIMO HSDPA",0.205502830503,0.571428571429
+7D52AD02,"Beamforming for physical layer multicasting",0.22931547619,1.0
+80CECB97,"Throughput-Guaranteed Resource-Allocation Algorithms for Relay-Aided Cellular OFDMA System",0.157928876679,0.238095238095
+80A0FC83,"Transmission scheduling for PHY-layer wireless network coding",0.177137445887,0.219444444444
+7F2F9179,"Cross-layer optimization protocols in Ad-hoc networks: analysis and practical implementation of transport and network layers",0.36553030303,0.358933080808
+80D4F7EE,"IST-DAVID: concept presentation and physical layer modeling of the metropolitan area network",0.274305555556,0.302248677249
+7DC6A83F,"A new approach to the statistical analysis of HMM modelled bursty channels",0.209649725275,0.340277777778
+81553F6A,"Improve physical layer security in cooperative wireless network using distributed auction games",0.257345779221,0.245727112394
+79FB027F,"Cognitive Radio Dynamic Access Techniques",0.240773809524,0.45
+7E3067F0,"Adaptive link layer strategies for asymmetric high-speed wireless communications",0.24375,0.317222222222
+77C628D3,"A high-precision ultra wideband impulse radio physical layer model for network simulation",0.256651334776,0.334126984127
+7ECC4110,"Carrier Sensing Based Multiple Access Protocols for Cognitive Radio Networks",0.356556637807,0.394506287363
+7F9485C8,"Packet Coding Performance with Correlated Fading and Shadowing",0.217866161616,0.286666666667
+7CBA3E82,"Interactions between the physical layer and upper layers in wireless networks",0.250202922078,0.500793650794
+7E132B7E,"MOJO: a distributed physical layer anomaly detection system for 802.11 WLANs",0.254166666667,0.297420634921
+80DC3E9C,"Tracking in Wireless Sensor Networks Using Particle Filtering: Physical Layer Considerations",0.250157828283,0.274801587302
+7BC0F595,"Assessing the impact of physical layer techniques on ad hoc network performance",0.355460858586,0.374376417234
+7E63F982,"A Novel Offline Physical Layer Impairments Aware RWA Algorithm With Dedicated Path Protection Consideration",0.267762445887,0.29623015873
+8072B32A,"Impact of realistic MIMO physical layer on video transmission over mobile Ad Hoc network",0.247970779221,0.295793650794
+7D70B764,"Effect of SNR margin in TCP performance for HSDPA via GEO satellite",0.245044191919,0.366477272727
+7AA087F5,"Analysis of a Cooperative Beacon-Free MAC Layer for Body Area Networks",0.353377525253,0.427513227513
+80C5BB08,"Performance of MIMO antenna techniques on IEEE 802.16E",0.230366161616,0.433333333333
+79671F83,"BER Regression Analysis of DS-UWB Based WPAN",0.206425518926,0.416666666667
+7AFEBB12,"Performance evaluation of multiple-rate mobile ad hoc networks",0.221834415584,0.338492063492
+7DE8DC98,"Simulative MAC Level Performance Evaluation of an OFDMA System Under the Consideration of Frequency Correlated Fading",0.282693001443,0.261259920635
+7E67D0CF,"Broadband wireless access solutions based on OFDM access in IEEE 802.16",0.240225052725,0.505555555556
+810635B6,"A Cross-Layer Delay Differentiation Packet Scheduling Scheme for Multimedia Content Delivery in 3G Satellite Multimedia Systems",0.211805555556,0.175555555556
+7CC71AB6,"Performance enhancement for impairment-aware SRLG failure protection in wavelength-routed optical networks",0.228977272727,0.310793650794
+0161E554,"Simulation of Optical Burst Switching Protocol and Physical Layers",0.242998321123,0.293975468975
+7D7CE458,"Network modulation: A new dimension to enhance wireless network performance",0.217866161616,0.250925925926
+757F7D37,"Physical layer performance benchmarking of two metropolitan area network configurations",0.355460858586,0.470793650794
+7D19A9FB,"An intelligent physical layer for cognitive radio networks",0.239741161616,0.453703703704
+807FF339,"Physical layer techniques and maximum throughput scheduling with antenna arrays",0.283491161616,0.346296296296
+814452C8,"Opportunistic medium access control in MIMO wireless mesh networks",0.352588383838,0.425336700337
+7D59368B,"Decentralized optimization for multichannel random access",0.20275297619,0.414285714286
+7EFDF253,"Modeling the Effect of Transmit Power and Physical Carrier Sense in Multi-Hop Wireless Networks",0.35560966811,0.386904761905
+7903F209,"Towards optimally exploiting physical layer information in OFDM wireless networks",0.239741161616,0.323015873016
+7F31BA7B,"Impact of channel estimation errors on effectiveness of Eigenvector-based jamming for physical layer security in wireless networks",0.250202922078,0.215717893218
+7F959EC8,"A Novel Approach for the Link Layer in Impulse-based UWB Ad Hoc Networks",0.244002525253,0.287222222222
+7D84D686,"IEEE 802.11b SDMA Performance in Realistic Environments",0.214646464646,0.55
+7623A3F2,"Performance investigation of IEEE 802.11 MAC in multihop wireless networks",0.239037698413,0.319444444444
+7F66F0B5,"The impact of power limitations and adjacent residence interference on the performance of WLANs for home networking applications",0.245982142857,0.226807760141
+7CD2B813,"Improving the performance of multi-hop wireless networks using frame aggregation and broadcast for TCP ACKs",0.246581890332,0.248759920635
+8016CA83,"Cooperative Protocols for Random Access Networks",0.218813131313,0.400673400673
+8102E76D,"The effect of correlated errors on the performance of TCP",0.23060966811,0.337797619048
+7D305B7B,"Cross-Layer Performance Analysis of Two-Hop Wireless Links with Adaptive Modulation",0.342667748918,0.5625
+7DA78CF2,"Queuing Analysis on MIMO Systems with Adaptive Modulation and Coding",0.268295940171,0.338888888889
+7F0EAF87,"PDF Research on IEEE802.11 DCF in Wireless Distributed Measurement System",0.18373466811,0.248333333333
+7F58E3C4,"Modelling and Performance Evaluation of a Translucent OBS Network Architecture",0.235470779221,0.279828042328
+7D2CE2A3,"Analysis of Cross-Layer Interaction in Multirate 802.11 WLANs",0.218952922078,0.428571428571
+7E938F78,"Performance of translucent optical networks under dynamic traffic and uncertain physical-layer information",0.217866161616,0.333333333333
+7FE6401C,"A real-time cross-layer design of the multimedia application layer with a MIMO based wireless physical layer",0.249198717949,0.433531746032
+77F0DA16,"Time-varying fair queueing scheduling for multicode CDMA based on dynamic programming",0.13898046398,0.230158730159
+806C9646,"Optically cross-braced hypercube: A reconfigurable physical layer for interconnects and server-centric datacenters",0.22931547619,1.0
+78B06A08,"OSNR model to consider physical layer impairments in transparent optical networks",0.256651334776,0.312698412698
+7D8583ED,"Spectral efficiency improvement for the under-11GHz Broadband Wireless Access",0.244845779221,0.36875
+7F11A18B,"Acquisition dependent random access for connectionless CDMA systems",0.279716810967,0.492063492063
+8100FA38,"On the Performance of CSI-Assisted Cooperative Communications over Generalized Fading Channels",0.218295940171,0.336805555556
+7CF1FEC4,"Throughput Analysis of Peer-to-Peer UWB Asynchronous CDMA Networks",0.232693001443,0.425925925926
+7EC1891A,"Cross-layer analysis of CSMA/iCA based Wireless Local Area Network",0.228873556999,0.355158730159
+7EB132F6,"Efficient receiver structures for wideband wireless data access systems employing dynamic packet assignment techniques",0.296180555556,0.295679012346
+5F7ADDFC,"Design and analysis of MAC protocols for wireless networks",0.234776334776,0.284331409331
+7C73BA47,"Analysis of directional neighbour discovery process in millimetre wave wireless personal area networks",0.237901334776,0.263832199546
+80B0D4BF,"Performance analysis of AMCLM protocol (adaptive multi-services cross-layer MAC protocol)",0.329419191919,0.458585858586
+7BD7EF80,"A two-level medium access framework for exploiting multi-user diversity in multi-rate IEEE 802.11 wireless LANs",0.345338689089,0.400444793302
+7C2F77E3,"Sum Throughput Enhancements in Quality of Service Constrained Multiuser MIMO OFDM Systems",0.171433080808,0.165476190476
+7E5A54DE,"Adapting the WiMAX PHY layer for use in a GSM overlay system",0.264786255411,0.375238095238
+7E36354A,"Joint Physical Layer and Data Link Layer Optimization of CDMA-Based Networks",0.245044191919,0.304444444444
+7F5C4E20,"Understanding interference and carrier sensing in wireless mesh networks",0.247181637807,0.263383838384
+7F2D18F3,"Multiband Media Access Control in Impulse-Based UWB Ad Hoc Networks",0.344255050505,0.462222222222
+7EFFE5D8,"A Channel-Based Statistical Approach to Antenna Performance in UWB Communications",0.218295940171,0.412037037037
+7EE9BB4B,"A measurement-driven anti-jamming system for 802.11 networks",0.146338383838,0.222222222222
+7DF9C7AA,"Physical layer key generation methods for arbitrary fading channels",0.250347222222,0.291666666667
+7CE26A8D,"Capacities of Physical Layer Scheduling Strategies on a Shared Link",0.28428030303,0.319318181818
+80F476EF,"Physical Layer Network Coding for Uni-Cast Applications",0.250946969697,0.347222222222
+7EBB6A2C,"Lightpath routing considering differentiated physical layer constraints in transparent WDM networks",0.239741161616,0.289682539683
+70FF237F,"802.11n MAC design and system performance",0.26185966811,0.492063492063
+7EA79C84,"A Methodology for the Analysis of 802.11a Links in Industrial Environments",0.23060966811,0.3375
+76EC853F,"Cross Layer Optimized Video Streaming based on IEEE 802.11 Multi-rate over Multi-hop Mobile Ad Hoc Networks",0.239741161616,0.246875
+7C0AEBFA,"On the accuracy of physical layer modelling within wireless network simulators",0.239741161616,0.297222222222
+8005B76B,"Physical Layer Security for Two Way Relay Communications with Friendly Jammers",0.244349747475,0.256553631554
+7F51C4E0,"Joint Training and Beamforming Design for Performance Discrimination Using Artificial Noise",0.223062354312,0.299206349206
+8209AD8B,"On the performance indexes of physical layer security for multi-beam satellite networks",0.353377525253,0.423821548822
+80BC55A7,"Physical layer impairment aware routing (PLIAR) in WDM optical networks: issues and challenges",0.257936507937,0.299365079365
+80C06A18,"Joint MS-GSC combining and down-link multiuser diversity scheduling",0.146475052725,0.239926739927
+5B0BA842,"Scheduling algorithms for 4G wireless networks",0.177633477633,0.250992063492
+7CEF105D,"The Influence of Subchannel Diversity on the Performance of OFDMA Systems Based on IEEE 802.16",0.268308080808,0.335384615385
+80864E09,"Experimental analysis of broadcast reliability in dense vehicular networks",0.217866161616,0.328282828283
+7EBBC5BE,"Practical physical layer network coding for two-way relay channels: performance analysis and comparison",0.464488636364,0.460069444444
+8361AAD5,"Impacts of OPNET physical layer modelling on LANDY routing protocol",0.24623466811,0.291197691198
+7DE807D2,"MC-CDMA/VSF for the downlink physical layer in next generation wireless local area networks",0.239741161616,0.323015873016
+7FFBD5CB,"Performance Evaluation of Spatial Mode Adaptation and HARQ in Cellular Downlink Systems",0.272276334776,0.33746031746
+7EAE6C73,"Downlink resource management for packet transmission in OFDM wireless communication systems",0.173169191919,0.163161375661
+7ECEAF3F,"Physical layer network coding for FSK systems",0.250157828283,0.388888888889
+7FAE40C9,"A simulation comparison of time-hopping PAM and interference suppressing OFDM in multiuser ultra wideband communications systems",0.179166666667,0.171368446368
+7F7BCD44,"Improved performance at higher data rates of DSRC systems using a linear demapper",0.268308080808,0.305148555149
+7E326181,"Throughput-Efficient Rateless Coding with Packet Length Optimization for Practical Wireless Communication Systems",0.173169191919,0.169047619048
+78B0FB96,"Spectrum Sensing for Dynamic Spectrum Access of TV Bands",0.244056637807,0.320793650794
+76B048CE,"Sensitivity and Coding of Opportunistic ALOHA in Sensor Networks with Mobile Access",0.263541666667,0.287962962963
+7D6EB3D5,"Performance of 802.11b Communication Systems in the Presence of Bluetooth Devices",0.270391414141,0.342222222222
+8170E678,"Static Lightpath Establishment in Multilayer Traffic Engineering Under Physical Layer Impairments",0.250202922078,0.299365079365
+778DD15E,"Experimental Analysis of Broadcast Reliability in Dense Vehicular Networks",0.217866161616,0.328282828283
+7D59167F,"Throughput performance of wireless LANs operating at 2.4 and 5 GHz",0.235028860029,0.325555555556
+7F11A5D0,"Performance Evaluation and Modeling of IEEE 802.11a WLAN Based on SDL Simulation",0.231601731602,0.289682539683
+7D523DFE,"On the Performance Bounds of Practical Wireless Network Coding",0.24310966811,0.319444444444
+80FA3820,"Error Analysis and Verification of an IEEE 802.11 OFDM Modem using Theorem Proving",0.244751082251,0.263327149041
+733A9D55,"Impact of frame size, number of stations and mobility on the throughput performance of IEEE 802.11e",0.226095779221,0.248077715935
+81672868,"Joint Channel State Based Random Access and Adaptive Modulation in Wireless LAN with Multi-Packet Reception",0.247970779221,0.249210858586
+8019E504,"A Low-Complexity QoS-Aware Proportional Fair Multicarrier Scheduling Algorithm for OFDM Systems",0.199595543346,0.275297619048
+79F8371E,"The impact of interference on an OFDM system with AMC, hybrid ARQ, and a finite queue on end-to-end performance",0.269444444444,0.33341991342
+7E0D15C4,"Cross-layer design of multi-rate wireless networks based on link layer truncated ARQ",0.24623466811,0.270804988662
+80F2945B,"Outage Probability Analysis of Practical Multiuser Scheduling Schemes with Limited Feedback",0.276388888889,0.331018518519
+80302D92,"Throughput analysis and improvement of hybrid multiple access in IEEE 802.15.3c mm-wave WPAN",0.346929112554,0.572916666667
+7FEE73C9,"QoS Performance Analysis of IEEE 802.15.4 MAC in LR-WPAN with Bursty Error Channels",0.319002525253,0.475793650794
+81203162,"Bit error rate and efficiency analysis of wireless reciprocal channel key generation",0.251988636364,0.256746031746
+8105426D,"Simulation-Based Performance Evaluation of Enhanced Broadcast Schemes for IEEE 802.11-Based Vehicular Networks",0.227042748918,0.298015873016
+7FF626E4,"On the baseband communication performance of physical layer steganography",0.36240530303,0.583333333333
+7E1BC117,"Cross-layer optimization for wireless systems: a european research key challenge",0.183226495726,0.223333333333
+7F9DD9B8,"Secure Physical Layer using Dynamic Permutations in Cognitive OFDMA Systems",0.251282051282,0.40625
+7FECE424,"L-DACS 1 data link layer design and performance",0.226001082251,0.363492063492
+80908F57,"Design and Analysis of a Cooperative Multichannel MAC Protocol for Heterogeneous Networks",0.220391414141,0.291197691198
+81055E8B,"Efficient Broadcast in Wireless Ad Hoc Networks with a Realistic Physical Layer",0.239741161616,0.314444444444
+809C055B,"Foundation Fieldbus H1 physical layer diagnosis improvement",0.246085858586,0.340277777778
+0023A543,"Part 11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) Specifications",0.358333333333,0.355460858586
+7E55C308,"An optimal link layer model for multi-hop MIMO networks",0.250157828283,0.344444444444
+7D197FD9,"Cross-layer scheduler design with QoS support for wireless access networks",0.242068001443,0.315793650794
+79163F3D,"Measurement and analysis of the error characteristics of an in-building wireless network",0.249161255411,0.311772486772
+80DD7A3B,"Performance of Multi-Channel MAC Incorporating Opportunistic Cooperative Diversity",0.218308080808,0.324786324786
+7F7C7FDE,"Impact of physical layer design on the deployment of a sensor network with correlated observations",0.253179112554,0.282879818594
+5D1DEC1F,"On the Offline Physical Layer Impairment Aware RWA algorithms in transparent optical networks: State-of-the-art and beyond",0.250202922078,0.349206349206
+7CF70C2F,"Low complexity cross-layer design with packet dependent scheduling for heterogeneous traffic in multiuser OFDM systems",0.209776334776,0.210884353741
+76707E76,"Methods for restoring MAC layer fairness in IEEE 802.11 networks with physical layer capture",0.254811507937,0.333829365079
+5D9E44F6,"Physical Layer Impairments in the Optimization of the Next-Generation of All-Optical Networks",0.24623466811,0.338492063492
+7D95F6A0,"Performance impact of flexible power arrangement in OFDMA based cellular communication networks",0.232251082251,0.263038548753
+801A7104,"A survey on physical layer impairments aware routing and wavelength assignment algorithms in optical networks",0.263595779221,0.27970521542
+7D1563A2,"Overview of MAC layer enhancements for IEEE 802.15.4a",0.226782592408,0.325505050505
+7FD154BD,"Outage performance of multi-antenna multicasting for wireless networks",0.234776334776,0.453703703704
+7AE6A925,"Cross Layer Routing in Transparent Optical Networks",0.239741161616,0.368055555556
+7EFE214A,"Time-varying fair queuing scheduling for multicode CDMA based on dynamic programming",0.13898046398,0.230158730159
+7F4E2D72,"Performance evaluation of RSSI-based transmitter identification using USRP",0.23998466811,0.326904761905
+80D539EE,"Performance comparison of two on-demand routing protocols for ad hoc networks",0.226893939394,0.310404040404
+7D098104,"Medium Access Control With Physical-Layer-Assisted Link Differentiation",0.217518939394,0.33125
+7E88EA13,"A Joint Coding and Scheduling Method for Delay Optimal Cognitive Multiple Access",0.270991161616,0.336772486772
+7D50009F,"Decentralized sequential change detection using physical layer fusion",0.25615530303,0.290674603175
+8071D78E,"Robust Cooperative Relaying in a Wireless LAN: Cross-Layer Design and Performance Analysis",0.352137445887,0.511904761905
+7F620370,"Multi-layer Virtual Topology Design in Optical Networks Under Physical Layer Impairments and Multi-hour Traffic Demand",0.250202922078,0.239909297052
+7D3EF8C1,"Efficient channel utilization for real-time video in OVSF-CDMA systems with QoS assurance",0.172276334776,0.169273504274
+7E77B268,"Cooperative wireless networks based on physical layer network coding",0.239741161616,0.291666666667
+7AC04333,"Performance models for wireless channels",0.242762445887,0.385416666667
+7DB454B1,"Realistic physical layer modelling for georouting protocols in wireless ad-hoc and sensor networks",0.239741161616,0.312626262626
+7A4A6420,"Performing traffic analysis on a wireless identifier-free link layer",0.353377525253,0.475555555556
+7E57D884,"A Four-State Markov Frame Error Model for the Wireless Physical Layer",0.265827922078,0.328571428571
+810C99BE,"On the adaptive DVB-S2 physical layer: design and performance",0.357345779221,0.714285714286
+80996FFB,"Study on link-level simulation in multi-cell LTE downlink system",0.160905067155,0.242063492063
+7E9191C0,"Performance Bounds for Bi-Directional Coded Cooperation Protocols",0.220098304473,0.345643939394
+8215EF47,"Physical layer security via maximal ratio combining and relay selection over Rayleigh fading channel",0.250202922078,0.24229540301
+806A5D61,"Impact of the MC-CDMA physical layer algorithms on the downlink capacity in a multi-cellular environment",0.250202922078,0.295324675325
+7DE35C21,"Cross-layer analysis of wireless LANS: Backoff strategies and error control",0.240733225108,0.306904761905
+7EC768E2,"Heuristic algorithms for joint configuration of the optical and electrical layer in multi-hop wavelength routing networks",0.248318001443,0.258068783069
+2F10063C,"Practical covert channels for WiFi systems",0.158920940171,0.229166666667
+81436ECF,"Physical layer study in a goal of robustness and energy efficiency for wireless sensor networks",0.27306547619,0.255996472663
+7F092582,"A nonparametric sequential kolmogorov-smirnov test for transmit opportunity detection at the MAC layer",0.242613636364,0.287626262626
+0479D37E,"Physical Layer Signaling for the Next Generation Mobile TV Standard DVB-NGH",0.239741161616,0.316666666667
+791E8A39,"CSOR: carrier sensing on reception",0.211894008769,0.411255411255
+7F58E837,"Research on the Access Control Protocol of WiMAX",0.23547979798,0.381060606061
+8125DF25,"Analytical model of multihop IEEE 802.15.4 for lossy medium",0.244148212898,0.583333333333
+80D37D72,"Analysis of Blocking Probability for First-Fit RWA in Transmission Impaired Optical Networks",0.225599747475,0.294444444444
+7F8F581B,"Cognitive Network Inference through Bayesian Network Analysis",0.22435966811,0.34126984127
+78C9418D,"Practical Full Duplex Physical Layer Network Coding",0.239741161616,0.347222222222
+7E4933AE,"Joint Design and Separation Principle for Opportunistic Spectrum Access in the Presence of Sensing Errors",0.230411255411,0.235317460317
+5B6708DE,"Efficient Selection of Multipoint Relays in Wireless Ad Hoc Networks with Realistic Physical Layer",0.250202922078,0.281216931217
+752091F9,"Privacy preserving node selection: A physical layer approach",0.250202922078,0.297527472527
+7F5E7F1A,"Comparison of DVB-H Link Layer FEC Decoding Strategies in a Mobile Fading Channel",0.266571969697,0.257431457431
+801F5F0A,"An experimental study of network performance impact of increased latency in software defined radios",0.260470779221,0.261408730159
+7D015DAE,"WASP: a transparent wireless ATM access demonstrator",0.239285714286,0.39375
+800C4539,"GORA: Goodput Optimal Rate Adaptation for 802.11 Using Medium Status Estimation",0.238005050505,0.262037037037
+80608F83,"Statistical Analysis of a Mobile-to-Mobile Rician Fading Channel Model",0.22181464369,0.350694444444
+814D3157,"Increasing Physical Layer Security through Scrambled Codes and ARQ",0.239741161616,0.293975468975
+7E827CC2,"Multi-Layer Optimized Packet Scheduling for OFDMA-Based Cellular Systems",0.196338383838,0.263888888889
+7F4D5C61,"Performance analysis of distributed cluster-based MAC protocol for multiuser MIMO wireless networks",0.354220779221,0.427188552189
+7F648C4C,"A WiMAX Physical Layer Use for Emergency Audio Communications",0.261954365079,0.309444444444
+7FD84C5B,"Performance evaluation of admission control and adaptive modulation in OFDMA WiMax systems",0.272276334776,0.295105820106
+587AFCE6,"Quality of service oriented analysis of cross-layer design in wireless ad hoc networks",0.24310966811,0.262996031746
+7DFD6B0D,"Modeling and Analysis in Frequency of the UWB Channel with Lognormal Statistics for MB-OFDM Systems",0.259627525253,0.297420634921
+7DF41BE6,"Optimal downlink multi-user MIMO cross-layer scheduling using HOL packet waiting time",0.15238997114,0.21746031746
+7FF5AF99,"Queueing Performance of IEEE 802.16 Random Access Protocol with Bulk Transmissions",0.328270687646,0.465404040404
+83D38FD1,"Guaranteeing wireless communication secrecy via a WFRFT-based cooperative system",0.173169191919,0.154848484848
+80E97FB0,"Scalable versus Accurate Physical Layer Modeling in Wireless Network Simulations",0.24623466811,0.329365079365
+778493D2,"Design and analysis of delay-sensitive cross-layer OFDMA systems with outdated CSIT",0.265071733822,0.492063492063
+803845FD,"Queuing with Adaptive Modulation over MIMO Wireless Links for Deadline Constrained Traffic: Cross-Layer Analysis and Design",0.232693001443,0.22619047619
+80268540,"Investigation into programmability for layer 2 protocol frame delineation architectures",0.229458041958,0.278914141414
+78032484,"Delay optimal cognitive multiple access: a superposition coding approach",0.220738636364,0.287222222222
+6E8F0A03,"A cross layer time slot reservation protocol for wireless networks",0.237901334776,0.258387445887
+80D2D50D,"Multihoming of Users to Access Points in WLANs: A Population Game Perspective",0.26121031746,0.27970521542
+7D6BE2F2,"BER Performance Analysis of Cognitive Radio Physical Layer over Rayleigh fading Channel",0.464488636364,0.675
+7FF96851,"Fast Multiple Access Selection through variable power transmissions",0.229274891775,0.344742063492
+808CC97C,"Masked-OFDM: A physical layer encryption for future OFDM applications",0.249198717949,0.436507936508
+814BC1DE,"Theoretical Analysis and Experimental Investigation on the Confidentiality of 2-D Incoherent Optical CDMA System",0.271768162393,0.385416666667
+5B1B051F,"Physical layer built-in security analysis and enhancement of CDMA systems",0.360557844933,0.504848484848
+802046D2,"Unified dual mode physical layer for mobile CMOS image sensor interface",0.247474747475,0.317222222222
+6E7C993A,"rDCF: a relay-enabled medium access control protocol for wireless ad hoc networks",0.344255050505,0.37886002886
+80F33A3E,"Joint phy-mac design for opporunistic spectrum access with multi-channel sensing",0.22113997114,0.346428571429
+75E23C3B,"Efficient broadcast for wireless ad hoc networks with a realistic physical layer",0.239741161616,0.314444444444
+80908AE4,"Link Adaptation Performance Evaluation for a MIMO-OFDM Physical Layer in a Realistic Outdoor Environment",0.357345779221,0.407142857143
+7EDB3222,"The impact of mobility on the performance of V2X communication",0.218560606061,0.355158730159
+76469FE0,"Involving health professionals in the development of an advanced symptom management system for young people: The ASyMS©-YG study",0.194246031746,0.164065255732
+7EAB0D0F,"Performance impact of interlayer dependence in infrastructure WLANs",0.274558080808,0.331289081289
+7858F0C0,"Opportunistic media access for multirate ad hoc networks",0.352588383838,0.552777777778
+7E1E2E8D,"Power-aware MAC for multihop wireless networks: a cross layer approach",0.235669191919,0.30787037037
+7A52C9AB,"Full-Duplex Relay for Enhancing Physical Layer Security in Multi-Hop Relaying Systems",0.243449259074,0.321515151515
+7F691B6F,"QoS Performances of IEEE 802.11 EDCA and DCF: A Testbed Approach",0.203270687646,0.5625
+801F27B0,"TDMA Scheduling with Optimized Energy Efficiency and Minimum Delay in Clustered Wireless Sensor Networks",0.178282828283,0.201587301587
+7F988C6B,"rDCF: A Relay-Enabled Medium Access Control Protocol for Wireless Ad Hoc Networks",0.344255050505,0.37886002886
+7EF057AD,"Queueing Analysis for GBN and SR ARQ Protocols under Dynamic Radio Link Adaptation with Non-Zero Feedback Delay",0.244486416361,0.219668911336
+7F6098C0,"Best Node Selection through Distributed Fast Variable Power Multiple Access",0.229274891775,0.295793650794
+7F2444EE,"Modeling and algorithms for physical layer network survivability",0.24623466811,0.349206349206
+5F49ABC0,"An Adaptive Cross Layer Unequal Protection Method for Video Transmission over Wireless Communication Channels",0.264930555556,0.28253968254
+7E42CD16,"A study of performance and complexity for IEEE 802.11n MIMO-OFDM GIS solutions",0.230808080808,0.311111111111
+7991B3F9,"QoS-, Queue-and Channel-Aware Packet Scheduling for Multimedia Services in Multiuser SDMA/TDMA Wireless Systems",0.204568001443,0.243716931217
+7D3AC26B,"Measurements of a wireless link in an industrial environment using an IEEE 802.11-compliant physical layer",0.257345779221,0.302777777778
+7E6DFE47,"Analytical framework for simultaneous MAC packet transmission (SMPT) in a multicode CDMA wireless system",0.171085858586,0.18287037037
+76B29BE8,"Joint Design and Separation Principle for Opportunistic Spectrum Access",0.226443001443,0.299365079365
+80E9E4F8,"CROSS LAYER AWARE ADAPTIVE MAC BASED ON KNOWLEDGE BASED REASONING FOR COGNITIVE RADIO COMPUTER NETWORKS",0.272023809524,0.262222222222
+7DFB08E4,"Performance modeling and simulation studies of MAC protocols in sensor network performance",0.25928030303,0.34431617765
+7FFC8152,"Analysis of IEEE 802.16 Mesh Mode Scheduler Performance",0.326294191919,0.559027777778
+7D687603,"Cooperative beacon-free MAC layer for body area networks",0.239741161616,0.313015873016
+7EFD9098,"Medium access control design for UWB communication systems: Review and trends",0.288194444444,0.280725623583
+5DE23EDE,"MAC Layer Support for Delay Tolerant Video Transport in Disruptive MANETs",0.269994588745,0.285487528345
+7962532B,"Bridging router performance and queuing theory",0.232242063492,0.312698412698
+7DBF0BD6,"Efficacy of Multiband OFDM Approach in High Data Rate Ultra WideBand WPAN Physical Layer Standard using Realistic Channel Models",0.25615530303,0.223063973064
+7A19DD00,"A survey on ultra wide band medium access control schemes",0.372474747475,0.431018518519
+7E962BE3,"A Cross-Layer Design for Downlink Scheduling in SDMA Packet Access Networks",0.216973304473,0.301587301587
+7E051279,"A Bayesian decision theory approach for the techno-economic analysis of an all-optical router (extended version)",0.236954365079,0.27380952381
+7FDECE17,"Forced Collision: Detecting Wormhole Attacks with Physical Layer Network Coding",0.263595779221,0.253968253968
+81733A69,"Provisioning Quality Controlled Medium Access in UltraWideBand-Operated WPANs",0.226736111111,0.350694444444
+8028A1D1,"To layer or not to layer: balancing transport and physical layers in wireless multihop networks",0.260619588745,0.294217687075
+7F1EE256,"Cooperation in Wireless Sensor Networks: Design and Performance Analysis of a MAC Protocol",0.355113636364,0.346961680295
+7E59417B,"Performance evaluation of IEEE 802.11p physical layer infrastructure-to-vehicle real-world measurements",0.364488636364,0.585714285714
+7F96964F,"Performance evaluation and improvement of the OFDM-based Wireless Metropolitan Area Networks",0.248466810967,0.295304232804
+7D9970C7,"A dynamic queue length scheduling algorithm for QoS guarantee in heterogeneous traffic indoor systems",0.202831890332,0.214886964887
+7DA1D86E,"Analysis and Compensation of Transmitter IQ Imbalances in OFDMA and SC-FDMA Systems",0.268201243201,0.299278499278
+5CC373F7,"Sniffing out the correct physical layer capture model in 802.11b",0.260619588745,0.358630952381
+7F715D90,"Considering physical layer impairments in offline RWA",0.24623466811,0.428571428571
+6B8BE51F,"Performance study of access control in wireless LANs—IEEE 802.11 DFWMAC and ETSI RES 10 Hiperlan",0.365584415584,0.45
+80CA693D,"A comparision of packet scheduling algorithms for OFDMA systems",0.202831890332,0.271825396825
+811E68E5,"An efficient TDMA based MAC frame structure in OFDM systems",0.156398809524,0.25
+7ED70CE2,"Optimal and Successive Approaches to Signal Design for Multiple Antenna Physical Layer Multicasting",0.242998321123,0.344742063492
+806EB21A,"Energy-Efficient DRX Scheduling for QoS Traffic in LTE Networks",0.145896464646,0.240740740741
+812E4029,"A performance study of uplink scheduling algorithms in point-to-multipoint WiMAX networks",0.276893939394,0.400793650794
+7E0BAEE0,"Analysis of Delay Statistics for the Queued-Code",0.20422979798,0.394444444444
+7F96DDCA,"Multipacket reception in random access wireless networks: from signal processing to optimal medium access control",0.249413780664,0.38498247784
+7D410A66,"Performance Evaluation of Mobile WiMAX with MIMO and Relay Extensions",0.215919497169,0.329274891775
+76F5D4B9,"Confidential Network Coding: Physical Layer vs. Network Layer",0.250946969697,0.477777777778
+80592624,"Saturation Throughput Analysis of 802.11 DCF in Presence of Different Receiver Combining Techniques",0.238744588745,0.268253968254
+75D683BD,"Outage achievable rate analysis for the Non Orthogonal Multiple Access Multiple Relay Channel",0.334185606061,0.405092592593
+7D123393,"Convergence of Communication and Broadcast Networks in Physical Layer",0.258238636364,0.311111111111
+80724902,"Analysis of performance degradation in Radio-over-Fiber systems based on IEEE 802.16 protocol",0.379419191919,0.450336700337
+7CE8D14F,"Real-time implementation of cross-layer optimization: multi-antenna high speed uplink packet access",0.223074494949,0.287222222222
+8173BCB3,"RSS-based Carrier Sensing and Interference Estimation in 802.11 Wireless Networks",0.238848304473,0.278240740741
+80D3D77E,"A Robust Approach to Carrier Sense for MIMO Ad Hoc Networks",0.340277777778,0.467222222222
+80736FDB,"Controlling Physical Layer Parameters for Mobile Ad-Hoc Networks",0.247181637807,0.355158730159
+7DEAEA9F,"Cross-Layer Performance Analysis for CSMA/CA Protocols: Impact of Imperfect Sensing",0.317854020979,0.407016594517
+8179AE97,"Performance Analysis for Coefficient Tracking Synchronization Algorithm of OFDM Based Vehicle Communication System in Intelligent Transportation System Environment",0.381502525253,0.314441114441
+7EFF0687,"Deterministic and stochastic channel models implemented in a physical layer simulator for Car-to-X communications",0.257291666667,0.290939153439
+7EE74849,"Measurement Based Physical Layer Modeling for Wireless Network Simulations",0.257345779221,0.283106575964
+7F78EE93,"Cross-Layer Analysis of Error Control in Wireless Sensor Networks",0.245887445887,0.308994708995
+7D06D1EB,"Cross Layer Design of Wireless LAN for Telemedicine Application",0.239729020979,0.329365079365
+7D0E933F,"Errors on the HSUPA E-HICH Channel and Their Effect on System Performance",0.265679112554,0.345238095238
+80C9C0B7,"Achieving fair scheduling over error-prone channels in multirate WLANs",0.156879578755,0.227678571429
+7DCE7A47,"Service differentiation in broadband wireless access networks with scheduling and connection admission control: a unified analysis",0.365079365079,0.321507936508
+5DCA4BD7,"Combined Tuning of RF Power and Medium Access Control for WLANs",0.239637445887,0.277248677249
+70EFE0BE,"Access protocol for broadband multimedia centralized wireless local area networks",0.235818001443,0.268789081289
+7F0A2780,"Relay selection for energy-efficient cooperative media access control",0.3630501443,0.465238095238
+8001C405,"Optimal transmit covariance matrices for MIMO high speed uplink packet access",0.218813131313,0.278888888889
+80751947,"A Physical Layer Aspect of Network Coding with Statistically Independent Noisy Channels",0.253179112554,0.298015873016
+5A4DD0FC,"Maximizing the Probability of Delivery of Multipoint Relay Broadcast Protocol in Wireless Ad Hoc Networks with a Realistic Physical Layer",0.244696969697,0.209646464646
+7F60EA96,"Delay constrained multiuser scheduling schemes based on upper-layer performance",0.261521464646,0.329166666667
+767BBA35,"DSMA: an access method for MIMO ad hoc networks based on distributed scheduling",0.227831890332,0.271957671958
+7D77365A,"Spectrum Sensing, Access and Coexistence Testbed for Cognitive Radio using USRP",0.244845779221,0.290277777778
+780B8C32,"An integrated view on monitoring and compensation for dynamic optical networks: from management to physical layer",0.252579365079,0.257936507937
+7F7C420B,"Optimal Cross-Layer Bandwidth Adaptation for Maximum-Throughput VBR Media Wireless Content Delivery",0.239141414141,0.276851851852
+81735620,"Physical layer identification of embedded devices using RF-DNA fingerprinting",0.255555555556,0.313888888889
+7F686F3E,"On the complexity of an accurate and precise performance evaluation of wireless networks using simulations",0.247077922078,0.274943310658
+7D52DFC1,"Design and analysis of cooperative mobile multicast protocol (CMMP) for intermittent network connectivity",0.217866161616,0.291197691198
+7EDD1C81,"User Selection Methods for Multiuser Two-Way Relay Communications Using Space Division Multiple Access",0.235714285714,0.22712530525
+7DCCBC1A,"Securing Media Hotspots",0.219858440171,0.416666666667
+799931AD,"Greedy localized routing for maximizing probability of delivery in wireless ad hoc networks with a realistic physical layer",0.244696969697,0.227469135802
+80A1DFA4,"On the Throughput Cost of Physical Layer Security in Decentralized Wireless Networks",0.239741161616,0.284932659933
+8158358C,"Exploiting decentralized channel state information for random access",0.22435966811,0.272156084656
+76EA72C8,"A Physical Layer Key Negotiation Mechanism to Secure Wireless Networks",0.239741161616,0.281355218855
+7E1F3817,"IEEE WLANS: 802.11, 802.11e MAC AND 802.11a, 802.11b, 802.11g PHY cross layer link budget model for cell coverage estimation",0.250050990676,0.22468004218
+7820432D,"Reconfigurable simulator using graphical user interface (GUI) and object-oriented design for OFDM systems",0.17528998779,0.179931972789
+7B5658F2,"On the Error Region for Channel Estimation-Based Physical Layer Authentication Over Rayleigh Fading",0.250202922078,0.272757335257
+7E66D08D,"On channel adaptive multiple access control without contention queue for wireless multimedia services",0.250202922078,0.239637445887
+78671191,"Optimal admission control algorithms for scheduling burst data in CDMA multimedia systems",0.204568001443,0.19181547619
+7D0CF9BB,"Performance comparison of two routing protocols for ad hoc networks",0.226893939394,0.310404040404
+7E4D908A,"Physical layer security in wireless networks: a tutorial",0.239741161616,0.305788655789
+75FDD62B,"Interference analysis and transmit power control in IEEE 802.11a/h wireless LANs",0.235912698413,0.287962962963
+7CEAFB20,"Analysis and performance evaluation of the OFDM-based metropolitan area network IEEE 802.16",0.33998466811,0.479365079365
+7F6A6698,"Throughput Analysis for Parallel ARQ over Correlated MIMO Channels",0.231544497169,0.430555555556
+7FB8D4D2,"Decentralized cognitive MAC for opportunistic spectrum access in ad hoc networks: A POMDP framework",0.221338383838,0.247392290249
+75D3B287,"Throughput analysis of slotted ALOHA with cooperative transmission using successive interference cancellation",0.233627830503,0.25119047619
+803ACB97,"Design and analysis of virtual bus transport using synchronous digital hierarchy/synchronous optical networking",0.265071733822,0.368571428571
+7E05E874,"On the Performance of IEEE 802.11 under Jamming",0.201534576535,0.555555555556
+7DD676BC,"MIMO ad hoc network meets cross layer design",0.247970779221,0.274272486772
+7CB4680A,"Efficient downlink scheduling with power boosting in mobile IEEE 802.16 networks",0.145896464646,0.240740740741
+7DEA36BE,"Cross layer RWA in WDM networks: Is the added complexity useful or a burden?",0.239741161616,0.2882996633
+7FD93D6A,"Uplink Resource Management for Multiuser OFDM Video Transmission Systems: Analysis and Algorithm Design",0.263943001443,0.262251984127
+7BE70F0C,"Proposal for a cross layer scheme for real-time wireless video",0.244949494949,0.30787037037
+8158FF75,"Delay analysis of IEEE 802.11 in single-hop networks",0.209532828283,0.403703703704
+7D00F8EE,"A Graph-Based Algorithm for Scheduling with Sum-Interference in Wireless Networks",0.177633477633,0.250992063492
+7FF5D7A0,"Analysis of Packet Error Probability in Delay Constrained Communication Over Fading Channels",0.223863636364,0.231746031746
+7F359A7E,"On the throughput performance of CSMA-based wireless local area network with directional antennas and capture effect: a cross-layer analytical approach",0.246929112554,0.263832199546
+59444DB5,"QoS Analysis Models for Wireless Networks",0.245193001443,0.381944444444
+8003808D,"A Framework for Crosslayer Optimization from Physical Layer to Routing Layer on Wireless Ad Hoc Networks",0.251294191919,0.354861111111
+78917938,"Higher layer issues in cognitive radio network",0.25431547619,0.375992063492
+8015FFF0,"TCP performance in WCDMA-based cellular wireless IP networks",0.245193001443,0.365277777778
+80A36E3F,"Modeling and Analysis of Frame Aggregation in Unsaturated WLANs with Finite Buffer Stations",0.2349251443,0.271103896104
+798C8F8D,"High performance wireless switch protocol for IEEE 802.11 wireless networks",0.24310966811,0.311447811448
+73B4B0A7,"Performance Evaluation and Enhancement of Surface Coverage Relay Protocol",0.264542748918,0.263048855906
+5BABC1A7,"Performance comparison of Intelligent Jamming in RF (Physical) Layer with WLAN Ethernet Router and WLAN Ethernet Bridge",0.375946969697,0.351499118166
+7DF28E06,"Flow-level performance of opportunistic OFDM-TDMA and OFDMA networks",0.217866161616,0.555555555556
+7F6D7D51,"Impact of transmission impairments on the teletraffic performance of wavelength-routed optical networks",0.219602272727,0.304365079365
+809B1716,"Fading Margin Reduction Due to Interburst Upper Layer FEC in Terrestrial Mobile Broadcast Systems",0.252683080808,0.291077441077
+760427C4,"Performance response of wireless channels for quantitatively different loss and arrival statistics",0.24623466811,0.278240740741
+7CF40D7F,"Measurement driven deployment of a two-tier urban mesh access network",0.236417748918,0.313737373737
+7DDC0035,"Advanced infrared (AIr): physical layer for reliable transmission and medium access",0.453125,0.563161375661
+7D331EEC,"Optimal placement of nodes in large sensor networks under a general physical layer model",0.250157828283,0.289814814815
+5F2A1A81,"A Self-Organizing Link Layer Protocol for UWB Ad Hoc Networks",0.231407828283,0.280404040404
+7EA739B8,"Building Blocks of cooperative Relaying in Wireless Systems",0.156398809524,0.305555555556
+7EAFCD1D,"On the Relationship Between Queuing Delay and Spatial Degrees of Freedom in a MIMO Multiple Access Channel",0.229861111111,0.240476190476
+78A06E24,"Exploiting Asynchronous Amplify-and-Forward Relays to Enhance the Performance of IEEE 802.11 Networks",0.217866161616,0.28746031746
+80D4EB6B,"Underwater Acoustic Wireless Sensor Networks: Advances and Future Trends in Physical, MAC and Routing Layers",0.242613636364,0.258680555556
+7F3498F1,"Asymmetric physical layer design for high-speed wireless digital communications",0.250843253968,0.375992063492
+7E1C9140,"Energy efficient change detection over a MAC using physical layer fusion",0.25615530303,0.258900226757
+7B4A9A26,"Performance modeling of IEEE 802.11 wireless LANs with stochastic Petri nets",0.241026334776,0.345238095238
+7CA0F62A,"Cross layer communication for wireless networks",0.24990530303,0.355555555556
+7E1DFC19,"Precise Delay Analysis for IEEE 802.11 Legacy Ad-Hoc Networks",0.217866161616,0.325505050505
+6429AA91,"Social Tie Based Cooperative Jamming for Physical Layer Security",0.237641178266,0.302308802309
+7FBF355E,"On the Uplink Performance of TCP in Multi-rate 802.11 WLANs",0.21498466811,0.40873015873
+7FF62E28,"Precise interference analysis of OFDMA time-asynchronous wireless ad-hoc networks",0.244246031746,0.365277777778
+80088F3D,"Robust STDMA scheduling in Multi-hop Wireless Networks for single-node position perturbations",0.172528860029,0.21746031746
+7EC5DFB3,"Link Layer FEC in DVB-RCS: Performance Evaluation in nLoS Conditions",0.347876082251,0.465238095238
+7E01D611,"Cognitive Medium Access: A Protocol for Enhancing Coexistence in WLAN Bands",0.352588383838,0.363553906411
+7F07FB95,"Performance Analysis of Selfish Access Strategies on WiFi Infrastructure Networks",0.443560606061,0.554503367003
+81093883,"Symbol Mapping Diversity and Power Adjustment for High Speed Downlink Packet Access (HSDPA)",0.218813131313,0.21655982906
+7E22D1D3,"The Case for Non-Cooperative Multihoming of Users to Access Points in IEEE 802.11 WLANs",0.252286255411,0.340476190476
+7E9BEAFD,"Performance Analysis of Transmitter-Side Cooperation–Receiver-Side-Relaying Schemes for Heterogeneous Sensor Networks",0.366571969697,0.497222222222
+792F9C92,"Recursive covariance design for multiple antenna physical layer multicasting",0.244486416361,0.40873015873
+7E5B9F34,"A physical layer simulator for WiMAX in Rayleigh fading channel",0.243990384615,0.359027777778
+7545CF4B,"An efficient channel and queue aware resource allocation Strategy in wireless access networks",0.224810606061,0.234704184704
+80A73069,"Sensing of transmission opportunities at the Medium Access Control layer for cognitive radio networks",0.458333333333,0.422446689113
+7F4516C5,"Performance analysis of the IEEE 802.11 MAC and physical layer protocol",0.464488636364,0.640404040404
+812EB4F6,"Performance Analysis of Multiband OFDM UWB Communications With Application to Range Improvement",0.324694749695,0.424272486772
+5F916CFE,"Effects of wireless physical layer modeling in mobile ad hoc networks",0.239741161616,0.288975468975
+7E9DCE85,"Evolution toward reconfigurable user equipment",0.161004273504,0.242063492063
+7A887437,"Asymptotic analysis of multistage cooperative broadcast in wireless networks",0.24310966811,0.314444444444
+7EBDE348,"Receiver controlled medium access in multihop ad hoc networks with multipacket reception",0.23363997114,0.272558922559
+7F1ED50E,"The need for cross-layer information in access point selection algorithms",0.220941558442,0.27328042328
+7F4B5AC4,"Requirements for the Physical Layer of the NOTICE System for Vehicular Communications",0.259027777778,0.332070707071
+80C20C54,"The Performance Analysis of MPE-FEC Decoding Methods at the DVB-H Link Layer for Efficient IP Packet Retrieval",0.469097222222,0.400448933782
+79121EF0,"On Physical Layer Security Over Generalized Gamma Fading Channels",0.243990384615,0.280788655789
+7F27554B,"A General Model and Analysis of Physical Layer Capture in 802.11 Networks",0.367762445887,0.484126984127
+09EB34B1,"Scalable OFDMA Physical Layer in IEEE 802.16 WirelessMAN",0.22931547619,1.0
+7A47A42D,"FPGA-based latency-insensitive OFDM pipeline for wireless research",0.142551892552,0.227777777778
+807E8B67,"How Many Packets Can We Encode? - An Analysis of Practical Wireless Network Coding",0.24310966811,0.284722222222
+7AAFC540,"Hybrid Unified-Slot Access Protocol for Wireless Body Area Networks",0.254324494949,0.299146224146
+7EE120C2,"IEEE 802.11 distributed coordination function : performance analysis and protocol enhancement",0.323768939394,0.361002886003
+7C33FA86,"Physical layer impairment aware routing algorithms based on analytically calculated Q-factor",0.250202922078,0.28835978836
+7DCE2116,"CREAM-MAC: Cognitive Radio-EnAbled Multi-Channel MAC Protocol Over Dynamic Spectrum Access Networks",0.221338383838,0.328282828283
+8167942A,"Performance of Dedicated Path Protection in Transmission-Impaired DWDM Networks",0.228977272727,0.359027777778
+7E6B5B13,"Effects of cross-layer processing on wireless ad hoc network performance",0.241522366522,0.28247955748
+7E964867,"Analysis of SIP Transfer Delay in Multi-Rate Wireless Networks",0.234776334776,0.277188552189
+7F96ED41,"Analyzing the Impact of Various Modulation and Coding Schemes on the MAC Layer of IEEE 802.11 WLANs",0.251443001443,0.235367063492
+7D788005,"Performance estimation of adaptive spreading code length for energy efficient WSN",0.217866161616,0.262037037037
+777C7314,"Effects of wireless physical layer modeling in mobile ad hoc networks",0.239741161616,0.288975468975
+7D649DEE,"Generalized Analysis of a Distributed Energy Efficient Algorithm for Change Detection",0.230018939394,0.283531746032
+7C6C9D50,"Analysis of Blocking Probability in Noise- and Cross-Talk-Impaired All-Optical Networks",0.21865530303,0.336805555556
+80470564,"WiLIS: Architectural modeling of wireless systems",0.144246031746,0.242063492063
+813B68FA,"On the performance characteristics of WLANs: revisited",0.23060966811,0.358630952381
+80F5099F,"Rate avalanche: The performance degradation in multi-rate 802.11 WLANs",0.219151334776,0.293015873016
+7DDB4544,"Channel Access over Path Segments for Ultra Low Latency MANETs",0.244994588745,0.278439153439
+802B2612,"On the Use of Higher Layer Information for Cognitive Networking",0.257345779221,0.437037037037
+7ED8659E,"Combined Connection Admission Control and Packet Transmission Scheduling for Mobile Internet Services",0.1724251443,0.169400352734
+814D9462,"Effective Capacity Analysis for Multi-Rate Relay Channels Exploiting Adaptive Cooperative Diversity",0.211939102564,0.25317044067
+7D3225C2,"Equalization for 4BOK DS-UWB Systems",0.163699494949,0.25
+7D375B08,"Carrier assignment algorithms for OFDM-based multi-carrier wireless networks with channel adaptation",0.249012445887,0.275566893424
+7E01C677,"Design of link layer protocols for error recovery in IP/CDMA2000 interconnections",0.240733225108,0.239806225521
+7D2C7108,"Differential modulation for two-way wireless communications: a perspective of differential network coding at the physical layer",0.245738636364,0.253968253968
+7DD19323,"Performance Evaluation of Contention-Based Access in IEEE 802.16 Networks with Subchannelization",0.328084415584,0.563492063492
+7FE23680,"A Cross-Layer Design for the Performance Improvement of Real-Time Video Transmission of Secondary Users Over Cognitive Radio Networks",0.265827922078,0.264384920635
+7FA6810E,"Cross-Layer Measurement for the Analysis of DVB-T System Performance",0.369002525253,0.633333333333
+8142E02E,"AngeL: a tool to disarm computer systems",0.156944444444,0.212222222222
+7808BECF,"Throughput analysis of IEEE 802.11 and IEEE 802.11e MAC",0.216415528916,0.425925925926
+7D6CE7D7,"Performance Analysis of Retransmission and Redundancy Schemes in Sensor Networks",0.358238636364,0.429503367003
+7E844E88,"Cross-layer scheduling with prescribed QoS guarantees in adaptive wireless networks",0.17113997114,0.238005050505
+7B2770FA,"Spectrum-aware channel and PHY layer modeling for ns3",0.237045940171,0.412037037037
+7B885769,"Cross-Layer Multi-Packet Reception Based Medium Access Control and Resource Allocation for Space-Time Coded MIMO/OFDM",0.214393939394,0.219949494949
+5BCC55F4,"Channel aware scheduling for multiple antenna multiple access channels",0.257326007326,0.4375
+7F858D12,"Performance Analysis of Video Transmission Over IEEE 802.11a/e WLANs",0.326095779221,0.566964285714
+7D6FC994,"Optimal Cooperative Jamming to Enhance Physical Layer Security Using Relays",0.237641178266,0.25867003367
+7E043888,"Analysis of the QAC IR-UWB Receiver for Low Energy, Low Data-Rate Communication",0.241720779221,0.358333333333
+79E4044F,"DeviceNet network health monitoring using physical layer parameters",0.249706890332,0.267195767196
+7E4F87A6,"Experimental evaluation of application performance with 802.11 PHY rate adaptation mechanisms in diverse environments",0.228724747475,0.247392290249
+7D56E139,"On Throughput Performance of Channel Inequality in IEEE 802.11 WLANs",0.218614718615,0.341964285714
+8118A58E,"Hybrid OFDMA/CSMA Based Medium Access Control for Next-Generation Wireless LANs",0.239637445887,0.336666666667
+7FDB9229,"Operation, system architectures, and physical Layer design considerations of distributed MAC protocols for UWB",0.267068001443,0.26810966811
+810D0A4B,"A Physical Layer Abstraction for Maximum Likelihood Demodulation of MIMO Signals",0.275,0.414583333333
+7FC23045,"IEEE standard 802.16: a technical overview of the WirelessMAN/sup TM/ air interface for broadband wireless access",0.245445526696,0.277188552189
+800233C9,"Optimal Channel-Aware ALOHA Protocol for Random Access in WLANs With Multipacket Reception and Decentralized Channel State Information",0.234429112554,0.212750521084
+7A4E2B8F,"On the Development of Realistic Cross Layer Communication Protocol for Wireless Sensor Networks",0.258238636364,0.277335858586
+7525AB4D,"Distributive Delay-Sensitive Cross-Layer Design for OFDMA Systems",0.157928876679,0.238095238095
+7F844288,"Performance of the Pre/Post-FFT Smart Antenna Methods for OFDM-Based Wireless LANs in an Indoor Channel with Interference",0.251294191919,0.278968253968
+7E1C5A3C,"The impact of antenna-array receivers on the reverse link performance of CDMA 2000 1xEV high rate packet data systems",0.268308080808,0.2430335097
+791512C5,"Exploiting large-scale MIMO techniques for physical layer security with imperfect channel state information",0.247821969697,0.240141207998
+7F46873F,"Cross-layer throughput analysis for optical code labeled GMPLS networks",0.232693001443,0.306349206349
+7CF718B5,"Physical Layer Design in Wireless Sensor Networks for Fading Mitigation",0.24623466811,0.279138321995
+7FD7FA05,"Performance analysis of UWB based wireless sensor networks in indoor office LOS environment",0.361363636364,0.380555555556
+7FDE1A5B,"Network Layer Security: Design for A Cross Layer Architecture",0.237901334776,0.299146224146
+7CFD3F41,"Hypoexponential Power—Delay Profile and Performance of Multihop OFDM Relay Links",0.222086940837,0.3375
+7FD515CB,"Multibeam SATCOM systems design with physical layer security",0.25341498779,0.391774891775
+80DB8DA1,"Performance of cross-layer optimal adaptive transmission techniques over diversity Nakagami-m fading channels",0.215770687646,0.256339031339
+7B0EE6A1,"IEEE 802.15.3 intra-piconet route optimization with application awareness and multi-rate carriers",0.280167748918,0.381904761905
+7B764E10,"Cross-Layer Energy Analysis and Proposal of a MAC Protocol for Wireless Sensor Networks Dedicated to Building Monitoring Systems",0.265331890332,0.230690836941
+7DFDC573,"Performance of Distributed Consensus Time Synchronization with Gaussian Delay in Wireless Sensor Networks",0.250252525253,0.241490299824
+7DBDEAE7,"Wireless physical layer security using encryption and channel pre-compensation",0.242998321123,0.302308802309
+7DF99DF2,"Joint protocol-channel decoding for robust aggregated packet recovery at wimax MAC layer",0.239741161616,0.25404040404
+7DBB830C,"A real time cognitive radio testbed for physical and link layer experiments",0.257345779221,0.398214285714
+772C30BF,"Cooperative jamming for wireless physical layer security",0.237641178266,0.400673400673
+77A7F87E,"Efficient multiple access control using a channel-adaptive protocol for a wireless ATM-based multimedia services network",0.227042748918,0.248077715935
+7E98C5D2,"Physical Layer scalability of WDM optical packet interconnection networks",0.239741161616,0.282626262626
+7E184CE3,"Analysis of Channel Estimation Error in Physical Layer Network Coding",0.357345779221,0.367630385488
+5858BCF2,"Security and Prioritization in Multiple Access Relay Networks",0.218813131313,0.321338383838
+7D12A210,"Improving the Performance of Overlapped Transmission in Wireless Ad Hoc Networks",0.241869588745,0.288161375661
+792DAF6E,"Design guidelines for routing protocols in ad hoc and sensor networks with a realistic physical layer",0.24623466811,0.237112193362
+7EE92204,"Synergy between adaptive channel coding and media access control for wireless ATM",0.364583333333,0.357196969697
+758DFA07,"Robust Physical Layer Signaling Transmission over OFDM Systems",0.254407051282,0.392361111111
+7DBC4C98,"A Cross-Layer Investigation for the Throughput Performance of CSMA/CA-Based WLANs With Directional Antennas and Capture Effect",0.25119047619,0.289285714286
+7F3FE4DB,"Multicarrier authentication at the physical layer",0.232231310356,0.545454545455
+8168B0EF,"Joint scheduling and resource allocation in uplink OFDM systems for broadband wireless access networks",0.275748556999,0.289744382602
+80A728E3,"Distributed Cross Layer Congestion Control for Real-Time Video over WLAN",0.241824494949,0.261281179138
+7DA0082A,"Cross layer design based on adaptive modulation and truncated ARQ in MIMO Rician channels",0.246222527473,0.270408163265
+80FDDA6F,"Processing interference at the physical layer to enhance information flow in wireless networks",0.24375,0.238888888889
+7FA13DD4,"Goodput analysis and link adaptation for IEEE 802.11a wireless LANs",0.230755355755,0.323333333333
+762884C5,"Securing wireless systems via lower layer enforcements",0.258387445887,0.400297619048
+7D82D5FB,"Simulating the long term evolution uplink physical layer",0.237889194139,0.339691558442
+816F54EC,"Overlapped Carrier-Sense Multiple Access (OCSMA) in Wireless Ad Hoc Networks",0.244056637807,0.314444444444
+5B26982D,"Joint Physical Layer Coding and Network Coding for Bi-Directional Relaying",0.250946969697,0.347222222222
+7EF60F7C,"Structure and performance of the HIPERLAN/2 physical layer",0.353377525253,0.777777777778
+7EE9C16A,"Impact of the Channel Time-Selectivity on BER Performance of Broadband Analog Network Coding with Two-Slot Channel Estimation",0.212657828283,0.223665223665
+7C98EC86,"Reliable symmetric key generation for body area networks using wireless physical layer security in the presence of an on-body eavesdropper",0.244949494949,0.233932178932
+80BF56C1,"Performance analysis of cooperative communications from MAC layer perspectives",0.470486111111,0.555555555556
+7DF56911,"Joint Routing and Stream Control Scheduling in MIMO-Based WMNs",0.150587606838,0.241666666667
+7F3979D7,"Throughput Analysis in Asymmetric Two-Way Relay Channel with Random Access",0.346929112554,0.475
+7FE87937,"Impact of packet aggregation on TCP performance in Wireless Mesh Networks",0.223863636364,0.263498075998
+7E5E978E,"Contention-Based Prioritized Opportunistic Medium Access Control in Wireless LANs",0.349305555556,0.443253968254
+7B940595,"Performance analysis of RLS based channel estimation in UWB OFDM system",0.379419191919,0.451388888889
+7F9059A7,"Performance analysis of IEEE 802.11n under different STBC rates using 64-QAM",0.323062354312,0.560897435897
+80009DB4,"Dynamic Programming for Scheduling a Single Route in Wireless Networks",0.179022366522,0.229365079365
+58735D18,"Impact of the physical layer on the performance of indoor wireless networks",0.353377525253,0.500793650794
+7A0DBAA4,"On the impact of a more realistic physical layer on MANET simulations results",0.252435064935,0.310714285714
+80D52193,"Capturing important statistics of a fading/shadowing channel for network performance analysis",0.328977272727,0.405092592593
+7E523EC7,"Performance analysis of SIMO space-time scheduling with convex utility function: zero-forcing linear processing",0.343952922078,0.412291412291
+738B1D67,"Analysis of additive noise characteristics in indoor wireless sensor networks",0.264637445887,0.320105820106
+7E180FF4,"Scalability of network-failure resilience: analysis using multi-layer probabilistic graphical models",0.225063131313,0.304848484848
+58D345FF,"A capacity analysis for the IEEE 802.11 MAC protocol",0.204655067155,0.323232323232
+7FB3F1DC,"Spatial multiuser pairing scheduling strategies for virtual MIMO systems",0.197273212898,0.270833333333
+802C8AC2,"Generalized input deterministic service queue model: analysis and performance issues for wireless tactical networks",0.34365530303,0.368551587302
+7FE88DED,"Competitive Analysis of Opportunistic Spectrum Access Strategies",0.322276334776,0.708333333333
+7DD05F14,"Packet fair queueing scheduling based on multirate multipath-transparent CDMA for wireless networks",0.17113997114,0.208333333333
+7EBD239E,"Performance evaluation of safety applications over DSRC vehicular ad hoc networks",0.224810606061,0.270105820106
+75312ADA,"A Survey on Cooperative Jamming Applied to Physical Layer Security",0.256391178266,0.323737373737
+80B946F8,"The Performance Analysis of Backward Compatible Modulation With Higher Spectrum Efficiency for DAB Eureka 147",0.325757575758,0.359585652443
+807DEB34,"A study of the impact of frequency selectivity on link adaptive wireless LAN systems",0.178526334776,0.181746031746
+80D4DA8E,"Effect of channel estimation error on performance of physical layer network coding",0.357345779221,0.337301587302
+80D8692D,"Channel synthesized modulation employing singular vector for secured access on physical layer",0.359375,0.372680890538
+7B19B632,"Architectural considerations in the design of WDM-based optical access networks",0.234776334776,0.355158730159
+7B70ED76,"Physical Layer Network Coding with Multiple Antennas",0.239741161616,0.355555555556
+7FB0D754,"SER Performance Analysis for Physical Layer Network Coding over AWGN Channels",0.464488636364,0.55787037037
+8166EEAA,"Improving Wireless Physical Layer Security via Cooperating Relays",0.233032592408,0.329274891775
+7FB3DA1A,"Cross layer optimization for scalable video multicast over 802.11 WLANs",0.240877525253,0.320793650794
+803C317F,"User selection in multiuser MIMO systems with secrecy considerations",0.165133477633,0.214285714286
+7F0311E0,"EXIT charts applied to tandem coding and cryptography in a wiretap scenario",0.172127525253,0.173015873016
+80E6A3A9,"Performance analysis of the IEEE 802.11 distributed coordination function",0.323768939394,0.467222222222
+7F5957DB,"A simple and effective cross layer networking system for mobile ad hoc networks",0.250157828283,0.358888888889
+7DD61147,"Throughput-Gain Analysis of Network Coding in Multi-Channel Multi-Radio Wireless Networks",0.236165223665,0.316666666667
+7E4868AF,"Collaborative User Number Selection Based on Saturation Throughput and Sensing Performance",0.260619588745,0.255262445887
+7F0EEA3C,"Signaling and multiple access techniques for ultra wideband 4G wireless communication systems",0.286805555556,0.342222222222
+7B535572,"Reverse high-speed packet data physical layer enhancements in cdma2000 1/spl times/EV-DV",0.240877525253,0.293015873016
+7ED20CAB,"A novel channel-adaptive uplink access control protocol for nomadic computing",0.213257575758,0.322727272727
+7EC99E2F,"Throughput Modeling and Analysis of IEEE 802.11 DCF with Selfish Node",0.229808386058,0.352380952381
+7E128B48,"Balancing transport and physical Layers in wireless multihop networks: jointly optimal congestion control and power control",0.252241161616,0.246296296296
+7B3C886C,"CRMA: collision-resistant multiple access",0.200074404762,1.0
+0286D63F,"MODULAR LINK LAYER FUNCTIONS OF A GENERIC PROTOCOL STACK FOR FUTURE WIRELESS NETWORKS",0.239741161616,0.251875901876
+7EE09354,"Crosslayer Optimization of User Scheduling and Resource Allocation in Power-Line Communication Systems",0.181060606061,0.169109461967
+790314FF,"Distributed Medium Access Control with SDMA Support for WLANs",0.370193001443,0.488571428571
+7DC6E9A1,"Wireless mesh networks: Cross layer design challenge!!",0.237901334776,0.308994708995
+79E3A8F8,"Exploiting the 60 GHz band for local wireless multimedia access: prospects and future directions",0.250054112554,0.242162698413
+807F04AF,"Spectral Efficiency Analysis in OFDM and OFDM/OQAM Based Cognitive Radio Networks",0.24310966811,0.325555555556
+7D420286,"Performance analysis of IEEE 802.11n solutions combining MIMO architectures with iterative decoding and sub-optimal ML detection via MMSE and zero forcing GIS solutions",0.357544191919,0.304126984127
+7CFE9C4E,"Collision probability and throughput analysis in a power-controlled DS-CDMA wireless network",0.246581890332,0.299272486772
+8047341B,"On the Performance of Selection Cooperation ARQ",0.211228354978,0.436507936508
+7FA72882,"Cross-Layer Design of Opportunistic Spectrum Access in the Presence of Sensing Error",0.226055194805,0.271428571429
+7F302941,"A low power reconfigurable heterogeneous architecture for a mobile SDR system",0.154671717172,0.214814814815
+7CE94A5E,"A dynamic resource scheduling scheme for CDMA2000 systems",0.199210858586,0.264583333333
+80311EEE,"Efficiency analysis of burst transmissions with block ACK in contention-based 802.11e WLANs",0.260562354312,0.340238095238
+76C6DC96,"Cross-Layer Design and Analysis of Wireless Networks Using the Effective Bandwidth Function",0.24310966811,0.268820861678
+7F23808F,"On the tradeoff between MAC-level performance metrics in MIMO ad hoc networks with imperfect channel estimation",0.219602272727,0.235090702948
+80514545,"An Efficient Model of 802.11 Ad Hoc Networks under a Block-Fading Rayleigh Channel with Physical Layer Capture",0.260619588745,0.274272486772
+758C676C,"A framework of physical layer technique assisted authentication for vehicular communication networks",0.267708333333,0.254030096887
+7F527054,"Understanding the Gap between the IEEE 802.11 Protocol Performance and the Theoretical Limits",0.211951243201,0.286363636364
+7D477514,"Video Information Exchange Based on Physical Layer Network Coding and Superposition Coding",0.250946969697,0.21975308642
+7D75D629,"A Real-Time GPP Software-Defined Radio Testbed for the Physical Layer of Wireless Standards",0.239741161616,0.402777777778
+814D70FF,"Performance of a Concurrent Link SDMA MAC Under Practical PHY Operating Conditions",0.219255050505,0.323611111111
+7C23ED19,"Comparison of Throughput Performance for the IEEE 802.11a and 802.11g Networks",0.241720779221,0.381944444444
+7F92E033,"Scheduling in wireless ad hoc networks with successive interference cancellation",0.173412698413,0.193518518519
+7F18F7B3,"Development and performance evaluation of mobile WiMAX testbed",0.215919497169,0.414285714286
+8165FFA6,"A Fast Collision Detection Algorithm in IEEE 802.11 through Physical Layer SINR Monitoring",0.255411255411,0.304365079365
+7F06FD7B,"Cross-Layer Joint Rate Control and Scheduling for OFDMA Wireless Mesh Networks",0.17113997114,0.193855218855
+800886C3,"A generic cognitive radio based on commodity hardware",0.145982142857,0.25
+7D7F9AF2,"Hidden anchor: a lightweight approach for physical layer location privacy",0.243097527473,0.308956043956
+7F7DBDCA,"Wireless physical-layer security performance of UWB systems",0.268308080808,0.474747474747
+7FFE0CA2,"Joint Physical Layer Coding and Network Coding for Bidirectional Relaying",0.250946969697,0.347222222222
+7F925754,"Physical Interference Modeling for Transmission Scheduling on Commodity WiFi Hardware",0.204407051282,0.227721088435
+77BB8FE6,"Single-band full-duplex MAC protocol for distributed access networks",0.221338383838,0.328282828283
+7B1296D9,"Node architecture design and network engineering impact on optical multicasting based on physical layer constraints",0.250202922078,0.24871031746
+811DEB33,"Secure Satellite Communication Systems Design With Individual Secrecy Rate Constraints",0.173169191919,0.156216931217
+7A331124,"Physical Layer Cryptography and Cognitive Networks",0.241824494949,0.403703703704
+7FD7338D,"Analysis of CSMA/CA Systems under Carrier Sensing Error: Throughput, Delay and Sensitivity",0.382494588745,0.373214285714
+7D5F5469,"Analysis of Physical Layer Signaling Transmission in DVB-T2 Systems",0.363782051282,0.513888888889
+7AE54AEE,"OFDM-MAC algorithms and their impact on TCP performance in next generation mobile networks",0.221834415584,0.267989417989
+5CB9AEDA,"Physical layer design issues unique to cognitive radio systems",0.270089285714,0.37380952381
+7DC260F0,"Analysis of throughput and efficient block size based polling scheme for IEEE 802.11e wireless LANs",0.275252525253,0.288541666667
+7FD30E7C,"Truncated power control for improving TCP/IP performance over CDMA wireless links",0.232693001443,0.304126984127
+5AE22347,"A physical layer approach for time synchronization in cognitive communication systems",0.26865530303,0.313161375661
+7EBADAE6,"High-accuracy physical layer model for wireless network simulations in NS-2",0.256651334776,0.334126984127
+80886FC4,"On the Implementation and Performance Assessment of a WirelessHART Distributed Packet Analyzer",0.239835858586,0.281018518519
+7853D341,"Analysis of the statistical properties of the interference in the IEEE 802.16 OFDMA network",0.219002525253,0.330555555556
+7E03A65F,"Performance analysis of the IEEE 802.11 DCF with imperfect radio conditions",0.352137445887,0.583333333333
+4BFC2516,"Wireless lan medium access control (mac) and physical layer (phy) specifications",0.351041666667,0.388383838384
+7995BF7C,"An Empirical Study of TCP/IP Performance Over ATM",0.229312354312,0.44696969697
+7E26E6EC,"Distributed Detection With Censoring Sensors Under Physical Layer Secrecy",0.242613636364,0.276470588235
+0709851D,"Performance analysis of the WIMAX-D physical layer blocks on a next generation baseband processor platform",0.464488636364,0.53253968254
+7B86F305,"Physical layer impairment aware wavelength routing algorithms based on analytically calculated constraints",0.250202922078,0.237103174603
+7E819611,"Compensation schemes and performance analysis of IQ imbalances in OFDM receivers",0.336512445887,0.409000721501
+7D6D3572,"RFID Reader Receivers for Physical Layer Collision Recovery",0.251443001443,0.31746031746
+7CFB6749,"A joint model for IEEE 802.15.4 physical and medium access control layers",0.351988636364,0.566666666667
+7D8D2086,"Medium Access and Flow Management in IEEE 802.11 and 802.11e WLANS",0.350401334776,0.571428571429
+75880FB9,"Comparative Analysis of IEEE 802.15.4 and IEEE 802.15.6 Standards",0.217866161616,0.555555555556
+80C500E4,"Impact of physical layer impairments in all-optical networks",0.24623466811,0.349206349206
+7E5703F7,"Analysis on coexistence of UWB with IEEE802.11n",0.203428515929,0.55
+7FE26FDE,"Continuous Physical Layer Authentication Using a Novel Adaptive OFDM System",0.242647977023,0.397727272727
+7ECAD152,"Optimizing Delay Performance over MIMO Fading Channels with Adaptive Transmission",0.216382575758,0.292222222222
+7DEE1DF2,"Delay Performance Optimization for Multiuser Diversity Systems with Bursty-Traffic and Heterogeneous Wireless Links",0.268308080808,0.28956043956
+7D327653,"Synchronization Techniques for Orthogonal Frequency Division Multiple Access (OFDMA): A Tutorial Review",0.221338383838,0.249857549858
+7E9ED79B,"Performance Analysis of Double-Channel 802.11n Contending with Single-Channel 802.11",0.323062354312,0.708333333333
+80430ECF,"Cross-layer QoS Analysis of Opportunistic OFDM-TDMA and OFDMA Networks",0.217866161616,0.555555555556
+5B2C2203,"Novel Active Monitoring of Customer Premises Using Bluetooth in Optical Access Network",0.232196969697,0.275925925926
+7E96060E,"Opportunistic Scheduling using an Enhanced Channel State Information Update Scheme for WLAN Systems with DQCA",0.207544191919,0.210317460317
+7F5813DD,"Performance analysis of vehicle-to-vehicle tunnel measurements at 5.9 GHz",0.333198051948,0.493333333333
+7EDF50FD,"Slotted ALOHA with MIMO Spatial Multiplexing",0.201092657343,0.55
+81606B2D,"Physical-layer secrecy in AWGN via a class of chaotic DS/SS systems: analysis and design",0.268308080808,0.33746031746
+80318443,"A MAC Layer ARQ Tuning Scheme to Optimize TCP Throughput in IEEE 802.11 Networks",0.239741161616,0.25
+58BBA337,"Improving wireless physical layer security via co-operative techniques",0.239488636364,0.333441558442
+0226C989,"OAR: An Opportunistic Autorate Media Access Protocol for Ad Hoc Networks",0.352588383838,0.425336700337
+7FE9073B,"Performance of IEEE 802.16e OFDMA in Tight Reuse Scenarios",0.211951243201,0.541666666667
+7DBBD296,"A Relay-Aided Media Access (RAMA) Protocol in Multirate Wireless Networks",0.344255050505,0.422558922559
+7804162F,"Migration of broadcast-and-select optical crossconnects from semi-static to dynamic reconfiguration and their physical layer modeling",0.239030067155,0.417989417989
+7ABE66FC,"Poisoned feedback: The impact of malicious users in closed-loop multiuser mimo systems",0.178526334776,0.195238095238
+756249AA,"Decentralized Sequential Change Detection Using Physical Layer Fusion",0.25615530303,0.290674603175
+7D9BA90B,"Performance comparison of OFDM bandwidth request schemes in fixed IEEE 802.16 networks",0.240435606061,0.28287037037
+802C7836,"Performance Analysis of OFDM-Based WAVE System Using Coefficient Tracking Synchronization Algorithm",0.379419191919,0.37996031746
+79FAAE24,"Full-Duplex MAC Protocol Design and Analysis",0.204655067155,0.336219336219
+8079933C,"Capacity estimation and TCP performance enhancement over mobile WiMAX networks",0.217866161616,0.277070707071
+801D5B2C,"A serial physical layer design in RapidIO",0.242998321123,0.571428571429
+7F2BE2FD,"Delay and throughput analysis of IEEE 802.16 ARQ mechanism",0.210562354312,0.403703703704
+7FB71346,"Optimization of WiMax modulation scheme with a cross layer erasure code",0.237752525253,0.250396825397
+81749FBF,"Physical layer approximations for cross-layer performance analysis in MIMO-BLAST ad hoc networks",0.46875,0.556018518519
+804F58E2,"Hop count optimal position-based packet routing algorithms for ad hoc wireless networks with a realistic physical Layer",0.247970779221,0.22791005291
+7CFA3804,"Augmenting Bit-Level Network Security Using Physical Layer RF-DNA Fingerprinting",0.250946969697,0.276725589226
+7F1B70DA,"ML estimation of population size when observing multiple fill levels in slotted Aloha",0.215836940837,0.20815696649
+5DFA1BC0,"Performance Analysis of Multi-pattern Frequency Hopping Wireless LANs",0.347876082251,0.440277777778
+7FA510C5,"Analysis of Spatial Unfairness in Wireless LANs",0.24310966811,0.379166666667
+7ED2DC68,"Physical layer driven protocol and algorithm design for energy-efficient wireless sensor networks",0.24623466811,0.277839620697
+8120A938,"Two-Transmitter Two-Receiver Cooperative MAC Protocol: Cross-Layer Design and Performance Analysis",0.329419191919,0.468975468975
+81097D6E,"Cross-layer Throughput Analysis with Capture Effect in Wireless Local Area Networks",0.239786255411,0.281415343915
+7C710306,"Physical layer security in broadcast networks",0.239741161616,0.328282828283
+7E12DD5F,"Optimal Analogue Relaying with Multi-Antennas for Physical Layer Network coding",0.239741161616,0.282626262626
+760CABD8,"Analysis of large-scale multi-stage all-optical packet switching routers",0.228724747475,0.350694444444
+72BA6FA1,"Performance evaluation and enhancement of the CSMA/CA MAC protocol for 802.11 wireless LANs",0.234577922078,0.265934858792
+80FBF877,"Performance Comparison of Two On-demand Routing Protocols for Ad-hoc Networks based on Random Way Point Mobility Model",0.245643939394,0.238936988937
+7D338024,"Performance Enhancement Scheme for Wireless LAN under Bursty Channel",0.237554112554,0.294444444444
+7FD65AA2,"Cross-Layer Multiservice Scheduling for Mobile WiMAx Systems",0.183400106838,0.416666666667
+80970993,"Building an Underwater Wireless Sensor Network Based on Optical: Communication: Research Challenges and Current Results",0.179071969697,0.182848324515
+78BAD643,"Optimal channel access for TCP performance improvement in cognitive radio networks",0.359429112554,0.435185185185
+80FFD2D2,"A study of the performance of HIPERLAN/2 and IEEE 802.11a physical layers",0.370738636364,0.75
+80673CE3,"Performance Assessment of Wireless Communication Networks through Cross-Layer Measurements",0.234185606061,0.320555555556
+8141530F,"Throughput and Collision Analysis of Multichannel Multistage Spectrum Sensing Algorithms",0.232548701299,0.256462585034
+76D31A9F,"Capacity analysis for a multiuser cross-layer downlink model in the presence of fading and interference",0.21672979798,0.261447811448
+7F2E4E4D,"Performance and modeling of WCDMA/HSDPA transmission/H-ARQ schemes",0.220193001443,0.422619047619
+795E7B07,"Channel-based physical layer authentication",0.232231310356,0.545454545455
+7E9604D4,"A cross layer approach based on adaptive modulation and truncated ARQ for MIMO systems",0.248511904762,0.297619047619
+7E335894,"Compute-and-Forward: Error-Correcting Codes for Wireless Network Coding on the Physical Layer",0.239741161616,0.316666666667
+7E3E47A6,"Design and Implementation of Physical Layer Private Key Setting for Wireless Networks",0.247970779221,0.288832199546
+781547D3,"An integrated approach based on cross-layer optimization - Designing a mobile broadband wireless access network",0.248318001443,0.248611111111
+7EB01E44,"Optical network packet error rate due to physical layer coding",0.253179112554,0.27380952381
+80A369F3,"Performance analysis of multiband OFDM for UWB communication",0.318371212121,0.722222222222
+7E383609,"QoS and energy trade off in distributed energy-limited mesh/relay networks: a queuing analysis",0.219602272727,0.334027777778
+7EABC473,"Performance Improvement using Directional Antennas in Ad Hoc Networks",0.239835858586,0.283796296296
+7BB4F2F0,"Throughput behavior of link adaptive 802.11 DCF with MUD capable access node",0.233198051948,0.298181818182
+5AD3F362,"Model Checking the FlexRay Physical Layer Protocol",0.245884324009,0.350108225108
+8099B0CC,"An Energy-Efficient Physical Layer Adaptive Modulation Scheme for Wireless Sensor Networks",0.244949494949,0.303240740741
+8101C206,"Cross layer optimization of static lightpath demands in transparent WDM optical networks",0.240877525253,0.312222222222
+7F24BFA7,"How Does Multiple-Packet Reception Capability Scale the Performance of Wireless Local Area Networks?",0.228873556999,0.248077715935
+816E7E37,"Scheduling granularity in underwater acoustic networks",0.145896464646,0.231481481481
+7EED2D0B,"Preamble Structure for MIMO-OFDM Wlan Systems Based on IEEE 802.11A",0.156398809524,0.244047619048
+7E8FAB28,"Exploiting loop-level parallelism on multi-core architectures for the wimax physical layer",0.232231310356,0.358441558442
+7CFA4043,"An Integrated Approach to Energy-Aware Medium Access for Wireless Sensor Networks",0.356849747475,0.456018518519
+7D649828,"Improve efficiency of ad hoc networks with MIMO communication and cross layer MAC design",0.255262445887,0.2360670194
+7F4DD1F4,"Joint Space-Frequency-Power Scheduling Algorithm for Real Time Service in Cellular MIMO-OFDM System",0.178526334776,0.202380952381
+7E37A613,"3G UMTS wireless system physical layer: baseband processing hardware implementation perspective",0.261259920635,0.3160430839
+7E53E2FD,"Prediction of the SINR RMS in the IEEE 802.16 OFDMA System",0.146475052725,0.238095238095
+7F54476C,"Physical and MAC Cross Layer Design for Wireless Mesh Networks",0.24623466811,0.30747955748
+7DEC630A,"Exploiting path diversity in the link layer in wireless ad hoc networks",0.242762445887,0.238236416361
+80D67CF9,"Cross layer optimization of iterative OFDM reception with clipping",0.236252289377,0.303566433566
+80169D52,"Network Coding Opportunity Analysis of COPE in Multihop Wireless Networks",0.243308080808,0.267748917749
+79452643,"OAR: an opportunistic auto-rate media access protocol for ad hoc networks",0.352588383838,0.425336700337
+81018657,"A fourth-generation MIMO-OFDM broadband wireless system: design, performance, and field trial results",0.26865530303,0.304138321995
+7ED7E434,"Operation and Performance of Vehicular Ad-Hoc Routing Protocols in Realistic Environments",0.214646464646,0.322727272727
+7E75CA8F,"Trade-off analysis of PHY-Aware MAC in low-rate low-power UWB networks",0.212058080808,0.407407407407
+7BE3A319,"QoS-aware bandwidth allocation and admission control in IEEE 802.16 broadband wireless access networks: A non-cooperative game theoretic approach",0.261661255411,0.232014590348
+800FD435,"Adaptive User Cooperation with HARQ for the Uplink of a Turbo-Coded System",0.187554112554,0.21875
+775177F3,"Improving physical layer security via multiple-level relay network",0.239741161616,0.285642135642
+8083765B,"Achieving optimal performance in IEEE 802.11 wireless LANs with the combination of link adaptation and adaptive backoff",0.24310966811,0.267233560091
+7D6F2343,"Performance Analysis of Type-III HARQ Scheme in Cross-Layer Design for QoS-Guaranteed Traffic",0.325852272727,0.475793650794
+7D44293C,"Performance of the MC-DS-CDMA Systems with PCE and Variable Spreading Factors",0.268308080808,0.392361111111
+7F00EF37,"Spectral Efficiency and Optimal Medium Access Control of Random Access Systems over Large Random Spreading CDMA",0.354513888889,0.522619047619
+592FF687,"Media Access Control Schemes for Mobile Ad Hoc Networks",0.356755050505,0.418518518519
+7FB038C4,"On improving the performance of IEEE 802.11 with relay-enabled PCF",0.208975052725,0.571428571429
+7D7987B7,"Outdoor Mobile Broadband Access with 802.11",0.200074404762,1.0
+7C328393,"Beyond 3G: wideband wireless data access based on OFDM and dynamic packet assignment",0.257693001443,0.306481481481
+79AF2A0B,"Physical layer analysis of emerging IEEE 802.11n WLAN standard",0.353377525253,0.563492063492
+81353D4A,"Evolution, insights and challenges of the PHY layer for the emerging ieee 802.11n amendment",0.249603174603,0.266937229437
+7FCCDAC9,"Channel Aware Scheduling for Multiple Service Flows in OFDMA Based Mobile WiMAX Systems",0.216212606838,0.25
+81087634,"On the design of practical asynchronous physical layer network coding",0.24623466811,0.34126984127
+8149E456,"On the reverse link performance of the cdma2000 1xEV-DO revision A system with antenna array receivers",0.259974747475,0.274603174603
+593A4B55,"Physical layer security for relay assisted MIMO D2D communication",0.258238636364,0.296753246753
+80522506,"Rateless code in QoS-based multiuser scheduling for MIMO systems",0.196338383838,0.314814814815
+5C76A830,"Self-organizing schema mappings in the GridVine peer data management system",0.179662698413,0.178902116402
+759E67F2,"LDPC coded TDS-OFDM for PLC systems",0.134788995726,0.222222222222
+7C837401,"On integrating multiple access control and adaptive channel coding for cellular wireless voice and data services",0.227042748918,0.224012445887
+79910B20,"Hotspot wireless LANs to enhance the performance of 3G and beyond cellular networks",0.24310966811,0.29212962963
+7F2C781F,"Link scheduling in wireless networks with successive interference cancellation",0.173412698413,0.193518518519
+7FE6853B,"Transmitter Noise Effect on the Performance of a MIMO-OFDM Hardware Implementation Achieving Improved Coverage",0.259776334776,0.246608946609
+809C7796,"An Analysis of Joint Aggregation, Bursting, Routing, and Rate Adaptation for Increasing VoIP Capacity in Multi-Hop 802.11 Networks",0.225599747475,0.23759018759
+7EB241EC,"Throughput Analysis of ALOHA with Cooperative Diversity",0.229808386058,0.335897435897
+805FB1FC,"Performance Evaluation of IEEE 802.11-based WLANs in Vehicular Scenarios",0.229369588745,0.342261904762
+7CEBF34E,"On the synergy between adaptive physical layer and multiple-access control for integrated voice and data services in a cellular wireless network",0.24623466811,0.241373556999
+803575B4,"Performance Analysis of Layered Random Beamforming OFMDA with Feedback Reduction",0.337752525253,0.559027777778
+78BC7F31,"Performance evaluation of a selective cooperative scheme for wireless sensor networks",0.259429112554,0.313161375661
+7438243C,"Physical Layer Network Coding",0.239741161616,0.407407407407
+7E5AD8B6,"Application of network layer mechanisms for service differentiation in 802.11 WLANs: implementation and experience",0.2625,0.239638447972
+7EE2FF5E,"Physical layer wireless security made fast and channel independent",0.243990384615,0.292929292929
+7E95454E,"Goodput and delay cross-layer analysis of IEEE 802.11a networks over block fading channels",0.263446969697,0.296759259259
+76273FDE,"Range assignment and λ-proximity in wireless sensor networks with a realistic physical layer",0.253377525253,0.317003367003
+7E2B0C78,"Self-optimized autonomous routing protocol for wireless sensor networks with cross layer architecture",0.239741161616,0.282891414141
+7E21482D,"DCF Performance Analysis of Open- and Closed-Loop Adaptive IEEE 802.11n Networks",0.328977272727,0.703703703704
+7586CEF7,"A solution to the MCSP problem considering physical layer degradations in transparent optical networks",0.242266414141,0.261183261183
+80C227B5,"Practical issues in spectrum sensing for multi-carrier system employing pilot tones",0.173214285714,0.161224489796
+7DBF316C,"Bluetooth and Wi-Fi wireless protocols: a survey and a comparison",0.132234432234,0.210227272727
+756FD140,"On the multi-channel access schemes of the evolving WLANs",0.209368756244,0.422619047619
+7D0CDE4A,"Adaptive time hopping PPM UWB multiple access communication schemes",0.233143939394,0.311904761905
+7E50DCEF,"Performance analysis and comparison of HARQ schemes in cross layer design",0.460227272727,0.538265306122
+786EFAD1,"Adaptive Physical Carrier Sense in Topology-Controlled Wireless Networks",0.35560966811,0.590277777778
+80354C35,"A Novel Algorithm for Decapsulation and Decoding of DVB-H Link Layer Forward Error Correction",0.244486416361,0.297142857143
+798E5ACE,"Network simulation with lookup tables from physical layer replay simulations: A KAM11 example",0.255704365079,0.249546485261
+7F21F811,"A performance comparison of multi-hop wireless ad hoc network routing protocols",0.252137445887,0.300336700337
+7E32F56E,"Short paper: ACE: authenticating the channel estimation process in wireless communication systems",0.177335858586,0.148263888889
+8091D53F,"A scalable model for channel access protocols in multihop ad hoc networks",0.218813131313,0.293737373737
+75205FF7,"WiMax/802.16 threat analysis",0.220280067155,0.583333333333
+7D61F407,"Performance of ad hoc wireless networks with Aloha and PR-CSMA MAC protocol",0.234776334776,0.251875901876
+7D5A335D,"Safeguarding 5G wireless communication networks using physical layer security",0.258238636364,0.274410774411
+7F178342,"Toward ubiquitous massive accesses in 3GPP machine-to-machine communications",0.209409340659,0.555555555556
+7DACBD29,"Opportunistic Scheduling with Frame Aggregation for Next Generation Wireless LANs",0.17748466811,0.230555555556
+808EB334,"MAC Layer Performance of Different Channel Estimation Techniques in UTRAN LTE Downlink",0.222127525253,0.283888888889
+7D56C29B,"Analysis of single and mixed 802.11 networks and mobility architecture",0.239835858586,0.355555555556
+7F6F39DE,"Randomized Multi-User Strategy for Spectrum Sharing in Opportunistic Spectrum Access Network",0.218813131313,0.235317460317
+80A97CA1,"Design Considerations and Physical Layer Performance Results for a 4G OFDMA System Employing Dynamic Subcarrier Allocation",0.378179112554,0.378179112554
+7F3EB427,"Performance Analysis of ARQ with Opportunistic Scheduling in IEEE 802.16 Networks",0.328977272727,0.563492063492
+7D26E1B1,"CODIPHY: composing on-demand intelligent physical layers",0.22931547619,0.571428571429
+8126B87F,"Impact of Selfish Rate Adaptation on the Performance in IEEE 802.11-Based Wireless Multi-Hop Networks",0.24310966811,0.285846560847
+7DBF9AA9,"Cross Layer Scheduling Algorithms for Downlink Multi-Antenna CDMA Systems",0.295081654457,0.445238095238
+7EF1084D,"Cross-layer user multiplexing algorithms evaluation in MIMO OFDM wireless systems",0.173024891775,0.244047619048
+7E1B8DDE,"Using the physical layer for wireless authentication in time-variant channels",0.243990384615,0.345643939394
+782B1037,"High performance wireless Ethernet",0.241026334776,0.464285714286
+7EFC6772,"Performance Analysis of Slotted Carrier Sense IEEE 802.15.4 Medium Access Layer",1.0,1.0
+8017FC6D,"DVB-T/H and T-DMB: Physical Layer Performance Comparison in Fast Mobile Channels",0.370738636364,0.59375
+09E94982,"Spectrum Virtualization Layer",0.219845779221,1.0
+7EACF57F,"The cross-layer optimation research on wireless sensor networks",0.158585858586,0.236111111111
+7DF6F1FE,"Physical layer effects on the MAC goodput performance for the rate adaptive IEEE 802.11a/g WLAN",0.353377525253,0.409331409331
+7DE956DD,"Analysis of packet loss for real-time traffic in wireless mobile networks with ARQ feedback",0.24623466811,0.258333333333
+7E085123,"Physical Layer Error Correction Based Cipher",0.250202922078,0.304126984127
+7CC0FC9E,"Physical layer security game: interaction between source, eavesdropper, and friendly jammer",0.262554112554,0.269449598021
+80ACF7C0,"An integrated PHY and MAC layer model for half-duplex IEEE 802.11 networks",0.243213383838,0.3
+7F223E51,"Integrating Multiuser Dynamic OFDMA into IEEE 802.11 WLANs - LLC/MAC Extensions and System Performance",0.268308080808,0.335642135642
+5A80403A,"A MIMO Architecture for IEEE 802.16d (WiMAX) Heterogeneous Wireless Access Using Optical Wireless Technology",0.256746031746,0.351904761905
+7E9620A7,"Call Admission Control in Wireless DS-CDMA Systems using Actor-Critic Reinforcement Learning",0.174454365079,0.163662131519
+78EFC982,"Intelligent home systems",0.141733440171,0.216666666667
+7DBE1635,"Markov models for the physical layer block error process in a WCDMA cellular system",0.283387445887,0.334693877551
+7D269CC4,"On improving the performance of IEEE 802.11 with multihop concepts",0.232333638584,0.464285714286
+809D5C4D,"Multi-channel multi-stage spectrum sensing: Link layer performance and energy consumption",0.349116161616,0.362301587302
+820BA10F,"One transmission scheme based on variable MSK modulator for wireless physical layer security",0.250946969697,0.301515151515
+5F3E6160,"Performance Evaluation of an IEEE 802.15.4a Physical Layer with Energy Detection and Multi-User Interference",0.362554112554,0.41130952381
+7E9C37DD,"Optimal Cross-Layer Performance over MIMO Fading Channel with Adaptive Transmission",0.213687354312,0.416666666667
+7D17CE6B,"A Performance Study of Deployment Factors in Wireless Mesh Networks",0.252137445887,0.302188552189
+7E8EF7E8,"Multicast routing under optical layer constraints",0.22931547619,0.398148148148
+77C263BA,"Performance of mac80211 rate control mechanisms",0.213446969697,0.330555555556
+7E384C74,"Physical Layer Spectrum Usage Authentication in Cognitive Radio: Analysis and Implementation",0.353365384615,0.427651515152
+717D0E5C,"Comparative Study of WiMAX and LTE",0.106324404762,0.25
+7FAA329D,"A study of CDPD forward channel performance with coherent and differential detection",0.234520687646,0.375
+7E25943D,"Performance analysis of powerline communication for local area networking",0.342068001443,0.577380952381
+7F0F7066,"Sensor networks with mobile access: optimal random access and coding",0.26240530303,0.505555555556
+7D48BB4D,"Cross layer design of IEEE 802.11e Enhanced Distributed Channel Access wireless network for telemedicine application",0.360321969697,0.327063492063
+807B0517,"CogNet: a cognitive complete knowledge network system",0.182787698413,0.203703703704
+7F651E07,"Performance analysis of wireless hybrid-ARQ systems with delay-sensitive traffic",0.379419191919,0.611111111111
+787D2D74,"Using physical layer emulation to optimize and evaluate mobile and wireless systems",0.239732142857,0.276388888889
+7F850048,"Machine learning for physical layer link adaptation in multiple-antenna wireless networks",0.239741161616,0.28253968254
+79D08AC6,"Physical layer impact on the design and performance of routing and broadcasting protocols in ad hoc and sensor networks",0.357345779221,0.303217893218
+7E9D34F6,"Exploiting Cooperative Advantages in Slotted ALOHA Random Access Networks",0.218813131313,0.290793650794
+7D9CF319,"Performance of IEEE802.16-2004 Based System in Jamming Environment and its Improvement with Link Adaptation",0.268308080808,0.253125
+7CAFF678,"Performance analysis of unslotted CSMA/CA in wireless networks",0.345887445887,0.590277777778
+7BB04528,"Research on physical layer traffic management schemes in serial RapidIO interconnect",0.279220779221,0.34246031746
+7DFF314D,"Novel Scheduling Algorithms for Multimedia Service in OFDM Broadband Wireless Systems",0.216212606838,0.266865079365
+7FEA96BC,"Fingerprints in the Ether: Using the Physical Layer for Wireless Authentication",0.235657051282,0.286447811448
+81150D9D,"Cross Layer Design for the IEEE 802.11 WLANs: Joint Rate Control and Packet Scheduling",0.24623466811,0.250099206349
+7DB125F1,"Physical layer implementation and evaluation of multiple input multiple output - orthogonal frequency division multiplexing (MIMO-OFDM) system",0.268060064935,0.248009089676
+7FBBDF77,"A Deadlock-Free High-Throughput Tree Algorithm for Random Access over Fading Channels",0.231746031746,0.300793650794
+7EC5180E,"Performance Analysis of Communications & Radar Coexistence in a Covert UWB OSA System",0.384027777778,0.451851851852
+7DC9F5CC,"Cross layer transmit antenna selection in MQAM modulation MIMO systems",0.251149891775,0.361904761905
+7D99C0D3,"Performance Comparison of Uplink WLANs with Single-User and Multi-User MIMO Schemes",0.237554112554,0.379464285714
+802DBD52,"Using location information for scheduling in 802.15.3 MAC",0.173223304473,0.217777777778
+7604E593,"Preamble Structure for IEEE 802.11n Wireless LAN System",0.146929112554,0.270833333333
+800133A0,"A physical layer simulator for WiMAX",0.22931547619,0.6
+81374EF5,"Coexistence of ultra-wideband systems with IEEE-802.11 a wireless LANs",0.141117909868,0.2125
+8364CC78,"On physical layer security for cognitive radio networks with primary user interference",0.256502525253,0.300336700337
+7E623AE1,"Throughput Analysis of the IEEE 802.11 Distributed Coordination Function Considering Capture Effects",0.233685064935,0.2349251443
+7D3B2D64,"Optical Layer Security in Fiber-Optic Networks",0.239741161616,0.400673400673
+5C8DED72,"Teletraffic Performance Analysis of Multi-class OFDM-TDMA Systems with AMC",0.369002525253,0.777777777778
+7E0FF965,"Stochastic Timing Analysis of the AES Cipher Algorithm over a Correlated Fading Channel",0.219602272727,0.263498075998
+7F69607C,"The analysis of IEEE802.16e MAC layer overhead and efficiency in PMP topology",0.342159576535,0.393243793244
+7F80A316,"UWB Systems for Wireless Sensor Networks",0.146338383838,0.236111111111
+5AE6D86C,"Two-phase cooperative jamming and beamforming for physical layer secrecy",0.239129273504,0.403703703704
+807EED7F,"Dynamic random access code assignment for prioritized packet data transmission in WCDMA networks",0.234185606061,0.252777777778
+7B0E95E9,"Scalability Analysis of Rate Adaptation Techniques in Congested IEEE 802.11 Networks: An ORBIT Testbed Comparative Study",0.225599747475,0.237152777778
+58739FF3,"Performance analysis of underwater network protocols within international sea trial",0.337752525253,0.415614478114
+7557BA65,"Interaction between radio link level truncated ARQ, and TCP in multi-rate wireless networks: a cross-layer performance analysis",0.358387445887,0.327341269841
+816C8F21,"Fine-grained channel access in wireless LAN",0.247023809524,0.385416666667
+7CF0BD3E,"On Cooperative Relaying Schemes for Wireless Physical Layer Security",0.240675990676,0.405303030303
+7DCBAA95,"Beyond the bits: cooperative packet recovery using physical layer information",0.239741161616,0.266666666667
+7FDB59EA,"Multiuser detection enabled medium access control in mobile ad hoc networks",0.223074494949,0.263161375661
+7FB41377,"Performance Comparison of Weather Disruption-Tolerant Cross-Layer Routing Algorithms",0.229312354312,0.464285714286
+7F18A1F3,"Analysis of Blocking Probability in Noise and Crosstalk Impaired All-Optical Networks",0.227831890332,0.26917989418
+7FB9186B,"A generic framework for failure modes and effects analysis of automotive networks",0.232251082251,0.270442520443
+78256D82,"Medium access control of wireless LANs for mobile computing",0.239637445887,0.336666666667
+800C40B7,"Throughput performance of WLANs operating at 5 GHz based on link simulations with real and statistical channels",0.230316558442,0.236061507937
+8143F2C8,"Cross-Layer Resource Allocation Model for Cellular-Relaying Network Performance Evaluation",0.223917748918,0.268590668591
+80069B89,"Cross Layer Design For Multiaccess Communication Over Rayleigh Fading Channels",0.248768939394,0.299272486772
+7F5E45B0,"On the Performance of Packet ARQ Schemes in Rayleigh Fading: The Role of Receiver Channel State Information and Its Accuracy",0.240679112554,0.217222222222
+7FC4F5B3,"Implementing an Experimental Cognitive Radio System for DySPAN",0.141733440171,0.242063492063
+7FA203AE,"Performance analysis of delayed acknowledgment scheme in UWB-based high-rate WPAN",0.328270687646,0.553977272727
+80986D87,"Queuing with adaptive modulation and coding over wireless links: cross-Layer analysis and design",0.231544497169,0.278439153439
+7D8AC392,"An evaluation of the performance of IEEE 802.11a and 802.11g wireless local area networks in a corporate office environment",0.2380501443,0.277248677249
+80FA7E56,"On the performance modelling and optimisation of DOCSIS HFC networks",0.211268939394,0.287222222222
+7ED19B59,"Performance Analysis of IEEE 802.11p Control Channel",0.316287878788,0.55625
+80E086F9,"Cross-Layer Design for TCP Performance Improvement in Cognitive Radio Networks",0.247077922078,0.325793650794
+7FD8BF3F,"On the Effect of Cooperative Relaying on the Performance of Video Streaming Applications in Cognitive Radio Networks",0.253179112554,0.269841269841
+8008DA17,"Cross-Layer Optimization with Guaranteed QoS for Wireless Multiuser OFDM Systems",0.139484126984,0.227777777778
+7D49C2EF,"Performance of the radio link protocol of HIPERLAN/2",0.232503607504,0.360227272727
+80C72AD2,"Adaptation of multiple access parameters in time hopping UWB cluster based wireless sensor networks",0.257693001443,0.238849206349
+7DBA6F99,"Design and Implementation of an RF Front End for Physical Layer Wireless Network Emulation",0.247970779221,0.242162698413
+7E8AB031,"Cross-layer analysis and design for multimedia services in IEEE 802.11 WLANs",0.21336996337,0.310714285714
+78C9972C,"A software architecture for physical layer wireless network emulation",0.239741161616,0.287962962963
+7E786FBE,"New insights into the stochastic geometry analysis of dense CSMA networks",0.227335858586,0.329861111111
+7EBC01A4,"Analysis and optimization of a cross-layer adaptation mechanism for real-time applications in wireless networks",0.24623466811,0.262698412698
+7D6AA62B,"Physical layer impairments in WDM core networks: a comparison between a North-American backbone and a Pan-European backbone",0.263595779221,0.255112347969
+7E137C7F,"Multidimensional Markov Models for the Cross-Layer Design of Multi-Rate Wireless Systems Using the Effective Capacity Function",0.178526334776,0.178526334776
+7D59456C,"Error control in wireless sensor networks: a cross layer analysis",0.349012445887,0.387996031746
+7FEAEE40,"WiMAX Performance Evaluation",0.205502830503,0.571428571429
+8170FF24,"Throughput Analysis of a Randomized Sensing Scheme in Cell-Based Ad-Hoc Cognitive Networks",0.242162698413,0.305555555556
+83F0265A,"Performance comparison of two on-demand routing protocols for ad hoc networks",0.226893939394,0.310404040404
+7FD761A5,"An Experimental Case for SIMO Random Access in Multi-hop Wireless Networks",0.256398809524,0.381944444444
+7F3D8773,"Energy-Delay Analysis of MAC Protocols in Wireless Networks",0.234776334776,0.312626262626
+80582A85,"MIMO Authentication via Deliberate Fingerprinting at the Physical Layer",0.249198717949,0.419191919192
+80FA4936,"Impact of physical layer parameters on the MAC throughput of IEEE 802.11 wireless LANs",0.2536751443,0.282879818594
+80FEAAC3,"Call-level and packet-level performance analysis of call admission control and adaptive channel allocation in cellular wireless networks",0.354220779221,0.348516414141
+7F7FDF38,"Subchannel-allocation algorithms and performance analysis for space-time OFDM-CDMA based systems in wireless networks",0.379419191919,0.458994708995
+808DCF0D,"Aggregated Renewal Markov Processes With Applications in Simulating Mobile Broadcast Systems",0.172821969697,0.151388888889
+7F7C1367,"Performance Analysis of Multichannel Medium Access Control Algorithms for Opportunistic Spectrum Access",0.577335858586,0.667857142857
+7C1BE8CC,"Accurate Capture Models and Their Impact on Random Access in Multiple-Destination Networks",0.229274891775,0.312698412698
+7D0A635A,"Performance Analysis of Hybrid Medium Access Protocol in IEEE 802.15.3 WPAN",0.577335858586,0.818181818182
+7FE8E1CC,"Performance of UWB receivers using stored channel responses",0.235818001443,0.313888888889
+80916130,"Packet Scheduling Over DVB-S2 Through GSE Encapsulation",0.145896464646,0.237037037037
+816D5D27,"Performance Analysis of Different Reed-Solomon Erasure Decoding Strategies at the DVB-H Link Layer",0.469696969697,0.485606060606
+8111EFF3,"Performance evaluation of H.264 video over ad hoc networks based on dual mode IEEE 802.11B/G and EDCA MAC architecture",0.243804112554,0.228218694885
+64F1B86F,"Sora: high performance software radio using general purpose multi-core processors",0.241026334776,0.316666666667
+7D5C7FD5,"Some physical layer issues of wide-band cognitive radio systems",0.264732142857,0.431547619048
+78E375DC,"Reconfiguration Aspects and a Reconfigurable Outer Block Interleaver for 3G Applications",0.164637445887,0.214285714286
+7E374BC4,"QoS scheduling based on acceptable BER in DS/CDMA wireless networks",0.17113997114,0.256944444444
+813CCFF2,"A Modified SV-Model Suitable for Line-of-Sight Desktop Usage of Millimeter-Wave WPAN Systems",0.172276334776,0.205555555556
+7DC2615E,"Amplify-and-forward cooperative diversity wireless networks: model, analysis, and monotonicity properties",0.253526334776,0.285968660969

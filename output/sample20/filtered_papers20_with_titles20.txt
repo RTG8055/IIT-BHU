@@ -1,0 +1,1854 @@
+805A8FBF	Channel Assignment Exploiting Partially Overlapping Channels for Wireless Mesh Networks
+75A821E9	The joint Gateway Placement and Spatial Reuse Problem in Wireless Mesh Networks
+815FBE5D	Load aware traffic engineering for mesh networks
+76C056F0	The QoS-RWP mobility and user behavior model for public area wireless networks
+7E42C0EF	A mobile ad-hoc satellite and wireless Mesh networking approach for Public Safety communications
+7B12F04F	Routing Scheme for Bandwidth Guaranteed Traffic in AMC-Enabled Wireless Mesh Networks
+7EF8B475	Interference-aware QoS routing for multi-rate multi-radio multi-channel IEEE 802.11 wireless mesh networks
+80A3AD39	Maximum Achievable Throughput in Multiband Multiantenna Wireless Mesh Networks
+7E5264BE	A Joint cross layer routing and resource allocation algorithm for multi-radio wireless mesh networks
+7F606222	Adding Capacity Points to a Wireless Mesh Network Using Local Search
+7FB78868	Weighted fairness for flows in wireless mesh networks
+76E9B420	Trends, advances, and challenges in testbed-based wireless mesh network research
+7F7B5E78	An Information Value Driven Architecture for Urban Video Surveillance in Data and Attention Bandwidth Constrained Environments
+80FC5601	K Bipartite Partitioning Algorithm for Channel Allocation Problem in Wireless Mesh Networks
+7EE64E7C	Topology Control for Throughput Optimization in Wireless Mesh Networks
+81524443	Wireless Mesh Networks performance assessment for confined Areas deployment
+7D4FA28D	RADAR: A ReputAtion-Based Scheme for Detecting Anomalous Nodes in WiReless Mesh Networks
+7F981A11	Mesh networks: commodity multihop ad hoc networks
+7EEED3CD	Evaluation of genetic algorithms for mesh router nodes placement in wireless mesh networks
+7D713ED2	On optimal route construction in wireless mesh networks
+802A3558	An Efficient Scheme for Solving Bandwidth Guaranteed Scheduling and Shortest path Routing Problem in Wireless Mesh Networks
+7F237867	Optimization Problems and Resolution Methods for Node Placement in Wireless Mesh Networks
+5B792158	A new routing metric for wireless mesh networks
+5C9E5746	Fault-Tolerant Topology Control Based on Artificial Immune Theory in WMNs
+7D113E13	Service Discovery in Wireless Mesh Networks
+7E914820	RAGHC: Reliable authenticated group head communication for wireless mesh networks
+75DC9FE0	A Hidden-Exposed Terminal Interference Aware Routing Metric for Multi-Radio and Multi-Rate Wireless Mesh Networks
+7FFA02AC	A Proposal of Fixed Backoff-time Switching Method by Link Activation Rate for Wireless Mesh Networks
+7D178637	Cross-Layer Transmission Scheme with QoS Considerations for Wireless Mesh Networks
+7E4483E2	On Redundant Multipath Operating System Support for Wireless Mesh Networks
+7BD69305	Simulation and analysis of node throughput using smart antenna in wireless mesh networks
+7D8AD52E	On accurate and asymmetry-aware measurement of link quality in wireless mesh networks
+7FF5410B	MBP: Routing Metric Based on Probabilities for multi-radio multi-channel wireless mesh networks
+5A0F8251	Wireless Mesh Networks: Routing Protocols and Challenges
+7F6455E4	The effect of consumer demand on optimised wireless mesh network deployment
+8142ED10	VCG-Based Time-Slot Auctioning in IEEE 802.16 OFDM/TDMA Wireless Mesh Networks
+7E6A6000	RUCA: Research on challenges in ICT infrastructure for large-scale deployment of educational laptops
+8105C684	Inter-channel interference cancellation in wireless mesh network
+801C6713	Optimization Models of Multi-Channel Assignment in Multi-Radio Wireless Mesh Networks
+5BE7F0B9	Investigation of Across-layer Modification to the DSR Routing Protocol in Wireless Mesh Networks
+5B87903A	Opportunistic Multipath Routing in Wireless Mesh Networks
+7BA0524C	A new joint strategy of radio channel allocation and power control for wireless mesh networks
+01D023DD	An event-based packet dropping detection scheme for wireless mesh networks
+80018296	A Tree-based Channel Assignment Scheme for Wireless Mesh Networks
+7A188697	A link layer adaptive pacing scheme for improving throughput of transport protocols in wireless mesh networks
+7D2C6A56	A novel channel assignment algorithm based on topology simplification in multi-radio wirelesss mesh networks
+7D38CBAD	Research on Resource Allocation Algorithm in an OFDMA Wireless Mesh Network
+7CC45E0E	Channel assignment and link scheduling in multi-radio multi-channel wireless mesh networks
+5C6E9B91	A Cross-Layer Approach to Heterogeneous Interoperability in Wireless Mesh Networks
+631E0408	Architecture and algorithms for an IEEE 802.11-based multi-channel wireless mesh network
+761B8C04	On the nominal capacity of multi-radio multi-channel wireless mesh networks
+7DB61BE8	OLSR-FastSync: Fast Post-Handoff Route Discovery in Wireless Mesh Networks
+7E577FF2	Congestion-Aware Clique-Based Handoff in Wireless Mesh Networks
+8150DBA3	Troubleshooting wireless mesh networks
+8133C11D	An efficient multi-hop FEC scheme for wireless mesh networks
+7FD3A14A	Diffusion Based Distributed Internet Gateway Load Balancing in a Wireless Mesh Network
+8158D1FD	Joint Channel Width Adaptation, Topology Control, and Routing for Multi-Radio Multi-Channel Wireless Mesh Networks
+7D6C54FF	Adaptive Split Transmission for Video Streams in Wireless Mesh Networks
+7F73E1CC	A Joint Approach to Routing Metrics and Rate Adaptation in Wireless Mesh Networks
+816FEEB7	A Maximum Fair Bandwidth Approach for Channel Assignment in Wireless Mesh Networks
+58798BAD	Receiver Based Traffic Control Mechanism to Protect Low Capacity Network in Infrastructure Based Wireless Mesh Network
+3010D797	Experimental Performance Evaluation of ATP (Ad-hoc Transport Protocol) in a Wireless Mesh Network
+80360DEC	Dynamic Pricing Based Congestion Control over Wireless Mesh Network
+7CE33DDF	VoIP over wireless mesh networks: challenges and approaches
+758AB245	LEAS: Localized efficient authentication scheme for multi-operator wireless mesh network with identity-based proxy signature
+7E7A890D	A Cross-Layer Framework of QoS Routing and Distributed Scheduling for Mesh Networks
+80E33C25	Uplink Scheduling in Wireless Mesh Networks
+7FF3BD32	Precise Admission Control for Bandwidth Reservation in Wireless Mesh Networks
+7EC454EA	Enhanced QoS Multicast Routing in Wireless Mesh Networks
+7B5ACB78	Wireless mesh network security: A traffic engineering management approach
+79E9E524	Constructing of wireless emergency communication system for underground coal mine based on WMN technology
+783737C3	A hybrid-routing based intra-domain mobility management scheme for wireless mesh networks
+7578D333	Enhancing the Performance of Video Streaming in Wireless Mesh Networks
+77487A14	A genetic approach to channel assignment for multi-radio multi-channel wireless mesh networks
+81172B89	Bilateral Shapley Value Based Cooperative Gateway Selection in Congested Wireless Mesh Networks
+77BC0C1E	Making a mesh router/gateway from a smartphone: Is that a practical solution?
+77375708	SeCA: A framework for Secure Channel Assignment in wireless mesh networks
+77BE5891	A content replication scheme for wireless mesh networks
+8074DA37	Using Mobile Internet Gateways in Wireless Mesh Networks
+78D53BE3	Efficient transport of IP flows over IEEE802.11 Wireless Mesh Networks
+762AFEDF	Minimum loss multiplicative routing metrics for wireless mesh networks
+7EADD2B3	Interference-Aware Robust Wireless Mesh Network Design
+80A4F528	A Channel Configuration Problem for Access-Point Communications in Wireless Mesh Networks
+812C31BC	Design and Performance Analysis of Mobility Management Schemes Based on Pointer Forwarding for Wireless Mesh Networks
+7DC29B87	MAC-aware routing metric for 802.11 wireless mesh networks
+7B91AAB4	MRS: a simple cross-layer heuristic to improve throughput capacity in wireless mesh networks
+7E7E62A6	Maximizing Multicast Call Acceptance Rate in Multi-Channel Multi-Interface Wireless Mesh Networks
+795D30EA	Throughput Gateways-Congestion Trade-Off in Designing Multi-Radio Wireless Networks
+61735B99	Routing, Interface Assignment and Related Cross-layer Issues in Multiradio Wireless Mesh Networks
+5A7960B1	Adaptive on-the-go scheduling for end-to-end delay control in TDMA-based wireless mesh networks
+7F833B84	On Optimizing Non-Asymptotic Throughput of Wireless Mesh Networks
+7D061531	PPMN:A Resilient Public Peer-to-Peer Mesh Network of IEEE802.16 Users
+7DD78C94	Integrated Routing System for Wireless Mesh Networks
+7FC4AFA3	DelayCheck: Scheduling voice over multi-hop multi-channel wireless mesh networks
+775AAC5B	Assessing mobility support in mesh networks
+7FC1A2A4	Research and Improvement on Expected Throughput Metric in Wireless Mesh Network
+77DEC2E5	Combining multi-path forwarding and packet aggregation for improved network performance in wireless mesh networks
+7F90D086	Performance comparison of proactive and reactive multicast routing protocols over wireless mesh networks
+7772C151	Self-Adjustable Trust-Based Energy Efficient Routing for Smart Grid Systems
+6064B01A	Low Latency in Wireless Mesh Networks
+80BD8287	Performance Evaluation of Multi-Channel Wireless Mesh Networks with Embedded Systems
+79AE7892	End-to-end throughput improvement for single radio multi-channel multi-path wireless mesh networks: a cross layer design
+7EC92F05	An Adaptive Router Placement Scheme for Wireless Mesh Networks
+7C96E188	Multicast Routing Protocol for Wireless Mesh Networks: Multicast Routing Protocol for Wireless Mesh Networks
+7EB99E98	QUORUM: quality of service routing in wireless mesh networks
+7E731526	Community intrusion detection system based on wavelet neural network
+7AB8F6D4	Evaluation of multi-radio extensions to AODV for wireless mesh networks
+7EAE15C8	Towards Guaranteed QoS in Mesh Networks: EmulatingWiMAX Mesh over WiFi Hardware
+800E55FD	Fast Channel Establishment for IEEE 802.16 Wireless Mesh Networks
+7DD9079E	Smooth Handoff with Relay Router in Wireless Mesh Networks
+58E28E3E	HOVER: hybrid on-demand distance vector routing for wireless mesh networks
+812BEA1A	An interference-aware fair scheduling for multicast in wireless mesh networks
+7D4C52D5	Mean field network based QoS routing scheme in wireless mesh networks
+815043C2	MARS: Link-layer rate selection for multicast transmissions in wireless mesh networks
+7CE9718C	A QoS Routing protocol in wireless mesh networks
+7E840A86	Survivable and delay-guaranteed backbone wireless mesh network design
+7942827D	Topology control for multi-channel multi-radio wireless mesh networks using directional antennas
+7C627A44	A fast and reliable routing technique for wireless mesh networks
+7F0E1FF1	Modelling the behavior of a beacon-based link sensing mechanism with variable sensing range
+812E8F18	Protocol design and optimization for QoS provisioning in wireless mesh networks
+7672DD99	Link Positions Matter: A Noncommutative Routing Metric for Wireless Mesh Networks
+7DCCE4F7	Wireless Sensor Network for Community Intrusion Detection System Based on Improved Genetic Algorithm Neural Network
+7E005BFD	Cross-Layer Optimization for OFDMA-Based Wireless Mesh Backhaul Networks
+813A2E26	Establishing high capacity routes in wireless mesh networks
+7FEFFB99	AMIRA: Interference-Aware Routing Using Ant Colony Optimization in Wireless Mesh Networks
+7C078F86	Multipath Routing in Wireless Mesh Networks
+0C4EEF49	QMesh: a QoS Mesh Network with Mobility Support
+7EDC2C02	EPEW: An extended prototyping environment for wireless mesh networks
+78CADD3A	Channel Assignment with Partially Overlapping Channels in Wireless Mesh Networks
+7A51E4D0	Load-balanced mesh router migration for wireless mesh networks
+7F81D90C	A two-stage algorithm for access point allocation in indoor environments for wireless Mesh Networks
+7F292E8B	Channel Assignment in Multi-radio Multi-channel Wireless Mesh Network by Topology Approach
+8023013F	A novel routing metric for mesh networks
+80474C74	Ubiquitous robust communications for emergency response using multi-operator heterogeneous networks
+7E4C5E0B	End-to-end congestion control in wireless mesh networks using a neural network
+7FBAEF16	A Zone-Based Distributed Key Management Scheme for Wireless Mesh Networks
+7DE92F8F	Fast authentication for mobility support in wireless mesh networks
+80C2A73F	Hybrid multi-channel multi-radio wireless mesh networks
+7FF606EC	An introduction to the family members of the architecture Super Strongly Perfect Graph (SSP)
+815C51AB	Call Admission Control for Mobile Agent Based Handoff in Wireless Mesh Networks
+6EB4A74C	An Anonymous Authentication and Communication Protocol for Wireless Mesh Networks
+77E1D596	Analyzing the effective throughput in multi-hop IEEE 802.11n networks
+03684EF1	WIRELESS MESH NETWORK CROSS-LAYER INTRUSION DETECTION
+7F627922	On the feasibility of the link abstraction in wireless mesh networks
+7F198A09	An STDMA-based framework for QoS provisioning in wireless mesh networks
+80C42415	Comparison of ETX and HOP count metrics using Glomosim simulator
+7E83C1F8	Probabilistic load balancing in wireless mesh networks
+8167E881	Topology Control and Channel Assignment in Multi-Radio Multi-Channel Wireless Mesh Networks
+7DC7F247	Toward practical opportunistic routing with intra-session network coding for mesh networks
+7FD226FF	A Hierarchical Reputation Management Framework for Wireless Mesh Networks
+8069BF05	A Simulation Based Performance Analysis of Reactive Routing Protocols in Wireless Mesh Networks
+80C853C5	Exploiting multiple channels for rate separation in IEEE 802.11 multi-radio wireless mesh networks
+8039A181	Duplexing, multiplexing, and multiple access: A comparative analysis for mesh networks
+7855529E	An Access Point Allocation Algorithm for Indoor Environments in Wireless Mesh Networks
+756A77F3	A Survey on Security in Wireless Mesh Networks
+5D39624F	Wireless Mesh Network Routing Under Uncertain Demands
+7FFFF779	Improving Delay and Jitter Performance in Wireless Mesh Networks for Mobile IPTV Services
+80C400F4	Decentralised Cross-Layer Dynamic Power Control for Wireless Mesh Networks
+78BD7576	Priority-Based STDMA Scheduling Algorithm to Enhance Throughput and Fairness in Wireless Mesh Networks
+793CC74C	Access Authentication Scheme Based on Authorized Certificate in Wireless Mesh Networks
+7E7220DC	Internet Pooling: Routing for load distribution in access networks
+5AACEB15	An Efficient and Reliable Routing Protocol for Wireless Mesh Networks
+7FCF966F	An Architecture for Survivable Mesh Networking
+7D3A10AC	Efficient Load-Aware Routing Scheme for Wireless Mesh Networks
+7FD98F20	A Non-TPC Based Enhanced Topology Control Process for Multi-radio Wireless Mesh Networks
+7DCC5BB2	Multi-Antenna Techniques for Wireless Mesh Networks in an Outdoor Environment
+7CEB7AB3	Gateway placement optimization for load balancing in wireless mesh networks
+7B726FD3	The impact of topology in robust routing on wireless mesh networks
+7FCCC8F5	Exploiting the Capacity of Multichannel Multiradio Wireless Mesh Networks
+80845918	Connectivity in multi-channel multi-interface wireless mesh networks
+7FCDE8C8	Distributed Fair Scheduling for Wireless Mesh Networks Using IEEE 802.11
+7E66384F	Connection admission control and grade of service for QoS routing in mesh networks
+810CF573	Throughput Optimization Routing Under Uncertain Demand for Wireless Mesh Networks
+815E7145	Reliable, Low Overhead Link Quality Estimation for 802.11 Wireless Mesh Networks
+7DDD03C6	An Efficient Authenticated Key Establishment Scheme for Wireless Mesh Networks
+7E12F174	Joint Stream Control and Scheduling in Multihop Wireless Networks with MIMO Links
+7DB030DB	Spectrum sharing in multi-service cognitive network using reinforcement learning
+7FFE6E51	A Multi-service Group Key Management Scheme for Stateless Receivers in Wireless Mesh Networks
+7D62A1DF	Network Assisted Media Streaming in Multi-Hop Wireless Networks
+80E21DAE	Evaluation of Various Interference Models for Joint Routing and Scheduling in Wireless Mesh Networks
+81220D11	Understanding congestion control in multi-hop wireless mesh networks
+79F5FC6D	A self-adaptive routing paradigm for wireless mesh networks based on reinforcement learning
+8130E0E4	Directional Double Metric Routing in Wireless Mesh Network
+60B57FA7	A Trust-Based Detection Algorithm of Selfish Packet Dropping Nodes in a Peer-to-Peer Wireless Mesh Network
+7E5C9819	Multi-path routing for a cognitive Wireless Mesh Network
+80F8BE41	Joint Channel and Power Allocation in Wireless Mesh Networks: A Game Theoretical Perspective
+7D73ACA2	Traffic Oriented Topology Formation and Load-balancing Routing in Wireless Mesh Networks
+7BE1C794	A Distributed and Collaborative Intrusion Detection Architecture for Wireless Mesh Networks
+75ED6F5E	Performance analysis of multi-radio AODV in hybrid wireless mesh networks
+7E77D0C5	Connectivity in Multi-radio Multi-channel Wireless Mesh Networks
+7DB67143	Optimal monitoring in multi-channel multi-radio wireless mesh networks
+7FF7EEE0	Partially Overlapped Channel Assignment for Multi-Channel Wireless Mesh Networks
+7E89EC14	A Self-X Approach for OLSR Routing Protocol in Large-Scale Wireless Mesh Networks
+5A5BCCE9	Load Balancing by Joint Optimization of Routing and Scheduling in Wireless Mesh Networks
+801BABA4	Design and analysis of mobility-aware clustering algorithms for wireless mesh networks
+8005E802	DLDCA: A distributed link-weighted and distance-constrained channel assignment for single-radio multi-channel wireless mesh networks
+7B77817E	Seeker: A bandwidth-based association control framework for wireless mesh networks
+7DF116CC	Resource adaptations for revenue optimization in cognitive mesh network using reinforcement learning
+7F537525	Social network analysis plugin (SNAP) for mesh networks
+816AD3F8	A framework for detecting selfish misbehavior in wireless mesh community networks
+7B4D6F69	Trust-based Adaptive Routing for Smart Grid Systems
+816CEE2E	New link addition strategies for Multi-Gateway small world Wireless Mesh Networks
+7AE00A4B	Centralized feedback-driven rate allocation mechanism for CSMA/CA-based wireless mesh networks
+7D3EE162	CORE: An accurate congestion detection method in IEEE 802.11 wireless mesh networks
+7D5CC7AD	A hyacinth-based joint routing and channel assignment algorithm for multi-channel multi-interface wireless mesh networks
+7DA7B3CC	Self-Adaptive Routing for Temporary Information Sharing in Wireless Mesh Networks
+7D2BC388	Implementation of a Wireless Mesh Network Testbed for Traffic Control
+793B18E5	Wireless mesh networking games
+808C2673	A Cooperative Channel Assignment protocol for multi-channel multi-rate wireless mesh networks
+7E7C8F37	A Scalable Neighborhood Discovery Protocol for Infrastructure Wireless Mesh Networks
+7DE8B83B	Implementation issues for the deployment of a WMN with a hybrid fixed/cellular backhaul network in emergency situations
+7D91F847	Multi-constrained path computation algorithms for Traffic Engineering over Wireless Mesh Networks
+7D95B2E7	Georoy: A location-aware enhancement to Viceroy peer-to-peer algorithm
+8117543C	Seed node deployment for wireless mesh networks with uncertain subscription
+80F6C4F6	Fixed channel assignment algorithm for multi-radio multi-channel MESH networks
+80C42097	Investigating Deployment Strategies for Multi-radio Multi-channel Residential Wireless Mesh Networks
+80F0298C	A Scalable Link Quality Routing Protocol for Multi-radio Wireless Mesh Networks
+7E573DF5	Analysis ofWiMedia-based UWB Mesh Networks
+7F5C4E20	Understanding interference and carrier sensing in wireless mesh networks
+80D9218E	Prediction-Based Link-Layer Dynamic Fragmentation and Aggregation for Wireless Mesh Networks
+7DFFF497	Hybrid Wireless-Optical Broadband Access Network (WOBAN): Capacity Enhancement for Wireless Access
+7F8A1F67	Fast Recovery from Link Failures and Blackout of a Managed Wireless Mesh for NerveNet
+7BC0855C	Distributed joint channel assignment, routing and scheduling for wireless mesh networks
+80D9A7E3	QoS Protection in Cognitive Wireless Mesh Networks: Issues and Solutions
+7AA2D165	A comparison of MANETs and WMNs: commercial feasibility of community wireless networks and MANETs
+7EDBCFE3	G-BFS: A Scheme for Scheduling Real-Time CBR Traffic in IEEE 802.11-Based Mesh Networks
+7DA133FD	SIRLAB-NETSIG integration for environmental surveillance monitoring in wireless mesh sensor networks
+5F0888FB	A Distributed Channel Access Scheduling Scheme with Clean-Air Spatial Reuse for Wireless Mesh Networks
+7CD01930	Multipath routing and rate-controlled video encoding in wireless video surveillance networks
+7F8BDC7D	Integrating Traffic Estimation and Routing Optimization for Multi-Radio Multi-Channel Wireless Mesh Networks
+8119926C	Improving Capacity and Flexibility of Wireless Mesh Networks by Interface Switching
+7D0E3BB6	Interference Aware Channel Assignment Scheme in Multichannel Wireless Mesh Networks
+0876CBD3	A bio-inspired jamming detection and restoration for WMNs : in view of adaptive immunology
+58F94F68	Active MIB: Addressing Challenges of Wireless Mesh Networks
+77EAA8A0	Multi-gateway association in wireless mesh networks
+7ECF5049	Efficient route maintenance in wireless mesh networks
+099ADB90	A Topology Control Approach to Channel Assignment in Multi-Radio Wireless Mesh Networks
+7C7C3BF9	Experiences and investigations with Heraklion MESH : an experimental metropolitan multi-radio mesh network
+7FE9BC8E	HPRP: Hierarchical Probabilistic Routing Protocol for Wireless Mesh Network
+7D0BB5FD	High-Throughput Multicast Routing Metrics in Wireless Mesh Networks
+7E0A0CC2	Ubiquitous Fair Bandwidth Allocation for Multimedia Traffic on a WiMAX Mesh Network with Multi-channels
+01BF559C	Approximating Bounded Degree Maximum Spanning Subgraphs
+7ADCE540	Practical service provisioning for wireless meshes
+7CB9329E	Characterizing the capacity region in multi-radio multi-channel wireless mesh networks
+7D121602	Joint Routing and Gateway Selection in Wireless Mesh Networks
+7A9EC4B1	A hierarchical architecture for detecting selfish behaviour in community wireless mesh networks
+79E06E55	On Delay Performance and Burst Assembly for Wireless Mesh and Optical Burst Switching Converged Metro Area Network
+79FA4219	Distributed medium access control for wireless mesh networks
+7E77EF79	Voice call quality using 802.11e on a wireless mesh network
+81757BB3	A weighted interference estimation scheme for interface-switching wireless mesh networks
+813725AE	A Preventive Traffic Adaptation Model for Wireless Mesh Networks Using Fuzzy Logic
+7C939AF9	A framework for route configurability in power-constrained wireless mesh networks
+7B8A129D	A mathematical formulation for joint channel assignment and multicast routing in multi-channel multi-radio wireless mesh networks
+7C40DBA0	G-PaMeLA: A divide-and-conquer approach for joint channel assignment and routing in multi-radio multi-channel wireless mesh networks
+7F7A2916	Effects of the Acknowledgment Traffic on the Capacity of Wireless Mesh Networks
+7622DD2E	Computationally efficient scheduling with the physical interference model for throughput improvement in wireless mesh networks
+807E1F28	Outage Probability Based Resource Allocation in Wireless Mesh Networks
+7FCA755E	An Opportunistic Multi Rate MAC for reliable H.264/AVC video streaming over Wireless Mesh Networks
+7EE954E8	Understanding and tackling the root causes of instability in wireless mesh networks
+7E481011	Node Placement Algorithm for Deployment of Two-Tier Wireless Mesh Networks
+77631A6D	A Channel Assignment Algorithm for Wireless Mesh Networks Using the Maximum Flow Approach
+774E76E7	Implementing an adaptive TCP fairness while exploiting 802.11e over wireless mesh networks
+810C6314	WSN16-4: Logical Topology Design and Interface Assignment for Multi-Channel Wireless Mesh Networks
+7F14FE31	EFW: A cross-layer metric for reliable routing in wireless mesh networks with selfish participants
+7E80F917	Protocols and architectures for channel assignment in wireless mesh networks
+80F46248	Stateful Firewalling for Wireless Mesh Networks
+7DF1F350	On supporting VoIP traffic in multi-hop IEEE 802.16 (d) mesh networks
+79FB754D	Adaptive Optimization-based Routing in Wireless Mesh Networks
+7BA4D2E6	On the Relationship Between Transmission Rate and Network Capacity in Multi-Radio Multi-Channel Wireless Mesh Networks
+77CEDEF2	Wireless mesh networks: a survey
+7F62B555	Cooperative file sharing mechanism with Network Coding in wireless Mesh networks
+7C6E8C02	Strategies and Challenges for Interconnecting Wireless Mesh and Wireless Sensor Networks
+7FA4E7E4	Design and capacity performance analysis of wireless mesh network
+7C7B5F12	Enhancing multi-hop communication over multi-radio multi-channel wireless mesh networks: A cross-layer approach
+809AC599	Exploiting Rate Diversity for Multicasting in Multi-Radio Wireless Mesh Networks
+81685364	Experimental characterization of an 802.11b wireless mesh network
+7542E210	Channel assignment using block design in wireless mesh networks
+7DBC9669	Cross-Layer Design for End-to-End Throughput and Fairness Enhancement in Multi-Channel Wireless Mesh Networks
+7D98D5B9	IPTVhome networking via 802.11 wireless mesh networks: an implementation experience
+7F5995F3	Enhancing Multi-Hop Wireless Mesh Networks with a Ring Overlay
+7EC80DAD	Bandwidth Consumption for Providing Fair Internet Access in Wireless Mesh Networks
+80C99206	Using Cognitive Radio for Improving the Capacity of Wireless Mesh Networks
+8127F6AC	Optimal one-shot scheduling for MIMO networks
+75529A2F	Throughput-coverage tradeoff in a scalable wireless mesh network
+8596BD2D	원격제어 및 Wi-Fi 서비스가 가능한 LED 가로 등 시스템 설계 및 구현
+8158B0B9	Video Streaming over Wireless Mesh Networks with Multi-Gateway Support
+7DE4A5D5	A Learning-Based Channel Allocation Protocol for Multi-Radio Wireless Mesh Networks
+7CFB356D	Multicasting in Wireless Mesh Networks: Challenges and Opportunities
+7F056724	A Distributed Scheduling Algorithm with QoS Provisions in Multi-hop Wireless Mesh Networks
+7E0F7C28	Optimal routing for wireless mesh networks with dynamic traffic demand
+7E6238D6	A cross-layer architecture for service differentiation in multi-channel multi-radio Wireless Mesh Networks
+80C31F18	Interference-aware channel assignment in a metropolitan multi-radio wireless mesh network with directional antennas
+7E58ED5D	Peer-to-peer file transfer in wireless mesh networks
+793707DD	Secure and robust multipath routings for advanced metering infrastructure
+78FBA9EE	High throughput route selection in multi-rate wireless mesh networks
+7957EB8C	An adaptive multi-hop forward error correction protection scheme for video streaming over wireless mesh networks
+761B2D66	Cross-Layer Design for QoS in Wireless Mesh Networks
+7D6C721F	A congestion control scheme for layer 3 wireless mesh networks
+7DA99412	Distributed cross layer approach for detecting multilayer attacks in wireless multi-hop networks
+7E717E9B	Integer Linear Optimization Model for Channel Assignment Problem in Wireless Mesh Network
+7D467E1D	Routing in multi-radio, multi-hop wireless mesh networks
+7D7F63AB	Route-Aware Load-Balanced Resource Allocation for Wireless Mesh Networks
+7D8F10BE	Algorithms for bandwidth efficient multicast routing in multi-channel multi-radio wireless mesh networks
+7D80FE88	Modified Optimized Link State Routing (M-OLSR) for Wireless Mesh Networks
+5F77AA95	Mobility Management in Wireless Mesh Networks
+807CB6F1	Distributed Channel Allocation In Multi-Radio Wireless Mesh Networks
+7DAD018E	Topology designs with controlled interference for multi-radio wireless mesh networks
+8135C9EE	Impact of TCP ACK Losses on TCP Fairness in Wireless Mesh Networks
+806BE319	On-Demand Medium Access in Multihop Wireless Networks with Multiple Beam Smart Antennas
+79E88C72	GLBM: A new QoS aware multicast scheme for wireless mesh networks
+7EEEED8D	A Study on the Effect of Mutation in Genetic Algorithms for Mesh Router Placement Problem in Wireless Mesh Networks
+7D6BD1EE	SWARM: the power of structure in community wireless mesh networks
+80C4ACD8	A Proposal of an Active Access-Point Selection Algorithm in Wireless Mesh Networks
+804C363F	An Enhanced TCP Scheme for Distinguishing Non-congestion Losses from Packet Reordering over Wireless Mesh Networks
+7F01DF91	Measurement-Based Short-Term Performance Prediction in Wireless Mesh Networks
+80D62CAA	The impact of joint routing and link scheduling on the performance of wireless mesh networks
+80244E78	XORs in the air: practical wireless network coding
+7E037DE6	Enhancing cooperation with multiple stage auctions in opportunistic routing for wireless mesh networks
+7D13FF62	Performance Evaluation for Minislot Allocation for Wireless Mesh Networks
+7EF863B9	Network capacity improvement with two dimensional MIMO network coding
+812DF626	Probabilistically reliable on-demand multicast in wireless mesh networks
+7A69F390	Design of wireless mesh networks for aggregating traffic of fast moving users
+7D653C6F	A Joint Radio and Channel Assignment (JRCA) Scheme for 802.11-Based Wireless Mesh Networks
+8145687E	Bandwidth Allocation for Bi-Directional End-to-End Paths in a Last-Mile Wireless Mesh Network
+816F51C9	Quality-Driven Optimization for Content-Aware Real-Time Video Streaming in Wireless Mesh Networks
+80567588	Residential Area Service Platforms: Modelling Challenges for Multiple Data Traffic Patterns in Wireless Mesh Networks
+7ED4DABE	An adaptive hold-off algorithm in WiMAX mesh networks with coordinated distributed scheduling
+7D725486	Routing Method for Gateway Load Balancing in Wireless Mesh Networks
+80C72E49	Internet Gateway Deployment Optimization in a Multi-Channel Multi-Radio Wireless Mesh Network
+7552A0CB	Improving tcp performance through explicit corruption and route failure notification (ecrfn)
+812FBB82	A throughput optimization framework with delay constraints for backbone WMNs
+5DEDA3D6	Transparent and Distributed Localization of Mobile Users in Wireless Mesh Networks
+809C6890	Non-Bifurcated Routing in Wireless Multi-Hop Mesh Networks
+7E6CC404	An XL-based data link layer routing protocol for wireless mesh networks
+75F9B8B0	Responsive on-line gateway load-balancing for wireless mesh networks
+813B2DFD	Approximating optimal multicast trees in wireless multihop networks
+75575439	High throughput path selection for IEEE 802.11s based wireless mesh networks
+7EAC779A	An experimental analysis of routing inconsistency in indoor wireless mesh networks
+80572B8B	Cost-effective placement of mesh nodes in wireless mesh networks
+75A8EB80	Using node position to improve the robustness of the IEEE 802.11s authentication mechanism for wireless mesh networks
+79A424F8	A trust mechanism-based channel assignment and routing scheme in cognitive wireless mesh networks with intrusion detection
+7FFAB279	Incremental Routing and Scheduling in Wireless Grids
+812E0FA4	Interplay of Network Topology and Channel Assignment in Multi-Radio Multi-Rate Multi-Channel Wireless Mesh Networks
+80039CAC	A New CMAC-Based Local Recovery Approach to Achieve Reliable Multicast in Wireless Mesh Networks
+80C9BDAE	Gateway Selection Scheme for Throughput Optimization in Multi-radio Multi-channel Wireless Mesh Networks
+7D9C11F4	High performance modified DSR routing protocol for WLAN mesh networks
+7E4A52A8	HomeMesh: a low-cost indoor wireless mesh for home networking
+81632406	Challenges and opportunities in supporting video streaming over infrastructure wireless mesh networks
+7DB48D73	Admission Control Based on Available Bandwidth Estimation for Wireless Mesh Networks
+7F0C1CAE	On Achieving the Maximum Internet Capacity in Wireless Mesh Networks
+7F995F30	Channel-Assignment and Scheduling in Wireless Mesh Networks Considering Switching Overhead
+7EC4DAED	Gateway designation for timely communications in instant mesh networks
+80B0CE89	A distributed algorithm for gateway load-balancing in Wireless Mesh Networks
+7B8F5D20	SRPM: Secure Routing Protocol for IEEE 802.11 Infrastructure Based Wireless Mesh Networks
+7DFEB9C9	Securing Wireless Mesh Networks
+7DED4325	On the Benefits of Network Coding in Multi-Channel Wireless Networks
+778F92C3	Distributed Joint Resource Allocation in Multi-Radio Multi-Channel Wireless Mesh Networks
+7F22F703	Supporting vehicular mobility in urban multi-hop wireless networks
+800A1AA5	An Assistive System for Re-association Management in a WLAN Mesh Environment
+807071E1	Service negotiation over wireless mesh networks : an approach based on economic agents
+8111D157	Mesh Backbone Topology Synthesis for Multi-Radio Interconnected Wireless LANs
+7EF88F6D	Adaptive situation-aware load balance scheme for Mobile Wireless Mesh Networks
+7E23A5E5	Retransmission-aware queuing and routing for video streaming in wireless mesh networks
+7E2E9275	Secure Anonymous Routing in Wireless Mesh Networks
+7D772E61	Multiple path routing using Tree-Based Multiple Portal Association for Wireless Mesh Networks
+7C8431A5	Design and implementation of multicasting for multi-channel multi-interface wireless mesh networks
+7CDBE4E9	On the design of reliable wireless mesh network infrastructure with QoS constraints
+79A3F1EF	Load-aware routing in mesh networks: Models, algorithms and experimentation
+7CE8FDD9	Queuing Based Traffic Model for Wireless Mesh Networks
+7E933D00	On non-invasive network measurement for emergency response wireless mesh networks
+761E7BD4	The robust joint solution for channel assignment and routing for wireless mesh networks with time partitioning
+7F33C92A	Performance Evaluation of Overlay-Based Range Queries in Mobile Systems
+7BFBBC2C	Adaptive per-user per-object cache consistency management for mobile data access in wireless mesh networks
+7CFD1B30	Load-balancing and Inter-domain Mobility for Wireless Mesh Networks
+7ED9C0CD	Gateway placement for throughput optimization in wireless mesh networks
+77986D8C	Centralized channel assignment and routing algorithms for multi-channel wireless mesh networks
+7DC5E7B6	Protection Based on Neighborhood-Trust in Clustered Wireless Mesh Networks
+5D56D607	Improved Distributed Dynamic Power Control for Wireless Mesh Networks
+7D2532B2	Broadcast strategies with probabilistic delivery guarantee in multi-channel multi-interface Wireless Mesh Networks
+5E91CD64	Link-layer based anycast routing for a dynamic and distributed portal selection in wireless mesh networks
+75086912	On optimizing gateway placement for throughput in wireless mesh networks
+7E309760	A service-oriented routing scheme with load balancing in wireless mesh networks
+8100AD94	An interference-free multicast for mesh networks with directional antennas
+7E971AB2	A Novel Bandwidth Estimation Scheme Used in Admission Control for Wireless Mesh Networks
+7DE8FAAC	Fair Scheduling with Multiple Gateways in Wireless Mesh Networks
+780CC953	Efficient resource allocation in clustered wireless mesh networks
+80BF6B14	Channel Assignment, Stream Control, Scheduling and Routing in Multi-Radio MIMO Wireless Mesh Networks
+815155EB	NQETT: Node Quality Adjusted ETT for Wireless Mesh Networks
+8025C148	Joint Multicast Routing and Channel Assignment in Multiradio Multichannel Wireless Mesh Networks Using Tabu Search
+7CE56CAF	Class of Service Support Layer for Wireless Mesh Networks
+7CC373C2	An Efficient Authentication Method for Secure Access to Wireless Mesh Networks
+75C1C71C	IEEE 802.11s wireless mesh networks: Framework and challenges
+61AD6AC4	Peer-to-Peer Overlay in Mobile Ad-hoc Networks
+7A4D5E7F	High Performance AODV Routing Protocol for Hybrid Wireless Mesh Networks
+8126F1C5	Impact of Power Control on Capacity of TDM-Scheduled Wireless Mesh Networks
+7E7C7168	An efficient RSSI-aware metric for wireless mesh networks
+78961430	Slot allocation algorithms in centralized scheduling scheme for IEEE 802.16 based wireless mesh networks
+7F14C28F	Energy Provisioning in Solar-Powered Wireless Mesh Networks
+7E2BB9E7	A route-based scheduling in wireless multi-hop mesh networks for collision avoidance
+798EA7BF	Gateway Placement for Throughput Optimization in Wireless Mesh Networks
+7EA9DCEA	A Handoff Solution in Wireless Mesh Networks by Implementing Split Channels
+7EBB2780	SWMN: A Scalable Architecture of Wireless Mesh Network for Internet Accessing
+7DE3774E	Intelligent Power Management for QoS-Aware Multimedia in Cognitive Mesh Networks Using Reinforcement Learning
+7733DA9E	Auction-based resource allocation for hierarchical wireless mesh networks in rural areas
+7FD8D490	Joint channel assignment and routing for throughput optimization in multi-radio wireless mesh networks
+7EF4C357	A New Wireless Mesh Network Authentication Scheme Based on Threshold Method
+7961E874	SafeMesh: A wireless mesh network routing protocol for incident area communications
+7FC6B8AB	Survey of Security Requirements, Attacks and Network Integration in Wireless Mesh Networks
+7ECCDAFB	Building Robust Nomadic Wireless Mesh Networks Using Directional Antennas
+7F7BC44E	Hybrid Robust Header Compression in Proxy Mobile IPv6 over Wireless Mesh Networks
+7EF0D808	Mobile Party: A Mobility Management Solution for Wireless Mesh Network
+7CA373FF	Scheduling links for heavy traffic on interfering routes in wireless mesh networks
+80B6F20E	Minimum-Cost Implementation of Traffic Information System over Wireless Mesh Network
+7DD1B1A1	Degree-Based Power Control Method for Increasing Spatial Reuse in TDMA-Based Wireless Mesh Networks
+7E6C9F8B	Fair and reliable multicast routing for wireless mesh networks
+7FDEB2F1	QoS Provisioning in a Scalable Wireless Mesh Network for Intelligent Transportation Systems
+7A3FF2F3	Routing protocols in wireless mesh networks: challenges and design considerations
+77F56FF8	Can the current generation of wireless mesh networks compete with cellular voice?
+753709FE	An Experimental Study of the Performance Impact of Path-Based DoS Attacks in Wireless Mesh Networks
+81776C92	Building an overlay for wireless mesh network
+7DD5C5A1	802.16 MCF for 802.11a Based Mesh Networks: A Case for Standards Re-Use
+7DBFAE67	Low-Latency Broadcast in Multirate Wireless Mesh Networks
+7EC9955E	Wireless Mesh Network security: State of affairs
+773E32E5	A Novel Channel Assignment Algorithm for Multicast in Multi-radio Wireless Mesh Networks
+7FE93C71	A Novel Topology Control Scheme for Future Wireless Mesh Networks
+7E4DA9E8	Performance Analysis of Two-Tier Wireless Mesh Networks for Achieving Delay Minimisation
+5DAEDB59	A Future Access Network Architecture for Providing Personalized Context-Aware Services with Sensors
+7E1C77EF	On the Achievable Throughput of Multi-Band Multi-Antenna Wireless Mesh Networks
+80FB0CA0	The SMesh wireless mesh network
+7E0F849D	A security framework for wireless mesh networks
+7C4B518E	Cost-efficient design for higher capacity hybrid wireless-optical broadband access network (WOBAN)
+804F446F	IEEE 802.11s Wireless Mesh Networks: Challenges and Perspectives
+80A102D9	Performance of a Novel Adaptive Traffic Aggregation Scheme for Wireless Mesh Networks
+7CF303C2	Performance Evaluation of WMN Using WMN-GA System for Different Mutation Operators
+7DE648E7	Routing and Channel Allocation in Rural Wireless Mesh Networks
+7CAA8D60	LiT MAC: addressing the challenges of effective voice communication in a low cost, low power wireless mesh network
+7DAE0070	PA-SIP: A Privacy-Aware SIP for VoIP over WMNs
+7BADBAE3	Solar-powered OFDM wireless mesh networks with sleep management and connection admission control
+80E3BECF	Intrusion Detection in Wireless Mesh Networks Using a Hybrid Approach
+7E8535F7	Radio Resource Management in MIMO- OFDM-Based Wireless Infrastructure Mesh Networks: Issues and Approaches
+5B89C6A2	On a low security overhead mechanism for secure multi-path routing protocol in wireless mesh network
+80266DAE	Design issues and experimental studies of wireless LAN Mesh
+7B2DE1BD	Cognitive radios and the vehicular cloud
+79EFFB61	Providing survivability against jamming attack for multi-radio multi-channel wireless mesh networks
+801139C7	Network coding-based bridge routing in wireless mesh network
+80B2F0D2	Optimised scheduling for Wireless Mesh Networks using fixed cycle times
+7E86111E	Stochastic Performance Analysis of Multi-radio Multi-channel Wireless Mesh Networks
+79BFE9A2	Modeling and analyzing anycast routing in reactive and proactive networks
+7AA16B0F	Partitioning and Internetworking Wireless Mesh Network with Wired Network for Delivery Maximization and QoS Provisioning
+7FFAC5C8	Topology broadcast in maritime mesh networks with directional antennas - A practical approach
+5FA4DD28	GAMesh: Automatic Placement of Wireless Mesh Nodes Via Genetic Algorithms
+7FF35A38	Efficient Multicast Algorithms for Multichannel Wireless Mesh Networks
+7EE95BAB	TMAC: Timestamp-Ordered MAC for CSMA/CA Wireless Mesh Networks
+7F27F16B	Performance Evaluation of a Hybrid Testbed for Wireless Mesh Networks
+7CAD962F	A topology control-based self-organisation in wireless mesh networks
+7F26C3E7	Fair Bandwidth Allocation in Wireless Mesh Networks With Cognitive Radios
+78845659	Accurate Assessment of Link Loss Rate in Wireless Mesh Networks
+7AFA5C2B	Realizing and benchmarking broadcast algorithms in wireless mesh networks
+79AA2E2C	Interference-aware routing protocol in multi-radio wireless mesh networks
+5F8EA6F8	Community Intrusion Detection System Based on Radial Basic Probabilistic Neural Network
+79041F70	A heterogeneity-aware framework for group key management in wireless mesh networks
+7DD838AB	Joint Optimal Channel Assignment and Congestion Control for Multi-channel Wireless Mesh Networks
+7F7AA51B	Group-Based Management of Multi-Channel Allocation Algorithm for Double Interfaces Wireless Mesh Networks
+7884AD63	Controlling Unfairness due to Physical Layer Capture and Channel Bonding in 802.11n+s Wireless Mesh Networks
+7B4A0234	A novel radio resource allocation scheme for IEEE 802.16e multicell networks
+7BFB73F8	A quality based routing protocol for wireless mesh networks
+813DB5CA	CORAL: Spectrum Aware Admission Policy in Cognitive Radio Mesh Networks
+7C0E94BF	QUORUM: quality of service in wireless mesh networks
+804C8CA3	A Distributed Algorithm for Multi-Constrained Anypath Routing in Wireless Mesh Networks
+7B8AA145	A policy-based constraint-solving platform towards extensible wireless channel selection and routing
+7EBEA652	SwanMesh: A Multicast Enabled Dual-Radio Wireless Mesh Network for Emergency and Disaster Recovery Services
+8027A186	Interference-Aware Channel Assignments with Seamless Multi-Channel Monitoring in Wireless Mesh Networks
+7B584284	Optimization model for handoff-aware channel assignment problem for multi-radio wireless mesh networks
+807B2D0A	A dynamic channel assignment technique for wireless Internet-access mesh networks
+7DA47C7C	Performance Evaluation of Rate Adaptation Algorithms in 802.11-Based Mesh Networks
+7FF96D73	Statistical delay budget partitioning in wireless mesh networks
+81332594	Model-driven optimization of opportunistic routing
+7ACC6513	A Security Analysis of the 802.11s Wireless Mesh Network Routing Protocol and Its Secure Routing Protocols
+7FEE46B6	Complexity and design of QoS routing algorithms in wireless mesh networks
+7E1DD2E9	Hierarchical Agent-Based Secure Multicast for Wireless Mesh Networks
+817203E2	A quantitative analysis of the capacity of wireless mesh networks
+7C855444	Proposed routing for IEEE 802.11s WLAN mesh networks
+7DA21443	On the Performance of Hybrid Wireless/Wired Mesh Networks
+816DE944	Rural Wireless Mesh Network: A Design Methodology
+76242C74	Distributed Contention-Aware Call Admission Control for IEEE 802.11 Multi-Radio Multi-Rate Multi-Channel Wireless Mesh Networks
+78F56B5F	Integrated connection-level and packet-level QoS controls over wireless mesh networks
+7F70A2B1	Path diversity over packet switched networks: performance analysis and rate allocation
+66FDA393	On Wireless Link Scheduling and Flow Control
+7FB41377	Performance Comparison of Weather Disruption-Tolerant Cross-Layer Routing Algorithms
+7D1B8A1F	Model validation through experimental testbed: the fluid flow behavior example
+7FA1E0A8	VirtualMesh: an emulation framework for wireless mesh networks in OMNeT++
+7FE87937	Impact of packet aggregation on TCP performance in Wireless Mesh Networks
+025275D1	A Realizable Cross-Layer Architecture for Wireless Mesh Networks
+813D4B1C	Optimization Models For Planning Wireless Mesh Networks: A Comparative Study
+7D42330F	Hybrid Wireless Mesh Network with Application to Emergency Scenarios
+7EB4B3E8	Admission control and prioritization for IEEE 802.16 based Wireless Mesh Networks
+80CA1472	Video Streaming Transmission Over Multi-Channel Multi-Path Wireless Mesh Networks
+7E16B124	A Cross-Layer Design for End-to-End On-Demand Bandwidth Allocation in Infrastructure Wireless Mesh Network
+7C28AA23	Channel allocation in multi-channel wireless mesh networks
+7FE284EA	MobiSEC: a novel security architecture for wireless mesh networks
+803C38E3	Exploiting multiple rates to maximize the throughput of wireless mesh networks
+7BCC7A5D	A non‐constant weight code approach for fast link assessment in multihop wireless mesh networks
+7DE5E7DD	Scheduling Optimization in wireless MESH Networks with Power Control and Rate Adaptation
+7E3C80B5	Admission Control in Power Constrained OFDM/TDMA Wireless Mesh Networks
+7C330832	Performance comparison of advanced antenna systems for wireless mesh routers in an outdoor environment
+7EDAA066	Congestion Control and Channel Assignment in Multi-Radio Wireless Mesh Networks
+7DC9E883	A Group of People Acts like a Black Body in a Wireless Mesh Network
+7DFA9176	Coverage Enhancement for a Multi-channel Ring-based Wireless Mesh Network with Guaranteed Throughput and Delay
+7C8C30F1	Genetic algorithms for wireless mesh network planning
+7F1D402B	Load Balancing Routing for Wireless Mesh Networks: An Adaptive Partitioning Approach
+7F4EA71C	Interference-Aware Channel Assignment in Multi-Radio Wireless Mesh Networks
+75AF4643	The design and evaluation of fair scheduling in wireless mesh networks
+7EA9EDC5	Routing protocols for mesh networks with mobility support
+804C10CC	A traffic aggregation and differentiation scheme for enhanced QoS in IEEE 802.11-based Wireless Mesh Networks
+7D5B772E	A Multimedia-Based Fuzzy Queue-Aware Routing Approach for Wireless Mesh Networks
+7F396344	Cross-Layer Design for Multi-power, Multi-interface Routing in Wireless Mesh Networks
+5A6D110C	Performance analysis of IEEE 802.11 in multi-hop wireless networks
+79252DF8	Effect of 802.11 adaptive exponential backoffs on the fluidity of downlink flows in mesh networks
+79372DC9	A relaying enticement mechanism for wireless CDMA mesh networks
+7F6A64EE	The proposed improvement 3-layer mobility management scheme for Wireless Mesh Networks using IP prefix mechanism
+7F7E1E2B	Multipath code casting for wireless mesh networks
+7CDF917C	Compass enhanced ORRP for wireless sensor networks
+796529A7	Gateway selection and routing in wireless mesh networks
+75744664	Interference-aware topology control and QoS routing in multi-channel wireless mesh networks
+813BC9E6	A distributed key establishment scheme for wireless mesh networks using identity-based cryptography
+7DB9EEED	Performance Comparison of Two Routing Protocols Based On WMN
+7FD116F2	A novel queue management mechanism for improving performance of multihop flows in IEEE 802.11s based mesh networks
+7FE05334	A wireless mesh network testbed in rural mountain areas
+7B7BD865	Domain load balancing routing for multi-gateway wireless mesh networks
+7959823A	A gateway placement algorithm in wireless mesh networks
+7DBF551A	Weighted Integrated Metrics (WIM): A Generic Algorithm for Reliable Routing in Wireless Mesh Networks
+7E2E208F	Joint Routing and Scheduling in Wireless Mesh Networks based on Traffic Prediction Using ARIMA
+7CF3BA72	Profit optimization in multi-service cognitive mesh network using machine learning
+8053A17B	Distributed throughput maximization in wireless mesh networks via pre-partitioning
+80460F0D	Fault-tolerant and scalable channel assignment for multi-radio multi-channel IEEE 802.11a-based wireless mesh networks
+5DAA17CA	Joint connection admission control and routing in IEEE 802.16-based mesh networks
+7F546D05	Concurrent Transmission Scheduling with Time-Limited Traffic in Wireless Mesh Networks
+7F9FAA52	End-to-End Flow Fairness Over IEEE 802.11-Based Wireless Mesh Networks
+7D7BDFA6	A Handoff Management Scheme for Mobile Station in Wireless Body Area Mesh Networks
+7E0E4F6E	Bittorrent traffic optimization in Wireless Mesh Networks with ALTO service
+7DD5A5CA	Channel Assignment and Routing in Multiradio Wireless Mesh Networks using Smart Ants Extended Abstract
+7ADC8879	Battery-aware scheduling inwireless mesh networks
+77E1D81F	Multipath selection and channel assignment in wireless mesh networks
+783DF261	High-throughput multicast routing metrics in wireless mesh networks
+7EA7225E	On the support of multimedia applications over IEEE 802.11-based wireless mesh networks
+7F8E487E	A Semidefinite Programming Based Cooperative Relaying Strategy for Wireless Mesh Networks with Relay Signal Quantization
+7D877686	RTSS/CTSS: mitigation of exposed terminals in static 802.11-based mesh networks
+7F441CB6	Dynamic virtual carrier sensing and interference aware routing protocol in wireless mesh networks
+78D5F62A	On the end-to-end flow allocation and channel assignment in multi-channel multi-radio wireless mesh networks with partially overlapped channels
+8108D38F	QoS-driven MAC-layer resource allocation for wireless mesh networks with non-altruistic node cooperation and service differentiation
+81325890	A Capacity-Aware and Multipath-Supported Traffic Control Framework in Wireless Mesh Networks
+7AFE63B8	Design of a fast handoff scheme for vehicular mesh networks with directional antennas
+7D734096	A Topology Control Algorithm for Effective Power Efficiency and Throughput for Wireless Mesh Networks
+7BABB97C	A Capacity-Aware and Multipath-Supported Traffic Control Framework for Wireless Mesh Networks
+80B2CDEC	Experimental Evaluation of Rate Switch Control in Wireless Mesh Networks
+7F03843C	Time division based multi-radio multi-channel MAC protocol for wireless mesh networks
+627D2DC7	Congestion Control in Wireless Mesh Networks
+7D476CD0	Optimization of static channel assignment in multi-radio multi-channel Wireless Mesh Network
+7E54B2C5	Towards 100% reliability in wireless monitoring networks
+80C94954	Interworking wireless mesh networks: Problems, performance characterization, and perspectives
+7D792C95	Stability of Finite-User Slotted ALOHA Under Partial Interference in Wireless Mesh Networks
+7D582D9F	Multihop MAC: IEEE 802.11s Wireless Mesh Networks
+7F561D3D	A Case for Joint Routing, Scheduling, and Network Coding in TDMA-based Wireless Mesh Networks: A Cross-layer Approach
+7BD710B3	Wireless mesh networks based on CDMA
+80ED80FF	Provisioning backhaul traffic flows in TDMA/OFDMA infrastructure Wireless Mesh Networks with near-perfect QoS
+7A38BF34	A Frame Aggregation Extension of Routing Algorithm for Wireless Mesh Networks
+7F1367FE	A General Interference-Aware Framework for Joint Routing and Link Scheduling in Wireless Mesh Networks
+7D6E1630	Joint Resource Allocation and Routing for OFDMA-Based Broadband Wireless Mesh Networks
+7E797AB4	Scalable real-time gateway assignment in mobile mesh networks
+7E701EC4	Minimum transmission period in multi-radio wireless mesh networks
+80A0FE29	RL-Based Queue Management for QoS Support in Multi-channel Multi-radio Mesh Networks
+7E9CB0D0	A Lexicographically Optimal Load Balanced Routing Scheme for Wireless Mesh Networks
+7DB9D954	Providing Billing Support in WiMAX Mesh Networks
+5BA9C4C3	Load-Based Metrics and Flooding in Wireless Mesh Networks
+75896442	Data ubiquity in autonomic wireless mesh networks
+7F26860F	Voice call capacity model for hybrid multi-channel protocol over multi-hop multi-channel multi-radio wireless mesh networks
+7F238E59	Routing Packets into Wireless Mesh Networks
+80EE02A6	A Position-Based Deployment and Routing Approach for Directional Wireless Mesh Networks
+76D4287B	Exploiting graph partitioning for hierarchical replica placement in WMNs
+7F77A067	CDMR: Cooperative diversity-based multi-copy relaying in mesh networks
+794A9F98	Demonstration of QoS-aware wireless protection scheme for video service in fiber-wireless access network
+808AA23A	Modelling of Heterogeneous Wireless Networks under Batch Arrival Traffic with Communication Locality
+7ADFB456	Competitive Spectrum Sharing and Pricing in Cognitive Wireless Mesh Networks
+7FFBB999	Implementation and Evaluation of Channel Assignment Tool for Multi-Radio Multi-Channel Wireless Mesh Networks
+0434659C	Scheduling management in wireless mesh networks
+7F80AAB8	An Analytical Model for IEEE 802.11 Point-To-Point Link
+7F048518	Multichannel Wormhole Switching vs. CSMA/CA for Wireless Mesh Networking
+8117464E	Network and medium access control (NET - MAC) layers for Wireless Mesh Network (WMN)
+75B5E0E7	Interference-aware QoS multicast routing for smart grid
+75C807ED	Performance analysis of gateway load balancing in ad hoc networks with random topologies
+7FA3871E	Fault-Tolerant Coverage Planning in Wireless Networks
+7F034AB9	Network Coding via Opportunistic Forwarding in Wireless Mesh Networks
+7E9617DA	Clique-Based Utility Maximization in Wireless Mesh Networks
+8090C64A	Identifying Pollution Attackers in Network-Coding Enabled Wireless Mesh Networks
+7BF86D8C	Towards compromise-resilient localized authentication architecture for wireless mesh networks
+7E43F347	Cross-Layer Fair Resources Allocation for Multi-Radio Multi-Channel Wireless Mesh Networks
+75EFB610	Getting the most of WiFi mesh networks with 802.16 mesh emulation
+7F7C85BD	The impact of IEEE 802.11 MAC strategies on multi-hop wireless mesh networks
+80E8C3CB	Packet management scheme for location-independent end-to-end delay in IEEE 802.11s multi-hop wireless mesh networks
+7D51CC7D	Seamless Connectivity and Routing in Vehicular Networks with Infrastructure
+7F8BF1A7	An Efficient Cross-Layer Simulation Architecture for Mesh Networks
+7F30BE94	MAC-ASA: A New MAC Protocol for WMNs
+7E59E069	Cross-layer design for channel assignment with connectivity maintenance in wireless mesh networks
+765FF09C	LORD: Tracking mobile clients in a real mesh
+77D82299	CAPF: coded anycast packet forwarding for wireless mesh networks
+7A576448	Emerging standards for wireless mesh technology
+7F7E4A5A	The Research of Frame and Key Technologies for Intrusion Detection System in IEEE 802.11-based Wireless Mesh Networks
+7FC51768	On seamless connectivity over multi-radio and multi-channel wireless mesh networks
+8001EDF0	A Secure Hybrid Wireless Mesh Protocol for 802.11s Mesh Network
+8076138F	A novel channel assignment in multi-radio multi-channel mesh network based on Partial Block MC-CDMA
+80459D9B	Stochastic Traffic Engineering in Multihop Cognitive Wireless Mesh Networks
+75A64F11	A CDMA/TDD approach for wireless mesh networks
+7E4FD139	Joint non-bifurcated routing and scheduling in wireless grid mesh networks
+7F8A6FB5	Abaré: A deployment and management framework for wireless mesh network
+7E0A4DFE	Minimum Interference Channel Assignment for Multicast in Multi-Radio Wireless Mesh Networks
+75C194BE	Routing with Load-Balancing in Multi-Radio Wireless Mesh Networks
+59870A0A	Construction and Evaluation of a Wireless Mesh Network Testbed
+7F0A3F8D	Connectivity Model for Wireless Mesh Networks
+7E9F447F	On Admission of VoIP Calls Over Wireless Mesh Network
+7DF12E4A	Experimental performance assessment of WMN routing protocols with mobile nodes
+7E0EC7C5	On the Design of Bi-Connected Wireless Mesh Network Infrastructure with QoS Constraints
+7D234F6D	A cross-layer load-independent link cost metric for wireless mesh networks
+7C15E484	Enhanced wireless mesh networking for ns-2 simulator
+01E280FB	Usage Scenarios and Application Requirements for Wireless Mesh Networks
+7CEDE1E1	Preserving traffic privacy in wireless mesh networks
+80A45837	Mesh technology enabling ubiquitous wireless networks: invited paper
+7D84EDA2	Integration of WiFi and WiMAX-Mesh Networks
+7D2C1B40	A channel management protocol for multi-channel, single-radio 802.11-based wireless mesh networks
+7D2ED4E3	Integrated Metric-Ad Hoc On-Demand Distance Vector: A Routing Protocol over Wireless Mesh Networks
+7DE66C94	Distance-1 Constrained Channel Assignment in Single Radio Wireless Mesh Networks
+7F82AB04	Contribution to securing wireless mesh networks
+756A8BCC	The WICKPro protocol with the Packet Delivery Ratio metric
+80FE2F3C	CORE: centrally optimized routing extensions for the IEEE 802.16 MeSH mode
+7E9F6C29	Mobility-aware clustering algorithms with interference constraints in wireless mesh networks
+5C359194	Interference Analysis for FH-Based Multi-radio Wireless Mesh Networks
+7D914204	Minimum Latency Broadcasting in Multiradio, Multichannel, Multirate Wireless Meshes
+756868E8	MeshUp: reliably evolving a living lab
+7D4AA797	Throughput Improvement in Multi-Radio Multi-Channel 802.11a-Based Wireless Mesh Networks
+5A5DD34A	Power-Controlled directional medium access control for wireless mesh networks
+80965F66	Engineering wireless mesh networks: joint scheduling, routing, power control, and rate adaptation
+7DF23881	Concurrent Transmission Scheduling for Multi-Hop Multicast in Wireless Mesh Networks
+05AD3236	Effects of Interference on Wireless Mesh Networks: Pathologies and a Preliminary Solution
+81400B3D	Cross-Layer Design of Wireless Mesh Networks with Network Coding
+7FDC1992	OpenLIDS: a lightweight intrusion detection system for wireless mesh networks
+77CEEA24	A Fixed Backoff-Time Switching Method for CSMA/CA Protocol in Wireless Mesh Networks
+5E1BE4BA	A Flexible Tree-Based Routing Protocol with a Mesh Relaying Node in Multi-hop Wireless Mesh Networks
+76F9BC46	Efficient rate allocation, routing and channel assignment in wireless mesh networks supporting dynamic traffic flows
+7E328256	On Multipath Routing in Wireless Mesh Networks with Multiple Gateways
+5EA2FB45	POCOSIM: a power control and scheduling scheme in multi-rate wireless mesh networks
+7A28D7C8	A Routing Metric for Load-Balancing in Wireless Mesh Networks
+7E6B4744	Secure network coding for wireless mesh networks: Threats, challenges, and directions
+7C2D3F97	Design, implementation, and tracing of dynamic backpressure routing for ns-3
+7E6DCFE2	A simple and efficient hop-by-hop congestion control protocol for wireless mesh networks
+7CA3C5B2	Fast certificate-based authentication scheme in multi-operator maintained wireless mesh networks
+7552C5FD	How to secure multi-domain wireless mesh networks
+7D7DFFA6	Collaborative resource exchanges for peer-to-peer video streaming over wireless mesh networks
+815F9E4C	A divide-and-conquer scheme for assigning roles in multi-channel wireless mesh networks
+7DC55392	QoS and Protection of Wireless Relay Nodes Failure Using Network Coding
+764DB3DE	Real-time detection of traffic anomalies in wireless mesh networks
+78C8BADC	A Cognitive Spectrum Assignment Protocol using Distributed Conflict Graph Construction
+763D0A2F	Joint bandwidth allocation, element assignment and scheduling for wireless mesh networks with MIMO links
+80144584	WLC30-2: Channel Assignment and Routing for Multi-Channel Wireless Mesh Networks Using Simulated Annealing
+7F1DF4BC	Capacity and interference aware link scheduling with channel assignment in wireless mesh networks
+81511721	Long distance wireless mesh network planning: problem formulation and solution
+7FC55716	Multi-Linked AODV Routing Protocol for Wireless Mesh Networks
+7FD1E150	Cognitive network management with reinforcement learning for wireless mesh networks
+773F56D3	Semi-Fixed Rate Control for Wireless Mesh Networks
+7ED70CE8	Efficient Recovery Algorithms for Wireless Mesh Networks with Cognitive Radios
+74E02791	Autonomous Transmission Power Adaptation for Multi-Radio Multi-Channel Wireless Mesh Networks
+815E9570	Agro-sense: Precision agriculture using sensor-based wireless mesh networks
+7B7319BD	Proxy encryption based secure multicast in wireless mesh networks
+80BCC2E0	Oblivious Routing for Wireless Mesh Networks
+80CCDB8B	A Secure Key Management Scheme in Wireless Mesh Networks
+7881C1B7	A divide-and-conquer approach for content replication in WMNs
+770A37F5	End-to-end performance aware association mechanism for wireless municipal mesh networks
+7DB8D9EB	Measurement study on wireless camera networks
+79FAAD62	AN ADAPTIVE OPPORTUNISTIC RETRANSMISSION CONTROL SCHEME ENVIRONMENT-AWARE-BASED FOR WIRELESS MULTIMEDIA MESH NETWORKS
+80BFB027	Interference-aware IEEE 802.16 WiMax mesh networks
+7EE26F41	Wireless Mesh Network OAM architecture
+7DECEA82	Practical considerations for channel assignment in wireless mesh networks
+7E64EAC9	Solution Space Characterization and a Fast Algorithm for the Channel Assignment Problem in Wireless Mesh Networks
+7D3A9D46	Channel assignment and spatial reuse scheduling to improve throughput and enhance fairness in wireless mesh networks
+7DD921A3	Improved Topology Control Method for Maximizing Traffic Delivery Ratio in Wireless Mesh Networks with Directional Antennas
+7636C41D	Supporting Differentiated Service in Cognitive Radio Wireless Mesh Networks
+7629FF8C	An efficient Neighbourhood Load Routing metric for Wireless Mesh Networks
+7D24E64F	Performance Comparison of Reactive Routing Protocols for Hybrid Wireless Mesh Networks
+7E192CB2	Channel Assignment Strategies for Multiradio Wireless Mesh Networks: Issues and Solutions
+7D2EF7D1	On the Impact of Random Losses on TCP Performance in Coded Wireless Mesh Networks
+5CA323EC	Abare: A Coordinated and Autonomous Framework for Deployment and Management of Wireless Mesh Networks
+7C1F9D91	Interface assignment and bandwidth allocation for multi-channel wireless mesh networks
+800DF640	XCP-Winf and RCP-Winf: Congestion Control Techniques for Wireless Mesh Networks
+7F34A30A	On accurate measurement of link quality in multi-hop wireless mesh networks
+586B87FD	Preventing Service Discovery Cache Reply Storms in Wireless Mesh Networks
+7F6736E6	Content caching and replication schemes for peer-to-peer file sharing in wireless mesh networks
+815A015B	A queuing modeling approach for Load-Aware Route Selection in heterogeneous mesh networks
+759EFFB0	Wireless mesh networks channel reservation: modelling and delay analysis
+7E3BCF65	Anonymous user communication for privacy protection in wireless metropolitan mesh networks
+7E304CBA	Security Issues in Wireless Mesh Networks
+7D42855E	A Study of Network Throughput Gain in Optical-Wireless (FiWi) Networks Subject to Peer-to-Peer Communications
+7E424242	MESHCHORD: A Location-Aware, Cross-Layer Specialization of Chord for Wireless Mesh Networks
+7D7529F3	Multiple Radio Channel Assignement Utilizing Partially Overlapped Channels
+7D19F8F3	Partially Overlapped Channel Assignment on Wireless Mesh Network Backbone
+808A6859	A high-throughput routing metric for reliable multicast in multi-rate wireless mesh networks
+75A26C7B	The impact of interference-aware routing metrics on video streaming in Wireless Mesh Networks
+59878F7B	Ant-Based Multipath Routing for Wireless Mesh Networks
+816FA9E6	QoS Aware Multiple Spanning Tree Mechanism in Multi-radio Multi-channel Wireless Mesh Network
+8034ABD5	Context-based connectivity and characterization of Wireless Mesh Networks: Simulation study
+7EB69574	Optimal placement and channel assignment of relay stations in heterogeneous wireless mesh networks by modified Bender's decomposition
+7EA04ABE	Cognitive WMNs: A distributed mechanism for leasing cellular bandwidth
+7D266CA0	Joint Association, Routing and Bandwidth Allocation for Wireless Mesh Networks
+7F58126F	Channel assignment for multi-radio wireless mesh networks using clustering
+7FF91637	Layout design for multiple collocated wireless mesh networks
+7E1A2B83	Characterizing User Behavior and Network Load on a Large-Scale Wireless Mesh Network
+79F94F12	Cross-layer bandwidth management and optimization in TDMA based wireless mesh networks using network coding
+7F618E85	Broadcast Routing and Channel Selection in Multi-Radio Wireless Mesh Networks
+7904744A	Performance analysis of wireless mesh networks with three sector antennas
+0830C100	Centralized Algorithms for Multi-channel Wireless Mesh Networks
+816ED215	IP address assignment in wireless mesh networks
+8068F72F	Gateway Selection in Backbone Wireless Mesh Networks
+7F9E25D3	Fairness and Gateway Classification Algorithm (GCA) in multihop Wireless Mesh Networks
+7F075457	A Dual Re-Authentication Scheme for Fast Handoff in IEEE 802.11 Wireless Mesh Networks
+80B7EE68	Model-Based Radio and Channel Assignment in IEEE 802.11 Wireless Mesh Networks
+7EAE3349	Estimation of maximum achievable end-to-end throughput in IEEE 802.11 based wireless mesh networks
+8042280C	Flow-Based Channel Assignment in Channel Constrained Wireless Mesh Networks
+7CF5AF6D	A Multipacket Reception Protocol Based on Cooperative Communication for WMNs
+7D56F3D9	Link layer solutions for supporting real‐time traffic over CDMA wireless mesh networks
+5AF55C31	Routing Metric for Interference and Channel Diversity in Multi-Radio Wireless Mesh Networks
+78A7571F	Advanced Aggregation Techniques for Integrated Next-Generation WLAN and EPON Networks
+7F04881E	Channel-Aware Detection of Gray Hole Attacks in Wireless Mesh Networks
+7F5C8CD5	Slot allocation algorithm in Combined Distributed and Centralized scheduling scheme for IEEE 802.16 based wireless mesh networks
+097EA907	Finding Optimal Solutions to Backbone Minimisation Problems using Mixed Integer Programming
+7D65E10A	A multi-radio unification protocol for IEEE 802.11 wireless networks
+772CA6B5	Comparative analysis of link quality metrics and routing protocols for optimal route construction in wireless mesh networks
+7C5A96C2	On tree-based routing in multi-gateway association based Wireless Mesh Networks
+7EA4CB2A	Bandwidth Balancing in Multi-Channel IEEE 802.16 Wireless Mesh Networks
+779D0394	MeshMon: a multi‐tiered framework for wireless mesh network monitoring
+7ACE4C10	Context-aware routing in wireless mesh networks
+7F6C9F46	A fault diagnosis method based on decision tree for wireless mesh network
+7EAB7E42	Feasibility, challenges, and performance of wireless multi-hop routing for feeder level communication in a smart grid
+7D4F075C	Selection of Serving PNCs Based on Measured FER within IEEE 802.15.5 Wireless Mesh Network
+765979B9	Joint Subchannel, Rate and Power Allocation in OFDMA-Based Cognitive Wireless Mesh Network
+805D5832	FAST CASH: FAir and STable Channel ASsignment on Heterogeneous Wireless Mesh Network
+586372AD	An Immune Algorithm for Minimum Interference Channel Assignment in Multi-radio Wireless Mesh Networks
+7E46EDD4	OpenFlow for Wireless Mesh Networks
+750E01B4	Qos-aware channel scheduling for multi-radio/multi-channel wireless mesh networks
+7875C740	An interference-aware admission control design for wireless mesh networks
+7DD6CAE0	Preventing admission failures of bandwidth reservation in wireless mesh networks
+7F3A7754	A seamless layer-2 handover scheme for mobile WiMAX based wireless mesh networks
+7D94DD37	Load-Balancing Algorithm to Improve Throughput Capacity in Wireless Mesh Backbone Networks
+7D7A3D1D	A Fair Routing Algorithm for Wireless Mesh Networks Based on Game Theory
+7D704A5F	Dynamic Partial Overlapping Channel Assignment Base on Traffic Load
+7DD415D1	Wireless Mesh Network Planning and Optimization through Genetic Algorithms
+7E91E097	A Load Balanced Routing Protocol Based on Ant Colony Algorithm for Wireless Mesh Networks
+811F8E45	Multipath routing over wireless mesh networks for multiple description video transmission
+7F8A3980	A new link scheduling algorithm for multi-radio interfaces Wireless Mesh Networks
+795C0CED	A novel localised authentication scheme in IEEE 802.11 based Wireless Mesh Networks
+7DB80804	TinyWiFi: making network protocol evaluation portable across multiple phy-link layers
+7FBED796	Adding reputation extensions to AODV-UU
+7FFF43AD	Routing, scheduling and channel assignment in Wireless Mesh Networks: Optimization models and algorithms
+780EF6C3	Near-zero triangular location through time-slotted mobility prediction
+802E4D1B	Evaluation of a wireless enterprise backbone network architecture
+5F7EE975	Minimum interference channel assignment for multicast in multi-channel multi-radio wireless mesh networks
+7E7987FD	A learning-based approach for distributed multi-radio channel allocation in wireless mesh networks
+7DA32E2B	Integrated Power Controlled Rate Adaptation and Medium Access Control in Wireless Mesh Networks
+7E661AE7	How to Effectively Use Multiple Channels in Wireless Mesh Networks
+7644BB41	Congestion Avoidance Hybrid Wireless Mesh Protocol (CA-HWMP) for IEEE 802.11s
+7F781BF5	Link-weighted and distance-constrained channel assignment in single-radio wireless mesh networks
+80C36997	Cognitive Wireless Mesh Network Testbed
+7E333D25	O3: optimized overlay-based opportunistic routing
+7FC233D5	Load- and Interference-Aware Channel Assignment for Dual-Radio Mesh Backhauls
+782EE02C	A genetic approach to joint routing and link scheduling for wireless mesh networks
+8064CF02	A QoS WMN with mobility support
+80030653	Connection-based scheduling for supporting real-time traffic in wireless mesh networks
+7DD549EE	Promoting fluidity in the flow of packets of 802.11 wireless mesh networks
+7D743FB9	A New Security Mechanism for Dynamic Channel Assignment in Wireless Mesh Networks
+79507CCA	Multi-path routing protocol using cross-layer congestion-awareness in wireless mesh network
+81061304	A fading and interference aware routing protocol for multi-channel multi-radio wireless mesh networks
+7D5C3338	Ray-tracing propagation prediction for wireless mesh networks (WMNs)
+7F7CF83A	Min-Max Congestion in Interference-Prone Wireless Mesh Networks
+7FD41C3F	Dynamic interference adaptation for wireless mesh networks
+7D8174EC	Efficient load-balancing routing for wireless mesh networks
+7D1BB8C6	Cost evaluation on secure routing over powerlines for WMNs
+7DBE01D8	Quality-assured energy balancing for multi-hop wireless multimedia networks via 2-D channel coding rate allocation
+805D2987	Quality-Aware Routing Metrics for Time-Varying Wireless Mesh Networks
+815FEE42	Optimal placement of gateways in multi-hop Wireless Mesh Networks: A clustering-based approach
+8096E3E7	A MOS-Based Routing Approach for Wireless Mesh Networks
+81241AD2	Interference and traffic aware channel assignment in WiFi-based wireless mesh networks
+7FCB735D	A Wireless Network Coding Scheme with Forward Error Correction Code in Wireless Mesh Networks
+59545F29	Interference-Aware Channel Assignment in Wireless Mesh Networks
+5954E31A	Scalability in Wireless Mesh Networks
+7E8BA290	An efficient traffic control system using dynamic thresholding techniques in wireless mesh networks
+814CE82B	A WiFi-based wireless mesh network with inter-domain mobility management
+8162FD7E	Max-min throughput tree topology construction in wireless mesh networks
+7D1A5F1E	A minimum route-interference routing metric for multi-radio wireless mesh networks
+7E914465	Joint Multi-Channel Link Layer and Multi-Path Routing Design for Wireless Mesh Networks
+7A89B572	On the feasibility of distributed link-based channel assignment in wireless mesh networks
+7F3426DD	Flow Starvation Mitigation for Wireless Mesh Networks
+80BD743B	Autonomous load balancing anycast routing for wireless mesh networks: VoIP call support
+7EC16C82	A variable neighborhood search method for multi-objective channel assignment problem in Multi-Radio WMNs
+75950DC1	Enhance & explore: an adaptive algorithm to maximize the utility of wireless networks
+777A4870	Using fuzzy link cost and dynamic choice of link quality metrics to achieve QoS and QoE in wireless mesh networks
+78CDC5BB	Performance model for IEEE 802.11s wireless mesh network deployment design
+7EF4F26D	A Column Generation Approach for Spectrum Allocation in Cognitive Wireless Mesh Network
+7DBDD603	Network performance improvement of MIMO two-way relay with respect to CSMA/CA mesh networks
+7EDE8005	ABI State of the Art Analysis of Wireless Mesh Technologies 2006
+80F7A7BF	Developing ZigBee Deployment Guideline Under WiFi Interference for Smart Grid Applications
+7DC52AC4	SCUBA: focus and context for real-time mesh network health diagnosis
+809CA8D6	A Novel Authentication and Key Agreement Scheme for Wireless Mesh Networks
+7FDB3FCE	Multi-Hop Wireless Relay Networks of Mesh Clients
+7EA93897	Low-Coupling Cluster-Based Multipath Routing for Wireless Mesh Networks
+766C85DD	Characterization and analysis of multi-hop wireless MIMO network throughput
+7FD506DD	MINEC: A Framework on Incentive Routing in Wireless Mesh Networks
+77CD23DA	Wireless mesh networks
+7DEF851F	Performance Modelling and Analysis of Integrated WLANs and Internet-Access Mesh Networks
+6B786AA8	Secure Routing in Wireless Mesh Networks
+80250450	Power Control and Maximum Flows of Wireless Lattice Networks
+7DAEDFD4	A Cut-through MAC for Multiple Interface, Multiple Channel Wireless Mesh Networks
+7D144398	An optimization framework for the joint routing and scheduling in Wireless Mesh Networks
+7E1C1BE9	QoS Routing in Wireless Mesh Networks with Cognitive Radios
+80BA5444	Distributed Channel Assignment in Multi-Radio 802.11 Mesh Networks
+7E6B234C	Energy efficient routing protocols for Multi-hop Cellular Networks
+5E48CBEF	Dynamic Distributed Authentication Scheme for Wireless LAN-Based Mesh Networks
+7D3C13A5	VoIP Service Performance Optimization in Pre-IEEE 802.11S Wireless Mesh Networks
+7E0ADDEE	Mobile-Agent-Based Handoff in Wireless Mesh Networks: Architecture and Call Admission Control
+7F1F64CA	Multiple Access Interference Cancellation and Link Multiplexing for MIMO Mesh Network
+7CF40D7F	Measurement driven deployment of a two-tier urban mesh access network
+81613E14	Evaluating the Impact of Transmission Power on QoS in Wireless Mesh Networks
+7F68975A	CARMEN: Delivering carrier grade services over wireless mesh networks
+7E80BAAC	Delay and Throughput in Random Access Wireless Mesh Networks
+7D2AC0E3	Joint Routing and Scheduling Optimization in Wireless Mesh Networks with Directional Antennas
+80B1B2DD	CaDAR: An Efficient Routing Algorithm for Wireless-Optical Broadband Access Network
+7D01154C	A Load-Balanced Route Selection for Network Coding in Wireless Mesh Networks
+7D2B1330	A framework for self-configuration on WMNs aware of performance and security issues
+7F434925	iPack: in-Network Packet Mixing for High Throughput Wireless Mesh Networks
+7A329293	Mesh-Mon: A multi-radio mesh monitoring and management system
+7DBF1742	Load balancing for spectrum management in a cluster-based cognitive network
+7F76E905	Efficient Seamless Non-Broadcast Routing Algorithm for Wireless Mesh Network
+800A7B42	IROCX: Interference-aware routing with opportunistically coded exchanges in wireless mesh networks
+7FBFC8FD	Topology simplification and channel assignment in multi-radio Wireless Mesh Networks
+7794167C	Hop-Count Based Congestion-Aware Multi-path Routing in Wireless Mesh Network
+7ECAC6F3	Utilizing Multiple Channels With Fewer Radios in Wireless Mesh Networks
+7C811F0E	Efficient multicasting for multi-channel multi-interface wireless mesh networks
+6F2D9302	Multi-agent Based Selfish Routing for Multi-channel Wireless Mesh Networks
+8150059F	An Analysis of Opportunistic Routing in Wireless Mesh Network
+5EE5982D	MeshScan: a Fast and Efficient Handoff Scheme for IEEE 802.11 Wireless Mesh Networks
+7E161B6C	Characterizing the capacity gain of stream control scheduling in MIMO wireless mesh networks
+7A337E48	MRP: Wireless mesh networks routing protocol
+7D0ABF3B	Multi-Hop Effective Bandwidth Based Routing in Multi-Radio Wireless Mesh Networks
+80062D28	An Identity-Based Security Architecture for Wireless Mesh Networks
+7CED7093	Architecture and protocol design for a pervasive robot swarm communication networks
+81348DC3	QoS analysis of resource allocation in wireless mesh networks
+7DF4E6F4	Cognitive Multi-Radio Mesh Networks on ISM bands: A cross-layer architecture
+816AB5BE	On Routing in Multichannel Wireless Mesh Networks: Challenges and Solutions
+59B66DAC	SHWMP: A Secure Hybrid Wireless Mesh Protocol for IEEE 802.11s Wireless Mesh Networks
+7D17F43B	Self-optimizing cooperative caching in autonomic Wireless Mesh Networks
+70000140	A qoe fuzzy routing protocol for wireless mesh networks
+78B44DF8	Aziala-net: deploying a scalable multi-hop wireless testbed platform for research purposes
+019D4918	The design of reliable routing protocols in wireless mesh networks
+813F5AC0	Experimenting with P2P traffic optimization for wireless mesh networks in a federated OMF-PlanetLab environment
+7D316622	Throughput-range tradeoff of wireless mesh backhaul networks
+7DA5879E	Maximum bandwidth routing and maximum flow routing in wireless mesh networks
+7F12127A	Network Engineering and Traffic Forwarding (NETF): An Integrated Design for Inter-Gateway QoS Handoffs in Infrastructure Wireless Mesh Networks
+7D740FEE	An efficient routing protocol for point-to-point elastic traffic in wireless mesh networks
+78C5CE4F	Optimized Self Reconfigurable Wireless Mesh Networks
+7520CD18	Routing in multi-hop wireless mesh networks with bandwidth guarantees
+80FA87C3	Evaluation of Wireless Mesh Network Handoff Approaches for Public Safety and Disaster Recovery Networks
+81331F6D	An integrated approach for reliability and dependability of Wireless Mesh Networks
+80B2669A	Measurements and Evaluations for an IEEE 802.11a Based Carrier-Grade Multi-radio Wireless Mesh Network Deployment
+7F4B9251	A Note on Practical Deployment Issues for Network Coding in the IEEE 802.16 MeSH Mode
+7D88CDDB	Characterizing achievable rates in multi-hop wireless mesh networks with orthogonal channels
+7591B000	An empirical comparison of throughput-maximizing wireless mesh routing protocols
+7D55CC08	A Single Node Decomposition Based Analytic Model for Multiclass Route Optimization in Wireless Mesh Networks
+7D725CAF	Interference-Aware Broadcast Routing and Channel Assignment in Multi-Radio Wireless Mesh Networks
+7FFEF40F	NACS: Nodes Accessing Control Strategy for Wireless Mesh Networks
+7E34CA43	A Joint Interchannel and Network Coding Schema for nVoD Services over Wireless Mesh Networks
+7F6F9847	Nonpreemptive Constrained Link Scheduling in Wireless Mesh Networks
+80380C57	Stochastic Security Performance of Active Cache Based Defense against DoS Attacks in Wireless Mesh Network
+761B74F0	Extra back-off flow control in multi-hop wireless networks
+7F2D375A	Traffic adaptation in wireless mesh networks: Fuzzy-based model
+7F5FCA8A	Airtime Deficit Round Robin (ADRR) packet scheduling algorithm
+7D918094	Link scheduling with end-to-end delay constraints in Wireless Mesh Networks
+7D0FF850	A Cross-Layer Routing Scheme for Multi-Channel Multi-Hop Wireless Mesh Networks
+7FCEFC67	A multipath routing and spectrum access (MRSA) framework for cognitive radio systems in multi-radio mesh networks
+7DC8D622	Gateway Placement with QoS Constraints in Wireless Mesh Networks
+7A4DB2B3	Measurement-driven admission control on wireless backhaul networks
+7D8A2332	Advances and Challenges with Data Broadcasting in Wireless Mesh Networks
+7F9E2D71	A New Approach to Improve the Efficiency of Distributed Scheduling in IEEE 802.16 Mesh Networks
+5D61DC98	Channel Assignment and Routing in Multi-Radio Wireless Mesh Networks
+7EBF9B6F	ETX Could Result in Lower Throughput
+7F6501F4	Practical Routing and Channel Assignment Scheme for Mesh Networks with Directional Antennas
+8043E544	Hybrid Routing Protocol for Wireless Mesh Network
+8149A461	Experimental characterization of sectorized antennas in dense 802.11 wireless mesh networks
+7F5957F8	WLC30-4: Static Channel Assignment in Multi-radio Multi-Channel 802.11 Wireless Mesh Networks: Issues, Metrics and Algorithms
+812C2369	Mitigating selective forwarding attacks with a channel-aware approach in WMNS
+7D4662EC	Delay analysis of Wireless Ad Hoc networks: Single vs. multiple radio
+81087E9C	The impact of interference on the performance of a multi-path metropolitan wireless mesh network
+80BDB32E	Routing metrics for multi-radio wireless mesh networks
+7FF68AEE	Favorable Peer Supported Throughput Optimization in Wireless Mesh Network
+7EA67564	Performance and Interference Control in Wireless Ad hoc and Mesh Networks— A Generalized Lagrangian Approach
+811E0743	Rate-Based Channel Assignment Algorithm for Multi-Channel Multi-Rate Wireless Mesh Networks
+788EEBDC	Maximal covering with network survivability requirements in wireless mesh networks
+7DEA3E3E	Interference-aware Multipath Selection for Reliable Routing in Wireless Mesh Networks
+77F8D8B7	On the capacity of the single source multiple relay single destination mesh network
+781CFB6D	Load-aware multicast routing metrics in multi-radio multi-channel wireless mesh networks
+7F81642C	An Analytical Model for Handoff Overhead Analysis in Internet-Based Infrastructure Wireless Mesh Networks
+7D1CC71C	Stability region adaptation using transmission power control for transport capacity optimization in IEEE 802.16 wireless mesh networks
+783267DF	A Flow-Aware Opportunistic Routing Protocol for Wireless Mesh Networks
+7F56F88C	Cluster-based routing scheme for Wireless Mesh Networks
+80CAF7D4	A Layered Routing Architecture for Infrastructure Wireless Mesh Networks
+7DBEDE3D	Localized minimum-latency broadcasting in multi-radio multi-rate wireless mesh networks
+785E775A	Provisioning of parameterized quality of service in 802.11e based wireless mesh networks
+7F63F7CB	Hierarchical frame aggregation techniques for hybrid fiber-wireless access networks
+814452C8	Opportunistic medium access control in MIMO wireless mesh networks
+7E441375	Link-quality measurement enhancement for routing in wireless mesh networks
+807D4945	A Cross-Layer and Adaptive Scheme for Balancing Performance and Security on WMN Data Routing
+7FB583D5	Network coding for wireless mesh networks: a case study
+7D3F5A3B	The scalability of the hybrid protocol in wireless mesh network 802.11s
+7D9BE159	Topological-based architectures for wireless mesh networks
+7AAB8D1A	Empirical analysis of the single-radio mesh architecture: performance limitations and challenges
+77DB971C	A testbed-based approach to develop layer 3 wireless mesh network protocols
+5E9CE9CF	Performance Analysis of Reactive Routing Protocols with OSPF for IEEE 802.11s Wireless Mesh Network
+0AD5655E	Impact of different content placement and delivery strategies on content delivery capacity of the wireless mesh networks
+7CE90A18	How Much Improvement Can We Get From Partially Overlapped Channels?
+7EEA9306	Hybrid Architecture and Integrated Routing in a Scalable Optical–Wireless Access Network
+7D5786CA	A hybrid QoS multicast framework-based protocol for wireless mesh networks
+7E3E293F	A QoS Multicast Routing Algorithm for Wireless Mesh Networks
+7FA96607	Joint multicast routing and channel assignment in multiradio multichannel wireless mesh networks using simulated annealing
+7C99DBF5	Research Paradigm of Capacity Analysis and Optimizing Theory on Wireless Mesh Network: Research Paradigm of Capacity Analysis and Optimizing Theory on Wireless Mesh Network
+7E659810	Experiences in deploying a wireless mesh network testbed for traffic control
+7E19E247	Maximum capacity in chain-topology wireless mesh networks
+7E56B7F7	A Cross-Layer Framework for Association Control in Wireless Mesh Networks
+7CD478A3	Concurrent Transmission with Minimal SR-Pair Interference in WiMAX Mesh Networks
+7D321B23	Centralized Quasi-Static Channel Assignment for Multi-Radio Multi-Channel Wireless Mesh Networks
+7F32E286	Downlink Resource Auction in a Tree Topology Structured Wireless Mesh Network
+816A6F70	Business opportunities and considerations on wireless mesh networks
+815980E4	ADAM: Administration and deployment of adhoc mesh networks
+80E7DE94	Link Scheduling Algorithms for Wireless Mesh Networks
+7D3BC9B2	Valuable detours: least-cost anypath routing
+7635840A	Reinforcement Learning Enhanced Iterative Power Allocation in Stochastic Cognitive Wireless Mesh Networks
+799B38C2	Internet usage and performance analysis of a rural wireless network in Macha, Zambia
+7D30E49C	Pareto optimal resource management for wireless mesh networks with QoS assurance: Joint node clustering and subcarrier allocation
+7E0C672E	Studying wireless routing link metric dynamics
+7D821BEC	Towards low-complexity Internet traffic engineering: The Adaptive Multi-Path algorithm
+7CF1BF8A	Assignment of Roles and Channels for a Multichannel MAC in Wireless Mesh Networks
+08DACB66	Extended Abstract: Revisiting Minimum Cost Reliable Routing in Wireless Mesh Networks
+77686A2E	A hybrid nature-inspired optimizer for wireless mesh networks design
+7FE601FB	Link Scheduling and Power Control in Wireless Mesh Networks with Directional Antennas
+7E056A97	Performance Analysis of IEEE802.11 Wireless Mesh Networks
+79FC16F1	Non-repudiable authentication and billing architecture for wireless mesh networks
+7622755C	Adaptive hybrid medium access control scheme for traffic concentration problem in the mesh portal of IEEE 802.11s-based wireless mesh networks
+7DA10D7C	Novel packet-level resource allocation with effective QoS provisioning for wireless mesh networks
+76677B94	Adaptive wireless mesh networks: Surviving weather without sensing it
+7E5A07FD	Interference pair-based distributed spectrum allocation in wireless mesh networks with frequency-agile radios
+7FACFD1A	Network Coding for Information Exchange between Multiple Nodes in Wireless Networks
+7F108B08	VoIP and IPTV distribution over wireless mesh networks in indoor environment
+79153EC1	Adaptive Distributed Channel Assignment in Wireless Mesh Networks
+7F3E9C8D	A cluster driven channel assignment mechanism for wireless mesh networks
+7552CC6D	Fair Scheduling and Throughput Maximization for IEEE 802.16 Mesh Mode Broadband Wireless Access Networks
+78AF7224	Measuring one-way delay in wireless mesh networks: an experimental investigation
+7DB58880	An Experimental Comparison of Burst Packet Transmission Schemes in IEEE 802.11-Based Wireless Mesh Networks
+81341FA1	Scheduling Multiple Partially Overlapped Channels in Wireless Mesh Networks
+8111182A	An Optimization Framework for Opportunistic Multipath Routing in Wireless Mesh Networks
+7F1CFB8A	Reconfigurable Optical Backhaul and Integrated Routing Algorithm for Load Balancing in Hybrid Optical-Wireless Access Networks
+7FEA0D51	A channel assignment algorithm for multi-radio wireless mesh networks
+80439E5B	CHP: A Novel QoS-Guaranteed and Power-Efficient Access Scheme for Multi-Channel 802.11s Wireless Mesh Networks
+7F0A0E60	A review of cross-layer scheduling and resource allocation for wireless mesh networks
+815F6A5E	Joint routing and scheduling in WiMAX-based mesh networks: A column generation approach
+7F806704	Implementation of On-Demand Indoor Location-Based Service Using Ad Hoc Wireless Positioning Network
+7BA279D9	Release-time-based multi-channel MAC protocol for wireless mesh networks
+7ECBDF07	Intercluster connection in cognitive wireless mesh networks based on intelligent network coding
+811DBC4D	Minimum Latency Broadcasting in Multi-Radio Multi-Channel Multi-Rate Wireless Meshes
+5E984EAC	Journey from Mobile Ad Hoc Networks to Wireless Mesh Networks
+80C5841E	A proposed QoS multicast routing framework for next-generation Wireless Mesh Network
+7BDF7D35	DTSMA: Distributed time-spread multiple access for wireless mesh networks with IEEE 802.16d MAC protocol
+5E3CFE00	LLLA: New Efficient Channel Assignment Method in Wireless Mesh Networks
+80E34713	A Mobility Management Scheme for Wireless Mesh Networks
+7D3C19DE	SOAR: Simple Opportunistic Adaptive Routing Protocol for Wireless Mesh Networks
+8073733A	Network-Leading Association Scheme in IEEE 802.11 Wireless Mesh Networks
+75394FF7	Augmenting predictive with oblivious routing for wireless mesh networks under traffic uncertainty
+7E5D4A0B	Joint Revenue-Based Call Admission Control and Routing in Wireless Mesh Networks
+81773927	Securing Channel Assignment in Multi-Radio Multi-Channel Wireless Mesh Networks
+79C93005	A comparison of VoIP performance over three routing protocols for IEEE 802.11s-based wireless mesh networks (wlan mesh)
+7D3D2178	Multiple Radio Channels and Directional Antennas in Suburban Ad Hoc Networks
+78789F2C	Experimental evaluation of self-organized backpressure routing in a wireless mesh backhaul of small cells
+7D1632F0	Dice: a game theoretic framework for wireless multipath network coding
+7FDC71C1	The efficiency-collision tradeoff with adaptive CSMA/CA in wireless mesh networks
+7C1FC064	Online optimization of 802.11 mesh networks
+7E7C8A82	Efficient monitoring in wireless mesh networks: Overheads and accuracy trade-offs
+7D7C9D4E	Understanding IEEE 802.11n multi-hop communication in wireless networks
+816862B2	A Scheme for Probabilistically Reliable Multicast Routing in Wireless Mesh Networks
+5C690EEB	A Unified Service Discovery Architecture for Wireless Mesh Networks
+7E70BAFC	On the performance of downstream traffic distribution scheme in fiber-wireless networks
+7E88BFFD	A load-aware routing metric for wireless mesh networks
+7D36E9FF	Deployment analysis of carrier grade urban wireless mesh networks
+7B2B291C	Extensions of the Access Point Allocation Algorithm for Wireless Mesh Networks
+58A44FB8	Minimum cost configuration of relay and channel infrastructure in heterogeneous wireless mesh networks
+7D0D89EC	SAT: A Security Architecture Achieving Anonymity and Traceability in Wireless Mesh Networks
+7E3C4425	Power Fairness in A Scalable Ring-Based Wireless Mesh Network with Variable Ring-Width Design
+62015AD5	Secure Mechanism for Handling Targeted Attacks in Infrastructure Based Wireless Mesh Networks
+7E62331A	Load balancing in limited intra-cell interference (LICI) networks based on maximum graph-flow algorithms
+80797EE5	Optimal number of radio interfaces in wireless mesh network
+7FFB3FB2	Understanding Channel and Interface Heterogeneity in Multi-channel Multi-radio Wireless Mesh Networks
+812F0410	An Internet Gateway Access-Point Selection Problem forWireless Infrastructure Mesh Networks
+80CB9F77	Design and Implementation of Wireless Mesh Network Testbed Based on Layer 2 Routing
+7DC12FDB	Autonomous load balancing anycast routing protocol for wireless mesh networks
+7F3B5634	An Interference and Link-Quality Aware Routing Metric for Wireless Mesh Networks
+7F8C4445	Optimum routing protection against cumulative eavesdropping in multihop wireless networks
+7DB8A83C	A Perceptron Based Classifier for Detecting Malicious Route Floods in Wireless Mesh Networks
+7F1220AD	Evaluating load balancing in peer-to-peer resource sharing algorithms for wireless mesh networks
+811B3D4A	A Novel Cooperative Relaying Strategy for Wireless Networks With Signal Quantization
+7AFDCD17	A genetic approach on cross-layer optimization for cognitive radio wireless mesh network under SINR model
+7FBAA6BC	Performance of a novel topology control scheme for future wireless mesh networks
+80E8F520	A channel and rate assignment algorithm and a layer-2.5 forwarding paradigm for multi-radio wireless mesh networks
+8133338F	A Distributed End-to-End Reservation Protocol for IEEE 802.11-Based Wireless Mesh Networks
+7E2CF6C3	An Inter-domain Routing Protocol for Multi-homed Wireless Mesh Networks
+7E5FF848	Dynamic Load Balanced Hop Selection Algorithm in Wireless Mesh Network
+7D0D01B3	Mesh Topology Viewer (MTV): an SVG-based interactive mesh network topology visualization tool
+81D17621	Link scheduling with power control for throughput enhancement in multihop wireless networks
+7EBB9668	Bipartite Graph Based Dynamic Spectrum Allocation for Wireless Mesh Networks
+7F107C32	Towards Efficient Use of Radio Resources in Single Channel Wireless Mesh Networks
+80E176D1	Routing Overhead Minimization in Large-Scale Wireless Mesh Networks
+5DF53EEA	A Fair Scheduling for Wireless Mesh Networks
+7F7A64AE	Soft-TDMAC: A Software TDMA-Based MAC over Commodity 802.11 Hardware
+7E4D4BBE	Location-Free Semi-Directional Flooding for On-Demand Routing in Low-Rate Wireless Mesh Networks
+81630E64	Game theoretic approach to routing in 802.11 based wireless mesh networks
+7F9B1F85	Multicast Routing in Multi-Radio Multi-Channel Wireless Mesh Networks
+7798BBA0	EFT: a high throughput routing metric for IEEE 802.11s wireless mesh networks
+751D5B96	Personalised subscription pricing for optimised wireless mesh network deployment
+7DBF27EC	Horizon: balancing tcp over multiple paths in wireless mesh network
+7DF3F811	A scheme for dynamic monitoring and logging of topology information in Wireless Mesh Networks
+7F378ED5	Improved topology control for multiradio multichannel wireless mesh networks with directional antennas
+78584BC6	Approximate dynamic programming for link scheduling in wireless mesh networks
+75D03D7E	Maximizing Broadcast and Multicast Traffic Load through Link-Rate Diversity in Wireless Mesh Networks
+7FD6F56E	A distributed scheduling framework for multi-user diversity gain and quality of service in wireless mesh networks
+804B56A6	Partially overlapped channels not considered harmful
+7DCEFEFD	Efficient Distributed Authentication Method with Local Proxy for Wireless Mesh Networks
+80011116	WLC30-3: Optimization on Hybrid Channel Assignment for Multi-channel Multi-radio Wireless Mesh Networks
+7C49E04F	A simulated annealing algorithm for router nodes placement problem in Wireless Mesh Networks
+7D41ACE6	Power entangling and matching in cognitive wireless mesh networks by applying conjecture based multi-agent QQ-learning approach
+80F38BB4	Spectrum Allocation for Distributed Throughput Maximization under Secondary Interference Constraints in Wireless Mesh Networks
+7FE63848	Cross-layer optimization for end-to-end rate allocation in multi-radio wireless mesh networks
+73DE834F	A Network Coding Approach to Reliable Broadcast in Wireless Mesh Networks
+771D8554	Watch-Nodes-Based Wormhole Attacks Detection in Wireless Mesh Networks
+79C9F2DC	Proportional fairness in MAC layer channel access of IEEE 802.11s EDCA based wireless mesh networks
+8170938D	Multiple Descriptions and Path Diversity for Voice Communications Over Wireless Mesh Networks
+7ED4E2BF	A Novel Queue Management Mechanism for IEEE 802.11s based Mesh Networks
+7FC899D7	Performance of multi-radio wireless mesh networks: An experimental approach
+7E53DCA3	Iterative Cross Layer Schemes for Throughput Maximization in Multi-Channel Wireless Mesh Networks
+7F85DF71	An Empirical Study of Performance Benefits of Network Coding in Multihop Wireless Networks
+80099F78	Challenges and Evaluation of the State of the Art Routing Protocols for Wireless Mesh Networks
+7CA85364	Adaptive Sending Rate Over Wireless Mesh Networks Using SNR
+8004F2A6	Joint logical topology design, interface assignment, channel allocation, and routing for multi-channel wireless mesh networks
+7D0D6E35	APPCCM: Adaptive per-user per-object cache consistency management for mobile client-server applications in wireless mesh networks
+5CEAEB13	Flow Monitoring in Wireless MESH Networks
+7D1D6192	Design and Implementation of a Hybrid Channel-Assignment Protocol for a Multi-Interface Wireless Mesh Network
+80A016C2	Subscriber Aware Fair Routing in wireless mesh networks
+7E62ECE7	Hierarchical Storage System Based on Wireless Mesh Network
+7F305E93	Topology Optimization for Backbone Wireless Mesh Networks
+809B7735	A Realistic Small-World Model for Wireless Mesh Networks
+80BC5779	Multi-radio multi-channel routing metrics in IEEE 802.11s-based wireless mesh networks — And the winner is …
+7D367487	Heterogeneous Interface Configuration in Wireless Mesh Networks
+7DFD4C37	The IEEE 802.11s Extended Service Set Mesh Networking Standard
+7EBCDB51	An Experimental Study of the Impact of Using Multi-Radio in WLAN Mesh Networks
+7E0B8443	Capacity Assignment for Multipath Routing in Multiclass Two-Tier Wireless Mesh Networks
+751EE537	OPNET-based modeling and simulation study on handoffs in Internet-based infrastructure wireless mesh networks
+7F563842	Interface Placement in Constructing Widest Spanning Tree for Multi-Channel Multi-Interface Wireless Mesh Networks
+8072C24E	Service Differentiation in IEEE 802.11s Mesh Networks: A Dual Queue Strategy
+7D80639D	A Novel Interface Selection Scheme for Multi-Interface Wireless Mesh Networks
+77D633FF	Approximation algorithm for maximum edge coloring
+7F678912	Call capacity improvement techniques for VoIP over Wireless Mesh Networks
+5884992B	A Study of Adaptive Gossip Routing in Wireless Mesh Networks
+7FCD235D	Admission Control for Providing QoS in Wireless Mesh Networks
+809CB307	User-perceived-quality aware replication strategy for video streaming over wireless mesh networks
+7DDF624F	Data Rate-Aware Channel Assignment algorithm for multi-rate multi-channel wireless mesh networks
+7D923714	A Genetic Algorithm for the Routing Protocol Design of Wireless Mesh Networks
+7FD57CA3	Secure High-Throughput Multicast Routing in Wireless Mesh Networks
+6EA5DCC9	Overlays on wireless mesh networks: implementation and cross-layer searching
+75D6C2E4	The meshDVNet wireless mesh network test-bed
+7DCF69A1	On the scalability of carrier-grade mesh network architectures
+821C44E1	A Framework for the Self-Configuration of Wireless Mesh Networks
+7FD3A9DD	Maximum Throughput and Fair Bandwidth Allocation in Multi-Channel Wireless Mesh Networks
+76632DCF	Fair inter‐TAP routing and backhaul assignment for wireless mesh networks
+7EC217B1	WPR: A Proactive Routing Protocol Tailored to Wireless Mesh Networks
+7D673A5E	Efficient Role Assignment Scheme for Multichannel Wireless Mesh Networks
+806C2F2E	Static Channel Assignment with the Physical Interference Model for Maximum Capacity in Multi-radio Multi-channel Wireless Mesh Networks
+811AA8EA	Deployment and Evaluation of a Wireless Mesh Network
+79CA4B21	Broadband Internet Access via Multi-Hop Wireless Mesh Networks: Design, Protocol and Experiments
+0B7F61E7	Broadband provision to underprivileged rural communities
+7A1A9EC7	Performance evaluation for on-demand routing protocols based on OPNET modules in wireless mesh networks
+7A25A75A	Cross layer design using adaptive spatial TDMA and optimum routing for wireless mesh networks
+80965FD2	Optimization of Resource Allocation in Multi-radio Multi-channel Wireless Mesh Networks
+7FDA38BE	A Distributed Relay Selection Algorithm for Cooperative Multicast in Wireless Mesh Networks
+7EA12F69	Wireless Mesh Networking: A Key Solution for Emergency & Rural Applications
+7AC67768	Practical defenses against pollution attacks in intra-flow network coding for wireless mesh networks
+7562C959	MAC-layer Channel Utilisation Enhancements for Wireless Mesh Networks
+7F37D3D6	Optimal Spectrum Scheduling in Cognitive Wireless Mesh Networks
+817A2C19	Multicast in Multi-channel Wireless Mesh Networks
+803BB17A	A Low Interference Channel Assignment Algorithm for Wireless Mesh Networks
+75C9A56A	Experimentation and performance evaluation of rate adaptation algorithms in wireless mesh networks
+7EA56574	Failure-resilient vehicular networks
+7EB1586F	Congestion-aware fair rate control in wireless mesh networks
+5C54F644	QoSBR: A Quality Based Routing Protocol for Wireless Mesh Networks
+77D4F631	Performance evaluation of the mesh election procedure of ieee 802.16/wimax
+7A25740C	Angular MAC: a framework for directional antennas in wireless mesh networks
+7DC6E9A1	Wireless mesh networks: Cross layer design challenge!!
+8097D57A	A Novel Capacity Analysis for Wireless Backhaul Mesh Networks
+7DF56911	Joint Routing and Stream Control Scheduling in MIMO-Based WMNs
+806319F2	A Novel Architecture for Future Wireless Mesh Networks
+7FF23341	Efficient multicast for link-heterogeneous wireless mesh networks
+7DB868A2	Fairness and throughput optimization in wireless mesh networks
+8106CF73	A Fast Broadcast Tree Construction in Multi-Rate Wireless Mesh Networks
+5C70DB00	Interference-aware multicasting in wireless mesh networks
+7F0074FE	A Low-Overhead Handling Scheme of STA Association Information for IEEE 802.11s
+76542591	Modeling and simulation of wireless link quality (ETT) through principal component analysis of trace data
+7BF6CA8B	An Efficient Multi-hop ARP Scheme for Wireless LAN based Mesh Networks
+80A55D47	NIS07-5: Security Vulnerabilities in Channel Assignment of Multi-Radio Multi-Channel Wireless Mesh Networks
+59BDBD5F	Security Challenges in Multihop Wireless Mesh Networks–A Survey
+77933955	Survey on diversity-based routing in wireless mesh networks: Challenges and solutions
+7FD62401	End-to-End Throughput-Aware Channel Assignment in Multi-Radio Wireless Mesh Networks
+7F106140	Maximum-Rate Node Selection for Power-Limited Multiantenna Relay Backbones
+587ED653	Optimization models for the radio planning of wireless mesh networks
+7E8CF889	Routing constraint for VoIP traffic in wireless mesh networks
+75D60287	An overview of Channel Assignment methods for multi-radio multi-channel wireless mesh networks
+7F1FD108	Achieving End-to-end Fairness in 802.11e Based Wireless Multi-Hop Mesh Networks Without Coordination
+7EC0D2E6	Delay and Throughput Trade-Off in WiMAX Mesh Networks
+7DA1CB43	Re-match: A Two-Stage Dynamic Scheduling Algorithm on Wireless Mesh Network
+814556D4	Scheduling and Admission Control in Power-Constrained OFDM Wireless Mesh Routers: Analysis and Optimization
+809FC72C	Nomadic Service Assignment
+7F37E9C8	An Interference-Aware Power Control Scheme in Wireless Mesh Networks
+7FAFE041	Performance Optimizations for Deploying VoIP Services in Mesh Networks
+7EF2497B	Symbol-level network coding for wireless mesh networks
+7C42E02C	An adaptive learning routing protocol for the prevention of distributed denial of service attacks in wireless mesh networks
+8114282C	Review of Routing Protocols and It's Metrics for Wireless Mesh Networks
+80985A0D	Free-Space Optical Gateway Placement in Hybrid Wireless Mesh Networks
+5B78DDB5	MeshVision: An Adaptive Wireless Mesh Network Video Surveillance System
+7DAD9F49	Resource-Aware Video Multicasting via Access Gateways in Wireless Mesh Networks
+7E0A0B8C	A collision-free MAC scheme for multimedia wireless mesh backbone
+7DDAC512	Capacity based channel assignment in multi-interface wireless mesh networks
+76FE2985	Impact of multiple channels and radios on the performance of a TDMA based wireless mesh network
+7837AD8C	Cost-Sensitive and Load-Balancing Gateway Placement in Wireless Mesh Networks with QoS Constraints
+7F04B210	Challenges and recent advances in QoS provisioning in wireless mesh networks
+80129510	An analytical model for evaluation of wireless mesh networks
+815F1F2A	VoIP on Wireless Meshes: Models, Algorithms and Evaluation
+7D3F6ED3	QoS-Driven Node Cooperative Resource Allocation for Wireless Mesh Networks with Service Differentiation
+7FDDC6CA	Pacifier: High-Throughput, Reliable Multicast without ``Crying Babies'' in Wireless Mesh Networks
+7D1F4D92	Mice over mesh: HTTP measurements over a WiFi-based wireless mesh network
+7F7B826C	Optimal Design of Broadband Wireless Mesh Networks
+7DE5EA85	OLSR-Aware Distributed Channel Access Scheduling for Wireless Mesh Networks
+7FDA72C4	A multi-radio 802.11 mesh network architecture
+8141F0FD	An Interference-Aware Channel Assignment Scheme for Wireless Mesh Networks
+7FAC6E5C	Low-latency multichannel cut-through vs. CSMA/CA wireless mesh networking
+7DA4846C	Remote locations coverage analysis with wireless mesh networks based on IEEE 802.16 Standard
+814A6CEF	Gateway Deployment optimization in Cellular Wi-Fi Mesh Networks
+77F45909	A joint selfish routing and channel assignment game in wireless mesh networks
+7E088816	Joint Handoff and Energy Management for a Wireless Mesh Network
+784C9292	Enhancing robustness of vehicular networks using virtual frameworks
+779C4FBC	LOAD AWARE ADAPTIVE BACKBONE SYNTHESIS IN WIRELESS MESH NETWORKS
+7D0245A8	Static channel assignment algorithm in multi-channel wireless mesh networks
+7D6BF670	Gateway Placement in Backbone Wireless Mesh Networks Using Directional Antennas
+7E9568B9	Routing with opportunistically coded exchanges in wireless mesh networks
+806F0B02	MR Mesh: A Multi-Radio Wireless Mesh Network Testbed
+7D1DDE56	Route Capacity Estimation Based Admission Control and QoS Routing for Mesh Networks
+7DD194C2	A Knowledge Plane for Wireless Mesh Networks ⋆
+7EC4112F	Secured Identity Based Routing and privacy preservation in Wireless Mesh Networks
+81008443	A scalable delay based analytical framework for CSMA/CA wireless mesh networks
+7F83D06C	ARSA: An Attack-Resilient Security Architecture for Multihop Wireless Mesh Networks
+591656CC	Spatial reuse in IEEE 802.16 based wireless mesh networks
+58377AEE	Feasibility of Using Passive Monitoring Techniques in Mesh Networks for the Support of Routing
+6EADFBED	Simulation Study of VoIP Performance in IEEE 802.11 Wireless Mesh Networks
+7A439017	Role and channel assignments for wireless mesh networks using hybrid approach
+7ED1A20D	Joint Routing and Channel Assignment in WMN Using Extended Petri Net
+812727BA	Cooperative Opportunistic Routing Using Transmit Diversity in Wireless Mesh Networks
+7EB0C076	A Network-Based Local Mobility Management Scheme for Wireless Mesh Networks
+75E2F2E6	End-to-end rate allocation in multi-radio wireless mesh networks: cross-layer schemes
+80B48244	An optimization framework for practical multipath routing in wireless mesh networks
+780D839C	Future channel reservation medium access control (FCR-MAC) protocol for multi-radio multi-channel wireless mesh networks
+79EEB8BA	Distributed contention-aware call admission control for IEEE 802.11 multi-radio multi-rate multi-channel wireless mesh networks
+7B7FCB04	Optimal channel width adaptation, logical topology design, and routing in wireless mesh networks
+80BE15E3	An UPnP-based context-aware framework for ubiquitous mesh home networks
+80ADC77B	Routing and Admission Control for Wireless Mesh Networks with Directional Antennas
+7E97FC37	Research on Multi-constrained QoS Routing Scheme Using Mean Field Annealing
+805FC2AB	Collaborative mesh networking for low cost wireless coverage in rural areas
+76A0ADB2	RADAR: A reputation-driven anomaly detection system for wireless mesh networks
+7FFE93B2	On the Capacity and Scalability of Wireless Mesh Networks
+80A71BA4	Elucidating the Instability of Random Access Wireless Mesh Networks
+79E98698	The minimum number of gateways for maximizing throughput in wireless mesh networks
+7E5455C1	Distributed MDAOPs assignment algorithm for IEEE 802.11s mesh deterministic access
+7C90169D	A distributed channel assignment protocol for rate separation in wireless mesh networks
+7AE95180	An integrated routing and rate adaptation framework for multi-rate multi-hop wireless networks
+7D8FFA27	Grid Reconfigurable Optical-Wireless Architecture for Large Scale Municipal Mesh Access Network
+7DEE7496	The reliability performance of wireless multi-hop networks with apparent link-failures
+5B36309E	Rate-adaption channel assignment and routing algorithm for multi-channel wirelessMAN mesh networks
+7FCD6BAA	Rate-Adaptive Coding-Aware Multiple Path Routing for Wireless Mesh Networks
+7FB9DC02	Assuring QoS in Wireless Mesh Networks with Misbehaving Users
+7E5012E2	A Novel Multi-channel Multi-radio Wireless Mesh Node Architecture for NS-2
+7B0DB9B9	An effective Denial of Service Attack Detection Method in Wireless Mesh Networks
+632DFB07	A Conflict-Free Low-Jitter Guaranteed-Rate MAC Protocol for Base-Station Communications in Wireless Mesh Networks
+7F888070	Joint Topology Control and Routing in IEEE 802.11-Based Multiradio Multichannel Mesh Networks
+7F0CE0C9	Using merkle tree to mitigate cooperative black-hole attack in Wireless Mesh Networks
+7E8E6877	Local Channel Information Assisted Channel Assignment for Multi-Channel Wireless Mesh Networks
+7ECB59C3	A cross-layer cross-overlay architecture for proactive adaptive processing in mesh networks
+23E3A5D0	Novel Data Link Layer Encoding Scheme for Multi-hop Wireless Mesh Network
+813DCB6A	Stochastic approximate dynamic programming with link estimation for high quality path selection in Wireless Mesh Networks
+76E9839C	Predictability of Aggregated Traffic of Gateways in Wireless Mesh Network with AODV and DSDV Routing Protocols and RWP Mobility Model
+797E3649	A new parallel scheduling system for multipleradio wireless mesh network
+7FDCB126	Optimization models and methods for planning wireless mesh networks
+7E765673	Optimistic On-demand Cache Replication for Service Discovery in Wireless Mesh Networks
+7E74B21B	Energy Efficient Topology Control Algorithm for Wireless Mesh Networks
+7E66F063	A Robust Push-To-Talk Service for Wireless Mesh Networks
+7EC7A264	Joint Channel Assignment and Multi-path Routing for Multi-radio Wireless Mesh Networks
+80CDFEA5	Performance Study of Optimal Routing and Channel Assignment in Wireless Mesh Networks
+80E9921B	Performance analysis of on-demand routing protocols in wireless mesh networks
+811CFFCA	Context management system for pervasive WMN
+7E9EACB1	Cloud-over-WOBAN (CoW): An Offloading-Enabled Access Network Design
+7C8E84E1	Revisiting minimum cost reliable routing in wireless mesh networks
+7F992BC5	Adaptive Sensing Scheduling and Spectrum Selection in Cognitive Wireless Mesh Networks
+80F0BEE1	Towards End-to-end Delay Bounds on WMNs Based on Statistical Network Calculus
+7E5B2E2C	Characterizing deployment and distribution of self-powered mesh routers in wireless mesh networks
+7E374FBE	CodeOR: Opportunistic routing in wireless mesh networks with segmented network coding
+7F06FD7B	Cross-Layer Joint Rate Control and Scheduling for OFDMA Wireless Mesh Networks
+80E49CA4	A GA-based System for WMN and its Performance Evaluation for Different Scenarios
+7DFFF948	MARIA: Interference-Aware Admission Control and QoS Routing in Wireless Mesh Networks
+7B1C8077	Directional MAC and routing schemes for power controlled Wireless Mesh Networks with adaptive antennas
+80B22FFE	Design of Wireless Mesh Networks: Expansion and Reliability Studies
+800AE715	Cross-Layer Based Anomaly Detection in Wireless Mesh Networks
+6D935D78	Gateway Zone Multi-path Routing in Wireless Mesh Networks
+7F3125BF	Radio resource management of self-organizing OFDMA wireless mesh networks
+797D391C	Joint spectrum allocation and scheduling in multi-radio multi-channel cognitive radio wireless networks
+7EC49BDD	Distributed iterative power allocation in cognitive wireless mesh networks
+7C230390	Diverse Path Routing with Interference and Reusability Consideration in Wireless Mesh Networks
+00A71EBD	Securely Deliver Data by Multi-path Routing Scheme in Wireless Mesh Networks
+5AB3F5C0	Optimisation of Multicast Routing in Wireless Mesh Networks
+7FEFD1FF	Rate Splitting MIMO-based MAC Protocol
+794173BD	Streaming Multimedia over Wireless Mesh Networks
+7F502815	Best path to best gateway scheme for multichannel multi-interface wireless mesh networks
+7EB42F8C	Protecting Multicast Sessions in Wireless Mesh Networks
+7741F587	Efficient multicast routing in wireless mesh networks connected to internet
+7ECEA1CB	Cross-Layer Design in Wireless Mesh Networks
+7811E9AC	Topology control for service-oriented wireless mesh networks
+80E1E4D7	A reputation system for wireless mesh networks using network coding
+7F87E1B0	Load-Aware Channel Assignment Exploiting Partially Overlapping Channels for Wireless Mesh Networks
+7EC364D5	A QoS provisioning framework for Wireless Mesh Network
+813E9777	A Distributed Cross-Layer Adaptive Scheduling Algorithm for Wireless Mesh Networks
+75E9D5CA	A WDS Clustering Algorithm for Wireless Mesh Networks
+62EF626A	The Symbiosis of Cognitive Radio and Wireless Mesh Networks
+760F4C58	Routing Internet traffic in heterogeneous mesh networks: Analysis and algorithms
+7831A6C9	IEEE 802.11-based Wireless Mesh Network Testbed
+5E689DA2	A Secure Intra-domain Routing Protocol for Wireless Mesh Networks
+7C046053	WING/WORLD: An Open Experimental Toolkit for the Design and Deployment of IEEE 802.11-Based Wireless Mesh Networks Testbeds
+7E587A51	On Uplink Superposition Coding and Multi-user Diversity for Wireless Mesh Networks
+7542340E	Analysis of Bottleneck Delay and Throughput in Wireless Mesh Networks
+7FEB6317	Characterizing Link Importance in Multi-Channel, Multi-Radio, Multi-Rate Wireless Mesh Networks
+8029842E	Network coding-based protection of many-to-one wireless flows
+7E1D0455	Adaptable misbehavior detection and isolation in wireless ad hoc networks using policies
+809DC7AE	Single-path routing for life time maximization in multi-hop wireless networks
+7D6996B3	Implementation and Experiment of Publish/Subscribe System on Wireless Mesh Networks - Word-Mouth Information Distribution Service
+7FAEDFCD	Deploying Rural Community Wireless Mesh Networks
+79BCB92E	Exploring the design space of reliable multicast protocols for wireless mesh networks
+80A194B0	Defending selective forwarding attacks in WMNs
+7D240933	Wireless sensor network for community intrusion detection system based on classify support vector machine
+7F491293	Minimizing End-to-End Delay: A Novel Routing Metric for Multi-Radio Wireless Mesh Networks
+7F827280	Joint QoS-Aware Node Clustering and Tax-Based Subcarrier Allocation for Wireless Mesh Networks
+815C5E37	Collision-Load Balancing Topology Control with Rate Adaptation for Wireless Mesh Networks
+808935D9	An Alternative Approach for Header Compression Over Wireless Mesh Networks
+81421A8B	Experimental Study of Measurement-based Admission Control for Wireless Mesh Networks
+81786339	Gateway Placement in Wireless Mesh Networks Using Free Space Optical Links
+7ACA77B7	Self-Configuration and Self-Optimization Process in Heterogeneous Wireless Networks
+7A6B28EC	Benefit of Selecting Number of Active Mesh Routers in Disaster Oriented Wireless Mesh Network
+78FD32FA	A Probabilistic Load Balancing Scheme for Improving Service Quality of a Wireless Mesh Network
+7BF96343	Interference aware routing in multi-radio wireless mesh networks
+7CF015B3	Interference-Aware QoS Routing in Wireless Mesh Networks
+7D58058D	MOGAMESH: A multi-objective algorithm for node placement in wireless mesh networks based on genetic algorithms
+817641FE	Joint Connection Admission Control and Routing in IEEE 802.16-Based Mesh Networks
+7E3F03E9	A Cross-Layer Adaptation for VoIP over Infrastructure Mesh Network
+7E0C81E4	802.11b/g link level measurements for an outdoor wireless campus network
+81702FA2	Cross-layer optimization for wireless mesh networks with smart antennas
+7D1021DF	An empirical study of flooding in mesh networks
+7FC6453D	A bridging-based solution for efficient multicast support in wireless mesh networks
+7E31361E	Joint Channel Assignment and Routing in Real Time Wireless Mesh Network
+7DD34B7C	ELHFR: A graph routing in industrial wireless mesh network
+7EADFB8D	Energy efficiency in wireless mesh networks
+7FAECE34	Packet Transmission Scheduling for Supporting Real-Time Traffic in Wireless Mesh Networks
+7C93C2F6	A secure authentication and billing architecture for wireless mesh networks
+7D041948	Managing Wireless Mesh Networks - Analysis and Proposals
+7EF02D53	HTSMA: A Hybrid Temporal-Spatial Multi-Channel Assignment Scheme in Heterogeneous Wireless Mesh Networks
+7DA1E583	An Efficient MAC Layer Handoff Scheme for WiFi-Based Multichannel Wireless Mesh Networks
+79B688D1	Indoor deployment of IEEE 802.11s mesh networks: Lessons and guidelines
+7D8EE1DE	Concurrent MAC with Short Signaling for multi-hop Wireless Mesh Networks
+801E5C50	How to Study Wireless Mesh Networks: A hybrid Testbed Approach
+7D55F452	Intergating Multiple Metrics to Improve the Performance of a Routing Protocol over Wireless Mesh Networks
+7B718D03	FloorNet: Deployment and Evaluation of a Multihop Wireless 802.11 Testbed
+6C62C82A	Optimization of Multicast Routing Based on a Reliable Effective Framework in Wireless Mesh Networks
+78FC771D	A bandwidth management scheme support for real-time applications in wireless mesh networks
+7C6B6DA0	Using Genetic Algorithms in Wireless Mesh Network Routing Protocol Design
+7AE77313	A Cost-Aware Multi-path DSDV Routing Protocol in Wireless Mesh Networks
+7F212BFB	Performance of Wireless Mesh Networks with Three Sector Antenna
+80D540DA	Distributed Call Admission Protocol for Multi-Channel Multi-Radio Wireless Networks
+81237A6B	The Capacity of MIMO-based Wireless Mesh Networks
+79CF40D5	Cross-layer design for tree-type routing and level-based centralised scheduling in IEEE 802.16 based wireless mesh networks
+5D3CFF6A	Throughput Potential of Overlay Cognitive Wireless Mesh Networks
+7B2326FE	Differentiated CW Policy and Strict Priority Policy for Location-Independent End-to-End Delay in Multi-Hop Wireless Mesh Networks
+7D2D1AB4	Fast handoff for seamless wireless mesh networks
+7E4F1DED	Joint Channel Allocation, Interface Assignment and MAC Design for Multi-Channel Wireless Mesh Networks
+7DD2FEBB	IEEE 802.11 MAC protocol over wireless mesh networks: problems and perspectives
+80DD3B99	A Survey of Network Design Problems and Joint Design Approaches in Wireless Mesh Networks
+7FE6E8E1	SLAB: A secure localized authentication and billing scheme for wireless mesh networks
+77514DF3	Joint Channel Assignment and Routing for Throughput Optimization in Multiradio Wireless Mesh Networks
+7F154446	Design and implementation of a topology control scheme for Wireless Mesh Networks
+78C9A507	Chordal Graph Based Channel Assignment for Multicast and Unicast Traffic in Wireless Mesh Networks
+7E3D925A	A Cognitive Approach for Performance Enhancement of Wireless Mesh Networks
+7E4D02AE	Contention- and interference-aware flow-based routing in wireless mesh networks: design and evaluation of a novel routing metric
+7F59DDA8	Load Balancing Placement of Gateways in Wireless Mesh Networks with QoS Constraints
+607C48CF	Routing Metrics for Wireless Mesh Networks
+813B8071	Cooperative Multicast for Mobile IPTV Over Wireless Mesh Networks: The Relay-Selection Study
+7EE80F8E	Routing in the frequency domain
+7D044B7D	Partial network coding with cooperation: A cross-layer design for multi-hop wireless networks
+7F2DCBAE	A Routing Metric Based On Channel Utilization for Wireless Mesh Networks
+5B38074A	Making ad hoc networking a reality: problems and solutions
+8075DD54	Cluster-based channel assignment in multi-radio multi-channel wireless mesh networks
+0A9EA7B3	Cross-Layer Design for Wireless Mesh Networks Using Column Generation
+7AC46E8E	Performance Analysis of Routing Protocols for WLAN Mesh Networks
+7BD4C31D	Prototype development of advanced hierarchical frame aggregation in fibre-wireless access networks
+805A8C29	Bottleneck-first scheduling for wireless mesh backhaul networks
+5EE1D508	A State-of-the-art Survey on IDS for Mobile Ad-Hoc Networks and Wireless Mesh Networks
+73B97B80	Robust and Efficient Routing in Wireless Mesh Networks with Unreliable Nodes
+7D6CF04B	Interference mitigation based signal forwarding strategy for wireless relay networks
+751CA5B1	Robust resource allocation for multi-hop wireless mesh networks with end-to-end traffic specifications
+7BEF4456	A multi-path cognitive resource management mechanism for QoS provisioning in wireless mesh networks
+810F8A3E	Improving IEEE 802.11s Wireless Mesh Networks for Reliable Routing in the Smart Grid Infrastructure
+765B836D	Max-Min Fair Capacity of Wireless Mesh Networks
+7E6E497D	An IEEE 802.21-based approach for seamless wireless mobile integration using QoS-aware paths supporting unidirectional links
+8065B26C	Location-Dependent Throughput and Delay in Wireless Mesh Networks
+801723D1	Video streaming with network coding and opportunistic relay in wireless mesh networks
+7F2B172D	Resource planning and packet forwarding in multi-radio, multi-mode, multi-channel, multi-rate (M4) wireless mesh networks
+7E1B909C	Multirate Anypath Routing in Wireless Mesh Networks
+59E31F35	MobiMESH: An Experimental Platform for Wireless MESH Networks with Mobility Support
+7668B1E7	Survey of multi-channel MAC protocols for IEEE 802.11-based wireless Mesh networks
+7C12AB43	Performance Evaluation of a Self-Organising Scheme for Multi-Radio Wireless Mesh Networks
+80E2D412	Extending WLAN coverage using infrastructureless access points
+7D05C9B6	Prototypes of Opportunistic Wireless Mesh Networks Supporting Real-Time Services
+7E5F963C	Improving Throughput and Fairness in Multi-Hop Wireless Mesh Networks Using Adaptive Contention Window Algorithm (ACWA)
+7EF12FF8	OLSR-aware channel access scheduling in wireless mesh networks
+7DE8B2D0	A Multi-Commodity Flow Model for Optimal Routing in Wireless MESH Networks
+803834D3	Research on Interference-Based Channel Assignment Methods in 802.11-Based Wireless Mesh Network
+797EEE37	A(2)-MAKE: An efficient anonymous and accountable mutual authentication and key agreement protocol for WMNs
+7D39DBAC	Routing, spectrum access, and scheduling in multi-hop multi-channel wireless networks with MIMO links
+80D4BBFD	Design and implementation of MobiSEC: A complete security architecture for wireless mesh networks
+81015570	Locals Search Algorithms for Efficient Router Nodes Placement in Wireless Mesh Networks
+761E946F	Backhaul and Routing Assignments with End-to-End QoS Constraints for Wireless Mesh Networks
+67A3CF96	On Reduced Computational Cost, Efficient and Secure Routing (ESR) for Wireless Mesh Network
+7FA554B4	Routing-Aware Channel Selection in Multi-Radio Mesh Networks
+7AE8629A	Self-healing multi-radio wireless mesh networks
+7ECBB3C9	Improving End-to-End Performance of Wireless Mesh Networks through Smart Association
+81521E99	Cognitive Wireless Mesh Networks with Dynamic Spectrum Access
+7B633DDB	Proposal and evaluation of multiple gateways distribution method for wireless mesh network
+5B811D25	Channel Assignment in Virtual Cut-through Switching Based Wireless Mesh Networks
+7E2B71C6	Accelerating a Dual Algorithm for the Simultaneous Routing and Power Control Problem
+7C967621	The nominal capacity of wireless mesh networks
+7536F4A2	An overview of TCP analysis over routing protocols in Wireless Mesh Network
+754D3C6E	Efficient Mesh Router Placement in Wireless Mesh Networks
+7D82DCBB	Cooperative Network Coding and Coding-Aware Channel Assignment in Multi-Channel, Multi-Interface Wireless Networks
+7662F629	A study on distributed/centralized scheduling for wireless mesh network
+8065B0B0	A New Security Mechanism for SIP-Based VoIP over WMNs
+7A027357	A survey on wireless mesh networks
+8173B1E2	A study of propagation effects in a wireless test bed
+7EC97AAA	A multi-channel MAC using no dedicated control channels for wireless mesh networks
+7F1DF9DD	A Clean-Slate Architecture for Reliable Data Delivery in Wireless Mesh Networks
+7C0E977E	Framework for optimizing the capacity of wireless mesh networks
+80F986B1	Available bandwidth estimation and admission control for QoS routing in wireless mesh networks
+7D003FC5	A Sophisticated Privacy-Enhanced Yet Accountable Security Framework for Metropolitan Wireless Mesh Networks
+78180515	Challenges in Second-Generation Wireless Mesh Networks
+7D60CFD1	Mesh Router Placement Exploiting Obstacles for Mitigating Interference
+80850546	Measurement and analysis of real-world 802.11 mesh networks
+7F47B3F8	Architecture of QoS Guaranteed Joint Design of Node-Disjoint Multipath Routing and Subcarrier Allocation in OFDMA Mesh Networks
+7D8E5DAB	Experiences from the design, deployment, and usage of the UCSB MeshNet testbed
+7EBC4873	OLSR Mesh Networks for Broadband Access: Enhancements, Implementation and Deployment
+755603EE	Interconnection of geographically distributed wireless mesh testbeds: Resource sharing on a large scale
+80E7817D	Cross-layered IPv6 neighbor discovery scheme over WLAN mesh networks
+06543946	Enabling Distributed Throughput Maximization in Wireless Mesh Networks via Local Pooling
+7CF9A953	Throughput-Effective Scheduling with Fairness Guarantee in Wireless Mesh Networks
+7E3643B6	Dynamic router node placement in wireless mesh networks: A PSO approach with constriction coefficient and its convergence analysis
+7680502A	Multi‐channel power‐controlled directional MAC for wireless mesh networks
+7AD78F63	Design of certification authority using secret redistribution and multicast routing in wireless mesh networks
+7D11C61F	A Load-balanced Routing Consideration with Delay-based RREQ Scheme in Wireless Mesh Networks
+7F8D42AD	Neighborhood Nodes Collaboration to support QoS routing in Wireless Mesh Networks
+817483EC	Achieving True Video-on-Demand Service in Multi-Hop WiMax Mesh Networks
+800A3615	WiFIX+: A multicast solution for 802.11-based Wireless Mesh Networks
+8128751A	QoS based provisioning vertical handover between IEEE 802.11 and 802.16
+7F130B91	Secure Data Transition over Multicast Routing In Wireless Mesh network
+7DE8BCCA	Joint resource allocation in multi-radio multi-channel wireless mesh networks with practical sectored antennas
+8139A046	Throughput Fairness in Infrastructure-Based IEEE 802.11 Mesh Networks
+7D28C52D	Overlay Cognitive Radio with Multiple Secondaries and its Application to Wireless Mesh Networks
+807F9B8E	User density sensitive P2P streaming in wireless mesh networks
+7F3BE963	DMesh: Incorporating Practical Directional Antennas in Multichannel Wireless Mesh Networks
+7FBDEA4E	Maximizing Broadcast Load in Multi-Channel Multi-Interface Wireless Mesh Networks
+7A427A25	End-to-End Bandwidth Reservation in IEEE 802.16 Mesh Networks
+79CC01E7	High-Throughput Reliable Multicast in Multi-Hop Wireless Mesh Networks
+80F7DF88	XORs in the air: practical wireless network coding
+7F567073	Practical Coding-Aware Mechanism for Opportunistic Routing in Wireless Mesh Networks
+8115F061	Secure and efficient authentication in Wireless Mesh Networks using merkle trees
+7F91A373	Wireless Mesh Networks: Current Challenges and Future Directions of Web-In-The-Sky
+5D76595F	An Incremental Topology Control Algorithm for Wireless Mesh Networks
+75922B75	Wireless mesh networks to support video surveillance: architecture, protocol, and implementation issues
+800AEB6B	Link-Based VoIP Aggregation in Mesh Networks
+7D331472	Exploiting publish/subscribe communication in wireless mesh networks for industrial scenarios
+815D6DE3	Network Coding for Bit Error Recovery in IEEE 802.11 Mesh Networks
+7E1BC30C	RARE - Resource Aware Routing for mEsh
+5C3B689A	Optimal placement of mesh points in wireless mesh networks
+596E16C3	Hierarchical and QoS-aware routing in multi-hop wireless mesh networks
+7B73EDB1	Optimization architecture for joint multi-path routing and scheduling in wireless mesh networks
+5E3FFE42	Urban Wireless Mesh Network Planning: The Case of Directional Antennas
+7EF528F5	Rematch: a highly reliable scheduling algorithm on heterogeneous wireless mesh network
+7D43DF33	A Cross-Layer Distributed Call Admission Control
+80D2CBA9	Bandwidth guaranteed routing in wireless mesh networks
+765CF4D8	Implementation frameworks for IEEE 802.11s systems
+802DB91D	Minimum Interference Channel Assignment in Multiradio Wireless Mesh Networks
+7EBB49F8	Auto configuration and management mechanism for the robotics self extensible WiFi network
+813CDBC9	Optimal cooperative spectrum sensing with non-coherent inter-channel interference cancellation for cognitive wireless mesh networks
+801B676C	Capacity and QoS for a Scalable Ring-Based Wireless Mesh Network
+7E2A5AAD	Reliable multimedia multicast communications over wireless mesh networks
+8030490B	Multi-Radio Multi-Channel assignment games in non-cooperative Wireless Mesh Networks with end user bargaining
+7EE55371	Influence of Routing Protocol on VoIP Quality Performance in Wireless Mesh Backbone
+7E0ED0AE	Joint Link Scheduling, Beamforming and Power Control for Maximizing the Sum-Rate of Cognitive Wireless Mesh Networks
+7F54F00F	An emerging technology for improved building automation control
+8072BBB5	A Novel Mobility Management Scheme for IEEE 802.11-Based Wireless Mesh Networks
+5BC196A2	Mesh networking protocols to exploit physical layer capabilities
+81380AA6	GHVR: One-to-One Gradient-Height Vector Routing in Wireless Mesh Networks
+7FB3310B	Joint Throughput Optimization for Wireless Mesh Networks
+7DF7433A	Game-based analysis of eavesdropping defense strategy in WMN with directional antenna
+779958F9	2D MIMO Network Coding with Inter-Route Interference Cancellation
+80C5B234	A localized and distributed channel assignment scheme for wireless mesh networks
+7F734267	Multi-hop delay performance in wireless mesh networks
+77F491DA	Overlay Cognitive Radio in Wireless Mesh Networks
+80EBF20B	Design and implementation of a WLAN mesh router based on multipath routing
+7A86EED1	Principles of IEEE 802.11s
+8169A321	Assessment of urban-scale wireless networks with a small number of measurements
+81283731	The Impact of Link-Layer Retransmissions on Video Streaming in Wireless Mesh Networks (Invited Paper)
+796D9E0C	A Peer-To-Peer Membership Management Protocol for Wireless Mesh Networks
+7E52EFDE	Improving TCP's Robustness to Long Connectivity Disruptions
+7F2A32CB	The optimality of two prices: maximizing revenue in a stochastic communication system
+80D43308	Contention-Aware Cooperative Routing in Wireless Mesh Networks
+7F0A1127	Performance Evaluation and Delay Modelling of VoIP Traffic over 802.11 Wireless Mesh Network
+7E01142D	Cost-Aware Route Selection in Wireless Mesh Networks
+7D000AC0	Integrated Fiber-Wireless (FiWi) Access Networks Supporting Inter-ONU Communications
+7E846547	A proposal of a traffic control method with consumed bandwidth estimation for real-time applications in wireless mesh networks
+5D66EE92	Improving the throughput of wireless mesh networks for web services
+7C9C90E4	A Neural Networks-Based Hybrid Routing Protocol for Wireless Mesh Networks
+79C4E6F9	Secure group communication in wireless mesh networks
+7E957EA9	Bandwidth-Guaranteed Multicast in Multi-Channel Multi-Interface Wireless Mesh Networks
+80DC024F	QoS-driven wireless broadband home networking based on multihop wireless mesh networks
+7773A3AA	A topology control approach for utilizing multiple channels in multi-radio wireless mesh networks
+634C9529	Securing Layer-2 Path Selection in Wireless Mesh Networks
+80265152	Route Manipulation Attack in Wireless Mesh Networks
+816F4CEE	Scalable Publish/Subscribe Service in Wireless Mesh Networks
+7CC9E00C	Reconciling community resource requirements in U-Nets
+7EAD9F8A	Performance Evaluation in All-Wireless Wi-Fi Networks
+7DE507F6	Multi-path routing and rate allocation for multi-source video on-demand streaming in wireless mesh networks
+7E3AA8D8	Design and Performance Evaluation of IAR: Interference-Aware Routing Metric for Wireless Mesh Networks
+7D067049	Routing Metrics and Protocols for Wireless Mesh Networks
+7D456226	Adaptive TDMA slot assignment in mesh wireless networks
+7FB4A589	Joint Routing and Channel Assignment in Multi-Radio Wireless Mesh Networks
+7F915F52	High-Performance Multicast Routing in Multi-Channel Multi-Radio Wireless Mesh Networks
+7EB0B2DD	Distributed Resource and Routing Assignment Algorithms for Multi-channel WMNs
+7F717CDF	Routing in 802.11-Based Wireless Mesh Networks
+7F122BD0	Network coding for multiple unicast sessions in multi-channel/interface wireless networks
+77499A14	On the Efficacy of Opportunistic Routing
+7ED3D77D	Efficient Routing in Multi-Radio Wireless Mesh Networks
+7FAA3B97	Opportunistic ant-based path management for wireless mesh networks
+7F54476C	Physical and MAC Cross Layer Design for Wireless Mesh Networks
+7EE5FB61	Design of Infrastructure Wireless Mesh Networks: Formulations and Solutions
+7A25CF38	Joint Power-Frequency-Time Resource Allocation in Clustered Wireless Mesh Networks
+7EC7B4EC	Relative-Closest Connect-First Method For Topology Control in Wireless Mesh Networks
+7E34C4C0	Gateways Placement in Backbone Wireless Mesh Networks
+8100AEE3	Supporting Video Streaming Services in Infrastructure Wireless Mesh Networks: Architecture and Protocols
+81744907	Routing game in hybrid wireless mesh networks with selfish mesh clients
+7B2DD4B8	An effective scheduling scheme for multi-hopmulticast in wireless mesh networks
+7F5C04F5	Wireless Mesh Networks for Public Safety and Crisis Management Applications
+80634C10	Inter-Gateway Cross-Layer Handoffs in Wireless Mesh Networks
+7F0B64E6	Capacity of Wireless Mesh Networks: Determining Elements and Insensible Properties
+703D5B00	The Multiagent System for Channel Selection and Topology Control on 802.11 Based Mesh Networks
+80BA19F5	Performance study of wireless mesh networks routing metrics
+808FB9CB	Reliable and Real-Time Communication in Industrial Wireless Mesh Networks
+76B031ED	Multicast Algorithms for Multi-Channel Wireless Mesh Networks
+7F313ADF	Characterizing and Exploiting Partial Interference in Wireless Mesh Networks
+8104C98F	Power Fairness in a Scalable Ring-Based Wireless Mesh Network
+8104CD29	Channel switching control policy for wireless mesh networks
+7EC8659E	Secure group communication in wireless mesh networks
+7DF329F3	Performance evaluation of scheduling in IEEE 802.16 based wireless mesh networks
+80E81D92	Reducing Multicast Redundancy and Latency in Wireless Mesh Networks
+8029DB0B	An adaptive holdoff algorithm based on node state for IEEE 802.16 mesh mode with coordinated distributed scheduling
+8046F029	Feasibility of optimally assigning channels by exhaustive search in commercial multi-radio wireless mesh networks
+7E890982	A Topology Control Approach to Using Directional Antennas in Wireless Mesh Networks
+7521717D	Routing and QoS provisioning in cognitive radio networks
+7FA140F5	A Hybrid Indoor Localization Using Beacon Enabled Meshing and TOA in IEEE 802.15.4 Networks
+7F754A94	Experiences using Gateway-Enforced Rate-Limiting Techniques in Wireless Mesh Networks
+7D7765BC	FEBA: a bandwidth allocation algorithm for service differentiation in IEEE 802.16 mesh networks
+76D1DA73	Should next generation wireless mesh networks consider dynamic channel access?
+7B10316D	JANUS: A Framework for Distributed Management of Wireless Mesh Networks
+7F87BEB5	A Cross-Layer ECN to Achieve Fairness Among TCP Flows in Wireless Mesh Networks
+80CC0256	Multiple Concurrent Transmissions in Wireless Mesh Networks Employing Superposition and Dirty Paper Coding
+7E2EF3BD	Ad-hoc Path: an Alternative to Backbone For Wireless Mesh Networks
+79243F47	Channel, capacity, and flow assignment in wireless mesh networks
+7ECE42B3	A Study on the Performance of Search Methods for Mesh Router Nodes Placement Problem
+7DB119BA	Routing in Large-Scale Wireless Mesh Networks Using Temperature Fields
+7ED2C517	A Survey of Mobility Management in Hybrid Wireless Mesh Networks
+810652F8	Interference-Aware Routing Metric for Improved Load Balancing in Wireless Mesh Networks
+81091468	On the Capacity and Energy Trade-Off in LTE-Like Network
+5BC9AB6F	A Novel Channel Assignment Scheme for Multi-channel Wireless Mesh Networks
+7A42BEE3	Minimum Cost Topology Construction for Survivable Wireless Mesh Networks in Rural Area
+81021EB5	On the traffic behavior of distributed wireless mesh networks
+80263EF6	Towards Ethernet-Based Wireless Mesh Networks for Fast Moving Users
+77A28ECE	Capacity bounds of deployment concepts for Wireless Mesh Networks
+7EC9BE77	HEAT: Scalable Routing in Wireless Mesh Networks Using Temperature Fields
+80A3BCEF	A Cross-Layer Approach Handling Link Asymmetry for Wireless Mesh Access Networks
+7F19DE18	A Cross-Layer Architecture to Exploit Multi-Channel Diversity with a Single Transceiver
+7C4766FA	Experimental Measurement of Overhead Associated with Active Probing of Wireless Mesh Networks
+80C06289	Cross-Layer Fair Bandwidth Sharing for Multi-Channel Wireless Mesh Networks
+7F572EF8	QoS scheme for multimedia multicast communications over wireless mesh networks
+7FC33BCF	Fairness enhancement in wireless mesh networks
+79EBE6A9	Cross‐layer optimization for CDMA/TDD wireless mesh networks
+7B9007C7	Channel assignment for multicast in multi‐channel multi‐radio wireless mesh networks
+7F8DAF48	RePro: A Reputation-based Proactive Routing Protocol for the Wireless Mesh Backbone
+7D6571B4	A Link Type Aware Routing Metric for Wireless Mesh Networks
+7E12F225	Cluster-Based Spectrum Management Using Cognitive Radios in Wireless Mesh Network
+7EFE76C4	Channel Sensing Algorithm Based on Neural Networks for Cognitive Wireless Mesh Networks
+7EF9C848	A route tree-based channel assignment algorithm in cognitive wireless mesh networks
+7DD67584	Distributed and Adaptive Channel Allocation Algorithm for a Wireless Mesh Network with Directional Antennas
+809050BF	Throughput Optimization of Wireless Mesh Networks with MIMO Links
+803BA6C5	Minimum Interference Channel Assignment in Multi-Radio Wireless Mesh Networks
+7847335F	Efficient delay based scheduling with fairness in multi-hop wireless mesh networks
+7F74CB72	Mitigating the gateway bottleneck via transparent cooperative caching in wireless mesh networks
+7013B75D	Coverage and capacity of a wireless mesh network
+80B50D41	A routing protocol based on combinative metric for wireless mesh network
+0BB8FB26	Designing Routing Metrics for Mesh Networks
+7EF9DA80	A cognitive Power-Controlled Rate-Adaptive MAC protocol to support differentiated service in wireless mesh networks
+7B4FBCB4	Research of QoS on Wireless Mesh Networks: Research of QoS on Wireless Mesh Networks
+7F91989A	Self-reconfigurable wireless mesh networks
+7ED2F592	Consort: Node-Constrained Opportunistic Routing in wireless mesh networks
+7EB88F0B	PEACE: A Novel Privacy-Enhanced Yet Accountable Security Framework for Metropolitan Wireless Mesh Networks
+7A15AA0F	Dependable wireless mesh networks: An integrated approach
+7E8399EE	Capacity-Aware Routing in Multi-Channel Multi-Rate Wireless Mesh Networks
+785768C2	Enabling distributed throughput maximization in wireless mesh networks: a partitioning approach
+7D70AA76	Cross-Layer Routing Algorithm Design for QoS Provisionings over 802.11s Wireless Mesh Networks
+8175E34C	Providing Mobile Phone Access in Rural Areas via Heterogeneous Meshed Wireless Back-Haul Networks
+5B1E2B61	Hybrid mesh ad-hoc on-demand distance vector routing protocol
+8026F5BF	A new MIMC routing protocol compatible with IEEE 802.11s based WLAN mesh networks
+7E34960C	An AODV-improved routing based on power control in WiFi mesh networks
+7D2B24CB	On max-min fair flow optimization in wireless mesh networks
+78D7CD05	Numerical analysis of hardware architecture for header compression and packet aggregation on wireless networks
+7C50424C	Routing optimization in wireless mesh networks under uncertain traffic demands
+8094AFC1	On the impact of user mobility on peer-to-peer video streaming
+7E5BFF66	Predictive or Oblivious: A Comparative Study of Routing Strategies for Wireless Mesh Networks under Uncertain Demand
+7CE6E7BC	SEAODV: A Security Enhanced AODV routing protocol for wireless mesh networks
+7E66C0A7	A congestion-aware multipath routing with cross layer design for wireless mesh networks
+80FACD0E	A Systematic Security Approach in Wireless Mesh Networks
+7D517F7E	Bandwidth efficient multicast routing in multi-channel multi-radio wireless mesh networks
+7B339C07	The impact of link-layer retransmissions on video streaming in wireless mesh networks
+768DFFC1	Design and implementation of a sensor-based wireless camera system for continuous monitoring in assistive environments
+7A728025	Interference Aware Routing for Minimum Frame Length Schedules in Wireless Mesh Networks
+7E71EFA5	Delay and Capacity Optimization in Multi-radio Multi-channel Wireless Mesh Networks
+7FE65CD7	Asymptotic Capacity of Infrastructure Wireless Mesh Networks
+7F6CED8E	Layer 3 wireless mesh networks: mobility management issues
+7EEFA80B	An Improved Hierarchical AODV Routing Protocol for Hybrid Wireless Mesh Network
+7D4DA0C6	Cross-Layer Response Surface Methodology Applied to Wireless Mesh Network VoIP Call Capacity
+59D42811	An Efficient Hybrid Routing Approach for Hybrid Wireless Mesh Networks
+7E632D83	Experimental Analysis of Backpressure Scheduling in IEEE 802.11 Wireless Mesh Networks
+8126F171	Using MPLS in a Wireless Mesh Network to Improve the Resiliency of SCADA Systems
+7F877364	Experimental Comparison of Bandwidth Estimation Tools for Wireless Mesh Networks
+78E40300	A weight-aware channel assignment algorithm for mobile multicast in wireless mesh networks
+8174DD60	Dynamic Multi-channel Multi-path Routing Protocol for wireless mesh networks
+7800EA31	Load-oriented and interference-aware channel assignment for multicasting in wireless mesh networks
+7D5834E9	Algorithms to minimize channel interference in multiple channels multiple interfaces environments
+80C433D6	Practical defenses against pollution attacks in wireless network coding
+7E25B32C	Dimensioning of wireless mesh networks with flow-level QoS requirements
+7593C081	Network/hardware cross-layer evaluation for ROHC and packet aggregation on wireless mesh networks
+817AAA76	Cross-Layer Resource Allocation Optimization by Hopfield Neural Networks in OFDMA-Based Wireless Mesh Networks
+7E7BD089	Exploiting smart antennas in wireless mesh networks using contention access
+7F163EDA	Detection of Attacks in Wireless Mesh Networks
+806753EB	The VoIP Model Research Based on Finite Birth-Death Processes in Multi-channel Wireless Mesh Networks
+787779B3	Minimum-cost gateway placement in wireless mesh networks with QoS constraints
+7EA9925A	Intrusion detection systems for community wireless mesh networks
+809A959D	A mini-slot-based cooperative MAC protocol for wireless mesh networks
+7E844A8B	A Multipath TCP Based on Network Coding in Wireless Mesh Networks
+7E112938	On-line joint QoS routing and channel assignment in multi-channel multi-radio wireless mesh networks
+75F95335	MeshMan: A management framework for wireless mesh networks
+7D286177	A tractable algorithm for fair and efficient uplink scheduling of multi-hop wimax mesh networks
+7FFB37E1	Congestion Aware Routing in Hybrid Wireless Mesh Networks
+7D636B1B	CogMesh: A Cluster-Based Cognitive Radio Network
+7E5DE376	Capacity Analysis and Experimental Study with Multiple Interfaces and Multiple Channels in 802.11 Mesh Networks
+79090595	Congestion-aware channel assignment for multi-channel wireless mesh networks
+0852E203	A clustering-based channel assignment algorithm and routing metric for multi-channel wireless mesh networks
+7D96CDC4	Gateway Placement Optimization in Wireless Mesh Networks With QoS Constraints
+7D9EBD13	Seamless integration of unidirectional broadcast links into QoS-constrained broadband Wireless Mesh Access Networks
+7E71F65E	Greedy Local Routing Strategy for Autonomous Global Load Balancing Based on Three-Dimensional Potential Field
+7DD3C110	Improving the performance of AODV in hybrid WMN by architecture pattern
+79B226F4	A cross‐layer TCP for providing fairness in wireless mesh networks
+758FB97E	Addressing universal-broadband-service implications with wireless mesh networks
+80FDC81F	A Hybrid Adaptive Traffic Control Strategy in Wireless Mesh Networks
+59449894	Towards Resilient Community Wireless Mesh Networks
+5FB87C92	Hybrid Medium Access Control Scheme to Enhance the Performance of IEEE 802.11s Wireless Mesh Networks
+7D36A528	SWARM: the power of structure in community wireless mesh networks
+79513A9B	Achieving Load Balancing in Wireless Mesh Networks Through Multiple Gateways
+7D685ADA	Distributed channel assignment in Wireless Mesh Networks with guaranteed connectivity
+782DF457	Incentive-compatible opportunistic routing for wireless networks
+7FA9C300	The Impact of Adjacent Channel Interference in Multi-Radio Systems using IEEE 802.11
+7F9A77EB	Cross-layer design for spectrum sharing in Cognitive Wireless Mesh Networks
+81077EE1	Joint Rate Control and Resource Allocation in OFDMA Wireless Mesh Networks
+805C8770	Network Coding Efficiency in Live Video Streaming over Peer-to-Peer Mesh Networks Subtitle as needed (paper subtitle)
+7FC20D86	An architecture for the implementation of mesh networks in OMNeT++
+7D602190	A Performance Comparison of Virtual Backbone Formation Algorithms for Wireless Mesh Networks
+5ED51D79	A QoS Framework with Traffic Request in Wireless Mesh Network
+7F78F08C	TCP Performance in Coded Wireless Mesh Networks
+8025E7C9	Performance Study of Routing Protocols for Wireless Mesh Networks
+7EBE08F1	BASH: A backhaul-aided seamless handoff scheme for Wireless Mesh Networks
+5F05D98B	Attacks and countermeasures on routing protocols in wireless networks
+7F6C61BA	Relative Link Quality Assessment and Hybrid Routing Scheme for Wireless Mesh Networks
+58D0857D	Fast Randomized STDMA Link Scheduling
+7EA316B1	Network infrastructure extension using 802.1D‐based wireless mesh networks
+800FBA5C	Multicast Routing in Wireless Mesh Networks: Minimum Cost Trees or Shortest Path Trees?
+7F276F7A	DCMA: A Label Switching MAC for Efficient Packet Forwarding in Multihop Wireless Networks
+7E43CDDF	Joint Scheduling and Channel Allocation in Wireless Mesh Networks
+7CC0C3A3	Optimizing deployment of Internet gateway in Wireless Mesh Networks
+751B8256	Polynomial based scheme (PBS) for establishing Authentic Associations in Wireless Mesh Networks
+7D59A264	Throughput enhancement via channel assignment algorithms within Wireless Mesh Networks
+7E6D64AC	Routing stability in static wireless mesh networks
+803409C0	Threshold Key Redistribution for Dynamic Change of Authentication Group in Wireless Mesh Networks
+7F7F796C	On the channel usability of Wireless Mesh Networks: when stability plays with you
+7DA9890C	High-speed backhaul networks: Myth or reality?
+7D3848DF	A cross-layer framework for video-on-demand service in multi-hop WiMax mesh networks
+583D3C93	Design of an efficient message collecting scheme for the slot-based wireless mesh network
+791DC8CA	An Efficient Load Balancing Scheme for Multi-Gateways in Wireless Mesh Networks
+5E3E8897	Impact of Misbehaviour on QoS in Wireless Mesh Networks
+7FF4BD36	Fair Allocation of Subcarrier and Power in an OFDMA Wireless Mesh Network
+7C1D9DC4	Solving a resource allocation problem in wireless mesh networks: A comparison between a CP-based and a classical column generation
+7D11BEB5	MEMO: An Applied Wireless Mesh Network with Client Support and Mobility Management
+5F9C0B1B	Cross-layer routing in wireless mesh networks
+7E5F018A	A novel traffic splitting policy for performance improvement in wireless mesh networks
+7D42A205	Hop-by-Hop Congestion Control for Wireless Mesh Networks with Multi-Channel MAC
+81146505	Trust-based anonymity framework for Wireless Mesh Networks
+7D5149C7	Integrated routing and MAC scheduling for single-channel wireless mesh networks
+6EB0464B	A dynamic channel assignment strategy based on cross-layer design for wireless mesh networks
+7EA4EED2	On the fairness of frequency domain resource allocation in Wireless Mesh Networks — A survey
+808ED49F	Adaptive Medium Access Control for Hybrid Wireless Mesh Networks
+7F2DC88B	Distributed Admission Control in Wireless Mesh Networks: Models, Algorithms, and Evaluation
+800DEFE7	The importance of being overheard: throughput gains in wireless mesh networks
+7EAAEFD1	A Hand-off Management Structure based on OLSR protocol for Wireless Mesh Networks
+7598FC77	Mini-slot scheduling for IEEE 802.16d chain and grid mesh networks
+813649F8	Traffic Flow Estimation based Channel Assignment for Wireless Mesh Networks
+7FB27057	A Bayesian Statistical Model to Alleviate Greediness in Wireless Mesh Networks
+8136CE7F	A cross-layer routing design for multi-interface wireless mesh networks
+7DF87B95	REUSE: A combined routing and link scheduling mechanism for wireless mesh networks
+76AEAADF	Cross-layer Scheduling Algorithms for IEEE 802.16 Based Wireless Mesh Networks
+7FA796FA	A topology control approach for utilizing multiple channels in multi-radio wireless mesh networks
+7A99CE32	Minimizing transmission time in 802.16‐based multi‐channel mesh networks
+58C41DE2	Design of a Slot Assignment Scheme for Link Error Distribution on Wireless Grid Networks
+75819642	A Novel Scheme for Seamless Hand-off in WMNs
+7B83F1BB	SIR based interference modeling for wireless mesh networks: A detailed measurement study
+8005FB16	Resource allocation and efficient routing in wireless networks
+7C37BC28	Intelligent rate control for supporting real-time traffic in WLAN mesh networks
+784D0581	Research on node throughput in multi-radio multi-channel multi-rate wireless mesh network
+7D52D97C	Robust Routing and Scheduling in Wireless Mesh Networks under Dynamic Traffic Conditions
+7F65827A	An Opportunistic Service Differentiation Routing Protocol for Cognitive Radio Networks
+5B025B98	On estimating path capacity in wireless mesh networks
+7F1136EC	A Cross-Layer Design for Distributed Channel Assignment over Multi-Radio Multi-Channel Wireless Mesh Networks
+80DE3BFD	A Mesh Routing Protocol using Cluster Label in the ZigBee Network
+79839CEB	A Novel Approach to Fair Routing in Wireless Mesh Networks
+7D66224D	Binary waypoint geographical routing in wireless mesh networks
+804E9488	Cross-Layer Routing with Link Quality and Stability-Aware in ITS Hybrid Wireless Mesh Networks
+7D4A9A9D	AODV-HM: A Hybrid Mesh Ad-hoc On-demand Distance Vector Routing Protocol
+7F6CB1EF	A New Channel Assignment Mechanism for Rural Wireless Mesh Networks
+7D17CE6B	A Performance Study of Deployment Factors in Wireless Mesh Networks
+7F9EFA68	An Adaptive Channel Reconfiguration Algorithm for Multi-Channel Multi-Radio Wireless Mesh Networks
+7F1F1BE7	Optimal Power Multicast Problem in Wireless Mesh Networks by Using a Hybrid Particle Swarm Optimization
+7A4CE834	MeshVision: an adaptive wireless mesh network video surveillance system
+7E168229	Efficient Spatial Reuse in Multi-Radio, Multi-Hop Wireless Mesh Networks
+7C30094F	A cross‐layer architecture for effective channel assignment with load‐balancing in multi‐radio multi‐path wireless mesh networks
+7F1EB435	Optimizing Routing Metrics for Large-Scale Multi-Radio Mesh Networks
+586F282B	Optimal Routing and Call Scheduling in Wireless Mesh Networks with Localized Informations
+7EEB92DB	Interference-Aware Channel Assignment for On-demand Routing Protocols in Multi-radio Multi-channel Wireless Mesh Networks
+76787F95	Dynamic end-to-end capacity in IEEE 802.16 wireless mesh networks
+75A512A9	Improved network resilience of wireless mesh networks using MPLS and Fast Re-Routing techniques
+7DF4776F	Opportunistic Routing with Directional Antennas in Wireless Mesh Networks
+7E916B22	Cross-Layer Optimized Video Streaming Over Wireless Multihop Mesh Networks
+81080081	Capacity Analysis of Wireless Mesh Networks with Omni or Directional Antennas
+5E5071C9	Distributed Synchronization Technique for OFDMA-Based Wireless Mesh Networks Using a Bio-Inspired Algorithm
+80669DEB	Low-Latency Multichannel Wireless Mesh Networks
+7F975FDA	Multi-channel wireless LAN mesh architecture with DCF-based inter-AP communication and idle channel search packet forwarding
+7F58EDA2	Interference-Aware Multicast in Wireless Mesh Networks with Directional Antennas
+7567C209	Distributed routing algorithm for low-latency broadcasting in multi-rate wireless mesh network
+7C1B048E	Flow Oriented Channel Assignment for Multi-radio Wireless Mesh Networks
+7C287A76	Characterizing multi-way interference in wireless mesh networks
+598E9271	Resource Management and Optimization in Wireless Mesh Networks
+5DA76467	Interference-aware Load Balancing for Multihop Wireless Networks
+79C494BA	Channel Time Allocations and Handoff Management for Fair Throughput in Wireless Mesh Networks
+80A8AC87	Enhancing video streaming in 802.11 Wireless Mesh Networks using two-layer mechanism solution
+800300CA	Improving Video Streaming over IEEE 802.11 Mesh Networks through a Cross-Layer Design Technique
+7E25E553	Interference analysis at mesh access point considering mesh node activity
+80F182F5	Network Coding-Based Protection of Many-to-One Flow Networks
+76E59D5B	MAC protocols over wireless mesh networks: problems and perspective
+7D190FA0	On the Pitfalls of High-Throughput Multicast Metrics in Adversarial Wireless Mesh Networks
+78B86909	Cross-layer routing metrics for mesh networks: Current status and research directions
+7F3ED3C9	IEEE 802.11s Multihop MAC: A Tutorial
+8179A3F0	Energy Efficient, Fully-Connected Mesh Networks for High Speed Applications
+7E6881EC	Ontological Configuration Management for Wireless Mesh Routers
+81596463	Location-Dependent Network Performance and Design Strategies for Wireless Mesh Networks
+7D5370FC	A Cross-Layer Optimization Framework for Multihop Multicast in Wireless Mesh Networks
+7D13DC05	A Decentralized Minislot Scheduling Protocol (DMSP) for uplink and downlink traffic in IEEE 802.16 wireless mesh networks
+811B8788	Effect of Nakagami-m fading on the QoE performance of VoIP in wireless mesh networks
+81772277	FastM in WMN: A Fast Mobility Support Extension for Wireless Mesh Networks
+7DAA2743	Graph-Based Approach for Enhancing Capacity and Fairness in Wireless Mesh Networks
+7D8D518F	Performance of VoIP in a 802.11 Wireless Mesh Network
+7E908A64	Channel Allocation for IEEE 802.16 Mesh Networks
+7CEF444D	The study of interference-free multicast using non-orthogonal channels for multi-radio and multi-channel wireless mesh networks
+7B25B66D	Joint Frequency and Power Allocation in Wireless Mesh Networks : A Self-Pricing Game Model
+805D1900	Comparative study of AODV route repair mechanism with impact on node mobility and traffic load in Wireless Mesh Networks
+7CF82BB0	Structural Unfairness in 802.11-basedWireless Mesh Networks
+7FA34DE3	A New Multi-Channel MAC Protocol Combined with On-Demand Routing for Wireless Mesh Networks
+7D4F05A1	A Dynamic Programming Approach for Routing in Wireless Mesh Networks
+7E873395	A Bibd-Based Channal Assignment Algorithm for Multi-Radio Wireless MESH Networks
+7FA20227	A Performance Model for Integrated Wireless Mesh Networks and WLANs with Heterogeneous Stations
+7D8146D5	Traffic and Interference Aware Scheduling for Multiradio Multichannel Wireless Mesh Networks
+7AB2553C	Fuzzy-based cross-layer transmission scheme with QoS considerations for wireless mesh networks
+79DEAA6C	Efficient link scheduling for online admission control of real-time traffic in wireless mesh networks
+773D5DA4	Exploiting multi-flow diversity for mitigating intra-flow interference in wireless mesh networks
+7A1370E3	Towards benchmarking routing protocols in wireless mesh networks
+7DB7DBE2	Design and evaluation of iMesh: an infrastructure-mode wireless mesh network
+7FCA9A1D	LARM: A Load-Aware Routing Metric for multi-radio Wireless Mesh Networks
+7E4F13A9	Topology Control for Max-Min Traffic Delivery Ratio Using Directional Antennas for Wireless Mesh Networks
+7E8AB451	Time Behaviour and Network Encumbrance Due to Authentication in Wireless Mesh Access Networks
+7ECB0CFB	Gateway Deployment Optimization in Wireless Mesh Network: A Case Study in China
+7D81C843	Joint multipath routing and admission control with bandwidth assurance for 802.11-based WMNs
+80846179	Dynamic Channel Assignment for Wireless Mesh Networks Using Clustering
+7AB61E6A	Comparing simulation tools and experimental testbeds for wireless mesh networks
+802CB948	Effect of RObust Header Compression (ROHC) and Packet Aggregation on Multi-hop Wireless Mesh Networks
+7DD4C2A3	A Conflict Analysis Framework for QoS-Aware Routing in Contention-Based Wireless Mesh Networks with Beamforming Antennas
+8171462B	Threats and Vulnerabilities in Wireless Mesh Networks
+7BE5FAF3	GRAPH-THEORETIC ALGORITHM FOR SPECTRUM ALLOCATION IN IEEE 802.22 WIRELESS MESH NETWORK
+7F2626A6	Ubiquitous TV Delivery to the Masses
+8016330F	A Restricted-Weakly Connected Dominating Set for Role Assignment in a Multichannel MAC for Wireless Mesh Network
+5DFC7359	Experimentation Made Easy
+7E1C2D9B	Cross-Layer Dynamic Source Routing Protocol with Load Balancing in Wireless Mesh Networks
+7D636CBE	QoS Routing Algorithms based on Multi-Objective Optimization for Mesh Networks
+58A9D2E9	Throughput Maximization with Traffic Profile in Wireless Mesh Network
+7A0FE115	On the development of a IEEE 802.11s mesh point prototype
+75CEAC8D	Channel Aware Routing Metric for IEEE 802.11 multi-channel Mesh Networks
+58ADACCD	Optimal node placement in distributed wireless security architectures
+808C867A	Ripple: a wireless token-passing protocol for multi-hop wireless mesh networks
+772E9B35	Parallel-Transmission: A New Usage of Multi-Radio Diversity in Wireless Mesh Network
+8023FC7D	Method to Improve the Performance of Common Channel Framework
+801DDB6A	On multi-gateway association in wireless mesh networks
+80B34C01	Efficient backbone synthesis algorithm for multi-radio wireless mesh networks
+8146D496	Voice over Wireless Mesh Networks: A Case Study in the Brazilian Amazon Region during the Rainy Season
+81321D94	Hardware and software solutions for wireless mesh network testbeds
+7E82BFDB	Ditto: a system for opportunistic caching in multi-hop wireless networks
+5AE45BA1	INCOR: Inter-flow Network Coding based Opportunistic Routing in wireless mesh networks
+760BC049	On-demand coding-aware routing in wireless Mesh networks
+803269A8	QoS-aware flow monitoring and event creation in heterogeneous MPLS-based Wireless Mesh Networks supporting unidirectional links
+813C1B0E	Joint Link Scheduling and Routing for Directional-Antenna Based 60 GHz Wireless Mesh Networks
+7F605A11	R-Code: Network Coding Based Reliable Broadcast in Wireless Mesh Networks with Unreliable Links
+7E80F68D	Group key agreement performance in wireless mesh networks
+80E66330	On multicast routing in wireless mesh networks
+814F54BA	A Cluster-Based Middleware for Infrastructure Wireless Mesh Networks
+75667654	FLSAC: A new scheme to defend against greedy behavior in wireless mesh networks
+01717AB9	Single gateway placement in wireless mesh networks
+7FB240E9	A novel joint centralized scheduling and channel assignment scheme for IEEE 802.16 mesh networks
+7FF7F3E7	A New Multi-metric QoS Routing Protocol in Wireless Mesh Network
+7A0EBA89	TCP performance in cognitive multi-radio mesh networks
+7E787124	Mitigating Load Imbalance in Wireless Mesh Networks with Mixed Application Traffic Types
+7D748566	A Location-Aware Routing Metric (ALARM) for Multi-Hop, Multi-Channel Wireless Mesh Networks
+76E3FC99	Applying multipath routing to a video surveillance system deployed over a wireless mesh network
+5AC949E7	Channel Assignment Techniques for 802.11-Based Multiradio Wireless Mesh Networks
+80094E10	Detection and Identification of Anomalies in Wireless Mesh Networks Using Principal Component Analysis (PCA)
+803A9BD9	Distributed On Demand Channel Selection in Multi Channel, Multi Interface Wireless Mesh Networks
+7A3B1DA6	A tree based mobility management scheme for wireless mesh network
+7CFFB9C4	Two-tier Wireless Mesh Networks dimensioning
+81281CE6	Opportunistic Protocols in Multi-rate Environments
+7C55CEAB	Implementation of dynamic channel switching on IEEE 802.11-based wireless mesh networks
+754B0390	Harnessing Traffic Uncertainties in Wireless Mesh Networks--A Stochastic Optimization Approach
+7A04A3BC	CLEAR: A Cross-Layer Enhanced and Adaptive Routing Framework for Wireless Mesh Networks
+75234F6A	An electronic health application for disaster recovery
+7DECE7B8	Joint QoS multicast routing and channel assignment in multiradio multichannel wireless mesh networks using intelligent computational methods
+7F73594F	Optimization models for fixed channel assignment in wireless mesh networks with multiple radios
+5BE2E852	Design and analysis of a cooperative medium access scheme for wireless mesh networks
+7D4EA115	Traffic-and-resource-aware intrusion detection in wireless mesh networks
+7E6C75EF	Effective Radio Partitioning and Efficient Queue Management Schemes in a Wireless Mesh Network
+7F1D81A5	QoS-Aware Routing with Rate Adaptation in Wireless Mesh Networks
+8089AA22	Optimal Placement of Mesh Points in a Wireless Mesh Network Using Multi-path Routing Protocol
+80781BCB	CLM-TCP: TCP Congestion Control Mechanism Using Cross Layer for Wireless Mesh Networks
+7C0193F6	A load aware channel assignment and link scheduling algorithm for multi-channel multi-radio wireless mesh networks
+817A02C5	Achieving Fairness in 802.11-Based Multi-channel Wireless Mesh Networks
+7F890239	Optimal Capacity Allocation in Wireless Mesh Networks
+7F6EF5C0	Wireless mesh and optical burst switching convergence for a novel metropolitan area network architecture
+7E5A720C	Security Framework for Wireless Communications in Smart Distribution Grid
+76273D3C	Improving routing in long-distance wireless mesh networks via a distributed embedded router
+80266A67	Bandwidth overhead in WiFi mesh networks for providing fair Internet access
+8063828B	Dynamic-address-allocation based scalable routing protocol in context of node mobility
+81378282	Widest Spanning Tree for Multi-Channel Multi-Interface Wireless Mesh Networks
+5C855314	Interference-Aware Selfish Routing in Multi-ratio Multi-channel Wireless Mesh Networks
+7FFFB292	Game-theoretic particle swarm optimization for WMNs
+7C419D1F	DSA‐Mesh: a distributed security architecture for wireless mesh networks
+5C16C2B7	A quality aware anycast routing protocol for wireless mesh networks
+7D154B81	Optimal Path Discovery with Mobility Management in Heterogeneous Mesh Networks
+7DD45CF6	Optimizing the Internet Gateway Deployment in a Wireless Mesh Network
+8074255A	Utilizing IEEE 802.11n to enhance QoS support in wireless mesh networks
+7D4D8887	Load-aware routing protocol for multi-radio Wireless Mesh Networks
+81536DD5	Dynamic association in IEEE 802.11 based wireless mesh networks
+81073DB1	High-Reliability Multicast with New CMAC-Based Local Recovery Approach in Wireless Mesh Networks
+795F5677	On a Distributed Cognitive MAC Protocol for IEEE 802.11s Wireless Mesh Networks
+80785785	Impacts of refresh interval parameters on M-OLSR performance for Wireless Mesh Networks
+7D21D5D5	Secure Mutual Authentication and Fair Billing for Roaming Service in Wireless Mobile Networks
+7E9DC9B5	A framework for joint scheduling and diversity exploitation under physical interference in wireless mesh networks
+7A2EED92	Insights into the hidden node problem
+79D8CC51	On-demand channel reservation scheme for common traffic in wireless mesh networks
+81432FBC	Optimization based rate allocation and scheduling in TDMA based wireless mesh networks
+805228C6	Stochastic Security in Wireless Mesh Networks via Saddle Routing Policy
+7C734939	Rate-diversity and resource-aware broadcast and multicast in multi-rate wireless mesh networks
+7DCCF9E8	Complete Extended Independent Set Collision Immune Algorithm for Wireless Channel Assignment
+7EAD72EE	Link group management for carrier-grade wireless mesh networks
+798F5926	Securing wireless mesh networks
+7D166C36	Feedback-controlled WLAN: Achieving Channel-Availability in Mesh Networks
+7F6A47B9	A coordinate-based approach for exploiting temporal-spatial diversity in wireless mesh networks
+7D1B5C3E	Applying scheduling policies to improve QoE in wireless Voice-over-IP
+81577396	Enabling Efficient Peer-to-Peer Resource Sharing in Wireless Mesh Networks
+7DBD09CB	Session-oriented Adaptive Routing for improving path stability in WLAN based mesh networks
+7886DFE3	Multicast Routing Protocol with Low Transmission Delay in Multi-Rate, Multi-Radio Wireless Mesh Networks
+7E9DE2B1	QuRiNet: A wide-area wireless mesh testbed for research and experimental evaluations
+806E29AF	Using Partially Overlapped Channels for End-to-End Flow Allocation and Channel Assignment in Wireless Mesh Networks
+7850AE69	Linear beamformer schemes with simple relay selection in MIMO relay networks
+814A240C	Efficient Overlay Multicast Strategy for Wireless Mesh Networks
+7EAF0FD9	Cognitive wireless mesh networks: A connectivity preserving and interference minimizing channel assignment scheme
+7F55C435	A performance evaluation of OLSR and AODV routing protocols using a self-configuration mechanism for heterogeneous wireless mesh networks
+7BB24891	Routing Primitives for Wireless Mesh Networks: Design, Analysis and Experiments
+7E73908D	A novel routing algorithm in distributed IEEE 802.16 mesh networks
+7580D5EE	Load-Balanced and Interference-Aware Spanning Tree Construction Algorithm for TDMA-Based Wireless Mesh Networks
+7C452127	Adaptive state-based multi-radio multi-channel multi-path routing in Wireless Mesh Networks
+7FC80350	Battery-aware router scheduling in wireless mesh networks
+7E963637	Topology Formation for Wireless Mesh Network Planning
+772B0426	Interference-aware routing for multi-hop Wireless Mesh Networks
+7BFD63D9	Peer-to-peer file sharing over wireless mesh networks
+7D43099D	Testbed performance analysis of cross-layer based service discovery in Wireless Mesh Networks
+7DE6087C	A Delay-bounded Multi-Channel Routing Protocol for Wireless Mesh Networks using Multiple Token Rings: Extended Summary
+7F5872E7	QoE and QoS in wireless mesh networks
+7A23295E	Route Maintenance in IEEE 802.11 wireless mesh networks
+7D52587A	Association management for data dissemination over wireless mesh networks
+80DD1DFE	Securing multi‐operator‐based QoS‐aware mesh networks: requirements and design options
+7E4242E4	Survivability Analysis of Next-Generation Passive Optical Networks and Fiber-Wireless Access Networks
+811CE2CC	Evaluation of Scalable Proxy Mobile IPv6 in Wireless Mesh Networks
+7963508D	MAC Layer Channel Access and Forwarding in a Directional Multi-Interface Mesh Network
+7E0905AB	Link Layer Priority Techniques for Real-Time Traffic in CDMA Wireless Mesh Networks
+81371640	Opportunistic Routing with Adaptive CSMA/CA in Wireless Mesh Networks
+81598070	An Enhanced Reservation-Based Medium Access Control with Scheduling and Admission Control for Voice over Wireless Mesh Networks
+7E283080	Ad Hoc and Neighborhood Search Methods for Placement of Mesh Routers in Wireless Mesh Networks
+7E6797AF	A data-rate adaptive hidden-terminal problem immune MAC protocol for multi-channel wireless mesh networks
+7DFA7DA3	Reducing Routing Loops under Dynamic Metrics in Wireless Mesh Networks

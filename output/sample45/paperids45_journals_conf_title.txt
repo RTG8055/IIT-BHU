@@ -1,0 +1,69 @@
+76F2F40D	IEEE Transactions on Systems, Man, and Cybernetics<--Consistent Depth Video Segmentation Using Adaptive Surface Models
+80DD0E0A	Applied Mathematics and Computation<--Color image segmentation based on three levels of texture statistical evaluation
+7ECD2584	Computer Vision and Pattern Recognition<--Real-Time Image Matching Based on Multiple View Kernel Projection
+7D57BEC3	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Object Recognition Using Three-Dimensional Information
+76F730DC	Computer Vision and Pattern Recognition<--MILCut: A Sweeping Line Multiple Instance Learning Paradigm for Interactive Image Segmentation
+780ED305	Computer Vision and Pattern Recognition<--Nonparametric density estimation on a graph: Learning framework, fast approximation and application in image segmentation
+58B34D41	Journal of Machine Vision and Applications<--Probabilistically Semantic Labeling of IR Image for UAV
+7E085EB4	Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing<--Recognizing Humans Based on Gait Moment Image
+78698E02	Expert Systems<--Multiple scale neural architecture for enhancing regions in the colour image segmentation process
+7E4E679E	Computer Vision and Pattern Recognition<--A sparse texture representation using affine-invariant regions
+813E448B	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Recognizing human facial expressions from long image sequences using optical flow
+7D563D7B	International Conference on Robotics and Automation<--3DPO's strategy for matching three-dimensional objects in range data
+7DBA7924	Computer Vision and Pattern Recognition<--Fusing online and offline information for stable 3D tracking in real-time
+76C4FC8C	Image and Vision Computing New Zealand<--Real-time aerial image mosaicing
+7EBFAFB8	European Conference on Computer Vision<--Improving Shape Retrieval by Learning Graph Transduction
+7EA7FCB9	IEEE Transactions on Pattern Analysis and Machine Intelligence<--The complex EGI: a new representation for 3-D pose determination
+7D02CBD3	Computer Vision and Pattern Recognition<--Sparsity, redundancy and optimal image support towards knowledge-based segmentation
+811198B6	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Shape Classification Using the Inner-Distance
+7E46A206	Computer Vision and Pattern Recognition<--Discrete-Continuous Gradient Orientation Estimation for Faster Image Segmentation
+8064C0D7	Computer Vision and Pattern Recognition<--Connected Segmentation Tree — A joint representation of region layout and hierarchy
+5F6E00BA	Parallel and Distributed Processing Techniques and Applications<--Automated Segmentation and Registration of Dermatological Images
+806FEB8F	International Conference on Pattern Recognition<--Texture image classification and segmentation using RANK-order clustering
+7B527168	International Conference on Image Processing<--Globally consistent image mosaicing
+7EB2C241	IEEE Transactions on Pattern Analysis and Machine Intelligence<--3-D motion estimation in model-based facial image coding
+7CF79669	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Fitting parameterized three-dimensional models to images
+7E7A5930	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Normalized cuts and image segmentation
+7F115563	Journal of Machine Vision and Applications<--Motion history image: its variants and applications
+7F0EF4AB	Computer Vision and Pattern Recognition<--Fields of Experts: a framework for learning image priors
+815C8B6C	Computer Vision and Pattern Recognition<--Analyzing Semantic Segmentation Using Hybrid Human-Machine CRFs
+7F8DD1B2	Computer Vision and Pattern Recognition<--Normalized cuts and image segmentation
+81163150	IEEE Transactions on Pattern Analysis and Machine Intelligence<--The recognition of human movement using temporal templates
+805CA599	Journal of Forensic Sciences<--Forensic Terrestrial Photogrammetry from a Single Image
+7E6F011B	International Conference on Pattern Recognition<--Modeling, analysis, and visualization of nonrigid object motion
+785BBDD3	IEEE Transactions on Image Processing<--Image Segmentation Using a Sparse Coding Model of Cortical Area V1
+6F09A36D	Computer Vision and Pattern Recognition<--Geometric image primitives by complex moments in Gabor space and the application to texture segmentation
+7C28B8BF	Computer Graphics<--Three-dimensional representations for computer graphics and computer vision
+7A5332F2	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Bayesian Recognition of Local 3-D Shape by Approximating Image Intensity Functions with Quadric Polynomials
+7F10C9C1	Artificial Intelligence<--Three-dimensional object recognition from single two-dimensional images
+7E7A0AC6	International Conference on Computer Vision<--A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics
+7FB1ABBD	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Unsupervised Category Modeling, Recognition, and Segmentation in Images
+585F98C4	European Conference on Computer Vision<--Learning Visual Shape Lexicon for Document Image Content Recognition
+7F7F547B	International Conference on Pattern Recognition<--Segment-Forest for Segmentation
+7F4471F4	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Looking at people: sensing for ubiquitous and wearable computing
+7EB8966A	International Conference on Intensive Applications and Services<--From Images to Schemas
+7691E99E	Computer Vision and Pattern Recognition<--Image Denoising by Scaled Bilateral Filtering
+8032F81D	International Journal of Computer Applications<--Objects Tracking in Images Sequence using Local Binary Pattern (LBP)
+7704589C	ACM Computing Surveys<--Three-dimensional object recognition
+7EA966C4	Computer Vision and Pattern Recognition<--Fast pattern matching using orthogonal Haar transform
+80705B75	Content-Based Multimedia Indexing<--Gray level image processing using contrast enhancement and watershed segmentation with quantitative evaluation
+7D19259C	International Conference on Computer Vision<--Textons, contours and regions: cue integration in image segmentation
+043987B9	Computer Vision and Pattern Recognition<--Image Denoising with Unsupervised, Information-Theoretic, Adaptive Filtering
+812F43D4	IEEE Transactions on Visualization and Computer Graphics<--Calibration-free augmented reality
+8028B109	IEEE Transactions on Image Processing<--Using the low-resolution properties of correlated images to improve the computational efficiency of eigenspace decomposition
+7D257585	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Using spin images for efficient object recognition in cluttered 3D scenes
+7EC4E633	IEEE Transactions on Pattern Analysis and Machine Intelligence<--A sparse texture representation using local affine regions
+7C769452	Non-Photorealistic Animation and Rendering<--Shape-free hybrid image
+8127172B	International Conference on Computer Vision<--USSR: A Unified Framework for Simultaneous Smoothing, Segmentation, and Registration of Multiple Images
+7DC6766A	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Contour Detection and Hierarchical Image Segmentation
+7CFA456A	IEEE Transactions on Image Processing<--Region-based image watermarking
+7EC290A2	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Individual recognition using gait energy image
+7D2ADFBF	International Conference on Robotics and Automation<--Object recognition using multiple views
+7EF9355F	International Conference on Robotics and Automation<--Pose detection of 3-D objects using S 2 -correlated images and discrete spherical harmonic transforms
+7EC39680	Computer Vision and Pattern Recognition<--Context and Hierarchy in a Probabilistic Image Model
+7B101C77	Information Sciences<--MARCH: Multiscale-arch-height description for mobile retrieval of leaf images
+75F60D62	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Finding Trajectories of Feature Points in a Monocular Image Sequence
+7FDB6B1D	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Model-Based Three-Dimensional Interpretations of Two-Dimensional Images
+7E751047	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Detecting faces in images: a survey
+75B465C2	International Conference on Pattern Recognition<--Shift-map Image Registration
+5F6D546E	Computer Aided Systems Theory<--Fast Entropy-Based Nonrigid Registration

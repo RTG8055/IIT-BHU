@@ -1,0 +1,66 @@
+79E33F42	Information not present<--An Improved Fingerprint Singular Point Detection Algorithm Based on Continuous Orientation Field
+7E45BA76	International Conference on Pattern Recognition<--FVC2002: Second Fingerprint Verification Competition
+7FA45194	International Conference on Document Analysis and Recognition<--Towards a ptolemaic model for OCR
+759199FF	International Conference on Image and Graphics<--Fingerprint image enhancement algorithm based on AM-FM model
+7E7B912E	IEEE Transactions on Pattern Analysis and Machine Intelligence<--On the individuality of fingerprints
+80EC24E2	IEEE Transactions on Image Processing<--A model-based method for the computation of fingerprints' orientation field
+77610135	Pattern Recognition<--Fingerprint recognition in low quality images
+77FB0890	Information not present<--A fingerprint matching algorithm based on probabilistic graphical model and three-tree model
+855DC306	Information Sciences<--A survey on fingerprint minutiae-based local matching for verification and identification
+811D3336	International Symposium on Circuits and Systems<--Some fingerprints of ideal memristors
+7E655DA1	Information not present<--Automatic fingerprint matching
+78D2A528	Information not present<--Fingerprint Orientation Modeling Using Symmetric Filters
+80AAD859	Information not present<--Capacity-achieving fingerprint decoding
+80F2D5E3	Information not present<--The algorithm of fingerprint enhancement base on dynamic direction field
+7A57F0D6	Conference on Decision and Control<--Minutia-based fingerprint matching
+7E9C0F63	Information not present<--Identification of peer-to-peer traffic based on process fingerprint
+7CC2B662	Journal of The Optical Society of Korea<--Analysis of Fingerprint Recognition Characteristics Based on New CGH Direct Comparison Method and Nonlinear Joint Transform Correlator
+7FE858F6	Pattern Recognition<--Invariant representation of orientation fields for fingerprint indexing
+81255706	Information not present<--A sub-threshold SRAM based PUF
+7E0D9EF7	Information not present<--Filtering Algorithm of the False Features for Fingerprint Images Based on Wavelet Transform
+7812615D	IEEE Transactions on Pattern Analysis and Machine Intelligence<--On-line fingerprint verification
+3013FD47	Information not present<--Sistema d'autenticació amb fingerprint
+7FDE1A1F	International Conference on Pattern Recognition<--Fingerprint minutiae matching based on the local and global structures
+7576667A	Pattern Recognition<--Modelling fingerprint ridge orientation using Legendre polynomials
+7213B07D	Information not present<--A multi-sample multi-source model for biometric authentication
+812C84C8	Computational Intelligence<--Novel gait recognition technique based on SVM fusion of PCA-processed contour projection and skeleton model features
+7F20C72C	International Conference on Image Processing<--A generic fingerprint image compression technique based on wave atoms decomposition
+7BFF86A8	Information not present<--A texture-based method for identificaiton of retinal vasculature
+76A7D81C	Information not present<--DCT fingerprint classifier based group fingerprint
+58596363	Information not present<--A New Biometric Modality Based on Conjunctival Vasculature
+77F03DFE	International Conference on Intelligent Computing<--Fingerprint classification based on continuous orientation field and singular points
+7C59D1E3	IEEE Transactions on Information Forensics and Security<--Face-Spoofing 2D-Detection Based on Moiré-Pattern Analysis
+7D386E49	International Conference on Acoustics, Speech, and Signal Processing<--A Novel Embedding Method For An Anti-Collusion Fingerprinting By Embedding Both A Code And An Orthogonal Fingerprint
+7766147C	Information Sciences<--A survey on fingerprint minutiae-based local matching for verification and identification: taxonomy and experimental evaluation
+7E3E0BA5	Proceedings of the IEEE<--An identity-authentication system using fingerprints
+806C38BC	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Direct gray-scale minutiae detection in fingerprints
+7FB3ABDE	IEEE Transactions on Pattern Analysis and Machine Intelligence<--FVC2000: fingerprint verification competition
+7DB6CB3D	IEEE Transactions on Image Processing<--Filterbank-based fingerprint matching
+762F072E	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Type Classification of Fingerprints: A Syntactic Approach
+7B0AA26C	Information not present<--Fingerprints of a memristor
+7AD7D628	Information not present<--A novel method of fault diagnosis based on synchronized phasor measuring and flow fingerprint identification technology
+7C22F707	Journal of Applied Remote Sensing<--Joint fingerprinting and decryption content security protection method for remote sensing images based on neighborhood similarity
+7544EE34	Optical Engineering<--Study on the center of rotation method based on minimum spanning tree matching algorithm for fingerprint recognition
+7AA47C57	Information not present<--Scale parameter-estimating method for adaptive fingerprint pore extraction model
+7CA842F6	International Journal of Electronic Security and Digital Forensics<--BioVault: biometrically based encryption
+7CEAF6EF	IEEE Transactions on Pattern Analysis and Machine Intelligence<--A Fingerprint Orientation Model Based on 2D Fourier Expansion (FOMFE) and Its Application to Singular-Point Detection and Fingerprint Indexing
+7F0B8455	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Fingerprint Indexing Based on Minutia Cylinder-Code
+7DFAFC74	Information not present<--Fingerprint classification method based on Least Square Support Vector Machine and detailed image
+7FC8EB09	International Conference on Pattern Recognition<--Fingerprint enhancement with dyadic scale-space
+79E226E9	Information not present<--Application of method for getting direction image based on gradient in fingerprint preprocessing
+7BB6A54C	Information not present<--CCD fingerprint method for digital still cameras
+7A8AB444	Pattern Recognition<--Automated fingerprint recognition using structural matching
+7B2093D3	Information not present<--Fingerprint image segmentation method based on normal distribution model
+786AD364	Pattern Recognition<--Residual orientation modeling for fingerprint enhancement and singular point detection
+7BEFDEB7	Information not present<--A method based on Delaunay triangulation for fingerprint matching
+7DBF4AA0	IEEE Transactions on Information Forensics and Security<--Candidate List Reduction Based on the Analysis of Fingerprint Indexing Scores
+7F095E63	Information not present<--FingerID: A new security model based on fingerprint recognition for personal learning environments (PLEs)
+8055257B	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Fingerprint matching based on global comprehensive similarity
+810BF0E3	Information not present<--A liveness detection method for face recognition based on optical flow field
+816C3258	Formal Methods in System Design<--Extraction of Singular Points from Directional Fields of Fingerprints.
+7FCCCBB3	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Systematic methods for the computation of the directional fields and singular points of fingerprints
+8103D7BE	IEEE Transactions on Information Forensics and Security<--Regular Simplex Fingerprints and Their Optimality Properties
+7D6B8344	International Symposium on Neural Networks<--Unsupervised hierarchical fingerprint matching
+785052E1	Information Sciences<--Fingerprint orientation field reconstruction by weighted discrete cosine transform
+80C497D6	IEEE Transactions on Pattern Analysis and Machine Intelligence<--Minutia Cylinder-Code: A New Representation and Matching Technique for Fingerprint Recognition
+7E0FCEE6	Information not present<--A method based on septrogram and pitch for biometric authentication

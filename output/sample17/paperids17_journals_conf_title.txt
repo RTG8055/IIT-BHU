@@ -1,0 +1,58 @@
+7913EB96	Static Analysis Symposium<--The Recursive Time Synchronization Protocol for Wireless Sensor Networks
+81242C74	Symposium on Reliable Distributed Systems<--Assuring Resilient Time Synchronization
+76684966	Celestial Mechanics and Dynamical Astronomy<--Is the International Atomic Time TAI a coordinate time or a proper time?
+7F980C5B	Wireless Communications and Networking Conference<--Joint Time, Frequency and Sampling Clock Synchronization for OFDM-Based Systems
+7AC21292	Microprocessors and Microsystems<--SYNC_WAVE: a high accuracy and low overhead algorithm for clock, synchronization in transputer networks
+7D58E42C	Distributed Computing<--Probabilistic clock synchronization
+816D7F63	Information Processing in Sensor Networks<--Gradient clock synchronization in wireless sensor networks
+7F1F639A	Clinical Orthopaedics and Related Research<--Optimal Gradient Clock Synchronization in Dynamic Networks
+76E0C500	Information & Computation<--A new fault-tolerant algorithm for clock synchronization
+79826E19	Journal of the ACM<--Tight bounds for clock synchronization
+80081FB9	International Conference on Communications<--A Linear Time Synchronization Algorithm for Underwater Wireless Sensor Networks
+5DDE6ADB	International Conference on Principles of Distributed Systems<--Optimal clock synchronization under energy constraints in wireless ad-hoc networks
+76367B21	Information not present<--Power-Efficient Clock Synchronization using Two-Way Timing Message Exchanges in Wireless Sensor Networks
+7534C71C	Journal of Parallel and Distributed Computing<--Clock synchronization on a multicomputer
+7DD1F597	Symposium on Reliable Distributed Systems<--A fault-tolerant protocol for atomic broadcast
+80C888C7	IEEE Transactions on Signal Processing<--Robust Time-Based Localization for Asynchronous Networks
+7CF95A36	IEEE Transactions on Wireless Communications<--A New Approach for Time Synchronization in Wireless Sensor Networks: Pairwise Broadcast Synchronization
+7D4C763F	Information not present<--Ordering in time: A new routing approach for wireless networks
+7FD9D0A2	IEEE Transactions on Parallel and Distributed Systems<--Fault-tolerant clock synchronization in large multicomputer systems
+77104C17	Information not present<--Wait and Watch Technique: Removing Time synchronization overhead in Wireless Sensor Network
+7849ABA5	Ad Hoc Networks<--Clock synchronization for wireless sensor networks: a survey
+7D466127	IEEE Transactions on Communications<--Novel Clock Phase Offset and Skew Estimation Using Two-Way Timing Message Exchanges for Wireless Sensor Networks
+7D833076	Euromicro Conference on Real-Time Systems<--On Scheduling and Real-Time Capacity of Hexagonal Wireless Sensor Networks
+80C59B4C	ACM Symposium on Parallel Algorithms and Architectures<--Gradient clock synchronization in dynamic networks
+7FC275BB	Principles of Distributed Computing<--Gradient clock synchronization
+8022410E	Local Computer Networks<--Real time multicast in wireless networks
+7E263F28	Global Communications Conference<--QRPp1-4: Characterizing Quality of Time and Topology in a Time Synchronization Network
+77B2E72B	Information not present<--A cluster based on demand time synchronization in wireless sensor networks
+061A259D	Information not present<--TREE STRUCTURED TIME SYNCHRONIZATION PROTOCOL IN WIRELESS SENSOR NETWORK
+7DFBE219	ACM Special Interest Group on Data Communication<--A measurement-friendly network (MFN) architecture
+76DB1BAE	Information not present<--Based on MLE of Pairwise Broadcast Clock Synchronization for Wireless Sensor Network
+7A92DF05	IEEE Transactions on Signal Processing<--Joint Ranging and Synchronization for an Anchorless Network of Mobile Nodes
+7BDEF745	Principles of Distributed Computing<--A new fault-tolerant algorithm for clock synchronization
+815E7D30	Information not present<--Quantitative and Qualitative Comparison Study of Reference Based Time Synchronization Approach in Wireless Sensor Network
+7EDCF4E7	Information not present<--Wind maintenance system using network synchronization techniques based on open-source software
+7941F5FC	Applied Mechanics and Materials<--Snowball Effect Time Synchronization Based on Energy Optimization for Wireless Sensor Networks
+5A68FCE2	International Conference on Wireless Networks<--Robust multi-hop time synchronization in sensor networks
+78F80572	ACM/IEEE International Conference on Mobile Computing and Networking<--Poster: An Insomnia Therapy for Clock Synchronization in Wireless Sensor Networks
+77881AE4	Principles of Distributed Computing<--Optimal gradient clock synchronization in dynamic networks
+7F95D7EE	Information not present<--The Design and Implement of Time Synchronization Between Base Station and Sensor Node in Wireless Sensor Networks
+7F0F7624	IEEE Transactions on Computers<--Hardware-assisted software clock synchronization for homogeneous distributed systems
+79291B39	International Journal of Communication Systems<--Clock synchronization for packet networks using a weighted least‐squares error filtering technique and enabling circuit emulation service
+5F021DDB	Information not present<--Optically-Switched Multiwavelength Networks
+5E985445	Information not present<--Tree Structured, Multi-hop Time Synchronization Approach in Wireless Sensor Networks
+7CE46771	Journal of the ACM<--Optimal clock synchronization
+7FD2FE79	Sigmetrics Performance Evaluation Review<--Self-synchronizing properties of CSMA wireless multi-hop networks
+7FAE2484	Information not present<--Design and implementation of precision time synchronization system based on IEEE1588
+7F7D7BBD	Sensors<--Clock Synchronization in Wireless Sensor Networks: An Overview
+5B0E344F	Information not present<--Time Synchronization in Wireless Sensor Networks
+79D02E4A	International Conference on Embedded Networked Sensor Systems<--Optimal clock synchronization in networks
+756A3BB8	Principles of Distributed Computing<--Optimal clock synchronization under different delay assumptions
+178CABEE	Information not present<--IMPROVED CLOCK ESTIMATION FOR PAIRWISE BROADCAST SYNCHRONIZATION IN WIRELESS SENSOR NETWORKS WITH GAUSSIAN DELAY MODEL
+7868EEE7	IEEE Transactions on Instrumentation and Measurement<--One-Way Time Synchronization via Geostationary Satellites at UHF
+76E618BA	Principles of Distributed Computing<--Tight bounds for clock synchronization
+63A0B5A5	Clinical Orthopaedics and Related Research<--Deterministic and Energy-Optimal Wireless Synchronization
+78DA4353	Symposium on the Theory of Computing<--On the possibility and impossibility of achieving clock synchronization
+7C1B594D	Information not present<--Efficient Clock Synchronization in Wireless Sensor Networks
+7641A8AA	Information Processing Letters<--Closed form bounds for clock synchronization under simple uncertainty assumptions
