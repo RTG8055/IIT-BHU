@@ -1,0 +1,898 @@
+76A25534	"An effective algorithm for mining quantitative associations based on subspace clustering"	"International Conference on Networking"	0.708333333333	0.466865079365
+5B7351BE	"Graph-Based Hierarchical Conceptual Clustering in Structural Databases"	"National Conference on Artificial Intelligence"	0.556547619048	0.714285714286
+805F1CE5	"State sharing in a hybrid neuro-Markovian on-line handwriting recognition system through a simple hierarchical clustering algorithm"	"International Conference on Multimodal Interfaces"	0.8	0.446420940171
+80F4414C	"Algorithms for storytelling"	"Knowledge Discovery and Data Mining"	0.388888888889	1.0
+80F74F19	"Fast randomized algorithm for hierarchical clustering in Vehicular Ad-Hoc Networks"	"Information not present"	0.78125	0.791666666667
+76B4ABB1	"Exact hierarchical clustering in one dimension"	"Monthly Notices of the Royal Astronomical Society"	0.548611111111	0.703703703704
+6ED928F2	"An ACO-based clustering algorithm"	"Information not present"	0.703703703704	1.0
+8134DDFD	"DIVCLUS-T: A monothetic divisive hierarchical clustering method"	"Computational Statistics & Data Analysis"	0.550505050505	0.7
+7F155A23	"Finding Conceptual Document Clusters with Improved Top-N Formal Concept Search"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.733333333333	0.526666666667
+79249275	"A hierarchical cluster-based optical network-on-chip"	"Information not present"	1.0	1.0
+7F94DC21	"A Fast Hierarchical Clustering Algorithm for Functional Modules Discovery in Protein Interaction Networks"	"IEEE/ACM Transactions on Computational Biology and Bioinformatics"	0.78125	0.512471655329
+7D8BE99C	"An Efficient Parallel Anomaly Detection Algorithm Based on Hierarchical Clustering"	"Journal of Networks"	0.777777777778	0.51645021645
+786918ED	"QTOP-K: A novel Algorithm for mining high quality pattern-based clusters in GST Microarray Data"	"Computational Intelligence and Security"	0.714285714286	0.518571428571
+7F7B02CD	"Web document clustering approach using wordnet lexical categories and fuzzy clustering"	"Computer and Information Technology"	0.708333333333	0.479166666667
+75AE9BDF	"A Fast and Flexible Clustering Algorithm Using Binary Discretization"	"International Conference on Data Mining"	0.703703703704	0.777777777778
+7558AA5E	"A Fast and Stable Incremental Clustering Algorithm"	"International Conference on Information Technology: New Generations"	0.703703703704	1.0
+8117DA30	"PARCLE: a parallel clustering algorithm for cluster system"	"International Conference on Machine Learning and Cybernetics"	0.703703703704	0.770833333333
+60C6E936	"Beyond direct hierarchical clustering"	"Information not present"	0.548611111111	1.0
+0852B2F3	"Piece-wise hierarchical clustering"	"Journal of Classification"	0.548611111111	1.0
+72B2DCA9	"A dynamic clustering algorithm for building overlapping clusters"	"Intelligent Data Analysis"	0.703703703704	0.683333333333
+6EDBC847	"Hierarchical Clustering and Active Galaxies"	"Information not present"	0.553977272727	0.75
+8030ABF3	"Mining Association Rules from a Collection of XML Documents using Cross Filtering Algorithm"	"International Conference on Hybrid Information Technology"	0.777777777778	0.397970779221
+7F491FAC	"A hierarchical cluster algorithm for dynamic, centralized timestamps"	"International Conference on Distributed Computing Systems"	0.777777777778	1.0
+7D74C472	"rDenStream, A Clustering Algorithm over an Evolving Data Stream"	"Information not present"	0.708333333333	0.51
+75F6E67F	"An Adaptive Digital Watermarking Algorithm Based on Balanced Multi-wavelet"	"Information not present"	0.388888888889	0.666666666667
+7E6DEA07	"A GPU-based interactive bio-inspired visual clustering"	"Computational Intelligence and Data Mining"	0.398148148148	1.0
+7E3D1002	"An Efficient Clustering Algorithm for Patterns Placement in Walkthrough System"	"Information not present"	0.708333333333	0.463888888889
+5C3E27E5	"Hierarchical Distance-Based Conceptual Clustering"	"Information not present"	0.548611111111	1.0
+7E14B960	"Data clustering: review and investigation of parallel genetic algorithms for revealing clusters"	"International Journal of Applied Management Science"	0.708333333333	0.522893772894
+5B5397F3	"Order invariant hierarchical clustering"	"Systems, Man and Cybernetics"	0.559027777778	0.708333333333
+811068A7	"HIREL: An Incremental Clustering Algorithm for Relational Datasets"	"International Conference on Data Mining"	0.703703703704	1.0
+80D937B3	"A new core-based method for hierarchical incremental clustering"	"Symbolic and Numeric Algorithms for Scientific Computing"	0.550505050505	0.7
+7DAD351F	"Parallel algorithms for hierarchical clustering and cluster validity"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.777777777778	0.822222222222
+78738363	"Hierarchical clustering of XML documents focused on structural components"	"Data and Knowledge Engineering"	0.770833333333	0.666666666667
+7D45371E	"A hierarchical clustering algorithm using strong components"	"Information Processing Letters"	0.777777777778	0.683333333333
+0624B843	"A Fast Clustering Algorithm to Cluster Very Large Categorical Data Sets in Data Mining"	"Information not present"	0.708333333333	0.428571428571
+0078F4FA	"Extraction of topic transition from document stream based on hierarchical clustering"	"Information not present"	0.777777777778	0.520634920635
+7DBF65B4	"An Index Clustering and Mapping Algorithm for Large Scale Astronomical Data Searching"	"International Conference on Distributed Computing Systems"	0.708333333333	0.468055555556
+7CE2C2D1	"Document clustering and topic discovery based on semantic similarity in scientific literature"	"Information not present"	0.722222222222	0.444444444444
+03253A53	"A text classification algorithm based on rocchio and hierarchical clustering"	"International Conference on Intelligent Computing"	0.777777777778	0.7
+7DD9E837	"GDCIC: A Grid-based Density-Confidence-Interval Clustering Algorithm for Multi-density Dataset in Large Spatial Database"	"Intelligent Systems Design and Applications"	0.714285714286	0.714285714286
+7A0DBE23	"A matrix density based algorithm to hierarchically co-cluster documents and words"	"World Wide Web"	0.714285714286	0.451659451659
+01DE1079	"Semi-Supervised Hierarchical Clustering Algorithms"	"Scandinavian Conference on AI"	0.777777777778	1.0
+7974A83B	"rDenStream, A Clustering Algorithm over an Evolving Data Stream"	"Information not present"	0.708333333333	0.51
+7C4CADA2	"A Divide-and-Link algorithm for hierarchical clustering in networks"	"Information Sciences"	0.78125	0.791666666667
+75C64EB0	"A hierarchical clustering algorithm based on fuzzy graph connectedness"	"Fuzzy Sets and Systems"	0.791666666667	0.601851851852
+80474746	"A New Robust Watermarking Algorithm Based on DWT"	"Information not present"	0.388888888889	0.666666666667
+7DBB331B	"A Robust Algorithm for Fuzzy Document Clustering"	"Advanced Information Networking and Applications"	0.703703703704	0.722222222222
+77245C93	"Hierarchical clustering schemes"	"Psychometrika"	0.548611111111	0.694444444444
+06843D74	"Automatic Labeling of Document Clusters"	"Knowledge Discovery and Data Mining"	0.694444444444	1.0
+780B18EB	"A Heuristically Weighting K-Means algorithm for subspace clustering"	"Information not present"	0.708333333333	0.58125
+76C4F1C2	"Discovery of underlying morphological relations using an agglomerative clustering algorithm"	"Soft Computing"	0.708333333333	0.479166666667
+7E6B63C6	"A Novel Clustering Algorithm for Asymmetric Dataset"	"Fuzzy Systems and Knowledge Discovery"	0.703703703704	1.0
+7F47BA55	"Fuzzy curve-tracing algorithm"	"IEEE Transactions on Systems, Man, and Cybernetics"	0.388888888889	1.0
+588F6ADB	"Reliable Hierarchical Clustering with the Self-organizing Map"	"Intelligent Data Analysis"	0.548611111111	0.692307692308
+79E9DF0D	"Hierarchic document classification using Ward's clustering method"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.791666666667	0.528571428571
+75BABB3C	"An extended EM algorithm for subspace clustering"	"Frontiers of Computer Science in China"	0.708333333333	0.55625
+7AA7F878	"On-line hierarchical clustering"	"Pattern Recognition Letters"	0.548611111111	1.0
+79B4AEEA	"Evaluating a class of distance-mapping algorithms for data mining and clustering"	"Knowledge Discovery and Data Mining"	0.708333333333	0.463888888889
+05B49239	"K-means and Hierarchical Clustering"	"Information not present"	0.548611111111	1.0
+7B582328	"High impact event processing using incremetal clustering in unsupervised feature space through genetic algorithm by selective repeat ARQ protocol"	"Information not present"	0.714285714286	0.327341269841
+7C8625DE	"A Hierarchical Clustering Algorithm Based on Energy and Distance Balancing for WSN"	"Information not present"	0.777777777778	0.522789115646
+8022779D	"Knowledge-based clustering: a semi-autonomous algorithm using local and global data properties"	"Information not present"	0.708333333333	0.541666666667
+7E29A705	"Image retrieval based on improved hierarchical clustering algorithm"	"Information not present"	0.777777777778	0.585042735043
+77E53C1F	"Semantic clustering of XML documents"	"ACM Transactions on Information Systems"	0.694444444444	1.0
+087EE6BB	"COLLABORATIVE AND KNOWLEDGE-BASED FUZZY CLUSTERING"	"Information not present"	0.398148148148	1.0
+7D3719A9	"A Review on Comparative analysis of different clustering and Decision Tree for Synthesized Data Mining Algorithm"	"Information not present"	0.708333333333	0.319576719577
+7A007FFC	"A Fast Algorithm for Fuzzy Clustering Problem"	"Information not present"	0.703703703704	0.7
+7A989C58	"A Hierarchical Possibilistic Clustering"	"Information not present"	0.548611111111	1.0
+82D539EC	"Algorithm for comprehensive analysis of datasets from hyphenated high resolution mass spectrometric techniques using single ion profiles and cluster analysis."	"Journal of Chromatography A"	0.833333333333	0.345885175431
+09CA221B	"Disappearance of hierarchical clustering?"	"Information not present"	0.563492063492	0.714285714286
+5D47E50B	"Iterative Clustering Algorithm for Analyzing Temporal Patterns of Gene Expression"	"Information not present"	0.703703703704	0.442592592593
+798FC174	"SHC: A Spectral Algorithm for Hierarchical Clustering"	"International Conference on Multimedia Information Networking and Security"	0.777777777778	1.0
+750BA4A2	"An Improved Distributed Cluster Organization Algorithm of Wireless Sensor Networks"	"Information not present"	0.708333333333	0.412820512821
+7AF8D207	"Clustering Sentence-Level Text Using a Novel Fuzzy Relational Clustering Algorithm"	"IEEE Transactions on Knowledge and Data Engineering"	0.75	0.55
+73604F67	"Network User Interest Pattern Mining Based on Entropy Clustering Algorithm"	"Cyber-Enabled Distributed Computing and Knowledge Discovery"	0.708333333333	0.375694444444
+7FE4DCED	"X-SPA: Spatial Characteristic PSO Clustering Algorithm with Efficient Estimation of the Number of Cluster"	"Fuzzy Systems and Knowledge Discovery"	0.777777777778	0.52
+84ADF5D1	"Diluvian Clustering: A Fast, Effective Algorithm for Clustering Compositional and Other Data"	"Microscopy and Microanalysis"	0.708333333333	0.508333333333
+8104A8F0	"Local PCA algorithms"	"IEEE Transactions on Neural Networks"	0.388888888889	1.0
+6A54459D	"An applicable hierarchical clustering algorithm for content-based image retrieval"	"Computer Vision/Computer Graphics Collaboration Techniques"	0.777777777778	0.635384615385
+001C0F41	"HIERARCHICAL CLUSTERING OF VERBS"	"Information not present"	0.548611111111	0.708333333333
+5ACF17BB	"Pattern-Oriented Hierachical Clustering"	"Advances in Databases and Information Systems"	0.398148148148	1.0
+7C728354	"A Transfer Learning Algorithm for Document Categorization Based on Clustering"	"Information not present"	0.722222222222	0.411111111111
+7CB17BEA	"Rough Clustering of Destination Image Data Using an Evolutionary Algorithm"	"Journal of Travel & Tourism Marketing"	0.708333333333	0.460042735043
+7FA0D165	"BIRCH: A New Data Clustering Algorithm and Its Applications"	"Data Mining and Knowledge Discovery"	0.708333333333	0.5
+7A132388	"A Sequence-Element-Based Hierarchical Clustering Algorithm For Categorical Sequence Data"	"International Journal of Information Technology and Decision Making"	0.78125	0.675
+02FBE14F	"An Ant-based Clustering Algorithm in Data Mining"	"Information not present"	0.708333333333	0.583333333333
+613828C4	"CLUSTAG & WCLUSTAG: Hierarchical Clustering Algorithms for Efficient Tag-SNP Selection"	"Information not present"	0.777777777778	0.785714285714
+8148F914	"Algorithms for Storytelling"	"IEEE Transactions on Knowledge and Data Engineering"	0.388888888889	1.0
+7BDF3F78	"A Negative Selection Algorithm Based on Hierarchical Clustering of Self Set"	"Advanced Materials Research"	0.777777777778	0.544217687075
+7FE38AE8	"Parallel Data Mining Optimal Algorithm of Virtual Cluster"	"Fuzzy Systems and Knowledge Discovery"	0.708333333333	0.583333333333
+7F6A5A31	"Hierarchical clustering algorithm for fast image retrieval"	"Information not present"	0.777777777778	0.635384615385
+62F8A98C	"Discriminative clustering of text documents"	"International Conference on Neural Information Processing"	0.694444444444	0.75
+0A9714E1	"An axis-shifted crossover-imaged clustering algorithm"	"Information not present"	0.703703703704	1.0
+5DC9ADAA	"Topic-Constrained Hierarchical Clustering for Document Datasets"	"Advanced Data Mining and Applications"	0.770833333333	1.0
+79B7CE2F	"Analysis and Research for Network Management Alarms Correlation Based on Sequence Clustering Algorithm"	"Information not present"	0.708333333333	0.325162337662
+7689EF8A	"Object-oriented software architecture recovery using a new hybrid clustering algorithm"	"Fuzzy Systems and Knowledge Discovery"	0.714285714286	0.44067044067
+7C46E200	"Survey on text clustering algorithm -Research present situation of text clustering algorithm"	"International Conference on Software Engineering"	0.75	0.444444444444
+80B47607	"Word length based zero-watermarking algorithm for tamper detection in text documents"	"Information not present"	0.708333333333	0.415764790765
+6FCABADC	"A Hierarchical Clustering Algorithm Based on GiST"	"International Conference on Intelligent Computing"	0.785714285714	0.695238095238
+7F845CE6	"A Co-Evolutionary Multi-Objective approach for a K-adaptive graph-based clustering algorithm"	"Congress on Evolutionary Computation"	0.703703703704	0.708333333333
+75EB34A6	"k-ANMI: A mutual information based clustering algorithm for categorical data"	"Information Fusion"	0.722222222222	0.55
+7E4B7059	"An Analytical Assessment on Document Clustering"	"Information not present"	0.694444444444	0.69696969697
+7EE5F3EB	"Bayesian hierarchical clustering"	"International Conference on Machine Learning"	0.548611111111	1.0
+8124D6B2	"FBP: A Frontier-Based Tree-Pruning Algorithm"	"Informs Journal on Computing"	0.388888888889	1.0
+8137EAF6	"Map-TreeMaps: A New Approach for Hierarchical and Topological Clustering"	"International Conference on Machine Learning and Applications"	0.559027777778	0.708333333333
+69E8D42D	"Using a clustering genetic algorithm for rule extraction from artificial neural networks"	"Information not present"	0.708333333333	0.448484848485
+7C1AAEA9	"Cleaning and clustering of sensor data by K-Means Algorithm for efficient query processing"	"Computer and Information Technology"	0.708333333333	0.378449328449
+58364E2F	"Field-data grouping for form document processing using a gravitation-based algorithm"	"International Conference on Pattern Recognition"	0.75	0.465740740741
+73163BAA	"RPCL-based local PCA algorithm"	"International Conference on Data Mining"	0.388888888889	1.0
+8160A91A	"CAIM discretization algorithm"	"IEEE Transactions on Knowledge and Data Engineering"	0.388888888889	1.0
+7E1F78F0	"Genetic Algorithm Based on Sugeno Integral"	"Fuzzy Systems and Knowledge Discovery"	0.388888888889	0.666666666667
+8074076B	"Multi-objective evolutionary algorithm for mining 3D clusters in gene-sample-time microarray data"	"Granular Computing"	0.708333333333	0.6125
+05FE3EB7	"A hierarchical clustering algorithm using dynamic modeling"	"Information not present"	0.777777777778	0.684848484848
+802FDED3	"A new document clustering algorithm based on association rule"	"International Conference on Machine Learning and Cybernetics"	0.714285714286	0.455627705628
+8174D3B4	"A Density-Based Clustering Algorithm for Uncertain Data"	"Information not present"	0.708333333333	0.75
+599BC7AC	"A Novel Clustering Algorithm Based on Variable Precision Rough-Fuzzy Sets"	"International Conference on Intelligent Computing"	0.708333333333	0.536666666667
+80374840	"Degraded document image binarization based on combination of two complementary algorithms"	"Information not present"	0.75	0.502777777778
+07880278	"HYBRID HIERARCHICAL CLUSTERING: AN EXPERIMENTAL ANALYSIS"	"Information not present"	0.563492063492	0.714285714286
+72D5CB22	"Efficient K-Mean Algorithm for Large Dataset"	"Information not present"	0.388888888889	1.0
+029F7EB6	"A survey of recent advances in hierarchical clustering algorithms which use cluster centers"	"Information not present"	0.777777777778	0.580208333333
+7DF0B9AC	"Automatic thematic categorization of documents using a fuzzy taxonomy and fuzzy hierarchical clustering"	"Information not present"	0.772727272727	0.601851851852
+80F776FF	"Collaborative Clustering of XML Documents"	"International Conference on Parallel Processing"	0.694444444444	1.0
+7DDF710D	"SparseHC: A Memory-efficient Online Hierarchical Clustering Algorithm"	"Procedia Computer Science"	0.777777777778	1.0
+782487A6	"Improving document representations using relevance feedback: the RFA algorithm"	"Conference on Information and Knowledge Management"	0.708333333333	0.417063492063
+8013B0BB	"Gradual clustering algorithms"	"Database Systems for Advanced Applications"	0.703703703704	1.0
+7D8DB0B0	"A New Adaptive Real-Coded Memetic Algorithm"	"Artificial Intelligence and Computational Intelligence"	0.388888888889	1.0
+85C8C653	"A Hierarchical Clustering Algorithm Based on Saturated Neighbor Graph"	"Information not present"	0.791666666667	0.6
+77052A16	"Survey on text clustering algorithm"	"International Conference on Software Engineering"	0.75	0.59375
+5A3160CC	"Efficient Hierarchical Clustering Algorithms using Partially Overlapping Partitions"	"Pacific-Asia Conference on Knowledge Discovery and Data Mining"	0.777777777778	0.597222222222
+783AD4A1	"An improved algorithm of a priori based on geostatistics"	"Information not present"	0.388888888889	0.666666666667
+7F75E223	"A synchronization based algorithm for discovering ellipsoidal clusters in large datasets"	"International Conference on Data Mining"	0.708333333333	0.531666666667
+016CF084	"An Effective Algorithm for Subdimensional Clustering of High Dimensional Data"	"The Kips Transactions:partd"	0.708333333333	0.75
+58EC9DD4	"An Algorithm to Assess the Reliability of Hierarchical Clusters in Gene Expression Data"	"Information not present"	0.78125	0.470138888889
+7710FA38	"PHC: a fast partition and hierarchy-based clustering algorithm"	"Journal of Computer Science and Technology"	0.703703703704	0.694444444444
+7D5147B9	"A non-distance based clustering algorithm"	"International Symposium on Neural Networks"	0.703703703704	0.777777777778
+7E7A888D	"TreeGNG -- Hierarchical Topological Clustering"	"The European Symposium on Artificial Neural Networks"	0.548611111111	1.0
+77D4AF28	"Research of Grid-Similarity-Based Clustering Algorithm"	"Information not present"	0.703703703704	0.714285714286
+806BFB0C	"Adaptive AFOPT algorithm"	"Symbolic and Numeric Algorithms for Scientific Computing"	0.388888888889	1.0
+782B927E	"A Multi-Objective Evolutionary Algorithm based on complete-linkage clustering to enhance the solution space diversity"	"Information not present"	0.714285714286	0.400340136054
+7D37CDF7	"An efficient parallel FP-Growth algorithm"	"Cyber-Enabled Distributed Computing and Knowledge Discovery"	0.388888888889	1.0
+805121DE	"A Novel Watermarking Algorithm Based on ICA"	"Information not present"	0.388888888889	0.666666666667
+18FE0767	"Software Note: A hierarchical clustering algorithm for MIMD architecture"	"Computational Biology and Chemistry"	0.785714285714	0.555148555149
+7EDDD325	"Immune Algorithm for Supervised Clustering"	"Information not present"	0.703703703704	1.0
+8000EE71	"G-ANMI: A mutual information based genetic clustering algorithm for categorical data"	"Knowledge Based Systems"	0.722222222222	0.55
+06E566AC	"Towards High-Dimensional Clustering"	"Information not present"	0.398148148148	1.0
+75C23465	"Fuzzy divisive hierarchical clustering of soil data using Gustafson–Kessel algorithm"	"Chemometrics and Intelligent Laboratory Systems"	0.78125	0.612373737374
+75EC28B8	"HISSCLU: a hierarchical density-based method for semi-supervised clustering"	"Extending Database Technology"	0.550505050505	0.7
+7F238B13	"Efficient parallel hierarchical clustering algorithms"	"IEEE Transactions on Parallel and Distributed Systems"	0.777777777778	1.0
+803467EC	"An improved PCA algorithm based on WIF"	"International Symposium on Neural Networks"	0.388888888889	0.666666666667
+76212C73	"Comparison of data mining clustering algorithms"	"Information not present"	0.708333333333	0.515
+80C84CC4	"GDILC: a grid-based density-isoline clustering algorithm"	"Information not present"	0.703703703704	1.0
+795427A5	"A fuzzy clustering algorithm based on interval valued fuzzy sets"	"Fuzzy Systems and Knowledge Discovery"	0.708333333333	0.566666666667
+7CB6732C	"Application of the SpecHybrid Algorithm to text document clustering problem"	"Information not present"	1.0	0.653333333333
+75D5D8D0	"Ant-based and swarm-based clustering"	"Swarm Intelligence"	0.398148148148	1.0
+7DAD3354	"Multi-view clustering"	"International Conference on Data Mining"	0.398148148148	1.0
+8066DBF6	"A Two-Stage Clustering Algorithm for Multi-type Relational Data"	"Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing"	0.708333333333	0.75
+7FB5D58E	"P-means, a parallel clustering algorithm for a heterogeneous multi-processor environment"	"High Performance Computing"	0.703703703704	0.703703703704
+7951D97E	"A Graph-Theoretic Approach to Goodness-of-Fit in Complete-Link Hierarchical Clustering"	"Journal of the American Statistical Association"	0.559027777778	0.708333333333
+752D2833	"Automatically labeling hierarchical clusters"	"Information not present"	0.548611111111	0.75
+7843E053	"The use of a newly developed algorithm of divisive hierarchical clustering for remote sensing image analysis"	"International Journal of Remote Sensing"	0.777777777778	0.492857142857
+8021841B	"A probabilistic hierarchical clustering method for organising collections of text documents"	"International Conference on Pattern Recognition"	0.775	0.55
+7F4D2BAB	"A VNS-based hierarchical clustering method"	"Computational Intelligence"	0.550505050505	0.7
+80F12A98	"A Hough based algorithm for extracting text lines in handwritten documents"	"International Conference on Document Analysis and Recognition"	0.714285714286	0.545238095238
+7D4886DA	"A new clustering algorithm using message passing and its applications in analyzing microarray data"	"International Conference on Machine Learning and Applications"	0.733333333333	0.419345238095
+79604AB0	"AK-Modes: A weighted clustering algorithm for finding similar case subsets"	"Information not present"	0.714285714286	0.520238095238
+7EA2C27A	"A Robust Hierarchical Clustering Algorithm and its Application in 3D Model Retrieval"	"Information not present"	0.777777777778	0.554487179487
+794A1C8A	"A new algorithm for hybrid hierarchical clustering with visualization and the bootstrap"	"Journal of Statistical Planning and Inference"	0.777777777778	0.631515151515
+7E8030EE	"Fast Evolutionary Algorithms for Relational Clustering"	"Intelligent Systems Design and Applications"	0.703703703704	1.0
+7E43AB68	"A density-based clustering algorithm for weighted network with attribute information"	"Information not present"	0.722222222222	0.484848484848
+5C53FB45	"An accurate clustering algorithm for fast protein-profiling using SCICA on MALDI-TOF"	"International Symposium on Circuits and Systems"	0.703703703704	0.777777777778
+78B27420	"An improved transfer learning algorithm for document categorization based on data sets reconstruction"	"Information not present"	0.75	0.392817059484
+0A9B8F90	"Hierarchical Clustering in Medical Document Collections: the BIC-Means Method"	"Journal of Digital Information Management"	0.775	0.686666666667
+7B9A70FD	"Research of anomaly detection of laboring statistical data based on DBSCAN cluster algorithm"	"Information not present"	0.708333333333	0.426252319109
+7C352DEA	"Hierarchical kernel spectral clustering"	"Neural Networks"	0.548611111111	0.694444444444
+7BE6AACE	"A density-based clustering structure mining algorithm for data streams"	"Information not present"	0.708333333333	0.420707070707
+5CC096C2	"Language-Independent Text-Line Extraction Algorithm for Handwritten Documents"	"IEEE Signal Processing Letters"	0.703703703704	0.7
+7D9F77CB	"An Evolutionary Multi-centers Based Dynamical Clustering Algorithm"	"Information not present"	0.703703703704	0.777777777778
+7E25E8E5	"ITERATE: a conceptual clustering algorithm for data mining"	"IEEE Transactions on Systems, Man, and Cybernetics"	0.708333333333	0.583333333333
+7604D938	"Design of ART-based hierarchical clustering algorithm using quadratic junction neural networks"	"Information not present"	0.78125	0.53231292517
+3CD03EE6	"Multidimensional clustering data visualization using k-medoids algorithm"	"Information not present"	0.708333333333	0.534848484848
+7CB64AC0	"Document Clustering in Personal Dataspace"	"Workshop on Information Security Applications"	0.694444444444	1.0
+802F0036	"QuoCast: A Resource-Aware Algorithm for Reliable Peer-to-Peer Multicast"	"Neural Computing and Applications"	0.388888888889	1.0
+7FDB9DE5	"MGR: An Information Theory Based Hierarchical Divisive Clustering Algorithm for Categorical Data"	"Knowledge Based Systems"	0.791666666667	0.547619047619
+7151D36D	"Latent variable study algorithm based on grey cluster relation analysis method"	"Information not present"	0.722222222222	0.372371031746
+03722542	"FDClust: a new bio-inspired divisive clustering algorithm"	"International Conference on Swarm Intelligence"	0.703703703704	1.0
+0693D235	"Selection of Cluster Hierarchy Depth and Initial Centroids in Hierarchical Clustering using K-Means Algorithm"	"Journal of The Korean Society for Information Management"	0.777777777778	0.438308913309
+764A5FAC	"Hierarchical clustering of large volumetric datasets"	"International Conference on Computer Graphics and Interactive Techniques"	0.548611111111	1.0
+654C48B7	"Model-Based Hierarchical Clustering"	"Uncertainty in Artificial Intelligence"	0.548611111111	1.0
+754315A9	"Customer clustering and TDLP (typical daily load profile) generation using the clustering algorithm"	"Information not present"	0.714285714286	0.47619047619
+81696BE5	"SPANBRE: An Efficient Hierarchical Clustering Algorithm for Spatial Data with Neighborhood Relations"	"Fuzzy Systems and Knowledge Discovery"	0.78125	0.575320512821
+7528D3D9	"Hierarchical collaborative multicast"	"ACM Multimedia"	1.0	1.0
+80F9A8A4	"A Novel Indexing Technique for Web Documents using Hierarchical Clustering"	"Information not present"	0.785714285714	0.525458668316
+7C6B922A	"Semi-supervised Hierarchical Clustering"	"International Conference on Data Mining"	0.548611111111	1.0
+7710E1C1	"Cluster Analysis Assisted Float-Encoded Genetic Algorithm for a More Automated Characterization of Hydrocarbon Reservoirs"	"Information not present"	0.708333333333	0.386555904413
+77F4E537	"A Study on Web-User Clustering Algorithm for Web Personalization"	"Information not present"	0.703703703704	0.708333333333
+78B2444F	"Immune algorithm for KDD"	"Proceedings of SPIE"	0.388888888889	1.0
+789BC4A8	"A Hierarchical Clustering Algorithm and Cooperation Analysis for Wireless Sensor Networks"	"Journal of Software"	0.78125	0.449496336996
+79A9EB84	"Mining of data stream using “DDenStream” clustering algorithm"	"Information not present"	0.708333333333	0.461111111111
+03E16494	"The use of strategies of normalized correlation in the ant-based clustering algorithm"	"Swarm, Evolutionary, and Memetic Computing"	0.708333333333	0.481666666667
+7E91D14A	"An efficient hybrid evolutionary algorithm for cluster analysis"	"Information not present"	0.703703703704	0.714285714286
+7D5C26F0	"Parallel algorithms for hierarchical clustering and applications to split decomposition and parity graph recognition"	"Journal of Algorithms"	0.791666666667	0.420749158249
+7599B1B2	"PPDAM: Privacy-Preserving Distributed Association-Rule-Mining Algorithm"	"International Journal of Intelligent Information Technologies"	0.388888888889	1.0
+76DDB4CD	"Robust linear clustering"	"Journal of The Royal Statistical Society Series B-statistical Methodology"	0.398148148148	1.0
+76BB4122	"A distributed hierarchical clustering algorithm for large-scale dynamic networks"	"Information not present"	0.78125	0.791666666667
+5C543C7C	"A Scalable Hierarchical Clustering Algorithm Using Spark"	"Information not present"	0.777777777778	0.688888888889
+7FB2DA95	"KM-A ∗ pathfinding algorithm based on hierarchical clustering and strengthened DB Index criteria"	"International Conference on Machine Learning and Cybernetics"	0.78125	0.488541666667
+5DC08961	"A GA-based clustering algorithm for large data sets with mixed numeric and categorical values"	"Information not present"	0.708333333333	0.52
+5DA1B88A	"Hierarchical Clustering Algorithm For Detecting Anomalous Profiles in Computer Systems"	"Journal of Scientific Computing"	0.785714285714	0.499659863946
+7632E26D	"DWT based on watermarking algorithm and its implementing with DSP"	"Information not present"	0.388888888889	0.666666666667
+7E028C5F	"FPGA implementation of hierarchical clustering algorithms"	"International Symposium on Circuits and Systems"	0.777777777778	0.777777777778
+63072758	"A data clustering algorithm for mining patterns from event logs"	"IP Operations and Management"	0.714285714286	0.401587301587
+5CE92C61	"A New Multi-class SVM Algorithm Based on One-Class SVM"	"International Conference on Conceptual Structures"	0.388888888889	0.666666666667
+7187B3FD	"A Blind Watermarking Algorithm Based on ICA"	"International Conference on Multimedia and Information Technology"	0.388888888889	0.666666666667
+7DD5FF48	"A Novel Clustering Algorithm for Mining Speech Data Using Baysian Network-Based Mutliple Model"	"Pacific-Asia Conference on Circuits, Communications and Systems"	0.708333333333	0.429931972789
+0A5F085A	"An Incremental Clustering Algorithm for the Topology Adjustment of Location Databases"	"Information not present"	0.714285714286	0.40122955748
+7E1A7D26	"A Grid and Density-Based Clustering Algorithm for Processing Data Stream"	"International Conference on Genetic and Evolutionary Computing"	0.708333333333	0.441666666667
+85C4B01D	"Soil data clustering by using K-means and fuzzy K-means algorithm"	"Information not present"	0.708333333333	0.534848484848
+630F3D8A	"K-ANMI: A Mutual Information Based Clustering Algorithm for Categorical Data"	"Clinical Orthopaedics and Related Research"	0.722222222222	0.55
+7D74C625	"Grid-based clustering algorithm for multi-density"	"Gastroenterology"	0.703703703704	1.0
+75F6F134	"Collaborative multi-view clustering"	"International Symposium on Neural Networks"	0.398148148148	1.0
+06823A61	"GDILC: a grid-based density-isoline clustering algorithm"	"Information not present"	0.703703703704	1.0
+5A9AE45D	"Hierarchical Clustering of Trees: Algorithms and Experiments"	"Algorithm Engineering and Experimentation"	0.777777777778	0.635555555556
+80BE25AD	"Cluster merging and splitting in hierarchical clustering algorithms"	"International Conference on Data Mining"	0.777777777778	0.818181818182
+79CBC5CD	"Research on an energy-efficient and variation-sensitive clustering algorithm for wireless sensor network"	"International Conference on Intelligent Computing"	0.708333333333	0.408852258852
+7F052F16	"Document categorisation by genetic algorithms"	"Systems, Man and Cybernetics"	0.722222222222	0.722222222222
+7A0E5053	"Highest Entry Hierarchical Clustering."	"Educational and Psychological Measurement"	0.548611111111	0.703703703704
+715E6303	"An interactive view for hierarchical clustering"	"IEEE Symposium on Information Visualization"	0.550505050505	0.7
+7B4BB005	"Effect of multi-word features on the hierarchical clustering of web documents"	"Information not present"	0.770833333333	0.549074074074
+7AC43A38	"Applying genetic algorithms to search for the best hierarchical clustering of a dataset"	"Pattern Recognition Letters"	0.777777777778	0.733333333333
+80CDE63C	"Coercion: A Distributed Clustering Algorithm for Categorical Data"	"Computational Intelligence and Security"	0.708333333333	0.590277777778
+7D9D1E3F	"ALGORITHM FOR SPATIAL CLUSTERING WITH OBSTACLES"	"Clinical Orthopaedics and Related Research"	0.703703703704	0.69696969697
+804DF601	"An Efficient LDE-Based Document Classification Algorithm"	"Pacific-Asia Conference on Circuits, Communications and Systems"	0.703703703704	0.722222222222
+768A9FDD	"SPARCL: an effective and efficient algorithm for mining arbitrary shape-based clusters"	"Knowledge and Information Systems"	0.703703703704	0.733333333333
+80555CB8	"TWO ADDITIONS TO HIERARCHICAL CLUSTER ANALYSIS†"	"British Journal of Mathematical and Statistical Psychology"	0.548611111111	0.69696969697
+7EC7DE82	"An incremental affinity propagation algorithm and its applications for text clustering"	"International Symposium on Neural Networks"	0.75	0.433201058201
+7D646C05	"A robust clustering algorithm based on competitive agglomeration and soft rejection of outliers"	"Computer Vision and Pattern Recognition"	0.708333333333	0.513888888889
+7D39B6A6	"Fuzzy distance based hierarchical clustering calculated using the a ∗ algorithm"	"International Workshop on Combinatorial Image Analysis"	0.777777777778	0.566666666667
+79E0566F	"An NCM-based Bayesian algorithm for hyperspectral unmixing"	"Information not present"	0.388888888889	1.0
+815E688D	"A novel typical-sample-weighted clustering algorithm for large data sets"	"Computational Intelligence and Security"	0.708333333333	0.625
+76BF6741	"Performance Analysis of Hierarchical Clustering Algorithms"	"Journal of Classification"	0.777777777778	0.650793650794
+8147BDC5	"CNclustering: Clustering with compatible nucleoids"	"Information not present"	0.398148148148	1.0
+7D021CE5	"A New Graph-Based Algorithm for Clustering Documents"	"International Conference on Data Mining"	0.703703703704	0.722222222222
+810ECA38	"CUZ: An Improved Clustering Algorithm"	"Computer and Information Technology"	0.703703703704	1.0
+5CF24601	"A Study of the Evaluation Function and the Clustering Algorithm for Semantic Web Environment"	"International Conference on Computational Science and Its Applications"	0.708333333333	0.37358276644
+7BA0C6CF	"A new energy-efficient hierarchical clustering algorithm for wireless sensor networks"	"Information not present"	0.78125	0.551709401709
+7755E6F2	"A Fuzzy Clustering Algorithm with Effectiveness Factor"	"Frontier of Computer Science and Technology"	0.703703703704	0.69696969697
+7E4BE828	"Robust hierarchical clustering"	"Computational Learning Theory"	0.548611111111	1.0
+781EAF57	"Fast face recognition using a combination of image pyramid and hierarchical clustering algorithms"	"Information not present"	0.78125	0.440740740741
+809458E9	"A Robust Clustering Method for XML Documents"	"Information not present"	0.69696969697	0.7
+804F532F	"A Reconfigurable-Permutation Algorithm for M_S-Box"	"Information not present"	0.388888888889	1.0
+7C5644B2	"An improved algorithm for hierarchical clustering using strong components"	"Information Processing Letters"	0.777777777778	0.683333333333
+7FB5BB5C	"Research on Application of Improved Text Cluster Algorithm in Intelligent QA System"	"International Conference on Genetic and Evolutionary Computing"	0.75	0.440476190476
+76B4F2D7	"NOCEA: A rule-based evolutionary algorithm for efficient and effective clustering of massive high-dimensional databases"	"Applied Soft Computing"	0.714285714286	0.714285714286
+5D883DA6	"Finding Spatial Clusters"	"European Conference on Principles of Data Mining and Knowledge Discovery"	0.398148148148	0.666666666667
+7DD3CBF3	"GHIC: a hierarchical pattern-based clustering algorithm for grouping Web transactions"	"IEEE Transactions on Knowledge and Data Engineering"	0.777777777778	0.650793650794
+7FEE1D4F	"A Novel Optimistic Unchoking Algorithm for BitTorrent"	"Consumer Communications and Networking Conference"	0.388888888889	1.0
+7BA9D0A4	"Gravitational ensemble clustering"	"Information not present"	0.398148148148	1.0
+0ABFA968	"New algorithms for pattern-discovery and pattern-matching in multidimensional datasets"	"Information not present"	0.388888888889	1.0
+30C3281C	"Solving Traveling Salesman Problem Using Hierarchical Clustering and Genetic Algorithm"	"Information not present"	0.777777777778	0.511698717949
+76B04EE6	"Hierarchical confidence-based active clustering"	"Information not present"	0.548611111111	1.0
+7F458C37	"Dynamic Social Network Analysis Using Latent Space Model and an Integrated Clustering Algorithm"	"Document Analysis Systems"	0.714285714286	0.409863945578
+80D62B6C	"Document vector compression and its application in document clustering"	"Canadian Conference on Electrical and Computer Engineering"	0.722222222222	0.55574980575
+7EE969A9	"Data-Intensive Document Clustering on GPU Clusters ✩,✩✩"	"Journal of Parallel and Distributed Computing"	0.694444444444	0.722222222222
+5EB3E7AA	"Fuzzy Linkage: A New Hierarchical Clustering Fuzzy Algorithm"	"Information not present"	0.78125	0.78125
+76BB1906	"An optimal hierarchical clustering algorithm for gene expression data"	"Information Processing Letters"	0.78125	0.576851851852
+7803AED2	"Algorithm 13: Strong Component Hierarchical Clustering"	"Environment and Planning A"	0.548611111111	0.694444444444
+79DDF742	"The Research of Privacy-Preserving Clustering Algorithm"	"Information not present"	0.703703703704	0.714285714286
+7D9AC020	"Adaptive robust watermarking algorithm based on DCT-domain"	"Information not present"	0.388888888889	0.666666666667
+5989BA03	"The Concept of the Hierarchical Clustering Algorithms for Rules Based Systems"	"Intelligent Information Systems"	0.777777777778	0.515367965368
+7ACD1F12	"APPLECOR: An Apple II implementation of hierarchical clustering analysis using the CONCOR algorithm"	"Behavior Research Methods"	0.777777777778	0.523460666318
+80488F76	"Policy-Gradient Based Actor-Critic Algorithms"	"Information not present"	0.388888888889	0.666666666667
+80A033C4	"An Adaptive Deflect and Conquer Clustering algorithm"	"Information not present"	0.703703703704	1.0
+7F856DEE	"Techniques of Cluster Algorithms in Data Mining"	"Data Mining and Knowledge Discovery"	0.708333333333	0.484848484848
+8130E485	"An energy efficient hierarchical clustering algorithm for wireless sensor networks"	"International Conference on Computer Communications"	0.78125	0.484798534799
+5B8388B5	"Dynamic decentralized any-time hierarchical clustering"	"Information not present"	0.548611111111	0.75
+807AF79C	"Novel Hybrid Document Clustering Algorithm Based on Ant Colony and Agglomerate"	"Information not present"	0.714285714286	0.453296703297
+596510E2	"A Novel Fast Clustering Algorithm"	"Artificial Intelligence and Computational Intelligence"	0.703703703704	0.708333333333
+80DFAA1E	"An Improved Algorithm for Apriori"	"Information not present"	0.388888888889	1.0
+7EEF340D	"Multi-resolution 3D terrain modeling based on scale space hierarchical clustering algorithm"	"Conference on Computational Complexity"	0.785714285714	0.520574663432
+7593C2CD	"Performance enhancement of scheduling algorithms in clusters and grids using improved dynamic load balancing techniques"	"World Wide Web"	0.703703703704	0.318535353535
+7A07FC2C	"QROCK: A quick version of the ROCK algorithm for clustering of categorical data"	"Pattern Recognition Letters"	0.708333333333	0.490404040404
+77C2C2B9	"Parallel lookahead algorithms for pruned interleavers"	"IEEE Transactions on Communications"	0.388888888889	1.0
+752C5C0B	"Weighted-Object Ensemble Clustering"	"International Conference on Data Mining"	0.398148148148	1.0
+8100AA57	"A cluster based target tracking algorithm for targets moving rapidly in wireless sensor networks"	"Studia Informatica Universalis"	0.708333333333	0.347692307692
+5BC9E626	"Classification for Electric Power Companies Based on Fuzzy Clustering Algorithm"	"Information not present"	0.708333333333	0.458333333333
+7B7F86D7	"Density Based Distribute Data Stream Clustering Algorithm"	"Journal of Software"	0.708333333333	0.462373737374
+806378A0	"Spatio-temporal clustering"	"Information not present"	0.398148148148	1.0
+816AF848	"Critérios de formação de carteiras de ativos por meio de hierarchical clusters"	"Information not present"	0.548611111111	1.0
+81479695	"A hybrid MGA-BP algorithm for RBFNs self-generate"	"Systems, Man and Cybernetics"	0.388888888889	1.0
+80D486A4	"Approximation algorithm for correlation clustering"	"Networked Digital Technologies"	0.708333333333	0.550480769231
+7F0EF70B	"CURE: an efficient clustering algorithm for large databases"	"Sigmod Record"	0.714285714286	0.556547619048
+7FFFCA62	"CDA: A Novel Clustering Delegate Algorithm Based on Minority Protection"	"Fuzzy Systems and Knowledge Discovery"	0.708333333333	0.462820512821
+817A9F08	"A Virtual Machine Server Aggregation Algorithm Based on Hierarchical Clustering"	"International Conference on Parallel and Distributed Systems"	0.785714285714	0.545787545788
+78A9B9FC	"Finding the Number of Clusters in a Dataset Using an Information Theoretic Hierarchical Algorithm"	"Information not present"	0.722222222222	0.488888888889
+796BD7F3	"The constrained normalized-rate iterative algorithm"	"Information not present"	0.388888888889	1.0
+76B90177	"Non-hierarchical clustering with masloc"	"Pattern Recognition"	0.398148148148	1.0
+76DD808A	"Application of shuffled frog-leaping algorithm on clustering."	"The International Journal of Advanced Manufacturing Technology"	0.703703703704	0.722222222222
+7DE1DAFA	"Initialization of cluster refinement algorithms: a review and comparative study"	"International Symposium on Neural Networks"	0.708333333333	0.360195360195
+803E463B	"A Fast Incremental Clustering Algorithm"	"Information not present"	0.703703703704	1.0
+599C0008	"A Heuristic Optimal Reduct Algorithm"	"Intelligent Data Engineering and Automated Learning"	0.388888888889	1.0
+5A4CC1DF	"Hierarchical Clustering of Document Archives with the Growing Hierarchical Self-Organizing Map"	"International Conference on Artificial Neural Networks"	0.770833333333	0.62706043956
+78CA35C4	"Fuzzy time series prediction using hierarchical clustering algorithms"	"Expert Systems With Applications"	0.777777777778	0.524376417234
+7E0EF92E	"Empirical comparison of fast clustering algorithms for large data sets"	"Hawaii International Conference on System Sciences"	0.708333333333	0.525
+7DBC903B	"Dominant sets and hierarchical clustering"	"International Conference on Computer Vision"	0.553977272727	0.75
+068FAE1B	"A Clustering Algorithm for Categorical Attributes"	"International Conference on Data Engineering"	0.703703703704	0.69696969697
+7B8CD683	"TOBAE: A Density-based Agglomerative Clustering Algorithm"	"Journal of Classification"	0.703703703704	1.0
+798DC8A0	"Hierarchical Model-Based Clustering for Large Datasets"	"Journal of Computational and Graphical Statistics"	0.548611111111	1.0
+58CF4DA7	"Efficient Parallel Hierarchical Clustering"	"European Conference on Parallel Processing"	0.548611111111	1.0
+7F71C775	"Mining high-quality clusters in pattern-based clustering"	"Fuzzy Systems and Knowledge Discovery"	0.398148148148	0.733333333333
+7E95EBD6	"On Multi-Behavior Based Multi-Colony Ant Algorithm for TSP"	"Intelligent Information Technology Application"	0.388888888889	0.666666666667
+7547B164	"A Multilayered Self-Learning Spiking Neural Network and its Learning Algorithm Based on ‘Winner-Takes-More’ Rule in Hierarchical Clustering"	"Scientific Journal of Riga Technical University. Computer Sciences"	0.78125	0.482196969697
+7B166917	"A Clustering Algorithm for Time Series Data"	"Parallel and Distributed Computing: Applications and Technologies"	0.708333333333	0.500793650794
+633A4223	"A genetic algorithm for cluster analysis"	"Intelligent Data Analysis"	0.703703703704	0.714285714286
+7E6592E2	"Square-root free orthogonalization algorithms"	"International Conference on Acoustics, Speech, and Signal Processing"	0.388888888889	1.0
+7DCE3ED6	"GDClust: A Graph-Based Document Clustering Technique"	"International Conference on Data Mining"	0.694444444444	0.69696969697
+703AC43D	"A Novel Ant-Based Clustering Approach for Document Clustering"	"Asia Information Retrieval Symposium"	0.708333333333	0.78125
+67EF45F0	"A new kernel-based clustering algorithm for the multi-machine equivalent of large power systems"	"Information not present"	0.708333333333	0.466666666667
+7E819CC4	"A multi-Biclustering Combinatorial Based algorithm"	"Computational Intelligence and Data Mining"	0.388888888889	0.666666666667
+6C024A7F	"Semantic oriented clustering of documents"	"International Symposium on Neural Networks"	0.694444444444	0.733333333333
+7D54E9FD	"An Efficiency apriori Algorithm: P_Matrix Algorithm"	"Information not present"	0.407407407407	0.703703703704
+766466D3	"Document Clustering for Social Problem Detection and Cluster Evaluation Measures"	"Transactions of The Japanese Society for Artificial Intelligence"	0.714285714286	0.370191713049
+798DF676	"Incremental hierarchical clustering of text documents"	"Conference on Information and Knowledge Management"	0.770833333333	0.8125
+786447C5	"An efficient clustering of the SOM using rough set and genetic algorithm"	"Grid and Cooperative Computing"	0.708333333333	0.534848484848
+7DAF0DA7	"Dynamic clustering analysis of documents based on cluster centroids"	"International Conference on Machine Learning and Cybernetics"	0.714285714286	0.453296703297
+01DCF20D	"Hierarchical Clustering Algorithm For Detecting Anomalous Profiles in Computer Systems"	"International Journal of Computer Integrated Manufacturing"	0.785714285714	0.499659863946
+7BB98686	"A 2-Tier Clustering Algorithm with Map-Reduce"	"Information not present"	0.703703703704	1.0
+7A4A4E70	"An overlapping cluster algorithm to provide non-exhaustive clustering"	"European Journal of Operational Research"	0.703703703704	0.673333333333
+79AD5EB4	"An improved algorithm for hierarchical clustering using strong components"	"Computer Compacts"	0.777777777778	0.683333333333
+77005535	"Cure: an efficient clustering algorithm for large databases"	"Information Systems"	0.714285714286	0.556547619048
+7FBFBF4F	"MovStream: An efficient algorithm for monitoring clusters evolving in data streams"	"Granular Computing"	0.708333333333	0.458333333333
+7B40216E	"Two-Phase Spectral Clustering Based on Discretization"	"Information not present"	0.398148148148	0.666666666667
+59B67264	"Hierarchical density-based clustering of uncertain data"	"International Conference on Data Mining"	0.553977272727	0.75
+00CB8209	"SIHC: A Stable Incremental Hierarchical Clustering Algorithm"	"International Conference on Enterprise Information Systems"	0.777777777778	1.0
+7C977DF2	"Hierarchical clustering of infrared spectra"	"Analytica Chimica Acta"	0.548611111111	0.714285714286
+7E6AAED5	"A COMBINED K-MEANSAND HIERARCHICAL CLUSTERINGMETHOD FOR IMPROVING THE CLUSTERINGEFFICIENCYOF MICROARRAY"	"Information not present"	1.0	0.625
+7FBA1336	"Adapting k-means algorithm for discovering clusters in subspaces"	"Asia-Pacific Web Conference"	0.708333333333	0.515
+5D9E6E43	"Hierarchical clustering with ART neural networks"	"International Symposium on Neural Networks"	0.553977272727	0.722222222222
+7D0035A1	"A clustering algorithm for gene expression data using wavelet packet decomposition"	"Information not present"	0.708333333333	0.356327160494
+5FCBF934	"Evolutionary multiobjective clustering"	"Parallel Problem Solving from Nature"	0.398148148148	1.0
+81781587	"A normalized LMF (XE-NLMF) algorithm with variable data-reusing"	"International Conference on Information and Communication Security"	0.388888888889	1.0
+5CD02299	"An efficient algorithm for fuzzy Web-mining"	"Information Reuse and Integration"	0.388888888889	1.0
+04168E5C	"An extension of hierarchical clustering: The pyramidal representa-tion"	"Information not present"	0.548611111111	0.7
+80E8E15C	"Topological Cluster: A Generalized View for Density-based Spatial Clustering"	"Computer Supported Cooperative Work in Design"	0.400673400673	0.7
+756FEDB0	"Interval Robust Multi-Objective Evolutionary Algorithm"	"Congress on Evolutionary Computation"	0.388888888889	1.0
+06526BFB	"Mining Clusters in Data Sets of Data Mining: An Effective Algorithm"	"Information not present"	0.708333333333	0.433333333333
+04208BBF	"New Fuzzy Hierarchical Clustering Algorithms"	"Journal of Information Science and Engineering"	0.777777777778	1.0
+59DCEC22	"An ANN-based clustering analysis algorithm with dynamic data window"	"International Conference on Control and Automation"	0.708333333333	0.492857142857
+7E4F8C1D	"A fast CAST-based clustering algorithm for very large database"	"Information not present"	0.714285714286	0.714285714286
+757D158D	"Multi-step density-based clustering"	"Knowledge and Information Systems"	0.398148148148	1.0
+7E133048	"Similarity Algorithm Based on Weighted Hierarchical Structure of XML Document"	"Information not present"	0.777777777778	0.589225589226
+5DB1B72F	"Efficient routing algorithms for hierarchical ASON"	"Information not present"	0.541666666667	0.722222222222
+7F561629	"A Cluster Warhead Projection-Time Self-Adaptive Algorithm and Simulation"	"Information not present"	0.703703703704	0.714285714286
+7847A904	"Space-conserving agglomerative algorithms"	"Journal of Classification"	0.388888888889	1.0
+7E4D88F9	"A supervised clustering and classification algorithm for mining data with mixed variables"	"IEEE Transactions on Systems, Man, and Cybernetics"	0.708333333333	0.45462962963
+7D56A300	"GPress: Towards Effective GML Documents Compresssion"	"International Conference on Data Engineering"	0.398148148148	1.0
+7EC38055	"Document categorization algorithm based on kernel NPE"	"Information not present"	0.722222222222	0.516666666667
+02E018F1	"Constraint Based Hierarchical Clustering for Text Documents"	"Information not present"	0.770833333333	0.612373737374
+0F64642F	"Multidimensional clusters in RadViz"	"Information not present"	0.398148148148	1.0
+7A8EAE43	"A Fuzzy Approach to Clustering of Text Documents Based on MapReduce"	"Information not present"	0.708333333333	0.541666666667
+7EC87937	"A novel cluster validity criterion for fuzzy c-regression model clustering algorithm"	"Information not present"	0.708333333333	0.414351851852
+8089A4C3	"SPC: The Selective Prioritized Clustering Algorithm for MANETs"	"Information not present"	0.703703703704	0.692307692308
+79D2A498	"Generalized cumulant correlators and hierarchical clustering"	"Monthly Notices of the Royal Astronomical Society"	0.548611111111	0.733333333333
+77AE4FE6	"Potential collaboration discovery using document clustering and community structure detection"	"Conference on Information and Knowledge Management"	0.722222222222	0.368709415584
+8149E8A0	"A novel Arabic lemmatization algorithm"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.388888888889	1.0
+7D648CAA	"Dynamic Fluzzy Clustering Algorithm for Web Documents Mining"	"Computational Intelligence and Security"	1.0	0.770833333333
+7E0D78B7	"A Clustering Algorithm for Mixed Data Based on Lattice Theory"	"International Conference for Young Computer Scientists"	0.708333333333	0.461111111111
+80DB7963	"An Efficient Document Categorization Algorithm Based on LDA and SFL"	"Information not present"	0.722222222222	0.625
+6FA7B132	"An adaptive parallel hierarchical clustering algorithm"	"High Performance Computing and Communications"	0.777777777778	1.0
+7D508B3E	"A New Rough set-based Heuristic Algorithm for Attribute Reduct"	"Information not present"	0.388888888889	1.0
+77F45DAF	"An Extremely Fast and Efficient Hierarchical Clustering Algorithm Applicable to Hyperspectral Microscopy and Microanalysis Images"	"Microscopy and Microanalysis"	0.777777777778	0.645
+7F8AA3D6	"Methods of Hierarchical Clustering"	"Clinical Orthopaedics and Related Research"	0.550505050505	0.7
+75604089	"Expected-Time Complexity Results for Hierarchic Clustering Algorithms Which Use Cluster Centres"	"Information Processing Letters"	0.78125	0.579407051282
+806BAC7E	"Parallel Two-Dimensional Quicksort Algorithm (PTSA)"	"Journal of Computer Science"	0.388888888889	1.0
+7C21B487	"Algorithms for Model-Based Gaussian Hierarchical Clustering"	"SIAM Journal on Scientific Computing"	0.703703703704	1.0
+5E03A1D1	"Notice of Retraction A discretization algorithm based on clustering and CAIR criterion"	"Information not present"	0.708333333333	0.449074074074
+584A39DC	"Violent Relaxation in Hierarchical Clustering"	"Information not present"	0.548611111111	0.7
+7D9D4092	"Efficient algorithm for projected clustering"	"International Conference on Data Engineering"	0.703703703704	0.722222222222
+81A03309	"Efficient Parallel Hierarchical Clustering Algorithms"	"Information not present"	0.777777777778	1.0
+7DA4FF3A	"Hierarchical Clustering Algorithms for Large Datasets"	"Information not present"	0.777777777778	1.0
+7F4BA2CB	"A hybrid performance modeling approach for adaptive algorithm selection on hierarchical clusters"	"ACS/IEEE International Conference on Computer Systems and Applications"	0.777777777778	0.506519274376
+08B701FF	"On the evolution of hierarchical clusters."	"Information not present"	0.548611111111	0.703703703704
+7FD0FA82	"Evaluating Clustering Algorithms: Cluster Quality and Feature Selection in Content-Based Image Clustering"	"Computer Science and Information Engineering"	0.714285714286	0.42619047619
+7A0DDC9E	"Large-scale multi-dimensional document clustering on GPU clusters"	"Information not present"	0.694444444444	0.722222222222
+7529A503	"Cloud-based clustering of text documents using the GHSOM algorithm on the GridGain platform"	"Symposium on Applied Computational Intelligence and Informatics"	1.0	0.610042735043
+7E1C5F27	"Comments on "Parallel algorithms for hierarchical clustering and cluster validity"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.785714285714	0.708994708995
+7A179367	"Topology-Based Hierarchical Clustering of Self-Organizing Maps"	"IEEE Transactions on Neural Networks"	0.548611111111	0.692307692308
+7ABF8958	"Can a Document be Oral?"	"Hawaii International Conference on System Sciences"	0.398148148148	0.666666666667
+76F96A7A	"Application of Gaussian Mixture Model Genetic Algorithm in data stream clustering analysis"	"International Conference on Intelligent Computing"	0.708333333333	0.356746031746
+5EA2BECE	"An Improved Algorithm for Apriori"	"Information not present"	0.388888888889	1.0
+769CD8B8	"A novel parallelization approach for hierarchical clustering"	"Parallel Computing"	0.559027777778	0.708333333333
+8128C791	"A distribution-based clustering algorithm for mining in large spatial databases"	"International Conference on Data Engineering"	0.714285714286	0.556547619048
+6E21FE72	"An ICA-Based multivariate discretization algorithm"	"Knowledge Science, Engineering and Management"	0.388888888889	1.0
+0B156528	"Hierarchical Clustering with CUDA/GPU"	"Information not present"	1.0	0.583333333333
+788CBBDA	"Combining PSO cluster and nonlinear mapping algorithm to perform clustering performance analysis: take the enterprise financial alarming as example"	"Quality & Quantity"	0.708333333333	0.330266955267
+7B013915	"A Hierarchical Clustering Algorithm for Categorical Attributes"	"Information not present"	0.777777777778	0.772727272727
+79872255	"Hierarchical Clustering-Based Cloaking Algorithm for Location-Based Services"	"Information not present"	0.541666666667	0.714285714286
+75E93022	"A hierarchical clustering algorithm for categorical sequence data"	"Information Processing Letters"	0.78125	0.675
+58E69F30	"Cluster cores-based clustering for high dimensional data"	"International Conference on Data Mining"	0.405303030303	0.75
+79682515	"GRAPH-BASED HIERARCHICAL CONCEPTUAL CLUSTERING"	"International Journal on Artificial Intelligence Tools"	0.548611111111	1.0
+80292AD3	"A new clustering validity function for the Fuzzy C-means algorithm"	"Information not present"	0.708333333333	0.559027777778
+06486918	"Word-Sense Classification by Hierarchical Clustering"	"Information not present"	0.569444444444	0.722222222222
+7D63295C	"A Novel Clustering Algorithm Based on Hierarchical and K-means Clustering"	"Conference on Computational Complexity"	0.777777777778	0.7
+772BA642	"A robust and scalable clustering algorithm for mixed type attributes in large database environment"	"Knowledge Discovery and Data Mining"	0.714285714286	0.421815221815
+5A39620A	"An Efficient Hierarchical Clustering Algorithm for Protein Sequences."	"International Journal of Computer Science & Applications"	0.777777777778	0.641666666667
+78857FE8	"Divisive Hierarchical K-Means"	"Computational Intelligence for Modelling, Control and Automation"	1.0	1.0
+788E7B99	"Optimal concurrent dimensional and geometrical tolerancing based on evolutionary algorithms"	"Nature and Biologically Inspired Computing"	0.388888888889	0.666666666667
+7D7F7B7B	"Hardware/software co-verification of cryptographic algorithms using Cryptol"	"Formal Methods in Computer-Aided Design"	0.388888888889	0.666666666667
+8009ADB9	"A Novel Clustering Algorithm Based on Circlusters to Find Arbitrary Shaped Clusters"	"Information not present"	0.703703703704	0.733333333333
+7E1AC6DD	"k-Attractors: A Clustering Algorithm for Software Measurement Data Analysis"	"International Conference on Tools with Artificial Intelligence"	0.714285714286	0.455952380952
+809DBA27	"Demonstration of hierarchical document clustering of digital library retrieval results"	"ACM/IEEE Joint Conference on Digital Libraries"	0.78125	0.550320512821
+7B7C8B2E	"Empirical comparison of fast partitioning-based clustering algorithms for large data sets"	"Expert Systems With Applications"	0.708333333333	0.525
+81199E21	"Automatic design of decision-tree algorithms with evolutionary algorithms"	"Evolutionary Computation"	0.388888888889	0.714285714286
+7BA9FC63	"An Efficient Clustering Algorithm for Microblogging Hot Topic Detection"	"Information not present"	0.722222222222	0.564393939394
+7CE77E1C	"Multi-Threaded Hierarchical Clustering by Parallel Nearest-Neighbor Chaining"	"IEEE Transactions on Parallel and Distributed Systems"	0.548611111111	1.0
+816B5E93	"MaPle: a fast algorithm for maximal pattern-based clustering"	"International Conference on Data Mining"	0.703703703704	0.694444444444
+78D16572	"An Improved Apriori Algorithm"	"Granular Computing"	0.388888888889	1.0
+020B60AE	"A survey of recent hierarchical clustering algorithms"	"Information not present"	0.777777777778	0.78125
+7D597CEC	"Distributed Fuzzy Score-Based Clustering Algorithm for Mobile Ad Hoc Networks"	"Asia-Pacific Services Computing Conference"	0.714285714286	0.501904761905
+75DC8EC8	"A new approach to isotonic agglomerative hierarchical clustering"	"Journal of Classification"	0.559027777778	0.708333333333
+00992A0A	"Study of gene expression representation with Treelets and hierarchical clustering algorithms"	"Information not present"	0.777777777778	0.438715277778
+776D0D1E	"Compression-based hierarchical clustering of SAR images"	"Information not present"	0.550505050505	0.7
+804E1938	"A Fast Density-Based Clustering Algorithm for Large Databases"	"International Conference on Machine Learning and Cybernetics"	0.714285714286	0.714285714286
+8115F468	"A Novel Robust Watermarking Algorithm Based on DWT and DCT"	"Computational Intelligence and Security"	0.388888888889	0.666666666667
+814BB79A	"An improved ant-based clustering algorithm"	"Information not present"	0.703703703704	1.0
+80225C1E	"An Advanced Distributed MDS-MAP Algorithm for WSNs"	"International Conference on e-Business"	0.388888888889	1.0
+7FC887E4	"A Clustering Algorithm for Datasets with Different Densities"	"Information not present"	0.703703703704	0.69696969697
+7891E4F2	"Document update summarization using incremental hierarchical clustering"	"Conference on Information and Knowledge Management"	0.777777777778	0.688888888889
+7CD05189	"Volume-based clustering for arbitrary shaped clusters"	"International Journal of Computational Vision and Robotics"	0.398148148148	0.733333333333
+5B691E0C	"MSGKA: an efficient clustering algorithm for large databases"	"Systems, Man and Cybernetics"	0.714285714286	0.714285714286
+7A417AA7	"Using group genetic algorithm to improve performance of attribute clustering"	"Applied Soft Computing"	0.722222222222	0.433621933622
+7E6F81DF	"Hierarchical Ensemble Clustering"	"International Conference on Data Mining"	0.548611111111	1.0
+80AA3B3D	"SMART: a subspace clustering algorithm that automatically identifies the appropriate number of clusters"	"International Journal of Data Mining, Modelling and Management"	0.708333333333	0.389285714286
+8132FB45	"Clustering of Image Data Set Using K-Means and Fuzzy K-Means Algorithms"	"Computational Intelligence"	0.708333333333	0.488888888889
+759EFC38	"Hierarchical cluster ensemble selection"	"Engineering Applications of Artificial Intelligence"	0.563492063492	0.714285714286
+5BAE1A24	"M-FastMap: A Modified FastMap Algorithm for Visual Cluster Validation in Data Mining"	"Knowledge Discovery and Data Mining"	0.708333333333	0.491666666667
+5D7CF791	"Multilevel Refinement for Hierarchical Clustering"	"Information not present"	0.548611111111	0.703703703704
+01D4FBD1	"Parallel algorithm for codebook generation with multi-step approach and hierarchical clustering"	"Information not present"	0.78125	0.658333333333
+7BC7DDB7	"Scale-based approach to hierarchical fuzzy clustering"	"Signal Processing"	0.559027777778	0.708333333333
+68B279C0	"NPUST: An Efficient Clustering Algorithm Using Partition Space Technique for Large Databases"	"Industrial and Engineering Applications of Artificial Intelligence and Expert Systems"	0.714285714286	0.399041434756
+7D4A716D	"A Divisive Hierarchical Structural Clustering Algorithm for Networks"	"International Conference on Data Mining"	0.78125	0.791666666667
+5C84A50A	"K-connected-based WSN topology-control algorithm: K-connected-based topology algorithm LKETA"	"Information not present"	0.388888888889	0.6875
+76CB780A	"Clustering Rules: A Comparison of Partitioning and Hierarchical Clustering Algorithms"	"Journal of Mathematical Modelling and Algorithms"	0.777777777778	0.494214119214
+80382995	"Unconditionally stable alternate-direction-explicit 2D FDTD algorithm"	"Information not present"	0.388888888889	1.0
+7CDB040D	"A new Multi-Hop and Hierarchical Clustering algorithm for energy saving in wireless sensor network"	"Broadband Communications, Networks and Systems"	0.78125	0.442055860806
+80A5ED88	"Unsupervised multidimensional hierarchical clustering"	"International Conference on Acoustics, Speech, and Signal Processing"	0.548611111111	1.0
+7E20B0B5	"A GA-based clustering algorithm for large data sets with mixed and categorical values"	"Computational Intelligence"	0.708333333333	0.52
+7C8BFD0F	"Greedy Routing on Hierarchical Clusters"	"Embedded and Ubiquitous Computing"	0.548611111111	0.722222222222
+7D82B1C3	"A Grid and Fractal Dimension-Based Data Stream Clustering Algorithm"	"Information not present"	0.708333333333	0.49
+80764222	"Hierarchical Cluster Assignment for Coarse-Grain Reconfigurable Coprocessors"	"International Parallel and Distributed Processing Symposium"	0.563492063492	0.714285714286
+7FB09619	"Application of Genetic Algorithm in Document Clustering"	"Information not present"	1.0	0.791666666667
+780A71FA	"Coupled term-term relation analysis for document clustering"	"International Symposium on Neural Networks"	0.714285714286	0.501904761905
+80B8D818	"Using the group genetic algorithm for attribute clustering"	"Congress on Evolutionary Computation"	0.722222222222	0.534848484848
+7F406C92	"Context-aware clustering"	"Computer Vision and Pattern Recognition"	0.398148148148	1.0
+757FEE09	"Evaluation of hierarchical clustering algorithms for document datasets"	"Conference on Information and Knowledge Management"	1.0	0.828571428571
+7BAFC5EC	"Efficient agglomerative hierarchical clustering"	"Expert Systems With Applications"	0.398148148148	1.0
+5A792D75	"Hierarchical Clustering for Datamining"	"Information not present"	0.548611111111	1.0
+7B2ACFF8	"A discretization algorithm based on clustering and CAIR criterion"	"Information not present"	0.708333333333	0.614583333333
+75AB514F	"MPM: a hierarchical clustering algorithm using matrix partitioning method for non-numeric data"	"Journal of Intelligent Information Systems"	0.78125	0.537179487179
+5EB6BB85	"Distributed Algorithms to Form Cluster Based Spanning Trees in Wireless Sensor Networks"	"International Conference on Conceptual Structures"	0.708333333333	0.336025641026
+7CC2E357	"A novel split-and-merge algorithm for hierarchical clustering of Gaussian mixture models"	"Applied Intelligence"	0.777777777778	0.638888888889
+7CAAB225	"A Hierarchical Fuzzy Clustering Algorithm"	"Information not present"	0.541666666667	0.722222222222
+80CB2EEB	"A hierarchical monothetic document clustering algorithm for summarization and browsing search results"	"World Wide Web"	0.777777777778	0.478472222222
+7D7C0AF6	"User Oriented Semi-Supervised Document Clustering"	"Applied Mechanics and Materials"	0.694444444444	0.733333333333
+36D0625C	"ANALYSIS ON ALGORITHM AND APPLICATION OF CLUSTER IN DATA MINING"	"Information not present"	0.708333333333	0.440476190476
+7FC4487B	"Knowledge Discovery from Web Usage Data: Extraction of Sequential Patterns through ART1 Neural Network Based Clustering Algorithm"	"Computational Intelligence"	0.714285714286	0.363403880071
+7FA713F6	"Synchronization-Inspired Partitioning and Hierarchical Clustering"	"IEEE Transactions on Knowledge and Data Engineering"	0.548611111111	0.692307692308
+0BE018A8	"Information-Theoretic Hierarchical Clustering of Uncertain Data"	"Information not present"	0.553977272727	0.75
+814CAB96	"Audio Watermarking Pre-process Algorithm"	"International Conference on e-Business Engineering"	0.388888888889	1.0
+7FB7AB66	"MDL hierarchical clustering for stemmatology"	"International Symposium on Information Theory"	0.548611111111	0.694444444444
+7AD4C819	"Hierarchical agglomerative clustering procedure"	"Pattern Recognition"	0.611111111111	0.777777777778
+5A355B5D	"On the Fourier Instrumental Variable Algorithm"	"American Control Conference"	0.388888888889	1.0
+7FEDCE0A	"Exploration of textual document archives using a fuzzy hierarchical clustering algorithm in the GAMBAL system"	"Information Processing and Management"	0.777777777778	0.466145833333
+000069BF	"Hierarchical Back-Face Culling"	"Computers & Graphics"	1.0	1.0
+80C28BA2	"Probabilistic analysis of the RNN-CLINK clustering algorithm"	"Proceedings of SPIE"	0.703703703704	0.714285714286
+5D01F3E1	"K-Harmonic Means - A Data Clustering Algorithm"	"Information not present"	0.708333333333	0.5875
+80FD38DA	"Hierarchical clustering algorithm for comprehensive orthologous-domain classification in multiple genomes"	"Nucleic Acids Research"	0.777777777778	0.661904761905
+7D547317	"MICkNN: multi-instance covering kNN algorithm"	"Tsinghua Science & Technology"	0.388888888889	0.666666666667
+765D6D9D	"An Effective Clustering Algorithm for Data Mining"	"Data Storage and Data Engineering"	0.708333333333	0.583333333333
+7D1DFB3D	"Scalable adaptive hierarchical clustering"	"IEEE Communications Letters"	0.548611111111	1.0
+7EB8E8AD	"Compressed Spectral Clustering"	"International Conference on Data Mining"	0.398148148148	1.0
+76E36AF5	"A Convergence Theorem for the Fuzzy ISODATA Clustering Algorithms"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.708333333333	0.5625
+7D7D5713	"An efficient clustering algorithm"	"International Conference on Machine Learning and Cybernetics"	0.703703703704	1.0
+7F076744	"An efficient k-means algorithm integrated with Jaccard distance measure for document clustering"	"Information not present"	1.0	0.559595959596
+80A4187F	"A new energy-efficient level-based clustering algorithm for wireless sensor networks"	"International Conference on Information and Communication Security"	0.708333333333	0.462051282051
+7821CF53	"Orthogonal Oja algorithm"	"IEEE Signal Processing Letters"	0.388888888889	1.0
+7F3DDCB5	"An Energy-Balanced Clustering Routing Algorithm for Wireless Sensor Networks"	"Computer Science and Information Engineering"	0.708333333333	0.412820512821
+80ACD54E	"CLU: A new algorithm for EST clustering"	"BMC Bioinformatics"	0.703703703704	1.0
+63E72024	"Similarity-Based Clustering"	"Information not present"	0.398148148148	1.0
+59CB2C71	"A methodology to find clusters in the data based on Shannon's entropy and genetic algorithms"	"International Conference on Communications"	0.708333333333	0.398764430014
+7AAD21A1	"Hierarchical clustering for adaptive refactorings identification"	"Information not present"	0.559027777778	0.708333333333
+8031FF77	"Customer Segmentation Based on a Novel Hierarchical Clustering Algorithm"	"Information not present"	0.777777777778	0.584595959596
+7782D120	"An efficient hierarchical clustering technique"	"Pattern Recognition Letters"	0.548611111111	0.69696969697
+7731DE76	"GPU-Based Multilevel Clustering"	"IEEE Transactions on Visualization and Computer Graphics"	0.398148148148	1.0
+7DAEBC79	"A three-step clustering algorithm over an evolving data stream"	"International Conference on Intelligent Computing"	0.708333333333	0.51
+816FE30B	"A Document Clustering Method Based on Hierarchical Algorithm with Model Clustering"	"Advanced Information Networking and Applications"	0.777777777778	0.48125
+59BEC1F7	"An ANN-based clustering analysis algorithm with dynamic data window"	"International Conference on Control and Automation"	0.708333333333	0.492857142857
+7A2CD39D	"Fast agglomerative hierarchical clustering algorithm using Locality-Sensitive Hashing"	"Knowledge and Information Systems"	0.777777777778	0.833333333333
+8131E73C	"CABGD: An Improved Clustering Algorithm Based on Grid-Density"	"International Conference on Innovative Computing, Information and Control"	0.703703703704	0.777777777778
+7B9D71A6	"Mean-shift and hierarchical clustering for textured polarimetric SAR image segmentation/classification"	"International Geoscience and Remote Sensing Symposium"	0.550505050505	0.7
+0B54CCC8	"Randomized algorithms for fast Bayesian hierarchical clustering"	"Information not present"	0.703703703704	0.722222222222
+5F2121EB	"On Validation of Hierarchical Clustering"	"Information not present"	0.559027777778	0.708333333333
+7D47B073	"Scalable algorithms for large temporal aggregation"	"International Conference on Data Engineering"	0.492063492063	0.666666666667
+7C406F47	"Dynamic Distributed Genetic Algorithm Using Hierarchical Clustering for Flight Trajectory Optimization of Winged Rocket"	"International Conference on Machine Learning and Applications"	0.777777777778	0.43606023606
+7BCC4F7F	"Compound Key Word Generation from Document Databases Using A Hierarchical Clustering ART Model"	"Intelligent Data Analysis"	0.772727272727	0.37099012099
+80419A8C	"Ratio-based collaborative filtering algorithms"	"Information not present"	0.388888888889	1.0
+71B42DBC	"Desarrollo de una Metodología de Comportamiento Dinámico en Cluster Dinámico"	"Information not present"	0.398148148148	1.0
+80B70A1A	"A fast algorithm for subspace clustering by pattern similarity"	"Statistical and Scientific Database Management"	0.708333333333	0.559027777778
+6856947B	"Hierarchical clustering of sensorimotor features"	"Information not present"	0.548611111111	0.694444444444
+72249BDD	"Distinguishing medical drugs from a large set of side effects using a distributed genetic algorithm on a PC cluster"	"International Symposium on Circuits and Systems"	0.708333333333	0.333674242424
+59C21F41	"Large-scale multi-dimensional document clustering on GPU clusters"	"Information not present"	0.694444444444	0.722222222222
+27435BF3	"A flexible ILP formulation for hierarchical clustering"	"Artificial Intelligence"	0.548611111111	0.694444444444
+7CB5D667	"Performance analysis of single and complete link during Agglomerative clustering of question papers by tagging the questions and trend analysis using single link"	"Information not present"	0.714285714286	0.287627187627
+797708A6	"Modulation classification of QAM and PSK from their constellation using Genetic Algorithm and hierarchical clustering"	"Information not present"	0.777777777778	0.52886002886
+7F6D6155	"An improved apriori algorithm"	"Information not present"	0.388888888889	1.0
+7E6D496A	"Study of a Cluster Algorithm Based on Rough Sets Theory"	"Intelligent Systems Design and Applications"	0.708333333333	0.465277777778
+805B7FA4	"A Self-Organizing Map Based Approach for Document Clustering and Visualization"	"International Joint Conference on Neural Network"	0.708333333333	0.437694250194
+790B6253	"An Algorithm for Identifying Useful Structure in Graphs Clustering"	"Information not present"	0.722222222222	0.501515151515
+80A84DE7	"A new algorithm for watermarking based On DCT and chaotic scrambling"	"Information not present"	0.388888888889	0.666666666667
+77C1004A	"A novel information-theoretic clustering algorithm for robust, unsupervised classification"	"Information Sciences, Signal Processing and their Applications"	0.703703703704	0.722222222222
+58AACC34	"TopDown-KACA: An efficient local-recoding algorithm for k-anonymity"	"Granular Computing"	0.388888888889	1.0
+5FA80B59	"A Speed-Up Hierarchical Compact Clustering Algorithm for Dynamic Document Collections"	"Iberoamerican Congress on Pattern Recognition"	0.833333333333	0.595238095238
+0399DE94	"Finding Dense Clusters via"	"Information not present"	0.398148148148	0.666666666667
+80CAF9C3	"Performance evaluation of hierarchical clustering algorithms"	"Information not present"	0.777777777778	0.650793650794
+7BCA4BC9	"An online clustering algorithm for Chinese web snippets based on Generalized Suffix Array"	"Cyber-Enabled Distributed Computing and Knowledge Discovery"	0.708333333333	0.39898989899
+79429F55	"A density oriented fuzzy C-means clustering algorithm for recognising original cluster shapes from noisy data"	"International Journal of Innovative Computing and Applications"	0.708333333333	0.367960858586
+583E1CB7	"An extended self-organizing map (ESOM) for hierarchical clustering"	"Systems, Man and Cybernetics"	0.548611111111	0.692307692308
+8170B72D	"Word Sense Disambiguation in biomedical ontologies with term co-occurrence analysis and document clustering"	"International Journal of Data Mining and Bioinformatics"	0.714285714286	0.306922398589
+5992CC44	"RFCM: A Hybrid Clustering Algorithm Using Rough and Fuzzy Sets"	"Fundamenta Informaticae"	0.708333333333	0.645833333333
+769B6FEA	"Homogeneous Ensemble Selection through Hierarchical Clustering with a Modified Artificial Fish Swarm Algorithm"	"International Conference on Tools with Artificial Intelligence"	0.777777777778	0.55505952381
+7952F6DF	"Memory-efficient implementation of a graphics processor-based cluster detection algorithm for large spatial databases"	"Electro/Information Technology"	0.722222222222	0.418590668591
+80DECF17	"Performance of a modified supervised cluster algorithm for extracting reference region input functions from (R)-[ 11 C]PK11195 brain PET studies"	"Information not present"	0.722222222222	0.256317293817
+046E01FA	"A Density-based Hierarchical Clustering Algorithm for Highly Overlapped Distributions with Noisy Points"	"Information not present"	0.777777777778	0.635384615385
+78E54BCB	"Uniformity and homogeneity-based hierarchical clustering"	"International Conference on Pattern Recognition"	0.548611111111	0.703703703704
+814BCBD1	"A growing self-organizing algorithm for dynamic clustering"	"International Symposium on Neural Networks"	0.703703703704	0.75
+798B61E5	"A Parallel Data Preprocessing Algorithm for Hierarchical Clustering"	"Information not present"	0.78125	0.8125
+7E72B4FB	"Unsupervised hierarchical clustering via a genetic algorithm"	"Congress on Evolutionary Computation"	0.777777777778	1.0
+7A9B2E0D	"P2PKMM: A Hybrid Clustering Algorithm over P2P Network"	"Information not present"	0.708333333333	0.722222222222
+759A2B06	"Fuzzy clustering of web documents using equivalence relations and fuzzy hierarchical clustering"	"International Conference on Software Engineering"	0.772727272727	0.585069444444
+754CE23F	"Some extensions of Johnson's hierarchical clustering algorithms"	"Psychometrika"	0.777777777778	0.636666666667
+75275E3A	"Analysis of the k-means algorithm in the case of data points occurring on the border of two or more clusters"	"Knowledge Based Systems"	0.708333333333	0.375629578755
+776B18F6	"On the Performance of a Hierarchical Clustering Based-Geocast Algorithm in Wireless Sensor Networks with Guaranteed Delivery"	"Information not present"	0.78125	0.440170940171
+837AAC30	"Selection of Cluster Hierarchy Depth in Hierarchical Clustering using K-Means Algorithm"	"Information not present"	0.777777777778	0.483482142857
+79E02CAB	"Sequential clustering: tracking down the most natural clusters"	"Journal of Statistical Mechanics: Theory and Experiment"	0.398148148148	0.75
+7DE514C8	"A High-Performance Deadlock-Free Multicast Routing Algorithm for K-Ary N-Cubes"	"IEEE Transactions on Computers"	0.388888888889	1.0
+632D43F8	"Hierarchical density-based clustering of shapes"	"Information not present"	0.548611111111	0.703703703704
+7ED276ED	"A Proposed Method for Brain Medical Image Registration by Hierarchical Clustering Algorithm"	"Information not present"	0.777777777778	0.444337606838
+7A314DF0	"A dynamic-programming algorithm for hierarchical discretization of continuous attributes"	"European Journal of Operational Research"	0.545454545455	0.69696969697
+77C3516B	"HCC: a hierarchical co-clustering algorithm"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.541666666667	1.0
+7D7AAA4F	"An Adaptive Grid-based Clustering Algorithm over Multi-dimensional Data Streams"	"The Kips Transactions:partd"	0.708333333333	0.5875
+77E3DF26	"Fuzzy conceptual clustering"	"Quality and Reliability Engineering International"	0.398148148148	1.0
+80AFA702	"An Efficient Algorithm for Finding All Frequent Itemsets"	"International Conference on Machine Learning and Cybernetics"	0.388888888889	0.666666666667
+7CF7C84F	"Fast Implementation of Dual Clustering Algorithm for Spatial Data Mining"	"Fuzzy Systems and Knowledge Discovery"	0.708333333333	0.488888888889
+77D2E1C9	"Piecewise hierarchical clustering"	"Journal of Classification"	0.548611111111	1.0
+76F0F507	"CLOPE: a fast and effective clustering algorithm for transactional data"	"Knowledge Discovery and Data Mining"	0.708333333333	0.75
+81155E29	"A novel clustering algorithm for ad hoc network"	"Information not present"	0.714285714286	0.577380952381
+583279F5	"An Auto-stopped Hierarchical Clustering Algorithm for Analyzing 3D Model Database"	"European Conference on Principles of Data Mining and Knowledge Discovery"	0.785714285714	0.593253968254
+79BCBC04	"Improving document representation by accumulating relevance feedback (abstract only): the relevance feedback accumulation algorithm"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.708333333333	0.307777777778
+7C50D861	"Hamiltonian-Based Clustering: Algorithms for Static and Dynamic Clustering in Data Mining and Image Processing"	"IEEE Control Systems Magazine"	0.708333333333	0.506349206349
+79154393	"Bias and Hierarchical Clustering"	"The Astrophysical Journal"	0.548611111111	0.69696969697
+760BB628	"An improved Apriori algorithm"	"Information not present"	0.388888888889	1.0
+5D8BB455	"Self-Organizing Hierarchical Cluster Timestamps"	"European Conference on Parallel Processing"	0.548611111111	1.0
+80AA9FB6	"An Evaluation of the Formal Concept Analysis-Based Document Vector on Document Clustering"	"International Conference on Computational Science and Its Applications"	0.714285714286	0.553296703297
+7E70D279	"Hierarchical unsupervised fuzzy clustering"	"IEEE Transactions on Fuzzy Systems"	0.548611111111	1.0
+7E856563	"High-level parallelisation in a database cluster: a feasibility study using document services"	"International Conference on Data Engineering"	0.714285714286	0.406292517007
+7772EEE0	"A novel genetic algorithm for automatic clustering"	"Pattern Recognition Letters"	0.703703703704	1.0
+7F96091C	"A Hybrid Clustering Algorithm"	"Fuzzy Systems and Knowledge Discovery"	0.703703703704	1.0
+7F8EF747	"Retrieval of Web Documents Using a Fuzzy Hierarchical Clustering"	"International Journal of Computer Applications"	0.770833333333	0.586894586895
+756A50D3	"Ultrametric hierarchical clustering algorithms"	"Psychometrika"	0.777777777778	1.0
+80D0879E	"A Hierarchical Clustering Algorithm Based on Grid Partition"	"International Conference on Multimedia Communications"	0.777777777778	0.683333333333
+7ED5A7B5	"Trend Analysis of Machine Learning - A Text Mining And Document Clustering Methodology"	"Information not present"	0.714285714286	0.3371998372
+7E686485	"Adaptive Binarization of Ancient Documents"	"Information not present"	0.398148148148	1.0
+7A8AA54B	"Dynamic peer-to-peer distributed document clustering and cluster summarization"	"Information not present"	0.703703703704	0.662222222222
+7B52D539	"Efficient algorithms for divisive hierarchical clustering with the diameter criterion"	"Journal of Classification"	0.78125	0.647222222222
+767D8F0B	"R/BHC: fast Bayesian hierarchical clustering for microarray data"	"BMC Bioinformatics"	0.553977272727	0.75
+674B2B5A	"Hierarchical Adaptive Clustering"	"Informatica (lithuanian Academy of Sciences)"	0.548611111111	1.0
+7D084258	"A neural architecture for hierarchical clustering"	"International Conference on Acoustics, Speech, and Signal Processing"	0.548611111111	0.692307692308
+59E8576A	"OM-AHCA: an overlay multicast protocol based on adaptive hierarchical clustering algorithm"	"Information not present"	0.78125	0.589209401709
+58F75D65	"An Optimized Image Retrieval Method Based on Hierarchal Clustering and Genetic Algorithm"	"Information not present"	0.777777777778	0.515750915751
+7600EAEE	"A Decision-Directed Clustering Algorithm for Discrete Data"	"IEEE Transactions on Computers"	0.708333333333	0.75
+80EB8D4C	"An Intelligent Clustering Algorithm for 3D Objects Layouts in Storage Systems"	"Multimedia and Ubiquitous Engineering"	0.708333333333	0.40404040404
+099AD6D4	"A One-Pass Space-Efficient Algorithm for Finding Quantiles"	"Conference on Management of Data"	0.388888888889	0.666666666667
+80CA7E45	"HIERARCHICAL CLUSTERING FOR COMPLEX DATA"	"International Journal on Artificial Intelligence Tools"	0.553977272727	0.75
+7F210B81	"A Fast and Practical Algorithm for Absolute Dominators Searching"	"Information and Communication Technologies and Development"	0.388888888889	0.666666666667
+75BF872C	"Structure-oriented clustering of XML documents: A transactional approach"	"Information not present"	0.708333333333	0.708333333333
+7EC2F4B2	"An Improved Data Clustering Algorithm for Mining Web Documents"	"Computational Intelligence"	0.75	0.425396825397
+78661680	"Border-based HSFI Algorithm for Hiding Sensitive Frequent Itemsets"	"Information not present"	0.388888888889	0.666666666667
+8093A6BB	"A similarity-based soft clustering algorithm for documents"	"Database Systems for Advanced Applications"	1.0	1.0
+04F9F16B	"Dialectometry as computerized agglomer-ative hierarchical cluster analysis"	"Information not present"	0.563492063492	0.714285714286
+77A97DBF	"Automated document indexing via intelligent hierarchical clustering: A novel approach"	"High Performance Computing"	0.78125	0.581018518519
+7C95C815	"A Novel Approach for Data Mining Clustering Technique Using NeuralGas Algorithm"	"Information not present"	0.708333333333	0.428463203463
+7F3E0D68	"A two-level dynamic chrono-scheduling algorithm"	"ACS/IEEE International Conference on Computer Systems and Applications"	0.388888888889	1.0
+74CF671A	"Back to the future: dynamic hierarchical clustering"	"International Conference on Data Engineering"	0.553977272727	0.708333333333
+76B75A1C	"A transfer algorithm for hierarchical clustering"	"Mathematical Social Sciences"	0.777777777778	0.777777777778
+7B57E500	"GDCLU: A New Grid-Density Based ClustrIng Algorithm"	"Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing"	0.388888888889	0.666666666667
+803CA8CC	"Hierarchical clustering of atmospheric soundings"	"International Journal of Climatology"	0.548611111111	0.69696969697
+590717D5	"Hierarchical and k‐Means Clustering"	"Information not present"	1.0	0.583333333333
+5B450CA6	"A New Algorithm for Fast Discovery of Maximal Sequential Patterns in a Document Collection"	"Conference on Intelligent Text Processing and Computational Linguistics"	0.777777777778	0.522222222222
+7BE23B0F	"A Synthesized Data Mining Algorithm Based on Clustering and Decision Tree"	"Computer and Information Technology"	0.708333333333	0.372916666667
+7E48A65F	"A Dynamic Clustering Algorithm Based on Small Data Set"	"Information not present"	0.708333333333	0.566666666667
+6D037450	"Fast algorithm for matrix-vector multiply of asymmetric multilevel block-toeplitz atrices"	"Information not present"	0.388888888889	1.0
+7D1156DE	"A Web Document Retrieval Algorithm Based on Particle Swarm Optimization"	"Information not present"	0.708333333333	0.390750915751
+77D315E0	"A new energy-efficient clustering algorithm for Wireless Sensor Networks"	"Information not present"	0.708333333333	0.462051282051
+7F5A4989	"Managing the knowledge contained in electronic documents: a clustering method for text mining"	"Database and Expert Systems Applications"	0.708333333333	0.384523809524
+5FDF4633	"Hierarchical Star Clustering Algorithm for Dynamic Document Collections"	"Iberoamerican Congress on Pattern Recognition"	0.833333333333	0.597222222222
+72AA42EC	"Metode Hierarchical K-Means untuk Pengelompokoan Desa Tertinggal di Provinsi Sumatera Utara"	"Information not present"	1.0	1.0
+803D388D	"Data Compression Algorithm Based on Hierarchical Cluster Model for Sensor Networks"	"Information not present"	0.78125	0.444573944574
+755B69B6	"Optical bias and hierarchical clustering"	"The Astrophysical Journal"	0.548611111111	0.69696969697
+0A04B357	"CHAMELEON: A Hierarchical Clustering Algorithm Using Dynamic Modeling"	"Information not present"	0.777777777778	0.587373737374
+7AEFC705	"A Negative Selection Algorithm Based on Hierarchical Clustering of Self Set and its Application in Anomaly Detection"	"International Journal of Computational Intelligence Systems"	0.777777777778	0.4518999519
+783230CA	"A stability-based algorithm to validate hierarchical clusters of genes"	"International Journal of Knowledge Engineering and Soft Data Paradigms"	0.777777777778	0.647222222222
+7DD4B076	"A hierarchical approach to ART-like clustering algorithm"	"International Symposium on Neural Networks"	0.777777777778	0.78125
+5BC90EBC	"A Heuristic Clustering Algorithm for Intrusion Detection Based on Information Entropy"	"Wuhan University Journal of Natural Sciences"	0.722222222222	0.39898989899
+71CD6C9A	"A term-based algorithm for hierarchical clustering of Web documents"	"Information not present"	1.0	0.822222222222
+017871C6	"A Polynomial Algorithm for Optimal Microaggregation"	"IEEE Transactions on Knowledge and Data Engineering"	0.388888888889	1.0
+78797EBC	"Based on Cluster Cover Algorithm in Coal Mine Gas Forecast Application"	"Information not present"	0.708333333333	0.329843304843
+80E5824E	"Analysis and Research for Network Management Alarms Correlation Based on Sequence Clustering Algorithm"	"Information not present"	0.708333333333	0.325162337662
+776D8E6E	"An efficient agglomerative clustering algorithm using a heap"	"Pattern Recognition"	0.708333333333	0.645833333333
+7680E0C9	"Robust information-theoretic clustering"	"Knowledge Discovery and Data Mining"	0.398148148148	1.0
+8379D392	"Building a decision cluster classification model by a clustering algorithm to classify large high dimensional data with multiple classes"	"Information not present"	0.708333333333	0.345833333333
+78180BBF	"DBSCALE: An efficient density-based clustering algorithm for data mining in large databases"	"Pacific-Asia Conference on Circuits, Communications and Systems"	0.714285714286	0.495238095238
+77F5D8B2	"Cognitive clustering algorithm for efficient cybersecurity applications"	"International Symposium on Neural Networks"	0.703703703704	0.722222222222
+7F377424	"SCQR - A P2P Query Routing Algorithm Based on Semantic Cluster"	"Ubiquitous Computing"	0.703703703704	0.522222222222
+80BB4775	"Personalized Hierarchical Clustering"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.548611111111	1.0
+80A9B7B4	"Participatory Learning in Fuzzy Clustering"	"Information not present"	0.398148148148	0.666666666667
+800AFBDC	"δ-model Adaptive Algorithm Based on Plant-Parameterization"	"Information not present"	0.388888888889	0.666666666667
+765DCAF5	"Automatic hierarchical clustering algorithm for remote sensing data"	"Pattern Recognition and Image Analysis"	0.78125	0.668181818182
+754A9738	"SPARCL: Efficient and Effective Shape-Based Clustering"	"International Conference on Data Mining"	0.398148148148	1.0
+80D5643B	"Cluster based wireless sensor network routings using Artificial Bee Colony Algorithm"	"Ai & Society"	0.708333333333	0.353178194355
+7EAA3A3C	"Immune Population Network Algorithm and Its Application in Fuzzy Clustering Analysis"	"Information not present"	0.708333333333	0.440476190476
+72560843	"Selection of Cluster Topic Words in Hierarchical Clustering using K-Means Algorithm"	"Information not present"	0.791666666667	0.494047619048
+772643AD	"Bi-Watermarking Algorithm Based on Contourlet"	"International Conference on e-Business"	0.388888888889	0.666666666667
+7D7F1401	"MINING ON CAR DATABASE EMPLOYING LEARNING AND CLUSTERING ALGORITHMS"	"Information not present"	0.714285714286	0.388860544218
+7EE105B8	"An efficient clustering algorithm"	"Archives of Cardiovascular Diseases Supplements"	0.703703703704	1.0
+7A59F4C8	"A hierarchical clustering algorithm based on density for data stratification"	"International Conference on Systems"	0.78125	0.545299938157
+814614BC	"Bayesian Agglomerative Clustering with Coalescents"	"Neural Information Processing Systems"	0.398148148148	1.0
+7C9D9D1B	"Note on ultrametric hierarchical clustering algorithms"	"Psychometrika"	0.777777777778	0.777777777778
+7EE61DDC	"Moving multi-object tracking algorithm based on wavelet clustering and frame difference"	"Systems, Man and Cybernetics"	0.708333333333	0.401636904762
+79D579A8	"Efficient interactive agglomerative hierarchical clustering algorithm for hyperspectral image processing"	"Proceedings of SPIE"	0.777777777778	0.642222222222
+80393EE4	"Clustering and ranking university majors using data mining and AHP algorithms: A case study in Iran"	"Expert Systems With Applications"	0.708333333333	0.317027417027
+7D60240A	"RIC: Parameter-free noise-robust clustering"	"ACM Transactions on Knowledge Discovery From Data"	0.398148148148	1.0
+7D1C86DA	"S-Canopy:A feature-based clustering algorithm for supplier categorization"	"Information not present"	0.708333333333	0.722222222222
+7E1BE1B6	"Hierarchical Clustering for Volumetric Scalar Fields"	"Information not present"	0.548611111111	0.692307692308
+8115B9E7	"Optimal Combination of Nested Clusters by a Greedy Approximation Algorithm"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.708333333333	0.581730769231
+7DE31613	"A Novel Clustering Algorithm Based on One-Class SVM"	"Information not present"	0.703703703704	0.777777777778
+7B8309BD	"A data clustering algorithm based on mussels wandering optimization"	"International Conference on Networking, Sensing and Control"	0.708333333333	0.430036630037
+59BE1C99	"Multiple routes planning based on particle swarm algorithm and hierarchical clustering"	"Information not present"	0.777777777778	0.48740530303
+785CF01B	"A Nonparametric Algorithm for Detecting Clusters Using Hierarchical Structure"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.777777777778	0.60404040404
+7D20244B	"Research on Spatially Weighted Fuzzy Dynamic Clustering Algorithm and Spatial Data Mining Visualization"	"Information not present"	0.708333333333	0.395299938157
+5EE3D5D3	"Efficient construction of comprehensible hierarchical clusterings"	"European Conference on Principles of Data Mining and Knowledge Discovery"	0.563492063492	0.714285714286
+7CB6B315	"U-statistic hierarchical clustering"	"Psychometrika"	0.548611111111	1.0
+587D84C2	"SUDEPHIC: Self-Tuning Density-Based Partitioning and Hierarchical Clustering"	"Database Systems for Advanced Applications"	0.548611111111	0.692307692308
+8129D11F	"AHSCAN: Agglomerative Hierarchical Structural Clustering Algorithm for Networks"	"Advances in Social Networks Analysis and Mining"	0.78125	0.791666666667
+7AC42166	"NB + : An improved Naïve Bayesian algorithm"	"Knowledge Based Systems"	0.388888888889	1.0
+07554A84	"Cluster Selection in Divisive Clustering Algorithms"	"SIAM International Conference on Data Mining"	0.703703703704	0.785714285714
+75E524AB	"A three-step clustering algorithm over an evolving data stream"	"International Conference on Intelligent Computing"	0.708333333333	0.51
+7905CD43	"PGMCLU: A novel parallel grid-based clustering algorithm for multi-density datasets"	"Secure Web Services"	0.703703703704	1.0
+80525082	"Hierarchical Clustering and the Butcher-Oemler Effect"	"Monthly Notices of the Royal Astronomical Society"	0.548611111111	0.7
+7C8F294E	"Leaders-subleaders: an efficient hierarchical clustering algorithm for large data sets"	"Pattern Recognition Letters"	0.78125	0.7
+7BBFF304	"Efficient hierarchical clustering of large high dimensional datasets"	"Conference on Information and Knowledge Management"	0.548611111111	1.0
+80B42188	"Fuzzy c-means clustering algorithm with unknown number of clusters for symbolic interval data"	"Information not present"	0.714285714286	0.443253968254
+75787C31	"Multi-peak Function Optimization Using a Hierarchical Clustering based Genetic Algorithm"	"Intelligent Systems Design and Applications"	0.78125	0.555952380952
+7F09B6B5	"Hierarchically Distributed Peer-to-Peer Document Clustering and Cluster Summarization"	"IEEE Transactions on Knowledge and Data Engineering"	0.703703703704	0.662222222222
+5D76DBCE	"K-medoid-style Clustering Algorithms for Supervised Summary Generation"	"Information not present"	0.708333333333	0.722222222222
+5D499B8D	"A Scalable Hierarchical Algorithm for Unsupervised Clustering"	"Information not present"	0.777777777778	1.0
+58D0837D	"A fuzzy clustering algorithm of data mining based on IWO"	"Conference on Computational Complexity"	0.708333333333	0.484722222222
+7AF155DE	"Clustering by multi objective genetic algorithm"	"Information not present"	0.703703703704	1.0
+7CEFF118	"Effective Top-down Clustering Algorithms for Location Database Systems"	"Autonomic and Trusted Computing"	0.714285714286	0.46746031746
+7E142349	"Notice of Retraction Research on the algorithm of date mining based on cluster analysis"	"Information not present"	0.708333333333	0.338844797178
+7B2F0A06	"Hierarchical Clustering Algorithms for Document Datasets"	"Data Mining and Knowledge Discovery"	1.0	1.0
+81053CD4	"Applying a clustering genetic algorithm for extracting rules from a supervised neural network"	"International Symposium on Neural Networks"	0.708333333333	0.473484848485
+7D760F10	"A Boosted Clustering Algorithm for Distributed Homogeneous Data Mining"	"Information not present"	0.708333333333	0.506666666667
+7ED1C149	"Hierarchical clustering of words"	"International Conference on Computational Linguistics"	0.556547619048	0.714285714286
+61DD7DFF	"Analisa Perbandingan Metode Hierarchical Clustering, K-Means dan Gabungan Keduanya dalam Cluster Data (Studi Kasus: Problem Kerja Praktek Teknik Industri ITS)"	"Information not present"	0.553977272727	0.67
+5C284D8A	"Linear Speed-Up for a Parallel Non-Approximate Recasting of Center-Based Clustering Algorithms, including K-Means, K-Harmonic Means, and EM"	"Information not present"	0.733333333333	0.462698412698
+5E8C985B	"Invariant Hierarchical Clustering Schemes"	"Information not present"	0.548611111111	0.694444444444
+77F28357	"Procreant PSO for document clustering"	"International Conference on Computer Communications and Networks"	0.694444444444	1.0
+06D7A86A	"Algorithms in Bioinformatics"	"Information not present"	0.388888888889	1.0
+80AF01A5	"A hybrid unsupervised approach for document clustering"	"Knowledge Discovery and Data Mining"	0.708333333333	0.55625
+7DBA9671	"An Efficient Hierarchical Clustering Method for Large Datasets with Map-Reduce"	"Parallel and Distributed Computing: Applications and Technologies"	0.550505050505	0.7
+7A5EF3AF	"Hierarchical model-based clustering of large datasets through fractionation and refractionation"	"Knowledge Discovery and Data Mining"	0.548611111111	0.7
+78615640	"A spatial clustering algorithm for line objects based on extended Hausdorff distance"	"Information not present"	0.708333333333	0.450198412698
+8024E0D1	"Study on frequent term set-based hierarchical clustering algorithm"	"Fuzzy Systems and Knowledge Discovery"	0.777777777778	0.645
+7CAA8928	"Exploration on the commonality of hierarchical clustering algorithms"	"Information not present"	0.777777777778	0.645238095238
+75522227	"A comprehensive clustering algorithm for strategic analysis of supply chain networks"	"Computers & Industrial Engineering"	0.708333333333	0.426587301587
+7844E9EA	"Hierarchical Clustering Algorithm for Land Cover Mapping Using Satellite Images"	"IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"	0.777777777778	0.472916666667
+7832AFF6	"Automatic document summarizer"	"Computational Intelligence and Security"	0.398148148148	1.0
+7FA17FB7	"Greedy Optimization for Contiguity-Constrained Hierarchical Clustering"	"International Conference on Data Mining"	0.552777777778	0.7
+6A51C8C2	"A Fast Algorithm for Density-Based Clustering in Large Database"	"Knowledge Discovery and Data Mining"	0.714285714286	0.714285714286
+7923E1E0	"Probabilistic hierarchical clustering for biological data"	"Research in Computational Molecular Biology"	0.553977272727	0.75
+7CA45EEA	"Optimal algorithms for complete linkage clustering in d dimensions"	"Theoretical Computer Science"	0.708333333333	0.461507936508
+7D9F52E9	"A Fuzzy Clustering Algorithm for Petroleum Data"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.708333333333	0.583333333333
+7F2C80D6	"A study on criteria for extracting key terms in document clustering"	"Systems, Man and Cybernetics"	0.708333333333	0.435185185185
+7D5F849B	"A Fuzzy Clustering Algorithm Based on K-means"	"Information not present"	0.703703703704	0.777777777778
+7FBDF3A1	"Vector quantization of images using modified adaptive resonance algorithm for hierarchical clustering"	"IEEE Transactions on Neural Networks"	0.777777777778	0.460562354312
+66C4E5BF	"Interactive interpretation of hierarchical clustering"	"European Conference on Principles of Data Mining and Knowledge Discovery"	0.550505050505	0.7
+7F30D819	"Concept-Based Pages Recommendation by Using Cluster Algorithm"	"International Conference on Advanced Learning Technologies"	0.708333333333	0.507051282051
+7E3E861D	"Clustering and Classification (Time Series analysis) Based Congestion Control algorithm: Data Mining Approach"	"Information not present"	0.708333333333	0.296431577682
+7A5BDBFE	"DFSSM based Web text clustering algorithm"	"Information not present"	0.75	0.645833333333
+7F50319E	"CURE-NS: a hierarchical clustering algorithm with new shrinking scheme"	"International Conference on Machine Learning and Cybernetics"	0.777777777778	0.65
+6E10C7E4	"Fuzzy conceptual clustering"	"International Conference on Data Mining"	0.398148148148	1.0
+76EF3928	"A hierarchical clustering algorithm based on the Hungarian method"	"Pattern Recognition Letters"	0.777777777778	0.686666666667
+80803D8D	"A Modified K-means Algorithm for Sequence Clustering"	"Information not present"	0.703703703704	0.708333333333
+7598BF0D	"A Crossover-Imaged Clustering Algorithm with Bottom-up Tree"	"Fuzzy Systems and Knowledge Discovery"	0.703703703704	0.688888888889
+042344B7	"Structure Pattern Analysis Using Term Rewriting and Clustering Algorithm"	"Information not present"	0.75	0.378526334776
+3398A727	"Mass Distributed Clustering: A New Algorithm for Repeated Measurements in Gene Expression Data:A New Algorithm for Repeated Measurements in Gene Expression Data"	"Information not present"	0.708333333333	0.357478632479
+7E447013	"A Lattice-Based Approach to Hierarchical Clustering"	"The Florida AI Research Society"	0.559027777778	0.708333333333
+795A68C2	"A New Data Clustering Algorithm"	"Information not present"	0.708333333333	0.75
+7707EDBA	"Pressure-detection algorithms"	"IEEE Engineering in Medicine and Biology Magazine"	0.388888888889	1.0
+5FBD4929	"A new clustering algorithm"	"Journal of Men's Health"	0.703703703704	1.0
+7FF1D9FB	"Wavelet-based hierarchical document categorization"	"Information not present"	0.564393939394	0.722222222222
+5908C11E	"Biologically Supervised Hierarchical Clustering Algorithms for Gene Expression Data"	"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.78125	0.576851851852
+7DE0E067	"Wireless sensor networks routing protocol based on self-organizing clustering and intelligent ant colony optimization algorithm"	"Information not present"	0.708333333333	0.294267007502
+7F28F922	"A Hierarchical Clustering Algorithm Based on K-Means with Constraints"	"International Conference on Innovative Computing, Information and Control"	0.777777777778	0.684848484848
+7694562C	"An Efficient Hierarchical Clustering Algorithm and its Application for Image Retrieval"	"Applied Mechanics and Materials"	0.777777777778	0.557264957265
+77BE159F	"Approximate algorithms for K-anonymity"	"International Conference on Management of Data"	0.388888888889	1.0
+84A836CC	"Hierarchical genetic clusters for phenotypic analysis"	"Acta Scientiarum-agronomy"	0.563492063492	0.714285714286
+02BB9DEA	"Towards hierarchical clustering"	"Information not present"	0.548611111111	1.0
+7E4E0306	"An efficient clustering approach using ant colony algorithm in mutidimensional search space"	"Fuzzy Systems and Knowledge Discovery"	0.714285714286	0.420578231293
+7CE9096F	"Unifying dependent clustering and disparate clustering for non-homogeneous data"	"Knowledge Discovery and Data Mining"	0.405303030303	0.75
+7F98816D	"Range-Based Localization in Wireless Networks Using the DBSCAN Clustering Algorithm"	"Vehicular Technology Conference"	0.708333333333	0.448611111111
+80829B56	"An Isoline Genetic Algorithm"	"Congress on Evolutionary Computation"	0.388888888889	1.0
+7BE9F5EF	"RECENT RESULTS IN HIERARCHICAL CLUSTERING: I–THE REDUCIBLE NEIGHBORHOODS CLUSTERING ALGORITHM"	"International Journal of Pattern Recognition and Artificial Intelligence"	0.777777777778	0.557264957265
+7626C35B	"New Algorithm for the Slant Transform"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.388888888889	1.0
+7643E108	"An Improved Clustering Algorithm"	"International Symposium on Computational Intelligence and Design"	0.703703703704	1.0
+785E7CBD	"Fast hierarchical clustering and its validation"	"Data and Knowledge Engineering"	0.559027777778	0.708333333333
+7F89465B	"Designing multi-leader-based Allgather algorithms for multi-core clusters"	"Information not present"	0.703703703704	0.733333333333
+5E97182D	"Fast Hierarchical Clustering Algorithm Using Locality-Sensitive Hashing"	"Discovery Science"	1.0	0.5
+7F1308EA	"A Reversible and Fragile Watermarking Algorithm Based on DCT"	"Artificial Intelligence and Computational Intelligence"	0.388888888889	0.666666666667
+7F4BC0EE	"A Clustering Algorithm for Data Mining Based on Swarm Intelligence"	"International Conference on Machine Learning and Cybernetics"	0.708333333333	0.414682539683
+78B0FBD8	"Automatic clustering and boundary detection algorithm based on adaptive influence function"	"Pattern Recognition"	0.708333333333	0.443392255892
+74592405	"Ontological summaries through hierarchical clustering"	"International Syposium on Methodologies for Intelligent Systems"	0.556547619048	0.714285714286
+5A4C370E	"An improved genetic clustering algorithm for categorical data"	"Knowledge Discovery and Data Mining"	0.708333333333	0.75
+492A2797	"HCABS: The hierarchical clustering algorithm based on soft threshold and cluster member bounds for w"	"Information not present"	0.777777777778	0.522446689113
+7F30D6D5	"Fast parallel algorithm for the single link heuristics of hierarchical clustering"	"International Parallel and Distributed Processing Symposium"	0.777777777778	0.688888888889
+78F59BC9	"Hybrid approach for visualization of documents clusters using GHSOM and sammon projection"	"Symposium on Applied Computational Intelligence and Informatics"	0.708333333333	0.437694250194
+7A17CED8	"Bigradient learning algorithm for dimension reduction of text document space"	"Information not present"	0.714285714286	0.449735449735
+7BC6212C	"Self-adaptive clustering data stream algorithm based on SSMC-tree"	"International Conference on Software Engineering"	0.708333333333	0.536666666667
+6384E4D5	"Reionization of the universe in hierarchical clustering."	"Information not present"	0.548611111111	0.69696969697
+77F1D733	"Improved Hierarchical Clustering Algorithm for Software Architecture Recovery"	"International Conference on Intelligent Computing"	0.785714285714	0.551781551782
+01748190	"A Rough Set-Based Hierarchical Clustering Algorithm for Categorical Data"	"Information Technology"	0.78125	0.8125
+7DD11978	"A contrast independent algorithm for adaptive binarization of degraded document images"	"Computer Standards & Interfaces"	0.708333333333	0.55625
+7592732C	"A fuzzy k-prototype clustering algorithm for mixed numeric and categorical data"	"Knowledge Based Systems"	0.708333333333	0.75
+798794C2	"An Automatic Semantic Extraction Algorithm for XML Document"	"Machine Vision and Human-machine Interface"	0.703703703704	0.7
+7DE2D4BD	"An efficient clustering algorithm for market basket data based on small large ratios"	"Computer Software and Applications Conference"	0.708333333333	0.426465201465
+796F8F05	"Quality-Driven Hierarchical Clustering Algorithm for Service Intelligence Computation"	"Semantics, Knowledge and Grid"	0.777777777778	0.587962962963
+7EE18A10	"Enhancing the DBSCAN and Agglomerative Clustering Algorithms to Solve Network Planning Problem"	"International Conference on Data Mining"	0.708333333333	0.403741496599
+7E6FC00F	"Analysis of spatial point patterns using hierarchical clustering algorithms"	"Bulletin of The Australian Mathematical Society"	0.777777777778	0.523460666318
+7D1225A0	"A hierarchical cluster algorithm based on binary model"	"International Conference on Software Engineering"	0.777777777778	0.683333333333
+7703F158	"Transaction clustering of web log data files using genetic algorithm"	"International Conference on Digital Information Management"	0.708333333333	0.419217687075
+0C5FDB79	"Lipshitz distance and hierarchical clustering"	"Journal of Classification"	0.548611111111	0.7
+75CB8B83	"Research on Text Clustering Algorithms"	"Database Technology and Applications"	0.75	0.598214285714
+7E4969F9	"Robust Hierarchical k-Center Clustering"	"Information not present"	0.548611111111	1.0
+814D878F	"A Cluster Algorithm Identifying the Clustering Structure"	"Computer Systems: Science & Engineering"	0.703703703704	0.668181818182
+7FFB1DEC	"An Improved Genetic k-means Algorithm for Optimal Clustering"	"International Conference on Data Mining"	0.703703703704	1.0
+7FBBEBFA	"An Improved Genetic Algorithm Based on Van Der Laan-Talman Algorithm"	"Information not present"	0.388888888889	0.777777777778
+79A556F7	"Introduction to Hierarchical Clustering:"	"Journal of Clinical Neurophysiology"	0.552777777778	0.7
+7EC42453	"Secured distributed document clustering & keyphrase extraction algorithm in structured Peer to Peer networks"	"Information not present"	0.722222222222	0.372916666667
+6FC9BDD7	"Selecting candidate labels for hierarchical document clusters using association rules"	"Mexican International Conference on Artificial Intelligence"	0.78125	0.44727032227
+7C9A49F5	"A simple process model generation using a new association rule mining algorithm and clustering approach"	"International Conference on Autonomic Computing"	0.708333333333	0.335876623377
+86189581	"M-FastMap: A modified FastMap algorithm for visual cluster validation in data mining"	"Lecture Notes in Computer Science"	0.708333333333	0.491666666667
+7FA96432	"A Survey of Recent Advances in Hierarchical Clustering Algorithms"	"The Computer Journal"	0.777777777778	0.645
+7FE61375	"Radius-Distance Based Semi-Supervised Algorithm"	"Information not present"	0.388888888889	0.666666666667
+7A99570E	"A Fuzzy Divisive Hierarchical Clustering Algorithm for the Optimal Choice of Sets of Solvent Systems"	"Analytical Letters"	0.78125	0.570707070707
+7E4C9EC1	"Potential-based hierarchical clustering"	"International Conference on Pattern Recognition"	0.548611111111	1.0
+7C73C958	"Empirical and Theoretical Comparisons of Selected Criterion Functions for Document Clustering"	"Machine Learning"	0.708333333333	0.4375
+7B2E969F	"A noise-insensitive LLE algorithm"	"Information not present"	0.388888888889	1.0
+76A56B7A	"Active Learning Algorithm for Threshold of Decision Probability on Imbalanced Text Classification Based on Protein-Protein Interaction Documents"	"Data Storage and Data Engineering"	0.714285714286	0.337182539683
+05E8660D	"A Novel K-Means Hierarchical Clustering Algorithm for Efficient Information Extraction from Large Data Sets"	"Information not present"	0.791666666667	0.538095238095
+7512AACE	"HDD: a hypercube division-based algorithm for discretisation"	"International Journal of Systems Science"	0.388888888889	1.0
+5E6EE556	"Y-Means: An Autonomous Clustering Algorithm"	"Hybrid Artificial Intelligence Systems"	0.703703703704	1.0
+5A71EF57	"Notice of Violation of IEEE Publication Principles Improving heterogeneous data clustering by using metadata and compression algorithms"	"Information not present"	0.708333333333	0.321507280598
+7A2F9D4C	"A hybrid clustering procedure for concentric and chain-like clusters"	"International Journal of Parallel Programming"	0.481481481481	0.777777777778
+7F2D0AF3	"SLPPCA: A New Efficient Cluster Algorithm Based on SLPP"	"Information not present"	0.703703703704	0.777777777778
+7D883C7D	"An architecture and algorithms for multi-run clustering"	"Computational Intelligence and Data Mining"	0.703703703704	0.692307692308
+7E98732C	"A Scalable Cluster Algorithm for Internet Resources"	"International Parallel and Distributed Processing Symposium"	0.703703703704	0.703703703704
+7D1C09DA	"Quick fuzzy backpropagation algorithm"	"Neural Networks"	0.388888888889	1.0
+7A430D5C	"Prototypes-Based Horizontal Collaborative Fuzzy Clustering"	"Information not present"	0.398148148148	1.0
+805F1D57	"USING dmFSQL FOR FINANCIAL CLUSTERING"	"International Conference on Enterprise Information Systems"	0.398148148148	0.666666666667
+7B10D8C1	"High-performance implementations of a clustering algorithm for finding network communities"	"Electro/Information Technology"	0.708333333333	0.458994708995
+765A1C65	"A grid clustering algorithm using cluster boundaries"	"Information not present"	0.703703703704	0.683333333333
+78DE0E28	"Classification for Electric Power Companies Based on Fuzzy Clustering Algorithm"	"Information not present"	0.708333333333	0.458333333333
+7EA43960	"A Spatial Clustering Algorithm Based on Spatial Topological Relations for GML Data"	"Artificial Intelligence and Computational Intelligence"	0.708333333333	0.541666666667
+5B99A864	"Mass Distributed Clustering: A New Algorithm for Repeated Measurements in Gene Expression Data"	"Information not present"	0.708333333333	0.373263888889
+7E6F308E	"An Improved V-MDAV Algorithm for l-Diversity"	"Information not present"	0.388888888889	1.0
+7587822F	"Stability of a hierarchical clustering"	"Pattern Recognition"	0.548611111111	0.69696969697
+7FB98300	"An Improved Weighted-Feature Clustering Algorithm for K-anonymity"	"Information not present"	0.703703703704	1.0
+7E8A5163	"Graph-based hierarchical conceptual clustering"	"Journal of Machine Learning Research"	0.548611111111	1.0
+7C890A5C	"Hierarchical Cluster Analysis (HCA) of Microorganisms: An Assessment of Algorithms for Resonance Raman Spectra"	"Applied Spectroscopy"	0.777777777778	0.442911255411
+7910191B	"K-AP Clustering Algorithm for Large Scale Dataset"	"Information not present"	0.703703703704	0.703703703704
+7FA005E2	"A biologically-inspired distributed clustering algorithm"	"Information not present"	0.703703703704	1.0
+7C75B39A	"A k-Means-Based Projected Clustering Algorithm"	"Computational Sciences and Optimization"	0.703703703704	1.0
+80CE21FC	"Energy Efficient Cluster Header Selection Algorithm in WSN"	"Information not present"	0.722222222222	0.478571428571
+844FE88D	"Robust clustering algorithms"	"Information not present"	0.703703703704	1.0
+58743806	"Learning Concept Hierarchies from Text with a Guided Hierarchical Clustering Algorithm"	"Information not present"	0.8125	0.544047619048
+7D07AD11	"The Improvement of Fuzzy Cluster Analysis Algorithm in Data Mining"	"Information not present"	0.708333333333	0.429365079365
+7D8525BF	"A Clustering Algorithm for Gene Expression Data Based on Graph Theory"	"International Conference on Bioinformatics and Biomedical Engineering"	0.722222222222	0.380555555556
+7A9667E1	"An effective ensemble method for hierarchical clustering"	"Computer Science and Software Engineering"	0.550505050505	0.7
+7FEF11EE	"A CSA-based clustering algorithm for large data sets with mixed numeric and categorical values"	"Information not present"	0.708333333333	0.52
+5EC14002	"Diversity Analysis of Information Pattern and Information Clustering Algorithm"	"Information not present"	0.722222222222	0.381519274376
+75E1DA61	"Hypergraph Models and Algorithms for Data-Pattern-Based Clustering"	"Data Mining and Knowledge Discovery"	0.703703703704	0.694444444444
+8058A396	"A Location-Aware-Based Data Clustering algorithm in Wireless Sensor Networks"	"International Conference on Conceptual Structures"	0.708333333333	0.426709401709
+5B6FEEA7	"Energy Efficient Zone Division Multihop Hierarchical Clustering Algorithm for Load Balancing in Wire"	"Food Chemistry"	0.777777777778	0.434523809524
+59658E71	"Potential-Based Hierarchical Clustering"	"International Conference on Pattern Recognition"	0.548611111111	1.0
+76B1A066	"An algorithm for local geoparsing of microtext"	"Geoinformatica"	0.388888888889	1.0
+7F2595F5	"An Improved Algorithm of PRI Transform"	"Information not present"	0.388888888889	1.0
+7D99799C	"Clustering of biomedical scientific papers"	"Information not present"	0.694444444444	1.0
+7D2801D6	"Neural network based clustering algorithm"	"Information not present"	0.708333333333	0.625
+75EF4BFC	"Optimal variable weighting for hierarchical clustering: An alternating least-squares algorithm"	"Journal of Classification"	0.777777777778	0.668181818182
+794B394A	"Expression profiling of 68 glycosyltransferase genes in 27 different human tissues by the systematic multiplex reverse transcription‐polymerase chain reaction method revealed clustering of sexually related tissues in hierarchical clustering algorithm analysis"	"Electrophoresis"	0.78125	0.333713182243
+76F9C678	"Research on Spatially Weighted Fuzzy Dynamic Clustering Algorithm and Spatial Data Mining Visualization"	"Information not present"	0.708333333333	0.395299938157
+7F850E42	"How powerful is your evolutionary algorithm?"	"Forensic Science International-genetics"	0.388888888889	0.666666666667
+7F1704E8	"Efficient parallel algorithms for hierarchical clustering on arrays with reconfigurable optical buses"	"Journal of Parallel and Distributed Computing"	0.78125	0.647619047619
+765D9DBB	"An Improved Semi-Supervised Clustering Algorithm for Multi-Density Datasets with Fewer Constraints"	"Procedia Engineering"	0.703703703704	0.69696969697
+00AD1F82	"Multiobjective optimization of cluster measures in Microarray Cancer data using Genetic Algorithm Based Fuzzy Clustering"	"Information not present"	0.708333333333	0.463341750842
+77341FB1	"A new blockmodeling based hierarchical clustering algorithm for web social networks"	"Engineering Applications of Artificial Intelligence"	0.78125	0.7
+816DEC85	"A hierarchical clustering algorithm with multiple target shapes"	"Information not present"	0.78125	0.647222222222
+7F237D40	"Speculative parallelization of multipath radiosity algorithm"	"Information not present"	0.388888888889	1.0
+7C264F01	"A GA-based clustering algorithm for large data sets with mixed numeric and categorical values"	"Information not present"	0.708333333333	0.52
+7B25D1D3	"Bayesian model-based clustering procedures"	"Journal of Computational and Graphical Statistics"	0.481481481481	0.666666666667
+803A5CED	"A novel quantumized Fuzzy C-medians algorithm"	"Information not present"	0.388888888889	1.0
+7A8F089E	"ART neural network based clustering method produces best quality clusters of fingerprints in comparison to Self Organizing Map and K-Means Clustering Algorithms"	"Information not present"	0.714285714286	0.301613130459
+0261A630	"Hierarchical Clustering in Astrophysical Systems"	"Information not present"	0.548611111111	0.694444444444
+77560214	"Attribute discretization algorithm for data stream based on hierarchical clustering and information entropy"	"Information not present"	0.791666666667	0.495138888889
+7CFC8BAB	"Improving Search Speed on Pointer-Based Large Data Structures Using a Hierarchical Clustering Copying Algorithm"	"Information not present"	0.78125	0.437821067821
+8076008A	"Clustering of symbolic data using the assignment-prototype algorithm"	"International Symposium on Neural Networks"	0.708333333333	0.645833333333
+757A99C7	"A novel clustering algorithm for Unsupervised Relation Extraction"	"International Conference on Digital Information Management"	0.722222222222	0.566666666667
+77C5CDEB	"Dynamic hierarchical algorithms for document clustering"	"Pattern Recognition Letters"	1.0	1.0
+803B4D8D	"Efficient algorithms for accurate hierarchical clustering of huge datasets: tackling the entire protein space"	"Bioinformatics"	0.785714285714	0.565476190476
+7AA8FE8D	"EEHCA: An Energy-Efficient Hierarchical Clustering Algorithm for Wireless Sensor Networks"	"Information Technology Journal"	0.78125	0.551709401709
+786D9804	"Comparing SOM neural network with Fuzzy c -means, K -means and traditional hierarchical clustering algorithms"	"European Journal of Operational Research"	0.78125	0.515367965368
+794819E3	"Agglomerative Mean-Shift Clustering"	"IEEE Transactions on Knowledge and Data Engineering"	0.398148148148	1.0
+7836409E	"A parallel hierarchical clustering algorithm for PCs cluster system"	"Neurocomputing"	0.777777777778	0.690972222222
+7FF01ED6	"CLICKS: an effective algorithm for mining subspace clusters in categorical datasets"	"Knowledge Discovery and Data Mining"	0.708333333333	0.487222222222
+7A2AE3B6	"Parallel algorithms for hierarchical clustering"	"Parallel Computing"	0.777777777778	1.0
+816F961E	"SHC: A Spectral Algorithm for Hierarchical Clustering"	"International Conference on Multimedia Information Networking and Security"	0.777777777778	1.0
+7E4F5FF6	"An Efficient Clustering Algorithm for 2D Multi-density Dataset in Large Database"	"Multimedia and Ubiquitous Engineering"	0.714285714286	0.714285714286
+7A25A7ED	"A hierarchical clustering algorithm for MIMD architecture"	"Computational Biology and Chemistry"	0.777777777778	0.769230769231
+80FC210F	"An adaptive crossover-imaged clustering algorithm"	"Information not present"	0.703703703704	1.0
+03847C18	"An incremental hierarchichal clustering"	"Information not present"	0.398148148148	1.0
+5B61B692	"Social Network Analysis Based on BSP Clustering Algorithm"	"Information not present"	0.708333333333	0.528571428571
+69F0A999	"Improving hierarchical document cluster labels through candidate term selection"	"Intelligent Decision Technologies"	0.785714285714	0.516836734694
+7C932564	"Weighted PageRank algorithm"	"Conference on Communication Networks and Services Research"	0.388888888889	1.0
+80EDAB1C	"Redistricting Using Heuristic-Based Polygonal Clustering"	"International Conference on Data Mining"	0.398148148148	0.666666666667
+5E6ADD3F	"Cov-HGMEM: an improved hierarchical clustering algorithm"	"Asia Information Retrieval Symposium"	0.777777777778	1.0
+773BD297	"A GPU-accelerated Density-Based Clustering Algorithm"	"Cloud Computing"	0.703703703704	1.0
+77EC11F9	"Sparse data for document clustering"	"Information not present"	0.69696969697	0.75
+6E17C648	"An effective algorithm for mining quantitative associations based on subspace clustering"	"International Conference on Networking"	0.708333333333	0.466865079365
+59273F38	"Spatial Clustering for Data Mining with Genetic Algorithms"	"Information not present"	0.708333333333	0.6125
+7F06E75E	"Cooperative Algorithms for Hierarchical Databases"	"Information not present"	0.563492063492	0.714285714286
+05499C79	"Discovering of Frequent Itemsets with CP-mine Algorithm"	"Information not present"	0.388888888889	1.0
+780E5D05	"An agglomerative clustering algorithm using a dynamic k -nearest-neighbor list"	"Information Sciences"	0.708333333333	0.511666666667
+8020F81A	"Selection of Cluster Hierarchy Depth in Hierarchical Clustering Using K-Means Algorithm"	"Information not present"	0.777777777778	0.483482142857
+7DBB0F61	"BiSim: A Simple and Efficient Biclustering Algorithm"	"Soft Computing and Pattern Recognition"	0.388888888889	1.0
+7ECBACE5	"On some hierarchical clustering algorithms using kernel functions"	"Information not present"	0.78125	0.590277777778
+79FA6BCD	"A Multi Density-Based Clustering Algorithm for Data Stream with Noise"	"International Conference on Data Mining"	0.708333333333	0.492222222222
+780D6432	"Multiview spectral clustering via ensemble"	"Granular Computing"	0.398148148148	1.0
+7EAE278B	"A Pose Recovery Algorithm to Minimize the Effects of Pose Variation on the Matching Performance of Elastic Bunch Graph Based Multiview Face Recognition System"	"International Conference on Computing: Theory and Applications"	0.722222222222	0.28164983165
+79D22F6A	"A comparison of the classification capabilities of the 1-dimensional kohonen neural network with two pratitioning and three hierarchical cluster analysis algorithms"	"Psychometrika"	0.78125	0.464037698413
+7776AA5F	"Genetic-guided semi-supervised clustering algorithm with instance-level constraints"	"Genetic and Evolutionary Computation Conference"	0.703703703704	0.69696969697
+79D31CF9	"Modification of Density Based Spatial Clustering Algorithm for Large Database Using Naive's Bayes' Theorem"	"Information not present"	0.714285714286	0.359307359307
+59385DE9	"Scalable frameworks and algorithms for cluster ensembles and clustering data streams"	"Information not present"	0.708333333333	0.389285714286
+719D548D	"Fuzzy hierarchical clustering algorithm facing large databases"	"Information not present"	0.785714285714	0.668571428571
+8163F2C3	"LD-BSCA: A local-density based spatial clustering algorithm"	"Computational Intelligence and Data Mining"	0.703703703704	0.777777777778
+790A69E1	"A Robust High-Capacity Watermarking Algorithm"	"Electro/Information Technology"	0.388888888889	1.0
+7F9EC0FD	"A New Incremental Pairwise Clustering Algorithm"	"International Conference on Machine Learning and Applications"	0.703703703704	1.0
+7A134A41	"Notice of Violation of IEEE Publication Principles Optimizing energy consumption in hierarchical clustering algorithm for wireless sensor networks"	"International Conference on Telecommunications"	0.78125	0.312577166423
+7B3B587E	"Classic: A hierarchical clustering algorithm based on asymmetric similarities"	"Pattern Recognition"	0.777777777778	0.688888888889
+801304DD	"A New Supervised Clustering Algorithm for Data Set with Mixed Attributes"	"Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing"	0.708333333333	0.518181818182
+81AF908F	"NBC: An Efficient Hierarchical Clustering Algorithm for Large Datasets"	"International Journal of Semantic Computing"	0.777777777778	1.0
+7740BED6	"A new clustering algorithm for large datasets"	"Journal of Central South University of Technology"	0.703703703704	1.0
+7EAD8177	"Weak Lensing from Strong Clustering"	"Monthly Notices of the Royal Astronomical Society"	0.398148148148	1.0
+5ED6FCB1	"Polygonal spatial clustering"	"Information not present"	0.398148148148	1.0
+7A47245D	"A Note on Hierarchical Clustering"	"Information not present"	0.548611111111	0.703703703704
+78F95679	"A pipelined data-parallel algorithm for ILP"	"International Conference on Cluster Computing"	0.388888888889	1.0
+7AD87D12	"Interactive Interpretation of Hierarchical Clustering"	"Intelligent Data Analysis"	0.550505050505	0.7
+85E31772	"STICH : a hierarchical clustering algorithm"	"Information not present"	0.777777777778	1.0
+7F78BD8E	"An Image Index Algorithm Based on Hierarchical Clustering"	"Intelligent Information Hiding and Multimedia Signal Processing"	0.777777777778	0.588888888889
+8047C4F1	"A Hash-based Hierarchical Algorithm for Massive Text Clustering"	"Information not present"	0.8125	0.8125
+5D530E3E	"Clustering life trajectories: A new divisive hierarchical clustering algorithm for discrete-valued discrete time series"	"Information not present"	0.777777777778	0.451083638584
+6DD8E536	"A new clustering algorithm"	"Information not present"	0.703703703704	1.0
+7BAEA4F4	"An Efficient Clustering Algorithm for Patterns Placement in Walkthrough System"	"Journal of Intelligent Manufacturing"	0.708333333333	0.463888888889
+77FBE170	"Inter-dimensional fuzzy clustering"	"Information not present"	0.398148148148	1.0
+7D7721C3	"A Communication-Efficient Distributed Clustering Algorithm for Sensor Networks"	"Advanced Information Networking and Applications"	0.708333333333	0.560897435897
+80F95E8E	"Complementary Hierarchical Clustering"	"Biostatistics"	0.548611111111	1.0
+7F5A04A6	"A P2P Overlay Network Routing Algorithm Based on Group-Average Agglomerative Clustering Topology"	"Information not present"	0.708333333333	0.40086996337
+5EC8AFF9	"An Auto-stopped Hierarchical Clustering Algorithm Integrating Outlier Detection Algorithm"	"Web-Age Information Management"	0.777777777778	0.709595959596
+627F7299	"K-Histograms: An Efficient Clustering Algorithm for Categorical Dataset"	"Clinical Orthopaedics and Related Research"	0.703703703704	1.0
+7D397B5F	"Exploratory data mining lead by text mining using a novel high dimensional clustering algorithm"	"International Conference on Machine Learning and Applications"	0.75	0.402083333333
+719A1B14	"A modified clustering algorithm for data mining"	"International Geoscience and Remote Sensing Symposium"	0.708333333333	0.583333333333
+7D8451DF	"HCSF: A hierarchical clustering algorithm based on swarm intelligence and fuzzy logic for ciphertext search"	"Information not present"	0.777777777778	0.531623931624
+7EF3DEE1	"Finding Time-Lagged 3D Clusters"	"International Conference on Data Engineering"	0.398148148148	0.666666666667
+7E374F6D	"Fuzzy Clustering of Transient Evoked OtoAcoustic Emission Signals Using Gustafson Kessel Algorithm"	"International Conference on Bioinformatics and Biomedical Engineering"	0.733333333333	0.431014223871
+843D7B0A	"Visual hierarchical cluster structure"	"Pattern Recognition Letters"	0.548611111111	0.69696969697
+7C060744	"On the Local Optimality of the Fuzzy Isodata Clustering Algorithm"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.703703703704	1.0
+7CEBB3C8	"Automatic Content-Based Image Retrieval Using Hierarchical Clustering Algorithms"	"International Joint Conference on Neural Network"	0.777777777778	0.585042735043
+7D8CF05A	"Novelty-based Incremental Document Clustering for On-line Documents"	"International Conference on Data Engineering"	0.398148148148	0.722222222222
+7E489903	"Fuzzy c-means for Fuzzy Hierarchical Clustering"	"Information not present"	0.548611111111	1.0
