@@ -1,0 +1,870 @@
+81693BC4	"Collaborative querying for enhanced information retrieval"	"Theory and Practice of Digital Libraries"	0.347222222222	0.5625
+78988399	"On personalizing Web search using social network analysis"	"Information Sciences"	0.508333333333	0.515
+0EA69A90	"The Space Physics Archive Search Engine (SPASE) Project for Sun-Earth Connection Data Finding and Retrieval"	"Information not present"	0.497142857143	0.340873015873
+80349827	"Personalized Concept-Based Clustering of Search Engine Queries"	"IEEE Transactions on Knowledge and Data Engineering"	0.504273504274	0.464126984127
+012488F5	"Porqpine: A Distributed and Collaborative Search Engine"	"World Wide Web"	0.334285714286	0.533333333333
+37F70E1D	"Introduction to Information Retrieval: Web search basics"	"Information not present"	0.475	0.47
+7B6EC0C1	"FoSSicker: A personalized search engine by location-awareness"	"Information not present"	0.334285714286	0.533333333333
+7AA498BD	"Nonlinear ranking function representations in genetic programming-based ranking discovery for personalized search"	"Decision Support Systems"	0.508333333333	0.403571428571
+809760C7	"Towards an Effective XML Keyword Search"	"IEEE Transactions on Knowledge and Data Engineering"	0.334285714286	1.0
+8177B826	"A Contextualized and Personalized Approach for Mobile Search"	"Advanced Information Networking and Applications"	0.334285714286	0.583333333333
+7F4D25D8	"Image Query Based Search Engine Using Image Content Retrieval"	"Information not present"	0.525	0.339638447972
+7CD7D36A	"Improving document retrieval using special characteristics of lecture recording documents"	"Information not present"	0.522222222222	0.359081890332
+793F307E	"Towards enhancing retrieval effectiveness of search engines for diacritisized Arabic documents"	"Information Retrieval"	0.515384615385	0.460555555556
+7A315F8A	"Mining user context based on interactive computing for personalized Web search"	"Information not present"	0.511111111111	0.361805555556
+0E96F042	"Síntesis y crítica de las evaluaciones de la efectividad de los motores de búsqueda en la Web. (Synthesis and critical review of evaluations of the effectiveness of Web search engines)"	"Information not present"	0.522222222222	0.365656565657
+7E0775CE	"A task level metric for measuring web search satisfaction and its application on improving relevance estimation"	"Conference on Information and Knowledge Management"	0.516666666667	0.354854096521
+084ED1CA	"Toward Enabling Users to Visually Evaluate the Effectiveness of Different Search Methods"	"Journal of Web Engineering"	0.553333333333	0.451851851852
+7B293DC4	"Semantic search for context-aware learning"	"Information not present"	0.334285714286	0.555555555556
+800B1F12	"Search Engines: Information Retrieval in Practice"	"Information not present"	0.475	0.505
+03AC8271	"Search Like an Expert"	"Information not present"	0.284444444444	0.55
+5FD64BB5	"User preference retrieval using semantic categorization for web search"	"Information not present"	0.525	0.435185185185
+7FA2E455	"ClinicalKey: A Point-of-Care Search Engine"	"Medical Reference Services Quarterly"	0.274285714286	0.533333333333
+5DE77091	"Improving Web Search for Difficult Queries."	"Information not present"	0.500952380952	0.714285714286
+5E2AA6F6	"What can expressive semantics tell: retrieval model for a flash-movie search engine"	"Conference on Image and Video Retrieval"	0.5	0.406818181818
+58FE549E	"The Study of Personalized Search Engine Based on Chinese-English Bilingual Translation"	"Information not present"	0.500952380952	0.42904040404
+5EBE91FB	"An Architecture for Case-Based Personalised Search"	"Information not present"	0.335384615385	0.538461538462
+75A753E0	"The retrieval effectiveness of web search engines: considering results descriptions"	"Journal of Documentation"	0.482142857143	0.407605820106
+7F822FD9	"Multitasking Web search on Alta Vista"	"Information not present"	0.274285714286	0.545454545455
+80E9FFE1	"Visual information retrieval with the SuperTable + Scatterplot"	"Information not present"	0.347222222222	0.5625
+765E2E8E	"Improved user RTSE experience on the web through fast retrieval of social media content"	"Information not present"	0.513888888889	0.405092592593
+5A525187	"Design of personalised search system based on user interest and query structuring"	"Information not present"	0.503333333333	0.396598639456
+7E0E9F55	"A Machine Learning Approach towards Improving Internet Search with a Question-Answering System"	"Information not present"	0.503333333333	0.377655677656
+7DE6F7F8	"On improving local website search using web server traffic logs: a preliminary report"	"Web Information and Data Management"	0.508333333333	0.337740384615
+7979B5DB	"Personalized Query Expansion Based on an Expert System for Mobile Search"	"Information not present"	0.506666666667	0.385884353741
+7CD1F34B	"Alternate Query Construction Agent for Improving Web Search Result Using WordNet"	"Computational Intelligence"	0.513888888889	0.364037698413
+59AC03AE	"The PHASAR search engine"	"Applications of Natural Language to Data Bases"	0.274285714286	0.533333333333
+78E03543	"Exploratory Semantic Video Search with yovisto"	"IEEE Internet Computing"	0.341666666667	0.5625
+800F8DFC	"Personalized Web search with location preferences"	"International Conference on Data Engineering"	0.513888888889	0.559027777778
+80DAA23D	"Global polar geospatial information service retrieval based on search engine and ontology reasoning"	"Information not present"	0.525	0.362847222222
+5931C934	"Squiggle : a Semantic Search Engine for indexing and retrieval of multimedia content"	"International Semantic Web Conference"	0.525	0.365476190476
+7F61F76F	"Personalized search using identity-based hashing"	"Digital Identity Management"	0.500952380952	0.75
+80FE5C9B	"Distributed information retrieval by using cooperative meta search engines"	"International Conference on Distributed Computing Systems"	0.525	0.434722222222
+801B3784	"Analyzing Web Log Files of the Health On the Net HONmedia Search Engine to Define Typical Image Search Tasks for Image Retrieval Evaluation"	"Information not present"	0.522222222222	0.326731601732
+0958DC0A	"Improving User's Web Search Experience by Interactive Re-ranking and Zooming Interfaces"	"Journal of Digital Information Management"	0.506666666667	0.456507936508
+802BB344	"A Community-Based Approach to Personalizing Web Search"	"IEEE Computer"	0.500952380952	0.722222222222
+81312977	"Search Engine Ability to Cope With the Changing Web"	"Information not present"	0.472222222222	0.35462962963
+76D76424	"An immune system approach to personalize search results"	"Intelligent Systems Design and Applications"	0.511666666667	0.4125
+5B2CF3C1	"Search and social integration"	"Web Information Systems Engineering"	0.337606837607	0.6
+76AD2139	"A cooperative classification mechanism for search and retrieval software components"	"Information not present"	0.52	0.423821548822
+807CA9B6	"Improving search results with data mining in a thematic search engine"	"Computers & Operations Research"	0.516666666667	0.488095238095
+594985F5	"Personalizing Information Retrieval with Multi-agent Systems"	"Cooperative Information Agents"	0.513888888889	0.552083333333
+7E29994A	"Improve Search by Optimization or Personalization, A Case Study in Sogou Log"	"International Conference on Asian Language Processing"	0.504273504274	0.423611111111
+862337B4	"The Future of Web Search"	"Information not present"	0.3	0.583333333333
+5DF61D56	"Output-Sensitive autocompletion search"	"String Processing and Information Retrieval"	0.274285714286	1.0
+78C0D70B	"Web-scale entity-relation search architecture"	"World Wide Web"	0.275384615385	0.538461538462
+06975FFE	"Real Life Information Retrieval: Commercial Search Engines (Panel)"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.528571428571	0.402976190476
+5F455356	"Personalized Search Results with User Interest Hierarchies Learnt from Bookmarks"	"Knowledge Discovery and Data Mining"	0.511666666667	0.379761904762
+79C6FB51	"Personal assistant to improve CSCW"	"Computer Supported Cooperative Work in Design"	0.319696969697	0.545454545455
+5F40D59F	"User-intent custom adaptive search service based on ontology and similar-word retrieval algorithm composition"	"Information not present"	0.522222222222	0.396527777778
+76C36D4A	"Dominant user context (DUC) filtering framework for web personalized search"	"Information not present"	0.506666666667	0.458181818182
+7FDE2317	"Tagging and searching: Search retrieval effectiveness of folksonomies on the World Wide Web"	"Information Processing and Management"	0.7	0.516955266955
+83375DBD	"Personalized Search Engine for Efficient Service Discovery"	"Information not present"	0.504273504274	0.513333333333
+7713A5ED	"Self-supervised web search for any-k complete tuples"	"Information not present"	0.344444444444	0.555555555556
+026364DE	"Semantic Search with GoPubMed"	"Information not present"	0.334285714286	1.0
+77894029	"A semantic-based summarizing tool for improving the usability of general purpose search engines"	"Information not present"	0.522051282051	0.409116809117
+5D1A2FAD	"Keyword Search in Social Networks"	"Information not present"	0.341666666667	0.5625
+7CEB2F21	"Web search with personalization and knowledge"	"International Symposium on Multimedia"	0.303896103896	0.583333333333
+0064159E	"The Zettair Search Engine"	"Information not present"	0.274285714286	0.533333333333
+1219BC3E	"Improving Performance of Search Engine By Using WordNet-based Collaborative Evaluation and Hyperlink"	"The Kips Transactions:partb"	0.500952380952	0.390920983778
+7EF003A7	"Internet-Scale Code Search"	"Information not present"	0.291666666667	0.5625
+7C732873	"An Intelligent Search Engine Assessing Learning Material to Improve Learning Procedures"	"Information Technology Based Higher Education and Training"	0.508888888889	0.379861111111
+79ADFC87	"Applying Semantic Web technologies to improve the retrieval, credibility and use of health-related web resources."	"Health Informatics Journal"	0.583333333333	0.406944444444
+7BA19A79	"Content-based classification, search, and retrieval of audio"	"IEEE MultiMedia"	0.475	0.59375
+83D2BB58	"A Multi-Agent Based Personalized Search Engine with Topical Crawling Capabilities"	"Information not present"	0.522051282051	0.440277777778
+7E7AD007	"RDF Xpress: a flexible expressive RDF search engine"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.334285714286	0.533333333333
+7D6C90C2	"Search Engines Information Retrieval in Practice"	"Journal of the Association for Information Science and Technology"	0.475	0.505
+7D65F3AD	"Finding OERs with Social-Semantic search"	"Information not present"	0.334285714286	0.625
+047EC8DB	"PlanetP: Using Gossiping and Random Replication to Support Reliable Peer-to-Peer Content Search and Retrieval"	"Information not present"	0.525	0.416666666667
+5BDBC275	"SPIRIX: A Peer-to-Peer Search Engine for XML-Retrieval"	"Information not present"	0.274285714286	0.533333333333
+7F2B1B9B	"The research of personalized search engine based on users' access interest"	"Pacific-Asia Workshop on Computational Intelligence and Industrial Application"	0.506666666667	0.35
+7F3F0AE2	"The effectiveness of web search engines for retrieving relevant ecommerce links"	"Information Processing and Management"	0.515384615385	0.467619047619
+5C3DD21F	"Interactive Search Results"	"Theory and Practice of Digital Libraries"	0.345	0.5625
+076FCC3C	"MINERVAinfinity: A Scalable Efficient Peer-to-Peer Search Engine"	"Information not present"	0.334285714286	0.533333333333
+78163739	"Children's web search with Google: the effectiveness of natural language queries"	"Information not present"	0.522222222222	0.365594722738
+803E7AB6	"Personalized event-based news video retrieval with dynamic user-log"	"International Conference on Multimedia and Expo"	0.513888888889	0.559027777778
+7FFAFD6A	"Monolingual, bilingual, and GIRT information retrieval at CLEF-2005"	"Cross-Language Evaluation Forum"	0.347222222222	0.5625
+7D139314	"Domain-specific search strategies for the effective retrieval of healthcare and shopping information"	"Human Factors in Computing Systems"	0.525	0.423484848485
+80C3C1F3	"Full-Subtopic Retrieval with Keyphrase-Based Search Results Clustering"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.477142857143	0.566964285714
+761C84A9	"Beyond web search services"	"IEEE Internet Computing"	0.274285714286	0.6
+7A4B6A81	"An iterative framework for EEG-based image search: robust retrieval with weak classifiers."	"PLOS ONE"	0.52	0.457070707071
+7CB0165F	"A crawling and ranking method for improving context-awareness in mobile web search"	"Mobile and Ubiquitous Multimedia"	0.511111111111	0.469444444444
+7979187A	"Web-based geographic search engine for location-aware search in Singapore"	"Expert Systems With Applications"	0.334285714286	0.532291666667
+7EB6EF46	"ImageScour: a specialized search engine"	"Systems, Man and Cybernetics"	0.334285714286	0.533333333333
+7C10CAEF	"Improving the search experience: federated search and the library gateway"	"Library Hi Tech"	0.500952380952	0.551256613757
+7FE096D8	"Efficient Hardware Search Engine for Associative Content Retrieval of Long Queries in Huge Multimedia Databases"	"International Conference on Multimedia and Expo"	0.525	0.336153083028
+7AB4B174	"Knowledge retrieval using hybrid semantic web search"	"Information not present"	0.528571428571	0.505555555556
+756D12AD	"An Approach to Improve Precision and Recall for Ad-hoc Information Retrieval Using SBIR Algorithm"	"Information not present"	0.54	0.384375
+78CADD07	"Personalized search based on micro-blogging social networks"	"Information not present"	0.508333333333	0.59375
+7804C668	"Improving Online Clinical Trial Search Efficiency Using Natural Language Processing and Biomedical Ontology Mapping Approach"	"Information not present"	0.535238095238	0.335674603175
+7CA80FA1	"Onto-search: An ontology based personalized mobile search engine"	"Information not present"	0.500952380952	0.485555555556
+5FDEAFE6	"In search of search privacy"	"Trust and Privacy in Digital Business"	0.274285714286	0.7
+7ACF7F64	"Personalized search engine based on granular computing"	"Granular Computing"	0.500952380952	0.481515151515
+7DF34667	"The anatomy of an ad: structured indexing and retrieval for sponsored search"	"World Wide Web"	0.479365079365	0.377947845805
+5C115993	"Search for Knowledge"	"Information not present"	0.303896103896	0.583333333333
+795E978D	"Query term disambiguation for Web cross-language information retrieval using a search engine"	"Information not present"	0.525	0.375
+7BA6D46F	"Search: the next generation [search engines]"	"Engineering & Technology"	0.341666666667	0.547916666667
+79602156	"Human-Controlled Vs. Semi-automatic Content-Based Image Retrieval"	"Information not present"	0.282222222222	0.555555555556
+698CD8D6	"Improving Search and Navigation by Combining Ontologies and Social Tags"	"Information not present"	0.500952380952	0.43367003367
+76F14E49	"Fine-Grained Image Search"	"IEEE Transactions on Multimedia"	0.334285714286	0.555555555556
+7A0726D3	"Personalized ontology for web search personalization"	"Bangalore Annual Compute Conference"	0.334285714286	0.555555555556
+79B2D118	"Efficient k-word proximity search"	"International Symposium on Computer and Information Sciences"	0.334285714286	0.541666666667
+7EF8DCE8	"Chinese Keyword Search over Relational Databases"	"Information not present"	0.337606837607	0.555555555556
+7F86194B	"Improved social trustability of code search results"	"International Conference on Software Engineering"	0.516666666667	0.5625
+5C3B840C	"Intelligent Search on the Internet"	"Information not present"	0.334285714286	0.533333333333
+7672C7FE	"Interest-based personalized search"	"ACM Transactions on Information Systems"	0.500952380952	1.0
+598AE889	"Ontology-based personalized search and browsing"	"Web Intelligence and Agent Systems: An International Journal"	0.500952380952	0.69696969697
+76DB1B25	"Novel Search Engine: Combination of Link and Popularity Rank for Multimedia Retrieval"	"International Conference on Innovative Computing, Information and Control"	0.55	0.352430555556
+07AB6CCC	"Online Health Search 2006"	"Information not present"	0.334285714286	0.545454545455
+7D493421	"Search Engine Advertising Effectiveness in a Multimedia Campaign"	"International Journal of Electronic Commerce"	0.459829059829	0.411574074074
+80AF3069	"Thesaurus-based 3D Object Retrieval with Part-in-Whole Matching"	"International Journal of Computer Vision"	0.266033966034	1.0
+7573BC0C	"SEARCH ENGINES ON THE WORLD WIDE WEB AND INFORMATION RETRIEVAL FROM THE INTERNET: A REVIEW AND EVALUATION"	"Online Information Review"	0.525	0.305695847363
+762F5235	"New Web Tools to Improve PubMed Searches for the Biomedical Community"	"Drug Information Journal"	0.511111111111	0.459829059829
+595640C9	"Combining the Power of Query Languages and Search Engines for On-line Document and Information Retrieval : The QIRi@D Environment"	"International Conference on Electronic Publishing"	0.6	0.318434343434
+805F59C8	"On improving wikipedia search using article quality"	"Web Information and Data Management"	0.551515151515	0.534848484848
+7F6AA3F4	"Toward two-dimensional search engines"	"Journal of Physics A"	0.334285714286	0.533333333333
+813753E9	"An Investigation of Cybercrime-Related Online Search Behavior vs General Search Behavior"	"Information not present"	0.334285714286	0.55
+759C853B	"Improving Search Quality of an XML Context-Driven Search Engine by Relabling of Canonical Trees"	"Computational Intelligence"	0.551515151515	0.577777777778
+7F3D2E5C	"Collaborative Web Search with WikiLinks"	"International Conference on Information Technology: New Generations"	0.344444444444	0.555555555556
+5CBB2CEF	"Application of learned user context to improve web search results"	"Journal of Computing Sciences in Colleges"	0.513888888889	0.367013888889
+760127F2	"Using clustering technology to improve XML semantic search"	"International Conference on Machine Learning and Cybernetics"	0.500952380952	0.518571428571
+5C7441FA	"Improving Display of Search Results in Information Retrieval Systems - Users' Study"	"Information not present"	0.691666666667	0.412345679012
+1769D119	"UPRISE : Unified Presentation Slide Retrieval by Impression Search Engine( Information Processing Technology for Web Utilization)"	"Ieice Transactions"	0.525	0.336303418803
+819BF817	"Auctioning Keywords in Online Search"	"Information not present"	0.334285714286	0.571428571429
+2F836363	"Search Advertising Alexandre"	"Information not present"	0.282051282051	0.555555555556
+8111C4FF	"One Search Engine or Two for Question-Answering"	"Information not present"	0.274285714286	0.533333333333
+7FE6FCE0	"Improving Recall and Precision of a Personalized Semantic Search Engine for E-learning"	"International Conference on the Digital Society"	0.514285714286	0.48
+7ED3A320	"Inferring and using location metadata to personalize web search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.511111111111	0.494444444444
+7F603933	"Expression of user personalized search behavior based on keyword query series and Bayesian Network"	"International Conference on Communications"	0.516666666667	0.391121031746
+58780BAF	"User Model for Conceptual and Personalized Search"	"Computer Recognition Systems"	0.334285714286	0.545454545455
+77EF934F	"In Search of Harmony: A Constraint-Based Approach to the Task of Harmony Retrieval"	"Journal of New Music Research"	0.473333333333	0.458333333333
+8080E4F7	"Effectiveness of cooperative resource collecting robots for Web search engines"	"Information not present"	0.515384615385	0.398677248677
+7D5E70B6	"Search on the Semantic Web"	"IEEE Computer"	0.344444444444	0.555555555556
+81688325	"Content-Based Analysis Improves Audiovisual Archive Retrieval"	"IEEE Transactions on Multimedia"	0.523333333333	0.733333333333
+5B7E9137	"Peer-to-Peer Information Search: Semantic, Social, or Spiritual?"	"IEEE Data(base) Engineering Bulletin"	0.341666666667	0.5625
+79420162	"Towards Improving Meta-Search through Exploiting an Integrated Search Model"	"Journal of Information & Knowledge Management"	0.500952380952	0.498181818182
+806D9C68	"MAAY: a decentralized personalized search system"	"Symposium on Applications and the Internet"	0.503333333333	0.604166666667
+7A7734B7	"Approximate distributed metric-space search"	"Information not present"	0.300952380952	0.583333333333
+140403B5	"Web Information Retrieval"	"International Conference on Data Engineering"	0.297222222222	0.5625
+7CBBC064	"Improving the Ranking Capability of the Hyperlink Based Search Engines Using Heuristic Approach"	"Journal of Computer Science"	0.522051282051	0.376282051282
+7F871FA0	"A two‐step database search method improves sensitivity in peptide sequence matches for metaproteomics and proteogenomics studies"	"Proteomics"	0.504273504274	0.33253968254
+00B17298	"A categorised search of the CTAN"	"Information not present"	0.334285714286	1.0
+75E6DBFB	"Rank-preserving two-level caching for scalable search engines"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.334285714286	0.533333333333
+7EB535A0	"Web Information Retrieval Support Systems: The Future of Web Search"	"Web Intelligence"	0.483333333333	0.451388888889
+7BDD7D97	"Dual-ranking for web image retrieval"	"Conference on Image and Video Retrieval"	0.282222222222	0.555555555556
+59CE7EA6	"Towards Semantic Search"	"Applications of Natural Language to Data Bases"	0.334285714286	1.0
+7A7DB7F3	"Personalized adaptive media interfaces for multimedia search"	"Computational Aspects of Social Networks"	0.503333333333	0.464285714286
+7F63860A	"A massively parallel RC4 key search engine"	"Field-Programmable Custom Computing Machines"	0.334285714286	0.533333333333
+7B82D34B	"Efficient multi-keyword search over p2p web"	"World Wide Web"	0.344444444444	0.555555555556
+7A7F7B01	"An ontology-based semantic retrieval model for Uyghur search engine"	"Secure Web Services"	0.52	0.539393939394
+7928820F	"Circular Reranking for Visual Search"	"IEEE Transactions on Image Processing"	0.334285714286	1.0
+5BE54BAB	"Location-based Web Search"	"Information not present"	0.301587301587	0.555555555556
+7864F473	"The Search for Interoperability"	"IEEE MultiMedia"	0.299829059829	0.6
+7EE419B7	"Using BM25F for semantic search"	"Information not present"	0.334285714286	0.625
+5FC37564	"(Sync|Async) + MPI Search Engines"	"Information not present"	0.274285714286	0.533333333333
+041F8B20	"Web Information Retrieval Using Search & Search Engine Selection for QUT"	"Information not present"	0.525	0.520238095238
+80F442BC	"XCDSearch: An XML Context-Driven Search Engine"	"IEEE Transactions on Knowledge and Data Engineering"	0.274285714286	0.533333333333
+1CEB55C4	"LibGuides. Search!. Home."	"Information not present"	0.274285714286	0.535714285714
+773358C6	"The JAOA: Growing, Changing, Improving"	"The Journal of the American Osteopathic Association"	0.363181818182	0.541666666667
+80BE578A	"Improving the Effectiveness of XML Retrieval with User Navigation Models"	"International Conference on Data Engineering"	0.706666666667	0.658181818182
+77F70B2B	"Geographic features in web search retrieval"	"Geographic Information Retrieval"	0.52	0.69696969697
+7EE10ABC	"Exploiting multi-evidence from multiple user’s interests to personalizing information retrieval"	"International Conference on Digital Information Management"	0.513888888889	0.485
+7F6257E8	"Improved techniques for result caching in web search engines"	"World Wide Web"	0.511666666667	0.458333333333
+5899EC09	"Improving the Ranking Capability of the Hyperlink Based Search Engines using Heuristic Approach"	"Information not present"	0.522051282051	0.376282051282
+5B2EE50B	"A new approach for improving field association term dictionary using passage retrieval"	"Information not present"	0.522222222222	0.355944749695
+7FDC3431	"Improving the Performance of Web Search Using Users' Bookmarks"	"Information not present"	0.506666666667	0.429365079365
+7792FDA1	"An investigation of user attitudes toward search engines as an information retrieval tool"	"Computers in Human Behavior"	0.475	0.356397174254
+77A522FB	"Fulltext retrieval system on the personalcomputer"	"Journal of Information Processing and Management"	0.272051282051	0.541666666667
+5CE23D33	"Multimedia Search with Noisy Modalities: Fusion and Multistage Retrieval"	"Cross-Language Evaluation Forum"	0.525	0.424272486772
+7B0ACCDE	"Multimodal medical image retrieval: image categorization to improve search precision"	"Multimedia Information Retrieval"	0.7	0.501984126984
+7FEBCDC1	"Metasearch Engines and Information Retrieval: Computational Complexity of Ranking Multiple Search Results"	"International Conference on Information Technology: New Generations"	0.55	0.395238095238
+808472EA	"Autotagging to improve text search for 3d models"	"ACM/IEEE Joint Conference on Digital Libraries"	0.500952380952	0.547727272727
+77AEC8E8	"An integration framework for search engine architecture to improve information retrieval quality"	"Information not present"	0.733333333333	0.432536907537
+774ED892	"On the effectiveness of anonymizing networks for web search privacy"	"Computer and Communications Security"	0.466666666667	0.55625
+8631837C	"LibGuides. KAHS Subject Guides. Search!."	"Information not present"	0.334285714286	0.535714285714
+7790B876	"Souped-up search engines"	"Nature"	0.274285714286	0.533333333333
+7F4D7E4B	"Semantic Search in Tabular Structures"	"Informatica (slovenia)"	0.338181818182	0.545454545455
+7DD0330E	"Image segmentation search engine applied to a distributed archiving architecture for content retrieval system to educational products"	"Information not present"	0.525	0.279467754468
+7A508772	"Friends, romans, countrymen: lend me your URLs. using social chatter to personalize web search"	"Computer Supported Cooperative Work"	0.506666666667	0.336026936027
+62BDA97E	"Use link-based clustering to improve Web search results"	"Web Information Systems Engineering"	0.513888888889	0.469444444444
+80182BC0	"Efficient and effective similar shape retrieval"	"International Conference on Multimedia Computing and Systems"	0.348571428571	0.571428571429
+7F9C52AF	"Exploiting Semantic Query Context to Improve Search Ranking"	"IEEE Internet Computing"	0.505952380952	0.427976190476
+7F3C45EB	"Meta-tag propagation by co-training an ensemble classifier for improving image search relevance"	"Computer Vision and Pattern Recognition"	0.508333333333	0.410383597884
+7F924230	"Does topic metadata help with Web search?"	"Journal of the Association for Information Science and Technology"	0.334285714286	0.527777777778
+765EE1EA	"Context-aware and voice interactive search"	"Soft Computing and Pattern Recognition"	0.339285714286	0.5625
+7AD9BC14	"Effective and efficient structured retrieval"	"Conference on Information and Knowledge Management"	0.32967032967	0.5625
+2C86FA7C	"Slovak Search Engines"	"Slavic & East European Information Resources"	0.274285714286	0.533333333333
+5FBFF72A	"Detecting Session Boundaries to Personalize Search Using a Conceptual User Context"	"World Congress on Engineering"	0.506666666667	0.348863636364
+7B797EEC	"The DAP as a filestore search engine"	"Parallel Computing"	0.274285714286	0.533333333333
+7EFC2A6A	"A parallel accelerator for semantic search"	"Symposium on Application Specific Processors"	0.334285714286	0.53125
+7FC387B6	"Practical online retrieval evaluation"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.36	0.6
+5A7A444E	"Precision and Recall of Five Search Engines for Retrieval of Scholarly Information in the Field of Biotechnology"	"Information not present"	0.533333333333	0.333573717949
+85DCE3C5	"Improving web search user query relevance using content based page rank"	"Information not present"	0.511666666667	0.316978021978
+0501CAE5	"A Collaborative, Semantic and Context Aware Search Engine"	"International Conference on Enterprise Information Systems"	0.334285714286	0.533333333333
+0E12B397	"Bing launches improved Auto-suggest attached to your personal search history | Gear Live"	"Information not present"	0.510622710623	0.379605175403
+019409FC	"Study of Indexing Techniques to Improve the Performance of Information Retrieval in Telugu Language"	"Information not present"	0.528571428571	0.347172619048
+7E0E3B81	"A community-aware search engine"	"World Wide Web"	0.274285714286	0.533333333333
+7BA90B1A	"Using an interactive interface to support Web search for improving user experience"	"Information not present"	0.500952380952	0.44708994709
+789B023A	"Incorporating Domain Knowledge and Information Retrieval Techniques to Develop an Architectural/Engineering/Construction Online Product Search Engine"	"Journal of Computing in Civil Engineering"	0.508571428571	0.306666666667
+7836C54E	"SMS-based contextual web search"	"ACM Special Interest Group on Data Communication"	0.344444444444	0.555555555556
+7CCF9814	"Improving web search on small screen devices"	"Interacting with Computers"	0.503333333333	0.548611111111
+14D21841	"(Meta)Search like Google."	"Library Journal"	0.274285714286	0.535714285714
+1247C2D8	"Liverpool's Discovery: A University Library Applies a New Search Tool to Improve the User Experience."	"Library Journal"	0.508888888889	0.30474969475
+781E9906	"Personalized semantic search agent interaction mode research"	"Information not present"	0.511111111111	0.502222222222
+76244FC6	"Query-Adaptive Fusion for Multimodal Search"	"Proceedings of the IEEE"	0.274285714286	0.571428571429
+7DD8D8BE	"CubeSVD: a novel approach to personalized Web search"	"World Wide Web"	0.500952380952	0.722222222222
+76223DB3	"SOCIAL SEARCH ENGINES"	"International Journal of Bifurcation and Chaos"	0.334285714286	0.533333333333
+7E479EDA	"Adverse Selection in Online Search"	"Database and Expert Systems Applications"	0.334285714286	0.6
+7CD1112C	"Using Browsing to Improve Content-Based Image Retrieval"	"Journal of Visual Communication and Image Representation"	0.508888888889	0.512222222222
+7AD69487	"Modeling user's preference in folksonomy for personalized search"	"Information not present"	0.511666666667	0.473571428571
+7FBF01D6	"Hierarchical structural approach to improving the browsability of Web search engine results"	"Database and Expert Systems Applications"	0.511666666667	0.471666666667
+63913EDD	"Synonym search in Wikipedia: Synarcher"	"Clinical Orthopaedics and Related Research"	0.274285714286	1.0
+7ED8F0F4	"Developing search strategies for clinical practice guidelines in SUMSearch and Google Scholar and assessing their retrieval performance"	"BMC Medical Research Methodology"	0.52	0.31961038961
+77EEBBD4	"Optimizing visual search with implicit user feedback in interactive video retrieval"	"Conference on Image and Video Retrieval"	0.541666666667	0.516666666667
+814BB8CD	"Personalized Web search for improving retrieval effectiveness"	"IEEE Transactions on Knowledge and Data Engineering"	1.0	1.0
+7C492C7A	"Chemical-Text Hybrid Search Engines"	"Journal of Chemical Information and Modeling"	0.334285714286	0.533333333333
+7A46FB3D	"On Web Search: Some Activities and Challenges"	"The Journal of Object Technology"	0.2884004884	0.547619047619
+81670E84	"Understanding Consumer Search Activity and Online Purchase Intensions for Improving the Product Recommendation Search"	"Information not present"	0.507070707071	0.430202020202
+7D14C9DB	"Content-based audio classification and retrieval using a fuzzy logic system: towards multimedia search engines"	"Soft Computing"	0.52	0.390476190476
+7D55EB4B	"Knowledge-based search for oncological literature"	"Computer-Based Medical Systems"	0.337606837607	0.555555555556
+7E3BEB61	"Multi-language Ontology-Based Search Engine"	"Advances in Computer-Human Interaction"	0.274285714286	0.533333333333
+05E28997	"Evaluating wordnets in Cross-Language Information Retrieval: the ITEM search engine"	"Information not present"	0.491666666667	0.366666666667
+096D87B3	"Improving Retrieval by a Similarity Thesaurus based on Hyperlink Structure"	"Information not present"	0.526666666667	0.381912531913
+80F4E2C0	"The retrieval of highly scattered facts and architectural images: Strategies for search and design"	"Automation in Construction"	0.522222222222	0.42117003367
+7542CF7B	"Search Computing: Managing Complex Search Queries"	"IEEE Internet Computing"	0.334285714286	0.558441558442
+791E179B	"BloomCast: Efficient and Effective Full-Text Retrieval in Unstructured P2P Networks"	"IEEE Transactions on Parallel and Distributed Systems"	0.347222222222	0.5625
+5BDAF2C3	"In search of quality in crowdsourcing for search engine evaluation"	"European Conference on Information Retrieval"	0.341991341991	0.52
+58AD139E	"Adversarial Information Retrieval Aspects of Sponsored Search"	"Adversarial Information Retrieval on the Web"	0.482142857143	0.470238095238
+7F856B50	"Context-aware ranking in web search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.279285714286	0.5625
+030ECFD1	"Facebook Graph Search: The Next Big Search Engine?"	"Information not present"	0.341666666667	0.547916666667
+5C0E4DBB	"Search tools for Internet2"	"Information not present"	0.275384615385	0.538461538462
+062D5835	"Faceted Wikipedia Search"	"Business Information Systems"	0.274285714286	1.0
+5C4AFEFD	"Towards a Next-Generation Search Engine"	"Pacific Rim International Conference on Artificial Intelligence"	0.274285714286	0.533333333333
+7BC9C53A	"Serefind: a crowd-powered search engine"	"Conference on Computer Supported Cooperative Work"	0.274285714286	0.533333333333
+7EBD9BA4	"Improving conceptual search results reorganization using term-concept mappings retrieved from Wikipedia"	"Information not present"	0.516666666667	0.401587301587
+0A6D1ED0	"Improving the search on the Internet by using WordNet and lexical operators"	"IEEE Internet Computing"	0.504273504274	0.418518518519
+7F5C47D7	"Toward perception-based image retrieval"	"Information not present"	0.282222222222	0.555555555556
+79C66173	"A search engine for the global PKI"	"Journal of Internet Services and Applications"	0.334285714286	0.533333333333
+4C2CDE42	"Using Text Elements by Context to Display Search Results in Information Retrieval Systems"	"Information not present"	0.525	0.32962962963
+6957FD9A	"Dictionary-based Amharic-French Information Retrieval"	"Cross-Language Evaluation Forum"	0.297222222222	0.5625
+807777B3	"Concordance-Based Entity-Oriented Search"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.274285714286	1.0
+80EC9212	"3PFDB+: improved search protocol and update for the identification of representatives of protein sequence domain families."	"Database"	0.508333333333	0.308333333333
+7BAE5B91	"Ontology-based search for interactive digital maps"	"IEEE Intelligent Systems"	0.335384615385	0.538461538462
+5C360524	"Approximate Top-k Retrieval from Hidden Relations"	"Clinical Orthopaedics and Related Research"	0.347222222222	0.5625
+7CC309BF	"Dynamic test collections: measuring search effectiveness on the live web"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.522222222222	0.421815221815
+7B42FA21	"An effective video search re-ranking for content based video retrieval"	"Information not present"	0.525	0.4375
+7E46D837	"Bubblestorm: resilient, probabilistic, and exhaustive peer-to-peer search"	"Computer Communication Review"	0.334285714286	1.0
+5A818157	"Can Cognitive Biases during Consumer Health Information Searches Be Reduced to Improve Decision Making?"	"Journal of the American Medical Informatics Association"	0.509848484848	0.327348484848
+7BD38946	"Community Aware Personalized Web Search"	"Advances in Social Networks Analysis and Mining"	0.511111111111	0.555555555556
+7FF8BD9E	"Content-aware Ranking for visual search"	"Computer Vision and Pattern Recognition"	0.339285714286	0.5625
+7E79A678	"FlashFind: Responsive search in large datasets on mobile devices"	"Information not present"	0.334285714286	0.555555555556
+5C2781F3	"Information Retrieval Effectiveness of Turkish Search Engines"	"Information not present"	0.7	0.638333333333
+79E0A396	"The Semantic Search Based on UIMA"	"International Conference on Bioinformatics and Biomedical Engineering"	0.334285714286	0.625
+055F1382	"Query operators shown beneficial for improving search results"	"Theory and Practice of Digital Libraries"	0.513888888889	0.429828042328
+78B2D006	"Exploiting code search engines to improve programmer productivity"	"Conference on Object-Oriented Programming Systems, Languages, and Applications"	0.524848484848	0.383225108225
+76E0EF4A	"Improving Watchlist Screening By Combining Evidence From Multiple Search Algorithms"	"Information not present"	0.508333333333	0.441666666667
+8076342D	"Tree-Based Microaggregation for the Anonymization of Search Logs"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.275384615385	0.541666666667
+76223E38	"iLike: integrating visual and textual features for vertical search"	"ACM Multimedia"	0.334285714286	0.545454545455
+5EAC40DC	"A Domain-Based Intelligent Search Engine"	"International Conference on Intelligent Computing"	0.334285714286	0.533333333333
+787CC6D6	"Using a cross-language information retrieval approach to improve Computer-Aided Translation performance"	"Intelligent Systems Design and Applications"	0.525	0.396490414348
+7A1AC912	"An Event-Triggered Model for Disaster Retrieval via Meta Search Interface"	"Information not present"	0.46	0.452467532468
+7D494CDB	"Structural feedback for keyword-based XML retrieval"	"European Conference on Information Retrieval"	0.338181818182	0.5625
+7F55A4EB	"Web searching, search engines and Information Retrieval"	"Information not present"	0.482142857143	0.460555555556
+76CBD8AE	"Improved depth first algorithm and its application in information retrieval"	"Information not present"	0.541666666667	0.5
+6B5D86D8	"Fast and effective focused retrieval"	"Information not present"	0.32967032967	0.6
+7D7555AC	"Improving Web search using image snippets"	"ACM Transactions on Internet Technology"	0.504848484848	0.490404040404
+78F959D0	"Igwana: a text-free search interface"	"Australasian Computer-Human Interaction Conference"	0.274285714286	0.535714285714
+80BC3364	"Improving Information Retrieval Precision by Finding Related Queries with Similar Information Need Using Information Scent"	"Information not present"	0.528571428571	0.310064935065
+03AE72E1	"Finding information on the WWW: the retrieval effectiveness of search engines"	"Information Processing and Management"	0.7	0.50119047619
+7C906EFB	"A TeXQuery-based XML full-text search engine"	"International Conference on Management of Data"	0.274285714286	0.533333333333
+75A1DF8C	"Performance comparison of various information retrieval models used in search engines"	"Information not present"	0.525	0.355262445887
+811EA444	"Collaborative information retrieval in tourism: a study of user search behaviour, user interface and information retrieval performance"	"Information Interaction in Context"	0.528571428571	0.389880952381
+0EFABA50	"Grooker, KartOO, Addict-o-Matic and More: Really Different Search Engines."	"Information not present"	0.334285714286	0.533333333333
+071904DB	"Relational Web Search"	"World Wide Web"	0.344444444444	0.555555555556
+7510D861	"Finding information on the World Wide Web: the retrieval effectiveness of search engines"	"Information Processing and Management"	0.7	0.455460858586
+5F3F7154	"An effective and efficient approach for keyword-based XML retrieval"	"Web-Age Information Management"	0.348717948718	0.583333333333
+81505CFC	"How to Improve Your Search Engine Ranking: Myths and Reality"	"ACM Transactions on The Web"	0.505952380952	0.397685185185
+7DAD4E2E	"Privacy-enhancing personalized web search"	"World Wide Web"	0.344444444444	0.555555555556
+5F96D81B	"Structural features in XML retrieval"	"Information not present"	0.334848484848	0.545454545455
+7E350843	"Enhanced Trustworthy and High-Quality Information Retrieval System for Web Search Engines"	"Clinical Orthopaedics and Related Research"	0.525	0.4
+789B3005	"Identifying and improving retrieval for procedural questions"	"Information Processing and Management"	0.511904761905	0.714285714286
+013FB430	"The Optimal Monotonization for Search Queries in Cooperative Search Engine"	"Information not present"	0.334285714286	0.552380952381
+7F30032A	"Using Query Word Senses and User Feedback to Improve Precision of Search Engine"	"Journal of The Korean Society for Information Management"	0.525	0.328134519801
+5C7467D9	"Improving Re-ranking of Search Results Using Collaborative Filtering"	"Asia Information Retrieval Symposium"	0.511666666667	0.59375
+768496DA	"Leveraging crowdsourcing heuristics to improve search in Wikipedia"	"Information not present"	0.500952380952	0.577777777778
+7ECB3ABA	"DART: the distributed agent-based retrieval toolkit"	"Information not present"	0.32967032967	0.53125
+7B55EA6D	"An elaborated model of social search"	"Information Processing and Management"	0.334285714286	0.545454545455
+80920187	"Enhancing Search Engine Quality Using Concept-based Text Retrieval"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.566666666667	0.410714285714
+78F7127A	"An IDE-based context-aware meta search engine"	"Working Conference on Reverse Engineering"	0.274285714286	0.533333333333
+8156C7BB	"Semantic keyword search for expert witness discovery"	"Information not present"	0.337606837607	0.625
+7FC7C4D0	"WebRat: supporting agile knowledge retrieval through dynamic, incremental clustering and automatic labelling of Web search result sets"	"Workshops on Enabling Technologies: Infrastracture for Collaborative Enterprises"	0.528571428571	0.396825396825
+7DF05E13	"Multimedia search: ready or not?"	"IEEE Distributed Systems Online"	0.334285714286	1.0
+7E7C5763	"Using Cross-Language Information Retrieval Methods for Bilingual Search of the Web"	"Computational Intelligence for Modelling, Control and Automation"	0.525	0.43287037037
+7F06C2FB	"The Geographical Life of Search"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.343956043956	0.571428571429
+7BCB81E1	"Search behind the scenes"	"Information not present"	0.276666666667	0.541666666667
+7ACF3BD5	"Personalized Search Based on a User-Centered Recommender Engine"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.500952380952	0.579166666667
+7F2BF256	"Annodex: a simple architecture to enable hyperlinking, search & retrieval of time--continuous data on the Web"	"Multimedia Information Retrieval"	0.558333333333	0.398460666318
+7CC669EF	"Using a new relational concept to improve the clustering performance of search engines"	"Information Processing and Management"	0.500952380952	0.387641723356
+7FD1435C	"From exploratory search to web search and back"	"Conference on Information and Knowledge Management"	0.334285714286	0.714285714286
+5BE60217	"Search in Context"	"International Conference on Enterprise Information Systems"	0.274285714286	0.55
+0A00FD2B	"P2P Web Search Technology"	"Information not present"	0.274285714286	0.6
+75F6E6A4	"After a search so painful, and so long"	"Microelectronics International"	0.334285714286	1.0
+76F99CED	"Mobile local search via P2P databases"	"Information not present"	0.337606837607	0.555555555556
+7DCABF7A	"IMPROVING ENCARTA SEARCH ENGINE PERFORMANCE BY MINING USER LOGS"	"International Journal of Pattern Recognition and Artificial Intelligence"	0.502051282051	0.409920634921
+5F9520D9	"Hybrid XML retrieval revisited"	"Information not present"	0.32967032967	0.583333333333
+7FDC9037	"Personalized Web Search Using Probabilistic Query Expansion"	"Web Intelligence"	0.500952380952	0.503571428571
+63B5D4AF	"Fresh Information Retrieval Using Cooperative Meta Search Engines"	"International Conference on Information Networking"	0.525	0.488333333333
+7CC67F86	"Improving performance of content-based image retrieval schemes using Hadoop MapReduce"	"High Performance Computing"	0.515238095238	0.43247955748
+7843E36C	"Personalized web search using browsing history and domain knowledge"	"Information not present"	0.51341991342	0.412074829932
+7BDE6A01	"Efficiency image data retrieval based on asynchronous capability aware spatial search service middleware"	"Information not present"	0.54	0.380902777778
+5B289DA6	"Personalization of search engine services for effective retrieval and knowledge management"	"International Conference on Information Systems"	0.528571428571	0.433333333333
+7D1F0C7E	"Rich and scalable peer-to-peer search with SHARK"	"Information not present"	0.334285714286	0.526315789474
+77F90DDD	"A Mobile App Search Engine"	"Mobile Networks and Applications"	0.334285714286	0.533333333333
+791338B2	"Search engines: information retrieval in practice"	"The Computer Journal"	0.475	0.505
+7A8D9DA3	"A Comparative Study of Free Information Retrievals and a Suggested Sensible Approach to the Internet by Adopting a Specific Search Topic “Apoptosis”"	"Drug Information Journal"	0.525	0.328835978836
+793AA9F6	"Single-party private web search"	"Conference on Privacy, Security and Trust"	0.344444444444	0.555555555556
+802586F0	"SEARCHY: An Agent to Personalize Search Results"	"International Conference on Internet and Web Applications and Services"	0.513888888889	0.559027777778
+7BE24003	"A Document Clustering Algorithm for Web Search Engine Retrieval System"	"Information not present"	0.479365079365	0.371995464853
+751A9ADF	"Auctioning Keywords in Oline Search"	"Journal of Marketing"	0.291428571429	0.571428571429
+0A920F7F	"Geosearch: A geographically-aware search engine"	"Information not present"	0.274285714286	0.533333333333
+5C5024FB	"Personalized web search engine using dynamic user profile and clustering techniques"	"Information not present"	0.508888888889	0.346329365079
+809315E6	"Experiments with monolingual, bilingual, and robust retrieval"	"Cross-Language Evaluation Forum"	0.343956043956	0.571428571429
+020208FD	"Search Engine-Crawler Symbiosis"	"European Conference on Research and Advanced Technology for Digital Libraries"	0.282051282051	0.555555555556
+7FCE957C	"Active Reranking for Web Image Search"	"IEEE Transactions on Image Processing"	0.334285714286	0.555555555556
+5E4A45D9	"Can Automatic Abstracting Improve on Current Extracting Techniques in Aiding Users to Judge the Relevance of Pages in Search Engine Results?"	"Information not present"	0.516666666667	0.276549145299
+801A3A29	"Personalized search on the world wide web"	"Information not present"	0.511111111111	0.550505050505
+80359F5F	"Search in the Eye of the Beholder: Using the Personal Social Dataset and Ontology-guided Input to Improve Web Search Efficiency"	"Latin American Web Congress"	0.513888888889	0.419349477683
+7ED1C4A5	"Refining preference-based search results through Bayesian filtering"	"Intelligent User Interfaces"	0.395	0.541666666667
+7EC3116E	"Learning visual keywords for content-based retrieval"	"International Conference on Multimedia Computing and Systems"	0.32967032967	0.625
+814782B0	"Toward social-technical code search"	"Cooperative and Human Aspects of Software Engineering"	0.291666666667	0.5625
+78A2DE4C	"Towards Open Information Retrieval"	"Information not present"	0.347222222222	0.5625
+7EB357D3	"Personalizing web search results by reading level"	"Conference on Information and Knowledge Management"	0.525	0.491666666667
+777B398F	"Subwebs for specialized search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.334285714286	1.0
+0258FD01	"Anatomy of a Search Engine: A Java-based Introduction to Scaleable Information Retrieval"	"Information not present"	0.475	0.397222222222
+84119BCE	"ClinicalKey: A Point-of-Care Search Engine"	"Information not present"	0.274285714286	0.533333333333
+7E78F955	"Prefetching Results of Web Searches"	"Information not present"	0.295	0.5625
+76021E62	"A fuzzy ranking approach for improving search results in Turkish as an agglutinative language"	"Expert Systems With Applications"	0.520238095238	0.426587301587
+8103E70F	"Tolerant Retrieval and Query Processing in Search Engine"	"Computer Systems: Science & Engineering"	0.522222222222	0.481904761905
+5FB7BA1A	"Search Engine Information Retrieval: Empirical research on the usage of the Meta Tags to enhance Web Site Visibility and Ranking of e-Commerce Web Sites"	"Information not present"	0.525	0.265835873528
+0C22B13B	"Personalizing search based on user search history"	"Information not present"	0.510622710623	0.678571428571
+58B415B7	"THSearch: Thai-enable herbal search engine"	"Information not present"	0.334285714286	0.533333333333
+80A78D93	"Web-based information search and retrieval: effects of strategy use and age on search success."	"Human Factors"	0.483333333333	0.442508417508
+7AA8FA06	"Using Personalization to Improve XML Retrieval"	"IEEE Transactions on Knowledge and Data Engineering"	0.496336996337	0.75
+7B3F76AA	"Sponsored Search as a Strategic E-Service"	"International Journal of E-services and Mobile Applications"	0.334285714286	0.571428571429
+7928CF94	"Multipass strategies for improving accuracy in a voice search application"	"International Conference on Acoustics, Speech, and Signal Processing"	0.533333333333	0.452651515152
+0141D739	"Search engines and beyond"	"Information not present"	0.274285714286	0.533333333333
+80FAC8D4	"SemreX: Efficient search in a semantic overlay for literature retrieval"	"Future Generation Computer Systems"	0.522222222222	0.547008547009
+7C011F47	"Web search personalization: A fuzzy adaptive approach"	"Information not present"	0.334285714286	0.583333333333
+802125AA	"Practical online retrieval evaluation"	"European Conference on Information Retrieval"	0.36	0.6
+7DE91DD2	"Multimodal Fusion for Video Search Reranking"	"IEEE Transactions on Knowledge and Data Engineering"	0.274285714286	0.571428571429
+603F4DA2	"Search is on for better search engines"	"Nature"	0.334285714286	0.579166666667
+7E68B74F	"Schema-Aware Keyword Search over XML Streams"	"Computer and Information Technology"	0.29	0.55
+7DB91C31	"Induction-Based Approach to Personalized Search Engines"	"Information not present"	0.500952380952	0.558333333333
+8022A649	"Personalized Search Recommendation Based on Gradual Forgetting Collaborative Filtering Strategy"	"Intelligent Information Technology Application"	0.500952380952	0.488181818182
+803EB3CE	"Eye-tracking analysis of user behavior in WWW search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.274285714286	0.511111111111
+5F7C30FC	"Toward Topic Search on the Web"	"Information not present"	0.301587301587	0.555555555556
+7F815941	"Improving information retrieval effectiveness by using domain knowledge stored in ontologies"	"Information not present"	0.7	0.438271604938
+5E296627	"Conceptual Knowledge Retrieval with FooCA: Improving Web Search Engine Results with Contexts and Concept Hierarchies"	"International Conference on Data Mining"	0.528571428571	0.333680555556
+7ACA9DF9	"Improving Search Engine Reliability"	"Information not present"	0.505952380952	0.547916666667
+5F6157DD	"Towards High-Precision Service Retrieval"	"International Semantic Web Conference"	0.304545454545	0.625
+7E695D2A	"Kalchas: a dynamic XML search engine"	"Conference on Information and Knowledge Management"	0.334285714286	0.533333333333
+7C8ECDD2	"Wikipedia search engine: Interactive information retrieval interface design"	"Information not present"	0.525	0.410515873016
+84D0ECAE	"Sketch-based 3D shape retrieval"	"International Conference on Computer Graphics and Interactive Techniques"	0.293015873016	0.571428571429
+771A15EA	"Using Twitter data to improve news results on search engine"	"Information not present"	0.516666666667	0.352579365079
+81214AC1	"Testing the effectiveness of retrieval to queries using polish words with diacritics"	"Atlantic Web Intelligence Conference"	0.528571428571	0.394506287363
+5A9D2B23	"Effectiveness of Keyword-Based Display and Selection of Retrieval Results for Interactive Searches"	"Theory and Practice of Digital Libraries"	0.525	0.487222222222
+7DE2726D	"A comparison of social bookmarking with traditional search"	"European Conference on Information Retrieval"	0.334285714286	0.583333333333
+059A039A	"Key Techniques of Uyghur, Kazak, Kyrgyz Full-text Search Engine Retrieval Server"	"Information not present"	0.52	0.386752136752
+7D66F484	"Constructing concept relation network and its application to personalized web search"	"Extending Database Technology"	0.52	0.40753968254
+7E6A3532	"No clicks, no problem: using cursor movements to understand and improve search"	"Human Factors in Computing Systems"	0.505952380952	0.375744047619
+5B45059C	"SVM based automatic user profile construction for personalized search"	"International Conference on Intelligent Computing"	0.508888888889	0.443518518519
+7AAE1585	"The Development of Search Engine in China and its Problems Revealed in Net Information Retrieval"	"Information not present"	0.525	0.338541666667
+7958F6CA	"Attention-based information retrieval"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.297222222222	0.5625
+7945E6B2	"Study on Personalized Search Engine Based on Files"	"Information not present"	0.500952380952	0.430555555556
+761565C2	"Sailer: an effective search engine for unified retrieval of heterogeneous xml and web documents"	"World Wide Web"	0.522222222222	0.457777777778
+8161A0F5	"An Adaptive Architecture for Personalized Search ?Engine in Ubiquitous Environment with Peer to Peer Systems"	"Information not present"	0.515238095238	0.333722527473
+7C930BE0	"Improved retrieval effectiveness by efficient combination of term proximity and zone scoring: A simulation-based evaluation"	"Simulation Modelling Practice and Theory"	0.523333333333	0.344791666667
+7D543C0F	"BioText Search Engine: beyond abstract search"	"Bioinformatics"	0.334285714286	0.688888888889
+80D08718	"Noise resistant graph ranking for improved web image search"	"Computer Vision and Pattern Recognition"	0.508333333333	0.429828042328
+6A7475E0	"Another Face of Search Engine: Web Search API's"	"Industrial and Engineering Applications of Artificial Intelligence and Expert Systems"	0.276666666667	0.5375
+77BC5C25	"Personalizing Results of Information Retrieval Systems Using Extended Fuzzy Concept Networks"	"Information not present"	0.513888888889	0.352430555556
+5A58C9EC	"Experiments in Parallel Constraint-Based Local Search"	"Information not present"	0.334285714286	0.571428571429
+5FA2975C	"E.Coli Search: Self Replicating Agents for Web Based Information Retrieval"	"Intelligent Data Engineering and Automated Learning"	0.525	0.355009920635
+01D30712	"Personalized Keyword Search with Partial-Order Preferences"	"Brazilian Symposium on Databases"	0.505952380952	0.708333333333
+7BB95FC1	"A Semantic Query Interpreter framework by using knowledge bases for image search and retrieval"	"International Symposium on Signal Processing and Information Technology"	0.528571428571	0.323932240599
+78C8A04F	"Improving non-English web searching (iNEWS07)"	"Sigir Forum"	0.331111111111	0.555555555556
+5C00921B	"VORTEX: Video retrieval and tracking from compressed multimedia databases-visual search engine"	"International Conference on Systems"	0.508571428571	0.358482142857
+0F390BC8	"Context in Web Search"	"IEEE Data(base) Engineering Bulletin"	0.274285714286	0.55
+7F83F7E4	"Tachyon search speeds up retrieval of similar sequences by several orders of magnitude"	"Bioinformatics"	0.533333333333	0.438888888889
+806BCFF2	"Towards Information Retrieval Measures for Evaluation of Web Search Engines"	"Information not present"	0.475	0.41712962963
+58E4DA2D	"Improving quality of search results clustering with approximate matrix factorisations"	"European Conference on Information Retrieval"	0.558333333333	0.397675736961
+80855AE9	"Advertising academia with sponsored search: an exploratory study examining the effectiveness of Google AdWords at the local and global level"	"International Journal of Electronic Business"	0.516666666667	0.358234126984
+7C814071	"Geo-based search engine"	"Information not present"	0.274285714286	0.533333333333
+79D29162	"Language‐based retrieval of Web documents: An analysis of the Arabic‐recognition capabilities of two major search engines"	"Proceedings of The Asist Annual Meeting"	0.54	0.42962962963
+5D73D435	"A Visual Search Engine for Distributed Image and Video Database Retrieval Applications"	"Information not present"	0.522222222222	0.386507936508
+77B1FCBA	"Improving mobile search using content enrichment"	"Artificial Intelligence Review"	0.500952380952	0.59375
+794E9209	"ClusteringWiki: personalized and collaborative clustering of search results"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.513888888889	0.559027777778
+5E3B13EA	"Improving Search Engines Performance on Multithreading Processors"	"High Performance Computing"	0.500952380952	0.460086580087
+7CF52366	"Improve Web Search Ranking by Co-ranking SVM"	"Information not present"	0.513888888889	0.559027777778
+7BB2B83B	"Keyword comparison: a user-centered feature for improving web search tools"	"International Journal of Human-computer Studies \/ International Journal of Man-machine Studies"	0.502051282051	0.4668997669
+7F5CF6E8	"An adaptable search engine for multimodal information retrieval"	"Journal of the Association for Information Science and Technology"	0.525	0.547916666667
+8062F593	"Foxinfo1.0: A Chinese Topic-Oriented Search Engine"	"International Conference on Asian Language Processing"	0.334285714286	0.533333333333
+7E58F856	"Applying Taxonomic Knowledge and Semantic Collaborative Filtering to Personalized Search: A Bayesian Belief Network Based Approach"	"Asia-Pacific Web Conference"	0.51341991342	0.385416666667
+5DEECD81	"Search 3.0: Present, Personal, Precise"	"International Semantic Web Conference"	0.35	0.583333333333
+7D0A6202	"The HWS hybrid web search"	"Information & Software Technology"	0.344444444444	0.555555555556
+5948294B	"A New Archive and Internet Search Engine May Change the Nature of On-Line Research."	"Information not present"	0.466666666667	0.403333333333
+79A89D40	"Community-based snippet-indexes for pseudo-anonymous personalization in web search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.274285714286	1.0
+7A2F83AA	"Visual search editor for composing meta searches"	"Proceedings of The Asist Annual Meeting"	0.336666666667	0.570833333333
+7A436EB8	"Personalized information retrieval base-on user interest state"	"Information not present"	0.513888888889	0.460384615385
+5950821E	"A High Precision OGC Web Map Service Retrieval Based on Capability Aware Spatial Search Engine"	"Information not present"	0.54	0.376282051282
+7C0CB106	"Improving Mobile Search through Location Based Context and Personalization"	"Information not present"	0.511111111111	0.492222222222
+7E168703	"Efficient fuzzy type-ahead search in TASTIER"	"International Conference on Data Engineering"	0.334285714286	1.0
+7CFF1D72	"Improved search technique using wildcards or truncation"	"Information not present"	0.500952380952	0.49
+7778EBF3	"Sharing private data through personalized search"	"Identity in The Information Society"	0.508333333333	0.5625
+7C5E7E33	"A Multi-Agent Based Personalized Search Engine"	"Information not present"	0.500952380952	0.579166666667
+754674A5	"Private web search"	"Workshop on Privacy in the Electronic Society"	0.344444444444	0.555555555556
+5CDABD24	"Discovering user preferences by using time entries in click-through data to improve search engine results"	"Discovery Science"	0.516666666667	0.290190869736
+7FC7099F	"Personalized Web Search Using User Profile"	"Computational Intelligence and Security"	0.508888888889	0.492222222222
+02901A1E	"Content based image retrieval and video retrieval using the QuickLook search engine"	"Information not present"	0.525	0.436419753086
+5F92BBAE	"Using Semantic, Geographical, and Temporal Relationships to Enhance Search and Retrieval in Digital Catalogs"	"European Conference on Research and Advanced Technology for Digital Libraries"	0.528571428571	0.43005952381
+7FF917E0	"Digital forensic text string searching: Improving information retrieval effectiveness by thematically clustering search results"	"Digital Investigation"	0.866666666667	0.515079365079
+7DA817E5	"Implicit user modeling for personalized search"	"Conference on Information and Knowledge Management"	0.506666666667	0.560714285714
+805112E8	"Evaluating the Effectiveness of Personalized Web Search"	"IEEE Transactions on Knowledge and Data Engineering"	0.522222222222	0.569444444444
+815D5339	"A distributed search engine for fresh information retrieval"	"Database and Expert Systems Applications"	0.525	0.547916666667
+78AA5B6C	"Improving product review search experiences on general search engines"	"Information not present"	0.503333333333	0.47886002886
+80589B61	"S-BITS : Social-Bookmarking Induced Topic Search"	"Web-Age Information Management"	0.300952380952	0.583333333333
+79C6414E	"The XXL search engine: ranked retrieval of XML data using indexes and ontologies"	"International Conference on Management of Data"	0.525	0.378968253968
+587D8FE5	"Search and Networked Attention"	"Information not present"	0.274285714286	0.555555555556
+7CF0E8EE	"Using the current browsing context to improve search relevance"	"Conference on Information and Knowledge Management"	0.508333333333	0.427651515152
+765C97A3	"The Study of Personalized Search Engine Based on Chinese-English Bilingual Translation"	"Information not present"	0.500952380952	0.42904040404
+59E9C723	"Character-image search engine"	"Systems, Man and Cybernetics"	0.274285714286	0.533333333333
+77D7217C	"Architecture of a networked image search and retrieval system"	"Conference on Information and Knowledge Management"	0.46	0.454273504274
+0086EAFB	"Expressive and Efficient Retrieval of Symbolic Musical Data"	"International Symposium/Conference on Music Information Retrieval"	0.347222222222	0.5625
+80F4918F	"Dramasearch. Character-mediated search in cultural heritage"	"Information not present"	0.337606837607	0.5625
+07FCA785	"A Website-Model-Supported New Search Agent"	"Information not present"	0.344444444444	0.555555555556
+81FEBD75	"Personalized Web Search Using Probabilistic Query Expansion"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.500952380952	0.503571428571
+7C1EC887	"Improving sensitivity in proteome studies by analysis of false discovery rates for multiple search engines."	"Proteomics"	0.504273504274	0.358333333333
+5DB93340	"A frequency mining-based algorithm for re-ranking web search engine retrievals"	"Canadian Conference on Artificial Intelligence"	0.466666666667	0.475555555556
+806F35BD	"Narrowing the semantic gap - improved text-based web document retrieval using visual features"	"IEEE Transactions on Multimedia"	0.515238095238	0.363248556999
+7D9B4C29	"Improving the Performance of Existing Information Retrieval Systems Using a Software Agent"	"Information not present"	0.520238095238	0.339245630912
+7FCF36E0	"Personalization in professional academic search"	"Information not present"	0.334285714286	1.0
+77B7328F	"An intelligent agent-based meta search"	"Information not present"	0.334285714286	1.0
+817683A5	"Web search from a bus"	"ACM/IEEE International Conference on Mobile Computing and Networking"	0.274285714286	0.535714285714
+04ED94D2	"Northern Light search engine"	"Information not present"	0.334285714286	0.533333333333
+0D8AAE24	"Search Alternatives and Beyond."	"Information not present"	0.274285714286	0.55
+7A9327F9	"Improving XML search by generating and utilizing informative result snippets"	"ACM Transactions on Database Systems"	0.511666666667	0.444318181818
+7D99BFAA	"Improving Web Image Search by Bag-Based Reranking"	"IEEE Transactions on Image Processing"	0.500952380952	0.703703703704
+7C753589	"Statistical Learning in Web Search"	"Information not present"	0.334285714286	0.555555555556
+7DACD52D	"Architecture of an Object-Level Vertical Search"	"Web Information Systems Modeling"	0.335384615385	0.538461538462
+7E1DF517	"UNIBA-SENSE at CLEF 2008: SEmantic N-levels Search Engine"	"Information not present"	0.334285714286	0.533333333333
+7C0ADE05	"OB-PWS: Obfuscation-Based Private Web Search"	"Scientific Programming"	0.344444444444	0.555555555556
+75FD7AFA	"Personalized Search Strategies for Spatial Information on the Web"	"IEEE Intelligent Systems"	0.513888888889	0.465404040404
+7E92E5D3	"Share-ken: A Way to Improve Web Search"	"International Test Conference"	0.522222222222	0.569444444444
+7F3D8395	"Hardware/Software Codesign for an Iris Biometric Search Engine"	"Conference on Computer as a Tool"	0.274285714286	0.533333333333
+785A7EE9	"Web mining application in university library personalized search engine"	"Soft Computing and Pattern Recognition"	0.511111111111	0.33878968254
+7BDF6A79	"Webometric research with the Bing Search API 2.0"	"Journal of Informetrics"	0.274285714286	0.6
+7E124965	"Improving the performance of proposed multi-agent domain specific search engine using query refinement component"	"Information not present"	0.510622710623	0.329016354016
+7D2244CD	"Search crossplatform multiagent system"	"Automatic Documentation and Mathematical Linguistics"	0.276666666667	0.541666666667
+5BAEFEB7	"Personalised search on electronic information"	"Information not present"	0.508333333333	0.708333333333
+79DE001E	"Enhancing personalized web search re-ranking algorithm by incorporating user profile"	"Information not present"	0.508888888889	0.390873015873
+787C2F16	"A 3D-shape retrieval system to improve the text retrieval"	"Information not present"	0.504848484848	0.636666666667
+7555755F	"Searching of an MPEG-7 optimum search engine"	"Information not present"	0.334285714286	0.533333333333
+6843AF80	"User privacy in web search"	"Modeling Decisions for Artificial Intelligence"	0.274285714286	0.55
+7CF2F2FB	"Improving product search with economic theory"	"International Conference on Data Engineering"	0.503333333333	0.543560606061
+7DDC1D26	"A social network-based meta search engine"	"Information not present"	0.334285714286	0.533333333333
+6A957BD4	"Web search personalization via social bookmarking and tagging"	"International Semantic Web Conference"	0.334285714286	1.0
+48C816E2	"Personalized Web Search by Using Learned User Profiles in Re-ranking"	"Information not present"	0.504273504274	0.522222222222
+7F055959	"Personalized web search by mapping user queries to categories"	"Conference on Information and Knowledge Management"	0.508333333333	0.482142857143
+7E6E1CF4	"Generation of Semantic Interactive Environment for Personalized Search"	"Computer and Information Technology"	0.511904761905	0.566964285714
+7A94212D	"Information Retrieval System in the Form of a Powerful Search Engine:"	"Journal of Craniofacial Surgery"	0.525	0.395833333333
+7E04CD0C	"Approximate Keyword Search in Web Search Engines"	"International Conference on Digital Information Management"	0.274285714286	0.688888888889
+5894B44E	"Using web archive for improving search engine results"	"Asia-Pacific Web Conference"	0.511666666667	0.419764957265
+811882FA	"Ontology-supported Information Retrieval"	"Conference on Computer as a Tool"	0.297222222222	0.5625
+80ED8842	"What's Next in Web Search?"	"IEEE Distributed Systems Online"	0.334285714286	1.0
+092FF796	"Semantic-Structure-Based Search Engine"	"Information not present"	0.274285714286	0.533333333333
+5C3DDB9E	"Improving Image Retrieval Using Semantic Resources"	"Information not present"	0.511111111111	0.494444444444
+7567472B	"The design and implementation of SPIRIT: a spatially aware search engine for information retrieval on the Internet"	"International Journal of Geographical Information Science"	0.525	0.337648809524
+80CA097B	"A search engine for retrieval and inspection of events with 48 human actions in realistic videos"	"International Conference on Pattern Recognition Applications and Methods"	0.528571428571	0.408333333333
+0A32EF57	"Focused Retrieval over Richly-Annotated Collections"	"Information not present"	0.353571428571	0.571428571429
+7F073A4B	"Improving Mobile Web Search Experience with Slide-Film Interface"	"Signal-Image Technology and Internet-Based Systems"	0.500952380952	0.545634920635
+75D63C3F	"Improving web site search using web server logs"	"Conference of the Centre for Advanced Studies on Collaborative Research"	0.502051282051	0.41452991453
+78A5B317	"Persistence in the ephemeral: utilizing repeat behaviors for multi-session personalized search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.500952380952	0.515238095238
+80BF1EF4	"Personalized Web search results with profile comparisons"	"Information not present"	0.511666666667	0.572916666667
+81E6B201	"RGB-D Visual Search with Compact Binary Codes"	"Information not present"	0.341666666667	0.5625
+0BA5855E	"Explaining BubbleStorm: Resilient, Probabilistic, and Exhaustive Peer�to�Peer Search"	"Information not present"	0.334285714286	0.5625
+5C0E089B	"Understanding search engines: mathematical modeling and text retrieval"	"Information not present"	0.522222222222	0.421296296296
+7533C984	"Study of the E-learning system based on the personalized knowledge search"	"Information not present"	0.51341991342	0.444444444444
+7E4D92DC	"The Feature Analysis of Commonly Used Search Engines and Strategy of Information Retrieval in Sci-Tech Novelty Retrieval"	"Applied Mechanics and Materials"	0.54	0.402348484848
+7D250106	"Freshness of Web search engines: Improving performance of Web search engines using data mining techniques"	"Information not present"	0.508333333333	0.361471861472
+7BBB6AEB	"Multitasking Web search on Vivisimo.com"	"Information not present"	0.274285714286	1.0
+80052E45	"Personalized Search Based on User Search Histories"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.510622710623	0.678571428571
+7799ECAF	"Evidence-based Medicine Search: a customizable federated search engine"	"Journal of The Medical Library Association"	0.334285714286	0.534523809524
+091DB104	"The Inktomi Search Engine"	"Information not present"	0.274285714286	0.533333333333
+76E33EFF	"Log-based indexing to improve web site search"	"Information not present"	0.511111111111	0.477606837607
+7C9FA7E8	"PubSearch: a web citation-based retrieval system"	"Library Hi Tech"	0.272051282051	0.541666666667
+07384930	"The Effectiveness of Web Search Engines to Index New Sites from Different Countries."	"Information Research"	0.515384615385	0.389083139083
+7EC786B3	"Interactive visual information retrieval"	"International Symposium on Circuits and Systems"	0.347222222222	0.5625
+7FC005A6	"Scalable combinatorial search engine"	"Information not present"	0.334285714286	0.533333333333
+58915C92	"Personalized ranking of search results with learned user interest hierarchies from bookmarks"	"Information not present"	0.516666666667	0.361904761905
+7A7F2A55	"Document Retrieval, Automatic"	"Information not present"	0.342222222222	0.555555555556
+586C17B5	"ARES: a retrieval engine based on sentiments sentiment-based search result annotation and diversification"	"European Conference on Information Retrieval"	0.528571428571	0.326058201058
+7E501059	"MedicoPort: A medical search engine for all"	"Computer Methods and Programs in Biomedicine"	0.334285714286	0.533333333333
+7D53C64A	"Personalized Scheduling Search Advertisement by Mining the History Behaviours of Users"	"International Conference on e-Business Engineering"	0.515238095238	0.35376984127
+5F611590	"A user-profile assisted meta search engine"	"Information not present"	0.334285714286	0.533333333333
+7B6D7CAC	"Personalizing Mobile Web Search for Location Sensitive Queries"	"Mobile Data Management"	0.511111111111	0.473015873016
+79E6C09B	"Improving content retrieval recall in KAD"	"Information not present"	0.518181818182	0.722222222222
+76BC0941	"MedSearch: a specialized search engine for medical information retrieval"	"Conference on Information and Knowledge Management"	0.525	0.547916666667
+7D0D4E3A	"Improving query and result list adaptation in personalized multilingual information retrieval"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.520238095238	0.371995464853
+814522B5	"Utilizing visualisation for improving Web search effectiveness"	"Information not present"	0.682051282051	0.775
+80AACA8F	"Retrieval effectiveness on the web"	"Information Processing and Management"	0.477142857143	0.703703703704
+78B0FD76	"Category ranking for personalized search"	"Data and Knowledge Engineering"	0.508333333333	0.58125
+76B1BA50	"Exploiting XML structure to improve information retrieval in peer-to-peer systems"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.513888888889	0.41654040404
+7E9140FC	"Slovak search engines"	"Slavic & East European Information Resources"	0.274285714286	0.533333333333
+7B4B2E46	"Child Search Framework: A collaborative information retrieval architecture to assist children in the search process"	"Computer Supported Cooperative Work in Design"	0.525	0.400798368298
+5F98208B	"MINERVA: collaborative P2P search"	"The Vldb Journal"	0.334285714286	0.541666666667
+7C15B8E7	"Personalized Search Engine using Social Networking Activity"	"Information not present"	0.504273504274	0.563333333333
+7F971D20	"QuestSemantics-Intelligent Search and Retrieval of Business Knowledge"	"European Conference on Artificial Intelligence"	0.485714285714	0.566666666667
+803829AA	"Mental models: have users' mental models of web search engines improved in the last ten years?"	"Information not present"	0.506666666667	0.337310606061
+7BDBDE9D	"Real life information retrieval (panel): commercial search engines"	"Sigir Forum"	0.528571428571	0.402976190476
+7A417E8E	"Explanatory semantic relatedness and explicit spatialization for exploratory search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.341666666667	0.5625
+7F2712FC	"Semantic Full-Text Search with ESTER: Scalable, Easy, Fast"	"International Conference on Data Mining"	0.334285714286	0.538461538462
+712550CD	"Improving the evaluation of web search systems"	"European Conference on Information Retrieval"	0.503333333333	0.570833333333
+7E54615B	"Knowledge Search and Trust-Oriented Search"	"Information not present"	0.303896103896	0.722222222222
+0EC6EE8B	"In Search of a Better Search Engine."	"Information not present"	0.334285714286	0.688888888889
+85B60C8D	"Google’s New Search Preview"	"Information not present"	0.334285714286	0.55
+7DAA49C8	"The effectiveness of dictionary and web-based answer reranking"	"International Conference on Computational Linguistics"	0.279829059829	0.555555555556
+791E040B	"Towards an EEG search engine"	"Information not present"	0.274285714286	0.533333333333
+7C32C64F	"Improving web search relevance and freshness with content previews"	"Conference on Information and Knowledge Management"	0.508333333333	0.47
+8058465D	"On-the-fly specific person retrieval"	"Workshop on Image Analysis for Multimedia Interactive Services"	0.342222222222	0.555555555556
+760C061A	"Globase.KOM - A P2P Overlay for Fully Retrievable Location-based Search"	"International Conference on Peer-to-Peer Computing"	0.335384615385	0.538461538462
+7D931C7F	"Personalized Web search with self-organizing map"	"Information not present"	0.502051282051	0.692307692308
+7DD5C895	"Search engines aan de tand gevoeld"	"Information not present"	0.274285714286	0.533333333333
+7B1C8F14	"Improved document ranking in ontology-based document search engine using evidential reasoning"	"IET Software"	0.504273504274	0.354861111111
+79D98F09	"Personalized web search by generating and mapping two user profiles"	"Information not present"	0.504273504274	0.490793650794
+79F34AD3	"SNS Search in Developing Countries: Linking the People to End Digital Division in Information Retrieval"	"Computational Intelligence"	0.528571428571	0.343566618567
+7ED2A98B	"Ineffective Bibliographic Search Engines?"	"BioScience"	0.334285714286	0.533333333333
+7E9FE092	"Personalized multi-document summarization in information retrieval"	"International Conference on Machine Learning and Cybernetics"	0.520238095238	0.566964285714
+7B336D1A	"A Crawler for Local Search"	"International Conference on the Digital Society"	0.336666666667	0.541666666667
+782457E9	"PIRIA: a general tool for indexing, search, and retrieval of multimedia content"	"Information not present"	0.525	0.428098290598
+00C6DBDD	"Improving Knowledge Organizations Search Interface design by Evaluating Main-Stream Search Interface Design."	"Information not present"	0.51341991342	0.325119047619
+811DA9EA	"A search filter for increasing the retrieval of animal studies in Embase."	"Laboratory Animals"	0.52	0.482051282051
+7D64533A	"Using web search engines to improve text recognition"	"International Conference on Pattern Recognition"	0.505952380952	0.423611111111
+5D259979	"Agent-based semantic search at motoso.de"	"Multiagent System Technologies"	0.334285714286	1.0
+7B35085A	"Has adhoc retrieval improved since 1994?"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.496336996337	0.75
+77274A1E	"Mobile Search With Multimodal Queries"	"Proceedings of the IEEE"	0.334285714286	0.571428571429
+768AB9CA	"Text Retrieval Online: Historical Perspective on Web Search Engines"	"Bulletin of The American Society for Information Science and Technology"	0.52	0.455555555556
+5DACFCF9	"Essays on search, search engine and search -based advertising"	"Information not present"	0.282051282051	0.548148148148
+770789A2	"Improving search engine interfaces for blind users: a case study"	"Universal Access in The Information Society"	0.511666666667	0.337053571429
+816C1D0D	"Flexible and scalable digital library search"	"Very Large Data Bases"	0.334285714286	0.535714285714
+0400B635	"Query-Based Indexing in Collaorative Search"	"Information not present"	0.274285714286	0.6
+7A056BD8	"Personalised web search using ACO with information scent"	"International Journal of Knowledge and Web Intelligence"	0.508333333333	0.491666666667
+6C32B1CF	"Study on Personalized Search Engine Based on Files"	"Information not present"	0.500952380952	0.430555555556
+5F1D8D5E	"An Agent-Based Personalized Search on a Multi-search Engine Based on Internet Search Service"	"Intelligent Data Engineering and Automated Learning"	0.334285714286	0.513333333333
+5F783382	"Using Related Queries to Improve Web Search Results Ranking"	"String Processing and Information Retrieval"	0.513888888889	0.404138321995
+7BAE3918	"Inquirus, the NECI Meta Search Engine"	"Computer Networks and Isdn Systems"	0.274285714286	0.533333333333
+7B775D3C	"Personalized domain-specific search engine"	"Information not present"	0.500952380952	0.688888888889
+7D68633F	"Access to electronic commerce sites on the World Wide Web: an analysis of the effectiveness of six Internet search engines"	"Journal of Information Science"	0.522222222222	0.31062332729
+7754706A	"Information retrieval in the Web: beyond current search engines"	"International Journal of Approximate Reasoning"	0.525	0.460555555556
+0593D7DC	"Search engine for information retrieval from speech records"	"Information not present"	0.475	0.41712962963
+099ACDBF	"TableRank: A Ranking Algorithm for Table Search and Retrieval"	"National Conference on Artificial Intelligence"	0.52	0.733333333333
+8093DE8D	"Semantic Search Engines"	"Information not present"	0.334285714286	0.533333333333
+16450428	"インターネットにおける自殺関連語の検索ボリュームと既遂自殺の関連--Google Insights for Search betaを用いた検討"	"Information not present"	0.282051282051	0.5625
+77D497A2	"A user-tunable approach to marketplace search"	"World Wide Web"	0.274285714286	0.583333333333
+7603DBD8	"An overview of personalization in web search"	"Information not present"	0.274285714286	0.55
+72030340	"One-Stop Search"	"Behavioral & Social Sciences Librarian"	0.274285714286	1.0
+097022F4	"Understanding search engines: mathematical modeling and text retrieval (software"	"Information not present"	0.522222222222	0.374098124098
+59BCC5B5	"Enhancing Image Retrieval System Using Content Based Search Criteria"	"Information not present"	0.525	0.341049382716
+7DC355D3	"Improving diversity in re-ranking of web image search results"	"Information not present"	0.516666666667	0.472222222222
+5DD788A3	"Enhancing Internet Search Engines to Achieve Concept-based Retrieval"	"Information not present"	0.5	0.409722222222
+7B164446	"No search limits"	"The Bottom Line: Managing Library Finances"	0.279285714286	0.5625
+05516605	"Clustering visually similar images to improve image search engines"	"Information not present"	0.500952380952	0.405291005291
+77AF15D2	"Information retrieval from the World Wide Web: a user-focused approach based on individual experience with search engines"	"Computers in Human Behavior"	0.525	0.324607182941
+7A022A9C	"Semantic Web Support for Intelligent Search and Retrieval of Business Knowledge"	"IEEE Intelligent Systems"	0.528571428571	0.451851851852
+7E360D7D	"A Novel Interface for Audio Search"	"International Conference on Multimedia and Expo"	0.334285714286	0.535714285714
+7BB9B487	"A scalable real-time search engine for fast retrieval of social media content"	"Information not present"	0.525	0.455
+6E95C642	"Code Tagging and Similarity-based Retrieval with myCBR"	"Information not present"	0.297222222222	0.5625
+7DEE1213	"Paid search [search engines]"	"IEEE Computer"	0.300952380952	0.558333333333
+76EDEF02	"Beyond basic faceted search"	"Web Search and Data Mining"	0.334285714286	1.0
+7D6F3233	"Composing personalized video playouts using search"	"International Conference on Multimedia and Expo"	0.508333333333	0.515
+01727646	"D'Galaxy: An Information Retrieval System for Intranet Search"	"Information not present"	0.475	0.455
+7BD8C7FA	"Personalized search engines on mining user preferences using clickthrough data"	"Information not present"	0.508333333333	0.390476190476
+75555B8B	"Characterizing the value of personalizing search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.500952380952	0.570833333333
+782FB8BA	"XIRC: cross-artifact information retrieval [GPCE]"	"Conference on Object-Oriented Programming Systems, Languages, and Applications"	0.297222222222	0.5625
+54B20041	"New Search Engine “Realtime” by Bit.ly"	"Information not present"	0.334285714286	0.533333333333
+7DE77258	"Multidimensional interactive fine-grained image retrieval"	"International Conference on Multimedia and Expo"	0.342222222222	0.555555555556
+7D586C23	"AMI-SME: An Exploratory Approach to Knowledge Retrieval for SME's"	"International Conference on Autonomic and Autonomous Systems"	0.348717948718	0.583333333333
+7D600956	"Exploring HTML Tags and Metadata to Improve the Expressiveness of Web Search Engine's Queries"	"Information not present"	0.533333333333	0.323504890172
+76AFEFBF	"Flexible patient information search and retrieval framework: pilot implementation"	"Information not present"	0.525	0.3609426288
+6B9F14D1	"Object-oriented XML keyword search"	"Information not present"	0.274285714286	1.0
+7E48A49D	"Improving Retrieval of Future-Related Information in Text Collections"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.520238095238	0.473571428571
+80F1EA90	"A Theme-based Search Technique"	"Congress on Evolutionary Computation"	0.274285714286	0.55
+7DDDA148	"Improved Techniques for Caches of Search Engines Results"	"Web Information Systems Modeling"	0.511666666667	0.393849206349
+0950AB8A	"Towards personalized advertising in sponsored search"	"Information not present"	0.504273504274	0.563492063492
+75C13248	"A session based personalized search using an ontological user profile"	"Information not present"	0.508888888889	0.400288600289
+7D6EBF6C	"Search engines and web information retrieval"	"Information not present"	0.475	0.547916666667
+7C8E95F6	"Web Search---Your Way"	"Communications of The ACM"	0.3	0.583333333333
+800E29E2	"Model of a Semantic Web Search Engine for Multimedia Content Retrieval"	"Information not present"	0.525	0.365764790765
+806D4E87	"Analysis on Search Engines: Evidence of Effectiveness and Efficiency"	"Information not present"	0.459829059829	0.41712962963
+804C3A1A	"Semantic-Enhanced Information Search and Retrieval"	"Information not present"	0.475	0.708333333333
+7E519595	"Improving the suitability of imperfect transcriptions for information retrieval from spoken documents"	"International Conference on Acoustics, Speech, and Signal Processing"	0.538888888889	0.435185185185
+78F40AFB	"InfoPlanet: Visualizing a semantic web to improve search results through exploration and discovery"	"International Professional Communication Conference"	0.513888888889	0.38985260771
+5FB0D736	"Conceptual Information Retrieval"	"Information not present"	0.347222222222	0.5625
+7768CA83	"Semantic Video Search"	"International Conference on Image Analysis and Processing"	0.341666666667	0.5625
+7E9A5755	"Avatar semantic search: a database approach to information retrieval"	"International Conference on Management of Data"	0.525	0.480555555556
+7EC88017	"A Novel Approach to Improve the Accuracy of Web Retrieval"	"Information not present"	0.55	0.505555555556
+80D1FBFE	"A Two-Level Cache for Distributed Information Retrieval in Search Engines"	"The Scientific World Journal"	0.491666666667	0.40496031746
+5D310903	"Web search in mobile context"	"Information not present"	0.334285714286	0.55
+776AB6FB	"Improved search engines and navigation preference in personal information management"	"ACM Transactions on Information Systems"	0.508333333333	0.383333333333
+80F752B6	"Acquiring User Information Needs for Personalized Search"	"Information not present"	0.511904761905	0.503571428571
+7ED2E9D8	"Using WordNet and lexical operators to improve Internet searches"	"IEEE Internet Computing"	0.504273504274	0.418518518519
+596BAF79	"Inquirus, the NECI meta search engine"	"Computer Networks and Isdn Systems"	0.274285714286	0.533333333333
+5B35FE1A	"Peer-to-Peer Private Information Retrieval"	"Privacy in Statistical Databases"	0.347222222222	0.5625
+7A633980	"Personalized click prediction in sponsored search"	"Web Search and Data Mining"	0.500952380952	0.558441558442
+7B0426D3	"Can people collaborate to improve the relevance of search results?"	"Conference on Recommender Systems"	0.520238095238	0.432142857143
+795DA7FE	"On Building a Self-Organizing Search System for Multimedia Retrieval"	"Information not present"	0.5	0.49
+788FBAB3	"Improving algorithm search using the algorithm co-citation network"	"ACM/IEEE Joint Conference on Digital Libraries"	0.508333333333	0.515
+769FA63D	"Personalized search based on learning user click history"	"Information not present"	0.510622710623	0.464285714286
+751D4A17	"Autotagging to improve text search for 3D models"	"Information not present"	0.500952380952	0.547727272727
+58DE8F30	"A Testbed for Proactive Information Retrieval"	"Information not present"	0.347222222222	0.5625
+58FB967D	"Preferences of People with Disabilities to Improve Information Presentation and Information Retrieval Inside Internet Services – Results of a User Study"	"Information not present"	0.545238095238	0.270546120546
+5DB6F87A	"Reliability of a Distributed Search Engine for Fresh Information Retrieval in Large-Scale Intranet"	"International Symposium on Parallel and Distributed Processing and Applications"	0.525	0.364285714286
+765386ED	"Vaidurya: A multiple-ontology, concept-based, context-sensitive clinical-guideline search engine"	"Journal of Biomedical Informatics"	0.274285714286	0.533333333333
+585208DC	"EXTIRP: Baseline Retrieval from Wikipedia"	"Information not present"	0.286666666667	0.555555555556
+7C6DD2F4	"My personal search engine"	"Computer Networks"	0.334285714286	0.533333333333
+7C13EC54	"Improving the search process through ontology‐based adaptive semantic search"	"The Electronic Library"	0.500952380952	0.833333333333
+77471E63	"Personalized web search using context enhanced query"	"Computer Systems and Technologies"	0.500952380952	0.43630952381
+7FDF295A	"Implicit Social Bookmarking to Improve Web Searches"	"Information not present"	0.511111111111	0.703703703704
+7C111AE0	"CrowdReranking: exploring multiple search engines for visual search reranking"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.334285714286	0.558333333333
+00BEAD33	"Improving the Effectiveness of a Search Engine by Employing A Website Directory When Feeding Back A User's Interest"	"Information not present"	0.686666666667	0.413149704326
+5BBEFA9F	"Caching for realtime search"	"European Conference on Information Retrieval"	0.314285714286	0.6
+5BF74EF2	"An Approach to Content-Based Image Retrieval Based on the Lucene Search Engine Library"	"Theory and Practice of Digital Libraries"	0.52	0.380839002268
+784393CA	"Context-Aware User's Interests for Personalizing Mobile Search"	"Mobile Data Management"	0.506666666667	0.55
+7D2BE772	"Improving the precision ratio using semantic based search"	"Information not present"	0.516666666667	0.465277777778
+77C4F21A	"Nonparametric Label-to-Region by search"	"Computer Vision and Pattern Recognition"	0.334285714286	1.0
+807C06F5	"Temporal Semantics Extraction for Improving Web Search"	"Database and Expert Systems Applications"	0.511666666667	0.552083333333
+77465D1A	"Towards Accessible Search Systems"	"Sigir Forum"	0.336666666667	0.541666666667
+7EC58719	"Statistical Search on the Semantic Web"	"Bioinformatics"	0.344444444444	0.555555555556
+7F9A92B0	"Personalization Mechanisms for Content Indexing, Search, Retrieval and Presentation in a Multimedia Search Engine"	"International Conference on Systems"	0.475	0.469097222222
+7D32C979	"An Evaluation of Gisting in Mobile Search"	"European Conference on Information Retrieval"	0.334285714286	0.6
+7B9B2BDA	"Logsonomy - social information retrieval with logdata"	"Information not present"	0.347222222222	0.5625
+812AF240	"Improving category specific Web search by learning query modifications"	"Symposium on Applications and the Internet"	0.513888888889	0.399376417234
+816CF5CB	"Improving Image Search with PHETCH"	"International Conference on Acoustics, Speech, and Signal Processing"	0.500952380952	0.703703703704
+7A92F68C	"A link-based visual search engine for Wikipedia"	"ACM/IEEE Joint Conference on Digital Libraries"	0.334285714286	0.533333333333
+7F761724	"Multimodal medical image retrieval OHSU at ImageCLEF 2008"	"Cross-Language Evaluation Forum"	0.342222222222	0.555555555556
+7D734295	"Im-O-Ret: Immersive object retrieval"	"IEEE Virtual Reality Conference"	0.313888888889	0.5625
+781EA8EF	"Improving diversity in Web search results re-ranking using absorbing random walks"	"International Conference on Machine Learning and Cybernetics"	0.516666666667	0.395408163265
+5FB88D88	"Improving web image retrieval using image annotations and inference network"	"European Conference on Information Retrieval"	0.513888888889	0.348516414141
+80C2F3D1	"How good is a span of terms?: exploiting proximity to improve web retrieval"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.515238095238	0.360912698413
+7A51F35A	"Improving search engines by query clustering"	"Journal of the Association for Information Science and Technology"	0.504273504274	0.464126984127
+7FD7D6D1	"www.MMRetrieval.net: a multimodal search engine"	"Similarity Search and Applications"	0.274285714286	0.533333333333
+670FB212	"Towards Improving Web Search: A Large-Scale Exploratory Study of Selected Aspects of User Search Behavior"	"Web Information Systems Engineering"	0.500952380952	0.540476190476
+803D2737	"Speeding up keyword search for search engines"	"Information not present"	0.334285714286	0.566666666667
+815AAA36	"Improving web search ranking by incorporating summarization"	"Systems, Man and Cybernetics"	0.505952380952	0.493571428571
+80255783	"An Architecture for Improving the Efficiency of Specialized Vertical Search Engine Based on GPGPUs"	"International Conference on Genetic and Evolutionary Computing"	0.504273504274	0.41745014245
+7F97C269	"Putting Search in Context: Using Dynamically-Weighted Information Fusion to Improve Search Results"	"International Conference on Information Technology: New Generations"	0.516666666667	0.438095238095
+803F2992	"Kavosh: An Intelligent Neuro-Fuzzy Search Engine"	"Intelligent Systems Design and Applications"	0.334285714286	0.533333333333
+7EFFAF32	"Efficient relational keyword search system"	"Information not present"	0.336666666667	0.541666666667
+7C3C3FEF	"Information retrieval techniques for evaluating search engines: a critical overview"	"Aslib Proceedings"	0.525	0.365476190476
+7F33AB55	"Semantics-based code search"	"International Conference on Software Engineering"	0.291666666667	0.5625
+72315DD4	"Concordance-based entity-oriented search"	"Web Intelligence and Agent Systems: An International Journal"	0.274285714286	1.0
+59C2063C	"Applying Associative Relationship on the Clickthrough Data to Improve Web Search"	"European Conference on Information Retrieval"	0.51746031746	0.438161375661
+71E71838	"Assessing the Effectiveness and Usability of Personalized Internet Search through a Longitudinal Evaluation"	"Key Engineering Materials"	0.515384615385	0.438888888889
+753BA09F	"Improving Concept-Based Web Image Retrieval by Mixing Semantically Similar Greek Queries."	"Program: Electronic Library and Information Systems"	0.515238095238	0.484126984127
+7E4A75BB	"Zeeker: A topic-based search engine"	"Information not present"	0.274285714286	0.533333333333
+796E04E9	"What-you-retrieve-is-what-you-see: a preliminary cyber-physical search engine"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.334285714286	0.533333333333
+80463993	"Video retrieval - evolution of video segmentation, indexing and search"	"Information not present"	0.482142857143	0.413161375661
+758B7F11	"A framework for personalizing web search with concept-based user profiles"	"ACM Transactions on Internet Technology"	0.508888888889	0.460404040404
+721D4E12	"Dynamically Personalizing Search Results for Mobile Users"	"Flexible Query Answering Systems"	0.511666666667	0.55625
+58A76018	"A Search-Engine-Topology to Improve Document Retrieval on the Web"	"Information not present"	0.508888888889	0.555555555556
+7D6DFDA0	"Improving Web Search Using Contextual Retrieval"	"International Conference on Information Technology: New Generations"	0.686666666667	0.8125
+7A87785F	"Web search strategies and retrieval effectiveness: an empirical study"	"Journal of Documentation"	0.515384615385	0.564393939394
+813C3DB7	"An Ontology-Based Semantic Search Approach for Geosciences"	"Information not present"	0.334285714286	0.583333333333
+6B3D54D8	"Microsearch: When Search Engines Meet Small Devices"	"International Conference on Pervasive Computing"	0.334285714286	0.555555555556
+81128E07	"Automatic identification of user interest for personalized search"	"World Wide Web"	0.500952380952	0.566666666667
+5C1619BD	"Image-based search engine"	"Journal of Computing Sciences in Colleges"	0.274285714286	0.533333333333
+7F8C7761	"Adaptive User Profiling for Personalized Information Retrieval"	"International Conference on Hybrid Information Technology"	0.513888888889	0.473571428571
+8140DBBF	"Searchius: A Collaborative Search Engine"	"Mexican International Conference on Computer Science"	0.334285714286	0.533333333333
+7E34B27E	"Exploratory Search in Wikipedia"	"Information not present"	0.334285714286	1.0
+7E191F68	"Multilingual search strategies"	"Human Factors in Computing Systems"	0.334285714286	0.545454545455
+5AECC223	"Improving the Process"	"IEEE Transactions on Systems, Man, and Cybernetics"	0.367619047619	0.666666666667
+080436E5	"A proof-producing boolean search engine"	"Information not present"	0.334285714286	0.533333333333
+66A48E9A	"Web Search Technology"	"Information not present"	0.274285714286	0.6
+5DD6B584	"Precise Environmental Searches: Integrating Hierarchical Information Search with EnviroDaemon"	"Journal of Systems Integration"	0.341666666667	0.58125
+7E26F668	"Improving Web Page Retrieval Using Search Context from Clicked Domain Names"	"Database and Expert Systems Applications"	0.691666666667	0.426981351981
+7F413459	"Leveraging a common representation for personalized search and summarization in a medical digital library"	"ACM/IEEE Joint Conference on Digital Libraries"	0.504273504274	0.408399470899
+7516369F	"On 3D Retrieval from Photos"	"Information not present"	0.266033966034	0.538461538462
+8173BF47	"Privacy preservation and enhanced utility in search log publishing using improved zealous algorithm"	"High Performance Computing"	0.502051282051	0.351851851852
+7688DC8F	"How Google Uses Metadata to Improve Search Results"	"Serials Librarian"	0.513888888889	0.497222222222
+7EA84A9A	"Typicality-Based Visual Search Reranking"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.334285714286	1.0
+5CF2C7A4	"Using Search Engine Technology to Improve Library Catalogs"	"Information not present"	0.500952380952	0.429861111111
+5A7C8DBC	"Upcoming Industrial Needs for Search"	"European Conference on Information Retrieval"	0.343956043956	0.571428571429
+81287DBF	"An agent related intelligent search technology on the Web information retrieval system"	"Computer Supported Cooperative Work in Design"	0.525	0.419907407407
+7634EF33	"Toward effective medical search engines"	"Information not present"	0.334285714286	0.533333333333
+7D9FF300	"Semantic Cross-lingual Information Retrieval"	"International Symposium on Computer and Information Sciences"	0.347222222222	0.5625
+7AD500DC	"TargetSearch: A ranking friendly XML keyword search engine"	"International Conference on Data Engineering"	0.334285714286	0.533333333333
+7C0C629C	"Search in vain, challenges for Internet search"	"IEEE Computer"	0.2884004884	0.552380952381
+05A2143C	"Refining the search engine"	"Ubiquity"	0.384285714286	0.522222222222
+7991C325	"A session-based search engine"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.274285714286	0.533333333333
+7CDEF6E6	"On Retrieval System Evaluation of Search Engines"	"Journal of Computer Research and Development"	0.46	0.47
+7CA69408	"Query Recommendation for Improving Search Engine Results"	"Information not present"	0.511666666667	0.405753968254
+778BA903	"Socially filtered web search: an approach using social bookmarking tags to personalize web search"	"Information not present"	0.500952380952	0.521490414348
+0B7A09F2	"A Peer-To-Peer Agent-Based Semantic Search Engine"	"Information not present"	0.334285714286	0.533333333333
+5EA9BA9A	"Beyond Search: Web-Scale Business Analytics"	"Web Information Systems Engineering"	0.274285714286	0.55
+6EE80B1E	"Next-Generation Search Engines for Information Retrieval"	"Information not present"	0.475	0.547916666667
+7E77C0EB	"Personalized User-Query Semantic Clustering Using Search Click Information"	"Mobile Adhoc and Sensor Systems"	0.508333333333	0.438161375661
+7C6FDD01	"Using a Learning Tool for Improving Results from a Multi-Lingual and Multi-Cultural Herbal Search Engine"	"Advanced Materials Research"	0.511666666667	0.419764957265
+7FF65EC5	"Design and implementation of personalized search model on user's interest"	"International Conference on E-Business and E-Government"	0.506666666667	0.376252319109
+7D60F945	"Beyond Single-Page Web Search Results"	"IEEE Transactions on Knowledge and Data Engineering"	0.295	0.5625
+7EF838AE	"Summarizing local context to personalize global web search"	"Conference on Information and Knowledge Management"	0.511111111111	0.462222222222
+7921B87F	"Tools-at-hand and learning in multi-session, collaborative search"	"Human Factors in Computing Systems"	0.334285714286	0.555555555556
+7EBC6165	"Evolutionary search for optimal fuzzy c-means clustering"	"Information not present"	0.334285714286	0.571428571429
+7F963D1A	"Stay Elsewhere? Improving Local Search for Hotels Using Econometric Modeling and Image Classification ∗"	"International Workshop on the Web and Databases"	0.504273504274	0.381143162393
+5DF44104	"Improving Performance of Search Engines Based on Fuzzy Classification"	"Information not present"	0.500952380952	0.451587301587
+7FB944F5	"CYBER: A CommunitY-Based sEaRch engine"	"International Conference on Peer-to-Peer Computing"	0.274285714286	0.533333333333
+80E6F042	"Log mining to improve the performance of site search"	"Web Information Systems Engineering"	0.502051282051	0.400518925519
+7645C42C	"AquaBrowser Library: Search, Discover, Refine"	"Library Hi Tech News"	0.274285714286	1.0
+7F3C4F4D	"Probabilistic first pass retrieval for search advertising: from theory to practice"	"Conference on Information and Knowledge Management"	0.522222222222	0.450336700337
+7EF8ED8D	"ODISSEA: A Peer-to-Peer Architecture for Scalable Web Search and Information Retrieval"	"International Workshop on the Web and Databases"	0.525	0.550480769231
+7ECEAEEC	"Using the Knowledge of Object Colors to Segment Images and Improve Web Image Search"	"Information not present"	0.51746031746	0.324074074074
+7A11F4BF	"Comparative evaluation of web search engines in health information retrieval"	"Online Information Review"	0.525	0.413762626263
+76B9F606	"Effectiveness of keyword-based display and selection of retrieval results for interactive searches"	"International Journal on Digital Libraries"	0.525	0.487222222222
+07208D02	"The Ontological Perspectives of the Semantic Web and the Metadata Harvesting Protocol: Applications of Metadata for Improving Web Search."	"Information not present"	0.511111111111	0.332716049383
+7EECDB30	"Combinatorial Fusion Analysis for Meta Search Information Retrieval"	"Information not present"	0.525	0.493571428571
+75B65C35	"Multi-keyword sponsored search"	"Evolutionary Computation"	0.291428571429	0.571428571429
+7883CF55	"Anonymous personalization in collaborative web search"	"Information Retrieval"	0.344444444444	0.555555555556
+0F130455	"Meta search engine"	"Information not present"	0.274285714286	0.533333333333
+817A59CB	"Personalized Search Ranking Based on Semantic Tag"	"Advanced Materials Research"	0.500952380952	0.508181818182
+79B6DA40	"BirdFinder: Web search and audio search extension"	"Information not present"	0.274285714286	0.7
+77C2C5D1	"A cooperative schema between Web sever and search engine for improving freshness of Web repository"	"Wuhan University Journal of Natural Sciences"	0.513888888889	0.356746031746
+79F865C6	"Improving multi-faceted book search by incorporating sparse latent semantic analysis of click-through logs"	"ACM/IEEE Joint Conference on Digital Libraries"	0.502051282051	0.425
+0C0DB879	"Logsonomy: A Search Engine Folksonomy"	"International Conference on Weblogs and Social Media"	0.274285714286	0.533333333333
+753A28D6	"A New Retrieval Model Based on TextTiling for Document Similarity Search"	"Journal of Computer Science and Technology"	0.54	0.442003367003
+756D83CA	"Podcast search: user goals and retrieval technologies"	"Online Information Review"	0.466666666667	0.485
+79F93491	"What Can Pictures Tell Us About Web Pages? Improving Document Search Using Images"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.511111111111	0.333679283679
+757CC746	"A New Search Engine for Chinese Document Image Retrieval Based on Chinese Character Segmentation Features"	"International Journal of Computer Processing of Languages"	0.522222222222	0.314646464646
+0E93F465	"SINAI at CLEF Ad-Hoc Robust Track 2007: Applying Google Search Engine for Robust Cross-Lingual Retrieval"	"Cross-Language Evaluation Forum"	0.52	0.364347557205
+7D2409BB	"Zerber +R : top-k retrieval from a confidential index"	"Extending Database Technology"	0.338181818182	0.55
+789F8B1C	"Search and retrieval of multimedia objects over a distributed P2P network for mobile devices"	"IEEE Wireless Communications"	0.525	0.421296296296
+7E1AB331	"Using Educational Resources to Improve the Efficiency of Web Searches for Additional Learning Material"	"International Conference on Advanced Learning Technologies"	0.508888888889	0.384920634921
+05EBB0CA	"Improving the Information Retrieval in the World Wide Web"	"Information not present"	0.513888888889	0.465404040404
+7D1797AA	"Improving web search result categorization using knowledge from web taxonomy"	"Information not present"	0.520238095238	0.358585858586
+7C6F921F	"Toward a qualitative search engine"	"IEEE Internet Computing"	0.334285714286	0.533333333333
+7AA047A6	"SCPS: A Social-Aware Distributed Cyber-Physical Human-Centric Search Engine"	"Global Communications Conference"	0.334285714286	0.533333333333
+7D5A5E27	"High-performance, very low power content-based search engine"	"International Conference on Multimedia and Expo"	0.416666666667	0.522222222222
+7AE337F9	"Output-sensitive autocompletion search"	"Information Retrieval"	0.274285714286	1.0
+83E99CA1	"MSTAR's extensible search engine and model-based inferencing toolkit"	"Information not present"	0.334285714286	0.533333333333
+8132A17C	"Temporal information retrieval in cooperative search engine"	"Database and Expert Systems Applications"	0.525	0.547916666667
+77E9A73C	"Web search clickstreams"	"Internet Measurement Conference"	0.274285714286	1.0
+6BB169A0	"Universal Mobile Information Retrieval"	"Information not present"	0.347222222222	0.5625
+7D23C265	"Search engine retrieval of changing information"	"World Wide Web"	0.625	0.538333333333
+7DEA9D12	"A Boolean Model in Information Retrieval for Search Engines"	"Information not present"	0.525	0.456515151515
+7ECA8D7D	"Ontology based personalized search"	"IEEE Transactions on Applications and Industry"	0.500952380952	0.590277777778
+5E8DC003	"Enhanced Visual Experience and Archival Reusability in Personalized Search Based on Modified Spider Graph"	"International Symposium on Visual Computing"	0.508333333333	0.424768518519
+76A809CB	"PMSE: A Personalized Mobile Search Engine"	"IEEE Transactions on Knowledge and Data Engineering"	0.334285714286	0.533333333333
+776BD487	"Web Search Engines for Polish Information Retrieval: Questions of Search Capabilities and Retrieval Performance"	"International Information & Library Review"	0.54	0.42094356261
+79582BA3	"Improving web image search results using query-relative classifiers"	"Computer Vision and Pattern Recognition"	0.511666666667	0.428240740741
+7969467D	"Succinct nearest neighbor search"	"Similarity Search and Applications"	0.34	0.55
+5C0EB103	"A Tool to Personalize the Ranking of the Documents Returned by an Internet Search Engine"	"Journal of Convergence Information Technology"	0.507051282051	0.368528693529
+7664F60C	"Learning from decoys to improve the sensitivity and specificity of proteomics database search results."	"PLOS ONE"	0.531666666667	0.352323717949
+780324C6	"wikiSearch: enabling interactivity in search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.334285714286	1.0
+76B5C456	"Improving QA processing by semantic reformulation"	"Information not present"	0.348888888889	0.6
+787F20C4	"Information Retrieval using Semantic Web Browser - Personalized and Categorical Web Search"	"Information not present"	0.691666666667	0.513888888889
+5B1AB72A	"Improved depth first algorithm and its application in information retrieval"	"Information not present"	0.541666666667	0.5
+7F57F82C	"Digital Image Retrieval Using Intermediate Semantic Features and Multistep Search"	"Digital Image Computing: Techniques and Applications"	0.52	0.490404040404
+7E065D38	"Towards a task-based search and recommender systems"	"International Conference on Data Engineering"	0.276666666667	0.541666666667
+7B722E7E	"Earlybird: Real-Time Search at Twitter"	"International Conference on Data Engineering"	0.334285714286	0.571428571429
+06DC3574	"Tuning Search Engine To Fit {XML} Retrieval Scenario"	"Information not present"	0.52	0.425072150072
+75DC6A96	"Funes and the Search Engine"	"Journal of Library Administration"	0.274285714286	0.533333333333
+02426620	"Exploiting Code Search Engines to Improve Programmer Productivity and Quality"	"Information not present"	0.551515151515	0.376988636364
+801A8370	"A New Keywords Method to Improve Web Search"	"High Performance Computing and Communications"	0.511111111111	0.555555555556
+769B2777	"Full Text and Figure Display Improves Bioscience Literature Search"	"PLOS ONE"	0.504273504274	0.403703703704
+7CD8D74E	"The retrieval effectiveness of search engines on navigational queries"	"Aslib Proceedings"	0.515384615385	0.552380952381
+7E6E49AD	"Towards a Development Process for Geospatial Information Retrieval and Search"	"Information not present"	0.475	0.516666666667
+75AD74BF	"Improving Search Performance: A Lesson Learned from Evaluating Search Engines Using Thai Queries"	"Ieice Transactions"	0.503333333333	0.385930735931
+75EE9067	"Personalised and domain specific user interface for a search engine"	"Computer Information Systems and Industrial Management Applications"	0.500952380952	0.534523809524
+07C150FC	"Improved Data Search Capability At The PDS Rings Node"	"Information not present"	0.523333333333	0.375061842919
+7712522B	"Search and browse log mining for web information retrieval: challenges, methods, and applications"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.478571428571	0.324823633157
+80E6C6A6	"Using Context to Improve the Evaluation of Information Retrieval Systems"	"Clinical Orthopaedics and Related Research"	0.531666666667	0.394047619048
+0245745C	"Elasticsearch as a new search engine for Invenio and more"	"Information not present"	0.334285714286	0.533333333333
+7B60E99F	"BioTCM-SE: a semantic search engine for the information retrieval of modern biology and traditional Chinese medicine."	"Computational and Mathematical Methods in Medicine"	0.525	0.390003052503
+7FF5F68C	"EBIR: Emotion-based image retrieval"	"Information not present"	0.282222222222	0.555555555556
+7D2855B2	"Improving the relevance of search engine results by using semantic information from wikipedia"	"Information not present"	0.516666666667	0.384523809524
+794D96B1	"Modeling search engine effectiveness for federated search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.472527472527	0.555753968254
+7CDED0CA	"Structured Intelligent Search Engine for effective information retrieval using query clustering technique and Semantic Web"	"International Conference on Contemporary Computing"	0.525	0.320987654321
+80DB263A	"Macro-clustering: improved information retrieval using fuzzy logic"	"Information not present"	0.513888888889	0.491666666667
+81697002	"Personalized Structuring of Retrieved Items"	"Information not present"	0.330555555556	0.5625
+758583B1	"DBXplorer: enabling keyword search over relational databases"	"International Conference on Management of Data"	0.337606837607	0.555555555556
+78CFE4ED	"The retrieval problem for health policy and public health: Knowledge bases and search engines"	"Journal of Urban Health-bulletin of The New York Academy of Medicine"	0.528571428571	0.300887075887
+7B170EA2	"Evaluating the retrieval effectiveness of web search engines using a representative query sample"	"Journal of the Association for Information Science and Technology"	0.7	0.467162698413
+7C4FAEC2	"A retrieval method for similar Q&A articles of web bulletin board with relevance index derived from commercial web search engine"	"Information not present"	0.525	0.24155011655
+7E8ED2B6	"A parallel search engine with BSP"	"Latin American Web Congress"	0.334285714286	0.533333333333
+804A735C	"A study of multitasking Web search"	"Information not present"	0.274285714286	0.583333333333
+7FBC8483	"Ontology-Based Retrieval of Human Speech"	"Database and Expert Systems Applications"	0.36	0.6
+802E33E9	"Improving Clinical Care with MIDGI-A"	"Information not present"	0.348181818182	0.625
+6E411207	"Improving Performance Support Systems through Information Retrieval Evaluation"	"Information not present"	0.558333333333	0.412074829932
+7DCADA91	"Personalized Search Based on Hybrid Clustering Algorithms"	"Information not present"	0.500952380952	0.518571428571
+800B220F	"Mimicking Web search engines for expert search"	"Information Processing and Management"	0.334285714286	0.552380952381
+7C24C2F2	"MathFind: a math-aware search engine"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.274285714286	0.533333333333
+781A15F6	"Random walk based rank aggregation to improving web search"	"Knowledge Based Systems"	0.51341991342	0.43630952381
+7E0964F5	"Domain-Based Adaptive T-Rank Search Algorithm"	"Pacific-Asia Conference on Circuits, Communications and Systems"	0.334285714286	0.6
+5B76909D	"The Xircus Search Engine"	"Information not present"	0.274285714286	0.533333333333
+802A6C25	"Evaluating the effectiveness of search task trails"	"World Wide Web"	0.483333333333	0.5
+6399F280	"Web Search Fundamentals"	"Information not present"	0.274285714286	0.541666666667
+06D0F542	"A Hybrid Ontology and Content-Based Search Engine For Multimedia Retrieval"	"Advances in Databases and Information Systems"	0.52	0.468888888889
+7AD2D01E	"Automatic retrieval of similar content using search engine query interface"	"Conference on Information and Knowledge Management"	0.525	0.379421768707
+5984E90C	"Improving web search results for homonyms by suggesting completions from an ontology"	"International Conference on Web Engineering"	0.511666666667	0.371995464853
+7B11BDBE	"Approximate nearest neighbor search on HDD"	"International Conference on Computer Vision"	0.34	0.55
+7DD816D7	"Exploiting site-level information to improve web search"	"Conference on Information and Knowledge Management"	0.513888888889	0.487222222222
+790B5A53	"Efficient two-sided error-tolerant search"	"International Conference on Management of Data"	0.334285714286	1.0
+5C886339	"Peer-to-peer information retrieval"	"Oecologia"	0.297222222222	0.5625
+59BC1F60	"Quantitative evaluation of recall and precision of CAT Crawler, a search engine specialized on retrieval of Critically Appraised Topics"	"BMC Medical Informatics and Decision Making"	0.533333333333	0.293421052632
+7779588E	"Improving collection selection with overlap awareness in P2P search engines"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.51341991342	0.418253968254
+790E9E4D	"Social Semantic Retrieval and Ranking of eResources"	"Advances in Recent Technologies in Communication and Computing"	0.343181818182	0.5625
+7A075AA4	"A comparative analysis of the search feature effectiveness of the major English and Chinese search engines"	"Online Information Review"	0.515384615385	0.559595959596
+7DBC0AEC	"Research on Concept Lattice Based Personalized Information Retrieval"	"International Conference on Machine Learning and Cybernetics"	0.531666666667	0.399603174603
+7E988A64	"Business-Based SMS Mobile Search"	"Advanced Information Networking and Applications"	0.276666666667	0.545454545455
+79D8811A	"Domain ontology based semantic search for efficient information retrieval through automatic query expansion"	"Information not present"	0.525	0.359871031746
+764855D1	"Improving web search transparency by using a Venn diagram interface"	"Nordic Conference on Human-Computer Interaction"	0.506666666667	0.415476190476
+7B8D6C4A	"Improving Query Delay in Private Web Search"	"Information not present"	0.511111111111	0.473015873016
+5FB10204	"Discovering the Context of WWW Pages to Improve the Effectiveness of Local Search Engines"	"Flexible Query Answering Systems"	0.682051282051	0.434615384615
+7D7DED05	"Personalized News Search in WWW: Adapting on User's Behavior"	"International Conference on Internet and Web Applications and Services"	0.508888888889	0.435185185185
+7D23EA4E	"BJTU TRECVID 2007 Video Search"	"Information not present"	0.291666666667	0.5625
+79E2430F	"Autonomous search for mines"	"European Journal of Operational Research"	0.336666666667	0.541666666667
+58F84A6F	"Ontology-based semantic information retrieval"	"Information not present"	0.347222222222	0.5625
+7F89F4B0	"Integration of Semantic, Metadata and Image search engines with a text search engine for patent retrieval"	"Information not present"	0.522222222222	0.448611111111
+5AF5C77E	"Semantic P2P search engine"	"Federated Conference on Computer Science and Information Systems"	0.334285714286	0.533333333333
+7E7F3354	"Intelligent broker for collaborative search and retrieval of construction information on the WWW"	"Information not present"	0.525	0.4125
+7A09D7CC	"Evaluating the retrieval effectiveness of search engines using Persian navigational queries"	"Information not present"	0.7	0.518027210884
+7D0A635C	"Personalized Information Retrieval Using the User History"	"Multimedia and Ubiquitous Engineering"	0.51746031746	0.43630952381
+58912026	"The State-of-the-arts in Focused Search"	"IEEE Journal of Quantum Electronics"	0.334285714286	1.0
+5AECF142	"Bibliographical Meta Search Engine for the Retrieval of Scientific Articles"	"European Conference on Research and Advanced Technology for Digital Libraries"	0.52	0.539393939394
+7DC42409	"Prototype-Based Image Search Reranking"	"IEEE Transactions on Multimedia"	0.274285714286	0.555555555556
+5DC68831	"A Theory and Approach to Improving Relevance Ranking in Web Retrieval"	"Wirtschaftsinformatik \/ Angewandte Informatik"	0.525	0.374098124098
+7FB69D35	"Context-Based Adaptive Personalized Web Search for Improving Information Retrieval Effectiveness"	"Information not present"	1.0	0.748015873016
+76D31FFB	"Using navigation data to improve IR functions in the context of web search"	"Conference on Information and Knowledge Management"	0.508333333333	0.361363636364
+7EC5B3FC	"Retroactive answering of search queries"	"World Wide Web"	0.334285714286	0.571428571429
+7CF9D6CA	"Can social bookmarking enhance search in the web?"	"ACM/IEEE Joint Conference on Digital Libraries"	0.344444444444	0.555555555556
+02F96472	"Smart Search Engine For Information Retrieval"	"Information not present"	0.525	0.547916666667
+6D5F93CD	"The Edisyn search engine"	"Information not present"	0.274285714286	0.533333333333
+7D86A7BE	"Improving cross-language text retrieval with human interactions"	"Hawaii International Conference on System Sciences"	0.526666666667	0.575
+5C6D3FC5	"Web Search Algorithms and PageRank"	"Information not present"	0.274285714286	0.6
+7A472463	"Exploring Web Search Behavior Patterns to Personalize the Search Results"	"Intelligent Networking and Collaborative Systems"	0.513888888889	0.535714285714
+75B4FB0F	"Citation-based retrieval for scholarly publications"	"IEEE Intelligent Systems"	0.32967032967	0.535714285714
+5DE66B8D	"Personalized online information search and visualization"	"BMC Medical Informatics and Decision Making"	0.508333333333	0.55625
+7B8C18DB	"Frontiers of search"	"IEEE Computer"	0.275384615385	0.538461538462
+06CA4F5E	"A Study on the XML-based Dynamic Search Engine for Internet Information Retrieval"	"Information not present"	0.525	0.471666666667
+77C43139	"Improving Web search efficiency via a locality based static pruning method"	"World Wide Web"	0.507070707071	0.377150627151
+806335D4	"High-accuracy text search of hardcopy logs"	"Information not present"	0.275384615385	0.541666666667
+7FE1D2D6	"SoDesktop: A Desktop Search Engine"	"Information not present"	0.274285714286	0.533333333333
+09059DD8	"APLIKASI SEARCH ENGINE MENGGUNAKAN ALGORITMA KNUTH-MORRIS-PRATT (KMP)"	"Information not present"	0.274285714286	0.533333333333
+7D438750	"Personalized Information Retrieval Model Based on User Interests"	"Computer Systems: Science & Engineering"	0.513888888889	0.380844155844
+7A043483	"Improving search engines using human computation games"	"Conference on Information and Knowledge Management"	0.500952380952	0.483333333333
+5C436D37	"CADIAL Search Engine at INEX"	"Information not present"	0.274285714286	0.533333333333
+7C56D74C	"A Visual Similarity-Based 3D Search Engine"	"Data Science Journal"	0.334285714286	0.533333333333
+5F90BD7D	"Combining fact and document retrieval with spreading activation for semantic desktop search"	"European Semantic Web Conference"	0.522222222222	0.357465277778
+758CA99F	"Semantic Search Engine"	"Journal of Information & Knowledge Management"	0.334285714286	0.533333333333
+719776D5	"Paths of discovery: Comparing the search effectiveness of EBSCO Discovery Service, Summon, Google Scholar, and conventional library resources."	"Information not present"	0.518181818182	0.339011544012
+80D5E0EB	"HeyStaks: a real-world deployment of social search"	"Conference on Recommender Systems"	0.334285714286	0.625
+7B5576F8	"Who, what, where & when: a new approach to mobile search"	"Intelligent User Interfaces"	0.334285714286	0.583333333333
+803E6300	"GUIDO: visualizing document retrieval"	"Information not present"	0.286666666667	0.555555555556
+775DD98C	"Context sensitive stemming for web search"	"International ACM SIGIR Conference on Research and Development in Information Retrieval"	0.344444444444	0.555555555556
