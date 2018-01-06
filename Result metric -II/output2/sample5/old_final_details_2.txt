@@ -1,0 +1,445 @@
+7F96C5A1	The evaluations of FTF-IDF scoring for fresh information retrieval	Advanced Information Networking and Applications
+78988399	On personalizing Web search using social network analysis	Information Sciences
+7836C54E	SMS-based contextual web search	ACM Special Interest Group on Data Communication
+7AA498BD	Nonlinear ranking function representations in genetic programming-based ranking discovery for personalized search	Decision Support Systems
+809760C7	Towards an Effective XML Keyword Search	IEEE Transactions on Knowledge and Data Engineering
+8177B826	A Contextualized and Personalized Approach for Mobile Search	Advanced Information Networking and Applications
+793F307E	Towards enhancing retrieval effectiveness of search engines for diacritisized Arabic documents	Information Retrieval
+7D65F3AD	Finding OERs with Social-Semantic search	Information not present
+7DF34667	The anatomy of an ad: structured indexing and retrieval for sponsored search	World Wide Web
+084ED1CA	Toward Enabling Users to Visually Evaluate the Effectiveness of Different Search Methods	Journal of Web Engineering
+7DEB3FE5	The Role of Search Engine Optimization in Search Marketing	Marketing Science
+77BC5777	Optimizing search engine revenue in sponsored search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+800B1F12	Search Engines: Information Retrieval in Practice	Information not present
+7C8E95F6	Web Search---Your Way	Communications of The ACM
+7EB535A0	Web Information Retrieval Support Systems: The Future of Web Search	Web Intelligence
+75A753E0	The retrieval effectiveness of web search engines: considering results descriptions	Journal of Documentation
+7568AEB6	Searching for the Next U.S. President: Differences in Search Engine Results for the 2008 U.S. Presidential Candidates	Journal of Information Technology & Politics
+80349827	Personalized Concept-Based Clustering of Search Engine Queries	IEEE Transactions on Knowledge and Data Engineering
+7DE6F7F8	On improving local website search using web server traffic logs: a preliminary report	Web Information and Data Management
+80EF026A	OCS — A system for optimizing, clustering and summarizing web search results using intelligent agents	Information not present
+800F8DFC	Personalized Web search with location preferences	International Conference on Data Engineering
+5931C934	Squiggle : a Semantic Search Engine for indexing and retrieval of multimedia content	International Semantic Web Conference
+7F61F76F	Personalized search using identity-based hashing	Digital Identity Management
+80FE5C9B	Distributed information retrieval by using cooperative meta search engines	International Conference on Distributed Computing Systems
+802BB344	A Community-Based Approach to Personalizing Web Search	IEEE Computer
+7E4E8326	Good abandonment in mobile and PC internet search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+76AD2139	A cooperative classification mechanism for search and retrieval software components	Information not present
+807CA9B6	Improving search results with data mining in a thematic search engine	Computers & Operations Research
+7A4A2B17	Tuning up the search engine	It Professional
+7E29994A	Improve Search by Optimization or Personalization, A Case Study in Sogou Log	International Conference on Asian Language Processing
+7D6DFDA0	Improving Web Search Using Contextual Retrieval	International Conference on Information Technology: New Generations
+77B9A889	The influence of the document ranking in expert search	Conference on Information and Knowledge Management
+5DF61D56	Output-Sensitive autocompletion search	String Processing and Information Retrieval
+7CF24ED6	The good, the bad, and the random: an eye-tracking study of ad quality in web search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+5F455356	Personalized Search Results with User Interest Hierarchies Learnt from Bookmarks	Knowledge Discovery and Data Mining
+7E68B74F	Schema-Aware Keyword Search over XML Streams	Computer and Information Technology
+7FDE2317	Tagging and searching: Search retrieval effectiveness of folksonomies on the World Wide Web	Information Processing and Management
+803705D2	A Novel Architecture for Trademark Image Retrieval Systems	Information not present
+7713A5ED	Self-supervised web search for any-k complete tuples	Information not present
+813C389B	Masked Queries for Search Accuracy in Peer-to-Peer File-Sharing Systems	International Parallel and Distributed Processing Symposium
+7C3172E1	Analyzing the emotional outcomes of the online search behavior with search engines	Computers in Human Behavior
+75C9FB5E	Using Local Popularity of Web Resources for Geo-Ranking of Search Engine Results	World Wide Web
+7F1EE353	Knowledge Aggregation in Human Flesh Search	Information not present
+5DB93340	A frequency mining-based algorithm for re-ranking web search engine retrievals	Canadian Conference on Artificial Intelligence
+7FCF36E0	Personalization in professional academic search	Information not present
+7F3F0AE2	The effectiveness of web search engines for retrieving relevant ecommerce links	Information Processing and Management
+5C3DD21F	Interactive Search Results	Theory and Practice of Digital Libraries
+78163739	Children's web search with Google: the effectiveness of natural language queries	Information not present
+7FFAFD6A	Monolingual, bilingual, and GIRT information retrieval at CLEF-2005	Cross-Language Evaluation Forum
+7D139314	Domain-specific search strategies for the effective retrieval of healthcare and shopping information	Human Factors in Computing Systems
+75E6DBFB	Rank-preserving two-level caching for scalable search engines	International ACM SIGIR Conference on Research and Development in Information Retrieval
+814E488A	XSeek: a semantic XML search engine using keywords	The Vldb Journal
+780AF8E1	SearchPad: explicit capture of search context to support Web search	Computer Networks
+5D6C4519	Building a prototype for quality information retrieval from the World Wide Web	Information not present
+8106F131	Trademark image retrieval using multiple features	Information not present
+7E0775CE	A task level metric for measuring web search satisfaction and its application on improving relevance estimation	Conference on Information and Knowledge Management
+770C9451	The influence of task and gender on search and evaluation behavior using Google	Information Processing and Management
+7CACECF3	Heuristic and Systematic Use of Search Engines	Journal of Computer-Mediated Communication
+7C53B40A	Web search engine based on DNS	Journal of Network and Computer Applications
+806CD3BA	Searching Web Data: an Entity Retrieval and High-Performance Indexing Model	Journal of Web Semantics
+795E978D	Query term disambiguation for Web cross-language information retrieval using a search engine	Information not present
+698CD8D6	Improving Search and Navigation by Combining Ontologies and Social Tags	Information not present
+76F14E49	Fine-Grained Image Search	IEEE Transactions on Multimedia
+81596E14	Modeling user search behavior	Latin American Web Congress
+7E04CD0C	Approximate Keyword Search in Web Search Engines	International Conference on Digital Information Management
+5C3B840C	Intelligent Search on the Internet	Information not present
+7672C7FE	Interest-based personalized search	ACM Transactions on Information Systems
+7F33AB55	Semantics-based code search	International Conference on Software Engineering
+07AB6CCC	Online Health Search 2006	Information not present
+7D1797AA	Improving web search result categorization using knowledge from web taxonomy	Information not present
+7F5059C8	Cooperating search communities	Information not present
+7F93B827	Search, interrupted: understanding and predicting search task continuation	International ACM SIGIR Conference on Research and Development in Information Retrieval
+805F59C8	On improving wikipedia search using article quality	Web Information and Data Management
+81344911	Spatial information retrieval and geographical ontologies an overview of the SPIRIT project	International ACM SIGIR Conference on Research and Development in Information Retrieval
+799307DF	Quantifying performance and quality gains in distributed web search engines	International ACM SIGIR Conference on Research and Development in Information Retrieval
+5C7441FA	Improving Display of Search Results in Information Retrieval Systems - Users' Study	Information not present
+819BF817	Auctioning Keywords in Online Search	Information not present
+7A611369	Identification of ambiguous queries in web search	Information Processing and Management
+8111C4FF	One Search Engine or Two for Question-Answering	Information not present
+7ED3A320	Inferring and using location metadata to personalize web search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7AE337F9	Output-sensitive autocompletion search	Information Retrieval
+58780BAF	User Model for Conceptual and Personalized Search	Computer Recognition Systems
+7C0AC29F	A generic ranking function discovery framework by genetic programming for information retrieval	Information Processing and Management
+8080E4F7	Effectiveness of cooperative resource collecting robots for Web search engines	Information not present
+5B7E9137	Peer-to-Peer Information Search: Semantic, Social, or Spiritual?	IEEE Data(base) Engineering Bulletin
+80A17545	Effects of search success on search engine re-use	Conference on Information and Knowledge Management
+7A7734B7	Approximate distributed metric-space search	Information not present
+7BDD7D97	Dual-ranking for web image retrieval	Conference on Image and Video Retrieval
+59CE7EA6	Towards Semantic Search	Applications of Natural Language to Data Bases
+7784EEC3	Supporting intelligent Web search	ACM Transactions on Internet Technology
+7928820F	Circular Reranking for Visual Search	IEEE Transactions on Image Processing
+5FC37564	(Sync|Async) + MPI Search Engines	Information not present
+80BE578A	Improving the Effectiveness of XML Retrieval with User Navigation Models	International Conference on Data Engineering
+77F70B2B	Geographic features in web search retrieval	Geographic Information Retrieval
+7EE10ABC	Exploiting multi-evidence from multiple user’s interests to personalizing information retrieval	International Conference on Digital Information Management
+7F6257E8	Improved techniques for result caching in web search engines	World Wide Web
+7792FDA1	An investigation of user attitudes toward search engines as an information retrieval tool	Computers in Human Behavior
+774ED892	On the effectiveness of anonymizing networks for web search privacy	Computer and Communications Security
+7B0ACCDE	Multimodal medical image retrieval: image categorization to improve search precision	Multimedia Information Retrieval
+77AEC8E8	An integration framework for search engine architecture to improve information retrieval quality	Information not present
+76223E38	iLike: integrating visual and textual features for vertical search	ACM Multimedia
+62BDA97E	Use link-based clustering to improve Web search results	Web Information Systems Engineering
+75A63A77	XRANK: ranked keyword search over XML documents	International Conference on Management of Data
+7E4A75BB	Zeeker: A topic-based search engine	Information not present
+5FBFF72A	Detecting Session Boundaries to Personalize Search Using a Conceptual User Context	World Congress on Engineering
+810D9A57	A new evolutionary algorithm combining simulated annealing and genetic programming for relevance feedback in fuzzy information retrieval systems	Soft Computing
+0AF946C8	Ontology-Based Intelligent Mobile Search Oriented to Global e-Commerce	The International Arab Journal of Information Technology
+7D7555AC	Improving Web search using image snippets	ACM Transactions on Internet Technology
+7E0E3B81	A community-aware search engine	World Wide Web
+7DD8D8BE	CubeSVD: a novel approach to personalized Web search	World Wide Web
+5C7B3FF5	Optimizing Information Retrieval Using Evolutionary Algorithms and Fuzzy Inference System	Information not present
+7E479EDA	Adverse Selection in Online Search	Database and Expert Systems Applications
+7C6F921F	Toward a qualitative search engine	IEEE Internet Computing
+5D52A1FA	A node indexing scheme for web entity retrieval	International Semantic Web Conference
+63913EDD	Synonym search in Wikipedia: Synarcher	Clinical Orthopaedics and Related Research
+7ED8F0F4	Developing search strategies for clinical practice guidelines in SUMSearch and Google Scholar and assessing their retrieval performance	BMC Medical Research Methodology
+7F9C52AF	Exploiting Semantic Query Context to Improve Search Ranking	IEEE Internet Computing
+5868757B	Spatio-textual indexing for geographical search on the web	Information not present
+7933A6BF	A survey in semantic search technologies	Information not present
+80F4E2C0	The retrieval of highly scattered facts and architectural images: Strategies for search and design	Automation in Construction
+780324C6	wikiSearch: enabling interactivity in search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+5CB6B573	Using SiteRank for P2P Web Retrieval	Information not present
+5F98208B	MINERVA: collaborative P2P search	The Vldb Journal
+7BFCC0CD	The influence of the document ranking in expert search	Information Processing and Management
+787F20C4	Information Retrieval using Semantic Web Browser - Personalized and Categorical Web Search	Information not present
+062D5835	Faceted Wikipedia Search	Business Information Systems
+5C4AFEFD	Towards a Next-Generation Search Engine	Pacific Rim International Conference on Artificial Intelligence
+76D6C330	How Well Do Search Engines Support Code Retrieval on the Web?	ACM Transactions on Software Engineering and Methodology
+58E0F76E	Search Quality and Revenue Cannibalization by Competing Search Engines	Journal of Economics and Management Strategy
+80650A24	Improving searcher models using mouse cursor activity	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7BB9B487	A scalable real-time search engine for fast retrieval of social media content	Information not present
+7EFD664E	Decentralized Web Search	Information not present
+5C876A35	Influence diagrams for contextual information retrieval	European Conference on Information Retrieval
+7D5F5403	Examining repetition in user search behavior	European Conference on Information Retrieval
+804C3A1A	Semantic-Enhanced Information Search and Retrieval	Information not present
+7FF8BD9E	Content-aware Ranking for visual search	Computer Vision and Pattern Recognition
+783C0F43	Search-logger analyzing exploratory search tasks	Information not present
+80EC94A8	Semantic Similarity Search on Semistructured Data with the XXL Search Engine	Information Retrieval
+5BBEFA9F	Caching for realtime search	European Conference on Information Retrieval
+5C2781F3	Information Retrieval Effectiveness of Turkish Search Engines	Information not present
+055F1382	Query operators shown beneficial for improving search results	Theory and Practice of Digital Libraries
+7D710FEE	A Framework Enabling Semantic Search in Health Service Ecosystems	Semantics, Knowledge and Grid
+7D494CDB	Structural feedback for keyword-based XML retrieval	European Conference on Information Retrieval
+8043020F	Identifying ambiguous queries in web search	World Wide Web
+7ECA8D7D	Ontology based personalized search	IEEE Transactions on Applications and Industry
+03AE72E1	Finding information on the WWW: the retrieval effectiveness of search engines	Information Processing and Management
+7FA00BE4	Quality and relevance of domain-specific search: A case study in mental health	Information Retrieval
+7B722E7E	Earlybird: Real-Time Search at Twitter	International Conference on Data Engineering
+7510D861	Finding information on the World Wide Web: the retrieval effectiveness of search engines	Information Processing and Management
+5F3F7154	An effective and efficient approach for keyword-based XML retrieval	Web-Age Information Management
+7DAD4E2E	Privacy-enhancing personalized web search	World Wide Web
+789B3005	Identifying and improving retrieval for procedural questions	Information Processing and Management
+013FB430	The Optimal Monotonization for Search Queries in Cooperative Search Engine	Information not present
+7F30032A	Using Query Word Senses and User Feedback to Improve Precision of Search Engine	Journal of The Korean Society for Information Management
+5C7467D9	Improving Re-ranking of Search Results Using Collaborative Filtering	Asia Information Retrieval Symposium
+58912026	The State-of-the-arts in Focused Search	IEEE Journal of Quantum Electronics
+7ECB3ABA	DART: the distributed agent-based retrieval toolkit	Information not present
+7B55EA6D	An elaborated model of social search	Information Processing and Management
+80920187	Enhancing Search Engine Quality Using Concept-based Text Retrieval	Wirtschaftsinformatik \/ Angewandte Informatik
+7CB76D90	Refining search results using a mining framework	Expert Systems With Applications
+7914DC34	Online advertising effectiveness: a cross‐cultural comparison	Journal of Research in Interactive Marketing
+76ACDB98	Usability and perception of young users and adults on targeted web search engines	Information Interaction in Context
+76CFAD3C	Brute force web search for wireless devices using mobile agents	Journal of Systems and Software
+5C13A055	Information Granulation for the Design of Granular Information Retrieval Systems	Information not present
+5BE60217	Search in Context	International Conference on Enterprise Information Systems
+5DE0F861	Trustworthiness analysis of web search results	European Conference on Research and Advanced Technology for Digital Libraries
+7DCABF7A	IMPROVING ENCARTA SEARCH ENGINE PERFORMANCE BY MINING USER LOGS	International Journal of Pattern Recognition and Artificial Intelligence
+7FDC9037	Personalized Web Search Using Probabilistic Query Expansion	Web Intelligence
+63B5D4AF	Fresh Information Retrieval Using Cooperative Meta Search Engines	International Conference on Information Networking
+807A962C	The influence of mental models and goals on search patterns during web interaction	Journal of the Association for Information Science and Technology
+5B289DA6	Personalization of search engine services for effective retrieval and knowledge management	International Conference on Information Systems
+6FCE56AF	mNIR: diversifying search results based on a mixture of novelty, intention and relevance	Web Information Systems Engineering
+80AF3069	Thesaurus-based 3D Object Retrieval with Part-in-Whole Matching	International Journal of Computer Vision
+802586F0	SEARCHY: An Agent to Personalize Search Results	International Conference on Internet and Web Applications and Services
+7BE24003	A Document Clustering Algorithm for Web Search Engine Retrieval System	Information not present
+751A9ADF	Auctioning Keywords in Oline Search	Journal of Marketing
+5F7C30FC	Toward Topic Search on the Web	Information not present
+7D247268	Incremental Text Indexing for Fast Disk-Based Search	ACM Transactions on The Web
+801A3A29	Personalized search on the world wide web	Information not present
+80C57B08	Search Engines Evaluation	Information not present
+773FA33E	Measuring search engine quality in image queries in 10 non-English languages: an exploratory study	Conference on Information and Knowledge Management
+7EB357D3	Personalizing web search results by reading level	Conference on Information and Knowledge Management
+76021E62	A fuzzy ranking approach for improving search results in Turkish as an agglutinative language	Expert Systems With Applications
+0C22B13B	Personalizing search based on user search history	Information not present
+5F796681	Evaluation of three German search engines: Altavista	Information Retrieval
+79526EA3	Generating page clippings from web search results using a dynamically terminated genetic algorithm	Information Systems
+7E301C35	Trends in search interaction	Information not present
+750B0B55	Learning to estimate query difficulty: including applications to missing content detection and distributed information retrieval	International ACM SIGIR Conference on Research and Development in Information Retrieval
+70124B4A	Enriching Ontology for Deep Web Search	Database and Expert Systems Applications
+6B42156B	Adaptive Incentive-Compatible Sponsored Search Auction	Conference on Current Trends in Theory and Practice of Informatics
+7F815941	Improving information retrieval effectiveness by using domain knowledge stored in ontologies	Information not present
+5E296627	Conceptual Knowledge Retrieval with FooCA: Improving Web Search Engine Results with Contexts and Concept Hierarchies	International Conference on Data Mining
+7F36F5F0	Page quality: in search of an unbiased web ranking	International Conference on Management of Data
+805112E8	Evaluating the Effectiveness of Personalized Web Search	IEEE Transactions on Knowledge and Data Engineering
+771A15EA	Using Twitter data to improve news results on search engine	Information not present
+81214AC1	Testing the effectiveness of retrieval to queries using polish words with diacritics	Atlantic Web Intelligence Conference
+7DE2726D	A comparison of social bookmarking with traditional search	European Conference on Information Retrieval
+814522B5	Utilizing visualisation for improving Web search effectiveness	Information not present
+7E6A3532	No clicks, no problem: using cursor movements to understand and improve search	Human Factors in Computing Systems
+805BCE5D	Optimizing Visual Search Reranking via Pairwise Learning	IEEE Transactions on Multimedia
+803EB3CE	Eye-tracking analysis of user behavior in WWW search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+773FA234	Towards a model of understanding social search	Computer Supported Cooperative Work
+7D543C0F	BioText Search Engine: beyond abstract search	Bioinformatics
+80D08718	Noise resistant graph ranking for improved web image search	Computer Vision and Pattern Recognition
+0AED12C4	Towards a Decentralized Search Architecture for the Web and P2P Systems	Information not present
+7BB95FC1	A Semantic Query Interpreter framework by using knowledge bases for image search and retrieval	International Symposium on Signal Processing and Information Technology
+7C385D50	A critical evaluation of ontology languages for geographic information retrieval on the Internet	Journal of Visual Languages and Computing
+0F390BC8	Context in Web Search	IEEE Data(base) Engineering Bulletin
+5AC3C4EC	Apply Feedback Control Theory to Design Soft Real-Time Search Engine System	Web-Age Information Management
+75555B8B	Characterizing the value of personalizing search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+765C1F93	Inverted Index Support for Numeric Search	Internet Mathematics
+7F3E4B93	A fast tree-based search algorithm for cluster search engine	Systems, Man and Cybernetics
+7B170EA2	Evaluating the retrieval effectiveness of web search engines using a representative query sample	Journal of the Association for Information Science and Technology
+7EE98F0E	Optimizing web search using web click-through data	Conference on Information and Knowledge Management
+7FACFF6C	FTF-IDF scoring for fresh information retrieval	Advanced Information Networking and Applications
+7B61A808	PSkip: estimating relevance ranking quality from web search clickthrough data	Knowledge Discovery and Data Mining
+7A2F83AA	Visual search editor for composing meta searches	Proceedings of The Asist Annual Meeting
+7D33D46B	Individual differences in gaze patterns for web search	Information Interaction in Context
+7FD26405	A subjective measure of web search quality	Information Sciences
+7778EBF3	Sharing private data through personalized search	Identity in The Information Society
+7C464260	The Leyline: A Comparative Approach to Designing a Graphical Provenance-Based Search UI	Hawaii International Conference on System Sciences
+0557BEDA	Kokono Search: A Location Based Search Engine	World Wide Web
+7D1CC063	DBLP-SSE: A DBLP Search Support Engine	Wirtschaftsinformatik \/ Angewandte Informatik
+754674A5	Private web search	Workshop on Privacy in the Electronic Society
+75D25A64	Learn from web search logs to organize search results	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7ADFA9A6	Search engines’ responses to several search feature selections	International Information & Library Review
+7AAF795F	Evaluation of a hybrid approach of personalized web information retrieval using the FIRE data set	Information not present
+58BB9D14	A Study of the Impact of Index Updates on Distributed Query Processing for Web Search	European Conference on Information Retrieval
+7FF917E0	Digital forensic text string searching: Improving information retrieval effectiveness by thematically clustering search results	Digital Investigation
+817A59CB	Personalized Search Ranking Based on Semantic Tag	Advanced Materials Research
+5F4B20E5	Measuring Search Engine Quality	Information Retrieval
+7F7CE87D	Visualizing Web search results in 3D	IEEE Computer
+7CF0E8EE	Using the current browsing context to improve search relevance	Conference on Information and Knowledge Management
+8099A0B0	Automated gathering of Web information: An in-depth examination of agents interacting with search engines	ACM Transactions on Internet Technology
+79123A83	Tuning before feedback: combining ranking discovery and blind feedback for robust retrieval	International ACM SIGIR Conference on Research and Development in Information Retrieval
+0064159E	The Zettair Search Engine	Information not present
+7F145AAA	Toward entity retrieval over structured and text data	Information not present
+80589B61	S-BITS : Social-Bookmarking Induced Topic Search	Web-Age Information Management
+80C3C1F3	Full-Subtopic Retrieval with Keyphrase-Based Search Results Clustering	Wirtschaftsinformatik \/ Angewandte Informatik
+6843AF80	User privacy in web search	Modeling Decisions for Artificial Intelligence
+8050FD26	Link based K-Means clustering algorithm for information retrieval	Information not present
+7A0726D3	Personalized ontology for web search personalization	Bangalore Annual Compute Conference
+48C816E2	Personalized Web Search by Using Learned User Profiles in Re-ranking	Information not present
+7F055959	Personalized web search by mapping user queries to categories	Conference on Information and Knowledge Management
+781A15F6	Random walk based rank aggregation to improving web search	Knowledge Based Systems
+80251223	Research on Ontology-Based Multi-source Engineering Information Retrieval in Integrated Environment of Enterprise	Information not present
+5894B44E	Using web archive for improving search engine results	Asia-Pacific Web Conference
+5C3DDB9E	Improving Image Retrieval Using Semantic Resources	Information not present
+7567472B	The design and implementation of SPIRIT: a spatially aware search engine for information retrieval on the Internet	International Journal of Geographical Information Science
+7F073A4B	Improving Mobile Web Search Experience with Slide-Film Interface	Signal-Image Technology and Internet-Based Systems
+75D63C3F	Improving web site search using web server logs	Conference of the Centre for Advanced Studies on Collaborative Research
+78A5B317	Persistence in the ephemeral: utilizing repeat behaviors for multi-session personalized search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+0BA5855E	Explaining BubbleStorm: Resilient, Probabilistic, and Exhaustive Peer�to�Peer Search	Information not present
+5C0E089B	Understanding search engines: mathematical modeling and text retrieval	Information not present
+80052E45	Personalized Search Based on User Search Histories	Wirtschaftsinformatik \/ Angewandte Informatik
+7DBD3BC5	A fully automated content-based video search engine supporting spatiotemporal queries	IEEE Transactions on Circuits and Systems for Video Technology
+76E33EFF	Log-based indexing to improve web site search	Information not present
+75618215	Click-tracking blocker: Privacy preservation by disabling search engines' click-tracking	Global Communications Conference
+58915C92	Personalized ranking of search results with learned user interest hierarchies from bookmarks	Information not present
+809315E6	Experiments with monolingual, bilingual, and robust retrieval	Cross-Language Evaluation Forum
+1219BC3E	Improving Performance of Search Engine By Using WordNet-based Collaborative Evaluation and Hyperlink	The Kips Transactions:partb
+7EFC8B50	Adaptive calculation of scores for fresh information retrieval	International Conference on Parallel and Distributed Systems
+7D66F484	Constructing concept relation network and its application to personalized web search	Extending Database Technology
+80AACA8F	Retrieval effectiveness on the web	Information Processing and Management
+08214019	Evaluation of Web search engines and the search for better ranking algorithms	Information not present
+80F8EC7B	What a Difference a Tag Cloud Makes: Effects of Tasks and Cognitive Abilities on Search Results Interface Use.	Information Research
+7E45E4DA	VisualRank: Applying PageRank to Large-Scale Image Search	IEEE Transactions on Pattern Analysis and Machine Intelligence
+7D044C39	Visualizing differences in web search algorithms using the expected weighted hoeffding distance	World Wide Web
+7F2712FC	Semantic Full-Text Search with ESTER: Scalable, Easy, Fast	International Conference on Data Mining
+7DDC1D26	A social network-based meta search engine	Information not present
+5A8A89C6	Private information disclosure from web searches	Privacy Enhancing Technologies
+773FC1A6	PQC: personalized query classification	Conference on Information and Knowledge Management
+788E19DB	Just in time indexing for up to the second search	Conference on Information and Knowledge Management
+77125718	A relevance model based filter for improving ad quality	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7D68633F	Access to electronic commerce sites on the World Wide Web: an analysis of the effectiveness of six Internet search engines	Journal of Information Science
+7754706A	Information retrieval in the Web: beyond current search engines	International Journal of Approximate Reasoning
+7B9C9F30	ChronoSeeker: search engine for future and past events	International Conference on Ubiquitous Information Management and Communication
+754D28B2	The power of search engine ranking for tourist destinations.	Tourism Management
+7A955A69	Multimedia search capabilities of Chinese language search engines	Information Processing and Management
+7A56F5D1	Towards intelligent search assistance for inquiry-based learning	Information not present
+7F63DAFA	Static index pruning in web search engines: Combining term and document popularities with query views	ACM Transactions on Information Systems
+77AF15D2	Information retrieval from the World Wide Web: a user-focused approach based on individual experience with search engines	Computers in Human Behavior
+7DCC79C0	Using Naming Authority to Rank Data and Ontologies for Web Search	International Semantic Web Conference
+759B718D	Information Retrieval from Full-Text Arabic Databases: Can Search Engines Designed for English Do the Job?	Libri
+75C6155A	Post-ranking query suggestion by diversifying search results	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7FBB1095	The use of dynamic contexts to improve casual internet searching	ACM Transactions on Information Systems
+81354F26	The influence of commercial intent of search results on their perceived relevance	Information not present
+6B9F14D1	Object-oriented XML keyword search	Information not present
+7E48A49D	Improving Retrieval of Future-Related Information in Text Collections	Wirtschaftsinformatik \/ Angewandte Informatik
+808C9072	Personalized Ontology-Based Query Expansion	Web Intelligence
+80A4BBC0	On-line selection of distinguishing elements for focused information retrieval	International Conference on Multimedia and Expo
+80D5E0EB	HeyStaks: a real-world deployment of social search	Conference on Recommender Systems
+7D576EF2	Discovery of context-specific ranking functions for effective information retrieval using genetic programming	IEEE Transactions on Knowledge and Data Engineering
+75C13248	A session based personalized search using an ontological user profile	Information not present
+803F2992	Kavosh: An Intelligent Neuro-Fuzzy Search Engine	Intelligent Systems Design and Applications
+800E29E2	Model of a Semantic Web Search Engine for Multimedia Content Retrieval	Information not present
+7E8E9965	Federated text retrieval from independent collections	Information not present
+7CF81A66	A classification of mutational approaches for genetic search	Information not present
+7EA7AE6F	ProFusion*: Intelligent Fusion from Multiple, Distributed Search Engines 1	Journal of Universal Computer Science
+7E9A5755	Avatar semantic search: a database approach to information retrieval	International Conference on Management of Data
+80D1FBFE	A Two-Level Cache for Distributed Information Retrieval in Search Engines	The Scientific World Journal
+7D976105	Textual difference visualization of multiple search results utilizing detail in context	Information not present
+5D310903	Web search in mobile context	Information not present
+776AB6FB	Improved search engines and navigation preference in personal information management	ACM Transactions on Information Systems
+7ED2E9D8	Using WordNet and lexical operators to improve Internet searches	IEEE Internet Computing
+7B0426D3	Can people collaborate to improve the relevance of search results?	Conference on Recommender Systems
+788FBAB3	Improving algorithm search using the algorithm co-citation network	ACM/IEEE Joint Conference on Digital Libraries
+777C15CB	PicASHOW: pictorial authority search by hyperlinks on the Web	World Wide Web
+5DB6F87A	Reliability of a Distributed Search Engine for Fresh Information Retrieval in Large-Scale Intranet	International Symposium on Parallel and Distributed Processing and Applications
+7C6DD2F4	My personal search engine	Computer Networks
+80F404B8	Towards a model of understanding social search	Conference on Information and Knowledge Management
+77471E63	Personalized web search using context enhanced query	Computer Systems and Technologies
+814BB8CD	Personalized Web search for improving retrieval effectiveness	IEEE Transactions on Knowledge and Data Engineering
+7C111AE0	CrowdReranking: exploring multiple search engines for visual search reranking	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7937EF03	Iterative radial basis functions neural networks as metamodels of stochastic simulations of the quality of search engines in the World Wide Web	Information Processing and Management
+00BEAD33	Improving the Effectiveness of a Search Engine by Employing A Website Directory When Feeding Back A User's Interest	Information not present
+5D4D8890	User perceptions of information quality in world wide web information retrieval behaviour	Information not present
+5BF74EF2	An Approach to Content-Based Image Retrieval Based on the Lucene Search Engine Library	Theory and Practice of Digital Libraries
+7EBBF897	An Integrated Framework for Research on Cross-Cultural Information Retrieval	International Conference on Information Technology: New Generations
+7D2BE772	Improving the precision ratio using semantic based search	Information not present
+77C4F21A	Nonparametric Label-to-Region by search	Computer Vision and Pattern Recognition
+7D32C979	An Evaluation of Gisting in Mobile Search	European Conference on Information Retrieval
+7B9B2BDA	Logsonomy - social information retrieval with logdata	Information not present
+812AF240	Improving category specific Web search by learning query modifications	Symposium on Applications and the Internet
+816CF5CB	Improving Image Search with PHETCH	International Conference on Acoustics, Speech, and Signal Processing
+80103D90	Large-scale analysis of individual and task differences in search result page examination strategies	Web Search and Data Mining
+79420162	Towards Improving Meta-Search through Exploiting an Integrated Search Model	Journal of Information & Knowledge Management
+80C2F3D1	How good is a span of terms?: exploiting proximity to improve web retrieval	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7A51F35A	Improving search engines by query clustering	Journal of the Association for Information Science and Technology
+670FB212	Towards Improving Web Search: A Large-Scale Exploratory Study of Selected Aspects of User Search Behavior	Web Information Systems Engineering
+7F97C269	Putting Search in Context: Using Dynamically-Weighted Information Fusion to Improve Search Results	International Conference on Information Technology: New Generations
+758B7F11	A framework for personalizing web search with concept-based user profiles	ACM Transactions on Internet Technology
+803829AA	Mental models: have users' mental models of web search engines improved in the last ten years?	Information not present
+7F51AE1B	Efficient search engine measurements	World Wide Web
+7A87785F	Web search strategies and retrieval effectiveness: an empirical study	Journal of Documentation
+7AC24CB5	Efficient Search Engine Measurements	ACM Transactions on The Web
+81128E07	Automatic identification of user interest for personalized search	World Wide Web
+7F8C7761	Adaptive User Profiling for Personalized Information Retrieval	International Conference on Hybrid Information Technology
+66A48E9A	Web Search Technology	Information not present
+7E26F668	Improving Web Page Retrieval Using Search Context from Clicked Domain Names	Database and Expert Systems Applications
+7F413459	Leveraging a common representation for personalized search and summarization in a medical digital library	ACM/IEEE Joint Conference on Digital Libraries
+7E00CC40	Towards a decentralized search engine for P2P-network communities	Parallel, Distributed and Network-Based Processing
+77063373	Indexing and retrieval for the Web	Annual Review of Information Science and Technology
+80DBC8CA	Shine: search heterogeneous interrelated entities	Conference on Information and Knowledge Management
+7EA84A9A	Typicality-Based Visual Search Reranking	IEEE Transactions on Circuits and Systems for Video Technology
+5ACF8EF5	Accessing Hidden Web Documents by Metasearching a Directory of Specialty Search Engines	Databases in Networked Information Systems
+7D9FF300	Semantic Cross-lingual Information Retrieval	International Symposium on Computer and Information Sciences
+6DBFE85B	A Two-Phase Sampling Technique to Improve the Accuracy of Text Similarities in the Categorisation of Hidden Web Databases	Web Information Systems Engineering
+7C0C629C	Search in vain, challenges for Internet search	IEEE Computer
+7CF9D6CA	Can social bookmarking enhance search in the web?	ACM/IEEE Joint Conference on Digital Libraries
+77C45F8B	Clinician Search Behaviors May Be Influenced by Search Engine Design	Journal of Medical Internet Research
+7D60F945	Beyond Single-Page Web Search Results	IEEE Transactions on Knowledge and Data Engineering
+75B1EE97	To each his own: personalized content selection based on text comprehensibility	Web Search and Data Mining
+72030340	One-Stop Search	Behavioral & Social Sciences Librarian
+756D83CA	Podcast search: user goals and retrieval technologies	Online Information Review
+79374AF6	Improving web-query processing through semantic knowledge	Data and Knowledge Engineering
+7EF838AE	Summarizing local context to personalize global web search	Conference on Information and Knowledge Management
+7921B87F	Tools-at-hand and learning in multi-session, collaborative search	Human Factors in Computing Systems
+7BF17714	Is Relevance Relevant? Market, Science, and War: Discourses of Search Engine Quality	Journal of Computer-Mediated Communication
+7D034183	Cache adaptation of internet services and user modelling for improving ranking precision in third-party results	Information not present
+80F1364B	Integrated Search Engine	Information not present
+7C144891	When information retrieval measures agree about the relative quality of document rankings	Journal of The American Society for Information Science
+198D1A78	Using Ontologies to Strengthen Folksonomies and Enrich Information Retrieval in Weblogs	International Conference on Weblogs and Social Media
+7FB944F5	CYBER: A CommunitY-Based sEaRch engine	International Conference on Peer-to-Peer Computing
+80E6F042	Log mining to improve the performance of site search	Web Information Systems Engineering
+790859E5	Multi-objective optimization for sponsored search	Information not present
+7EF8ED8D	ODISSEA: A Peer-to-Peer Architecture for Scalable Web Search and Information Retrieval	International Workshop on the Web and Databases
+8117FEA8	ViewSer: enabling large-scale remote user studies of web search examination and interaction	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7A11F4BF	Comparative evaluation of web search engines in health information retrieval	Online Information Review
+76B9F606	Effectiveness of keyword-based display and selection of retrieval results for interactive searches	International Journal on Digital Libraries
+77C43139	Improving Web search efficiency via a locality based static pruning method	World Wide Web
+7883CF55	Anonymous personalization in collaborative web search	Information Retrieval
+7DA817E5	Implicit user modeling for personalized search	Conference on Information and Knowledge Management
+80F442BC	XCDSearch: An XML Context-Driven Search Engine	IEEE Transactions on Knowledge and Data Engineering
+81312977	Search Engine Ability to Cope With the Changing Web	Information not present
+5DE66B8D	Personalized online information search and visualization	BMC Medical Informatics and Decision Making
+80456C85	Is It Really Time for Real-Time Search?	IEEE Computer
+7AA047A6	SCPS: A Social-Aware Distributed Cyber-Physical Human-Centric Search Engine	Global Communications Conference
+79C6414E	The XXL search engine: ranked retrieval of XML data using indexes and ontologies	International Conference on Management of Data
+7BBB6AEB	Multitasking Web search on Vivisimo.com	Information not present
+7EEB32B0	Enhancing web search by promoting multiple search engine use	International ACM SIGIR Conference on Research and Development in Information Retrieval
+77E9A73C	Web search clickstreams	Internet Measurement Conference
+5EA9BA9A	Beyond Search: Web-Scale Business Analytics	Web Information Systems Engineering
+7EBE35FF	Handling Advertisements of Unknown Quality in Search Advertising	Neural Information Processing Systems
+5E8DC003	Enhanced Visual Experience and Archival Reusability in Personalized Search Based on Modified Spider Graph	International Symposium on Visual Computing
+76A809CB	PMSE: A Personalized Mobile Search Engine	IEEE Transactions on Knowledge and Data Engineering
+776BD487	Web Search Engines for Polish Information Retrieval: Questions of Search Capabilities and Retrieval Performance	International Information & Library Review
+76CFA698	Diversifying search results	Web Search and Data Mining
+79582BA3	Improving web image search results using query-relative classifiers	Computer Vision and Pattern Recognition
+7D2353F3	Space efficient caching of query results in search engines	International Symposium on Computer and Information Sciences
+76EDEF02	Beyond basic faceted search	Web Search and Data Mining
+7F856B50	Context-aware ranking in web search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+807777B3	Concordance-Based Entity-Oriented Search	Wirtschaftsinformatik \/ Angewandte Informatik
+7E46D837	Bubblestorm: resilient, probabilistic, and exhaustive peer-to-peer search	Computer Communication Review
+7A013247	Improvement of Precision and Recall for Information Retrieval in a Narrow Domain: Reuse of Concepts by Formal Concept Analysis	Wirtschaftsinformatik \/ Angewandte Informatik
+769B2777	Full Text and Figure Display Improves Bioscience Literature Search	PLOS ONE
+8056578B	Persona: a contextualized and personalized web search	Hawaii International Conference on System Sciences
+7CD8D74E	The retrieval effectiveness of search engines on navigational queries	Aslib Proceedings
+785CDB3E	Search engines: Left side quality versus right side profits	International Journal of Industrial Organization
+7612DD64	A conceptual model for user-centered quality information retrieval on the World Wide Web	Journal of Intelligent Information Systems
+0A920F7F	Geosearch: A geographically-aware search engine	Information not present
+7712522B	Search and browse log mining for web information retrieval: challenges, methods, and applications	International ACM SIGIR Conference on Research and Development in Information Retrieval
+8013C1B4	Peer-to-peer keyword search using keyword relationship	Cluster Computing and the Grid
+7D8133B2	Multimedia information retrieval	Synthesis Lectures on Information Concepts, Retrieval, and Services
+794D96B1	Modeling search engine effectiveness for federated search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7CDED0CA	Structured Intelligent Search Engine for effective information retrieval using query clustering technique and Semantic Web	International Conference on Contemporary Computing
+733E36FF	Learned lexicon-driven interactive video retrieval	Conference on Image and Video Retrieval
+758583B1	DBXplorer: enabling keyword search over relational databases	International Conference on Management of Data
+5E3B13EA	Improving Search Engines Performance on Multithreading Processors	High Performance Computing
+7DCADA91	Personalized Search Based on Hybrid Clustering Algorithms	Information not present
+800B220F	Mimicking Web search engines for expert search	Information Processing and Management
+7E6E1CF4	Generation of Semantic Interactive Environment for Personalized Search	Computer and Information Technology
+802A6C25	Evaluating the effectiveness of search task trails	World Wide Web
+06D0F542	A Hybrid Ontology and Content-Based Search Engine For Multimedia Retrieval	Advances in Databases and Information Systems
+5984E90C	Improving web search results for homonyms by suggesting completions from an ontology	International Conference on Web Engineering
+7DD816D7	Exploiting site-level information to improve web search	Conference on Information and Knowledge Management
+80403532	Quality Information Retrieval for the World Wide Web	Wirtschaftsinformatik \/ Angewandte Informatik
+7779588E	Improving collection selection with overlap awareness in P2P search engines	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7A075AA4	A comparative analysis of the search feature effectiveness of the major English and Chinese search engines	Online Information Review
+7D6C000E	Generating synopses for document-element search	Conference on Information and Knowledge Management
+7F80CCF3	Children's use of the Yahooligans! Web search engine : I. Cognitive, physical, and affective behaviors on fact-based search tasks	Journal of The American Society for Information Science
+598AE889	Ontology-based personalized search and browsing	Web Intelligence and Agent Systems: An International Journal
+775DD98C	Context sensitive stemming for web search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7D7DED05	Personalized News Search in WWW: Adapting on User's Behavior	International Conference on Internet and Web Applications and Services
+596BAF79	Inquirus, the NECI meta search engine	Computer Networks and Isdn Systems
+7A09D7CC	Evaluating the retrieval effectiveness of search engines using Persian navigational queries	Information not present
+7F48E77D	Search Less, Find More? Examining Limited Consumer Search with Social Media and Product Search Engines	Information not present
+7E54615B	Knowledge Search and Trust-Oriented Search	Information not present
+7DC42409	Prototype-Based Image Search Reranking	IEEE Transactions on Multimedia
+7FB69D35	Context-Based Adaptive Personalized Web Search for Improving Information Retrieval Effectiveness	Information not present
+7FC537F1	P2P Directories for Distributed Web Search: From Each According to His Ability, to Each According to His Needs	International Conference on Data Engineering
+7EC5B3FC	Retroactive answering of search queries	World Wide Web
+7991C325	A session-based search engine	International ACM SIGIR Conference on Research and Development in Information Retrieval
+7F135BB2	Genetic algorithm for information retrieval	Information not present
+7D53C64A	Personalized Scheduling Search Advertisement by Mining the History Behaviours of Users	International Conference on e-Business Engineering
+584F5875	Discovery and Retrieval of Logical Information Units in Web	Information not present
+8068D664	A Client-Server Architecture for Context-Aware Search Application	Network-Based Information Systems
+7EA08682	From e-sex to e-commerce: Web search changes	IEEE Computer
+75A095FC	A New Look at Information Retrieval Evaluation: Proposal for Solutions	Journal of Medical Systems
+814D01C3	Efficient query processing in geographic web search engines	International Conference on Management of Data
+75388F54	Learning from search engine and human supervision for web image search	ACM Multimedia
+815859E9	Beyond ten blue links: enabling user click modeling in federated web search	Web Search and Data Mining
+7A043483	Improving search engines using human computation games	Conference on Information and Knowledge Management
+7D68A01C	Redundancy of meta search servers in a distributed search engine	Advanced Information Networking and Applications
+7E6AAEBB	Ranking of Wikipedia articles in search engines revisited: Fair ranking for reasonable quality?	Journal of the Association for Information Science and Technology
