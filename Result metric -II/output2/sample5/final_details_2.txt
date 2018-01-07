@@ -1,0 +1,39 @@
+780324C6	wikiSearch: enabling interactivity in search	International ACM SIGIR Conference on Research and Development in Information Retrieval
+787F20C4	Information Retrieval using Semantic Web Browser - Personalized and Categorical Web Search	Information not present
+7B0ACCDE	Multimodal medical image retrieval: image categorization to improve search precision	Multimedia Information Retrieval
+77C4F21A	Nonparametric Label-to-Region by search	Computer Vision and Pattern Recognition
+80349827	Personalized Concept-Based Clustering of Search Engine Queries	IEEE Transactions on Knowledge and Data Engineering
+7DAD4E2E	Privacy-enhancing personalized web search	World Wide Web
+7D66F484	Constructing concept relation network and its application to personalized web search	Extending Database Technology
+77AEC8E8	An integration framework for search engine architecture to improve information retrieval quality	Information not present
+72030340	One-Stop Search	Behavioral & Social Sciences Librarian
+7D6DFDA0	Improving Web Search Using Contextual Retrieval	International Conference on Information Technology: New Generations
+8056578B	Persona: a contextualized and personalized web search	Hawaii International Conference on System Sciences
+5C7441FA	Improving Display of Search Results in Information Retrieval Systems - Users' Study	Information not present
+80F404B8	Towards a model of understanding social search	Conference on Information and Knowledge Management
+7F1EE353	Knowledge Aggregation in Human Flesh Search	Information not present
+81128E07	Automatic identification of user interest for personalized search	World Wide Web
+7F055959	Personalized web search by mapping user queries to categories	Conference on Information and Knowledge Management
+7FF917E0	Digital forensic text string searching: Improving information retrieval effectiveness by thematically clustering search results	Digital Investigation
+80BE578A	Improving the Effectiveness of XML Retrieval with User Navigation Models	International Conference on Data Engineering
+00BEAD33	Improving the Effectiveness of a Search Engine by Employing A Website Directory When Feeding Back A User's Interest	Information not present
+7C8E95F6	Web Search---Your Way	Communications of The ACM
+7FB69D35	Context-Based Adaptive Personalized Web Search for Improving Information Retrieval Effectiveness	Information not present
+7928820F	Circular Reranking for Visual Search	IEEE Transactions on Image Processing
+807777B3	Concordance-Based Entity-Oriented Search	Wirtschaftsinformatik \/ Angewandte Informatik
+7F815941	Improving information retrieval effectiveness by using domain knowledge stored in ontologies	Information not present
+7E0E3B81	A community-aware search engine	World Wide Web
+80EF026A	OCS — A system for optimizing, clustering and summarizing web search results using intelligent agents	Information not present
+59CE7EA6	Towards Semantic Search	Applications of Natural Language to Data Bases
+812AF240	Improving category specific Web search by learning query modifications	Symposium on Applications and the Internet
+80AF3069	Thesaurus-based 3D Object Retrieval with Part-in-Whole Matching	International Journal of Computer Vision
+7E6E1CF4	Generation of Semantic Interactive Environment for Personalized Search	Computer and Information Technology
+7DD8D8BE	CubeSVD: a novel approach to personalized Web search	World Wide Web
+7AE337F9	Output-sensitive autocompletion search	Information Retrieval
+63913EDD	Synonym search in Wikipedia: Synarcher	Clinical Orthopaedics and Related Research
+7EA7AE6F	ProFusion*: Intelligent Fusion from Multiple, Distributed Search Engines 1	Journal of Universal Computer Science
+5DF61D56	Output-Sensitive autocompletion search	String Processing and Information Retrieval
+76A809CB	PMSE: A Personalized Mobile Search Engine	IEEE Transactions on Knowledge and Data Engineering
+802BB344	A Community-Based Approach to Personalizing Web Search	IEEE Computer
+7921B87F	Tools-at-hand and learning in multi-session, collaborative search	Human Factors in Computing Systems
+7ECA8D7D	Ontology based personalized search	IEEE Transactions on Applications and Industry

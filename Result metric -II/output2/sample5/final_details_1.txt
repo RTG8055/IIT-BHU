@@ -1,0 +1,46 @@
+0F390BC8	Context in Web Search	IEEE Data(base) Engineering Bulletin
+787F20C4	Information Retrieval using Semantic Web Browser - Personalized and Categorical Web Search	Information not present
+7672C7FE	Interest-based personalized search	ACM Transactions on Information Systems
+598AE889	Ontology-based personalized search and browsing	Web Intelligence and Agent Systems: An International Journal
+80349827	Personalized Concept-Based Clustering of Search Engine Queries	IEEE Transactions on Knowledge and Data Engineering
+7DAD4E2E	Privacy-enhancing personalized web search	World Wide Web
+7D66F484	Constructing concept relation network and its application to personalized web search	Extending Database Technology
+7B0426D3	Can people collaborate to improve the relevance of search results?	Conference on Recommender Systems
+77AEC8E8	An integration framework for search engine architecture to improve information retrieval quality	Information not present
+809760C7	Towards an Effective XML Keyword Search	IEEE Transactions on Knowledge and Data Engineering
+7B55EA6D	An elaborated model of social search	Information Processing and Management
+7D6DFDA0	Improving Web Search Using Contextual Retrieval	International Conference on Information Technology: New Generations
+5C7441FA	Improving Display of Search Results in Information Retrieval Systems - Users' Study	Information not present
+81128E07	Automatic identification of user interest for personalized search	World Wide Web
+7FCF36E0	Personalization in professional academic search	Information not present
+7DF05E13	Multimedia search: ready or not?	IEEE Distributed Systems Online
+7F055959	Personalized web search by mapping user queries to categories	Conference on Information and Knowledge Management
+78988399	On personalizing Web search using social network analysis	Information Sciences
+80BE578A	Improving the Effectiveness of XML Retrieval with User Navigation Models	International Conference on Data Engineering
+00BEAD33	Improving the Effectiveness of a Search Engine by Employing A Website Directory When Feeding Back A User's Interest	Information not present
+7C8E95F6	Web Search---Your Way	Communications of The ACM
+7DDC1D26	A social network-based meta search engine	Information not present
+7FB69D35	Context-Based Adaptive Personalized Web Search for Improving Information Retrieval Effectiveness	Information not present
+7928820F	Circular Reranking for Visual Search	IEEE Transactions on Image Processing
+7FF917E0	Digital forensic text string searching: Improving information retrieval effectiveness by thematically clustering search results	Digital Investigation
+7B0ACCDE	Multimodal medical image retrieval: image categorization to improve search precision	Multimedia Information Retrieval
+7EB535A0	Web Information Retrieval Support Systems: The Future of Web Search	Web Intelligence
+7F815941	Improving information retrieval effectiveness by using domain knowledge stored in ontologies	Information not present
+7E0E3B81	A community-aware search engine	World Wide Web
+805112E8	Evaluating the Effectiveness of Personalized Web Search	IEEE Transactions on Knowledge and Data Engineering
+00B17298	A categorised search of the CTAN	Information not present
+80D5E0EB	HeyStaks: a real-world deployment of social search	Conference on Recommender Systems
+812AF240	Improving category specific Web search by learning query modifications	Symposium on Applications and the Internet
+80AF3069	Thesaurus-based 3D Object Retrieval with Part-in-Whole Matching	International Journal of Computer Vision
+7E6E1CF4	Generation of Semantic Interactive Environment for Personalized Search	Computer and Information Technology
+7DD8D8BE	CubeSVD: a novel approach to personalized Web search	World Wide Web
+026364DE	Semantic Search with GoPubMed	Information not present
+80052E45	Personalized Search Based on User Search Histories	Wirtschaftsinformatik \/ Angewandte Informatik
+63913EDD	Synonym search in Wikipedia: Synarcher	Clinical Orthopaedics and Related Research
+5DF61D56	Output-Sensitive autocompletion search	String Processing and Information Retrieval
+5E8DC003	Enhanced Visual Experience and Archival Reusability in Personalized Search Based on Modified Spider Graph	International Symposium on Visual Computing
+76A809CB	PMSE: A Personalized Mobile Search Engine	IEEE Transactions on Knowledge and Data Engineering
+59CE7EA6	Towards Semantic Search	Applications of Natural Language to Data Bases
+807777B3	Concordance-Based Entity-Oriented Search	Wirtschaftsinformatik \/ Angewandte Informatik
+802BB344	A Community-Based Approach to Personalizing Web Search	IEEE Computer
+7ECA8D7D	Ontology based personalized search	IEEE Transactions on Applications and Industry
