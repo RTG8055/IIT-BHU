@@ -1,0 +1,790 @@
+8438F34E	"Measurement uncertainties for biconical antenna calibrations using standard site method"	"Information not present"	0.33746031746	0.297619047619
+5DFA1B54	"Low voltage modulation method in six-step operation of three phase inverter"	"International Conference on Performance Engineering"	0.321904761905	0.275
+7CFC2D60	"Analysis of bistatic tracking accuracy in passive radar"	"Information not present"	0.284444444444	0.360227272727
+7D4B0708	"Baseband predistorter for radio frequency power amplifiers based on a non-iterative, fast adaptation method"	"Information not present"	0.365238095238	0.325396825397
+845C374F	"An analysis of ground truth binarized image variability of palm leaf manuscripts"	"International Conference on Image Processing"	0.316753246753	0.238501082251
+7E9A9E02	"Image reconstruction of local shear and viscosity moduli for a finite-amplitude acoustic modulated radiation force"	"Information not present"	0.481071428571	0.353472222222
+7CE083E6	"Automatic carrier pitch estimation for coherent demodulation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.291515151515	0.341666666667
+7869FD63	"Underwater Acoustic Frequency Demodulation System Based on High-Q Filter"	"Information not present"	0.283181818182	0.345238095238
+7621E563	"An analog compensation method for asymmetric IMD characteristics of power amplifier"	"IEEE Microwave and Wireless Components Letters"	0.33746031746	0.311772486772
+2FF95951	"FM carrier deviation measured by differential probability method"	"Information not present"	0.305860805861	0.284595959596
+7F7D9975	"Improvement of group delay measurement accuracy using a two-frequency modulation phase-shift method"	"IEEE Photonics Technology Letters"	0.468956043956	0.371180555556
+7FB279E7	"A new method for phase synchronization and automatic gain control of linearly modulated signals on frequency-flat fading channels"	"IEEE Transactions on Communications"	0.332857142857	0.251106301106
+7E720CE7	"Adaptive MIMO-OFDM System Based on QO-STBC/SFBC with Improved Feedback Scheme"	"Information not present"	0.265211640212	0.346031746032
+75740A37	"Multipath Effects Cancellation in ISAR Image Reconstruction"	"Information not present"	0.462558356676	0.548611111111
+773D1A9E	"A method for the measurement and analysis of SAR signal random phase error"	"Information not present"	0.306071428571	0.302626262626
+80433969	"A new measurement method for group delay of frequency-translating devices based on software defined radio technology"	"Information not present"	0.343571428571	0.260321067821
+77163F43	"Attainable Error Probabilities in Demodulation of Random Binary PCM/FM Waveforms"	"Ire Transactions on Space Electronics and Telemetry"	0.311904761905	0.344444444444
+7AE114DE	"Frequency tracking by MAP demodulation and by linear prediction techniques"	"Proceedings of the IEEE"	0.368181818182	0.397222222222
+7A725CEB	"Passive demodulation of optical interferometric sensors"	"IEEE Journal of Quantum Electronics"	0.258571428571	0.5625
+7A48EE8A	"Human brain inspired still and moving image processing"	"Information not present"	0.28841991342	0.341666666667
+7A7113FD	"On a Computational Method for Impact of Compressible Fluid"	"Computational Sciences and Optimization"	0.287137862138	0.412037037037
+786B632E	"Two-dimensional ISAR model and image reconstruction with stepped frequency-modulated signal"	"Iet Signal Processing"	0.47619047619	0.577380952381
+7720D1F3	"A Survey of Navigational Measurements Methods for Missile Guidance Systems"	"Ire Transactions on Instrumentation"	0.305714285714	0.26335978836
+81640843	"Morphological Reconstruction Operation for the Detection of Defects in Woven Fabric"	"Information not present"	0.308333333333	0.316666666667
+75EB8088	"An initial phase error elimination in a laser scanner with a multiple phase demodulation method"	"Information not present"	0.493571428571	0.346321733822
+761FB3AF	"Research on the Method of Demodulation for PCM/FM Signal Based on Instantaneous Frequency Measurement"	"Information not present"	0.484126984127	0.40386002886
+8161BA0D	"Target Group Division Methods Based on Intuitionistic Fuzzy S-Rough Assistant Sets"	"Computational Sciences and Optimization"	0.308956043956	0.282601525459
+7ED90A14	"New Method of Chaotic Polyphase Sequences Design"	"IEEE Transactions on Aerospace and Electronic Systems"	0.279225023343	0.400673400673
+5ED026F7	"Novel method to reduce the estimation variance of DCSK"	"Information not present"	0.279225023343	0.347727272727
+5E9E2B12	"An all digital phase locked loop for FM demodulation."	"Information not present"	0.305	0.366666666667
+72C33E6C	"Method and Apparatus for Maintaining Linearity and Frequency Accuracy of an FM Chirp Waveform."	"Information not present"	0.473571428571	0.367162698413
+759A85A7	"Diagnosing turbine engine bearing structures with the aid of FAM-C and FDM-A methods"	"Polish Maritime Research"	0.310238095238	0.285204081633
+76A0D3D5	"The method of system-level electromagnetic self-compatibility inspection based on orthogonal experimental design"	"Information not present"	0.279225023343	0.376893939394
+7C81F137	"A Layered MIMO CPM System with Incoherent Demodulation"	"Information not present"	0.263236763237	0.571428571429
+7AAC303C	"Low cost signal reconstruction based testing of RF components using incoherent undersampling"	"Information not present"	0.30119047619	0.280257936508
+7AB6ADFB	"Multiuser demodulation and iterative decoding for frequency-hopped networks"	"IEEE Transactions on Communications"	0.293015873016	0.411255411255
+8266C743	"An improved unambiguous acquisition scheme for BOC(n,n) signals"	"Information not present"	0.269510582011	0.355158730159
+809D2EFE	"Improving Cardiac Phase Extraction in IVUS Studies by Integration of Gating Methods"	"IEEE Transactions on Biomedical Engineering"	0.308956043956	0.276587301587
+76D9A662	"Separation of semiconductor laser intrinsic linewidth and 1/f noise using multiple fiber lengths with the delayed self-heterodyne method"	"Information not present"	0.324126984127	0.288888888889
+7E43813D	"Automatic marker detection for blob images"	"Workshop on Applications of Computer Vision"	0.305086580087	0.354166666667
+79859619	"A Novel Range Detection Method for 60GHz LFMCW Radar"	"Vehicular Technology Conference"	0.29380952381	0.341964285714
+77B78231	"Multiscale directional AM-FM demodulation of images using a 2D optimized method"	"International Conference on Image Processing"	0.638888888889	0.7
+67C0B568	"Demodulation Of Ipfm Model Considering Absolute Refractory Reriod"	"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.283261183261	0.350108225108
+8008E070	"Visual predictive control architecture based on image moments for manipulator robots"	"Information not present"	0.325793650794	0.294614512472
+79E3FCE0	"A new frequency changeable separate excitation inverting control method"	"Information not present"	0.309253246753	0.347222222222
+810D4D59	"An improved method for nonstationary signals components extraction based on the ICI rule"	"Information not present"	0.419312169312	0.468253968254
+61F50C78	"A new method for estimating the instantaneous frequency based on maximum likelihood"	"International Conference on Acoustics, Speech, and Signal Processing"	0.309253246753	0.375
+7F5B6CC1	"Cochannel FM Demodulation via the Multi Angle-Centered Discrete Fractional Fourier Transform"	"Information not present"	0.263236763237	0.545454545455
+76C81513	"The Zero-Beat Method of Frequency Discrimination"	"Proceedings of The Institute of Radio Engineers"	0.284253246753	0.412037037037
+5E5536BF	"Experimental demonstration of in-service dispersion monitoring in the whole transmission bandwidth of WDM systems by optical frequency-modulation method"	"Information not present"	0.304365079365	0.231288949146
+2F5415C4	"Optimal space communications techniques. [all digital phase locked loop for FM demodulation"	"Information not present"	0.423333333333	0.340476190476
+813F0BBF	"SSR reply separation using array signal processing methods"	"Information not present"	0.305238095238	0.356666666667
+7A04BDFC	"Spatial frequency models for multispectral image sharpening"	"Information not present"	0.284253246753	0.422619047619
+794C4B58	"Modified CCPLL for demodulation of two FM signals with overlapping spectra"	"Electronics Letters"	0.305555555556	0.341666666667
+7895CB50	"Anti-noise performance of correlation detection method for ranging system based on combined modulation"	"Information not present"	0.305714285714	0.27564484127
+7FA3EC3A	"A method for separation of overlapping partials based on similarity of temporal envelopes in multichannel mixtures"	"IEEE Transactions on Audio, Speech, and Language Processing"	0.323571428571	0.286363636364
+7D838FB0	"Sensitivity penalty for AMI coded CPFSK in heterodyne delay demodulation receiver"	"Applied Radiation and Isotopes"	0.305555555556	0.278240740741
+7E8CA025	"Novel speed estimation method for induction motor based on extra rotor synchronous current control"	"Information not present"	0.318975468975	0.262847222222
+7F82300D	"A new method for frequency synthesis"	"Personal, Indoor and Mobile Radio Communications"	0.286038961039	0.408333333333
+7994A44B	"Double-channel Cancellation Method for Mitigating DPI in PCL"	"Information not present"	0.279225023343	0.398148148148
+7FC397E0	"A Novelty Approach for Image Data Hiding Based on Frequency Watermark"	"Information not present"	0.315238095238	0.295982142857
+7FA7C481	"Study on adaptive control method of feedrate based on CAM"	"Information not present"	0.310086580087	0.351515151515
+7F4D3079	"Measuring method for carrier phase based on phase difference group processing"	"Information not present"	0.351904761905	0.30462962963
+80A5227B	"A method for evaluation of FM antenna diversity systems for cars"	"Information not present"	0.302380952381	0.297546897547
+80807BCB	"Method for high precision local positioning radar using an ultra wideband technique"	"Information not present"	0.331904761905	0.396296296296
+5BF87260	"A new method of longitudinal mode selection in Q-switched lasers"	"Information not present"	0.310793650794	0.355555555556
+7B4E88C4	"Design method of outcome based learning for an inverter experiment in a power electronics subject"	"Information not present"	0.328571428571	0.298756798757
+81157438	"Evaluation method of jamming effect on ISAR based on symmetry cross entropy"	"Information not present"	0.306349206349	0.262648809524
+7D9B4477	"Resampling-Based Ensemble Methods for Online Class Imbalance Learning"	"IEEE Transactions on Knowledge and Data Engineering"	0.290476190476	0.357142857143
+7C3E59F4	"An Improved Method Dealing with the End Effect of Hilbert-Huang Transform"	"International Conference on Networks"	0.402370777371	0.460404040404
+76BEA7D8	"The use of fake algebraic Riccati equations for co-channel demodulation"	"IEEE Transactions on Signal Processing"	0.283333333333	0.407407407407
+598F92C7	"Complete digital control method for PWM DCDC boost converter"	"Information not present"	0.321753246753	0.36875
+7A4FD78C	"Time-frequency representation reconstruction based on the compressive sensing"	"Information not present"	0.370833333333	0.489583333333
+80A15E18	"A new method for fuzzy multiple attributes group decision making based on ranking interval type-2 fuzzy sets"	"International Conference on Machine Learning and Cybernetics"	0.313717948718	0.315773809524
+5A7601CC	"A New Method for Fast Acquisition of Pseudo-Random Code"	"International Symposium on Information Theory and its Applications"	0.290476190476	0.417989417989
+7E202304	"An improvement on SAS image formation"	"Information not present"	0.290476190476	0.414285714286
+78962906	"An improved PGC demodulation method to suppress the impact of laser intensity modulation"	"Information not present"	0.566738816739	0.451736111111
+80301BBA	"A New Method For Generation Of Optimum Matched Filter From Replica Data For Pulse Compression"	"International Geoscience and Remote Sensing Symposium"	0.302142857143	0.265422077922
+76D6B7A7	"An Improved Fuzzy Rule-Based Automated Trading Agent"	"Information not present"	0.249873737374	0.408333333333
+78C4F935	"The CLFM: A Method of Generating Linear Frequency-Coded Radar Pulses"	"IEEE Transactions on Aerospace and Electronic Systems"	0.28746031746	0.3625
+774B23C4	"A Method for Calibrating Microwave Wavemeter"	"Proceedings of The Institute of Radio Engineers"	0.279225023343	0.42380952381
+5886E075	"FM-DCSK: a novel method for chaotic communications"	"International Symposium on Circuits and Systems"	0.283986928105	0.583333333333
+7D4E09ED	"Accuracy considerations and FMCW operation of a six-port device"	"Information not present"	0.298571428571	0.358630952381
+0C72144D	"Method and apparatus for determining aerosol size distributions"	"Information not present"	0.305086580087	0.353571428571
+79C1BE63	"Analog Filtering Method for Sensorless AC Machine Control With Carrier-Frequency Signal Injection"	"IEEE Transactions on Industrial Electronics"	0.325793650794	0.284523809524
+7B0908EF	"An Improved Phase Modulator with Low Nonlinear Distortion"	"IEEE Transactions on Communications"	0.264583333333	0.433333333333
+7E36762A	"New method for light-shift elimination"	"Information not present"	0.279225023343	0.538461538462
+788E5C71	"Polynomial phase demodulation in multitaper analysis"	"Information not present"	0.305	0.430303030303
+7F2A51A5	"Analysis of Polynomial FM Signal Based on Wavelet-Reassignment Method"	"Information not present"	0.298412698413	0.397727272727
+71BA45CB	"A Fast Method for Calculating Magnetic Hysteresis Loops"	"IEEE Transactions on Magnetics"	0.28746031746	0.347727272727
+7D01C8B0	"A Method of Converting Frequency to Voltage Using a Surface Acoustic Wave Device"	"IEEE Transactions on Sonics and Ultrasonics"	0.300324675325	0.298185941043
+7F8C4D56	"New statistical reconstruction method for emission tomography"	"International Symposium on Biomedical Imaging"	0.462558356676	0.550505050505
+7A78B498	"Interferometric demodulation of optical FM signals and its relation to modal distortion in optical multimode fibers"	"Journal of Lightwave Technology"	0.322142857143	0.278114478114
+80FB7CE8	"All phase-FFT signal detection method for QAM system in fast-moving wireless channel"	"Information not present"	0.31746031746	0.323571428571
+78939CA2	"Frequency domain infrared watermarking for printed CMYK image"	"International Conference on Image Processing"	0.287824675325	0.379464285714
+758A1C30	"Discrete-time demodulation of continuous-time signals"	"IEEE Transactions on Information Theory"	0.305555555556	0.583333333333
+81632DE3	"A coherent fiber-optic link with optical-domain down-conversion and digital demodulation"	"Information not present"	0.283181818182	0.5625
+757E4C16	"Optimized 3-D recovery from 2-D images using sine-wave-structured lightillumination"	"Information not present"	0.279225023343	0.397727272727
+8587C4E1	"An image processing approach for underdetermined blind separation of nonstationary sources"	"Information not present"	0.305238095238	0.301666666667
+7B0FC2FB	"Harmonic analysis method based on multiple modulation zoom analysis and interpolating windowed FFT method"	"Information not present"	0.279225023343	0.38658008658
+7E435A69	"A simple and effective noise whitening method for underwater acoustic OFDM"	"Information not present"	0.279225023343	0.437037037037
+58E312DB	"Algorithm research on digital demodulation of FM signal"	"Information not present"	0.305555555556	0.419191919192
+7E324DE2	"A Cooperative Routing Method for Multiple Overlay Networks"	"Consumer Communications and Networking Conference"	0.297142857143	0.414285714286
+7FDA80A6	"A sparsity-driven approach for SAR image formation and space-variant focusing"	"Studia Informatica Universalis"	0.290476190476	0.342261904762
+80875BCC	"Multi-component AM-FM image models and wavelet-based demodulation with component tracking"	"International Conference on Image Processing"	0.46746031746	0.507142857143
+75C9512E	"Reconstruction of phase angles in complex modulated ultrasonic signals"	"Information not present"	0.3	0.335238095238
+803E8D39	"Development of the EEG measurement method under exercising"	"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.279225023343	0.361111111111
+76751CE1	"Fractal Stochastic Signal Processing Based on the Affine Spectral Correlation Method"	"International Conference on Communications"	0.300793650794	0.353571428571
+7C4F2FFE	"Stages in Teaching Formal Methods"	"Information not present"	0.306071428571	0.447619047619
+80AF6B35	"A new method for direct signal recover in non-cooperative bistatic radar"	"Information not present"	0.304126984127	0.422222222222
+7D1633B3	"A prototype hardware for random demodulation based compressive analog-to-digital conversion"	"Information not present"	0.310384615385	0.361666666667
+815507C1	"Estimation via synchronization: FM demodulation example"	"International Symposium on Circuits and Systems"	0.315238095238	0.352380952381
+775945D4	"Affective-Cognitive of Images Based on Complex Features"	"International Conference on Innovative Computing, Information and Control"	0.279225023343	0.492063492063
+807039FA	"New Modulation Zero-Shift Method to Characterize Fast Group Delay Ripple of Dispersion-Compensating Fiber Bragg Gratings"	"IEEE Photonics Technology Letters"	0.311753246753	0.226204859048
+801AFC72	"Steganalysis Scheme Using the Difference Image of Calibrated Sub-sampling"	"Intelligent Information Hiding and Multimedia Signal Processing"	0.328571428571	0.452380952381
+7F5BB85F	"A Probabillty Box and Dempster Shafer Structure Theory-Based Method for the Bearing Fault Pattern Recognition"	"Information not present"	0.305086580087	0.256519274376
+7C5C17A2	"A Real-Time Zero-Crossing Demodulation Concept"	"Wireless Personal Communications"	0.30746031746	0.6
+7A488866	"Clipping and time domain statistical method for PAPR reduction in OFDM system"	"Information not present"	0.302380952381	0.275733525734
+708835A8	"Hilbert transform in image processing"	"Information not present"	0.28841991342	0.5625
+7C97D952	"A new method for anti-noise FM interference"	"Information not present"	0.279225023343	0.391414141414
+7A986EB8	"A Frequency Demodulation Technique Based on Sliding DFT Phase Locking Scheme for Large Variation FM Signals"	"IEEE Communications Letters"	0.401904761905	0.276049455595
+7C3405A6	"Fast method of detecting communities in complex networks"	"Pacific-Asia Workshop on Computational Intelligence and Industrial Application"	0.290476190476	0.366964285714
+7E99AABF	"Generalized energy demodulation for large frequency deviations and wideband signals"	"IEEE Signal Processing Letters"	0.305555555556	0.280429292929
+723E649D	"A new frequency control method in oscillator and its application to sensor"	"IEEE Transactions on Instrumentation and Measurement"	0.316753246753	0.315
+61F6B0EE	"Demodulation Processes in Auditory Perception."	"Information not present"	0.334126984127	0.511111111111
+7893085D	"Improving Group Delay Measurement Accuracy using the FM Envelope Delay Technique"	"Information not present"	0.378571428571	0.286035353535
+7670D5B7	"An automatic modeling method of team-based organization structure in e-business"	"International Conference on Networking"	0.302142857143	0.348214285714
+7CA45007	"Synchrophasor Estimators Accuracy: A Comparative Analysis"	"IEEE Transactions on Instrumentation and Measurement"	0.279829059829	0.39696969697
+5C350EDF	"Visible light communication using a conventional image sensor"	"Consumer Communications and Networking Conference"	0.296753246753	0.395833333333
+815F31A3	"A new separation method for Micro-Doppler information of a target with rotating parts"	"International Conference on Communications"	0.302857142857	0.30746031746
+7B25FFF8	"Toward automatic phenotyping of retinal images from genetically determined mono- and dizygotic twins using amplitude modulation-frequency modulation methods"	"Information not present"	0.453174603175	0.477777777778
+7FA554CF	"Tunable free space optical delay interferometer for demodulation of differential phase shift keying signals"	"Information not present"	0.34	0.276082251082
+7CFB0463	"Analysis and Optimization of the PGC Method in All Digital Demodulation Systems"	"Journal of Lightwave Technology"	0.46746031746	0.46341991342
+7F3FAB13	"Group-delay measurements using the phase-shift method: improvement on the accuracy"	"Information not present"	0.461904761905	0.508888888889
+5B96CF0D	"Method for forming space-time waveforms with rectangular envelope using multifrequency array"	"Information not present"	0.302142857143	0.325198412698
+796A661A	"Transponder with undersampling method"	"Information not present"	0.289682539683	0.555555555556
+7F5A87E0	"Frequency guided phase unwrapping for improved AM-FM reconstruction"	"Southwest Symposium on Image Analysis and Interpretation"	0.397916666667	0.515
+7D96604A	"Application of kalman filters as a tool for phase and frequency demodulation of IQ signals"	"Information not present"	0.323333333333	0.245833333333
+812E0172	"A comparison of methods for detecting right whale calls"	"Information not present"	0.300793650794	0.31
+0806B45F	"Parametric Time-Scale Methods in Signal Analysis"	"Information not present"	0.279225023343	0.545454545455
+77044DE8	"A flux-modulated low-speed motor with an improved structure and its performance analysis using finite-element method"	"Information not present"	0.410383597884	0.395923520924
+78507FA0	"Differential photocurrent method for measurement of the optical-absorption coefficient and the minority-carrier diffusion length in a semiconductor"	"IEEE Transactions on Electron Devices"	0.310622710623	0.266666666667
+7FB42927	"Hardcopy image barcodes via block-error diffusion"	"IEEE Transactions on Image Processing"	0.282844932845	0.555555555556
+7839DDB6	"Development of a laser range finder using the phase difference method"	"Information not present"	0.35746031746	0.287996031746
+7DB4FC03	"Resolution enhancement in SPECAN algorithm for SAR image reconstruction using APES"	"Information not present"	0.462558356676	0.382501485443
+79A54417	"Rescue radar's signal processing method based on Doppler features of phase structure an echo-signal"	"Information not present"	0.318571428571	0.247578964246
+790BA5BA	"A new method for treating electron tubes when used as superregenerative detectors: Part III. Experimental investigation of superregenerative circuits"	"Information not present"	0.309126984127	0.229844877345
+6C79D2BA	"Evaluation of a physical method for estimating speech intelligibility in auditoria"	"International Conference on Acoustics, Speech, and Signal Processing"	0.316753246753	0.325555555556
+7E9F549A	"Digital Screening Algorithm Based on Improved Delaunay Triangulation"	"International Conference on Hybrid Information Technology"	0.234313055366	0.344848484848
+754BD618	"A new method to synthesize and optimize band-pass delta-sigma modulators"	"Information not present"	0.279225023343	0.430555555556
+7FFE2E5F	"An FM demodulation algorithm with an undersampling rate"	"International Conference on Acoustics, Speech, and Signal Processing"	0.293015873016	0.411255411255
+7C0184FA	"Development of a Sensorless Control Method for a Self-Energizing Brake System Using Noncircular Gears"	"IEEE Transactions on Control Systems and Technology"	0.325324675325	0.286281179138
+7C5B8994	"DÃ©termination directe des vitesses de phase et de groupe dans les lignes microondes par la mÃ©thode TLM (Direct determination of phase and group velocities in microlines by the TLM method)"	"Electronics Letters"	0.323956043956	0.268402777778
+769113B7	"Novel Detection Method for Multi-component LFM Signals"	"International Conference on Pervasive Computing"	0.298412698413	0.430555555556
+75593705	"Computationally Efficient Method in the Meter-Wave Radar Low-Elevation Height-Finding Applications"	"Information not present"	0.28746031746	0.4
+7EE75A1F	"Optimal control using the Fast Marching Method"	"Information not present"	0.309253246753	0.415064102564
+5976488A	"A discrete frequency control method based on equivalent sinusoidal modulation for thyristorized soft starters"	"Information not present"	0.314935064935	0.31654040404
+7D806486	"Adaptive robustified synchronization methods for chaos-based information transmission"	"Information not present"	0.290476190476	0.346428571429
+7F77B65C	"A Fully Passive Wireless Microsystem for Recording of Neuropotentials Using RF Backscattering Methods"	"IEEE\/ASME Journal of Microelectromechanical Systems"	0.327142857143	0.361904761905
+0D16F54B	"Methods of Discrete-Time Phase and Frequency Synchronization"	"Information not present"	0.310476190476	0.366964285714
+800D554D	"The multicomponent AM-FM image representation"	"IEEE Transactions on Image Processing"	0.289015151515	0.75
+7D5E480B	"Algorithms of processing of radar images in radio vision systems of the car"	"Information not present"	0.321753246753	0.238848304473
+5F3BD4D5	"Reconstruction of sparse multiband wavelet signals from Fourier measurements"	"Information not present"	0.297619047619	0.344444444444
+7DFA9A1D	"Method of reducing the f.m. threshold using a tracking N-path filter"	"Electronics Letters"	0.29246031746	0.381666666667
+7CB5AFDA	"A new signal processing method of ZPRA based on geomagnetic sensor"	"Information not present"	0.309126984127	0.35
+75658291	"Frequency estimation algorithm based on dynamic phasor method in a power system"	"Information not present"	0.34380952381	0.30363327149
+79839C55	"A sensorless, stable V/f control method for permanent-magnet synchronous motor drives"	"IEEE Transactions on Industry Applications"	0.318975468975	0.368055555556
+7EBFBBC7	"A Unique Method of Modulation for High-Fidelity Television Transmitters"	"Proceedings of The Institute of Radio Engineers"	0.31746031746	0.3625
+6EB5A411	"Analysing heart murmurs using time-frequency methods"	"Information not present"	0.279225023343	0.384126984127
+5AE89729	"Ridges extraction method for the linear AM-FM modulated signals covered by a zero-mean Gaussian noise"	"Information not present"	0.300793650794	0.312962962963
+7B15D3DE	"Main principles of use of coherent population trapping for modulation and demodulation of multifrequency radiation"	"Information not present"	0.306904761905	0.26485260771
+7FDB8B69	"Novel method for estimating the instantaneous parameters of radio transmitter signals"	"Information Sciences, Signal Processing and their Applications"	0.334126984127	0.301388888889
+81E2F6C0	"On the fundamental differences between the NT and the KM center of Sets Calculation Methods on the IT2-FLC performance"	"Information not present"	0.330622710623	0.26990311276
+7DBB4634	"Single channel speech separation with a frame-based pitch range estimation method in modulation frequency"	"Information not present"	0.301904761905	0.227292768959
+7BF557F5	"Large-scale Data Transfer Method with Dynamic Window Control to Reduce Reservation Bandwidth in DiffServ AF Networks"	"Networks"	0.318975468975	0.236207311207
+7F23B727	"A new method for fuzzy decision-making based on likelihood-based comparison relations"	"International Conference on Machine Learning and Cybernetics"	0.290476190476	0.389880952381
+7895E4A0	"A Simplified Method for Prediction of Multipath Fading Outage of Digital Radio"	"IEEE Transactions on Communications"	0.332142857143	0.375992063492
+78D7C5B9	"A Monolithic IF Subsystem for Demodulation of FM Signals"	"IEEE Transactions on Consumer Electronics"	0.305555555556	0.350108225108
+804ED11D	"A method of determining impurity diffusion coefficients and surface concentrations of drift transistors"	"Ire Transactions on Electron Devices"	0.313571428571	0.240432098765
+79D761E3	"A High-Definition MUSE VCR with Analog Segment Recording Method"	"IEEE Transactions on Consumer Electronics"	0.30341991342	0.282281144781
+5C3848AC	"A new method for modulation type recognition based on the time frequency representations"	"Information not present"	0.359253246753	0.304662698413
+7E81B348	"The Measurement Method for Corona Discharge Current Under High-Voltage Environment"	"IEEE Transactions on Instrumentation and Measurement"	0.292586580087	0.350694444444
+76095F7F	"Quadrature Detection Methods for FM Demodulation"	"Advances in Computing and Communications"	0.46746031746	0.550480769231
+785CE960	"Nonlinear dynamic system sensor fault isolation using parameter interval based method"	"Information not present"	0.319047619048	0.278218694885
+798E0731	"Invariance Properties of AM-FM Image Features with Application to Template Tracking"	"Information not present"	0.311904761905	0.286507936508
+7CDF41EA	"Passive Demodulation of Optical Interferometric Sensors"	"IEEE Transactions on Microwave Theory and Techniques"	0.258571428571	0.5625
+58C9F2A3	"Accuracy limitations of laser-based ranging techniques in robotic applications"	"Information not present"	0.361904761905	0.398571428571
+78C96988	"An integrity monitoring method of satellite clock bias using Shewhart Control Chart"	"Information not present"	0.323571428571	0.260446960447
+7F027A8F	"An Adaptive Image Steganography Based on Depth-Varying Embedding"	"Information not present"	0.279225023343	0.477777777778
+7A0BBB17	"Phase Noise Characterization of SGDBR Lasers Using Phase Modulation Detection Method With Delayed Self-Heterodyne Measurements"	"Journal of Lightwave Technology"	0.315793650794	0.25462962963
+7812F81D	"Perfect Reconstruction AM-FM Image Models"	"International Conference on Image Processing"	0.462558356676	0.714285714286
+79056978	"Low SNR signal time-frequency analyzing method"	"Information not present"	0.279225023343	0.666666666667
+7DF281E3	"Rapid version of a formant-modulation method of speech intelligibility estimation"	"Information not present"	0.309253246753	0.312222222222
+770A9B1D	"A novel nonlinear unmixing scheme for hyperspectral images using the nonlinear least squares technique"	"International Geoscience and Remote Sensing Symposium"	0.350653594771	0.415238095238
+3273F273	"AM-FM Analysis of Structural and Functional Magnetic Resonance Images"	"Information not present"	0.280793650794	0.393939393939
+7E2EEE28	"A Method for Calculating Phase-Locked Loop Performance Near Threshold"	"IEEE Transactions on Communications"	0.288293650794	0.359027777778
+7708B4F5	"Signal detection of rotational processes and frequency demodulation"	"Conference on Decision and Control"	0.293181818182	0.340277777778
+7FE9E5AA	"Tuning methods for uncooled low-cost tunable lasers in WDM-PON"	"Information not present"	0.289682539683	0.437037037037
+7D874358	"Magnetic flux compensating torque control method suitable for general purpose inverters with superaudible switching frequencies"	"IEEE Transactions on Power Electronics"	0.328181818182	0.247354497354
+758F8F5D	"A kind of detection method for laser warning annunciators based on tunable laser source in hemisphere space"	"Information not present"	0.323015873016	0.242738095238
+798F43EC	"A Practical FMCW Radar Signal Processing Method and Its System Implementation"	"Information not present"	0.312698412698	0.272420634921
+7E6207DB	"Stereo disparity from multiscale processing of local image phase"	"Information not present"	0.325238095238	0.38125
+5B98FD07	"Object tracking using AM-FM image features"	"Iet Computer Vision"	0.299365079365	0.37380952381
+5D120AD8	"Digital pulse frequency demodulation using state-space filtering"	"International Conference on Acoustics, Speech, and Signal Processing"	0.283181818182	0.486111111111
+61D08EEE	"Degradation in finite-harmonic subcarrier demodulation"	"Information not present"	0.268831168831	0.545454545455
+7A56E638	"A new method for direct signal recover in non-cooperative bistatic radar"	"Information not present"	0.304126984127	0.422222222222
+77BBE264	"Higher order Teager-Kaiser operators for image analysis: Part I - A monocomponent image demodulation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.484126984127	0.497510822511
+7B0C7CF3	"A Review of Adaptive Image Representations"	"IEEE Journal of Selected Topics in Signal Processing"	0.289015151515	0.537037037037
+58974FF7	"Time-Frequency Tracking of Spectral Structures Estimated by a Data-Driven Method"	"IEEE Transactions on Industrial Electronics"	0.29246031746	0.34375
+796FEC29	"Application Specific VLIW Processors with Power-Saving Mode Via Variable Arithmetic Accuracy"	"Information not present"	0.277777777778	0.35
+7D118952	"A New Method for Evaluating the Communication Quality of FM Signal"	"Information not present"	0.365079365079	0.398333333333
+79487A5D	"Frequency separation method for relaxation problems"	"Physical Review Letters"	0.303956043956	0.315793650794
+80BC2266	"Multi-Component LFM Signal Feature Extraction Based on Improved Wigner-Hough Transform"	"Information not present"	0.254222629223	0.396825396825
+77746EFA	"A Method for Micro-spheres Manipulation Based on Capillary Force Control"	"Information not present"	0.309253246753	0.376666666667
+77FF3065	"Method for superimposing data on amplitude-modulated signals"	"Electronics Letters"	0.298412698413	0.377380952381
+7BCAAF25	"Phase methods for calculating harmonic distortion of an FM signal by a passive network"	"IEEE Transactions on Broadcasting"	0.31619047619	0.301587301587
+7D245460	"A Method for Improving Trace Brightness in Pulse Reflection Oscilloscope Displays"	"IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control"	0.301587301587	0.266439909297
+30A72EAC	"Demodulation of digital signals using an FM DISCRIMINATOR."	"Information not present"	0.305555555556	0.402777777778
+7E84C3E6	"An Improved Staggered Modulation Method of 8-VSB"	"Communications and Mobile Computing"	0.399354186119	0.7
+7F9FC1B8	"Microwave-frequency conversion methods by optical interferometer and photodiode"	"IEEE Transactions on Microwave Theory and Techniques"	0.28746031746	0.4
+7C7925CA	"Digital image processing test patterns"	"IEEE Transactions on Acoustics, Speech, and Signal Processing"	0.289015151515	0.364393939394
+7A95F91A	"An improved fourier method for power system frequency estimation"	"Information not present"	0.34380952381	0.291728509586
+7FD478BE	"First Results in Perceptually-Based AM-FM Image Filtering"	"Southwest Symposium on Image Analysis and Interpretation"	0.282844932845	0.555555555556
+7E76098A	"A Digital Image Generator As a Counter-Measure Against ISAR"	"Information and Communication Technologies and Development"	0.289682539683	0.555555555556
+7D1E0069	"Lock-in amplifier up to 530 MHz with phase and amplitude demodulation"	"IEEE Transactions on Instrumentation and Measurement"	0.305	0.352083333333
+75F1CDED	"Ternary Entropy-Based Binarization of Degraded Document Images Using Morphological Operators"	"International Conference on Document Analysis and Recognition"	0.284253246753	0.395833333333
+811BE764	"Investigation and Performance Enhancement of the Empirical Mode Decomposition Method Based on a Heuristic Search Optimization Approach"	"IEEE Transactions on Signal Processing"	0.301904761905	0.219646464646
+7D0AF14D	"Research on Signal Processing Method for Ranging System Based on a New Combined Modulation Waveform"	"Communications and Mobile Computing"	0.300324675325	0.265788840789
+76EA176C	"A Simple Technique for Video Image Transmission"	"IEEE Transactions on Consumer Electronics"	0.350653594771	0.533333333333
+7D67B6ED	"Spatial under-sampling of ultrasound images using Fourier-based synthetic aperture focusing technique"	"Information not present"	0.357070707071	0.41341991342
+77B88175	"Method for obtaining gas concentration with a phase-based metrology system"	"Applied Optics"	0.317142857143	0.303174603175
+6E82E6AC	"Methods planning cantilever of mechanical type"	"Information not present"	0.285642135642	0.366477272727
+7F40EE01	"Performance of improved FM-DCSK system based on differential-coding method"	"International Conference on Communications"	0.296031746032	0.36746031746
+81004A7A	"A bilateral transistor detector ∗ for demodulation of an FM stereophonic signal"	"IEEE Transactions on Broadcast and Television Receivers"	0.305555555556	0.296515151515
+797F8886	"Frequency demodulation using sliding DFT based phase locking scheme"	"Information not present"	0.315793650794	0.312648809524
+75C6BC8D	"High accuracy magnetic measurements with the ASQ-81 scalar magnetometer"	"IEEE Transactions on Instrumentation and Measurement"	0.282626262626	0.400673400673
+7BFD06D4	"Selection of nonlinear function in integral sliding mode-based composite nonlinear feedback method for transient improvement of uncertain linear systems"	"Information not present"	0.305714285714	0.258276643991
+7E47BC32	"Detection Method for Digital Radio Mondiale Signal in FM-band"	"Information not present"	0.334126984127	0.385416666667
+7EFBE979	"A Simple Method for Generating Electromagnetic Oscillations"	"IEEE Transactions on Circuits and Systems Ii-express Briefs"	0.282844932845	0.453703703704
+7E1DD868	"A hybrid coherent-incoherent method of modulation filtering for Single Channel Speech Separation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.301904761905	0.302222222222
+7B5AE889	"Phase noise and transient measurement methods for V-band applications"	"Information not present"	0.306071428571	0.304444444444
+7EDAA728	"Diagnosis of Three-Phase Electrical Machines Using Multidimensional Demodulation Techniques"	"IEEE Transactions on Industrial Electronics"	0.360384615385	0.409848484848
+77931956	"Picosecond Phase Conjugation By Degenerate Four Wave Mixing In Alkali Vapours - A Method For Measuring Perturbation Times Of The Atomic Wavefunctions"	"Information not present"	0.315238095238	0.226807031352
+6B7148CB	"Feature-map methods for extracting sound frequency modulation"	"Information not present"	0.284253246753	0.36875
+76D91565	"Reconstruction the directional characteristics of active phase antenna arrays with failured active modules for unmonochromatic signal"	"Information not present"	0.338888888889	0.2910430839
+7F4C6965	"An improved technique to discover compromising electromagnetic emanations"	"Information not present"	0.320707070707	0.415
+7664EFF8	"A micro-motion feature deception jamming method to ISAR"	"Information not present"	0.279225023343	0.349206349206
+7A5E2A78	"Higher-order sideband excitation method for pulsed CPT atomic clock"	"Information not present"	0.285642135642	0.400673400673
+131AC27B	"A Method of Lowering the Noiseproofness Threshold of Braodband Frequency Modulation and Phase Modulation Receivers,"	"Information not present"	0.313571428571	0.25
+7E9FC054	"OCT image based on wavelength-swept active mode locking dispersive fiber laser"	"Information not present"	0.310793650794	0.32037037037
+7D418E92	"A new method for harmonic and reactive power compensation"	"Information not present"	0.328571428571	0.472222222222
+7DABDB87	"Novel method for analyzing the effect of transceiver channel on sidetone phase in MFCW ranging systems"	"Information not present"	0.322142857143	0.305328798186
+7E3AB2BE	"A novel method for extraction of in-pulse feature of multi-component LFM signal"	"Information not present"	0.299511599512	0.355158730159
+640D2E32	"New control method of Class DE inverter-Class DE thinning-out inverter"	"Information not present"	0.318571428571	0.373214285714
+59CDE32B	"A Directional Coupler Modulator With Improved Linearity (operating Up To 1GHz)"	"Information not present"	0.251334776335	0.352380952381
+76FB3197	"Fast deblocking filter implementation method and it’s architecture for H.264/AVC"	"Information not present"	0.28746031746	0.4
+85D67833	"A Novel High-Precision Phase-Derived-Range Method for Direct Sampling LFM Radar"	"IEEE Transactions on Geoscience and Remote Sensing"	0.28746031746	0.45
+7BC20465	"Zero-crossing-based approximate demodulation of wide-deviation FM"	"Iee Proceedings F Communications, Radar and Signal Processing"	0.268831168831	0.545454545455
+79698DAC	"A Method to Improve the Interharmonic Grouping Scheme Adopted by IEC Standard 61000-4-7"	"IEEE Transactions on Power Delivery"	0.308956043956	0.358571428571
+79F73489	"Numerical Simulation of Conventional/Enhanced Permanent Magnet Method: Influence of Crack on Accuracy"	"IEEE Transactions on Applied Superconductivity"	0.473571428571	0.431818181818
+776DDBDB	"Radio frequency transparent demodulation for broadband wireless links"	"Information not present"	0.283181818182	0.343181818182
+13ED4E30	"OPTIMUM DEMODULATION OF PM AND FM SIGNALS"	"Information not present"	0.305555555556	0.335227272727
+7DCCF46A	"Colorless FSK Demodulation and Detection With Integrated Fabry–Pérot-Type SOA/REAM"	"IEEE Photonics Technology Letters"	0.285384615385	0.5625
+76E414F4	"Cross-term-free time–frequency distribution reconstruction via lifted projections"	"IEEE Transactions on Aerospace and Electronic Systems"	0.291129785247	0.414285714286
+72979F8F	"Methods of transmitting a wideband signal through an electrically small antenna"	"Information not present"	0.306349206349	0.369444444444
+6E97BE8F	"Embedding data in digital images using CDMA techniques"	"International Conference on Image Processing"	0.361904761905	0.428571428571
+74D7A630	"A new multi-parm time-frequency analysis method on Doppler radar signal processing [sic]"	"Information not present"	0.304126984127	0.262247474747
+7EE520BE	"Fast digital watermarking techniques for still images"	"International Conference on Networking"	0.350653594771	0.75
+7FBA0F45	"Discrete quasi-eigenfunction approximation for AM-FM image analysis"	"International Conference on Image Processing"	0.279225023343	0.39696969697
+5FDC3F1D	"A Novel Method to Detect and Separate LFM Signal Based on Artificial Neural Network"	"Information not present"	0.298412698413	0.362698412698
+7FA254F1	"Narrowband FM demodulation on multi purpose DSPs, according to ETS 300 086"	"Information not present"	0.268831168831	0.430303030303
+7DFF2E0E	"A method for target estimation of level radar"	"Information not present"	0.308571428571	0.302222222222
+7FB020FA	"An improved STI method for evaluating Mandarin speech intelligibility"	"Information not present"	0.424377705628	0.436111111111
+79C9A791	"Wavelength modulation-based method for interference phase detection with reduced optical complexity"	"Information not present"	0.348571428571	0.348333333333
+7F5C281E	"Novel digital FM Demodulation"	"Information not present"	0.268831168831	0.545454545455
+7F415861	"Quarter-Rate Superconducting Modulator for Improved High Resolution Analog-to-Digital Converter"	"IEEE Transactions on Applied Superconductivity"	0.25021043771	0.412037037037
+7DDF8225	"An innovative positioning method based on linear frequency modulation for wireless sensor networks"	"Information not present"	0.327142857143	0.273412698413
+7EDA0A23	"Degree of starch access: An enzymatic method to determine starch degradation potential of corn grain and corn silage"	"Animal Feed Science and Technology"	0.301904761905	0.207052617614
+5B1F4DAA	"Modulation and Demodulation"	"Information not present"	0.268717948718	0.55
+7B40F983	"Perceptual Relevance Based Image Retargeting"	"IEEE Signal Processing Letters"	0.290476190476	0.492063492063
+8132DA58	"Method for the computation of interference and distortion levels in satellite FM-TV systems"	"IEEE Transactions on Broadcasting"	0.317142857143	0.271031746032
+7FD20BE9	"Design method of OFDM/OQAM systems using a weighted time-frequency localization criterion"	"Information not present"	0.310714285714	0.301659451659
+7C089C2B	"Comparative Study of Square and Sine-Wave Excitation Methods for the Measurement of Aerosol Particles Charge and Size Distribution Using Phase Doppler Anemometry"	"IEEE Transactions on Instrumentation and Measurement"	0.31619047619	0.211778499278
+802C8F77	"Study on an Ameliorative Frequency Measure Method Based on Phase Difference Algorithm"	"Information not present"	0.348571428571	0.280354020979
+7E19B5BE	"Solving Demodulation as an Optimization Problem"	"IEEE Transactions on Audio, Speech, and Language Processing"	0.281601731602	0.369047619048
+7E047992	"The Method of Main Peak Extraction Based on Multi-peak Signal"	"Information not present"	0.299511599512	0.347222222222
+7D01A786	"An Ultra-Wideband Impulse-Radio Communication Method and Transceiver"	"Global Communications Conference"	0.284253246753	0.5625
+80DBCB4B	"Multidimensional AM-FM models and methods for biomedical image computing"	"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.450653594771	0.585714285714
+7D6B198B	"Spectral 2-D image reconstruction in ISAR with linear frequency modulated signals"	"Document Analysis Systems"	0.47619047619	0.491666666667
+7B739EDB	"A possible frequency planning method and related model calculations for the sharing of VHF band II (87.5-108 MHz) between FM and DAB (digital audio broadcast) systems"	"IEEE Transactions on Broadcasting"	0.305714285714	0.178814333814
+7F1D35C6	"A novel method for generating highly extinctive optical pulse"	"International Conference on Conceptual Structures"	0.279225023343	0.45
+7DA0D4EA	"A simple noise generation method for millimeter-wave therapy apparatus"	"Information not present"	0.302142857143	0.291178266178
+802FEBD4	"Autofocusing-spectral 2-D ISAR image reconstruction from linear frequency modulated signal"	"Information not present"	0.466071428571	0.572916666667
+81749936	"A compensation method for dispersion-induced third-order intermodulation distortion using an etalon"	"Journal of Lightwave Technology"	0.279225023343	0.379166666667
+76DB8DE8	"A fixed frequency sampling method for wireless sensors power consumption estimation"	"Information not present"	0.365238095238	0.285416666667
+811A640A	"A measurement method of the DTMB modulator"	"International Conference on Conceptual Structures"	0.279225023343	1.0
+79039D81	"An alternative method for high frequency effective Vπ measurements of phase modulators"	"Information not present"	0.306071428571	0.359027777778
+7E2623C0	"Improved phase vocoder time-scale modification of audio"	"IEEE Transactions on Speech and Audio Processing"	0.271957671958	0.360714285714
+33136584	"Stratospheric measurements: Laser in-situ methods"	"Information not present"	0.289682539683	0.407407407407
+801DBC6C	"Optimizing coherent demodulation for improved separation of overlapping sources"	"International Conference on Acoustics, Speech, and Signal Processing"	0.42037037037	0.438888888889
+7DAE9282	"Energy demodulation of two-component AM-FM signal mixtures"	"IEEE Signal Processing Letters"	0.305555555556	0.345643939394
+800BD1EF	"Complex bandpass ΔΣAD modulator with noise-coupled image rejection"	"Information not present"	0.284253246753	0.5625
+7ED6B1A5	"An method for demodulation from non-stationary ampltitude modulated broad-band signal"	"Information not present"	0.484126984127	0.583333333333
+68EB978D	"A novel method to identify multi-target by transformable periods LFM waveform"	"International Conference on Communications"	0.320476190476	0.4
+7EFC98DF	"New algorithms for fast and accurate AM-FM demodulation of digital images"	"International Conference on Image Processing"	0.46746031746	0.543560606061
+7CF69D1C	"Electronic Methods of Observation at the David W. Taylor Model Basin. Part 6. The Application of Frequency Deviation Methods to Measurements of Mechanical Changes,"	"Information not present"	0.306349206349	0.251521555368
+5FC268B9	"Phase demodulation of magnetic GMR signal for virtual sensing applications by using hilbert transform"	"International Convention on Information and Communication Technology, Electronics and Microelectronics"	0.323333333333	0.320833333333
+6987C8F6	"Research on the Method of Features Extraction for Non-Stationary Transient Signal Based on EMD Method"	"Information not present"	0.298412698413	0.455627705628
+6CE79F20	"Correlation-autofocusing-spectral 2-D ISAR image reconstruction from linear frequency modulated signals"	"Document Analysis Systems"	0.47619047619	0.491666666667
+795EB9A7	"Frequency demodulators, optimized for image signals reception"	"Information not present"	0.304126984127	0.278240740741
+7C2258A6	"An Average Current Modulation Method for Single-Stage LED Drivers With High Power Factor and Zero Low-Frequency Current Ripple"	"Information not present"	0.330622710623	0.295526695527
+7CA5DB1F	"Aligning images in the wild"	"Computer Vision and Pattern Recognition"	0.301904761905	0.466666666667
+7644F1FB	"Demodulation of 16-QAM signals using RF direct orthogonal phase under-sampling technique"	"Information not present"	0.398333333333	0.380555555556
+80F65FA1	"An instantaneous frequency estimation method based on the improved sliding pair-wise ICI rule"	"Information Sciences, Signal Processing and their Applications"	0.407512626263	0.454166666667
+7F27CC37	"Piecewise-linear analysis of high-damping chaotic phase-locked loops using Melnikov's method"	"IEEE Transactions on Circuits and Systems I-regular Papers"	0.28746031746	0.381060606061
+7A6B78D4	"Interference Due to Limiting and Demodulation of Two Angle Modulated Signals"	"IEEE Transactions on Aerospace and Electronic Systems"	0.305555555556	0.280753968254
+7D6C9EAD	"A Method for Proving Observational Equivalence"	"Information not present"	0.292586580087	0.472222222222
+628AEC04	"Transmultiplexing of multidimensional signals over arbitrary lattices with perfect reconstruction"	"International Conference on Acoustics, Speech, and Signal Processing"	0.304761904762	0.436507936508
+805A8377	"Enhanced multivariate steady-state time-domain method"	"European Conference on Circuit Theory and Design"	0.279225023343	1.0
+5BD990C8	"The Methods of Recognition for Common Used M-ary Digital Modulations"	"Information not present"	0.285574229692	0.394047619048
+739D959D	"Processing FM signal using digital baseband methods"	"International Conference on Telecommunications"	0.279225023343	0.511111111111
+7E22BBC3	"High-performance RF signals transmission in SCM/WDMA radio-on-fiber bus link using optical FM method in presence of optical beat interference"	"IEEE Transactions on Microwave Theory and Techniques"	0.306349206349	0.213751147842
+8062CA0C	"Bearing Faults Diagnosis Based on Teager Energy Operator Demodulation Technique"	"Information not present"	0.368181818182	0.297032828283
+7E1154EB	"Spatio-temporal phase-encoding profilometry using correlation image sensor"	"Information not present"	0.302142857143	0.400297619048
+7813B579	"3-D Baseline Error Estimation for Distributed Small Satellites Based on Image Registration"	"Information not present"	0.300793650794	0.260669191919
+7E282F72	"Engineering-maintenance methods of the calculation xDSL-lines"	"Information not present"	0.279225023343	0.55
+7E90A28B	"Development of Hysteresis Modulation Methods for PWM AC - to - DC Converters Based on Dead - Beat Control"	"Information not present"	0.321753246753	0.238934213934
+7DC2C2B5	"AM-FM image segmentation"	"International Conference on Image Processing"	0.281746031746	0.55
+80F555E6	"Level-crossing based QAM demodulation for low-cost analog/RF testing"	"Information not present"	0.247973856209	0.511111111111
+80502A8D	"Digital Halftoning and the Application to Remote Sensing Images"	"Computer Systems: Science & Engineering"	0.279225023343	0.408333333333
+81C5DDBE	"A method of data broadcasting based on analog audio baseband signal"	"International Conference on Software Engineering"	0.305079365079	0.325661375661
+8109C7F0	"New hybrid control methods based on multi-carrier PWM techniques and charge balance control methods for cascaded multilevel converters"	"Canadian Conference on Electrical and Computer Engineering"	0.321753246753	0.410233285233
+7DB90E56	"FM demodulation using an injection-locked oscillator"	"Information not present"	0.251050420168	0.477777777778
+7749C0C7	"A novel method on radar 3-D imaging"	"Information not present"	0.28746031746	0.408333333333
+80B59950	"Cognitive detection method of radio frequencies on power line networks"	"Information not present"	0.365238095238	0.300170068027
+7CEE4E59	"'Perfect reconstruction' time-scaling filterbanks"	"International Conference on Acoustics, Speech, and Signal Processing"	0.264444444444	1.0
+7FB3CD09	"An analog compensation method for asymmetric IMD characteristics of a power amplifier"	"Information not present"	0.33746031746	0.311772486772
+5CBD86A3	"A new coherent demodulation technique for land-mobile satellite communications"	"Information not present"	0.368717948718	0.447916666667
+7A8D5CA7	"A Broadband Multistage Single Sideband Detector with High Image Rejection"	"Information not present"	0.318571428571	0.3625
+7746879F	"A method for elimination of phase jitter in software signal demodulation"	"Information not present"	0.493571428571	0.412820512821
+07311BF3	"FM Radio Receiver with Digital Demodulation"	"Information not present"	0.251050420168	0.45
+7787F887	"Fingerprint Reconstruction: From Minutiae to Phase"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.2875	0.348214285714
+764B8358	"A novel envelope curve modulation method for the SPWM controlled high frequency link matrix inverter"	"Information not present"	0.305086580087	0.258333333333
+77C9C687	"System for gear online fault diagnosis based on DSP and envelope demodulation method"	"Signal Processing Systems"	0.46746031746	0.400458668316
+80D479F5	"FM filters for modulation domain image processing"	"International Conference on Image Processing"	0.300324675325	0.263961038961
+781595E7	"A novel method for voltage flicker extraction of power systems"	"Information not present"	0.34380952381	0.296957671958
+76F4DB43	"Velocity Compensation Based Multi-Target Distinguishing Method for FMCW Ladar"	"Information not present"	0.284253246753	0.348333333333
+773FCF2B	"Investigation of the microcantilevers by the photoacoustic elastic bending method"	"Information not present"	0.279225023343	0.403703703704
+768064B0	"Fast and efficient method to suppress depth ambiguity for Time-of-Flight sensors"	"Information not present"	0.29246031746	0.340277777778
+7540D67A	"Study of the hyperfine structure of emission lines of I{sub 2} molecules by the method of three-level laser spectroscopy"	"Quantum Electronics"	0.302142857143	0.209605209605
+7DEABA2F	"Progressive dimming method for mercury-free flat fluorescent lamp"	"IEEE Transactions on Consumer Electronics"	0.289682539683	0.403703703704
+7DD961CF	"Current compensation method for adjustment free stereo multiplex voltage control oscillator in FM receivers"	"Information not present"	0.316753246753	0.210942760943
+755A1111	"A Wavelet-Based Algorithm for Digital Demodulation of Amplitude Modulated Signal"	"Information not present"	0.305555555556	0.301515151515
+7257324C	"An improved CSA for one-stationary BiSAR squint mode"	"International Geoscience and Remote Sensing Symposium"	0.264814814815	0.441666666667
+7F99C6CA	"Stereoscopic ranging by matching image modulations"	"IEEE Transactions on Image Processing"	0.279225023343	0.4
+80529B05	"An Improved NLCS Algorithm With Capability Analysis for One-Stationary BiSAR"	"IEEE Transactions on Geoscience and Remote Sensing"	0.267234848485	0.357954545455
+76EDC993	"Frequency Modulation Of Short Laser Pulses As A Method Of Image Transfer"	"Information not present"	0.465404040404	0.361002886003
+7E9B9473	"Investigation on de-noising and demodulation of impulsive modulated signal using multi-scale morphological filters"	"Information not present"	0.27	0.345
+7A83CC82	"A method of carrier frequency estimation based on spectral analysis of digital communication signal"	"Information not present"	0.299511599512	0.255113636364
+7AF463E0	"Generating facial images for steganography based on IGA and image morphing"	"Systems, Man and Cybernetics"	0.279225023343	0.459126984127
+7A7E5526	"A 180-nm CMOS time-of-flight 3-D image sensor"	"Information not present"	0.29246031746	0.5625
+7C3050AE	"Model order selection based on different information criteria for PDF estimation using maximum entropy method and application in cognitive radio systems"	"Information not present"	0.332142857143	0.241600529101
+7A07216E	"A novel gang SPWM control method for six-phase induction motor"	"Information not present"	0.318975468975	0.314444444444
+7E9DCFD4	"Texture modulation-constrained image decomposition"	"International Conference on Image Processing"	0.292586580087	0.419191919192
+7FBB2B5E	"A Spline-Based Framework for Perfect Reconstruction AM-FM Models"	"Southwest Symposium on Image Analysis and Interpretation"	0.281904761905	0.428571428571
+7DB0154A	"Cone beam X-ray scatter removal via image frequency modulation and filtering"	"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.302142857143	0.239455782313
+814C865C	"Determination of the band diagram of the semiconductor laser structure by optical modulation spectroscopy methods"	"Clinical Nutrition Supplements"	0.302142857143	0.206434614768
+14C95E5E	"Methods of Interference-Free Reception of Frequency Modulated and Phase Modulated Signals,"	"Information not present"	0.31619047619	0.276587301587
+7AD49EAE	"Analysis on the amplitude instability of homodyne coherent demodulation method based on a 3×3 coupler for fiber laser hydrophone"	"Proceedings of SPIE"	0.480086580087	0.364141414141
+8120C66C	"Piecewise Broken Line Approximation Method implementation in stability analysis of bidirectional Buck/Boost converters cascaded system"	"Information not present"	0.308658008658	0.227825877826
+814842DE	"The Synthetic-Array Radar Image of a Flat Plate"	"IEEE Transactions on Aerospace and Electronic Systems"	0.28746031746	0.39696969697
+7E13AFBD	"A regularized optimization approach for AM-FM reconstructions"	"Information not present"	0.264444444444	0.388888888889
+7D852899	"An innovative swept frequency measurement method using counting and digital signal processing techniques"	"IEEE Transactions on Instrumentation and Measurement"	0.300793650794	0.306502525253
+769281D9	"Bandlimited BEMD and application in remote sensing image fusion"	"Information not present"	0.279225023343	0.365277777778
+7E5AFFDC	"Novel Interferometric Method for the Measurement of Laser Wavelength/Frequency-Modulation Sensitivity"	"IEEE Transactions on Instrumentation and Measurement"	0.279225023343	0.425925925926
+80A4A615	"Comparison of two methods for the generation of spatially modulated ultrasound radiation force"	"IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control"	0.301904761905	0.279365079365
+7CFF85A7	"The analytic image"	"International Conference on Image Processing"	0.279225023343	1.0
+7DA215D7	"New compensation method for level and non-linear distortion of high-definition VCRs"	"IEEE Transactions on Consumer Electronics"	0.306753246753	0.294848484848
+7F4B2CA5	"Low power non-recursive comb-based structure with improved magnitude response"	"Information not present"	0.296759259259	0.351666666667
+5F1D16CE	"Study on the PWM methods of the unbalanced input voltage three level inverter with the energy storage device"	"Information not present"	0.317142857143	0.214069264069
+7CB2F96C	"A novel method of eliminating the background in Fourier transform profilometry based on Bi-dimensional Empirical Mode Decomposition"	"Information not present"	0.301904761905	0.337373737374
+7F4A0025	"Material evaluation with new modulation method in photoacoustic technique"	"Information not present"	0.279225023343	0.427777777778
+755D82B4	"An Effective Method to Recognize BPSK Signal Based on Wavelet Transform"	"Information not present"	0.298412698413	0.353333333333
+7C151A0A	"Railway Locomotive Signal Detection Method Research"	"Information not present"	0.279225023343	0.405303030303
+7B88DF1C	"A Hybrid Method for Power System Frequency Estimation"	"IEEE Transactions on Power Delivery"	0.34380952381	0.340238095238
+77D19B3F	"A Method of Band-Pass Amplifier Alignment"	"Proceedings of The Institute of Radio Engineers"	0.293975468975	0.412037037037
+7EDC1D72	"Comparison of medium resolution algorithms for spacecraft on-board SAR image generation"	"International Geoscience and Remote Sensing Symposium"	0.317142857143	0.248474541332
+7EDFF0F2	"A New Method of Multi-Component Source Signal Coding"	"Information not present"	0.300793650794	0.341666666667
+805BCC1E	"Study on Method of Transient Huge Current Measurement by Magnetic Sensor Array"	"Information not present"	0.302142857143	0.29246031746
+7C84B173	"An Efficient Method of Pulse Repetition Interval Modulation Recognition"	"Communications and Mobile Computing"	0.304761904762	0.304126984127
+78B42D03	"Adaptive sampling and processing of ultrasound images"	"Information not present"	0.28841991342	0.408333333333
+7983D29D	"A low-complexity ICI mitigation method based on generalized data-allocation for OFDM systems"	"Information not present"	0.296031746032	0.389880952381
+76B77186	"Phase messaging method for time-of-flight cameras"	"Information not present"	0.315793650794	0.363492063492
+0FB51C88	"Simulation and studies of spaceborne synthetic aperture radar image quality with reduced bit rate"	"Information not present"	0.370793650794	0.266626082251
+7A49450D	"Proposal of an Overreach Measurement Method for Digital Terrestrial TV Service Using FM Broadcasting Waves"	"Ieice Transactions"	0.327142857143	0.267415223665
+7D73742B	"Feature space based image segmentation via density modification"	"International Conference on Image Processing"	0.315079365079	0.293027210884
+7D6EC907	"An implementation of the circuit multiobjective optimization with the weighted sum strategy and goal attainment method"	"International Symposium on Circuits and Systems"	0.315404040404	0.239037698413
+7D7D4DD6	"Image decomposition into structure and texture subcomponents with multifrequency modulation constraints"	"Computer Vision and Pattern Recognition"	0.305086580087	0.267929292929
+7548908D	"Digital phase demodulation technique based on low coherence fiber optic interferometry and phase measurement interferometry"	"Information not present"	0.393571428571	0.324801587302
+6313A19E	"A Proposed Method of FSK Generation and Demodulation for the DREO Radio Test Bed"	"Information not present"	0.477142857143	0.392918985776
+60DC6984	"Compensation method of position error in bilateral control system under time delay"	"Information not present"	0.329365079365	0.240426587302
+765E7FE3	"Fuzzy Multiple Attributes Group Decision-Making Based on Ranking Interval Type-2 Fuzzy Sets and the TOPSIS Method"	"Systems, Man and Cybernetics"	0.313717948718	0.34880952381
+752793FB	"A new phase generated carrier demodulation method based on fixed phase delay"	"Information not present"	0.493571428571	0.401041666667
+6F043A33	"Study of integration method for on-line monitoring system of electrical equipment insulation and AM/FM/GIS"	"Information not present"	0.303896103896	0.244832548404
+77407637	"All Digital Phase Detection and Tracking Method to Subdivide the Grating Moiré Fringe Signal"	"International Asia Conference on Informatics in Control, Automation and Robotics"	0.320086580087	0.279071969697
+68E3DFD8	"The study on method for calculating the compressive strength of multi-hole concrete hollow block masonry"	"Information not present"	0.313571428571	0.263492063492
+7FE02323	"Scanning Acoustic Microscope in Interference Mode Using Frequency Modulation Method"	"Information not present"	0.306753246753	0.272821969697
+776FAF80	"Bandwidth and demodulation gain in q.s.s.b. f.m."	"Electronics Letters"	0.298015873016	0.422619047619
+7ADBC5DB	"A Novel Method for Sorting Unknown Radar Emitter"	"Rundbrief Der Gi-fachgruppe 5.10 Informationssystem-architekturen"	0.28746031746	0.35
+7A2DD98D	"A Method for the Schmitt-Trigger Propagation-Delay Compensation in Asynchronous Sigma–Delta Modulator"	"IEEE Transactions on Circuits and Systems Ii-express Briefs"	0.279225023343	0.541666666667
+58FDBED5	"Sonar Processing With Higher-order Methods"	"Information not present"	0.28746031746	0.433333333333
+7AF158C5	"An influence of signal amplitude variation on interpolated DFT method"	"Information not present"	0.309253246753	0.361111111111
+5C189866	"An image processing approach for underdetermined blind separation of nonstationary sources"	"Information not present"	0.305238095238	0.301666666667
+80D8D106	"A Blind Watermarking Method with Strong Robust Based on 2D-Barcode"	"Information not present"	0.279225023343	0.666666666667
+77212B1D	"The analysis of demodulation characteristic on the resonant optical gyro using frequency modulation technique"	"Information not present"	0.371753246753	0.295441017316
+7B019719	"Experimental comparison of qualitative inverse scattering methods"	"Information not present"	0.290476190476	0.369047619048
+60FFF0AB	"Adaptive Demodulation of Digital Modulated Signals."	"Information not present"	0.305555555556	0.583333333333
+590E3D6F	"An adaptive quantization method for burst mode synthetic aperture radar data"	"Information not present"	0.308571428571	0.268448218448
+7508CBD7	"Color image registration via quaternion Fourier transform and parametric template method"	"Information not present"	0.465800865801	0.385497835498
+75721316	"A New Method Based on Local Integral Bispectra and SVM for Radio Transmitter Individual Identification"	"Information not present"	0.31746031746	0.356666666667
+7D70117B	"Coherence addressing of quasi-distributed absorption sensors by the FMCW method"	"Journal of Lightwave Technology"	0.29880952381	0.341964285714
+7BC04608	"A real zero SSB transceiver for land mobile radio: A simple method of demodulating SSB signals without an envelope"	"IEEE Transactions on Vehicular Technology"	0.336904761905	0.285090702948
+7F39A77A	"Improved FMCW multi-port technique"	"Information not present"	0.171495726496	0.375
+77796AE6	"The method of multiplying the frequency of the phase-shift keying signals"	"Information not present"	0.298412698413	0.364583333333
+75ED46DC	"STLFMCW signal detection based on cyclic fractional Fourier transform method"	"Information not present"	0.298412698413	0.343181818182
+5A396503	"Practical Experiences with the Novel Electron Beam Testing Methods Logic-State Tracing, Frequency Tracing and Frequency Mapping"	"European Solid-State Circuits Conference"	0.302857142857	0.217380952381
+7F9C897D	"A Novel Method of Frequency-Offset Estimation Using Time Domain PN Sequences in OFDM Systems"	"IEEE Transactions on Broadcasting"	0.302380952381	0.277324263039
+83040403	"High Range-Resolution Techniques"	"Information not present"	0.171495726496	0.5
+7E249366	"Hearing Images: Interactive Sonification Interface for Images"	"Information not present"	0.280793650794	0.544230769231
+7DCBA32E	"Bandpass sampling for multiband signal on exponent demodulation function"	"Information not present"	0.305555555556	0.389880952381
+788B1E98	"Contrast Reversal of Magneto-Optical Domain Image by Photo-Elastic Modulator"	"IEEE Translation Journal on Magnetics in Japan"	0.290476190476	0.344155844156
+8016F8B2	"Multiscale AM-FM Methods for Diabetic Retinopathy Lesion Detection"	"IEEE Transactions on Medical Imaging"	0.279225023343	0.408333333333
+80580173	"Method and apparatus for calibrating the ionosphere and application to surveillance of geophysical events"	"Information not present"	0.313888888889	0.253571428571
+68C9FE10	"Power conditioning system with cascaded H-bridge multilevel converter — DC-link voltage balancing method"	"Information not present"	0.34380952381	0.28231292517
+7A138554	"Wavelets, tomography, and line-segment image representations"	"Proceedings of SPIE"	0.289015151515	0.422727272727
+81126735	"An Effective Method to Recognize BPSK Signal Based on Wavelet Transform"	"Information not present"	0.298412698413	0.353333333333
+7F864DEF	"A method of reducing disturbances in radio signaling by a system of frequency modulation"	"Proceedings of the IEEE"	0.334126984127	0.261954365079
+8003FF65	"An integrated method of set pair analysis and association rule for fault diagnosis of power transformers"	"IEEE Transactions on Dielectrics and Electrical Insulation"	0.342222222222	0.240404040404
+8077FC87	"Feeling awareness in interactive differential evolution based facial image generation"	"Systems, Man and Cybernetics"	0.29380952381	0.343253968254
+5C2CC518	"VLSI structure for static image processing with pulse-coupled neural network"	"Clinical Gastroenterology and Hepatology"	0.302142857143	0.348214285714
+7A67CAFC	"Fiber-Optic Vibration Sensor Based on Beat Frequency and Frequency-Modulation Demodulation Techniques"	"IEEE Photonics Technology Letters"	0.368181818182	0.323593073593
+8013B9AF	"The images filtering information system for website images"	"International Conference on E-Business and E-Government"	0.305714285714	0.490476190476
+7888EA2A	"A modeling method of complex multi-medium interacted process system based on polychromatic sets"	"Information not present"	0.305714285714	0.306689342404
+759B1332	"Evaluation of Efficient Compression Properties of the Complete Oscillator Method, Part 1: Canonical Signals"	"Data Compression Conference"	0.304126984127	0.254030096887
+81635C1D	"An automatic method for image mosaic based on feature matching"	"Information not present"	0.458888888889	0.515238095238
+7619C6EA	"A Digital Demodulation Method for Amplitude Modulated Signal Based on Sub-Nyquist Sampling"	"International Conference on Pervasive Computing"	0.484126984127	0.407142857143
+7F5C862F	"A Method for Computer Recognition of Intracellularly Recorded Neuronal Events"	"IEEE Transactions on Biomedical Engineering"	0.311111111111	0.31746031746
+85868123	"Binary CPMs With Improved Spectral Efficiency"	"IEEE Communications Letters"	0.246401515152	0.5625
+810539E3	"Wideband Linear Frequency Modulated Waveform Compensation Using System Predistortion and Phase Coefficients Extraction Method"	"IEEE Microwave and Wireless Components Letters"	0.322142857143	0.252601410935
+6FF2A965	"Modulation models for image processing and wavelet-based image demodulation"	"Information not present"	0.471753246753	0.56130952381
+77CD3E67	"LFM signal parameters estimation using an improved DIRECT algorithm"	"Information not present"	0.266534391534	0.343181818182
+58D50BB9	"A novel multiple LFM signals detection method"	"Information not present"	0.298412698413	0.430555555556
+7D9F6256	"2D Image reconstruction of radar INDERA"	"Zeitschrift Für Interaktive Und Kooperative Medien"	0.470793650794	0.7
+5F8BA89A	"Other Analog Optical Modulation Methods"	"Information not present"	0.29700280112	0.433333333333
+7819F728	"Sound meets image: freedom of expression in texture description:"	"Information not present"	0.301904761905	0.298611111111
+61589E29	"Speech Envelope Normalization, a Method to Improve SNR and Suppress Noise in Present and Future Radio Systems."	"Information not present"	0.31746031746	0.262648809524
+7B676C35	"Technique for direct phase demodulation in heterodyne interferometry"	"Review of Scientific Instruments"	0.39	0.566666666667
+8165EAB4	"Shifting Window Average Method for Phasor Measurement at Offnominal Frequencies"	"IEEE Transactions on Power Delivery"	0.284253246753	0.371527777778
+75737422	"NLFM-DSS signal acquisition method based on DPT and PMF-FFT"	"Information not present"	0.279225023343	0.481481481481
+79A53474	"Correlating speak extraction in acousto-optic signal processing systems using wavelet transform method"	"International Conference on Cyber-Physical Systems"	0.300324675325	0.318716931217
+7C32FC66	"Iterative Method for Nonlinear FM Synthesis of Radar Signals"	"IEEE Transactions on Aerospace and Electronic Systems"	0.304126984127	0.341666666667
+81348135	"Wave reflection properties of moving conducting surfaces at normal incidence with Lorentz-FDTD method"	"Communication Systems and Networks"	0.302142857143	0.26681547619
+79C64026	"Methods of detection and analisys of UMTS signals"	"Information not present"	0.298412698413	0.430555555556
+77CA3157	"Proposed Method for Instrument Landing of Aircraft Using Combined Radio and Inertial Guidance"	"IEEE Transactions on Aerospace and Electronic Systems"	0.327142857143	0.291720779221
+7CD42306	"An improved phase-tagged stimuli generation method in steady-state visual evoked potential based brain-computer interface"	"BioMedical Engineering and Informatics"	0.412698412698	0.424254317111
+7FE1636B	"Multiplexing of Fiber Bragg Grating Sensors: Time windowed improved C-PFM reading technique. An experimental validation"	"Information not present"	0.324074074074	0.255301379811
+75070631	"An average current modulation method for single stage LED drivers with high power factor and zero low frequency current ripple"	"European Conference on Cognitive Ergonomics"	0.350622710623	0.265965207632
+7D95EC27	"An imroved image demodulation algorithm based on Teager-Kaiser operator"	"Information not present"	0.471753246753	0.509848484848
+7AC03B0A	"A Dual-Feedforward Carrier-Modulated Second-Order Class-D Amplifier With Improved THD"	"IEEE Transactions on Circuits and Systems Ii-express Briefs"	0.237882487882	0.400673400673
+6A23543C	"A new ranging method with monopulse STLFMCW radar signal in multipath environments"	"Information not present"	0.304126984127	0.336666666667
+827BFE07	"Hop status estimation algorithm based on coherent demodulation of CPM"	"International Conference on Communications"	0.304444444444	0.30404040404
+7BF86C4F	"Effect of different methods of f.m.-waveform generation on the sidelobe structure of a compressed pulse"	"Electronics Letters"	0.302142857143	0.295793650794
+7E7B7DC0	"Modulation-feature based textured image segmentation using curve evolution"	"International Conference on Image Processing"	0.296753246753	0.343055555556
+7E76F3A2	"Multi-objective differential evolution based on the summation of normalized objectives and improved selection method"	"Information not present"	0.299848484848	0.304365079365
+7DBBF8CF	"Energy demodulation of two-component AM-FM signals with application to speaker separation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.312222222222	0.311515151515
+7671B61B	"Real-time diabetic retinopathy patient screening using multiscale AM-FM methods"	"International Conference on Image Processing"	0.282844932845	0.343333333333
+5A906639	"Method of issue of signals with simultaneous correcting the parameters of channel of relationship"	"Information not present"	0.319841269841	0.286904761905
+78925B0F	"An improved EMD time-frequency analysis method for rocket vibration signal"	"Information not present"	0.421957671958	0.409932659933
+6695C60E	"An improved energy demodulation algorithm using splines"	"International Conference on Acoustics, Speech, and Signal Processing"	0.386030636031	0.50303030303
+776629D3	"Digital telemetering techniques"	"Information not present"	0.171495726496	0.5
+7AC250BA	"An Efficient Method for Digital Simulation and Modeling of Linear Communication and Control Systems"	"IEEE Transactions on Aerospace and Electronic Systems"	0.325324675325	0.288961038961
+772B9DD9	"A Tuning method for the post-processing optimization of the doherty power amplifier frequency band"	"Information not present"	0.33746031746	0.270804988662
+76E8D0A0	"A phase space method to assess and improve autocorrelation and RFM autocorrelation performances of chaotic sequences"	"International Conference on Systems"	0.332857142857	0.303174603175
+7FEF52E4	"A Novel Way for Using Chopper Method to Stabilize Amplifier"	"Information not present"	0.310793650794	0.378888888889
+7935B986	"Homodyne demodulation scheme for fiber optic sensors using phase generated carrier"	"IEEE Journal of Quantum Electronics"	0.315793650794	0.282787698413
+59492DEE	"A time-varying Prony method for instantaneous frequency estimation at low SNR"	"International Symposium on Circuits and Systems"	0.284253246753	0.408333333333
+7EE5CA24	"A New Beamforming Method for MIMO-OFDM Systems"	"Information not present"	0.296031746032	0.571428571429
+5C270BFF	"Low power method for demodulation of continuous phase modulated (CPM) waveforms"	"Information not present"	0.535238095238	0.466666666667
+70D254CE	"A microcell radio system with a dynamic channel control method"	"Vehicular Technology Conference"	0.346753246753	0.348571428571
+7A2BF191	"PLL-based high-speed demodulation of FM signals for real-time AFM applications"	"International Symposium on Circuits and Systems"	0.305555555556	0.422222222222
+77BF1611	"Velocity Compensation Based Range-Doppler Decoupling Method for FMCW Ladar"	"Information not present"	0.284253246753	0.341666666667
+7A575505	"FM processing with generalized amplitude & phase: Application to modulation domain geometric image transformations"	"International Conference on Image Processing"	0.31380952381	0.21702340869
+5B6C245A	"Methods of wideband chirp signal generation using FPGA"	"Information not present"	0.290476190476	0.431547619048
+80B420D3	"Evaluation of Flicker Measurement Uncertainties by a Monte Carlo Method"	"IEEE Transactions on Instrumentation and Measurement"	0.328571428571	0.292929292929
+7C2F1472	"Method to suppress DDFS spurious signals in a frequency-hopping synthesizer with DDFS-driven PLL architecture"	"IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control"	0.304126984127	0.298333333333
+77280B35	"Image threshold segmentation method with 2-D histogram based on multi-resolution analysis"	"Information not present"	0.453174603175	0.439225589226
+76249A37	"Multiple Evolvable Hardware Image Filters by Analyzing Noise Types with Fuzzy Relations"	"Information not present"	0.302142857143	0.280328798186
+7D20124E	"Optimised KD-trees for fast image descriptor matching"	"Computer Vision and Pattern Recognition"	0.279225023343	0.381944444444
+758824A9	"A novel ISAR jamming method based on randomly sinusoidal phase modulation"	"Information not present"	0.306071428571	0.355238095238
+77AEA85A	"Detection method for digital radio mondiale plus in hybrid broadcasting mode"	"IEEE Transactions on Consumer Electronics"	0.338571428571	0.333181818182
+78BC7D95	"Research on the method for producing a highly linear FMCW signal based on the PLL circuits"	"Information not present"	0.289682539683	0.357070707071
+7EEC3DCB	"Polynomial methods in noisy network localization"	"Information not present"	0.290476190476	0.414285714286
+7519E12A	"Demodulation of gear vibration signals for fault detection"	"Information not present"	0.305555555556	0.298737373737
+80A8BCE2	"On the selection of Intrinsic Mode Function in EMD method: Application on heart sound signal"	"Information not present"	0.305079365079	0.25376984127
+5B394138	"DEMODULATION OF ANGLE-MODULATED TELEMETRY SIGNALS. VOLUME II. REVIEW OF DEMODULATION METHODS,"	"Information not present"	0.490476190476	0.455555555556
+7D53383E	"A Method of Risky Multi-objective Group Decision-Making"	"Fuzzy Systems and Knowledge Discovery"	0.308956043956	0.6
+76390B17	"A MDCT based harmonic spectral bandwidth extension method"	"International Conference on Acoustics, Speech, and Signal Processing"	0.288293650794	0.392361111111
+7F374D53	"Retrieval and classification of pneumoconiosis chest radiograph images using multiscale AM-FM methods"	"Information not present"	0.457070707071	0.348863636364
+7FE66E7B	"DIRECTFN: Fully Numerical Algorithms for High Precision Computation of Singular Integrals in Galerkin SIE Methods"	"IEEE Transactions on Antennas and Propagation"	0.323669467787	0.324848484848
+7F83169A	"Noise robust AM_FM demodulation using least- squares truncated power series approximation"	"Information not present"	0.331111111111	0.313095238095
+7D9FAC20	"Adaptive Fixed Interval and Fixed Lag Smoothers for Improved Frequency Demodulation of Speech"	"Information Sciences, Signal Processing and their Applications"	0.426587301587	0.350347222222
+83F3CC13	"A new filtering method for discrete-time delay control"	"International Conference on Control and Automation"	0.313293650794	0.458333333333
+7D8A5C62	"Estimation of Precession Parameters and Generation of ISAR Images of Ballistic Missile Targets"	"IEEE Transactions on Aerospace and Electronic Systems"	0.301904761905	0.249376417234
+7FDF48B9	"A novel method for LPI radar signal sorting in multipath channel"	"Information not present"	0.304126984127	0.291515151515
+754573AD	"Digital Modulation Recognition Method Based on Tree-Structured Neural Networks"	"Information not present"	0.290476190476	0.34380952381
+7E5ACB3B	"A novel method for characterizing optically locked devices"	"Information not present"	0.279225023343	0.389880952381
+812E2694	"Feature extraction effectiveness analysis of the cyclostationary demodulation method"	"Information not present"	0.496753246753	0.43247955748
+7FFBFE60	"Fast Additive Sinusoidal Synthesis With a Subband Sinusoidal Method"	"IEEE Signal Processing Letters"	0.281746031746	0.55
+8088A656	"A method for time-frequency analysis"	"IEEE Transactions on Signal Processing"	0.279225023343	0.545454545455
+768DFBCE	"A New Method to Symbol Rate Estimation of MPSK Signals"	"Information not present"	0.298412698413	0.352380952381
+7ADAC67B	"Optical Demodulation Phase Measurement Technique for 3d-Camera Application"	"Cytokine"	0.39	0.382222222222
+7DB78262	"Multiscale AM-FM Demodulation and Image Reconstruction Methods With Improved Accuracy"	"IEEE Transactions on Image Processing"	1.0	1.0
+807A9376	"Transponder with undersampling method"	"Information not present"	0.289682539683	0.555555555556
+75F313D9	"All-digital Real Time Demodulation System of Fiber Laser Hydrophone Using PGC Method"	"Information not present"	0.46746031746	0.401360544218
+7595621C	"The generation of symmetrical space phasors compared with the selective harmonic elimination method of multilevel converters"	"Information not present"	0.325793650794	0.307463369963
+7DDB1F96	"New Method of Database Design Based on DFDC"	"Information not present"	0.284253246753	0.387310606061
+76554EE1	"The improved parameter estimation method based on fractional fourier transform"	"Information not present"	0.401455026455	0.44154040404
+7F915286	"A METHOD FOR COUPLING A MULTICHANNEL COMMUNICATIONS SYSTEM WITH TIME-DIVISION MULTIPLEX TO A SYSTEM WITH CHANNEL FREQUENCY-DIVISION MULTIPLEX, AND A DEVICE FOR THIS PURPOSE"	"Information not present"	0.318888888889	0.249523809524
+7AEAA0E9	"The Phase-Shift Method of Single-Sideband Signal Generation"	"Proceedings of The Institute of Radio Engineers"	0.290476190476	0.571428571429
+80F6A6F3	"Method to suppress multipath in radio receivers"	"Information not present"	0.31746031746	0.36875
+79912E22	"An adaptive real-time descreening method based on SVM and improved SUSAN filter"	"International Conference on Acoustics, Speech, and Signal Processing"	0.29246031746	0.427083333333
+8000711F	"Multiscale AM-FM analysis of pneumoconiosis x-ray images"	"International Conference on Image Processing"	0.279225023343	0.391414141414
+79B0FF48	"Power parallel operation control method based on Modulated Phase Tracking"	"Information not present"	0.348571428571	0.361904761905
+7FE55D82	"A novel PCM/FM demodulation method using DSTFT analysis"	"Information not present"	0.46746031746	0.606060606061
+83B00920	"Linear-Mode Gain-Modulated Avalanche Photodiode Image Sensor for Time-of-Flight Optical Ranging"	"IEEE Transactions on Electron Devices"	0.29246031746	0.402777777778
+8442EB7B	"An advanced fuzzy control method to improve dynamic stability of power system with PV units"	"Information not present"	0.34880952381	0.326530612245
+7BB885C7	"An improved empirical AM/FM demodulation method"	"Information not present"	0.556216931217	1.0
+7D832775	"An Ameliorated Phase Generated Carrier Demodulation Algorithm With Low Harmonic Distortion and High Stability"	"Journal of Lightwave Technology"	0.313333333333	0.272510822511
+7EEACC77	"Demodulation methods for exact induction motor rotor fault diagnostic"	"Information not present"	0.46746031746	0.400925925926
+7FA30AB7	"A Neural Network Method to Adaptive Feature Extraction of Weak DS-CDMA Signals"	"Information not present"	0.299511599512	0.355158730159
+812DD2E4	"On the modulation levels in a frequency multiplexed communication system by statistical methods"	"IEEE Transactions on Information Theory"	0.317142857143	0.282142857143
+5E6DE469	"AM-FM expansions for images"	"Information not present"	0.279225023343	0.541666666667
+75FB92FE	"Robust FM demodulation of discrete-time signals using least squares differential ratio"	"Electronics Letters"	0.305555555556	0.410714285714
+7FBC99AB	"AM-FM Image Analysis Using the Hilbert Huang Transform"	"Southwest Symposium on Image Analysis and Interpretation"	0.281746031746	0.378787878788
+79F31F6B	"A CMOS TV tuner/demodulator IC with digital image rejection"	"IEEE Journal of Solid-state Circuits"	0.321753246753	0.366477272727
+59021D26	"Normal vector vibration imaging using a correlation image sensor"	"Information not present"	0.302142857143	0.283395176252
+7D088552	"A DSP based method for audio stimuli generation"	"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.295238095238	0.410714285714
+76F55E3A	"FM demodulation of a speech signal using an extended Kalman filter with a third-order message model"	"Iee Proceedings-communications"	0.309126984127	0.292233560091
+75878642	"Essence and advantages of FM-DCSK versus conventional spread-spectrum communication methods"	"Circuits Systems and Signal Processing"	0.330681818182	0.40625
+60F19AC7	"Improved FM demodulation in a fading environment"	"Information not present"	0.291515151515	0.376893939394
+79C61807	"Optimum frequency demodulation in the presence of Gaussian noise"	"Proceedings of the IEEE"	0.29595959596	0.350694444444
+79E6E40F	"A unique method of rendering television intermediate frequencies independent of tuner osciallator drift"	"IEEE Transactions on Broadcast and Television Receivers"	0.321753246753	0.264177489177
+703C7EDF	"A new method for high-speed initial synchronization"	"International Symposium on Information Theory and its Applications"	0.290476190476	0.571428571429
+813D8794	"The distortion analysis of the Single Side Band method for parametric loudspeaker based on orthogonal envelope detection"	"Information not present"	0.302142857143	0.234223184223
+77146161	"400 Gbit/s 256 QAM-OFDM transmission over 720 km with a 14 bit/s/Hz spectral efficiency using an improved FDE technique"	"Information not present"	0.317234848485	0.359722222222
+7DFAA028	"A new method for parameter estimation of multicomponent LFM signal based on sparse signal representation"	"Information not present"	0.369841269841	0.42
+7D544124	"BISTRO: An outer‐volume suppression method that tolerates RF field inhomogeneity"	"Magnetic Resonance in Medicine"	0.314935064935	0.27784992785
+7561FE6C	"A new hybrid hierarchy model description method"	"Information not present"	0.284253246753	0.344742063492
+7B551D3A	"Comparison of Electrooptic Modulation Methods"	"IEEE Transactions on Aerospace and Electronic Systems"	0.279225023343	0.394444444444
+7D6E301A	"Study on control method of cascade H-bridges active power filter for distribution system"	"Information not present"	0.34380952381	0.296768707483
+7AEF63DC	"Gas concentration detection with FBGs and compensation method"	"Information not present"	0.301904761905	0.298333333333
+811AEDE7	"Removing Labeled Text in an Image Based on an Extended Filter in Gabor Space"	"Multimedia Signal Processing"	0.325793650794	0.311710858586
+73A96E55	"A Sensitive Method to Measure the Integral Nonlinearity of a Digital-to-Time Converter Based on Phase Modulation"	"IEEE Transactions on Circuits and Systems Ii-express Briefs"	0.318571428571	0.334722222222
+78C52D32	"Learning relative features through adaptive pooling for image classification"	"International Conference on Multimedia and Expo"	0.279225023343	0.394047619048
+7E501EFE	"A Method for Estimating the Frequency Stability of an Individual Oscillator"	"Information not present"	0.300086580087	0.311666666667
+76B5334D	"A New Method for the Demodulation of FM Signals"	"IEEE Transactions on Communications"	0.484126984127	0.564393939394
+785673CC	"A comparative study of preprocessing methods in the parametric loudspeaker"	"Information not present"	0.285642135642	0.391414141414
+7F94BDDF	"Demodulation of PM Signal in the Presence of White Gaussian Noise"	"IEEE Transactions on Communications"	0.305555555556	0.361111111111
+7E7157D2	"Demodulation of noisy phase or frequency modulated signals with Kalman filters"	"International Conference on Acoustics, Speech, and Signal Processing"	0.323333333333	0.297222222222
+7A6B5C10	"An Improved Descreening Algorithm for Color Halftone Image Based on Wavelet Decomposition"	"Information not present"	0.412892662893	0.357342657343
+812D871B	"Bilinear models for nonlinear unmixing of hyperspectral images"	"Information not present"	0.279225023343	0.571428571429
+7E491994	"Automatic and Fast Faulted Line-Section Location Method for Distribution Systems Based on Fault Indicators"	"IEEE Transactions on Power Systems"	0.300324675325	0.28089569161
+5A9FF43A	"Demodulation of images modeled by amplitude-frequency modulations using multidimensional energy separation"	"International Conference on Image Processing"	0.488571428571	0.412987012987
+7E787780	"Color Range Images Captured by a Four-Phase CMOS Image Sensor"	"IEEE Transactions on Electron Devices"	0.305086580087	0.433531746032
+783F8396	"An improved transmitted carrier system"	"Electrical Engineering"	0.247741147741	0.360714285714
+58E55D58	"AM-FM methods for image and video processing"	"Information not present"	0.465238095238	0.566964285714
+7791B76A	"A novel method for video surveillance system safety"	"Information not present"	0.310476190476	0.307142857143
+7B3514D8	"Physical Entities and Mathematical Representation"	"Ire Transactions on Military Electronics"	0.216515151515	0.35
+80F9FEF7	"Spatial Resolution Properties of Motion-Compensated Tomographic Image Reconstruction Methods"	"IEEE Transactions on Medical Imaging"	0.641904761905	0.650793650794
+7A47C60C	"An Improved Receive Diversity Combining Technique for SC-FDMA-Based Cooperative Relays"	"Vehicular Technology Conference"	0.3183356676	0.365079365079
+7A30891F	"Comparison of motion compensation methods applied to a TDM FMCW MIMO radar system"	"Information not present"	0.305714285714	0.269387755102
+7D04DA83	"A hybrid localization method in wireless sensor networks"	"International Conference on Networking, Sensing and Control"	0.327142857143	0.323571428571
+8057C8C9	"BEMD for three-dimensional medical images decomposition"	"Information not present"	0.279225023343	0.545454545455
+80A5E252	"Measurement accuracy of chromatic dispersion by the modulation phase technique"	"Journal of Lightwave Technology"	0.378333333333	0.378181818182
+7994A02E	"A new method for treating electron tubes when used as superregenerative detectors: Part I. Superregenerative circuits under no-signal condition"	"Information not present"	0.315793650794	0.25538319705
+7A44D56D	"A new duty cycles calculation method in pulse width modulation for direct matrix converters based on the shape function concept"	"Information not present"	0.323333333333	0.23152958153
+74A0C3D3	"Elimination of cross-components of the discrete Wigner-Ville distribution via a correlation method"	"Information not present"	0.290476190476	0.340659340659
+758CC03F	"Detection of FSK signals using linear FM dispersion method"	"Proceedings of the IEEE"	0.298412698413	0.343181818182
+8071C6F7	"Image quality and visual attention interactions: Towards a more reliable analysis in the saliency space"	"Quality of Multimedia Experience"	0.365079365079	0.317125334982
+78104B6E	"An improved prewhitening method for LFM reverberation in shallow sea using frequency focusing transformation"	"Signal Processing Systems"	0.408924408924	0.384176587302
+7754BF34	"Erratum: Bandwidth and demodulation gain in q.s.s.b. f.m."	"Electronics Letters"	0.298015873016	0.341964285714
+808DDA18	"Band-pass ΔΣ D/A converter to up-convert frequency using images for wireless repeater"	"Information not present"	0.321753246753	0.324074074074
+7D02B3C2	"An Improved Method for Estimating the Time ACF of a Sum of Complex Plane Waves"	"Global Communications Conference"	0.407016594517	0.371031746032
+78052C1C	"Demodulation Procedure for Very Wide-Band FM"	"IEEE Transactions on Communications"	0.283333333333	0.400673400673
+81388AA4	"Automatic Identification Method of Link4A"	"International Conference on Networks"	0.279225023343	0.55
+7C86F520	"Direct demodulation of a 10.6&#181;m FM signal with an NH 2 D stark cell"	"IEEE Journal of Quantum Electronics"	0.305555555556	0.342147435897
+0506AA10	"Application of Numerical Methods to Elasticity Imaging"	"Information not present"	0.279225023343	0.422222222222
+81369B7E	"Efficient compensation for frequency-dependent errors in analog reconstruction filters used in IQ modulators"	"IEEE Transactions on Communications"	0.309444444444	0.308796296296
+7257EA70	"Influence of the control method in the PFP converters size"	"Information not present"	0.321753246753	0.358333333333
+8001F0A2	"Comparative analysis of phase difference estimation methods quantifying asynchronies between compartmental chest wall volume signals"	"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.355238095238	0.24670995671
+7AE53CA8	"Digital Phase Lock for Optimum Demodulation"	"IEEE Transactions on Aerospace and Electronic Systems"	0.305	0.433333333333
+750B6580	"A new MTF-based image quality assessment for high-resolution SAR Sensors"	"International Geoscience and Remote Sensing Symposium"	0.375793650794	0.4375
+77B68133	"Decrease the demodulation threshold in FM demodulator with quadratic de-noising method"	"Information not present"	0.475793650794	0.485
+7E9D0499	"A method for differentiating between frequency and phase modulated signals"	"Conference on Decision and Control"	0.31619047619	0.309722222222
+7559862E	"Demodulation as Probabilistic Inference"	"IEEE Transactions on Audio, Speech, and Language Processing"	0.276911976912	0.555555555556
+21F4BD9D	"Application and test of FM-VMS using watermarking method"	"Information not present"	0.279225023343	0.381060606061
+78FBB88F	"Improved Constructions of Frameproof Codes"	"IEEE Transactions on Information Theory"	0.255291005291	0.411255411255
+813D6351	"Batch scheme Hartley modulating functions method for the detection and estimation of jumps in a class of convolvable nonlinear systems"	"Information not present"	0.305714285714	0.208116883117
+75EB0705	"Co-polarization coherence signature for characterization of polarimetric SAR image"	"International Geoscience and Remote Sensing Symposium"	0.285574229692	0.34126984127
+6D30A134	"A digital modulation recognition method"	"International Conference on Communications"	0.285574229692	0.414285714286
+70CC8C34	"The new detection method of DS signal based on ICA in aeronautics communications"	"Information not present"	0.303174603175	0.31712962963
+81F12DF3	"A demodulation inductive proximity sensor with suppression of background magnetic flux density"	"Information not present"	0.304444444444	0.252272727273
+776C785F	"Long range image radio transmitter"	"Information not present"	0.32380952381	0.373214285714
+7E86F1B8	"Demodulation of a burst sampled FM signal"	"Information not present"	0.305555555556	0.376893939394
+7F6A882D	"A 3D self-positioning method for wireless sensor nodes based on linear FMCW and TFDA"	"Systems, Man and Cybernetics"	0.330086580087	0.375
+5B1F7F1A	"Suppressing electromagnetic interference of power converters based on 2×2-scroll chaotic PWM method"	"Information not present"	0.340238095238	0.333333333333
+7A6B169F	"New Method to Extend Macaulay Resultant"	"Information not present"	0.29341991342	0.3625
+7E37463A	"Sparse spectral factorization: Unicity and reconstruction algorithms"	"International Conference on Acoustics, Speech, and Signal Processing"	0.267474747475	0.391414141414
+76EB887F	"A Blind Phase Compensation Method for Direct Spectrum Division Transmission"	"Global Communications Conference"	0.306071428571	0.26654040404
+7DC8CB34	"Reconstruction from the multi-component AM-FM image representation"	"International Conference on Image Processing"	0.470833333333	0.833333333333
+5C4D1E96	"Multilevel Decision Method for Gtfm Signal with Limiter-discriminator Detection"	"Information not present"	0.298412698413	0.347916666667
+34FDBB3B	"Ultracompact vibrometry measurement with nanometric accuracy using optical feedback"	"Information not present"	0.279829059829	0.388888888889
+75AD18C9	"Modulation methods and channel separation in the land mobile service"	"IEEE Transactions on Vehicular Technology"	0.301904761905	0.268518518519
+7914A0A6	"Multicomponent AM-FM demodulation via periodicity-based algebraic separation and energy-based demodulation"	"IEEE Transactions on Communications"	0.304444444444	0.733333333333
+7F6F89C8	"Comparison Methods for Impulsely Perturbed Delay-Differential Control Systems"	"American Control Conference"	0.325324675325	0.369047619048
+757D3310	"Low-voltage operation of a CMOS image sensor based on pulse frequency modulation"	"Information not present"	0.305086580087	0.308333333333
+77CC5B75	"An Analysis of the Sensing Method of Automatic Frequency Control for Microwave Oscillators"	"Proceedings of The Institute of Radio Engineers"	0.316753246753	0.269619666048
+7A61C745	"Higher order Teager-Kaiser operators for image analysis: PART II - a multicomponent image demodulation"	"International Conference on Image Processing"	0.484126984127	0.497510822511
+5DE3D61B	"Application of modulation and demodulation of photo-electric signal in laser frequency stabilization"	"Information not present"	0.305555555556	0.243253968254
+8120CB49	"A lookup method for power system flicker source detection using direction of propagation"	"Information not present"	0.34380952381	0.241836219336
+7F0AE78D	"A novel method of measuring the deviation of video FM modulators"	"IEEE Transactions on Broadcasting"	0.279225023343	0.45
+7D967392	"A novel synthetic image watermarking algorithm based on Discrete Wavelet Transform and Fourier-Mellin Transform"	"Information not present"	0.279225023343	0.381060606061
+7E1D6D1A	"Application of the Autosynchronized Oscillator to Frequency Demodulation"	"Proceedings of The Institute of Radio Engineers"	0.275384615385	0.4
+7ECE94A2	"Simulation Research of Applying Two-dimensional Empirical Mode Decomposition on Image Feature Extraction"	"Semantics, Knowledge and Grid"	0.303956043956	0.257503607504
+81E044AB	"OFDM-MIMO radar time-domain synthetic bandwidth method"	"Information not present"	0.295793650794	0.408333333333
+7F54C0DA	"AM-FM Demodulation Methods for Reconstruction, Analysis and Motion Estimation in Video signals"	"Southwest Symposium on Image Analysis and Interpretation"	0.661904761905	0.455411255411
+78250D34	"Demodulation of fiber laser hydrophone array based on PGC method"	"Information not present"	0.477142857143	0.449735449735
+7F8A538C	"Tracking inherent saliencies of standard induction machines for zero speed sensorless control using different signal processing methods"	"Information not present"	0.321753246753	0.27037037037
+5EDBB988	"Modulation and Demodulation"	"Information not present"	0.268717948718	0.55
+77FD1470	"Demodulation of radio waves in the human body"	"Information not present"	0.283333333333	0.365277777778
+78B33386	"Noise waveform SAR image quality assessment via simulation of the SAR acquisition process"	"Information not present"	0.365079365079	0.291161616162
+8019E2A9	"Digital RDS demodulation in FM subcarrier systems"	"Asia Pacific Conference on Circuits and Systems"	0.263236763237	0.571428571429
+7DE24B2B	"Improved performance of coded digital FM"	"IEEE Transactions on Communications"	0.24591503268	0.400673400673
+77B2DBFA	"Dynamic synchronized phasor measurement based on AM-FM demodulation"	"Information not present"	0.283333333333	0.411111111111
+6C24C02C	"Rapidly oscillating system for frequency demodulation"	"American Control Conference"	0.283181818182	0.379464285714
+8071CBCB	"Classification method for reflection and duct propagation of FM radio waves observed at Hiroshima and Aso in Japan"	"Information not present"	0.31746031746	0.21297979798
+78D70AED	"A method for reducing wave based teleoperator reflections"	"Information not present"	0.279225023343	0.351111111111
+7536C170	"Accuracy of one-cycle DFT-based synchrophasor estimators in steady-state and dynamic conditions"	"Information not present"	0.279829059829	0.408333333333
+7F6A7948	"A function modulation method for digital communications"	"Information not present"	0.295238095238	0.352380952381
+786F7FEE	"The study on method for calculating the compressive strength of multi-hole concrete hollow block masonry"	"Information not present"	0.313571428571	0.263492063492
+81DBFF0F	"Level-crossing based QAM demodulation for low-cost analog/RF testing"	"Information not present"	0.247973856209	0.511111111111
+584DF04F	"FM Model Based Fingerprint Reconstruction from Minutiae Template"	"International Conference on Biometrics"	0.306111111111	0.323683261183
+79515FCE	"Ultrasonic imaging of the nonlinear parameter B/A: Simulation studies to evaluate phase and frequency modulation methods"	"Ultrasound in Medicine and Biology"	0.306071428571	0.227693602694
+78C74D3F	"New method for generating frequency modulation"	"Iee Proceedings F Communications, Radar and Signal Processing"	0.284253246753	0.36875
+7DD946C1	"Formant-modulation method of speech intelligibility evaluation: Measuring and exactness"	"Information not present"	0.359253246753	0.347222222222
+7B58F3FD	"An image comparison method based on FM transformation technique"	"Information not present"	0.450653594771	0.50462962963
+78855720	"Experiments on real zero SSB transceiver demodulation of SSB signal without envelope"	"Vehicular Technology Conference"	0.305555555556	0.342147435897
+7CACE83C	"Viterbi Demodulation in Two-Level FH-CDMA Wireless Systems Based on Reed-Solomon Codes"	"Vehicular Technology Conference"	0.293015873016	0.37380952381
+7692B860	"Some trials on a new method of ESR detection using tunneling current"	"Applied Radiation and Isotopes"	0.279225023343	0.351666666667
+7A6542EF	"A new method of frequency error correction in carrier systems"	"Information not present"	0.300324675325	0.260383597884
+7CEEC3D2	"Type-2 fuzzy functional inference method"	"Information not present"	0.279225023343	0.555555555556
+7F278149	"Magnetic read sensor with SDT tri-layer and method for making same"	"Information not present"	0.29246031746	0.385416666667
+7E9C7E83	"Signal processing method of correlation detection for ranging system based on combined modulation"	"Information not present"	0.305714285714	0.277380952381
+7775F019	"Demodulation of aggregated RF signals with a unique Rx chain"	"Information not present"	0.305555555556	0.340277777778
+7BA47CB1	"Time-domain surface scan method"	"Information not present"	0.29246031746	0.5625
+763E19A4	"New method of large-scale absolute distance measurement"	"Proceedings of SPIE"	0.279225023343	0.407407407407
+788B6C9F	"Method for the generation of a band of discrete, harmonically related frequencies"	"Information not present"	0.290476190476	0.352678571429
+0D55894D	"Privacy Communication Method and System."	"Information not present"	0.300324675325	0.344742063492
+5968C907	"An adaptive image zooming method with edge enhancement"	"Information not present"	0.453174603175	0.473333333333
+7D1BF2E6	"A new estimation method of efficiency for class-E power amplifier operated above theoretical maximum operation frequency"	"Information not present"	0.33746031746	0.265972222222
+8388BE76	"LBP-based degraded document image binarization"	"International Conference on Image Processing"	0.279225023343	0.666666666667
+7A182CED	"Realization of the I/f control method for a high-speed permanent magnet motor"	"Information not present"	0.321753246753	0.319444444444
+77D1566F	"A New Modulation Method for Digital Communication"	"International Symposium on Computers and Communications"	0.284253246753	0.408333333333
+7B7DF9D1	"Novel method of generation of linear frequency modulation optical waveforms with swept range of over 200 GHz for lidar systems"	"Information not present"	0.305714285714	0.219841269841
+7BDB2826	"Blind method of estimating speech transmission index in room acoustics based on concept of modulation transfer function"	"Information not present"	0.308571428571	0.213924963925
+7D712204	"New AM-FM analysis methods for retinal image characterization"	"Information not present"	0.450653594771	0.550505050505
+1001D83C	"Numerical FM Demodulation Enhancements."	"Information not present"	0.268831168831	0.391414141414
+7DB56AA6	"A Digital Method of Measuring Phase Jitter"	"IEEE Transactions on Communications"	0.306071428571	0.3875
+7A468120	"Matting image based on D-S evidence theory"	"Information not present"	0.289015151515	0.355555555556
+00ABAD13	"The time-delay digital tanlock loop for demodulation of PM signals"	"Information not present"	0.305555555556	0.3375
+77584EC2	"Defining Variability in DSS: An Intelligent Method for Knowledge Representation and Validation"	"Hawaii International Conference on System Sciences"	0.386507936508	0.351587301587
+7D759D23	"Superresolution Reconstruction of Multiframe Images Using Regularization with a Quadratic Form Observation Model"	"Information not present"	0.474404761905	0.407709750567
+7F7150FF	"Generalized Moment-Based Method for SNR Estimation"	"Wireless Communications and Networking Conference"	0.279225023343	0.433333333333
+779A0AD8	"A Novel Shape Based Hierarchical Retrieval System for 2D Images"	"Advances in Recent Technologies in Communication and Computing"	0.308658008658	0.345238095238
+7E44E468	"A Mixed Drive Method for High Gray Scale TFT-LCD"	"Information not present"	0.288293650794	0.412037037037
+7D08814F	"Stochastic Resonance as a null distortion demodulation"	"IEEE Transactions on Instrumentation and Measurement"	0.275384615385	0.39696969697
+7E6430F6	"AM-FM Demodulation of Spectrograms using Localized 2D Max-Gabor Analysis"	"International Conference on Acoustics, Speech, and Signal Processing"	0.268831168831	0.378787878788
+7B040D10	"A new control method of energy conversion for the cascaded voltage source inverter"	"Information not present"	0.316753246753	0.24632034632
+778C71E3	"Bayesian segmentation of AM-FM texture images"	"Information not present"	0.294372294372	0.422222222222
+7EDAABCF	"Optimum Angle Demodulation with Saturation Nonlinearity in the Modulator"	"IEEE Transactions on Aerospace and Electronic Systems"	0.263236763237	0.545454545455
+7EC0B192	"A novel FM demodulation scheme"	"IEEE Transactions on Consumer Electronics"	0.283261183261	0.571428571429
+7951EE18	"An improved non-intrusive intelligibility metric for noisy and reverberant speech"	"Information not present"	0.270938552189	0.453703703704
+7EA19875	"Research on the calculation method of link traffic volume based on database of expressway loading based toll collection"	"Information not present"	0.308658008658	0.227046030892
+818D08EF	"Electrooptic Methods for Measurement of Small DC Currents at High Voltage Level"	"IEEE Power & Energy Magazine"	0.301904761905	0.259116809117
+80FE60DA	"A modified demodulation method for flicker measurement"	"Information not present"	0.46746031746	0.555555555556
+7A1824E8	"Novel method to produce constant output voltage and frequency from variable magnitude/frequency input utilizing matrix converter for VSCF application"	"Information not present"	0.302142857143	0.238452380952
+7D819BD9	"Nested random phase sequence sets: a link between AM-FM demodulation and increasing operators with application to cardiac image analysis"	"Southwest Symposium on Image Analysis and Interpretation"	0.497142857143	0.309487734488
+7DA36DF4	"Characteristics of radar images in radio vision systems of the automobile"	"Information not present"	0.31746031746	0.262533498248
+7E8242F1	"A Comparison of Three Techniques for Solving the Fredholm Integral Equation of the Laser Intensity Modulation Method (LIMM)"	"IEEE Transactions on Dielectrics and Electrical Insulation"	0.302308802309	0.290277777778
+72EDD744	"The method to inverse-simulate spaceborne MPC SAR data based on common airborne SAR data"	"Information not present"	0.290476190476	0.404761904762
+7B649530	"Degrees of freedom of the estimate of the two-sample variance in the continuous sampling method"	"IEEE Transactions on Instrumentation and Measurement"	0.301904761905	0.281818181818
+7A499766	"Phase reconstruction and chromatic dispersion characteristic of thin film filters"	"Information not present"	0.300793650794	0.278312890813
+775D6D7E	"A wavelet method for power system frequency and harmonic estimation"	"Information not present"	0.34380952381	0.300198412698
+7C723931	"Early results on image and signal processing for characterization of blood flow in 4D MPI images"	"Information not present"	0.28841991342	0.363888888889
+79C58BD2	"On Optimum Sampled-Data FM Demodulation"	"IEEE Transactions on Communications"	0.268831168831	0.545454545455
+7D85907C	"A random frequency hop code technique for improved range-Doppler imagery"	"Information not present"	0.322420634921	0.332142857143
+8002E6FF	"Fault Detection in a Multistage Gearbox by Demodulation of Motor Current Waveform"	"IEEE Transactions on Industrial Electronics"	0.315	0.247222222222
+803B2478	"Phase and Frequency Tracking Accuracy in Direct-Detection Optical-Communication Systems"	"IEEE Transactions on Communications"	0.313015873016	0.343571428571
+7AF29632	"Demodulation of multi-gigahertz frequency-modulated optical signals in an injection-locked distributed feedback laser oscillator"	"Electronics Letters"	0.305555555556	0.297777777778
+806EA3D0	"Optimization of DC Power Flow by Transmission Loss Allocation Method"	"Information not present"	0.328571428571	0.264682539683
+7E9CDD1F	"A novel method for RNA secondary structure prediction"	"Information not present"	0.29246031746	0.412037037037
+7D5C038F	"Study of NGN Multi-Business Billing Method"	"Computational Intelligence"	0.279225023343	0.394444444444
+7D054FE2	"A New Method for Fuzzy Group Decision-Making Based on Fuzzy Induced OWA Operators"	"International Conference on Innovative Computing, Information and Control"	0.308956043956	0.371666666667
+7415190A	"AM-FM image analysis techniques"	"Southwest Symposium on Image Analysis and Interpretation"	0.350653594771	0.530303030303
+7FCDDCCE	"New Control Method Including State Observer of Voltage Unbalance for Grid Voltage-Source Converters"	"IEEE Transactions on Industrial Electronics"	0.321753246753	0.266121031746
+7B25D644	"On the amplitude and phase computation of the AM-FM image model"	"International Conference on Image Processing"	0.306071428571	0.305238095238
+6D7BF7D3	"System and method for generating a frequency modulated linear laser waveform"	"Information not present"	0.300324675325	0.297420634921
+73188EF2	"Notice of Retraction An automatic interference recognition method in DSSS communication system based on SVM"	"Information not present"	0.303896103896	0.2536751443
+7870F50A	"A fault diagnosis method for rolling bearing based on empirical mode decomposition and homomorphic filtering demodulation"	"Information not present"	0.488571428571	0.350140291807
+70923C2D	"A novel method for non-invasive multispectral imaging of tissue"	"Resource and Energy Economics"	0.281746031746	0.408333333333
+814C86BD	"SNR Estimation Method of LFM Signal Detection"	"Information not present"	0.279225023343	0.408333333333
+7D92A305	"Multiscale Amplitude-Modulation Frequency-Modulation (AM–FM) Texture Analysis of Ultrasound Images of the Intima and Media Layers of the Carotid Artery"	"IEEE Transactions on Information Technology in Biomedicine"	0.320086580087	0.247275343704
+80C97231	"High-Accuracy Methods and Measurement Procedures for Power Quality Parameters Using the Digital Synchronous Sampling Technique"	"IEEE Transactions on Instrumentation and Measurement"	0.365079365079	0.345987654321
+76E0C9DE	"A new analysis method for multi-component Linear Frequency Modulated emitter signals"	"Information not present"	0.304126984127	0.274873737374
+6F9635CB	"Decoding and reconstruction of reference DVB-T signal in passive radar systems"	"Information not present"	0.311904761905	0.268590668591
+7A2D1ED8	"Binaural signal processing motivated generalized analytic signal construction and AM-FM demodulation"	"Information not present"	0.305555555556	0.29154040404
+5F5E5A97	"CRYSTAL UNITS WITH IMPROVED TEMPERATURE COEFFICIENTS."	"Information not present"	0.27037037037	0.355158730159
+812D1623	"The Generalized Normal Forms and Method of Resonance Control of Nonlinear Dynamical Systems"	"Vibrational Spectroscopy"	0.325324675325	0.299146224146
+80862EBB	"Radar Signal Environment Simulation Based on Quadrature Multiple Waveform Synthesis Method"	"Information not present"	0.304126984127	0.237166537167
+80A964F8	"Approximate FM Demodulation Using Zero Crossings"	"IEEE Transactions on Communications"	0.268831168831	0.376893939394
+6A83533B	"Whatever happened to . . .? A review of previous advanced modulation methods"	"Information not present"	0.279225023343	0.386111111111
+814A4230	"A new method of high-accuracy level-measure based on combining radar frequency-modulation and phase-discrimination"	"IEEE Transactions on Instrumentation and Measurement"	0.28746031746	0.420833333333
+7EF9ACF7	"Fuzzy functional inference method"	"Information not present"	0.279225023343	0.555555555556
+799E9695	"Up to 40 Gb/s wireless signal generation and demodulation in 75–110 GHz band using photonic techniques"	"Information not present"	0.373571428571	0.374007936508
+7F84733E	"Performance Analysis of Ranging System Based on Combined Modulation Using Spectral Correlation Method"	"Information not present"	0.305714285714	0.278266794933
+7F2C9097	"Extracting essential modulated image structure"	"Information not present"	0.29246031746	0.385416666667
+59C10CA0	"Proposal of SCM optical FM method with nonlinear compensation technique in radio on fiber link"	"Information not present"	0.327142857143	0.287901334776
+7CFA5099	"Study of a New Time Transfer Method of Low Voltage Power Line"	"Information not present"	0.328571428571	0.261002886003
+7997B223	"Optimum Coherent Phase and Frequency Demodulation of a Class of Modulating Spectra"	"IEEE Transactions on Space Electronics and Telemetry"	0.313015873016	0.293253968254
+7D844019	"A New Method for Sorting Radar Signals Based on Coherency"	"Information not present"	0.304126984127	0.32380952381
+8081CC93	"FH/MFSK lump likelihood ratio decision method and its application for PLC"	"Information not present"	0.311904761905	0.28630952381
+7778D114	"A simple method for MSK modulation and demodulation"	"Proceedings of the IEEE"	0.46746031746	0.7
+8003AFE3	"IF extraction of multicomponent radar signals based on time-frequency gradient image"	"Information not present"	0.304126984127	0.308994708995
+79F9324A	"Advanced EMI analysis methods"	"Information not present"	0.279225023343	0.545454545455
+810C50AD	"All-fiber displacement interference velocity measurement system data processing method research based on S-transformation"	"Information not present"	0.305714285714	0.231273448773
+7D57BB06	"A Simple Method of Jitter Evaluation for Designing Phase-Locked Loops for Optical Communication Systems"	"Journal of Lightwave Technology"	0.300324675325	0.254138321995
+773CB1AF	"A Method to Reduce the Need for Large Antennas in Microwave Landing Systems (MLS)"	"Information not present"	0.308658008658	0.254121572872
+7CE1EF7A	"EMG-based demodulation of pathological tremor using the Iterated Hilbert Transform"	"Information not present"	0.265800865801	0.376893939394
+7E4861AE	"Matched NLFM pulse compression method with ultra-low sidelobes"	"Information not present"	0.279225023343	0.44696969697
+70E8936B	"Method of resolving multiple jammers for passive monopulse radar"	"Information not present"	0.28746031746	0.347727272727
+750A4860	"The Improved Markov Error Correcting Method in Gray SVM for Power Load Forecasting"	"Intelligent Information Technology Application"	0.447883597884	0.371433080808
+77D3BF56	"A control method based on Smith estimator applied in closed-loop I-FOG"	"Information not present"	0.312137862138	0.403333333333
+759B448C	"A New Electronic Method for Electric Energy Measurement"	"IEEE Transactions on Instrumentation and Measurement"	0.280793650794	0.400673400673
+7CCB86A5	"Energy Based Multi-model Fitting a Matching for 3D Reconstruction"	"Computer Vision and Pattern Recognition"	0.266666666667	0.397727272727
+80FC8DFC	"Demodulation of Microwave Frequency-Modulated Light Using Birefringent Crystals"	"Information not present"	0.275252525253	0.377777777778
+5E084046	"FFT-based methods for simulating flicker FM"	"Information not present"	0.279225023343	0.350505050505
+7D9E2920	"A New Color Filter Array With Optimal Properties for Noiseless and Noisy Color Image Acquisition"	"IEEE Transactions on Image Processing"	0.306904761905	0.265022675737
+7BB04FC7	"A Measurement Method of the DTMB Modulator"	"IEEE Transactions on Broadcasting"	0.279225023343	1.0
+5ABFBFEE	"Signal reconstruction as an effective means of detecting targets in a DAB-based PBR"	"Information not present"	0.278431372549	0.355555555556
+597F4E3A	"Application of the Simplex Method to the Multi-Variable Stability Problem"	"American Control Conference"	0.290336134454	0.352380952381
+7C8E1052	"Linear phase demodulation using an integrated coherent receiver with an ultra-compact grating beam splitter"	"Information not present"	0.313015873016	0.281014223871
+778CAEE2	"A pairing individual-trades system, using KNN method: The educational and vocational guidance as a case study"	"Information not present"	0.305714285714	0.28962585034
+7930B808	"SPUMIC: Simultaneous phase unwrapping and multipath interference cancellation in time-of-flight cameras using spectral methods"	"International Conference on Multimedia and Expo"	0.315793650794	0.301851851852
+771904EE	"Software Behavior Trustworthiness Detection Based on PrefixSpan Method"	"Internet Measurement Conference"	0.301904761905	0.311574074074
+792B112E	"A generalized MIMO design technique for broadband Doherty power amplifiers based on complex network synthesis methods"	"Information not present"	0.33746031746	0.326443001443
+58937EF7	"Method and apparatus for self-calibration and phasing of array antenna"	"Information not present"	0.302142857143	0.344742063492
+7F612C9B	"A new method for power flicker measurement based on interpolated DFT"	"IEEE Transactions on Instrumentation and Measurement"	0.328571428571	0.377777777778
+7B33C21D	"A Dimming Stabilization Method Used for the Gas-Discharge Lamp"	"Information Systems"	0.289682539683	0.348888888889
+226C3157	"Laser scanning methods and a phase comparison, modulated laser range finder for terrain sensing on a Mars roving vehicle. M.S. Thesis"	"Information not present"	0.322142857143	0.194416324416
+80A7B321	"FM demodulation of IQ baseband signals using Kalman filters"	"Information not present"	0.305555555556	0.40625
+5F5B7C1D	"Neutral point voltage-balanced control method based on discontinuous pulse width modulation for a NPC 3-level inverter"	"International Conference on Performance Engineering"	0.316753246753	0.293027210884
+2518EDEF	"The ERTS wideband image communication system."	"Information not present"	0.303896103896	0.352678571429
+7DAA930D	"Integrating Formal Methods with Model-Driven Engineering"	"International Conference on Software Engineering Advances"	0.279225023343	0.419191919192
+7AF4E8C4	"Evaluation and a Method of Presentation of the Sound Output From the Lexiphone-A Reading Machine for the Blind"	"IEEE Transactions on Biomedical Engineering"	0.306904761905	0.233829365079
+7ED4971F	"Feasibility study on detecting short wave radio stations on the powerlines for dynamic PSD reduction as method for cognitive PLC"	"Information not present"	0.335238095238	0.255808080808
+79EBCADB	"An Improved Spectral Precoding Technique for Constant-Envelope OFDM"	"Vehicular Technology Conference"	0.30957977208	0.75
+5F7F7623	"Application of a new EMC test method for space unit qualification in cold operational condition radiated susceptibility tests in thermal vacuum on GAIA payload"	"Information not present"	0.317857142857	0.219239094239
+76904A17	"Adaptive time delay estimation method with signal selectivity"	"International Conference on Acoustics, Speech, and Signal Processing"	0.304126984127	0.307222222222
+5F41409C	"A pulse frequency modulation control method for single-switch three-phase buck rectifiers"	"Information not present"	0.318975468975	0.279503367003
+76717103	"A method of calculating phase-lock threshold"	"Proceedings of the IEEE"	0.288293650794	0.441666666667
+7FFE99D0	"Beam-modulation methods in quantitative and flow visualization holographic interferometry"	"Information not present"	0.350653594771	0.75
+7F90E2F1	"Demodulation of discrete multicomponent AM-FM signals using periodic algebraic separation and energy demodulation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.312222222222	0.465151515152
+66FF4BDA	"Evaluation Method of Jamming Effect on ISAR Based on the Similarity of Features"	"Information not present"	0.312137862138	0.298752834467
+7E6B3D43	"AM-FM image filters"	"International Conference on Image Processing"	0.29246031746	0.5625
+5DC9FC66	"M-mode echocardiography image and video segmentation based on am-fm demodulation techniques"	"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.548571428571	0.4524427953
+7FB73704	"A novel method to trace flicker sources"	"Information not present"	0.284126984127	0.365277777778
+752D1464	"The Research of ACARS Signal Demodulation Method Based on Spectrum Estimation"	"Information not present"	0.471753246753	0.44154040404
+7D0C33EE	"Real -Time adaptive Digital Image Watermarking"	"Electro/Information Technology"	0.279225023343	1.0
+7A270412	"Remote sensing image fusion using best bases sparse representation"	"International Geoscience and Remote Sensing Symposium"	0.301515151515	0.345634920635
+05D68ECB	"A Robust Digital Image Watermarking Algorithm Based on CHIRPLET Transform"	"Intelligent Information Hiding and Multimedia Signal Processing"	0.279225023343	0.474747474747
