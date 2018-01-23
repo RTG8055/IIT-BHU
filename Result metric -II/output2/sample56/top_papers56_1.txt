@@ -1,0 +1,883 @@
+76ABE900	"Research on global motion estimation based on adaptive SIFT algorithm"	"Information not present"	0.530119047619	0.84
+7EB6474F	"A motion vector difference based self-incremental adaptive search range algorithm for variable block size motion estimation"	"International Conference on Image Processing"	0.534285714286	0.535966810967
+7892DFEB	"Motion Estimation Algorithm Based on the Region of Interest"	"Applied Mechanics and Materials"	0.530119047619	0.700336700337
+8044AF00	"Efficient Block-Matching Motion Estimation Algorithm Based on Temporal and Spatial Correlation for H.264"	"Intelligent Information Hiding and Multimedia Signal Processing"	0.572835497835	0.857142857143
+7658A232	"A complexity-scalable software-based MPEG-2 video encoder"	"Journal of Zhejiang University Science"	0.224051226551	1.0
+814A81C4	"A robust motion estimation algorithm for PIV"	"Measurement Science and Technology"	0.463452380952	1.0
+816929C1	"FPGA implementation of a novel, fast motion estimation algorithm for real-time video compression"	"Field Programmable Gate Arrays"	0.530119047619	0.628117913832
+7B7AE6B3	"A simple and efficient block motion estimation algorithm based on full-search array architecture"	"Signal Processing-image Communication"	0.572835497835	0.665773809524
+78BBD824	"Parabolic Motion-Vector Re-estimation Algorithm for Compressed Video Downscaling"	"Journal of Signal Processing Systems"	0.375952380952	1.0
+79FD28F7	"Efficient motion estimation algorithm for video transcoding"	"Proceedings of SPIE"	0.572835497835	1.0
+7C5D9C36	"New pel-recursive motion estimation algorithms based on novel interpolation kernels"	"Information not present"	0.572835497835	0.755844155844
+76175EDB	"Projection-based block-matching motion estimation"	"Information not present"	0.311551226551	1.0
+7F825942	"Block-Matched Based Scalable Video Coding"	"Information not present"	0.462413091959	1.0
+80DC7448	"A new block-matching motion estimation algorithm based on successive elimination"	"International Conference on Image Processing"	0.572835497835	0.851851851852
+6F60C599	"An efficient half pixel motion estimation algorithm based on spatial correlations"	"Computational Intelligence and Security"	0.572835497835	0.747680890538
+7F79638A	"Low-Pass Filter Based Vlsi Oriented Variable Block Size Motion Estimation Algorithm for H.264"	"International Conference on Acoustics, Speech, and Signal Processing"	0.530119047619	0.563541666667
+7E49747A	"A new side information algorithm based on block interpolation for distributed video coding"	"International Conference on Information and Communication Security"	0.569047619048	0.622222222222
+591FEF5A	"Hierarchical stochastic fast search motion estimation algorithm"	"Iet Computer Vision"	0.550952380952	0.866666666667
+587CAA38	"Block Based All Directional Smart Search Algorithm for optimized motion estimation in video data"	"Information not present"	0.600952380952	0.697023809524
+7FF0AEE1	"Efficient motion estimation algorithm based on structure segmentation and compensability analysis"	"Optical Engineering"	0.572835497835	0.675
+630FA9AA	"Efficient motion estimation algorithm based on structure segmentation and homogeneity test"	"Information not present"	0.572835497835	0.597435897436
+7FEE278F	"Self-calibration of a stereo-camera by pure translational motion"	"International Conference on Image Processing"	0.258654401154	1.0
+59ACD448	"Fast Motion Estimation Algorithm for Scalable Motion Coding"	"Information not present"	0.513852813853	0.875
+75906CDE	"A new distortion measure for motion estimation in motion-compensated hybrid video coding"	"Signal Processing-image Communication"	0.544736324282	0.748015873016
+6214E044	"Motion Estimation for Video Coding Standards"	"Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology"	0.491349206349	0.85
+7A9F3A38	"A Minimum-Entropy Procedure for Robust Motion Estimation"	"International Conference on Image Processing"	0.467619047619	1.0
+7DC72687	"Jump-diffusion processes in tracking/recognition"	"IEEE Transactions on Signal Processing"	0.220202020202	1.0
+755BC812	"Multiresolution motion estimation"	"Proceedings of SPIE"	0.311551226551	1.0
+75AFCB5D	"Prediction based fractional pixel motion estimation algorithm for AVS-M"	"Information not present"	0.530119047619	0.698484848485
+751EC04B	"Fast Motion Estimation Algorithm for HEVC"	"Information not present"	0.463452380952	1.0
+791CCB8A	"Macroblock-level adaptive search range algorithm for motion estimation in multiview video coding"	"Journal of Electronic Imaging"	0.617619047619	0.777777777778
+0622D8EE	"A Fast Search Algorithm for Sub-Pixel Motion Estimation in H.264"	"International Conference on Signal Processing and Multimedia Applications"	0.467619047619	0.833333333333
+76C99922	"An Efficient Wavelet-Based Motion Estimation Algorithm"	"Ieice Transactions"	0.512229437229	1.0
+7EDCB2DE	"VLSI design for MPEG-4 shape coding using a contour-based binary motion estimation algorithm"	"Iet Circuits Devices & Systems"	0.546785714286	0.665476190476
+753F8220	"A coprocessor for real-time motion estimation in HD video coding"	"Visual Communications and Image Processing"	0.496154401154	1.0
+5870E172	"A Background Model Estimation Algorithm Based on Analysis of Local Motion for Video Surveillance"	"International Conference on Information and Communication Security"	0.596785714286	0.62227032227
+7EF63077	"New motion estimation algorithm based on bit-plane matching and its VLSI implementation"	"Information not present"	0.572835497835	0.857142857143
+767337CC	"Fast multiresolution motion estimation algorithms for wavelet-based scalable video coding"	"Signal Processing-image Communication"	0.648593073593	1.0
+7ED3BCDD	"A New Fast Motion Estimation Algorithm Based on H.264"	"International Conference on Multimedia Information Networking and Security"	0.572835497835	1.0
+0F9A4B39	"Motion Estimation Based on Eigenvalue Algorithm Matching Local Image Feature"	"Ieice Transactions"	0.530119047619	0.636002886003
+85AF51C4	"New block-matching algorithm for motion estimation based on predicted direction information"	"Information not present"	0.572835497835	0.755844155844
+7A78192A	"Region-based multivector motion estimation for efficient very low bitrate video coding"	"Information not present"	0.541958546504	1.0
+794428DA	"A Novel Coarse-to-Fine Search Algorithm for Motion Estimation"	"Information not present"	0.467619047619	0.833333333333
+7F9A022E	"Moment-method estimation of the Ricean K-factor"	"IEEE Communications Letters"	0.183168498168	1.0
+7D17BD15	"Polynomial search algorithms for motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.467619047619	0.833333333333
+7DA81842	"A new algorithm for motion estimation from straight-line optical flow based on ant colony algorithm"	"Information not present"	0.572835497835	0.78125
+7F4703CE	"A high-quality spatial-temporal content-adaptive deinterlacing algorithm"	"International Symposium on Circuits and Systems"	0.204174991675	1.0
+7C3669E5	"A new fast motion estimation algorithm based on the loop-epipolar constraint for multiview video coding"	"Signal Processing-image Communication"	0.709199134199	0.8875
+7D5E5D45	"A Novel 3-D Predict Hexagon Search Algorithm for Fast Block Motion Estimation on H.264 Video Coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.617619047619	0.691666666667
+2F9D0A8A	"A new algorithm for fast block-matching motion estimation based on tree-structured block partition"	"Information not present"	0.572835497835	0.741558441558
+78237BE8	"A high quality adjustable complexity motion estimation algorithm for video encoders"	"Information not present"	0.5325	0.718253968254
+7ADDAA94	"Hybrid Super-Resolution Algorithm Robust to Cut-Change"	"Information not present"	0.250248917749	1.0
+5FC3B6F9	"Parallel Variable-Length Encoding on GPGPUs"	"European Conference on Parallel Processing"	0.5	1.0
+79017A65	"Efficient discrete cosine transform and quantization algorithm based on eliminating redundant computations in H.264 video encoding"	"Optical Engineering"	0.582792207792	0.658024691358
+5F35F215	"An alternative search motion estimation algorithm"	"Information not present"	0.467619047619	0.833333333333
+7A8433C3	"A Search Algorithm for Fast Motion Estimation in Accordance with Video Phone"	"Information not present"	0.534285714286	0.653846153846
+5E7283C8	"A fast video transcoder from Wyner-Ziv to AVS"	"Advances in Multimedia"	0.258654401154	1.0
+7CA1F7E9	"Fast motion estimation algorithm based on spatio-temporal correlation and direction of motion vectors"	"Electronics Letters"	0.530119047619	0.664637445887
+801D3926	"Computation-scalable algorithm for scalable video coding"	"IEEE Transactions on Consumer Electronics"	0.508441558442	1.0
+02EAA3D8	"IN-BAND MOTION ESTIMATION AND COMPENSATION FOR SPATIALLY SCALABLE PREDICTIVE WAVELET VIDEO CODING"	"Information not present"	0.544736324282	0.744047619048
+6CFF1D76	"Fast lossless multi-resolution motion estimation for scalable wavelet video coding"	"International Symposium on Circuits and Systems"	0.544736324282	0.854166666667
+19AD01A6	"An Efficient Wavelet-Based Motion Estimation Algorithm(Image Processing and Video Processing)"	"Ieice Transactions"	0.572835497835	0.670138888889
+7BC14232	"Fast Motion Estimation Algorithm for Scalable Motion Coding"	"Information not present"	0.513852813853	0.875
+811F08A4	"Efficient motion estimation using two-phase algorithm"	"International Conference on Machine Learning and Cybernetics"	0.512229437229	0.866666666667
+7AC7D4A5	"A Multi-View Video Codec Based on H.264"	"International Conference on Image Processing"	0.325321067821	1.0
+7D94EDE7	"Building a pseudo object-oriented very low bit-rate video coding system from a modified optical flow motion estimation algorithm"	"International Conference on Acoustics, Speech, and Signal Processing"	0.613452380952	0.683238636364
+795F8D03	"An efficient VLSI architecture for motion estimation using new three step search algorithm"	"Information not present"	0.556349206349	0.651234567901
+7E2C3E9C	"Efficient hierarchical motion estimation algorithm based on visual pattern block segmentation"	"International Symposium on Circuits and Systems"	0.572835497835	0.665625
+814A1744	"Motion Estimation Algorithm Based on Motion Characteristics"	"Information not present"	0.530119047619	0.848484848485
+7FCC3B67	"Region based searching for early terminated motion estimation algorithm of H.264/AVC video coding standard"	"Canadian Conference on Electrical and Computer Engineering"	0.770833333333	0.769444444444
+59BB0B8C	"Implementation of Constrained 1-Bit Transform based motion estimation algorithm with an FPGA base"	"Information not present"	0.530119047619	0.704365079365
+7EA690CD	"Sub-optimal quarter-pixel inter-prediction algorithm (SQIA)"	"International Conference on Acoustics, Speech, and Signal Processing"	0.204174991675	1.0
+77E33699	"A fast quarter-pixel motion estimation algorithm for H.264/AVC"	"Optoelectronics Letters"	0.463452380952	1.0
+76BAF679	"SIFME: A Single Iteration Fractional-Pel Motion Estimation Algorithm and Architecture for HDTV Sized H.264 Video Coding"	"International Conference on Acoustics, Speech, and Signal Processing"	0.613452380952	0.608333333333
+0E6889F4	"A New Motion Estimation Algorithm Based on Adaptative Hybrid Genetic Search and Selective Vector Tracing"	"International Conference on Image Processing"	0.576623376623	0.708333333333
+7D8D9766	"Optimum motion estimation algorithm for fast and robust digital image stabilization"	"IEEE Transactions on Consumer Electronics"	0.550952380952	0.708994708995
+7FF1A6ED	"A new fast motion estimation algorithm based on search window sub-sampling and object boundary pixel block matching"	"International Conference on Image Processing"	0.576623376623	0.586025641026
+22637FD3	"A Fast Multi-Resolution Block Matching Algorithm for Multiple-Frame Motion Estimation(Image Processing and Video Processing)"	"Ieice Transactions"	0.530119047619	0.523456790123
+7CFA23FD	"Subband video coding with scene-adaptive hierarchical motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.496154401154	1.0
+812C21F6	"A fast adaptive motion estimation algorithm"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.463452380952	1.0
+717E07E2	"An efficient FPGA architecture for hardware realization of hexagonal based motion estimation algorithm"	"Information not present"	0.572835497835	0.657196969697
+79EF4474	"A Fast Algorithm for Motion and Disparity Estimation Based on the Reference Directions of Neighboring Macroblocks"	"Advanced Materials Research"	0.530119047619	0.56810966811
+7714C95D	"Neural model-based motion estimation"	"Information not present"	0.346154401154	1.0
+7EFD9582	"Spatial correlation based fast field motion vector estimation algorithm for interlaced video encoding"	"International Conference on Multimedia and Expo"	0.676785714286	0.701058201058
+80619D3E	"Fast integer motion estimation for H.264 video coding standard"	"International Conference on Multimedia and Expo"	0.581868686869	1.0
+7CAA92D4	"An efficient wavelet-based motion estimation algorithm"	"Proceedings of SPIE"	0.512229437229	1.0
+5F1DD009	"Self-Recovery Algorithm Based on Motion Estimation of I-Frames for Compressed Video"	"Information not present"	0.596785714286	1.0
+7E50059E	"Review of energy efficient block-matching motion estimation algorithms for wireless video sensor networks"	"Information Sciences"	0.572835497835	0.60088985089
+7CF047FE	"Fast Global Motion Estimation"	"Information not present"	0.346154401154	1.0
+7A2F1D68	"Algorithm and Architecture for Adaptive Motion Estimation in Video Processing"	"Iete Technical Review"	0.530119047619	0.701388888889
+7E81EABE	"Novel hierarchical search motion estimation algorithm for mobile video transmission"	"Vehicular Technology Conference"	0.534285714286	0.75
+7C80EA37	"Spread and Iterative Search: A High Quality Motion Estimation Algorithm for High Definition Videos and Its VLSI Design"	"International Conference on Multimedia and Expo"	0.536666666667	0.551984126984
+7FF8841C	"Rate-distortion optimal motion estimation algorithm for video coding"	"International Conference on Acoustics, Speech, and Signal Processing"	0.531904761905	0.85
+803F6769	"A Fast Motion Estimation Algorithm Based on The Direction of Motion Vectors"	"Information not present"	0.530119047619	0.739177489177
+11BFE597	"Fast Algorithm Based on Successive Elimination Algorithm for Multi-Reference Motion Estimation"	"Information not present"	0.530119047619	0.851851851852
+8097E0DF	"A new motion estimation algorithm based on adaptive hybrid genetic search and selective vector tracing"	"International Conference on Image Processing"	0.576623376623	0.708333333333
+7875C428	"New block-matching algorithm for motion estimation based on predicted direction information"	"Visual Communications and Image Processing"	0.572835497835	0.755844155844
+7E2AAB97	"Efficient video transcoding between H.263 and H.264/AVC standards"	"International Symposium on Circuits and Systems"	0.403971533517	1.0
+80650A19	"Fast motion estimation algorithm based on edge block detection and motion vector information"	"Information not present"	0.530119047619	0.556666666667
+7D70B08F	"Multi-direction search algorithm for block-based motion estimation"	"Asia Pacific Conference on Circuits and Systems"	0.433015873016	0.833333333333
+80D84882	"Model-based estimation of 3D human motion"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.346154401154	1.0
+7A9FE019	"Low-complexity motion estimation for the scalable video coding extension of H.264/AVC"	"Information not present"	0.541958546504	0.857142857143
+811C62BF	"Adaptive Motion Estimation Algorithm for H.264/AVC"	"Information not present"	0.463452380952	1.0
+816A47B0	"Quality evaluation of motion estimation algorithms based on structural distortions"	"Multimedia Signal Processing"	0.5325	0.641666666667
+7AF6319A	"A quadratic prediction based fractional-pixel motion estimation algorithm for H.264"	"Journal of Visual Communication and Image Representation"	0.530119047619	0.818181818182
+814463CF	"A genetic search algorithm for motion estimation"	"Information not present"	0.467619047619	0.833333333333
+80FAD6C0	"A Search Algorithm for Fast Motion Estimation in Accordance with Video Phone"	"Information not present"	0.534285714286	0.653846153846
+7F5B99D5	"A fast block matching motion estimation algorithm based on statistical properties of object displacement"	"Information not present"	0.530119047619	0.577232142857
+78BC7395	"A Fast Motion Estimation Algorithm Based on Diamond and Line/Triangle Search Patterns"	"International Conference on Pervasive Computing"	0.534285714286	0.647108843537
+7DC3FDF5	"Decoder-side block motion estimation for H.264 / MPEG-4 AVC based video coding"	"International Symposium on Circuits and Systems"	0.562821067821	0.85
+7E5E419A	"Multiframe temporal estimation of cardiac nonrigid motion"	"IEEE Transactions on Image Processing"	0.346154401154	1.0
+7565C217	"New FPSoC-based architecture for efficient FSBM motion estimation processing in video standards"	"Proceedings of SPIE"	0.582112794613	0.776041666667
+803F554D	"A new video object motion estimation technique, based on evolutionary programming"	"Information not present"	0.543398268398	0.757142857143
+77D414D3	"A novel algorithm for real-time H.264 video encoding"	"Environmental Science and Information Application Technology"	0.455952380952	1.0
+77B4B3D2	"Piecewise fractional Brownian motion"	"IEEE Transactions on Signal Processing"	0.258654401154	1.0
+58BC0110	"Efficient VLSI Architecture for Real-Time Motion Estimation in Advanced Video Coding"	"Geobios"	0.541958546504	0.847222222222
+5D8E0ED2	"Optimal per-pixel estimation for scalable video coding"	"International Conference on Image Processing"	0.481352485898	1.0
+6ABAB6B8	"Content adaptive motion estimation for mobile video encoders"	"International Symposium on Circuits and Systems"	0.412821067821	1.0
+80C03191	"Single-iteration full-search fractional motion estimation for quad full HD H.264/AVC encoding"	"International Conference on Multimedia and Expo"	0.426154401154	1.0
+58A8E003	"A novel predict hexagon search algorithm for fast block motion estimation on H.264 video coding"	"Asia Pacific Conference on Circuits and Systems"	0.617619047619	0.691666666667
+7B29CD3A	"An improved variable-size block-matching algorithm"	"Multimedia Tools and Applications"	0.250248917749	1.0
+8152AF65	"A new motion estimation algorithm for mobile real-time video and its FPGA implementation"	"Information not present"	0.572835497835	0.857142857143
+7C6FAB84	"An improved fast fractional pel motion estimation algorithm based on H.264"	"Information not present"	0.530119047619	0.82
+588D0A40	"A novel algorithm for sub-pixel block motion estimation [video compression applications]"	"Information not present"	0.531904761905	0.637301587302
+77545B47	"Low complexity video encoding using new motion vector skip mode coding"	"Information not present"	0.535140364686	0.580238095238
+7DEF3253	"Edge-preserving Simultaneous Joint Motion-Disparity Estimation"	"International Conference on Pattern Recognition"	0.227142857143	1.0
+80C8AE58	"3Deflicker from motion"	"Information not present"	0.224051226551	1.0
+114CF7EF	"ENHANCED PREDICTION FOR MOTION ESTIMATION IN SCALABLE VIDEO CODING Marijn J.H. Loomans a,b a VDG Security BV"	"International Conference on Image Processing"	0.541958546504	0.601811768478
+7CC88BD3	"New dynamic pattern search based fast motion estimation algorithm"	"Advances in Computing and Communications"	0.576623376623	0.779761904762
+5FAFC3D8	"Motion Estimation Algorithm Based on Motion Characteristics"	"Information not present"	0.530119047619	0.848484848485
+81599F19	"Video coding based on motion estimation in the wavelet detail images"	"International Conference on Acoustics, Speech, and Signal Processing"	0.565876623377	0.668402777778
+81416CD3	"A new fast motion estimation method based on total least squares for video encoding"	"International Conference on Acoustics, Speech, and Signal Processing"	0.543398268398	0.674305555556
+7DBDBB26	"Super-Resolution Without Explicit Subpixel Motion Estimation"	"IEEE Transactions on Image Processing"	0.346154401154	1.0
+7FC81A3E	"SURE-LET for Orthonormal Wavelet-Domain Video Denoising"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.224051226551	1.0
+7D388B09	"A direct data approximation based motion estimation algorithm"	"International Conference on Pattern Recognition"	0.530119047619	0.704365079365
+765CB3C1	"Adaptive Modified Hexagon Based Search Motion Estimation algorithm"	"Information not present"	0.534285714286	0.669047619048
+5ACF140B	"Efficient hardware-software co-implementation of H.263 video codec"	"Multimedia Signal Processing"	0.326049455595	1.0
+7E310ED1	"Fast mode decision algorithm based on thread-level parallelization and thread slipstreaming in H.264 video coding"	"International Conference on Multimedia and Expo"	0.525952380952	0.833333333333
+7DA84DEF	"Multiresolution parametric estimation of transparent motions"	"International Conference on Image Processing"	0.346154401154	1.0
+73550553	"Multiple hierarchical motion estimation"	"Information not present"	0.346154401154	1.0
+7D28A9DD	"Recursive algorithm for motion primitive estimation"	"International Conference on Robotics and Automation"	0.463452380952	1.0
+75EB1454	"Systolic array based architecture for DS fast motion estimation algorithm"	"Information not present"	0.530119047619	0.619614512472
+7EB2B7A1	"An embedded wavelet-based quadtree interframe coding algorithm"	"International Symposium on Circuits and Systems"	0.333582251082	1.0
+7E3D6BB5	"Renormalization for unbiased estimation"	"International Conference on Computer Vision"	0.227142857143	1.0
+7ABC3730	"Optical-Flow Based on an Edge-Avoidance Procedure"	"International Conference on Image Processing"	0.328333333333	1.0
+7F568FCB	"Frame-free video"	"International Conference on Image Processing"	0.224051226551	1.0
+7D7DCFA9	"A new adaptive motion estimation algorithm"	"Information not present"	0.512229437229	1.0
+781757D4	"HDS: a fast and hierarchical diamond search algorithm in video motion estimation"	"Information not present"	0.550952380952	0.734126984127
+7D2827B3	"Robust motion-compensated video upconversion"	"IEEE Transactions on Consumer Electronics"	0.258654401154	1.0
+5CE860BC	"Three-stage motion deblurring from a video"	"Asian Conference on Computer Vision"	0.290717893218	1.0
+7A449033	"Motion estimation for video coding based on sparse representation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.565876623377	0.854166666667
+7DA3ACA9	"New motion estimation algorithm using adaptively quantized low bit-resolution image and its VLSI architecture for MPEG2 video encoding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.538928243474	0.630070546737
+7F899BA8	"Contourless region-based video coding for very low bit-rates"	"International Conference on Image Processing"	0.341987734488	1.0
+7FCBB3AC	"An adaptive fast full search motion estimation algorithm for H.264"	"International Symposium on Circuits and Systems"	0.550952380952	0.866666666667
+7F29F784	"An efficient computation-constrained block-based motion estimation algorithm for low bit rate video coding"	"IEEE Transactions on Image Processing"	0.650757575758	0.78869047619
+78476CEC	"Contour-Based Motion Estimation"	"Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing"	0.311551226551	1.0
+7D4A0994	"Rate-distortion optimized motion estimation for error resilient video coding"	"International Conference on Acoustics, Speech, and Signal Processing"	0.514404761905	0.84
+5CB04143	"Novel hierarchical search motion estimation algorithm for mobile video transmission"	"Information not present"	0.534285714286	0.75
+7013E392	"A novel Cooperative Motion Estimation Algorithm based on Particle Swarm Optimization and its multicore implementation"	"Signal Processing-image Communication"	0.530119047619	0.561259920635
+78C112F7	"Motion re-estimation for H.264/AVC video downscaling transcoding using EPZS algorithm"	"International Conference on Image Processing"	0.442619047619	0.833333333333
+797B7230	"A New Cellular Search Algorithm for Motion Estimation"	"Information not present"	0.516017316017	0.866666666667
+77F0A276	"Multiresolution-based motion estimation"	"Information not present"	0.311551226551	1.0
+7E215D9D	"Adaptive direction search algorithms based on motion correlation for block motion estimation"	"IEEE Transactions on Consumer Electronics"	0.534285714286	0.629677729678
+78C9720F	"Fully parallel fractional motion estimation for H.264/AVC encoder"	"International Conference on Intelligent Computing"	0.346154401154	1.0
+806F883C	"A Fast Sub-Pixel Motion Estimation Algorithm for H.264/AVC Video Coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.613452380952	1.0
+5D202579	"Block standstill and homogeneity based fast motion estimation algorithm for h.264 video coding"	"Information not present"	0.680119047619	0.7
+81334357	"Fast and Parallel Video Encoding by WorMoad"	"Information not present"	0.338654401154	1.0
+7FC66069	"Adaptive model-based motion estimation"	"IEEE Transactions on Image Processing"	0.346154401154	1.0
+77FBDF02	"A Fast Block-Matching Motion Estimation Algorithm For H.264/AVC"	"Information not present"	0.463452380952	1.0
+7B1F347B	"Fast Block-Matching Motion Estimation Based on a Dual-Cross Search Algorithm"	"Journal of Computer Research and Development"	0.534285714286	0.866666666667
+0FA7A97D	"An Algorithm with Low Complexity for Fast Motion Estimation in Digital Video Coding"	"Information not present"	0.531904761905	0.732142857143
+77BB76F5	"Rate-distortion optimal motion estimation algorithms for motion-compensated transform video coding"	"Computer Standards & Interfaces"	0.613452380952	1.0
+80D24979	"Low-Complexity Line-Based Motion Estimation Algorithm"	"Computational Intelligence and Security"	0.428849206349	1.0
+80F3C2A1	"An efficient two-pass MAP-MRF algorithm for motion estimation based on mean field theory"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.572835497835	0.739177489177
+7EC7000C	"Natural and synthetic video in MPEG-4"	"International Conference on Acoustics, Speech, and Signal Processing"	0.258654401154	1.0
+7DDDA73C	"Efficient fast algorithm and FPSoC for integer and fractional motion estimation in H.264/AVC"	"Information not present"	0.514393939394	0.833333333333
+79D7FE4A	"A novel partial block-matching motion estimation algorithm"	"Information not present"	0.463452380952	1.0
+7F488DC4	"EFBLA: a two-phase matching algorithm for fast motion estimation"	"Electronics Letters"	0.463452380952	1.0
+7EBF0E91	"De-Interlacing Algorithm Using Spatial-Temporal Correlation-Assisted Motion Estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.463452380952	0.833333333333
+7BBFE612	"Motion parameter estimation based on the block recursive algorithm with finite word length"	"IEEE Transactions on Consumer Electronics"	0.535833333333	0.563541666667
+7739045B	"Efficient adaptive motion estimation search algorithm: Efficient adaptive motion estimation search algorithm"	"Journal of Computer Applications"	0.516017316017	0.866666666667
+7E83A6AE	"VLSI oriented fast motion estimation algorithm based on macroblock and motion feature analysis"	"Information not present"	0.530119047619	0.686363636364
+7A9DD20C	"Variable block size motion estimation architecture with a fast bottom-up decision mode and an integrated motion compensation targeting the H.264/AVC video coding standard"	"Symposium on Integrated Circuits and Systems Design"	0.593611111111	0.526465201465
+68BAC91C	"A Fast Block Matching Algorithm for Video Motion Estimation Based on Particle Swarm Optimization and Motion Prejudgment"	"Clinical Orthopaedics and Related Research"	0.530119047619	0.526193755739
+8536ECF2	"가변블럭의 경계정합방법을 이용한 H.264 to MPEG-2 Video Transcoding 연구"	"Information not present"	0.224051226551	1.0
+8105A07E	"SAD computation based on online arithmetic for motion estimation"	"Microprocessors and Microsystems"	0.473571428571	0.875
+0C389424	"A Simplified Half Pixel Motion Estimation Algorithm Based on the Spatial Correlation"	"Pacific Rim Conference on Multimedia"	0.530119047619	0.705627705628
+0242CD76	"Sub-block subsampling based block-matching motion estimation"	"Information not present"	0.412821067821	1.0
+7E418D9A	"Adaptive multi-feature motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.346154401154	1.0
+7DE7EAF9	"An Arbitrary Frame-Skipping Video Transcoder"	"International Conference on Multimedia and Expo"	0.258654401154	1.0
+624072D6	"Multi-level successive elimination algorithm for motion estimation in video coding"	"International Symposium on Circuits and Systems"	0.531904761905	0.726851851852
+7DA2EE2C	"A new features-based fast algorithm for motion estimation: decimated integral projection (DIP)"	"International Conference on Information and Communication Security"	0.591774891775	0.740476190476
+7274670A	"Re-codable video"	"International Conference on Image Processing"	0.224051226551	1.0
+79E7B64A	"Applying CUDA Architecture to Accelerate Full Search Block Matching Algorithm for High Performance Motion Estimation in Video Encoding"	"Symposium on Computer Architecture and High Performance Computing"	0.534285714286	0.465476190476
+7813AFF6	"New video shot change detection algorithm based on accurate motion and illumination estimation"	"Information not present"	0.633441558442	0.659166666667
+813C6DA3	"DCT-based adaptive thresholding algorithm for binary motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.463452380952	1.0
+8016CDC9	"Fast motion estimation algorithm based on predictive line diamond search technology"	"International Conference on Communications"	0.534285714286	0.591220238095
+78F36E7F	"A Fast Adaptive Motion Estimation Algorithm"	"Information not present"	0.463452380952	1.0
+5F4F1820	"A rate-constrained full search algorithm for fast motion estimation in a video encoder"	"Information not present"	0.534285714286	0.866666666667
+75E5CC71	"Content-Based 4D Matrix DCT Coding Algorithm for Stereo Video with Adaptive Windows Disparity Estimation"	"International Conference on Multimedia and Expo"	0.546785714286	0.619444444444
+7BF5AC6D	"Dynamic Motion Detection technique for fast and efficient video coding"	"Information not present"	0.553896103896	0.742857142857
+7CE8D78E	"Statistical, DCT and vector quantisation-based video codec"	"Iet Image Processing"	0.258654401154	1.0
+81380B81	"A motion parameter estimation algorithm based on the multiresolution edge detection"	"International Conference on Machine Learning and Cybernetics"	0.530119047619	0.609523809524
+02870D3E	"Efficient Fast motion estimation algorithm for H.264 based on polynomial model"	"Information not present"	0.572835497835	0.848484848485
+5DC3A05F	"Wavelet scalable video coding with minimal average temporal distance for motion estimation"	"Information not present"	0.544736324282	0.748015873016
+7BCD59AF	"SenseCoding: accelerometer-assisted motion estimation for efficient video encoding"	"ACM Multimedia"	0.538928243474	1.0
+79F20F08	"Two-Steps Cross-Diamond Fast Search Algorithm on Motion Estimation in H.264"	"International Conference on Communications"	0.467619047619	0.833333333333
+7A71331A	"Planar motion estimation from 1D homographies"	"International Conference on Control, Automation, Robotics and Vision"	0.311551226551	1.0
+7AA7BC29	"A fast hierarchical 1/4-pel fractional pixel motion estimation algorithm of H.264/AVC video coding"	"Information not present"	0.613452380952	0.85
+810363A8	"Long-Rood motion estimation algorithm based on starting search point prediction"	"Information not present"	0.534285714286	0.605113636364
+7A03EED0	"PMRME: A Parallel Multi-Resolution Motion Estimation Algorithm and Architecture for HDTV Sized H.264 Video Coding"	"International Conference on Acoustics, Speech, and Signal Processing"	0.613452380952	0.66875
+7D3F9679	"Motion adaptive search for fast motion estimation"	"IEEE Transactions on Consumer Electronics"	0.387619047619	0.833333333333
+80ED289C	"An H.264 spatio-temporal hierarchical fast motion estimation algorithm for high-definition video"	"International Symposium on Circuits and Systems"	0.617619047619	1.0
+75C63228	"Global motion estimation algorithm for video segmentation"	"Visual Communications and Image Processing"	0.530119047619	0.82
+77D3B178	"Motion vector analysis based homography estimation for efficient HEVC compression of 2D and 3D navigation video sequences"	"International Conference on Image Processing"	0.547186147186	0.570555555556
+816AAAA1	"A Novel Fast Motion Estimation Algorithm Based on Starting Search Point Prediction"	"Information not present"	0.534285714286	0.605113636364
+7B719C62	"Efficient Motion Estimation and Coding for Arbitrary-Shaped Video Objects"	"Journal of Visual Communication and Image Representation"	0.541958546504	0.857142857143
+738E7176	"Hierarchical Model-Based Motion Estimation"	"European Conference on Computer Vision"	0.346154401154	1.0
+7CFE032B	"DCT-based motion estimation"	"IEEE Transactions on Image Processing"	0.311551226551	1.0
+81FC069B	"New algorithm for motion estimation on in-terlaced video"	"Visual Communications and Image Processing"	0.572835497835	1.0
+65F8FE3F	"A new fast algorithm for the estimation of block motion vectors"	"Information not present"	0.591774891775	0.740476190476
+7FE5E9CB	"Hadamard Transform Based Fast Partial Distortion Elimination Algorithm for Lossless and Lossy Motion Estimation"	"Information not present"	0.530119047619	0.706018518519
+78E08A51	"LACING: an improved motion estimation framework for scalable video coding"	"ACM Multimedia"	0.541958546504	0.738261738262
+5ECC9ABB	"Low complexity variable block size motion estimation algorithm for video telephony communication"	"Information not present"	0.531904761905	0.521642246642
+8148E184	"An efficient motion re-estimation algorithm for frame-skipping video transcoding"	"International Conference on Image Processing"	0.49329004329	1.0
+5C057AB8	"Linear algorithm and hexagonal search based two-pass algorithm for motion estimation"	"Computer Analysis of Images and Patterns"	0.534285714286	0.888888888889
+7E0F5CB5	"Activity-Based Motion Estimation Scheme for H.264 Scalable Video Coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.541958546504	0.848484848485
+7D49B4D5	"A Parallel Algorithm for Advanced Video Motion Estimation on Multicore Architectures"	"Information not present"	0.530119047619	0.816666666667
+7D5C41CE	"Adaptive sensor-planning algorithm with Q-learning"	"Fertility and Sterility"	0.250248917749	1.0
+7A169D4C	"Side Information Generation Based on Hierarchical Motion Estimation in Distributed Video Coding"	"Chinese Journal of Aeronautics"	0.562821067821	0.680357142857
+586F5F00	"A model based motion estimation algorithm for very low bit rate video coding"	"Information not present"	0.6825	0.711159211159
+745D97FC	"A low power architecture for a new efficient block-matching motion estimation algorithm"	"Information not present"	0.552876984127	0.746598639456
+77500CC4	"Fast motion estimation using modified orthogonal search algorithm for video compression"	"Signal, Image and Video Processing"	0.534285714286	0.628472222222
+77468507	"A new fast local motion estimation algorithm using global motion"	"Signal Processing"	0.40559491014	0.866666666667
+7D1AEB05	"Robust Translational Motion of Single-Row SPCE by the Parallel Binocular"	"Computational Science and Engineering"	0.258654401154	1.0
+7F716938	"An adaptive divide-and-predict coding for intra-frame of H.264/AVC"	"International Conference on Image Processing"	0.511111111111	1.0
+7E43C8D8	"Recursive temporal denoising and motion estimation of video"	"International Conference on Image Processing"	0.412821067821	1.0
+769F89E2	"Approximate criteria for the MPEG-2 motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.431868686869	1.0
+75CA5D4D	"The algorithm of motion blur image restoration based on PSF half-blind estimation"	"Information not present"	0.530119047619	0.621031746032
+79EFE5DE	"A new hybrid block-matching motion estimation algorithm"	"International Conference on Acoustics, Speech, and Signal Processing"	0.512229437229	1.0
+80EC5E7C	"A New EDI-based Deinterlacing Algorithm"	"IEEE Transactions on Consumer Electronics"	0.318408107044	1.0
+7D6AA12C	"Adaptive quarter-pel motion estimation and motion vector coding algorithm for the H.264/AVC standard"	"Optical Engineering"	0.6325	0.869047619048
+7E49D084	"Two-chip MPEG-2 video encoder"	"IEEE Micro"	0.224051226551	1.0
+7623FF28	"A fast motion estimation algorithm based on Diamond and Hexagon Search patterns"	"Information not present"	0.534285714286	0.578720238095
+753853E8	"An efficient adaptive energy model based predictive Motion Estimation algorithm for video coding"	"International Conference on Image Processing"	0.635064935065	0.714646464646
+7F838567	"An efficient motion estimation technique based on a rate-distortion criterion"	"International Conference on Acoustics, Speech, and Signal Processing"	0.544123048669	0.85
+74B23E0B	"An FPGA implementation of the flexible triangle search algorithm for block based motion estimation"	"International Symposium on Circuits and Systems"	0.534285714286	0.584523809524
+7CE88001	"A Color Video Watermarking Algorithm Based on DTCWT and Motion Estimation"	"Communications and Mobile Computing"	0.596785714286	0.854166666667
+7EDC71D3	"Video Deblurring Algorithm Using Accurate Blur Kernel Estimation and Residual Deconvolution Based on a Blurred-Unblurred Frame Pair"	"IEEE Transactions on Image Processing"	0.530119047619	0.526364068031
+5E44228C	"Predictive coding based on efficient motion estimation"	"International Conference on Communications"	0.491125541126	0.85
+5C64CF5D	"Biomechanically-Constrained 4D Estimation of Myocardial Motion"	"Medical Image Computing and Computer-Assisted Intervention"	0.346154401154	1.0
+6E991AC1	"A pentagonal fast block matching algorithm for motion estimation using adaptive search range"	"International Conference on Acoustics, Speech, and Signal Processing"	0.550952380952	0.56975308642
+7A1E1FBA	"A new block-based motion estimation algorithm"	"Signal Processing-image Communication"	0.512229437229	1.0
+7C78F06F	"Rapid algorithm of multi-block motion estimation for H.264: Rapid algorithm of multi-block motion estimation for H.264"	"Journal of Computer Applications"	0.463452380952	1.0
+243320D4	"Αλγόριθμοι και υλοποίηση για πρόβλεψη Macroblock στο πρότυπο κωδικοποίησης video H.264"	"Information not present"	0.224051226551	1.0
+7EF35B56	"Hybrid video using motion estimation"	"Systems, Man and Cybernetics"	0.412821067821	0.833333333333
+787CD4CB	"Motion adaptive intra refresh for MPEG-4"	"Electronics Letters"	0.258654401154	1.0
+74B267BD	"Hierarchical global motion estimation/compensation in low bitrate video coding"	"International Symposium on Circuits and Systems"	0.408654401154	1.0
+7ED77939	"Ultra Low-Complexity Fast Variable Block Size Motion Estimation Algorithm in H.264/AVC"	"International Conference on Multimedia and Expo"	0.550952380952	0.704166666667
+7F5C450D	"Highly efficient predictive zonal algorithms for fast block-matching motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.512229437229	1.0
+7E0F4EBF	"Hybrid-template adaptive motion estimation algorithm based on block matching"	"Information not present"	0.530119047619	0.82
+7572F3E7	"A Fully Scalable Motion Model for Scalable Video Coding"	"International Conference on Image Processing"	0.462413091959	0.848484848485
+63620AA0	"Residual energy and edge information based motion estimation algorithm for frame interpolation"	"Information not present"	0.530119047619	0.516796166796
+7E348E26	"Efficient motion-estimation algorithm for reduced frame-rate video transcoder"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.432683982684	1.0
+7DC8CA88	"Hardware-oriented region based algorithm for low power motion estimation"	"Information Technology Interfaces"	0.530119047619	0.708994708995
+77C4FDFC	"SaVE: sensor-assisted motion estimation for efficient h.264/AVC video encoding"	"ACM Multimedia"	0.549603174603	0.861111111111
+04F43C80	"An Adaptive Computation-aware Algorithm for Multi-frame Variable Block-size Motion Estimation in H.264/AVC"	"International Conference on Signal Processing and Multimedia Applications"	0.463452380952	1.0
+7D96486D	"An optimal fast full search motion estimation algorithm in video coding"	"Information not present"	0.617619047619	0.797619047619
+5912AB28	"Polynomial search algorithms for motion estimation"	"International Symposium on Circuits and Systems"	0.467619047619	0.833333333333
+75240401	"A Fast Algorithm and Its Architecture for Motion Estimation in MPEG-4 AVC/H.264 Video Coding"	"Asia Pacific Conference on Circuits and Systems"	0.613452380952	0.847222222222
+7F4FC9AD	"MPEG-4 based stereoscopic and multiview video coding"	"Information not present"	0.408654401154	1.0
+7F8052BC	"Improvements to TZ search motion estimation algorithm for multiview video coding"	"International Conference on Systems"	0.593452380952	0.779761904762
+7D5932C3	"Fast motion estimation with dual search window for stereo 3d video encoding"	"International Conference on Multimedia and Expo"	0.534285714286	0.640240711669
+77651198	"Motion estimation based on H.264 video coding"	"Information not present"	0.562821067821	1.0
+7CA8A55E	"Motion vector estimation using line-square search block matching algorithm for video sequences"	"EURASIP Journal on Advances in Signal Processing"	0.534285714286	0.521111111111
+7C053116	"Efficient Motion Estimation Algorithms for Video Coding"	"Advanced Materials Research"	0.574458874459	0.875
+5A2B3A00	"A high-quality video denoising algorithm based on reliable motion estimation"	"European Conference on Computer Vision"	0.596785714286	1.0
+598BFC44	"A new rate-minimizing matching criterion and a fast algorithm for block motion estimation"	"International Conference on Image Processing"	0.590151515152	0.85
+66B08B8A	"Wide-Range Motion Estimation Architecture with Dual Search Windows for High Resolution Video Coding"	"Ieice Transactions"	0.537619047619	0.595833333333
+79CD4B16	"Video mosaicing using a mutual information-based motion estimation process"	"International Conference on Image Processing"	0.534285714286	0.866666666667
+587CF8F3	"Fast sub-pixel motion estimation for h.264"	"Advanced Concepts for Intelligent Vision Systems"	0.346154401154	1.0
+810CAFE8	"Fast Motion Estimation Algorithm by Finite-State Side Match for H.264 Video Coding Standard"	"Asia Pacific Conference on Circuits and Systems"	0.699166666667	0.772115384615
+7C01BBBE	"Fast motion estimation algorithm using dual bit-plane matching criteria"	"International Convention on Information and Communication Technology, Electronics and Microelectronics"	0.431868686869	0.833333333333
+7D002828	"Efficient Motion Estimation Algorithm for Advanced Video Coding"	"Computational Intelligence"	0.648593073593	1.0
+7054A194	"On a 3D recursive motion estimation algorithm and architecture for digital video SoC"	"Information not present"	0.530119047619	0.816666666667
+7AFC59B1	"Wide-Range Motion Estimation Architecture with Dual Search Windows for High Resolution Video Coding"	"Ieice Transactions"	0.537619047619	0.595833333333
+7DB80C9F	"New multiresolution motion estimation for wavelet transform video coding"	"Asia Pacific Conference on Circuits and Systems"	0.544736324282	0.854166666667
+7F3EF7FA	"A simple and efficient algorithm for block matching motion estimation in video coding"	"Information not present"	0.574458874459	0.7
+7E01685B	"Low-complexity block-based motion estimation via one-bit transforms"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.311551226551	1.0
+25692D38	"A Hardware Implementation of a Content-Based Motion Estimation Algorithm for Real-Time MPEG-4 Video Coding( Selected Papers from the 18th Workshop on Circuits and Systems in Karuizawa)"	"Ieice Transactions"	0.531904761905	0.47521417976
+7D40CD1E	"A Fast Video Motion Estimation Algorithm for the H.264 Standard"	"International Conference on Multimedia and Expo"	0.615833333333	1.0
+5CB6E387	"A Novel Motion Estimation Algorithm Based on Dynamic Search Window and Spiral Search"	"International Conference on Multimodal Interfaces"	0.534285714286	0.677655677656
+812A2138	"A globally adaptive pixel-decimation algorithm for block-motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.350833333333	1.0
+7E8B5F02	"Advanced Multilevel Successive Elimination Algorithms for Motion Estimation in Video Coding"	"Intelligent Data Engineering and Automated Learning"	0.531904761905	0.726851851852
+5D9A9101	"Multi-Level, Multi-Step Motion Estimation Algorithm"	"Ieice Transactions"	0.428849206349	1.0
+778575D0	"A New Fast Encoding Algorithm Based on an Efficient Motion Estimation Process for the Scalable Video Coding Standard"	"IEEE Transactions on Multimedia"	1.0	1.0
+79A9C21E	"VDH-Grid Search Algorithm for Fast Motion Estimation"	"Data Compression Conference"	0.467619047619	0.833333333333
+7EF2AF68	"A simple and efficient search algorithm for block-matching motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.516017316017	0.866666666667
+801A706F	"An Optimal Non-Uniform Scalar Quantizer for Distributed Video Coding"	"International Conference on Multimedia and Expo"	0.341987734488	1.0
+7BD376A0	"Efficient Motion and Disparity Estimation Optimization for Low Complexity Multiview Video Coding"	"IEEE Transactions on Broadcasting"	0.544736324282	0.672371031746
+814D5E6A	"Video coding with MC-EZBC and redundant-wavelet multihypothesis"	"International Conference on Image Processing"	0.317821067821	1.0
+773734FA	"Algorithm and architecture design of sorting-based motion estimation algorithm for wireless video applications"	"Information not present"	0.531904761905	0.691666666667
+7D5A9FF0	"MAPS: a new and efficient block-matching criterion for motion estimation"	"Information not present"	0.526557239057	0.847222222222
+7FE10E4E	"Articulated-model based upper-limb pose estimation"	"Computational Intelligence in Robotics and Automation"	0.29380952381	1.0
+75575692	"About macrolock subsampling for motion estimation on IA-64"	"International Conference on Multimedia and Expo"	0.311551226551	1.0
+7F86A7FA	"A Wyner-Ziv Video Transcoder"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.224051226551	1.0
+7DD9AB15	"A quadratic prediction based fractional-pixel motion estimation algorithm for H.264"	"Information Systems Management"	0.530119047619	0.818181818182
+75ADBBF4	"Super-resolution based on region-matching motion estimation"	"Information not present"	0.412821067821	1.0
+770251DB	"Predictive and distribution-oriented fast motion estimation for H.264/AVC"	"Journal of Real-time Image Processing"	0.346154401154	1.0
+80DF0394	"One-dimensional full search motion estimation algorithm for video coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.534285714286	0.763888888889
+77ADF1BD	"Video Monitoring System of Embedded Remote Based on ARM and Fast Motion Estimation Algorithm"	"Internet Measurement Conference"	0.596785714286	0.599335849336
+7A3E05D7	"Fast Generalized Motion Estimation and Superresolution"	"International Conference on Image Processing"	0.346154401154	1.0
+7F5CB08F	"SAD reuse in hierarchical motion estimation for the H.264 encoder"	"International Conference on Acoustics, Speech, and Signal Processing"	0.346154401154	1.0
+774A6CC3	"Adaptive Motion Estimation Block Matching Algorithms for Video Coding"	"Information not present"	0.531904761905	0.657142857143
+814CA607	"Estimation of an affine motion"	"American Control Conference"	0.346154401154	1.0
+74D53BE5	"Variable-size block matching algorithm for motion estimation using a perceptual-based splitting criterion"	"International Conference on Pattern Recognition"	0.549166666667	0.669047619048
+0762F973	"A FAST ADAPTIVE TWO-LEVEL MULTI-MODE SEARCH ALGORITHM FOR MOTION ESTIMATION"	"Information not present"	0.467619047619	0.833333333333
+74023B9D	"A fast motion estimation algorithm for MPEG2 video using ripple-shaped search"	"International Symposium on Circuits and Systems"	0.534285714286	0.777777777778
+5A0CC3C6	"A new motion estimation algorithms based on Zero Detection and vector filter in Video Format Conversion Chip"	"Information not present"	0.572835497835	0.549166666667
+80730B3C	"A fast motion estimation algorithm based on the block sum pyramid"	"IEEE Transactions on Image Processing"	0.530119047619	0.619444444444
+7EBA2F55	"Multi-resolution motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.311551226551	1.0
+8027FF24	"3D gait estimation from monoscopic video"	"International Conference on Image Processing"	0.311551226551	1.0
+79AE9FB7	"FFT-based 4-parameter global motion estimation"	"Proceedings of SPIE"	0.346154401154	1.0
+7B07756B	"New fast motion estimation algorithm in video coding"	"Information not present"	0.574458874459	0.875
+786CF366	"Fast motion estimation for H.264"	"Signal Processing-image Communication"	0.346154401154	1.0
+5D394A00	"An Improved Unsupervised Learning of Motion Estimation Based on Diamond Searching for Distributed Video Coding"	"Computational Aspects of Social Networks"	0.567821067821	0.679067460317
+800201BE	"Optimal motion estimation"	"Information not present"	0.346154401154	1.0
+79FC44C6	"Fast iterative search for motion and disparity estimation in stereoscopic video coding"	"Visual Communications and Image Processing"	0.537619047619	0.740740740741
+8025B02C	"Digital Video Transcoding"	"Proceedings of the IEEE"	0.258654401154	1.0
+77A054BB	"Quasi-Random Search algorithm for fast motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.467619047619	0.833333333333
+7D2DB78D	"Rate-distortion optimal motion estimation algorithms for motion-compensated transform video coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.613452380952	1.0
+7D6E4267	"Robust Monocular Egomotion Estimation Based on an IEKF"	"Canadian Conference on Computer and Robot Vision"	0.29380952381	1.0
+7F15F523	"Hybrid parallel motion estimation architecture based on fast top-winners search algorithm"	"IEEE Transactions on Consumer Electronics"	0.534285714286	0.736111111111
+7FEB30EB	"Multiple Initial Point Prediction based Block Motion Estimation Algorithm"	"Information not present"	0.530119047619	0.610606060606
+78084697	"A variable block size motion estimation algorithm for real-time H.264 video encoding"	"Signal Processing-image Communication"	0.610119047619	0.746428571429
+5D7E70DB	"An efficient computation-constrained block-based motion estimation algorithm for low bit rate video coding"	"Information not present"	0.650757575758	0.78869047619
+6E1F8C50	"New flexible motion estimation technique for scalable MPEG encoding using display frame order and multi-temporal references"	"International Conference on Image Processing"	0.531580687831	0.51771978022
+791FCCAC	"Low-Complexity Motion Estimation for H.264/AVC Through Perceptual Video Coding"	"Ksii Transactions on Internet and Information Systems"	0.496154401154	1.0
+5DCB831A	"Video Coding Algorithm for Block Motion Estimation"	"Information not present"	0.589285714286	0.85
+7F858AF7	"Robust instantaneous rigid motion estimation"	"Computer Vision and Pattern Recognition"	0.346154401154	1.0
+79140AB6	"An adaptive global motion estimation method based on improved SUSAN algorithm and SIFT algorithm"	"Information not present"	0.530119047619	0.851851851852
+7B2610FA	"Fast Non-integer Motion Estimation for HEVC Encoder"	"Information not present"	0.346154401154	1.0
+73C03D3F	"Fast Sub-Pixel Motion Estimation Via One-Bit Transform"	"Information not present"	0.346154401154	1.0
+7E2E9FE6	"Multiscale motion estimation for scalable video coding"	"International Conference on Image Processing"	0.541958546504	1.0
+7B6A630F	"Improved Diamond Search Algorithm for H.264/AVC Video Coding Standard"	"Wuhan University Journal of Natural Sciences"	0.545833333333	0.664965986395
+7F1E130A	"A dynamic quality-scalable H.264 video encoder"	"International Symposium on Circuits and Systems"	0.258654401154	1.0
+7AE6B72E	"Background-foreground division based search for motion estimation in surveillance video coding"	"International Conference on Multimedia and Expo"	0.604285714286	0.698863636364
+7E02C748	"A New Object Motion Estimation Technique For Video Images, Based On A Genetic Algorithm"	"Journal of The American College of Surgeons"	0.633441558442	0.776388888889
+7ECF500E	"Efficient MPEG-4 to H.264/AVC Transcoding with Spatial Downscaling"	"Etri Journal"	0.425	1.0
+80244DFF	"Adaptive Variable Block-Size Early Motion Estimation Termination Algorithm for H.264/AVC Video Coding Standard"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.699166666667	0.880952380952
+78494605	"A MPEG-4 encoder based on TMS320C6416"	"Information not present"	0.455555555556	1.0
+594A9387	"Selective motion estimation for fast video encoding"	"Advances in Multimedia"	0.492821067821	1.0
+7F29173F	"Block-matching algorithm based on an adaptive reduction of the search area for motion estimation"	"Real-time Imaging"	0.534285714286	0.653741496599
+8164F3E9	"Data-driven multi-frame 3D motion estimation"	"International Conference on Image Processing"	0.311551226551	1.0
+77C86FF5	"Motion estimation based on region prediction for fixed pattern algorithms"	"Information not present"	0.530119047619	0.618145743146
+78C9B551	"An optimally scalable and cost-effective fractional-pixel motion estimation algorithm for HEVC"	"International Conference on Acoustics, Speech, and Signal Processing"	0.512229437229	1.0
+81337FF5	"VLSI architecture for HDTV motion estimation based on block-matching algorithm"	"International Conference on VLSI Design"	0.530119047619	0.816666666667
+7AB37165	"An adaptive motion estimation algorithm based on mutual information for depth information estimation"	"International Conference on Information Networking"	0.530119047619	0.688888888889
+0D8F8A48	"FAST LONG-TERM MOTION ESTIMATION FOR HIGH DEFINITION VIDEO SEQUENCES BASED ON SPATIO-TEMPORAL TUBES AND USING THE NELDER-MEAD SIMPLEX ALGORITHM"	"Information not present"	0.596785714286	0.629358296025
+7D718A3F	"Newton-type algorithms for time-varying pose estimation"	"Information not present"	0.306858974359	1.0
+8033ABA8	"Global 3D motion estimation"	"Computer Vision and Pattern Recognition"	0.346154401154	1.0
+7A37401D	"Multi-ASIP based parallel and scalable implementation of motion estimation kernel for high definition videos"	"Embedded Systems for Real-Time Multimedia"	0.533044733045	0.609748276415
+80353309	"Efficient motion estimation algorithm for MPEG-4 to H.264 transcoder"	"International Conference on Image Processing"	0.512229437229	1.0
+7B7FD82C	"A Fast Motion Estimation Algorithm for H.264"	"International Conference on Signal Acquisition and Processing"	0.463452380952	1.0
+79AFBD8E	"Translational Motion Estimation of Moving Object Based on Windowed Phase Correlation Algorithm with Kernel Regression"	"Information not present"	0.5325	0.497662337662
+75E3431E	"Kalman filtering based motion estimation for video coding with adaptive block partitioning"	"Signal Processing Systems"	0.562821067821	0.66875
+7FE71547	"Distributed video coding encoder/decoder complexity sharing method by phase motion estimation algorithm"	"Information not present"	0.596785714286	0.576349206349
+58E561AB	"Fast multiframe motion estimation algorithm in H.264"	"Information not present"	0.463452380952	1.0
+3A85D75A	"Multiscale Motion Estimation"	"Information not present"	0.311551226551	1.0
+8124B098	"The cross-search algorithm for motion estimation"	"IEEE Transactions on Communications"	0.428849206349	1.0
+7BEEF6B9	"DSP-based real-time video encoding"	"Information not present"	0.338654401154	1.0
+75215EAA	"Computation Controllable Mode Decision and Motion Estimation for Scalable Video Coding"	"Etri Journal"	0.597186147186	0.72619047619
+7D7C60FC	"H.264 search window size algorithm for fast and efficient video coding with single pixel precision and no background estimation for motion detection"	"Consumer Communications and Networking Conference"	0.728138528139	0.570658904587
+7F59FB48	"Predictive motion estimation for reduced-resolution video from high-resolution compressed video"	"International Conference on Image Processing"	0.412821067821	0.84
+5E4F3B5E	"Computation-Scalable Multi-Path Motion Estimation Algorithm"	"Journal of Information Science and Engineering"	0.428849206349	1.0
+7941CF29	"An efficient medical image tracking algorithm based on motion estimation"	"Information not present"	0.572835497835	0.765873015873
+5DCAEBCC	"On the combination of a polynomial motion estimation with a hierarchical segmentation based video coding scheme"	"International Conference on Image Processing"	0.562821067821	0.666720779221
+76508E8D	"Fast Motion Estimation Algorithm Based on H.264"	"The Internet of Things"	0.530119047619	1.0
+7E695639	"Efficient block matching algorithm for fast motion estimation in video compression"	"Information not present"	0.572835497835	0.682638888889
+60A4D83C	"A multi-stage multi-candidate algorithm for motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.428849206349	1.0
+7CDF6430	"Cogeneration of Fast Motion Estimation Processors and Algorithms for Advanced Video Coding"	"IEEE Transactions on Very Large Scale Integration Systems"	0.613452380952	0.85
+77907CB5	"Fast Motion Estimation Using Modified New Block Matching Algorithm: MTSSDS for Efficient Video Compression in Mobile Domain"	"Computational Intelligence"	0.608432539683	0.596296296296
+810D327B	"A New Search Algorithm Based on Muti-Octagon-Grid"	"Information not present"	0.389393939394	0.833333333333
+7684E621	"Robust multiscale algorithms for gradient‐based motion estimation"	"International Journal of Imaging Systems and Technology"	0.463452380952	1.0
+7E69D39B	"Motion Transitive Based Fast Multi-Frame Motion Estimation Algorithm For MPEG-4 AVC/H.264"	"Information not present"	0.530119047619	0.847222222222
+7E99BCD6	"A 2-D motion estimation algorithm"	"International Conference on Pattern Recognition"	0.428849206349	1.0
+5DC0CCE6	"A fast motion estimation algorithm and low-power 0.13-/spl mu/m CMOS motion estimation circuits"	"International Symposium on Circuits and Systems"	0.463452380952	0.846153846154
+7F2BC9FB	"High-resolution video mosaicing"	"International Conference on Image Processing"	0.224051226551	1.0
+7A1B7C86	"Motion-compensated temporal filtering with optimized motion estimation"	"Journal of Real-time Image Processing"	0.346154401154	1.0
+7F6330A0	"An Efficient Fast Mode Decision Algorithm Based on Motion Cost for H.264 Inter Prediction"	"Intelligent Information Technology Application"	0.572835497835	0.61239377906
+80EE5D01	"Kisitlanmiş 1-Bit Dönüşümü Temelli Hareket Kestirimi Algoritmasinin HVTDD Yaklaşimiyla Tasarimi MVBLA Based Design of Constrained 1-Bit Transform Based Motion Estimation Algorithm"	"Studia Informatica Universalis"	0.530119047619	0.866666666667
+8154D64D	"A fast rate-optimized motion estimation algorithm for low-bit-rate video coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.531904761905	0.85
+81003CD2	"HIGHLY-PARALLELIZED MOTION ESTIMATION FOR SCALABLE VIDEO CODING Marijn J.H. Loomans a,b a VDG Security BV"	"International Conference on Image Processing"	0.541958546504	0.740362811791
+7CD63E2D	"Motion estimation algorithm based on cross-correlation and pyramidal decomposition"	"Optik"	0.530119047619	0.813333333333
+5B44AC59	"Observability of 3D Motion"	"International Journal of Computer Vision"	0.224051226551	1.0
+7D365278	"Slice group based multiple description video coding using motion vector estimation"	"International Conference on Image Processing"	0.575396825397	0.589444444444
+0811DC13	"Hierarchical, computaionally efficient motion estimation algorithm"	"Information not present"	0.512229437229	1.0
+8163E76D	"Evolutionary Strategy Based Improved Motion Estimation Technique for H.264 Video Coding"	"Canadian Conference on Electrical and Computer Engineering"	0.567821067821	0.680113636364
+745D673B	"Motion Estimation In MPEG-2 Video Encoding Using A Parallel Block Matching Algorithm"	"Information not present"	0.610119047619	0.710416666667
+80D9E60E	"Hardware design for fast intermode decision and for residues generaton in a variable block size motion estimation compliant with the H.264/AVC video coding standard"	"Information not present"	0.600119047619	0.527272727273
+5A11CF12	"An advanced zonal block based algorithm for motion estimation"	"International Conference on Image Processing"	0.530119047619	0.82
+7516ACEB	"Fast block motion estimation algorithm based on motion classification and directional search patterns"	"Optical Engineering"	0.534285714286	0.64537037037
+5E7EC870	"A high accuracy predictive logarithmic motion estimation algorithm for video coding"	"International Symposium on Circuits and Systems"	0.531904761905	0.732142857143
+7D9ECAEC	"An enhanced two-pass motion estimation algorithm with reduced search for fast video compression"	"International Conference on Autonomic Computing"	0.534285714286	0.740740740741
+77C44374	"Adaptive motion estimation algorithm for MPEG-4 video coding"	"Information Sciences, Signal Processing and their Applications"	0.531904761905	0.85
+7E71156F	"A content adaptive fast PDE algorithm for motion estimation based on matching error prediction"	"Journal of Communications and Networks"	0.617619047619	0.692613636364
+7BF3DAF4	"A novel fast and low-complexity Motion Estimation for UHD HEVC"	"Picture Coding Symposium"	0.446785714286	1.0
+78DB1C7A	"Block matching algorithm for motion estimation based on Artificial Bee Colony (ABC)"	"Applied Soft Computing"	0.530119047619	0.512713675214
+78F60B81	"A fast fractional motion estimation algorithm and architecture for H.264/AVC multiview video coding"	"Information not present"	0.613452380952	0.847222222222
+7B8701E3	"A group of macroblock based motion estimation algorithm supporting adaptive search range for H.264 video coding"	"International Symposium on Circuits and Systems"	0.61	0.664197530864
+80FC5DA6	"Fast Predictive Search Algorithm for Video Motion Estimation"	"International Conference on Image Analysis and Processing"	0.467619047619	0.833333333333
+7A357FE9	"Motion estimation and signaling techniques for 2D+t scalable video coding"	"EURASIP Journal on Advances in Signal Processing"	0.541958546504	0.752380952381
+7A9DA3E2	"A Fast Block-Matching Motion Estimation Method Based on Difference Search Algorithm"	"Applied Mechanics and Materials"	0.534285714286	0.655328798186
+795D74E0	"Highly-parallelized motion estimation for Scalable Video Coding"	"International Conference on Image Processing"	0.541958546504	1.0
+7F03B40A	"Efficient three-step search algorithm for block motion estimation in video coding"	"International Conference on Acoustics, Speech, and Signal Processing"	0.576623376623	0.710416666667
+5BD4CAB1	"A novel block-based motion estimation algorithm and VLSI architecture based on cluster parallelism"	"International Conference on Embedded Software and Systems"	0.530119047619	0.617063492063
+7D4722BF	"A quadratic motion-based object-oriented video codec"	"Signal Processing-image Communication"	0.258654401154	1.0
+7E27668F	"A New Alternative Blind Super-Resolution Algorithm Based on Motion Estimation"	"Information not present"	0.572835497835	1.0
+80168958	"The Relative Lens-Source Proper Motion in MACHO 98-SMC-1"	"The Astrophysical Journal"	0.258654401154	1.0
+777561CF	"Motion estimation using two-stage predictive search algorithms based on joint spatio-temporal correlation information"	"Expert Systems With Applications"	0.534285714286	0.62619047619
+0386D775	"Course-to-fine Estimation of Visual Motion"	"Information not present"	0.346154401154	1.0
+7DCEA472	"An adaptive algorithm for fast inter mode decision in the H.264/AVC video coding standard"	"IEEE Transactions on Consumer Electronics"	0.545	0.718253968254
+7F56A608	"A motion-compensated spectrum-adaptive deinterlacing algorithm"	"International Symposium on Circuits and Systems"	0.204174991675	1.0
+799A7F70	"An efficient parallel algorithm for motion estimation in very low bit‐rate video coding systems"	"Concurrency and Computation: Practice and Experience"	0.648593073593	0.775252525253
+0484D97E	"Fast motion estimation algorithm for HEVC video encoder"	"Information not present"	0.530119047619	1.0
+7595BB48	"A High Efficient Architecture for Motion Estimation Based on AVC/AVS Coding Standard"	"Journal of Computer Research and Development"	0.619880624426	0.869047619048
+7595CBA3	"An efficient motion estimation algorithm for video coding using Kalman filter"	"Real-time Imaging"	0.648593073593	0.802083333333
+7D50E4CF	"A Novel Fast Block-Matching Motion Estimation Algorithm Based on Artificial Immune System"	"Information not present"	0.530119047619	0.700336700337
+790A6F3D	"Fast Motion Estimation Algorithm Based on Real Time Monitoring"	"Advanced Materials Research"	0.530119047619	0.714285714286
+5DB9DDF3	"A novel hierarchical search motion estimation algorithm"	"Information not present"	0.467619047619	0.833333333333
+80DC6005	"A Motion Estimation Algorithm for Educational Video Compression"	"Information not present"	0.530119047619	0.822222222222
+7EF27F27	"Motion Aligned Spatial Scalable Video Coding"	"International Conference on Multimedia and Expo"	0.462413091959	0.84
+7DF88497	"Fast Implementation of Block Motion Estimation Algorithms in Video Encoders"	"Information not present"	0.530119047619	0.707142857143
+8052F30C	"Polynomial motion-vector resampling algorithm"	"International Conference on Multimedia and Expo"	0.250248917749	1.0
+7429F8E3	"Educational video codec"	"Information not present"	0.258654401154	1.0
+5C3AF4FF	"An adaptive search algorithm based on block classification for fast block motion estimation"	"International Symposium on Circuits and Systems"	0.534285714286	0.597916666667
+7D8A88E3	"New fast motion estimation algorithm for video coding"	"Multimedia Signal Processing"	0.574458874459	0.875
+7F3881AF	"Robust algorithm for single and multiple 3-D motion estimation"	"Electronics Letters"	0.463452380952	1.0
+771CE751	"Fast block motion estimation algorithm based on combined subsamplings on pixels and search candidates"	"Information not present"	0.534285714286	0.57803030303
+64715007	"Non-iterative rate-constrained motion estimation for OBMC"	"International Conference on Image Processing"	0.311551226551	1.0
+812A7B36	"Least squares motion estimation algorithm in the compressed DCT domain for H.26x/MPEG-x video sequences"	"Advanced Video and Signal Based Surveillance"	0.530119047619	0.615079365079
+7E8089CF	"A new bit rate reduction technique in video coding based on motion compensation using adaptive block matching"	"Information not present"	0.531421356421	0.505753968254
+812D9C0E	"Predictive Search Range and Block Size in Block Matching Motion Estimation Algorithms in Video Coding"	"Information not present"	0.534285714286	0.47904040404
+812CCF2F	"LPF-based motion estimation"	"Information not present"	0.311551226551	1.0
+5FAA2FF1	"Multi-pass algorithm of motion estimation in video encoding for generic GPU"	"International Symposium on Circuits and Systems"	0.610119047619	1.0
+7D329156	"A generalized fast motion estimation algorithm using external and internal stop search techniques for H.264 video coding standard"	"International Symposium on Circuits and Systems"	0.706666666667	0.690952380952
+7538C17D	"Adaptive global motion temporal filtering"	"Picture Coding Symposium"	0.258654401154	1.0
+75F2FBA8	"Motion estimation algorithm based on temporal difference detection function model: Motion estimation algorithm based on temporal difference detection function model"	"Journal of Computer Applications"	0.530119047619	0.559577922078
+62CBB4C1	"A Novel Fast Three-Step Search Algorithm for Block-Matching Motion Estimation"	"Asian Conference on Computer Vision"	0.467619047619	0.833333333333
+7AFBFC28	"Fast disparity and motion estimation based on correlations for multiview video coding"	"IEEE Transactions on Consumer Electronics"	0.562821067821	0.750566893424
+79B7EDEA	"Mapping-singularities-based motion estimation"	"Information not present"	0.311551226551	1.0
+7F62C339	"An effective three-step search algorithm for motion estimation"	"Information not present"	0.467619047619	0.833333333333
+80B72EA9	"An Effective Motion Re-estimation in Frame-Skipping Video Transcoding"	"International Conference on Computing: Theory and Applications"	0.325321067821	1.0
+00314FF8	"Fast Multi-frame Motion Estimation Algorithm Based on H.264"	"Information not present"	0.530119047619	1.0
+7FD592EE	"Predictive line search: an efficient motion estimation algorithm for MPEG-4 encoding systems on multimedia processors"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.588744588745	0.581590909091
+7E376016	"A flexible hardware-oriented fast algorithm for motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.550952380952	1.0
+79342663	"A Fast Motion Estimation Algorithm Based on Motion Vector Distribution Prediction"	"Journal of Software"	0.530119047619	0.660669191919
+7F754423	"Multi-octagon-grid search algorithm for fast motion estimation"	"Information not present"	0.467619047619	0.833333333333
+7EC8AE91	"Asymmetric motion estimation/compensation"	"International Conference on Image Processing"	0.258654401154	1.0
+09AC4A3C	"Computationally efficient search algorithm for rate-constrained motion estimation"	"International Conference on Image Processing"	0.516017316017	0.866666666667
+7D812C8F	"Parallel programmable algorithm and architecture for real-time motion estimation of various video applications"	"IEEE Transactions on Consumer Electronics"	0.531904761905	0.722222222222
+5B2E6F86	"Context-adaptive fast motion estimation of HEVC"	"International Symposium on Circuits and Systems"	0.346154401154	1.0
+7A0F5B34	"An Efficient Motion Estimation Algorithm for H.264/AVC"	"Applied Mechanics and Materials"	0.512229437229	1.0
+7AEA0E20	"Multi-Path Search Algorithm for Block-Based Motion Estimation"	"International Conference on Image Processing"	0.433015873016	0.833333333333
+7EC7885D	"Optimum selection algorithm of motion estimation blocks for fast and robust digital image stabilization"	"Information not present"	0.550952380952	0.569246031746
+78F0BBA3	"Disparity estimation algorithm for stereo video coding based on edge detecetion"	"Information not present"	0.613452380952	0.742063492063
+813E9042	"Data Reuse Exploration for FPGA Based Platforms Applied to the Full Search Motion Estimation Algorithm"	"Field-Programmable Logic and Applications"	0.534285714286	0.554761904762
+58F7839B	"Search Window Estimation algorithm for fast and efficient H.264 video coding with variable size block configuration"	"Information not present"	0.667532467532	0.612296037296
+7D0B45CD	"Hardware efficient coarse-to-fine fast algorithm for H.264/AVC variable block size motion estimation"	"International Symposium on Circuits and Systems"	0.591774891775	0.663541666667
+80897F0E	"UMHexagonS search algorithm for fast motion estimation"	"Information not present"	0.463452380952	0.833333333333
+761152A0	"A fast stereoscopic video coding algorithm based on JMVM"	"Science in China Series F: Information Sciences"	0.525952380952	1.0
+77213099	"Zerotree-based stereoscopic video CODEC"	"Optical Engineering"	0.224051226551	1.0
+7DB53CBC	"A fast algorithm for video codec"	"Information not present"	0.375952380952	1.0
+584CBB80	"Linear Hashtable Motion Estimation Algorithm for Distributed Video Processing"	"European Conference on Parallel Processing"	0.530119047619	0.825
+757621B2	"Impact of Fast Motion Estimation Algorithms on Super-Resolved Video Sequences"	"Information not present"	0.530119047619	0.708994708995
+77D042A4	"Block-matching algorithm based on differential evolution for motion estimation"	"Engineering Applications of Artificial Intelligence"	0.530119047619	0.825
+7F5C0E7C	"An Efficient Picture-Rate Up-Converter"	"Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology"	0.425	1.0
+7D5B8FDA	"Robust reweighted MAP motion estimation"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.311551226551	1.0
+7B294286	"Wyner-Ziv video coding based on a new hierarchical block matching algorithm"	"Information not present"	0.569047619048	0.764285714286
+803B843D	"Efficient video mosaicing based on motion analysis"	"International Conference on Image Processing"	0.463852813853	0.84
+7D7FEC58	"An MPEG-4 video LSI with an error-resilient codec core based on a fast motion estimation algorithm"	"International Solid-State Circuits Conference"	0.596785714286	0.854166666667
+75F14431	"Witsenhausen–Wyner Video Coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.317821067821	1.0
+5C406981	"Complexity-Controllable Motion Estimation for Real-Time Video Encoder"	"International Conference on Image Analysis and Recognition"	0.412821067821	1.0
+7D0631E5	"A kind of global motion estimation algorithm based on feature matching"	"Information not present"	0.530119047619	0.69696969697
+795C9E08	"Similarity-independent and non-iterative algorithm for sub-pixel motion estimation"	"Information not present"	0.428849206349	1.0
+7E73A35A	"A new video object motion estimation strategy using a multipopulation modified coevolutionary genetic algorithm"	"Information not present"	0.572835497835	0.70928030303
+7D56555A	"A Motion Estimation algorithm based on Markov Chain Model"	"International Conference on Acoustics, Speech, and Signal Processing"	0.530119047619	0.613275613276
+77F38E2B	"A proficient video encoding system through a novel motion estimation algorithm"	"International Conference on Autonomic Computing"	0.610119047619	0.848484848485
+6F235B85	"A new motion estimation core dedicated to H.263 video coding"	"International Symposium on Circuits and Systems"	0.541958546504	0.767857142857
+80BA3D08	"A fast exhaustive search algorithm for rate-constrained motion estimation"	"IEEE Transactions on Image Processing"	0.467619047619	0.833333333333
+7A29564A	"Bidirectional Scalable Motion for Scalable Video Coding"	"IEEE Transactions on Image Processing"	0.462413091959	1.0
+80D11C8B	"Visual servoing based on object motion estimation"	"Intelligent RObots and Systems"	0.412821067821	1.0
+7BEB090A	"Noise-Analysis Based Threshold-Choosing Algorithm in Motion Estimation"	"Ieice Transactions"	0.530119047619	1.0
+7EDEA170	"Adaptive search window size algorithm for fast motion estimation in H.264/AVC standard"	"Information not present"	0.553333333333	0.647893772894
+7F3349B6	"Fast motion estimation mode decision algorithm for H.264/AVC video coding standard"	"Information not present"	0.699166666667	0.78869047619
+773F75C3	"Spatio-temporal correlation based fast motion estimation algorithm for MPEG-2"	"Information not present"	0.530119047619	0.828571428571
+757EE600	"Region-based fractal video coding"	"Proceedings of SPIE"	0.317821067821	1.0
+7EF436B2	"An adaptive block motion estimation algorithm based on spatio-temporal correlation"	"Information not present"	0.530119047619	0.707142857143
+61B320ED	"Coder-oriented matching criteria for motion estimation"	"Information not present"	0.397265512266	1.0
+79BE251C	"Classified variable‐block‐size motion estimation algorithm for image sequence coding"	"International Journal of Imaging Systems and Technology"	0.546785714286	0.703703703704
+7F9CBB3B	"A New Algorithm for Labeling of Human Motion"	"Information not present"	0.432683982684	1.0
+79D076A5	"Low Complexity Mode Decision and Motion Estimation for H.264/AVC Based Depth Maps Encoding in Free Viewpoint Video"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.57123015873	0.523448773449
+76DC4DA6	"PERCEPTUALLY ADAPTIVE VIDEO WATERMARKING USING MOTION ESTIMATION"	"International Journal of Image and Graphics"	0.412821067821	0.833333333333
+8015703D	"A fast motion estimation algorithm using hierarchical matching criteria"	"Information not present"	0.431868686869	0.833333333333
+5A70FAA9	"A new adaptive motion estimation algorithm"	"Information not present"	0.512229437229	1.0
+7ED51841	"Multi-scale based motion estimation for high quality video coding"	"Information not present"	0.568257575758	0.861111111111
+7E7C5912	"An effective video anti-error algorithm for H.264"	"Signal Processing Systems"	0.375952380952	1.0
+7EA28E70	"Fast mode decision for the H.264/AVC video coding standard based on frequency domain motion estimation"	"Optical Engineering"	0.660277777778	0.711419753086
+801AB18C	"Dynamic control of motion estimation search parameters for low complex H.264/AVC video coding"	"IEEE Transactions on Consumer Electronics"	0.537619047619	0.64880952381
+7F38CB59	"A Quality Based Motion Estimation Criterion for Temporal Coding of Video"	"Information not present"	0.592619047619	0.77380952381
+7DC38EE9	"Motion detection based motion estimation algorithm for video surveillance application"	"Information not present"	0.598571428571	0.724074074074
+76CE10B0	"Computationally-scal�ble motion estimation algorithm for H.264/AVC video coding"	"Information not present"	0.589285714286	1.0
+7E673958	"A low power architecture for a new efficient block-matching motion estimation algorithm"	"Information not present"	0.552876984127	0.746598639456
+7C98B72F	"Adaptive block matching motion estimation algorithm for video coding"	"Electronics Letters"	0.531904761905	0.657142857143
+7AFA9152	"Improved Fast Motion Estimation Algorithm Based on the H.264"	"Information not present"	0.535119047619	0.85
+78EE298F	"A green computation H.264/AVC encoder with reconfigurable motion estimation"	"Information not present"	0.406904761905	0.833333333333
+5DCC69F7	"A 3D Predict Hexagon Search Algorithm for Fast Block Motion Estimation on H. 264 Video Coding"	"International Conference on Multimedia and Expo"	0.534285714286	0.597916666667
+792EFCDF	"Fast and robust algorithm for global motion estimation"	"Information not present"	0.463452380952	1.0
+5E2BFC27	"Efficient multi-frame motion estimation algorithms for MPEG-4 AVC/JVT/H.264"	"International Symposium on Circuits and Systems"	0.512229437229	1.0
+7FABED11	"Global Motion Estimation Algorithm Based on Pyramid Iteration"	"Information not present"	0.530119047619	0.825
+7F5761B1	"A Fast Biologically Inspired Algorithm for Recurrent Motion Estimation"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.463452380952	1.0
+812AD0F0	"Temporally scalable video coding using nonlinear deinterlacing"	"Designs, Codes and Cryptography"	0.401807031352	0.833333333333
+59FC7C2A	"Prediction and search techniques for RD-optimized motion estimation in a very low bit rate video coding framework"	"International Conference on Acoustics, Speech, and Signal Processing"	0.54	0.492467532468
+78C794A6	"Motion estimation on interlaced video"	"Proceedings of SPIE"	0.412821067821	1.0
+8047DF5B	"Adaptive matching scan algorithm based on gradient magnitude for fast full search in motion estimation"	"IEEE Transactions on Consumer Electronics"	0.534285714286	0.746031746032
+5E84A80C	"A multi-stage multi-candidate algorithm for motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.428849206349	1.0
+75A5455F	"Two-dimensional motion estimation algorithm based on correlation speed measurement for satellite remote sensing images"	"Information not present"	0.534285714286	0.534700176367
+7C46E9DA	"Two Novel Algorithms for High Quality Motion Estimation in High Definition Video Sequences"	"Information not present"	0.5325	0.631519274376
+7E18343D	"An Efficient Region Based Intra Prediction Algorithm for H.264/Advanced Video Coding"	"Information not present"	0.569047619048	0.743145743146
+79F9C19F	"Subsampling Based Computation-Aware Motion Estimation"	"Information not present"	0.412821067821	1.0
+79604F7A	"An adaptive fast search algorithm for block motion estimation in H.264"	"Journal of Zhejiang University Science C"	0.550952380952	0.738888888889
+7EA7E2E8	"Spatiotemporal super-resolution for low bitrate H.264 video"	"International Conference on Image Processing"	0.258654401154	1.0
+7D19AE47	"Cellular search algorithm for motion estimation"	"Information not present"	0.467619047619	0.833333333333
+7E6EC3F8	"A New Two-Path Search Algorithm for Block Motion Estimation of Video Data"	"Journal of Information Science and Engineering"	0.576623376623	0.697023809524
+75FCA4DB	"MVBLA based design of Constrained 1-bit Transform based motion estimation algorithm"	"Information not present"	0.530119047619	0.866666666667
+7F8ED546	"Hardware-oriented direction-based fast fractional motion estimation algorithm in H.264/AVC"	"International Conference on Multimedia and Expo"	0.463452380952	1.0
+7B36AF38	"Cross-Diamond Search Algorithm for Motion Estimation Based on Projection"	"Advanced Materials Research"	0.534285714286	0.736111111111
+6DF819B1	"An efficient heuristic-based motion estimation algorithm"	"International Conference on Image Processing"	0.512229437229	1.0
+7D7D4C16	"High Speed Search Algorithms for Block-Based Motion Estimation Video Compression"	"Information not present"	0.534285714286	0.652777777778
+08E05674	"A computation constrained block-based motion estimation algorithm for low bit rate video coding"	"IEEE Transactions on Image Processing"	0.634285714286	0.657848324515
+7BF158C4	"Fast Motion and Disparity Estimation With Adaptive Search Range Adjustment in Stereoscopic Video Coding"	"IEEE Transactions on Broadcasting"	0.537619047619	0.583333333333
+7E804A77	"A new multiwavelets-based motion estimation"	"International Conference on Machine Learning and Cybernetics"	0.40559491014	1.0
+7D1BC914	"Adaptive Video Motion Estimation Algorithm via Estimation of Motion Length Distribution and Bayesian Classification"	"International Symposium on Signal Processing and Information Technology"	0.537619047619	0.729012345679
+5C6D68C5	"A Fast Motion Estimation Algorithm Based on Optimized Sampling"	"Information not present"	0.530119047619	0.833333333333
+7D21148F	"Fast adaptive motion estimation for H.264"	"International Conference on Model Transformation"	0.346154401154	1.0
+75B12CA5	"Hybrid motion estimation algorithm for secondary SP-frame coding based on inter-frame correlation"	"Electronics Letters"	0.613452380952	0.857142857143
+7E5650A0	"Nonlinear Transform for Robust Dense Block-Based Motion Estimation"	"IEEE Transactions on Image Processing"	0.346154401154	1.0
+7BC10C3A	"Block-matching algorithm based on harmony search optimization for motion estimation"	"Applied Intelligence"	0.534285714286	0.652777777778
+76FF4F15	"Fast integer-pel and fractional-pel motion estimation for H.264/AVC"	"Journal of Visual Communication and Image Representation"	0.346154401154	1.0
+7DCE01E1	"Rate-constrained motion estimation algorithm for video coding"	"International Conference on Image Processing"	0.497301587302	0.85
+799C76B2	"Fast motion-estimation algorithm based on progressive partial norm matching"	"Electronics Letters"	0.366590909091	0.833333333333
+8029BD78	"Efficient video motion estimation using dual-cross search algorithms"	"International Symposium on Circuits and Systems"	0.576623376623	0.809523809524
+7AC02C6C	"Video Coding Algorithm for Block Motion Estimation"	"Information not present"	0.589285714286	0.85
+7F350E96	"A high performance hardware architecture for an SAD reuse based hierarchical motion estimation algorithm for H.264 video coding"	"Field-Programmable Logic and Applications"	0.680119047619	0.701058201058
+0918B139	"Configurable Complexity-Bounded Motion Estimation for Real-Time Video Encoding"	"Advanced Concepts for Intelligent Vision Systems"	0.492821067821	1.0
+793AF54E	"Hardware oriented content-adaptive fast algorithm for variable block-size integer motion estimation in H.264"	"Information not present"	0.553333333333	0.635714285714
+7DBC15A2	"Low Complexity Video Encoding with One-Bit Transform based Network-Driven Motion Estimation"	"IEEE Transactions on Consumer Electronics"	0.559487734488	0.857142857143
+777E9EBE	"Efficient parallel algorithm for hierarchical block-matching motion estimation"	"Information not present"	0.512229437229	1.0
+7E98357C	"An Improved Adaptive Cross Pattern Search (IACPS) Algorithm for Block Motion Estimation in Video Compression"	"Computational Intelligence"	0.534285714286	0.528928170595
+80BA06A2	"A novel multiple description video coding based on H.264/AVC video coding standard"	"International Symposium on Circuits and Systems"	0.494368686869	0.880952380952
+7DE6E442	"Low-complexity algorithm for fractional-pixel motion estimation"	"International Conference on Image Processing"	0.428849206349	1.0
+774BAFF5	"Memory efficient FPGA implementation of motion and disparity estimation for the multiview video coding"	"Information not present"	0.548196248196	0.670634920635
+7E04F411	"Hierarchical motion estimation with spatial transforms"	"International Conference on Image Processing"	0.346154401154	1.0
+790D0A35	"Efficient Mode Decision Algorithm Based on Spatial, Temporal, and Inter-layer Rate-Distortion Correlation Coefficients for Scalable Video Coding"	"Etri Journal"	0.60496031746	0.659523809524
+5EE9B000	"A novel adaptive multi-mode search algorithm for fast block-matching motion estimation"	"International Symposium on Circuits and Systems"	0.467619047619	0.833333333333
+78698A2D	"Predictive Coding Based on Efficient Motion Estimation"	"IEEE Transactions on Communications"	0.491125541126	0.85
+7F2D2B5C	"A spatial-temporal de-interlacing algorithm"	"International Conference on Multimedia and Expo"	0.204174991675	1.0
+853DB55E	"Fast motion estimation algorithm based on adaptive search range decision"	"Information not present"	0.534285714286	0.65873015873
+7D66B455	"A proficient wavelet–based video encoder through the motion estimation algorithm"	"International Journal of Signal and Imaging Systems Engineering"	0.495515873016	1.0
+810CF7F7	"A New Spatio-Temporal Fast Motion Estimation Algorithm"	"Information not present"	0.512229437229	1.0
+7ADAB797	"An adaptive early termination algorithm for motion estimation in multi-view video coding"	"Information not present"	0.534285714286	0.736111111111
+5961CDDB	"A Novel Adaptive Search Range Algorithm for Motion Estimation Based on H.264"	"Information not present"	0.534285714286	0.740740740741
+80CE7510	"A statistical adaptive block-matching motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.346154401154	1.0
+7E7F5A05	"Computationally Efficient MCTF for Scalable Video Coding"	"Information not present"	0.451656445406	1.0
+7D6FD4D7	"A new prediction search algorithm for block motion estimation in video coding"	"IEEE Transactions on Consumer Electronics"	0.576623376623	0.641582491582
+7E5DBBDD	"Dynamic search-range control algorithm for fast interframe coding in scalable video coding"	"Optical Engineering"	0.508441558442	0.854166666667
+75BCD53A	"Video Encoding without Integer-Pel Motion Estimation"	"Designs, Codes and Cryptography"	0.475321067821	1.0
+7D0F00F6	"A Fully Scalable Motion Model for Scalable Video Coding"	"IEEE Transactions on Image Processing"	0.462413091959	0.848484848485
+6D5C0AD1	"Motion sensitive pre-processing for video"	"International Conference on Image Processing"	0.325321067821	1.0
+7571E074	"Global-local motion estimation in multilayer video coding"	"Information not present"	0.471987734488	1.0
+5DD9DCFF	"New Motion Estimation Algorithm Based on Spatial Transform and Variable Grid Size"	"Ieice Transactions"	0.572835497835	0.748015873016
+030B4F00	"Fast Adaptive Motion Estimation Algorithm Based on Spatiotemporal Correlation"	"Information not present"	0.530119047619	0.828571428571
+5AC4E227	"A fast motion estimation algorithm based on diamond and simplified square search patterns"	"Iberoamerican Congress on Pattern Recognition"	0.539285714286	0.597470238095
+80FDC5BB	"Fast Motion Estimation with Multilevel Successive Elimination Algorithm and Early Termination for H.264/AVC Video Coding"	"Information not present"	0.615833333333	0.753968253968
+79D28B7F	"Fast mode decision algorithm for scalable video coding based on luminance coded block pattern"	"Optical Engineering"	0.569047619048	0.651666666667
+7DD67932	"A Fast GPU-Based Motion Estimation Algorithm for HD 3D Video Coding"	"Information not present"	0.531904761905	0.85
+7FD20094	"A scalable hierarchical motion estimation algorithm for MPEG-2"	"International Symposium on Circuits and Systems"	0.512229437229	1.0
+6E8D4190	"Efficient fine granular scalable video coding"	"International Conference on Image Processing"	0.451656445406	1.0
+7175D983	"A motion estimation processor for MPEG2 video real time encoding at wide search range"	"Custom Integrated Circuits Conference"	0.534285714286	0.585912698413
+7DE898C8	"Fast encoding algorithms for video coding with adaptive interpolation filters"	"Multimedia Signal Processing"	0.539285714286	0.713888888889
+789FD244	"Recursive Dynamically Variable Step Search Motion Estimation Algorithm for High Definition Video"	"International Conference on Pattern Recognition"	0.534285714286	0.655328798186
+7C309723	"An efficient and scalable low bit-rate video coding with virtual SPIHT"	"Signal Processing-image Communication"	0.401807031352	1.0
+7D9DA909	"An Efficient Binary Motion Estimation Algorithm and its Architecture for MPEG-4 Shape Encoding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.584956709957	0.744047619048
+7C152633	"Power efficient motion estimation algorithm and architecture based on pixel truncation"	"IEEE Transactions on Consumer Electronics"	0.572835497835	0.6018999519
+7AABAE80	"H.264 MOTION ESTIMATION ALGORITHM BASED ON VIDEO SEQUENCES ACTIVITY"	"Journal of Electronics (china)"	0.554285714286	0.768518518519
+77AF4B68	"Efficient Single-Pass Rate Control for Video Coding Based on Motion Estimation Statistics"	"Ieice Transactions"	0.60256460711	0.704975579976
+7FA7A1C2	"Motion estimation in real deformation processes based on block-matching techniques"	"International Symposium on Signal Processing and Information Technology"	0.534285714286	0.704166666667
+78C57822	"Performance comparison of motion estimation algorithms on digital video images"	"Information not present"	0.530119047619	0.631519274376
+794BB9F0	"Content-Aware Fast Motion Estimation Algorithm"	"Journal of Visual Communication and Image Representation"	0.463452380952	1.0
+5C1E5EDD	"Parametric object motion estimation"	"International Conference on Conceptual Structures"	0.346154401154	1.0
+7606DBFC	"A new global motion estimation algorithm"	"Information not present"	0.512229437229	1.0
+7DB2DADF	"Motion vector estimation using edge oriented block matching algorithm for video sequences"	"International Conference on Image Processing"	0.530119047619	0.469191919192
+75C8DB1C	"Rate-constrained motion estimation"	"Visual Communications and Image Processing"	0.311551226551	1.0
+7D740E5C	"3D motion estimation of human by genetic algorithm"	"International Conference on Pattern Recognition"	0.463452380952	1.0
+7AEDED8E	"An improved algorithm of fast motion estimation based on H.264"	"Information not present"	0.530119047619	1.0
+811190EA	"Bandwidth-rate-distortion optimized motion estimation"	"International Conference on Multimedia and Expo"	0.311551226551	1.0
+7EDF2FAC	"An adaptive true motion estimation algorithm for frame rate conversion of high definition video and its hardware implementations"	"IEEE Transactions on Consumer Electronics"	0.530119047619	0.471382783883
+79B844E6	"An efficient motion vector coding algorithm based on adaptive predictor selection"	"International Symposium on Circuits and Systems"	0.569047619048	0.67178030303
+7FFB8620	"Fast iterative motion and disparity estimation algorithm for multiview video coding"	"Information not present"	0.613452380952	0.851851851852
+7E20838C	"Fast predictive variable-block-size motion estimation for H.264/AVC"	"International Conference on Multimedia and Expo"	0.346154401154	1.0
+7A43F3FB	"An efficient and fast global motion estimation algorithm based on motion vector field"	"Information not present"	0.572835497835	0.770833333333
+7F948A5B	"A fast three step search motion estimation algorithm for video conferencing"	"Information not present"	0.534285714286	0.740740740741
+7D2BEEA9	"Kalman filtering based rate-constrained motion estimation for very low bit rate video coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.565202020202	0.684523809524
+5FA45A59	"A new motion estimation algorithm based on balanced multiwavelets vector transform"	"Information not present"	0.572835497835	1.0
+7B6A3DA2	"Fast encoding algorithm avoiding repetition of motion estimation in scalable video coding"	"Electronics Letters"	0.620923520924	0.809523809524
+76C0A60D	"A novel fast search motion estimation algorithm in video coding"	"Information not present"	0.534285714286	0.763888888889
+7E4C2F72	"Edge-oriented interpolation for fractional motion estimation in hybrid video coding"	"International Conference on Multimedia and Expo"	0.496154401154	0.84
+7CAF50DE	"New algorithm for motion estimation on interlaced video"	"Information not present"	0.572835497835	1.0
+77F77B59	"Hybrid block-matching algorithm for motion estimation"	"Information not present"	0.463452380952	1.0
+73B2FCBB	"A New Fast Full Search Motion Estimation Algorithm for H.264/AVC"	"International Conference on Wireless Networks"	0.516017316017	0.866666666667
+7E100F6F	"Probabilistic partial-distance fast matching algorithms for motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.550952380952	1.0
+7D5E43F4	"A Fast Algorithm Based on Tabled SAE Reuse"	"Computational Intelligence and Security"	0.316915584416	1.0
+8138433B	"3D motion estimation algorithm in 3D video coding"	"Information not present"	0.497301587302	0.85
+75C680CF	"Two-layer motion estimation algorithm for video coding"	"Electronics Letters"	0.497301587302	0.85
+76F2FEBD	"Motion estimation and CABAC VLSI co-processors for real-time high-quality H.264/AVC video coding"	"Microprocessors and Microsystems"	0.496154401154	1.0
+8009AFA1	"Robust and computationally efficient superresolution algorithm"	"Journal of The Optical Society of America A-optics Image Science and Vision"	0.318408107044	1.0
+79CC2FB3	"Robust optical-flow based self-motion estimation for a quadrotor UAV"	"Intelligent RObots and Systems"	0.29380952381	1.0
+7F19B44E	"A New Object Motion Estimation Technique For Video Images, Based On A Genetic Algorithm"	"IEEE Transactions on Consumer Electronics"	0.633441558442	0.776388888889
+10D2D929	"A 95mW MPEG2 MP@HL Motion Estimation Processor Core for Portable High-Resolution Video Application(VLSI Architecture, VLSI Design and CAD Algorithms)"	"Ieice Transactions"	0.531904761905	0.421464646465
+7E4B9F9D	"Prediction-Based Flexible Triangle Search Algorithm for Block Based Motion Estimation"	"Canadian Conference on Electrical and Computer Engineering"	0.534285714286	0.647619047619
+7ADE4BFE	"A new adaptive fast motion estimation algorithm based on local motion similarity degree （LMSD）"	"Progress in Natural Science"	0.652380952381	0.890625
+6D7E5419	"Distance dependent thresholding search for fast motion estimation in real world video coding application"	"Asia Pacific Conference on Circuits and Systems"	0.537619047619	0.599305555556
+7B46EB64	"A Improved Search Algorithm of H.264 Motion Estimation"	"Journal of Physics: Conference Series"	0.467619047619	0.833333333333
+7A3F1A2D	"Mesh-based decoder-side motion estimation"	"International Conference on Image Processing"	0.311551226551	1.0
+815E3190	"Layered motion estimation and coding for fully scalable 3D wavelet video coding"	"International Conference on Image Processing"	0.544736324282	0.786458333333
+7D2BBA8C	"Clustering Based Search Algorithm for Motion Estimation"	"International Conference on Multimedia and Expo"	0.534285714286	0.75
+7FC79954	"A novel fast motion estimation method based on genetic algorithm"	"International Conference on Image Processing"	0.530119047619	0.822222222222
+77E98C52	"An improved motion estimation diamond search algorithm based on H264"	"International Conference on Cyber-Physical Systems"	0.534285714286	0.734126984127
+80CAFBD3	"High-quality non-blind motion deblurring"	"International Conference on Image Processing"	0.224051226551	1.0
+7621F826	"Efficient block-matching motion estimation algorithm"	"Journal of Electronic Imaging"	0.512229437229	1.0
+7F0967EC	"Computationally-scalàble motion estimation algorithm for H.264/AVC video coding"	"IEEE Transactions on Consumer Electronics"	0.589285714286	1.0
+81336174	"Multiple Search Centers Based Fast Motion Estimation Algorithm for H.264/AVC"	"Parallel and Distributed Computing: Applications and Technologies"	0.534285714286	0.737373737374
+750F8329	"A new adaptive search strategy for fast block based motion estimation algorithms"	"Journal of Visual Communication and Image Representation"	0.652380952381	0.724915824916
+7E586221	"A Fully Adaptive Distance-Dependent Thresholding Search (FADTS) Algorithm for Performance-Management Motion Estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.467619047619	0.833333333333
+5B3608D6	"Global Translational Motion Estimation (GTME)"	"Information not present"	0.346154401154	1.0
+7C7B717F	"Bayesian Estimation of Turbulent Motion"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.346154401154	1.0
+75C30298	"Multi-frame estimation of planar motion"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.311551226551	1.0
+7A23BC2B	"Pel-recursive motion estimation algorithm"	"Electronics Letters"	0.428849206349	1.0
+7AC01F09	"Low bit-rate video coding with spatio-temporal geometric transforms"	"Iee Proceedings-vision Image and Signal Processing"	0.341987734488	1.0
+7E624140	"A 3D Spatio-Temporal Motion Estimation Algorithm for Video Coding"	"International Conference on Multimedia and Expo"	0.497301587302	0.85
+7EF425F4	"An adaptive motion estimation algorithm based on evolution strategies with correlated mutations"	"International Conference on Image Processing"	0.530119047619	0.61525974026
+7F9570F9	"New fast and efficient two-step search algorithm for block motion estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.625793650794	0.804166666667
+5E33C913	"A Novel Fast Motion Estimation Algorithm Based on SSIM for H.264 Video Coding"	"Pacific Rim Conference on Multimedia"	0.680119047619	1.0
+7F2DC480	"Fast global motion estimation algorithm based on elementary motion detectors"	"International Conference on Image Processing"	0.530119047619	0.847222222222
+7E12EF61	"An efficient fast block-matching motion estimation algorithm"	"Information not present"	0.512229437229	1.0
+7CFAB92A	"An adaptive motion estimation algorithm based on evolution strategies"	"International Conference on Acoustics, Speech, and Signal Processing"	0.530119047619	0.702651515152
+7D9A1D66	"Distributed video coding complexity balancing method by phase motion estimation algorithm"	"Information not present"	0.599166666667	0.57873015873
+7B6FED71	"A Fast Motion Estimation Algorithm Based on Optimized Sampling"	"Information not present"	0.530119047619	0.833333333333
+7CE0EDF3	"Expert system based parallel multi-1D block matching algorithm with implementation for motion estimation"	"Expert Systems With Applications"	0.530119047619	0.52165303832
+609197DA	"Hierarchical, computationally efficient motion estimation algorithm (A)"	"Information not present"	0.512229437229	1.0
+7551A696	"Optimization of the motion estimation for parallel embedded systems in the context of new video standards"	"Information not present"	0.549931129477	0.563813131313
+5C9B1EFF	"A framework for fine-granular computational-complexity scalable motion estimation [real-time video coding applications]"	"International Symposium on Circuits and Systems"	0.566883116883	0.762987012987
+48CA00B0	"Correlation Based Search Algorithms for Motion Estimation"	"Information not present"	0.534285714286	0.746031746032
+7CE91992	"Half-pixel accuracy block matching motion estimation algorithms for low bitrate video communications"	"Information not present"	0.530119047619	0.574107142857
+5A3C114D	"A novel vario-power architecture of motion estimation using a content based subsample algorithm"	"Signal Processing Systems"	0.530119047619	0.651360544218
+77BFD708	"Spatially adaptive regularized pel-recursive motion estimation based on the EM algorithm"	"Proceedings of SPIE"	0.530119047619	0.732142857143
+7A2AC264	"Optical-flow based on an edge-avoidance procedure"	"Computer Vision and Image Understanding"	0.328333333333	1.0
+7E96C375	"A novel fast motion estimation algorithm based on block-matching"	"Information not present"	0.530119047619	1.0
+5C2ADC26	"Fast variable block-size motion estimation algorithm based on merge and slit procedures for H.264/MPEG-4 AVC"	"International Symposium on Circuits and Systems"	0.600952380952	0.848484848485
+7BAD3FDE	"Fully scalable video codec"	"Information not present"	0.326049455595	1.0
+7F600104	"An evolutionary strategy based motion estimation algorithm for H.264 video codecs"	"Canadian Conference on Electrical and Computer Engineering"	0.596785714286	0.848484848485
+7D6B6338	"Enhanced prediction for motion estimation in Scalable Video Coding"	"International Conference on Image Processing"	0.541958546504	0.747680890538
+75F8DC61	"A new motion estimation algorithm for video coding using adaptive Kalman filter"	"Real-time Imaging"	0.648593073593	0.802083333333
+6864475F	"A continuous tracking algorithm for long-term memory motion estimation [video coding]"	"International Symposium on Circuits and Systems"	0.613452380952	0.748015873016
+7FC6C3EC	"An adaptive block-matching algorithm for motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.463452380952	1.0
+7ABC5BC8	"Multiresolution Video Coding Based on Kalman Filtering Motion Estimation"	"Journal of Visual Communication and Image Representation"	0.562821067821	0.861111111111
+80CC8211	"Progressive Model Refinement Global Motion Estimation Algorithm for Video Coding"	"Information not present"	0.531904761905	0.637987012987
+7FDC031B	"Adaptive Search Area Selection of Variable Block-Size Motion Estimation of H.264/AVC Video Coding Standard"	"Information Systems Management"	0.623333333333	0.704166666667
+7E77C3DC	"New motion estimation using low-resolution quantization for MPEG2 video encoding"	"Information not present"	0.538928243474	0.777777777778
+78C82459	"Rate-optimised motion estimation"	"Electronics Letters"	0.311551226551	1.0
+785FA62B	"Fast macroblock encoding algorithm based on rate-distortion activity for multiview video coding"	"Signal Processing-image Communication"	0.630119047619	0.916666666667
+7CE046E9	"Motion codevector based search for fast motion estimation"	"International Conference on Communications"	0.454285714286	0.866666666667
+79EEBDFE	"Efficient stereoscopic video coding using joint disparity-motion estimation"	"Circuits Systems and Signal Processing"	0.481352485898	0.866666666667
+5F0913EA	"Flexible triangle search algorithm for block based motion estimation"	"Information not present"	0.534285714286	0.647619047619
+807E49C2	"Adaptive hierarchical grid motion estimation algorithms for video coding application at low bit-rate communication"	"Information Sciences, Signal Processing and their Applications"	0.615238095238	0.701388888889
+6E8976C1	"Dynamic frame-skipping in video transcoding"	"Multimedia Signal Processing"	0.258654401154	1.0
+08A7289E	"Video Pre-processing Algorithm Based on Motion-compensation"	"Information not present"	0.442619047619	1.0
+7A59515E	"Hardware-aware motion estimation search algorithm development for high-efficiency video coding (HEVC) standard"	"International Conference on Image Processing"	0.585396825397	0.713541666667
+5F72D6F8	"Uniform motion-compensated 5/3 filterbank for subband video coding"	"International Conference on Image Processing"	0.341987734488	1.0
+7D84C7C9	"Planar motion estimation algorithm for region based coding"	"Information not present"	0.531904761905	0.726851851852
+5B4FF06D	"A Fast Macroblock Mode Decision Algorithm for the Baseline Profile in the H.264 Video Coding Standard"	"Pacific-Rim Symposium on Image and Video Technology"	0.545	0.63244047619
+034EAE4B	"A Sum Square Error based Successive Elimination Algorithm for Block Motion Estimation"	"Information not present"	0.530119047619	0.513271604938
+80A3F01C	"A New Spatio-Temporal Predictor for Motion Estimation in H.264 Video Coding"	"Workshop on Image Analysis for Multimedia Interactive Services"	0.541958546504	0.848484848485
+7B2B31D8	"A novel block-matching motion estimation algorithm based on multilayer concept"	"International Conference on Multimedia and Expo"	0.530119047619	0.822222222222
+7C757C19	"A Linear Prediction Based Fractional-Pixel Motion Estimation Algorithm"	"Multimedia and Ubiquitous Engineering"	0.530119047619	0.818181818182
+807EFB3E	"Adaptive multi-pattern search algorithm for motion estimation"	"Information not present"	0.467619047619	0.833333333333
+7D542375	"Adaptive dual-cross search algorithm for block-matching motion estimation"	"IEEE Transactions on Consumer Electronics"	0.467619047619	0.833333333333
+7AFEC953	"Parallel Linear Hashtable Motion Estimation Algorithm"	"Information not present"	0.463452380952	1.0
+812715DB	"A fast motion estimation algorithm based on diamond and triangle search patterns"	"Iberian Conference on Pattern Recognition and Image Analysis"	0.534285714286	0.578720238095
+7599EB5B	"Refinement process for binary-block motion estimation based on an equivalent-distortion surface model"	"Optical Engineering"	0.534285714286	0.616558441558
+5E273193	"A Hardware Implementation of a Content-Based Motion Estimation Algorithm for Real-Time MPEG-4 Video Coding"	"Ieice Transactions"	0.531904761905	0.732142857143
+220B71A3	"Efficient Motion Estimation Using a Modified Early Termination Algorithm in H.264(Image Processing and Video Processing)"	"Ieice Transactions"	0.575	0.555555555556
+79D21CD1	"Motion estimation algorithms based on complex halfband filters for OMAP platform"	"Proceedings of SPIE"	0.530119047619	0.694444444444
+7647735A	"An efficient parallel motion estimation algorithm and X264 parallelization in CUDA"	"Information not present"	0.512229437229	1.0
+7629669A	"A New Fast Motion Estimation Algorithm Based on H.264"	"International Conference on Multimedia Information Networking and Security"	0.572835497835	1.0
+7F090B3A	"A Fast Algorithm and Its VLSI Architecture for Fractional Motion Estimation for H.264/MPEG-4 AVC Video Coding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.613452380952	0.847222222222
+7B853A53	"Implementation of Constrained 1-Bit Transform Based Motion Estimation Algorithm with An FPGA Based Architecture"	"Information not present"	0.530119047619	0.746598639456
+7FB4976E	"A novel motion estimation algorithm for arbitrarily shaped video coding"	"International Conference on Multimedia and Expo"	0.613452380952	0.866666666667
+7F583321	"Adaptive node dimension (AND) calculation algorithm for mesh based motion estimation"	"Information not present"	0.548571428571	0.611607142857
+7F0F6083	"Probability Based Search Motion Estimation Algorithm"	"Computational Intelligence"	0.545	0.763888888889
+76D6738D	"Fast motion estimation algorithm for an MPEG video coder"	"Information not present"	0.530119047619	0.707142857143
+75EA0405	"Fast multi-frame motion estimation algorithm for H.264: Fast multi-frame motion estimation algorithm for H.264"	"Journal of Computer Applications"	0.463452380952	1.0
+76C9C408	"Noise variance adaptive successive elimination algorithm for block motion estimation: application for video surveillance"	"Iet Signal Processing"	0.531904761905	0.488174603175
+7FCB0E55	"DCT-based subpixel motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.311551226551	1.0
+75F5DF83	"An Advanced-Terminal Algorithm for H.264 Motion Estimation Based on All-Zero Block"	"International Conference on Model Transformation"	0.530119047619	0.82
+8044A91A	"Shape-Adaptive Motion Estimation Algorithm for MPEG-4 Video Coding"	"Clinical Orthopaedics and Related Research"	0.497301587302	0.85
+7A14B919	"Employing a novel cross-diamond search in a modified hierarchical search motion estimation algorithm for video compression"	"Information Sciences"	0.534285714286	0.638888888889
+5D34A991	"An efficient transcoding from MPEG-2 to MPEG-1"	"International Conference on Image Processing"	0.425	1.0
+7EBEB354	"Discrete-cosine/sine-transform based motion estimation"	"International Conference on Image Processing"	0.412821067821	1.0
+7CF76AD3	"Motion estimation and temporal up-conversion on the TM3270 media-processor"	"Information not present"	0.346154401154	1.0
+7A1EC6F9	"Direct egomotion estimation"	"International Conference on Pattern Recognition"	0.227142857143	1.0
+63E01530	"A Hough transform based hierarchical algorithm for motion segmentation and estimation"	"Information not present"	0.530119047619	0.82
+7AD66884	"Content-Aware Fast Motion Estimation for H.264/AVC"	"Ieice Transactions"	0.346154401154	1.0
+7BBCEC3B	"The Design of Improved Motion Estimation Algorithm for H.264 Based on GA"	"International Conference on E-Business and E-Government"	0.530119047619	0.715151515152
+800090BE	"A novel fast two step sub-pixel motion estimation algorithm in HEVC"	"International Conference on Acoustics, Speech, and Signal Processing"	0.550952380952	0.822222222222
+7AFB6B74	"Motion based decompositing of video"	"International Conference on Computer Vision"	0.391987734488	1.0
+80DA3E2D	"Inter-temporal vector prediction for motion estimation in scalable video coding"	"Information not present"	0.541958546504	0.739177489177
+5DD0C57F	"An efficient hierarchical disparity estimation algorithm for stereoscopic video coding"	"Asia Pacific Conference on Circuits and Systems"	0.587987012987	0.851851851852
+7F107693	"Three-dimensional motion estimation in elastography"	"Information not present"	0.346154401154	1.0
+800179C1	"Backward Adaptive Pixel-based Fast Predictive Motion Estimation"	"IEEE Signal Processing Letters"	0.446785714286	1.0
+791F1A81	"Video segmentation based on watershed algorithm and optical flow motion estimation"	"Information not present"	0.596785714286	0.746428571429
+80DCF1A4	"A real-time motion estimation and compensation LSI with wide search range for MPEG2 video encoding"	"IEEE Journal of Solid-state Circuits"	0.534285714286	0.646825396825
+79838D46	"Research on H.264 motion estimation algorithm optimization in real-time video"	"Information not present"	0.530119047619	0.720833333333
+80623EB9	"A new image motion estimation algorithm based on the EM technique"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.572835497835	0.669246031746
+7BF528B0	"Improved motion estimation algorithm based on ME-Skip"	"Information not present"	0.535119047619	0.85
+026F2B43	"Probability Based Adaptive Search Motion Estimation Algorithm"	"Information not present"	0.545	0.763888888889
+7F4E039C	"Fast rate-constrained N-step search algorithm for motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.467619047619	0.833333333333
+80C53E7F	"Adaptive parallel video-coding algorithm"	"Visual Communications and Image Processing"	0.250248917749	1.0
+7AB68F90	"Earthquake detection by new motion estimation algorithm in video processing"	"Optical Engineering"	0.572835497835	0.664488636364
+091B4576	"An algorithm of motion estimation based on unit quaternion decomposition of the rotation matrix"	"Journal of Electronics (china)"	0.535833333333	0.517724867725
+7F01F923	"Efficient search algorithms for block-matching motion estimation"	"International Conference on Multimedia and Expo"	0.516017316017	0.866666666667
+81FC84EC	"Fully scalable video codec"	"Visual Communications and Image Processing"	0.326049455595	1.0
+7692FF2B	"Wavelet-based multiresolution motion estimation through median filtering"	"International Conference on Acoustics, Speech, and Signal Processing"	0.346154401154	1.0
+5E52EA19	"A fast motion estimation algorithm for H.264"	"Information not present"	0.463452380952	1.0
+78C7D7EC	"Fast motion estimation algorithm for MPEG-2 video encoding"	"Proceedings of SPIE"	0.610119047619	1.0
+5EE83721	"Low complexity recursive search based motion estimation algorithm for video coding applications"	"Information not present"	0.600952380952	0.664021164021
+7BEC7522	"Full Direction Search (FDS) Based Fast Motion Estimation Algorithm for Video Encoding in Coalmining Underground"	"Information not present"	0.600952380952	0.635016835017
+78695871	"Markov model fuzzy-reasoning based algorithm for fast block motion estimation"	"Journal of Visual Communication and Image Representation"	0.530119047619	0.698484848485
+7B7E98E6	"A Fast and Low-complexity Motion Estimation for HEVC"	"Information not present"	0.346154401154	1.0
+7716D5D5	"An Efficient Mode Preselection Algorithm for Fractional Motion Estimation in H.264/AVC Scalable Video Extension"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.608432539683	0.785714285714
+79239231	"A new fast motion vector estimation algorithm for video compression"	"Information not present"	0.572835497835	0.742063492063
+85E306D5	"Motion estimation algorithms based on complex halfband filters for OMAP platform"	"Information not present"	0.530119047619	0.694444444444
+5F51BB80	"A fast GPU-based motion estimation algorithm for H.264/AVC"	"Conference on Multimedia Modeling"	0.463452380952	1.0
+803609CE	"A non-iterative motion vector based global motion estimation algorithm"	"International Conference on Multimedia and Expo"	0.530119047619	0.847222222222
+7F0D13AB	"Real-Time De-Interlacing for H.264-Coded HD Videos"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.258654401154	1.0
+78A49877	"No-Reference PSNR Estimation for HEVC Encoded Video"	"IEEE Transactions on Broadcasting"	0.408654401154	1.0
+81723710	"Fast Video Encoding Algorithm Based on Motion Estimation for H.264/AVC"	"Intelligent Information Hiding and Multimedia Signal Processing"	0.676785714286	1.0
+80EF6E84	"Efficient Scalable Distributed Video Coding Based on Residual SW-SPIHT"	"Intelligent Systems Design and Applications"	0.507212000962	0.866666666667
+7EE25013	"An efficient motion estimation algorithm based on tracing techniques on large search windows"	"International Conference on Image Processing"	0.576623376623	0.642592592593
+6F5FE379	"A fast full search algorithm for variable block-based motion estimation of h.264"	"International Symposium on Visual Computing"	0.467619047619	0.833333333333
+75F27D51	"A fast partial distortion search algorithm for motion estimation based on the multi-traps assumption"	"Signal Processing-image Communication"	0.534285714286	0.654761904762
+7C6AFD8C	"Multiplication-Free One-Bit Transform for Low-Complexity Block-Based Motion Estimation"	"IEEE Signal Processing Letters"	0.311551226551	1.0
+7F9E2425	"Smooth motion-compensated video deinterlacing"	"Information not present"	0.258654401154	1.0
+807599BB	"Simplified Block Matching Algorithm for Fast Motion Estimation in Video Compression"	"Journal of Computer Science"	0.535119047619	0.588888888889
+78556F9C	"Four-dimensional non-rigid cardiac motion estimation"	"Information not present"	0.346154401154	1.0
+327037AC	"A Study on the New Motion Estimation Algorithm of Binary Operation for Real Time Video Communication"	"Information not present"	0.574458874459	0.631613756614
+7F42D7D9	"Motion estimation for digital video"	"Information not present"	0.412821067821	1.0
+5F2A32AF	"A fast two-step search algorithm for half-pixel motion estimation"	"International Journal of Surgery"	0.467619047619	0.833333333333
+04176924	"Fast Motion Estimation Algorithm Based on Multi-template"	"Information not present"	0.530119047619	1.0
+7618E0D5	"Two fast multi-point search algorithms for high quality motion estimation in high resolution videos"	"Information not present"	0.536666666667	0.678571428571
+7F0F99F0	"An adaptive low-complexity global motion estimation algorithm"	"Picture Coding Symposium"	0.463452380952	1.0
+6088AC34	"Low-complexity rate-control algorithm for hybrid video coding"	"Information not present"	0.459285714286	1.0
+7DC699F8	"Parallel Linear Hashtable Motion Estimation Algorithm for Parallel Video Processing"	"Parallel Computing in Electrical Engineering"	0.530119047619	0.825
+810C0CE4	"A hardware-based predictive motion estimation algorithm"	"International Symposium on Circuits and Systems"	0.463452380952	1.0
+5BE8B5A1	"A Genetic Algorithm for Motion Estimation"	"Information not present"	0.463452380952	1.0
+7F585DFC	"Semi-hierarchical based motion estimation algorithm for the dirac video encoder"	"Information not present"	0.596785714286	0.847222222222
+7F56376A	"Adaptive B-splines and boundary estimation"	"Computer Vision and Pattern Recognition"	0.227142857143	1.0
+79D87B90	"A new fast motion estimation and mode decision algorithm for H.264 depth maps encoding in free viewpoint TV"	"International Conference on Image Processing"	0.584956709957	0.516955266955
+77C29DD4	"Fast block-matching motion estimation based on an improved cross-diamond search algorithm"	"Information not present"	0.534285714286	0.866666666667
+7E657234	"A new error criterion for block based motion estimation"	"International Conference on Image Processing"	0.560714285714	0.757142857143
+7EC5EC75	"Research on Motion Vector Accuracy in Overcomplete Wavelet-Domain Scalable Video Coding Based on Human Visual System Characteristics"	"International Conference for Young Computer Scientists"	0.53961038961	0.560800865801
+5ABD732E	"A Fast Block-Matching Motion Estimation Algorithm For H.264/AVC"	"Information not present"	0.463452380952	1.0
+7D902DF0	"Fast multiframe motion estimation algorithms by motion vector composition for the MPEG-4/AVC/H.264 standard"	"IEEE Transactions on Multimedia"	0.549166666667	0.744047619048
+7BFEC257	"Successive elimination motion estimation algorithm based on multi-resolution"	"Information not present"	0.530119047619	0.822222222222
+8000D036	"Predictive mode reduction and selective pixel matching based motion estimation algorithm for H.264"	"Information not present"	0.530119047619	0.579464285714
+807F8128	"Efficient partial distortion search algorithm for block based motion estimation"	"Canadian Conference on Electrical and Computer Engineering"	0.576623376623	0.694791666667
+7E6CF9F1	"Ladar scan preprocessing for robust motion estimation"	"Information Sciences, Signal Processing and their Applications"	0.346154401154	1.0
+6AB77B98	"An efficient motion estimation algorithm for real-time MPEG-4 video encoding on multimedia processors"	"Information not present"	0.645562770563	0.783333333333
+7B86DCE6	"Adaptive genetic algorithm for block-matching motion estimation"	"Information not present"	0.463452380952	1.0
+8162364D	"Computationally efficient exhaustive search algorithm for rate-constrained motion estimation"	"International Conference on Image Processing"	0.516017316017	0.866666666667
+771E7B03	"True motion estimation based on reliable motion decision"	"Information not present"	0.424563492063	0.833333333333
+7820EF77	"Algorithm and Architecture Design of Bandwidth-Oriented Motion Estimation for Real-Time Mobile Video Applications"	"IEEE Transactions on Very Large Scale Integration Systems"	0.531904761905	0.647619047619
+816C0ED7	"Classification-Based Adaptive Search Algorithm for Video Motion Estimation"	"Information not present"	0.467619047619	0.833333333333
+5F5CBC11	"Optimization on motion estimation and DSP algorithm based on AVS encoding"	"Advances in Multimedia"	0.610119047619	0.75
+7DCB0D54	"Predictive 3D search algorithm for multi-frame motion estimation"	"IEEE Transactions on Consumer Electronics"	0.467619047619	0.833333333333
+7D201923	"A locally adaptive subsampling algorithm for software based motion estimation"	"International Symposium on Circuits and Systems"	0.530119047619	0.825
+7EA26C48	"Robust motion estimation in video coding at low bit-rate"	"Information not present"	0.496154401154	1.0
+065E70F2	"Classication Based Motion Estimation for Video Coding"	"Journal of Visual Communication and Image Representation"	0.506904761905	0.85
+68CA0751	"An efficient and regular motion estimation algorithm for MPEG4-AVC/H.264 coding"	"Information not present"	0.513852813853	0.85
+7E766A3B	"Motion-based motion deblurring"	"IEEE Transactions on Pattern Analysis and Machine Intelligence"	0.224051226551	1.0
+79D9D241	"Computation-aware motion estimation algorithm based on QoE control"	"Information not present"	0.530119047619	0.825
+16AFA626	"Full Search Based Fast Block Matching Algorithm with Efficient Matching Order in Motion Estimation"	"Ieice Transactions"	0.576623376623	0.61
+785F285C	"Cost and Coding Efficient Motion Estimation Design Considerations for High Efficiency Video Coding (HEVC) Standard"	"IEEE Journal of Selected Topics in Signal Processing"	0.644805194805	0.616919191919
+810A0425	"Blind motion-compensated video watermarking"	"International Conference on Multimedia and Expo"	0.224051226551	1.0
+814D868A	"Rate-distortion-constrained subband video coding"	"IEEE Transactions on Image Processing"	0.317821067821	1.0
+7DF6DA6C	"Classified variable block size motion estimation algorithm for image sequence coding"	"International Conference on Image Processing"	0.546785714286	0.512654320988
+797ACDCC	"Multi-image gradient-based algorithms for motion estimation"	"Optical Engineering"	0.428849206349	1.0
+7D7DCB0C	"Robust 3D-3D pose estimation"	"International Conference on Computer Vision"	0.227142857143	1.0
+75404F7F	"Efficient Fast motion estimation algorithm for H.264 based on polynomial model"	"Information not present"	0.572835497835	0.848484848485
+7EADF209	"A model-based pel-recursive motion estimation algorithm"	"International Conference on Acoustics, Speech, and Signal Processing"	0.428849206349	1.0
+7C28BF61	"Block based Motion Estimation using hybrid hexagon kite cross diamond search algorithm"	"International Conference on Communications"	0.534285714286	0.468545848091
+59885016	"A vector based fast block motion estimation algorithm for implementation on SIMD architectures"	"International Symposium on Circuits and Systems"	0.530119047619	0.615646258503
+7C3F7C41	"A Novel Fast Block Motion Estimation Algorithm Based on Combined Subsamplings on Pixels and Search Candidates"	"Journal of Visual Communication and Image Representation"	0.617619047619	0.624915824916
+7AB54D9C	"High performance fractional motion estimation in h.264/avc based on one-step algorithm and 8×4 element block processing"	"Signal Processing-image Communication"	0.530119047619	0.557345779221
+804B91FF	"Fast motion estimation within the H.264 codec"	"International Conference on Multimedia and Expo"	0.346154401154	1.0
+77A992D7	"Content-Adaptive Motion Estimation Algorithm for Coarse-Grain SVC"	"IEEE Transactions on Image Processing"	0.428849206349	1.0
+76239895	"Fast motion estimation algorithm for H.264/MPEG-4 AVC by using multiple reference frame skipping criteria"	"Visual Communications and Image Processing"	0.549166666667	0.600389194139
+7D4A6214	"Video steganalysis using motion estimation"	"International Symposium on Neural Networks"	0.412821067821	0.833333333333
+7ECBBA2B	"Fast full-search motion estimation based on multilevel successive elimination algorithm"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.530119047619	0.822222222222
+7E1CF2DA	"A new motion parameter estimation algorithm based on the continuous wavelet transform"	"IEEE Transactions on Image Processing"	0.572835497835	0.744047619048
+2FD79961	"Efficient EDDR Architecture for Motion Estimation in Advanced Video Coding Systems."	"Information not present"	0.541958546504	0.739177489177
+80CE30E6	"Complexity-Constrained H.264 Video Encoding"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.321154401154	1.0
+7D36553E	"Power-aware content-adaptive H.264 video encoding"	"International Conference on Acoustics, Speech, and Signal Processing"	0.321154401154	1.0
+7E6ABD69	"A novel homography-based search algorithm for block motion estimation in video coding"	"International Conference on Multimedia and Expo"	0.534285714286	0.669047619048
+80B6CD9A	"A Novel Prediction-Based Directional Asymmetric Search Algorithm for Fast Block-Matching Motion Estimation"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.467619047619	0.833333333333
+7E555321	"Scalable video coding for failure-free video transmission"	"Information not present"	0.412481962482	0.833333333333
+7BE7473E	"Novel video coding algorithm based on 3D-binDCT"	"Optoelectronics Letters"	0.525952380952	1.0
+76BAF008	"Information hiding algorithm for H.264 based on the motion estimation of quarter-pixel"	"Information not present"	0.534285714286	0.755555555556
+5B04B18A	"An Efficient Mode Decision Algorithm for Combined Scalable Video Coding"	"Advanced Concepts for Intelligent Vision Systems"	0.549404761905	0.69494047619
+76E15B98	"Fast regulate motion estimation algorithm based on 9-PB search for H.264/AVC"	"Signal Processing Systems"	0.534285714286	0.866666666667
+7E85BFD2	"Efficient Motion Estimation Using a Sorting-Based Early Termination Algorithm in H.264 Video Coding"	"Information Systems Management"	0.650757575758	0.8125
+813CD6FB	"Efficiency-Complexity Curve Based Method for Evaluating Adaptive Search Range Algorithms in Motion Estimation"	"Information not present"	0.534285714286	0.542283950617
+683D946A	"Adaptive algorithms for variable-complexity video coding"	"International Conference on Image Processing"	0.459285714286	1.0
+68C5A1D2	"Motion estimation algorithm in video coding"	"Information not present"	0.497301587302	0.85
+80C7652F	"Review of block matching based motion estimation algorithms for video compression"	"Canadian Conference on Electrical and Computer Engineering"	0.596785714286	0.616891133558
+0BE47B0F	"A Novel Computationally Scalable Algoritm for Motion Estimation"	"Visual Communications and Image Processing"	0.40559491014	1.0
+77DE534E	"Standard-based software-only video conferencing codec on Ultra SPARC"	"Information not present"	0.258654401154	1.0
+7FB1AEFD	"Multi-mode content-aware motion estimation algorithm for power-aware video coding systems"	"Signal Processing Systems"	0.589285714286	0.848484848485
+79D9FCFE	"A novel fast motion estimation algorithm for video coding"	"Information not present"	0.531904761905	0.85
+799DB452	"Motion estimation based on eigenvalue algorithm matching local image features"	"Systems and Computers in Japan"	0.530119047619	0.636002886003
+7817FA1D	"Fast and efficient motion estimation using diamond zonal-based algorithms"	"Circuits Systems and Signal Processing"	0.512229437229	0.866666666667
+7687CF0B	"Hardware-software co-implementation of a H.263 video codec"	"IEEE Transactions on Consumer Electronics"	0.224051226551	1.0
+7E0C420B	"Multi-octagon-grid search algorithm for fast motion estimation"	"International Conference on Multimedia and Expo"	0.467619047619	0.833333333333
+5DCCD225	"A Fast Adaptive ME Algorithm Based on H.264"	"Information not present"	0.455555555556	1.0
+78E61A2B	"Cost-effective multiresolution motion estimation algorithm for rate distortion optimized high definition video encoder"	"IEEE Transactions on Very Large Scale Integration Systems"	0.530119047619	0.572172619048
+80DAC925	"Video coding based on true motion estimation"	"International Conference on Acoustics, Speech, and Signal Processing"	0.562821067821	1.0
+7CC011D6	"Wavelet-based highly efficient scalable video coding"	"Proceedings of SPIE"	0.451656445406	1.0
+7D157EBA	"Multi-resolution motion estimation at low bit-rates"	"Information not present"	0.346154401154	1.0
+3AABEBEE	"An Efficient Diamond Based X-Pattern Motion Estimation for Video Coding"	"Information not present"	0.551731601732	0.760204081633
+05C08212	"Multi-Frame Super-Resolution with No Explicit Motion Estimation"	"Information not present"	0.346154401154	1.0
+7E4A8BFF	"Statistical based motion estimation for video coding"	"International Conference on Image Processing"	0.506904761905	0.85
+7F1F3803	"Multi-resolution backward video coding"	"International Conference on Image Processing"	0.317821067821	1.0
+75983D47	"A New Efficient Block-Matching Algorithm for Motion Estimation"	"Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology"	0.552876984127	1.0
+7719D762	"Robust multiple-initial-point prediction algorithm for fast motion estimation in the MPEG-2 standard"	"Optical Engineering"	0.549166666667	0.818181818182
+23944840	"Fast Variable-size Block Matching Algorithm for Motion Estimation Based on Bit-patterns"	"Information not present"	0.530119047619	0.725
+7F6F7913	"Robust and accurate estimation of multiple motions for whole-image super-resolution"	"International Conference on Image Processing"	0.346154401154	1.0
+816FC96B	"A fast and low-cost fractional motion estimation for H.264/AVC HD1080p coding"	"Asia Pacific Conference on Circuits and Systems"	0.429487734488	1.0
+7DDFC6DB	"An Efficient Block-Matching Motion Estimation Algorithm for H.264 Video Coding Standard"	"Information not present"	0.726515151515	1.0
+7D5DA9AD	"An efficient mode pre-selection algorithm for H.264/AVC scalable video extension fractional motion estimation"	"Information not present"	0.608432539683	0.785714285714
+801F314A	"Multi-1D Block Matching Algorithm based motion estimation processor using mixed-signal approach"	"International Conference on Control, Automation, Robotics and Vision"	0.530119047619	0.55
+7562D878	"Research of motion estimation algorithm based on H.264"	"Information not present"	0.530119047619	0.84
+7EFF9D87	"An Improved Motion Estimation for Spatially Scalable Video Coding"	"Information not present"	0.541958546504	1.0
+813E1072	"A new motion estimation algorithm"	"Information not present"	0.512229437229	1.0
+7E6C9A49	"A complexity-bounded motion estimation algorithm"	"IEEE Transactions on Image Processing"	0.428849206349	1.0
+7E8F35FE	"A novel cellular search algorithm for block-matching motion estimation"	"Information not present"	0.467619047619	0.833333333333
+808EC72C	"A new motion estimation algorithms based on Zero Detection and vector filter in video format conversion chip"	"Information not present"	0.572835497835	0.549166666667
+7DB51B16	"Adaptive motion-vector resampling for compressed video downscaling"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.258654401154	1.0
+8226AB60	"SNR scalable video coding with an improvised approach of motion estimation"	"Information not present"	0.552633477633	0.861111111111
+7E208E69	"New fast search algorithm for base layer of H.264 scalable video coding extension"	"Designs, Codes and Cryptography"	0.552876984127	0.628835978836
+8104F226	"Deinterlacing with motion adaptive vertical temporal filtering"	"IEEE Transactions on Consumer Electronics"	0.258654401154	1.0
+7D3550E2	"True Motion-Compensated De-Interlacing Algorithm"	"IEEE Transactions on Circuits and Systems for Video Technology"	0.250248917749	1.0
+7FE8E802	"A motion estimation algorithm based on Predictive Intensive Direction Search for H.264/AVC"	"International Conference on Multimedia and Expo"	0.534285714286	0.737373737374
+7BA5C9B0	"An Improved Unsupervised Learning of Motion Estimation Based on Diamond Searching for Distributed Video Coding"	"Computational Aspects of Social Networks"	0.567821067821	0.679067460317
+76E8BC03	"A Fast Motion Estimation Algorithm Based on the Adaptive Reference Frame and the Spatial and Temporal Correlations for H.264"	"Information not present"	0.530119047619	0.623233908948
+77693425	"A distributed video coding algorithm based on bilateral motion estimate"	"International Conference on Model Transformation"	0.592619047619	0.847222222222
+5ADA900A	"A Fast Motion Estimation Algorithm Based on Context-Adaptive Parallelogram Search Pattern"	"Information not present"	0.534285714286	0.649891774892
+7A102590	"OpenCL based high-quality HEVC motion estimation on GPU"	"International Conference on Image Processing"	0.412821067821	1.0
+764AA86C	"Iterative random search: a new local minima resistant algorithm for motion estimation in high-definition videos"	"Multimedia Tools and Applications"	0.578787878788	0.785714285714
+80D04ECB	"Fast and efficient fractional pixel motion estimation for H.264/AVC video coding"	"International Conference on Image Processing"	0.541958546504	0.85
+7EA6573E	"Bidirectional scalable motion for scalable video coding"	"International Conference on Image Processing"	0.462413091959	1.0
+80FF7DA0	"Joint global motion estimation and coding for scalable H.264/SVC high-definition video streams"	"Content-Based Multimedia Indexing"	0.541958546504	0.851851851852
+800F1C1C	"A motion estimation algorithm based on interframe differences detection model for virtual edges detection"	"Information not present"	0.530119047619	0.5018999519
+7B242CF5	"A fast PDE algorithm using adaptive matching criterion for motion estimation"	"Information not present"	0.549166666667	0.866666666667
