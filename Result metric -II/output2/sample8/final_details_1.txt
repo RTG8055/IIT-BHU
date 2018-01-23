@@ -1,0 +1,34 @@
+7913EB96	The Recursive Time Synchronization Protocol for Wireless Sensor Networks	Static Analysis Symposium
+76684966	Is the International Atomic Time TAI a coordinate time or a proper time?	Celestial Mechanics and Dynamical Astronomy
+7D58E42C	Probabilistic clock synchronization	Distributed Computing
+80060923	Continuous clock synchronization in wireless real-time applications	Symposium on Reliable Distributed Systems
+76E0C500	A new fault-tolerant algorithm for clock synchronization	Information & Computation
+79808B05	Dynamic fault-tolerant clock synchronization	Journal of the ACM
+80081FB9	A Linear Time Synchronization Algorithm for Underwater Wireless Sensor Networks	International Conference on Communications
+5AF684CD	Gravity-Based Local Clock Synchronization in Wireless Sensor Networks	Information not present
+76367B21	Power-Efficient Clock Synchronization using Two-Way Timing Message Exchanges in Wireless Sensor Networks	Information not present
+80C888C7	Robust Time-Based Localization for Asynchronous Networks	IEEE Transactions on Signal Processing
+7CF95A36	A New Approach for Time Synchronization in Wireless Sensor Networks: Pairwise Broadcast Synchronization	IEEE Transactions on Wireless Communications
+7D4C763F	Ordering in time: A new routing approach for wireless networks	Information not present
+5B0E344F	Time Synchronization in Wireless Sensor Networks	Information not present
+77104C17	Wait and Watch Technique: Removing Time synchronization overhead in Wireless Sensor Network	Information not present
+7849ABA5	Clock synchronization for wireless sensor networks: a survey	Ad Hoc Networks
+7D466127	Novel Clock Phase Offset and Skew Estimation Using Two-Way Timing Message Exchanges for Wireless Sensor Networks	IEEE Transactions on Communications
+178CABEE	IMPROVED CLOCK ESTIMATION FOR PAIRWISE BROADCAST SYNCHRONIZATION IN WIRELESS SENSOR NETWORKS WITH GAUSSIAN DELAY MODEL	Information not present
+8022410E	Real time multicast in wireless networks	Local Computer Networks
+5F021DDB	Optically-Switched Multiwavelength Networks	Information not present
+77B2E72B	A cluster based on demand time synchronization in wireless sensor networks	Information not present
+061A259D	TREE STRUCTURED TIME SYNCHRONIZATION PROTOCOL IN WIRELESS SENSOR NETWORK	Information not present
+76DB1BAE	Based on MLE of Pairwise Broadcast Clock Synchronization for Wireless Sensor Network	Information not present
+7A92DF05	Joint Ranging and Synchronization for an Anchorless Network of Mobile Nodes	IEEE Transactions on Signal Processing
+815E7D30	Quantitative and Qualitative Comparison Study of Reference Based Time Synchronization Approach in Wireless Sensor Network	Information not present
+5A68FCE2	Robust multi-hop time synchronization in sensor networks	International Conference on Wireless Networks
+7F95D7EE	The Design and Implement of Time Synchronization Between Base Station and Sensor Node in Wireless Sensor Networks	Information not present
+7941F5FC	Snowball Effect Time Synchronization Based on Energy Optimization for Wireless Sensor Networks	Applied Mechanics and Materials
+7CE46771	Optimal clock synchronization	Journal of the ACM
+7F7D7BBD	Clock Synchronization in Wireless Sensor Networks: An Overview	Sensors
+815C5EB8	A posteriori agreement for fault-tolerant clock synchronization on broadcast networks	Information not present
+7BDEF745	A new fault-tolerant algorithm for clock synchronization	Principles of Distributed Computing
+8109989E	Model-based clock synchronization in networks with drifting clocks	Pacific Rim International Symposium on Dependable Computing
+63A0B5A5	Deterministic and Energy-Optimal Wireless Synchronization	Clinical Orthopaedics and Related Research
+79471849	Fault-tolerant clock synchronization	Principles of Distributed Computing
