@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-all_sheets = pd.ExcelFile("Final.xlsx")
+all_sheets = pd.ExcelFile("PDS and AI.xlsx")
 print all_sheets.sheet_names
 for sheet in all_sheets.sheet_names:
 	print sheet
@@ -27,6 +27,12 @@ for sheet in all_sheets.sheet_names:
 		name = "Information Retrieval"
 	elif(sheet == "WSN"):
 		name = "Wireless Networks"
+	elif(sheet == "PDS_Graph"):
+		name = "Parallel and distributed systems"
+		sheet = "PDS"
+	elif(sheet == "AI_Graph"):
+		name = "Artificial Intellignece"
+		sheet ="AI"
 	else:
 		name = "Software Engineering"
 	
