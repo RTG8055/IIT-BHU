@@ -1,0 +1,263 @@
+7B9C6F90	IEEE Transactions on Pattern Analysis and Machine Intelligence<---K-Means-Type Algorithms: A Generalized Convergence Theorem and Characterization of Local Optimality
+77FE1358	Journal of Parallel and Distributed Computing<---Parallel squared error clustering on hypercube arrays
+75A7F833	Information Processing Letters<---An 0(|E|loglog|V|) algorithm for finding minimum spanning trees ☆
+77932777	International Conference on Pattern Recognition<---"Ratio regions": a technique for image segmentation
+6A8C1112	The Vldb Journal<---Knowledge Discovery in Databases: An Attribute-Oriented Approach
+7F1B934B	Information not present<---A theory and methodology of inductive learning
+0BC9FF2C	Knowledge Discovery and Data Mining<---Learning Arbiter and Combiner Trees from Partitioned Data for Scaling Machine Learning
+7FC4A6DB	IEEE Transactions on Parallel and Distributed Systems<---Clustering on a hypercube multicomputer
+80516DE0	Journal of Educational and Behavioral Statistics<---A user's guide to principal components
+773CCE57	Sigmod Record<---Mining quantitative association rules in large relational tables
+7D82DB67	IEEE Transactions on Systems, Man, and Cybernetics<---Browsing in hypertext: a cognitive study
+79593770	Journal of Classification<---Efficient algorithms for agglomerative hierarchical clustering methods
+81691505	IEEE Transactions on Knowledge and Data Engineering<---FLEX: a tolerant and cooperative user interface to databases
+8019C75C	ACM Transactions on Database Systems<---The Grid File: An Adaptable, Symmetric Multikey File Structure
+5BCB307D	Information not present<---Security and Privacy Implications of Data Mining
+70DE00F4	International Conference on Data Engineering<---Knowledge mining by imprecise querying: a classification-based approach
+77D425DF	ACM Computing Surveys<---Approximate String Matching
+05148071	Knowledge Discovery and Data Mining<---MDL-Based Decision Tree Pruning
+5E1D00ED	The Vldb Journal<---Discovery of Multiple-Level Association Rules from Large Databases
+5F38DBBC	The Vldb Journal<---Sampling Large Databases for Association Rules
+7E4712BB	Information not present<---Cluster analysis for applications
+06C24CC4	Information not present<---CLUTO - A Clustering Toolkit
+5E9A19BB	The Vldb Journal<---Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases
+8164AC26	Neural Information Processing Systems<---Does the Wake-sleep Algorithm Produce Good Density Estimators?
+0F71FBBE	Information not present<---The National Physical Laboratory Experiments in Statistical Word Associations and Their Use in Document Indexing And Retrieval.
+0B6E7E46	Information not present<---Maximum likelihood from incom-plete data via the EM algorithm
+7ABE1CF1	Computational Statistics & Data Analysis<---A Classification EM algorithm for clustering and two stochastic versions
+7B30DBFD	International Conference on Management of Data<---The K-D-B-tree: a search structure for large multidimensional dynamic indexes
+7FA0D165	Data Mining and Knowledge Discovery<---BIRCH: A New Data Clustering Algorithm and Its Applications
+7CF083FF	Sigmod Record<---Spatial query processing in an object-oriented database system
+7D3C4C7A	IEEE Transactions on Knowledge and Data Engineering<---Systems for knowledge discovery in databases
+5DC2E46E	Information not present<---The World Wide Web unleashed
+60925BB1	International Conference on Machine Learning<---Hierarchically Classifying Documents Using Very Few Words
+7B428B5C	Proceedings of the IEEE<---State of the art in pattern recognition
+7EC817C8	Machine Learning<---An experimental comparison of model-based clustering methods
+6CB355D4	Knowledge Discovery and Data Mining<---Metaqueries for data mining
+03A096F6	Information not present<---Clustering Based On Association Rule Hypergraphs
+5EF2CD84	Information not present<---Digital Image Compression Techniques
+7C5CF100	International Journal of Computer Vision<---Constructing simple stable descriptions for image partitioning
+7EF338FC	Technometrics<---Finding groups in data : an introduction to cluster analysis
+5F506049	Knowledge Discovery and Data Mining<---Exploration of the power of attribute-oriented induction in data mining
+7D5152DE	Information not present<---Utility of automatic classification systems for information storage and retrieval
+0BBB0FFC	Connection Science<---A Neural Network Construction Algorithm which Maximizes the Likelihood Function
+7F8B8885	Neural Information Processing Systems<---Spectral Relaxation for K-means Clustering
+80196577	Adaptive Agents and Multi-Agents Systems<---WebACE: a Web agent for document categorization and exploration
+75CFBC15	Journal of Intelligent Information Systems<---Mining for Knowledge in Databases: The INLEN Architecture, Initial Implementation and First Results
+5AAF5492	Knowledge Discovery and Data Mining<---Fast and Intuitive Clustering of Web Documents
+77424020	The Vldb Journal<---The TV-tree: an index structure for high-dimensional data
+7F2A9E6A	Computer Graphics<---Visualizing n -dimensional virtual worlds with n -vision
+5DE7DD97	The Vldb Journal<---Efficient and Effective Clustering Methods for Spatial Data Mining
+7E4409D1	Conference on Information and Knowledge Management<---Concept Indexing: A Fast Dimensionality Reduction Algorithm With Applications to Document Retrieval and Categorization
+5AE12690	Knowledge Discovery and Data Mining<---Bayesian classification (AutoClass): theory and results
+68FB5224	The Vldb Journal<---Eager Aggregation and Lazy Aggregation
+7F6D29A3	Sigmod Record<---Scalable parallel data mining for association rules
+797CC601	Parallel Computing<---Parallel fuzzy clustering on fixed size hypercube SIMD computers
+781D5C6B	Sigmod Record<---Linear clustering of objects with multiple attributes
+75942FD9	Knowledge Discovery and Data Mining<---Agglomerative clustering of a search engine query log
+7CECDB78	Sigmod Record<---BIRCH: an efficient data clustering method for very large databases
+7C271CAE	International Conference on Data Engineering<---Clustering large datasets in arbitrary metric spaces
+7F529C6D	Computer Vision and Pattern Recognition<---Quantitative measures of change based on feature organization: eigenvalues and eigenvectors
+6ABFCDBE	Machine Learning<---Concept decompositions for large sparse text data using clustering
+7F775061	International Conference on Data Engineering<---Generalized partial indexes
+810A9B4D	Information not present<---Identifying high level features of texture perception
+7DAC83F1	Knowledge Discovery and Data Mining<---The Quest Data Mining System
+79A4AFE1	SIAM Journal on Scientific Computing<---Partitioning Rectangular and Structurally Unsymmetric Sparse Matrices for Parallel Processing
+741F28C3	International Conference on Data Engineering<---Set-oriented mining for association rules in relational databases
+74455F68	International Conference on Computer Vision<---Motion segmentation and tracking using normalized cuts
+7F2BCAD8	Knowledge Discovery and Data Mining<---Co-clustering documents and words using bipartite spectral graph partitioning
+6897C4D5	Knowledge Discovery and Data Mining<---Accelerated Quantification of Bayesian Networks with Incomplete Data
+096F9A8D	Workshop on Graph-Theoretic Concepts in Computer Science<---The Grid File: A Data Structure to Support Proximity Queries on Spatial Objects
+80A57901	Information not present<---Grand challenge problems in visualization software
+770435EE	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Scatter/Gather: a cluster-based approach to browsing large document collections
+6666AB57	Information not present<---Machine learning: an artificial intelligence approach volume III
+7DE53557	International Conference on Data Engineering<---High-dimensional similarity joins
+76E21B07	Communications of The ACM<---Some approaches to best-match file searching
+0010CA4F	Information not present<---A Local Search Approach to K-Clustering
+7D2E26D7	Ai Magazine<---Knowledge discovery in databases: an overview
+76B930CF	Applied Optics<---Self-organization and associative memory
+7D36765F	IEEE Transactions on Image Processing<---Fast full search equivalent encoding algorithms for image compression using vector quantization
+5D6B95EC	Machine Learning<---Efficient Approximations for the MarginalLikelihood of Bayesian Networks with Hidden Variables
+75991EF3	IEEE Transactions on Computers<---Graph-Theoretical Methods for Detecting and Describing Gestalt Clusters
+7DD0A2CB	International Conference on Data Engineering<---HierarchyScan: a hierarchical similarity search algorithm for databases of long sequences
+7E0884AF	Communications on Pure and Applied Mathematics<---Optimal approximations by piecewise smooth functions and associated variational problems
+8021EC0E	Machine Learning<---Induction of Decision Trees
+7E0A9CE0	International Conference on Data Engineering<---Maintenance of discovered association rules in large databases: an incremental updating technique
+7A5B89F3	Conference on Information and Knowledge Management<---Bipartite graph partitioning and data clustering
+7EAC7DD0	Sigmod Record<---Partition based spatial-merge join
+7D92F012	Information not present<---Megainduction: machine learning on very large databases
+7E7A5930	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Normalized cuts and image segmentation
+0936262F	Information not present<---A k-means clustering algorithm
+5976D495	Advances in Computers<---Clustering Methodologies in Exploratory Data Analysis
+76F8899A	Conference on Information and Knowledge Management<---Research problems in data warehousing
+7E018D4F	SIAM Journal on Matrix Analysis and Applications<---Partitioning sparse matrices with eigenvectors of graphs
+5959ADE7	Information not present<---Efficient Similarity Search In Sequence Databases
+812313D9	Sigmod Record<---Mining association rules between sets of items in large databases
+6269AEFD	Information not present<---A Comparison of Document Clustering Techniques
+5DFE89CF	Extending Database Technology<---SLIQ: A Fast Scalable Classifier for Data Mining
+0526C626	Information not present<---Color Theory and Models for Computer Graphics and Visualization
+7B8C0304	Siam Review<---Using linear algebra for intelligent information retrieval
+7C6B42CE	Journal of the ACM<---The Association Factor in Information Retrieval
+783EFDAA	Conference on Information and Knowledge Management<---Efficient parallel data mining for association rules
+76968132	Machine Learning<---Extracting Refined Rules from Knowledge-Based Neural Networks
+061C96AC	IEEE Data(base) Engineering Bulletin<---A Bibliography on Temporal Databases
+7BF93F16	Information not present<---Backtracking in a multiple-window hypertext environment
+7597CB00	Computer Vision and Image Understanding<---Quantitative measures of change based on feature organization: eigenvalues and eigenvectors
+59D3C79B	Artificial Intelligence Review<---Document Categorization and Query Generation on the World Wide WebUsing WebACE
+7E1B9B01	Journal of The Optical Society of America A-optics Image Science and Vision<---Preattentive texture discrimination with early vision mechanisms
+77AF9295	The Computer Journal<---A General Theory of Classificatory Sorting Strategies: 1. Hierarchical Systems
+7AA16C8C	Information Processing Letters<---A guided tour of Chernoff bounds
+75604089	Information Processing Letters<---Expected-Time Complexity Results for Hierarchic Clustering Algorithms Which Use Cluster Centres
+08D02ABD	Knowledge Discovery and Data Mining<---Scaling Clustering Algorithms to Large Databases
+76D16B8E	Psychometrika<---Multidimensional scaling: I. Theory and method
+7D777FEC	Sigmod Record<---IDEA: interactive data exploration and analysis
+7CC79BD5	IEEE Transactions on Knowledge and Data Engineering<---Parallel mining of association rules
+7FE3DBCB	International Conference on Tools with Artificial Intelligence<---Web Mining: Pattern Discovery from World Wide Web Transactions
+7E4C7FDB	Journal of Mammalogy<---Principles of numerical taxonomy.
+7FDAAA8F	Information Processing and Management<---Recent trends in hierarchic document clustering: a critical review
+7C207B67	Biometrics<---Model-Based Gaussian and Non-Gaussian Clustering
+77EF4A7D	Artificial Intelligence<---Logical foundations of artificial intelligence
+7B9C79D3	Information Processing Letters<---A Probabilistic Minimum Spanning Tree Algorithm
+63BCB1FC	Knowledge Discovery and Data Mining<---A density-based algorithm for discovering clusters in large spatial databases with noise
+6A1E08FA	Uncertainty in Artificial Intelligence<---Update rules for parameter estimation in Bayesian networks
+601053C5	International Conference on Machine Learning<---Refining Initial Points for K-Means Clustering
+0133FF05	Knowledge Discovery and Data Mining<---Efficient Algorithms for Discovering Association Rules
+7C73C958	Machine Learning<---Empirical and Theoretical Comparisons of Selected Criterion Functions for Document Clustering
+61C1E907	International Joint Conference on Artificial Intelligence<---Noise and knowledge acquisition
+5D7CF791	Information not present<---Multilevel Refinement for Hierarchical Clustering
+81D6681E	International Conference on Computer Aided Design<---Fast spectral methods for ratio cut partitioning and clustering
+7B7B1654	International ACM SIGIR Conference on Research and Development in Information Retrieval<---OHSUMED: an interactive retrieval evaluation and new large test collection for research
+59C818AC	The Vldb Journal<---Fast Algorithms for Mining Association Rules in Large Databases
+66223ED7	National Conference on Artificial Intelligence<---Advances in knowledge discovery and data mining
+7B67FDF4	Knowledge Discovery and Data Mining<---Fast and effective text mining using linear-time document clustering
+7AFB7B6E	Communications of The ACM<---Relaxed heaps: an alternative to Fibonacci heaps with applications to parallel computation
+777AF884	Information not present<---Visual analysis of stream data
+5E8B335F	Information not present<---An Evaluation of Techniques for Clustering Search Results
+76C1E847	ACM Computing Surveys<---Data clustering: a review
+0C000895	Uncertainty in Artificial Intelligence<---Learning Mixtures of Bayesian Networks
+7F1CF0C5	IEEE Transactions on Pattern Analysis and Machine Intelligence<---An optimal graph theoretic approach to data clustering: theory and its application to image segmentation
+764DFAE1	Communications of The ACM<---The choice of reference points in best-match file searching
+6F21D3C3	Machine Learning<---Coding Decision Trees
+7AC3C2A5	Psychometrika<---Clustering with Relational Constraint.
+749EBC54	Information not present<---Introduction to Modern Information Retrieval
+06EAB965	Information not present<---Knowledge Discovery as a Threat to Database Security
+58F31C78	Data Mining and Knowledge Discovery<---Principal Direction Divisive Partitioning
+7871F90D	Pattern Recognition<---Agglomerative clustering using the concept of mutual nearest neighbourhood
+762AED68	ACM Transactions on Information Systems<---New techniques for best-match retrieval
+7550A44B	Sigmod Record<---Querying database knowledge
+0A7BBCAA	Knowledge Discovery and Data Mining<---Optimization and Simplification of Hierarchical Clusterings
+7525294C	Applied Intelligence<---Improving Backpropagation Learning with Feature Selection
+7A8C8726	Communications of The ACM<---Personalized information delivery: an analysis of information filtering methods
+7A45BA66	Human Factors in Computing Systems<---Stereophonic and surface sound generation for exploratory data analysis
+75EBCB47	Conference on Information and Knowledge Management<---Finding interesting rules from large sets of discovered association rules
+814DFAC2	Psychometrika<---The analysis of proximities: Multidimensional scaling with an unknown distance function. II
+79AFD2A7	Information Storage and Retrieval<---The use of hierarchic clustering in information retrieval
+635F1697	European Conference on Research and Advanced Technology for Digital Libraries<---Automating the Construction of Authority Files in Digital Libraries: A Case Study
+7FA60214	IEEE Computer<---Chameleon: hierarchical clustering using dynamic modeling
+805499D4	IEEE Transactions on Knowledge and Data Engineering<---Data mining: an overview from a database perspective
+7A245A0A	Sigmod Record<---Bibliography on spatiotemporal databases
+595599D9	Information not present<---ISODATA, A NOVEL METHOD OF DATA ANALYSIS AND PATTERN CLASSIFICATION
+754CE23F	Psychometrika<---Some extensions of Johnson's hierarchical clustering algorithms
+7D205266	Conference on Information and Knowledge Management<---Mining association rules with adjustable accuracy
+76E43D63	Symposium on Principles of Database Systems<---Fractals for secondary key retrieval
+5C9B8623	Knowledge Discovery and Data Mining<---Fast discovery of association rules
+7E86D6B5	IEEE Transactions on Knowledge and Data Engineering<---Abstract-driven pattern discovery in databases
+7F8DD1B2	Computer Vision and Pattern Recognition<---Normalized cuts and image segmentation
+7A3101A4	Pattern Recognition<---A theory of proximity based clustering: structure detection by optimization
+759C8557	Psychometrika<---Nonmetric multidimensional scaling: A numerical method
+80929E87	The Vldb Journal<---M-tree: An Efficient Access Method for Similarity Search in Metric Spaces
+7CB6B315	Psychometrika<---U-statistic hierarchical clustering
+033ECA67	Knowledge Discovery and Data Mining<---DBMiner: A System for Mining Knowledge in Large Relational Databases
+587149F9	Information not present<---Readings in database systems
+0C53706C	International Joint Conference on Artificial Intelligence<---Version spaces: a candidate elimination approach to rule learning
+8155B2D1	International Conference on Pattern Recognition<---Dynamic time warping with path control and non-local cost
+756A50D3	Psychometrika<---Ultrametric hierarchical clustering algorithms
+7FC1B499	Sigmod Record<---Implementing data cubes efficiently
+779970B5	Neural Computation<---First- and second-order methods for learning: between steepest descent and Newton's method
+5E11C9D7	The Vldb Journal<---Applying Data Mining Techniques to a Health Insurance Information System
+5DB6C0A9	Information not present<---Latent semantic indexing (lsi) and trec-2
+7F9A59D6	American Documentation<---Effectiveness of information retrieval methods
+756248F6	ACM Transactions on Database Systems<---Extended algebra and calculus for nested relational databases
+7D4E1857	The Computer Journal<---Comparison of hierarchic agglomerative clustering methods for document retrieval
+5880C2DB	Information not present<---Attribute-oriented induction in relational databases
+7D31A96C	IEEE Transactions on Knowledge and Data Engineering<---Database mining: a performance perspective
+0A04B357	Information not present<---CHAMELEON: A Hierarchical Clustering Algorithm Using Dynamic Modeling
+8113CC0B	Communications of The ACM<---Multidimensional binary search trees used for associative searching
+77245C93	Psychometrika<---Hierarchical clustering schemes
+7D19259C	International Conference on Computer Vision<---Textons, contours and regions: cue integration in image segmentation
+7AA63534	Information Systems<---ROCK: a robust clustering algorithm for categorical attributes
+7F0EF70B	Sigmod Record<---CURE: an efficient clustering algorithm for large databases
+7EB10B52	IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems<---New spectral methods for ratio cut partitioning and clustering
+7C9D9D1B	Psychometrika<---Note on ultrametric hierarchical clustering algorithms
+0465C549	Information not present<---Knowledge discovery in large spatial databases
+78760042	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Stochastic Relaxation, Gibbs Distributions, and the Bayesian Restoration of Images
+70BA1AD8	International Conference on Data Engineering<---Supporting data mining of large databases by visual feedback queries
+7E1A4ECC	IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems<---An improved two-way partitioning algorithm with stable performance (VLSI)
+7AC8573F	Conference on Information and Knowledge Management<---Mining knowledge at multiple concept levels
+75C4C816	Journal of Intelligent Information Systems<---Efficient and effective querying by image content
+02A4B37C	International Conference on Management of Data<---Au-tomatic subspace clustering of high dimensional data for data mining
+7A33AA65	Artificial Intelligence<---Models of incremental concept formation
+78B10915	Machine Learning<---Experiments with Incremental Concept Formation: UNIMEM
+7D31758D	Systems, Man and Cybernetics<---X2R: a fast rule generator
+6F802796	Information not present<---Discovery of Spatial Association Rules in Geographic Information Databases
+0C073D35	Knowledge Discovery and Data Mining<---Developing Tightly-Coupled Data Mining Applications on a Relational Database System
+81EAF2AE	International Conference on Machine Learning<---AutoClass: A Bayesian Classification System
+7C81C749	Psychometrika<---An Examination of the Effect of Six Types of Error Perturbation on Fifteen Clustering Algorithms.
+78108FC0	Decision Support Systems<---Partitioning-based clustering for Web document categorization
+7B942D7D	Machine Learning<---Knowledge Acquisition Via Incremental Conceptual Clustering
+79323831	Parallel Computing<---An improved spectral bisection algorithm and its application to dynamic load balancing
+041DA83F	International Conference on Data Engineering<---Set-oriented mining of association rules
+677AC518	IEEE Transactions on Computers<---A Graph-Theoretic Approach to Nonparametric Cluster Analysis
+02BEE916	National Conference on Artificial Intelligence<---Tree-Structured Bias
+5E003635	Information not present<---Knowledge Discovery in Large Spatial Databases: Focusing Techniques for Efficient Class Identification
+7645D565	Sigmod Record<---Database systems: achievements and opportunities
+7E78EB41	International Conference on Data Mining<---Iterative clustering of high dimensional text data augmented by local search
+76309ACA	Computer Networks and Isdn Systems<---Characterizing browsing strategies in the World-Wide Web
+659B3081	Information not present<---Computer systems that learn: classification and prediction methods from statistics, neural nets, machine learning, and expert systems
+0C64072C	IEEE Data(base) Engineering Bulletin<---Hypergraph Based Clustering in High-Dimensional Data Sets: A Summary of Results
+7D441E3C	Knowledge Discovery and Data Mining<---A Database Interface for Clustering in Large Spatial Databases 1
+5B98BF1D	The Vldb Journal<---NeuroRule: A Connectionist Approach to Data Mining
+7EA9C51B	Information not present<---C4.5: Programs for Machine Learning
+7531DDF7	Psychometrika<---Monotone invariant clustering procedures
+5F32BFFF	The Vldb Journal<---An Efficient Algorithm for Mining Association Rules in Large Databases
+7E6659B7	The Computer Journal<---Slink: An optimally efficient algorithm for the single-link cluster method
+5CC3EEAD	Knowledge Discovery and Data Mining<---A linear method for deviation detection in large databases
+75FB6F21	Journal of the ACM<---An Analysis of Some Graph Theoretical Cluster Techniques
+7EE843D4	IEEE Transactions on Knowledge and Data Engineering<---Data-driven discovery of quantitative rules in relational databases
+0B9079FE	Data Mining and Knowledge Discovery<---Spatial clustering methods in data mining: a survey
+023F76AE	International Conference on Data Mining<---Spectral min-max cut for graph partitioning and data clustering
+090DA81D	Information not present<---Meta-Rule-Guided Mining of Association Rules in Relational Databases
+812B0C05	Sigmod Record<---FastMap: a fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets
+78F8410E	International Symposium on Neural Networks<---Backpropagation algorithm which varies the number of hidden units
+81646B47	Machine Learning<---Symbolic and Neural Learning Algorithms: An Experimental Comparison
+5ACB9C10	Knowledge Discovery and Data Mining<---From data mining to knowledge discovery: an overview
+7529E8C2	Proceedings of the American Mathematical Society<---On the shortest spanning subtree of a graph and the traveling salesman problem
+7E6B6F72	Design Automation Conference<---Multilevel hypergraph partitioning: application in VLSI domain
+7FA96432	The Computer Journal<---A Survey of Recent Advances in Hierarchical Clustering Algorithms
+69075921	IEEE Transactions on Computers<---A Representation of Hypergraphs in the Euclidean Space
+713516B5	International Conference on Data Engineering<---An attribute-oriented approach for learning classification rules from relational databases
+641D5808	The Vldb Journal<---Fast Algorithms for Mining Association Rules
+5C3379DB	Journal of Artificial Intelligence Research<---Iterative Optimization and Simplification of Hierarchical Clusterings
+7A7C7874	Information Processing and Management<---A simple blueprint for automatic Boolean query processing
+7C21B487	SIAM Journal on Scientific Computing<---Algorithms for Model-Based Gaussian Hierarchical Clustering
+8155F418	Communications of The ACM<---An effective way to represent quadtrees
+5D9FA7F5	Information not present<---Digital Image Compression: Algorithms and Standards
+80A76618	International Conference on Data Engineering<---Mining sequential patterns
+801E853B	International Conference on Distributed Computing Systems<---Data mining for path traversal patterns in a web environment
+064FBBA5	SIAM International Conference on Data Mining<---Choosing the cluster to split in bisecting divisive clustering algorithms
+757FEE09	Conference on Information and Knowledge Management<---Evaluation of hierarchical clustering algorithms for document datasets
+5CCF9E21	Workshop on Information Technologies and Systems<---Web Page Categorization and Feature Selection Using Association Rule and Principal Component Clustering
+798E77C2	Communications of The ACM<---File structures using hashing functions
+7A2AE3B6	Parallel Computing<---Parallel algorithms for hierarchical clustering
+80EFEBD4	IEEE Transactions on Signal Processing<---Transform domain filtering based on pipelining structure
+7946FA26	Information not present<---Parallel coordinates: a tool for visualizing multi-dimensional geometry
+79D56E01	Conference on Information and Knowledge Management<---Applications of approximate word matching in information retrieval
+03459A7E	National Conference on Artificial Intelligence<---Improving inference through conceptual clustering
+76957503	Future Generation Computer Systems<---Mining generalized association rules
+7BEEF2A8	Information not present<---Exploring N-dimensional databases
+800736C8	International Conference on Data Engineering<---Spatial search with polyhedra
+5DDE3B6E	Information not present<---Efficient Clustering Of Very Large Document Collections
+790E2232	Sigmod Record<---An effective hash-based algorithm for mining association rules
+7A33CCDE	Behavior Research Methods<---The effectiveness of dynamic graphics in revealing structure in multivariate data
+7D013781	Technometrics<---An introduction to generalized linear models
+5A399E9D	Information not present<---GRADI, a Graphical Database Interface for a Multimedia DBMS
