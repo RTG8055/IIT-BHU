@@ -20,23 +20,24 @@ fos_ids.sort()
 print len(fos_ids)
 
 cs_paperid_keyword ={}
-with zipfile.ZipFile("../zips/PaperKeywords.zip") as z:
-	with z.open("PaperKeywords.txt",'r') as file:
-		i=0
-		for line in file:
-			i+=1
-			pid,keyword,fosid = line.strip("\r|\n").split("\t")
-			# print i,fosid
-			if(bsearch(fosid,fos_ids,0,len(fos_ids)-1) == 0):
-				if(cs_paperid_keyword.get(pid)== None):
-					cs_paperid_keyword[pid] = [keyword]
-				else:
-					cs_paperid_keyword[pid].append(keyword)
-				# print 
-			if(i%1000000==0):
-				print i
-				# break
-		print i
+# with zipfile.ZipFile("../zips/PaperKeywords.zip") as z:
+# 	with z.open("PaperKeywords.txt",'r') as file:
+with open("../../../MAGNEW/PaperKeywords/PaperKeywords.txt") as f:
+	i=0
+	for line in file:
+		i+=1
+		pid,keyword,fosid = line.strip("\r|\n").split("\t")
+		# print i,fosid
+		if(bsearch(fosid,fos_ids,0,len(fos_ids)-1) == 0):
+			if(cs_paperid_keyword.get(pid)== None):
+				cs_paperid_keyword[pid] = [keyword]
+			else:
+				cs_paperid_keyword[pid].append(keyword)
+			# print 
+		if(i%1000000==0):
+			print i
+			# break
+	print i
 print len(cs_paperid_keyword)
 
 
