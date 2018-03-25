@@ -6,36 +6,38 @@ i=0
 
 
 act_pid=""
-with open("../Result metric -II/output2/sample6/all_papers_titSim.csv",'r') as file:
+with open("../Result metric -II/output2/sample35/all_papers_titSim.csv",'r') as file:
 	for line in file:
 		i+=1
 		if(i==1):
 			continue
 		# print(repr(line))
-		reg = re.match(r'(.*),(".*"),(".*"),(.*),(.*)',line,re.M|re.I)
+		reg = re.match(r'(.*),(.*),(.*),(.*),(.*)',line,re.M|re.I)
+		# print(reg)
 		pid,ptitle,pjournal,sim1,sim2= reg.group(1),reg.group(2),reg.group(3),reg.group(4),reg.group(5)
 		sim2=sim2.strip('\n|\r')
 		if(float(sim1) == 1.0 or (float(sim2) == 1.0)):
-			if(ptitle.strip('"').split(' ')[0] == "Hierarchical" and ptitle.strip('"').split(' ')[1] == "Clustering"):
+			if(ptitle.strip('"').split(' ')[0] == "-Pushing" ):#and ptitle.strip('"').split(' ')[1] == "Clustering"):
 				print ptitle,"\n enter same as actual or not(y/n)?\n",sim1,sim2
 				ch = raw_input()
 				if(ch=='y'):
 					act_pid = pid
+					print pid
 					break
 
 		pdetails[pid]=[ptitle,pjournal,float(sim1),float(sim2)]
-
+print i,act_pid
 papers_to_be_considered=set()
 papers_ref={}
 i=0
-with open("../output/sample6/papers_with_references6.txt",'r') as file:
+with open("../output/sample35/papers_with_references35.txt",'r') as file:
 	for line in file:
 		i+=1
 		# print line
 		pid,refids = line.strip('\n|\r').split("\t")
 		# print repr(pid),repr(refids)
 		# print refids
-		# if(i==3):
+		# if(i==35):
 			# break
 		papers_ref[pid] = refids
 
@@ -67,7 +69,7 @@ papers_to_be_considered = act_ref(papers_to_be_considered)
 
 print len(papers_to_be_considered)
 
-new = open('output3/sample6/actual_references1.txt','w')
+new = open('output3/sample35/actual_references35.txt','w')
 i=0
 for k in papers_to_be_considered:
 	i+=1
@@ -75,7 +77,7 @@ for k in papers_to_be_considered:
 	v2 = papers_ref.get(k)
 	if(v2 == None):
 		v2 ='0'
-	print k,v2
+	# print k,v2
 	new.write(k + "\t" +str(len(v2.split(' '))) + "\t" + v2 + "\t" + "\n")
 print i
 new.close()
@@ -148,8 +150,8 @@ with zipfile.ZipFile("../zips/Conferences.zip") as z:
 
 print c_names,i
 
-new = open("output3/sample6/papers6_titles_journals.txt",'w')
-# new3=open("output/sample3/paperids3_560_conf.txt",'w')
+new = open("output3/sample35/papers35_titles_journals.txt",'w')
+# new35=open("output/sample35/paperids35_5350_conf.txt",'w')
 i=0
 for k,v in paperids.items():
 	i+=1

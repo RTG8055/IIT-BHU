@@ -1,6 +1,6 @@
 paperids={}
 papers=set()
-with open("output2/sample6/final_papers6_1.txt",'r') as f:
+with open("output2/sample6/final_papers6_2.txt",'r') as f:
 	i=0
 	for line in f:
 		i+=1
@@ -25,7 +25,7 @@ f.close()
 
 
 # print all_titles
-new = open("output2/sample6/final_details_1.txt",'w')
+new = open("output2/sample6/final_details6_2.txt",'w')
 i=0
 for p in paperids:
 	i+=1

@@ -6,7 +6,7 @@ i=0
 sim1_pdetails={}
 sim2_pdetails={}
 
-with open("output2/sample5/all_papers_titSim.csv",'r') as file:
+with open("output2/sample56/all_papers_titSim.csv",'r') as file:
 	for line in file:
 		i+=1
 		if(i==1):
@@ -42,7 +42,7 @@ for j in (sorted(sim2_pdetails,key=sim2_pdetails.__getitem__,reverse=True)):
 print len(topset)
 
 
-new=open("output2/sample5/top_papers5.txt",'w')
+new=open("output2/sample56/top_papers56_1.txt",'w')
 i=0
 for k in topset:
 	i+=1

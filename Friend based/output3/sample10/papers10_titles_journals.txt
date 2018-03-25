@@ -1,0 +1,59 @@
+7EC25353	IEEE Transactions on Image Processing<---Motion-compensated 3-D subband coding of video
+7E813B42	IEEE Transactions on Circuits and Systems for Video Technology<---Source model for transform video coder and its application. I. Fundamental theory
+650CFA50	International Conference on Image Processing<---A fully scalable 3D subband video codec
+7DDD481A	IEEE Transactions on Image Processing<---Multirate 3-D subband coding of video
+79B35143	International Conference on Image Processing<---Macroblock Based Bit Allocation for SNR Scalable Video Coding with Hierarchical B Pictures
+7FBB7EF6	IEEE Transactions on Medical Imaging<---Wavelet coding of volumetric medical datasets
+80D8BF65	IEEE Transactions on Circuits and Systems for Video Technology<---Motion-compensated wavelet transform coding for color video compression
+0E707F94	Information not present<---Bitstream syntax description based adaptation of scalable video
+814AC5B0	IEEE Signal Processing Magazine<---Rate-distortion optimization for video compression
+7F7993AF	IEEE Transactions on Image Processing<---An image multiresolution representation for lossless and lossy compression
+7D18AA89	IEEE Transactions on Circuits and Systems for Video Technology<---Overview of fine granularity scalability in MPEG-4 video standard
+778DEACE	Signal Processing-image Communication<---Motion and texture rate-allocation for prediction-based scalable motion-vector coding
+7B2B572D	International Conference on Image Processing<---Embedded block coding in JPEG2000
+7658970E	Information not present<---H.264/AVC Compatible Scalable Multiple Description Video Coding with RD Optimization
+8001913D	Signal Processing-image Communication<---Motion compensation and scalability in lifting-based video coding
+81235551	International Conference on Acoustics, Speech, and Signal Processing<---Backward Drift Estimation with Application to Quality Layer Assignment in H.264/AVC Based Scalable Video Coding
+81245FCA	International Symposium on Circuits and Systems<---A model-based rate allocation mechanism for wavelet-based embedded image and video coding
+7D48914B	IEEE Transactions on Image Processing<---Lifting-based invertible motion adaptive transform (LIMAT) framework for highly scalable video compression
+80898F07	IEEE Journal on Selected Areas in Communications<---Video coding with optimal inter/intra-mode switching for packet loss resilience
+7E3DE898	IEEE Transactions on Image Processing<---Three-dimensional subband coding of video
+7F90D9A8	IEEE Transactions on Circuits and Systems for Video Technology<---Overview of the H.264/AVC video coding standard
+59719425	International Journal of Surgery<---Very fast bit allocation algorithm, based on simplified R-D curve modeling
+04215E91	Information not present<---Contributions to Interframe Wavelet and Scalable Video Coding
+7FF14BB5	IEEE Transactions on Information Theory<---Asymptotically efficient quantizing
+7F4952A5	International Symposium on Circuits and Systems<---H.26L-based fine granularity scalable video coding
+5F061321	International Conference on Image Processing<---Highly scalable video compression with scalable motion coding
+8095AF37	International Symposium on Multimedia<---Rate-Distortion Optimized SVC Bitstream Extraction for Heterogeneous Devices: A Preliminary Investigation
+04356D6F	Signal Processing<---Advanced motion threading for 3D wavelet video coding
+7EEC50F8	International Conference on Image Processing<---Scalable coding of variable size blocks motion vectors
+7F462B87	IEEE Transactions on Circuits and Systems for Video Technology<---Rate-constrained multihypothesis prediction for motion-compensated video compression
+7DF90855	Signal Processing-image Communication<---In-band motion compensated temporal filtering
+7E144B70	IEEE Transactions on Communications<---Motion-compensating prediction with fractional-pel accuracy
+80E0735E	IEEE Transactions on Circuits and Systems for Video Technology<---Bidirectional MC-EZBC with lifting implementation
+5852F6F0	Information not present<---On the influence of motion vector precision limiting in scalable video coding
+7D8A5D41	IEEE Transactions on Circuits and Systems for Video Technology<---Rate-constrained coder control and comparison of video coding standards
+7572F3E7	International Conference on Image Processing<---A Fully Scalable Motion Model for Scalable Video Coding
+7948E879	Information not present<---Motion Vector Field Manipulation for Complexity Reduction in Scalable Video Coding
+7EE6879B	International Conference on Multimedia and Expo<---Subjective preference of spatio-temporal rate in video adaptation using multi-dimensional scalable coding
+58AA69B8	Information not present<---Digital Image Warping
+803CA564	International Conference on Image Processing<---Evaluation of Techniques for Modeling of Layered Motion Structure
+80AA0A8D	IEEE Transactions on Image Processing<---Drift-resistant SNR scalable video coding
+751015E7	Information not present<---Bit-stream extraction to maximize perceptual quality using quality information table in SVC
+7DC24A74	International Conference on Image Processing<---High performance scalable image compression with EBCOT
+70573713	International Conference on Image Processing<---Scalable motion vector coding
+77014FCF	International Conference on Image Processing<---Optimized Rate-Distortion Extraction with Quality Layers
+7F01106D	IEEE Transactions on Circuits and Systems for Video Technology<---Performance Analysis of SVC
+7FB895FF	IEEE Transactions on Image Processing<---Three-dimensional subband coding with motion compensation
+7D34125B	IEEE Transactions on Image Processing<---Motion estimation using low-band-shift method for wavelet-based moving-picture coding
+7F2C1C71	International Conference on Multimedia and Expo<---Analysis of Hierarchical B Pictures and MCTF
+7DEC92A9	IEEE Transactions on Circuits and Systems for Video Technology<---Memory-constrained 3D wavelet transform for video coding without boundary effects
+80AD9B46	IEEE Transactions on Circuits and Systems for Video Technology<---Optimized Rate-Distortion Extraction With Quality Layers in the Scalable Extension of H.264/AVC
+7E417015	Journal of Electronic Imaging<---JPEG2000: Image Compression Fundamentals, Standards and Practice
+78201B3D	Journal of Fourier Analysis and Applications<---Factoring wavelet transforms into lifting steps
+7D2DF17F	Electronics Letters<---Scalable motion vector coding
+817736CD	IEEE Transactions on Circuits and Systems for Video Technology<---Overview of the Scalable Video Coding Extension of the H.264/AVC Standard
+7D8AC1F2	IEEE Transactions on Circuits and Systems for Video Technology<---Very low bit-rate video coding using wavelet-based techniques
+7F28FB26	IEEE Journal on Selected Areas in Communications<---Optimal quality adaptation for scalable encoded video
+815E3190	International Conference on Image Processing<---Layered motion estimation and coding for fully scalable 3D wavelet video coding
+7D00FB00	IEEE Transactions on Circuits and Systems for Video Technology<---Adaptive motion-compensation fine-granular-scalability (AMC-FGS) for wireless video

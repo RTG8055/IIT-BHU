@@ -1,0 +1,159 @@
+7E594DD8	IEEE Transactions on Computers<---Distributed assignment algorithms for multihop packet radio networks
+784EEE82	Mobile Ad Hoc Networking and Computing<---On the minimum node degree and connectivity of a wireless multihop network
+7EAAC374	Information not present<---PSockets: The Case for Application-level Network Striping for Data Intensive Applications using High Speed Wide Area Networks
+8025C887	IEEE\/ACM Transactions on Networking<---Mobility increases the capacity of ad hoc wireless networks
+7E546D91	International Conference on Computer Communications<---Joint congestion control and media access control design for ad hoc wireless networks
+808369F9	Wireless Communications and Mobile Computing<---Ad hoc networks: not an ad hoc field anymore
+7D467E1D	ACM/IEEE International Conference on Mobile Computing and Networking<---Routing in multi-radio, multi-hop wireless mesh networks
+7A02A50B	SIAM Journal on Computing<---Guaranteeing Fair Service to Persistent Dependent Tasks
+8032FF84	Computer Networks and Isdn Systems<---Wireless mesh networks: a survey
+7F6BDD5D	IEEE Transactions on Information Theory<---The capacity of wireless networks
+8119DFAC	Foundations of Computer Science<---Faster and simpler algorithms for multicommodity flow and other fractional packing problems
+8063EE8D	IEEE Transactions on Communications<---A neural network approach to routing without interference in multihop radio networks
+7AB34F3D	Proceedings of the IEEE<---Modeling and performance analysis of multihop packet radio networks
+80F58C18	Mobile Networks and Applications<---Algorithmic aspects of topology control problems for ad hoc networks
+7BBB9418	Algorithmica<---Scheduling Multihop CDMA Networks in the Presence of Secondary Conflicts
+613303EC	Clinical Orthopaedics and Related Research<---A Quantitative Measure Of Fairness And Discrimination For Resource Allocation In Shared Computer Systems
+763C4609	IEEE Spectrum<---Wireless broadband in a box
+77BE20FD	Ad Hoc Networks<---QoS-aware minimum energy multicast tree construction in wireless ad hoc networks
+80E6A3A9	IEEE Journal on Selected Areas in Communications<---Performance analysis of the IEEE 802.11 distributed coordination function
+13B6A0B4	Electronic Colloquium on Computational Complexity<---Models of Greedy Algorithms for Graph Problems
+786EEAD0	Communications Engineer<---Mesh wireless networking
+7FA1A44E	Internet Measurement Conference<---A measurement study of available bandwidth estimation tools
+099ADB90	Broadband Communications, Networks and Systems<---A Topology Control Approach to Channel Assignment in Multi-Radio Wireless Mesh Networks
+80009DDA	IEEE\/ACM Transactions on Networking<---Fair end-to-end window-based congestion control
+7D2F4F17	Modeling, Analysis, and Simulation On Computer and Telecommunication Systems<---Performance study of a multipath routing method for wireless mobile ad hoc networks
+0198175C	IEEE Transactions on Reliability<---Efficient Network Resource Allocation With QoS Guarantees
+7CB9329E	ACM/IEEE International Conference on Mobile Computing and Networking<---Characterizing the capacity region in multi-radio multi-channel wireless mesh networks
+7D00A9E1	Mobile Ad Hoc Networking and Computing<---Distributed algorithms for spectrum allocation, power control, routing, and congestion control in wireless networks
+80AD710C	IEEE Personal Communications<---Channel assignment schemes for cellular mobile telecommunication systems: a comprehensive survey
+7F850759	International Conference on Computer Communications<---Distributed scheduling of broadcasts in a radio network
+71003BE9	Information not present<---Supporting hierarchy and heterogeneous interfaces in multi-hop wireless ad hoc networks
+75E20516	Computing<---Heuristics algorithms for the multiple knapsack problem
+7A679950	IEEE Network<---Striping within the network subsystem
+7E84551D	Computer Communication Review<---Implementation experience with MANET routing protocols
+070E2810	Information not present<---The architecture of the link quality source routing protocol
+79559795	Journal of the ACM<---The maximum concurrent flow problem
+814F4E23	International Conference on Embedded Networked Sensor Systems<---Taming the underlying challenges of reliable multihop routing in sensor networks
+7FA796FA	Broadband Communications, Networks and Systems<---A topology control approach for utilizing multiple channels in multi-radio wireless mesh networks
+7C63D6B0	Journal of the ACM<---P-Complete Approximation Problems
+7CDD27F1	Journal of Parallel and Distributed Computing<---Ad hoc QoS on-demand routing (AQOR) in mobile ad hoc networks
+810D9AFF	Global Communications Conference<---Adaptive inverse multiplexing for wide-area wireless networks
+7D6CBF3A	Wireless Communications and Networking Conference<---Routing and interface assignment in multi-channel multi-interface wireless networks
+7676CD93	European Transactions on Telecommunications<---Charging and rate control for elastic traffic
+7A03DE80	ACM/IEEE International Conference on Mobile Computing and Networking<---Efficient integration of multi-hop wireless and wired networks with QoS constraints
+7EF081C9	Computer Communication Review<---Comparison of routing metrics for static multi-hop wireless networks
+80A7278E	ACM/IEEE International Conference on Mobile Computing and Networking<---Preemptive routing in Ad Hoc networks
+5F97862F	Information not present<---Parallel and Distributed Computation: Numerical Methods
+70C38CE7	International Conference on Communications<---Capacity regions for wireless ad hoc networks
+7F73594F	Sensor, Mesh and Ad Hoc Communications and Networks<---Optimization models for fixed channel assignment in wireless mesh networks with multiple radios
+75BFC9AE	Siam Journal on Optimization<---The Multiple Subset Sum Problem
+7D399286	Mobile Ad Hoc Networking and Computing<---Multi-channel mac for ad hoc networks: handling multi-channel hidden terminals using a single transceiver
+7D0031C6	International Conference on Computer Communications<---MultiNet: connecting to multiple IEEE 802.11 networks using a single wireless card
+7D65E10A	Broadband Communications, Networks and Systems<---A multi-radio unification protocol for IEEE 802.11 wireless networks
+7E177952	ACM/IEEE International Conference on Mobile Computing and Networking<---SSCH: slotted seeded channel hopping for capacity improvement in IEEE 802.11 ad-hoc wireless networks
+7AE77AE0	Symposium on Discrete Algorithms<---End-to-end packet-scheduling in wireless ad-hoc networks
+0830C100	Mobile Computing and Communications Review<---Centralized Algorithms for Multi-channel Wireless Mesh Networks
+7858AC7A	Symposium on Discrete Algorithms<---Models of greedy algorithms for graph problems
+6B3A7CFF	Information not present<---Impact of Directional Antennas on Ad Hoc Routing
+7E7792F6	SIAM Journal on Computing<---An Algorithm for Determining Whether the Connectivity of a Graph is at Least k
+7862290A	IEEE Wireless Communications<---Cross-layer design of ad hoc networks for real-time video streaming
+7D0D991E	IEEE Journal on Selected Areas in Communications<---Scalable routing strategies for ad hoc wireless networks
+815A8373	Computer Communication Review<---Reconsidering wireless systems with multiple radios
+7F4EA71C	International Conference on Computer Communications<---Interference-Aware Channel Assignment in Multi-Radio Wireless Mesh Networks
+763881A3	Mobile Ad Hoc Networking and Computing<---Algorithmic aspects of topology control problems for ad hoc networks
+76A1C38F	IEEE Journal on Selected Areas in Communications<---A parameterizable methodology for Internet traffic flow profiling
+7F09F59C	International Conference on Computer Communications<---The impact of multihop wireless channel on TCP throughput and loss
+7EE84415	IEEE Transactions on Mobile Computing<---TCP-DCR: a novel protocol for tolerating wireless channel errors
+5A3AA5BC	International Conference on Communications<---Split multipath routing with maximally disjoint paths in ad hoc networks
+631E0408	International Conference on Computer Communications<---Architecture and algorithms for an IEEE 802.11-based multi-channel wireless mesh network
+8035C00D	IEEE Computer<---Cross-layering in mobile ad hoc network design
+7C0FD803	Wireless Networks<---Impact of interference on multi-hop wireless network performance
+7EBD7572	IEEE\/ACM Transactions on Networking<---Dynamic tuning of the IEEE 802.11 protocol to achieve a theoretical throughput limit
+7D24F6D2	Information not present<---Ad-hoc on-demand distance vector routing
+7D5431D8	SIAM Journal on Computing<---The NP-Completeness of Edge-Coloring
+7F6F97D9	IEEE\/ACM Transactions on Networking<---Efficient integration of multihop wireless and wired networks with QoS constraints
+80BFB027	Vehicular Technology Conference<---Interference-aware IEEE 802.16 WiMax mesh networks
+7DF57B50	International Conference on Computer Communications<---Channel Allocation in 802.11-Based Mesh Networks
+7FD8D490	ACM/IEEE International Conference on Mobile Computing and Networking<---Joint channel assignment and routing for throughput optimization in multi-radio wireless mesh networks
+095D68A2	Information not present<---An ethernet address resolution protocol
+79FBC4C7	Mobile Ad Hoc Networking and Computing<---Capacity of multi-channel wireless networks with random (c, f) assignment
+80EE2E73	Computer Communication Review<---Equation-based congestion control for unicast applications
+7C9C2B58	ACM/IEEE International Conference on Mobile Computing and Networking<---Capacity of Ad Hoc wireless networks
+5B0050CF	Information not present<---802.11 denial-of-service attacks: real vulnerabilities and practical solutions
+761041EC	ACM/IEEE International Conference on Mobile Computing and Networking<---Fairness and load balancing in wireless LANs using association control
+7EF8374C	International Conference on Communications<---Load balancing of multipath source routing in ad hoc networks
+7D08ED18	Proceedings of the IEEE<---An overview of MIMO communications - a key to gigabit wireless
+799B6A3E	IEEE Personal Communications<---Signal stability-based adaptive routing (SSA) for ad hoc mobile networks
+799FEE88	Information not present<---High Throughput Route Selection in Multi-rate Ad Hoc Wireless Networks
+592BA2B0	International Conference on Network Protocols<---Optimizing the placement of Internet TAPs in wireless neighborhood networks
+75744664	Mobile Ad Hoc Networking and Computing<---Interference-aware topology control and QoS routing in multi-channel wireless mesh networks
+7E6660BE	ACM/IEEE International Conference on Mobile Computing and Networking<---UCAN: a unified cellular and ad-hoc network architecture
+7FE206B5	IEEE Journal on Selected Areas in Communications<---The distance-2 matching problem and its relationship to the MAC-Layer capacity of ad hoc wireless networks
+7D88CDDB	IEEE\/ACM Transactions on Networking<---Characterizing achievable rates in multi-hop wireless mesh networks with orthogonal channels
+6C86C207	Information not present<---Mesh networks; a new architecture for broadband wireless access systems
+80AE1ABE	Proceedings of the IEEE<---Layering as Optimization Decomposition: A Mathematical Theory of Network Architectures
+776B7598	ACM/IEEE International Conference on Mobile Computing and Networking<---A rate-adaptive MAC protocol for multi-Hop wireless networks
+77F1B46B	Combinatorica<---The ellipsoid method and its consequences in combinatorial optimization
+7EDA0016	International Symposium on Information Theory<---The effect of interference on the capacity of multihop wireless networks
+79F1EA23	Wireless Networks<---A transport layer approach for achieving aggregate bandwidths on multi-homed mobile hosts
+77514DF3	IEEE Journal on Selected Areas in Communications<---Joint Channel Assignment and Routing for Throughput Optimization in Multiradio Wireless Mesh Networks
+7D9CB252	IEEE Transactions on Communications<---Scheduling broadcasts in multihop radio networks
+053F77AB	Information not present<---Adaptive Topology Discovery in Hybrid Wireless Networks
+811311E2	IEEE Transactions on Wireless Communications<---Capacity regions for wireless ad hoc networks
+5EE64960	Ssrn Electronic Journal<---Iterated Local Search
+7F8F63F1	IEEE Transactions on Communications<---Dual busy tone multiple access (DBTMA)-a multiple access control scheme for ad hoc networks
+7F2F1DA7	IEEE Personal Communications<---A review of current routing protocols for ad hoc mobile wireless networks
+7ECB695A	IEEE Transactions on Information Theory<---Wireless Link Scheduling With Power Control and SINR Constraints
+7609836C	SIAM Journal on Discrete Mathematics<---On the 1.1 edge-coloring of multigraphs
+80FB59A4	IEEE Journal on Selected Areas in Communications<---QoS routing in ad hoc wireless networks
+80F3247F	ACM/IEEE International Conference on Mobile Computing and Networking<---Capacity of multi-channel wireless networks: impact of number of channels and interfaces
+77986D8C	Mobile Computing and Communications Review<---Centralized channel assignment and routing algorithms for multi-channel wireless mesh networks
+754A6886	Computer Communication Review<---A reliable and scalable striping protocol
+7E1A4733	International Conference on Computer Communications<---On power efficient communication over multi-hop wireless networks: joint routing, scheduling and power control
+7FDF20F8	Vehicular Technology Conference<---Multichannel CSMA with signal power-based channel selection for multihop wireless networks
+802EF8E1	IEEE Communications Magazine<---Cross-layer design for wireless networks
+7D115A04	Computer Communication Review<---A control-theoretic approach to flow control
+7F9F6078	Computer Communication Review<---ExOR: opportunistic multi-hop routing for wireless networks
+80144584	Global Communications Conference<---WLC30-2: Channel Assignment and Routing for Multi-Channel Wireless Mesh Networks Using Simulated Annealing
+75DEF26D	Information not present<---Network flows: theory, algorithms, and applications
+5CAEA69D	Ieice Transactions<---Dynamic Channel Assignment and Reassignment for Exploiting Channel Reuse Opportunities in Ad Hoc Wireless Networks
+79413B66	Computer Communication Review<---Enabling large-scale wireless broadband: the case for TAPs
+5ACDFB17	Wireless Networks<---Models and approximation algorithms for channel assignment in radio networks
+7E2FDC1E	Sigmetrics Performance Evaluation Review<---Algorithmic aspects of capacity in wireless networks
+5BF707A2	Mobile Ad Hoc Networking and Computing<---A multi-channel mac protocol for ad hoc wireless networks
+769225A5	Computer Networks<---An improved topology discovery algorithm for networks with wormhole routing and directed links
+7D112FF2	International Conference on Communications<---A TDMA-based bandwidth reservation protocol for QoS routing in a wireless mobile ad hoc network
+7DA55B11	IEEE Journal on Selected Areas in Communications<---A transport protocol for supporting multimedia streaming in mobile ad hoc networks
+7858F0C0	ACM/IEEE International Conference on Mobile Computing and Networking<---Opportunistic media access for multirate ad hoc networks
+8066542A	Wireless Networks<---A unified framework and algorithm for channel assignment in wireless networks
+777C08F2	ACM Computing Surveys<---Metaheuristics in combinatorial optimization: Overview and conceptual comparison
+803601BA	Information not present<---Wireless internet gateways (WINGs)
+7F924931	Wireless Networks<---A high-throughput path metric for multi-hop wireless routing
+7D04BFE5	International Conference on Computer Communications<---On the capacity of wireless networks: the relay case
+7F3FC5E9	International Conference on Computer Communications and Networks<---A multichannel CSMA MAC protocol with receiver-based channel selection for multihop wireless networks
+7C967621	IEEE Wireless Communications<---The nominal capacity of wireless mesh networks
+5C293240	International Conference on Network Protocols<---Optimizing the placement of integration points in multi-hop wireless networks
+7DEA718A	International Conference on Communications<---A channel access protocol for multihop wireless networks with multiple channels
+80557CED	IEEE Transactions on Information Theory<---Link scheduling in polynomial time
+7D150490	International Conference on Computer Communications<---Load-balancing routing for wireless access networks
+7FDBAAB8	Neural Computing and Applications<---Theoretical maximum throughput of IEEE 802.11 and its applications
+810C6314	Global Communications Conference<---WSN16-4: Logical Topology Design and Interface Assignment for Multi-Channel Wireless Mesh Networks
+80982FFC	IEEE Transactions on Mobile Computing<---Dynamic Source Routing in Ad Hoc Wireless Networks
+6D40A6B4	Information not present<---A new multi-channel MAC protocol with on-demand channel assignment for multi-hop mobile ad hoc networks
+7F5957F8	Global Communications Conference<---WLC30-4: Static Channel Assignment in Multi-radio Multi-Channel 802.11 Wireless Mesh Networks: Issues, Metrics and Algorithms
+807ADE1B	International Conference on Computer Communications<---A receiver-initiated collision-avoidance protocol for multi-channel networks
+81DFAE6A	International Parallel and Distributed Processing Symposium<---The end-to-end performance effects of parallel TCP sockets on a lossy wide-area network
+8101FDD9	ACM/IEEE International Conference on Mobile Computing and Networking<---Characterizing achievable rates in multi-hop wireless networks: the joint routing and scheduling problem
+80EA313A	IEEE Journal on Selected Areas in Communications<---A scalable monitoring approach based on aggregation and refinement
+7A027357	IEEE Communications Magazine<---A survey on wireless mesh networks
+7561E53B	IEEE Communications Magazine<---Does the IEEE 802.11 MAC protocol work well in multihop wireless ad hoc networks?
+7FE347CB	International Conference on Computer Communications<---Hop-reservation multiple access (HRMA) for ad-hoc networks
+7DD6AA7A	IEEE Network<---Scalable geographic routing algorithms for wireless ad hoc networks
+7444F77D	Mobile Networks and Applications<---Vertical handoffs in wireless overlay networks
+07EE0080	Wireless Networks<---A new model for scheduling packet radio networks
+59331B90	Information not present<---Low-Interference Topology Control for Wireless Ad Hoc Networks
+7E8168C6	Artificial Intelligence<---Artificial Intelligence: A Modern Approach
+7D8DBE0A	International Conference on Network Protocols<---Transport level mechanisms for bandwidth aggregation on mobile hosts
+7D37C34A	Mobile Ad Hoc Networking and Computing<---Does topology control reduce interference?
+7DD73BEC	International Conference on Computer Communications<---QoS routing for mobile ad hoc networks

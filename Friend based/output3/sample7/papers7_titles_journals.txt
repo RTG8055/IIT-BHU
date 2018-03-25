@@ -1,0 +1,187 @@
+7F22C203	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A theory for multiresolution signal decomposition: the wavelet representation
+7684BC04	Applied Optics<---Real-time fingerprint sensor using a hologram
+80101D98	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Goal-directed evaluation of binarization methods
+7A635F7C	Attention Perception & Psychophysics<---Energy processing and coding factors in texture discrimination and image processing
+7EA703CB	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A multichannel approach to fingerprint classification
+75489414	Annals of Mathematical Statistics<---Order of Dependence in a Stationary Normally Distributed Two-Way Series
+7AC07395	Proceedings of the IEEE<---Statistical and structural approaches to texture
+7CF0EB54	IEEE Computational Science and Engineering<---Fingerprint matching using transformation parameter clustering
+7F02D276	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Direct gray-scale extraction of features for character recognition
+0A6A7C52	Information not present<---Laboratory evaluation of the IriScan prototype biometric identifier
+7F5D15FB	Pattern Recognition<---A nonlinear orientation model for global description of fingerprints
+7A54F2A9	IEEE Transactions on Neural Networks<---Avoiding false local minima by proper initialization of connections
+5B370569	Information not present<---Classification of Fingerprint Images
+7D8BB64E	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Modal matching for correspondence and recognition
+78A6F70D	Pattern Recognition<---On fingerprint pattern recognition
+0A32CC70	Information not present<---An Approach to Fingerprint Identification by Using the Attributes of Feature Lines of Fingerprint
+7795BBB8	Iee Proceedings-vision Image and Signal Processing<---Novel approach to automated fingerprint recognition
+754A1A46	Pattern Recognition<---Adaptive flow orientation-based feature extraction in fingerprint images
+7D562159	IEEE Transactions on Pattern Analysis and Machine Intelligence<---High confidence visual recognition of persons by a test of statistical independence
+7DB6CB3D	IEEE Transactions on Image Processing<---Filterbank-based fingerprint matching
+762F072E	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Type Classification of Fingerprints: A Syntactic Approach
+6D5D8964	International Conference on Pattern Recognition<---Synthetic fingerprint-image generation
+790B1505	Information not present<---Development Of A Real-Time Laser Scanning System For Object Recognition, Inspection, And Robot Control
+7C533240	IEEE Transactions on Software Engineering<---An efficient pictorial database system for PSQL
+7E23C1C2	Proceedings of the IEEE<---Fingerprint features-statistical analysis and system performance estimates
+7CE99825	IEEE Transactions on Information Theory<---The theory of signal detectability
+778BC467	Pattern Recognition<---Scale-orientation histogram for texture image retrieval
+7F684F0B	IEEE MultiMedia<---Content based video indexing and retrieval
+805EEE2A	IEEE Transactions on Computers<---A Hybrid Optical Computer Processing Technique for Fingerprint Identification
+7933B5C3	Pattern Recognition<---Evaluation of pattern classifiers for fingerprint and OCR applications
+7D123F95	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Filtering for texture classification: a comparative study
+06FF1F73	Information not present<---An Efficient Approach to Online Fingerprint Verification
+80668E40	International Conference on Computer Vision<---Geometric Hashing: A General And Efficient Model-based Recognition Scheme
+5C32204A	Information not present<---Index-based object recognition in pictorial data management
+5B987A06	Information not present<---Signal detection theory and ROC analysis
+806647B3	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Multidimensional indexing for recognizing visual shapes
+7DE791F5	Information not present<---Scale-Space Theory in Computer Vision
+5FCDEF77	International Conference on Image Processing<---Minutiae extraction by adaptive tracing the gray level ridge of the fingerprint image
+7E771225	IEEE Transactions on Knowledge and Data Engineering<---A visual information management system for the interactive retrieval of faces
+6D8E259D	International Conference on Pattern Recognition<---Rotation-invariant operators applied to enhancement of fingerprints
+77610135	Pattern Recognition<---Fingerprint recognition in low quality images
+815003FB	Pattern Recognition Letters<---Combining multiple matchers for a high security fingerprint verification system
+77495858	Pattern Recognition<---Geometric framework for fingerprint image classification
+7FF886B9	IEEE Transactions on Knowledge and Data Engineering<---The knowledge-based object-oriented PICQUERY/sup +/ language
+7887FCEF	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Iconic Indexing by 2-D Strings
+803F4A8A	Information not present<---Image filter design for fingerprint enhancement
+7F762D89	Journal of Cognitive Neuroscience<---Eigenfaces for recognition
+7F64333B	International Conference on Pattern Recognition<---A structural approach to fingerprint classification
+79206A87	Pattern Recognition<---Point Pattern Matching by Relaxation
+5E0E4653	Information not present<---A hidden Markov model fingerprint classifier
+7B8AE48A	Journal of Machine Vision and Applications<---Fingerprint image analysis for automatic identification
+780489C2	IEEE Transactions on Systems, Man, and Cybernetics<---A graph distance measure for image analysis
+8150B57F	IEEE MultiMedia<---Knowledge-assisted content based retrieval for multimedia databases
+7EBA9809	International Symposium on Neural Networks<---An optical Fourier/electronic neurocomputer automated inspection system
+04F80B34	Journal of Forensic Sciences<---Fingerprint Comparison. I: Similarity of Fingerprints
+7FCCCBB3	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Systematic methods for the computation of the directional fields and singular points of fingerprints
+778D5F06	IEEE Computer<---Massively parallel model matching: geometric hashing on the Connection Machine
+7FB3ABDE	IEEE Transactions on Pattern Analysis and Machine Intelligence<---FVC2000: fingerprint verification competition
+658170DB	Information not present<---Automated System for Fingerprint Authentication Using Pores and Ridge Structure
+7C0FCEB9	Pattern Recognition<---An approach to fingerprint filter design
+757C555C	Bell System Technical Journal<---Information in the zero crossings of bandpass signals
+7E2F5497	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A Tree System Approach for Fingerprint Pattern Recognition
+76862068	Communications of The ACM<---Thinning algorithms on rectangular, hexagonal, and triangular arrays
+77690365	Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)<---Theory of Edge Detection
+78C6B10C	Pattern Recognition<---Segmentation of fingerprint images using the directional image
+7D1D8AC9	Information not present<---Fingerprint image processing using neural networks
+7ED2629A	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Fingerprint image enhancement: algorithm and performance evaluation
+7FDE1A1F	International Conference on Pattern Recognition<---Fingerprint minutiae matching based on the local and global structures
+80332D1B	Information not present<---A cost effective fingerprint verification algorithm for commercial applications
+7C25950A	It & People<---Human Identification in Information Systems : Management Challenges and Public Policy Issues
+7A8049D2	Pattern Recognition<---A model for interpreting fingerprint topology
+75DA4E2B	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Multidimensional orientation estimation with applications to texture analysis and optical flow
+81047121	IEEE Spectrum<---Automatic fingerprint identification
+7F772360	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Matching Images to Models for Registration and Object Detection via Clustering
+7D5F1916	IEEE Transactions on Acoustics, Speech, and Signal Processing<---Complete discrete 2-D Gabor transforms by neural networks for image analysis and compression
+790BB3E4	Pattern Recognition<---A syntactic approach to fingerprint pattern recognition
+7812615D	IEEE Transactions on Pattern Analysis and Machine Intelligence<---On-line fingerprint verification
+8060E723	Technometrics<---Digital Image Processing
+7939D9EC	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Structural indexing: efficient 3-D object recognition
+80B7ECB1	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A graduated assignment algorithm for graph matching
+799AAD16	Pattern Recognition<---Automatic recognition and analysis of human faces and facial expressions: a survey
+063CC2DA	Information not present<---Mathematical Statistics and Data Analysis Second Edition
+7A94285D	Proceedings of SPIE<---Adaptive Digital Enhancement Of Latent Fingerprints
+80E83C95	Computer Graphics<---Generating textures on arbitrary surfaces using reaction-diffusion
+7FADF0D7	Journal of Electronic Imaging<---Digital Video: An introduction to MPEG-2
+7E49EFD2	Computer Vision and Pattern Recognition<---The FERET evaluation methodology for face-recognition algorithms
+074F190B	Information not present<---Neural-Network Fingerprint Classification
+7E310A50	Information not present<---The FERET verification testing protocol for face recognition algorithms
+7B42B7E0	Pattern Recognition<---Edge Detection in fingerprints
+7D8AED5A	IEEE Computer<---An introduction evaluating biometric systems
+7D0F4DF1	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Combination of multiple classifiers using local accuracy estimates
+78458F77	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Thinning Algorithms for Gray-Scale Pictures
+80DE0921	International Conference on Acoustics, Speech, and Signal Processing<---M-lattice: a novel non-linear dynamical system and its application to halftoning
+76A4A31F	Pattern Recognition<---Point matching using asymmetric neural networks
+7E3E0BA5	Proceedings of the IEEE<---An identity-authentication system using fingerprints
+593EC877	Information not present<---Identity Authentication Using Fingerprints
+79558DCA	Pattern Recognition<---Fingerprint image postprocessing: a combined statistical and structural approach
+0859DDD2	Neural Computation<---Statistical Approach to Shape from Shading: Reconstruction of 3D Face Surfaces from Single 2D Images
+78FA833B	Vision Research<---Two-dimensional spectral analysis of cortical receptive field profiles
+80DAF227	Pattern Recognition<---Feature extraction for fingerprint classification
+7AD05E99	International Journal of Computer Vision<---Photobook: tools for content-based manipulation of image databases
+81492BEE	IEEE Transactions on Software Engineering<---PICQUERY: a high level query language for pictorial database management
+7DFDA7CF	Field-Programmable Custom Computing Machines<---Finding lines and building pyramids with SPLASH 2
+811BDE08	IEEE Transactions on Software Engineering<---PROBE spatial data modeling and query processing in an image database application
+772CC84B	Pattern Recognition Letters<---Grey-tone skeletons of elongated objects using the concept of morphological automaton. Application to images of DNA molecules
+802D79B5	Microprocessors and Microsystems<---Image recognition problems of fingerprint identification
+073E708E	Computer Vision and Pattern Recognition<---Hierarchical model-based mo-tion estimation
+7F0CB2C9	It & People<---Touching Big Brother: How biometric technology will fuse flesh and machine
+7B0F35E8	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Empirical Evaluation of Computer Vision Algorithms
+094F30CC	Information not present<---Fingerprint Verification Using Hologram Matched Filterings
+7E284C39	International Conference on Document Analysis and Recognition<---Individuality of handwriting: a validation study
+7B306D7F	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Picture Indexing and Abstraction Techniques for Pictorial Databases
+7FDA76F3	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A Computational Approach to Edge Detection
+5C93F5AE	Information not present<---Signal processing for computer vision
+558245D5	Information not present<---A Method for the Description of Minutia Pairs in Epidermal Ridge Patterns
+7D6F6EC6	Information not present<---Directional Field Computation for Fingerprints Based on the Principal Component Analysis of Local Gradients
+8017072C	Pattern Recognition<---Fingerprint identification using graph matching
+59605A76	Biological Cybernetics<---Texture discrimination by Gabor functions
+0079A41D	International Conference on Computer Vision<---Object recognition using alignment
+6CC483DD	Information not present<---Fingerprint Comparison. II: On the Development of a Single Fingerprint Filing and Searching System
+75173AFB	IEEE Transactions on Geoscience and Remote Sensing<---Registering Landsat images by point matching
+7D493CE0	Information not present<---Faster learning variations on back propagation: an empirical study
+806C38BC	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Direct gray-scale minutiae detection in fingerprints
+7DFE8F0D	Computer Graphics<---Reaction-diffusion textures
+7DB8E559	International Conference on Computer Vision<---Tracking and recognizing rigid and non-rigid facial motions using local parametric models of image motion
+76B57DE0	IEEE Transactions on Pattern Analysis and Machine Intelligence<---The design and use of steerable filters
+7A69FC3B	ACM Multimedia<---CVEPS - a compressed video editing and parsing system
+5CD19F86	Ieice Transactions<---Biometrics Systems: Anatomy of Performance
+7D552DC7	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Decision combination in multiple classifier systems
+7D9F0AB7	International Conference on Pattern Recognition<---On-line fingerprint verification
+0AF99699	Information not present<---A Fingerprint Recognition System With Micro-Computer
+7D43818A	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A real-time matching system for large fingerprint databases
+79BC8DFB	Image and Vision Computing<---Orientation analysis for rotated human face detection
+8160C667	Computer Vision and Pattern Recognition<---Detecting dynamic behavior in compressed fingerprint videos: distortion
+7A43598A	Applied Optics<---Real-time fingerprint verification system
+0A178055	International Joint Conference on Artificial Intelligence<---Analyzing oriented patterns
+7B7853EE	Electronics Letters<---Algorithm for enhancing fingerprint images
+7D77E3CC	American Journal of Physical Anthropology<---A multivariate approach to fingerprint variation in Papua New Guinea: Implications for prehistory
+80C0D843	IEEE Transactions on Circuits and Systems<---Cellular neural networks: theory
+797F141B	Psychological Review<---A decision-making theory of visual detection
+013CE901	Information not present<---A neural-net training program based on conjugate-gradient optimization
+76B81BB7	Pattern Recognition<---Finding point correspondences using simulated annealing
+799F3C41	IEEE Transactions on Systems, Man, and Cybernetics<---An information theory model for the evaluation of circumstantial evidence
+7BB8856D	IEEE Transactions on Pattern Analysis and Machine Intelligence<---An experimental comparison of range image segmentation algorithms
+75164B99	Pattern Recognition<---Fingerprint classification using a hexagonal fast fourier transform
+800A8617	International Conference on Pattern Recognition<---Comparison of face verification results on the XM2VTFS database
+780376A0	Journal of Medical Genetics<---Development of dermal ridges in the fetus.
+7AAF8C28	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Database Structure and Manipulation Capabilities of a Picture Database Management System (PICDMS)
+77B75152	Pattern Recognition<---An application of stochastic languages to fingerprint pattern recognition
+5FA8A7A4	Information not present<---Fingerprint recognition using neural network
+5E01BEE8	IEEE MultiMedia<---Facial Identification System Using Multiple Retrievals Techniques
+78596CC2	Attention Perception & Psychophysics<---On discriminating visual textures and images
+7ED796CE	American Journal of Physical Anthropology<---Distribution of epidermal ridge minutiae
+7E4B8249	International Joint Conference on Artificial Intelligence<---An iterative image registration technique with an application to stereo vision
+81699AD6	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Multichannel texture analysis using localized spatial filters
+7693FA59	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A Width-Independent Fast Thinning Algorithm
+7EB0B9DE	Cvgip: Image Understanding<---On the use of level curves in image analysis
+5B527D12	Information not present<---Advanced digital signal processing
+782F5C5C	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Computerized flow field analysis: oriented texture fields
+7DA462AB	Pattern Recognition<---Image retrieval using color and shape
+75FD7F05	IEEE Computer<---Building and using a highly parallel programmable logic array
+6CA681DC	International Conference on Multimedia Computing and Systems<---Extracting motion annotations from MPEG-2 compressed video for HDTV content management applications
+0221BC0F	Information not present<---A Critical Analysis of Quantitative Fingerprint Individuality Models
+7E2DAD9E	Journal of the Acoustical Society of America<---Indexing Fingerprint Databases Based on Multiple Features
+738E7176	European Conference on Computer Vision<---Hierarchical Model-Based Motion Estimation
+0A4E3A80	Information not present<---Fingerprint matching: data acquisition and performance evaluation
+7D122D65	International Conference on Pattern Recognition<---Restoration and enhancement of fingerprint images using M-lattice-a novel nonlinear dynamical system
+7A455D4E	Pattern Recognition<---Machine identification of human faces
+79DC11FC	IEEE Transactions on Systems, Man, and Cybernetics<---Textural Features for Image Classification
+816C3258	Formal Methods in System Design<---Extraction of Singular Points from Directional Fields of Fingerprints.
+7DE65192	Proceedings of the National Academy of Sciences of the United States of America<---Neurons with graded response have collective computational properties like those of two-state neurons
+7CDB1A3E	Pattern Recognition<---Retrieval of similar pictures on pictorial databases
+7A8AB444	Pattern Recognition<---Automated fingerprint recognition using structural matching
+78AC0104	Pattern Recognition<---Fingerprint pattern classification
+1420A1D1	Information not present<---Increasing Efficiency in the Criminal Justice System: The Use of New Technology for Criminal Identification and Latent Print Processing,
+7E62284E	Cvgip: Image Understanding<---Detection of Curved and Straight Segments from Gray Scale Topography
+757F5FE0	Multimedia Systems<---Vision texture for annotation
+757557E6	Pattern Recognition Letters<---Line thinning by line following
+7A6107B4	Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing<---Index-based object recognition in pictorial data management
+718513E2	International Conference on Pattern Recognition<---Effect of controlled image acquisition on fingerprint matching
+7FBF3E82	Pattern Recognition Letters<---Grey-level thresholding of images using a correlation criterion
+7798C2AC	Journal of The Optical Society of America A-optics Image Science and Vision<---Uncertainty relation for resolution in space, spatial frequency, and orientation optimized by two-dimensional visual cortical filters
+6BE29313	Information not present<---Textured Image Segmentation Using Localized Receptive Fields
+7FE2C8DA	Iee Proceedings-vision Image and Signal Processing<---Fingerprint enhancement by directional Fourier filtering
+5D91345B	Information not present<---Modelling Plastic Distortion in Fingerprint Images
+7E86C72F	IEEE Transactions on Knowledge and Data Engineering<---Image information systems: where do we go from here?
+7E7B912E	IEEE Transactions on Pattern Analysis and Machine Intelligence<---On the individuality of fingerprints

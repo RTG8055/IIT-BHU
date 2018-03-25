@@ -1,0 +1,21 @@
+7FB9A490	IEEE Journal on Selected Areas in Communications<---Local area network characteristics, with implications for broadband network congestion management
+764BE06B	Computer Communications<---Modelling end-to-end protocols over interconnected heterogeneous networks
+72BA6FA1	Personal, Indoor and Mobile Radio Communications<---Performance evaluation and enhancement of the CSMA/CA MAC protocol for 802.11 wireless LANs
+5D5E39BD	Personal, Indoor and Mobile Radio Communications<---Performance analysis of IEEE 802.11 CSMA/CA medium access control protocol
+63B81588	Wireless Networks<---Performance modeling of asynchronous data transfer methods of IEEE 802.11 MAC protocol
+80E6A3A9	IEEE Journal on Selected Areas in Communications<---Performance analysis of the IEEE 802.11 distributed coordination function
+815A17CD	International Performance, Computing, and Communications Conference<---Performance evaluation of the IEEE 802.15.4 MAC for low-rate low-power wireless networks
+7FAD7FF6	IEEE Transactions on Communications<---Packet Switching in Radio Channels: Part II--The Hidden Terminal Problem in Carrier Sense Multiple-Access and the Busy-Tone Solution
+59CDD85D	Broadband Communications, Networks and Systems<---Performance of IEEE 802.15.4 beacon enabled PAN with uplink transmissions in non-saturation mode - access delay for finite buffers
+771A1E34	Wireless Networks<---Wireless data: systems, standards, service
+7F914B0B	Proceedings of the IEEE<---Wireless data communications
+80B2DFDF	Design, Automation, and Test in Europe<---Energy Efficiency of the IEEE 802.15.4 Standard in Dense Wireless Microsensor Networks: Modeling and Improvement Perspectives
+7D2D412E	IEEE Computer<---PicoRadio supports ad hoc ultra-low power wireless networking
+6B8BE51F	Mobile Networks and Applications<---Performance study of access control in wireless LANs—IEEE 802.11 DFWMAC and ETSI RES 10 Hiperlan
+7B37ECFF	IEEE Communications Letters<---IEEE 802.11-saturation throughput analysis
+7D843C23	IEEE\/ACM Transactions on Networking<---On the self-similar nature of Ethernet traffic (extended version)
+058F9D45	Information not present<---Performance evaluation of the ieee 802. 11 wireless local area network protocol
+0ABF51D9	Information not present<---I-WLAN: Intelligent Wireless Local Area Networking
+7E2F3970	IEEE Communications Magazine<---Will IEEE 802.15.4 make ubiquitous networking a reality?: a discussion on a potential low power, low bit rate standard
+78A1FB4D	Ad Hoc Networks<---The impact of MAC parameters on the performance of 802.15.4 PAN
+80821DA4	Personal, Indoor and Mobile Radio Communications<---Interference analysis of nonpersistent CSMA with hidden terminals in multicell wireless data networks

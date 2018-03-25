@@ -1,0 +1,551 @@
+7E3B4287	Information not present<---Pattern Recognition and Neural Networks
+7BEFFDBD	IEEE Transactions on Systems, Man, and Cybernetics<---Fuzzy identification of systems and its applications to modeling and control
+7C29A9A7	Artificial Intelligence<---On the complexity of admissible search algorithms
+79EA559D	Fuzzy Sets and Systems<---On the optimization of fuzzy decision trees
+7FF98835	Communications of The ACM<---An optimal evaluation of Boolean expressions in an online query system
+76DC36DC	IEEE Transactions on Computers<---Binary Decision Diagrams
+58803894	International Conference on Machine Learning<---Induction of decision trees from inconclusive data
+7D74F703	Information not present<---Decision Tree Pruning as a Search in the State Space
+79F2179B	Cognitive Science<---Feature discovery by competitive learning
+7AE9ABC8	Physical Review D<---A Comparison of the Use of Binary Decision Trees and Neural Networks in Top Quark Detection
+8161508D	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Building a sonar map in a specular environment using a single mobile sensor
+5DEF8F25	Information not present<---Transient stability of power systems : theory and practice
+012B659C	Information not present<---Improving the convergence of back propagation learning with second-order methods
+5DC19B3D	Emerging Technologies and Factory Automation<---Fuzzy Robot Navigation In Unknown Environments
+5E35BB9A	International Joint Conference on Artificial Intelligence<---Robust execution of robot plans using fuzzy logic
+7BF70E1F	Artificial Intelligence<---Noise modelling and evaluating learning from examples
+7F1B934B	Information not present<---A theory and methodology of inductive learning
+5A498A16	Information not present<---A Genetic Algorithm Approach to Multiple-Fault Diagnosis
+5E4707F6	International Joint Conference on Artificial Intelligence<---From dynamic programming to search algorithms with functional costs
+00694636	Information not present<---Continuous-Valued Attributes in Fuzzy Decision Trees
+7CEA5F57	IEEE Transactions on Information Theory<---Minimum complexity density estimation
+7A7993A7	Neural Networks<---Learning fuzzy decision trees
+76140B08	Neural Computation<---Regularization theory and neural networks architectures
+7B1113C8	Knowledge Based Systems<---Initialization of neural networks by means of decision trees
+7D32D921	IEEE Transactions on Robotics and Automation<---An ultrasonic visual sensor for three-dimensional object recognition using neural networks
+78A152A7	Pattern Recognition<---A comparison of neural net classifiers and linear tree classifiers: Their similarities and differences
+7ED7366D	Neural Computation<---The upstart algorithm: a method for constructing and training feedforward neural networks
+81343169	International Conference on Data Mining<---CMAR: accurate and efficient classification based on multiple class-association rules
+77E0EFA3	Journal of Statistical Planning and Inference<---Selection criteria for the construction of efficient diagnostic keys
+80C2BBF2	International Conference on Machine Learning<---An Improved Algorithm for Incremental Induction of Decision Trees
+7AB6D526	Annals of Statistics<---Projection-Based Approximation and a Duality with Kernel Methods
+7FBE3ABA	International Conference on Acoustics, Speech, and Signal Processing<---Embedded coding of speech: A vector quantization approach
+7F3F48CC	Information not present<---Uncertain reasoning in an ID3 machine learning framework
+7A385978	Information Sciences<---A genetic algorithm method for optimizing fuzzy decision trees
+75A8EB02	Applied Intelligence<---Using Single-Layered Neural Networks for the Extraction of Conjunctive Rules and Hierarchical Classifications
+08B552C9	International Joint Conference on Artificial Intelligence<---Concept learning and the problem of small disjuncts
+802CC66A	IEEE Transactions on Acoustics, Speech, and Signal Processing<---An 800 bit/s vector quantization LPC vocoder
+5FA02166	Machine Learning<---An Empirical Comparison of Pruning Methods for Decision Tree Induction
+7D4D0AF1	Annals of Statistics<---Multivariate Adaptive Regression Splines
+74C4EFBC	Information not present<---Continuous ID3 algorithm with fuzzy entropy measures
+716D74BC	Information not present<---Generating fuzzy rules from data
+7968C947	Sigplan Notices<---Some aspects of decision table conversion techniques
+0021EA14	SIAM International Conference on Data Mining<---Expanding the Training Data Space Using Emerging Patterns and Genetic Methods
+7726E79E	Machine Learning<---Incremental Learning from Noisy Data
+7B3DB8BB	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Pattern Recognition as Rule-Guided Inductive Inference
+0491CCC1	International Joint Conference on Artificial Intelligence<---Concept Formation From Very Large Training Sets
+803420B4	International Conference on Robotics and Automation<---Noise rejection for ultrasonic sensors in mobile robot applications
+5D2A966F	Information not present<---On the induction of decision trees for multiple concept learning
+78EDF66D	Machine Learning<---Efficient incremental induction of decision trees
+7F062F5A	IEEE Transactions on Computers<---Growing and pruning neural tree networks
+7FE5EEA1	IEEE Power & Energy Magazine<---An Artificial Intelligence Framework for On-Line Transient Stability Assessment of Power Systems
+5CE6E41F	International Symposium on Physical Design<---Feature construction: An analytic framework and an application to decision trees
+795EF3C6	Symposium on the Theory of Computing<---The complexity of theorem-proving procedures
+754330FE	Proceedings of the National Academy of Sciences of the United States of America<---Learning algorithms and probability distributions in feed-forward and feed-back networks.
+77FA77AD	Journal of Complexity<---On the capabilities of multilayer perceptrons
+7DD3C0A0	International Conference on Robotics and Automation<---A reinforcement-learning approach to reactive control policy design for autonomous robots
+7C76F60B	IEEE Transactions on Computers<---A Branch and Bound Algorithm for Computing k-Nearest Neighbors
+760E5DF7	Information Processing Letters<---Finding nearest neighbours
+5B79C7AF	International Conference on Machine Learning<---Unknown attribute values in induction
+73B5B5FF	Journal of Intelligent and Robotic Systems<---Multi-Layer Hierarchical Rule Learning in Reactive Robot Control Using Incremental Decision Trees
+7F2CA464	Machine Learning<---Decision Tree Induction Based on Efficient Tree Restructuring
+76B2D484	Communications of The ACM<---Application of game tree searching techniques to sequential pattern recognition
+7756E23C	Proceedings of the IEEE<---Vector quantization in speech coding
+8029E3CF	Information not present<---Coupling of K-NN with decision trees for power system transient stability assessment
+0BBB0FFC	Connection Science<---A Neural Network Construction Algorithm which Maximizes the Likelihood Function
+776AE56D	Information not present<---Algorithms + Data Structures = Programs
+7E27AAE1	IEEE Transactions on Acoustics, Speech, and Signal Processing<---Layered neural nets for pattern recognition
+802F74AF	IEEE Transactions on Information Theory<---Least squares quantization in PCM
+7DEF67AE	Machine Learning<---Incremental Induction of Decision Trees
+09294263	Information not present<---The Role of Structured Induction in Expert Systems
+7767124E	Physics Letters A<---Fast simulated annealing
+7FBF63D5	IEEE Transactions on Computers<---A Nonparametric Partitioning Procedure for Pattern Classification
+81646B47	Machine Learning<---Symbolic and Neural Learning Algorithms: An Experimental Comparison
+7DEB5A3E	Information not present<---A wall following robot with a fuzzy logic controller optimized by a genetic algorithm
+79400D5D	IEEE Transactions on Systems, Man, and Cybernetics<---K-S Test for Detecting Changes from Landsat Imagery Data
+642E8354	Clinical Orthopaedics and Related Research<---Technical Note: Bias and the Quantification of Stability
+79AB7958	IEEE Transactions on Systems, Man, and Cybernetics<---Outline of a New Approach to the Analysis of Complex Systems and Decision Processes
+7C705551	IEEE Transactions on Computers<---P-functions: A new tool for the analysis and synthesis of binary programs
+7BA3EB0B	Conference on Decision and Control<---Artificial intelligence applied to on-line transient stability assessment of electric power systems
+7BF96EAE	Journal of the Operational Research Society<---Expert Systems - Rule Induction with Statistical Data
+5A322F50	Information not present<---Automatic Learning Techniques in Power Systems
+59B3E6B2	Parallel Problem Solving from Nature<---Lamarckian Evolution, The Baldwin Effect and Function Optimization
+7E79227A	International Symposium on Neural Networks<---Pipelined neural tree learning by error forward-propagation
+7E921BC3	Sigmod Record<---Data mining: practical machine learning tools and techniques with Java implementations
+76C9339F	Biometrika<---Principles and procedures of statistics.
+7A978A45	Machine Learning<---Trading Accuracy for Simplicity in Decision Trees
+5DBDA75B	Information not present<---Cognitive models from subcognitive skills
+5D1C587F	International Joint Conference on Artificial Intelligence<---Duce, an oracle-based approach to constructive induction
+5D7C34D8	International Conference on Data Mining<---Using emerging patterns and decision trees in rare-class classification
+71C09723	Information not present<---When does overfitting decrease prediction accuracy in induced decision trees and rule sets?
+0649F04B	Information not present<---Choosing the Best Pruned Decision Tree: A Matter of Bias
+7D62DB74	Information not present<---Learning to solve PP-attachment ambiguities in natural language processing through neural networks
+2F68D1C4	Information not present<---The decision tree approach to classification
+04A80B15	Information not present<---Constructing Decision Trees in Noisy Domains
+767A3275	IEEE Transactions on Information Theory<---A unified approach for encoding clean and noisy sources by means of waveform and autoregressive model vector quantization
+7AEC0533	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Statistical Properties of Error Estimators in Performance Assessment of Recognition Systems
+7559DC82	IEEE Transactions on Computers<---Simple Binary Identification Problems
+08B225C5	International Joint Conference on Artificial Intelligence<---Learning oblique decision trees
+7FCADBE2	Fuzzy Sets and Systems<---Can fuzzy neural nets approximate continuous fuzzy functions?
+7F29961A	ACM Computing Surveys<---Decision Trees and Diagrams
+7B685E64	Machine Learning<---Learning Decision Lists
+753DB472	ACM Transactions on Programming Languages and Systems<---The Activity of a Variable and Its Relation to Decision Trees
+7C0BA095	Proceedings of the IEEE<---Entropy nets: from decision trees to neural networks
+7FB04BF9	IEEE Transactions on Neural Networks<---Classification trees with neural network feature extraction
+80680BC3	IEEE Transactions on Acoustics, Speech, and Signal Processing<---On "Soft" bit allocation
+7638AAF1	Fuzzy Sets and Systems<---A simple but powerful heuristic method for generating fuzzy rules from numerical data
+61368C14	Information not present<---The Power of Decision Tables
+5D5A7D09	Information not present<---A Theory of Approximate Reasoning
+769F1FDD	Zygon<---CURRENT DEVELOPMENTS IN ARTIFICIAL INTELLIGENCE AND EXPERT SYSTEMS
+7988B4DC	Communications of The ACM<---The synthetic approach to decision table conversion
+5F3E2E96	Information not present<---On changing continuous attributes into ordered discrete attributes
+5D71CC3B	Information not present<---Some Guidelines for Genetic Algorithms with Penalty Functions
+7F16474F	Machine Learning<---Very Simple Classification Rules Perform Well on Most Commonly Used Datasets
+763C472A	Information & Computation<---Inferring decision trees using the minimum description length principle
+7EF9E334	IEEE Transactions on Information Theory<---Optimal pruning with applications to tree-structured source coding and modeling
+7FBAF15C	IEEE Transactions on Power Systems<---ALFA: automated load forecasting assistant
+806FCA97	IEEE Transactions on Applications and Industry<---Artificial neurogenesis: an application to autonomous robotics
+7AC72565	IEEE Intelligent Systems<---Machine learning approaches to power-system security assessment
+809D1AC2	IEEE Transactions on Software Engineering<---Learning from examples: generation and evaluation of decision trees for software resource analysis
+5F8220F2	Information not present<---On estimating probabilities in tree pruning
+7CBAABF4	International Syposium on Methodologies for Intelligent Systems<---Prime rule-based methodologies give inadequate control
+5E33C7E4	International Conference on Machine Learning<---Experimental comparison of human and machine learning formalisms
+78A7CC4E	IEEE Transactions on Information Theory<---Decision tree design from a communication theory standpoint
+7F3CE23A	Statistics and Computing<---Learning classification trees
+7B132B81	Sigmod Record<---Mining frequent patterns without candidate generation
+6F46966A	Information not present<---Fuzzy Logic in Control:
+5E9D3B7B	Information not present<---Pattern recognition : a statistical approach
+8062DA64	Computer Graphics<---Accurate triangulations of deformed, intersecting surfaces
+7B931931	Pattern Recognition<---Pattern recognition as a quest for minimum entropy
+763B820C	Communications of The ACM<---Audit trail compaction for database recovery
+76A4E3D5	Proceedings of the IEEE<---The self-organizing map
+77E1AAAF	Neural Networks<---Convergence results for the EM approach to mixtures of experts architectures
+805225B2	Information not present<---Fuzzy techniques in pattern recognition
+76812D93	Biological Cybernetics<---Learning and Using Specific Instances
+7B8744C5	Information not present<---Dynamic ID3: a symbolic learning algorithm for many-valued attribute domains
+80AED1EE	World Congress on Computational Intelligence<---Fuzzy decision trees by fuzzy ID3 algorithm and its application to diagnosis systems
+09433009	Journal of Research and Practice in Information Technology<---Concept development for Expert System Knowledge Bases
+60584A2D	Information not present<---Maximum-entropy and Bayesian methods in inverse problems
+7C5A52F6	IEEE Transactions on Computers<---On the Mean Accuracy of Hierarchical Classifiers
+5D98A9EC	National Conference on Artificial Intelligence<---The Multi-Purpose Incremental Learning System AQ15 and Its Testing Application to Three Medical Domains
+79192947	Sigplan Notices<---Detab/65 in third-generation Cobol
+7BB4DC8C	Computational Learning Theory<---A statistical approach to decision tree modeling
+7A34EA8E	IEEE Transactions on Systems, Man, and Cybernetics<---Generating fuzzy rules by learning from examples
+6E852267	International Conference on Acoustics, Speech, and Signal Processing<---A fast codebook search algorithm for nearest-neighbor pattern matching
+7CBB38D6	Neural Networks<---Constrained topological mapping for nonparametric regression analysis
+7C61E26C	Information not present<---Perceptrons; an introduction to computational geometry
+76DE6639	Proceedings of the IEEE<---A performance comparison of trained multilayer perceptrons and trained classification trees
+80D27FA5	IEEE Transactions on Electronic Computers<---Geometrical and Statistical Properties of Systems of Linear Inequalities with Applications in Pattern Recognition
+77FB8F01	Proceedings of the American Mathematical Society<---On the boundedness of an iterative procedure for solving a system of linear inequalities
+583EB0FB	Information not present<---A theory of learning classification rules
+7924637D	Machine Learning<---On the Handling of Continuous-Valued Attributes in Decision Tree Generation
+583F0542	International Conference on Machine Learning<---Information filters and their implementation in the SYLLOG system
+7B600FA4	Discrete Mathematics<---On computing the length of longest increasing subsequences
+5CF5282A	International Joint Conference on Artificial Intelligence<---An empirical comparison of pattern recognition, neural nets, and machine learning classification methods
+59AFD234	Information not present<---5: Programs For Machine Learning
+7ABF77FE	Decision Support Systems<---FILM: a fuzzy inductive learning method for automated knowledge acquisition
+80C8D4B9	Information not present<---Problem-Solving Methods in Artificial Intelligence
+801B4B0E	IEEE Transactions on Acoustics, Speech, and Signal Processing<---Experiments on neural net recognition of spoken and written text
+5883D728	Information not present<---Sequential methods in pattern recognition and machine learning
+76B930CF	Applied Optics<---Self-organization and associative memory
+7B7D6EDF	Machine Learning<---Bias in information-based measures in decision tree induction
+7D284611	IEEE Transactions on Neural Networks<---Use of a quasi-Newton method in a feedforward neural network construction algorithm
+75595B31	Communications of The ACM<---Use of decision tables in computer programming
+7F1B0FB4	International Symposium on Circuits and Systems<---Decision trees applied to on-line transient stability assessment of power systems
+06075140	Information not present<---Hybridizing the Genetic Algorithm and the K Nearest Neighbors Classification Algorithm
+799296C4	Computing & Control Engineering Journal<---Recent developments in advanced robotics and intelligent systems
+812E07BA	Neural Computation<---Approximate statistical tests for comparing supervised classification learning algorithms
+7ED7FFA0	Proceedings of the National Academy of Sciences of the United States of America<---Neural networks and physical systems with emergent collective computational abilities
+7DCB34EF	IEEE Transactions on Neural Networks<---Fast training algorithms for multilayer neural nets
+794AB664	Europhysics Letters (epl)<---A Growth Algorithm for Neural Network Decision Trees
+0021C33A	Information not present<---Learning Decision Trees for Mapping the Local Environment in Mobile Robot Navigation
+7BFB9F1E	Fuzzy Sets and Systems<---Where do we stand on measures of uncertainty, ambiguity, fuzziness, and the like?
+80785C53	World Congress on Computational Intelligence<---Medical expert system with elastic fuzzy logic
+7516437E	Knowledge Discovery and Data Mining<---Exploring constraints to efficiently mine emerging patterns from large high-dimensional datasets
+71FF8780	International Conference on Acoustics, Speech, and Signal Processing<---Color image-sequence compression using adaptive binary-tree vector quantization with codebook replenishment
+7A394FA7	ACM Computing Surveys<---The Quadtree and Related Hierarchical Data Structures
+7794B7B3	Machine Learning<---Multivariate Decision Trees
+8021EC0E	Machine Learning<---Induction of Decision Trees
+7EF1103F	IEEE Transactions on Neural Networks<---Perceptron-based learning algorithms
+5E26543C	Information not present<---An Approach to the Design of a Linear Binary Tree Classifier
+75C9402F	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Hierarchical Classifier Design Using Mutual Information
+5C3379DB	Journal of Artificial Intelligence Research<---Iterative Optimization and Simplification of Hierarchical Clusterings
+76A98920	IEEE Transactions on Information Theory<---Application of information theory to the construction of efficient decision trees
+7B0B9374	Pattern Recognition<---A method for the design of binary tree classifiers
+7F5076F4	IEEE Transactions on Signal Processing<---Connected-digit speaker-dependent speech recognition using a neural network with time-delayed connections
+7768CF4C	Nature<---The recent excitement about neural networks
+81133AA3	IEEE Transactions on Systems, Man, and Cybernetics<---Entropy and Correlation: Some Comments
+7578DAD6	IEEE Transactions on Computers<---A Classifier Design Technique for Discrete Variable Pattern Recognition Problems
+78B3ED63	Electronics Letters<---Artificial neural network for image compression
+5C6DCBC7	Information not present<---Investigation and reduction of discretization Variance in decision tree induction
+5E783680	Information not present<---Designing Extended Entry Decision Tables and Optimal Decision Trees Using Decision Diagrams
+7AABBE19	IEEE Communications Magazine<---Vector quantization: A pattern-matching technique for speech coding
+7C1E7537	Neural Networks<---Toward generating neural network structures for function approximation
+773B2FCB	IEEE Transactions on Computers<---Quantization Complexity and Independent Measurements
+0134379B	Journal of Research and Practice in Information Technology<---A Dynamic Programming Algorithm to Optimise Decision Table Code
+0065238E	Information not present<---An introduction to multi-layer perceptrons
+76F9B6AA	IEEE Control Systems Magazine<---Neural computing for numeric-to-symbolic conversion in control systems
+6AEEB2DF	Australasian Database Conference<---A Bayesian approach to use emerging patterns for classification
+814EA709	Neural Computation<---Review of neural networks for speech recognition
+5E0031C8	Information not present<---Induction with randomization testing: decision-oriented analysis of large data sets
+78660169	Fuzzy Sets and Systems<---Fuzzy sets as a basis for a theory of possibility
+81724EA9	Neural Computation<---Engineering multiversion neural-net systems
+7CA84199	Symposium on the Theory of Computing<---On the learnability of Boolean formulae
+08862B41	Information not present<---Handling Constraints in Genetic Algorithms
+5A3E4CCD	Information not present<---Machine learning: applications in expert systems and information retrieval
+5B692AA4	Information not present<---Practical neural network recipes in C++
+58B4F0CE	Information not present<---Information Theory and Reliable Communication
+6CCA4975	IEEE Transactions on Computers<---Realization of Boolean Expressions by Atomic Digraphs
+7F381B24	IEEE Transactions on Communications<---An Algorithm for Vector Quantizer Design
+7AF22653	Biological Cybernetics<---AI-based approach to automatic sleep classification
+07111DAE	Information not present<---Neural network training via linear programming
+756F6D05	International Journal of Human-computer Studies \/ International Journal of Man-machine Studies<---Acquisition of uncertain rules in a probabilistic logic
+750F4E68	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Analysis and Design of a Decision Tree Based on Entropy Reduction and Its Application to Large Character Set Recognition
+7C816551	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Large Tree Classifier with Heuristic Search and Global Training
+5FDF5638	Information not present<---Rate distortion theory : a mathematical basis for data compression
+7F41D741	IEEE Transactions on Fuzzy Systems<---Improving learning accuracy of fuzzy decision trees by hybrid neural networks
+79EF2564	Neurocomputing<---Ontogenic neuro-fuzzy algorithm: F-CID3
+760F853F	Communications of The ACM<---On the conversion of decision tables to computer programs
+7C352860	Journal of the Operational Research Society<---Fuzzy sets, uncertainty, and information
+7B084F6E	Mathematics of Computation<---Applied regression analysis
+7DD39493	American Journal of Agricultural Economics<---Linear and nonlinear programming
+05413309	International Joint Conference on Artificial Intelligence<---An empirical comparison of ID3 and back-propagation
+7DD1C12E	IEEE Transactions on Systems, Man, and Cybernetics<---Learning piecewise control strategies in a modular neural network architecture
+768E8AB5	Information Sciences<---Optimal sequential arrangement of evaluation trees for boolean functions
+7ABCC9F4	Electronics Letters<---Map image segmentation based on thresholding and fuzzy rules
+7EAEDFB4	Neural Information Processing Systems<---Second Order Derivatives for Network Pruning: Optimal Brain Surgeon
+001EAA8C	Information not present<---Genesis and OOGA: Two Genetic Algorithms System
+5E34845D	International Conference on Machine Learning<---Incremental, instance-based learning of independent and graded concept descriptions
+7ED0BECD	Information not present<---Decision trees and multi-valued attributes
+7C099A8D	IEEE Transactions on Software Engineering<---A General Empirical Solution to the Macro Software Sizing and Estimating Problem
+8018D365	Information not present<---Pattern Recognition Via Linear Programming: Theory And Application To Medical Diagnosis
+755FF6C5	Machine Learning<---A Further Comparison of Splitting Rules for Decision-Tree Induction
+7E4E17C6	IEEE Transactions on Information Theory<---Universal modeling and coding
+5D2E0B4C	International Conference on Machine Learning<---Inductive learning with BCT
+2CCB698C	Information not present<---A VLSI chip set for real time vector quantization of image sequences
+7CCE0C4F	Neural Networks<---A connectionist learning algorithm with provable generalization and scaling bounds
+781A8C69	Fuzzy Sets and Systems<---A complete fuzzy decision tree technique
+803824A8	Machine Learning<---Learning with Genetic Algorithms: An Overview
+7F906AF3	Numerische Mathematik<---Smoothing noisy data with spline functions
+78782EA7	Soil Science<---The analysis of variance
+78BD0691	Neural Computation<---Hierarchical mixtures of experts and the EM algorithm
+073255CC	Information not present<---Feature Space Partitioning By Non-Linear And Fuzzy Decision Trees
+7FC53E92	International Symposium on Neural Networks<---Optimal pruning of neural tree networks for improved generalization
+5F610AA4	Information not present<---Divide and conquer algorithms for closest point problems in multidimensional space.
+5BD9E774	Information not present<---An empirical study of learning speed in back-propagation networks
+7C16D09A	International Journal on Artificial Intelligence Tools<---Data Mining Using MLC a Machine Learning Library in C
+78D936AE	Journal of Computer and System Sciences<---On uniform circuit complexity
+76DA5F84	Artificial Intelligence<---Quantifying inductive bias: AI learning algorithms and Valiant's learning framework
+80C9AA1D	Information not present<---Learning Algorithms for Connectionist Networks: Applied Gradient Methods of Nonlinear Optimization
+77A9B487	Foundations of Computer Science<---Closest-point problems
+7C90AFAB	Ibm Systems Journal<---A method of programming measurement and estimation
+7B24B221	Pattern Recognition<---Handwritten numeral recognition using self-organizing maps and fuzzy rules
+04CA47F0	Information not present<---Problems of computer - aided concept formation
+7D23597D	IEEE Transactions on Power Systems<---An artificial intelligence framework for online transient stability assessment of power systems
+7C278E22	IEEE Transactions on Information Theory<---A universal data compression system
+65106721	IEEE Transactions on Computers<---Synthesis of Minimal Binary Decision Trees
+7A6252ED	Acta Psychologica<---Knowledge engineering techniques for utility identification
+5C2B1825	Information not present<---Computational learning theory: an introduction
+7BA2A3DD	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Nosing Around the Neighborhood: A New System Structure and Classification Rule for Recognition in Partially Exposed Environments
+05968A24	Information not present<---Combining Cross-Validation and Search
+791E4261	Communications of The ACM<---An interference matching technique for inducing abstractions
+75A05F9B	Expert Systems With Applications<---Fuzzy indexing and retrieval in case-based systems
+75864A32	Neural Networks<---On the approximate realization of continuous mappings by neural networks
+0B6E7E46	Information not present<---Maximum likelihood from incom-plete data via the EM algorithm
+7D2D4F03	Automatica<---Decision trees and transient stability of electric power systems
+7D1D5C06	Information not present<---A fuzzy system for indoor mobile robot navigation
+798D6180	IEEE Transactions on Computers<---A Partitioning Algorithm with Application in Pattern Classification and the Optimization of Decision Trees
+80B879CA	International Joint Conference on Artificial Intelligence<---Hybrid learning using genetic algorithms and decision trees for pattern classification
+5A00FDB1	Neural Information Processing Systems<---Neural Information Processing Systems
+75AFDCE3	Journal of the ACM<---Conversion of Limited-Entry Decision Tables to Optimal Computer Programs II: minimum storage requirement
+6A7F33A2	International Conference on Robotics and Automation<---Automatic generation of fuzzy control rule by machine learning methods
+78B18DE4	Numerische Mathematik<---SMOOTHING NOISY DATA WITH SPLINE FUNCTIONS: ESTIMATING THE CORRECT DEGREE OF SMOOTHING BY THE METHOD OF GENERALIZED CROSS-VALIDATION
+7FB3992C	Knowledge Acquisition<---Detecting and correcting errors in rule-based expert systems: an integration of empirical and explanation-based learning
+7870A2E1	Communications of The ACM<---Connectionist expert systems
+591B35CE	Web-Age Information Management<---Efficiently Mining Interesting Emerging Patterns
+7EB8DA34	IEEE Transactions on Power Systems<---A simple direct method for fast transient stability assessment of large power systems
+7F7A17BF	IEEE Transactions on Systems, Man, and Cybernetics<---A new approach to handling fuzzy decision-making problems
+7FF91DE2	Neural Information Processing Systems<---Comparison of three classification techniques, CART, C4.5 and multi-layer perceptrons
+768C8788	Antonie Van Leeuwenhoek International Journal of General and Molecular Microbiology<---A review of numerical methods in bacterial identification.
+7F9AEE1E	Proceedings of the IEEE<---On the decision regions of multilayer perceptrons
+75FB87EB	Journal of the American Statistical Association<---The foundations of factor analysis
+77B89CF8	Systems Research and Behavioral Science<---Performance of a Reading Task by an Elementary Perceiving and Memorizing Program
+7F50C661	Machine Learning<---The CN2 Induction Algorithm
+7FEFD79D	Machine Learning<---A Distance-Based Attribute Selection Measure for Decision Tree Induction
+7E979D13	IEEE Transactions on Applications and Industry<---MLC++: a machine learning library in C++
+7CB4D174	IEEE Intelligent Systems<---Overcoming process delays with decision tree induction
+79C90AA5	IEEE Transactions on Computers<---Error and Reject Rates in a Hierarchical Pattern Recognizer
+7BD35E85	Communications of The ACM<---On the complexity of computing the measure of ∪[a i ,b i ]
+5BA20C0F	Information not present<---On uncertainty measures used for decision tree induction
+5A1D91D9	International Conference on Machine Learning<---Learning to fly
+80DB9A03	IEEE Transactions on Aerospace and Electronic Systems<---Optimal multiple level decision fusion with distributed sensors
+802BD0A6	Proceedings of the IEEE<---Backpropagation through time: what it does and how to do it
+7D04B4FC	Intelligent RObots and Systems<---Qualitative spatial understanding and reactive control for autonomous robots
+7A7FE8B9	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Problem-Solving Models and Search Strategies for Pattern Recognition
+7587F5D6	Artificial Intelligence<---Recursive distributed representations
+7C5A0CDB	Statistics in Medicine<---Partitioning methods for classification and decision making in medicine
+01EA1E5A	International Joint Conference on Artificial Intelligence<---Reduced Complexity Rule Induction
+78C72F3F	Transactions on Rough Sets<---An Overview of Machine Learning
+5C04CE70	Information not present<---Recent Results on Boolean Concept Learning
+78A14E0A	Neural Networks<---Statistical analysis of self-organization
+7E6B77B8	Neural Information Processing Systems<---Comparing biases for minimal network construction with back-propagation
+5EBBC7A7	Information not present<---NP-completeness of problems of construction of optimal decision trees
+812E70B7	Proceedings of the IEEE<---Mathematical foundations of neurocomputing
+7EE94688	IEEE Transactions on Computers<---Correlation Matrix Memories
+7821E695	Fuzzy Sets and Systems<---Induction of fuzzy decision trees
+76937A23	Communications of The ACM<---Conversion of limited-entry decision tables to computer programs
+77267DD5	Machine Learning<---An Empirical Comparison of Selection Measures for Decision-Tree Induction
+7FCDFA4F	Proceedings of the IEEE<---Industrial applications of fuzzy logic at General Electric
+7F627B23	IEEE Transactions on Systems, Man, and Cybernetics<---A connectionist approach to generating oblique decision trees
+5E6558E7	International Conference on Machine Learning<---A practical approach to feature selection
+7985CEA1	Knowledge Discovery and Data Mining<---Efficient mining of emerging patterns: discovering trends and differences
+03DA064C	Journal of the Operational Research Society<---Expert Systems|[mdash]|Rule Induction with Statistical Data
+80089488	International Symposium on Neural Networks<---Self-organizing network for regression: efficient implementation and comparative evaluation
+77D11BD0	Sigplan Notices<---Conversion of limited-entry decision tables into optimal decision trees: fundamental concepts
+5D12BD74	Information not present<---Neural Networks: a comprehensive foundation
+763E0343	Neural Networks<---Minimum class entropy: a maximum information approach to layered networks
+7C336E3D	Communications of The ACM<---On storage space of decision tables
+7F48D3B2	International Joint Conference on Artificial Intelligence<---An experimental comparison of symbolic and connectionist learning algorithms
+743F7635	International Conference on Acoustics, Speech, and Signal Processing<---Full search and tree searched vector quantization of speech waveforms
+0044EFFA	Information not present<---Speaker Normalisation for Automatic Speech Recognition
+7A2AC91E	IEEE Transactions on Software Engineering<---A Methodology for Collecting Valid Software Engineering Data
+80902864	International Conference on Acoustics, Speech, and Signal Processing<---Efficient codebook allocation for an arbitrary set of vector quantizers
+11077CCB	Information not present<---Optimal and Heuristic Synthesis of Hierarchical Classifiers.
+5DBB49FA	Information not present<---Learning to Predict Sequences
+79BA7BE4	ACM Sigarch Computer Architecture News<---An introduction to computing with neural nets
+086F92BB	Information not present<---Nonanalytic concept formation and memory for instances
+755A03B8	Information not present<---The Handbook of Artificial Intelligence
+78ADFC85	ACM Transactions on Mathematical Software<---An Algorithm for Finding Best Matches in Logarithmic Expected Time
+5F18EACD	International Conference on Machine Learning<---Reducing Misclassification Costs
+7893B247	Fuzzy Sets and Systems<---Neuro-fuzzy ID3: a method of inducing fuzzy decision trees with linear programming for maximizing entropy and an algebraic method for incremental learning
+08A7E3B1	National Conference on Artificial Intelligence<---Acquisition of Appropriate Bias for Inductive Concept Learning
+6EEF12C0	Information not present<---Induction in Noisy Domains
+763F2551	IEEE Transactions on Electronic Computers<---A Suggestion for a Fast Multiplier
+7AF268C1	IEEE Transactions on Systems, Man, and Cybernetics<---Fuzzy logic in control systems: fuzzy logic controller. II
+7D35CBC0	Machine Learning<---Learning to Predict by the Methods of Temporal Differences
+58D1BB53	International Joint Conference on Artificial Intelligence<---A Task-Independent Experience-Gathering Scheme for a Problem Solver
+76E9A3FF	Machine Learning<---Overfitting Avoidance as Bias
+767E2748	International Conference on Software Engineering<---A meta-model for software development resource expenditures
+5CA20B07	International Symposium on Neural Networks<---A mapping from linear tree classifiers to neural net classifiers
+0B89C91B	IEEE Transactions on Computers<---An Algorithm for Constructing Optimal Binary Decision Trees
+097FE30C	IEEE Transactions on Information Theory<---The condensed nearest neighbor rule
+7795FBA9	Engineering Applications of Artificial Intelligence<---On-line learning of fuzzy decision trees for global path planning
+5AB57B55	Information not present<---ROC graphs: Notes and practical considerations for researchers
+756CF312	Information Processing Letters<---Constructing optimal binary decision trees is NP-complete
+7663A40B	Computational Intelligence<---Instance-based prediction of real-valued attributes
+07055C70	Information not present<---A Theoretical Framework for Back-Propagation
+6E6A3872	Information not present<---A Further Comparison of Simplification Methods for Decision-Tree Induction
+5BBCC2A5	National Conference on Artificial Intelligence<---OC1: randomized induction of oblique decision trees
+5ABFD9C2	Information not present<---Inferential Theory of Learning: Developing Foundations for Multistrategy Learning
+7E8D734E	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Globally optimal fuzzy decision trees for classification and regression
+61B1A771	Information not present<---Genetic Algorithms in Search, Optimization and Machine Learning
+7C66892E	IEEE Transactions on Pattern Analysis and Machine Intelligence<---An iterative growing and pruning algorithm for classification tree design
+7FAB06AB	IEEE Transactions on Fuzzy Systems<---Fuzzy membership function based neural networks with applications to the visual servoing of robot manipulators
+7DD3A52B	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A comparative analysis of methods for pruning decision trees
+60AB48A5	Information not present<---Parallel analog neural networks for tree searching
+7CF2B3D0	International Symposium on Neural Networks<---Fuzzy rule extraction from a multilayered neural network
+7DC0ADEE	Neural Information Processing Systems<---The cascade-correlation learning architecture
+7BB98473	IEEE Software<---Empirically guided software development using metric-based classification trees
+5F587D80	Information not present<---Uci repository of machine learning databases
+66F2EDF1	IEEE Transactions on Computers<---Analysis of Algorithms for the Evaluation of Monotonic Boolean Functions
+76521A99	Neural Computation<---Rule-based neural networks for classification and probability estimation
+7D493CE0	Information not present<---Faster learning variations on back propagation: an empirical study
+592DC6ED	Synthese<---Fuzzy logic and approximate reasoning
+7AA54B8F	Neural Computation<---An efficient gradient-based algorithm for on-line training of recurrent network trajectories
+807834E0	Information not present<---METHODOLOGIES OF PATTERN RECOGNITION.
+78FDF762	Decision Sciences<---Rule‐Based Expert Systems and Linear Models: An Empirical Comparison of Learning‐By‐Examples Methods*
+7F477A20	IEEE Transactions on Computers<---Estimation of Mutual Information in Two-Class Pattern Recognition
+6029EB41	International Symposium on Neural Networks<---Capabilities of three-layered perceptrons
+7EAD4110	IEEE Transactions on Systems, Man, and Cybernetics<---A survey of decision tree classifier methodology
+7C43B6E0	Neural Information Processing Systems<---Uci repository of machine learning databases
+013CE901	Information not present<---A neural-net training program based on conjugate-gradient optimization
+77FC25F8	Fuzzy Sets and Systems<---Weighted fuzzy production rules
+790669E5	Contemporary Accounting Research<---An empirical investigation of some data effects on the classification accuracy of probit, ID3, and neural networks*
+7DFA28C0	International Conference on Machine Learning<---An incremental method for finding multivariate splits for decision trees
+75635FF5	Acta Informatica<---Algorithms for Fast Evaluation of Boolean Expressions
+7D901B1F	Annals of Statistics<---A Universal Prior for Integers and Estimation by Minimum Description Length
+7C04A2EC	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Pattern Recognition as Conceptual Morphogenesis
+79FBD356	Pattern Recognition<---Binary tree versus single level tree classification of white blood cells
+7EE1701E	Communications of The ACM<---Multidimensional divide-and-conquer
+774923C0	Information Sciences<---Fuzzy controls under various fuzzy reasoning methods
+7783774A	International Conference of the IEEE Engineering in Medicine and Biology Society<---Sleep classification with a combination of symbolic learning and learning vector quantization
+80F0B9A5	Information not present<---Conversion of decision tables into decision trees
+804645A2	Neural Information Processing Systems<---Neural Net and Traditional Classifiers
+80E30ADB	International Conference on Pattern Recognition<---Handwritten zip code recognition with multilayer networks
+7CE78255	SIAM Journal on Computing<---Learning decision trees using the Fourier spectrum
+07EF4A67	Information not present<---Machine Learning Bias, Statistical Bias, and Statistical Variance of Decision Tree Algorithms
+7AF1AC8A	Journal of Systems and Software<---Evaluating techniques for generating metric-based classification trees
+7B060024	Intelligence\/sigart Bulletin<---Model-directed learning of production rules
+7F0BC60E	Ibm Journal of Research and Development<---Compiling optimized code from decision tables
+7EE24691	IEEE Transactions on Neural Networks<---Comparison of adaptive methods for function estimation from samples
+7FFB34E3	Machine Learning<---Instance-Based Learning Algorithms
+7F29C11A	IEEE Transactions on Software Engineering<---Machine learning approaches to estimating software development effort
+7F02C119	International Symposium on Circuits and Systems<---Layered neural net design through decision trees
+7B942D7D	Machine Learning<---Knowledge Acquisition Via Incremental Conceptual Clustering
+808F596B	Emerging Technologies and Factory Automation<---Batch-mode decision tree learning applied to intelligent reactive robot control
+7CEF562B	International Conference on Machine Learning<---DECISION TREES AS PROBABILISTIC CLASSIFIERS
+7B8672EB	Pattern Recognition<---Design of multicategory multifeature split decision trees using perceptron learning
+71BE728A	Information not present<---Neuro-fuzzy systems for intelligent robot navigation and control under uncertainty
+7EBDF6B6	Communications in Statistics-theory and Methods<---The table look-up rule
+7E7CD842	IEEE Transactions on Information Theory<---Nearest neighbor pattern classification
+7CE9DDEC	IEEE Transactions on Neural Networks<---Regression modeling in back-propagation and projection pursuit learning
+5B11A733	Information not present<---11 - LEARNING FROM OBSERVATION: CONCEPTUAL CLUSTERING
+7A779843	Automatica<---Modeling by shortest data description
+7AB60F67	Sigplan Notices<---Optimized code generation from extended-entry decision tables
+759E514A	Fuzzy Sets and Systems<---The role of fuzzy logic in the management of uncertainty in expert systems
+79A536B4	Psychological Review<---The perceptron: A probabilistic model for information storage and organization in the brain
+05D4F899	Information not present<---A combined non-parametric approach to feature selection and binary tree design
+7BA9189A	IEEE Transactions on Fuzzy Systems<---ID3-derived fuzzy rules and optimized defuzzification for handwritten numeral recognition
+7E3012D1	Annals of Mathematical Statistics<---Upper and Lower Probabilities Induced by a Multivalued Mapping
+7DD29DF5	Information not present<---Blending reactivity and goal-directedness in a fuzzy controller
+765A3999	IEEE Intelligent Systems<---Assessing Credit Card Applications Using Machine Learning
+78D1443D	IEEE Transactions on Pattern Analysis and Machine Intelligence<---The multiscale classifier
+01216F31	International Joint Conference on Artificial Intelligence<---An Appraisal of a Decision Tree Approach to Image Classification
+5F333001	Information not present<---Foundations of Neural Networks, Fuzzy Systems, and Knowledge Engineering
+0FF1DDBB	Information not present<---Language Acquisition and Machine Learning.
+77D70AAD	IEEE Transactions on Electronic Computers<---A Theory of Adaptive Pattern Classifiers
+7B5096AC	Applied Intelligence<---Iterative rule induction methods
+7D0DD182	IEEE Transactions on Information Theory<---On the mean accuracy of statistical pattern recognizers
+05FDFD8A	IEEE Transactions on Information Theory<---The Reduced Nearest Neighbor Rule
+7D0F8347	IEEE Transactions on Software Engineering<---A pattern recognition approach for software engineering data analysis
+05BFC981	International Joint Conference on Artificial Intelligence<---Learning DNF by decision trees
+7807A61A	Biological Cybernetics<---A model-based monitor of human sleep stages.
+780BBE95	Management Science<---A composite approach to inducing knowledge for expert systems design
+7B7EF37A	Communications of The ACM<---Information theory applied to the conversion of decision tables to computer programs
+7D8D5D56	ACM Computing Surveys<---A Survey of Analysis Techniques for Discrete Algorithms
+76050F1B	Pattern Recognition<---A combined nonparametric approach to feature selection and binary decision tree design
+588BF7E9	Information not present<---An introduction to fuzzy control
+77608E86	Pattern Recognition<---A decision theoretic approach to hierarchical classifier design
+7846B706	IEEE Transactions on Computers<---A Recursive Partitioning Decision Rule for Nonparametric Classification
+80A686B7	World Congress on Computational Intelligence<---Structure determination in fuzzy modeling: a fuzzy CART approach
+78B22755	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Automated classification of nucleated blood cells using a binary tree classifier
+7E33788E	International Conference on Robotics and Automation<---Self-supervised neural system for reactive navigation
+7EA9C51B	Information not present<---C4.5: Programs for Machine Learning
+812BBF45	International Conference on Acoustics, Speech, and Signal Processing<---Vector quantizer architectures for speech and image coding
+76B5060C	International Symposium on Neural Networks<---Training of a neural network for pattern classification based on an entropy measure
+5D203B0E	Information not present<---How learning can guide evolution
+81623C1E	Bell System Technical Journal<---The design and analysis of pattern recognition experiments
+78AFC75B	Information not present<---An expert system for decision making
+5D5A7FC5	Information not present<---Cost-sensitive pruning of decision trees
+7BD362C3	IEEE Transactions on Systems, Man, and Cybernetics<---Fuzzy Decision Tree Algorithms
+5E848630	International Joint Conference on Artificial Intelligence<---Multi-Interval Discretization of Continuous-Valued Attributes for Classification Learning
+83E45808	Information not present<---Improving the bias/variance tradeoff of decision trees - towards soft tree induction
+79DF8C67	Journal of the Operational Research Society<---Rule Induction with Statistical Data|[mdash]|A Comparison with Multiple Regression
+7AC6A89E	IEEE Transactions on Systems, Man, and Cybernetics<---Adaptive Pattern Recognition with Random Costs and Its Application to Decision Trees
+7840ED31	IEEE Transactions on Systems, Man, and Cybernetics<---Fault Diagnosis of Digital Systems
+586D37B9	Information not present<---UCI repository of machine learning databases-a machine-readable data repository
+7F720552	Ibm Journal of Research and Development<---Some studies in machine learning using the game of checkers
+7773C4CD	IEEE Communications Magazine<---Pattern classification using neural networks
+798E45B4	Communications of The ACM<---A fast parallel algorithm for thinning digital patterns
+7ADA4E85	Ibm Journal of Research and Development<---Linear Convergence of the Conjugate Gradient Method
+0A917353	International Joint Conference on Artificial Intelligence<---Branch-and-Bound and Beyond
+792F99F5	Robotics and Autonomous Systems<---Learning by an autonomous agent in the pushing domain
+75651137	Proceedings of the National Academy of Sciences of the United States of America<---Multisurface method of pattern separation for medical diagnosis applied to breast cytology.
+80D585BD	International Symposium on Neural Networks<---Comparison between entropy net and decision tree classifiers
+03B8A029	IEEE Transactions on Information Theory<---Decision tree design using a probabilistic model
+7AFD2BF8	Acta Informatica<---A branch-and-bound algorithm to obtain an optimal evaluation tree for monotonic Boolean functions
+7B020197	Communications of The ACM<---Some comments on the use of ambiguous decision tables and their conversion to computer programs
+58B4792F	Information not present<---SMART User's Guide
+01914F82	Information not present<---Experience in the use of an inductive system in knowledge engineering
+0B3B1079	Information not present<---Time-space tradeoffs for straight-line and branching programs
+76704322	Communications of The ACM<---Conversion of decision tables to computer programs by rule mask techniques
+7B48DF10	Acta Informatica<---Optimum binary search trees
+73E6EAB6	Information not present<---Fuzzy modeling by induction and pruning of decision trees
+7E9595B6	IEEE Transactions on Systems, Man, and Cybernetics<---A bat-like sonar system for obstacle localization
+7E89467C	IEEE Computer<---Self-organization in a perceptual network
+78C1DC0F	Physics Today<---Numerical recipes in C: the art of scientific computing
+7BEA43F2	Mathematics of Computation<---Algorithms for minimization without derivatives
+07ACA3A2	International Joint Conference on Artificial Intelligence<---Generating production rules from decision trees
+7A9FE254	Robotics and Autonomous Systems<---Fuzzy logic techniques for mobile robot obstacle avoidance
+7FE582F8	IEEE Transactions on Neural Networks<---Fuzzy min-max neural networks-part 1: classification
+75D679B7	Neural Networks<---Analysis of hidden units in a layered network trained to classify sonar targets
+7B9E5BE6	Financial Management<---Using an Expert System with Inductive Learning to Evaluate Business Loans
+5F69950F	Information not present<---Data Structures and Algorithms
+80604EB6	International Symposium on Neural Networks<---Backpropagation: past and future
+7B9D9A4A	Sigplan Notices<---An analysis of programming via decision table compilers
+76DE23A6	Decision Sciences<---PREDICTING STOCK MARKET BEHAVIOR THROUGH RULE INDUCTION: AN APPLICATION OF THE LEARNING‐FROM‐EXAMPLE APPROACH*
+7A98D6F0	Evolutionary Computation<---Adding Learning to the Cellular Development of Neural Networks: Evolution and the Baldwin Effect
+5C8DA199	International Conference on Machine Learning<---A Comparative Study of ID3 and Backpropagation for English Text-to-Speech Mapping
+7A9FECEB	Communications of The ACM<---Extending the infomation theory approach to converting limited-entry decision tables to computer programs
+7696A514	IEEE Transactions on Information Theory<---Bibliography on estimation of misclassification
+7CB447E5	Neural Networks<---A neural network approach to character recognition
+80A48ADE	IEEE Transactions on Systems, Man, and Cybernetics<---Neural implementation of tree classifiers
+7A7E582A	Mathematics of Computation<---Tables for testing significance in a 2 x 2 contingency table
+77C9B907	Machine Learning<---Machine Learning as an Experimental Science
+792634B3	Communications of The ACM<---Conversion of decision tables to efficient sequential testing procedures
+0A9C2FAD	Information not present<---The Group Method of Data Handling-A rival of the Method of Stochastic Approximation
+81407DAD	International Symposium on Neural Networks<---Adding a conscience to competitive learning
+782201F3	Neural Computation<---Self-organization as an iterative kernel smoothing process
+0C2427B7	European Conference on Artificial Intelligence<---Estimating Probabilities: A Crucial Task in Machine Learning
+7712C658	Communications of The ACM<---Combining decision rules in a decision table
+7D05D233	IEEE Transactions on Neural Networks<---A simple procedure for pruning back-propagation trained neural networks
+5CB38732	International Conference on Machine Learning<---An Empirical Comparison of Genetic and Decision-Tree Classifiers
+75FE5376	Foundations of Computer Science<---Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm
+6450208B	IEEE Transactions on Computers<---On the Properties and Applications of Fuzzy-Valued Switching Functions
+5B975253	International Conference on Machine Learning<---Improved Decision Trees: A Generalized Version of ID3
+760E3217	Journal of the ACM<---Decision tree reduction
+742D4F6E	Information not present<---Decision table languages and systems
+7573AD15	Communications of The ACM<---Optimizing decision trees through heuristically guided search
+7F151B83	Journal of Experimental Psychology: General<---Attention, similarity, and the identification-categorization relationship.
+5C6DBFD8	Pacific-Asia Conference on Knowledge Discovery and Data Mining<---An Efficient Single-Scan Algorithm for Mining Essential Jumping Emerging Patterns for Classification
+806D3A80	Information not present<---Learning internal representations by error propagation
+5DCBD806	International Conference on Machine Learning<---Deconstructing the digit recognition problem
+7DDE46F4	Neural Computation<---A penalty-function approach for pruning feedforward neural networks
+6D504835	Journal of Artificial Intelligence Research<---Improved use of continuous attributes in C4.5
+7B19B92F	Pattern Recognition<---Structure-driven induction of decision tree classifiers through neural learning
+0B65E986	Information not present<---A machine learning algorithm (GID3*) for automated knowledge acquisition improvements and extensions
+7951CAA7	IEEE Transactions on Software Engineering<---Metric Analysis and Data Validation Across Fortran Projects
+78520B10	Machine Learning<---Classifier Systems and the Animat Problem
+08824618	Information not present<---Machine processing of remotely sensed data
+7C1EAE94	Psychological Review<---"Schema abstraction" in a multiple-trace memory model.
+765607A9	IEEE Transactions on Computers<---A Prime Implicant Algorithm with Factoring
+81368B69	IEEE Transactions on Neural Networks<---A machine learning method for generation of a neural network architecture: a continuous ID3 algorithm
+76A1B518	International Symposium on Neural Networks<---Phoneme classification experiments using radial basis functions
+77F036D1	The Computer Journal<---Function minimization by conjugate gradients
+117EDCB8	International Joint Conference on Artificial Intelligence<---Noise-Tolerant Instance-Based Learning Algorithms
+755B2AC7	Annals of Statistics<---Stochastic Complexity and Modeling
+5D2B21A8	International Conference on Acoustics, Speech, and Signal Processing<---Variable block-size image coding
+7CFA2486	American Journal of Psychology<---Fuzzy set theory and its applications
+7887D583	IEEE Transactions on Pattern Analysis and Machine Intelligence<---An Automated Approach to the Design of Decision Tree Classifiers
+7EE7B369	Machine Learning<---Learning Quickly When Irrelevant Attributes Abound: A New Linear-Threshold Algorithm
+7CE2C706	Symposium on the Theory of Computing<---Probabilistic, nondeterministic, and alternating decision trees (Preliminary Version)
+7770DE19	Communications of The ACM<---The conversion of limited-entry decision tables to optimal and near-optimal flowcharts: two new algorithms
+7B6F7779	Information Processing Letters<---Occam's razor
+5F45E989	Information not present<---Inductive learning of tree-based regression models
+04231267	National Conference on Artificial Intelligence<---The attribute selection problem in decision tree generation
+7E54A098	IEEE Transactions on Systems, Man, and Cybernetics<---Fuzzy decision trees: issues and methods
+716081BA	International Symposium on Neural Networks<---Neural net pruning-why and how
+771863BC	Neural Networks<---Optimization of the hidden unit function in feedforward neural networks
+791B4FA3	International Conference on Software Engineering<---Calculation and use of an environment's characteristic software metric set
+011DFC3F	National Conference on Artificial Intelligence<---Perceptron Trees: A Case Study In Hybrid Concept Representations
+80C6BBDC	Artificial Intelligence<---HEURISTICALLY GUIDED SEARCH AND CHROMOSOME MATCHING,
+7A7D19EF	Numerische Mathematik<---ON THE ASYMPTOTIC DIRECTIONS OF THE S-DIMENSIONAL OPTIMUM GRADIENT METHOD
+786F18AF	Artificial Intelligence<---Maximizing the predictive value of production rules
+791F32A8	Fuzzy Sets and Systems<---On the handling of fuzziness for continuous-valued attributes in decision tree generation
+7B058DCD	International Journal of General Systems<---ON THE CONNECTION BETWEEN THE COMPLEXITY AND CREDIBILITY OF INFERRED MODELS
+7AFA9998	Fuzzy Sets and Systems<---Automatic induction of fuzzy decision trees and its application to power system security assessment
+7A71C267	Journal of the ACM<---Conversion of Limited-Entry Decision Tables to Optimal Computer Programs I: Minimum Average Processing Time
+8016EDD2	IEEE Transactions on Information Theory<---Computation of channel capacity and rate-distortion functions
+09A3623E	Information not present<---Dynamic Error Propagation Networks
+11B109C2	Information not present<---Some Current Concepts and Problems in Pattern Classification and Feature Extraction.
+780C2FED	Information Processing Letters<---Equivalence of free boolean graphs can be decided probabilistically in polynomial time
+769FAA5C	Management Science<---Inducing rules for expert system development: an example using default and bankruptcy data
+75D5533C	International Journal of Industrial Ergonomics<---A fuzzy rule induction method using genetic algorithm
+7DF70261	Foundations of Computer Science<---The effect of number of Hamiltonian paths on the complexity of a vertex-coloring problem
+5C2F040B	Information not present<---Introduction to switching and automata theory
+7B87684D	Pattern Recognition<---Efficient decision tree design for discrete variable pattern recognition problems
+757153C9	IEEE Transactions on Geoscience and Remote Sensing<---The decision tree classifier: Design and potential
+7B6C469C	Fuzzy Sets and Systems<---Identification of fuzzy relational equations by fuzzy neural networks
+6D8F20B6	Information not present<---Fuzzy modeling by ID3 algorithm and its application to prediction of heater outlet temperature
+7C926030	Machine Learning<---Boolean Feature Discovery in Empirical Learning
+7951F896	ACM Computing Surveys<---Translation of Decision Tables

@@ -2,7 +2,7 @@ import zipfile
 
 paperids={}
 papers=set()
-with open("../output/sample5/papers5.txt",'r') as f:
+with open("../output/sample35/papers35.txt",'r') as f:
 	i=0
 	for line in f:
 		i+=1
@@ -12,7 +12,7 @@ with open("../output/sample5/papers5.txt",'r') as f:
 		papers.add(line)
 
 
-print i,paperids
+print i,len(paperids)
 
 journals={}
 conf={}
@@ -74,16 +74,16 @@ with zipfile.ZipFile("../zips/Conferences.zip") as z:
 				# break
 
 print c_names,i
-new = open("output2/papers5_titles_journals.txt",'w')
-# new3=open("output/sample3/paperids3_50_conf.txt",'w')
+new = open("output2/sample35/papers35_titles_journals.txt",'w')
+# new3=open("output/sample3/paperids3_350_conf.txt",'w')
 i=0
 for k,v in paperids.items():
 	i+=1
 	if(journals.get(v) !=None):
-		new.write(str(k) + "\t" + j_names.get(journals.get(v)) + "<--"+ titles.get(k)+ "\n")
+		new.write(str(k) + "\t" + j_names.get(journals.get(v)) + "<---"+ titles.get(k)+ "\n")
 	elif(conf.get(v) != None):
-		new.write(str(k) + "\t" + c_names.get(conf.get(v)) + "<--"+ titles.get(k)+ "\n")
+		new.write(str(k) + "\t" + c_names.get(conf.get(v)) + "<---"+ titles.get(k)+ "\n")
 	else:
-		new.write(str(k) + "\t" + "Information not present" + "<--"+ titles.get(k)+ "\n")
+		new.write(str(k) + "\t" + "Information not present" + "<---"+ titles.get(k)+ "\n")
 print i
 new.close()

@@ -8,12 +8,12 @@ sys.setdefaultencoding('utf8')
 
 
 papers_without_ref=set()
-with open("output/sample8/paper_without_references8.txt",'r') as f:
+with open("output/sample61/paper_without_references61.txt",'r') as f:
 	for p in f:
 		papers_without_ref.add(p.strip('\n'))
 
 filtered_papers=set()
-with open("output/sample8/filtered_papers_5measures.txt",'r') as f:
+with open("output/sample61/filtered_papers_5measures.txt",'r') as f:
 	for p in f:
 		filtered_papers.add(p.strip('\n'))
 
@@ -42,7 +42,7 @@ with zipfile.ZipFile("only_CS_files/no_upload_id_tit_ye_doi_ven_jou_conf_ra.zip"
 				# break
 print i
 # print paper_titles_without_ref
-new = open('output/sample8/papers_without_ref8_with_titles8.txt','w')
+new = open('output/sample61/papers_without_ref61_with_titles61.txt','w')
 i=0
 for k,v in paper_titles_without_ref.items():
 	i+=1
@@ -50,7 +50,7 @@ for k,v in paper_titles_without_ref.items():
 print i
 new.close()
 
-new = open('output/sample8/filtered_papers8_with_titles8.txt','w')
+new = open('output/sample61/filtered_papers61_with_titles61.txt','w')
 i=0
 for k,v in filtered_papers_title.items():
 	i+=1

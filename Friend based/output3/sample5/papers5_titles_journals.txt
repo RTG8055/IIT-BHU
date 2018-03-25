@@ -1,0 +1,193 @@
+58A54C44	Information not present<---Extracting Semistructured Information from the Web.
+7ED93FB4	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Learning collection fusion strategies
+78B0AE7E	Information not present<---A system for automatic personalized tracking of scientific literature on the Web
+7A444D56	Computer Networks and Isdn Systems<---Learning personal preferences on online newspaper articles from user behaviors
+7F2D27F3	Information not present<---Agents for Expertise Location
+7DD8B350	National Conference on Artificial Intelligence<---BIG: a resource-bounded information gathering agent
+72B86E51	Information not present<---Naive (Bayes) at Forty: The Independence Assumption in Information Retrieval
+80029C96	Machine Learning<---Learning and Revising User Profiles: The Identification ofInteresting Web Sites
+7A011154	Communications of The ACM<---Consistent, yet anonymous, Web access with LPWA
+755718F4	Computer Networks<---Surfing the Web backwards
+08B61B5A	Information not present<---Introduction to Modern Information Retrieval McGraw-Hill
+80DEAE60	International Joint Conference on Artificial Intelligence<---Letizia: an agent that assists web browsing
+846A3833	Sigmod Record<---Probe, count, and classify: categorizing hidden web databases
+749EBC54	Information not present<---Introduction to Modern Information Retrieval
+6CA1FCB3	Computer Networks and Isdn Systems<---The Fishwrap personalized news system
+7CC73FDD	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Information retrieval using a singular value decomposition model of latent semantic structure
+04DB889D	Information not present<---Profusion*: intelligent fusion from multiple
+7C1EE24B	Information not present<---Identifying aggregates in hypertext structures
+58B06B0D	Information not present<---Characterizing World Wide Web Queries
+7A6F5F82	Computer Networks and Isdn Systems<---The quest for correct information on the Web: hyper search engines
+78614804	International ACM SIGIR Conference on Research and Development in Information Retrieval<---A probabilistic solution to the selection and fusion problem in distributed information retrieval
+7D0036FB	Adaptive Agents and Multi-Agents Systems<---CiteSeer: an autonomous Web agent for automatic retrieval and identification of interesting publications
+77518A39	Computer Networks and Isdn Systems<---The shark-search algorithm. An application: tailored Web site mapping
+7EFDB0CC	International Database Engineering and Applications Symposium<---Evolvable intelligent user interface for WWW knowledge-based systems
+767B12CC	Computer Networks<---Finding related pages in the World Wide Web
+796F09ED	International ACM SIGIR Conference on Research and Development in Information Retrieval<---The impact of database selection on distributed searching
+6E136811	Sigir Forum<---Analysis of a Very Large AltaVista Query Log
+75CBB3BF	Human Factors in Computing Systems<---Do-I-Care: a collaborative Web agent
+7EC1D0EB	The Vldb Journal<---Scalable feature selection, classification and signature generation for organizing large text databases into hierarchical topic taxonomies
+7F86B273	Communications of The ACM<---Scalable Internet resource discovery: research problems and approaches
+5C78B1CB	Information not present<---Bayesian learning of probabilistic language models
+80FAC64B	Information not present<---Nymble: a high-performance learning name-finder
+7DBA9CD5	Information not present<---Learning Information Retrieval Agents: Experiments with Automated Web Browsing
+79751852	Communications of The ACM<---Intelligent information-sharing systems
+7A83C51A	Information not present<---On the Use of Clustered File Organization in Information Search and Retrieval
+60925BB1	International Conference on Machine Learning<---Hierarchically Classifying Documents Using Very Few Words
+7A8C8726	Communications of The ACM<---Personalized information delivery: an analysis of information filtering methods
+75EBE974	Information Processing and Management<---Term-weighting approaches in automatic text retrieval
+7BCE4708	International Journal on Digital Libraries<---The Stanford Digital Library Metadata Architecture
+77F64663	Adaptive Agents and Multi-Agents Systems<---A Web-based information system that reasons with structured collections of text
+78B1EB45	Conference on Information and Knowledge Management<---An adaptive algorithm for learning changes in user interests
+5C6EE6A5	World Wide Web<---Multi-service search and comparison using the MetaCrawler
+7E5A7BD2	Human Factors in Computing Systems<---Autonomous interface agents
+7ECA8D7D	IEEE Transactions on Applications and Industry<---Ontology based personalized search
+75EAE858	Conference on Information and Knowledge Management<---Yahoo! as an ontology: using Yahoo! categories to describe documents
+80365698	Intelligent Agents<---Agents in Delivering Personalized Content Based on Semantic Metadata
+7A4C81F5	World Wide Web<---Rank aggregation methods for the Web
+5DDBC51C	Communications of The ACM<---A Public Digital Library based on Full-text Retrieval: Collections and Experiance
+7BEE865E	Conference on Information and Knowledge Management<---Efficient and effective metasearch for a large number of text databases
+7B9C7D06	Sigir Forum<---Real life information retrieval: a study of user queries on the Web
+7D7BB348	IEEE Transactions on Knowledge and Data Engineering<---A statistical method for estimating the usefulness of text databases
+7ECA06C1	Human Factors in Computing Systems<---Finding and visualizing inter-site clan graphs
+7647265C	Knowledge Discovery and Data Mining<---Efficient identification of Web communities
+0B6E7E46	Information not present<---Maximum likelihood from incom-plete data via the EM algorithm
+5B3A2EBD	Science<---Citation analysis as a tool in journal evaluation.
+74660839	Information not present<---SIFT: a tool for wide-area information dissemination
+77270A42	Communications of The ACM<---GroupLens: applying collaborative filtering to Usenet news
+787B2092	Symposium on Principles of Database Systems<---Formal models of Web queries
+81432590	IEEE Transactions on Knowledge and Data Engineering<---A methodology to retrieve text documents from multiple databases
+6E851260	Information not present<---The PageRank Citation Ranking: Bringing Order to the Web.
+789E8E2C	Sigmod Record<---STARTS: Stanford proposal for Internet meta-searching
+7EE746D9	Information not present<---A learning approach to personalized information filtering
+09772D91	Information not present<---Information theory and coding
+5EA2A79E	National Conference on Artificial Intelligence<---Syskill & webert: Identifying interesting web sites
+5AD5A0AA	International Conference on Machine Learning<---Improving Text Classification by Shrinkage in a Hierarchy of Classes
+778850EB	International ACM SIGIR Conference on Research and Development in Information Retrieval<---A re-examination of text categorization methods
+79C8C47E	IEEE Internet Computing<---Context and page analysis for improved Web search
+5D3C4A5E	Information not present<---Harvest: A Scalable, Customizable Discovery and Access System
+7A1A38AD	Computer Networks and Isdn Systems<---WebCutter: a system for dynamic and tailorable site mapping
+5D7AF49C	Information not present<---Learning Hidden Markov Model Structure for Information Extraction
+7CFF0ADF	Machine Learning<---Text Classification from Labeled and Unlabeled Documents using EM
+77FA516A	ACM Transactions on Database Systems<---A clustered search algorithm incorporating arbitrary term dependencies
+7EA7AE6F	Journal of Universal Computer Science<---ProFusion*: Intelligent Fusion from Multiple, Distributed Search Engines 1
+75D60310	IEEE Intelligent Systems<---The MetaCrawler architecture for resource aggregation on the Web
+7EA3EFF7	The Vldb Journal<---Focused Crawling Using Context Graphs
+862FA2E5	Computer Networks and Isdn Systems<---Automatic Resource Compilation by Analyzing Hyperlink Structure and Associated Text
+0780953B	International Conference on Machine Learning<---ARACHNID: Adaptive Retrieval Agents Choosing Heuristic Neighborhoods for Information Discovery
+5B46B6FA	Cooperative Information Systems<---Cooperating Agents for Information Retrieval
+5D39A75B	The Vldb Journal<---Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies
+0461177B	Information not present<---Adaptive Agents for Information Gathering from Multiple, Distributed Information Sources
+70083A04	The Vldb Journal<---Querying Heterogeneous Information Sources Using Source Descriptions
+5A3E4CCD	Information not present<---Machine learning: applications in expert systems and information retrieval
+0B012263	Information not present<---The identification of user criteria of relevance and document characteristics: Beyond the topical approach to information retrieval
+7ABE0DC7	Computer Networks and Isdn Systems<---Applications of a Web query language
+7B1A8818	Sigmod Record<---InfoSleuth: agent-based semantic integration of information in open and dynamic environments
+766DE2F9	ACM Transactions on Information Systems<---An example-based mapping method for text categorization and retrieval
+09643578	National Conference on Artificial Intelligence<---Moving up the information food chain: deploying softbots on the world wide web
+77AE4313	Artificial Life<---Modeling adaptive autonomous agents
+78E7087D	Computer Networks and Isdn Systems<---WebQuery: searching and visualizing the Web through connectivity
+77850819	Journal of The American Society for Information Science<---Co‐citation in the scientific literature: A new measure of the relationship between two documents
+771645AC	Conference on Information and Knowledge Management<---Architecture of a metasearch engine that supports user information needs
+8045C8E8	International Conference on Data Engineering<---Estimating the usefulness of search engines
+80901981	ACM Transactions on Information Systems<---A corpus analysis approach for automatic query expansion and its extension to multiple databases
+7523D4B3	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Improving two-stage ad-hoc retrieval for short queries
+7C59B343	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Searching distributed collections with inference networks
+7A4C0E66	Computer Networks and Isdn Systems<---GENVL and WWWW: Tools for Taming the Web
+5B79E3E4	Information not present<---Information Retrieval: Algorithms and Heuristics
+80C661F3	IEEE Transactions on Information Theory<---Managing Gigabytes: Compressing and Indexing Documents and Images
+75832596	Journal of Intelligent Information Systems<---Query reformulation for dynamic information integration
+7C006A7C	International Journal of Intelligent and Cooperative Information Systems<---Retrieving and Integrating Data from Multiple Information Sources
+7846667E	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Phrase recognition and expansion for short, precision-biased queries based on a query log
+77B562B0	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Constant interaction-time scatter/gather browsing of very large document collections
+0A019C45	Information not present<---An Information Gathering Agent for Querying Web Search Engines
+7A5FC012	Communications of The ACM<---Visual information retrieval from large distributed online repositories
+751F59CB	Journal of The American Society for Information Science<---Intelligent information agents: review and challenges for distributed information sources
+7714A326	Information not present<---Information retrieval: data structures and algorithms
+7A69DAB8	Information Processing and Management<---A re-examination of relevance: toward a dynamic, situational definition
+58DD74A8	World Wide Web<---The Krakatoa Chronicle - An Interactive, Personalized, Newspaper on the Web
+7F3A0C14	Information not present<---An Anytime Computation Approach to Information Gathering
+7B1C9AB3	Information Processing and Management<---Query evaluation: strategies and optimizations
+5A20CA87	Information not present<---Fast training of support vector machines using sequential minimal optimization
+5C664574	Information not present<---A comparison of event models for Naive Bayes text classification
+58742174	Information not present<---The Warwick Framework: A Container Architecture for Aggregating Sets ofMetadata
+59EA0E00	Information not present<---Watson: Anticipating and Contextualizing Information Needs.
+7FFAF0C8	Journal of The American Society for Information Science<---Indexing by Latent Semantic Analysis.
+4B723E43	Information not present<---The TSIMMIS Approach to Mediation: Data Models and Languages (Extended Abstract)
+779CE47F	Conference on Information and Knowledge Management<---Ontology-based web site mapping for information exploration
+76A2E94A	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Cluster-based language models for distributed retrieval
+5BB84F6B	The Vldb Journal<---Distributed Hypertext Resource Discovery Through Examples
+7F6CF0D2	Sigmod Record<---Automatic discovery of language models for text databases
+77F48EC4	International Joint Conference on Artificial Intelligence<---\sc WebWatcher}: a tour guide for the Word Wide Web
+7E0ED20D	Computer Networks<---Focused crawling: a new approach to topic-specific Web resource discovery
+74998843	Information not present<---Finding the most similar documents across multiple text databases
+0B6FB1BF	Information not present<---Information fusion with ProFusion
+7DA1591F	Journal of Artificial Intelligence Research<---Reinforcement learning: a survey
+7CE1777E	Information not present<---HyPursuit: a hierarchical network search engine that exploits content-link hypertext clustering
+757AAE44	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Noise reduction in a statistical approach to text categorization
+5C913101	International Joint Conference on Artificial Intelligence<---Wrapper induction for information extraction
+5FE553DF	International Joint Conference on Artificial Intelligence<---A machine learning approach to building domain-specific search engines
+7CC898D6	Sigmod Record<---Efficient and effective metasearch for text databases incorporating linkages among documents
+5963919F	Simulation of Adaptive Behavior<---Reinforcement learning architectures for animats
+77635E60	Journal of The American Society for Information Science<---A smart itsy bitsy spider for the web
+087F16A9	Journal of Universal Computer Science<---Profusion: intelligent fusion from multiple different search engines
+7971C0DD	Human Factors in Computing Systems<---Silk from a sow's ear: extracting usable structures from the Web
+7ABF1C20	ACM Transactions on Information Systems<---A decision-theoretic approach to database selection in networked IR
+5D4900EC	The Vldb Journal<---Query Decomposition and View Maintenance for Query Languages for Unstructured Data
+774F927A	ACM Transactions on Database Systems<---On the estimation of the number of desired records with respect to a given query
+7C3E4C89	Information Processing and Management<---Combining the evidence of multiple query representations for information retrieval
+77F32FF9	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Effective retrieval with distributed collections
+00691BD7	World Wide Web<---The RBSE Spider - Balancing Effective Search Against Web Load1
+07E346DC	Information not present<---Intelligent Information Agents for the World Wide Web
+812A7A06	National Conference on Artificial Intelligence<---Learning to extract symbolic knowledge from the World Wide Web
+770435EE	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Scatter/Gather: a cluster-based approach to browsing large document collections
+7639488D	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Cluster analysis for hypertext systems
+045B025B	Information not present<---Reflecting user information needs through query biased summaries
+7B3434F1	Adaptive Agents and Multi-Agents Systems<---WebMate: a personal agent for browsing and searching
+7BF548B5	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Improved algorithms for topic distillation in a hyperlinked environment
+596BAF79	Computer Networks and Isdn Systems<---Inquirus, the NECI meta search engine
+7515FAAC	IEEE Internet Computing<---Using relevance feedback in content-based image metasearch
+798A7446	Information not present<---The use of cluster hierarchies in hypertext information retrieval
+7EB50133	IEEE Transactions on Knowledge and Data Engineering<---The management of probabilistic data
+052EC7BD	Information not present<---A Conceptual Framework for Text Filtering
+59948136	Information not present<---Information Retrieval Systems: Theory and Implementation
+81045DFD	Information not present<---Relevance Feedback in Information Retrieval
+79159B28	Journal of The American Society for Information Science<---Measuring retrieval effectiveness based on user preference of documents
+7616C000	Symposium on Discrete Algorithms<---Authoritative sources in a hyperlinked environment
+5B250D99	Information not present<---Security of World Wide Web Search Engines
+773E4590	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Pivoted document length normalization
+796E7DC1	Computer Networks and Isdn Systems<---Ethical Web agents
+5A8ACA1E	Information not present<---World Wide Web Image Search Engines
+780702D6	Computer Networks<---Learning page-independent heuristics for extracting data from Web pages
+5DB4588E	Information not present<---Statistical Models for Co-occurrence Data
+76F46DFE	Human Factors in Computing Systems<---Multitrees: enriching and reusing hierarchical structure
+80DCD6AC	IEEE Transactions on Applications and Industry<---Learning from hotlists and coldlists: towards a WWW information filtering and seeking agent
+75F71181	IEEE Intelligent Systems<---Lycos: design choices in an Internet search service
+7F78C773	Journal of the ACM<---Authoritative sources in a hyperlinked environment
+5E0D5C52	International Conference on Neural Information Processing<---Automated Text Categorization Using Support Vector Machine
+05D00BAD	Conference on Information and Knowledge Management<---PSUN: A Profiling System for Usenet News
+7CA9CE94	ACM Multimedia<---VisualSEEk: a fully automated content-based image query system
+592999FE	The Vldb Journal<---Merging Ranks from Heterogeneous Internet Sources
+01D719E5	Information not present<---Information retrieval (2nd edition)
+58C54FD4	International Conference on Management of Data<---The Efficacy of GlOSS for the Text Database Discovery Problem
+6EDC6A29	Information not present<---A machine learning architecture for optimizing web search engines
+6BBF6F51	Journal of Visual Communication and Image Representation<---An Adaptive Agent for Automated Web Browsing
+7FDED940	Computer Networks and Isdn Systems<---ParaSite: mining structural information on the Web
+7FFB2336	Science<---Searching the World Wide Web
+812AF240	Symposium on Applications and the Internet<---Improving category specific Web search by learning query modifications
+80219681	Information not present<---Text Categorization with Suport Vector Machines: Learning with Many Relevant Features
+75CAEAE1	Computer Networks and Isdn Systems<---The connectivity server: fast access to linkage information on the Web
+80835EE4	Information not present<---Building Domain-Specific Search Engines with Machine Learning Techniques
+8136218D	Human Factors in Computing Systems<---How to personalize the Web
+7732CCC0	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Improving automatic query expansion
+0251D771	Information not present<---Knowledge integration for structured information sources containing text (extended abstract)
+712A3A67	International Conference on Data Engineering<---Self-adaptive user profiles for large-scale data delivery
+7B2E5EC6	Computer Networks and Isdn Systems<---The anatomy of a large-scale hypertextual Web search engine
+77F4CC61	Symposium on Principles of Database Systems<---Regular path queries with constraints
+7605D938	ACM Transactions on Information Systems<---Experiences with selecting search engines using metasearch
+072612B1	Neural Information Processing Systems<---Using sparseness and analytic qp to speed training of support vector machines
+588B7E3E	International Conference on Machine Learning<---Using Reinforcement Learning to Spider the Web Efficiently
+775CD7AD	Communications of The ACM<---A public library based on full-text retrieval
+812AA544	International Conference on Acoustics, Speech, and Signal Processing<---A hidden Markov model approach to text segmentation and event tracking
+0285EDEA	Information not present<---Information Extraction Using Hidden Markov Models
+79988F59	Computer Networks and Isdn Systems<---Dynamic reference sifting: a case study in the homepage domain

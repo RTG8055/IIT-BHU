@@ -1,0 +1,351 @@
+7DC4A464	IEEE Transactions on Knowledge and Data Engineering<---Efficient mining of association rules in distributed databases
+80C93B5E	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Class-dependent discretization for inductive learning from continuous and mixed-mode data
+76130EDA	Sigmod Record<---Towards on-line analytical mining in large databases
+7D6BBED7	Sigmod Record<---Of crawlers, portals, mice, and men: is there more to mining the Web?
+73C62BF0	Information not present<---Distance Based Clustering of Association Rules
+5A4C868A	IEEE Data(base) Engineering Bulletin<---Mining Large Itemsets for Association Rules
+59AA78CB	Knowledge Discovery and Data Mining<---W.: Memory placement techniques for parallel association mining
+6A8C1112	The Vldb Journal<---Knowledge Discovery in Databases: An Attribute-Oriented Approach
+75651137	Proceedings of the National Academy of Sciences of the United States of America<---Multisurface method of pattern separation for medical diagnosis applied to breast cytology.
+8178EE71	Knowledge Discovery and Data Mining<---Mining the most interesting rules
+7F1B934B	Information not present<---A theory and methodology of inductive learning
+0BC9FF2C	Knowledge Discovery and Data Mining<---Learning Arbiter and Combiner Trees from Partitioned Data for Scaling Machine Learning
+8070EF28	IEEE Transactions on Software Engineering<---Statistical and Scientific Database Issues
+5E6A6A2D	Information not present<---Discovery of General Knowledge in Large Spatial Databases
+773CCE57	Sigmod Record<---Mining quantitative association rules in large relational tables
+5921C22F	Inductive Logic Programming<---Mining Association Rules in Multiple Relations
+7D82DB67	IEEE Transactions on Systems, Man, and Cybernetics<---Browsing in hypertext: a cognitive study
+7E2F72DA	Knowledge Discovery and Data Mining<---Compression-Based Evaluation of Partial Determinations
+7E6CB6A7	IEEE Transactions on Computers<---Typicality, Diversity, and Feature Pattern of an Ensemble
+8019C75C	ACM Transactions on Database Systems<---The Grid File: An Adaptable, Symmetric Multikey File Structure
+5ADD5541	Knowledge Discovery and Data Mining<---An Efficient Algorithm for the Incremental Updation of Association Rules in Large Databases
+7E0A9CE0	International Conference on Data Engineering<---Maintenance of discovered association rules in large databases: an incremental updating technique
+806D3D69	Knowledge Discovery and Data Mining<---Integrating Classification and Association Rule Mining
+70DE00F4	International Conference on Data Engineering<---Knowledge mining by imprecise querying: a classification-based approach
+5E1D00ED	The Vldb Journal<---Discovery of Multiple-Level Association Rules from Large Databases
+5F38DBBC	The Vldb Journal<---Sampling Large Databases for Association Rules
+79B0A702	ACM Symposium on Parallel Algorithms and Architectures<---A localized algorithm for parallel association mining
+7D777FEC	Sigmod Record<---IDEA: interactive data exploration and analysis
+5E9A19BB	The Vldb Journal<---Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases
+7EBE4C75	International Conference on Data Engineering<---Constraint-based rule mining in large, dense databases
+7B306D8B	Information Systems<---Efficient mining of association rules using closed itemset lattices
+5E1A3042	Journal of Intelligent Information Systems<---Borders: An Efficient Algorithm for Association Generation in Dynamic Databases
+7DB330E4	Pacific-Asia Conference on Knowledge Discovery and Data Mining<---On the Efficiency of Association-Rule Mining Algorithms
+7CF083FF	Sigmod Record<---Spatial query processing in an object-oriented database system
+7D3C4C7A	IEEE Transactions on Knowledge and Data Engineering<---Systems for knowledge discovery in databases
+5DC2E46E	Information not present<---The World Wide Web unleashed
+6CB355D4	Knowledge Discovery and Data Mining<---Metaqueries for data mining
+79732BE6	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Automated Construction of Classifications: Conceptual Clustering Versus Numerical Taxonomy
+59A1190F	Information not present<---Formal Concept Analysis: Mathematical Foundations
+7F75B508	Knowledge Discovery and Data Mining<---A Belief-Driven Method for Discovering Unexpected Patterns
+7AD6961E	ACM Transactions on Database Systems<---Optimization techniques for queries with expensive methods
+03A25371	Knowledge Discovery and Data Mining<---Partial classification using association rules
+7EF338FC	Technometrics<---Finding groups in data : an introduction to cluster analysis
+7DC99793	Pacific-Asia Conference on Knowledge Discovery and Data Mining<---Frequent Closures as a Concise Representation for Binary Data Mining
+7F1A5EF2	Computational Statistics & Data Analysis<---The EM algorithm for graphical association models with missing data
+812313D9	Sigmod Record<---Mining association rules between sets of items in large databases
+022CA105	Knowledge Discovery and Data Mining<---Abstraction of High Level Concepts from Numerical Values in Databases
+749EBC54	Information not present<---Introduction to Modern Information Retrieval
+7FCAD046	High Performance Computing<---Mining Mult-Dimensional Data for Decision Support
+7B78D280	Computational Intelligence<---INCREMENTAL CONCEPT FORMATION ALGORITHMS BASED ON GALOIS (CONCEPT) LATTICES
+76E341C8	Machine Learning<---A lattice conceptual clustering system and its application to browsing retrieval
+5BBDD305	International Conference on Machine Learning<---Efficiently Inducing Determinations: A Complete and Systematic Search Algorithm that Uses Optimal Pruning
+5EC29C31	Journal of Intelligent Information Systems<---Designing Templates for Mining Association Rules
+7F06D5F5	Knowledge Discovery and Data Mining<---JAM: Java Agents for Meta-Learning over Distributed Databases*
+75CFBC15	Journal of Intelligent Information Systems<---Mining for Knowledge in Databases: The INLEN Architecture, Initial Implementation and First Results
+80A53967	Knowledge Discovery and Data Mining<---Discovery and Maintenance of Functional Dependencies by Independencies
+7E88B94C	Computer Communication Review<---End-to-end Internet packet dynamics
+80CD76E4	Theoretical Computer Science<---An incremental concept formation approach for learning from databases
+584A9EDF	International Conference on Management of Data<---The Case for Online Aggregation
+5DE7DD97	The Vldb Journal<---Efficient and Effective Clustering Methods for Spatial Data Mining
+5E149042	Inductive Logic Programming<---Controlling the Complexity of Learning in Logic through Syntactic and Task-Oriented Models
+5F568DB2	IEEE Transactions on Reliability<---Evaluation of Sampling for Data Mining of Association Rules
+7DDBC54F	IEEE Transactions on Systems, Man, and Cybernetics<---Resolution-Dependent Information Measures for Image Analysis
+7ACB9E20	Communications of The ACM<---Programming pearls: algorithm design techniques
+5AE12690	Knowledge Discovery and Data Mining<---Bayesian classification (AutoClass): theory and results
+0B3896AF	Information not present<---Using Data Cubes for Metarule-Guided Mining of Multi-Dimensional Association Rules
+5BA1E5F7	SIAM International Conference on Data Mining<---CHARM: An Efficient Algorithm for Closed Itemset Mining
+5E698AE6	Information not present<---Data mining approaches for intrusion detection
+7F6D29A3	Sigmod Record<---Scalable parallel data mining for association rules
+781D5C6B	Sigmod Record<---Linear clustering of objects with multiple attributes
+5956F698	International Conference on Data Mining<---H-mine: hyper-structure mining of frequent patterns in large databases
+7A58A3FF	Communications of The ACM<---A database perspective on knowledge discovery
+763C472A	Information & Computation<---Inferring decision trees using the minimum description length principle
+585CBB00	Extending Database Technology<---Pincer Search: A New Algorithm for Discovering the Maximum Frequent Set
+78FC81A2	Algorithmica<---Fractional cascading: I. A data structuring technique
+7CECDB78	Sigmod Record<---BIRCH: an efficient data clustering method for very large databases
+01CFD4C3	Knowledge Discovery and Data Mining<---Verkamo: Fast Discovery of Association Rules
+7AC69E88	International Conference on Data Engineering<---Data organization and access for efficient data mining
+7D7C7901	European Conference on Principles of Data Mining and Knowledge Discovery<---Approximation of Frequency Queris by Means of Free-Sets
+0104B465	Information not present<---Improved Methods for Finding Association Rules
+7B51B701	IEEE Transactions on Systems, Man, and Cybernetics<---Pattern Trajectory Analysis of Nonstationary Multivariate Data
+810A9B4D	Information not present<---Identifying high level features of texture perception
+7DAC83F1	Knowledge Discovery and Data Mining<---The Quest Data Mining System
+741F28C3	International Conference on Data Engineering<---Set-oriented mining for association rules in relational databases
+7786ADA9	Mathematics of Computation<---Computational geometry: an introduction
+5F5C34A4	Information not present<---Inductive Databases and Condensed Representations for Data Mining
+7B132B81	Sigmod Record<---Mining frequent patterns without candidate generation
+7C16D09A	International Journal on Artificial Intelligence Tools<---Data Mining Using MLC a Machine Learning Library in C
+096F9A8D	Workshop on Graph-Theoretic Concepts in Computer Science<---The Grid File: A Data Structure to Support Proximity Queries on Spatial Objects
+5D9EF0B1	International Conference on Database Theory<---Methods and Problems in Data Mining
+8034C24A	Sigmod Record<---Loading data into description reasoners
+5ADF0A3B	Pacific-Asia Conference on Knowledge Discovery and Data Mining<---Reducing Rule Covers with Deterministic Error Bounds
+75EBCB47	Conference on Information and Knowledge Management<---Finding interesting rules from large sets of discovered association rules
+80B0F31B	Information not present<---Probabilistic reasoning in intelligent systems: networks of plausible inference
+7F38A8BB	Knowledge Discovery and Data Mining<---DataMine: Application Programming Interface and Query Language for Database Mining
+7FC5372D	Information not present<---Fast sequential and parallel algorithms for association rule mining: a comparison
+06E0A441	Information not present<---A tree projection algorithm for generation of large itemsets for association rules
+5BB05E82	Knowledge Discovery and Data Mining<---Mining Association Rules with Item Constraints
+5D4B9C64	Algorithmic Learning Theory<---Efficient Induction of Logic Programs
+76E21B07	Communications of The ACM<---Some approaches to best-match file searching
+808258D2	Data Mining and Knowledge Discovery<---Discovery of Frequent Episodes in Event Sequences
+80AC5C34	IEEE Transactions on Systems, Man, and Cybernetics<---Pattern discovery: a data driven approach to decision support
+7EE66192	Journal of Artificial Intelligence Research<---OPUS: An Efficient Admissible Algorithm for Unordered Search
+7D2E26D7	Ai Magazine<---Knowledge discovery in databases: an overview
+76B930CF	Applied Optics<---Self-organization and associative memory
+7D09E374	International Conference on Data Engineering<---Clustering association rules
+7BD0017C	SIAM Journal on Computing<---Dynamic Perfect Hashing: Upper and Lower Bounds
+799A5A1E	Sigmod Record<---Association rules over interval data
+07D6D6C5	International Conference on Management of Data<---Integrating association rule mining with databases: alternatives and implications
+8032E04F	International Journal of Intelligent Systems<---Discovering functional and inclusion dependencies in relational databases
+7F5AE71C	IEEE Transactions on Knowledge and Data Engineering<---What makes patterns interesting in knowledge discovery systems
+7DD0A2CB	International Conference on Data Engineering<---HierarchyScan: a hierarchical similarity search algorithm for databases of long sequences
+5866D921	The Vldb Journal<---SPRINT: A Scalable Parallel Classifier for Data Mining
+6EF3B5A5	International Conference on Data Engineering<---Cyclic association rules
+8021EC0E	Machine Learning<---Induction of Decision Trees
+06DAD950	Information not present<---Theoretical Foundations of Association Rules
+7B5D490A	IEEE Transactions on Knowledge and Data Engineering<---From association to classification: inference using weight of evidence
+5DE62A40	Information not present<---From Bayesian Networks to Causal Networks
+7E061168	Sigmod Record<---Object-oriented extensions in SQL3: a status report
+80D392C6	Machine Learning<---A Comparison of Prediction Accuracy, Complexity, and Training Time of Thirty-Three Old and New Classification Algorithms
+5A6E4EBC	National Conference on Artificial Intelligence<---Learning Trees and Rules with Set-valued Features
+6075C6E7	International Conference on Data Engineering<---Using type inference and induced rules to provide intensional answers
+5BCB307D	Information not present<---Security and Privacy Implications of Data Mining
+80DE1518	IEEE Transactions on Systems, Man, and Cybernetics<---Learning sequential patterns for probabilistic inductive prediction
+58C99660	Data Mining and Knowledge Discovery<---Constraint-Based Rule Mining in Large, Dense Databases
+7560668B	Information Sciences<---Multiple pattern associations for interpreting structural and functional characteristics of biomolecules
+8110F7E4	Information not present<---Parallel Data Mining for Association Rules on Shared-Memory Multi-Processors
+7EAC6755	Data Mining and Knowledge Discovery<---Levelwise Search and Borders of Theories in KnowledgeDiscovery
+81666DE1	Annual Computer Security Applications Conference<---Automated detection of vulnerabilities in privileged programs by execution monitoring
+76F8899A	Conference on Information and Knowledge Management<---Research problems in data warehousing
+0C073D35	Knowledge Discovery and Data Mining<---Developing Tightly-Coupled Data Mining Applications on a Relational Database System
+5959ADE7	Information not present<---Efficient Similarity Search In Sequence Databases
+59C99DFC	International Joint Conference on Artificial Intelligence<---Oversearching and layered search in empirical learning
+03A096F6	Information not present<---Clustering Based On Association Rule Hypergraphs
+5DFE89CF	Extending Database Technology<---SLIQ: A Fast Scalable Classifier for Data Mining
+5BC4DD95	Data Warehousing and Knowledge Discovery<---Considering Main Memory in Mining Association Rules
+758A64BA	SIAM Journal on Computing<---Identifying the Minimal Transversals of a Hypergraph and Related Problems
+768A0791	Machine Learning<---Integrating quantitative and qualitative discovery in the ABACUS system
+7E7CD842	IEEE Transactions on Information Theory<---Nearest neighbor pattern classification
+7F775061	International Conference on Data Engineering<---Generalized partial indexes
+783EFDAA	Conference on Information and Knowledge Management<---Efficient parallel data mining for association rules
+63E7C862	Symposium on Principles of Database Systems<---Data mining, hypergraph transversals, and machine learning
+061C96AC	IEEE Data(base) Engineering Bulletin<---A Bibliography on Temporal Databases
+7BF93F16	Information not present<---Backtracking in a multiple-window hypertext environment
+76FC5907	Sigmod Record<---Turbo-charging vertical mining of large databases
+7B126586	Sigmod Record<---Integrating association rule mining with relational database systems: alternatives and implications
+7C1EF7B3	Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing<---A texture information-directed region growing algorithm for image segmentation and region classification
+7FA1788C	Artificial Intelligence<---First-order jk -clausal theories are PAC-learnable
+5A640E93	Information not present<---Bro: a system for detecting network intruders in real-time
+7B942D7D	Machine Learning<---Knowledge Acquisition Via Incremental Conceptual Clustering
+7F425C5B	Information not present<---An efficient approach to discovering knowledge from large databases
+09F486F3	Cybernetics and Systems<---Discovering Foreign Key Relations in Relational Databases
+7AA16C8C	Information Processing Letters<---A guided tour of Chernoff bounds
+7E86D6B5	IEEE Transactions on Knowledge and Data Engineering<---Abstract-driven pattern discovery in databases
+7BF3326F	Information Processing Letters<---Arboricity and bipartite subgraph listing algorithms
+79EBA90D	Sigkdd Explorations<---Algorithms for association rule mining — a general survey and comparison
+0FA4DE56	The Vldb Journal<---Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals
+80948D77	International Conference on Data Engineering<---Efficient organization of large multidimensional arrays
+7CC79BD5	IEEE Transactions on Knowledge and Data Engineering<---Parallel mining of association rules
+7D4A264D	IEEE Software<---Drawing dynamic trees
+7FE3DBCB	International Conference on Tools with Artificial Intelligence<---Web Mining: Pattern Discovery from World Wide Web Transactions
+5E830AC4	International Conference on Database Theory<---Discovering Frequent Closed Itemsets for Association Rules
+5A6EBBDB	Information not present<---Parallel Processing of Discrete Optimization Problems
+76957503	Future Generation Computer Systems<---Mining generalized association rules
+7FC1B499	Sigmod Record<---Implementing data cubes efficiently
+091959FB	International Conference on Management of Data<---Sql table function open architecture and data access middleware
+63BCB1FC	Knowledge Discovery and Data Mining<---A density-based algorithm for discovering clusters in large spatial databases with noise
+7B57E009	Knowledge Discovery and Data Mining<---Depth first generation of long patterns
+77A85381	Journal of Algorithms<---Finding critical sets
+0133FF05	Knowledge Discovery and Data Mining<---Efficient Algorithms for Discovering Association Rules
+70CBB7CD	International Conference on Data Engineering<---Mining for strong negative associations in a large database of customer transactions
+5AA6F096	The Vldb Journal<---Mining Generalized Association Rules
+587F8612	Data and Knowledge Engineering<---Algorithms for inferring functional dependencies
+79C3CD08	Sigmod Record<---Online association rule mining
+76C72CF3	Symposium on Principles of Database Systems<---The power of sampling in knowledge discovery
+7F1803D9	International Conference on Data Engineering<---Online generation of association rules
+813D602A	National Conference on Artificial Intelligence<---On kernel rules and prime implicants
+0875EFF2	Knowledge Discovery and Data Mining<---Sequential pattern mining using bitmaps
+59C818AC	The Vldb Journal<---Fast Algorithms for Mining Association Rules in Large Databases
+7FEFA415	Information not present<---Hash based parallel algorithms for mining association rules
+7BCD5171	Data and Knowledge Engineering<---Algorithms for inferring functional dependencies from relations
+5C89869A	Knowledge Discovery and Data Mining<---Maintenance of Discovered Knowledge: A Case in Multi-Level Association Rules
+66223ED7	National Conference on Artificial Intelligence<---Advances in knowledge discovery and data mining
+7FD2302A	IEEE Transactions on Knowledge and Data Engineering<---Using a hash-based method with transaction trimming for mining association rules
+5B11A733	Information not present<---11 - LEARNING FROM OBSERVATION: CONCEPTUAL CLUSTERING
+7A54883F	Database Systems for Advanced Applications<---A General Incremental Technique for Maintaining Discovered Association Rules
+764DFAE1	Communications of The ACM<---The choice of reference points in best-match file searching
+76D16B8E	Psychometrika<---Multidimensional scaling: I. Theory and method
+75C0B007	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Synthesis of statistical knowledge from time-dependent data
+06EAB965	Information not present<---Knowledge Discovery as a Threat to Database Security
+0101ADF8	The Vldb Journal<---Knowledge-based query processing
+7E979D13	IEEE Transactions on Applications and Industry<---MLC++: a machine learning library in C++
+5C257D7C	Information not present<---Internet security professional reference
+7A2F2834	Biometrika<---Causal diagrams for empirical research
+8124D70D	Computational Intelligence<---APACS: a system for the automatic analysis and classification of conceptual patterns
+80A0A666	IEEE/ACM Transactions on Computational Biology and Bioinformatics<---Attribute Clustering for Grouping, Selection, and Classification of Gene Expression Data
+6EAF9E43	Data Warehousing and Knowledge Discovery<---Modeling KDD Processes within the Inductive Database Framework
+79F0ACED	Knowledge Discovery and Data Mining<---Pruning and summarizing the discovered associations
+78A1E421	Journal of Algorithms<---Generation of maximum independent sets of a bipartite graph and maximum cliques of a circular-arc graph
+762AED68	ACM Transactions on Information Systems<---New techniques for best-match retrieval
+0A7BBCAA	Knowledge Discovery and Data Mining<---Optimization and Simplification of Hierarchical Clusterings
+5975F8FF	Information not present<---Comparison of neural networks and discriminant analysis in predicting forest cover types
+063105C1	Information not present<---Building an accurate classifier using association rules
+5A9FB7CC	Knowledge Discovery and Data Mining<---Parallel Branch-and-Bound Graph Search for Correlated Association Rules
+7A8C8726	Communications of The ACM<---Personalized information delivery: an analysis of information filtering methods
+7C504F77	Sigmod Record<---Exploratory mining and pruning optimizations of constrained associations rules
+803FD167	IEEE Micro<---Memory channel network for PCI
+805499D4	IEEE Transactions on Knowledge and Data Engineering<---Data mining: an overview from a database perspective
+7C56F63F	Journal of Computer and System Sciences<---Design by exmple: An application of Armstrong relations
+79214FC2	Journal of Parallel and Distributed Computing<---A tree projection algorithm for generation of frequent item sets
+5EB98AC8	The Vldb Journal<---Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules
+149C0608	Information not present<---RAMP: Rules Abstraction for Modeling and Prediction
+7DFC81E5	IEEE Transactions on Information Theory<---Approximating discrete probability distributions
+01173302	Knowledge Discovery and Data Mining<---Discovery board application programming interface and query language for database mining
+80CFEAC1	IEEE Transactions on Knowledge and Data Engineering<---Spatial SQL: a query and presentation language
+801884ED	IEEE Transactions on Knowledge and Data Engineering<---Pattern discovery by residual analysis and recursive partitioning
+5E3D22C5	Information not present<---Image Database Exploration: Progress and Challenges
+83BE2AFB	Sigmod Record<---Beyond market baskets: generalizing association rules to correlations
+7CF35707	Knowledge Discovery and Data Mining<---Efficient search for association rules
+7F90B621	Information not present<---Data Mining: Concepts and Techniques
+6148192F	Computational Linguistics<---Building a large annotated corpus of English: the penn treebank
+5CE04B61	International Conference on Machine Learning<---Using Qualitative Models to Guide Inductive Learning
+7A245A0A	Sigmod Record<---Bibliography on spatiotemporal databases
+7F70C457	Software - Practice and Experience<---A browser for directed graphs
+61D4F8F3	Uncertainty in Artificial Intelligence<---A Bayesian approach to learning causal networks
+7D205266	Conference on Information and Knowledge Management<---Mining association rules with adjustable accuracy
+6239F69D	International Conference on Data Engineering<---Mining optimized association rules with categorical and numeric attributes
+591E86C0	Information not present<---The architecture of a network level intrusion detection system
+76E43D63	Symposium on Principles of Database Systems<---Fractals for secondary key retrieval
+5C9B8623	Knowledge Discovery and Data Mining<---Fast discovery of association rules
+5CCD2EDA	International Conference on Machine Learning<---GALOIS : An order-theoretic approach to conceptual clustering
+5E11C9D7	The Vldb Journal<---Applying Data Mining Techniques to a Health Insurance Information System
+7F1BAD3F	IEEE Transactions on Knowledge and Data Engineering<---High-order pattern discovery from discrete-valued data
+033ECA67	Knowledge Discovery and Data Mining<---DBMiner: A System for Mining Knowledge in Large Relational Databases
+659B3081	Information not present<---Computer systems that learn: classification and prediction methods from statistics, neural nets, machine learning, and expert systems
+81453470	IEEE Transactions on Applications and Industry<---RL4: a tool for knowledge-based induction
+809DA83C	Information not present<---A Bayesian Approach to Causal Discovery
+7C03F06E	Knowledge Discovery and Data Mining<---Fast vertical mining using diffsets
+5AA773A3	European Conference on Principles of Data Mining and Knowledge Discovery<---Querying Inductive Databases: A Case Study on the MINE RULE Operator
+756CF312	Information Processing Letters<---Constructing optimal binary decision trees is NP-complete
+806F1C91	Sigmod Record<---Combinatorial pattern discovery for scientific data: some preliminary results
+74E2A033	Data Mining and Knowledge Discovery<---Scalable Techniques for Mining Causal Structures
+7AF1CA71	Information Sciences<---A discrete-valued clustering algorithm with applications to biomolecular data
+5DB6C0A9	Information not present<---Latent semantic indexing (lsi) and trec-2
+74901692	Information not present<---Data Mining Techniques: For Marketing, Sales, and Customer Support
+76AB83E6	Symposium on Principles of Database Systems<---A new framework for itemset generation
+5F587D80	Information not present<---Uci repository of machine learning databases
+7931EC12	Statistical Science<---A Survey of Exact Inference for Contingency Tables
+7D31A96C	IEEE Transactions on Knowledge and Data Engineering<---Database mining: a performance perspective
+7597A76A	Knowledge Discovery and Data Mining<---Using a knowledge cache for interactive discovery of association rules
+7F75CC84	Information not present<---Data Mining: the search for knowledge in databases.
+7EDA03A8	Scientific Programming<---A sense of self for Unix processes
+615FAB17	The Vldb Journal<---WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases
+7C43B6E0	Neural Information Processing Systems<---Uci repository of machine learning databases
+7DB8F2F8	Knowledge Discovery and Data Mining<---Using General Impressions to Analyze Discovered Classification Rules
+788AE58E	Information not present<---Atlas of protein sequence and structure
+0465C549	Information not present<---Knowledge discovery in large spatial databases
+7B6C6B51	SIAM International Conference on Data Mining<---CHARM: An Efficient Algorithm for Closed Association Rule Mining
+70BA1AD8	International Conference on Data Engineering<---Supporting data mining of large databases by visual feedback queries
+7AC8573F	Conference on Information and Knowledge Management<---Mining knowledge at multiple concept levels
+755A15ED	IEEE Transactions on Systems, Man, and Cybernetics<---Pattern Detection of Multivariate Hormonal Systems
+00EA2EE2	Information not present<---Bitmap based algorithms for mining association rules
+5F506049	Knowledge Discovery and Data Mining<---Exploration of the power of attribute-oriented induction in data mining
+78B10915	Machine Learning<---Experiments with Incremental Concept Formation: UNIMEM
+7CAA7DB9	Software - Practice and Experience<---A node-positioning algorithm for general trees
+6F802796	Information not present<---Discovery of Spatial Association Rules in Geographic Information Databases
+68FB5224	The Vldb Journal<---Eager Aggregation and Lazy Aggregation
+5BBDE40D	Knowledge Discovery and Data Mining<---Interestingness of Discovered Association Rules in Terms of Neighborhood-Based Unexpectedness
+805164F8	Quantum Information & Computation<---A perspective on databases and data mining
+7C08BC9E	Journal of Algorithms<---On the complexity of dualization of monotone disjunctive normal forms
+5B6E9C7B	Knowledge Discovery and Data Mining<---Learning Bayesian networks: The combination of knowledge and statistical data
+7EB3D42A	Sigmod Record<---Optimization of constrained frequent set queries with 2-variable constraints
+041DA83F	International Conference on Data Engineering<---Set-oriented mining of association rules
+5DA22214	Parallel Computing<---PVM: Parallel virtual machine: a users' guide and tutorial for networked parallel computing
+798394C5	Conference on Information and Knowledge Management<---Generating association rules from semi-structured documents using an extended concept hierarchy
+5E003635	Information not present<---Knowledge Discovery in Large Spatial Databases: Focusing Techniques for Efficient Class Identification
+5BC9428D	The Vldb Journal<---A New SQL-like Operator for Mining Association Rules
+7C57F628	Software - Practice and Experience<---DAG—a program that draws directed graphs
+7D30E631	Knowledge Discovery and Data Mining<---Metarule-Guided Mining of Multi-Dimensional Association Rules Using Data Cubes
+76309ACA	Computer Networks and Isdn Systems<---Characterizing browsing strategies in the World-Wide Web
+7F9ED398	Sigmod Record<---Efficiently mining long patterns from databases
+6C9AE31D	Journal of the American Medical Informatics Association<---Association Rules and Data Mining in Hospital Infection Control and Public Health Surveillance
+7D441E3C	Knowledge Discovery and Data Mining<---A Database Interface for Clustering in Large Spatial Databases 1
+5B98BF1D	The Vldb Journal<---NeuroRule: A Connectionist Approach to Data Mining
+7EA9C51B	Information not present<---C4.5: Programs for Machine Learning
+7E6B094E	Knowledge Discovery and Data Mining<---On Subjective Measures of Interestingness in Knowledge Discovery
+6E27ED49	Journal of Artificial Intelligence Research<---Exploring the decision forest: an empirical investigation of Occam's razor in decision tree induction
+8155B2D1	International Conference on Pattern Recognition<---Dynamic time warping with path control and non-local cost
+5F32BFFF	The Vldb Journal<---An Efficient Algorithm for Mining Association Rules in Large Databases
+0C0B2D2F	Information not present<---Toward Parallel and Distributed Learning by Meta-Learning
+5CC3EEAD	Knowledge Discovery and Data Mining<---A linear method for deviation detection in large databases
+713516B5	International Conference on Data Engineering<---An attribute-oriented approach for learning classification rules from relational databases
+5E848630	International Joint Conference on Artificial Intelligence<---Multi-Interval Discretization of Continuous-Valued Attributes for Classification Learning
+5CB326A9	Information not present<---Elements of machine learning
+7EE843D4	IEEE Transactions on Knowledge and Data Engineering<---Data-driven discovery of quantitative rules in relational databases
+77BD7ADE	Machine Learning<---A Bayesian Method for the Induction of Probabilistic Networks from Data
+5B48F722	Discovery Science<---On Classification and Regression
+7CEFCA0F	IEEE Transactions on Systems, Man, and Cybernetics<---Supporting operator problem solving through ecological interface design
+5D6C778E	Information not present<---Blueprint for a Computer Immune System
+0691268C	Information not present<---CLOSET: An Efficient Algorithm for Mining Frequent Closed Itemsets
+090DA81D	Information not present<---Meta-Rule-Guided Mining of Association Rules in Relational Databases
+0962EB9E	National Conference on Artificial Intelligence<---Post-Analysis of Learned Rules
+812B0C05	Sigmod Record<---FastMap: a fast algorithm for indexing, data-mining and visualization of traditional and multimedia datasets
+7D211930	IEEE Transactions on Knowledge and Data Engineering<---An information theoretic approach to rule induction from databases
+7D9C83BB	IEEE Transactions on Software Engineering<---State transition analysis: a rule-based intrusion detection approach
+7D5E29F5	Journal of Intelligent Information Systems<---Efficient discovery of interesting statements in databases
+5ACB9C10	Knowledge Discovery and Data Mining<---From data mining to knowledge discovery: an overview
+6DF3A062	International Conference on Data Engineering<---Mining association rules: anti-skew algorithms
+07ACA3A2	International Joint Conference on Artificial Intelligence<---Generating production rules from decision trees
+586F2815	Knowledge Discovery and Data Mining<---New Algorithms for Fast Discovery of Association Rules
+7C38C63F	Discrete Applied Mathematics<---On the complexity of inferring functional dependencies
+7DAE1455	International Conference on Data Engineering<---MAFIA: a maximal frequent itemset algorithm for transactional databases
+5E29B490	Pacific-Asia Conference on Knowledge Discovery and Data Mining<---LGen-A Lattice-Based Candidate Set Generation Algorithm for I/O Efficient Association Rule Mining
+641D5808	The Vldb Journal<---Fast Algorithms for Mining Association Rules
+7CA2D402	Applied Mathematics Letters<---A basis enumeration algorithm for linear systems with geometric applications
+8155F418	Communications of The ACM<---An effective way to represent quadtrees
+7F50D33E	Sigmod Record<---Data mining using two-dimensional optimized association rules: scheme, algorithms, and visualization
+596FA37C	International Conference on Data Engineering<---On local pruning of association rules using directed hypergraphs
+7B4906A8	Knowledge Discovery and Data Mining<---Sequential PAttern mining using a bitmap representation
+71A3D0C8	Information not present<---A fast distributed algorithm for mining association rules
+80A76618	International Conference on Data Engineering<---Mining sequential patterns
+801E853B	International Conference on Distributed Computing Systems<---Data mining for path traversal patterns in a web environment
+7CDEC4FC	Knowledge Discovery and Data Mining<---Generating non-redundant association rules
+638E3238	International Conference on Machine Learning<---Fast Effective Rule Induction
+78A4A4E1	Information not present<---Thoth-II: hypertext with explicit semantics
+0A03B3A8	Knowledge Discovery and Data Mining<---Computing Optimized Rectilinear Regions for Association Rules
+77FC3422	Symposium on Principles of Database Systems<---Mining optimized association rules for numeric attributes
+02E5844E	Information not present<---Design of Relational Databases
+060B72A6	Information not present<---Artificial Intelligence and Intrusion Detection: Current and Future Directions
+798E77C2	Communications of The ACM<---File structures using hashing functions
+816F3D00	High Performance Distributed Computing<---Loop scheduling for heterogeneity
+7A2AE3B6	Parallel Computing<---Parallel algorithms for hierarchical clustering
+7FE83706	IEEE Transactions on Pattern Analysis and Machine Intelligence<---DECA: A Discrete-Valued Data Clustering Algorithm
+7F795E8F	International Conference on Data Mining<---Efficiently mining maximal frequent itemsets
+2EFF89D2	Information not present<---Run-length encodings.
+03459A7E	National Conference on Artificial Intelligence<---Improving inference through conceptual clustering
+7D2B3F83	Information Systems<---Quantifying the utility of the past in mining large databases
+7F6E73BA	Biometrika<---Factor analysis as a statistical method
+7F273826	The Vldb Journal<---Mining Association Rules with Item Constraints
+76A3A1C1	Information Systems<---Mining optimized support rules for numeric attributes
+009BF70C	Information not present<---A Knowledge-Based Approach to Query Optimization
+7C2B3AA0	Sigmetrics Performance Evaluation Review<---Software unit profiles & Kiviat figures
+7C12C8D2	IEEE Transactions on Systems, Man, and Cybernetics<---Synthesizing Knowledge: A Cluster Analysis Approach Using Event Covering
+800736C8	International Conference on Data Engineering<---Spatial search with polyhedra
+5E9BC107	Information not present<---Learning Patterns from Unix Process Execution Traces for Intrusion Detection
+606B6791	Information Technology & Management<---A KDD framework to support database audit
+5DC42A76	Information not present<---A Software Architecture to Support Misuse Intrusion Detection
+790E2232	Sigmod Record<---An effective hash-based algorithm for mining association rules
+7D225E30	IEEE Transactions on Knowledge and Data Engineering<---Scalable algorithms for association mining
+789DDF24	Knowledge Discovery and Data Mining<---Real world performance of association rule algorithms
+7E70BC33	Knowledge Discovery and Data Mining<---Brute-Force Mining of High-Confidence Classification Rules

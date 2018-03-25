@@ -1,0 +1,186 @@
+81208DC2	National Conference on Artificial Intelligence<---Equations for part-of-speech tagging
+7F4E6307	World Wide Web<---Probabilistic query expansion using query logs
+7781C560	Journal of Molecular Biology<---Hidden Markov Models in Computational Biology
+7AEC248B	Bioinformatics<---Removing near-neighbour redundancy from large protein sequence collections.
+7FDE4CC5	Bioinformatics<---What are the baselines for protein fold recognition?
+762C0B4E	Nucleic Acids Research<---The SWISS-PROT protein sequence data bank and its new supplement TREMBL.
+794AF97E	Current Opinion in Structural Biology<---Hidden Markov models
+80F14242	IEEE Transactions on Information Theory<---The context-tree weighting method: basic properties
+7621E605	International Conference on Computational Linguistics<---Finite-state parsing and disambiguation
+80D5027D	World Wide Web<---A web-based kernel function for measuring the similarity of short text snippets
+7D27EBB9	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Information re-retrieval: repeat queries in Yahoo's logs
+0BBA6F5A	European Conference on Principles of Data Mining and Knowledge Discovery<---Towards Behaviometric Security Systems: Learning to Identify a Typist
+58B61BBC	Information not present<---Protein Data Bank
+7C4AD0AF	Journal of Molecular Biology<---SCOP: a structural classification of proteins database for the investigation of sequences and structures.
+7C614CF5	Conference on Information and Knowledge Management<---Concept-based interactive query expansion
+797C2C5A	Designs, Codes and Cryptography<---Protein is incompressible
+7AAFB9B6	Journal of Molecular Biology<---Sequence comparisons using multiple sequences detect three times as many remote homologues as pairwise methods
+7AD6A975	Proceedings of the National Academy of Sciences of the United States of America<---Proposed acquisition of an animal protein domain by bacteria.
+7B561CAF	Science<---Always Good Turing: Asymptotically Optimal Probability Estimation
+7548879F	Annals of Statistics<---Mixtures of Dirichlet Processes with Applications to Bayesian Nonparametric Problems
+7D9479E6	Nucleic Acids Research<---CLUSTAL W: improving the sensitivity of progressive multiple sequence alignment through sequence weighting, position-specific gap penalties and weight matrix choice
+7FEAF559	Foundations of Computer Science<---Optimal prefetching via data compression
+7D80D2E2	IEEE Assp Magazine<---An introduction to hidden Markov models
+80935941	Neural Information Processing Systems<---The Power of Amnesia
+76321FE1	Proceedings of the National Academy of Sciences of the United States of America<---Automatic generation of primary sequence patterns from sets of related protein sequences
+774125E9	Proceedings of the National Academy of Sciences of the United States of America<---Detection of conserved segments in proteins: iterative scanning of sequence databases with alignment blocks
+5CE0AC2B	Information not present<---Frequ�|ncy analysis of english usage
+7804A76C	Proceedings of the National Academy of Sciences of the United States of America<---Hidden Markov models of biological primary sequence information.
+7EF3BA22	IEEE Transactions on Information Theory<---The context-tree weighting method: extensions
+03ED0E8C	Information not present<---Universal lossless data compression algorithms
+7965150E	Journal of Molecular Biology<---Detecting patterns in protein sequences.
+7BFF6B81	Journal of Molecular Biology<---Intermediate sequences increase the detection of homology between sequences
+781EEC21	Proceedings of the National Academy of Sciences of the United States of America<---Improved tools for biological sequence comparison
+7E80CAC3	Intelligent Systems in Molecular Biology<---Multiple alignment using hidden Markov models.
+8162E4AF	World Wide Web<---Generating query substitutions
+6CCA2F36	Designs, Codes and Cryptography<---A context-tree weighting method for text generating sources
+76E81268	Machine Learning<---The power of amnesia: learning probabilistic automata with variable memory length
+7CF19608	Journal of the Association for Information Science and Technology<---Defining a session on Web search engines
+7DD4BDF6	Meeting of the Association for Computational Linguistics<---Part-of-speech tagging using a Variable Memory Markov model
+68F54F1E	Web Information Systems Engineering<---WhatNext: a prediction system for Web requests using n-gram sequence models
+78848FF3	Nucleic Acids Research<---The FSSP database: fold classification based on structure-structure alignment of proteins.
+80150691	IEEE Transactions on Information Theory<---A strong version of the redundancy-capacity theorem of universal coding
+7CEE121E	World Wide Web<---Adaptive web search based on user profile constructed without any effort from users
+75A6D5C4	World Wide Web<---Clustering user queries of a search engine
+809B9325	IEEE Transactions on Information Theory<---On loss functions which minimize to conditional expected values and posterior probabilities
+0B6E7E46	Information not present<---Maximum likelihood from incom-plete data via the EM algorithm
+761E7AAF	Science<---The Nematode Caenorhabditis elegans and Its Genome
+797A0E6B	Information Processing and Management<---Automatic new topic identification using multiple linear regression
+7D20B166	IEEE Transactions on Information Theory<---Relations between entropy and error probability
+7F9A0FAC	Foundations of Computer Science<---Conductance and convergence of Markov chains-a combinatorial treatment of expanders
+80A015FA	Proceedings of the National Academy of Sciences of the United States of America<---Assessing sequence comparison methods with reliable structurally identified distant evolutionary relationships
+7ED25EEA	Protein Science<---Recognition of related proteins by iterative template refinement (ITR).
+7C887C34	The Computer Journal<---Unbounded Length Contexts for PPM
+755D5776	Proceedings of the National Academy of Sciences of the United States of America<---Profile analysis: detection of distantly related proteins
+778E00D1	Current Opinion in Structural Biology<---How far divergent evolution goes in proteins
+7D613389	International ACM SIGIR Conference on Research and Development in Information Retrieval<---An effective approach to document retrieval via utilizing WordNet and recognizing phrases
+79FC87C3	International Conference on Computational Linguistics<---Constraint grammar as a framework for parsing running text
+767DADBF	Designs, Codes and Cryptography<---Text mining: a new frontier for lossless compression
+7E9C1674	Intelligent Systems in Molecular Biology<---Using the Fisher Kernel Method to Detect Remote Protein Homologies
+774A6A9F	Bioinformatics<---Profile scanning for three-dimensional structural patterns in protein sequences
+811E189E	Nucleic Acids Research<---The HSSP database of protein structure-sequence alignments
+772E2465	FEBS Letters<---The modular architecture of a new family of growth regulators related to connective tissue growth factor
+76A3EABE	Science<---A Genomic Perspective on Protein Families
+5D6147C1	Designs, Codes and Cryptography<---Compressing XML with multiplexed hierarchical PPM models
+09620E64	Information not present<---Implementing The Context-Tree Weighting Method: Arithmetic Coding
+78DA5B02	IEEE Computer<---Using machine-learning methods for musical style modeling
+499A5602	Information not present<---Maximum likelihood estimation from incomplete data via the em algorithm
+7B2CE2B7	Computational Learning Theory<---Learning probabilistic automata with variable memory length
+7D86BA1D	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Context-sensitive information retrieval using implicit feedback
+7CE4E224	Symposium on the Theory of Computing<---On the learnability of discrete distributions
+78138458	Computational Learning Theory<---Inference and minimization of hidden Markov chains
+7E97323E	Mathematics of Computation<---Information theory and statistics
+7EECCF16	Proteins<---Pfam: A comprehensive database of protein domain families based on seed alignments
+80D7D606	IEEE Transactions on Communications<---Data Compression Using Adaptive Coding and Partial String Matching
+7B8E6EA9	Information not present<---Automatic grammar induction and parsing free text: a transformation-based approach
+7FD535A7	IEEE Transactions on Information Theory<---A convergent gambling estimate of the entropy of English
+752C8AB4	Journal of the ACM<---An analysis of the Burrows—Wheeler transform
+80F263B4	International Symposium on Information Theory<---Inferring probabilistic acyclic automata using the minimum description length principle
+7E2F2768	Nucleic Acids Research<---The PROSITE database, its status in 1997
+7E854E17	Bioinformatics<---DIRICHLET MIXTURES: A METHOD FOR IMPROVING DETECTION OF WEAK BUT SIGNIFICANT PROTEIN SEQUENCE HOMOLOGY
+79E8AB50	Symposium on the Theory of Computing<---Efficient learning of typical finite automata from random walks
+59830EF8	International Conference on Acoustics, Speech, and Signal Processing<---Three probabilistic language models for a large-vocabulary speech recognizer
+6F41EED5	International Conference on Acoustics, Speech, and Signal Processing<---Statistical language modeling using a small corpus from an application domain
+7A84E16C	IEEE Transactions on Pattern Analysis and Machine Intelligence<---Natural Language Modeling for Phoneme-to-Text Transcription
+5ED40367	Information not present<---Adaptive Statistical Language Modeling; A Maximum Entropy Approach
+79415194	IEEE Transactions on Information Theory<---Enumerative source encoding
+7F44B0A0	Machine Learning<---Discrete Sequence Prediction and Its Applications
+77C3A4E4	Nucleic Acids Research<---A comprehensive set of sequence analysis programs for the VAX
+7792FEE7	Protein Science<---A new method for analyzing protein sequence relationships based on Sammon maps.
+7F4D4A63	IEEE Transactions on Communications<---Implementing the PPM data compression scheme
+7E34F91A	Computational Linguistics<---Transformation-based error-driven learning and natural language processing: a case study in part-of-speech tagging
+764D65A9	Computational Learning Theory<---Learning and robust learning of product distributions
+75D16BAA	Science<---Ancient conserved regions in new gene sequences and the protein databases
+803AEA06	Proceedings of the IEEE<---Printed english compression by dictionary encoding
+5A9F1E20	Machine Learning<---An Algorithm that Learns What‘s in a Name
+76A2E7D2	Journal of the Association for Information Science and Technology<---Relevant term suggestion in interactive web search based on contextual information in query session logs
+59D669BF	Ai Magazine<---Question Answering from Frequently Asked Question Files: Experiences with the FAQ Finder System
+5ACD6B4B	Designs, Codes and Cryptography<---PPM: one step to practicality
+806E7AE3	Information Processing and Management<---Real life, real users, and real needs: a study and analysis of user queries on the web
+7773E31C	The Computer Journal<---Semantically Motivated Improvements for PPM Variants
+815049FE	Designs, Codes and Cryptography<---PPMexe: PPM for compressing software
+76C56565	Genomics<---Protein Family Classification Based on Searching a Database of Blocks
+7A4151C3	Conference on Information and Knowledge Management<---Scoring missing terms in information retrieval tasks
+80060D7C	International Conference on Machine Learning<---Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data
+8022F4BF	IEEE Transactions on Visualization and Computer Graphics<---Texture mixing and texture movie synthesis using statistical learning
+768116A8	Nucleic Acids Research<---A HIDDEN MARKOV MODEL THAT FINDS GENES IN E. COLI DNA
+800DB216	IEEE Transactions on Information Theory<---Complexity of strings in the class of Markov sources
+6667988A	Computational Linguistics<---Coping with ambiguity and unknown words through probabilistic models
+801A52C5	Bioinformatics<---CLUSTAL V: improved software for multiple sequence alignment.
+646A5DB3	Designs, Codes and Cryptography<---Switching between two universal source coding algorithms
+107CFABA	Journal of Computational Biology<---Using the fisher kernel method to detect remote protein homologies
+7E5AC5FF	Designs, Codes and Cryptography<---A corpus for the evaluation of lossless compression algorithms
+7F35E17F	IEEE Transactions on Acoustics, Speech, and Signal Processing<---Estimation of probabilities from sparse data for the language model component of a speech recognizer
+7E228144	IEEE Transactions on Information Theory<---A sequential algorithm for the universal coding of finite memory sources
+58EB5BED	Information not present<---Arithmetic codings as number representations
+61A6943E	Journal of Machine Learning Research<---Concentration inequalities for the missing mass and for histogram rule error
+7B9D6F6D	Journal of the Acoustical Society of America<---A study of English word category prediction based on neural networks
+7ED435E6	IEEE Transactions on Pattern Analysis and Machine Intelligence<---A cache-based natural language model for speech recognition
+79681BED	Journal of Molecular Biology<---Volume changes in protein evolution
+58DBC0AA	Information not present<---Using Compression-Based Language Models for Text Categorization
+80BBA87E	IEEE Transactions on Acoustics, Speech, and Signal Processing<---Estimation of probabilities in the language model of the IBM speech recognition system
+7A82ADCA	Journal of Molecular Evolution<---Tracing the spread of fibronectin type III domains in bacterial glycohydrolases.
+7D67E452	Journal of Artificial Intelligence Research<---On prediction using variable order Markov models
+7F158EEB	IEEE Transactions on Information Theory<---Universal coding, information, prediction, and estimation
+7DFB9C01	IEEE Transactions on Information Theory<---The zero-frequency problem: estimating the probabilities of novel events in adaptive text compression
+7629926E	Computational Biology and Chemistry<---Prediction of protein structural classes by a new measure of information discrepancy
+5A8DF95F	Information not present<---Source coding algorithms for fast data compression.
+7D1DE51B	Information not present<---Elements of information theory
+80D5B2DE	Information not present<---A Block-Sorting Lossless Data Compression Algorithm
+75637359	Protein Science<---Improving the sensitivity of the sequence profile method
+7E1379C6	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Personalized query expansion for the web
+59B73C10	Information not present<---Web user search pattern analysis for modelling query topic changes
+7A958712	Journal of Molecular Biology<---Identification of protein sequence homology by consensus template alignment
+7D0626ED	Bioinformatics<---Hidden Markov models for sequence analysis: extension and analysis of the basic method
+7DB67335	Bioinformatics<---Multi-class protein fold recognition using support vector machines and neural networks.
+5DAAB546	Information not present<---The design and analysis of efficient lossless data compression systems
+05F9BA1D	Information not present<---Frequency Analysis of English Usage
+7E89D572	IEEE Transactions on Information Theory<---Compression of individual sequences via variable-rate coding
+80CD0E24	Information not present<---Self-organized language modeling for speech recognition
+7D2406FA	Information Processing and Management<---Combining evidence for automatic web session identification
+7728278C	IEEE Transactions on Information Theory<---The performance of universal encoding
+7EFC3730	Software Process: Improvement and Practice<---Weighting techniques in data compression : theory and algorithms
+7388232B	Designs, Codes and Cryptography<---Implementing the context tree weighting method for text compression
+80A5C616	Designs, Codes and Cryptography<---Text compression by context tree weighting
+79552C68	Gene<---A dot-matrix program with dynamic threshold control suited for genomic DNA and protein sequence analysis.
+7509B9AC	Neural Computation<---Adaptive Mixtures of Probabilistic Transducers
+5D3A31DC	Extending Database Technology<---Query recommendation using query logs in search engines
+7A2EBA0A	International Conference on Acoustics, Speech, and Signal Processing<---Three different probabilistic language models: comparison and combination
+7D1FFAA6	International Conference on Acoustics, Speech, and Signal Processing<---A stochastic parts program and noun phrase parser for unrestricted text
+5CCF12F8	Machine Learning<---Statistical Models for Text Segmentation
+7551B6F5	Nucleic Acids Research<---Progress With the PRINTS Protein Fingerprint Database
+7AA217C9	Current Biology<---Metabolism and evolution of Haemophilus influenzae deduced from a whole-genome comparison with Escherichia coli
+75942FD9	Knowledge Discovery and Data Mining<---Agglomerative clustering of a search engine query log
+81694D42	World Wide Web<---Mining anchor text for query refinement
+7C5B9C1E	Knowledge Discovery and Data Mining<---Extracting semantic relations from query logs
+7AAEF3F3	Nature<---New protein fold revealed by a 2.3-A resolution crystal structure of nerve growth factor.
+7A3D5D94	Nucleic Acids Research<---The Blocks Database—A System for Protein Classification
+7A699E18	Annals of Statistics<---On the Convergence Properties of the EM Algorithm
+81089A13	International Conference on Acoustics, Speech, and Signal Processing<---On-line algorithms for combining language models
+7E5D7FBF	Proceedings of the National Academy of Sciences of the United States of America<---Structural design and molecular evolution of a cytokine receptor superfamily.
+79DCD2B3	Biophysical Chemistry<---Structural class prediction: an application of residue distribution along the sequence
+5D50E5B3	Journal of Molecular Biology<---Determinants of a protein fold. Unique features of the globin amino acid sequences.
+7B52939E	Science<---Identification and characterization of a prostaglandin transporter
+7E4E17C6	IEEE Transactions on Information Theory<---Universal modeling and coding
+7CE78255	SIAM Journal on Computing<---Learning decision trees using the Fourier spectrum
+7F23F3FB	Proteins<---Parser for protein folding units
+80098498	IEEE Transactions on Information Theory<---Redundancy of the Lempel-Ziv incremental parsing rule
+812AA544	International Conference on Acoustics, Speech, and Signal Processing<---A hidden Markov model approach to text segmentation and event tracking
+7B6B0619	Information not present<---Augmenting a hidden Markov model for phrase-dependent word tagging
+7E6531FC	Protein Science<---Modular arrangement of proteins as inferred from analysis of homology.
+7C0DD459	Computational Learning Theory<---On the learnability and usage of acyclic probabilistic finite automata
+7D379A7D	Computer Speech & Language<---Robust part-of-speech tagging using a hidden Markov model
+5CFBEC12	Information not present<---Fundamentals of speech recognition
+7346CADE	International Conference on Machine Learning<---Maximum Entropy Markov Models for Information Extraction and Segmentation
+78AF51AD	Nature<---Protein superfamilies and domain superfolds.
+7CD2DC8D	Machine Learning<---On the Computational Complexity of Approximating Distributions by Probabilistic Automata
+76B17EEB	Computer Speech & Language<---Syntactic category disambiguation with neural networks
+80BA601E	International Conference on Acoustics, Speech, and Signal Processing<---Efficient sampling and feature selection in whole sentence maximum entropy language models
+801985B8	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Studying the use of popular destinations to enhance web search interaction
+755B2AC7	Annals of Statistics<---Stochastic Complexity and Modeling
+80818704	Proteins<---Predicting protein structure using hidden Markov models
+7C278E22	IEEE Transactions on Information Theory<---A universal data compression system
+83751F94	Information not present<---Patterns and Sequences of Multiple Query Reformulations in Web Searching: A Preliminary Study
+75B3CC3B	IEEE Transactions on Information Theory<---A general minimum-redundancy source-coding algorithm
+0285EDEA	Information not present<---Information Extraction Using Hidden Markov Models
+7F3B3679	IEEE Transactions on Information Theory<---Design of a linguistic statistical decoder for the recognition of continuous speech

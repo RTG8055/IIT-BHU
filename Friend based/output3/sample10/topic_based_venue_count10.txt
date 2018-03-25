@@ -1,0 +1,163 @@
+"Information not present"	123.495867241
+"International Conference on Image Processing"	82.1393168789
+"IEEE Transactions on Circuits and Systems for Video Technology"	52.3347500135
+"International Conference on Multimedia and Expo"	33.4629729914
+ and Signal Processing"	28.7535119157
+"International Symposium on Circuits and Systems"	24.0648766733
+"IEEE Transactions on Image Processing"	22.597645096
+"Visual Communications and Image Processing"	16.6628910101
+"Signal Processing-image Communication"	14.7213477161
+"Multimedia Signal Processing"	13.393503474
+ Codes and Cryptography"	11.2784439726
+"Picture Coding Symposium"	9.98265820599
+"Journal of Visual Communication and Image Representation"	9.76686372655
+"IEEE Transactions on Multimedia"	8.76589018896
+"IEEE Transactions on Consumer Electronics"	5.97879771353
+"Pacific Rim Conference on Multimedia"	5.81015734266
+"Proceedings of SPIE"	5.00492198841
+"Advances in Multimedia"	4.59729164354
+"International Conference on Communications"	3.871502849
+"IEEE Signal Processing Letters"	3.78998452178
+"Ieice Transactions"	3.48491166309
+"Signal Processing"	3.1646155118
+"International Conference on Model Transformation"	3.10932772474
+"EURASIP Journal on Advances in Signal Processing"	2.85187835313
+"Canadian Conference on Electrical and Computer Engineering"	2.84075625763
+"Signal Processing Systems"	2.48039238539
+"Global Communications Conference"	2.15285568598
+"Optical Engineering"	2.14888164865
+"IEEE Journal on Selected Areas in Communications"	1.97293523606
+"Asia Pacific Conference on Circuits and Systems"	1.94135402792
+"Systems and Computers in Japan"	1.56867826618
+"Journal of Zhejiang University Science"	1.54962448499
+"International Symposium on Information Theory"	1.52501040626
+"IEEE Journal of Selected Topics in Signal Processing"	1.51895104895
+"Journal of Electronic Imaging"	1.4922952048
+"Intelligent Information Hiding and Multimedia Signal Processing"	1.48105828268
+ and Language Processing"	1.36686161061
+"Workshop on Applications of Signal Processing to Audio and Acoustics"	1.35484274984
+"Multimedia Tools and Applications"	1.33690901691
+"IEEE Transactions on Signal Processing"	1.20263294712
+"Computer Standards & Interfaces"	1.17447552448
+"International Conference on Computer Communications and Networks"	1.16115384615
+"Advanced Concepts for Intelligent Vision Systems"	1.11033355533
+"Journal of Signal Processing Systems"	1.063003663
+"Advances in Mobile Multimedia"	1.03354700855
+"The Journal of China Universities of Posts and Telecommunications"	1.02369581807
+"Etri Journal"	1.01081973582
+"International Symposium on Multimedia"	1.00074397824
+"Journal of Electronics (china)"	0.978098290598
+"IEEE Transactions on Broadcasting"	0.951207542459
+"IEEE Transactions on Information Theory"	0.945008047509
+"Information Systems Management"	0.938845598847
+ Signal Processing and their Applications"	0.924035975599
+"International Conference on Computer Modeling and Simulation"	0.917517323946
+"IEEE Transactions on Communications"	0.89961038961
+"Pacific-Rim Symposium on Image and Video Technology"	0.89594017094
+"International Symposium on Signal Processing and Information Technology"	0.894880952381
+"Computer Systems: Science & Engineering"	0.86531986532
+"Computer Vision and Image Understanding"	0.849141414142
+"Data Compression Conference"	0.844567231709
+"Computational Intelligence and Security"	0.783476245976
+"Multimedia Systems"	0.742808857809
+"ACM Multimedia"	0.742808857809
+"Journal of Zhejiang University Science C"	0.740781440781
+"Displays"	0.736975524475
+"The Kips Transactions:partb"	0.732592592592
+"Conference on Information Sciences and Systems"	0.730759637188
+"Cyberworlds"	0.721100427351
+"International Journal of Imaging Systems and Technology"	0.719187525437
+"International Conference on Image and Graphics"	0.71754009879
+ Mobile and Multimedia Networks"	0.698907441764
+ and Applications"	0.687189199689
+"Computer Analysis of Images and Patterns"	0.676277272111
+"International Conference on Intelligent Computing"	0.656038406038
+"IEEE Transactions on Very Large Scale Integration Systems"	0.646736076423
+"Wireless Communications and Mobile Computing"	0.632051282051
+ Information and Control"	0.627742118992
+"Clinical Orthopaedics and Related Research"	0.627532883783
+"Network and Parallel Computing"	0.604829059829
+"Vehicular Technology Conference"	0.591535409034
+"Network and Operating System Support for Digital Audio and Video"	0.577380952381
+"International Symposium on Visual Computing"	0.57032704632
+"Studia Informatica Universalis"	0.525357142857
+"IEEE Signal Processing Magazine"	0.522758352758
+"International Conference on Mobile Multimedia Communications"	0.519106686963
+ Networking and Parallel/Distributed Computing"	0.51839172732
+ and Test in Europe"	0.513575710004
+"Workshop on Image Analysis for Multimedia Interactive Services"	0.513333333333
+"Aeu-international Journal of Electronics and Communications"	0.507094572095
+"International Conference on Conceptual Structures"	0.505622710622
+"International Conference on Signal Processing and Multimedia Applications"	0.498125
+"Chinese Journal of Computers"	0.496300921301
+"Genetic and Evolutionary Computation Conference"	0.487247474747
+"Electronics and Communications in Japan Part Iii-fundamental Electronic Science"	0.485027472528
+"Applied and Computational Harmonic Analysis"	0.484795008913
+"International Journal of Computer Applications"	0.484318783068
+"Intelligent Information Technology Application"	0.483927183927
+"European Transactions on Telecommunications"	0.481481481481
+ Networks and Systems"	0.480586635587
+"Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology"	0.478893849206
+"International Symposium on Mixed and Augmented Reality"	0.478724747475
+"International Journal of Communication Systems"	0.476641414142
+"IEEE Transactions on Circuits and Systems Ii-express Briefs"	0.465151515152
+"IEEE Transactions on Biomedical Engineering"	0.464248251748
+"International Wireless Internet Conference"	0.463856456044
+"ACS/IEEE International Conference on Computer Systems and Applications"	0.45246749778
+"International Conference on Neural Information Processing"	0.451748251748
+"Science in China Series F: Information Sciences"	0.44508038258
+"Journal of Computer Applications"	0.431792929293
+"Wireless Personal Communications"	0.421081349207
+"International Conference on Embedded Software and Systems"	0.421056512931
+"International Conference on Image Analysis and Recognition"	0.420316588174
+"Wuhan University Journal of Natural Sciences"	0.411827386258
+"Conference on Multimedia Modeling"	0.409014365264
+"Pacific-Asia Workshop on Computational Intelligence and Industrial Application"	0.35822954823
+"Information Processing and Trusted Computing"	0.336904761905
+"Journal of Systems Engineering and Electronics"	0.309534466985
+"International Workshop on Quality of Service"	0.264682539682
+"IEEE Transactions on Circuits and Systems Ii: Analog and Digital Signal Processing"	0.260989357864
+"International Conference on Computational Science and Its Applications"	0.244512586179
+"Journal of Information Science and Engineering"	0.243799603175
+"Journal of Network and Computer Applications"	0.238638583639
+"Advanced Information Networking and Applications"	0.232051282051
+ Man and Cybernetics"	0.230288415288
+"Gastroenterology"	0.225400432901
+"International Conference on Information and Communication Security"	0.224194139194
+"Advanced Materials Research"	0.221896159396
+"Computer and Information Technology"	0.2179004329
+"Journal of Central South University of Technology"	0.217481962482
+"Information Security"	0.216435185185
+"International Conference on Machine Learning and Cybernetics"	0.214131007881
+"Information Theory and Applications"	0.212348484848
+"Southwest Symposium on Image Analysis and Interpretation"	0.210912698412
+"International Symposium on Chinese Spoken Language Processing"	0.209161671662
+"IEEE Transactions on Geoscience and Remote Sensing"	0.209124486625
+"Intelligent Systems Design and Applications"	0.207792207792
+"Image and Vision Computing"	0.205261752136
+"Consumer Communications and Networking Conference"	0.200476190476
+"Communications and Mobile Computing"	0.19879009879
+"International Journal of Reconfigurable Computing"	0.198257575757
+ Image and Video Processing"	0.197401209901
+"Active Media Technology"	0.196481296481
+"Multimedia Information Retrieval"	0.192527472528
+"International Conference on Computer Communications"	0.19217032967
+"International Conference on Computer Graphics and Interactive Techniques"	0.189393939394
+"The Journal of Supercomputing"	0.189302364302
+"Computers & Electrical Engineering"	0.183710733711
+"Computer Aided Geometric Design"	0.182255799755
+"Chinese Optics Letters"	0.17803030303
+"IEEE\/ACM Transactions on Networking"	0.177741702742
+"Applied Mechanics and Materials"	0.177015207014
+"Journal of Mathematical Imaging and Vision"	0.176590909091
+"Pacific Conference on Computer Graphics and Applications"	0.174074074074
+"International Conference on the Digital Society"	0.169494949495
+"Electronics Letters"	0.167992424242
+"Networked Computing and Advanced Information Management"	0.164769119769
+"IEEE Transactions on Wireless Communications"	0.159015151515
+"Rapid System Prototyping"	0.144949494949
+"IEEE Transactions on Information Technology in Biomedicine"	0.144949494949
+"Fuzzy Information and Engineering"	0.143582887701
+"International Journal of Electronics and Telecommunications"	0.140865384615
+"International Solid-State Circuits Conference"	0.114829059829
+"Scientific Programming"	0.0

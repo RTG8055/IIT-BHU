@@ -58,7 +58,7 @@ with zipfile.ZipFile("zips/Journals.zip") as z:
 			# if(i==1000):
 				# break
 
-print j_names,i
+print len(j_names),i
 
 c_names={}
 with zipfile.ZipFile("zips/Conferences.zip") as z:
@@ -74,7 +74,7 @@ with zipfile.ZipFile("zips/Conferences.zip") as z:
 			# if(i==1000):
 				# break
 
-print c_names,i
+print len(c_names),i
 new = open("output/sample26/paperids26_journals_conf_title.txt",'w')
 # new3=open("output/sample3/paperids3_50_conf.txt",'w')
 i=0

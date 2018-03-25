@@ -1,0 +1,225 @@
+806E7AE3	Information Processing and Management<---Real life, real users, and real needs: a study and analysis of user queries on the web
+7BE920DD	ACM Transactions on Information Systems<---Evaluation of an inference network-based retrieval model
+7616C000	Symposium on Discrete Algorithms<---Authoritative sources in a hyperlinked environment
+77270A42	Communications of The ACM<---GroupLens: applying collaborative filtering to Usenet news
+6E136811	Sigir Forum<---Analysis of a Very Large AltaVista Query Log
+062F224C	Information not present<---Information Retrieval and the Statistics of Large Data Sets
+7A83C51A	Information not present<---On the Use of Clustered File Organization in Information Search and Retrieval
+7ED93FB4	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Learning collection fusion strategies
+7ABE107A	Information not present<---Surfing as a real option
+7E59E9AB	Machine Learning<---Support-Vector Networks
+75A2E9C6	Journal of the ACM<---Associative Document Retrieval Techniques Using Bibliographic Information
+773FD79A	Journal of The American Society for Information Science<---Improving retrieval performance by relevance feedback
+7891E84E	Information not present<---An interface for navigating clustered document sets returned by queries
+79C8C47E	IEEE Internet Computing<---Context and page analysis for improved Web search
+755718F4	Computer Networks<---Surfing the Web backwards
+7AABF50D	Journal of The American Society for Information Science<---A theory of term importance in automatic text analysis
+08B61B5A	Information not present<---Introduction to Modern Information Retrieval McGraw-Hill
+7C44487C	Journal of The American Society for Information Science<---A stemming procedure and stopword list for general French corpora
+80DEAE60	International Joint Conference on Artificial Intelligence<---Letizia: an agent that assists web browsing
+780D41CC	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Topical locality in the Web
+5A30CE54	Information not present<---The WEBFIND tool for finding scientific papers over the worldwide web.
+767E699B	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Concept based query expansion
+813975EE	Journal of The American Society for Information Science<---A probabilistic method for computing term‐by‐term relationships
+7815FC5C	American Documentation<---Word-Word Associations in Document Retrieval Systems.
+749EBC54	Information not present<---Introduction to Modern Information Retrieval
+7B7272F8	Journal of The American Society for Information Science<---First 20 precision among World Wide Web search services (search engines)
+037898D8	Information not present<---Question answering supported by information extraction
+7C5470E5	Information Processing and Management<---On the use of bibliographically related titles for the enhancement of document representations
+7DA07871	Information not present<---Automatic keyword classification for information retrieval
+7FA9A98D	Machine Learning<---Adaptive Retrieval Agents: Internalizing Local Contextand Scaling up to the Web
+7B8DE7A7	Journal of The American Society for Information Science<---Visualizing a discipline: an author co-citation analysis of information science, 1972–1995
+75434E1E	Information Processing and Management<---The state of retrieval system evaluation
+58C54FD4	International Conference on Management of Data<---The Efficacy of GlOSS for the Text Database Discovery Problem
+7D0036FB	Adaptive Agents and Multi-Agents Systems<---CiteSeer: an autonomous Web agent for automatic retrieval and identification of interesting publications
+77518A39	Computer Networks and Isdn Systems<---The shark-search algorithm. An application: tailored Web site mapping
+00AA77DB	Information not present<---Experiments in Automatic Phrase Indexing For Document Retrieval:A Comparison of Syntactic and Non-Syntactic Methods
+767B12CC	Computer Networks<---Finding related pages in the World Wide Web
+06A7C0FE	Information not present<---Ecient Web Spidering with Reinforcement Learning
+794074B1	Information Processing and Management<---Large test collection experiments on an operational, interactive system: Okapi at TREC
+7AC2FF8B	Journal of The American Society for Information Science<---Science and technology mapping: a new iteration model for representing multidimensional relationships
+7EC29841	Computational Learning Theory<---Challenges in machine learning for text classification
+7EC1D0EB	The Vldb Journal<---Scalable feature selection, classification and signature generation for organizing large text databases into hierarchical topic taxonomies
+7F86B273	Communications of The ACM<---Scalable Internet resource discovery: research problems and approaches
+786D3619	Information not present<---Inferring Web communities from link topology
+045B025B	Information not present<---Reflecting user information needs through query biased summaries
+5F0DA7A3	Information not present<---Providing Government Information on the Interne: Experiences with THOMAS
+5A6E4EBC	National Conference on Artificial Intelligence<---Learning Trees and Rules with Set-valued Features
+75EBE974	Information Processing and Management<---Term-weighting approaches in automatic text retrieval
+7ADB8CF4	Information Processing and Management<---Bayesian inference networks and spreading activation in hypertext systems
+7971C0DD	Human Factors in Computing Systems<---Silk from a sow's ear: extracting usable structures from the Web
+5C6EE6A5	World Wide Web<---Multi-service search and comparison using the MetaCrawler
+7C6A64EA	Computational Learning Theory<---A training algorithm for optimal margin classifiers
+7E5A7BD2	Human Factors in Computing Systems<---Autonomous interface agents
+7C868AAC	Science<---Strong Regularities in World Wide Web Surfing
+7C6FEF9A	International ACM SIGIR Conference on Research and Development in Information Retrieval<---On the use of spreading activation methods in automatic information
+8107D511	Journal of The American Society for Information Science<---Web search engines
+7D3A13B9	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Web document clustering: a feasibility demonstration
+7510D861	Information Processing and Management<---Finding information on the World Wide Web: the retrieval effectiveness of search engines
+6F157620	Information not present<---Okapi at TREC-4
+80AACA8F	Information Processing and Management<---Retrieval effectiveness on the web
+7B305962	Journal of The American Society for Information Science<---I 3 R: a new approach to the design of document retrieval systems
+7A061E69	Knowledge Discovery and Data Mining<---Optimizing search engines using clickthrough data
+7639488D	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Cluster analysis for hypertext systems
+7C9F2AD9	Information Processing and Management<---Overview of the sixth text REtrieval conference (TREC-6)
+7CD05707	International ACM SIGIR Conference on Research and Development in Information Retrieval<---The paraphrase search assistant: terminological feedback for iterative information seeking
+7B9C7D06	Sigir Forum<---Real life information retrieval: a study of user queries on the Web
+65F453B2	Journal of Visual Languages and Computing<---The hyperbolic browser: a focus + context technique for visualizing large hierarchies
+75A6D5C4	World Wide Web<---Clustering user queries of a search engine
+7ECA06C1	Human Factors in Computing Systems<---Finding and visualizing inter-site clan graphs
+7C54E0A8	International ACM SIGIR Conference on Research and Development in Information Retrieval<---An algorithmic framework for performing collaborative filtering
+7D79605B	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Query expansion using lexical-semantic relations
+5B3A2EBD	Science<---Citation analysis as a tool in journal evaluation.
+007B4ADB	World Wide Web<---Finding Relevant Website Queries
+7AD01B73	Information Processing and Management<---Retrieval strategies for hypertext
+5BB483BF	Information not present<---UCLA-Okapi at TREC-2: Query Expansion Experiments
+7BA595A1	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Reexamining the cluster hypothesis: scatter/gather on retrieval results
+5AEADEE5	Information not present<---Automatic Query Expansion Using SMART: TREC 3
+596BAF79	Computer Networks and Isdn Systems<---Inquirus, the NECI meta search engine
+83BE2AFB	Sigmod Record<---Beyond market baskets: generalizing association rules to correlations
+76388A76	Computer Networks<---On near-uniform URL sampling
+752DE50E	Adaptive Agents and Multi-Agents Systems<---Adaptive information agents in distributed textual environments
+7C55128F	Human Factors in Computing Systems<---Life, death, and lawfulness on the electronic frontier
+77F837BC	Journal of The American Society for Information Science<---An infrastructure for the development of health care information systems from distributed components
+07E08898	Information not present<---Using common hypertext links to identify the best phrasal description of target web documents
+7D9F833F	Information Processing and Management<---Experiments in relevance weighting of search terms
+7CFF0ADF	Machine Learning<---Text Classification from Labeled and Unlabeled Documents using EM
+75D60310	IEEE Intelligent Systems<---The MetaCrawler architecture for resource aggregation on the Web
+7D7BF9E9	Information not present<---Search Engines for the World Wide Web: A Comparative Study and Evaluation Methodology
+862FA2E5	Computer Networks and Isdn Systems<---Automatic Resource Compilation by Analyzing Hyperlink Structure and Associated Text
+5DA15BA1	Computer Communications<---On caching search engine results
+079B5C89	Information not present<---Robot-driven search engine evaluation overview
+76F46DFE	Human Factors in Computing Systems<---Multitrees: enriching and reusing hierarchical structure
+5A3E4CCD	Information not present<---Machine learning: applications in expert systems and information retrieval
+5B3B07C5	The Vldb Journal<---Incremental Clustering for Mining in a Data Warehousing Environment
+7B021953	Information Processing and Management<---A learning scheme for information retrieval in hypertext
+7D2B134A	Information Retrieval<---Scaling Up the TREC Collection
+7AEE676B	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Partial collection replication versus caching for information retrieval systems
+7BCD3876	Information Processing and Management<---Statistical inference in retrieval effectiveness evaluation
+79A9EB7A	ACM Transactions on Information Systems<---Query clustering using user logs
+78E7087D	Computer Networks and Isdn Systems<---WebQuery: searching and visualizing the Web through connectivity
+76A2E7D2	Journal of the Association for Information Science and Technology<---Relevant term suggestion in interactive web search based on contextual information in query session logs
+7EC650B2	Information not present<---Genetic algorithms with sharing for multimodal function optimization
+7FDAAA8F	Information Processing and Management<---Recent trends in hierarchic document clustering: a critical review
+5AA8112B	Information not present<---AIR/X} -- a Rule-Based Multistage Indexing System for Large Subject Fields
+5B250D99	Information not present<---Security of World Wide Web Search Engines
+76ED216E	Information Processing and Management<---An extended vector-processing scheme for searching information in hypertext systems
+5AEF05E7	Information not present<---Active by Accident: Relevance Feedback in Information Retrieval
+7ACC689A	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Training algorithms for linear text classifiers
+02704CDB	Information not present<---WebWatcher: A Learning Apprentice for the World Wide Web
+5A723F81	Information not present<---Overview of TREC-7 Very Large Collection Track
+7711D64D	Information not present<---Building a scalable and accurate copy detection mechanism
+149D6A74	Online<---Cool Tools for Web Searching: An Update.
+5CD97CE9	Information not present<---The SMART Retrieval System—Experiments in Automatic Document Processing
+7C006A7C	International Journal of Intelligent and Cooperative Information Systems<---Retrieving and Integrating Data from Multiple Information Sources
+7758C523	ACM Transactions on Information Systems<---Improving the effectiveness of information retrieval with local context analysis
+77B562B0	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Constant interaction-time scatter/gather browsing of very large document collections
+75BE69D0	Computer Networks and Isdn Systems<---Measuring the Web
+0A019C45	Information not present<---An Information Gathering Agent for Querying Web Search Engines
+798A7446	Information not present<---The use of cluster hierarchies in hypertext information retrieval
+600254D4	Ai Magazine<---SAVVYSEARCH: A Metasearch Engine That Learns Which Search Engines to Query
+7E9F7703	Biometrika<---Rank correlation methods
+767D80E5	ACM Transactions on Database Systems<---On modeling of information retrieval concepts in vector spaces
+8035BDA2	Computer Networks<---Results and challenges in Web search evaluation
+7CFAFEAA	National Conference on Artificial Intelligence<---Answering questions for an organization online
+03EE38A3	Information not present<---Making Recommender Systems Work for Organizations
+804D894E	Computer Networks and Isdn Systems<---Syntactic clustering of the Web
+5B46B6FA	Cooperative Information Systems<---Cooperating Agents for Information Retrieval
+811E03C6	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Does “authority” mean quality? predicting expert quality ratings of Web documents
+7DB226A9	Information Processing and Management<---Searching the Web by constrained spreading activation
+7EE76954	Journal of The American Society for Information Science<---Automatic ranked output from boolean searches in SIRE
+7FFAF0C8	Journal of The American Society for Information Science<---Indexing by Latent Semantic Analysis.
+75B536BB	Information Processing and Management<---Bibliographic compilation using reference and citation links
+7028E0F4	Information not present<---Feedback in information retrieval
+793E2B82	ACM Transactions on Information Systems<---An information-theoretic approach to automatic query expansion
+7AE6EC87	Information Processing and Management<---Information retrieval by constrained spreading activation in semantic networks
+5E99F184	Cooperative Information Agents<---Content-based Collaborative Information Filtering: Actively Learning to Classify and Recommend Documents
+75FC25F4	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Query expansion using local and global document analysis
+5BB84F6B	The Vldb Journal<---Distributed Hypertext Resource Discovery Through Examples
+77F48EC4	International Joint Conference on Artificial Intelligence<---\sc WebWatcher}: a tour guide for the Word Wide Web
+5AAF5492	Knowledge Discovery and Data Mining<---Fast and Intuitive Clustering of Web Documents
+7E0ED20D	Computer Networks<---Focused crawling: a new approach to topic-specific Web resource discovery
+7D2490F0	IEEE Transactions on Knowledge and Data Engineering<---Query expansion by mining user logs
+7765E1F5	Journal of The American Society for Information Science<---Retrieval Effectiveness by Semantic and Citation Searching.
+0B6FB1BF	Information not present<---Information fusion with ProFusion
+7DA1591F	Journal of Artificial Intelligence Research<---Reinforcement learning: a survey
+7525487E	Computer Networks and Isdn Systems<---The Internet fish construction kit
+5ADB3A52	Information not present<---An analysis of Internet search engines: assessment of over 200 search queries
+093125BF	Information not present<---Document retrieval systems - optimization and evaluation
+5DE7DD97	The Vldb Journal<---Efficient and Effective Clustering Methods for Spatial Data Mining
+78240F38	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Using statistical testing in the evaluation of retrieval experiments
+7D7D8752	Journal of The American Society for Information Science<---The Limitations of Term Co-Occurrence Data for Query Expansion in Document Retrieval Systems.
+76537474	Information not present<---INQUERY and TREC-7
+780EFBFD	Journal of The American Society for Information Science<---Ranking schemes in hybrid Boolean systems: a new approach
+0229F1F0	Information not present<---Anchors in Context: A corpus analysis of web pages authoring conventions
+7F54207B	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Incorporating quality metrics in centralized/distributed information retrieval on the World Wide Web
+0B6AF654	Foundations of Genetic Algorithms<---Population Sizing for Sharing Methods
+77635E60	Journal of The American Society for Information Science<---A smart itsy bitsy spider for the web
+7A51D293	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Experiments in automatic statistical thesaurus construction
+63BCB1FC	Knowledge Discovery and Data Mining<---A density-based algorithm for discovering clusters in large spatial databases with noise
+5C4734A1	Information not present<---Topical Locality in the Web: Experiments and Observations
+769DEF86	Sigact News<---Algorithms on Stings, Trees, and Sequences: Computer Science and Computational Biology
+5FADAAF9	Computer Networks and Isdn Systems<---A technique for measuring the relative size and overlap of public Web search engines
+00691BD7	World Wide Web<---The RBSE Spider - Balancing Effective Search Against Web Load1
+7CE1777E	Information not present<---HyPursuit: a hierarchical network search engine that exploits content-link hypertext clustering
+603131BB	World Wide Web<---Mercator: A scalable, extensible Web crawler
+771A0E99	Intelligent User Interfaces<---Community search assistant
+7C244270	Information not present<---Bibliometrics of the World Wide Web: An Exploratory Analysis of the Intellectual Structure of Cyberspace.
+79B0938F	Journal of Computer and System Sciences<---Robust trainability of single neurons
+762EF924	Journal of The American Society for Information Science<---End user searching on the Internet: an analysis of term pair topics submitted to the excite search engine
+77B5927B	Journal of The American Society for Information Science<---Visualizing science by citation mapping
+79FCA29E	Information not present<---Lexical navigation: visually prompted query expansion and refinement
+5A5A4410	Information not present<---An Association Thesaurus for Information Retrieval
+7C4CF995	Adaptive Agents and Multi-Agents Systems<---An adaptive Web page recommendation service
+7E3B8B8C	Knowledge Discovery and Data Mining<---SimRank: a measure of structural-context similarity
+7BF548B5	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Improved algorithms for topic distillation in a hyperlinked environment
+0A9AA92A	Information not present<---Practical digital libraries: books
+59E88235	Information not present<---Large margin rank boundaries for ordinal regression
+7A5B9FB7	Journal of The American Society for Information Science<---The relevance of recall and precision in user evaluation
+05A3AB2F	Information not present<---Unbiased Evaluation of Retrieval Quality using Clickthrough Data
+750D49BF	Adaptive Agents and Multi-Agents Systems<---Evolving a multi-agent information filtering solution in Amalthaea
+5A8ACA1E	Information not present<---World Wide Web Image Search Engines
+7FDED940	Computer Networks and Isdn Systems<---ParaSite: mining structural information on the Web
+81045DFD	Information not present<---Relevance Feedback in Information Retrieval
+79159B28	Journal of The American Society for Information Science<---Measuring retrieval effectiveness based on user preference of documents
+7C1EE24B	Information not present<---Identifying aggregates in hypertext structures
+7C8CACD1	Foundations of Computer Science<---Linear pattern matching algorithms
+7B6B2AAA	Information Processing and Management<---Experimentation as a way of life: Okapi at TREC
+75942FD9	Knowledge Discovery and Data Mining<---Agglomerative clustering of a search engine query log
+7E082113	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Term clustering of syntactic phrases
+7AC4BB20	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Evaluating user interfaces to information retrieval systems: a case study on user support
+7AC1AFF1	Algorithmica<---On-Line Construction of Suffix Trees
+7998D10D	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Projections for efficient document clustering
+07C88201	Information not present<---Probability of relevance: a unification of two competing models for document retrieval
+7FA59B5D	Machine Learning<---Self-Improving Reactive Agents Based on Reinforcement Learning, Planning and Teaching
+80DCD6AC	IEEE Transactions on Applications and Industry<---Learning from hotlists and coldlists: towards a WWW information filtering and seeking agent
+75F71181	IEEE Intelligent Systems<---Lycos: design choices in an Internet search service
+7A6F5F82	Computer Networks and Isdn Systems<---The quest for correct information on the Web: hyper search engines
+59975C1D	Communications of The ACM<---Searching for Information in a Hypertext Medical Handbook
+7F78C773	Journal of the ACM<---Authoritative sources in a hyperlinked environment
+7CF76D78	Information not present<---An analysis of the behavior of a class of genetic adaptive systems.
+7A00E34F	Information Processing and Management<---Implementing agglomerative hierarchic clustering algorithms for use in document retrieval
+7A1A38AD	Computer Networks and Isdn Systems<---WebCutter: a system for dynamic and tailorable site mapping
+6EDC6A29	Information not present<---A machine learning architecture for optimizing web search engines
+7ABE0DC7	Computer Networks and Isdn Systems<---Applications of a Web query language
+09643578	National Conference on Artificial Intelligence<---Moving up the information food chain: deploying softbots on the world wide web
+7FFB2336	Science<---Searching the World Wide Web
+021AF8CB	Information not present<---The UCSD Active Web
+7A4C0E66	Computer Networks and Isdn Systems<---GENVL and WWWW: Tools for Taming the Web
+7693BC1F	Information Processing and Management<---The use of semantic links in hypertext information retrieval
+75CAEAE1	Computer Networks and Isdn Systems<---The connectivity server: fast access to linkage information on the Web
+75BEB42B	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Phrasier: a system for interactive document retrieval using keyphrases
+80FCD18B	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Effective site finding using link anchor information
+77C20005	International ACM SIGIR Conference on Research and Development in Information Retrieval<---On the reuse of past optimal queries
+7732CCC0	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Improving automatic query expansion
+7B2E5EC6	Computer Networks and Isdn Systems<---The anatomy of a large-scale hypertextual Web search engine
+5C95F2A6	Information not present<---A Comparative Study of Web Search Service Performance
+5C0ECE29	World Wide Web<---DiscoWeb: Applying link analysis to web search
+781BA1AD	Information Processing and Management<---Database merging strategy based on logistic regression
+7C59B343	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Searching distributed collections with inference networks
+7B1BFFE6	Journal of The American Society for Information Science<---Interaction in information retrieval: selection and effectiveness of search terms
+770435EE	International ACM SIGIR Conference on Research and Development in Information Retrieval<---Scatter/Gather: a cluster-based approach to browsing large document collections
+6E851260	Information not present<---The PageRank Citation Ranking: Bringing Order to the Web.
+79988F59	Computer Networks and Isdn Systems<---Dynamic reference sifting: a case study in the homepage domain
+7C770A71	Information Processing and Management<---Application of loglinear models to informetric phenomena
+77850819	Journal of The American Society for Information Science<---Co‐citation in the scientific literature: A new measure of the relationship between two documents

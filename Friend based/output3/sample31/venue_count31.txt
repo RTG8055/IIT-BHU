@@ -1,0 +1,510 @@
+Information not present	776
+Knowledge Discovery and Data Mining	279
+Sigmod Record	111
+The Vldb Journal	94
+Communications of The ACM	75
+International Conference on Data Engineering	74
+International Conference on Machine Learning	72
+Machine Learning	70
+IEEE Transactions on Knowledge and Data Engineering	62
+International Conference on Data Mining	55
+National Conference on Artificial Intelligence	47
+International Joint Conference on Artificial Intelligence	43
+Conference on Information and Knowledge Management	43
+Data Mining and Knowledge Discovery	40
+IEEE Transactions on Neural Networks	40
+European Conference on Principles of Data Mining and Knowledge Discovery	37
+IEEE Transactions on Pattern Analysis and Machine Intelligence	36
+International Symposium on Neural Networks	30
+Artificial Intelligence	30
+Sigkdd Explorations	28
+International ACM SIGIR Conference on Research and Development in Information Retrieval	28
+IEEE Intelligent Systems	27
+Symposium on Principles of Database Systems	26
+IEEE Transactions on Software Engineering	23
+International Conference on Management of Data	22
+International Conference on Software Maintenance	19
+Sigplan Notices	19
+IEEE Computer	19
+Computer Networks and Isdn Systems	19
+SIAM International Conference on Data Mining	18
+Working Conference on Reverse Engineering	18
+Human Factors in Computing Systems	18
+International Conference on Software Engineering	17
+Journal of The American Society for Information Science	17
+Journal of Artificial Intelligence Research	17
+Journal of Intelligent Information Systems	17
+IEEE Transactions on Systems, Man, and Cybernetics	17
+Uncertainty in Artificial Intelligence	16
+IEEE Transactions on Computers	16
+ACM Transactions on Database Systems	15
+Pattern Recognition	15
+International Conference on Program Comprehension	15
+Pacific-Asia Conference on Knowledge Discovery and Data Mining	15
+Neural Computation	14
+International Syposium on Methodologies for Intelligent Systems	14
+Symposium on the Theory of Computing	13
+Discovery Science	13
+Decision Support Systems	13
+Neural Information Processing Systems	13
+ACM Computing Surveys	13
+Annals of Statistics	13
+Neural Networks	13
+Operating Systems Review	13
+Fuzzy Sets and Systems	12
+Technometrics	12
+IEEE Transactions on Information Theory	12
+IEEE Symposium on Information Visualization	12
+Information & Management	11
+Intelligent Data Analysis	11
+International Conference on Database Theory	11
+Data and Knowledge Engineering	11
+IEEE Intelligent Systems & Their Applications	11
+Information Systems	11
+IEEE Data(base) Engineering Bulletin	11
+Hawaii International Conference on System Sciences	11
+Data Warehousing and Knowledge Discovery	10
+Foundations of Computer Science	10
+Computational Learning Theory	10
+Computational Intelligence	10
+Neurocomputing	10
+World Wide Web	10
+International Cryptology Conference	10
+Pattern Recognition Letters	9
+Statistical and Scientific Database Management	9
+Computers & Operations Research	9
+IEEE Transactions on Applications and Industry	9
+Automated Software Engineering	9
+Biological Cybernetics	9
+Proceedings of the National Academy of Sciences of the United States of America	9
+Journal of the American Statistical Association	9
+Ai Magazine	8
+Proceedings of the IEEE	8
+Artificial Intelligence Review	8
+Systems, Man and Cybernetics	8
+Sigmetrics Performance Evaluation Review	8
+Information Processing and Management	8
+Future Generation Computer Systems	8
+Science	8
+Biometrika	8
+Extending Database Technology	7
+Expert Systems With Applications	7
+SIAM Journal on Computing	7
+European Journal of Operational Research	7
+ACM Transactions on Information Systems	7
+Journal of Computer and System Sciences	7
+International Journal of Human-computer Studies \/ International Journal of Man-machine Studies	7
+ACM Sigsoft Software Engineering Notes	7
+Computational Statistics & Data Analysis	6
+Information Sciences	6
+Information Processing Letters	6
+Discrete Applied Mathematics	6
+Journal of the Operational Research Society	6
+Knowledge Based Systems	6
+Inductive Logic Programming	6
+Nature	6
+Parallel Computing	6
+Information & Computation	6
+User Interface Software and Technology	6
+International Journal of Intelligent Systems	6
+Evolutionary Computation	6
+Journal of the ACM	6
+Computer Communication Review	6
+Wirtschaftsinformatik \/ Angewandte Informatik	6
+Nucleic Acids Research	6
+Sigir Forum	6
+Psychometrika	6
+International Conference on Artificial Neural Networks	6
+IEEE Computer Graphics and Applications	6
+Bioinformatics	5
+Database and Expert Systems Applications	5
+Computer Networks	5
+IEEE Transactions on Signal Processing	5
+New Security Paradigms Workshop	5
+The Computer Journal	5
+Clinical Orthopaedics and Related Research	5
+Soft Computing	5
+Management Science	5
+Database Systems for Advanced Applications	5
+European Conference on Artificial Intelligence	5
+IEEE Transactions on Medical Imaging	5
+Biometrics	5
+International Workshop on Principles of Software Evolution	5
+IEEE Transactions on Fuzzy Systems	5
+Journal of Algorithms	5
+IEEE Software	5
+Symposium on Discrete Algorithms	5
+IEEE Transactions on Acoustics, Speech, and Signal Processing	5
+ACM Transactions on Software Engineering and Methodology	5
+Theoretical Computer Science	5
+Journal of Machine Learning Research	4
+Journal of Multivariate Analysis	4
+IEEE Transactions on Biomedical Engineering	4
+International Conference on Neural Information Processing	4
+Integrated Network Management	4
+Australian Joint Conference on Artificial Intelligence	4
+Information & Software Technology	4
+International Conference on Conceptual Modeling	4
+Designs, Codes and Cryptography	4
+Protein Science	4
+Knowledge and Information Systems	4
+Journal of Cryptology	4
+Journal of Management Information Systems	4
+Journal of Parallel and Distributed Computing	4
+Journal of Finance	4
+Psychological Review	4
+Research in Computational Molecular Biology	4
+Pacific Symposium on Biocomputing	4
+World Congress on Computational Intelligence	4
+Theory and Application of Cryptographic Techniques	4
+Algorithmic Learning Theory	4
+Computational Linguistics	4
+IEEE Internet Computing	4
+Journal of Accounting Research	3
+Advances in Databases and Information Systems	3
+Web Information and Data Management	3
+Cognitive Science	3
+Conference of the Centre for Advanced Studies on Collaborative Research	3
+The American Economic Review	3
+International Conference on Systems	3
+Cybernetics and Systems	3
+Intelligent User Interfaces	3
+International Journal of Intelligent Systems in Accounting, Finance & Management	3
+Drug Safety	3
+Computer Vision and Pattern Recognition	3
+Interfaces	3
+Journal of Systems and Software	3
+Scientific Programming	3
+Journal of Econometrics	3
+International Conference on Pattern Recognition	3
+IEEE Transactions on Automatic Control	3
+Econometrica	3
+Journal of Visual Communication and Image Representation	3
+Informs Journal on Computing	3
+International Journal of Approximate Reasoning	3
+International Parallel and Distributed Processing Symposium	3
+European Conference on Research and Advanced Technology for Digital Libraries	3
+Decision Sciences	3
+International Workshop on the Web and Databases	3
+Journal of Molecular Biology	3
+International Conference on Image Processing	3
+Knowledge Engineering Review	3
+Cooperative Information Systems	3
+IEEE Transactions on Reliability	3
+Mining Software Repositories	3
+IEEE\/ACM Transactions on Networking	3
+Journal of Computational Biology	3
+Pacific Rim International Conference on Artificial Intelligence	3
+Industrial and Engineering Applications of Artificial Intelligence and Expert Systems	3
+International Journal of Geographical Information Science	3
+Autonomous Agents and Multi-Agent Systems	3
+Intelligence and Security Informatics	3
+ACM Symposium on Parallel Algorithms and Architectures	3
+Statistical Science	3
+Intelligent Data Engineering and Automated Learning	3
+Combinatorial Pattern Matching	3
+Computer Software and Applications Conference	3
+Statistics and Computing	3
+ACM Transactions on Computer Systems	3
+International Conference on Acoustics, Speech, and Signal Processing	3
+Journal of The Royal Statistical Society Series A-statistics in Society	2
+Information Retrieval	2
+Intelligence\/sigart Bulletin	2
+Information Hiding	2
+Journal of Visual Languages and Computing	2
+IEEE Concurrency	2
+International Journal of Business Intelligence and Data Mining	2
+European Conference on Parallel Processing	2
+Adaptive Agents and Multi-Agents Systems	2
+International Semantic Web Conference	2
+Neural Processing Letters	2
+Software - Practice and Experience	2
+Journal of Business & Economic Statistics	2
+Applied Intelligence	2
+Operating Systems Design and Implementation	2
+Linux Journal	2
+Numerische Mathematik	2
+Contemporary Sociology	2
+Econometric Theory	2
+Advances in Computers	2
+IEEE Transactions on Image Processing	2
+Organization Science	2
+Congress on Evolutionary Computation	2
+Intelligent Systems in Molecular Biology	2
+New Generation Computing	2
+Distributed and Parallel Databases	2
+Signal Processing	2
+Current Therapeutic Research-clinical and Experimental	2
+International Conference on Supercomputing	2
+Ai Communications	2
+Journal of Information Science and Engineering	2
+Journal of Magnetic Resonance Imaging	2
+Information Systems Research	2
+Computers in Industry	2
+Computerized Medical Imaging and Graphics	2
+Computer Supported Cooperative Work	2
+Annals of Mathematics and Artificial Intelligence	2
+IEEE Parallel & Distributed Technology: Systems & Applications	2
+Global Communications Conference	2
+International Journal on Digital Libraries	2
+Breast Cancer Research and Treatment	2
+Autonomous and Intelligent Systems	2
+Journal of Interactive Marketing	2
+Siam Review	2
+American Journal of Sociology	2
+Algorithmica	2
+The Visual Computer	2
+Journal of Forecasting	2
+International Journal of Data Warehousing and Mining	2
+Behavioral and Brain Sciences	2
+Pharmacoepidemiology and Drug Safety	2
+The Journal of Neuroscience	2
+International Database Engineering and Applications Symposium	2
+Software Visualization	2
+Journal of Software Maintenance and Evolution: Research and Practice	2
+Expert Systems	2
+Conference on Decision and Control	2
+Lecture Notes in Computer Science	2
+Meeting of the Association for Computational Linguistics	2
+Physica D: Nonlinear Phenomena	2
+Financial Analysts Journal	2
+International Conference on Parallel Processing	2
+Parallel Problem Solving from Nature	2
+Mathematics of Computation	2
+Australasian Journal of Information Systems	2
+International Geoscience and Remote Sensing Symposium	2
+International Journal of Parallel Programming	2
+Annual Computer Security Applications Conference	2
+Belgium-Netherlands Conference on Artificial Intelligence	2
+Ssrn Electronic Journal	2
+International Journal of Production Economics	2
+ACM Sigarch Computer Architecture News	2
+American Journal of Psychology	2
+IEEE Transactions on Parallel and Distributed Systems	2
+Journal of Computer Assisted Tomography	2
+International Colloquium on Automata, Languages and Programming	2
+Journal of Information Science	2
+International Conference on Distributed Computing Systems	2
+IEEE Computer Society	2
+Terra Nova	1
+Computer and Communications Security	1
+Artificial Intelligence in Medicine	1
+Principles and Practice of Constraint Programming	1
+Vistas in Astronomy	1
+Discrete Mathematics	1
+Economic Record	1
+Aiche Journal	1
+IEEE Transactions on Communications	1
+Journal of Futures Markets	1
+Intelligent Systems Engineering	1
+Automatica	1
+The Florida AI Research Society	1
+Econometrics Journal	1
+Journal of Financial Economics	1
+Journal of Approximation Theory	1
+Web Intelligence and Agent Systems: An International Journal	1
+Network Operations and Management Symposium	1
+Computer Languages, Systems & Structures	1
+The Astrophysical Journal	1
+Journal of Heredity	1
+Ibm Journal of Research and Development	1
+Medical & Biological Engineering & Computing	1
+Computers & Security	1
+Transactions of The American Institute of Electrical Engineers	1
+Communication Monographs	1
+Computers & Chemical Engineering	1
+IEEE Assp Magazine	1
+Conference on Scientific Computing	1
+Web Reasoning and Rule Systems	1
+Neural Computing and Applications	1
+IEEE Transactions on Systems Science and Cybernetics	1
+Web Information Systems Engineering	1
+Statistical Methods in Medical Research	1
+High Performance Computing	1
+Ibm Systems Journal	1
+Australasian Data Mining Conference	1
+Computer Graphics	1
+Pediatrics	1
+Journal of Molecular Structure-theochem	1
+Journal of Intelligent and Robotic Systems	1
+Foundations of Software Engineering	1
+Library Resources & Technical Services	1
+Literary and Linguistic Computing	1
+Physiological Measurement	1
+Journal of Medicinal Chemistry	1
+The Library Quarterly	1
+Flexible Query Answering Systems	1
+Journal of Magnetic Resonance	1
+Principles of Distributed Computing	1
+User Modeling and User-adapted Interaction	1
+Journal of Chemical Information and Modeling	1
+Journal of Network and Computer Applications	1
+Government Publications Review	1
+Vaccine	1
+Graphical Models \/graphical Models and Image Processing \/computer Vision, Graphics, and Image Processing	1
+International Journal of Pattern Recognition and Artificial Intelligence	1
+Foundations of Genetic Algorithms	1
+IEEE Signal Processing Magazine	1
+International Journal of Forecasting	1
+Information Storage and Retrieval	1
+Review of Financial Studies	1
+Bulletin of Mathematical Biology	1
+High Performance Distributed Computing	1
+Scandinavian Conference on AI	1
+Machine Intelligence and Pattern Recognition	1
+Mathematical Proceedings of the Cambridge Philosophical Society	1
+Journal of Dynamic Systems Measurement and Control-transactions of The Asme	1
+International Symposium on Computers and Communications	1
+Annals of Operations Research	1
+IEEE Journal on Selected Areas in Communications	1
+Journal of Direct Marketing	1
+International Conference of the IEEE Engineering in Medicine and Biology Society	1
+Distributed Computing in Sensor Systems	1
+Canadian Conference on Electrical and Computer Engineering	1
+International Conference on Computer Vision	1
+Handbook of Statistics	1
+Distributed Systems: Operations and Management	1
+ACM Crossroads Student Magazine	1
+Seminars in Nuclear Medicine	1
+International Journal of Software Engineering and Knowledge Engineering	1
+International Journal of Imaging Systems and Technology	1
+Industrial Management and Data Systems	1
+Conference on Software Maintenance and Reengineering	1
+International Conference on Tools with Artificial Intelligence	1
+Journal of Advertising Research	1
+Journal of Database Management	1
+ACM Transactions on Computational Logic	1
+American Journal of Medical Genetics	1
+Symposium on Theoretical Aspects of Computer Science	1
+IEEE Transactions on Geoscience and Remote Sensing	1
+Environmental Health Perspectives	1
+Acta Cybernetica	1
+Graph Drawing	1
+Journal of Systems Integration	1
+Workshop on Graph-Theoretic Concepts in Computer Science	1
+ACM Transactions on Graphics	1
+Workshop on Algorithms and Data Structures	1
+BMC Bioinformatics	1
+Brazilian Symposium on Neural Networks	1
+Applied Optics	1
+Conference on Object-Oriented Programming Systems, Languages, and Applications	1
+Marketing Science	1
+Journal of The Australian Mathematical Society	1
+Connection Science	1
+Transactions of the American Mathematical Society	1
+Chemical Engineering Science	1
+International Conference on Conceptual Structures	1
+Statistics & Probability Letters	1
+Journal of Programming Languages	1
+Proceedings of The Royal Society of London. Series B, Biological Sciences (1934-1990)	1
+Interacting with Computers	1
+Algorithm Engineering and Experimentation	1
+Physical Review E	1
+IEEE Transactions on Speech and Audio Processing	1
+Computational Biology and Chemistry	1
+Modeling, Analysis, and Simulation On Computer and Telecommunication Systems	1
+Multimedia Systems	1
+Journal of Interlibrary Loan,document Delivery & Electronic Reserve	1
+Mathematics of Control, Signals, and Systems	1
+Sigact News	1
+Pacific Rim Knowledge Acquisition Workshop	1
+Very Large Data Bases	1
+Financial Management	1
+Concurrency and Computation: Practice and Experience	1
+Innovative Applications of Artificial Intelligence	1
+Journal of the Atmospheric Sciences	1
+Networks	1
+Design Automation Conference	1
+Personal and Ubiquitous Computing	1
+Omega-international Journal of Management Science	1
+Journal of Mathematical Imaging and Vision	1
+Journal of Cerebral Blood Flow and Metabolism	1
+Physical Review	1
+American Journal of Physics	1
+Electronics Letters	1
+ACM/IEEE International Conference on Mobile Computing and Networking	1
+International Conference on Case-Based Reasoning	1
+American Mathematical Monthly	1
+Applied Artificial Intelligence	1
+IEEE Transactions on Intelligent Transportation Systems	1
+European Physical Journal B	1
+Physica A-statistical Mechanics and Its Applications	1
+European Journal of Clinical Pharmacology	1
+Journal of Marketing Research	1
+Artificial Intelligence in Medicine in Europe	1
+Chemistry & Biology	1
+SIAM Journal on Scientific Computing	1
+IEEE Potentials	1
+European Conference on Computer Vision	1
+Journal of Computer Science and Technology	1
+European Conference on Information Retrieval	1
+Computers and Biomedical Research	1
+Journal of Computer Security	1
+ACM Transactions on Programming Languages and Systems	1
+Quantitative Structure-activity Relationships	1
+Informatica (slovenia)	1
+Journal of The Optical Society of America A-optics Image Science and Vision	1
+Workshop on Parallel and Distributed Simulation	1
+European Symposium on Algorithms	1
+Contemporary Accounting Research	1
+Cancer Letters	1
+Applied Mathematics Letters	1
+Magnetic Resonance in Medicine	1
+Machine Learning and Data Mining in Pattern Recognition	1
+Electronic Commerce and Web Technologies	1
+International Journal of Computer Vision	1
+ACM Sigsim Simulation Digest	1
+Systems Research and Behavioral Science	1
+Information Systems Security	1
+Journal of Circuits, Systems, and Computers	1
+Software Engineering and Knowledge Engineering	1
+Journal of Systems Engineering and Electronics	1
+Journal of Economics and Business	1
+IEEE Personal Communications	1
+Integrated Computer-aided Engineering	1
+Genome Research	1
+Knowledge Acquisition	1
+IEEE Transactions on Visualization and Computer Graphics	1
+Seminars in Surgical Oncology	1
+Journal of Computational and Graphical Statistics	1
+Ima Journal of Numerical Analysis	1
+International Symposium on Parallel and Distributed Processing and Applications	1
+European Conference on Object-Oriented Programming	1
+ACM Transactions on Information and System Security	1
+Evolutionary Ecology	1
+SIAM Journal on Numerical Analysis	1
+Quarterly of Applied Mathematics	1
+Statistica Neerlandica	1
+Siam Journal on Scientific and Statistical Computing	1
+Sociological Methodology	1
+Communications in Statistics-theory and Methods	1
+Proteins	1
+Applied Numerical Mathematics	1
+The Journal of Nuclear Medicine	1
+Static Analysis Symposium	1
+Journal of Network and Systems Management	1
+Transactions on Rough Sets	1
+Journal of Database Marketing	1
+Journal of Universal Computer Science	1
+IEEE Micro	1
+International Journal on Artificial Intelligence Tools	1
+Web-Age Information Management	1
+Mathematical Programming	1
+Behavior Research Methods	1
+Journal of Mathematical Biology	1
+Cognitive Systems Research	1
+Journal of Economic Surveys	1
+Cartography and Geographic Information Science	1
+Computer Aided Surgery	1
+Journal of Materials Processing Technology	1
+Computers & Industrial Engineering	1
+FEBS Letters	1
+Quantum Information & Computation	1
+ACM Transactions on Internet Technology	1
+Iee Review	1
+Ieice Transactions	1
+Europhysics Letters (epl)	1
+American Psychologist	1
+Ire Transactions on Electronic Computers	1
+Bellman Prize in Mathematical Biosciences	1
+Journal of the American Medical Informatics Association	1

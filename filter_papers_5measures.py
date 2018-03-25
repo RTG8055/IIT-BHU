@@ -10,7 +10,7 @@ avg2=0
 avg3=0
 avg4=0
 avg5=0
-with open("output/sample8/gephi_deg_clo_bw_auth_hub_eigen.csv",'r') as file:
+with open("output/sample61/gephi_deg_clo_bw_auth_hub_eigen.csv",'r') as file:
 # Id	Label	indegree	outdegree	Degree
 				# closnesscentrality	betweenesscentrality	Authority	Hub	
 				# eigencentrality
@@ -79,7 +79,7 @@ for j in (sorted(outdeg,key=outdeg.__getitem__,reverse=True)):
 		topset.add(j)
 
 
-toppaper=open("output/sample8/filtered_papers_5measures.txt",'w')
+toppaper=open("output/sample61/filtered_papers_5measures.txt",'w')
 for j in topset:
 	toppaper.write(j)
 	toppaper.write('\n')

@@ -23,11 +23,22 @@ A Model Based Method for the Computation of Fingerprints Orientation Field
 
 A New Approach for Time Synchronization in Wireless Sensor Networks: Pairwise Broadcast Synchronization
 
+Rate-Distortion Optimized Bitstream Extractor for Motion Scalability in Wavelet-Based Scalable Video Coding 
+
 sample12:
 Steganography in Inactive Frames of VoIP Streams Encoded by Source Codec
 
 sample16:
 A Hypothesis Testing Approach to Semifragile Watermark Based Authentication
+
+sample18:
+Improved Resource Management through User Aggregation in Heterogeneous Multiple Access Wireless Networks
+
+sample19:
+Performance Analysis of Slotted Carrier Sense IEEE 802.15.4 Medium Access Layer
+
+sample20:
+Cross-Layer Fair Bandwidth Sharing for Multi-Channel Wireless Mesh Networks
 
 sample21:
 Decision tree approach for classification of remotely sensed satellite data using open source support
@@ -58,6 +69,21 @@ The impact of UML documentation on software maintenance: an experimental evaluat
 
 sample30:
 Automatic detection and diagnosis of faults in generated code for procedure calls
+
+Sample31:
+Flexible Frameworks for Actionable Knowledge Discovery
+
+Sample32:
+Mining Frequent Subgraph Patterns from Uncertain Graph Data
+
+Sample33:
+Using emerging patterns to construct weighted decision trees
+
+Sample34:
+Simultaneous Pattern and Data Clustering for Pattern Cluster Analysis
+
+Sample35:
+Pushing support constraints into association rules mining
 
 sample36:
 Enabling reuse-based software development of large-scale systems
@@ -112,7 +138,7 @@ Query-by-Example Spoken Term Detection using Frequency Domain Linear Prediction 
 all_titles = {}
 all_journals={}
 
-f = open("output2/sample5/papers5_titles_journals.txt",'r')
+f = open("output2/sample35/papers35_titles_journals.txt",'r')
 for line in f:
     paperID,pJournaltitle = line.split('\t')
     pjournal,ptitle = pJournaltitle.split("<--")
@@ -142,7 +168,7 @@ for paperID,title in all_titles.items():
 print maxS,maxP,maxT
 
 i=0
-new=open("output2/sample5/all_papers_titSim.csv",'w')
+new=open("output2/sample35/all_papers_titSim.csv",'w')
 new.write("Paper ID,Title,Journal,Sim1,Sim2\n")
 for k,v in all_titles.items():
     # print v

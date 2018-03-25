@@ -1,6 +1,6 @@
 import networkx as nx
 
-file = open("output2/sample5/top_papers_references5.txt",'r')
+file = open("output2/sample56/top_papers_references56_1.txt",'r')
 papers={}
 i=0
 for line in file:
@@ -14,7 +14,7 @@ file.close()
 all_papers=set()
 
 
-with open("output2/sample5/top_papers5.txt",'r') as f:
+with open("output2/sample56/top_papers56_1.txt",'r') as f:
 	i=0
 	for line in f:
 		i+=1
@@ -69,14 +69,14 @@ except Exception as e:
 not_added_papers = all_papers - added_papers
 print len(all_papers),len(not_added_papers),len(added_papers)
 
-new = open("output2/sample5/all_paper_without_references5.txt",'w')
+new = open("output2/sample56/all_paper_without_references56_1.txt",'w')
 for p in not_added_papers:
 	new.write(str(p) + "\n")
 print "written not done filtered papers"
 
 # nx.draw(G,with_labels=True,font_weight="bold")
 print "done drawing"
-nx.write_pajek(G,"output2/sample5/graph5_3.net")
-nx.write_gml(G,"output2/sample5/graph5_3.gml")
+nx.write_pajek(G,"output2/sample56/graph56_56_1.net")
+nx.write_gml(G,"output2/sample56/graph56_56_1.gml")
 print "done writing"
 

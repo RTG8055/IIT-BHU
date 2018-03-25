@@ -2,7 +2,7 @@
 
 venue_count={}
 
-with open("output3/sample6/papers6_titles_journals.txt",'r') as file:
+with open("output3/sample35/papers35_titles_journals.txt",'r') as file:
 	for line in file:
 		pid,pdetails = line.strip("\n|\r").split("\t")
 		venue = pdetails.split("<---")[0]
@@ -12,7 +12,7 @@ with open("output3/sample6/papers6_titles_journals.txt",'r') as file:
 			venue_count[venue]+=1
 
 print len(venue_count)
-new = open("output3/sample6/venue_count6.txt",'w')
+new = open("output3/sample35/venue_count35.txt",'w')
 for v in sorted(venue_count,key=venue_count.__getitem__,reverse=True):
 	new.write(v + "\t" + str(venue_count[v]) + "\n")
 	print v,venue_count[v]

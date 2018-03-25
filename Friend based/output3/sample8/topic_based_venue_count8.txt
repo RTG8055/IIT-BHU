@@ -1,0 +1,469 @@
+"Information not present"	352.781025981
+"Principles of Distributed Computing"	18.9564009293
+"IEEE Transactions on Instrumentation and Measurement"	17.0293127755
+"IEEE Transactions on Communications"	13.5907733332
+"International Conference on Communications"	10.7980173299
+"IEEE Transactions on Computers"	10.1893491694
+"Global Communications Conference"	9.59984357444
+ and Signal Processing"	9.04473532145
+"International Conference on Computer Communications"	8.7502662037
+"International Conference on Distributed Computing Systems"	8.65371107285
+"Symposium on Reliable Distributed Systems"	8.54883657183
+"Conference on Decision and Control"	7.53434695265
+"Emerging Technologies and Factory Automation"	7.19367074999
+"Clinical Orthopaedics and Related Research"	6.72367642278
+"IEEE Communications Letters"	6.44108489339
+"Sensors"	5.8126800283
+"IEEE Transactions on Signal Processing"	5.80708012371
+"Real-Time Systems Symposium"	5.66346522305
+"IEEE Transactions on Parallel and Distributed Systems"	5.52994829245
+"Wireless Communications and Networking Conference"	5.32786584557
+"International Conference on Principles of Distributed Systems"	5.11006706257
+"Applied Mechanics and Materials"	4.88946554548
+"Real-time Systems"	4.77094561688
+"Physical Review A"	4.76740214297
+"Mobile Ad Hoc Networking and Computing"	4.3849490787
+"ACM/IEEE International Conference on Mobile Computing and Networking"	4.15287598975
+"International Symposium on Circuits and Systems"	4.07677814891
+"Vehicular Technology Conference"	3.90223665224
+"Distributed Computing"	3.89744028293
+"Euromicro Conference on Real-Time Systems"	3.85809523809
+"Theoretical Computer Science"	3.52634766028
+"Proceedings of the IEEE"	3.49947584803
+"Information Processing in Sensor Networks"	3.47936507937
+"IEEE Journal of Solid-state Circuits"	3.45627184428
+ Indoor and Mobile Radio Communications"	3.43047374253
+"IEEE Transactions on Wireless Communications"	3.21218253968
+"Document Analysis Systems"	3.15691996496
+"International Conference on Embedded Networked Sensor Systems"	3.13623360766
+"Physical Review Letters"	3.06369348244
+"Advanced Information Networking and Applications"	3.04814664502
+"Computational Intelligence"	3.03242018398
+"IEEE Transactions on Consumer Electronics"	3.02259108947
+"American Control Conference"	2.97058553715
+"Journal of the ACM"	2.96591020091
+"IEEE Journal on Selected Areas in Communications"	2.93393972925
+"IEEE Photonics Technology Letters"	2.86505577808
+"IEEE Transactions on Circuits and Systems I-regular Papers"	2.79994438432
+"Pacific Rim International Symposium on Dependable Computing"	2.72761454485
+"Sigmetrics Performance Evaluation Review"	2.69827741703
+"International Parallel and Distributed Processing Symposium"	2.69215790162
+"Workshop on Intelligent Solutions in Embedded Systems"	2.67951672336
+"Mobile Adhoc and Sensor Systems"	2.65742630385
+"IEEE Transactions on Very Large Scale Integration Systems"	2.62567064219
+"International Conference on Wireless Communications and Mobile Computing"	2.60769235725
+ and Test in Europe"	2.56965652403
+"IEEE Transactions on Industrial Informatics"	2.56388893844
+"Local Computer Networks"	2.53080357143
+"IEEE Transactions on Vehicular Technology"	2.52747665143
+"Foundations of Physics Letters"	2.50444107975
+"International Conference on Network Protocols"	2.34556998557
+"Journal of Parallel and Distributed Computing"	2.30879668171
+"International Conference on Telecommunications"	2.303560132
+"Advanced Materials Research"	2.29327634171
+ Mobile and Multimedia Networks"	2.23487103175
+"Distributed Computing in Sensor Systems"	2.22026542131
+"International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing"	2.2101670816
+"IEEE\/ACM Transactions on Networking"	2.20344781852
+"Concurrency and Computation: Practice and Experience"	2.19380185786
+"European Journal of Physics"	2.19151240624
+"Ad Hoc Networks"	2.10197140822
+"Radio Science"	2.09432477245
+"Software - Practice and Experience"	2.06114996115
+"International Solid-State Circuits Conference"	2.060431617
+"IEEE Transactions on Software Engineering"	2.02202703051
+"Microprocessors and Microsystems"	2.02179446711
+"Automatica"	1.99541170635
+"Communication Systems and Networks"	1.97468369924
+"Electronics and Communications in Japan Part I-communications"	1.96651592455
+"Dependable Systems and Networks"	1.94608814796
+"Computational Aspects of Social Networks"	1.85226521164
+"International Conference on Parallel Processing"	1.8437049062
+"Information & Computation"	1.82234898589
+"Foundations of Physics"	1.78416912948
+"IEEE Transactions on Mobile Computing"	1.78396872638
+"Wireless Communications and Mobile Computing"	1.76026785714
+"IEEE Transactions on Nuclear Science"	1.75903391747
+"American Journal of Physics"	1.7447736754
+ and Applications"	1.72931998557
+"International Conference on Mobile and Ubiquitous Systems: Networking and Services"	1.70375566893
+"Real Time Technology and Applications Symposium"	1.66388888889
+"International Journal of Communication Systems"	1.66001047563
+"Formal Methods"	1.65465679327
+"Embedded and Real-Time Computing Systems and Applications"	1.64196567322
+"IEEE Communications Magazine"	1.6261523199
+"Computer Communications"	1.62257756133
+"IEEE Transactions on Broadcasting"	1.61391379784
+"Proceedings of SPIE"	1.61350824421
+"Nature"	1.59476461039
+"Physical Review D"	1.56987173097
+"ACM Special Interest Group on Data Communication"	1.56780753968
+"Symposium on the Theory of Computing"	1.55819083694
+"Physics Letters A"	1.52581798162
+"Algorithmica"	1.47991071429
+"Static Analysis Symposium"	1.47936507936
+"Computer and Information Technology"	1.47688492063
+"Wireless Personal Communications"	1.42134289322
+"Physics Essays"	1.4114986865
+"Operating Systems Review"	1.40744831557
+"Mobile Networks and Applications"	1.39866360491
+"Signal Processing"	1.37662025475
+"Celestial Mechanics and Dynamical Astronomy"	1.36912202381
+"European Transactions on Telecommunications"	1.34365079365
+"International Conference on Networks"	1.33150252525
+"International Symposium on Distributed Computing"	1.32005910756
+"IEEE Transactions on Dependable and Secure Computing"	1.31045863858
+"IEEE Transactions on Reliability"	1.28948440925
+"IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control"	1.27658730159
+"General Relativity and Gravitation"	1.26898176374
+"Systems and Computers in Japan"	1.2619047619
+"Ieice Transactions"	1.25340934859
+"Computer Science and Information Engineering"	1.24340277778
+"IEEE Sensors Journal"	1.21949002387
+"Measurement Techniques"	1.21816278959
+"SIAM Journal on Computing"	1.21802248677
+ Ad-Hoc and Wireless Networks"	1.21672077922
+"European Conference on Parallel Processing"	1.21620039683
+"International Conference on Control and Automation"	1.19181547619
+"IEEE Transactions on Automatic Control"	1.19113553114
+"International Conference on Computer Communications and Networks"	1.179765727
+"International Conference on Wireless Networks"	1.17321428571
+"International Conference on Multimedia and Expo"	1.16362033029
+"Modeling Analysis and Simulation of Wireless and Mobile Systems"	1.15632064695
+ Mobility and Security"	1.15097338178
+"IEEE Transactions on Aerospace and Electronic Systems"	1.14339466089
+"Iete Journal of Research"	1.12595654346
+"IEEE Transactions on Information Theory"	1.11981292517
+"Key Engineering Materials"	1.11922573954
+"IEEE Transactions on Power Systems"	1.09791666667
+"Canadian Conference on Electrical and Computer Engineering"	1.09604215229
+"Pacific-Asia Conference on Knowledge Discovery and Data Mining"	1.0875
+"IEEE Signal Processing Magazine"	1.08382936508
+"Electronic Notes in Theoretical Computer Science"	1.07950036075
+"Mobile Ad-hoc and Sensor Networks"	1.07944444444
+"International Conference on Intelligent Computing"	1.07276785714
+"Journal of Optics B-quantum and Semiclassical Optics"	1.06499233532
+"International Journal of Network Management"	1.06018217893
+"Adaptive Agents and Multi-Agents Systems"	1.05442460317
+"International Journal of Circuit Theory and Applications"	1.05188492064
+"Information & Software Technology"	1.04226190476
+"Journal of Information Science and Engineering"	1.03531746032
+"Software Technologies for Embedded and Ubiquitous Systems"	1.03000992063
+"Information Technology Journal"	1.02628968254
+"Electronics Letters"	1.02589736652
+"Parallel and Distributed Processing Techniques and Applications"	1.02457482993
+"EURASIP Journal on Advances in Signal Processing"	1.02364417989
+"International Journal of Wireless & Mobile Networks"	1.02196067821
+"IEEE Transactions on Applied Superconductivity"	1.01185966811
+"Information Processing Letters"	1.00871489622
+"Journal of Lightwave Technology"	1.0012197789
+ Mobile and Wireless Networks"	0.99751984127
+"Algorithmic Aspects of Wireless Sensor Networks"	0.991071428571
+"Optics Express"	0.98863121006
+"Network and Parallel Computing"	0.98566017316
+"International Symposium on Computers and Communications"	0.981100188392
+"Asia and South Pacific Design Automation Conference"	0.967330439623
+"Management of Emergent Digital EcoSystems"	0.964682539683
+"Fuzzy Systems and Knowledge Discovery"	0.964511183262
+"International Symposium on Information Theory and its Applications"	0.957364163615
+"Nuclear Physics"	0.955853174604
+"Journal of Physics: Conference Series"	0.955550814926
+"ACM Transactions on Sensor Networks"	0.952876984127
+"International Journal of Chemical Reactor Engineering"	0.948511904763
+"IEEE Spectrum"	0.94255952381
+"IEEE Communications Surveys and Tutorials"	0.939471986347
+"IEEE Signal Processing Letters"	0.937918871252
+"ACM Symposium on Parallel Algorithms and Architectures"	0.931861772487
+"ACS/IEEE International Conference on Computer Systems and Applications"	0.931150793651
+"Optics Communications"	0.930387806637
+"Electronic Communication of The European Association of Software Science and Technology"	0.912164224664
+"Formal Aspects of Computing"	0.905087967588
+"International Symposium on Wireless Communication Systems"	0.899662698413
+ Robotics and Control Systems"	0.892857142857
+"Eurasip Journal on Embedded Systems"	0.886805555556
+"Control Engineering Practice"	0.884038184038
+"Computer Communication Review"	0.877550227551
+"Advanced Industrial Conference on Telecommunications"	0.865575396825
+"A Quarterly Journal of Operations Research"	0.856051587301
+"International Conference on Ubiquitous Information Management and Communication"	0.84871031746
+"Metrologia"	0.845559698238
+"International Conference on Parallel and Distributed Systems"	0.84052960928
+"Latin American Symposium on Theoretical Informatics"	0.829365079365
+"Telecommunications and Radio Engineering"	0.828343253969
+"Conference on Computational Complexity"	0.799851190476
+"Future Generation Computer Systems"	0.780787037037
+"Journal of Communications Technology and Electronics"	0.7724251443
+"Proceedings of The Institute of Radio Engineers"	0.771876387502
+ and Ubiquitous Networks"	0.771058802309
+ and Communications Conference"	0.770535714286
+"Canadian Journal of Physics"	0.763832629012
+"IP Operations and Management"	0.756547619048
+"European Dependable Computing Conference"	0.756200396825
+"Embedded and Ubiquitous Computing"	0.754183201058
+"Computer Systems: Science & Engineering"	0.748571914197
+"Journal of Computing and Information Technology"	0.745138888888
+"Journal of Guidance Control and Dynamics"	0.740041971917
+"International Journal of Ad Hoc and Ubiquitous Computing"	0.73168440356
+"Workshop on Positioning Navigation and Communication"	0.729885912699
+"Journal of Software"	0.729672619048
+"International Conference on Wireless and Mobile Communications"	0.721781519846
+ and Services"	0.719345238096
+"Chinese Physics B"	0.717562530063
+"International Conference on Pattern Recognition"	0.717294973545
+"Cyber-Enabled Distributed Computing and Knowledge Discovery"	0.712103174604
+"International Symposium on Algorithms and Computation"	0.712053571429
+"Computer Networks and Isdn Systems"	0.711359126985
+"Acta Automatica Sinica"	0.710426587301
+"Distributed Multimedia Systems"	0.709871031745
+"Journal of Computer and System Sciences"	0.706189574315
+"IEEE Wireless Communications"	0.705402236652
+"Telecommunication Systems"	0.704871031746
+"Computers & Security"	0.704518899311
+"International Journal of Electronics"	0.700942460317
+"Il Nuovo Cimento B"	0.699917998668
+"Symposium on Discrete Algorithms"	0.697585978836
+"Field-Programmable Logic and Applications"	0.693948412699
+"Eurasip Journal on Wireless Communications and Networking"	0.693948412699
+"International Conference on Engineering of Complex Computer Systems"	0.688591269842
+"Information and Communication Technologies and Development"	0.688392857143
+"International Symposium on Quality Electronic Design"	0.688099747476
+"International Geoscience and Remote Sensing Symposium"	0.685813492063
+"Embedded Systems for Real-Time Multimedia"	0.681795634921
+"International Conference on Database Theory"	0.676091269842
+"New Journal of Physics"	0.675015823822
+"American Journal of Orthodontics and Dentofacial Orthopedics"	0.67196067821
+ and Simulation On Computer and Telecommunication Systems"	0.665593434345
+ Automation and Robotics"	0.661375661375
+"International Conference on Automation and Logistics"	0.659970238095
+"Intelligent Information Technology Application"	0.656984126984
+"Microelectronics Reliability"	0.655834135
+"Journal of Fermentation and Bioengineering"	0.648430835037
+"Computer Aided Modeling and Design of Communication Links and Networks"	0.64384920635
+"Journal of Systems Architecture"	0.638107899046
+"Ire Transactions on Military Electronics"	0.63501984127
+"Scandinavian Workshop on Algorithm Theory"	0.63501984127
+"Parallel Processing Letters"	0.63501984127
+"Doklady Mathematics"	0.629670214045
+"Journal of Photochemistry and Photobiology B-biology"	0.629365079365
+"Digital Systems Design"	0.627546932234
+"IEEE Design & Test of Computers"	0.606883567821
+ and Computers"	0.593005952381
+ Distributed and Network-Based Processing"	0.590875154938
+"Security of ad hoc and Sensor Networks"	0.58316468254
+"Conference on Information Sciences and Systems"	0.579464285714
+"Foundations of Computer Science"	0.579464285714
+"International Journal of Geometric Methods in Modern Physics"	0.579270917574
+"International Conference on Computer Aided Design"	0.577981335794
+"Next Generation Internet"	0.576381257631
+"Plant Molecular Biology"	0.571164021164
+"Autonomic Computing and Communication Systems"	0.570783730159
+"Embedded Software"	0.567155067155
+"Nature Geoscience"	0.562996031746
+"Robotics and Biomimetics"	0.562103174604
+"Assembly Automation"	0.561607142857
+"Chicago Journal of Theoretical Computer Science"	0.561607142857
+"Grid and Cooperative Computing"	0.556316137566
+"Journal of Computer Science and Technology"	0.556316137566
+"Laser Physics"	0.552949134199
+ and Manufacturing Technology: Part B"	0.551686507936
+"Parallel Computing"	0.55148497336
+"Recent Patents on Electrical Engineering"	0.54871031746
+"Formal Methods for Industrial Critical Systems"	0.546031746031
+"International Journal of Modern Physics A"	0.54439484127
+"Microprocessing and Microprogramming"	0.541269841271
+"Transactions of The Korean Society of Mechanical Engineers A"	0.539732142858
+"Physica A-statistical Mechanics and Its Applications"	0.539606227106
+"International Conference on Sensor Networks"	0.539512570763
+"Journal of Electronic Measurement and Instrument"	0.531547619048
+"International Symposium on Parallel and Distributed Computing"	0.529897741148
+"Chaos Solitons & Fractals"	0.52867063492
+"Proceedings of The International Astronomical Union"	0.527583874459
+"International Journal of Theoretical Physics"	0.52626984127
+"Applied Physics Letters"	0.522086940836
+"European Solid-State Circuits Conference"	0.520783730159
+"Journal of Complexity"	0.518700396825
+"The Journal of Physiology"	0.518353174603
+"International Conference on Autonomic Computing"	0.518170294212
+"Custom Integrated Circuits Conference"	0.517933386057
+"Software Engineering and Advanced Applications"	0.517644557823
+"Multimedia Signal Processing"	0.517509920634
+"International Conference on Computer Design"	0.516954560318
+"Communications in Theoretical Physics"	0.516590909091
+"Mathematics and Computers in Simulation"	0.515459656085
+"Advances in Computing and Communications"	0.511372269705
+"Conference on Current Trends in Theory and Practice of Informatics"	0.511273448774
+"ACM Transactions on Computer Systems"	0.51118499556
+"The Journal of China Universities of Posts and Telecommunications"	0.51108276644
+"Internet Measurement Conference"	0.509863400488
+"Computer Networks"	0.509424603175
+"Wireless Networks"	0.508878968254
+"The Internet of Things"	0.507638888889
+"Computer Systems and Technologies"	0.507093253969
+"Computer Software and Applications Conference"	0.506810897436
+"Resuscitation"	0.502901785714
+"Journal of The Japan Society for Aeronautical and Space Sciences"	0.502496693122
+"IEEE Transactions on Industrial Electronics"	0.501388888889
+"Chinese Physics Letters"	0.501055194805
+"Modelling Autonomic Communications Environments"	0.499075577201
+"Electronic Proceedings in Theoretical Computer Science"	0.498115079365
+"Passive and Active Network Measurement"	0.496813371813
+"Journal of Biological Rhythms"	0.496527777778
+"Parallel and Distributed Computing Systems (ISCA)"	0.491749338624
+"Performance Evaluation"	0.491305916306
+"Symposium on Cloud Computing"	0.491228563104
+"Lecture Notes in Computer Science"	0.488717532468
+"International Conference on Algorithms and Architectures for Parallel Processing"	0.488717532468
+"SIAM Journal on Discrete Mathematics"	0.481812169312
+"Great Lakes Symposium on VLSI"	0.479931526806
+"Classical and Quantum Gravity"	0.475666694417
+"Symposium on Computer Architecture and High Performance Computing"	0.471259469697
+"Chinese Physics"	0.466695977634
+"Communications of The ACM"	0.460132783883
+"ACM Transactions on Modeling and Computer Simulation"	0.455980339105
+"Physics Reports"	0.452575202575
+"International Journal of Information Technology and Decision Making"	0.45138888889
+"Journal of Statistical Physics"	0.450892857144
+"Network and System Support for Games"	0.445808531746
+"International Journal of High Performance Computing Applications"	0.443452380952
+"Field Programmable Gate Arrays"	0.440693681318
+ Mesh and Ad Hoc Communications and Networks"	0.436428155178
+"Picture Coding Symposium"	0.434615384615
+"Journal of Computational Physics"	0.426010101009
+"Clinical Gastroenterology and Hepatology"	0.420162337662
+"Journal of Mathematical Physics"	0.420044191919
+"IEEE Transactions on Circuits and Systems Ii-express Briefs"	0.40782967033
+"Journal of Geophysics and Engineering"	0.407054673722
+ Languages and Programming"	0.406944444445
+"Measurement Science and Technology"	0.405708874459
+"Journal of Network and Systems Management"	0.405415764791
+"International Conference on Information and Communication Security"	0.401223544974
+"Mobile and Wireless Communication Networks"	0.397927072927
+"IEEE Transactions on Power Apparatus and Systems"	0.396925990676
+"Microelectronics Systems Education"	0.390244923727
+"Parallel and Distributed Computing: Applications and Technologies"	0.390113705739
+"Nonlinear Analysis: Hybrid Systems"	0.38994047619
+"European Symposium on Research in Computer Security"	0.389441287879
+"Formal Methods in System Design"	0.388167272543
+"IEEE Micro"	0.387752525252
+"Seminars in Cell & Developmental Biology"	0.3875
+"International Journal of Pervasive Computing and Communications"	0.384054834055
+ Systems and Technologies"	0.381332671957
+"Annals of Physical and Rehabilitation Medicine"	0.379943783069
+"Communications in Statistics-theory and Methods"	0.377614795919
+"IEEE Computer"	0.376355466429
+"Journal of Modern Optics"	0.374566598525
+"Gps Solutions"	0.373370181405
+"Physics Letters B"	0.370236823361
+ Emergent and Distributed Systems"	0.367969976452
+"International Conference on Concurrency Theory"	0.360532407407
+"ACM Transactions on Database Systems"	0.357879273504
+"Rapid System Prototyping"	0.351832646521
+"Journal of Vlsi Signal Processing Systems for Signal Image and Video Technology"	0.27996031746
+"International Symposium on Low Power Electronics and Design"	0.277281746032
+ Space Technology Japan"	0.271750992064
+"Procedia Engineering"	0.268601190476
+"International Symposium on Parallel and Distributed Processing and Applications"	0.265669515669
+"Network and Distributed System Security Symposium"	0.262797619047
+"Computational Science and Engineering"	0.259184102934
+"International Symposium on Autonomous Decentralized Systems"	0.253829365079
+"Design Automation Conference"	0.253472222222
+"International Conference on Machine Learning and Cybernetics"	0.253124999999
+"Annals of Emergency Medicine"	0.251458333333
+"International Conference on Data Engineering"	0.251041666667
+"IEEE Transactions on Power Delivery"	0.248670634921
+"The Plant Cell"	0.247354497355
+"Microprocessor Test and Verification"	0.246944444444
+"Network and Operating System Support for Digital Audio and Video"	0.246597222222
+"Journal of Atmospheric and Oceanic Technology"	0.245783730159
+"International Conference on Intelligent Robotics and Applications"	0.245032051282
+"Conference on Communication Networks and Services Research"	0.243650793651
+"International Journal of Satellite Communications"	0.243551587302
+"Solid State Ionics"	0.243531746031
+"IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"	0.243287037038
+ and Engineering"	0.241496212121
+"IEEE Software"	0.239965763403
+"IEEE Network"	0.239741161616
+"Electrical Engineering in Japan"	0.239583333333
+"Conference on Computer as a Tool"	0.238378684807
+"Multimedia Tools and Applications"	0.237698412699
+"Science China-physics Mechanics & Astronomy"	0.234408068784
+"Wireless and Optical Communications Conference"	0.233928571428
+"IEEE Lts"	0.233829365079
+"Asia Pacific Conference on Circuits and Systems"	0.23125
+"Journal of Zhejiang University Science"	0.229017857143
+"IEEE Journal of Quantum Electronics"	0.228720238095
+"Forum on specification and Design Languages"	0.228097943722
+"IEEE Transactions on Automation Science and Engineering"	0.226976495727
+"High Level Design Validation and Test"	0.22677496115
+"Optical Fiber Technology"	0.226641414142
+"Ai Magazine"	0.224837662337
+"Sadhana-academy Proceedings in Engineering Sciences"	0.223299096737
+"European Symposium on Programming"	0.22229527417
+"Defect and Fault Tolerance in VLSI and Nanotechnology Systems"	0.221974206349
+"Journal of Geodesy"	0.22068452381
+"IEEE Computer Applications in Power"	0.219692460318
+"Journal of Innate Immunity"	0.219417735043
+"Symposium on Operating Systems Principles"	0.219305555555
+"IEEE Intelligent Systems"	0.21929563492
+"International Conference on Robotics and Automation"	0.217022792023
+"International Conference on Application of Concurrency to System Design"	0.216812354313
+"Fundamenta Informaticae"	0.213327991454
+"Formal Techniques for (Networked and) Distributed Systems"	0.211698717949
+ Sensing and Control"	0.21121031746
+"Wireless Network Security"	0.209169501133
+"High Performance Switching and Routing"	0.207088744588
+"Molecular and Cellular Biology"	0.206911590393
+"Symposium on Applications and the Internet"	0.205456349207
+"International Journal of Modern Physics D"	0.204101731602
+"Advances in Space Research"	0.203621031746
+"Archives Des Maladies Professionnelles Et De L Environnement"	0.202232142856
+"Russian Physics Journal"	0.202092352092
+"Journal of Neuroendocrinology"	0.198908730158
+"Innovations in Systems and Software Engineering"	0.197607600732
+"IEEE Journal on Emerging and Selected Topics in Circuits and Systems"	0.196222527472
+"Parallel Computing in Electrical Engineering"	0.195161019536
+"Applied Stochastic Models in Business and Industry"	0.19501984127
+ Optimization and Simulation"	0.194366281867
+"Current Opinion in Structural Biology"	0.194002525253
+"Journal of Biological Chemistry"	0.1938510101
+"Hawaii International Conference on System Sciences"	0.192854020979
+"Theoretical and Mathematical Physics"	0.191452991453
+ Man and Cybernetics"	0.189942226891
+"International Conference on Image Processing"	0.189644607843
+"Kommunikation in Verteilten Systemen"	0.189500661376
+"International Conference on Computational Science and Its Applications"	0.188973922903
+"Distributed Systems Engineering"	0.188847888222
+"Journal of the American College of Cardiology"	0.188808760684
+"Annales Des Télécommunications"	0.1875
+"Ieice Electronic Express"	0.187393162394
+"Engineering of Computer-Based Systems"	0.187249729438
+"PLOS ONE"	0.186394334832
+"Formal Methods in Computer-Aided Design"	0.186333573833
+"Lettere Al Nuovo Cimento"	0.186027167277
+"Applied Catalysis A-general"	0.184623015873
+"IEEE Circuits & Devices"	0.179086538462
+"Astronomy and Astrophysics"	0.177797202797
+"IEEE Transactions on Power Electronics"	0.177350774225
+"International Conference on Conceptual Structures"	0.172743055556
+ Speech and Vision"	0.17255952381
+"Journal of Computer Science"	0.172190656565
+"Astrophysics and Space Science"	0.171884539073
+ Knowledge and Grid"	0.171171120546
+"Acta Informatica"	0.170596988795
+"Formal Modeling and Analysis of Timed Systems"	0.167985660173
+"International Conference of the IEEE Engineering in Medicine and Biology Society"	0.165283674659
+"Chronobiology International"	0.165183080808
+"Journal of Instrumentation"	0.165037393162
+"Lipids in Health and Disease"	0.164954605579
+"Mathematical Social Sciences"	0.164758852259
+"Hormones and Behavior"	0.163087606838
+"International Journal of Computers and Applications"	0.15943627451
+"International Journal of Information Security"	0.158966901154
+"International Conference on Signal and Image Processing Applications"	0.158313041126
+"Modern Physics Letters A"	0.157440476191
+"Synthesis Lectures on Distributed Computing Theory"	0.150952982203
+"Chaos"	0.150779637029
+ and Security"	0.137542999656
+"Elektrotechnik Und Informationstechnik"	0.137542999656
+"Neural Computing and Applications"	0.0
+"IEEE Potentials"	0.0

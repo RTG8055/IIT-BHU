@@ -1,0 +1,172 @@
+7CA9801E	ACM Symposium on Parallel Algorithms and Architectures<---Experience with an adaptive globally-synchronizing clock algorithm
+7C1BD9BA	Computer Networks<---InterPlaNetary internet: state-of-the-art and research challenges
+7DA3CA61	IEEE Transactions on Computers<---Addressing, routing, and broadcasting in hexagonal mesh multiprocessors
+760E525A	Information & Computation<---Atomic broadcast: from simple message diffusion to Byzantine agreement
+4C01E6B6	Automation, Robotics and Control Systems<---An Approach to Fault-Tolerant Clock Synchronization for Wireless Local Area Networks
+775B61F6	IEEE Transactions on Software Engineering<---Distributed agreement in the presence of processor and communication faults
+7D6CA186	Sigmetrics Performance Evaluation Review<---On calibrating measurements of packet transit times
+7849ABA5	Ad Hoc Networks<---Clock synchronization for wireless sensor networks: a survey
+7E8021CF	Distributed Computing<---Simulating Authenticated Broadcasts to Derive Simple Fault-Tolerant Algorithms
+79F82806	Computer Communication Review<---Wireless sensor networks: a new regime for time synchronization
+72AA62B5	Information not present<---Communication systems engineering
+7530D118	Principles of Distributed Computing<---Continuous clock amortization need not affect the precision of a clock synchronization algorithm
+7CFCCAA8	Information not present<---Time synchronization in wireless sensor networks
+78AB224D	IEEE Transactions on Computers<---Clock Synchronization in Distributed Real-Time Systems
+02C626D7	Information not present<---Lan medium access control (mac) and physical layer (phy) specifications
+7C7DEBC2	IEEE Potentials<---Sensor networks: an overview
+7AE4DC97	ACM Transactions on Programming Languages and Systems<---Using Time Instead of Timeout for Fault-Tolerant Distributed Systems.
+78A47B7B	International Conference on Computer Communications<---Estimation and removal of clock skew from network delay measurements
+75D5A653	Principles of Distributed Computing<---Inexact agreement: accuracy, precision, and graceful degradation
+7B55B76D	IEEE Transactions on Automatic Control<---A unified method for evaluating real-time computer controllers and its application
+0197081E	Information not present<---Byzantine Generals and Transaction Commit Protocols
+7779AFD3	Theoretical Computer Science<---The algorithmic analysis of hybrid systems
+81627C68	IEEE Transactions on Communications<---Internet time synchronization: the network time protocol
+7EF6694C	International Conference on Computer Design<---Locating tiny sensors in time and space: a case study
+7D6F4104	Conference on Decision and Control<---Distributed Clock Synchronization over Wireless Networks: Algorithms and Analysis
+5FC7A69D	Information not present<---Optimal and Global Time Synchronization in Sensornets
+5ED6622D	International Symposium on Computer Architecture<---Methodological Considerations and Characterization of the SPLASH-2 Parallel Application Suite
+7EBB55BC	Global Communications Conference<---Synchronization of multiple levels of data fusion in wireless sensor networks
+7F2E3AC9	Real-Time Systems Symposium<---Efficient synchronization of clocks in a distributed system
+10FC82D6	Principles of Distributed Computing<---Consensus in the presence of partial synchrony
+7E296921	Journal of the ACM<---The Weak Byzantine Generals Problem
+7C59E487	Communications of The ACM<---Semantic blogging and decentralized knowledge management
+7B38AAD5	Distributed Computing<---The power of logical clock abstractions
+8069D968	IEEE Transactions on Parallel and Distributed Systems<---The timed asynchronous distributed system model
+5DD93C4B	Information not present<---Network-Wide Time Synchronization in Sensor Networks
+815C5EB8	Information not present<---A posteriori agreement for fault-tolerant clock synchronization on broadcast networks
+089D388A	Information not present<---A Posteriori Agreement for Clock Synchronization on Broadcast Networks
+7A5162B1	IEEE Transactions on Software Engineering<---Streets of Byzantium: Network Architectures for Fast Reliable Broadcasts
+80D7A663	International Conference on Computer Communications<---A comparison of MAC protocols for wireless local networks based on battery power consumption
+76EFEF8F	IEEE Transactions on Computers<---Probabilistic clock synchronization in large distributed systems
+7E646DA5	ACM Transactions on Programming Languages and Systems<---The Byzantine Generals Problem
+7FB4B29B	IEEE Micro<---Assessing fast network interfaces
+7C5C1713	Information not present<---Synchronization in Sensor Networks: an Overview
+7EFB5EE6	IEEE Communications Magazine<---A survey on sensor networks
+79D04F72	Annals of Applied Probability<---Geometric Bounds for Eigenvalues of Markov Chains
+04443F67	Information not present<---Modelling and analysis of computer network clocks
+79E069C6	IEEE Transactions on Computers<---Clock Synchronization of a Large Multiprocessor System in the Presence of Malicious Faults
+8170FD77	IEEE Network<---Time synchronization in sensor networks: a survey
+7F12FD84	IEEE Computer<---Fault-tolerant clock synchronization in distributed systems
+5F97862F	Information not present<---Parallel and Distributed Computation: Numerical Methods
+7FBF1715	Operating Systems Review<---Fine-grained network time synchronization using reference broadcasts
+763E2BF0	IEEE Transactions on Computers<---Two Designs of a Fault-Tolerant Clocking System
+7B34D8AC	Journal of Computer and System Sciences<---On the possibility and impossibility of achieving clock synchronization
+7FD9D0A2	IEEE Transactions on Parallel and Distributed Systems<---Fault-tolerant clock synchronization in large multicomputer systems
+809ED59E	Symposium on Reliable Distributed Systems<---Reliable broadcast for fault-tolerance on local computer networks
+80B31354	Information not present<---Lightweight time synchronization for sensor networks
+80435559	International Conference on Acoustics, Speech, and Signal Processing<---Critical issues in energy-constrained sensor networks: synchronization, scheduling, and acquisition
+7DC456B7	IEEE Transactions on Parallel and Distributed Systems<---Probabilistic clock synchronization in distributed systems
+7B9AD2A6	IEEE Computer<---Guest Editors' Introduction: Overview of Sensor Networks
+5C8999BE	Fundamentals of Computation Theory<---The Consensus Problem in Unreliable Distributed Systems (A Brief Survey)
+5ED91CF4	Information not present<---Global States and Time in Distributed Systems
+58A8AA83	Information not present<---Impact of communication networks on fault-tolerant distributed computing
+7F95A7E4	Euromicro Conference on Real-Time Systems<---Clock synchronization for wireless local area networks
+7BB008B2	Communications of The ACM<---Flexible value structures in banking
+7FB99BF8	IEEE Transactions on Communications<---Analysis of synchronization algorithms with time-out control over networks with exponentially symmetric delays
+7CEDF269	International Conference on Acoustics, Speech, and Signal Processing<---Multi-modal sensor localization using a mobile access point
+7894A4A4	ACM/IEEE International Conference on Mobile Computing and Networking<---A transmission control scheme for media access in sensor networks
+7959A514	Information & Computation<---An upper and lower bound for clock synchronization
+813FF46C	Computer Networks<---Wireless sensor networks: a survey
+775B8394	Information not present<---Use of Loran-C Over Land
+7D5C5451	Information not present<---A protocol for tracking mobile targets using sensor networks
+762EB754	IEEE Transactions on Computers<---Synchronization of fault-tolerant clocks in the presence of malicious failures
+76FE0AD5	Communications of The ACM<---A method for obtaining digital signatures and public-key cryptosystems
+72562CFD	Information not present<---Critical Power for Asymptotic Connectivity in Wireless Networks
+7E7DE2CE	Information not present<---Supporting aggregate queries over ad-hoc wireless sensor networks
+7EC64C73	Journal of the ACM<---Reaching Agreement in the Presence of Faults
+7CD99DD2	International Conference on Embedded Networked Sensor Systems<---The flooding time synchronization protocol
+751642E7	Information not present<---Asymptotically optimal time synchronization in dense sensor networks
+7CA2D3D5	Information not present<---Temperature Compensated Crystal Oscillators
+77D51372	Statistics & Probability Letters<---Designs for approximately linear regression: two optimality properties of uniform designs
+7F6D7EE9	Proceedings of the IEEE<---FTMP&#8212;A highly reliable fault-tolerant multiprocess for aircraft
+8084CCE1	IEEE Transactions on Information Theory<---New directions in cryptography
+798C87F3	ACM/IEEE International Conference on Mobile Computing and Networking<---Distributed algorithms for guiding navigation across a sensor network
+810E46A3	IEEE Spectrum<---Designing a positioning system for finding things and people indoors
+5AEDD217	Information not present<---Fundamentals of statistical signal processing
+0A46112C	Information not present<---Object tracking by directional sensors
+75E16DC3	Proceedings of the IEEE<---Changes at USNO in global timekeeping
+803893A1	IEEE Transactions on Communications<---On maximum-likelihood estimation of clock offset
+7DB65A56	IEEE Aerospace and Electronic Systems Magazine<---Fundamentals of energy-constrained sensor network systems
+7FCE46A1	IEEE Communications Magazine<---Standards initiatives for Emergency Telecommunications Service (ETS)
+7D1AA0BA	IEEE Journal on Selected Areas in Communications<---A scalable synchronization protocol for large scale sensor networks and its applications
+7D58E42C	Distributed Computing<---Probabilistic clock synchronization
+80060923	Symposium on Reliable Distributed Systems<---Continuous clock synchronization in wireless real-time applications
+75A13D3A	Communications of The ACM<---Time, clocks, and the ordering of events in a distributed system
+7CD307C1	ACM Transactions on Information Systems<---The active badge location system
+7755429F	ACM/IEEE International Conference on Mobile Computing and Networking<---Next century challenges: mobile networking for “Smart Dust”
+7F9C6FB5	IEEE Transactions on Communications<---Dissemination of System Time
+7D81ED4B	International Conference on Embedded Networked Sensor Systems<---Timing-sync protocol for sensor networks
+6A238E8A	Information not present<---A Paradigm for Reliable Clock Synchronization
+77C570F8	Principles of Distributed Computing<---Maintaining the time in a distributed system
+7F24F3CE	IEEE\/ACM Transactions on Networking<---Improved algorithms for synchronizing computer network clocks
+7D466127	IEEE Transactions on Communications<---Novel Clock Phase Offset and Skew Estimation Using Two-Way Timing Message Exchanges for Wireless Sensor Networks
+8064F848	Proceedings of the IEEE<---Ruggedized rubidium frequency standard
+5CEB8838	Information not present<---Understanding Protocols for Byzantine Clock Synchronization
+7E96B5ED	Symposium on the Theory of Computing<---A new approach to the maximum flow problem
+7A399D4F	IEEE Pervasive Computing<---Connecting the physical world with pervasive networks
+7F34BFBB	Symposium on Reliable Distributed Systems<---A statistical clock synchronization algorithm for anisotropic networks
+7A80260F	IEEE Potentials<---Lunar solar power
+80633682	Information not present<---Cross-layer sensor network synchronization
+7E8C7D29	IEEE Transactions on Communications<---Packet reservation multiple access for local wireless communications
+755037AD	Symposium on the Theory of Computing<---Local and global properties in networks of processors (Extended Abstract)
+815E15AF	IEEE Transactions on Computers<---Reliable broadcast in hypercube multicomputers
+75CBB588	IEEE Transactions on Computers<---Parallel Processing with the Perfect Shuffle
+100240AA	Symposium on Reliable Distributed Systems<---Reaching Approximate Agreement in the Presence of Faults
+7D1A7F15	International Conference on Computer Communications<---Time Synchronization for High Latency Acoustic Networks
+79625770	Information not present<---Random variables and stochastic processes
+0AB02AA9	Information not present<---An efficient fault-tolerant algorithm for clock synchronization
+768E46EB	Proceedings of the IEEE<---A survey of atomic frequency standards
+6E7CA76B	Requirements Engineering<---Real Time in Distributed Real Time Systems
+80F2DA25	IEEE Signal Processing Letters<---Local and broadcast clock synchronization in a sensor node
+80F4C40D	International Conference on Distributed Computing Systems<---Probabilistic clock synchronization in large distributed systems
+7EC60489	Journal of the ACM<---Reaching approximate agreement in the presence of faults
+7F39B740	IEEE Journal on Selected Areas in Communications<---Energy efficiency of large-scale wireless networks: proactive versus reactive networking
+7BBD9627	Principles of Distributed Computing<---Byzantine clock synchronization
+7BDEF745	Principles of Distributed Computing<---A new fault-tolerant algorithm for clock synchronization
+7A4300C2	Communications of The ACM<---ODC: a global IT services delivery model
+8109989E	Pacific Rim International Symposium on Dependable Computing<---Model-based clock synchronization in networks with drifting clocks
+79471849	Principles of Distributed Computing<---Fault-tolerant clock synchronization
+60FEAD84	Information not present<---Network time protocol (version 3), specification, implementation and analysis
+046A0536	Information not present<---Delay Measurement Time Synchronization for Wireless Sensor Networks
+78382180	Proceedings of the IEEE<---SIFT: Design and analysis of a fault-tolerant computer for aircraft control
+7FC370CE	Wireless Communications and Networking Conference<---Energy aware routing for low energy ad hoc sensor networks
+75F0423C	ACM/IEEE International Conference on Mobile Computing and Networking<---Research challenges in wireless networks of biomedical sensors
+6BEBA5E5	Real-Time Systems Symposium<---A new probabilistic algorithm for clock synchronization
+7C85BA28	ACM Transactions on Computer Systems<---Byzantine generals in action: implementing fail-stop processors
+7EEE5CA2	Proceedings of the IEEE<---Recent trends in NBS time and frequency distribution services
+76E0C500	Information & Computation<---A new fault-tolerant algorithm for clock synchronization
+7A18D32D	Information & Computation<---A new look at fault-tolerant network routing
+79808B05	Journal of the ACM<---Dynamic fault-tolerant clock synchronization
+6DBEDC54	IEEE Transactions on Computers<---Synchronization and Matching in Redundant Systems
+0B3CE1DE	IEEE Distributed Systems Online<---Adaptive Middleware for Distributed Sensor Environments
+7E85B0CC	Wireless Communications and Networking Conference<---Simple, accurate time synchronization for wireless sensor networks
+79F46522	Concurrency and Computation: Practice and Experience<---Building a global clock for observing computations in distributed memory parallel computers
+7A2D0D39	Wireless Networks<---An efficient demand-assignment multiple access protocol for wireless packet (ATM) networks
+6ECDD928	IEEE Transactions on Computers<---Ensuring Fault Tolerance of Phase-Locked Clocks
+7FD29FA1	International Geoscience and Remote Sensing Symposium<---Earth Science Vision: platform technology challenges
+80D5A362	Communications of The ACM<---Maintaining knowledge about temporal intervals
+7FAFA38F	Communications of The ACM<---Networking support for query processing in sensor networks
+7DDEA3C7	Communications of The ACM<---The platforms enabling wireless sensor networks
+7E7C0420	IEEE Transactions on Computers<---Topological properties of hypercubes
+7E4BB915	Journal of the ACM<---Synchronizing clocks in the presence of faults
+05F4834D	Information not present<---Implementing a distributed high-resolution real-time clock using the CAN-bus
+806A52E6	Conference on Decision and Control<---A New Distributed Time Synchronization Protocol for Multihop Wireless Networks
+80F6DC32	ACM/IEEE International Conference on Mobile Computing and Networking<---Calibration as parameter estimation in sensor networks
+7CE64129	Principles of Distributed Computing<---Easy impossibility proofs for distributed consensus problems
+77669F87	Journal of the ACM<---Consensus in the presence of partial synchrony
+7D835452	Technometrics<---The theory of linear models and multivariate analysis
+802A5BE2	IEEE Pervasive Computing<---Modeling privacy control in context-aware systems
+7DFE9DB8	Symposium on the Theory of Computing<---Optimal precision in the presence of uncertainty
+0B9D63F2	Information not present<---Design and performance evaluation of mutually synchronized fault-tolerant clock systems
+78E7492C	IEEE Spectrum<---Time synchronization from Loran-C
+7B988F6C	Mobile Computing and Communications Review<---TSync: a lightweight bidirectional time synchronization service for wireless sensor networks
+7F0F7624	IEEE Transactions on Computers<---Hardware-assisted software clock synchronization for homogeneous distributed systems
+5AE75210	Information not present<---A Wireless Embedded Sensor Architecture for System-Level Optimization
+78DA4353	Symposium on the Theory of Computing<---On the possibility and impossibility of achieving clock synchronization
+7CE46771	Journal of the ACM<---Optimal clock synchronization
+01E9B39C	Information not present<---Design and performance verification of mutually synchronized fault-tolerant clocks
+7E78B929	Communications of The ACM<---Habitat monitoring with sensor networks
+7ED5ED5E	ACM/IEEE International Conference on Mobile Computing and Networking<---Wireless sensor networks for habitat monitoring
+59429F09	Information not present<---SYNCHRONIZING CLOCKS IN A DISTRIBUTED SYSTEM
+766C3DCB	IEEE Micro<---Mica: a wireless platform for deeply embedded networks
+78BD7C1D	IEEE Transactions on Computers<---A distributed algorithm for fault diagnosis in systems with soft failures

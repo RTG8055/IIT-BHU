@@ -1,0 +1,1123 @@
+7B58E3CC	IEEE Communications Magazine<---Self organization in mobile ad hoc networks: the approach of Terminodes
+797F7023	Communications of The ACM<---NEST: a network simulation and prototyping testbed
+7F3E6314	International Conference on Computer Communications<---Transport optimization in broadband networks
+7AF12FE2	IEEE Personal Communications<---UMTS: fixed network issues and design options
+00CD30FF	International Conference on Computer Communications<---Mobility modeling and management in cellular networks
+08737AB1	Information not present<---Principles of modulation and channel coding for digital broadcasting for mobile receivers
+75D24665	Computer Communication Review<---First IETF internet audiocast
+80C559A1	IEEE Communications Magazine<---New high-rate wireless LAN standards
+7FAB548C	IEEE Transactions on Computers<---Packet Broadcast Networks&#8212;A Performance Analysis of the R-ALOHA Protocol
+812FAD49	Computer Communication Review<---A distributed routing scheme with mobility handling in stationless multi-hop packet radio networks
+75CBDE1A	Computer Communication Review<---MASH : the multicasting Archie server hierarchy
+7B09B855	Computer Networks and Isdn Systems<---Providing continuous network access to mobile hosts using TCP/IP
+7FB99442	IEEE Journal on Selected Areas in Communications<---The Design and Simulation of a Mobile Radio Network with Distributed Control
+7656A1E8	IEEE Transactions on Information Theory<---Tracking mobile users in wireless communications networks
+7DCC7C25	Symposium on Principles of Database Systems<---Approximation algorithms for clustering uncertain data
+6E1A4AA6	Information not present<---Replication and mobility
+5F16B7AD	Information not present<---Finding Motifs in Time Series
+7FE51C87	Information not present<---A Border Gateway Protocol 4 (BGP-4)
+7CC107B1	Computer Networks and Isdn Systems<---Performance evaluation of channel access schemes in multihop packet radio networks with regular structure by simulation
+5F1950DA	Mobile Networks and Applications<---Providing reliable and fault tolerant broadcast delivery in mobile ad-hoc networks
+800C1515	IEEE\/ACM Transactions on Networking<---Wide area traffic: the failure of Poisson modeling
+58676EC2	Information not present<---Failsafe distributed optimal routing in data-communication networks
+810953B9	Conference on Decision and Control<---Telerobotics over communication networks
+7C9AA64E	Computer Communications<---A new distributed routing algorithm for supporting delay-sensitive applications
+7D12AC12	IEEE\/ACM Transactions on Networking<---Link-sharing and resource management models for packet networks
+015FF867	Information not present<---Mobility models for ad hoc network simulations
+8051CCD7	International Conference on Computer Communications<---Distributed routing with labeled distances
+7CF3595D	IEEE\/ACM Transactions on Networking<---The PIM architecture for wide-area multicast routing
+810CB409	IEEE Computer Graphics and Applications<---Integrating information appliances into an interactive workspace
+6CDB0990	Location- and Context-Awareness<---Position estimation of wireless access point using directional antennas
+80DBA191	Winter Simulation Conference<---Transparent implementation of conservative algorithms in parallel simulation languages
+0931DDD8	Information not present<---Introduction to random signals and applied kalman filtering (3rd ed
+80096728	Information not present<---MACA : A New Channel Access Method for Packet Radio
+7D03081B	Computer Vision and Pattern Recognition<---Using adaptive tracking to classify and monitor activities in a site
+79E98D10	Information not present<---On calculating connected dominating set for efficient routing in ad hoc wireless networks
+7D24B0ED	Foundations of Computer Science<---Near-linear cost sequential and distributed constructions of sparse neighborhood covers
+80DEAD27	Computer Communication Review<---Routing in a delay tolerant network
+7DB1550B	Global Communications Conference<---Performance of a modified polling strategy for broadband wireless LANs in a harsh fading environment
+816A27D2	International Conference on Data Engineering<---A Partition-Based Approach to Graph Mining
+7A328004	Modeling Analysis and Simulation of Wireless and Mobile Systems<---Smooth is better than sharp: a random mobility model for simulation of wireless networks
+7B75E880	IEEE Computer<---MBone provides audio and video across the Internet
+80C81641	Personal, Indoor and Mobile Radio Communications<---Error control in ATM-based indoor radio LANs
+5CC11CB2	Information not present<---Routing and channel assignment for low power transmission in PCS
+5F9ACA1A	Information not present<---A Non-Iterative Algorithm for Estimating the Impulse Response of ISI Channels
+80FF8F27	International Conference on Computer Communications<---Gossip-based ad hoc routing
+7E437383	International Conference on Data Mining<---Efficient mining of frequent subgraphs in the presence of isomorphism
+5BB6021C	IEEE Transactions on Information Theory<---Some Complexity Results About Packet Radio Networks
+8040AED5	Sigmod Record<---DOMINO: databases fOr MovINg Objects tracking
+7DFE49C3	Information not present<---Designing a tactical ATM network integrating performance engineering and design
+7F2AD06C	IEEE Transactions on Vehicular Technology<---Channel occupancy time distribution in a cellular radio system
+7EF5F186	Information not present<---Dynamic resource allocation for wireless LAN interconnect
+079A0CD0	Information not present<---Influence of the moving of the mobile stations on the performance of a radio mobile cellular network
+7D5C9DFE	IEEE Transactions on Communications<---Packet Switching in Radio Channels: New Conflict-Free Multiple Access Schemes
+765FC6ED	IEEE Transactions on Communications<---A Responsive Distributed Routing Algorithm for Computer Networks
+0965A332	Information not present<---An ATM based protocol for Wireless LANs
+5C1C54D0	Custom Integrated Circuits Conference<---Design considerations for distributed microsensor systems
+75DD565D	Wireless Networks<---A distributed routing algorithm for mobile wireless networks
+7F59D517	International Conference on Data Mining<---Frequent subgraph discovery
+75EBE974	Information Processing and Management<---Term-weighting approaches in automatic text retrieval
+7A6A3F07	Principles of Distributed Computing<---Optimal distributed algorithm for minimum spanning trees revisited
+0B337374	Information not present<---A mathematical model for representing aggregate traffic in mobile networks
+7EBE2011	ACM/IEEE International Conference on Mobile Computing and Networking<---Trajectory based forwarding and its applications
+7641D1B0	International Journal of Network Management<---Scalability study of the ad hoc on-demand distance vector routing protocol
+7105B690	Information not present<---Policy issues in interconnecting networks
+7C07C869	IEEE Communications Magazine<---Microcell design principles
+7DD403EE	Electronics & Communication Engineering Journal<---QAM: the modulation scheme for future mobile radio communications?
+597F3254	Network and Operating System Support for Digital Audio and Video<---A Distributed Real-Time MPEG Video Audio Player
+7DF21857	IEEE Network<---Congestion control and prevention in ATM networks
+72A90966	Information not present<---Probabilistic Routing in Intermittently Connected Networks
+747CD7C9	Information not present<---Internet Control Message Protocol (ICMPv6) for the Internet Protocol Version 6 (IPv6) Specification
+800DB063	Vehicular Technology Conference<---Modulation techniques for digital cellular systems
+7ECC6553	IEEE Transactions on Vehicular Technology<---Efficiency of packet reservation multiple access
+753017FB	Information not present<---Multicast Extensions to OSPF
+7ECDC590	International Conference on Computer Communications<---Controlled multimedia wireless link sharing via enhanced class-based queuing with channel-state-dependent packet scheduling
+786CEF6B	Human Factors in Computing Systems<---The smart floor: a mechanism for natural user identification and tracking
+80982FFC	IEEE Transactions on Mobile Computing<---Dynamic Source Routing in Ad Hoc Wireless Networks
+7D989B1A	Information not present<---QoS routing performance in multihop, multimedia, wireless networks
+7FDC9031	Information not present<---An Indoor Wireless System for Personalized Shopping Assistance
+81094080	International Conference on Network Protocols<---Mobile distributed information retrieval for highly-partitioned networks
+586F9C4E	International Zurich Seminar on Digital Communications<---A Generic Concept for Large-Scale Multicast
+7B2FA87D	Foundations of Computer Science<---Monte-Carlo algorithms for enumeration and reliability problems
+7CB8B84B	International Conference on Computer Communications<---Implementation and performance measurements of QoS routing extensions to OSPF
+7564107A	IEEE Transactions on Vehicular Technology<---On the capacity of a cellular CDMA system
+588EB518	Information not present<---Handoff and Systems Support for Indirect TCP/IP
+7EE566AF	Information not present<---Recovery in distributed mobile environments
+7E1C0F86	IEEE Transactions on Vehicular Technology<---Mobility and traffic analyses in three-dimensional PCS environments
+7E7EF98B	IEEE Journal on Selected Areas in Communications<---An architecture and methodology for mobile-executed handoff in cellular ATM networks
+7A682486	Mobile Computing and Communications Review<---Bluetooth: vision, goals, and architecture
+0961CCF9	Information not present<---Mobile ad hoc networks (manet)
+75351D9F	IEEE Transactions on Mobile Computing<---The node distribution of the random waypoint mobility model for wireless ad hoc networks
+0B6E7E46	Information not present<---Maximum likelihood from incom-plete data via the EM algorithm
+7F863645	IEEE Journal on Selected Areas in Communications<---Performance analysis of an all-digital BPSK direct-sequence spread-spectrum IF receiver architecture
+7CE56E73	Wireless Communications and Networking Conference<---Towards mobile ad-hoc WANs: terminodes
+5845207C	Information not present<---Adaptive Service in Mobile Computing Environments
+78725CCB	Sigmetrics Performance Evaluation Review<---Blocking in large mobile cellular networks with bursty traffic
+7FB52C1F	International Conference on Computer Communications<---End-to-end congestion control schemes: utility functions, random losses and ECN marks
+779C347E	IEEE Network<---A distributed location system for the active office
+7DE5E959	Information not present<---Using ATM for a Campus-Scale Wireless Internet
+7AF81606	IEEE Transactions on Communications<---Spatial TDMA: A Collision-Free Multihop Channel Access Protocol
+7E80BAA6	IEEE Journal on Selected Areas in Communications<---Improving the performance of reliable transport protocols in mobile computing environments
+7DE76516	ACM Special Interest Group on Data Communication<---A delay-tolerant network architecture for challenged internets
+06BEB8CC	Information not present<---Optimal routing for mobile hosts using IP''s loose source route option
+5E7E440D	Vehicular Technology Conference<---Dynamic location area management and performance analysis
+807829EC	The Vldb Journal<---Mining compressed frequent-pattern sets
+804817BA	International Conference on Computer Communications<---An algorithm for multicast tree generation in networks with asymmetric links
+7FBE9111	ACM/IEEE International Conference on Mobile Computing and Networking<---Distributed fair scheduling in a wireless LAN
+7D9251D7	International Conference on Computer Communications<---Area-based, loop-free internet routing
+75E96BFF	Modeling Analysis and Simulation of Wireless and Mobile Systems<---An ad hoc mobility model founded on social network theory
+5AE12690	Knowledge Discovery and Data Mining<---Bayesian classification (AutoClass): theory and results
+72BA6FA1	Personal, Indoor and Mobile Radio Communications<---Performance evaluation and enhancement of the CSMA/CA MAC protocol for 802.11 wireless LANs
+58C28F6C	Wireless Networks<---Spatial averages of coverage characteristics in large CDMA networks
+7C90D906	IEEE Transactions on Software Engineering<---Distributed Simulation: A Case Study in Design and Verification of Distributed Programs
+76CA1A83	Mobile Ad Hoc Networking and Computing<---Modeling steady-state and transient behaviors of user mobility: formulation, analysis, and application
+80BF3800	International Conference on Computer Communications<---Optimum routing of multicast streams
+7E993C6D	Computer Communication Review<---The performance of query control schemes for the zone routing protocol
+6E0D25F5	Information not present<---System capacity, latency, and power consumption in multihop-routed SS-CDMA wireless networks
+046102A7	Information not present<---Analysis of routing protocols for ad hoc networks of mobile comuters
+78EE86CF	ACM Transactions on Modeling and Computer Simulation<---A unifying framework for distributed simulation
+7D5D58E0	Proceedings of The Vldb Endowment<---Cleaning uncertain data with quality guarantees
+7D35B367	ACM/IEEE International Conference on Mobile Computing and Networking<---Achieving MAC layer fairness in wireless packet networks
+805CFEDD	International Conference on Distributed Computing Systems<---Delivering multicast messages in networks with mobile hosts
+7985554A	International Conference on Computer Communications<---A multicast routing protocol for ad-hoc networks
+642C4AEE	International Conference on Distributed Computing Systems<---The effects of mobility on reliable transport protocols
+7E13CAD5	Information not present<---Services to support distributed applications in a mobile environment
+7C92263A	Sigmetrics Performance Evaluation Review<---A comparison of sender-initiated and receiver-initiated reliable multicast protocols
+6B7304D3	International Conference on Data Engineering<---The grid protocol: a high performance scheme for maintaining replicated data
+7CB33520	Computer Communication Review<---On inferring TCP behavior
+0018357A	Information not present<---A Mechanism for Dynamic Re-routing of Real-time Channels
+7CBF802D	Information not present<---Spatial tessellations: concepts and applications of Voronoi diagrams
+7F751C1A	Information not present<---The BSD packet filter: a new architecture for user-level packet capture
+755D38F0	ACM/IEEE International Conference on Mobile Computing and Networking<---GeoCast—geographic addressing and routing
+7EF5E23B	Vehicular Technology Conference<---A new routing scheme based on the terminal mobility in mobile ad-hoc networks
+5D40DA1E	Information not present<---EIGRP--A Fast Routing Protocol based on Distance Vectors
+7E2CCCAA	IEEE Communications Magazine<---Signaling traffic volume generated by mobile and personal communications
+7D149ABA	International Conference on Communications<---Routing in ad-hoc networks using minimum connected dominating sets
+75DA6A33	Computer Communication Review<---Receiver-initiated busy-tone multiple access in packet radio networks
+5C18D89F	Information not present<---A Cluster-based Approach for Routing in Ad-Hoc Networks
+756167C2	Modeling Analysis and Simulation of Wireless and Mobile Systems<---Multicast tree construction and flooding in wireless ad hoc networks
+59ADFBC7	Information not present<---Self-Organizing Wide-Area Routing
+7EC5B5E9	International Conference on Computer Communications<---A new hierarchical routing protocol for dynamic multihop wireless networks
+7A96C730	IEEE Transactions on Communications<---A Class of Efficient Contention Resolution Algorithms for Multiple Access Channels
+803C99CF	IEEE Personal Communications<---Control and quality-of-service provisioning in high-speed microcellular networks
+7C05ED8D	Principles of Distributed Computing<---On the time-complexity of broadcast in radio networks: an exponential gap between determinism randomization
+095D68A2	Information not present<---An ethernet address resolution protocol
+7F3BB779	International Conference on Computer Communications<---Call preemption in communication networks
+5C1D52D8	ACM Computing Surveys<---DISTRIBUTED DISCRETE-EVENT SIMULATION
+81133D68	IEEE Transactions on Communications<---Transmitter-Oriented Code Assignment for Multihop Packet Radio
+753DB073	Information not present<---Scalable Session Messages in SRM
+764C3A7C	ACM Transactions on Computer Systems<---Improving round-trip time estimates in reliable transport protocols
+78985B22	Information not present<---Determination of Optimum Transmission Ranges in a Multi-Hop Spread Spectrum Network
+8140D468	Computer Communications<---Web caching and content distribution: a view from the interior
+8009F0E7	Wireless Communications and Mobile Computing<---A survey of mobility models for ad hoc network research
+80160FEB	ACM/IEEE International Conference on Mobile Computing and Networking<---Caching strategies in on-demand routing protocols for wireless ad hoc networks
+7F55ED93	Personal, Indoor and Mobile Radio Communications<---Optimal prioritization of handovers in mobile cellular networks
+7D7502F9	Computer Communication Review<---Supporting real-time applications in an Integrated Services Packet Network: architecture and mechanism
+80478528	International Conference on Computer Communications<---QoS based routing in networks with inaccurate information: theory and algorithms
+81BBC664	IEEE\/ACM Transactions on Networking<---A generalized processor sharing approach to flow control in integrated services networks: the multiple node case
+7F89D556	Foundations of Computer Science<---Throughput-competitive on-line routing
+5FDD95A3	Global Communications Conference<---Minimizing cellular handover failures without channel utilization loss
+7E96A5A1	IEEE Personal Communications<---SWAN: a mobile multimedia wireless network
+7B31AE56	Symposium on Discrete Algorithms<---Competitive routing of virtual circuits with unknown duration
+7F2718D7	IEEE Communications Magazine<---Concepts, services, and protocols of the new GSM phase 2+ general packet radio service
+0BEB2EEB	Information not present<---Mobile-IP Local Registration with Hierarchical Foreign Agents
+7D6A0EF0	IEEE\/ACM Transactions on Networking<---Performance evaluation of connection rerouting schemes for ATM-based wireless networks
+7E88B94C	Computer Communication Review<---End-to-end Internet packet dynamics
+7CE25176	ACM/IEEE International Conference on Mobile Computing and Networking<---Scenario-based performance analysis of routing protocols for mobile ad-hoc networks
+78A66337	ACM/IEEE International Conference on Mobile Computing and Networking<---TCP extensions for space communications
+634D60C8	Information not present<---Introduction to VLSI Systems
+7D64D48D	IEEE Network<---Resource management and dimensioning in ATM networks
+7AFB5FF1	IEEE Network<---Performance modeling for mobile telephone networks
+79334B0E	International Conference on Computer Communications<---A dynamic bootstrap mechanism for rendezvous-based multicast routing
+59883784	International Conference on Network Protocols<---A behavioral model of Web traffic
+808AE176	IEEE Journal on Selected Areas in Communications<---An alternative strategy for location tracking
+81BB03EB	IEEE Network<---A rough comparison of the IETF and ATM service models
+7D5712E6	Information not present<---Multi-camera multi-person tracking for EasyLiving
+7BE13B63	Computer Communication Review<---A reliable and efficient multicast for broadband broadcast networks
+7D9CB252	IEEE Transactions on Communications<---Scheduling broadcasts in multihop radio networks
+01C93455	Information not present<---System design specification for mobile multimedia wireless network (MMWN) (draft
+76AFC594	IEEE Communications Magazine<---Network control for wireless communications
+7EEDDBCC	IEEE Journal on Selected Areas in Communications<---Mobile access to an ATM network using a CDMA air interface
+76560617	ACM Transactions on Computer Systems<---Lightweight causal and atomic group multicast
+7FEF7801	Mobile Ad Hoc Networking and Computing<---The shared wireless infostation model: a new ad hoc networking paradigm (or where there is a whale, there is a way)
+7D281115	ACM/IEEE International Conference on Mobile Computing and Networking<---Composable ad-hoc mobile services for universal interaction
+00F43DA8	International Conference on Communications<---Hierarchical Routing Design for Suran
+5E58F899	Information not present<---An approximate solution for the Steiner tree problem in graphs
+7ECB138F	IEEE Journal of Solid-state Circuits<---A 1.9-GHz wide-band IF double conversion CMOS receiver for cordless telephone applications
+7DDCCF70	IEEE Journal on Selected Areas in Communications<---A dynamic rate control mechanism for source coded traffic in a fast packet network
+777972BA	IEEE Personal Communications<---Piconet: embedded mobile networking
+79CE2250	International Conference on Computer Communications<---A generalized pro-cessor sharing approach to flow control - the sin-gle node case
+809A62BA	Information not present<---Geographic Routing for Wireless Networks
+7C37E7BC	Computer Communication Review<---Shortest paths and loop-free routing in dynamic networks
+757C6AEF	IEEE Communications Magazine<---Wireless network directions
+5D75BC5D	Information not present<---Some Wireless Networking Problems with a Theoretical Conscience
+75C6B9AC	IEEE Transactions on Communications<---Stability, Throughput, and Delay of Asynchronous Selective Reject ALOHA
+79292D75	Information not present<---Distance vector multicast routing protocol
+7FD2A0E9	Mobile Networks and Applications<---Mobile networking in the Internet
+787DD393	Computer Communication Review<---Simulation-based comparisons of Tahoe, Reno and SACK TCP
+7755429F	ACM/IEEE International Conference on Mobile Computing and Networking<---Next century challenges: mobile networking for “Smart Dust”
+7D7C5B07	Vehicular Technology Conference<---Empirical modeling of campus-wide pedestrian mobility observations on the USC campus
+7B378595	ACM/IEEE International Conference on Mobile Computing and Networking<---Floor acquisition multiple access with collision resolution
+7FC37812	International Conference on Communications<---A connection management scheme for a mobile radio LAN
+7D87F265	International Conference on Computer Communications<---Characterising the use of a campus wireless network
+790F7963	IEEE Journal on Selected Areas in Communications<---Throughput Analysis for Code Division Multiple Accessing of the Spread Spectrum Channel
+7E9B5AB6	International Conference on Computer Communications<---Radio link admission algorithms for wireless networks with power control and active link quality protection
+815EBB35	IEEE Journal on Selected Areas in Communications<---Minimum energy mobile wireless networks
+01AAF6B5	Information not present<---A simulation study of adaptive source routing in integrated services networks
+79F11755	BMC Bioinformatics<---Discovering functional interaction patterns in protein-protein interaction networks
+783C81CA	IEEE Personal Communications<---A new location technique for the active office
+771F5DD7	Combinatorica<---Low diameter graph decompositions
+7F166A1F	IEEE Transactions on Computers<---An adaptive hierarchical routing protocol
+8022CF06	IEEE Transactions on Information Theory<---Jointly optimal routing and scheduling in packet ratio networks
+0351A57A	Information not present<---Agent-mediated message passing for constrained environments
+784A2987	Wireless Networks<---Using direction and elapsed-time information to reduce the wireless cost of locating mobile units in cellular networks
+8074C716	Information not present<---A routing architecture that supports mobile end systems
+81592338	International Conference on Computer Communications<---RADAR: an in-building RF-based user location and tracking system
+0459E5EB	Information not present<---InfoPad: A system design for portable multimedia access
+8058B690	Mobile Ad Hoc Networking and Computing<---Age matters: efficient route discovery in mobile ad hoc networks using encounter ages
+5AE6E88E	Information not present<---The non-line of sight problem in mobile location estimation
+7EED5E84	International Conference on Computer Communications and Networks<---Core selection methods for multicast routing
+74DE8204	Wireless Communications and Networking Conference<---Performance of IEEE 802.11 medium access control protocol over a wireless local area network with distributed radio bridges
+7512C838	International Journal of Network Management<---Mobility prediction and routing in ad hoc wireless networks
+66A703CD	Information not present<---On the accuracy of a first-order Markov model for data transmission on fading channels
+7E58378D	ACM/IEEE International Conference on Mobile Computing and Networking<---Location-aided routing (LAR) in mobile ad hoc networks
+7ECB1BF4	IEEE Journal on Selected Areas in Communications<---Evaluation of multicast routing algorithms for real-time communication on high-speed networks
+800AC799	IEEE Transactions on Communications<---On Broadcasting in Radio Networks--Problem Analysis and Protocol Design
+0C3078B5	Information not present<---Adaptive routing algorithms for distributed computer networks
+7B29C8D0	Information not present<---Oblivious gossiping in ad-hoc radio networks
+7770100E	Sigmetrics Performance Evaluation Review<---SynRGen: an extensible file reference generator
+8040276C	International Conference on Computer Communications<---A distributed algorithm for delay-constrained unicast routing
+5A04A889	Information not present<---Ns: notes and documentation
+7D073A26	IEEE Communications Magazine<---Delay-tolerant networking: an approach to interplanetary Internet
+5D21EB86	Information not present<---Error rate prediction for high data rate short range systems
+075564EE	Information not present<---An Architecture and Communication Protocol for Picocellular Networks
+7F8A4796	IEEE Transactions on Communications<---Spreading code protocols for distributed spread-spectrum packet radio networks
+08DB3DB6	Information not present<---Routing with guaranteed delivery in wireless networks
+7989A142	IEEE Network<---The rate-based flow control framework for the available bit rate ATM service
+798B0BE6	Ad Hoc Networks<---On profiling mobility and predicting locations of wireless users
+7DCBBD01	IEEE Transactions on Communications<---Packet Switching in Radio Channels: Part III--Polling and (Dynamic) Split-Channel Reservation Multiple Access
+7F7082F2	International Conference on Communications<---BAHAMA: a broadband ad-hoc wireless ATM local-area network
+79F31774	IEEE Communications Magazine<---A robust wireless infrared system with channel reciprocity
+6D6B8C86	Information not present<---Network Visualization with the VINT Network Animator Nam
+7CEF5F6D	International Conference on Distributed Computing Systems<---Anonymous Gossip: improving multicast reliability in mobile ad-hoc networks
+073A7D61	Information not present<---Clock Synchronization in the Presence of Omission and Performance Failures, and Processor Joins
+7E89D4DC	IEEE Wireless Communications<---The role of prediction algorithms in the MavHome smart home architecture
+773520D9	Computational Science and Engineering<---Parallel languages for discrete-event simulation models
+78B9E6FD	ACM Multimedia<---vic : a flexible framework for packet video
+80335528	Information not present<---THE ALOHA SYSTEM: another alternative for computer communications
+7EA934A3	IEEE Transactions on Vehicular Technology<---Markov characterization of digital fading mobile VHF channels
+7DE52449	IEEE Network<---An overview of quality of service routing for next-generation high-speed networks: problems and solutions
+8326ECB7	International Conference on Computer Communications<---MV routing and capacity building in disruption tolerant networks
+77675DAF	IEEE Communications Magazine<---FDDI - A tutorial
+5D71FE54	Information not present<---Experiences with a Mobile Testbed
+7B72D2B2	IEEE\/ACM Transactions on Networking<---Optimizing the system of virtual paths
+75F21F59	Computer Graphics<---Rivet: a flexible environment for computer systems visualization
+5917AFFA	Mobile Adhoc and Sensor Systems<---On the impact of alternate path routing for load balancing in mobile ad hoc networks
+7623CFA4	ACM/IEEE International Conference on Mobile Computing and Networking<---Mobility management in integrated wireless-ATM networks
+7DD0D194	Local Computer Networks<---Measured performance of a wireless LAN
+8166BB05	International Conference on Computer Communications<---A rule-based system for packet radio network design
+7B132B81	Sigmod Record<---Mining frequent patterns without candidate generation
+80E8049D	Computer Communication Review<---Quality of service based routing: a performance perspective
+7B2FED19	Wireless Networks<---Competitive multicast routing
+7E84F881	IEEE\/ACM Transactions on Networking<---Assignment of cells to switches in PCS networks
+813EC4C9	IEEE Journal on Selected Areas in Communications<---A retransmission scheme for circuit-mode data on wireless links
+7A19D526	Computer Communication Review<---Trace-based mobile network emulation
+79D9DB23	ACM/IEEE International Conference on Mobile Computing and Networking<---Wireless Andrew: experience building a high speed, campus-wide wireless data network
+09BB7508	Computer Communication Review<---Fast approximation of self-similar network traffic
+80BB37D4	ACM/IEEE International Conference on Mobile Computing and Networking<---Smart-tag based data dissemination
+05035E93	Information not present<---Host extensions for ip multicasting rfc 1112
+7E6DEDC5	International Conference on Distributed Computing Systems<---I-TCP: indirect TCP for mobile hosts
+7E4BA692	International Conference on Data Engineering<---Mining partially periodic event patterns with unknown periods
+7E594DD8	IEEE Transactions on Computers<---Distributed assignment algorithms for multihop packet radio networks
+810295E2	IEEE Network<---ATM switching on demand
+59540B2D	International Solid-State Circuits Conference<---Silicon-on-silicon integration of a GSM transceiver with VCO resonator
+800EA372	IEEE Personal Communications<---Maintaining seamless communication between mobile users: An Architecture and Communication Protocol for picocellular networks
+75A1E7CD	Computer Communication Review<---Comparison of rate-based service disciplines
+81356C6B	International Parallel and Distributed Processing Symposium<---Power-aware localized routing in wireless networks
+7D32A6EE	International Conference on Computer Communications<---Spanning tree method for link state aggregation in large communication networks
+7C6E50CD	ACM/IEEE International Conference on Mobile Computing and Networking<---A wireless fair service algorithm for packet cellular networks
+6739C7F1	Location- and Context-Awareness<---Mobile Context Inference Using Low-Cost Sensors
+77CEE681	Wireless Networks<---A wireless broadband ad-hoc ATM local-area network
+7B75737C	Principles of Distributed Computing<---Resource discovery in distributed networks
+59BA2DAA	Information not present<---The intrazone routing protocol (iarp) for ad hoc networks
+5C149730	Information not present<---A linear programming formulation of flows over time with piecewise constant capacity and transit times
+7A2426B3	Sigmetrics Performance Evaluation Review<---Some conjectures on the behavior of acknowledgement-based transmission control of random access communication channels
+76C8E7E5	ACM/IEEE International Conference on Mobile Computing and Networking<---Balanced media access methods for wireless networks
+7E13BEC8	ACM/IEEE International Conference on Mobile Computing and Networking<---Sound mobility models
+80E2A9FB	ACM Sigsim Simulation Digest<---GloMoSim: a library for parallel simulation of large-scale wireless networks
+596DF10C	Global Communications Conference<---On the estimation of user mobility pattern for location tracking in wireless networks
+75240FD1	ACM/IEEE International Conference on Mobile Computing and Networking<---Analysis of a metropolitan-area wireless network
+0C09C355	Information not present<---Correlations among nearby mobile web users
+8156F965	Winter Simulation Conference<---Parallel simulation environment for mobile wireless networks
+77617418	IEEE Communications Magazine<---Parallel simulation techniques for large-scale networks
+7635733F	Performance Evaluation<---A multi-station packet-radio network
+80EA0D22	Global Communications Conference<---A distributed architecture for multimedia in dynamic wireless networks
+78FA01ED	IEEE Transactions on Communications<---Throughput Analysis in Multihop CSMA Packet Radio Networks
+812CAA2F	Winter Simulation Conference<---A trace-based approach for modeling wireless channel behavior
+7D43C34C	Vehicular Technology Conference<---Mobile speed sensitive handover in a mixed cell environment
+7AE715A9	ACM/IEEE International Conference on Mobile Computing and Networking<---A new model for packet scheduling in multihop wireless networks
+79AB8585	International Conference on Wireless Communications and Mobile Computing<---Mobility profile based routing within intermittently connected mobile ad hoc networks (ICMAN)
+7B5F736A	Computer Communication Review<---Core based trees (CBT)
+75935A79	Computer Networks and Isdn Systems<---Network support for multimedia: a discussion of the Tenet approach
+80E3AFFE	Information not present<---TCP Slow Start, Congestion Avoidance, Fast Retransmit, and Fast Recovery Algorithms
+04B3C049	ACM/IEEE International Conference on Mobile Computing and Networking<---Mobile networking for smart dust
+7A807272	Symposium on Discrete Algorithms<---The competitiveness of on-line assignments
+7A1EDE82	Mobile Networks and Applications<---A survey of routing techniques for mobile communications networks
+806D78D9	ACM/IEEE International Conference on Mobile Computing and Networking<---Model T: an empirical model for user registration patterns in a campus wireless LAN
+7C741AA2	Mobile Ad Hoc Networking and Computing<---A probabilistic analysis for the range assignment problem in ad hoc networks
+7F710A66	Wireless Communications and Networking Conference<---A non-line-of-sight error mitigation algorithm in location estimation
+7D5E7E1B	Information not present<---User mobility for opportunistic ad-hoc networking
+611506D0	Information not present<---Implementing Real Time Packet Forwarding Policies using Streams
+7E8DCC61	Wireless Communications and Networking Conference<---On-demand multicast routing protocol
+7D4DC51E	Wireless Networks<---Scalable support for transparent mobile host internetworking
+794751E5	ACM Computing Surveys<---Formal methods: state of the art and future directions
+7FA58F99	IEEE Communications Magazine<---Spread spectrum access methods for wireless communications
+7CF0D433	International Conference on Mobile Systems, Applications, and Services<---Accuracy characterization for metropolitan-scale Wi-Fi localization
+766D79C8	Wireless Networks<---Minimizing the average cost of paging under delay constraints
+7FFB6EA1	Ibm Systems Journal<---NBBS path selection framework
+7A35CA19	Theoretical Computer Science<---On-line load balancing
+81627C68	IEEE Transactions on Communications<---Internet time synchronization: the network time protocol
+6839B1FF	Information not present<---A Framework for QoS-based Routing in the Internet
+7E8B81B5	International Conference on Distributed Computing Systems<---Improving performance of TCP over wireless networks
+5B1134C1	International Conference on Communications<---Address servers in hierarchical networks
+806FEAA2	IEEE Journal on Selected Areas in Communications<---Mobility modeling, location tracking, and trajectory prediction in wireless ATM networks
+7D35E8A1	Journal of Parallel and Distributed Computing<---Communication in disconnected ad hoc networks using message relay
+7EF2E107	IEEE Transactions on Communications<---The wave expansion approach to broadcasting in multihop radio networks
+813817B6	International Conference on Computer Communications<---Reducing overhead in flow-switched networks: an empirical study of Web traffic
+790BEC88	Information not present<---The dynamic source routing protocol for mobile ad hoc networks
+80C19442	Information not present<---Context-Aware Computing Applications
+7EA39B87	Computer Communication Review<---Highly dynamic Destination-Sequenced Distance-Vector routing (DSDV) for mobile computers
+7EBDA190	ACM Transactions on Database Systems<---Data caching issues in an information retrieval system
+7CB41443	Proceedings of the National Academy of Sciences of the United States of America<---Network motif identification in stochastic networks
+75940BB1	Symposium on the Theory of Computing<---The electrical resistance of a graph captures its commute and cover times
+7F6A87E3	International Conference on Computer Communications<---Extracting a Mobility Model from Real User Traces
+7ED7A1F7	Wireless Communications and Networking Conference<---Probabilistic broadcast for flooding in wireless mobile ad hoc networks
+80C686F6	International Conference on Mobile Systems, Applications, and Services<---Characterizing mobility and network usage in a corporate wireless local-area network
+66357E03	Information not present<---TCP Extensions for High Performance
+7E7924FB	International Conference on Pervasive Computing<---Place lab: device positioning using radio beacons in the wild
+80D58019	Local Computer Networks<---Performance monitoring of a wireless campus area network
+7FF9A349	Global Communications Conference<---Metropolitan area network architecture and services
+80CE22DF	Information not present<---The design and implementation of the 4.4BSD operating system
+5BA729C0	International Conference on Computer Communications<---Locating Nodes with EASE: Mobility Diffusion of Last Encounters in Ad Hoc Networks
+7673CE0B	Computer Communication Review<---Routing high-bandwidth traffic in max-min fair share networks
+017B453C	Information not present<---Port-based network access control
+812C6C9D	International Conference on Computer Communications<---Analysis of wireless information locality and association patterns in a campus
+797C2802	Computer Communication Review<---A scalable and efficient intra-domain tunneling mobile-IP scheme
+5A300E09	Cluster Computing<---Forwarding Group Multicast Protocol (FGMP) for multihop, mobile wireless networks
+7E0919F8	International Conference on Network Protocols<---On path selection for traffic with bandwidth guarantees
+7CDCA72A	ACM/IEEE International Conference on Mobile Computing and Networking<---User profile replication for faster location lookup in mobile environments
+8157B732	IEEE Journal on Selected Areas in Communications<---Real-time scheduling with quality of service constraints
+8131C927	Information not present<---Supporting Adaptive Services in a Heterogeneous Mobile Environment
+0970B281	Information not present<---Ospf: an internet routing protocol
+75C791B6	Proceedings of the IEEE<---Future directions in packet radio architectures and protocols
+00FF578D	Information not present<---Simulation Based Performance Evaluation of Mobile, Ad hoc Network Routing Protocols
+7F0099ED	Vehicular Technology Conference<---Location registration and paging for in-building personal multi-media communication systems
+7DA5AC72	The Vldb Journal<---Indexing multi-dimensional uncertain data with arbitrary probability density functions
+5911113D	Information not present<---Temporally-ordered routing algorithm (tora ) version 1: functional specification
+813E85DA	IEEE Communications Magazine<---Distributed call processing for personal communications services
+753585BE	IEEE Transactions on Communications<---Another adaptive distributed shortest path algorithm
+809E2D10	International Conference on Data Engineering<---Summarizing Graph Patterns
+811434A1	IEEE Journal on Selected Areas in Communications<---Computer-aided modeling of spread spectrum packet radio networks
+78BF3076	Computer Networks and Isdn Systems<---Extensions to ANSA for multimedia computing
+813261A3	IEEE Transactions on Communications<---Analysis and Design of Survivable Networks
+77572303	Information not present<---Extracting places from traces of locations
+5C1411DF	Modeling, Analysis, and Simulation On Computer and Telecommunication Systems<---Simulation-based 'STRESS' testing case study: a multicast routing protocol
+76CE8F65	Computer Communication Review<---The landmark hierarchy: a new hierarchy for routing in very large networks
+8143B482	Global Communications Conference<---Rate controlled servers for very high-speed networks
+774B8866	Communications of The ACM<---Andrew: a distributed personal computing environment
+59C011AE	Information not present<---Measuring Wireless Network Usage with the Experience Sampling Method
+7E94FE5F	IEEE Computer<---Parsec: a parallel simulation environment for complex systems
+7A35EA43	IEEE\/ACM Transactions on Networking<---The synchronization of periodic routing messages
+7F721D16	IEEE Transactions on Communications<---On the capture probability for a large number of stations
+6D134C2E	IEEE Transactions on Computers<---Distributed Nodes Organization Algorithm for Channel Access in a Multihop Dynamic Radio Network
+7EC6FAF0	Bioinformatics<---An efficient algorithm for detecting frequent subgraphs in biological networks
+765A92D4	Computer Communication Review<---A cluster-based approach for routing in dynamic networks
+80A28B45	International Conference on Computer Communications<---Mobile users: to update or not to update?
+78683CAA	Computer Networks and Isdn Systems<---Routing and flow control on the MetaNet: an overview
+5C066070	Information not present<---Mobile Host Internetworking Using IP Loose Source Routing
+7CEE0C05	IEEE Transactions on Communications<---Theory of Spread-Spectrum Communications--A Tutorial
+7FA6084B	IEEE Journal on Selected Areas in Communications<---A topology transparent link activation protocol for mobile CDMA radio networks
+795E5B86	Information not present<---New Routing and Preemption Algorithms for Circuit-Switched Mixed-Media Networks
+7A6A5160	Symposium on the Theory of Computing<---Optimal distributed algorithms for minimum weight spanning tree, counting, leader election, and related problems
+7C88C788	Journal of the ACM<---Shortest-path and minimum-delay algorithms in networks with time-dependent edge-length
+80AB26F5	Computer Networks and Isdn Systems<---Analysis of the increase and decrease algorithms for congestion avoidance in computer networks
+018720A3	ACM/IEEE International Conference on Mobile Computing and Networking<---Routing protocols for mobile ad hoc networks: a comparative performance analysis
+0BCFCA7D	Information not present<---Mobile Computing Environment Based on Internet Packet Forwarding
+7D1D1375	Computer Communication Review<---MACAW: a media access protocol for wireless LAN's
+5959ADE7	Information not present<---Efficient Similarity Search In Sequence Databases
+59460D02	International Conference on Communications<---An analysis of the optimum node density for ad hoc mobile networks
+7E872F5B	International Conference on Computer Communications<---Distributed top-down hierarchy construction
+7F6059DD	Computer Communication Review<---A language-based approach to protocol implementation
+7E583113	Information not present<---Architectural considerations for mobile mesh networking
+7968250B	Knowledge Discovery and Data Mining<---Discovering frequent topological structures from graph datasets
+7CF0FA46	Operating Systems Review<---Understanding the limitations of causally and totally ordered communication
+77C570F8	Principles of Distributed Computing<---Maintaining the time in a distributed system
+80ABA9FF	IEEE\/ACM Transactions on Networking<---Random early detection gateways for congestion avoidance
+72562CFD	Information not present<---Critical Power for Asymptotic Connectivity in Wireless Networks
+75ADE6AC	ACM/IEEE International Conference on Mobile Computing and Networking<---LeZi-update: an information-theoretic approach to track mobile users in PCS networks
+59DF39B9	World Wide Web<---Analysis and characterization of large-scale Web server access patterns and performance
+8120441A	International Conference on Computer Communications<---A dynamic management scheme for real-time connections
+80D4B8C9	Information not present<---Supporting mobility in MosquitoNet
+7D50D3F8	Proceedings of the IEEE<---The indoor radio propagation channel
+7996A3BB	Computer Communication Review<---Effective erasure codes for reliable computer communication protocols
+75C1D28F	Modeling Analysis and Simulation of Wireless and Mobile Systems<---WAP traffic: description and comparison to WWW traffic
+7DA7D466	Knowledge Discovery and Data Mining<---CloseGraph: mining closed frequent graph patterns
+76CFEB7B	Modeling Analysis and Simulation of Wireless and Mobile Systems<---An activity-based mobility model and location management simulation framework
+78AB37BC	IEEE Network<---Disseminating active map information to mobile hosts
+816E8222	Information not present<---A new routing protocol for the reconfigurable wireless networks
+72618913	Network and Operating System Support for Digital Audio and Video<---Toward a common infrastructure for multimedia-networking middleware
+5F5E1451	Information not present<---The Design and Implementation of a Mobile Internetworking Architecture
+75363C89	IEEE Communications Magazine<---Broadband ISDN resource management: the role of virtual paths
+00C27E02	Information not present<---An improved spine-based infrastructure for routing in ad hoc networks
+58D90F9B	Information not present<---Supporting connection mobility in wireless networks
+7F94D5E0	IEEE Journal on Selected Areas in Communications<---A caching strategy to reduce network impacts of PCS
+7CF14972	Transportation Research Record<---Field Studies of Pedestrian Walking Speed and Start-Up Time
+7D24F6D2	Information not present<---Ad-hoc on-demand distance vector routing
+7A54991C	IEEE Transactions on Communications<---BRAM: The Broadcast Recognizing Access Method
+77473903	IEEE Transactions on Communications<---Design and implementation of a high-speed transport protocol
+082F5795	Information not present<---Dynamic Routing in Networks with Unidirectional Links
+0FE142D8	Vehicular Technology Conference<---MINT - A Mobile Internet Router
+75A13D3A	Communications of The ACM<---Time, clocks, and the ordering of events in a distributed system
+8123F129	International Conference on Computer Communications<---A novel topology control for multihop packet radio networks
+7F782843	Information not present<---Policy routing in Internet protocols
+718C53BD	Information not present<---Neighbor Discovery for IP Version 6 (IPv6)
+7DBDF8A8	IEEE Journal on Selected Areas in Communications<---Distributed quality-of-service routing in ad hoc networks
+7C5F12DA	Advances in Applied Probability<---On a coverage process ranging from the Boolean model to the Poisson–Voronoi tessellation with applications to wireless communications
+76938BA6	Journal of Parallel and Distributed Computing<---Fast distributed network decompositions and covers
+673BF433	Information not present<---Integrated Services in the Internet Architecture: an Overview
+755FFD25	Proceedings of the IEEE<---Crosslink architectures for a multiple satellite system
+7C9C2B58	ACM/IEEE International Conference on Mobile Computing and Networking<---Capacity of Ad Hoc wireless networks
+7DE36109	International Conference on Computer Communications<---Web caching and Zipf-like distributions: evidence and implications
+5CA31DD6	Cluster Computing<---Self Organized Terminode Routing
+78139965	ACM/IEEE International Conference on Mobile Computing and Networking<---The broadcast storm problem in a mobile ad hoc network
+76E9551E	Knowledge Discovery and Data Mining<---Finding surprising patterns in a time series database in linear time and space
+76A1332F	IEEE Communications Magazine<---Trends in cellular and cordless communications
+7E9E1919	Information not present<---A distributed routing algorithm for mobile radio networks
+7C0AA674	Computer Communication Review<---A network architecture providing host migration transparency
+7D243AF9	International Conference on Computer Communications<---Multicasting for multimedia applications
+812395C6	International Conference on Communications<---Distributed-queueing request update multiple access (DQRUMA) for wireless packet (ATM) networks
+7F85CF49	International Conference on Computer Communications<---A self-clocked fair queueing scheme for broadband applications
+7F21F811	ACM/IEEE International Conference on Mobile Computing and Networking<---A performance comparison of multi-hop wireless ad hoc network routing protocols
+75F2FFFC	Mobile Networks and Applications<---An architecture for mobile radio networks with dynamically changing topology using virtual subnets
+5F3E3553	Information not present<---Stability analysis of nonlinear systems
+69A0AED0	International Conference on Communications<---Low-earth orbit global cellular communications network
+814DB608	Personal, Indoor and Mobile Radio Communications<---An ATM-CDMA air interface for mobile personal communications
+7B010ECB	IEEE Spectrum<---Spread spectrum goes commercial
+029A5A4C	Information not present<---Selecting routers in ad hoc wireless networks
+8176A5FD	IEEE Journal on Selected Areas in Communications<---A new random walk model for PCS networks
+7D841EE5	Computer Communication Review<---Topology aggregation for hierarchical routing in ATM networks
+75E6EDE5	International Conference on Computer Communications<---CEDAR: a core-extraction distributed ad hoc routing algorithm
+5B6DCC75	Information not present<---Integrated Broadband Networks; An Introduction to ATM-Based Networks
+7F4C2016	Information not present<---Electronics for micromachined inertial sensors
+5A036A19	Information not present<---Genesis and Advanced Traveler Information Systems (ATIS): Killer Applications for Mobile Computing?
+6A92A490	International Conference on Computer Communications<---Energy conserving routing in wireless ad-hoc networks
+5A668BBA	Information not present<---Mobility pattern aware routing in mobile ad hoc networks
+0A457085	Information not present<---Packet forwarding for mobile hosts
+78D20403	Mathematics of Operations Research<---Combinatorial Optimization with Rational Objective Functions
+80593E80	Information not present<---Reliable broadcast in mobile wireless networks
+7F5B6ECE	Information not present<---Hot-spot congestion relief in public-area wireless networks
+7BFAC413	IEEE Micro<---A wireless network in MosquitoNet
+7FE556DB	International Conference on Computer Communications<---An asymmetric protocol for digital cellular communications
+7B57D9A6	Symposium on the Theory of Computing<---An efficient network synchronization protocol
+7F00A2B1	International Conference on Computer Communications<---A source-based algorithm for delay-constrained minimum-cost multicasting
+07A37D6F	International Conference on Computer Communications<---Balanced Scheduling in a Packet Synchronized spread Spectrum Network
+081081C5	Information not present<---The Intelligent Home Testbed
+787A896F	Computer Networks<---Pollen: using people as a communication medium
+6C269A4E	International Conference on Distributed Computing Systems<---Design, implementation, and evaluation of Virtual Internet Protocol
+5DBA2BAD	Information not present<---Epidemic Routing for Partially-Connected Ad Hoc Networks
+5A86BE6C	Information not present<---Routing and Addressing Problems in Large Metropolitan-Scale Internetworks
+7B7930F6	Telecommunication Systems<---Performance of a modified polling strategy for broadband wireless lans in a harsh fading environment
+7EF76E84	IEEE Network<---Routing subject to quality of service constraints in integrated communication networks
+7D64C75E	IEEE Transactions on Information Theory<---Some asymptotic properties of the entropy of a stationary ergodic data source with applications to data compression
+7CBD89A2	Computer Communication Review<---Topology distribution cost vs. efficient routing in large networks
+807E945E	International Conference on Computer Communications<---Multi-path routing combined with resource reservation
+79AC3B70	Sigmetrics Performance Evaluation Review<---PROTEUS: a high-performance parallel-architecture simulator
+76D4CEF0	IEEE Communications Magazine<---Overview of the GSM system and protocol architecture
+0AD00EC6	Proceedings of the IEEE<---Issues in packet radio design
+7A86CB3D	Mobile Networks and Applications<---An efficient routing protocol for wireless networks
+09405B44	Information not present<---Providing connectivity to the Saami nomadic community
+816A526D	IEEE Transactions on Communications<---Efficient hybrid ARQ protocols with adaptive forward error correction
+75ED27B7	Journal of Combinatorial Theory<---Choosability in random hypergraphs
+072CED16	Information not present<---A routing strategy and quorum based location update scheme for ad hoc wireless networks
+75B7DF56	Computer Communication Review<---Scalable inter-domain routing architecture
+7ED32D02	Operating Systems Review<---On the scale and performance of cooperative Web proxy caching
+08CCCEA9	Information not present<---Modalities of interaction with cmu wearable computers
+8162A692	International Conference on Data Mining<---gSpan: graph-based substructure pattern mining
+78685B2F	Symposium on the Theory of Computing<---On deterministic approximation of DNF
+801082CA	IEEE Transactions on Communications<---Optimal Transmission Ranges for Randomly Distributed Packet Radio Terminals
+7B02263B	Information & Computation<---The availability of quorum systems
+5EA66FCE	Information not present<---Optimization of capture in multiple access radio systems with Rayleigh fading and random power levels
+80F798C2	IEEE Transactions on Communications<---Routing in Packet-Switching Broadcast Radio Networks
+75CB97E6	IEEE Transactions on Computers<---Tree-Based Broadcasting in Multihop Radio Networks
+7F416F97	International Conference on Wireless Communications and Mobile Computing<---Estimation based erasure-coding routing in delay tolerant networks
+80C8DEF9	IEEE Transactions on Communications<---Rate-compatible punctured convolutional codes (RCPC codes) and their applications
+792B39EB	Computer and Communications Security<---Access control and signatures via quorum secret sharing
+093CCEFE	Information not present<---Peer-to-Peer Reconciliation Based Replication for Mobile Computers
+5CFC796F	Information not present<---The Conditional-Event Approach to Distributed Simulation
+81033104	IEEE Network<---A survey on position-based routing in mobile ad hoc networks
+073F3019	Information not present<---The design and evaluation of routing algorithms for real-time channels
+812349B3	Local Computer Networks<---Cell loss ratio and multiplexing gain of an ATM multiplexer for VBR voice sources
+7E95B401	International Conference on Computer Communications<---QoS routing in networks with uncertain parameters
+7AEF8111	Knowledge Discovery and Data Mining<---Scalable mining of large disk-based graph databases
+76680B18	IEEE\/ACM Transactions on Networking<---Making transmission schedules immune to topology changes in multi-hop packet radio networks
+7EDDD7CA	Foundations of Computer Science<---On-line load balancing
+7D532069	IEEE Internet Computing<---Understanding link quality in 802.11 mobile ad hoc networks
+814AA406	Performance Evaluation<---Buffer size requirements under longest queue first
+0B7713ED	Information not present<---Power aware distributed routing in ad hoc wireless networks
+7CE2F084	IEEE Transactions on Information Theory<---A perspective on multiaccess channels
+7950375C	Symposium on Principles of Database Systems<---Epidemic algorithms in replicated databases (extended abstract)
+756B0C7C	Computer Communication Review<---Improving round-trip time estimates in reliable transport protocols
+753DBA86	IEEE Journal on Selected Areas in Communications<---Signaling alternatives in a wireless ATM network
+7CB64EB4	Information not present<---Low-latency handoff for cellular data networks
+7D2BD147	IEEE Transactions on Communications<---Performance of Quadrature Amplitude Modulation for Indoor Radio Communications
+809A40A6	IEEE Transactions on Vehicular Technology<---Portable movement modeling for PCS networks
+791EF8B4	Computer Communication Review<---A study of priority pricing in multiple service class networks
+5F81B41E	Cluster Computing<---Spine routing in ad hoc networks
+80D152D9	IEEE\/ACM Transactions on Networking<---QoS routing in networks with uncertain parameters
+7EB25D31	IEEE\/ACM Transactions on Networking<---A distributed algorithm for delay-constrained unicast routing
+7A7D91AD	Graphs and Combinatorics<---On the Maximum Number of Cliques in a Graph
+7660ACDC	IEEE Transactions on Vehicular Technology<---Universal portable radio communications
+80A9D879	International Conference on Computer Communications<---An architectural comparison of ST-II and RSVP
+7C72653C	ACM/IEEE International Conference on Mobile Computing and Networking<---The effects of asymmetry on TCP performance
+75EBE32E	IEEE Personal Communications<---Wireless ATM: a perspective on issues and prospects
+7FEAD789	Information not present<---Evaluation of slot allocation strategies for TDMA protocols in packet radio networks
+7D48A042	Personal, Indoor and Mobile Radio Communications<---Performance of a multiple access protocol for an ATM based pico-cellular radio LAN
+7D41947D	Artificial Intelligence<---Learning and inferring transportation routines
+0403D578	International Conference on Computer Communications<---A Software System for Locating Mobile Users: Design, Evaluation, and Lessons
+5F1802E3	Information not present<---Probability and Computing: Randomized Algorithms and Probabilistic Analysis
+771700B5	IEEE Transactions on Communications<---A Minimum Delay Routing Algorithm Using Distributed Computation
+85BB1408	Computer Communication Review<---Optimizing file transfer response time using the loss-load curve congestion control mechanism
+813708C5	Proceedings of the IEEE<---Real-time communication in packet-switched networks
+8115E160	Information not present<---Start-up dynamics of TCP's congestion control and avoidance schemes
+7C09384A	ACM/IEEE International Conference on Mobile Computing and Networking<---A distance routing effect algorithm for mobility (DREAM)
+80557CED	IEEE Transactions on Information Theory<---Link scheduling in polynomial time
+7B963C19	ACM/IEEE International Conference on Mobile Computing and Networking<---Adapting packet fair queueing algorithms to wireless networks
+799982CB	Wireless Networks<---Using DHCP with computers that move0
+803760F2	IEEE Transactions on Communications<---The Spatial Capacity of a Slotted ALOHA Multihop Packet Radio Network with Capture
+7F0F7624	IEEE Transactions on Computers<---Hardware-assisted software clock synchronization for homogeneous distributed systems
+76640C88	IEEE Communications Magazine<---Wireless Geolocation Systems and Services
+038A7B89	Information not present<---Maca - a new channel access method for packet radio
+791B91DE	IEEE Computer<---Advances in network simulation
+7D35686F	Information not present<---A novel distributed routing protocol to support ad-hoc mobile computing
+7DB8776E	IEEE Transactions on Knowledge and Data Engineering<---Discovering Frequent Graph Patterns Using Disjoint Paths
+75DA820F	ACM/IEEE International Conference on Mobile Computing and Networking<---The shadow cluster concept for resource allocation and call admission in ATM-based wireless networks
+5CB0634E	International Conference on Network Protocols<---On-demand multipath distance vector routing in ad hoc networks
+7F2E08B7	IEEE Journal on Selected Areas in Communications<---Distributed, scalable routing based on vectors of link states
+75C4DA8F	IEEE Journal on Selected Areas in Communications<---Virtual path and link capacity design for ATM networks
+669B36B3	Information not present<---A practical guide to SNMPv3 and network management
+80E332D2	ACM Sigsim Simulation Digest<---Conservative parallel simulation of ATM networks
+7DCCE0E1	Personal, Indoor and Mobile Radio Communications<---Voice and data transmission over an 802.11 wireless network
+7C75FB70	IEEE Transactions on Vehicular Technology<---A strategy for flexible channel assignment in mobile communication systems
+7D1ABC82	IEEE Transactions on Aerospace and Electronic Systems<---Modeling and Estimation for Tracking Maneuvering Targets
+081FF3E3	ACM/IEEE International Conference on Mobile Computing and Networking<---Greedy perimeter stateless routing (gpsr) for wireless networks
+7D3AD2CB	IEEE Transactions on Software Engineering<---Maisie: a language for the design of efficient discrete-event simulations
+7E5F787E	Hawaii International Conference on System Sciences<---Internal nodes based broadcasting in wireless networks
+776C8504	ACM/IEEE International Conference on Mobile Computing and Networking<---Sending messages to mobile users in disconnected ad-hoc wireless networks
+7A046F7B	Operating Systems Review<---Energy-efficient computing for wildlife tracking: design tradeoffs and early experiences with ZebraNet
+7AFB64A0	Pattern Recognition<---The relative neighbourhood graph of a finite planar set
+7A50DF45	Computer Communication Review<---Design of inter-administrative domain routing protocols
+7E9F5234	IEEE Communications Magazine<---M-architecture: a structural model of traffic management and control in broadband ISDNs
+7F6BDD5D	IEEE Transactions on Information Theory<---The capacity of wireless networks
+8025C887	IEEE\/ACM Transactions on Networking<---Mobility increases the capacity of ad hoc wireless networks
+7758A4FB	International Conference on Management of Data<---Finding frequent items in probabilistic data
+77354C67	Sigmod Record<---Database system issues in nomadic computing
+566451D4	Information not present<---Improved Randomized Broadcast Protocol in Multi-hop Radio Networks
+779B1002	IEEE Transactions on Military Electronics<---System Analysis of Semi-Markov Processes
+78C87236	Computer Communication Review<---Distributed, scalable routing based on link-state vectors
+7DA0CA3F	IEEE Transactions on Information Theory<---Capacity of fading channels with channel side information
+02CCD7D9	Information not present<---Host extensions for ip multicast
+7D382000	International Conference on Network Protocols<---Dynamic routing of real-time virtual circuits
+7DEDD133	ACM/IEEE International Conference on Mobile Computing and Networking<---The Cricket location-support system
+78DF9C40	Symposium on the Theory of Computing<---On-line load balancing with applications to machine scheduling and virtual circuit routing
+756327A3	Computer Communication Review<---Asymptotic resource consumption in multicast reservation styles
+7DB80420	Information not present<---Nearly optimum scheduling in mobile CDMA packet radio networks
+7DDE4541	IEEE\/ACM Transactions on Networking<---Local error recovery in SRM: comparison of two approaches
+77BF4AF6	Computer Networks and Isdn Systems<---Supporting the real-time requirements of continuous media in open distributed processing
+76C24556	Modeling, Analysis, and Simulation On Computer and Telecommunication Systems<---Enabling large-scale simulations: selective abstraction approach to the study of multicast protocols
+803AE30D	IEEE Computer<---DakNet: rethinking connectivity in developing nations
+5EB8B467	International Conference on Communications<---A mobile radio network architecture with dynamically changing topology using virtual subnets
+8063EE8D	IEEE Transactions on Communications<---A neural network approach to routing without interference in multihop radio networks
+7AB718C9	IEEE\/ACM Transactions on Networking<---Hierarchical packet fair queueing algorithms
+7B9630CC	Computer Communication Review<---Analysis and simulation of a fair queueing algorithm
+7A0A5241	Proceedings of the IEEE<---A design concept for reliable mobile radio networks with frequency hopping signaling
+7E73DC67	IEEE Journal on Selected Areas in Communications<---A mobile host protocol supporting route optimization and authentication
+78117C8C	Computer Networks<---Hierarchical routing for large networks Performance evaluation and optimization
+7E02B03B	International Conference on VLSI Design<---Medium access control and air-interface subsystem for an indoor wireless ATM network
+75754A02	IEEE\/ACM Transactions on Networking<---A generalized processor sharing approach to flow control in integrated services networks
+774FF37D	Mathematics of Operations Research<---Combinatorial Optimization with Rational Objective Functions: A Communication
+80EF011A	IEEE Personal Communications<---Wireless ATM networks: architecture, system design and prototyping
+7EBE10BE	International Conference on Computer Communications<---Enhancing throughput over wireless LANs using channel state dependent packet scheduling
+80853F57	International Conference on Network Protocols<---Evaluating the overheads of source-directed quality-of-service routing
+7CF3BECB	Information not present<---Power-aware routing in wireless packet networks
+7644BE12	Wireless Networks<---Mobile users: to update or not to update?
+7A04054F	IEEE Journal on Selected Areas in Communications<---Multipoint communication: a survey of protocols, functions, and mechanisms
+7DB56219	IEEE\/ACM Transactions on Networking<---Optimization of wireless resources for personal communications mobility tracking
+61DB1C4D	European Conference on Principles of Data Mining and Knowledge Discovery<---An Apriori-Based Algorithm for Mining Frequent Substructures from Graph Data
+5ED4F96E	Information not present<---AMRoute: Adhoc Multicast Routing Protocol
+7EB78947	International Journal in Computer Simulation<---Ptolemy: A Framework for Simulating and Prototyping Heterogeneous Systems
+02C626D7	Information not present<---Lan medium access control (mac) and physical layer (phy) specifications
+7638AC33	IEEE Communications Magazine<---Continuous phase modulation
+7D1DDF77	ACM Sigsim Simulation Digest<---A unified framework for conservative and optimistic distributed simulation
+7E033A04	IEEE Journal on Selected Areas in Communications<---User mobility modeling and characterization of mobility patterns
+80965E58	Information not present<---Adaptive change of code rate in DS-SSMA communication systems
+7E1CF3ED	SIAM Journal on Computing<---The Complexity of Enumeration and Reliability Problems
+7F759EAF	The Vldb Journal<---Probabilistic skylines on uncertain data
+604120CB	Mobile Networks and Applications<---Floor acquisition multiple access (FAMA) in single-channel wireless networks
+76436EFC	IEEE Communications Magazine<---Trends in handover design
+784FE445	ACM Transactions on Computer Systems<---End-to-end arguments in system design
+7D192D1B	International Cryptology Conference<---The MD4 Message Digest Algorithm
+76F55B90	IEEE Journal on Selected Areas in Communications<---Integration of Voice and Data in the Wideband Packet Satellite Network
+7E13FA79	ACM Sigsim Simulation Digest<---Shared memory implementation of a parallel switch-level circuit simulator
+7FB3544A	Journal of Computer and System Sciences<---On the time-complexity of broadcast in multi-hop radio networks: an exponential gap between determinism and randomization
+07254BBA	Information not present<---broadcasting algorithms in wireless networks
+811E405E	IEEE Journal of Solid-state Circuits<---Low-power CMOS digital design
+7FEF24F1	IEEE Transactions on Image Processing<---Wavelet filter evaluation for image compression
+802C5327	IEEE Computer<---Location systems for ubiquitous computing
+764D7EB8	IEEE Journal on Selected Areas in Communications<---Slotted Random Access Spread-Spectrum Networks: An Analytical Framework
+7FB591F2	International Conference on Computer Communications<---Routing virtual circuits with timing requirements in virtual path based ATM networks
+77879312	ACM Transactions on Computer Systems<---Scale and performance in a distributed file system
+81052B20	IEEE Transactions on Vehicular Technology<---Finite-state Markov channel-a useful model for radio communication channels
+7D4F1A96	Personal, Indoor and Mobile Radio Communications<---An analytical model for predicting path loss in urban and suburban environments
+07090176	IEEE Transactions on Communications<---A responsive routing algorithm for computer networks
+815AED82	Advances in Applied Probability<---Blocking probabilities in large circuit- switching networks
+7FD01115	International Conference on Data Engineering<---A Framework for Clustering Uncertain Data Streams
+75174AB3	Sigmetrics Performance Evaluation Review<---Experiences with network simulation
+5D6389D9	Information not present<---A Mechanism for the Administration of Real-Time Channels
+7DD5F3E9	Information not present<---Efficient TCP over networks with wireless links
+7DE3F24E	Nature<---Collective dynamics of 'small-world' networks
+7B462012	IEEE Journal on Selected Areas in Communications<---Resource allocation for broadband networks
+7734E4D4	Computer Communication Review<---Congestion control in IP/TCP internetworks
+7CFA3DC0	IEEE Journal on Selected Areas in Communications<---Quality-of-service routing for supporting multimedia applications
+771A1E34	Wireless Networks<---Wireless data: systems, standards, service
+8115AC98	IEEE Transactions on Communications<---A Failsafe Distributed Routing Protocol
+0791D2D7	Information not present<---Action Prediction Using History Pattern Matching in Automated Homes
+5FF31B32	Information not present<---Routing for Maximum System Lifetime in Wireless Ad-hoc Networks
+8151780D	IEEE\/ACM Transactions on Networking<---A reliable multicast framework for light-weight sessions and application level framing
+0288941A	International Conference on Computer Communications<---An asymmetric link-layer protocol for digital cellular communications
+80A23D67	International Conference on Communications<---Information capacity and power control in single-cell multiuser communications
+7DB335F1	Information not present<---Secure short-cut routing for mobile IP
+7D5B9C7B	Sigmetrics Performance Evaluation Review<---The art of computer systems performance analysis
+7A7E07C8	Sigmetrics Performance Evaluation Review<---Passage time distributions in large Markov chains
+7F02131E	International Conference on Pervasive Computing<---Location aware resource management in smart homes
+766C59F6	IEEE Transactions on Communications<---910 MHz Urban Mobile Radio Propagation: Multipath Characteristics in New York City
+7D408D3D	ACM/IEEE International Conference on Mobile Computing and Networking<---A routing protocol for packet radio networks
+7D42DCEA	IEEE Transactions on Communications<---MetaRing-a full-duplex ring with fairness and spatial reuse
+80CF9A15	International Conference on Computer Communications<---Asynchronous multimedia multihop wireless networks
+808B4F13	International Conference on Computer Communications<---Optimal routing in multihop packet radio networks
+7D1D47A7	Information not present<---Wireless battlefield tactical networking supporting C2OTM and C4I for the army warrior
+593A7D75	Sigmetrics Performance Evaluation Review<---The art of computer systems performance analysis : techniques for experimental design, measurement, simulation, and modeling
+7D1D6372	Information not present<---A computational logic handbook
+7B60F2D4	IEEE Network<---Radio propagation and anti-multipath techniques in the WIN environment
+6D9CA6C8	IEEE Transactions on Information Theory<---Tracking mobile users in wireless networks
+6ADF50AB	Information not present<---The Recommendation for the IP Next Generation Protocol
+0BA5F301	Information not present<---The move to wireless networking in higher education
+7DD97732	Information not present<---Two multi access algorithms for channels with multiple reception capacity
+7EF9656B	IEEE Journal on Selected Areas in Communications<---Determining the optimal configuration for the zone routing protocol
+7D43E7E5	IEEE Transactions on Information Theory<---A binary channel characterization using partitioned Markov chains
+7F3BD326	Sigmod Record<---Optimal multi-step k-nearest neighbor search
+765C6544	ACM Multimedia<---Scalable data naming for application level framing in reliable multicast
+796F6109	Mathematics of Computation<---Introduction to the theory of error-correcting codes
+7B730112	Methodology and Computing in Applied Probability<---Numerical Treatment of Homogeneous Semi-Markov Processes in Transient Case–a Straightforward Approach
+5D7703DB	Information not present<---Computer networks: a systems approach
+806FB6C6	International Conference on Communications<---Global state routing: a new routing scheme for ad-hoc wireless networks
+780FDF57	Mobile Ad Hoc Networking and Computing<---Effects of power conservation, wireless coverage and cooperation on data dissemination among mobile devices
+8082BEF9	International Conference on Computer Communications<---Slot allocation strategies for TDMA protocols in multihop packet radio networks
+76C8E204	ACM/IEEE International Conference on Mobile Computing and Networking<---Power-aware routing in mobile ad hoc networks
+7A56BCF7	IEEE Transactions on Information Theory<---Distributed network protocols
+81248EE3	Information not present<---Service interface and replica management algorithm for mobile file system clients
+80E4D928	Knowledge Discovery and Data Mining<---SPIN: mining maximal frequent subgraphs from graph databases
+80FEF5D2	ACM/IEEE International Conference on Mobile Computing and Networking<---A scalable location service for geographic ad hoc routing
+78EB0E59	Computer Communication Review<---Host migration transparency in IP networks: the VIP approach
+5D091D4A	International Symposium on Computers and Communications<---A performance comparison of the temporally-ordered routing algorithm and ideal link-state routing
+7FB19DE6	International Conference on Computer Communications<---Connectivity in ad-hoc and hybrid networks
+816C4F11	International Conference on Multimedia Computing and Systems<---Adaptive control for packet video
+7C10303C	IEEE Communications Magazine<---Cellular access digital network (CADN): Wireless access to networks of the future
+7F057EB9	Operating Systems Review<---Providing location information in a ubiquitous computing environment (panel session)
+7D0E3B7A	International Conference on Computer Communications<---On a Routing Problem Within Probabilistic Graphs and its Application to Intermittently Connected Networks
+8007F97E	Computer Communication Review<---An empirical analysis of the IEEE 802.11 MAC layer handoff process
+7F2059BA	Modeling Analysis and Simulation of Wireless and Mobile Systems<---Outdoor experimental comparison of four ad hoc routing algorithms
+5D145163	Information not present<---Providing network video service to mobile clients
+75103EE0	ACM/IEEE International Conference on Mobile Computing and Networking<---The design & implementation of a hybrid handover protocol for multi-media wireless LANs
+7DD3A599	IEEE\/ACM Transactions on Networking<---QoS routing in networks with inaccurate information: theory and algorithms
+78C7A999	Principles of Distributed Computing<---Dynamic hashing + quorum = efficient location management for mobile computing systems
+759DA723	International Conference on Management of Data<---Sketching probabilistic data streams
+7D3DFDE2	IEEE\/ACM Transactions on Networking<---A comparison of mechanisms for improving TCP performance over wireless links
+5F9F9674	Information not present<---Design Considerations for Large Computer Communication Networks,
+78F644A0	Proceedings of the IEEE<---Spatial reuse in multihop packet radio networks
+7A8FF09D	Wireless Networks<---AIRMAIL: a link-layer protocol for wireless networks
+7E43E607	Wireless Networks<---Handover in a micro-cell packet switched mobile network
+7CB022FE	IEEE Transactions on Vehicular Technology<---A model for analyzing handoff algorithms (cellular radio)
+7E3C6D7B	Information not present<---The Combinatorics of Network Reliability
+79E31FF2	IEEE Journal on Selected Areas in Communications<---Packet Radio in the Amateur Service
+6966E413	International Conference on Distributed Computing Systems<---Scalable and robust internetwork routing for mobile hosts
+7E741DAD	Computer Networks and Isdn Systems<---The Asynchronous Transfer Mode: a tutorial
+7E08DD11	IEEE Network<---A simulation study of table-driven and on-demand routing protocols for mobile ad hoc networks
+7BD9BAF8	ACM Multimedia<---Predictive prefetch in the Nemesis multimedia information service
+7F282A5E	International Conference on Pervasive Computing<---Employing user feedback for fast, accurate, low-maintenance geolocationing
+762C91E5	Wireless Networks<---A distributed control strategy for wireless ATM networks
+79234521	IEEE Communications Magazine<---A portable multimedia terminal
+7F479F69	Information not present<---Issues in wireless mobile computing
+089EE5E4	International Conference on Computer Communications<---RADAR: An RF-Based In-Building User Location and Tracking System
+774A7F45	Iee Proceedings E Computers and Digital Techniques<---Demand-assigned multiple-access systems using collision-type request channels: stability and delay considerations
+7F58A7ED	Information not present<---Changing Communication Environments in MosquitoNet
+7DED42E8	ACM Special Interest Group on Data Communication<---Pocket switched networks and human mobility in conference environments
+7CD307C1	ACM Transactions on Information Systems<---The active badge location system
+76E36F31	Information not present<---A Scheduling Service Model and a Scheduling Architecture for an Integrated Services Packet Network
+80FB59A4	IEEE Journal on Selected Areas in Communications<---QoS routing in ad hoc wireless networks
+7CF2804C	IEEE Communications Magazine<---Client requirements for real-time communication services
+7D47830B	Computer Communication Review<---Receiver-driven layered multicast
+7D251556	Information not present<---Determination of Critical Transmission Range in Ad-Hoc Networks
+78BEFB3A	ACM/IEEE International Conference on Mobile Computing and Networking<---Analysis of a local-area wireless network
+75DF8763	Wireless Networks<---Evaluation of location area planning scenarios in future mobile telecommunication systems
+75E3F9E4	Information not present<---"Supernodes" in Packet Radio Networks Employing Code Division Multiple Access
+7A368D7D	ACM Special Interest Group on Data Communication<---DTN routing in a mobility pattern space
+592524BB	Information not present<---The zone routing protocol (zrp) for ad hoc networks
+03A35B5A	Information not present<---An approach to modeling subscriber mobility in cellular networks
+793BE82C	IEEE Communications Magazine<---Packet radio and satellite networks
+7D8414EB	IEEE Journal on Selected Areas in Communications<---Routing of multipoint connections
+640C542D	Information not present<---Firewalls and Internet security: repelling the wily hacker
+765746C1	Sigmetrics Performance Evaluation Review<---On computing per-session performance bounds in high-speed multi-hop computer networks
+7DD2645E	IEEE Transactions on Communications<---Performance Analysis of Random Access Packet-Switched Code Division Multiple Access Systems
+5EE4F81C	Information not present<---Specification of Guaranteed Quality of Service
+7CD7CA7B	Computer Networks and Isdn Systems<---Comparing four IP based mobile host protocols
+75AC52A7	Cluster Computing<---Route Optimization for Mobile IP
+63198A9A	International Conference on Distributed Computing Systems<---Network architecture for mobile and wireless ATM
+79E39BED	Information not present<---Routing with guaranteed delivery in ad hoc wireless networks
+7D4A92E9	International Conference on Data Engineering<---GraphSig: A Scalable Approach to Mining Significant Subgraphs in Large Graph Databases
+057D88D2	Information not present<---Wireless Communications for Smart Dust
+83F0265A	International Conference on Computer Communications<---Performance comparison of two on-demand routing protocols for ad hoc networks
+0A4AA0B0	Information not present<---Software Architecture of the Infopad System
+59EBC5D4	International Conference on Computer Communications<---Packet fair queueing algorithms for wireless networks with location-dependent errors
+8049C5DE	IEEE Journal on Selected Areas in Communications<---Full Digital Adaptive Equalization in 64-QAM Radio Systems
+755D6DAE	Computer Communication Review<---A loop-free extended Bellman-Ford routing protocol without bouncing effect
+7553FCD7	IEEE Communications Magazine<---Wireless network access for personal communications
+808A9F67	IEEE Journal on Selected Areas in Communications<---Fundamental design issues for the future Internet
+7F572F89	Mobile Ad Hoc Networking and Computing<---A message ferrying approach for data delivery in sparse mobile ad hoc networks
+80047000	Symposium on Reliable Distributed Systems<---Quorum consensus algorithms for secure and reliable data
+7E7B3601	IEEE Transactions on Communications<---Distributed Algorithms for Generating Loop-Free Routes in Networks with Frequently Changing Topology
+7E8C7D29	IEEE Transactions on Communications<---Packet reservation multiple access for local wireless communications
+7DFE7A6C	IEEE Transactions on Communications<---The Architectural Organization of a Mobile Radio Network via a Distributed Algorithm
+76AE48F3	IEEE Transactions on Information Theory<---Error bounds for convolutional codes and an asymptotically optimum decoding algorithm
+80F4E80C	IEEE Journal on Selected Areas in Communications<---Adaptive clustering for mobile wireless networks
+7A317A0D	IEEE Personal Communications<---Adaptation and mobility in wireless information systems
+7F0ACE4A	Operating Systems Review<---Rover: a toolkit for mobile information access
+8153B33D	Information not present<---Routing in Ad Hoc Networks of Mobile Hosts
+7D66C4B4	Computer Communication Review<---NETBLT: a high throughput transport protocol
+0CF68257	Information not present<---A Distributed Reservation Scheme for Spread Spectrum Multiple Access Channels.
+766619DE	Computer Communication Review<---Controlling alternate routing in general-mesh packet flow networks
+76E0C500	Information & Computation<---A new fault-tolerant algorithm for clock synchronization
+5B9FA63F	Transactions on Computational Science<---Location Proxies and Intermediate Node Forwarding for Practical Geographic Forwarding
+794E8E26	ACM Transactions on Modeling and Computer Simulation<---Quick simulation of ATM buffers with on-off multiclass Markov fluid sources
+7F7AE557	IEEE\/ACM Transactions on Networking<---Loop-free routing using diffusing computations
+76BD242D	ACM/IEEE International Conference on Mobile Computing and Networking<---Fast and scalable handoffs for wireless internetworks
+80BF9284	Winter Simulation Conference<---Why we don't know how to simulate the Internet
+7FE2CAE7	IEEE Communications Magazine<---Overview of radiolocation in CDMA cellular systems
+7DBDDF3D	Operating Systems Review<---Agile application-aware adaptation for mobility
+7D916586	IEEE\/ACM Transactions on Networking<---Distributed code assignments for CDMA packet radio networks
+7877FA2B	IEEE Journal on Selected Areas in Communications<---A Wireless Network for Wide-Band Indoor Communications
+7CDB1C9F	Wireless Networks<---Analysis of a Campus-Wide Wireless Network
+5868395E	Information not present<---Paradigms for Structure in an Amorphous Computer
+80A6FEBA	Computer Communication Review<---A hierarchical fair service curve algorithm for link-sharing, real-time and priority services
+7E8438E4	The Vldb Journal<---Querying in Highly Mobile Distributed Environments
+802BC6B6	IEEE\/ACM Transactions on Networking<---Movement-based location update and selective paging for PCS networks
+8090D764	Mobile Networks and Applications<---Fast and scalable wireless handoffs in supports of mobile Internet audio
+7D5C0554	IEEE\/ACM Transactions on Networking<---Scheduling algorithms for multihop radio networks
+5CF78B6F	Information not present<---Design and implementation of MaRS: a routing testbed
+7E323E15	International Conference on Network Protocols<---Multimedia transport in multihop dynamic packet radio networks
+5F36BEA7	Information not present<---On-Demand Multicast Routing Protocol (ODMRP) for Ad-Hoc Networks
+7EF28F45	International Conference on Communications<---Minimum energy mobile wireless networks
+80E57520	International Conference on Computer Communications<---Optimal routing in communication networks with delay variations
+7EE874A4	IEEE Communications Magazine<---General packet radio service in GSM
+6B054266	Vehicular Technology Conference<---Low power link and access protocols for wireless multimedia networks
+7D96471B	Information not present<---Clustering with power control
+727D205D	Information not present<---Internet Control Message Protocol
+7F11B0A8	ACM/IEEE International Conference on Mobile Computing and Networking<---Location-aware mobile applications based on directory services
+7A1ABDEB	Computational Complexity<---The electrical resistance of a graph captures its commute and cover times
+0919E28A	Ubiquitous Computing<---Opportunity Knocks: A System to Provide Cognitive Assistance with Transportation Services
+8026E43B	IEEE\/ACM Transactions on Networking<---An optimal topology-transparent scheduling method in multihop packet radio networks
+7FAFC67F	International Conference on Computer Communications<---Admission control schemes for wireless communication networks with adjustable transmitter powers
+805AA037	Information not present<---Data MULEs: modeling a three-tier architecture for sparse sensor networks
+589BE4CA	Clinical Orthopaedics and Related Research<---Potential Networking Applications of Global Positioning Systems (GPS)
+807AC4E9	IEEE Transactions on Automatic Control<---Distributed scheduling based on due dates and buffer priorities
+7E779279	IEEE Transactions on Communications<---Generating a fault-tolerant global clock using high-speed control signals for the MetaNet architecture
+84FCC75A	Computer Networks and Isdn Systems<---Stochastic Performance Evaluation of Hierarchical Routing for Large Networks
+7FCA29D4	Information not present<---Measuring early usage of Dartmouth''s wireless network
+0E3CBE28	International Conference on Distributed Computing Systems<---End-to-End Arguments in System Design
+75BC8A1D	Acta Informatica<---A fast algorithm for Steiner trees
+7DCFE85B	International Conference on Computer Communications<---WF²Q: Worst-case Fair Weighted Fair Queueing
+78C3DFAD	ACM Computing Surveys<---Comparative Models of the File Assignment Problem
+00F1E3E9	Information not present<---Local area mobile computing on stock hardware and mostly stock software
+04C165A2	Parallel and Distributed Computing Systems (ISCA)<---GEDIR: Loop-free location based routing in wireless networks
+7EF01891	Information not present<---Providing connection-oriented network services to mobile hosts
+816B12F6	Modeling, Analysis, and Simulation On Computer and Telecommunication Systems<---Distributed simulation of large-scale PCS networks
+7A7C2E54	Information not present<---A Comparison of the Performance of Protocols in Packet Radio Networks
+0147D1E1	Information not present<---Enabling Disconnected Transitive Communication in Mobile Ad Hoc Networks
+7F4CD826	Field Programmable Gate Arrays<---Techniques for FPGA Implementation of Video Compression Systems
+7E84D5C5	International Conference on Data Engineering<---CLAN: An Algorithm for Mining Closed Cliques from Large Dense Graph Databases
+8024BE43	International Conference on Computer Communications<---Evaluating location predictors with extensive Wi-Fi mobility data
+76E8FCD6	Proceedings of the IEEE<---The DARPA packet radio network protocols
+7D9C6D06	IEEE Transactions on Communications<---Stochastic power control for cellular radio systems
+7C845DF1	Computer Communication Review<---Building shared trees using a one-to-many joining mechanism
+8173F2F9	International Conference on Computer Communications<---Fair spatial TDMA channel access protocols for multihop radio networks
+7D75ADDA	Sigplan Notices<---Parallel discrete-event simulation of FCFS stochastic queueing networks
+5D83B26B	Wireless Personal Communications<---Associativity-Based Routing for Ad Hoc Mobile Networks
+7D578E76	Computer Communication Review<---Floor acquisition multiple access (FAMA) for packet-radio networks
+07ABBC33	Information not present<---Transparent Internet routing for IP mobile hosts
+7F3730DA	IEEE Transactions on Software Engineering<---The x-Kernel: an architecture for implementing network protocols
+7F95EABF	International Conference on Computer Communications<---Locating nodes with EASE: last encounter routing in ad hoc networks through mobility diffusion
+810FFCF4	Computer Communication Review<---An adaptive congestion control scheme for real-time packet video transport
+7B4DACA2	ACM/IEEE International Conference on Mobile Computing and Networking<---FAMA-PJ: a channel access protocol for wireless LANs
+7F658231	International Conference on Computer Communications<---Route driven gossip: probabilistic reliable multicast in ad hoc networks
+0AFF5F2B	Global Communications Conference<---On power control in high capacity cellular radio networks
+5B0FF2A5	Information not present<---Fast parallel algorithms for graph-theoretic problems: matching, coloring, and partitioning
+7CECA7A2	Ad Hoc Networks<---MORA routing and capacity building in disruption-tolerant networks
+78C97DCA	Sigmetrics Performance Evaluation Review<---Hybrid technique for simulating high bandwidth delay computer networks
+7997B003	Proceedings of the IEEE<---Issues in packet radio network design
+7CCE556D	Ad Hoc Networks<---Data MULEs: modeling and analysis of a three-tier architecture for sparse sensor networks
+8007966E	IEEE Journal on Selected Areas in Communications<---Speech Transport in Packet-Radio Networks with Mobile Nodes
+060FFD28	Information not present<---Protocols for supporting mobile IP hosts
+0579F068	ACM/IEEE International Conference on Mobile Computing and Networking<---Scalable Coordination in Sensor Networks
+808E4FB3	Global Communications Conference<---Fair and efficient transmission scheduling in multihop packet radio networks
+751D352F	Sigmetrics Performance Evaluation Review<---Characterizing user behavior and network performance in a public wireless LAN
+7ECED7FE	International Conference on Computer Communications<---A mobility model based on WLAN traces and its validation
+80962330	IEEE Transactions on Vehicular Technology<---Mobile multimedia scenario using ATM and microcellular technologies
+7FBECF52	Proceedings of The Vldb Endowment<---Output space sampling for graph patterns
+5D36933C	International Solid-State Circuits Conference<---A 1 V DSP for wireless communications
+80312712	IEEE Communications Magazine<---The cellular environment of lightweight handheld portables
+7D532387	Global Communications Conference<---A lightweight adaptive multicast algorithm
+7FF28FB1	International Conference on Computer Communications<---Dynamic connection management for call-level QOS guarantee in integrated communication networks
+07EE0080	Wireless Networks<---A new model for scheduling packet radio networks
+80F17619	Computer Communication Review<---Fair scheduling in wireless packet networks
+80F13605	International Conference on Computer Communications<---Predictability of WLAN Mobility and Its Effects on Bandwidth Provisioning
+7C171CAC	IEEE Communications Magazine<---Spread spectrum technology: a solution to the personal communications services frequency allocation dilemma
+7ED18FD2	ACM Transactions on Computer Systems<---An efficient and fault-tolerant solution for distributed mutual exclusion
+810F1EDE	IEEE Journal on Selected Areas in Communications<---The effects of on-demand behavior in routing protocols for multihop wireless ad hoc networks
+7E15F718	Information not present<---Wireless Data Network Infrastructure at Carnegie Mellon University
+7B8E0AF1	Journal of the ACM<---Optimal scheduling policies for a class of queues with customer deadlines to the beginning of service
+7D652D1D	Information not present<---A predictive mobility management algorithm for wireless mobile computing and communications
+7F3433BD	ACM/IEEE International Conference on Mobile Computing and Networking<---Analysis of TCP performance over mobile ad hoc networks
+80C23A77	Mobile Ad Hoc Networking and Computing<---On the reduction of broadcast redundancy in mobile ad hoc networks
+5D9B33AF	IEEE\/ACM Transactions on Networking<---Packet-pair flow control
+8497E32F	Information not present<---Sensor-driven computing
+78F7DDA8	Modeling Analysis and Simulation of Wireless and Mobile Systems<---Stochastic properties of the random waypoint mobility model: epoch length, direction distribution, and cell change rate
+7D75F256	Information not present<---A location management protocol for hierarchically organized multihop mobile wireless networks
+7FDB62E3	Personal, Indoor and Mobile Radio Communications<---Adaptive coding for packetized data in wireless networks
+7F420D25	International Conference on Computer Communications<---A highly adaptive distributed routing algorithm for mobile wireless networks
+046B46F7	Information not present<---Mobility models for mobile system design and dimensioning
+7CF54D2F	Information not present<---Improving End-to-End Performance of TCP over Mobile Internetworks
+7D485CD0	Journal of High Speed Networks<---The plaNET/ORBIT High Speed Network
+786F1C05	Principles of Distributed Computing<---Fast network decomposition
+80DF9666	Bell Labs Technical Journal<---Real‐time traffic over the IEEE 802.11 medium access control layer
+7F8CA97B	Global Communications Conference<---Phase transition phenomena in wireless ad hoc networks
+7D26EF7F	International Conference on Communications<---Wireless subscriber mobility management using adaptive individual location areas for PCS systems
+78D51D78	IEEE Transactions on Communications<---A Methodology for the Design and Implementation of Communication Protocols
+7F85F252	International Symposium on Computers and Communications<---Optimized smooth handoffs in Mobile IP
+7AB34F3D	Proceedings of the IEEE<---Modeling and performance analysis of multihop packet radio networks
+8120BC33	Sensor, Mesh and Ad Hoc Communications and Networks<---Single-copy routing in intermittently connected mobile networks
+7D21617F	IEEE Journal on Selected Areas in Communications<---CEDAR: a core-extraction distributed ad hoc routing algorithm
+7EE21215	Information not present<---Characterizing usage of a campus-wide wireless network
+7DAFBE56	Journal of the ACM<---How fair is fair queuing
+7E811F77	International Conference on Communications<---A testbed for mobile networked computing
+7EE29CA5	Information not present<---Poster: Probabilistic Routing in Intermittently Connected Networks
+8174232C	International Conference on Computer Communications<---A forwarding strategy to reduce network impacts of PCS
+76642C51	IEEE Network<---B-ISDN/ATM traffic and congestion control
+7C69BE20	Communications of The ACM<---Reverse path forwarding of broadcast packets
+76E79891	IEEE Transactions on Vehicular Technology<---Performance considerations of code division multiple-access systems
+7FDA5936	International Conference on Robotics and Automation<---Exploiting redundancy to implement multiobjective behavior
+7FF1C8A4	ACM Sigsim Simulation Digest<---Tolerant synchronization for distributed simulations of interconnected computer networks
+7C97EE21	IEEE Network<---RSVP: a new resource ReSerVation Protocol
+81605440	Information not present<---Accomplishments of the DARPA SURAN Program
+6B07AAFF	Journal of High Speed Networks<---QoS based routing algorithm in integrated services packet networks
+03D67A99	Information not present<---Protocols for mobile networking
+7C96FB8F	Proceedings of the IEEE<---Portable video-on-demand in wireless communication
+777E3504	Annals of Mathematical Statistics<---On the Distribution of the Number of Successes in Independent Trials
+7EB2A448	Computer Communication Review<---A comparison of mechanisms for improving TCP performance over wireless links
+7E3B3BB7	Computer Communication Review<---A mobile user location update and paging mechanism under delay constraints
+7BD73825	Sigmetrics Performance Evaluation Review<---Asymptotic behavior of global recovery in SRM
+5AEA22BB	Computer Networks and Isdn Systems<---Summary of WWW characterizations
+81AB3116	International Solid-State Circuits Conference<---A 12 mW wide dynamic range CMOS front end for a portable GPS receiver
+7FA1F54F	IEEE Transactions on Vehicular Technology<---Traffic model and performance analysis for cellular mobile radio telephone systems with prioritized and nonprioritized handoff procedures
+7E61DC5A	The Vldb Journal<---A unified approach to ranking in probabilistic databases
+7F850759	International Conference on Computer Communications<---Distributed scheduling of broadcasts in a radio network
+768C95FD	Computer Communication Review<---Log-based receiver-reliable multicast for distributed interactive simulation
+5AF77152	Information not present<---An infrared network for mobile computers
+6028108C	Information not present<---Optimum transmission radii for packet radio networks or why six is a magic number
+7D9F7B1B	Computer Communication Review<---Evaluation of TCP Vegas: emulation and experiment
+7DC07494	Cluster Computing<---GPS-free Positioning in Mobile Ad Hoc Networks
+801DB01A	International Conference on Computer Communications<---Controlling the mobility of multiple data transport ferries in a delay-tolerant network
+78F35CDB	IEEE Journal on Selected Areas in Communications<---Performance Requirements for Integrated Voice/Data Networks
+805B946B	Journal of the ACM<---Using Semi-Joins to Solve Relational Queries
+79163F3D	Computer Communication Review<---Measurement and analysis of the error characteristics of an in-building wireless network
+700181C5	International Conference on Communications<---Secure wireless Internet access in public places
+7E0B7EB3	Sensor, Mesh and Ad Hoc Communications and Networks<---DAMON: a distributed architecture for monitoring multi-hop mobile networks
+79AC3A7F	Computer Communication Review<---Cellular IP: a new approach to Internet host mobility
+7BBC3BB9	ACM Special Interest Group on Data Communication<---Issues in transnet packetized voice communication
+811C2DCA	International Symposium on Information Theory<---Even one-dimensional mobility increases ad hoc wireless capacity
+788EC516	Performance Evaluation<---Input buffer requirements for round robin polling systems
+7BF72FD1	ACM/IEEE International Conference on Mobile Computing and Networking<---The anatomy of a context-aware application
+7DA4A0E6	IEEE Transactions on Systems, Man, and Cybernetics<---Ant system: optimization by a colony of cooperating agents
+75950286	Operating Systems Review<---An analysis of internet content delivery systems
+5D69EC65	Information not present<---Multi-Access in Packet Radio Networks.
+7BE63DC7	The Vldb Journal<---Efficient query evaluation on probabilistic databases
+7D8E6BB4	Web Information Systems Engineering<---Survivable mobile wireless networks: issues, challenges, and research directions
+088162CD	Information not present<---Toward new link-layer protocols
+5B3C6522	Advances in Computers<---An Architecture and Methodology for Mobile-Executed Cell Hand-off in Wireless ATM Networks
+5C7EA0A9	Information not present<---REAL: A Network Simulator
+7F9D003D	Global Communications Conference<---Throughput performance of transport-layer protocols over wireless LANs
+808B293D	Hawaii International Conference on System Sciences<---Multipoint relaying for flooding broadcast messages in mobile wireless networks
+7C7756AC	Computer Communications<---CSMA with collision avoidance
+76E316C7	Communications of The ACM<---Ethernet: distributed packet switching for local computer networks
+752A59D0	IEEE\/ACM Transactions on Networking<---Efficient network QoS provisioning based on per node traffic shaping
+7BC6411C	Computer Communication Review<---A unified approach to loop-free routing using distance vectors or link states
+7FA26FC6	ACM/IEEE International Conference on Mobile Computing and Networking<---Rumor routing algorthim for sensor networks
+75DEF26D	Information not present<---Network flows: theory, algorithms, and applications
+778F9DED	Principles of Distributed Computing<---Fast distributed construction of k -dominating sets and applications
+77D3A516	IEEE Transactions on Communications<---Packet Switching in Radio Channels: Part I--Carrier Sense Multiple-Access Modes and Their Throughput-Delay Characteristics
+068F846E	International Test Conference<---Performance Evaluation Of Handover Protocols For Data Communication In A Wireless ATM Network
+7E467883	ACM/IEEE International Conference on Mobile Computing and Networking<---Reliable broadcast in mobile multihop packet networks
+5E8DBF45	Mobile Data Management<---A Mobility Framework for Ad Hoc Wireless Networks
+7E089DF1	Foundations of Computer Science<---Probabilistic approximation of metric spaces and its algorithmic applications
+79774121	IEEE Communications Magazine<---Microcells in personal communications systems
+7BA365F5	IEEE Transactions on Software Engineering<---A network pump
+7CF92A60	Computer Communication Review<---The revised ARPANET routing metric
+7BE7EBD8	ACM/IEEE International Conference on Mobile Computing and Networking<---A unified architecture for the design and evaluation of wireless fair queueing algorithms
+773DF369	Information not present<---DSR: the dynamic source routing protocol for multihop wireless ad hoc networks
+85B71F10	Information not present<---A new heuristic for ATM multicast routing
+03276E4B	ACM Special Interest Group on Data Communication<---Core Based Trees (CBT) An Architecture for Scalable Inter-Domain Multicast Routing
+79BDF5F3	Networks<---Steiner tree problems
+7DB353A8	Proceedings of the IEEE<---Advances in packet ratio technology
+78DD5171	Knowledge Discovery and Data Mining<---Mining closed relational graphs with connectivity constraints
+58353E9B	International Conference on Computer Communications and Networks<---The Trade-offs of Multicast Trees and Algorithms
+63DE8B6C	Information not present<---Message routing in a computer network
+07995B47	Information not present<---Statistical multiplexing comparison of one and two-layer video codecs for teleconferencing
+810AABE2	Proceedings of The Vldb Endowment<---Mining graph patterns efficiently via randomized summaries
+7FE07966	Information not present<---Wireless Communications: Principles and Practice
+796F2951	Information not present<---Machine Understanding of Human Motion
+72236240	International Conference on Computer Communications<---How bad is naive multicast routing?
+7F32744E	Winter Simulation Conference<---A hierarchical simulation environment for mobile wireless networks
+5B54797F	IEEE Transactions on Information Theory<---Distributed Control in Computer Networks and Cross-Sections of Colored Multidimensional Bodies.
+5E32DD48	Network and Operating System Support for Digital Audio and Video<---Preliminary Measurement of the RMTP/RTIP
+7BB61B16	ACM/IEEE International Conference on Mobile Computing and Networking<---WebExpress: a system for optimizing Web browsing in a wireless environment
+7A68E480	Modeling Analysis and Simulation of Wireless and Mobile Systems<---A group mobility model for ad hoc wireless networks
+0001C47C	Information not present<---Access, addressing and security in wireless packet networks
+8087D1A6	Computer Networks and Isdn Systems<---Adaptive web caching: towards a new global caching architecture
+79361219	Electronics Letters<---Time delay spread measurements at 850 MHz and 1.7 GHz inside a metropolitan office building
+7F65E553	IEEE Transactions on Communications<---Cellular packet communications
+77291F2D	Computer Communication Review<---Fast handovers and context transfers in mobile networks
+7B687FC0	IEEE Communications Magazine<---Bandwidth management and congestion control in plaNET
+79951062	Information not present<---Multicast routing in a datagram internetwork
+7DA478DE	ACM Special Interest Group on Data Communication<---Erasure-coding based routing for opportunistic networks
+7E315F64	International Conference on Computer Communications<---A loop-free path-finding algorithm: specification, verification and complexity
+7D0D991E	IEEE Journal on Selected Areas in Communications<---Scalable routing strategies for ad hoc wireless networks
+802E7BD2	Information not present<---Mining Frequent and Periodic Association Patterns
+7D8C2308	BMC Bioinformatics<---A direct comparison of protein interaction confidence assignment schemes
+6B8BE51F	Mobile Networks and Applications<---Performance study of access control in wireless LANs—IEEE 802.11 DFWMAC and ETSI RES 10 Hiperlan
+7F0B0F41	Information not present<---Extending Tcl for dynamic object-oriented programming
+5CC6A43F	Information not present<---A new architecture for packet switching network protocols
+7D44C74F	Wireless Networks<---Improving reliable transport and handoff performance in cellular wireless networks
+7F59A630	Computer Communication Review<---Parity-based loss recovery for reliable multicast transmission
+7ED719A7	Scientific American<---The Computer for the 21st Century.
+7FD29DAD	International Conference on Computer Communications<---Mobility increases the capacity of ad-hoc wireless networks
+7FCE809F	International Conference on Communications<---The performance of a new routing protocol for the reconfigurable wireless networks
+7D23DEB2	International Conference on Computer Communications and Networks<---Comparative performance evaluation of routing protocols for mobile, ad hoc networks
+8111FA98	International Conference on Communications<---PC-notebook based mobile networking: algorithms, architectures and implementation
+762C040C	IEEE Communications Magazine<---Location uncertainty in mobile networks: a theoretical framework
+7A1558E4	IEEE Transactions on Communications<---Optimum Combining for Indoor Radio Systems with Multiple Users
+7AFC6774	Information not present<---CarNet: a scalable ad hoc wireless network system
+5B0BAEEC	Information not present<---Glomosim: a scalable network simulation environment
+798D4ADB	IEEE Transactions on Information Theory<---Connectivity properties of a packet radio network model
+78884276	Information not present<---Speech transmission in packet-switched store-and-forward networks
+043ECCAC	Information not present<---Ad hoc networking with mobile IP
+80A4C94F	IEEE Journal on Selected Areas in Communications<---Equivalent capacity and its application to bandwidth allocation in high-speed networks
+81778692	Information not present<---Scout: a communications-oriented operating system
+7D150490	International Conference on Computer Communications<---Load-balancing routing for wireless access networks
+81CB224F	IEEE\/ACM Transactions on Networking<---Effective bandwidth of general Markovian traffic sources and admission control of high speed networks
+849E0793	Computer Networks and Isdn Systems<---The ARPA Network Design Decisions
+81335EFA	ACM/IEEE International Conference on Mobile Computing and Networking<---Towards realistic mobility models for mobile ad hoc networks
+80397A94	IEEE Transactions on Communications<---Routing to Multiple Destinations in Computer Networks
+80D539EE	IEEE Personal Communications<---Performance comparison of two on-demand routing protocols for ad hoc networks
+7E65E901	Global Communications Conference<---QoS routing mechanisms and OSPF extensions
+7C6A2B0E	IEEE Transactions on Vehicular Technology<---Distributed cochannel interference control in cellular radio systems
+79CDE334	Information not present<---The Internet Mobile Host Protocol (IMHP)
+7E83132D	International Conference on Network Protocols<---QoS based routing algorithm in integrated services packet networks
+5EF94BA1	Broadband Communications, Networks and Systems<---Sociological orbit aware location approximation and routing in MANET
+7DD681B5	International Conference on Computer Communications<---Distributed control algorithms for service differentiation in wireless packet networks
+75C463D0	ACM/IEEE International Conference on Mobile Computing and Networking<---The changing usage of a mature campus-wide wireless network
+0C64DA1B	Conference on Information Sciences and Systems<---A biased greedy algorithm for scheduling multi-hop radio networks
+7AF89DB9	Communications of The ACM<---Tracking requirements for augmented reality
+8114B4BD	IEEE\/ACM Transactions on Networking<---Local anchor scheme for reducing signaling costs in personal communications networks
+7EB787AE	ACM Special Interest Group on Data Communication<---Spray and wait: an efficient routing scheme for intermittently connected mobile networks
+7B9F8304	IEEE Network<---Wireless in-building network architecture and protocols
+7E21C4DF	IEEE Journal on Selected Areas in Communications<---A scheme for real-time channel establishment in wide-area networks
+802E5369	IEEE Transactions on Communications<---The New Routing Algorithm for the ARPANET
+78256D82	IEEE Network<---Medium access control of wireless LANs for mobile computing
+5C69E65D	Canadian Conference on Computational Geometry<---Compass routing on geometric networks
+8079E235	IEEE Transactions on Communications<---Topology control for multihop packet radio networks
+7FAF4B6D	International Conference on Communications<---The use of SS7 and GSM to support high density personal communications
+799B6A3E	IEEE Personal Communications<---Signal stability-based adaptive routing (SSA) for ad hoc mobile networks
+7AD2C342	ACM Sigda Newsletter<---The equivalence of theorem proving and the interconnection problem
+04BF2C78	Wireless Networks<---On optimal call admission control in cellular networks
+7E0526D0	IEEE\/ACM Transactions on Networking<---Reducing location update cost in a PCS network
+76CCF428	IEEE Transactions on Software Engineering<---Checkpointing and Rollback-Recovery for Distributed Systems
+79F00C76	ACM/IEEE International Conference on Mobile Computing and Networking<---Multicast operation of the ad-hoc on-demand distance vector routing protocol
+7C64BAE4	Wireless Networks<---Multicluster, mobile, multimedia radio network
+792DDBC3	IEEE Personal Communications<---Network management and control issues in multimedia wireless networks
+7756AF9F	Mobile Computing and Communications Review<---Access and mobility of wireless PDA users
+7CC7621C	ACM/IEEE International Conference on Mobile Computing and Networking<---Adaptive network support for mobile multimedia
+7BCD0DC1	ACM/IEEE International Conference on Mobile Computing and Networking<---Query localization techniques for on-demand routing protocols in ad hoc networks
+7CBFF5B4	IEEE Transactions on Communications<---Future Communications Concepts in Support of U.S. Army Command and Control
+80E6104F	International Symposium on Circuits and Systems<---Distributed network protocols for wireless communication
+7D55C4B2	Information not present<---Handling mobile clients: a case for indirect interaction
+788578BD	Sigmetrics Performance Evaluation Review<---Web server workload characterization: the search for invariants
+5DA8EA95	Location- and Context-Awareness<---Classifying the Mobility of Users and the Popularity of Access Points
+7E5C8F0D	ACM Transactions on Database Systems<---Out-of-core coherent closed quasi-clique mining from large dense graph databases
+7CB297B3	IEEE Communications Magazine<---Standards for metropolitan area networks
+7EFD8042	Information not present<---Ubiquitous mobile host internetworking
+5E096862	Information not present<---Home agent based location update and destination search schemes in ad hoc wireless networks
+78447291	Mobile Ad Hoc Networking and Computing<---PATHS: analysis of PATH duration statistics and their impact on reactive MANET routing protocols
+7FB5B4F9	Networks<---Fast Inter-Ap Handoff Using Predictive Authentication Scheme in a Public Wireless LAN
+796F2F28	Algorithmica<---Distributed Match-Making
+798A45FA	Discrete Mathematics<---Permutation graphs: connected domination and Steiner trees
+816D8B59	ACM Sigsim Simulation Digest<---Time management in the DoD high level architecture
+756FC5DF	Knowledge Discovery and Data Mining<---A quickstart in frequent structure mining can make a difference
+7DCD7D0B	IEEE Communications Magazine<---Propagation measurements and models for wireless communications channels
+7EB71912	International Conference on Communications<---How to establish and utilize virtual paths in ATM networks
+7F2AF16F	International Conference on Computer Communications<---Random waypoint considered harmful
+7F2F1DA7	IEEE Personal Communications<---A review of current routing protocols for ad hoc mobile wireless networks
+088FCC4B	Information not present<---An Architecture for Transport Layer Transparent Support for Mobility
+80CF2B42	IEEE Journal on Selected Areas in Communications<---The viewserver hierarchy for interdomain routing: protocols and evaluation
+807CC01C	International Conference on Computer Communications<---How to model an internetwork
+7B309A4D	Sigmetrics Performance Evaluation Review<---Self-similarity in World Wide Web traffic: evidence and possible causes
+7C74400B	Computer Communication Review<---Reliability and scaling issues in multicast communication
+05937FCB	Information not present<---Spectral efficiency considerations for packet radio
+7FDAF8D8	International Conference on Computer Communications<---FLOWS: performance guarantees in best effort delivery systems
+7BD22AEC	ACM Transactions on Programming Languages and Systems<---A Distributed Algorithm for Minimum-Weight Spanning Trees
+7DE3E392	ACM Sigsim Simulation Digest<---Parallel simulation of a high-speed wormhole routing network
+79C08E7C	International Conference on Computer Communications<---User-friendly access control for public network ports
+7FC08458	Information not present<---The UMASS intelligent home project
+7A8C76B8	IEEE Transactions on Antennas and Propagation<---Distributions of multipath delay spread and average excess delay for 910-MHz urban mobile radio paths
+60FEAD84	Information not present<---Network time protocol (version 3), specification, implementation and analysis
+69A5A9DB	Information not present<---The measured access characteristics of world-wide-web client proxy caches
+75E5D1DA	Mobile Computing and Communications Review<---Towards a model of user mobility and registration patterns
+6CCA5533	Information not present<---A model for teletraffic performance and channel holding time characterization in wireless cellular communication
+756DD399	Computer Communication Review<---TCP and explicit congestion notification
+593F9777	Information not present<---On a Coverage Process Ranging from the Boolean Model to the Poisson Voronoi Tessellation
+77A2543B	Journal of Algorithms<---Fault tolerant distributed majority commitment
+7DB85858	International Conference on Communications<---On distributed power control for radio networks
+5BDF669C	Computer Communication Review<---Transient and steady-state performance of rout-ing protocols: Distance-vector versus link-state
+78189B12	IEEE Transactions on Mobile Computing<---Dynamic source routing in ad hoc wire-less networks
+09536B1E	Information not present<---Clock Synchronization in the Presence of Omission and Performance Faults, and Processor Joins
+7BFB6202	Acta Informatica<---The Virtual Feedback Problem in Hierarchical Representations of Combinational Circuits
+7E3BEA04	International Conference on Distributed Computing Systems<---Coterie templates: a new quorum construction method
+778BE6CB	Operating Systems Review<---A response to Cheriton and Skeen's criticism of causal and totally ordered communication
+7FBFB253	ACM Sigsim Simulation Digest<---Using agents for simulating and implementing Petri nets
+7DF83C78	International Conference on Communications<---Can I add a VoIP call?
+788592CE	Computer Communication Review<---The importance of non-data touching processing overheads in TCP/IP
+7E89D572	IEEE Transactions on Information Theory<---Compression of individual sequences via variable-rate coding
+815D0B40	International Conference on Communications<---On finding multi-constrained paths
+5BFF0421	IEEE Transactions on Information Theory<---Capacity of fading channel with channel side information
+8165DF79	IEEE Transactions on Communications<---Output Processes in Contention Packet Broadcasting Systems
+7E74BB61	IEEE Personal Communications<---Seamless access to multiple wireless data networks. A wireless data network infrastructure at Carnegie Mellon University
+0C529733	National Conference on Artificial Intelligence<---Learning and inferring transportation routines
+7903A2BA	Wireless Networks<---A preservation-based multicast (RBM) routing protocol for mobile networks: initial route construction phase
+7D21FB59	International Conference on Computer Communications<---Multicast routing with end-to-end delay and delay variation constraints
+5C9F2F4F	Information not present<---Experiences Designing and Building a Multi-Hop Wireless Ad Hoc Network Testbed
+7E85E12A	Proceedings of the IEEE<---Universal digital portable radio communications
+59B1B52E	Information not present<---Spatial Reuse through Dynamic Power and Routing Control in Common-Channel Random-Access Packet Radio Networks
+7CC75938	IEEE Journal on Selected Areas in Communications<---ATM-based transport architecture for multiservices wireless personal communication networks
+80827D3D	Information not present<---A Network Emulator to Support the Development of Adaptive Applications
+5FCECED5	Information not present<---Hierarchical routing for large networks
+5A8783C5	Wireless Networks<---On optimizing the location update costs in the presence of database failures
+5AD0FA59	Proceedings of the IEEE<---Advances in Packet Radio Technology
+7E51E7AC	IEEE\/ACM Transactions on Networking<---Efficient routing of information between interconnected cellular mobile switching centers
+7CB069E2	ACM/IEEE International Conference on Mobile Computing and Networking<---Adaptive protocols for information dissemination in wireless sensor networks
+7AB70BF0	Information not present<---A Distributed Evolutionary Algorithm for Reorganizing Network Communications
+7F67480C	World of Wireless, Mobile and Multimedia Networks<---Adaptive routing for intermittently connected mobile ad hoc networks
+77BBC346	ACM/IEEE International Conference on Mobile Computing and Networking<---Improving TCP/IP performance over wireless networks
+5C7EFA85	Hawaii International Conference on System Sciences<---GPS-free positioning in mobile ad-hoc networks
+8123F48B	IEEE\/ACM Transactions on Networking<---Ad Hoc mobility management with uniform quorum systems
+76A1C38F	IEEE Journal on Selected Areas in Communications<---A parameterizable methodology for Internet traffic flow profiling
+7909B65D	IEEE Communications Magazine<---Broadband CDMA for personal communications systems
+815A83FB	Vehicular Technology Conference<---Variable-rate sub-band speech coding and matched channel coding for mobile radio channels
+80267D32	Global Communications Conference<---QoS path management with RSVP
+7FF4CE22	Information not present<---Kerberos: An authentication service for open network systems
+7A53907E	Knowledge Discovery and Data Mining<---Frequent pattern mining with uncertain data
+807750AF	IEEE Transactions on Information Theory<---A calculus for network delay. I. Network elements in isolation
+810E46A3	IEEE Spectrum<---Designing a positioning system for finding things and people indoors
+765C487E	IEEE Journal on Selected Areas in Communications<---Diversity selection using coding in a portable radio communications channel with frequency-selective fading
+7D0BED89	IEEE Transactions on Vehicular Technology<---Performance of PRMA: a packet voice protocol for cellular systems
+038015A7	Information not present<---A new ip routing and addressing architecture
+5EC3C472	Vehicular Technology Conference<---Geographic messaging in wireless ad hoc networks
+7C3860B0	Communications of The ACM<---Some computer science issues in ubiquitous computing
+7B485746	ACM/IEEE International Conference on Mobile Computing and Networking<---Mobile wireless network system simulation
+0739891F	International Conference on Distributed Computing Systems<---Distributed Global Event Synchronization in a Fiber Optic Hypergraph Network
+7BB27649	World of Wireless, Mobile and Multimedia Networks<---A fast handoff scheme for wireless networks
+7EE1EA26	Ad Hoc Networks<---Sociological orbit aware location approximation and routing (SOLAR) in MANET
+75E3DBFD	Information not present<---An Architecture for Differentiated Service
+788A1FDA	Mobile Ad Hoc Networking and Computing<---Comparison of broadcasting techniques for mobile ad hoc networks
+80CA5187	International Conference on Computer Communications<---IMPORTANT: a framework to systematically analyze the Impact of Mobility on Performance of Routing Protocols for Adhoc Networks
+7BFA315B	ACM Transactions on Computer Systems<---Multicast routing in datagram internetworks and extended LANs
+7DFD4056	International Conference on Computer Communications<---Congestion-free transmission of real-time traffic in packet networks
+7A669DBD	IEEE Personal Communications<---Wireless personal communications: what is it?
+75FE4F85	IEEE Personal Communications<---adaptive mobile multimedia networks
+7C09EBE5	ACM/IEEE International Conference on Mobile Computing and Networking<---A new multicasting-based architecture for Internet host mobility
+80D0A54B	IEEE Transactions on Communications<---Fair Algorithms for Maximal Link Activation in Multihop Radio Networks
+0BEE9FDB	IEEE Transactions on Communications<---Another adaptive shortest-path algorithm
+7EC30826	IEEE Communications Magazine<---Teletraffic modeling for personal communications services
+7F079ED5	IEEE Transactions on Communications<---Transmission Range Control in Multihop Packet Radio Networks
+7C655311	Computer Networks<---Mobility-based predictive call admission control and bandwidth reservation in wireless cellular networks
+80D4CCEA	IEEE Transactions on Communications<---Critical connectivity phenomena in multihop radio models
+788BDFAC	International Symposium on Low Power Electronics and Design<---Minimizing power dissipation of cellular phones
+0223DFA2	Information not present<---Distributed Algorithms for Multihop Packet Radio Networks
+7E89CE00	Operating Systems Review<---Exokernel: an operating system architecture for application-level resource management
+074665C3	Information not present<---Evaluation of the ad-hoc connectivity with the reconfigurable wireless networks
+7ED5ED5E	ACM/IEEE International Conference on Mobile Computing and Networking<---Wireless sensor networks for habitat monitoring
+7C77F3CA	Computer Communication Review<---IP-based protocols for mobile internetworking
+79E4A7FC	ACM/IEEE International Conference on Mobile Computing and Networking<---Next century challenges: scalable coordination in sensor networks
+7FA783BB	Computer Communication Review<---A stop-and-go queueing framework for congestion management
+7FA3A5BF	Computer Communication Review<---A channel access scheme for large dense packet radio networks
+5AE0773B	Information not present<---Voice communication across the Internet: a network voice terminal
+814B504E	Information not present<---Dynamic host configuration protocol
+5FFAE87B	Information not present<---The GSM System for Mobile Communications
+78726FD4	Symposium on the Theory of Computing<---Consistent hashing and random trees: distributed caching protocols for relieving hot spots on the World Wide Web
+05984327	Information not present<---Mobile Information Access

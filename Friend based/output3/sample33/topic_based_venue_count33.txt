@@ -1,0 +1,3227 @@
+"Information not present"	3426.85324691
+ and Signal Processing"	393.71400741
+"International Symposium on Neural Networks"	231.077789667
+"Computer Vision and Pattern Recognition"	114.356950957
+"International Geoscience and Remote Sensing Symposium"	112.806198665
+ Man and Cybernetics"	109.871578016
+"Expert Systems With Applications"	108.740868302
+"International Conference on Machine Learning and Cybernetics"	81.5179204941
+"International Conference on Data Mining"	76.6407964793
+ and Cybernetics"	72.2198593417
+"International Conference on Pattern Recognition"	70.2431963782
+"International Conference of the IEEE Engineering in Medicine and Biology Society"	55.144031441
+"IEEE Transactions on Neural Networks"	51.0144607538
+"Knowledge Discovery and Data Mining"	50.2336698643
+"IEEE Transactions on Pattern Analysis and Machine Intelligence"	49.8184932201
+"Fuzzy Systems and Knowledge Discovery"	48.0924412406
+"IEEE Transactions on Knowledge and Data Engineering"	47.8307278906
+"Congress on Evolutionary Computation"	47.5340871222
+"International Conference on Machine Learning"	44.2663595642
+"Machine Learning"	38.5412300743
+"International Conference on Image Processing"	36.893630199
+"International Conference on Machine Learning and Applications"	36.3646956109
+"Clinical Orthopaedics and Related Research"	34.303920379
+"Applied Mechanics and Materials"	32.8837115695
+"International Conference on Multimedia and Expo"	32.7690490524
+"Conference of the International Speech Communication Association"	31.0149592097
+"International Conference on Document Analysis and Recognition"	30.5971284611
+"PLOS ONE"	29.6376221687
+"International Joint Conference on Artificial Intelligence"	29.2380685391
+"IEEE Transactions on Power Systems"	27.9999581242
+"Computational Intelligence"	27.8328824742
+"Remote Sensing of Environment"	27.8224867276
+"International Conference on Computer Vision"	27.3665843014
+"IEEE Transactions on Geoscience and Remote Sensing"	26.9641521126
+"Advanced Materials Research"	26.7963544403
+"IEEE Transactions on Speech and Audio Processing"	25.0575459658
+"IEEE Transactions on Signal Processing"	24.7466542716
+"Pattern Recognition"	24.6558505631
+ and Language Processing"	24.4158478391
+"Intelligent Data Analysis"	23.8380944534
+"International Journal of Remote Sensing"	23.8288331249
+"World Congress on Computational Intelligence"	23.6153606029
+"International Conference on Communications"	23.5094783444
+"Intelligent RObots and Systems"	23.4801983202
+"European Conference on Principles of Data Mining and Knowledge Discovery"	23.1974517354
+"National Conference on Artificial Intelligence"	23.171622923
+"Foundations of Computer Science"	22.5035125351
+"IEEE Transactions on Applications and Industry"	22.3865625474
+"BMC Bioinformatics"	22.2918776333
+"Soft Computing"	21.9594286808
+"International Conference on Robotics and Automation"	21.8079745903
+"International Conference on Tools with Artificial Intelligence"	21.5788342374
+"International Symposium on Circuits and Systems"	21.4837691784
+"Granular Computing"	19.9118900436
+"Information Sciences"	19.6691156782
+"Pacific-Asia Conference on Knowledge Discovery and Data Mining"	19.5829158986
+"Fundamenta Informaticae"	19.5327565556
+"Computer-Based Medical Systems"	19.5291518262
+"Knowledge Based Systems"	19.4335517594
+"International Conference on Intelligent Computing"	18.2212884459
+"Australian Joint Conference on Artificial Intelligence"	18.1979700907
+"European Journal of Operational Research"	17.4816429674
+"Conference on Computational Complexity"	17.3412980756
+"IEEE Transactions on Computers"	17.1921210638
+"IEEE Transactions on Fuzzy Systems"	16.7085862491
+"Discovery Science"	16.5994072432
+"Symposium on the Theory of Computing"	16.3145412458
+"Computer and Information Technology"	16.2585516912
+"Intelligent Data Engineering and Automated Learning"	16.2126679378
+"IEEE Transactions on Image Processing"	16.078877997
+"Ecological Modelling"	16.0384832373
+"Pattern Recognition Letters"	15.8786629972
+"Intelligent Systems Design and Applications"	15.8380192263
+"IEEE Transactions on Information Theory"	15.8094137891
+"Computational Statistics & Data Analysis"	15.6444930919
+"Computational Learning Theory"	15.5602759311
+"Computational Intelligence and Security"	15.2971650811
+"Ieice Transactions"	15.1118909791
+"International Conference on Neural Information Processing"	14.4944474708
+"Journal of Machine Learning Research"	14.1290247259
+"Decision Support Systems"	14.0729594039
+"Transportation Research Record"	14.0052505899
+"Computational Intelligence and Data Mining"	13.9865987822
+"Bioinformatics"	13.9845575806
+"Industrial and Engineering Applications of Artificial Intelligence and Expert Systems"	13.8237910354
+"Speech Communication"	13.7956828407
+"International Conference on Software Engineering"	13.6031294072
+"Applied Soft Computing"	13.3699039816
+"IEEE Transactions on Information Technology in Biomedicine"	13.1971895714
+"International Conference on Data Engineering"	13.0834091344
+"International Symposium on Biomedical Imaging"	13.0511268291
+"PharmacoEconomics"	13.0463303201
+"Computational Intelligence in Bioinformatics and Computational Biology"	12.9867257445
+"Artificial Intelligence in Medicine"	12.8963245219
+"Conference on Decision and Control"	12.8846973238
+"Bioinformatics and Biomedicine"	12.8708071834
+"The Florida AI Research Society"	12.7957548093
+"Genetic and Evolutionary Computation Conference"	12.7351866704
+"Canadian Conference on Electrical and Computer Engineering"	12.3934506078
+"IEEE Signal Processing Letters"	12.1826882063
+"IEEE Transactions on Instrumentation and Measurement"	12.1680196898
+"Advanced Information Networking and Applications"	11.8229209564
+"Information Processing Letters"	11.7881234512
+"IEEE Transactions on Power Delivery"	11.711944047
+"Engineering Applications of Artificial Intelligence"	11.655364593
+"Theoretical Computer Science"	11.6245575318
+"Mexican International Conference on Artificial Intelligence"	11.1892493662
+"Hawaii International Conference on System Sciences"	11.1541549364
+"SIAM Journal on Computing"	11.1327567789
+"Federated Conference on Computer Science and Information Systems"	10.9459924517
+"International Conference on Bioinformatics and Biomedical Engineering"	10.9314818207
+"Proceedings of SPIE"	10.7478069872
+"Journal of Medical Systems"	10.7050794782
+"International Syposium on Methodologies for Intelligent Systems"	10.6908299406
+"Information Reuse and Integration"	10.5645068388
+"Lecture Notes in Computer Science"	10.3330638014
+"Procedia Computer Science"	10.2496060784
+"Fuzzy Sets and Systems"	10.245585568
+"International Journal of Pattern Recognition and Artificial Intelligence"	10.1229827553
+"Data Mining and Knowledge Discovery"	9.9702043809
+"International Symposium on Multiple-Valued Logic"	9.87858274442
+"Remote Sensing"	9.83825601888
+"Meeting of the Association for Computational Linguistics"	9.8187899375
+"International Symposium on Information Theory"	9.76275786908
+"Global Communications Conference"	9.71978480048
+"Bioinformatics and Bioengineering"	9.71656040308
+"Intelligent Information Systems"	9.70591489529
+"Canadian Conference on Artificial Intelligence"	9.64671657047
+"Neural Information Processing Systems"	9.59626426814
+"IEEE Transactions on Reliability"	9.54545455951
+"Conference on Information and Knowledge Management"	9.47488041089
+"International Conference on Pervasive Computing"	9.45920812352
+"European Conference on Artificial Intelligence"	9.40899689452
+"SIAM International Conference on Data Mining"	9.27389335588
+"IEEE Geoscience and Remote Sensing Letters"	9.19657048669
+"Decision Analysis"	9.04104440698
+"Vehicular Technology Conference"	9.02992220665
+"IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing"	8.99039778619
+ Signal Processing and their Applications"	8.86749097033
+"Value in Health"	8.80967264338
+"Computers in Biology and Medicine"	8.78264099388
+"International Journal on Artificial Intelligence Tools"	8.77131553962
+"Advanced Data Mining and Applications"	8.71326399295
+"Artificial Intelligence"	8.69195068684
+"Management Science"	8.68412631545
+"BioMedical Engineering and Informatics"	8.6758762264
+"International Conference on Bioinformatics"	8.66532217646
+"Intelligence and Security Informatics"	8.61100906369
+"Geoderma"	8.58904868225
+"IEEE Transactions on Biomedical Engineering"	8.57115778159
+"IEEE Transactions on Aerospace and Electronic Systems"	8.5212303859
+"Soft Computing and Pattern Recognition"	8.51135423632
+"American Control Conference"	8.48043354988
+"International Conference on Computational Science and Its Applications"	8.28160333578
+"Data Warehousing and Knowledge Discovery"	8.18611546252
+ Information and Control"	8.12957259701
+"International Journal of Approximate Reasoning"	8.01585807711
+"Computers and Electronics in Agriculture"	7.93171979562
+"International Conference on Artificial Intelligence and Soft Computing"	7.89356533902
+"Applied Intelligence"	7.88039413328
+ Networking and Parallel/Distributed Computing"	7.86715479516
+"Machine Learning and Data Mining in Pattern Recognition"	7.71486993775
+"Information & Computation"	7.60887378689
+"Wirtschaftsinformatik \/ Angewandte Informatik"	7.54729845661
+"International Conference on Computer Communications"	7.53900871149
+"Computational Science and Engineering"	7.53784313765
+"International Journal of Production Research"	7.37810925435
+"Computer Software and Applications Conference"	7.36202948044
+"Information Technology Interfaces"	7.35875616612
+ and Test in Europe"	7.14551723467
+"Rough Sets and Knowledge Technology"	7.11197272499
+"BMC Medical Informatics and Decision Making"	7.09974531999
+"Electronic Colloquium on Computational Complexity"	7.07016895142
+"IEEE Transactions on Medical Imaging"	6.99865774933
+"International Conference on Control and Automation"	6.93229757896
+"Intelligent Information Technology Application"	6.8958207357
+"International Conference on Conceptual Structures"	6.86752564569
+"International Conference on E-Business and E-Government"	6.82601067745
+"Database and Expert Systems Applications"	6.8025347503
+ Codes and Cryptography"	6.78988507884
+"IEEE/ACM Transactions on Computational Biology and Bioinformatics"	6.77638081055
+"European Conference on Symbolic and Quantitative Approaches to Reasoning and Uncertainty"	6.76158464221
+"International Conference on Telecommunications"	6.74132877044
+"Computational Complexity"	6.64694437371
+"Journal of Biomedical Informatics"	6.55290733627
+"Gastroenterology"	6.54734634728
+"Digital Image Computing: Techniques and Applications"	6.53938752605
+"Pacific Rim International Conference on Artificial Intelligence"	6.50705956334
+"Advances in Computing and Communications"	6.41372734409
+"Informs Journal on Computing"	6.39892891831
+"International Joint Conference on Neural Network"	6.37421430872
+"Sigplan Notices"	6.35644030176
+"Journal of Artificial Intelligence Research"	6.35105646532
+"Sar and Qsar in Environmental Research"	6.33422670956
+"IEEE Transactions on Circuits and Systems for Video Technology"	6.30006828654
+"Knowledge and Information Systems"	6.2774381392
+"IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems"	6.26340766061
+"International Symposium on Chinese Spoken Language Processing"	6.2352941569
+"Information Systems Management"	6.22614880354
+"Pattern Analysis and Applications"	6.2097523277
+"Computer Speech & Language"	6.1878649437
+"Artificial Intelligence and Computational Intelligence"	6.14352293815
+"IEEE Transactions on Multimedia"	6.11723536054
+"North American Chapter of the Association for Computational Linguistics"	6.07210703512
+"The International Journal of Advanced Manufacturing Technology"	6.04506915538
+"International Conference on Biometrics"	5.92817416108
+"BMC Health Services Research"	5.89104256414
+"Journal of Computer and System Sciences"	5.87944176925
+"International Conference on Model Transformation"	5.87864746064
+"Proceedings of the IEEE"	5.7881351197
+"Neurocomputing"	5.77786935407
+"International Journal of Applied Earth Observation and Geoinformation"	5.77057914448
+"High Performance Computing"	5.76860859048
+"Medical Decision Making"	5.76763858827
+"Omega-international Journal of Management Science"	5.7554646164
+"Nuclear Instruments & Methods in Physics Research Section A-accelerators Spectrometers Detectors and Associated Equipment"	5.69646117441
+"Artificial Intelligence in Medicine in Europe"	5.68588175957
+"BMJ"	5.68159417958
+"Studia Informatica Universalis"	5.62009401052
+"European Conference on Genetic Programming"	5.61263343469
+"International Conference on Systems"	5.59617161773
+"International Journal of Geographical Information Science"	5.56711639771
+"IEEE Transactions on Evolutionary Computation"	5.52923662702
+"International Conference on Computational Linguistics"	5.52052663636
+"Electronic Markets"	5.42917171904
+"Geocarto International"	5.42812831679
+"IEEE Intelligent Systems"	5.41831189974
+"Chemometrics and Intelligent Laboratory Systems"	5.41783482714
+"International Conference on Digital Information Management"	5.41624938913
+"Nature and Biologically Inspired Computing"	5.40080591036
+"Information Systems"	5.3802106128
+"Computer Methods and Programs in Biomedicine"	5.37277169534
+"Journal of the ACM"	5.32051222257
+"Journal of the Acoustical Society of America"	5.2964462373
+"Isprs Journal of Photogrammetry and Remote Sensing"	5.27785787059
+"Computer Science and Software Engineering"	5.26676146715
+"IEEE Transactions on Intelligent Transportation Systems"	5.25751651457
+"Emerging Technologies and Factory Automation"	5.21847899154
+"Nurse Leader"	5.20466393134
+"Expert Systems"	5.1930505436
+"Hellenic Conference on Artificial Intelligence"	5.17481851922
+"International Journal of Radiation Oncology Biology Physics"	5.16798089412
+"Informatica (lithuanian Academy of Sciences)"	5.15876391062
+"Systems and Computers in Japan"	5.11528646508
+"International Conference on Advanced Learning Technologies"	5.09749384048
+"Future Generation Computer Systems"	5.07576468946
+"Algorithmic Learning Theory"	5.06293625356
+"Journal of Information Science and Engineering"	5.05241540041
+"Canadian Conference on Computer and Robot Vision"	5.03191678692
+"Computational Sciences and Optimization"	5.00585217142
+"International Conference on Artificial Neural Networks"	5.00343567808
+"International Journal of Data Warehousing and Mining"	4.98270524119
+"International Conference on Information and Communication Security"	4.9716216885
+"Iet Generation Transmission & Distribution"	4.95680587244
+"Reliability Engineering & System Safety"	4.94354157692
+"Neural Networks"	4.94004689755
+"ACS/IEEE International Conference on Computer Systems and Applications"	4.93377857816
+"International Journal of Electrical Power & Energy Systems"	4.92302761658
+"Transactions of The Japanese Society for Artificial Intelligence"	4.9202728984
+"Environmental Management"	4.91017439106
+"Australasian Data Mining Conference"	4.87883153747
+"IEEE Transactions on Dielectrics and Electrical Insulation"	4.87742715628
+"Sensors"	4.87056670732
+"Computers & Industrial Engineering"	4.85919130969
+"Information Fusion"	4.83487907789
+"Risk Analysis"	4.81828092322
+"Advances in Social Networks Analysis and Mining"	4.79930479904
+"Electronics Letters"	4.78103884542
+"Journal of Computer Applications"	4.76142723018
+"International Semantic Web Conference"	4.75770010083
+"The Vldb Journal"	4.74452015966
+"Mobile Adhoc and Sensor Systems"	4.71257401174
+"Statistics in Medicine"	4.68971868026
+"Inductive Logic Programming"	4.68708791939
+"Design Automation Conference"	4.67207071301
+"International Journal of Systems Science"	4.63370843141
+"Journal of Software"	4.63158899632
+"Vaccine"	4.63058226082
+"Journal of Computer Science"	4.61620112857
+"International Conference on Hybrid Information Technology"	4.61049029153
+"Robot and Human Interactive Communication"	4.59058911767
+"IEEE Transactions on Neural Systems and Rehabilitation Engineering"	4.55453879454
+"Journal of the Operational Research Society"	4.48640926068
+"IEEE Internet Computing"	4.4768526381
+"International Conference on Computer Design"	4.46849527787
+ Control and Automation"	4.46452072509
+"Journal of Advanced Computational Intelligence and Intelligent Informatics"	4.46096736927
+"Journal of Intelligent Information Systems"	4.45961138729
+"American Journal of Obstetrics and Gynecology"	4.44982888668
+"Data and Knowledge Engineering"	4.39716343705
+"IEEE Transactions on Consumer Electronics"	4.37859443797
+"International Conference on Information Technology: New Generations"	4.34826336197
+"Document Analysis Systems"	4.32214700423
+"Computational Intelligence and Games"	4.31650089329
+"The Kips Transactions:partb"	4.30792678717
+"Journal of Computers"	4.26249502602
+"IEEE Transactions on Nuclear Science"	4.25535302165
+"Neural Computation"	4.25343804344
+"International Conference on Computational Collective Intelligence"	4.23754541865
+"Web-Age Information Management"	4.21196226888
+"Winter Simulation Conference"	4.16694525733
+"Journal of General Internal Medicine"	4.16559394309
+"International Conference on Genetic and Evolutionary Computing"	4.15359648152
+"Indian International Conference on Artificial Intelligence"	4.11668195021
+"Forest Ecology and Management"	4.10189660245
+"Procedia - Social and Behavioral Sciences"	4.08958196054
+"Computers & Operations Research"	4.05143378227
+"Analytica Chimica Acta"	4.04166688335
+"Journal of Computational and Graphical Statistics"	4.0048039923
+"Spoken Language Technology Workshop"	4.00342856218
+"Mechanical Systems and Signal Processing"	4.00183687455
+"IEEE Latin America Transactions"	3.98633160821
+"IEEE Transactions on Energy Conversion"	3.95937405518
+"Symposium on Discrete Algorithms"	3.93609479145
+"International Journal of Advanced Computer Science and Applications"	3.93267184865
+"Artificial Intelligence Review"	3.90741416322
+"Networked Computing and Advanced Information Management"	3.89817459161
+"International ACM SIGIR Conference on Research and Development in Information Retrieval"	3.88455764008
+"Annals of the Rheumatic Diseases"	3.87819273141
+"Workshop on Applications of Computer Vision"	3.864106679
+"Journal of Electronic Imaging"	3.84630150393
+"Applied Artificial Intelligence"	3.84549726068
+"IEEE Transactions on Semiconductor Manufacturing"	3.84032391746
+"BMC Genomics"	3.82245515867
+"IEEE Transactions on Communications"	3.81657566834
+"IEEE Transactions on Software Engineering"	3.78893714809
+"Regulatory Toxicology and Pharmacology"	3.75378904881
+"Electric Power Systems Research"	3.74486757456
+"Theory and Decision"	3.72988936989
+"Sigkdd Explorations"	3.72853649822
+"Computer Science and Information Engineering"	3.72656380942
+"World Wide Web"	3.71424921639
+"International Journal of Neural Systems"	3.69034595696
+ Languages and Programming"	3.68700998076
+"International Conference on Enterprise Information Systems"	3.68206938759
+"International Symposium on Software Reliability Engineering"	3.65828505985
+"Water Resources Research"	3.63652144813
+"Journal of Chemical Information and Modeling"	3.62114585838
+"Robot Soccer World Cup"	3.60501499272
+"Content-Based Multimedia Indexing"	3.58177379169
+"Information & Software Technology"	3.5682651594
+"Grid Computing"	3.56077000876
+ Speech and Dialogue"	3.54848995911
+"International Conference on Automation and Logistics"	3.53649110149
+"International Conference on Computer Aided Design"	3.53555205487
+"Computer Systems: Science & Engineering"	3.53410790433
+"International Journal of Human-computer Studies \/ International Journal of Man-machine Studies"	3.52859118395
+"Automated Software Engineering"	3.5177825633
+"PLOS Computational Biology"	3.50956825582
+"Active Media Technology"	3.50948753793
+"Journal of Clinical Epidemiology"	3.49849411531
+"IEEE Transactions on Engineering Management"	3.49112318237
+"Algorithmica"	3.48836203149
+"Annals of Operations Research"	3.48551418683
+"Procedia Engineering"	3.47777042402
+"Asia Pacific Conference on Circuits and Systems"	3.47662582516
+"Transactions on Rough Sets"	3.47528443778
+"The Astrophysical Journal"	3.4708244281
+"International Journal of Computer Applications"	3.44322771144
+"International Journal of Intelligent Systems"	3.43989592583
+"Methods of Information in Medicine"	3.43881604507
+"Asian Conference on Intelligent Information and Database Systems"	3.43625115956
+"Atmospheric Environment"	3.43070593152
+"Interfaces"	3.42341344998
+"International Conference on Multimedia Computing and Systems"	3.42190310074
+"Brazilian Symposium on Neural Networks"	3.42035519595
+"Proceedings of the National Academy of Sciences of the United States of America"	3.41517718987
+"IEEE Transactions on Industrial Electronics"	3.40436312805
+"Conference on Information Sciences and Systems"	3.40383886674
+"Pattern Recognition and Machine Intelligence"	3.38007576088
+"Iie Transactions"	3.3736580048
+"Fisheries Research"	3.36694767754
+"Journal of Geophysical Research"	3.34383230746
+"Computational Intelligence in Robotics and Automation"	3.34274520949
+"Multimedia Signal Processing"	3.34125246612
+"Advances in Recent Technologies in Communication and Computing"	3.32053068459
+"Neural Computing and Applications"	3.31850700226
+"Portuguese Conference on Artificial Intelligence"	3.30992675149
+"International Journal of Data Analysis Techniques and Strategies"	3.3051609064
+"Engineering Geology"	3.30389159452
+"The Journal of Urology"	3.30305299804
+ Sensing and Control"	3.30128070731
+"Iberoamerican Congress on Pattern Recognition"	3.27678388741
+"Landscape Ecology"	3.27312212424
+"Industrial Engineering and Engineering Management"	3.27143930805
+"Database Technology and Applications"	3.23906090382
+"Web Search and Data Mining"	3.22341362342
+"International Conference on Networking"	3.222567644
+"Ultrasound in Obstetrics & Gynecology"	3.21988642145
+"Hydrological Processes"	3.20783168221
+"International Journal of Software Engineering and Knowledge Engineering"	3.20322605635
+"Artificial Intelligence Applications and Innovations"	3.18931293769
+"Data Mining and Optimization"	3.18528053626
+"Annals of Statistics"	3.18287035881
+"Symbolic and Numeric Algorithms for Scientific Computing"	3.17117391731
+"Bioorganic & Medicinal Chemistry"	3.17070246112
+"Agricultural Systems"	3.16799557695
+"International Conference on Electrical Engineering and Informatics"	3.15642511424
+"The Scientific World Journal"	3.15536746264
+"Computational and Mathematical Methods in Medicine"	3.13254293326
+ Knowledge and Grid"	3.12352947978
+"Ai Communications"	3.12003796468
+"Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications"	3.11722604886
+"IEEE Transactions on Magnetics"	3.11309350372
+"IEEE Transactions on Parallel and Distributed Systems"	3.09079954768
+"Journal of Environmental Management"	3.05475116109
+"International Conference on Autonomic Computing"	3.03843915344
+"Journal of Hydrology"	3.02980280041
+"Biodiversity and Conservation"	3.02707781802
+"Computers in Entertainment"	3.02281214156
+"Canadian Medical Association Journal"	3.01988546506
+"International Journal of Hybrid Intelligent Systems"	3.01216818483
+"International Symposium on Computers and Communications"	3.00752300279
+"Ecological Informatics"	3.0051827031
+"Accident Analysis & Prevention"	2.99232405642
+"Environmental Monitoring and Assessment"	2.99169722639
+"Environmental Science and Information Application Technology"	2.99163907356
+"Canadian Family Physician"	2.970694393
+"Robotics and Biomimetics"	2.95621401168
+"Rundbrief Der Gi-fachgruppe 5.10 Informationssystem-architekturen"	2.94952926703
+"Advanced Video and Signal Based Surveillance"	2.94832355009
+"Medical & Biological Engineering & Computing"	2.9356786897
+ Machine Learning and Data Mining in Bioinformatics"	2.93307355013
+"Landscape and Urban Planning"	2.92386744649
+"International Conference on Semantic Computing"	2.9208887164
+"Ecological Indicators"	2.91205116643
+"Journal of Chromatography A"	2.90077690893
+"Web Information Systems Modeling"	2.89456930801
+"International Multiconference on Computer Science and Information Technology"	2.88796149357
+"The Engineering Economist"	2.86674786497
+ Robotics and Vision"	2.85255351461
+"International Database Engineering and Applications Symposium"	2.83497340127
+"International Conference on Human-Computer Interaction"	2.83482027232
+"Journal of Systems and Software"	2.81969927394
+"International Symposium on Computational Intelligence and Design"	2.80977292384
+"International Conference on Image Analysis and Processing"	2.80494309593
+"Nucleic Acids Research"	2.77005037981
+"Breast Cancer Research and Treatment"	2.75491600456
+"Communications of The ACM"	2.75460292023
+"Production Planning & Control"	2.7319160337
+"Journal of Computing and Information Technology"	2.72145553521
+"International Symposium on Computer and Information Sciences"	2.71863385457
+"Environmental Modelling and Software"	2.70593981636
+"Alzheimers & Dementia"	2.7057196276
+"IEEE Transactions on Computational Intelligence and Ai in Games"	2.70516710472
+"Journal of the American Statistical Association"	2.69205199757
+"IEEE Transactions on Electronic Computers"	2.68930077598
+"Pacific Symposium on Biocomputing"	2.68588427666
+"Human Factors in Computing Systems"	2.67844185907
+"International Symposium on Visual Computing"	2.67626653439
+"Natural Hazards"	2.67244635986
+"Journal of Information & Knowledge Management"	2.66950232502
+"System Analysis and Modeling"	2.65650062628
+"Journal of Chemometrics"	2.65116478759
+"Workshop on Applications of Signal Processing to Audio and Acoustics"	2.64601380101
+"Measurement"	2.64041936073
+"European Journal of Pharmaceutical Sciences"	2.63348345678
+"IEEE Transactions on Information Forensics and Security"	2.6331228725
+"Journal of Intelligent Manufacturing"	2.62818239961
+"Computer Science and its Applications"	2.61736548504
+"Random Structures and Algorithms"	2.61661290099
+"Field-Programmable Logic and Applications"	2.61487741425
+"Information Technology Journal"	2.60420570501
+"Biological Conservation"	2.5860293113
+"IEEE Transactions on Visualization and Computer Graphics"	2.58013241982
+"Artificial Intelligence in Engineering"	2.57682780183
+"BioMed Research International"	2.57455443036
+"International Journal of Information Technology and Decision Making"	2.56980054227
+"Wireless Communications and Networking Conference"	2.56931563535
+"Journal of the American College of Cardiology"	2.56848960398
+"International Journal of Electronics"	2.56330047268
+"International Conference on Information Systems"	2.55868055556
+"IEEE Transactions on Vehicular Technology"	2.55251305408
+ and Computers"	2.54945135883
+ Fuzziness and Knowledge-Based Systems"	2.54591600529
+"The American Journal of Gastroenterology"	2.53604945322
+"International Journal of Computer Integrated Manufacturing"	2.53347001708
+"Pacific-Asia Workshop on Computational Intelligence and Industrial Application"	2.53250717206
+"Ai Magazine"	2.5265698488
+"Journal of Computer Applications in Technology"	2.5238153359
+"The Internet of Things"	2.5159040034
+"Conference on Scientific Computing"	2.513238265
+"Medical Physics"	2.51126541147
+"Cybernetics and Systems Analysis"	2.50898401116
+"IEEE Journal of Selected Topics in Signal Processing"	2.50581363081
+"BMC Medical Research Methodology"	2.50456433613
+"Medical Informatics Europe"	2.50392127163
+"Computational Systems Bioinformatics"	2.48541395968
+"IEEE Sensors Journal"	2.46950711326
+ Ecosystems & Environment"	2.46333614443
+"Diabetes Research and Clinical Practice"	2.46102292769
+"Parallel and Distributed Computing: Applications and Technologies"	2.45481301106
+"International Journal of General Systems"	2.45461945462
+"Computer Analysis of Images and Patterns"	2.45219155844
+"IEEE Power & Energy Magazine"	2.44407738426
+"Journal of Systems Engineering and Electronics"	2.43485243787
+"The Annals of Applied Statistics"	2.41735420003
+"Journal of Applied Statistics"	2.41171428109
+"Network-Based Information Systems"	2.40388699016
+ Measurement and Analysis for Marketing"	2.40304343804
+"Symposium on Applications and the Internet"	2.40209922353
+"International Journal of Medical Informatics"	2.38729337792
+"IEEE Transactions on Microwave Theory and Techniques"	2.38685576192
+"Asian Conference on Computer Vision"	2.38261209029
+"Advanced Information Management and Service"	2.38208373967
+"Journal of Experimental and Theoretical Artificial Intelligence"	2.37941919192
+"Journal of Computer Science and Technology"	2.37700667388
+"Intelligent Information Hiding and Multimedia Signal Processing"	2.37315509722
+"Applied Vegetation Science"	2.36276365555
+"Computational Management Science"	2.35809734247
+"Clinical Therapeutics"	2.35680044988
+"Cybernetics and Systems"	2.3548163931
+"Pediatrics"	2.34664314502
+"British Machine Vision Conference"	2.34662359246
+"Conference of the Centre for Advanced Studies on Collaborative Research"	2.34218848281
+"IEEE Communications Letters"	2.34209686011
+"IEEE Transactions on Industrial Informatics"	2.33170835998
+"Electric Power Components and Systems"	2.3237232014
+"Journal of The Chinese Institute of Industrial Engineers"	2.32194349962
+"Journal of Hepatology"	2.31704015785
+"IEEE Transactions on Very Large Scale Integration Systems"	2.31546000296
+"Communications and Mobile Computing"	2.31507159838
+"Critical Care Medicine"	2.30960809198
+"Computers & Chemical Engineering"	2.30604620232
+"IEEE-RAS International Conference on Humanoid Robots"	2.30177044905
+"IEEE Computer"	2.28766696267
+"Biometrical Journal"	2.28621347788
+"Signal Processing Systems"	2.27965818903
+"Journal of Multi-criteria Decision Analysis"	2.27923585674
+"International Journal of Business Intelligence and Data Mining"	2.27128358414
+"Electronic Notes in Theoretical Computer Science"	2.26546469598
+"Intelligence\/sigart Bulletin"	2.2535954786
+"Signal-Image Technology and Internet-Based Systems"	2.25103568885
+"Chemosphere"	2.24260861823
+"Weather and Forecasting"	2.22945247543
+"Journal of Neuroscience Methods"	2.22656403646
+"International Conference on Contemporary Computing"	2.22628000247
+"Food and Chemical Toxicology"	2.21292844501
+"Communications in Statistics-theory and Methods"	2.20563596126
+"Autonomic and Trusted Computing"	2.2018461631
+"Journal of Computational Biology"	2.19721858003
+ and Applications"	2.19139483066
+"Foundations of Information and Knowledge Systems"	2.17610780423
+"Journal of Statistical Computation and Simulation"	2.17175318263
+"Pattern Recognition and Image Analysis"	2.16736111111
+"European Neuropsychopharmacology"	2.16071107134
+"Journal of Biomedical Science and Engineering"	2.16000080167
+"Database Systems for Advanced Applications"	2.15590758778
+"International Conference for Young Computer Scientists"	2.15469269021
+ Applications"	2.15219757095
+"VLSI Test Symposium"	2.14462301587
+"Health Care Management Science"	2.14125733724
+"BMC Genetics"	2.1344796176
+"Journal of Korean Academy of Nursing"	2.1252531265
+"International Journal of Data Mining and Bioinformatics"	2.12504709796
+"Workshop on Knowledge Discovery and Data Mining"	2.11828488971
+"Substance Use & Misuse"	2.11617954962
+"Journal of Bioinformatics and Computational Biology"	2.109816275
+"ACM Transactions on Knowledge Discovery From Data"	2.10611321549
+"Journal of Neurosurgery"	2.10563437334
+"Conference on Software Maintenance and Reengineering"	2.10288697608
+"International Journal of Computer Mathematics"	2.09841514967
+"International Conference on Computer Communications and Networks"	2.0983467921
+"British Journal of Cancer"	2.09590826225
+"Discrete Applied Mathematics"	2.09438882876
+"Controlled Clinical Trials"	2.09097872696
+"Journal of Universal Computer Science"	2.08551902958
+"Iberian Conference on Pattern Recognition and Image Analysis"	2.08338594276
+"Water Resources Management"	2.08056535066
+"International Test Conference"	2.06672553086
+"International Conference on Education Technology and Computer"	2.0647005772
+"Operations Research"	2.05137085137
+"Environmental Pollution"	2.0491787148
+"Management Decision"	2.04095060033
+"International Conference on Multimedia and Information Technology"	2.03832729634
+ Networks and Systems"	2.03489651416
+"Research in Computational Molecular Biology"	2.0297197016
+"International Journal of Computational Geometry and Applications"	2.02361111111
+"European Conference on Computer Vision"	2.02245763496
+"Multimedia and Ubiquitous Engineering"	2.02236351611
+"Mining Software Repositories"	2.02074012297
+"ACM Multimedia"	2.01863911551
+"Toxicology Letters"	2.0185355033
+"ACM/IEEE Joint Conference on Digital Libraries"	2.01659619316
+"Acta Cybernetica"	2.01590909091
+"Journal of Classification"	2.01566408129
+"The Journal of Clinical Psychiatry"	2.0087850724
+"International Conference on Computer Vision Theory and Applications"	2.00723707509
+"International Conference on Adaptive and Natural Computing Algorithms"	2.00328266431
+"Physics Procedia"	1.99926351426
+"Journal of Applied Sciences"	1.99886452457
+"Hydrobiologia"	1.99601078705
+"Computer Supported Cooperative Work in Design"	1.99358961009
+"Parallel Problem Solving from Nature"	1.99314424002
+"BMC Cancer"	1.99255399891
+"Medical Engineering & Physics"	1.99212151275
+"Knowledge and Systems Engineering"	1.98838065058
+"Symposium on Computational Geometry"	1.97909391534
+ Communications and Systems"	1.97394437573
+"Empirical Methods in Natural Language Processing"	1.96986719299
+"Safety Science"	1.95673525163
+"JAMA"	1.95625790876
+"IEEE Transactions on Wireless Communications"	1.95569497962
+"Physical Review D"	1.95476195431
+"Affective Computing and Intelligent Interaction"	1.95432632183
+"Robotics and Autonomous Systems"	1.95324324595
+"Preventive Veterinary Medicine"	1.94587508474
+"Advanced Engineering Informatics"	1.94286586429
+"Journal of Statistical Planning and Inference"	1.94243811744
+"Annual Computer Security Applications Conference"	1.93387972866
+"Journal of Oral and Maxillofacial Surgery"	1.9324023199
+"Workshop on Image Analysis for Multimedia Interactive Services"	1.93218279736
+"Giscience & Remote Sensing"	1.93119147828
+"Iee Proceedings-generation Transmission and Distribution"	1.9285103207
+"Brazilian Symposium on Bioinformatics"	1.91900372775
+"Agent and Multi-Agent Systems: Technologies and Applications"	1.914680576
+"IEEE Transactions on Mobile Computing"	1.90427452838
+"IEEE Transactions on Nanobioscience"	1.9014742004
+"IEEE Journal of Oceanic Engineering"	1.89649394587
+"IEEE Journal on Selected Areas in Communications"	1.89208303271
+"Adaptive Agents and Multi-Agents Systems"	1.89172804048
+"High Performance Computing and Communications"	1.88718855219
+"Quality & Quantity"	1.88491412137
+"Computers and Biomedical Research"	1.88474511599
+"Tsinghua Science & Technology"	1.8842856796
+"International Conference on Software Maintenance"	1.87488361176
+"Panhellenic Conference on Informatics"	1.87435455748
+"International Journal of Foundations of Computer Science"	1.87037037037
+"Law and Human Behavior"	1.86990325592
+"The Journal of China Universities of Posts and Telecommunications"	1.86745107765
+"International Conference on Distributed Computing Systems"	1.86267616643
+"Information Processing in Sensor Networks"	1.86131310819
+"Networked Digital Technologies"	1.85465179111
+"Chemical Engineering Research & Design"	1.85078562311
+"Physiological Measurement"	1.84927216827
+"Statistical Analysis and Data Mining"	1.84531356103
+"International Journal of Computational Intelligence Systems"	1.83704256392
+"Iee Proceedings-vision Image and Signal Processing"	1.83565259972
+"Conference on Multimedia Modeling"	1.83310959874
+"International Conference on Multimodal Interfaces"	1.82940832316
+"International Conference on Image and Graphics"	1.82554563492
+"International Journal of Pharmaceutics"	1.82319820557
+"Clinical Pharmacology & Therapeutics"	1.82087602213
+ Engineering and Management"	1.81642857143
+"Southwest Symposium on Image Analysis and Interpretation"	1.81224079492
+"Journal of Computing in Civil Engineering"	1.80904506373
+"Archives of Physical Medicine and Rehabilitation"	1.80550764822
+"Journal of The Chinese Institute of Engineers"	1.80145142556
+"Local Computer Networks"	1.79452142765
+"International Journal of Computer Processing of Languages"	1.79263042128
+"Information Processing and Management of Uncertainty"	1.79044733045
+"European Conference on Parallel Processing"	1.7874332367
+"International Conference on Web Services"	1.77750901876
+"ACM Sigsoft Software Engineering Notes"	1.7773205267
+"Journal of Physics: Conference Series"	1.77444532183
+"Quality Engineering"	1.77397787398
+"Symposium on Applied Computational Intelligence and Informatics"	1.7678666588
+"The Library Quarterly"	1.76745014245
+"Ieej Transactions on Power and Energy"	1.76342585985
+"Nuclear Technology"	1.75991762867
+"Proteomics"	1.75870648062
+"International Symposium on Electronic Commerce and Security"	1.75705000687
+"Ubiquitous Computing"	1.7568820647
+"Applied Immunohistochemistry & Molecular Morphology"	1.75474445671
+"Intelligent User Interfaces"	1.75250992063
+"PLOS Neglected Tropical Diseases"	1.75063911799
+"Emergency Medicine Journal"	1.74798013524
+"Multimedia Tools and Applications"	1.74795875421
+"Principles and Practice of Constraint Programming"	1.74758267526
+"Journal of Gastroenterology"	1.7434056684
+"Journal of Dairy Science"	1.74149793108
+ Finance & Management"	1.74051537913
+"International Conference on Computational Advances in Bio and Medical Sciences"	1.73874313187
+"Journal of Electronics (china)"	1.73868950358
+"Journal of Forecasting"	1.73610058923
+"IEEE Engineering Management Review"	1.73400673401
+"Integrated Network Management"	1.73293277159
+"Journal of Pediatric Surgery"	1.73269321617
+ Automation and Robotics"	1.72571000623
+"IEEE Transactions on Smart Grid"	1.72537037037
+"User Modeling and User-adapted Interaction"	1.72283642284
+"Energy Conversion and Management"	1.71897897627
+"Information Processing and Trusted Computing"	1.71639344902
+"Water Research"	1.71532864652
+"Monthly Notices of the Royal Astronomical Society"	1.71225159871
+"Photogrammetric Engineering and Remote Sensing"	1.70694257462
+"BJUI"	1.70540912776
+"Annals of Surgical Oncology"	1.70483629973
+"IEEE Computational Intelligence Magazine"	1.69981238999
+"Journal of Molecular Graphics & Modelling"	1.69493792887
+ Electronics and Microelectronics"	1.68529386123
+"Academic Radiology"	1.68037721855
+"Tropical Medicine & International Health"	1.67729665204
+"Asian Test Symposium"	1.67356954728
+"Online Information Review"	1.67349073711
+"Computers & Geosciences"	1.65895975167
+"Journal of Toxicology and Environmental Health"	1.65462345525
+"BioSystems"	1.65346921597
+ Modelling and Management"	1.65047594381
+"ACM Transactions on Mathematical Software"	1.64610690236
+"Critical Care"	1.64105648981
+"Journal of Parallel and Distributed Computing"	1.64061741363
+"Healthcare Informatics Research"	1.64003508837
+"Fertility and Sterility"	1.6387785594
+"Grid and Cooperative Computing"	1.63765993266
+"Transportation Research Part B-methodological"	1.63661251942
+"Chest"	1.63468552949
+"European Journal of Health Economics"	1.63454612022
+"Food Additives and Contaminants Part A-chemistry Analysis Control Exposure & Risk Assessment"	1.63016578729
+"Information Processing and Management"	1.62832611833
+"International Journal of Business Information Systems"	1.62615560696
+"Statistics & Probability Letters"	1.62313131313
+"Journal of Petroleum Science and Engineering"	1.61981934732
+"Intensive Care Medicine"	1.61859615447
+"Aiche Journal"	1.61796807359
+"American Journal of Cardiology"	1.61578421579
+"Journal of Hydroinformatics"	1.61543109668
+"Secure Web Services"	1.61482317451
+"International Conference on Quality Software"	1.61137368914
+"Computerized Medical Imaging and Graphics"	1.61058201058
+"Journal of Construction Engineering and Management-asce"	1.60701058201
+"AAPG Bulletin"	1.605872484
+"Journal of Computational Chemistry"	1.6034107014
+"Journal of Intelligent and Robotic Systems"	1.60054383447
+"Electronic and Mechanical Engineering and Information Technology"	1.59886234136
+"Cancer"	1.59254506993
+"High-Assurance Systems Engineering"	1.58923036671
+"Journal of Convergence Information Technology"	1.58697862984
+"International Work-Conference on Artificial and Natural Neural Networks"	1.58685002361
+"Uncertainty in Artificial Intelligence"	1.58537578493
+"Journal of Food Engineering"	1.58349081591
+"Parallel Computing"	1.58169046562
+"FEBS Letters"	1.580502368
+"Machine Vision Applications"	1.57778679654
+"Journal of Management Studies"	1.57447089947
+"Wearable and Implantable Body Sensor Networks"	1.56627636253
+"Consumer Communications and Networking Conference"	1.56299600862
+"Cloud Computing"	1.56186727955
+"Biocybernetics and Biomedical Engineering"	1.55004208754
+"Web Information Systems Engineering"	1.54350468975
+"International Conference on Asian Language Processing"	1.54271307396
+"Journal of Advanced Nursing"	1.54218721094
+"Discrete and Computational Geometry"	1.53573717949
+"Artificial Neural Networks in Pattern Recognition"	1.5353505291
+"The Journal of Supercomputing"	1.53485165628
+"The Open Automation and Control Systems Journal"	1.53364459615
+"Pacific Rim Conference on Multimedia"	1.53091064029
+"Rheumatology"	1.52657009657
+"New Zealand Journal of Agricultural Research"	1.52532546818
+"Architectures for Networking and Communications Systems"	1.52326388889
+"International Journal of Computational Biology and Drug Design"	1.52186112499
+"Web Intelligence"	1.51988421632
+"Food Control"	1.51622519841
+"Statistics and Computing"	1.51583779977
+"Energy and Buildings"	1.51260857198
+"International Parallel and Distributed Processing Symposium"	1.51162037037
+"IEEE Instrumentation & Measurement Magazine"	1.50636574074
+"Journal of Materials Processing Technology"	1.50587952557
+"Machine Intelligence and Pattern Recognition"	1.50507640508
+"International Conference on Performance Engineering"	1.50433401475
+"Asia Information Retrieval Symposium"	1.50421626984
+"International Conference on Frontiers in Handwriting Recognition"	1.50273620559
+"Signal Processing"	1.50148809524
+"Journal of Emergency Medicine"	1.50082966802
+"Biophysical Chemistry"	1.49933413949
+"Antimicrobial Agents and Chemotherapy"	1.49794507576
+"Journal of Zhejiang University Science C"	1.49317633619
+"Journal of Men's Health"	1.49168957145
+"Workshop on Graph-Theoretic Concepts in Computer Science"	1.48972763348
+"Annals of Emergency Medicine"	1.47872049632
+"Acta Informatica"	1.47758838384
+"Building and Environment"	1.47727018352
+"ACM Transactions on Programming Languages and Systems"	1.47634865135
+"Archives of Disease in Childhood"	1.47435377123
+"Conference on Current Trends in Theory and Practice of Informatics"	1.47274884701
+"Canadian Journal of Forest Research"	1.47008847634
+"International Journal of Applied Mathematics and Computer Science"	1.46699263039
+"Science of The Total Environment"	1.46579120285
+"Journal of Network and Computer Applications"	1.46491575554
+"Advances in Space Research"	1.46415343915
+"International Journal of Intelligent Systems Technologies and Applications"	1.46167027417
+"Proteins"	1.45767496392
+"Ergonomics"	1.45688431939
+"Empirical Software Engineering and Measurement"	1.45251704314
+"Ecological Research"	1.45089848423
+"Language Resources and Evaluation"	1.44673943976
+"Journal of Machine Vision and Applications"	1.44519957556
+"Environmental Research Letters"	1.44205627705
+"International Conference of Fuzzy Information and Engineering"	1.44171296296
+"The Journal of Nuclear Medicine"	1.44167349567
+"Human and Ecological Risk Assessment"	1.44015183725
+"Asia-Pacific Network Operations and Management Symposium"	1.43974168193
+"Intelligent Systems in Molecular Biology"	1.43801842998
+"Ecosystems"	1.43575007444
+"Applied Mathematics and Computation"	1.43452380953
+"Journal of Forest Research"	1.43440102666
+"Malaria Journal"	1.43270792728
+"Ecology"	1.42840296278
+"Frontier of Computer Science and Technology"	1.42754148629
+"The European Symposium on Artificial Neural Networks"	1.42657458283
+"Scandinavian Journal of Gastroenterology"	1.42541717542
+"Environmental Health Perspectives"	1.42250537231
+"Computer Communications"	1.42166638917
+"Combinatorica"	1.41839646465
+"Conference on Communication Networks and Services Research"	1.4165731722
+"Journal of Applied Remote Sensing"	1.4145393099
+"Annals of the New York Academy of Sciences"	1.41426166426
+"Moscow University Computational Mathematics and Cybernetics"	1.41077134671
+"Mobile Data Management"	1.40556457432
+"Key Engineering Materials"	1.40461309524
+"Oclc Systems & Services"	1.40376833814
+"IEEE Transactions on Affective Computing"	1.40253212396
+"Control and Cybernetics"	1.40070015633
+"Agricultural Water Management"	1.39726803079
+"Symposium on Theoretical Aspects of Computer Science"	1.39551136694
+"Advances in Mechanical Engineering"	1.39453869994
+"Journal of Mathematical Psychology"	1.39314123377
+"International Conference on Case-Based Reasoning"	1.39251496053
+"ACM Sigapl Apl Quote Quad"	1.38979828042
+"Gastrointestinal Endoscopy"	1.38636148904
+"IEEE Transactions on Dependable and Secure Computing"	1.38402202295
+"International Conference on Ubiquitous Information Management and Communication"	1.38401184464
+"Studia Geophysica Et Geodaetica"	1.3814484127
+"Ubiquitous Intelligence and Computing"	1.38069629445
+"International Journal of Life Cycle Assessment"	1.37825600326
+"The Astronomical Journal"	1.37821729197
+"International Conference on Spatial Data Mining and Geographical Knowledge Services"	1.37517075517
+"Theory of Computing Systems \/ Mathematical Systems Theory"	1.37472883598
+"Journal of Clinical Microbiology"	1.3687246814
+"Cost Effectiveness and Resource Allocation"	1.36831159912
+"Computers in Education"	1.36772035834
+"Knowledge Acquisition"	1.36511243386
+"International Symposium on Signal Processing and Information Technology"	1.36473734599
+"The Kips Transactions:partd"	1.36382275132
+"Digital Signal Processing"	1.3613555839
+"Journal of The American College of Surgeons"	1.3596416161
+"Information Technology & Management"	1.35928791221
+"Molecular Nutrition & Food Research"	1.35582010582
+"Intelligent Networking and Collaborative Systems"	1.35317891104
+"Journal of Wound Ostomy and Continence Nursing"	1.3517458071
+"Plastic and Reconstructive Surgery"	1.34919877576
+"Conference of the European Chapter of the Association for Computational Linguistics"	1.34846852883
+"Computational Economics"	1.34639593211
+"Software Engineering and Knowledge Engineering"	1.34577922078
+"Astroparticle Physics"	1.34547198172
+"Toxicology in Vitro"	1.3453990454
+"International Symposium on Algorithms and Computation"	1.34510935687
+"Computer Science and Information Systems"	1.34389852572
+"Oil & Gas Journal"	1.33993030118
+"Medical Informatics and The Internet in Medicine"	1.33626962158
+"Defect and Fault Tolerance in VLSI and Nanotechnology Systems"	1.33576839827
+"World Journal of Urology"	1.33280590937
+"Cytometry"	1.33161976912
+"Journal of Mechanical Science and Technology"	1.331119228
+"Biomedical Engineering Online"	1.33100342118
+"Computer Vision and Image Understanding"	1.33050922457
+"Asian Pacific Journal of Cancer Prevention"	1.32950275997
+"World Journal of Surgery"	1.32801025033
+"Biometrics"	1.32756734007
+"International Workshop on Principles of Software Evolution"	1.32510822511
+"European Geriatric Medicine"	1.32510060927
+"International Conference on Program Comprehension"	1.31904761905
+"International Journal of Parallel Programming"	1.31524475524
+"Ssrn Electronic Journal"	1.31124338624
+"Journal of Surgical Oncology"	1.30842133992
+"Computers in Industry"	1.29966750842
+"International Conference on Conceptual Modeling"	1.29805284993
+"The Annals of Thoracic Surgery"	1.29395203912
+ and Communications Conference"	1.29237786024
+"Advances in Engineering Software"	1.29159203065
+"International Journal of Forecasting"	1.29148684979
+"Urology"	1.28690795316
+"Journal of Trauma-injury Infection and Critical Care"	1.28445651571
+"Computers and Their Applications"	1.2842253811
+"Environmental Science & Technology"	1.2811750551
+"International Journal of Biomedical Engineering and Technology"	1.28036350224
+"Journal of Molecular Modeling"	1.276976748
+"Journal of Statistical Software"	1.27662584964
+"Geomorphology"	1.27325737534
+"Transactions on Machine Learning and Data Mining"	1.27137390387
+"International Conference on Multimedia Information Networking and Security"	1.27096880633
+"Sensors and Actuators B-chemical"	1.27069418677
+"Talanta"	1.26889364844
+"Journal of Zhejiang University Science"	1.26886202422
+"Environmental Earth Sciences"	1.26780023548
+"Journal of Systems Architecture"	1.26569148444
+"Pattern Recognition in Bioinformatics"	1.26439847144
+"Plant and Soil"	1.26343061078
+"Structure and Infrastructure Engineering"	1.26246201715
+"Computational Biology and Chemistry"	1.26245068589
+"Plant Ecology"	1.2607692572
+"International Journal of Information and Decision Sciences"	1.26065015232
+"Medicine and Science in Sports and Exercise"	1.25988247863
+"Workshop on Algorithms and Data Structures"	1.25825396825
+"Engineering"	1.25675681435
+"Zeitschrift Für Interaktive Und Kooperative Medien"	1.25625472411
+"Managerial Auditing Journal"	1.25624930819
+"Cancer Nursing"	1.25556243525
+"Computer Applications in Industry and Engineering"	1.25132275132
+"Biological Invasions"	1.25083858061
+"Energy Policy"	1.24843973487
+"Performance Evaluation"	1.24811293204
+"International Journal of Electronic Finance"	1.24755345349
+"Visual Communications and Image Processing"	1.24131007881
+"China Communications"	1.2386818869
+"IEEE Symposium on Information Visualization"	1.23683647701
+"Asia-Pacific Web Conference"	1.23346781305
+"ACM Sigbio Newsletter"	1.23190379396
+"International Conference on Cloud Computing"	1.22812152989
+"DNA Repair"	1.22700262895
+"Arid Land Research and Management"	1.22625060125
+"Conference on Image and Video Retrieval"	1.22514608408
+"International Journal of Knowledge Engineering and Data Mining"	1.22333603896
+"Workshop on Information Security Applications"	1.22172804048
+"International Conference on e-Business Engineering"	1.22149921837
+revista Iberoamericana De Inteligencia Artificial"	1.22098214286
+"Canadian Journal of Surgery"	1.21972319347
+"Maritime Policy & Management"	1.21768278018
+"Tunnelling and Underground Space Technology"	1.21621422559
+"Industrial & Engineering Chemistry Research"	1.21472823473
+"Computational Geometry: Theory and Applications"	1.21413941995
+"European Urology"	1.21278769841
+"BMC Psychiatry"	1.211707544
+"Industrial Management and Data Systems"	1.20994919432
+ Analysis and Manufacturing"	1.20986652237
+"Journal of The American Dietetic Association"	1.20985685941
+"Laryngoscope"	1.20538151663
+"Journal of Emerging Technologies in Web Intelligence"	1.20159722222
+"Systems Engineering"	1.20030663781
+"Applied Energy"	1.19864278413
+"Journal of Neurotrauma"	1.19773619238
+"Journal of Water Resources Planning and Management"	1.19696093589
+"Control Engineering Practice"	1.19628203807
+"The International Arab Journal of Information Technology"	1.19398319934
+"Journal of Software Engineering and Applications"	1.18788286367
+"Food Chemistry"	1.18195559071
+"Automatic Documentation and Mathematical Linguistics"	1.1814484127
+"International Conference on Mobile and Ubiquitous Systems: Networking and Services"	1.18026094276
+"International Journal of Artificial Intelligence and Soft Computing"	1.1754396645
+"Marine Pollution Bulletin"	1.17371482684
+"Sigmetrics Performance Evaluation Review"	1.17299482924
+"Neural Processing Letters"	1.17243716931
+"Protein Science"	1.17134239768
+"Freshwater Biology"	1.17093392913
+"Journal of Organizational Computing and Electronic Commerce"	1.16780753968
+"SIAM Journal on Discrete Mathematics"	1.16481481481
+"Transportation Research Part C-emerging Technologies"	1.16236772487
+"Computer and Communications Security"	1.16110509861
+"International Journal of Emerging Electric Power Systems"	1.15587715856
+"Environment International"	1.15146554834
+"Estuarine Coastal and Shelf Science"	1.15097301508
+"Management of Emergent Digital EcoSystems"	1.14964075277
+"IEEE Transactions on Power Electronics"	1.1483194385
+"Applied Bioinformatics"	1.14717197485
+"American Journal of Tropical Medicine and Hygiene"	1.1448919252
+"BMC Systems Biology"	1.14328475922
+"Information Systems and E-business Management"	1.14163614164
+"Drug Information Journal"	1.13951338014
+ Systems and Signal"	1.13876024769
+"Bioresource Technology"	1.13781750657
+"Environmental Toxicology and Chemistry"	1.13220463564
+"Journal of Digital Imaging"	1.12999996036
+"International Journal of Logistics Systems and Management"	1.12854387125
+"Reconfigurable Computing and FPGAs"	1.12821160321
+"Conservation Biology"	1.12752820097
+"Nephrology Dialysis Transplantation"	1.12666488604
+"Journal of Child Custody"	1.12636007511
+"Fuel and Energy Abstracts"	1.12461439024
+"Human-Robot Interaction"	1.12163184038
+"Laboratory Investigation"	1.11893514982
+"Climatic Change"	1.11861528848
+"Oncology"	1.11527563045
+"Computational Aspects of Social Networks"	1.11064814815
+"Alcoholism: Clinical and Experimental Research"	1.11025132275
+"Applied Clinical Informatics"	1.10813943002
+"Journal of Biomedical Optics"	1.10676278087
+"European Journal of Gastroenterology & Hepatology"	1.1055321748
+"Advances in Databases and Information Systems"	1.10449387667
+"Ksce Journal of Civil Engineering"	1.10316500629
+"International Journal of Intelligent Computing and Cybernetics"	1.10138641315
+"Journal of Decision Systems"	1.10077566283
+"Health and Quality of Life Outcomes"	1.09701742566
+"Journal of Transportation Engineering-asce"	1.09605531779
+"Journal of Forensic Sciences"	1.09584463156
+"Computers & Security"	1.09441782618
+"Applied Optics"	1.09379273504
+"New Zealand Veterinary Journal"	1.09252024042
+"International Conference on Networks"	1.09231714908
+"Australasian User Interface Conference"	1.08738328665
+"Combinatorial Chemistry & High Throughput Screening"	1.08684371184
+"Wetlands"	1.08534992785
+"Parasites & Vectors"	1.08482404941
+"Connection Science"	1.08284271284
+"Journal of the Science of Food and Agriculture"	1.08158091908
+"European Psychiatry"	1.0806299025
+"Business Information Systems"	1.08025793651
+"IEEE Transactions on Education"	1.07641478891
+"Sexually Transmitted Diseases"	1.07450850678
+"Health Economics"	1.070996596
+"International Journal of Business Data Communications and Networking"	1.06855946082
+"High Performance Switching and Routing"	1.06789622415
+"International Journal of Environmental Research and Public Health"	1.06678604574
+"Physical Review A"	1.06648629149
+"IEEE Signal Processing Magazine"	1.0661880467
+"New Generation Computing"	1.06313943001
+"International Journal of Information Technology and Management"	1.06312992563
+"International Journal of Computers and Applications"	1.06092397186
+"Journal of Complexity"	1.05988039738
+"Empirical Software Engineering"	1.05958291048
+"Data Science Journal"	1.05876924002
+"Langenbeck's Archives of Surgery"	1.05418655419
+"American Journal of Engineering and Applied Sciences"	1.05380170755
+"The Lancet"	1.04929215626
+"Conference on Computer as a Tool"	1.04444444444
+"Water Science and Technology"	1.04422943954
+"ACM Transactions on Information Systems"	1.04234457672
+"Journal of Translational Medicine"	1.04195794781
+"Bulletin of The World Health Organization"	1.04168249079
+"Computers & Mathematics With Applications"	1.0407783189
+"Quality of Multimedia Experience"	1.03961765417
+"Languages and Compilers for Parallel Computing"	1.03810876623
+"International Conference on Adaptive and Intelligent Systems"	1.03564814815
+"International Journal of Management and Decision Making"	1.03543771044
+"Technological and Economic Development of Economy"	1.03428591085
+"Public Health Genomics"	1.03351972102
+"Journal of Clinical Oncology"	1.03328086055
+"Journal of Biogeography"	1.03311868687
+"Informs Transactions on Education"	1.0316951567
+"Soil Science Society of America Journal"	1.02987012987
+"Journal of Substance Abuse Treatment"	1.02470319804
+"Journal of Economic Theory"	1.02407407407
+"International Conference in Central Europe on Computer Graphics and Visualization"	1.02342343503
+ and Memetic Computing"	1.02285744348
+"Transplantation Proceedings"	1.02257937169
+"International Conference on Web-Based Learning"	1.02179232804
+"NeuroImage"	1.02087132775
+"Transportation Planning and Technology"	1.02015160765
+"IEEE Transactions on Robotics and Automation"	1.01823232323
+"Mutation Research-genetic Toxicology and Environmental Mutagenesis"	1.01819648605
+"Mathematical and Computer Modelling"	1.01479814828
+"International Conference on Computing: Theory and Applications"	1.01472462723
+"Embedded and Ubiquitous Computing"	1.01384589947
+"Sigmod Record"	1.01265117158
+"Intelligent Virtual Agents"	1.0114363632
+"Etri Journal"	1.01060941374
+"Health Services Research"	1.01053304334
+"New Mathematics and Natural Computation"	1.00996358139
+"Asia-Pacific Bioinformatics Conference"	1.00992905243
+"Scandinavian Workshop on Algorithm Theory"	1.00943177193
+"International Conference on VLSI Design"	1.00886113886
+"Journal of Networks"	1.00509259259
+"Journal of Quality in Maintenance Engineering"	1.00502581083
+"Journal of Management Development"	1.00246031746
+"Visual Analytics Science and Technology"	1.00185185185
+"International Colloquium on Grammatical Inference"	1.0
+"European Journal of Cancer"	0.998033234127
+"European Journal of Medicinal Chemistry"	0.997223424724
+"Computational Optimization and Applications"	0.996562696563
+"Biotechnology and Bioengineering"	0.9963485126
+"Journal of Chemical Information and Computer Sciences"	0.996244496244
+ Transmission and Distribution"	0.996064814815
+"The American Statistician"	0.996048280424
+"Turkish Journal of Electrical Engineering and Computer Sciences"	0.996044332652
+"Workshop on Automated Specification and Verification of Web Sites"	0.994791666667
+"IEEE Micro"	0.993849495411
+"Ambient Intelligence"	0.992923280423
+"International Conference on Concurrency Theory"	0.992476851852
+"Asia and South Pacific Design Automation Conference"	0.991950757576
+"Journal of Process Control"	0.990349465349
+"Livestock Production Science"	0.989599867725
+ and Validation"	0.989269179894
+"Journal of Atmospheric and Oceanic Technology"	0.988215488215
+ and Engineering"	0.986858974359
+"Stroke"	0.986577831891
+"Cytopathology"	0.985807737236
+"Genome Biology"	0.983693621194
+"International Journal of Smart Engineering System Design"	0.982674963926
+"Stochastic Environmental Research and Risk Assessment"	0.982596916972
+"Iet Electric Power Applications"	0.980840455841
+"Advanced Concepts for Intelligent Vision Systems"	0.979996392496
+"Przegląd Elektrotechniczny"	0.978607206286
+"Robotics and Computer-integrated Manufacturing"	0.97844056737
+"Foundations of Computational Intelligence"	0.977070152071
+"IEEE Control Systems Magazine"	0.976653439154
+"Learning and Intelligent Optimization"	0.976445005611
+"Iet Computer Vision"	0.97585978836
+"Journal of Mathematical Modelling and Algorithms"	0.972754329004
+"Journal of Evaluation in Clinical Practice"	0.972295809349
+"International Conference on Management of Data"	0.97016895142
+"Toxicology and Applied Pharmacology"	0.968869277509
+ Distributed and Network-Based Processing"	0.968393157769
+"Nursing Research"	0.967979242979
+"Journal of Applied Ecology"	0.967825924076
+"International Conference on Computer Modeling and Simulation"	0.967369601298
+"European Journal of Nuclear Medicine and Molecular Imaging"	0.967232593795
+"International Journal of Food Microbiology"	0.966901428501
+"International Conference on Artificial Intelligence and Law"	0.966203703703
+"Physica A-statistical Mechanics and Its Applications"	0.965167748918
+"IEEE Transactions on Professional Communication"	0.965056008806
+"Journal of Gastrointestinal Surgery"	0.963818512456
+"Information Technology"	0.963654100529
+"Quality & Safety in Health Care"	0.962976756359
+"Journal of Arthroplasty"	0.962115432809
+"Communications in Statistics - Simulation and Computation"	0.960547785547
+"Neuropsychobiology"	0.959695212195
+"Annals of Nuclear Medicine"	0.958734285867
+"Mayo Clinic Proceedings"	0.958066778901
+"Acta Cytologica"	0.953596337525
+"Accounting and Finance"	0.951857864359
+"Bernoulli"	0.951625226626
+"Computer Standards & Interfaces"	0.949634439635
+"Field-Programmable Custom Computing Machines"	0.949538887039
+"International Journal of High Performance Computing Applications"	0.949470899471
+"International Journal of Image and Data Fusion"	0.94870718402
+"Optical Engineering"	0.947623055956
+"European Surgery-acta Chirurgica Austriaca"	0.947140272922
+"European Journal of Vascular and Endovascular Surgery"	0.946924603175
+"Workshop on Information Technologies and Systems"	0.94373531561
+"BMC Infectious Diseases"	0.943695656195
+"Cyberworlds"	0.942948532949
+"Aquatic Ecosystem Health & Management"	0.94278984904
+"International Conference on Smart Homes and Health Telematics"	0.94083994709
+"Obstetrics & Gynecology"	0.939843020542
+"Applied Health Economics and Health Policy"	0.939437645687
+"Journal of Theoretical Biology"	0.9383627368
+"British Journal of General Practice"	0.938228074835
+"Economic Modelling"	0.936410984849
+"Econometric Reviews"	0.934046030029
+"IEEE Transactions on Electronics Packaging Manufacturing"	0.933933080808
+"Iet Computers and Digital Techniques"	0.932929339179
+"Biochemical and Biophysical Research Communications"	0.931635060541
+"Fundamentals of Computation Theory"	0.931565656566
+"International Advances in Economic Research"	0.930952380952
+"Frontiers in Psychology"	0.929248551272
+"Journal of Neuroimmunology"	0.928476731602
+"Marketing Intelligence & Planning"	0.92837086855
+"Hydrology and Earth System Sciences"	0.927422141351
+"Revista Brasileira De Ciencia Do Solo"	0.927112991176
+"Transport"	0.926897947731
+"New Security Paradigms Workshop"	0.926666666667
+"Scandinavian Conference on Image Analysis"	0.926596320347
+"Symposium on Reliable Distributed Systems"	0.925946738447
+"American Journal of Emergency Medicine"	0.924527952207
+"Journal of Arid Environments"	0.924429814014
+"Genetic Epidemiology"	0.924318910257
+"Natural Language Engineering"	0.922962962963
+"IEEE Design & Test of Computers"	0.921851851852
+"Journal of Land Use Science"	0.91990132883
+"Biomedicine & Pharmacotherapy"	0.919135802469
+ Mobile and Multimedia Networks"	0.917345848597
+"Solar Physics"	0.916812169312
+"Chem-bio Informatics Journal"	0.916605790042
+"Molecular Informatics"	0.91547979798
+"Construction Management and Economics"	0.9146494709
+ Management and Engineering"	0.913239538239
+"International Journal of Toxicology"	0.910984848485
+"International Journal of Electronic Security and Digital Forensics"	0.910846560846
+"Automation in Construction"	0.909804142617
+"Asia-Pacific Software Engineering Conference"	0.909474506975
+"Applied Ocean Research"	0.908953480382
+"Journal of Cranio-maxillofacial Surgery"	0.907616607249
+"Australasian Database Conference"	0.907571778711
+"Journal of Management Education"	0.906084656085
+"Scandinavian Audiology"	0.905779555412
+"American Journal of Geriatric Psychiatry"	0.904574360825
+"Journal of Instrumentation"	0.903338511137
+"Service Oriented Software Engineering"	0.902942520443
+"Journal of Banking and Finance"	0.900871813371
+"International Workshop on Security"	0.899610904969
+"International Journal of Image and Graphics"	0.899136904762
+"Pediatric Blood & Cancer"	0.899076650862
+"Collegian"	0.898821548822
+"Western Journal of Nursing Research"	0.898821548822
+"International Conference on Parallel and Distributed Systems"	0.8982497595
+"International Journal of Speech Technology"	0.898248903873
+"Gerontechnology"	0.896130952381
+"Digestive Diseases and Sciences"	0.896076722841
+"Theriogenology"	0.895972222222
+"Journal of Property Valuation and Investment"	0.893315018315
+"Autonomous and Intelligent Systems"	0.893303918304
+"Energies"	0.892357266917
+"International Joint Conference on Natural Language Processing"	0.892195767196
+"INFOCOMP Journal of Computer Science"	0.891865079366
+"International Journal of Circuit Theory and Applications"	0.890046296296
+"International Conference on Wireless Communications and Mobile Computing"	0.889354858105
+"Statistical Methods and Applications"	0.888888888889
+"International Journal of Bioinformatics Research and Applications"	0.88831569665
+"The Kips Transactions:partc"	0.887797619048
+"Skeletal Radiology"	0.886446007696
+"Network and System Security"	0.881178094134
+"Computational Statistics"	0.880303030303
+"Nature Biotechnology"	0.87962962963
+"International Conference on Parallel Architectures and Compilation Techniques"	0.877777133581
+"Robotica"	0.875757575758
+"Pacific Asia Workshop on Intelligence and Security Informatics"	0.874104995534
+"Pain Medicine"	0.874074074074
+"Computer Information Systems and Industrial Management Applications"	0.873332685833
+"Marine Ecology Progress Series"	0.871918004835
+"Communication Systems and Networks"	0.871772077129
+"Applied Radiation and Isotopes"	0.870739989178
+"American Journal of Hypertension"	0.86930599357
+"Applied Geography"	0.868663784959
+"Networks"	0.868301424106
+"International Journal of Knowledge-based and Intelligent Engineering Systems"	0.868229166667
+ Networking and Communication Systems"	0.866836734694
+"Journal of Hospitality & Tourism Research"	0.866768879268
+"Livestock Science"	0.866671176046
+ Natural Hazards and Risk"	0.864087301587
+"Arthritis & Rheumatism"	0.86277958153
+"Autonomous Agents and Multi-Agent Systems"	0.862003968254
+"Hybrid Artificial Intelligence Systems"	0.861970945722
+"The American Journal of Clinical Nutrition"	0.861111111111
+"Bulletin of The Department of Geology"	0.858928571428
+"Software Engineering and Data Engineering"	0.858701814059
+"Science China-technological Sciences"	0.857767406205
+"Computers & Structures"	0.857738095239
+"International Journal of Applied Management Science"	0.856361231361
+"International Journal of E-health and Medical Communications"	0.854450113379
+"Journal of Environmental Quality"	0.854136533402
+"Journal of Electrical Engineering & Technology"	0.853715728716
+"Theory and Practice of Digital Libraries"	0.853174603175
+"Journal of Cancer Research and Clinical Oncology"	0.852665990639
+"Journal of Civil Engineering and Management"	0.852576272934
+"International Journal of Cardiology"	0.852225056689
+"Egyptian Informatics Journal"	0.852015048444
+"Journal of The Indian Society of Remote Sensing"	0.850595238095
+"IEEE Transactions on Systems Science and Cybernetics"	0.850319193335
+"Current Topics in Medicinal Chemistry"	0.849553918304
+"Journal of Dental Sciences"	0.84828042328
+ Emergent and Distributed Systems"	0.847222222222
+"International Conference on Image Analysis and Recognition"	0.847099717412
+"Radiology"	0.847094612903
+ Packaging and Manufacturing Technology"	0.845091540404
+"IEEE Computer Graphics and Applications"	0.845082831111
+"Journal of Global Optimization"	0.844907407408
+"International Journal of Mathematics in Operational Research"	0.844907407408
+ Systems and Applications of IP Telecommunications"	0.84444953195
+"Brazilian Journal of Infectious Diseases"	0.843355429293
+"International Journal of Bio-inspired Computation"	0.842592592593
+"International Journal of Healthcare Information Systems and Informatics"	0.842592592593
+"Food and Cosmetics Toxicology"	0.842592592593
+"International Journal of Rotating Machinery"	0.842361111111
+"Studies in Regional Science"	0.8421875
+"Nordic Journal of Computing"	0.841937229438
+"Optimal Control Applications & Methods"	0.840740740741
+"Informatica (slovenia)"	0.840740740741
+"Journal of Korean Medical Science"	0.839351851853
+"Oral Oncology Supplement"	0.839225589226
+"Cereal Chemistry"	0.838147095959
+"Journal of Algorithms"	0.837962962963
+"Tourism Management"	0.837847222222
+"Osteoporosis International"	0.837244005994
+"Asian Nursing Research"	0.83640491453
+"Acta Scientiae Veterinariae"	0.836342592592
+"Network Operations and Management Symposium"	0.836192810458
+"Naval Engineers Journal"	0.835758377425
+"The Computer Journal"	0.833833230263
+"Nuclear Medicine Communications"	0.833333333334
+"Analyst"	0.832258597883
+"Journal of Investigative Psychology and Offender Profiling"	0.831423611111
+"International Journal of Numerical Modelling-electronic Networks Devices and Fields"	0.830828373016
+"Journal of Professional Nursing"	0.829640151516
+"Journal of Food Science"	0.828282828283
+"Journal of Voice"	0.826589556278
+"Statistical and Scientific Database Management"	0.826470588235
+"Technometrics"	0.826060606061
+"Journal of Petroleum Technology"	0.825798738299
+"International Journal on Document Analysis and Recognition"	0.825583444335
+"Biogeosciences"	0.82430948681
+"Self-Adaptive and Self-Organizing Systems"	0.824104888166
+"Nukleonika"	0.821900495339
+"Journal of Crystal Growth"	0.821599025975
+"ACM Computing Surveys"	0.821224676739
+"Scientia Pharmaceutica"	0.82032627866
+"Journal of Business Ethics"	0.819783850409
+"Cytometry Part A"	0.818235930736
+"Journal of Robotic Systems"	0.816953262786
+"Biotechnology Progress"	0.814969135803
+"BMC Public Health"	0.813698446063
+"Information Systems Frontiers"	0.812384627157
+"Aquatic Living Resources"	0.811488280239
+"Analysis and Modeling of Faces and Gestures"	0.811292989419
+"System Dynamics Review"	0.810914502165
+"International Journal of Healthcare Technology and Management"	0.809920634921
+"International Symposium on Bioinformatics Research and Applications"	0.809760659314
+"International Conference on Distributed Smart Cameras"	0.809436050061
+ and Simulation On Computer and Telecommunication Systems"	0.80917561469
+"Linear Algebra and its Applications"	0.808333333333
+"Distributed Systems: Operations and Management"	0.807477081742
+"Software and Compilers for Embedded Systems"	0.806470057721
+"Asia-Pacific Services Computing Conference"	0.806426351426
+"Computational Linguistics"	0.805713433392
+"Clei Electronic Journal"	0.805555555556
+"Information Retrieval"	0.805041971918
+"International Journal of Mining and Mineral Engineering"	0.804551896516
+"International Journal of Production Economics"	0.804037311894
+"Logic in Computer Science"	0.803644486461
+"Acoustical Science and Technology"	0.802777777778
+"Journal of the American Geriatrics Society"	0.802331649831
+"European Workshop on Multi-Agent Systems"	0.802083333334
+"Area"	0.801388888889
+"International Journal of Business Performance and Supply Chain Modelling"	0.80128968254
+"Journal of The Japan Landslide Society"	0.80128968254
+"Production and Operations Management"	0.800784889713
+"Progress in Natural Science"	0.800347222222
+"Behavioural Brain Research"	0.800138888889
+"International Journal of Project Management"	0.799877437378
+"Journal of Animal Science and Technology"	0.796861631016
+"International Conference on Sensor Networks"	0.79647019647
+"Canadian Journal of Veterinary Research-revue Canadienne De Recherche Veterinaire"	0.795681016514
+"Parallel Processing and Applied Mathematics"	0.79546957672
+"Autonomous Robots"	0.793253968254
+"Environmetrics"	0.792541197229
+"Concurrency and Computation: Practice and Experience"	0.79246031746
+"International Conference on Software and Data Technologies"	0.792457841723
+"Mexican International Conference on Computer Science"	0.792160551089
+"Journal of School Psychology"	0.790797258297
+"Acta Radiologica"	0.790795454546
+"Research in Higher Education"	0.790644540645
+"Journal of Clinical Psychology"	0.789930555556
+"American Ethnologist"	0.78835978836
+"International Journal of Clothing Science and Technology"	0.786190776815
+"Journal of Geographical Sciences"	0.784206973583
+"International Symposium on Multimedia"	0.783688973065
+"Oral Surgery Oral Medicine Oral Pathology Oral Radiology and Endodontology"	0.782060185185
+"Journal of Information Science"	0.782056022681
+"African Journal of Biotechnology"	0.779828042328
+"Rules and Rule Markup Languages for the Semantic Web"	0.779513888889
+"International Journal of Ad Hoc and Ubiquitous Computing"	0.779513888889
+"Respiratory Medicine"	0.778240740741
+ and Laryngology"	0.777777777778
+"Journal of Human Lactation"	0.777738095237
+"Transactions in Gis"	0.776537698413
+"The Journal of Psychology"	0.776424963925
+"International Symposium on Wireless Communication Systems"	0.776009202437
+"IEEE Engineering in Medicine and Biology Magazine"	0.775229226792
+"British National Conference on Databases"	0.774222883598
+"Internet Research"	0.774015799015
+"Journal of the American Medical Informatics Association"	0.773611111111
+"International Journal of Colorectal Disease"	0.773546988726
+"Publications of the Astronomical Society of the Pacific"	0.773346560847
+"Midwest Artificial Intelligence and Cognitive Science Conference"	0.772777777778
+"Managerial and Decision Economics"	0.772513528139
+"Brazilian Symposium on Databases"	0.772191533957
+"Clinical Risk"	0.772156084656
+"Memorias Do Instituto Oswaldo Cruz"	0.772150997152
+"Computational Intelligence Methods for Bioinformatics and Biostatistics"	0.771623931625
+"Journal of Infrastructure Systems"	0.771180555556
+"Journal of Digital Information Management"	0.771180555556
+"Journal of The American Water Resources Association"	0.770977332852
+"Bulletin of Mathematical Biology"	0.770938051146
+"Annals of The Association of American Geographers"	0.769132395382
+"Computing and Combinatorics Conference"	0.76895495572
+"Databases in Networked Information Systems"	0.768865740741
+"Fuzzy Information and Engineering"	0.768518518519
+"Measurement Science and Technology"	0.767666592666
+"High-Performance Computer Architecture"	0.767289838429
+"Nursing Management (springhouse)"	0.76712962963
+"Theoretical Informatics and Applications"	0.766666666667
+"Moscow University Mathematics Bulletin"	0.765740740741
+"Agricultural and Forest Meteorology"	0.765613044362
+"Elektronika Ir Elektrotechnika"	0.764598895114
+"Clinical Radiology"	0.763713369963
+"Journal of Ornithology"	0.763583638583
+"Journal of Loss Prevention in The Process Industries"	0.76252908992
+"Pest Management Science"	0.762125929625
+"Pharmacy Education"	0.761237373738
+"Ecology Letters"	0.760852573353
+"Science in China Series D: Earth Sciences"	0.760796957672
+"Energy Procedia"	0.759940076457
+"Picture Coding Symposium"	0.758287083287
+"The Tqm Magazine"	0.758271919879
+"Journal of Canadian Petroleum Technology"	0.758207070707
+"Journal of Air Transport Management"	0.757835583729
+"Journal of Electronic Testing"	0.757162698413
+"Information Security and Assurance"	0.757060185185
+"Security of Information and Networks"	0.757053872054
+"Aquatic Ecology"	0.756029040405
+"IEEE Transactions on Robotics"	0.755822467876
+"Electronic Journal of Combinatorics"	0.755303030303
+"Alternatives To The High Cost of Litigation"	0.753928170595
+"Engineering of Computer-Based Systems"	0.753522403522
+"Journal of Occupational and Environmental Medicine"	0.753366421938
+"Advances in Electrical and Computer Engineering"	0.752988215488
+"Patient Education and Counseling"	0.752174033354
+"Open Medicine"	0.75085978836
+"Intelligent Agents"	0.750673400674
+"Scalable Uncertainty Management"	0.750673400674
+"Knowledge Engineering Review"	0.750673400674
+"Ussr Computational Mathematics and Mathematical Physics"	0.749074074074
+"Physica E-low-dimensional Systems & Nanostructures"	0.74799108163
+"Resuscitation"	0.747439531369
+"Toxicological Sciences"	0.747401441151
+"IEEE Transactions on Circuits and Systems Ii-express Briefs"	0.7467210369
+"Software Engineering and Advanced Applications"	0.744877344878
+"Image and Vision Computing"	0.744841269842
+"Wuhan University Journal of Natural Sciences"	0.744679763321
+"Tradition"	0.74405964406
+"Ocean Engineering"	0.743981481482
+"Journal of Experimental Psychology: General"	0.742817460317
+"Artificial General Intelligence"	0.742424242424
+"The Journal of Education for Business"	0.742063492063
+"Economic Theory"	0.741958803724
+"IEEE\/ACM Transactions on Networking"	0.741553287983
+"Computer Games"	0.740861992946
+"Environmental Science and Pollution Research"	0.740256734007
+"Journal of Japan Society for Fuzzy Theory and Intelligent Informatics"	0.740079365079
+"Journal of Mechanics in Medicine and Biology"	0.738966346154
+"Algorithmic Aspects of Wireless Sensor Networks"	0.738888888889
+"Chinese Geographical Science"	0.736921511028
+"Philosophical Transactions of the Royal Society A"	0.73576388889
+"Applied and Environmental Microbiology"	0.735674603175
+"Clinical Cancer Research"	0.735265103162
+"Probability Theory and Related Fields"	0.734646464647
+"Computer-aided Civil and Infrastructure Engineering"	0.734027777779
+ Reformulation and Approximation"	0.733928571429
+"IEEE Transactions on Control Systems and Technology"	0.73355429293
+"American Journal of Medical Quality"	0.733333333334
+"Implant Dentistry"	0.732883597884
+"International Symposium on Physical Design"	0.732341269841
+"Iet Information Security"	0.73199074074
+"Developments in Language Theory"	0.731428571429
+"International Journal of Network Security & Its Applications"	0.731428571429
+"Innovar-revista De Ciencias Administrativas Y Sociales"	0.731313131313
+"Surgery"	0.730637254902
+"Sealing Technology"	0.730150570329
+"PLOS Medicine"	0.729700854702
+"Integrated Manufacturing Systems"	0.729398148148
+"Information Theory and Applications"	0.728964245631
+"Concept Lattices and their Applications"	0.728935185185
+"Europhysics Letters (epl)"	0.728055555556
+"Pattern Recognition in Information Systems"	0.726666666667
+"American Journal of Human Genetics"	0.726083638583
+"Oral Oncology"	0.725943460718
+"International Journal of Decision Support System Technology"	0.724792106042
+"Collaborative Computing"	0.724781746032
+"Transactions of The American Fisheries Society"	0.7243872447
+"Journal of Vegetation Science"	0.724268324269
+"Iee Proceedings-computers and Digital Techniques"	0.723954081632
+"Bit Numerical Mathematics"	0.723888888889
+ Languages and Combinatorics"	0.722962962963
+"Current Medical Research and Opinion"	0.722309981685
+"Thorax"	0.722209804084
+"Bulletin of The European Association for Theoretical Computer Science"	0.722053872054
+"Journal of the Academy of Marketing Science"	0.720138888889
+"The Professional Geographer"	0.720105820106
+ Technology and Engineering"	0.720049560228
+"Clinical and Experimental Nephrology"	0.719078005327
+"Atmospheric Chemistry and Physics"	0.718677849927
+"Pervasive Technologies Related to Assistive Environments"	0.718608706109
+"Acta Mathematicae Applicatae Sinica"	0.718353174603
+"IEEE-ASME Transactions on Mechatronics"	0.718346776681
+"Ecological Applications"	0.717937204992
+"Revista Panamericana De Salud Publica-pan American Journal of Public Health"	0.717839452215
+"Artificial Intelligence and the Simulation of Behaviour"	0.717592592592
+"Human Reproduction"	0.717521367521
+"International Symposium on Computer Architecture"	0.716140572391
+"Pesquisa Agropecuaria Brasileira"	0.715938856117
+"Electro/Information Technology"	0.715379689755
+"Recent Advances in Intrusion Detection"	0.714761904761
+"North American Journal of Fisheries Management"	0.712927636089
+"Wireless and Optical Communications Networks"	0.711956619769
+"American Journal of Drug and Alcohol Abuse"	0.711805555556
+"Applied Stochastic Models in Business and Industry"	0.711210317461
+"Journal of Multivariate Analysis"	0.711130651757
+"Formal Methods"	0.710890151515
+"Sociological Methods & Research"	0.710826210826
+ American Volume"	0.710197961761
+"Archives De Pediatrie"	0.710091991342
+"Diabetic Medicine"	0.709659090909
+"Information Security"	0.709153297683
+"Journal of Place Management and Development"	0.708796296296
+"Journal of Assisted Reproduction and Genetics"	0.708730158731
+"Journal of Nutrition Education and Behavior"	0.708531746032
+"International Journal of Humanoid Robotics"	0.708506944445
+"Physics in Medicine and Biology"	0.708287942217
+"Journal of Hazardous Materials"	0.707983261779
+"Cerebrovascular Diseases"	0.707908132173
+"Annals of Mathematics and Artificial Intelligence"	0.707715594591
+"Resources Conservation and Recycling"	0.707657373491
+"The Counseling Psychologist"	0.707175925927
+"Assessment"	0.706462287712
+"World Journal of Gastroenterology"	0.706186868687
+"Transportation Research Part A-policy and Practice"	0.705640308765
+"Journal of Clinical Anesthesia"	0.704899267399
+"European Journal of Vascular Surgery"	0.704695767196
+"Cyber-Enabled Distributed Computing and Knowledge Discovery"	0.704112554112
+ Indoor and Mobile Radio Communications"	0.703633587273
+"Constraints - An International Journal"	0.702976190476
+"Neurotoxicology"	0.702268696912
+"Agrekon"	0.701984126984
+"Teaching Business Ethics"	0.701747557998
+"International Symposium/Conference on Music Information Retrieval"	0.701537698412
+"International Journal of Computer Games Technology"	0.700878684808
+"COPD: Journal of Chronic Obstructive Pulmonary Disease"	0.700202020202
+"Continental Shelf Research"	0.700131416203
+"Biodata Mining"	0.699166666667
+"American Journal of Infectious Diseases"	0.697916666667
+"BMJ Open"	0.697520689187
+"The Journal of Structured Finance"	0.697508818343
+"International Conference on Computer Vision Systems"	0.697123015873
+"Journal of Intelligent Learning Systems and Applications"	0.697118357833
+"Modern Pathology"	0.697103174602
+"Annals of Biomedical Engineering"	0.697065733831
+"International Journal of Hydrogen Energy"	0.69668128939
+"Biomedical Signal Processing and Control"	0.695361351612
+"Wireless Communications and Mobile Computing"	0.695299145299
+ Mobile and Ubiquitous Technologies in Education"	0.695124716553
+"International Conference on Design of Communication"	0.694664902997
+"International Conference on Pervasive Services"	0.694663207163
+"The Visual Computer"	0.694659391534
+"Economic Systems Research"	0.694472425723
+"Northern Journal of Applied Forestry"	0.693873190302
+"Seizure-european Journal of Epilepsy"	0.693750000001
+"Intelligent Automation and Soft Computing"	0.69372537185
+"Emergency Medicine Australasia"	0.692526455027
+"Eureka"	0.691595117846
+"Issues in Mental Health Nursing"	0.691439909297
+"Computer Networks"	0.691069347319
+"Systems Engineering - Theory & Practice"	0.690670995671
+"Rare Metal Materials and Engineering"	0.689953796204
+"Canadian Journal of Remote Sensing"	0.689877860235
+"Journal of Forensic Psychology Practice"	0.689489918443
+"Diabetes Care"	0.688620419273
+"Environment and Planning B-planning & Design"	0.68861050986
+"Membrane Technology"	0.688146529396
+"Genome Research"	0.687732984608
+"Journal of Information Processing Systems"	0.687673611112
+"Decision Sciences"	0.68759469697
+"European Physical Journal C"	0.687456154956
+"International Workshop on Fuzzy Logic and Applications"	0.687271524771
+"Journal of Systems Integration"	0.686805555555
+"Mathematical Problems in Engineering"	0.686742424242
+"Experimental Cell Research"	0.686631944445
+"Seminars in Radiation Oncology"	0.686375661376
+"European Journal of Cardiovascular Nursing"	0.685912698413
+"Quality and Reliability Engineering International"	0.685714285714
+"Journal of Elder Abuse & Neglect"	0.685714285714
+"Defence Science Journal"	0.684501262627
+"Economic Affairs"	0.684351851852
+"International Journal of Applied Management and Technology"	0.684297052154
+"Journal of Information Processing"	0.684117364118
+"Journal of Psychopathology and Behavioral Assessment"	0.68388133031
+"Computational Materials Science"	0.683754960318
+"Medical Image Computing and Computer-Assisted Intervention"	0.683261229511
+"American Journal of Psychiatry"	0.683240740741
+"Journal of Hepato-biliary-pancreatic Surgery"	0.683219954649
+"Electrical Engineering in Japan"	0.682539682539
+"Teaching of Psychology"	0.682485569986
+"Foundations of Software Technology and Theoretical Computer Science"	0.681746031747
+"Artificial Organs"	0.681319606319
+"Journal of Toxicological Sciences"	0.681198835887
+"Organizational Dynamics"	0.680902777778
+"Journal of Environmental Science and Health Part A-toxic\/hazardous Substances & Environmental Engineering"	0.680664994728
+"Theory and Applications of Satisfiability Testing"	0.680660774411
+"Top"	0.680555555556
+"Ophthalmic and Physiological Optics"	0.679389063318
+"Toxicon"	0.679074074075
+"Journal of Global Marketing"	0.678993055556
+"Marine Policy"	0.678736772487
+"Biological Control"	0.678403937333
+"New Directions for Institutional Research"	0.678120490621
+"Parkinsonism & Related Disorders"	0.678050595238
+"Medical Hypotheses"	0.677978445166
+"The Journal of Portfolio Management"	0.67712962963
+"Applied Stochastic Models and Data Analysis"	0.677083333334
+"International Conference on Engineering of Complex Computer Systems"	0.676705747955
+"BMC Research Notes"	0.676500208546
+"Journal of Applied Polymer Science"	0.676313131313
+"European Journal of Pain"	0.67614638448
+"Journal De Chirurgie"	0.675967261905
+"Information Visualization"	0.675832732084
+"Cheminform"	0.675703463204
+"Archives of Gerontology and Geriatrics"	0.675461922337
+"River Research and Applications"	0.675396825398
+"Journal of Network and Systems Management"	0.67516134659
+"Nature Precedings"	0.674603174603
+"Clinical Microbiology and Infection"	0.674603174603
+"International Journal of Surgical Oncology"	0.673920755171
+"Rehabilitation Psychology"	0.673304407233
+"Tourism and Hospitality Research"	0.67123241342
+"Surgery for Obesity and Related Diseases"	0.671102335165
+"Theoretical Issues in Ergonomics Science"	0.670855379189
+"Microprocessor Test and Verification"	0.670530232295
+"Computers & Electrical Engineering"	0.669958513708
+"Journal of The Chinese Medical Association"	0.669171626985
+"Research Challenges in Information Science"	0.669161856662
+"Canadian Journal of Agricultural Economics-revue Canadienne D Agroeconomie"	0.668622176435
+"Deep-sea Research Part I-oceanographic Research Papers"	0.668483302412
+"Journal of Communications"	0.668303571429
+"International Journal of Computer Vision"	0.668129960318
+"Distributed Frameworks for Multimedia Applications"	0.667965367965
+ Quality and Safety Engineering"	0.666636604137
+"Information Systems Research"	0.66652930403
+"Journal of Psychoeducational Assessment"	0.666245039683
+"International MultiConference of Engineers and Computer Scientists"	0.664856150794
+"Siam Journal on Algebraic and Discrete Methods"	0.664814814815
+"Lung"	0.664752539127
+"Telecommunications Policy"	0.664351158102
+"Indian Journal of Pharmaceutical Sciences"	0.663878968254
+"Transportation Research Part F-traffic Psychology and Behaviour"	0.663729141229
+"Journal of Mathematical Sciences"	0.663616071429
+"Journal of Food Quality"	0.663131313131
+"Gastric Cancer"	0.662784090909
+"Enterprise Distributed Object Computing"	0.661227066585
+"Academic Medicine"	0.660714285714
+"Journal of Business Research"	0.66066919192
+"European Journal of Anaesthesiology"	0.660122655123
+"Journal of Applied Meteorology"	0.659474784476
+"Spe Reservoir Evaluation & Engineering"	0.659441773504
+"European Radiology"	0.659402135113
+"Journal of the American Mathematical Society"	0.657142857143
+"Journal of Database Management"	0.656543456543
+"Annals of Nuclear Energy"	0.656505531505
+"International Conference on Supercomputing"	0.656079174094
+"Animal Genetics"	0.655723905724
+"International Journal of Knowledge Engineering and Soft Data Paradigms"	0.655505952382
+"Animal Behaviour"	0.654990379991
+"International Transactions in Operational Research"	0.654987935345
+"Yugoslav Journal of Operations Research"	0.654642857143
+"Cancer Science"	0.654017857143
+"Mexican Conference on Pattern Recognition"	0.65349025974
+"International Symposium on Quality Electronic Design"	0.653475228476
+"Chinese Medical Journal"	0.652953961548
+ & Early Intervention"	0.65257597341
+"IEEE Distributed Systems Online"	0.652469135802
+ Human-Computer Interfaces and Measurement Systems"	0.652271571022
+"Computers & Graphics"	0.651866883117
+"Spine"	0.651726190476
+"Psychiatry Research-neuroimaging"	0.651655443323
+"Qsar & Combinatorial Science"	0.651613756614
+"Progress in Oceanography"	0.651247363747
+"Archives of Otolaryngology-head & Neck Surgery"	0.649549014438
+"International Conference on Cyber-Physical Systems"	0.649365079366
+"Global Business and Economics Review"	0.648905723906
+"International Journal of Electronic Customer Relationship Management"	0.648737373737
+"Statistical Applications in Genetics and Molecular Biology"	0.648327037547
+"The Holocene"	0.646051587302
+"International Journal of Clinical and Experimental Pathology"	0.645396424563
+"Transactions of The Royal Society of South Africa"	0.645262896825
+"Personality and Individual Differences"	0.644951499118
+"Forests"	0.643681715111
+"Histopathology"	0.643263163852
+"Clinics"	0.642900089329
+ Identification and Control"	0.64273989899
+"Particle and Fibre Toxicology"	0.641743287576
+"Symposium on Integrated Circuits and Systems Design"	0.64127435065
+"Document Recognition and Retrieval"	0.641173340548
+"Evolutionary Ecology"	0.641056166056
+"International Journal of Automation and Computing"	0.640740740741
+"Journal of Applied Animal Research"	0.640404040404
+"Vibrational Spectroscopy"	0.639924242424
+"Cancer Informatics"	0.638694836909
+"Mobile and Wireless Communication Networks"	0.63798941799
+"Arthritis Care and Research"	0.637927350428
+"Smart Materials Bulletin"	0.637012987013
+"American Journal of Respiratory and Critical Care Medicine"	0.636182659933
+"American Journal of Physical Anthropology"	0.635047244422
+"Urban Studies"	0.633905723906
+"Diabetologia"	0.633796296297
+"Journal of Endourology"	0.633597883599
+ Arthroscopy"	0.633427057692
+"Haematologica-the Hematology Journal"	0.633042964661
+"Annals of Allergy Asthma & Immunology"	0.631208427815
+"Clinical Gastroenterology and Hepatology"	0.631198827628
+"Journal of Palliative Care"	0.628553391053
+"The Journal of Pathology"	0.62755346311
+"International Journal of Medical Sciences"	0.626672632923
+"American Journal of Clinical Pathology"	0.626531230208
+"Natural Computing"	0.624305555556
+"Dementia and Geriatric Cognitive Disorders"	0.624119134834
+"Toxicology"	0.622823472823
+"Current Drug Metabolism"	0.622652116402
+"American Journal of Sports Medicine"	0.621944105278
+"Ieej Transactions on Industry Applications"	0.621853455187
+ and Psychiatry"	0.621280292421
+"World Patent Information"	0.621173898852
+"Fungal Genetics and Biology"	0.621117506832
+"International Journal of Industrial Engineering-theory Applications and Practice"	0.620042259328
+"Finance Research Letters"	0.619844276094
+"Spectrochimica Acta Part B: Atomic Spectroscopy"	0.619632682134
+"Intangible Capital"	0.618287037037
+"Archives of Agronomy and Soil Science"	0.61812030562
+"Journal of Computer-aided Molecular Design"	0.617597632488
+"Plant Physiology"	0.617228835979
+ Services and Technologies"	0.61716061716
+"International Symposium on Performance Analysis of Systems and Software"	0.616786916786
+"Automatic Control and Computer Sciences"	0.616071428571
+"Field Crops Research"	0.615458152959
+"International Journal of Security and Networks"	0.6146494709
+"Journal of Occupational and Environmental Hygiene"	0.614526831194
+"Epidemiology"	0.612276149776
+"Journal of Applied Corporate Finance"	0.612218915344
+"World Bank Research Observer"	0.612125721502
+"Public Health Nutrition"	0.610824150597
+ and Ecosystem Science"	0.610597492786
+"New Comprehensive Biochemistry"	0.60981934732
+"Frontiers in Human Neuroscience"	0.60876984127
+"Extending Database Technology"	0.608303270804
+"Construction and Building Materials"	0.607165288415
+"Trends in Analytical Chemistry"	0.606349206349
+"International Conference on Social Computing"	0.60562439875
+"IEEE Aerospace and Electronic Systems Magazine"	0.603749144374
+"Language Testing"	0.602728174602
+"Hepatology Research"	0.601768231769
+"Journal of Counseling Psychology"	0.600012025012
+"Journal of Thoracic Oncology"	0.599523508899
+"The New England Journal of Medicine"	0.598520355906
+"Journal of Power Electronics"	0.594742063491
+"Journal of the American Academy of Child and Adolescent Psychiatry"	0.594324194324
+"Journal of The American Society for Information Science"	0.591095478596
+"Journal of Computing and Information Science in Engineering"	0.58899281935
+"International Journal of Information Management"	0.587913059164
+"International Journal of Forensic Mental Health"	0.587491732804
+"Iet Systems Biology"	0.586287477954
+"European Conference on Technology Enhanced Learning"	0.584431689342
+ Image and Video Processing"	0.584421596922
+"Marine and Freshwater Research"	0.583813293189
+"International Symposium on Ubiquitous Virtual Reality"	0.583531746032
+"Journal of Medical Toxicology"	0.581758750509
+"Mathematics and Computers in Simulation"	0.580789399094
+"Scandinavian Journal of Statistics"	0.57285954786
+"IEEE Computer Applications in Power"	0.567544492545
+"Analytical Chemistry"	0.56746031746
+"Archiv Fur Hydrobiologie"	0.566271645022
+"International Journal of Modern Physics A"	0.565598290598
+"Jistem Journal of Information Systems and Technology Management"	0.565222162098
+"BMC Musculoskeletal Disorders"	0.565008854782
+"AMBIO: A Journal of the Human Environment"	0.564951098284
+"Brief Treatment and Crisis Intervention"	0.563762626263
+"Information Security for South Africa"	0.563591269841
+"Digital Identity Management"	0.560637626263
+"Urologic Oncology-seminars and Original Investigations"	0.558641610915
+ Information and Systems"	0.557400793651
+"Evolving Systems"	0.557012432013
+"Network and Parallel Computing"	0.556597222222
+"Journal of Economic Psychology"	0.55505952381
+"International Conference on Cluster Computing"	0.554768518518
+"IEEE Virtual Reality Conference"	0.553787647537
+"Politicka Ekonomie"	0.553571428572
+"Network: Computation In Neural Systems"	0.553511303512
+"Pediatric Radiology"	0.553285834535
+"Journal of Pathology Informatics"	0.55308591871
+"Clinica Chimica Acta"	0.552876984128
+"Synthese"	0.552083333334
+"Agriculture and Human Values"	0.550661375661
+"Network and System Support for Games"	0.550198412698
+"Information Technology for Development"	0.547210948775
+"Journal of Computer Research and Development"	0.545138888889
+"IEEE Pervasive Computing"	0.544744514745
+"Journal of Molecular Biology"	0.54436112829
+"BMC Cardiovascular Disorders"	0.542517297517
+"Journal of Research and Practice in Information Technology"	0.542063492064
+"Emerging Infectious Diseases"	0.542056277057
+"Acta Astronautica"	0.541678691679
+ and Processors"	0.541087962963
+"Journal of Spacecraft and Rockets"	0.540345765345
+"Journal of Wildlife Management"	0.53888888889
+"Nederlands Tijdschrift Voor Tandheelkunde"	0.538762626264
+"Evolutionary Computation"	0.538531144781
+"Pharmacy World & Science"	0.538488455988
+"Bulletin of Economic Research"	0.537820512821
+"Physiotherapy Theory and Practice"	0.537581699347
+"Procedia Earth and Planetary Science"	0.537092867449
+"Health Policy"	0.536904125968
+"Predictive Models in Software Engineering"	0.536586099086
+"Journal of Vascular Nursing"	0.536531920461
+"Conference on Recommender Systems"	0.536258417509
+"Journal of Neuroengineering and Rehabilitation"	0.535928932179
+"Archives of Metallurgy and Materials"	0.535631613757
+"Tobacco Control"	0.535515873016
+"Annals of Family Medicine"	0.535109126984
+"Naturwissenschaften"	0.534920634921
+"Information Technology Based Higher Education and Training"	0.534206649832
+"Focus on Catalysts"	0.533921423695
+"Evolutionary Intelligence"	0.533373316498
+"Biocontrol Science and Technology"	0.532928992304
+"Behavioral Ecology"	0.532828282827
+"Polymer"	0.532052669552
+"Ecological Monographs"	0.531810021989
+"Biochimica et Biophysica Acta"	0.531691919192
+"Journal of Applied Econometrics"	0.529377104377
+"Environmental and Ecological Statistics"	0.529343969522
+"International Journal of Semantic Computing"	0.529175685426
+"Investigative Ophthalmology & Visual Science"	0.529065312994
+"Sexually Transmitted Infections"	0.528993392228
+"Microelectronics Journal"	0.528819444445
+"Scientific Programming"	0.528523328524
+"Applied Economics Letters"	0.528472222223
+"Special Care in Dentistry"	0.528273809524
+"Periodica Polytechnica Electrical Engineering"	0.527430555556
+"ACM Transactions on The Web"	0.526930873359
+"Human Genetics"	0.526750541127
+"Pharmacology & Therapeutics"	0.526517510267
+"Journal of Heuristics"	0.526240079365
+"BMC Oral Health"	0.526045482296
+"The Journal of Clinical Endocrinology and Metabolism"	0.525929348429
+"Basic and Applied Ecology"	0.525471866096
+"International Congress Series"	0.525462962963
+"Japanese Circulation Journal-english Edition"	0.524351343101
+"Environment and Planning A"	0.523991402116
+"Regional Studies"	0.523172949735
+"Petroleum Science"	0.522654371092
+"Simulated Evolution and Learning"	0.52257094757
+"International Symposium on Parallel and Distributed Computing"	0.522106481481
+"Annals of Internal Medicine"	0.521981837606
+"Health Policy and Planning"	0.521350623583
+"Soil Dynamics and Earthquake Engineering"	0.520138888889
+"Cooperative Information Agents"	0.520138888889
+"Journal of Electrocardiology"	0.520089285715
+"Journal of The Ergonomics Society of Korea"	0.51966931217
+"Food Policy"	0.519576719576
+"Signal Processing-image Communication"	0.519543697044
+"Pump Industry Analyst"	0.519358164982
+"Journal of Pharmaceutical Innovation"	0.519246031746
+"Archives of Gynecology and Obstetrics"	0.519097222222
+"Bone"	0.518553113553
+"Intelligent Information Management"	0.517880591631
+"Preventive Medicine"	0.517290464166
+"Kybernetes"	0.516792929294
+"Inhalation Toxicology"	0.51668417231
+"The Chinese-german Journal of Clinical Oncology"	0.516493055555
+"ACM Transactions on Database Systems"	0.516089996605
+"Discrete Mathematics"	0.515951178452
+"International Conference on Information Networking"	0.51534530479
+"Korean Journal of Radiology"	0.514646464646
+"Journal of Chemical Physics"	0.514141414141
+"Gut"	0.514021164021
+"JAMA Internal Medicine"	0.513981851483
+"ACM Special Interest Group on Data Communication"	0.513441487706
+"Drug Discovery Today"	0.513306878307
+"Bayesian Analysis"	0.513099747475
+"Journal of Artificial Intelligence"	0.512752525253
+"The Spine Journal"	0.51233951234
+"Mathematical Social Sciences"	0.511805555556
+"Journal of Biological Chemistry"	0.510669191919
+"Personal and Ubiquitous Computing"	0.510561660561
+"Intelligent Decision Technologies"	0.51
+"Resources Policy"	0.509953703704
+"Advanced Drug Delivery Reviews"	0.509900793651
+"Multiple Criteria Decision Making"	0.50972883598
+"Analytical Biochemistry"	0.509529822029
+"Western Journal of Medicine"	0.509406565656
+"Comptes Rendus Biologies"	0.509327400994
+"Clinical Chemistry and Laboratory Medicine"	0.509269781144
+"The Journal of Pediatrics"	0.508843101343
+"Policy Sciences"	0.508773248357
+"Inflammatory Bowel Diseases"	0.508632478632
+"Metabolomics"	0.508484848485
+"Journal of Pure and Applied Algebra"	0.508432539683
+"Pediatric Pulmonology"	0.508002645503
+"Fetal Diagnosis and Therapy"	0.507928240741
+"Microelectronics Reliability"	0.50775462963
+"Family Business Review"	0.50763888889
+"Automatica"	0.507544191919
+"International Journal of Society Systems Science"	0.507396584897
+"International Journal of Information and Communication Technology Education"	0.507026143792
+"International Journal of Environmental Analytical Chemistry"	0.506970498637
+"International Journal of Pavement Engineering"	0.506944444445
+"Software - Practice and Experience"	0.506795981797
+"Computer Graphics International"	0.505423280423
+"The Journal of Logic and Algebraic Programming"	0.505125661375
+"Journal of Animal Ecology"	0.505042735043
+"Journal of Heart and Lung Transplantation"	0.504861111112
+"Telemedicine Journal and E-health"	0.50474375162
+"Estuaries and Coasts"	0.504545454546
+"Graphics Recognition"	0.50404040404
+"Pharmacological Research"	0.503291500167
+"Journal of Hospitality Marketing & Management"	0.502645502646
+"Civil Engineering and Environmental Systems"	0.502182539682
+"Electronic Journal of Statistics"	0.501978114479
+"Engineering Management Journal"	0.501900482416
+"Journal of Policy Analysis and Management"	0.501752645503
+"Global Change Biology"	0.501695526695
+"Oncologist"	0.501447811449
+"Frontiers of Computer Science in China"	0.500733525734
+"Journal of the Royal Society of Medicine"	0.500730750731
+"Hacienda Publica Espanola"	0.499615199615
+"Child Language Teaching and Therapy"	0.499603174603
+"Revista Colombiana de Estadistica"	0.498842592593
+"International Conference on Natural Language Generation"	0.498478835979
+"Journal of Risk and Uncertainty"	0.498148148148
+"High Performance Interconnects"	0.498092532467
+"Precision Agriculture"	0.49777051652
+"Applied Catalysis A-general"	0.497658402204
+"History of Economic Ideas"	0.4975
+"Archives of Cardiovascular Diseases Supplements"	0.496969696969
+"Journal of The Autonomic Nervous System"	0.496759259259
+"IEEE Spectrum"	0.496378968255
+"International Journal of Lean Six Sigma"	0.496296296296
+"International Journal of Technology Assessment in Health Care"	0.496185064935
+"Journal of Conflict Resolution"	0.49615079365
+"Theory of Computing"	0.496031746031
+"International Journal of Digital Earth"	0.495786092216
+"International Journal of Primatology"	0.495614306329
+"Proceedings of The Royal Society B: Biological Sciences"	0.495553616908
+"Engineering Structures"	0.495396825397
+"International Journal of Service Industry Management"	0.494775132276
+"Intelligenza Artificiale"	0.494400352734
+"Journal of Molecular Catalysis A-chemical"	0.493894300144
+"American Journal of Roentgenology"	0.493520852786
+ Part B: Journal of Engineering Manufacture"	0.493333333333
+"European Heart Journal"	0.49325998076
+"Plant Systematics and Evolution"	0.492113095238
+"Networked Systems Design and Implementation"	0.491987179487
+"Asian Conference on Machine Learning"	0.491071428572
+"Inflammation Research"	0.490674603174
+"Psychiatric Clinics of North America"	0.490277777778
+"Journal of Volcanology and Geothermal Research"	0.489903846154
+"Journal of the Royal Society Interface"	0.489885992276
+"Community Ecology"	0.489602372936
+"Clinical Journal of The American Society of Nephrology"	0.489074074074
+"Ophthalmology"	0.48801278087
+"Public Health Nursing"	0.487134096063
+"Journal of the Association for Information Science and Technology"	0.486032254782
+"Journal of Urban Planning and Development-asce"	0.485788690476
+"Plant Cell Tissue and Organ Culture"	0.485706018518
+"Iee Proceedings-communications"	0.485667044596
+"Journal of Animal and Veterinary Advances"	0.485353535354
+"Corrosion"	0.484778531654
+"Neoplasia"	0.484722222222
+"IEEE Journal of Solid-state Circuits"	0.48459445647
+"Aeolian Research"	0.484329004329
+"Agronomy for Sustainable Development"	0.484325396826
+"Folia Phoniatrica Et Logopaedica"	0.48373015873
+"Journal of Proteome Research"	0.483375420875
+"Journal of Consulting and Clinical Psychology"	0.482986835289
+"Aquaculture"	0.482984331686
+"Integrated Assessment"	0.482794057794
+"Journal of Strain Analysis for Engineering Design"	0.482683982684
+"ACM Transactions on Algorithms"	0.482624716553
+"Symposium on Principles of Database Systems"	0.482624716553
+"International Journal of Design & Nature and Ecodynamics"	0.482533670034
+"Journal of Clinical Pathology"	0.482211249399
+"International Symposium on Software Testing and Analysis"	0.481944444444
+"International Conference on Autonomic and Autonomous Systems"	0.481884319384
+"Australian & New Zealand Journal of Statistics"	0.480723905724
+"Journal of Dairy Research"	0.480533273915
+"Journal of Orthopaedic Research"	0.480221745846
+"Nuclear Fusion"	0.480156582836
+"Health Promotion International"	0.480133928571
+"Mammal Study"	0.479903198653
+"Journal of Management in Medicine"	0.479748677249
+"Annals of The Royal College of Surgeons of England"	0.479695767196
+ Security and Trust"	0.479629629629
+"Brain Injury"	0.479544159545
+"JAMA Pediatrics"	0.479214489214
+"Conference on Intelligent Text Processing and Computational Linguistics"	0.478860028861
+"International Journal of Human Resource Management"	0.478224553224
+"Perspectives on Sexual and Reproductive Health"	0.478028155707
+"Atmosphere-ocean"	0.476296296296
+"Diagnostic Microbiology and Infectious Disease"	0.475776143792
+"Forestry Studies in China"	0.47560296846
+"Clinical Proteomics"	0.475555272614
+"Journal of Sleep Research"	0.475462962963
+ Electrical and Industrial Systems"	0.475347222222
+"Transport Policy"	0.475094195927
+"Clinics in Orthopedic Surgery"	0.474325905576
+"International Journal of Cancer"	0.473958333334
+"International Journal of Agent Technologies and Systems"	0.473953823954
+"ACM Transactions on Computer-Human Interaction"	0.473765432098
+"Trends in Parasitology"	0.47373922374
+"Research in Transportation Economics"	0.473714182643
+"Pulmonary Pharmacology & Therapeutics"	0.472420634921
+ Space Technology Japan"	0.472222222222
+"Journal of Molecular Structure-theochem"	0.472036736412
+"British Dental Journal"	0.471688612313
+"Collaboration Technologies and Systems"	0.471688034187
+"Transportation"	0.471362878486
+"Journal of Hospital Marketing & Public Relations"	0.470945566778
+"BMC Veterinary Research"	0.470655578989
+"Journal of Applied Genetics"	0.470478595479
+"Japanese Journal of Infectious Diseases"	0.470277552308
+"Primary Care Update for Ob\/gyns"	0.469681938431
+"Doklady Mathematics"	0.469543650794
+"Aviation"	0.469229497354
+"ACM Transactions on Autonomous and Adaptive Systems"	0.469030374388
+"Numerical Functional Analysis and Optimization"	0.468623737374
+"Information Hiding"	0.468489288489
+"International Symposium on Parallel and Distributed Processing and Applications"	0.468171296297
+"Forum on specification and Design Languages"	0.467738095238
+"Petroleum Science and Technology"	0.4673601385
+"Atmosfera"	0.466782407408
+"Computer Communication Review"	0.466553287983
+"IEEE Transactions on Sustainable Energy"	0.466493055556
+"European Journal of Endocrinology"	0.466453222703
+"European Respiratory Journal"	0.466017316018
+"Biochimie"	0.46577034077
+"International Journal of Automotive Technology"	0.465751262626
+"The American Naturalist"	0.46545614879
+"Journal of Agricultural Biological and Environmental Statistics"	0.465033298672
+"European Conference on Cognitive Ergonomics"	0.464682539682
+"Software Engineering Research and Applications"	0.464592352091
+"Journal of Educational and Behavioral Statistics"	0.464478114479
+"Circulation-heart Failure"	0.46447204416
+"Nonrenewable Resources"	0.464388785817
+"Cephalalgia"	0.464119397759
+"Journal of Experimental Marine Biology and Ecology"	0.464109848485
+"Fire Ecology"	0.46391723356
+"Academic Emergency Medicine"	0.463293650794
+"Optometry and Vision Science"	0.463161375662
+"Annals of Behavioral Medicine"	0.462925962925
+"Evaluation Review"	0.462731481482
+"Libyan Journal of Medicine"	0.4625
+"Journal of Psychiatric Research"	0.462396432932
+"Hydrological Sciences Journal-journal Des Sciences Hydrologiques"	0.461847643098
+"International Journal of Wireless and Mobile Computing"	0.461568986568
+"Model Driven Engineering Languages and Systems"	0.46148538961
+"Biomaterials"	0.461267436267
+"Computers and Concrete"	0.460954034391
+"Journal of Geographic Information System"	0.460714285715
+"International Journal of Information Security and Privacy"	0.459686147187
+"Nicotine & Tobacco Research"	0.459553872054
+"European Conference on Information Systems"	0.459545454545
+"Agricultural Sciences in China"	0.459493746993
+"Pacific-Rim Symposium on Image and Video Technology"	0.459343964858
+"International Conference on Artificial Immune Systems"	0.459206349207
+"Sustainability"	0.458978174603
+"Journal of Abnormal Psychology"	0.458779507529
+"Annals of Occupational Hygiene"	0.458654936334
+"Brazilian Symposium on GeoInformatics"	0.45837391775
+"Journal of Scheduling"	0.458257575757
+"in Silico Biology"	0.457993395494
+ Systems Biology and Intelligent Computing"	0.457936507936
+"Computer Supported Cooperative Work"	0.457619047619
+"Journal of Structural Biology"	0.457299686846
+"Technovation"	0.457043650794
+"Head and Neck-journal for The Sciences and Specialties of The Head and Neck"	0.456119252772
+"Quaternary Science Reviews"	0.455799062049
+"Desalination"	0.454954304954
+"Journal for Nature Conservation"	0.454762409308
+"Australasian Emergency Nursing Journal"	0.454540058706
+"Biomedical Engineering Systems and Technologies"	0.454243904243
+"IEEE Transactions on Ultrasonics Ferroelectrics and Frequency Control"	0.454166666667
+"Veterinary Parasitology"	0.454145622896
+"Health Informatics Journal"	0.453640873015
+"Agro Food Industry Hi-tech"	0.453604497355
+"International Journal of Information Technology and Web Engineering"	0.453508297259
+ Risk and Management"	0.452976190476
+"Digital Systems Design"	0.452741702742
+"Iet Image Processing"	0.452533577534
+"Wired/Wireless Internet Communications"	0.452020202021
+"Molecular Imaging and Biology"	0.451942155067
+"Eye"	0.451919993586
+"Clinical Rehabilitation"	0.45133577842
+"Journal of Environmental Sciences-china"	0.451244212963
+"Conference on Network and Service Management"	0.451190476191
+"Crop & Pasture Science"	0.451190476191
+ Network and System Sciences"	0.451164021165
+"Journal of Manufacturing Technology Management"	0.4511002886
+"Conflict Management and Peace Science"	0.450441919192
+"Field Programmable Gate Arrays"	0.449900793652
+"Journal of European Industrial Training"	0.449228395062
+"Annales De L Institut Henri Poincare-probabilites Et Statistiques"	0.449142061643
+"International Journal of Industrial Electronics and Drives"	0.448412698413
+"Simulation Modelling Practice and Theory"	0.448008241759
+"Australian and New Zealand Journal of Medicine"	0.447954459562
+"Biochemical Pharmacology"	0.447777222777
+"Nigerian Journal of Clinical Practice"	0.447721096986
+"Journal of Korea Water Resources Association"	0.447662337662
+"Foresight"	0.447267846532
+"Meteorological Applications"	0.446346535409
+"Educational Technology & Society"	0.44607593795
+"Marine Technology and Sname News"	0.445343545344
+"Neurosurgery"	0.445300841134
+ Radar and Signal Processing"	0.445238095238
+"Workshop on Parallel and Distributed Simulation"	0.445
+"Surgical Infections"	0.444999445
+"AIDS"	0.444986572071
+"Fish and Fisheries"	0.444918599919
+"Spe Computer Applications"	0.444610318876
+"Chemical Engineering Progress"	0.444444444445
+ and Manufacturing Technology: Part A"	0.444434731935
+"The Cardiology"	0.44430739014
+"Discrete Optimization"	0.443865740741
+"Journal of Modelling in Management"	0.443431337182
+"International Conference on Knowledge Capture"	0.443412143413
+"Genetics in Medicine"	0.44332521645
+"Addictive Behaviors"	0.44288319705
+ Automation and Mechatronics"	0.44136904762
+"Field-Programmable Technology"	0.441245791246
+"Journal of The Korean Institute of Illuminating and Electrical Installation Engineers"	0.441239778739
+ Proteomics & Bioinformatics"	0.440579262008
+"IEEE Systems Journal"	0.440159285159
+"Seminars in Arthritis and Rheumatism"	0.440144115145
+"Digital Investigation"	0.440061858077
+"Irrigation and Drainage Systems"	0.439709595959
+"Evaluation and Program Planning"	0.438994107744
+"IEEE MultiMedia"	0.438644688645
+"International Journal of Database Management Systems"	0.438131313132
+"International Conference on Peer-to-Peer Computing"	0.437976190476
+"Water"	0.4378885582
+"Conference on Information Technology in Asia"	0.437797619048
+"Iee Proceedings F Radar and Signal Processing"	0.43744212963
+"Respiratory Research"	0.436862674362
+"International Journal of Modern Physics C"	0.436694266381
+"International Journal of High Performance Systems Architecture"	0.435876623377
+"Aeu-international Journal of Electronics and Communications"	0.435437479187
+"Enterprise Information Systems"	0.434920634921
+ Mesh and Ad Hoc Communications and Networks"	0.434710131139
+"British Journal of Obstetrics and Gynaecology"	0.434386446886
+"Endocrinology"	0.434282153032
+"Geographical Analysis"	0.434007936508
+"International Conference on Data Technologies and Applications"	0.433603896104
+"Engineering Optimization"	0.433455433456
+"International Urogynecology Journal"	0.433225455101
+"Forensic Science International"	0.432318422318
+"Journal of Services Marketing"	0.432275132275
+"The American Journal of the Medical Sciences"	0.431977513227
+"Artificial Intelligence in Education"	0.431745148791
+"Cancer Research"	0.43170852874
+"Expert Opinion on Drug Discovery"	0.431583694084
+"Journal of Visual Languages and Computing"	0.431410256411
+"Minds and Machines"	0.431246923011
+"World Haptics Conference"	0.430257936508
+"Computer Algebra in Scientific Computing"	0.430001653439
+"Conference on Emerging Network Experiment and Technology"	0.42973519536
+"Journal of Headache and Pain"	0.429713804714
+"Journal of Natural Gas Science and Engineering"	0.42962962963
+"Clinical Oncology and Cancer Research"	0.429608585858
+"Materials and Manufacturing Processes"	0.429312750741
+"Cancer Epidemiology"	0.429205288176
+"Journal of Sports Sciences"	0.429053287982
+"Sensing and Instrumentation for Food Quality and Safety"	0.428897821755
+"Euro American Conference on Telematics and Information Systems"	0.428753538128
+"International Journal of Computational Intelligence Studies"	0.428670634921
+"Computer Aided Systems Theory"	0.428108465609
+"Advances in Multimedia"	0.427255036631
+"International Journal of Operational Research"	0.426851851852
+"Managing Leisure"	0.426628787879
+"International Journal of Simulation and Process Modelling"	0.426151009485
+"Journal of Clinical Nursing"	0.425925925926
+"Proceedings of The International Astronomical Union"	0.425892857143
+"Food Research International"	0.425404842071
+"Ices Journal of Marine Science"	0.4253998779
+"Engineering Applications of Computational Fluid Mechanics"	0.424936868687
+"Rynek Energii"	0.424534030784
+"IEEE Transactions on Services Computing"	0.424388227514
+"International Symposium on Low Power Electronics and Design"	0.424335664335
+"Acta Oto-laryngologica"	0.424258421318
+"Journal of Spatial Science"	0.423820901321
+"Emergency Radiology"	0.423799348799
+"Reliability and Maintainability Symposium"	0.423510748511
+ Policy and Management"	0.423203978562
+"Industrial Lubrication and Tribology"	0.422937710438
+"Catalysis Communications"	0.422106481481
+"Hydrocarbon Processing"	0.421632996633
+"Journal of Communications and Networks"	0.421189198533
+"South African Computer Journal"	0.421151996152
+"International Journal of Quality & Reliability Management"	0.42083934584
+"Ironmaking & Steelmaking"	0.41905964406
+"Computer Physics Communications"	0.418706756207
+ Probability & Computing"	0.418386243386
+"Mathematical Foundations of Computer Science"	0.41825998076
+"Joint Bone Spine"	0.417503561253
+"International Journal of Information and Communication Technology"	0.4175
+"Journal of Clinical Densitometry"	0.417121073371
+"Lifetime Data Analysis"	0.416775684634
+"International Journal of Reliability and Safety"	0.415762786597
+"Clinical Nuclear Medicine"	0.414248511905
+"The Plant Cell"	0.413684110007
+"Journal of Enterprise Information Management"	0.413474025975
+"Nuclear Physics B-proceedings Supplements"	0.413107263107
+"Forensic Science International-genetics"	0.412803862804
+"Journal of The Textile Institute"	0.412546296296
+"Iee Proceedings-radar Sonar and Navigation"	0.41213497151
+"Journal of Quantitative Analysis in Sports"	0.411342592593
+"Journal of Performance of Constructed Facilities"	0.411291833168
+"Human Pathology"	0.411103112574
+"Medical Science Monitor"	0.409260708946
+"Journal of Combinatorial Theory"	0.408306277057
+"Review of Quantitative Finance and Accounting"	0.408229116563
+"European Journal of Agronomy"	0.405451261702
+"Annals of Gis \/ Geographic Information Sciences"	0.404544205795
+"Great Lakes Symposium on VLSI"	0.404287263663
+"Journal of Coastal Research"	0.404057054057
+"Bulletin of Entomological Research"	0.404051226551
+"Iee Proceedings-science Measurement and Technology"	0.402777777778
+"Drugs"	0.401798433049
+"American Journal of Kidney Diseases"	0.401599326599
+"Cancer Genetics and Cytogenetics"	0.400560627644
+"International Conference on Swarm Intelligence"	0.400442867318
+"Transportmetrica"	0.400410052911
+"Computers and The Humanities"	0.398425925925
+"Flexible Query Answering Systems"	0.397848910349
+"Journal of Mass Media Ethics"	0.397225690976
+"International Journal of E-business Research"	0.397201687202
+"Journal of Business & Economic Statistics"	0.396964031338
+"Boletim De Ciencias Geodesicas"	0.396685952936
+"International Journal of Global Warming"	0.393170339762
+"Journal of Public Health"	0.392361111111
+"Soil Research"	0.388996122925
+"Information & Management"	0.38708032708
+ Rough Sets and Intelligent Systems"	0.384971509971
+"Tuberculosis"	0.384816919191
+"International Conference on Web Engineering"	0.383249931286
+"Journal of Zoological Systematics and Evolutionary Research"	0.381944444445
+"International Journal of Industrial Engineering Computations"	0.380773046398
+"ACM Sigcse Bulletin"	0.378053058054
+"Information Security and Cryptology"	0.376672335602
+"Working Conference on Reverse Engineering"	0.375575396826
+"Revue Des Maladies Respiratoires"	0.374419839419
+"IEEE Transactions on Automation Science and Engineering"	0.37424029538
+"Pacific Conference on Computer Graphics and Applications"	0.373898555149
+"Internet Measurement Conference"	0.373629924304
+ Environment and Urban Systems"	0.37357473545
+"International Conference on E-learning and Games"	0.373214285714
+"Applied Economic Perspectives and Policy"	0.367914955415
+"It Professional"	0.366816006706
+"Dependable Systems and Networks"	0.365832961972
+"Ciencia & Saude Coletiva"	0.365469552234
+"Canadian Psychology"	0.364837708587
+"Journal of Management Information Systems"	0.364407814408
+"Pediatric Anesthesia"	0.363425925926
+"International Journal of Manufacturing Technology and Management"	0.363098290598
+"Industrial Marketing Management"	0.362887806638
+"Pacific Rim International Symposium on Dependable Computing"	0.35964781746
+"Journal of Economic Dynamics and Control"	0.359249084249
+"IEEE International Symposium on Workload Characterization"	0.35873917749
+"Radiation Oncology Investigations"	0.356340939153
+"International Conference on Parallel Processing"	0.355504449254
+"Journal of The Royal Statistical Society Series B-statistical Methodology"	0.353055555555
+"Disease Management & Health Outcomes"	0.347056878307
+"BMJ Quality & Safety"	0.340555451492
+"Sa Journal of Human Resource Management"	0.339405964405
+"Psychological Bulletin"	0.338835978835
+"Scalable Information Systems"	0.33443986569
+"Coordination Chemistry Reviews"	0.333401475068
+"Internal Medicine Journal"	0.331944444444
+"ACM Transactions on Applied Perception"	0.331272893773
+"American Annals of the Deaf"	0.328174603175
+"Ocean & Coastal Management"	0.326014726014
+"Journal of Shellfish Research"	0.325527713027
+"Saline Systems"	0.325000000001
+"ACM Transactions on Computation Theory"	0.323677248678
+"Annals of Human Genetics"	0.320075757575
+"ACM Sigplan Lisp Pointers"	0.319081196582
+"Global Biogeochemical Cycles"	0.318865955472
+"Distributed Computing in Sensor Systems"	0.318571428571
+"Journal American Water Works Association"	0.318111518112
+"Digital Information and Communication Technology and Its Applications"	0.317757936508
+"Cin-computers Informatics Nursing"	0.316765873016
+"European Journal of Human Genetics"	0.314569160997
+"Journal of Environmental Radioactivity"	0.314263514263
+"International Conference on Internet and Web Applications and Services"	0.313606532356
+ Tools and Techniques"	0.313194444444
+"International Conference on Networking and Services"	0.312325571254
+"Ecography"	0.312301587302
+"Australian Journal of Management"	0.312204635642
+"Review of Social Economy"	0.311111111111
+"Journal of Official Statistics"	0.310363247863
+"Revista Latino-americana De Enfermagem"	0.309942680777
+"Artificial Life"	0.308035714286
+"Business Process Management Journal"	0.308035714286
+"Weed Research"	0.307663690476
+"Modelling Autonomic Communications Environments"	0.30505952381
+"Health Outcomes Research in Medicine"	0.303333333333
+"Annual Review of Astronomy and Astrophysics"	0.302777777778
+"Diversity and Distributions"	0.302375541126
+"Multimedia Systems"	0.301587995338
+"Journal of the Association of Nurses in AIDS Care"	0.301091269842
+"IEEE Transactions on Biomedical Circuits and Systems"	0.300665827228
+"Natural Areas Journal"	0.300374779541
+"Bulletin Du Cancer"	0.300347222222
+"Revue de Médecine Interne"	0.299374236875
+"Ecological Psychology"	0.299328449329
+ Robotics and Applications"	0.299278499278
+"Information Management & Computer Security"	0.297395833333
+"Clinical Research in Cardiology"	0.297056878307
+"Pedosphere"	0.296838924965
+"Ecohealth"	0.296681096682
+"Global Ecology and Biogeography"	0.296626984127
+"Informatics for Health & Social Care"	0.296474358975
+"Library Hi Tech"	0.296296296297
+"Phonetica"	0.295833333333
+"IEEE Computer Society"	0.295238095238
+"International Work-Conference on the Interplay Between Natural and Artificial Computation"	0.294761904762
+"International Zurich Seminar on Digital Communications"	0.294444444445
+"Journal of Cheminformatics"	0.294444444445
+"Acta Endoscopica"	0.294335063085
+"Brain Research"	0.294244123932
+"Automation and Remote Control"	0.293154761905
+"Mljekarstvo"	0.292929292929
+"Community Mental Health Journal"	0.292824074074
+"Journal of Applied Logic"	0.292807539683
+"Irish Journal of Medical Science"	0.292708333333
+"Filtration & Separation"	0.29215044215
+"Technological Forecasting and Social Change"	0.291964285715
+"Restoration Ecology"	0.291792929293
+"Colloids and Surfaces A: Physicochemical and Engineering Aspects"	0.291666666667
+"Cell and Tissue Banking"	0.291617063492
+"Environmental Health"	0.291534391534
+"Journal of China University of Mining and Technology"	0.29053030303
+"International Journal of Web Information Systems"	0.290509259259
+"Family Court Review"	0.290447845805
+"Journal of Heredity"	0.290115440116
+"International Journal of Environmental Studies"	0.289814814814
+"Journal of Water and Environment Technology"	0.289583333334
+"Acta Oeconomica"	0.28889483066
+"International Journal of System of Systems Engineering"	0.288888888889
+"Static Analysis Symposium"	0.288726551227
+"Theory in Biosciences"	0.28869047619
+"Health Technology Assessment"	0.288392857143
+"Data Compression Conference"	0.288095238095
+"Pharmacotherapy"	0.287797619048
+"IEEE Transactions on Automatic Control"	0.287665343916
+"Australasian Physical & Engineering Sciences in Medicine"	0.287660256411
+"International Conference on Service Oriented Computing"	0.287522893773
+"European Journal of Medical Genetics"	0.287083333334
+"Veterinary Research"	0.286616161616
+"Journal of Experimental Psychology: Animal Behavior Processes"	0.286196145125
+"BMC Emergency Medicine"	0.28614364031
+"Trials"	0.285997732426
+ Robotics and Control Systems"	0.285879629629
+"Social Responsibility Journal"	0.285863095238
+"Clinical Nutrition Supplements"	0.285858585859
+"International Conference on Research and Education in Robotics"	0.285763888889
+"Journal of Field Robotics"	0.285734635734
+"Knee"	0.285700757576
+"Journal of Earth System Science"	0.284772943106
+"Entertainment Computing"	0.284722222222
+"Drug Metabolism and Disposition"	0.284408386753
+"Journal of Travel Medicine"	0.284375
+ & Soil Pollution: Focus"	0.284361471862
+"The Journal of The Korean Academy of Periodontology"	0.284275793651
+"Cytotechnology"	0.284224043153
+"International Journal of Grid and High Performance Computing"	0.283746693122
+"Surgical Oncology Clinics of North America"	0.283730158731
+"Complementary Therapies in Medicine"	0.283674242425
+"BMC Evolutionary Biology"	0.283630952381
+"Economic Systems"	0.283219954648
+"Asian Journal of Control"	0.283015873016
+"Paddy and Water Environment"	0.282723922903
+"Environmental Forensics"	0.282264957265
+"International World Wide Web Conferences"	0.282043650794
+"BMC Medicine"	0.281996552831
+"Science & Justice"	0.281954465288
+"Journal of Autism and Developmental Disorders"	0.281944444445
+"Environmental Geosciences"	0.281768077602
+"Cancer Letters"	0.281760461761
+"Journal of Management Inquiry"	0.281746031746
+"International Conference on Model-Driven Engineering and Software Development"	0.281712962963
+"The Chemical Educator"	0.281587301588
+"Journal of Nuclear Cardiology"	0.281587301587
+"Journal of Soil Contamination"	0.281448412699
+"Undersea & Hyperbaric Medicine"	0.28125
+"International Conference on e-Business"	0.28106060606
+"International Conference on Wireless Information Networks and Systems"	0.280972730972
+"Journal of Global Information Technology Management"	0.280894260061
+"Social Choice and Welfare"	0.280892255892
+ Systems and Technologies"	0.280793650793
+"The Journal of Primary Prevention"	0.280762689691
+"Military Psychology"	0.280637973137
+"IEEE Journal of Photovoltaics"	0.280118492619
+"Psychotherapy and Psychosomatics"	0.27996482684
+"Artificial Life and Robotics"	0.279907407407
+"Journal of Control Theory and Applications"	0.279602573352
+"Journal of Computational Science and Technology"	0.279518100947
+"International Journal of Network Security"	0.279464285714
+"Soil Science"	0.279451104451
+"Advances in Therapy"	0.279081196581
+"Conference on Computers and Accessibility"	0.278968253969
+"Ecological Engineering"	0.278918650794
+"Computer Networks and Isdn Systems"	0.278815628815
+"International Journal of Human-computer Interaction"	0.278745791247
+"Expert Review of Pharmacoeconomics & Outcomes Research"	0.278640572391
+"International Journal of Artificial Intelligence & Applications"	0.278408927674
+"Bulletin of The Medical Library Association"	0.278259240759
+"Anesthesia & Analgesia"	0.278131868132
+"Computer Aided Modeling and Design of Communication Links and Networks"	0.278055555556
+"Educational Gerontology"	0.278055555555
+"PLOS Biology"	0.278043253043
+"Global Environmental Change-human and Policy Dimensions"	0.277777777778
+"Iee Proceedings-circuits Devices and Systems"	0.277777777778
+"International Workshop on Peer-to-Peer Systems"	0.277777777778
+"Journal of Instruction-level Parallelism"	0.277777777778
+"Molecular Ecology Resources"	0.277672847986
+"Applied Soil Ecology"	0.277656371406
+"Journal of Biomolecular Structure & Dynamics"	0.277628324057
+"Neurosurgical Focus"	0.277579365079
+"European Journal of Clinical Microbiology & Infectious Diseases"	0.277579365079
+"Contemporary Clinical Trials"	0.277184343434
+"Journal of Vibration and Control"	0.276721294578
+"Information and Communication Technologies and Development"	0.276474913975
+"Molecular Genetics and Metabolism"	0.276393976394
+"BMC Proceedings"	0.276388888888
+"Medical Image Analysis"	0.276190476191
+"Privacy Enhancing Technologies"	0.276176303854
+"Environmental Engineering Research"	0.276150793651
+"Journal of Atmospheric Chemistry"	0.275797659131
+"Psychology of Music"	0.275793650793
+"Symposium on Computer Architecture and High Performance Computing"	0.275694444444
+"Placenta"	0.275631313132
+"Distributed and Parallel Databases"	0.275566893424
+"Computer Methods in Applied Mechanics and Engineering"	0.275396825397
+"Kidney International"	0.275259462759
+"Archives of Disease in Childhood-fetal and Neonatal Edition"	0.275198412698
+"International Conference on Web Information Systems and Technologies"	0.275019677292
+"Perspectives in Education"	0.274980158731
+"Journal of the Brazilian Computer Society"	0.274876743626
+"Mathematical Geosciences"	0.274801587302
+"Applied Ergonomics"	0.274652777777
+"International Conference on Formal Concept Analysis"	0.274305555556
+"Exceptionality"	0.274188196063
+"Journal of Macroeconomics"	0.27418630752
+"Journal of Structural and Functional Genomics"	0.273960695389
+"Surgical Endoscopy and Other Interventional Techniques"	0.273958333334
+"International Journal of Technoentrepreneurship"	0.273958333334
+"Legal Medicine"	0.273933531746
+"Statistica Sinica"	0.273908730159
+"Journal of Addictive Diseases"	0.273832070707
+"Journal of Consumer Marketing"	0.273611111111
+"BMC Structural Biology"	0.273505892256
+"Molecular Systems Biology"	0.273498376623
+"Journal of Real-time Image Processing"	0.273463804714
+"Turkish Journal of Agriculture and Forestry"	0.273334304585
+"ACM Transactions on Sensor Networks"	0.27326388889
+ Mobility and Security"	0.273247863248
+"Prosthetics and Orthotics International"	0.273247863248
+"Society & Natural Resources"	0.273216540404
+"Journal of Cardiovascular Electrophysiology"	0.273148148149
+"Postgraduate Medical Journal"	0.273021885521
+"Pediatric Surgery International"	0.27297979798
+"Journal of Multilingual and Multicultural Development"	0.272916666666
+"Digital Game and Intelligent Toy Enhanced Learning"	0.272848381777
+"International Journal of Power and Energy Conversion"	0.272649110149
+ Part D: Journal of Automobile Engineering"	0.272639397639
+"Acta Physiologica Hungarica"	0.272222222222
+"Composites Part A-applied Science and Manufacturing"	0.272222222222
+"Imf Staff Papers"	0.272222222222
+"Group Decision and Negotiation"	0.272220661283
+"Journal of Equine Veterinary Science"	0.272123015874
+"International Journal of Advanced Operations Management"	0.272119084619
+"Tetrahedron"	0.271990740741
+"Gaceta Sanitaria"	0.271785621786
+"Psychology and Aging"	0.271759259259
+"Cellular and Molecular Bioengineering"	0.271655042489
+ Ad-Hoc and Wireless Networks"	0.271588433354
+"American Journal of Ophthalmology"	0.271489621489
+"Journal of Cardiothoracic and Vascular Anesthesia"	0.271464646464
+"Current Therapeutic Research-clinical and Experimental"	0.27145021645
+"Australian Software Engineering Conference"	0.271437590188
+"Journal of Quantitative Criminology"	0.271224435286
+"Geodesy and Cartography"	0.271103896104
+"Cold Regions Science and Technology"	0.270984504913
+"Journal of Electronic Commerce Research"	0.270976631393
+"Law Library Journal"	0.270857317285
+"Geoforum"	0.270855880231
+"International Symposium on Symbolic and Algebraic Computation"	0.270833333334
+"Thrombosis Research"	0.27058531746
+"European Journal of Ultrasound"	0.270436507936
+"Asia Pacific Journal of Tourism Research"	0.270434426684
+"European Journal of Oncology Nursing"	0.270382395382
+"Scripta Materialia"	0.2703125
+"International Journal of Networking and Virtual Organisations"	0.270247113996
+"International Journal of Music Education"	0.270131509905
+"Communications and Network"	0.270117845118
+"Genetics"	0.269791666667
+"Primary Care Respiratory Journal"	0.269576719576
+"Behaviour Research and Therapy"	0.269560185186
+"Bone Marrow Transplantation"	0.269499158249
+"ACM Transactions on Computing Education \/ ACM Journal of Educational Resources in Computing"	0.269478438228
+"International Conference on Wireless Networks"	0.269444444445
+"Early Childhood Research Quarterly"	0.269444444445
+"PLOS Pathogens"	0.269444444444
+"Pervasive and Mobile Computing"	0.269312169312
+"BMC Family Practice"	0.269197700448
+"Neuro-oncology"	0.269146224146
+"Infectious Diseases in Obstetrics & Gynecology"	0.269124278499
+"Environmental Modeling & Assessment"	0.269118265993
+"Alcoholism Treatment Quarterly"	0.26909090909
+"International Journal of Distributed Sensor Networks"	0.268998015874
+"Interactive Learning Environments"	0.268994708995
+"Trends in Food Science and Technology"	0.268849206349
+"Journal of The Air & Waste Management Association"	0.268824925075
+"Clinical Drug Investigation"	0.268823438467
+"Parasitology International"	0.268682706183
+"USENIX Large Installation Systems Administration Conference"	0.268614718615
+"BMC Gastroenterology"	0.268581264414
+"European Journal of Pharmaceutics and Biopharmaceutics"	0.268476430977
+"Cities"	0.268409090909
+"Fuel Cells Bulletin"	0.268386243387
+"Aquatic Toxicology"	0.268269230769
+"International Conference on Database Theory"	0.268206727135
+"Journal of Artificial Societies and Social Simulation"	0.268154761904
+ Modeling and Management"	0.268022486773
+"Burns"	0.26789021164
+"Environmental Toxicology and Pharmacology"	0.267692307693
+"Journal of Hospital Infection"	0.267526455026
+"International Journal of Control Automation and Systems"	0.267483211233
+"BMC Medical Ethics"	0.267261904762
+"Disease Management"	0.26721889222
+"Energy Minimization Methods in Computer Vision and Pattern Recognition"	0.267195767196
+"Robotics and Applications"	0.267192375526
+"Clinical Psychology & Psychotherapy"	0.267171717172
+"Healthcare Management Forum"	0.267138532763
+"BMC Complementary and Alternative Medicine"	0.267113095239
+"Protein Journal"	0.267066498316
+"Flow Measurement and Instrumentation"	0.267027417027
+"Journal of Intelligent Transportation Systems"	0.267013888889
+"Its Journal"	0.267013888889
+ Test and Applications"	0.267013888889
+"Human Heredity"	0.266999072357
+"Indian Journal of Animal Sciences"	0.266840277777
+"Urban Ecosystems"	0.266835016835
+"Biomarkers"	0.266783216783
+"European Journal of Environmental and Civil Engineering"	0.266782407407
+"Innovative Mobile and Internet Services in Ubiquitous Computing"	0.266687479188
+"Genesis"	0.266666666667
+"The Journal of Steroid Biochemistry and Molecular Biology"	0.266534391534
+"Journal of Solid State Chemistry"	0.266524216524
+"Phytopathology"	0.2663008288
+"Polar Biology"	0.266237408425
+"International Conference on Network Protocols"	0.266222600152
+"Advanced Data Analysis and Classification"	0.266214225589
+"International Workshop on the Web and Databases"	0.266203703704
+"American Journal of Reproductive Immunology"	0.266132478633
+"Journal of Foodservice Business Research"	0.266111111111
+"Journal of Economics and Business"	0.266077441077
+"Irrigation and Drainage"	0.266049382717
+"Journal of Water Resource and Protection"	0.26601716185
+"Spe Drilling Engineering"	0.265972222222
+"International Journal for Parasitology"	0.265942760943
+"Surface and Interface Analysis"	0.265740740741
+"Internal and Emergency Medicine"	0.265717549646
+"Journal of Career Assessment"	0.265674603174
+"Genetic Programming and Evolvable Machines"	0.265456349207
+"Fire Technology"	0.265410052911
+"Journal of Cerebral Blood Flow and Metabolism"	0.265392246642
+"American Journal of Orthodontics and Dentofacial Orthopedics"	0.26530067155
+"International Journal of Financial Services Management"	0.265046296297
+"Research in Social & Administrative Pharmacy"	0.264857695215
+"Advanced Robotics"	0.264814814815
+"Physical Review E"	0.264682539683
+"Engineering Analysis With Boundary Elements"	0.264682539683
+"Information Security Practice and Experience"	0.264604377104
+"Environmental Geochemistry and Health"	0.26458994709
+"Journal of Monetary Economics"	0.264583333333
+"Annals of Oncology"	0.264519199935
+"International Journal of Intelligent Transportation Systems Research"	0.264444444444
+"Drug and Alcohol Dependence"	0.264375835805
+"Behavioural Processes"	0.264285714286
+"Journal of Nuclear Science and Technology"	0.264262523192
+ & Health"	0.264189514189
+ Communication and Applications"	0.2640993266
+"Eesti Rakenduslingvistika Uhingu Aastaraamat"	0.264067460318
+"American Journal of Perinatology"	0.264051226551
+"Cognitive Science"	0.263998316499
+"International Journal of Fracture"	0.263998316499
+"Evidence-based Dentistry"	0.263992951493
+"Transactions of Nonferrous Metals Society of China"	0.26396329365
+ Management and Sustainable Development"	0.26388888889
+"Geoinformatica"	0.263888888889
+"Chinese Journal of Astronomy and Astrophysics"	0.263872053873
+"European Food Research and Technology"	0.26369047619
+"Journal of Cardiovascular Risk"	0.26362942613
+"Learning & Behavior"	0.263624338624
+"European Journal of Epidemiology"	0.263541666667
+"Lung Cancer"	0.263463871987
+"International Journal of Computational Intelligence Research"	0.263461934891
+"Central European Journal of Operations Research"	0.263431013431
+"Smart Graphics"	0.263425925926
+"Internet and Higher Education"	0.263392857143
+"Optik"	0.263372507122
+"Case Reports"	0.263326719577
+"International Conference on Asian Digital Libraries"	0.2632996633
+"Journal of The American College of Radiology"	0.263297258297
+"Journal of Applied Meteorology and Climatology"	0.263237688237
+"Journal of Soils and Sediments"	0.263226010101
+"Physical Therapy in Sport"	0.263194444445
+"Symposium on Operating Systems Principles"	0.263194444445
+"Nano Today"	0.263128306879
+"Heart"	0.263095238095
+"Cognitive Radio and Advanced Spectrum Management"	0.263055555556
+"The Journal of Corporation Law"	0.263015873016
+"Education Economics"	0.262851731602
+ Design and Testing"	0.262808641976
+"Engineering Letters"	0.262752525253
+"Journal of Geographical Systems"	0.262648809524
+"Journal of Agricultural and Food Chemistry"	0.262563131313
+"Cooperation and Conflict"	0.262500000001
+"The International Food and Agribusiness Management Review"	0.262460317461
+"Revue Du Rhumatisme Monographies"	0.262449424215
+"User Interface Software and Technology"	0.262449424215
+"Computer Music Modeling and Retrieval"	0.262400793651
+"Acta Diabetologica"	0.262400793651
+"Journal of Facilities Management"	0.262386621316
+"International Journal of Law and Psychiatry"	0.262373737374
+"Landscape and Ecological Engineering"	0.262364333198
+"Journal of Medical Imaging and Radiation Oncology"	0.262310606061
+"IEEE Communications Magazine"	0.262251984128
+"Computer Music Journal"	0.262251984128
+"International Conference on Computer Graphics and Interactive Techniques"	0.262231287231
+"Powder Technology"	0.262177791345
+"Forensic Science Policy & Management: An International Journal"	0.262006222944
+"Onkologie"	0.262002378409
+"Canadian Journal of Gastroenterology & Hepatology"	0.261813583242
+"Multivariate Behavioral Research"	0.261805555556
+"Molecular Vision"	0.261749053415
+"Climate Policy"	0.261643217893
+"Family and Consumer Sciences Research Journal"	0.261528332779
+"Journal of Near Infrared Spectroscopy"	0.261515600801
+"Advances in Consumer Research"	0.261458333333
+"Dermatology"	0.261332070707
+"Journal of Computational Physics"	0.261273448774
+"Perspectives in Plant Ecology Evolution and Systematics"	0.261194361194
+"Multiagent System Technologies"	0.261183261183
+"Transportation Letters: The International Journal of Transportation Research"	0.261110017927
+"Intelligent Systems Engineering"	0.261058201058
+"Energy Sources Part B-economics Planning and Policy"	0.261011904762
+"Sleep Medicine"	0.260997732427
+"International Journal of Legal Medicine"	0.260822510822
+"Journal of High Energy Physics"	0.260793650794
+ Networking and Communications"	0.260784431617
+"Revue Neurologique"	0.260729847495
+"International Journal of Biometeorology"	0.260714840715
+"Psychological Assessment"	0.260336538462
+"Land Use Policy"	0.260317460317
+"Journal of Periodontology"	0.260291005291
+"Social Work"	0.260262480575
+"Preventive Cardiology"	0.260188422689
+"Naval Research Logistics"	0.260069444444
+"Conference on Email and Anti-Spam"	0.260052910053
+"Foundations of Software Engineering"	0.260052910053
+"Theoretical Medicine and Bioethics"	0.260042735042
+"Brazilian Journal of Oceanography"	0.260010822511
+"Journal of Architecture and Planning (transactions of Aij)"	0.259986772486
+"BMC Clinical Pharmacology"	0.259914529915
+"International Journal of Clinical Practice"	0.259821428572
+"Transportation Research Part E-logistics and Transportation Review"	0.259722222222
+"Clinical Physics and Physiological Measurement"	0.259672619048
+"Waste Management"	0.259588675213
+"Progress in Planning"	0.259495464853
+"Poultry Science"	0.25946969697
+"Orvosi Hetilap"	0.259422105673
+"Clinics in Plastic Surgery"	0.259375809376
+"Computing and Informatics \/ Computers and Artificial Intelligence"	0.259330484331
+"The American Journal of Medicine"	0.259259259259
+"Journal of Medical Genetics"	0.259259259259
+"BMC Neurology"	0.258954008953
+"Journal of Zoology"	0.258935508936
+"Journal of Homeland Security and Emergency Management"	0.258901515152
+"Croatica Chemica Acta"	0.258680555556
+"Security and Communication Networks"	0.258680555556
+"Social Psychiatry and Psychiatric Epidemiology"	0.258628805057
+"Cardiovascular Drugs and Therapy"	0.258625135548
+"British Journal of Sports Medicine"	0.258536833537
+"Journal of Integrative Bioinformatics"	0.258432539683
+ Biological Sciences (1934-1990)"	0.258333333333
+"Journal of Preventive Medicine and Public Health"	0.258267195767
+"Theory and Applications of Models of Computation"	0.258234126984
+"IEEE Microwave and Wireless Components Letters"	0.258085317461
+"Catena"	0.258080808081
+"Anesthesiology"	0.25801975802
+"Astrophysical Journal Supplement Series"	0.257969576719
+"International Conference on Logic Programming"	0.257936507937
+"Annals of General Psychiatry"	0.257899066422
+"Computer-aided Design"	0.257891414142
+"Journal of Geochemical Exploration"	0.25787037037
+"The Journal of Molecular Diagnostics"	0.257761544011
+"Ibm Systems Journal"	0.25775462963
+"American Heart Journal"	0.257708495208
+"Journal of Dermatological Treatment"	0.257638888889
+"Journal of The International Association of Physicians in Aids Care (jiapac)"	0.257512626262
+"Hepatology"	0.257385978219
+"Quantitative Finance"	0.257362844127
+"Transactions of The Korean Society of Mechanical Engineers A"	0.257353294853
+"Journal of Quantitative Linguistics"	0.257222222222
+ Grammar and Rhetoric"	0.257198819699
+"Diseases of The Esophagus"	0.257128684807
+ and Services"	0.257060185186
+"Conservation Letters"	0.257043650794
+"Journal of Econometrics"	0.256944444444
+"BMC Medical Education"	0.256944444444
+"New Review of Hypermedia and Multimedia \/ Hypermedia"	0.256746031747
+"Journal of Biophotonics"	0.256543258329
+"Journal of The American Academy of Dermatology"	0.256497043262
+"Schizophrenia Bulletin"	0.256455176768
+"Korean Journal of Chemical Engineering"	0.256429086786
+"Pediatric Nephrology"	0.256391178266
+"Journal of Structural Engineering-asce"	0.256331699346
+"Journal of Environmental Policy & Planning"	0.256316773504
+"Environmental Science & Policy"	0.25628092146
+"Beneficial Microbes"	0.25625450938
+"Community Dentistry and Oral Epidemiology"	0.256146631146
+"Traffic Injury Prevention"	0.256051587301
+"Advances in Structural Engineering"	0.256042568543
+"Journal of Clinical Gastroenterology"	0.256027421652
+"Clinical Biochemistry"	0.256010074484
+"New Review of Academic Librarianship"	0.255952380953
+"Epilepsy Research"	0.255820105821
+"Science in China Series F: Information Sciences"	0.25582010582
+"South African Journal of Botany"	0.255663780663
+"Journal of The American Academy of Nurse Practitioners"	0.255656679921
+"Organic Geochemistry"	0.255652680653
+"Journal of Virology"	0.255596891534
+"International Conference on Applications of Declarative Programming and Knowledge Management"	0.255510992276
+"Reproductive Biomedicine Online"	0.255502645503
+"Conference on Management of Data"	0.255492424243
+"International Review of Electrical Engineering-iree"	0.255473692974
+"New Zealand Journal of Marine and Freshwater Research"	0.255418126847
+"Dynamics of Asymmetric Conflict"	0.25529100529
+"Network and Operating System Support for Digital Audio and Video"	0.255257936508
+"Biology and Fertility of Soils"	0.255189651618
+"Amino Acids"	0.25496031746
+"International Journal of Pervasive Computing and Communications"	0.254924242424
+"Journal of The American Society of Echocardiography"	0.254897186147
+"Oral Diseases"	0.254861111111
+"Nature Geoscience"	0.254841269841
+"Journal of Catalysis"	0.254728882228
+"Current Protein & Peptide Science"	0.254727564102
+"Hardware-Oriented Security and Trust"	0.254722222222
+"Development Southern Africa"	0.254646464646
+"Canadian Conference on Computational Geometry"	0.25462962963
+"Studies in Surface Science and Catalysis"	0.254569504569
+"BMC Urology"	0.254563492063
+"Age and Ageing"	0.254560994561
+"Evidence-based Complementary and Alternative Medicine"	0.254531348282
+"Cognitive and Behavioral Practice"	0.254512916278
+"Journal of Medical Screening"	0.254377104377
+"Epidemiologia E Psichiatria Sociale-an International Journal for Epidemiology and Psychiatric Sciences"	0.254166666667
+"Aids Patient Care and Stds"	0.254126984127
+"Supportive Care in Cancer"	0.253993055555
+"Nutrient Cycling in Agroecosystems"	0.253968253968
+"European Conference on Mobile Robots"	0.253945707071
+"Practical Aspects of Declarative Languages"	0.253935185185
+"Journal of Medical Virology"	0.253932178932
+"Hpb"	0.253919997486
+"International Joint Conference on Automated Reasoning"	0.253918650794
+"Praxis Der Informationsverarbeitung Und Kommunikation"	0.253905122655
+"Graefes Archive for Clinical and Experimental Ophthalmology"	0.253848003848
+"European Journal of Plastic Surgery"	0.253745386558
+"International Journal of Electronic Business"	0.253742784993
+"Asian Internet Engineering Conference"	0.253635484885
+"Frontiers of Earth Science in China"	0.253514309764
+"Journal of Cosmology and Astroparticle Physics"	0.253472222222
+"International Conference on Software Engineering Advances"	0.25329069079
+"Lancet Infectious Diseases"	0.253285834536
+"IFIP International Conference on Theoretical Computer Science"	0.253224206349
+"International Symposium on Object/Component/Service-Oriented Real-Time Distributed Computing"	0.253224206349
+"Clinical Pediatrics"	0.253161283161
+"Molecular Biology and Evolution"	0.252943121693
+"Clinical Gerontologist"	0.252877492877
+"IEEE Transactions on Advanced Packaging"	0.252777777777
+"Clinical Imaging"	0.252751068376
+"International Symposium on Industrial Embedded Systems"	0.252719502719
+ and Biomedical Technologies"	0.252692743765
+"Advances in Water Resources"	0.252645502645
+"CardioVascular and Interventional Radiology"	0.25254930255
+"International Journal of Risk Assessment and Management"	0.252546296296
+"Archives of Cardiovascular Diseases"	0.252542298971
+"Atla-alternatives To Laboratory Animals"	0.252472923901
+"Biotropica"	0.252460317461
+"IEEE Transactions on Electromagnetic Compatibility"	0.252447089947
+"Journal of Political Marketing"	0.25243090243
+"Folia Oeconomica Stetinensia"	0.252347883599
+"Journal of Health Population and Nutrition"	0.252319538926
+"BMC Pulmonary Medicine"	0.252281746032
+"Computer Recognition Systems"	0.252199074074
+"Journal of Controlled Release"	0.252104377105
+"Journal of Climate"	0.252048117226
+"Cross-Language Evaluation Forum"	0.251851851852
+"Rapid Communications in Mass Spectrometry"	0.251736111111
+"Surgical Oncology-oxford"	0.251736111111
+"Inorganic Chemistry Communications"	0.25165945166
+"International Journal of Eating Disorders"	0.251584295334
+"Intelligent Service Robotics"	0.251367845117
+"Museum Management and Curatorship"	0.251282051281
+"Best Practice & Research Clinical Anaesthesiology"	0.251253607504
+"IEEE Transactions on Industry Applications"	0.251157407407
+"Compel-the International Journal for Computation and Mathematics in Electrical and Electronic Engineering"	0.251114672365
+"Formal Methods in System Design"	0.251064213564
+"Nature Genetics"	0.251058201059
+"Transactions of The Royal Society of Tropical Medicine and Hygiene"	0.250947971782
+"European Journal of Obstetrics & Gynecology and Reproductive Biology"	0.250815225081
+"Computers in Human Behavior"	0.250810185185
+"Requirements Engineering"	0.250799663299
+"Behavior Research Methods"	0.250793650794
+"Marine Mammal Science"	0.250715488215
+"Regenerative Medicine"	0.250715488215
+"Information Technology and Control"	0.250683922558
+"Biological Cybernetics"	0.250628306879
+"The Electricity Journal"	0.250583028083
+"Journal of Quaternary Science"	0.250511063012
+"Cellular Immunology"	0.25048100048
+"Maydica"	0.250462962963
+"Liver Transplantation"	0.250438142105
+"Ultrasound in Medicine and Biology"	0.249890982033
+"Ai & Society"	0.249883286648
+"IEEE Software"	0.249807599808
+"Urological Research"	0.249768518519
+"International Statistical Review"	0.249755520895
+"Iet Intelligent Transport Systems"	0.249582130833
+"Hvac&r Research"	0.24954004329
+"Izvestiya: Mathematics"	0.249305555555
+"Astronomische Nachrichten"	0.249218374218
+"Health Services and Outcomes Research Methodology"	0.249179292929
+"International Journal of Oral and Maxillofacial Surgery"	0.24908574541
+"Journal of Biomedical Semantics"	0.248832070707
+"Evolutionary Applications"	0.248504273504
+"Acta Orthopaedica"	0.248484222749
+"Proceedings of The Vldb Endowment"	0.24837962963
+"Weed Science"	0.248302469136
+"Land Economics"	0.248284932659
+"Journal of Nuclear Medicine Technology"	0.248247863248
+"American Journal of Hospice and Palliative Medicine"	0.248148148148
+"Chirurgie De La Main"	0.248148148148
+"Ecological Economics"	0.248032407408
+"Implementation and Application of Functional Languages"	0.247895622895
+"Rheumatology International"	0.247848381777
+"IEEE Security & Privacy"	0.247821969697
+"Journal of Mental Health Policy and Economics"	0.247805204055
+"Operating Systems Design and Implementation"	0.247790404041
+"International Journal of Electronic Commerce"	0.247639397639
+"Applied Geochemistry"	0.247549672549
+"Distributed Event-Based Systems"	0.2475
+"Coral Reefs"	0.247453703704
+"Infection and Immunity"	0.247443181818
+"Journal of Chemical Education"	0.247437169312
+"Applied Mathematical Modelling"	0.247337962962
+"Procedia in Vaccinology"	0.247334147333
+"Symposium on Web Systems Evolution"	0.247321428572
+"Molecules"	0.247321428572
+"Secure Software Integration and Reliability Improvement"	0.247222222223
+"European Journal of Neurology"	0.247222222223
+"European Test Symposium"	0.247222222223
+"Organizational Behavior and Human Decision Processes"	0.247162097162
+"Journal of Energy"	0.247089947089
+"Journal of Hydrologic Engineering"	0.246766381767
+"Annual Software Engineering Workshop"	0.246753246753
+"Combustion Theory and Modelling"	0.246646756021
+"Evolutionary Ecology Research"	0.246632996632
+"Clinical Genetics"	0.246630520895
+"Journal of Combinatorial Optimization"	0.246527777778
+"Journal of Injury and Violence Research"	0.246489621489
+"Journal of Risk Research"	0.246296296297
+"Asian-australasian Journal of Animal Sciences"	0.246290659572
+"Journal of Cleaner Production"	0.24627039627
+"American Journal of Dermatopathology"	0.246245925792
+"American Journal of Geriatric Pharmacotherapy"	0.246210826211
+ Palaeoecology"	0.245756673881
+"Ad Hoc Networks"	0.245707070708
+ Computation and Optimization in Information Systems and Management Sciences"	0.245462962963
+"International Journal of Computer Aided Engineering and Technology"	0.245391414142
+"Cataloging & Classification Quarterly"	0.245370370371
+"Testbeds and Research Infrastructures for the DEvelopment of NeTworks and COMmunities"	0.24537037037
+"Latin American Web Congress"	0.245352564103
+"Journal of Energy Engineering-asce"	0.245185185186
+"Tellus A"	0.244917929293
+"Comprehensive Psychiatry"	0.244866071428
+"Abacus"	0.244831649832
+"Integrated Environmental Assessment and Management"	0.244791666667
+"Fundamental Approaches to Software Engineering"	0.244708994708
+"Group & Organization Management"	0.244675925926
+"Journal of Generic Medicines"	0.244659391535
+"Encephale-revue De Psychiatrie Clinique Biologique Et Therapeutique"	0.244646464646
+"Image and Vision Computing New Zealand"	0.244543650794
+"Journal of Mining Science"	0.244444444445
+"Journal of Psychiatric and Mental Health Nursing"	0.244444444445
+"Chinese Science Bulletin"	0.244337606837
+"Acta Neurochirurgica"	0.24432997558
+"Interdisciplinary Bio Central"	0.244141737892
+"English for Specific Purposes"	0.244081196581
+"Home Health Care Management & Practice"	0.244000721501
+"Educational Technology Research and Development"	0.243769425019
+"International Journal of Precision Engineering and Manufacturing"	0.243434343435
+"Journal of Modern Applied Statistical Methods"	0.243308080808
+"Anesthesia Progress"	0.243295940172
+"ACM Sigarch Computer Architecture News"	0.243265993266
+"Monthly Weather Review"	0.243241914335
+"Journal of Hand Surgery (European Volume)"	0.243126417233
+"Journal of Dentistry"	0.243055555556
+"Mechanics Based Design of Structures and Machines"	0.242960858586
+"Neurological Sciences"	0.242960858586
+"Database Programming Languages"	0.242797017798
+"Experimental Dermatology"	0.242505941771
+"Science China-life Sciences"	0.242386664262
+"Electronic Commerce Research and Applications"	0.242378917379
+"Journal of Computer Information Systems"	0.242270923522
+"Mechanisms of Ageing and Development"	0.24215541403
+"Pharmaceutical Research"	0.241898148148
+"Mathematical Programming"	0.241782407408
+"Human Ecology"	0.241666666667
+"International Journal of Medical Engineering and Informatics"	0.241524216525
+"Hernia"	0.241357022607
+"Annales De Biologie Clinique"	0.241285403051
+"Artificial Intelligence and Interactive Digital Entertainment Conference"	0.240934990934
+"Journal of Economic Growth"	0.240740740741
+"Archives of General Psychiatry"	0.240740740741
+"Environmental Research"	0.240740740741
+"Parallel and Distributed Processing Techniques and Applications"	0.240646043771
+"Rivista Di Matematica Per Le Scienze Economiche E Sociali"	0.240498737374
+"Educational and Psychological Measurement"	0.240368716932
+"Comparative Immunology Microbiology and Infectious Diseases"	0.240300848389
+"Journal of Testing and Evaluation"	0.240277777778
+"Jcr-journal of Clinical Rheumatology"	0.240069190069
+"Journal of Pediatric and Adolescent Gynecology"	0.239923271173
+"Genetics Research"	0.239844877344
+"Adaptive Hardware and Systems"	0.239834239834
+"IEEE Transactions on Circuits and Systems I-regular Papers"	0.239682539683
+"International Journal of Critical Infrastructure Protection"	0.239562289563
+"Hydrometallurgy"	0.239329004329
+"Journal of Discrete Algorithms"	0.239225589226
+"Irish Geography"	0.238636363637
+"Soil Biology & Biochemistry"	0.238541666667
+"Physics and Chemistry of The Earth"	0.238535353535
+"Computer Applications in Engineering Education"	0.238492063492
+"Clinical Transplantation"	0.238320707071
+"Synthesis Lectures on Data Mining and Knowledge Discovery"	0.238230519481
+"Iktisat Isletme Ve Finans"	0.238230519481
+"European Spine Journal"	0.237992909868
+"International Journal of Tuberculosis and Lung Disease"	0.237941919191
+"International Journal of Control"	0.237836700337
+"Nursing Clinics of North America"	0.237752264648
+"Nature Chemical Biology"	0.237599206349
+"Journal of Experimental & Clinical Cancer Research"	0.237346999406
+"Tellus B"	0.237222222222
+"Chinese Journal of Chemistry"	0.237142255892
+"Psychometrika"	0.236973905724
+"Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards"	0.236111111111
+"Advances in Atmospheric Sciences"	0.235858585859
+"Solar Energy"	0.235529100529
+"Bt Technology Journal"	0.23538961039
+"Journal of Cryptology"	0.23538961039
+"Earth Surface Processes and Landforms"	0.235236291486
+"Energy Economics"	0.235168650794
+"International Journal on Digital Libraries"	0.235058922559
+"Diseases of The Colon & Rectum"	0.235034556087
+"Polyhedron"	0.234968734969
+"The Journal of Thoracic and Cardiovascular Surgery"	0.234921328671
+"International Journal of Retail & Distribution Management"	0.234900284901
+"Clinical Psychology Review"	0.234722222222
+"Acta Paediatrica"	0.234695165946
+"Advanced Industrial Conference on Telecommunications"	0.234595959596
+"Heart Rhythm"	0.234375
+"Infection"	0.234275793651
+"Gynecologic Oncology"	0.234175084175
+"Medecine Et Maladies Infectieuses"	0.233974358974
+"Drug Resistance Updates"	0.233746392496
+"Infection Control and Hospital Epidemiology"	0.233742877493
+"Urologia Internationalis"	0.23335682175
+"Handbook of Macroeconomics"	0.233333333333
+"International Journal of Health Geographics"	0.233164983165
+"Astronomy and Astrophysics"	0.233080808081
+"Journal of Nutrition"	0.232985466915
+"Biogeochemistry"	0.23295963296
+"Surgical Practice"	0.232954545455
+"Annals of Forest Science"	0.232887482887
+"Marine Geology"	0.232638888889
+"ACM Transactions on Information and System Security"	0.232638888889
+"Canadian Journal of Chemistry"	0.232637732638
+"Environmental Engineering Science"	0.232162999038
+"Clinical Trials"	0.231696428571
+"International Journal of Molecular Sciences"	0.231601731601
+"Cell and Tissue Research"	0.231465293965
+"Machine Translation"	0.231254856255
+"Journal of Power Sources"	0.23106060606
+"The Medical Journal of Australia"	0.229861111111
+"Family Systems Medicine"	0.229861111111
+"Epidemics"	0.229662698413
+"Journal of Technology Management & Innovation"	0.22962962963
+"American Journal of Hematology"	0.229479847495
+"Chicago Journal of Theoretical Computer Science"	0.229166666666
+"Genomics"	0.228939393939
+"Maternal and Child Health Journal"	0.228015873015
+"European Economic Review"	0.227972027972
+"Economic Development and Cultural Change"	0.227764780155
+"Taiwanese Journal of Obstetrics & Gynecology"	0.227588383838
+"Transfusion Clinique Et Biologique"	0.227525252525
+"American Journal of Health-system Pharmacy"	0.227430555556
+"European Journal of Population-revue Europeenne De Demographie"	0.226860119048
+"Arquivos Brasileiros De Cardiologia"	0.226629273504
+"Archives of Acoustics"	0.225793650794
+"Integrated Pest Management Reviews"	0.225732600733
+"Process Safety and Environmental Protection"	0.225641025641
+"Marketing Science"	0.225496031747
+"Rendiconti Lincei-scienze Fisiche E Naturali"	0.225135975136
+"Property Management"	0.225055114639
+"Cluster Computing and the Grid"	0.222424242424
+"Geothermics"	0.221097883597
+"Physics Letters B"	0.22081582633
+"Methods in Enzymology"	0.219642857143
+"International Journal of Antimicrobial Agents"	0.219212962963
+"Iee Proceedings E Computers and Digital Techniques"	0.217222222222
+"Journal of The Society for Information Display"	0.216734654235
+"Journal of Human Genetics"	0.21626984127
+"International Conference of Distributed Computing and Networking"	0.216245039682
+"Lake and Reservoir Management"	0.214401669759
+"IEEE Photonics Journal"	0.214037698412
+"Journal of Property Investment & Finance"	0.213591269842
+"Biotechnology Letters"	0.2132996633
+"Annales médico-psychologiques"	0.212716450217
+"Molecular Breeding"	0.212599206349
+"Microscopy Research and Technique"	0.208122895622
+"Theory of Cryptography Conference"	0.20689484127
+"Australasian Journal of Information Systems"	0.2045995671
+"Evaluation & the Health Professions"	0.204454110705
+"International Journal of Cognitive Informatics and Natural Intelligence"	0.204288766788
+"Chemical Engineering Science"	0.204232804233
+"Biometric Technology Today"	0.203918650794
+"American Scientist"	0.203841991342
+ and Data Applications"	0.203825803826
+"Optics and Laser Technology"	0.203042328042
+"Small Business Economics"	0.202358752359
+"International Journal of Financial Markets and Derivatives"	0.201785714285
+"International Journal of Business Continuity and Risk Management"	0.201223544973
+"Critical Reviews in Food Science and Nutrition"	0.20103923854
+"The Auk"	0.200578703704
+"Irbm"	0.200275323805
+"Stochastic Processes and their Applications"	0.199784080299
+"International Journal of Computational Intelligence and Applications"	0.199702380952
+"Mining Science and Technology (china)"	0.199206349206
+"Siam Journal on Optimization"	0.198908730159
+"Minerals Engineering"	0.198836926962
+"IEEE Circuits and Systems Magazine"	0.19825036075
+"Journal of Nursing Care Quality"	0.198181216931
+"International Journal of Coal Geology"	0.198082010582
+"International Journal of Biometrics"	0.198019480519
+"Practical Neurology"	0.197390572391
+"European Conference on Research and Advanced Technology for Digital Libraries"	0.19699074074
+"Journal of Urban Health-bulletin of The New York Academy of Medicine"	0.196775793651
+"Cognitive Systems Research"	0.196494708995
+ Management"	0.19537037037
+"Science & Technology Libraries"	0.194742063492
+"International Symposium on Functional and Logic Programming"	0.194212962963
+"Proteome Science"	0.194194832944
+"International Journal of Computational Intelligence in Bioinformatics and Systems Biology"	0.194126475377
+"Optimization Methods & Software"	0.193191839024
+"International Journal of Technology Intelligence and Planning"	0.192896224147
+"Solid State Phenomena"	0.192654567654
+"Wetlands Ecology and Management"	0.192503263933
+"Smith College Studies in Social Work"	0.19212962963
+"Noûs"	0.19185520362
+"International Journal of Communication Systems"	0.191236772487
+"Njas-wageningen Journal of Life Sciences"	0.191137566137
+"Geometric Modeling and Imaging"	0.190972222222
+"Tourism Geographies"	0.190740740741
+"Academy of Management Review"	0.190687830688
+"Materials evaluation"	0.18955026455
+"Human Relations"	0.18954008954
+"Psychology of Learning and Motivation"	0.189533730159
+"Explanation-aware Computing"	0.189526098901
+"Service Industries Journal"	0.189504014504
+"Journal of International Development"	0.188442205942
+"International Journal of Business Intelligence Research"	0.188141333975
+"Journal of Risk and Insurance"	0.187964967132
+"World Bank Economic Review"	0.18792989418
+"Chemical Biology & Drug Design"	0.187806571735
+"Journal of Criminal Justice"	0.187626262626
+"Simulation"	0.18673941799
+"International Journal of Energy Sector Management"	0.186587301587
+"IEEE Transactions on Sonics and Ultrasonics"	0.186173086173
+"European Journal of Industrial Engineering"	0.186028439154
+"Formal Methods in Computer-Aided Design"	0.186028439153
+"IEEE Transactions on Device and Materials Reliability"	0.185582010582
+"Journal of Knowledge Management"	0.185317460318
+"American Journal of Applied Sciences"	0.185125060125
+"Urologic Clinics of North America"	0.184523809524
+"International Journal of Functional Informatics and Personalised Medicine"	0.184447496948
+"Advances in Computers"	0.184257756133
+"Computing in Science and Engineering"	0.183796296297
+"Free Radical Biology and Medicine"	0.183796296297
+ Boolean Modeling and Computation"	0.183531746032
+"Technology Analysis & Strategic Management"	0.183498677249
+"Mitigation and Adaptation Strategies for Global Change"	0.18330026455
+"Natural Language Generation"	0.183140933141
+"Journal of Engineering for Power"	0.183132868532
+"Hpb Surgery"	0.18287037037
+"IEEE Robotics & Automation Magazine"	0.182269119769
+"Journal of Software Maintenance and Evolution: Research and Practice"	0.182141354016
+"International Journal of Information System Modeling and Design"	0.182013588264
+"International Orthodontics"	0.181776953205
+"IEEE Transactions on Antennas and Propagation"	0.181316137566
+"Journal of New Music Research"	0.180711233211
+"Renewable Energy"	0.180634920634
+"Agroforestry Systems"	0.180592555593
+"IEEE Communications Surveys and Tutorials"	0.180427211678
+"International Journal of The Japan Society for Precision Engineering"	0.180324074075
+"Journal of Business Venturing"	0.179596560847
+"Fish Physiology and Biochemistry"	0.179317730881
+"Land Degradation & Development"	0.179022366523
+"Energy Exploration & Exploitation"	0.179010225886
+"British Medical Bulletin"	0.178935185186
+"Hemijska Industrija"	0.178923160174
+"Journal of Service Research"	0.178505291005
+"Journal of Transport Economics and Policy"	0.178210678211
+"International Journal of High Speed Computing"	0.17800925926
+"Journal of The Royal Statistical Society Series A-statistics in Society"	0.177976190477
+"Psychological Review"	0.177381299257
+"Medicinal Research Reviews"	0.177380952381
+"Parallel Processing Letters"	0.177380952381
+"Progress in Cardiovascular Diseases"	0.177281746032
+ Construction and Architectural Management"	0.177172919673
+"Australasian Conference on Information Security and Privacy"	0.176851851852
+"Journal of The Torrey Botanical Society"	0.176835664336
+"Journal of Microbiological Methods"	0.176785714285
+"Emc - Stomatologie"	0.175965007215
+"Pathology Research and Practice"	0.175462962963
+"Data Warehousing and OLAP"	0.175273569024
+"Revue Médicale de Bruxelles"	0.175000000001
+"Journal of Retailing and Consumer Services"	0.174933862434
+"Catalysis Today"	0.174807599807
+"New Zealand Economic Papers"	0.174603174603
+"Genetics and Molecular Biology"	0.174555933484
+"Acta Otorhinolaryngologica Italica"	0.173908730159
+"IEEE Transactions on Network and Service Management"	0.173667073668
+ and Architectures for Network Security Systems"	0.173644179894
+"Computer Graphics Forum"	0.173400673401
+"Swiss Journal of Psychology"	0.173379629629
+"Aircraft Engineering and Aerospace Technology"	0.173287638288
+ and Music Processing"	0.172813297813
+"American Psychologist"	0.172685185185
+"Agricultural Finance Review"	0.1721993747
+"Nature Reviews Drug Discovery"	0.171428571429
+"Journal of Consumer Research"	0.171296296296
+"Ibusiness"	0.171276640027
+"Discourse Anaphora and Anaphor Resolution Colloquium"	0.171130952381
+"International Conference on Networks and Communications"	0.170842236468
+"Canadian Journal of Cardiology"	0.170731120731
+"IEEE Network"	0.170373885374
+"Statistical Methodology"	0.17015970141
+"The Journal of Risk Finance"	0.170131720132
+"High Performance Computing Systems and Applications"	0.169384319384
+"Research in Engineering Design"	0.169125781626
+"Physica Medica"	0.168055555555
+"Laboratory Animals"	0.167379225713
+"Journal of Clinical Periodontology"	0.167361111111
+"ACM Transactions on Speech and Language Processing"	0.167123963999
+"International Workshop on Quality of Service"	0.167095588235
+"Journal of Abnormal Child Psychology"	0.166892666157
+"Psychiatric Quarterly"	0.166458078959
+"IEEE Intelligent Systems & Their Applications"	0.166435185185
+"Research in Astronomy and Astrophysics"	0.166065946581
+"Journal of Toxicology and Environmental Health-part B-critical Reviews"	0.165733571984
+"Service Business"	0.165614478115
+"Journal of Aerospace Engineering"	0.164257154882
+"Adicciones"	0.163896103896
+"Revue Dintelligence Artificielle"	0.16345899471
+"Pan-pacific Entomologist"	0.16342916343
+"Hand"	0.163427775928
+"The Journal of Rheumatology"	0.162172318423
+"Progress in Organic Coatings"	0.161967939468
+"Theoretical Economics"	0.161943843195
+"Nature Methods"	0.161755952381
+"International Journal of Public Policy"	0.161447811448
+"Annals Academy of Medicine Singapore"	0.160185185186
+"Psychopathology"	0.159916472417
+"Isa Transactions"	0.15977032227
+"Symposium on Code Generation and Optimization"	0.158691454744
+"Journal of Economic Perspectives"	0.158207070708
+"Politica Y Gobierno"	0.158207070708
+"Journal of Multimedia"	0.157750120251
+"Journal of Acquired Immune Deficiency Syndromes"	0.157628020128
+"Substance Abuse"	0.157396885521
+"Journal of Biopharmaceutical Statistics"	0.157270622895
+"Veterinary Record"	0.157047582047
+"Journal of Applied Physics"	0.15654946905
+"System-Level Interconnect Prediction"	0.156380656381
+"IEEE Transactions on Broadcasting"	0.156367243867
+"Wiley Interdisciplinary Reviews: Computational Statistics"	0.156355218855
+"International Workshop on Combinatorial Image Analysis"	0.156239478115
+"Journal of Pain and Palliative Care Pharmacotherapy"	0.156113215488
+"Research-technology Management"	0.155803571428
+"European Physical Journal B"	0.15542929293
+ Genetics and Evolution"	0.155071548822
+"Sleep"	0.154634485885
+"Microprocessors and Microsystems"	0.153598484849
+"Review of Policy Research"	0.153240740741
+"Operational Research"	0.153156565657
+"Mathematical Methods of Operations Research"	0.152188552189
+"Annales De Cardiologie Et D Angeiologie"	0.152188552189
+"Brazilian Symposium on Artificial Intelligence"	0.151986901987
+"Journal of Neuro-oncology"	0.151130351131
+"International Conference on Signal and Image Processing Applications"	0.150194250195
+"The FASEB Journal"	0.149867724868
+"Philosophical Transactions of the Royal Society B"	0.149660062161
+ Biomarkers & Prevention"	0.14948077716
+"Research on Language and Computation"	0.149074074074
+"Journal of Logic and Computation"	0.149074074074
+"British Journal of Oral & Maxillofacial Surgery"	0.148716329967
+"Annales De Pediatrie"	0.146536680912
+"IEEE Transactions on Circuits and Systems Ii: Analog and Digital Signal Processing"	0.145286195286
+"Mutation Research-reviews in Mutation Research"	0.145286195286
+"Ibm Journal of Research and Development"	0.144312169312
+"Clinical Oncology"	0.143970959596
+"Biosystems Engineering"	0.142929292929
+"Kind En Adolescent"	0.142824074074
+"Procesamiento Del Lenguaje Natural"	0.142824074074
+"Belgium-Netherlands Conference on Artificial Intelligence"	0.142824074074
+"Huisarts En Wetenschap"	0.142824074074
+ Reviews"	0.142039442039
+"Medicina Del Lavoro"	0.139277389277
+"Electronic Commerce and Web Technologies"	0.138961038961
+"Pathologie Biologie"	0.137605218855
+"Journal Francais D Ophtalmologie"	0.137183187183
+"Hospital Practice"	0.136458333333
+"Journal De Radiologie"	0.134490740741
+"Digestive Surgery"	0.13446969697
+"Journal of Data and Information Quality"	0.133029008029
+"Breast Cancer"	0.131216931217
+"Cadernos De Saude Publica"	0.131216931217
+"Antibiotiques"	0.131122581123
+"ACM Transactions on Computational Logic"	0.130200191965
+"Archives Des Maladies Professionnelles Et De L Environnement"	0.130200191965
+"Journal of Pain and Symptom Management"	0.125518925519
+"Business Process Management"	0.124059420112
+"Psychologische Rundschau"	0.123534798535
+"Herzschrittmachertherapie Und Elektrophysiologie"	0.120806277056
+"Neurochirurgie"	0.100137661902
+"Comparative Haematology International"	0.0983568594663
+"Revue Francaise D Allergologie Et D Immunologie Clinique"	0.0963118580765
+"Jornal Brasileiro De Patologia E Medicina Laboratorial"	0.0904461279461
+"Technique Et Science Informatiques"	0.0
+ Fortbildung und Qualität im Gesundheitswesen"	0.0
+"Informatik - Forschung Und Entwicklung"	0.0
+"Comptes Rendus De L Academie Des Sciences Serie I-mathematique"	0.0
+"Progres En Urologie"	0.0
+"Gastroenterologie Clinique Et Biologique"	0.0
+"Farmacia Hospitalaria"	0.0
+"Journal of Offender Rehabilitation"	0.0
+"Medecine Et Hygiene"	0.0
+"Zeitschrift Fur Klinische Psychologie Und Psychotherapie"	0.0
+"Revista Espanola De Salud Publica"	0.0
+"Chirurg"	0.0
+"Revue Du Rhumatisme"	0.0
+"Atencion Primaria"	0.0
+"Nephrologie"	0.0
