@@ -41,7 +41,7 @@ for k,v in author_papers.items():
 	v.sort()
 	# print k,v
 	# text file format
-	# author id 	list of (paper, sequence number)
+	# author id 	number of papers	list of (paper, sequence number)
 	new.write(str(k)+ '\t'+ str(len(v))+ '\t' + str(' '.join([x[0] + '-' + x[1] for x in v]))  + '\n')
 print len(author_papers),i
 new.close()
