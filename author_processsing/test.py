@@ -1,6 +1,6 @@
 import zipfile
 import psutil
-
+import re
 # cs_paperids=set()
 
 # with zipfile.ZipFile("../only_CS_files/upload_cs_paperids2.zip") as z:
@@ -29,12 +29,21 @@ import psutil
 
 # print i
 # print psutil.virtual_memory()
-
-with open("venue_authors.txt") as f:
-	i=0
-	for line in f:
-		i+=1
-		print line
-
-		if(i==10):
-			break
+with zipfile.ZipFile("no_upload_venue_authors.zip") as z:
+	with z.open("venue_authors.txt") as f:
+		i=0
+		total =0
+		for line in f:
+			i+=1
+			# if(i==1):
+				# print i
+				# break
+				# continue
+			# print line
+			afid,no_authors_afname,authors = line.strip("\r|\n").split("\t")
+			# no_authors = no_authors_afname.match(r"(\d+)(.*)")
+			no_authors = int(re.match(r"(\d+).*",no_authors_afname).groups()[0])
+			total +=int(no_authors)
+			if(i%10000==0):
+				print i,total
+		print i,total
