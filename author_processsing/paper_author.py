@@ -3,15 +3,15 @@ import zipfile
 
 authors = set()
 # print psutil.virtual_memory()
-# with zipfile.ZipFile("no_upload_author_papers.zip") as z:
-	# with z.open("author_papers.txt") as f:
-with open("author_papers.txt",'r') as f:
-	i=0
-	for line in f:
-		i+=1
-		aid,no_papers,papers = line.strip('\r|\n').split('\t')
-		# print aid,no_papers,papers
-		authors.add(aid)
+with zipfile.ZipFile("no_upload_author_papers.zip") as z:
+	with z.open("author_papers.txt") as f:
+# with open("author_papers.txt",'r') as f:
+		i=0
+		for line in f:
+			i+=1
+			aid,no_papers,papers = line.strip('\r|\n').split('\t')
+			# print aid,no_papers,papers
+			authors.add(aid)
 print len(authors)
 # print psutil.virtual_memory()
 

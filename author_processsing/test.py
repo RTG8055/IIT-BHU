@@ -29,21 +29,30 @@ import re
 
 # print i
 # print psutil.virtual_memory()
-with zipfile.ZipFile("no_upload_venue_authors.zip") as z:
-	with z.open("venue_authors.txt") as f:
+# with zipfile.ZipFile("no_upload_venue_authors.zip") as z:
+# 	with z.open("venue_authors.txt") as f:
+# 		i=0
+# 		total =0
+# 		for line in f:
+# 			i+=1
+# 			# if(i==1):
+# 				# print i
+# 				# break
+# 				# continue
+# 			# print line
+# 			afid,no_authors_afname,authors = line.strip("\r|\n").split("\t")
+# 			# no_authors = no_authors_afname.match(r"(\d+)(.*)")
+# 			no_authors = int(re.match(r"(\d+).*",no_authors_afname).groups()[0])
+# 			total +=int(no_authors)
+# 			if(i%10000==0):
+# 				print i,total
+# 		print i,total
+
+with zipfile.ZipFile("no_upload_co_authors.zip") as z:
+	with z.open("no_upload_co_authors.txt") as f:
 		i=0
-		total =0
 		for line in f:
 			i+=1
-			# if(i==1):
-				# print i
-				# break
-				# continue
-			# print line
-			afid,no_authors_afname,authors = line.strip("\r|\n").split("\t")
-			# no_authors = no_authors_afname.match(r"(\d+)(.*)")
-			no_authors = int(re.match(r"(\d+).*",no_authors_afname).groups()[0])
-			total +=int(no_authors)
-			if(i%10000==0):
-				print i,total
-		print i,total
+			print repr(line)
+			if(i==10):
+				break
