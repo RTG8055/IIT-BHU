@@ -3,8 +3,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-file_name = "Final2"
+# file_name = "Final2"
 # file_name = "Precision2"
+# file_name = "Results"
+file_name = "New_nDCG"
+# file_name = "new_precisions"
 
 all_sheets = pd.ExcelFile(file_name+".xlsx")
 
@@ -20,7 +23,11 @@ all_fig = plt.figure(figsize=(11.93,15.98))
 # ax.legend()
 subplot_no=0
 print all_sheets.sheet_names
+i=0
 for sheet in all_sheets.sheet_names:
+	# if(i<6):
+		# i+=1
+		# continue
 	print sheet
 	if(sheet == 'P@i'):
 		continue
@@ -37,12 +44,23 @@ for sheet in all_sheets.sheet_names:
 	ax = plt.subplot(4,3,subplot_no)
 
 	# plt.text()
-	l1=ax.plot(np.arange(1,16,1),df.Snaver2,alpha=0.7,color='aqua',marker='s',markersize=6,label='DISCOVER(Springer)')
-	l1=ax.plot(np.arange(1,16,1),df.Snaver1,alpha=0.7,color='blue',marker='s',markersize=6,label='DISCOVER(Elsevier)')
-	l2=ax.plot(np.arange(1,16,1),df.Springer,ls=(0,(5,5,)),alpha=0.7,color='green',marker='8',markersize=6)
-	l3=ax.plot(np.arange(1,16,1),df.Elsevier,ls=(0, (3,1,5,1,5,5)),alpha=0.7,color='red',marker='+',markersize=6)
+	# l1=ax.plot(np.arange(1,16,1),df.Snaver2,alpha=0.7,color='aqua',marker='s',markersize=6,label='DISCOVER(Springer)')
+	# l1=ax.plot(np.arange(1,16,1),df.Snaver1,alpha=0.7,color='blue',marker='s',markersize=6,label='DISCOVER(Elsevier)')
+	# l2=ax.plot(np.arange(1,16,1),df.Springer,ls=(0,(5,5,)),alpha=0.7,color='green',marker='8',markersize=6)
+	# l3=ax.plot(np.arange(1,16,1),df.Elsevier,ls=(0, (3,1,5,1,5,5)),alpha=0.7,color='red',marker='+',markersize=6)
 
-	ax.legend()
+	l1=ax.plot(np.arange(1,16,1),df.FB,alpha=0.7,color='red',marker='^',markersize=6)
+	l2=ax.plot(np.arange(1,16,1),df.CF,alpha=0.7,color='black',marker='p',markersize=6)
+	l3=ax.plot(np.arange(1,16,1),df.CN,alpha=0.7,color='green',marker='8',markersize=6)
+	l4=ax.plot(np.arange(1,16,1),df.CBF,alpha=0.7,color='orange',marker='P',markersize=6)
+	l5=ax.plot(np.arange(1,16,1),df.RWR,alpha=0.7,color='aqua',marker='*',markersize=6)
+	l6=ax.plot(np.arange(1,16,1),df.PVR,alpha=0.7,color='magenta',marker='D',markersize=6)
+	l7=ax.plot(np.arange(1,16,1),df.PAVE,alpha=0.7,color='brown',marker='o',markersize=6)
+	l8=ax.plot(np.arange(1,16,1),df.DISCOVER,alpha=0.7,color='blue',marker='s',markersize=6)
+
+
+
+	# ax.legend()
 	ax.set_xticks(np.arange(0,16,3))
 	# plt.axis([0.99,20.01,0.59,1.01])
 	ax.set_xlabel("Top K papers")
@@ -61,7 +79,7 @@ for sheet in all_sheets.sheet_names:
 		# sheet ="AI"
 	elif(sheet == "CV"):
 		name = "Computer Vision"
-	elif(sheet == "mm"):
+	elif(sheet == "mm" or sheet == "MM"):
 		name = "Multimedia"
 	elif(sheet == "Security"):
 		name = "Security"
@@ -80,5 +98,8 @@ for sheet in all_sheets.sheet_names:
 	# plt.tight_layout()
 
 
-plt.savefig(file_name + "2.eps",dpi=300, bbox_inches = "tight")
-plt.savefig(file_name + "2.png",dpi=300, bbox_inches = "tight")
+# plt.show()
+# all_fig.legend(bbox_to_anchor=(0., 1.02, 1., .102),ncol=8, mode="expand", borderaxespad=0.,prop={'size':16})
+plt.legend(bbox_to_anchor=(0.5,0.2), loc="lower left", bbox_transform=all_fig.transFigure,ncol=8, mode="expand",labelspacing = 0.1,borderaxespad=30,columnspacing=0.,frameon=False)
+plt.savefig(file_name + "31.eps",dpi=300, bbox_inches = "tight")
+plt.savefig(file_name + "31.png",dpi=300, bbox_inches = "tight")
