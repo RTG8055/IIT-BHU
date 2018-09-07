@@ -139,7 +139,7 @@ query-by-example spoken term detection, Dynamic time warping, fast search, frequ
 given_fos = raw_input("choose 1\n{\n1:cs,\n2:physics,\n3:chemistry...}:")
 if(given_fos == '1'):
 	given_fos = "0271BC14"
-elif(give_fos == '2'):
+elif(given_fos == '2'):
 	given_fos = "052C8328"
 else:
 	print "retry not yet supported"
@@ -164,10 +164,12 @@ for word in given_keywords:
 	normalized_given_keywords.add(' '.join(word2))
 normalized_given_keywords = ','.join(list(normalized_given_keywords))
 print normalized_given_keywords
-papers = get_relavent_papers(normalized_given_keywords,given_fos)
-
-new = open('output/sample22/papers22.txt','w')
-for p in papers:
-	new.write(str(p) + '\n')
-new.close()
-print "got papers"
+try:
+	papers = get_relavent_papers(normalized_given_keywords,given_fos)
+	new = open('physics_output/test_paperIDs.txt','w')
+	for p in papers:
+		new.write(str(p) + '\n')
+	new.close()
+	print "got papers"
+except Exception as e:
+	print "Keywords not searched. Error:", e
