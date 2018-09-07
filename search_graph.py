@@ -203,7 +203,7 @@ def get_relavent_papers(given_keywords,given_fos):
 		list_L1=""
 		if(k == given_fos):
 			given_keywords = given_keywords.split(',')
-			print "insode"
+			print "inside"
 			to_be_searched_words = ','.join([v[2],v[3],v[4]])
 			# print to_be_searched_words
 			lscore=0

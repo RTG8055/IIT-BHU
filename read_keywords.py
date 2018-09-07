@@ -139,6 +139,8 @@ query-by-example spoken term detection, Dynamic time warping, fast search, frequ
 given_fos = raw_input("choose 1\n{\n1:cs,\n2:physics,\n3:chemistry...}:")
 if(given_fos == '1'):
 	given_fos = "0271BC14"
+elif(give_fos == '2'):
+	given_fos = "052C8328"
 else:
 	print "retry not yet supported"
 
