@@ -3,20 +3,22 @@ import sys
 myset=set()
 with open("bio_paperids.txt",'r') as csid:
 	for line in csid:
-		line=line.strip('\r|\n').split('\t')
-		myset = myset | set(line)
+		line=line.strip('\r|\n')
+		# print line
+		myset.add(line)
 		# print repr(line)
 print(len(myset))
 i=0
 j=0
 bio_detail=open("id_tit_ye_doi_ven_jou_conf_ra.txt",'w')
 with zipfile.ZipFile("../../MAG Dataset/Papers.zip") as z:
+# with zipfile.ZipFile("../zips/Papers.zip") as z:
 	with z.open("Papers.txt",'r') as file:
 		for line in file:
 			i+=1
 			if(i%1000000==0):
 				print(i)
-				break
+				# break
 			# line=line.decode("utf-8")
 			line=line.split('\t')
 			if(line[0] in myset):

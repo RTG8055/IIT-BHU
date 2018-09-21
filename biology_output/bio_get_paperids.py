@@ -33,9 +33,9 @@ with zipfile.ZipFile("../../MAG Dataset/PaperKeywords.zip") as z:
 				# else:
 					# cs_paperid_keyword[pid].append(keyword)
 				# print 
-			if(i%1000000==0):
+			if(i%100000==0):
 				print(i)
-				break
+				# break
 	print(i)
 print(len(cs_paperid_keyword))
 
