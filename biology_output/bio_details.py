@@ -6,16 +6,17 @@ with open("bio_paperids.txt",'r') as csid:
 		line=line.strip('\r|\n').split('\t')
 		myset = myset | set(line)
 		# print repr(line)
+print(len(myset))
 i=0
 j=0
 bio_detail=open("id_tit_ye_doi_ven_jou_conf_ra.txt",'w')
-with zipfile.ZipFile("../MAG Dataset/Papers.zip") as z:
+with zipfile.ZipFile("../../MAG Dataset/Papers.zip") as z:
 	with z.open("Papers.txt",'r') as file:
 		for line in file:
 			i+=1
 			if(i%1000000==0):
 				print(i)
-				# break
+				break
 			# line=line.decode("utf-8")
 			line=line.split('\t')
 			if(line[0] in myset):
@@ -24,7 +25,7 @@ with zipfile.ZipFile("../MAG Dataset/Papers.zip") as z:
 				try:
 					bio_detail.write(line[1])
 				except Exception as e:
-					print e
+					print(e)
 					j+=1
 					print(line[1])
 					print(j)
