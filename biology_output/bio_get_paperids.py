@@ -28,7 +28,7 @@ with zipfile.ZipFile("../../MAG Dataset/PaperKeywords.zip") as z:
 			i+=1
 			pid,keyword,fosid = line.strip("\r|\n").split("\t")
 			# print i,fosid
-			if(bsearch(fosid,fos_ids,0,len(fos_ids)-1) == 0):
+			if(bsearch(fosid,fos_ids,0,len(fos_ids)-1) == 1):
 					cs_paperid_keyword.add(pid)
 				# else:
 					# cs_paperid_keyword[pid].append(keyword)

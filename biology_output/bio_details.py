@@ -10,7 +10,9 @@ with open("bio_paperids.txt",'r') as csid:
 print(len(myset))
 i=0
 j=0
-bio_detail=open("id_tit_ye_doi_ven_jou_conf_ra.txt",'w')
+# bio_detail=open("id_tit_ye_doi_ven_jou_conf_ra.txt",'w')
+bio_detail=open("bio_paper_details.txt",'w')
+
 with zipfile.ZipFile("../../MAG Dataset/Papers.zip") as z:
 # with zipfile.ZipFile("../zips/Papers.zip") as z:
 	with z.open("Papers.txt",'r') as file:
@@ -48,4 +50,5 @@ with zipfile.ZipFile("../../MAG Dataset/Papers.zip") as z:
 			# if(i==10000):
 				# print j
 				# break
+		print(i)
 bio_detail.close()
