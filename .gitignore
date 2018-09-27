@@ -1,7 +1,7 @@
 datasets
 nohup.out
 zips
-no_upload_*.zip
+*no_upload_*
 *_server*
 *.pyc
 /final_paper
