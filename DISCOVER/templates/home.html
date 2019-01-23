@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DISCOVER</title>
+</head>
+<body>
+
+<center><h1>DISCOVER</h1></center>
+
+<div>
+	<form action="/submit" method="post" accept-charset="utf-8">
+		<div style = "text-align: left;">
+			<label>Choose topic:<br>
+				<input type="radio" name="topic" value="1" id = "cs" required>
+				<label for="cs">Computer Science</label>
+				<input type="radio" name="topic" value="2" id="bio" required>
+				<label for="bio">Biology</label>
+			</label>	
+		</div>
+		<div>
+			<label>Title:<!-- <textarea name="title" rows=1 cols=20 required></textarea> -->
+				<input type="textarea" name="title" hint="No special Characters"></label>
+		</div>
+		<div>
+			<label>Keywords:<!-- <textarea name="title" rows=1 cols=20 required></textarea> -->
+				<input type="textarea" name="keywords" value=""></label>
+		</div>
+		<div>
+			<label>Abstract:
+				<br><textarea name="abstract" rows=10 cols=50 required> </textarea>
+				<!-- <input type="textarea" name="abstract" value=""></label> -->
+		</div>
+		<input type="submit" name="submit" value="Find recommendations">
+	</form>
+	
+</div>
+
+</body>
+</html>

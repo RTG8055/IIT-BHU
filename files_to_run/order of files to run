@@ -1,0 +1,46 @@
+1) read_keywords.py
+	input	- search_graph.py - zips/fos_paper_keywords - graph_backbone
+	output	- papers.txt
+
+2) get_references.py
+	input	- papers.txt
+		- cs_paper_refernces
+	output	- papers_with_references.txt
+		- papers_without_references.txt
+
+3) make_graph.py
+	input	- papers_with_references.txt
+		-
+	output	- graph of all papers (.net files)
+
+4) open gephi and calculate betweeness, closeness, eigenvalues, degree, hits
+
+5) filter_papers_5measures.py
+	input	- gephi_deg_cl_bw_auth_hub_eigen.csv(csv sheet with measures)
+	output	- filtered_papers_5measures.txt
+
+6) get_title.py
+	input	- filtered_papers_5measures.txt
+		- papers_without_references.txt
+	output	- papers_without_ref_with_titles.txt
+		- filtered_papers_with_titles.txt
+
+7)title_similarity.py
+	input	- papers_without_ref_with_titles.txt
+		- filtered_papers_with_titles.txt
+	output	- 
+
+8)toppapers_simialrity.py
+
+9)get_references2.py
+
+10)make_graph2.py
+
+11) pajek keyroute main path analysis
+
+12) get abstracts of the papers in the main path
+
+13) compare_abstracts.py
+	output	- nmf and lda intermediate results also saved
+		- LN.txt (final result) (custom algorithm - okapi bm25 to be applied)
+
