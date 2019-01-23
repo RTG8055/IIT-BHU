@@ -17,6 +17,12 @@ def get_recommendations():
 
 
 
+
 if __name__ == "__main__":
     app.run(debug=True,port=10002,use_evalex=False)
     # app.run(debug=True,host='192.168.43.53',port=5007,use_evalex=False)
+
+
+##############
+# 			Co authorship, graph model, topic clustering, random walk, citation recommendation.
+#############
