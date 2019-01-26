@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DISCOVER</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="static/images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/animate/animate.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/select2/select2.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/vendor/perfect-scrollbar/perfect-scrollbar.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="static/css/util.css">
+	<link rel="stylesheet" type="text/css" href="static/css/main.css">
+<!--===============================================================================================-->
+
+</head>
+<body>
+	<div class="limiter">
+		<div class="container-table100">
+	<h3>List of Recommendations </h3>
+			<div class="wrap-table100">
+	<div class="table100 ver2 m-b-110">
+		<table data-vertable="ver2">
+		<thead>
+			<tr class="row100 head">
+				<th class="column100 column1" data-column="column1">Rank</th>
+				<th class="column100 column2" data-column="column2">Name</th>
+			</tr>
+		</thead>
+	<tbody>
+		 
+		
+		{{ params.rows | safe}}
+		
+
+	</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<!--===============================================================================================-->	
+	<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main.js"></script>
+
+</body>
+</html>
