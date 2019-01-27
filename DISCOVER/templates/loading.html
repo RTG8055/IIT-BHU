@@ -1,0 +1,64 @@
+{% extends "theme.html" %}
+
+
+{% block extStyle %}
+<link href="static/css/style.css" rel='stylesheet' type='text/css' media="all">
+	<link rel="stylesheet" type="text/css" href="static/css/main.css">
+
+{% endblock %}
+
+
+{% block intStyle %}
+{% endblock %}
+
+
+{% block extJS %}
+<script>
+	var sec = 1000;
+	function change(){
+		setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Filtering Papers...";},sec);
+		sec+=1000;
+		setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Filtering Papers.....";},sec);
+		sec+=1000;
+		// setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Making Graph.";},sec);
+		sec+=1000;
+		// setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Making Graph...";},sec);
+		sec+=1000;
+		// setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Making Graph.....";},sec);
+		sec+=1000;
+		setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Comparing Titles.";},sec);
+		sec+=1000;
+		setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Comparing Titles...";},sec);
+		sec+=1000;
+		setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Comparing Titles.....";},sec);
+		sec+=1000;
+		setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Getting Recommendations.";},sec);
+		sec+=1000;
+		setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Getting Recommendations...";},sec);
+		sec+=1000;
+		setTimeout(function(){var c = document.getElementById('load-text');c.innerHTML = "Getting Recommendations.....";},sec);
+		sec+=1000;
+		
+		setTimeout(function() {window.location.href = '/results';},sec);
+
+
+	}
+	window.onload = function() {
+ change();
+}
+</script>
+{% endblock %}
+
+
+{% block body %}
+<div class="limiter table100" align="center">
+	<img src="../static/images/loading.gif" >
+	<h5 id="load-text" onload="change();">Filtering Papers.</h5>
+</div>
+
+{% endblock %}  
+
+
+{% block end_extJS %}
+
+{% endblock %}

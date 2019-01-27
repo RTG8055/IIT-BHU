@@ -47,23 +47,27 @@ def page_not_found(e):
 	msg =' There was an error. go to <a href="/home">home</a> page'
 	return render_template('error.html', error=msg)
 
+@app.route('/load')
+def loading():
+	return render_template('loading.html')
 
 @app.route('/home',methods=['GET','POST'])
 def get_recommendations():
 	topic = request.form['topic']
-	title = request.form['title']
+	title = request.form['title'].strip()
 	keywords = request.form['keywords']
 	abstract = request.form['abstract']
 
 	sample_number = get_sample_number(title)
 	# sample_number=2
 	if(sample_number == 0):
-		print("sample not found")
-		return redirect('/home')
+		msg = 'Please check the title entered! No such paper found. Go to <a href="/home">home</a> page'
+		# print("sample not found")
+		return render_template('error.html', error=msg)
 	print "afv"
 	session['n']=sample_number
 	
-	return redirect('/results')
+	return redirect('/load')
 
 
 @app.route('/results')
