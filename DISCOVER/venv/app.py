@@ -3,7 +3,7 @@ from flask import Flask, render_template, redirect, json, request, session, Mark
 
 app = Flask(__name__)
 app.secret_key = '8bf9547569cd5a638931a8639cf9f86237931e92' 
-# @app.route('/')
+@app.route('/')
 @app.route('/home')
 def main():
 	return render_template('home.html')
